@@ -1,0 +1,433 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "야 명찰은 어!? 어따 팔아 먹었어?",
+      "ENGLISH": "Hey! Where’s your name tag, huh? What, you sell it or something?!",
+      "CHINESE_SIMPLIFIED": "喂，你的名牌呢！？拿去卖了吗！？",
+      "CHINESE_TRADITIONAL": "欸，名牌呢！？你拿去賣了嗎還是？！",
+      "JAPANESE": "おい 名札はどうした!? どこに売り飛ばしたんだ？",
+      "INDONESIAN": "Hei! Name tag kamu mana, hah? Apa dijual tuh name tag-nya?!",
+      "PORTUGUESE": "Ei! E o seu crachá da escola? Vendeu ele por acaso?",
+      "SPANISH": "¡Oye! ¿y tu placa del colegio? ¿Acaso la vendiste?",
+      "PERSIAN": "سلام! برچسب نام شما کجاست، نه؟ چی، میفروشی یا همچین چیزی؟!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 저 그거 집에 놓고 와가지고...",
+      "ENGLISH": "Ah—I left it at home…",
+      "CHINESE_SIMPLIFIED": "啊，我那个...落在家里了...",
+      "CHINESE_TRADITIONAL": "啊，我放在家裡了...",
+      "JAPANESE": "あ それ 家に置いてきてしまって…",
+      "INDONESIAN": "Ah—ketinggalan di rumah…",
+      "PORTUGUESE": "Ah, é que... deixei em casa...",
+      "SPANISH": "Ah, es que... la dejé en casa...",
+      "PERSIAN": "آه - گذاشتمش تو خونه…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "야 선생님도 아침에 금두꺼비가 있는데 두고왔어.",
+      "ENGLISH": "Yeah? Well, this morning I left a gold toad statue at home, too.",
+      "CHINESE_SIMPLIFIED": "喂，你怎么没把脑子也忘在家里",
+      "CHINESE_TRADITIONAL": "喂！你怎麼沒把腦袋也忘在家裡",
+      "JAPANESE": "おい 先生も今朝金のヒキガエルあるのに置いてきたぞ",
+      "INDONESIAN": "Oh ya? Yaudah, gue juga ninggalin patung kodok emas di rumah tadi pagi.",
+      "PORTUGUESE": "Pois justamente ontem paramos de esquecer as coisas em casa.",
+      "SPANISH": "Pues justo ayer dejamos de olvidar cosas en la casa.",
+      "PERSIAN": "آره؟ خوب، امروز صبح یک مجسمه وزغ طلا را هم در خونه گذاشتم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 야 선생님도 아침에 금두꺼비가 있는데 두고왔어.\n- 한번만 봐주세요\n",
+      "ENGLISH": "Hey, even the teacher left his gold toad statue at home this morning.\nJust let me off this once, please...",
+      "CHINESE_SIMPLIFIED": "-喂，你怎么没把脑子也忘在家里\n-请再给我一次机会吧",
+      "CHINESE_TRADITIONAL": "-喂！你怎麼沒把腦袋也忘在家裡\n-就放過我這一次吧",
+      "JAPANESE": "‐ 先生も今朝金のヒキガエルあるのに置いてきたぞ\n‐ 一回だけ見逃してください",
+      "INDONESIAN": "- Eh, Pak guru juga ninggalin kodok emas di rumah tadi pagi, tau.\n- Tolong kali ini aja, ya...\n",
+      "PORTUGUESE": "—Pois justamente ontem paramos de esquecer as coisas em casa.\n— Me desculpa dessa vez, não vai acontecer de novo.",
+      "SPANISH": "—Pues justo ayer dejamos de olvidarnos cosas en la casa.\n— Pérdonome esta vez, no volverá a pasar.",
+      "PERSIAN": "هی، حتی معلم مجسمه وزغ طلایش را امروز صبح در خونه گذاشت. فقط یه بار اینو ولم کن لطفا..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "- 야 선생님도 아침에 금두꺼비가 있는데 두고왔어.\n- 한 번만...! 아!",
+      "ENGLISH": "-Hey, even the teacher left his gold toad statue at home this morning.\n-Just this once...! Ah!",
+      "CHINESE_SIMPLIFIED": "-喂，你怎么没把脑子也忘在家里\n-就这一次...！啊！",
+      "CHINESE_TRADITIONAL": "-喂！你怎麼沒把腦袋也忘在家裡\n-放過這一次...！啊！",
+      "JAPANESE": "‐ 先生も今朝金のヒキガエルあるのに置いてきたぞ\n‐ 一回だけ…！あっ！",
+      "INDONESIAN": "- Eh, Pak guru juga ninggalin kodok emas di rumah tadi pagi, tau.\n- Sekali ini aja...! Ah!\n",
+      "PORTUGUESE": "—Pois justamente ontem paramos de esquecer as coisas em casa.\n— Só dessa vez, por- Ah!",
+      "SPANISH": "—Pues justo ayer dejamos de olvidarnos cosas en la casa.\n— Solo esta vez, por- ¡AH!",
+      "PERSIAN": "-هی، حتی معلم مجسمه وزغ طلایش را امروز صبح در خونه گذاشت. -فقط همین یکبار...! آه!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "가서  무릎 끓고 손들고 있어 ",
+      "ENGLISH": "Go kneel in the hallway and hold your arms up.",
+      "CHINESE_SIMPLIFIED": "去，把手举高，罚站反省！",
+      "CHINESE_TRADITIONAL": "去旁邊把手舉高跪著反省",
+      "JAPANESE": "行って正座して手挙げてろ",
+      "INDONESIAN": "Berdiri di lorong, terus angkat tangan ke atas.",
+      "PORTUGUESE": "Vai lá e se ajoelha com os braços levantados.",
+      "SPANISH": "Ve y arrodíllate con los brazos alzados.",
+      "PERSIAN": "در راهرو زانو بزنید و دستان خود را بالا نگه دارید."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "예..",
+      "ENGLISH": "Yes, sir…",
+      "CHINESE_SIMPLIFIED": "是...",
+      "CHINESE_TRADITIONAL": "是...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya, Pak…",
+      "PORTUGUESE": "Já vou...",
+      "SPANISH": "Ya voy...",
+      "PERSIAN": "بله قربان…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야 얘이름 꾹꾹 눌러 적어 알겄지?",
+      "ENGLISH": "Hey, write his name down clearly, got it?",
+      "CHINESE_SIMPLIFIED": "喂，把他名字一个字一个字给我记清楚，知道吗？",
+      "CHINESE_TRADITIONAL": "把他的名字好好記下來，知道嗎？",
+      "JAPANESE": "おい こいつの名前ちゃんと書いとけ わかったな？",
+      "INDONESIAN": "Hei, tulis namanya yang jelas, ya?",
+      "PORTUGUESE": "Ei, anota bem o nome dele.",
+      "SPANISH": "Oye, anota bien su nombre.",
+      "PERSIAN": "سلام، نام اونو واضح بنویس، متوجه شدی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好的！",
+      "CHINESE_TRADITIONAL": "是！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Siap!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 우리 우유만이는 고3 되더니 아주 의젓해젔어~ 아주, 응?",
+      "ENGLISH": "But look at Yuman—senior year’s made you all mature and grown-up, huh?",
+      "CHINESE_SIMPLIFIED": "不过我们宥万上了高三之后真是稳重多了~很靠谱嘛，嗯？",
+      "CHINESE_TRADITIONAL": "不過我們宥萬啊，一到高三就變得非常～非常穩重～嗯？？",
+      "JAPANESE": "でもうちのユマンは高3になってからほんと落ち着いたな〜 ほんとに うん？",
+      "INDONESIAN": "Tapi liat deh Yuman, kelas 3 bikin kamu keliatan lebih dewasa sekarang, ya?",
+      "PORTUGUESE": "Mas olha pra você! Já no último ano... como cresceu, hein?",
+      "SPANISH": "¡Pero mírate! Ya en último año... cuánto has crecido, ¿eh?",
+      "PERSIAN": "اما به یومان نگاه کنید—سال ارشد همه شما را بالغ و بزرگ کرده است، نه؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야 슬슬 정리 햐~",
+      "ENGLISH": "Start wrapping it up!",
+      "CHINESE_SIMPLIFIED": "喂，快点收拾准备上课！",
+      "CHINESE_TRADITIONAL": "差不多該整理整理去上課了",
+      "JAPANESE": "おい そろそろ片付けろ〜",
+      "INDONESIAN": "Ayo, cepetin kelarin!",
+      "PORTUGUESE": "Vamos lá, comecem a arrumar~",
+      "SPANISH": "Vamos, recojan todo",
+      "PERSIAN": "شروع به جمع کردن اون کنید!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "是！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Siap!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 21.9
+    },
+    "SCRIPT": {
+      "KOREAN": "야 똑바로 안 들어? 씨.",
+      "ENGLISH": "Hey! You not listening? Damn…",
+      "CHINESE_SIMPLIFIED": "喂，没听清楚吗？阿西",
+      "CHINESE_TRADITIONAL": "喂，你沒有好好聽清楚嗎？",
+      "JAPANESE": "おい ちゃんと聞いてんのか コラ",
+      "INDONESIAN": "Hei! Nggak denger ya?! Haduh…",
+      "PORTUGUESE": "Ei, você não me ouviu?!",
+      "SPANISH": "¡Oye, ¿no me oíste?!",
+      "PERSIAN": "سلام! گوش نمیدی؟ لعنتی…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 아주… 씨.",
+      "ENGLISH": "This kid, seriously… damn.",
+      "CHINESE_SIMPLIFIED": "你这家伙真是...",
+      "CHINESE_TRADITIONAL": "這傢伙真是...",
+      "JAPANESE": "こいつほんとに… チッ",
+      "INDONESIAN": "Anak satu ini… bener-bener deh.",
+      "PORTUGUESE": "Esse moleque... tsk.",
+      "SPANISH": "Este mocoso… tsk.",
+      "PERSIAN": "این بچه، جدی... لعنتی."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 우유만!",
+      "ENGLISH": "Ooh~ Yuman!",
+      "CHINESE_SIMPLIFIED": "哦~吴宥万！",
+      "CHINESE_TRADITIONAL": "喔～吳宥萬！",
+      "JAPANESE": "お〜 ウ・ユマン！",
+      "INDONESIAN": "Ooh~ Yuman!",
+      "PORTUGUESE": "Oh~ Yumán!",
+      "SPANISH": "Oh~ ¡Yumán!",
+      "PERSIAN": "اوه ~ یومان!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "멋있어졌는데?",
+      "ENGLISH": "You’re kinda lookin’ good these days, huh?",
+      "CHINESE_SIMPLIFIED": "变帅了不少嘛？",
+      "CHINESE_TRADITIONAL": "你變帥不少耶？",
+      "JAPANESE": "カッコよくなったじゃん？",
+      "INDONESIAN": "Kamu lagi keliatan oke nih belakangan~",
+      "PORTUGUESE": "Tá com uma boa aparência, hein?",
+      "SPANISH": "Te ves muy bien, ¿eh?",
+      "PERSIAN": "این روزها کمی خوب به نظر می آیی، نه؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 1학년에 예쁜 애 들어온다는데 나랑 같이 보러 가자.",
+      "ENGLISH": "I heard a cute girl’s transferring into the first-year class today—come check her out with me.",
+      "CHINESE_SIMPLIFIED": "听说今天高一来了个漂亮的新生，放学一起去看看啊",
+      "CHINESE_TRADITIONAL": "聽說今天一年級會來一個漂亮的女生，跟我一起去看看吧",
+      "JAPANESE": "今日1年にかわいい子入ってくるらしいけど 一緒に見に行こ",
+      "INDONESIAN": "Katanya hari ini ada cewek imut pindahan ke kelas satu, ikut liat barengan aku yuk.",
+      "PORTUGUESE": "Dizem que a garota nova do 1º ano é muito bonita. Vamos ver ela.",
+      "SPANISH": "Dicen que la chica nueva de 1er año está muy guapa. Vamosa a verla.",
+      "PERSIAN": "شنیدم که یک دختر ناز امروز به کلاس اول منتقل می شود - بیا اونو با من چک کن."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 30.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그걸 내가 왜 가~",
+      "ENGLISH": "Why would I go to that?",
+      "CHINESE_SIMPLIFIED": "啊，我干嘛要去啊~",
+      "CHINESE_TRADITIONAL": "我為什麼要去看那個～",
+      "JAPANESE": "え なんで俺が〜",
+      "INDONESIAN": "Ngapain juga aku ke situ?",
+      "PORTUGUESE": "Pra que você quer que eu vá?",
+      "SPANISH": "¿Para qué quieres que vaya?",
+      "PERSIAN": "چرا باید به اون سمت بروم؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "선도 끝나고 나랑 같이 보러가기야~ 알았지?",
+      "ENGLISH": "After discipline duty, you are coming with me. Got it?",
+      "CHINESE_SIMPLIFIED": "纪律检查结束后跟我一起去看看！说好了哈！",
+      "CHINESE_TRADITIONAL": "紀律檢查結束後跟我一起去看喔～知道嗎？",
+      "JAPANESE": "放課後終わったら一緒に行くんだからな〜 わかった？",
+      "INDONESIAN": "Abis piket ketertiban, kamu ikut aku. Paham?!",
+      "PORTUGUESE": "Depois do turno, vem comigo ver ela.",
+      "SPANISH": "Ven conmigo a verla cuando acabes.",
+      "PERSIAN": "بعد از انجام وظیفه انضباطی با من می آیی. متوجه شدید؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 36.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ugh…",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "喔...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ugh…",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "اوه…"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 39.5,
+      "HIDE": 41.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만이 문 닫어.",
+      "ENGLISH": "Yuman, close the door.",
+      "CHINESE_SIMPLIFIED": "吴宥万，把门关上",
+      "CHINESE_TRADITIONAL": "吳宥萬，把門關上",
+      "JAPANESE": "ウユマン ドア閉めろ",
+      "INDONESIAN": "Yuman, tutup pintunya.",
+      "PORTUGUESE": "Yumán, fecha a porta.",
+      "SPANISH": "Yumán, cierra la puerta.",
+      "PERSIAN": "یومان، در را ببند."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 41.6,
+      "HIDE": 42.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes, sir.",
+      "CHINESE_SIMPLIFIED": "是！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Siap, Pak.",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله قربان"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 44.7,
+      "HIDE": 46.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 누구지...?",
+      "ENGLISH": "…Huh? Who’s that...?",
+      "CHINESE_SIMPLIFIED": "咦？那是谁...？",
+      "CHINESE_TRADITIONAL": "欸？是誰啊...？",
+      "JAPANESE": "ん？誰だ…？",
+      "INDONESIAN": "...Hah? Itu siapa…?",
+      "PORTUGUESE": "Hã? Quem será...?",
+      "SPANISH": "¿Eh? ¿Quién será...?",
+      "PERSIAN": "… ها؟ اون کیه...؟"
+    }
+  }
+]

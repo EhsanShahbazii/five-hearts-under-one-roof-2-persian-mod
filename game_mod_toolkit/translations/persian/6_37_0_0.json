@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "あれ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Eh?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이?",
+      "ENGLISH": "Mal-sook?",
+      "CHINESE_SIMPLIFIED": "末淑？",
+      "CHINESE_TRADITIONAL": "末淑？",
+      "JAPANESE": "マルスク？",
+      "INDONESIAN": "Mal-sook?",
+      "PORTUGUESE": "Hã...? Malsook?",
+      "SPANISH": "¿Malsook?",
+      "PERSIAN": "مال‌سوک؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "하...정말",
+      "ENGLISH": "Ha… seriously.",
+      "CHINESE_SIMPLIFIED": "唉...真是够了",
+      "CHINESE_TRADITIONAL": "唉...真是夠了",
+      "JAPANESE": "はぁ…ほんとに",
+      "INDONESIAN": "Ha… serius deh.",
+      "PORTUGUESE": "Ha… sério…",
+      "SPANISH": "Ha… en serio…",
+      "PERSIAN": "ها… جدی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 무슨 얘기를 하는 거야 ",
+      "ENGLISH": "What are they even talking about…",
+      "CHINESE_SIMPLIFIED": "搞什么啊，在聊什么呢",
+      "CHINESE_TRADITIONAL": "怎麼了，在說什麼呢？",
+      "JAPANESE": "一体何話してるんだ…",
+      "INDONESIAN": "Mereka lagi ngomongin apaan sih…",
+      "PORTUGUESE": "Do que vocês tão falando?",
+      "SPANISH": "¿De qué están hablando?",
+      "PERSIAN": "اصلا از چی حرف میزنن…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 26.7
+    },
+    "SCRIPT": {
+      "KOREAN": "들어봐야 할 거 같은데.",
+      "ENGLISH": "Should I listen?",
+      "CHINESE_SIMPLIFIED": "感觉该听一下才对",
+      "CHINESE_TRADITIONAL": "好像要去聽聽看才對",
+      "JAPANESE": "聞いてみなきゃだめだな…",
+      "INDONESIAN": "Harus aku dengerin nggak, ya?",
+      "PORTUGUESE": "Acho que eu devia ouvir isso…",
+      "SPANISH": "Creo que debería escuchar esto…",
+      "PERSIAN": "باید گوش کنم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 26.71,
+      "HIDE": 27.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어떡하지?",
+      "ENGLISH": "What do I do?",
+      "CHINESE_SIMPLIFIED": "怎么办啊？",
+      "CHINESE_TRADITIONAL": "怎麼辦呢？",
+      "JAPANESE": "どうする…",
+      "INDONESIAN": "Gimana nih?",
+      "PORTUGUESE": "O que eu faço agora?",
+      "SPANISH": "¿Qué hago ahora?",
+      "PERSIAN": "چه کار کنم؟"
+    }
+  }
+]

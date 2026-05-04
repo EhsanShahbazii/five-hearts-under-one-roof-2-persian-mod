@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요...!",
+      "ENGLISH": "Excuse me…!",
+      "CHINESE_SIMPLIFIED": "那、那个...！",
+      "CHINESE_TRADITIONAL": "那、那個...！",
+      "JAPANESE": "あの…！",
+      "INDONESIAN": "Permisi…!",
+      "PORTUGUESE": "Desculpe...!",
+      "SPANISH": "¡Disculpe...!",
+      "PERSIAN": "ببخشید…!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yes?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Iya?",
+      "PORTUGUESE": "Oi?",
+      "SPANISH": "¿Sí?",
+      "PERSIAN": "بله؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 좀 도와주세요",
+      "ENGLISH": "Please help me.",
+      "CHINESE_SIMPLIFIED": "可以帮帮我吗？",
+      "CHINESE_TRADITIONAL": "可以幫幫我嗎？",
+      "JAPANESE": "助けてください…",
+      "INDONESIAN": "Tolong aku, ya.",
+      "PORTUGUESE": "Por favor, me ajuda.",
+      "SPANISH": "Por favor, ayúdeme.",
+      "PERSIAN": "لطفا کمکم کنید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "발목을 삐어서 도저히 못 걷겠어요.",
+      "ENGLISH": "I twisted my ankle — I really can’t walk.",
+      "CHINESE_SIMPLIFIED": "我脚崴了，实在走不动了",
+      "CHINESE_TRADITIONAL": "我扭到腳，沒辦法走了",
+      "JAPANESE": "足をくじいちゃって、歩けないんです",
+      "INDONESIAN": "Pergelangan kakiku keseleo — aku bener-bener nggak bisa jalan.",
+      "PORTUGUESE": "Torci o tornozelo e não consigo andar.",
+      "SPANISH": "Me torcí el tobillo y no puedo caminar.",
+      "PERSIAN": "مچ پایم را پیچاندم - واقعاً نمی توانم راه بروم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 나 지금 빨리 가봐야 되는데…",
+      "ENGLISH": "Ah, I really need to hurry somewhere right now…",
+      "CHINESE_SIMPLIFIED": "啊，我现在赶时间呢...",
+      "CHINESE_TRADITIONAL": "啊，我現在在趕時間...",
+      "JAPANESE": "え、今急いでるんですけど…",
+      "INDONESIAN": "Ah, aku lagi buru-buru banget sekarang…",
+      "PORTUGUESE": "Ah, mas eu não tenho tempo...",
+      "SPANISH": "Ah, pero no tnego tiempo...",
+      "PERSIAN": "آه، من واقعاً باید در حال حاضر به جایی عجله کنم…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어떡하지..",
+      "ENGLISH": "What do I do…",
+      "CHINESE_SIMPLIFIED": "该怎么办...",
+      "CHINESE_TRADITIONAL": "怎麼辦啊...",
+      "JAPANESE": "どうしよう…",
+      "INDONESIAN": "Gimana ini…",
+      "PORTUGUESE": "O que eu faço…?",
+      "SPANISH": "¿Qué hago…?",
+      "PERSIAN": "چیکار کنم…"
+    }
+  }
+]

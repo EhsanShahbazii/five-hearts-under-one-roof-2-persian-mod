@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 좋아요 !",
+      "ENGLISH": "Hmm, good!",
+      "CHINESE_SIMPLIFIED": "嗯，好啊！",
+      "CHINESE_TRADITIONAL": "嗯，很好！",
+      "JAPANESE": "はい、いいですよ",
+      "INDONESIAN": "Hmm, bagus!",
+      "PORTUGUESE": "Claro, ótima ideia.",
+      "SPANISH": "Claro, que buena idea.",
+      "PERSIAN": "هوم، خوب!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 생각했어, 우유만.",
+      "ENGLISH": "Nice thinking, Yuman.",
+      "CHINESE_SIMPLIFIED": "你做了正确的决定，吴宥万",
+      "CHINESE_TRADITIONAL": "你做出了很好的決定，吳宥萬",
+      "JAPANESE": "よく考えた、ユマン",
+      "INDONESIAN": "Oke juga mikirnya, Yuman.",
+      "PORTUGUESE": "Tomou uma boa decisão, Yuman.",
+      "SPANISH": "Has tomado una buena decisión, Yumán.",
+      "PERSIAN": "فکر خوبی است، یومان."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "가자!",
+      "ENGLISH": "Let’s go!",
+      "CHINESE_SIMPLIFIED": "走吧！",
+      "CHINESE_TRADITIONAL": "走吧！",
+      "JAPANESE": "行こう！",
+      "INDONESIAN": "Ayo jalan!",
+      "PORTUGUESE": "Vamos!",
+      "SPANISH": "¡Vamos!",
+      "PERSIAN": "برویم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "간만에 출근하니깐 어땠어?",
+      "ENGLISH": "How was it coming back to work after a while?",
+      "CHINESE_SIMPLIFIED": "时隔这么久上班感觉怎么样？",
+      "CHINESE_TRADITIONAL": "隔了這麼久來上班，感覺怎麼樣？",
+      "JAPANESE": "久々に出勤してどうだった？",
+      "INDONESIAN": "Gimana rasanya balik kerja lagi setelah sekian lama?",
+      "PORTUGUESE": "Como se sente voltando ao escritório depois de tanto tempo?",
+      "SPANISH": "¿Cómo te sientes al volver a la oficina después de tanto tiempo?",
+      "PERSIAN": "بعد از مدتی چطور بود که سر کار برگشت؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "쉬다가 갑자기 회사 일 하려니까 쉽지 않았지?",
+      "ENGLISH": "It must’ve been tough suddenly jumping back into company work after some time off, right?",
+      "CHINESE_SIMPLIFIED": "休息久了突然回公司工作，不太适应吧？",
+      "CHINESE_TRADITIONAL": "休息完突然要開始上班，應該不容易吧？",
+      "JAPANESE": "久しぶりに仕事戻ったら、やっぱり大変でしょ？",
+      "INDONESIAN": "Pasti agak berat ya, langsung nyemplung lagi ke kerjaan kantor setelah cuti.",
+      "PORTUGUESE": "Deve ter sido difícil voltar ao trabalho depois do afastamento.",
+      "SPANISH": "Debe haber sido difícil volver al trabajo después de tu descanso.",
+      "PERSIAN": "پس از مدتی مرخصی باید ناگهان به کار شرکت بازگردید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 25.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 네… 일도 그렇고 사람도 달라져 있고.",
+      "ENGLISH": "Ah, yes… between the work and the people changing…",
+      "CHINESE_SIMPLIFIED": "啊，是的…工作也生疏了，同事也变了不少",
+      "CHINESE_TRADITIONAL": "啊，是啊... 不只是工作，連同事都換了",
+      "JAPANESE": "あ、はい…仕事も、人も変わってて",
+      "INDONESIAN": "Ah, iya… apalagi kerjaannya dan orang-orangnya juga udah berubah…",
+      "PORTUGUESE": "Ah, sim… o trabalho e as pessoas, tudo parece um pouco diferente.",
+      "SPANISH": "Ah, sí… el trabajo y las personas, todos es un poco diferente.",
+      "PERSIAN": "آه، بله… بین کار و تغییر مردم…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야, 왜 갑자기 약한 소리를 해?",
+      "ENGLISH": "What’s with the sudden weak voice?",
+      "CHINESE_SIMPLIFIED": "怎么回事，怎么突然说这种泄气话？",
+      "CHINESE_TRADITIONAL": "什麼啊，怎麼突然說喪氣話？",
+      "JAPANESE": "どうしたの、急に弱気だね",
+      "INDONESIAN": "Kok suara kamu jadi lemes gitu?",
+      "PORTUGUESE": "O que foi? Por que tá com essa voz desanimada?",
+      "SPANISH": "¿Qué pasa? ¿Por qué suenas tan desanimado?",
+      "PERSIAN": "صدای ضعیف ناگهانی چیه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.1,
+      "HIDE": 32.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그게, 뭔가 요청하신 거 척척 해내고 싶었는데…",
+      "ENGLISH": "Well… I wanted to handle everything you asked smoothly…",
+      "CHINESE_SIMPLIFIED": "就是…本想好好完成您交代的工作…",
+      "CHINESE_TRADITIONAL": "就是，我很想把你要求的事情都處理得完美...",
+      "JAPANESE": "なんか…課長の指示、もっとスムーズにこなしたかったんですけど",
+      "INDONESIAN": "Soalnya… aku pengen ngerjain semua yang Manajer minta dengan lancar…",
+      "PORTUGUESE": "É que eu queria ter cumprido tudo o que a senhora pediu, mas...",
+      "SPANISH": "Es que quería cumplir con todo lo que me pidió, pero…",
+      "PERSIAN": "خب… من می‌خواستم همه چیزهایی را که می‌پرسیدی راحت انجام دهم…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 32.7,
+      "HIDE": 34.3
+    },
+    "SCRIPT": {
+      "KOREAN": " 잘 안 된 것 같아서요.",
+      "ENGLISH": "but I feel like I didn’t do so well.",
+      "CHINESE_SIMPLIFIED": "但总觉得做得不够好",
+      "CHINESE_TRADITIONAL": "但好像做得不太好",
+      "JAPANESE": "うまくいかなかった気がして",
+      "INDONESIAN": "tapi rasanya belum maksimal.",
+      "PORTUGUESE": "sinto que não fiz direito.",
+      "SPANISH": "siento que no lo hice bien.",
+      "PERSIAN": "اما احساس می کنم آنقدرها خوب کار نکردم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.1,
+      "HIDE": 36.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨. ",
+      "ENGLISH": "Yuman.",
+      "CHINESE_SIMPLIFIED": "吴宥万",
+      "CHINESE_TRADITIONAL": "吳宥萬",
+      "JAPANESE": "ユマンさん",
+      "INDONESIAN": "Yuman.",
+      "PORTUGUESE": "Yuman.",
+      "SPANISH": "Yumán.",
+      "PERSIAN": "یومان."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 38.2,
+      "HIDE": 40.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 언제는 뭐 잘했었는 줄 알아?",
+      "ENGLISH": "When have you ever not done well?",
+      "CHINESE_SIMPLIFIED": "你有真的“做得很好”的时候吗？",
+      "CHINESE_TRADITIONAL": "你什麼時候有做得很好了嗎？",
+      "JAPANESE": "あなたがいつも完璧にやってたと思う？",
+      "INDONESIAN": "Kapan sih kamu pernah nggak bagus?",
+      "PORTUGUESE": "Acha que antes fazia tudo perfeitamente?",
+      "SPANISH": "¿Crees que antes hacías todo perfectamente?",
+      "PERSIAN": "چه زمانی تا به حال خوب کار نکرده اید؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 41.2,
+      "HIDE": 43.4
+    },
+    "SCRIPT": {
+      "KOREAN": "말을 또 그렇게 하시네요…",
+      "ENGLISH": "You always put it that way…",
+      "CHINESE_SIMPLIFIED": "您这话说的…",
+      "CHINESE_TRADITIONAL": "怎麼這樣說...",
+      "JAPANESE": "またまたそんな言い方を…",
+      "INDONESIAN": "Manajer selalu bilang gitu…",
+      "PORTUGUESE": "A senhora tá falando assim de novo...",
+      "SPANISH": "Otra vez me trata así...",
+      "PERSIAN": "همیشه اینطوری میگی…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 43.9,
+      "HIDE": 46.1
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 실수하면서 배우는 거야.",
+      "ENGLISH": "Everyone learns from their mistakes.",
+      "CHINESE_SIMPLIFIED": "大家都是摸着石头过河的",
+      "CHINESE_TRADITIONAL": "大家都是從錯誤中學習的啦",
+      "JAPANESE": "誰だって失敗しながら学ぶもの",
+      "INDONESIAN": "Setiap orang belajar dari kesalahan.",
+      "PORTUGUESE": "Todos aprendemos errando.",
+      "SPANISH": "Todos aprendemos cometiendo errores.",
+      "PERSIAN": "همه از اشتباهات خود درس می گیرند."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 46.6,
+      "HIDE": 49.4
+    },
+    "SCRIPT": {
+      "KOREAN": "결정적으로 유만 씨, 그렇게 못 하지도 않아",
+      "ENGLISH": "And ultimately, Yuman, you’re not incapable.",
+      "CHINESE_SIMPLIFIED": "关键是，你其实做得并不差",
+      "CHINESE_TRADITIONAL": "而且最重要的是，你也沒有做得那麼差",
+      "JAPANESE": "それに、ユマンさんは全然できてないわけじゃないよ",
+      "INDONESIAN": "Dan pada akhirnya, Yuman, kamu itu bukan orang yang nggak bisa.",
+      "PORTUGUESE": "E além disso, Yuman, você não é do tipo que desiste fácil.",
+      "SPANISH": "Y además, Yumán, tú no eres de los que se rinden tan fácilmente.",
+      "PERSIAN": "و در نهایت، یومان، تو ناتوان نیستی."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 50.3,
+      "HIDE": 51.6
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님...",
+      "ENGLISH": "Manager…",
+      "CHINESE_SIMPLIFIED": "科长…",
+      "CHINESE_TRADITIONAL": "課長...",
+      "JAPANESE": "課長…",
+      "INDONESIAN": "Manajer…",
+      "PORTUGUESE": "Chefe…",
+      "SPANISH": "Jefa…",
+      "PERSIAN": "مدیر…"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 52.6,
+      "HIDE": 53.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 기억 안 나?",
+      "ENGLISH": "Don’t you remember?",
+      "CHINESE_SIMPLIFIED": "吴宥万，你还记得吗？",
+      "CHINESE_TRADITIONAL": "宥萬，你不記得了嗎？",
+      "JAPANESE": "ユマンさん、覚えてない？",
+      "INDONESIAN": "Inget nggak?",
+      "PORTUGUESE": "Não lembra o que disse quando te contratamos?",
+      "SPANISH": "¿No recuerdas lo que dijiste cuando te contratamos?",
+      "PERSIAN": "یادت نمیاد؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 54.6,
+      "HIDE": 58.5
+    },
+    "SCRIPT": {
+      "KOREAN": "처음 입사할 때 적당히 하는 사람이 되고 싶다고 했잖아.",
+      "ENGLISH": "When you first joined, you said you wanted to be someone who does things reasonably.",
+      "CHINESE_SIMPLIFIED": "入职时你说想成为“差不多就行的人”",
+      "CHINESE_TRADITIONAL": "剛進公司的時候，你說想成為一個「剛剛好就好」的人",
+      "JAPANESE": "最初に入社したとき、ほどほどにやる人になりたいって言ってたでしょ",
+      "INDONESIAN": "Waktu kamu baru masuk, kamu bilang pengen jadi orang yang kerja dengan wajar.",
+      "PORTUGUESE": "Que queria ser alguém que fizesse as coisas bem o bastante.",
+      "SPANISH": "Que querías ser alguien que hiciera las cosas lo suficientemente bien.",
+      "PERSIAN": "وقتی برای اولین بار به عضویت در آمدید، گفتید که می خواهید فردی باشید که کارها را به طور معقول انجام دهد."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 59.3,
+      "HIDE": 61.3
+    },
+    "SCRIPT": {
+      "KOREAN": "적당히 하는 게 제일 중요해.",
+      "ENGLISH": "Doing things reasonably is the most important.",
+      "CHINESE_SIMPLIFIED": "能做到差不多就行，已经很厉害了",
+      "CHINESE_TRADITIONAL": "這才是最重要的",
+      "JAPANESE": "ほどほどが一番大事なの",
+      "INDONESIAN": "Dan bekerja dengan wajar itu justru yang paling penting.",
+      "PORTUGUESE": "Isso é o mais importante.",
+      "SPANISH": "Eso es lo más importante.",
+      "PERSIAN": "انجام کارها به طور معقول مهمترین چیز است."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 62.1,
+      "HIDE": 64.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 열심히 하겠습니다.",
+      "ENGLISH": "Yes! I’ll work hard.",
+      "CHINESE_SIMPLIFIED": "明白了！我会继续努力的",
+      "CHINESE_TRADITIONAL": "是！我會努力的！",
+      "JAPANESE": "はい！頑張ります！",
+      "INDONESIAN": "Siap! Aku bakal kerja lebih keras lagi.",
+      "PORTUGUESE": "Sim! Vou dar o meu melhor.",
+      "SPANISH": "¡Sí! Haré mi mejor esfuerzo.",
+      "PERSIAN": "بله! سخت کار خواهم کرد"
+    }
+  }
+]

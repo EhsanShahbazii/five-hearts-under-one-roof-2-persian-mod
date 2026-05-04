@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 상쾌하다~ ",
+      "ENGLISH": "Ah, that feels refreshing~",
+      "CHINESE_SIMPLIFIED": "啊，真舒服～",
+      "CHINESE_TRADITIONAL": "啊！真舒服～",
+      "JAPANESE": "ああ、さっぱりした〜",
+      "INDONESIAN": "Ah, seger banget~",
+      "PORTUGUESE": "Ah, que sensação boa~",
+      "SPANISH": "Aaah~ ¡qué fresco!",
+      "PERSIAN": "آخیش... چه هوای خنک و تمیزی!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 유만 씨. ",
+      "ENGLISH": "Oh! Yuman.",
+      "CHINESE_SIMPLIFIED": "对了，宥万先生",
+      "CHINESE_TRADITIONAL": "咦！宥萬先生",
+      "JAPANESE": "あっ！ユマンさん",
+      "INDONESIAN": "Ah! Yuman.",
+      "PORTUGUESE": "A vista do hospital também não é nada ruim, né?",
+      "SPANISH": "Oye, Yumán.",
+      "PERSIAN": "راستی یومان!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그 테이블 위에 있는 전단지..그거 뭐예요?",
+      "ENGLISH": "That flyer on the table… what is it?",
+      "CHINESE_SIMPLIFIED": "桌子上的那张传单...那是什么啊？",
+      "CHINESE_TRADITIONAL": "桌上的那張傳單…那是什麼啊？",
+      "JAPANESE": "ところで、テーブルの上に置いてあるチラシ…あれは何ですか？",
+      "INDONESIAN": "Ngomong-ngomong, itu brosur yang ada di atas meja… itu apa, ya?",
+      "PORTUGUESE": "Ah, mas, Yooman, você faz bico?",
+      "SPANISH": "Ese folleto en la mesa... ¿qué era?",
+      "PERSIAN": "اون تراکت روی میزو دیدم... جریانش چیه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그거요? 제가 운영하는 하숙집 전단지예요.",
+      "ENGLISH": "Oh, that? It’s for the boarding house I run.",
+      "CHINESE_SIMPLIFIED": "啊那个啊？是我经营的合租公寓的传单",
+      "CHINESE_TRADITIONAL": "啊，那個啊？那是我經營的合宿公寓傳單啦",
+      "JAPANESE": "ああ、あれですか？俺が経営している下宿のチラシです",
+      "INDONESIAN": "Oh, itu? Itu selebaran rumah kos yang aku kelola.",
+      "PORTUGUESE": "Vi uns panfletos em cima da mesa...",
+      "SPANISH": "Ah~ es un volante de mi pensión.",
+      "PERSIAN": "آها اون؟ مال پانسیونیه که خودم اداره‌ش می‌کنم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그거 돌리다가 사고났대요.",
+      "ENGLISH": "I actually got into the accident while handing those out.",
+      "CHINESE_SIMPLIFIED": "结果出去发传单的时候出了车祸...",
+      "CHINESE_TRADITIONAL": "聽說我就是發那個的時候出車禍的",
+      "JAPANESE": "でも、それを配っていて事故にあったそうなんです",
+      "INDONESIAN": "Tapi katanya aku kecelakaan pas lagi bagi-bagi itu.",
+      "PORTUGUESE": "Não é bico, eu administro uma pensão.",
+      "SPANISH": "Me dijeron que tuve el accidente mientras los repartía.",
+      "PERSIAN": "راستش سر پخش کردن همون تراکت‌ها تصادف کردم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "ああ〜",
+      "INDONESIAN": "Ah~ gitu...",
+      "PORTUGUESE": "Aquilo era um panfleto.",
+      "SPANISH": "Ya veo...",
+      "PERSIAN": "آهان... پس اینطوری."
+    }
+  }
+]

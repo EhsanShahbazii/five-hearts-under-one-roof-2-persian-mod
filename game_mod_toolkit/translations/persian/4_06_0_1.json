@@ -1,0 +1,271 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 전 유나 씨 말이 맞는 거 같아요. ",
+      "ENGLISH": "Hmm… I think Yu-na has a point.",
+      "CHINESE_SIMPLIFIED": "嗯，我觉得有娜说得挺有道理的",
+      "CHINESE_TRADITIONAL": "嗯，我覺得有娜小姐說的好像也滿有道理",
+      "JAPANESE": "うーん、俺はユナさんの言ってること、結構筋が通ってると思うな",
+      "INDONESIAN": "Hmm… menurutku Yu-na ada benernyajuga.",
+      "PORTUGUESE": "Hmm, acho que a Yuna tem razão.",
+      "SPANISH": "Hmm, yo creo que Yuna tiene razón.",
+      "PERSIAN": "هوم... فکر می کنم یونا نکته ای دارد."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "한번 써보는 것도 괜찮지 않을까요?",
+      "ENGLISH": "Maybe it’s not so bad to give it a try?",
+      "CHINESE_SIMPLIFIED": "试试叫保洁也没什么不好吧？",
+      "CHINESE_TRADITIONAL": "請一次清潔公司好像也不錯？",
+      "JAPANESE": "一度業者に頼んでみるのも悪くないんじゃないですか？",
+      "INDONESIAN": "Mungkin nggak ada salahnya nyoba kali ya?",
+      "PORTUGUESE": "Não seria ruim testar o serviço uma vez, né?",
+      "SPANISH": "No estaría mal probar contratar el servicio una vez, ¿no?",
+      "PERSIAN": "شاید آنقدر هم بد نباشد که اونو امتحان کنید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "진심이야?",
+      "ENGLISH": "Are you serious?",
+      "CHINESE_SIMPLIFIED": "认真的吗？",
+      "CHINESE_TRADITIONAL": "你認真的嗎？",
+      "JAPANESE": "本気？",
+      "INDONESIAN": "Kamu serius?",
+      "PORTUGUESE": "Fala sério?",
+      "SPANISH": "¿Lo dices en serio?",
+      "PERSIAN": "جدی میگی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네 이제 출근도 해야 하는데",
+      "ENGLISH": "Yeah. We’ve got work tomorrow, ",
+      "CHINESE_SIMPLIFIED": "是啊，而且我们还得上班呢",
+      "CHINESE_TRADITIONAL": "對啊，我們現在也要去上班了",
+      "JAPANESE": "はい、もうすぐ出勤もしないといけないし",
+      "INDONESIAN": "Iya. Besok kita kerja,",
+      "PORTUGUESE": "Sim, além disso, tenho que ir trabalhar,",
+      "SPANISH": "Sí, además, ya tengo que ir a trabajar,",
+      "PERSIAN": "آره فردا کار داریم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "청소하기 더 힘들어질 수도 있을 거 같은데...",
+      "ENGLISH": "and cleaning ourselves might be even harder…",
+      "CHINESE_SIMPLIFIED": "到时候可能更没力气打扫了...",
+      "CHINESE_TRADITIONAL": "之後打掃起來可能會更累...",
+      "JAPANESE": "掃除がどんどん大変になりそうで…",
+      "INDONESIAN": "dan kalau harus bersih-bersih sendiri bisa makin capek…",
+      "PORTUGUESE": "e se deixarmos assim, vai ser pior depois pra limpar...",
+      "SPANISH": "y si dejamos pasar más tiempo, luego limpiar será peor…",
+      "PERSIAN": "و تمیز کردن خودمان ممکنه سخت تر باشد…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 누가 매일 대청소하재?",
+      "ENGLISH": "Who said anything about doing a full clean every day?",
+      "CHINESE_SIMPLIFIED": "谁说要天天大扫除了啊？",
+      "CHINESE_TRADITIONAL": "不是啊，誰說每天都要大掃除？ ",
+      "JAPANESE": "いや、誰が毎回大掃除してって言った？",
+      "INDONESIAN": "Siapa juga yang bilang harus bersih-bersih total tiap hari?",
+      "PORTUGUESE": "Ei, quem disse que precisa fazer faxina todo dia?",
+      "SPANISH": "Oye, ¿quién dijo que hay que limpiar a fondo todos los días?",
+      "PERSIAN": "چه کسی در مورد تمیز کردن کامل هر روز چیزی گفته است؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그때 어지른 거 그때 바로 치우면 되는 거 아니야? ",
+      "ENGLISH": "If you make a mess, just clean it up then and there, right?",
+      "CHINESE_SIMPLIFIED": "当时弄乱的当场收拾不就行了？",
+      "CHINESE_TRADITIONAL": "弄髒的東西，當下馬上打掃不就好了嗎？",
+      "JAPANESE": "散らかした時にその場で片付ければいいだけでしょ？",
+      "INDONESIAN": "Kalau bikin berantakan, ya bersihin aja saat itu juga, kan?",
+      "PORTUGUESE": "É só arrumar as coisas na hora, não é?",
+      "SPANISH": "Solo hay que recoger las cosas en el momento, ¿no?",
+      "PERSIAN": "اگر آشفتگی ایجاد کردید، فقط اونو تمیز کنید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 기본적으로 우리가 낸 하숙비에 유만 씨 관리업무도 다 포함되어있는 거라구.",
+      "ENGLISH": "And technically, the rent we pay already covers Yuman taking care of the house.",
+      "CHINESE_SIMPLIFIED": "而且我们交的房租里本来就包含了你管理的费用啊",
+      "CHINESE_TRADITIONAL": "基本上我們付的房租，也包含宥萬先生的的管理工作欸",
+      "JAPANESE": "それに基本的に、私たちが払ってる下宿代にはユマンさんの管理業務も含まれてるんだよ",
+      "INDONESIAN": "Lagian, secara teknis, uang sewa yang kita bayar itu udah termasuk Yuman ngurus rumah ini.",
+      "PORTUGUESE": "Além disso, na mensalidade da pensão já está incluso que o Yuman Woo cuida da manutenção.",
+      "SPANISH": "Además, en la renta está incluido que tú te encargues del mantenimiento.",
+      "PERSIAN": "و از نظر فنی، اجاره ای که می پردازیم قبلاً یومان مراقبت از خونه را پوشش می دهد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇긴 한데...",
+      "ENGLISH": "That’s true…",
+      "CHINESE_SIMPLIFIED": "话是这么说...",
+      "CHINESE_TRADITIONAL": "話是這麼說沒錯啦...",
+      "JAPANESE": "それはそうだけど…",
+      "INDONESIAN": "Itu sih bener juga…",
+      "PORTUGUESE": "Bom, sim, mas...",
+      "SPANISH": "Bueno sí, pero…",
+      "PERSIAN": "درسته…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 29.1
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 어제처럼 못 치우고 잘 때도 있지 않을까요?",
+      "ENGLISH": "But there might be nights like yesterday when we couldn’t clean up before going to bed, right?",
+      "CHINESE_SIMPLIFIED": "但像昨天那种情况也可能来不及收拾就睡了吧？",
+      "CHINESE_TRADITIONAL": "但是，也會有像昨天那樣，沒辦法打掃就睡覺的時候嗎？",
+      "JAPANESE": "でも昨日みたいに片付けられないまま寝ちゃう日もあるじゃないですか？",
+      "INDONESIAN": "Tapi bisa aja ada malam kayak kemarin, waktu dimana kita nggak sempat beresin sebelum tidur, kan?",
+      "PORTUGUESE": "E se acontecer como ontem, que não deu tempo de limpar antes de dormir?",
+      "SPANISH": "¿Y si pasa como anoche, que no alcanzamos a limpiar antes de dormir?",
+      "PERSIAN": "اما ممکنه شب‌هایی مانند دیروز وجود داشته باشد که نتوانیم قبل از رفتن به رختخواب خود را تمیز کنیم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까~",
+      "ENGLISH": "Exactly~",
+      "CHINESE_SIMPLIFIED": "所以说~",
+      "CHINESE_TRADITIONAL": "所以說啊～",
+      "JAPANESE": "そうそう〜",
+      "INDONESIAN": "Nah, itu dia~",
+      "PORTUGUESE": "Justamente por isso!",
+      "SPANISH": "¡Por eso mismo!",
+      "PERSIAN": "دقیقا ~"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.9,
+      "HIDE": 33.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 어제도 바로 치우고 잤으면 되는 거 아니에요.",
+      "ENGLISH": "If we had cleaned up right after, it wouldn’t have been a problem.",
+      "CHINESE_SIMPLIFIED": "昨天直接收拾完再睡不就好了",
+      "CHINESE_TRADITIONAL": "昨天如果打掃完再睡，不就沒事了？",
+      "JAPANESE": "昨日も寝る前にちゃんと片付けてれば良かったんじゃないですか？",
+      "INDONESIAN": "Kalau kita langsung bersihin waktu itu juga, nggak bakal jadi masalah.",
+      "PORTUGUESE": "Se tivéssemos arrumado antes de deitar, não teria problema.",
+      "SPANISH": "Si hubieran recogido antes de acostarse, no habría este problema.",
+      "PERSIAN": "اگر بلافاصله بعد از اون تمیز می کردیم، مشکلی نبود."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 33.9,
+      "HIDE": 38.7
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 그래도 업체가 치워주는 게 훨씬 더 깨끗해질 거예요!",
+      "ENGLISH": "Hmm, but a professional cleaning service would make it way cleaner!",
+      "CHINESE_SIMPLIFIED": "嗯，但请清洁公司打扫肯定会更干净啊！",
+      "CHINESE_TRADITIONAL": "嗯，不過請清潔公司來弄，一定會乾淨得多！",
+      "JAPANESE": "うーん、でも業者さんに頼んだほうがもっときれいになりますよ！",
+      "INDONESIAN": "Hmm, tapi jasa bersih-bersih profesional pasti hasilnya lebih kinclong!",
+      "PORTUGUESE": "Mesmo assim, uma empresa deixaria bem mais limpo.",
+      "SPANISH": "Aun así, una empresa lo dejaría mucho más limpio.",
+      "PERSIAN": "هوم، اما یک سرویس تمیز کردن حرفه ای اونو تمیزتر می کند!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 38.9,
+      "HIDE": 43.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 난 모르겠다. 맘대로 해요 그러면",
+      "ENGLISH": "Ugh, I don’t care. Do whatever you want then.",
+      "CHINESE_SIMPLIFIED": "哈，我是管不了了，随你便吧",
+      "CHINESE_TRADITIONAL": "哈，我不管了。隨便你們吧",
+      "JAPANESE": "はあ、もう知らない　なら好きにしてください",
+      "INDONESIAN": "Alah, terserah deh. Lakuin aja sesukamu.",
+      "PORTUGUESE": "Ha... já não sei mais, façam o que quiserem.",
+      "SPANISH": "Ha… no sé, hagan lo que quieran entonces.",
+      "PERSIAN": "اوه، برام مهم نیست اونوقت هر کاری میخوای بکن"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 43.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好的！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Yes!",
+      "PORTUGUESE": "Perfeito!",
+      "SPANISH": "¡Perfecto!",
+      "PERSIAN": "بله!"
+    }
+  }
+]

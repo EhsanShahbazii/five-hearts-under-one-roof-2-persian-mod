@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.6
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 미안... ",
+      "ENGLISH": "Guys, I’m sorry...",
+      "CHINESE_SIMPLIFIED": "对不起你们...",
+      "CHINESE_TRADITIONAL": "對不起…",
+      "JAPANESE": "みんな ごめん…",
+      "INDONESIAN": "Teman-teman, saya minta maaf...",
+      "PORTUGUESE": "Meninas, desculpem...",
+      "SPANISH": "Chicas, lo siento…",
+      "PERSIAN": "بچه ها متاسفم..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 민정 님 콘서트 가 봐야 될 거 같아",
+      "ENGLISH": "But I think I really have to go to Min-jung’s concert today.",
+      "CHINESE_SIMPLIFIED": "但是今天我得去敏静的演唱会",
+      "CHINESE_TRADITIONAL": "我今天一定要去看敏靜的演唱會",
+      "JAPANESE": "今日はミンジョンさんのコンサート 行かなきゃいけないんだ",
+      "INDONESIAN": "Tapi aku rasa aku harus pergi ke konser Min-jung hari ini.",
+      "PORTUGUESE": "mas hoje eu tenho que ir ao show da Minjung.",
+      "SPANISH": "pero hoy tengo que ir al concierto de Minjung.",
+      "PERSIAN": "اما فکر می کنم امروز واقعا باید به کنسرت مین‌جونگ بروم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "콘서트는 다음에 가도 되는 거 아니예요?",
+      "ENGLISH": "Can’t you go next time?",
+      "CHINESE_SIMPLIFIED": "演唱会下次再去不行吗？",
+      "CHINESE_TRADITIONAL": "演唱會下次去不就好了嗎？",
+      "JAPANESE": "コンサートなら次でもいいんじゃないですか?",
+      "INDONESIAN": "Tidak bisakah kamu pergi lain kali?",
+      "PORTUGUESE": "Não pode ir outro dia?",
+      "SPANISH": "¿No puedes ir en otro momento?",
+      "PERSIAN": "دفعه بعد نمیتونی بری؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "콘서트야 나야?",
+      "ENGLISH": "The concert or me?",
+      "CHINESE_SIMPLIFIED": "演唱会重要还是我重要？！",
+      "CHINESE_TRADITIONAL": "是演唱會重要，還是我重要？",
+      "JAPANESE": "コンサートと私 どっちなんですか?",
+      "INDONESIAN": "Konser atau aku?",
+      "PORTUGUESE": "O show ou eu?",
+      "SPANISH": "¿El concierto o yo?",
+      "PERSIAN": "کنسرت یا من؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "박민정이냐고, 나냐고!",
+      "ENGLISH": "Is it Park Min-jung... or me?",
+      "CHINESE_SIMPLIFIED": "你是选朴敏静还是选我！",
+      "CHINESE_TRADITIONAL": "是樸敏靜，還是我？",
+      "JAPANESE": "パク・ミンジョンなの? それとも私なの!?",
+      "INDONESIAN": "Apakah Park Min-jung... atau saya?",
+      "PORTUGUESE": "Park Minjung ou eu? Responde!",
+      "SPANISH": "¿Park Minjung o yo? ¡Responde!",
+      "PERSIAN": "پارک مین‌جونگ... یا من؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 박민정...",
+      "ENGLISH": "Today... it’s Park Min-jung.",
+      "CHINESE_SIMPLIFIED": "今天选朴敏静...",
+      "CHINESE_TRADITIONAL": "今天是選樸敏靜…",
+      "JAPANESE": "今日はパク・ミンジョン…",
+      "INDONESIAN": "Hari ini... Park Min-jung.",
+      "PORTUGUESE": "Hoje... eu escolho a Park Minjung.",
+      "SPANISH": "Hoy… elijo a Park Minjung.",
+      "PERSIAN": "امروز... پارک مین‌جونگ است."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래, 행복한 시간 보내.",
+      "ENGLISH": "Fine. Enjoy your night.",
+      "CHINESE_SIMPLIFIED": "行，祝你玩得开心",
+      "CHINESE_TRADITIONAL": "好吧，祝你玩得開心",
+      "JAPANESE": "そう…じゃあ楽しい時間過ごして",
+      "INDONESIAN": "Baiklah. Selamat menikmati malammu.",
+      "PORTUGUESE": "Tudo bem, divirta-se.",
+      "SPANISH": "Está bien, que te diviertas.",
+      "PERSIAN": "خوب از شبت لذت ببر"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 늦진 마요",
+      "ENGLISH": "Don’t come home too late.",
+      "CHINESE_SIMPLIFIED": "别太晚回来哦",
+      "CHINESE_TRADITIONAL": "不要太晚回來",
+      "JAPANESE": "あまり遅くならないでくださいね",
+      "INDONESIAN": "Jangan pulang terlalu larut.",
+      "PORTUGUESE": "Não volte muito tarde.",
+      "SPANISH": "No llegues muy tarde.",
+      "PERSIAN": "خیلی دیر به خونه نیایید"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 25.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 설렌다! 민정 님 콘서트 가야징 이히히~",
+      "ENGLISH": "Ahhh I’m so excited! Min-jung’s concert, here I come~ Heehee~",
+      "CHINESE_SIMPLIFIED": "啊，好激动！我要去看敏静的演唱会啦，嘿嘿嘿~",
+      "CHINESE_TRADITIONAL": "啊，好期待！我要去看敏靜的演唱會啦！嘻嘻～",
+      "JAPANESE": "あ〜ドキドキする! ミンジョンさんのコンサート行かなきゃ えへへ〜",
+      "INDONESIAN": "Ahhh, aku sangat bersemangat! Konser Min-jung, aku datang~ Hihihi~",
+      "PORTUGUESE": "Que emoção! Vou ao show da Minjung~!",
+      "SPANISH": "¡Qué emoción! ¡Voy al concierto de Minjung~!",
+      "PERSIAN": "آهان من خیلی هیجان زده ام! کنسرت مین‌جونگ، اینجا من میام~ هیهی~"
+    }
+  }
+]

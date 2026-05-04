@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 54.7,
+      "HIDE": 55.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 건 어때?",
+      "ENGLISH": "How about something like this?",
+      "CHINESE_SIMPLIFIED": "这种款式的怎么样？",
+      "CHINESE_TRADITIONAL": "這個怎麼樣？",
+      "JAPANESE": "こういうのはどう？",
+      "INDONESIAN": "Kalau yang model begini gimana?",
+      "PORTUGUESE": "E que tal essa aqui?",
+      "SPANISH": "¿Y qué tal este?",
+      "PERSIAN": "چنین چیزی چطور؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 56.9,
+      "HIDE": 61.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 너무 자세히 보진 말구... 나 좀 창피하단 말이야.",
+      "ENGLISH": "Don’t look too closely… I’m a little embarrassed.",
+      "CHINESE_SIMPLIFIED": "别盯着细看嘛...我有点不好意思啦",
+      "CHINESE_TRADITIONAL": "不要看得太仔細啦... 我會有點害羞",
+      "JAPANESE": "あんまりじっと見ないでね…ちょっと恥ずかしいんだから",
+      "INDONESIAN": "Jangan liatin terlalu detail ya… aku agak malu.",
+      "PORTUGUESE": "Mas não olha tão de perto... fico com vergonha.",
+      "SPANISH": "Pero no lo mires tan de cerca… me da vergüenza.",
+      "PERSIAN": "زیاد از نزدیک نگاه نکن... من کمی خجالت می کشم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 61.2,
+      "HIDE": 65.5
+    },
+    "SCRIPT": {
+      "KOREAN": "허, 너무 좋은데요... 근데 이런 것도 팔아요?",
+      "ENGLISH": "Haha, it’s really nice… but do you actually sell stuff like this?",
+      "CHINESE_SIMPLIFIED": "哇，挺不错的...不过这种款式也卖吗？",
+      "CHINESE_TRADITIONAL": "我覺得不錯... 可是我們公司也有這種款式嗎？",
+      "JAPANESE": "いいですね…でも、うちって本当にこういうのも売ってるんですか？",
+      "INDONESIAN": "Haha, ini bagus banget… tapi kamu beneran jual baju kayak gini?",
+      "PORTUGUESE": "Uau, tá incrível... sério que vendem coisas assim?",
+      "SPANISH": "Guau, está increíble… ¿en serio venden cosas como esta?",
+      "PERSIAN": "هاها، واقعاً خوب است ... اما واقعاً چنین چیزهایی را می فروشید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 66.0,
+      "HIDE": 68.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐... 이벤트 상품같은 거지!",
+      "ENGLISH": "Well… it’s more like a special event item!",
+      "CHINESE_SIMPLIFIED": "算是...活动特供款吧！",
+      "CHINESE_TRADITIONAL": "嗯... 算是活動商品之類的吧！",
+      "JAPANESE": "ま、イベント…！景品みたいなもの！",
+      "INDONESIAN": "Yah… ini lebih ke item spesial buat event sih!",
+      "PORTUGUESE": "Bom... é mais um item especial.",
+      "SPANISH": "Bueno… es más bien un artículo especial.",
+      "PERSIAN": "خوب ... بیشتر شبیه یک آیتم رویداد خاص است!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 68.8,
+      "HIDE": 70.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그렇구나...",
+      "ENGLISH": "Ah, I see…",
+      "CHINESE_SIMPLIFIED": "啊这样啊...",
+      "CHINESE_TRADITIONAL": "原來如此...",
+      "JAPANESE": "あ〜そうなんですね…",
+      "INDONESIAN": "Ah, gitu ya…",
+      "PORTUGUESE": "Ah, entendi...",
+      "SPANISH": "Ah, ya veo…",
+      "PERSIAN": "آه، می بینم…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 71.2,
+      "HIDE": 72.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 너무 좋은데요...",
+      "ENGLISH": "I think it’s really great.",
+      "CHINESE_SIMPLIFIED": "我特别喜欢这款呢...",
+      "CHINESE_TRADITIONAL": "我倒是覺得非常棒...",
+      "JAPANESE": "俺はめっちゃいいですよ…",
+      "INDONESIAN": "Menurutku ini keren banget.",
+      "PORTUGUESE": "Eu adorei, pra ser sincero.",
+      "SPANISH": "A mí me encanta, la verdad.",
+      "PERSIAN": "به نظر من واقعا عالیه"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 73.2,
+      "HIDE": 79.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래? 유만 씨 이런 거 좋아하는구나? 기억해둘게~",
+      "ENGLISH": "Really? So you like this kind of thing, Yuman? I’ll remember that~",
+      "CHINESE_SIMPLIFIED": "是吗？原来你喜欢这种风格啊？我记住啦~",
+      "CHINESE_TRADITIONAL": "是嗎？宥萬你喜歡這種風格嗎？我記住了～",
+      "JAPANESE": "そう？ユマンさん、こういうの好きなんだね？覚えとくね〜",
+      "INDONESIAN": "Serius? Jadi kamu suka yang model begini, Yuman? Catat ah~",
+      "PORTUGUESE": "É mesmo? Então quer dizer que gosta desse tipo de coisa, né? Vou lembrar disso.",
+      "SPANISH": "¿Sí? Así que te gustan este tipo de cosas, ¿eh? Lo tendré en mente.",
+      "PERSIAN": "واقعا؟ پس تو این نوع چیزها را دوست داری، یومان؟ من اونو به خاطر خواهم آورد~"
+    }
+  }
+]

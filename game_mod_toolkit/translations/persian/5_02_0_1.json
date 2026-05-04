@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아 나 물 좀...",
+      "ENGLISH": "Mal-sook… can I get some water…?",
+      "CHINESE_SIMPLIFIED": "末淑，能给我点水吗...",
+      "CHINESE_TRADITIONAL": "末淑，我要喝水...",
+      "JAPANESE": "マルスク、水ちょっと…",
+      "INDONESIAN": "Mal-sook… boleh minta air nggak…?",
+      "PORTUGUESE": "Malsook, me traz água...",
+      "SPANISH": "Malsook, tráeme agua...",
+      "PERSIAN": "مال‌سوک ... می توانم کمی آب بیاورم ...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "기다려 봐",
+      "ENGLISH": "Hold on a sec, okay",
+      "CHINESE_SIMPLIFIED": "等一下",
+      "CHINESE_TRADITIONAL": "你等等",
+      "JAPANESE": "ちょっと待ってて",
+      "INDONESIAN": "Tunggu bentar ya",
+      "PORTUGUESE": "Me dá um segundo.",
+      "SPANISH": "Dame un segundo.",
+      "PERSIAN": "یک ثانیه صبر کن، باشه"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "여기.",
+      "ENGLISH": "Here.",
+      "CHINESE_SIMPLIFIED": "给你",
+      "CHINESE_TRADITIONAL": "拿去",
+      "JAPANESE": "ほら",
+      "INDONESIAN": "Nih.",
+      "PORTUGUESE": "Aqui.",
+      "SPANISH": "Toma.",
+      "PERSIAN": "اینجا"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워.",
+      "ENGLISH": "Thanks.",
+      "CHINESE_SIMPLIFIED": "谢啦",
+      "CHINESE_TRADITIONAL": "謝謝",
+      "JAPANESE": "ありがと",
+      "INDONESIAN": "Makasih.",
+      "PORTUGUESE": "Obrigada.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "با تشکر"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "넌 다 예쁘니까 아무 데나 강조해도 상관없을 거 같은데?",
+      "ENGLISH": "You’re pretty everywhere, so I don’t think it matters what you emphasize.",
+      "CHINESE_SIMPLIFIED": "你全身上下都好看，重点突出哪里都行吧？",
+      "CHINESE_TRADITIONAL": "你全身上下都好看，強調哪裡都可以",
+      "JAPANESE": "お前は全部綺麗だから、どこを強調してもいいと思うけどな？",
+      "INDONESIAN": "Kamu cantik di semua sisi, jadi menurut aku sih mau tonjolin bagian mana aja tetep oke.",
+      "PORTUGUESE": "Você é linda em tudo, então poderia destacar qualquer parte e ainda assim ficaria bem.",
+      "SPANISH": "Eres linda en todo, así que podrías resaltar cualquier parte y seguiría viéndose bien.",
+      "PERSIAN": "شما همه جا زیبا هستید، بنابراین فکر نمی کنم مهم باشد که روی چه چیزی تاکید می کنید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그런 거 말고~",
+      "ENGLISH": "No, not like that~",
+      "CHINESE_SIMPLIFIED": "不要这种官方回答嘛~",
+      "CHINESE_TRADITIONAL": "不要這種官方回答！",
+      "JAPANESE": "そういうのじゃなくて〜",
+      "INDONESIAN": "Nggak gitu maksud aku~",
+      "PORTUGUESE": "Ai, não fala assim~",
+      "SPANISH": "Ay, no me digas eso~",
+      "PERSIAN": "نه، اینطوری نیست~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "넌 그림자도 예뻐. 아니 진짜로~ 봐 봐라?",
+      "ENGLISH": "Even your shadow is pretty. No seriously — look.",
+      "CHINESE_SIMPLIFIED": "你连影子都美。真的~你看你看？",
+      "CHINESE_TRADITIONAL": "你連影子都很美。是真的～你看你看？",
+      "JAPANESE": "影まで綺麗だよ ほんとに 見てみ？",
+      "INDONESIAN": "Bahkan bayangan kamu aja cantik. Nggak bercanda — nih liat deh.",
+      "PORTUGUESE": "Até a sua sombra é bonita. Sério, olha pra você.",
+      "SPANISH": "Hasta tu sombra es bonita. En serio, mírate",
+      "PERSIAN": "حتی سایه ات هم زیباست نه جدی - نگاه کنید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 봐, 눈만 봐도 예쁘고",
+      "ENGLISH": "See? Just your eyes are already pretty,",
+      "CHINESE_SIMPLIFIED": "瞧这眼睛，光看眼睛就够美的了",
+      "CHINESE_TRADITIONAL": "你看，光看眼睛就很漂亮了",
+      "JAPANESE": "ほら、目だけでも綺麗だし",
+      "INDONESIAN": "Tuh kan? Mata kamu aja udah cantik,",
+      "PORTUGUESE": "Isso, só com os seus olhos você já fica linda.",
+      "SPANISH": "Esto, hasta solo con tus ojos ya te ves hermosa.",
+      "PERSIAN": "ببینید؟ فقط چشمانت از قبل زیباست،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "전체적으로 그냥 다 예뻐.",
+      "ENGLISH": "and overall, you’re just… all pretty.",
+      "CHINESE_SIMPLIFIED": "整体看更是全部都美",
+      "CHINESE_TRADITIONAL": "整體看上去全部都很美啊",
+      "JAPANESE": "全体的にバランスも完璧",
+      "INDONESIAN": "dan keseluruhannya tuh… ya kamu emang cantik aja gitu.",
+      "PORTUGUESE": "No geral, você é simplesmente linda.",
+      "SPANISH": "En general, simplemente eres hermosa.",
+      "PERSIAN": "و به طور کلی، شما فقط… همه زیبا هستید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的？",
+      "CHINESE_TRADITIONAL": "真的？",
+      "JAPANESE": "ほんと？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "De verdade?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 그니까 어디를 강조할지 순서만 정하면 돼.",
+      "ENGLISH": "Yeah, so all you need is to decide what order you want to emphasize things in.",
+      "CHINESE_SIMPLIFIED": "嗯，所以你只需要决定先展示哪个部位就行了",
+      "CHINESE_TRADITIONAL": "嗯，所以你只需要決定要強調哪一個部位的順序就可以了",
+      "JAPANESE": "うん 、だからあとはどこを強調したいか順番を決めるだけ",
+      "INDONESIAN": "Iya, jadi tinggal kamu urutin aja deh, mau tonjolin bagian mana duluan.",
+      "PORTUGUESE": "Sim, só precisa decidir qual parte vai destacar primeiro.",
+      "SPANISH": "Sí, solo tienes que decidir qué parte vas a resaltar primero.",
+      "PERSIAN": "بله، بنابراین تنها چیزی که نیاز دارید این است که تصمیم بگیرید به چه ترتیبی می خواهید روی چیزها تأکید کنید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "칫...알았어~",
+      "ENGLISH": "Tch… fine~",
+      "CHINESE_SIMPLIFIED": "切...知道啦~",
+      "CHINESE_TRADITIONAL": "嘁...我知道了～",
+      "JAPANESE": "ふっ…わかった〜",
+      "INDONESIAN": "Tch… yaudah deh~",
+      "PORTUGUESE": "Tch… tá bom~",
+      "SPANISH": "Tch… está bien~",
+      "PERSIAN": "ایشش… خوب ~"
+    }
+  }
+]

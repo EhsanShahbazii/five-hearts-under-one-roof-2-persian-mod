@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 1.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Eh?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤!",
+      "ENGLISH": "Nurse Gyu-ri!",
+      "CHINESE_SIMPLIFIED": "方护士！",
+      "CHINESE_TRADITIONAL": "久梨護理師！",
+      "JAPANESE": "ギュリ先生！",
+      "INDONESIAN": "Suster Gyuri!",
+      "PORTUGUESE": "Enfermeira Gyuri!",
+      "SPANISH": "¡Enfermera Gyuri!",
+      "PERSIAN": "پرستار گیو ری!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하지 말라니까!",
+      "ENGLISH": "How many times have I told you not to do that!!",
+      "CHINESE_SIMPLIFIED": "我不是说别这样吗！",
+      "CHINESE_TRADITIONAL": "不是說不要這樣了嗎！",
+      "JAPANESE": "やめてって言ったでしょ！",
+      "INDONESIAN": "Kan aku udah bilang jangan!",
+      "PORTUGUESE": "O que você tá fazendo?!",
+      "SPANISH": "¡¿Qué estás haciendo?!",
+      "PERSIAN": "چند بار بهت گفتم این کارو نکن!!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "붕대 쓰고 버리지 말라 그랬죠",
+      "ENGLISH": "I told you not to throw away used bandages.",
+      "CHINESE_SIMPLIFIED": "我说过，用过的绷带不要乱扔",
+      "CHINESE_TRADITIONAL": "我說過，用過的繃帶不要亂丟吧",
+      "JAPANESE": "包帯、使ったのをそのまま捨てないでって言ったでしょ",
+      "INDONESIAN": "Aku udah bilang jangan buang perban yang udah dipakai!",
+      "PORTUGUESE": "Eu te disse pra não jogar fora as bandagens usadas!",
+      "SPANISH": "¡Te dije que no botaras las bendas usadas!",
+      "PERSIAN": "بهت گفتم که بانداژهای استفاده شده رو دور نندازی."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "재사용하면 안 되잖아요.",
+      "ENGLISH": "You’re not supposed to reuse them.",
+      "CHINESE_SIMPLIFIED": "但是这个也不能重复使用啊",
+      "CHINESE_TRADITIONAL": "但是這個也不能重複使用啊",
+      "JAPANESE": "再利用しちゃダメなんじゃ",
+      "INDONESIAN": "Nggak boleh dipakai ulang, kan?",
+      "PORTUGUESE": "Mas não dá pra reutilizar.",
+      "SPANISH": "Pero no se pueden reutilizar.",
+      "PERSIAN": "قرار نیست دوباره ازشون استفاده کنی."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 이씨...",
+      "ENGLISH": "But damn it…",
+      "CHINESE_SIMPLIFIED": "你这丫头...",
+      "CHINESE_TRADITIONAL": "你這傢伙...",
+      "JAPANESE": "何この子…",
+      "INDONESIAN": "Tapi ya ampun…",
+      "PORTUGUESE": "Mas, poxa...",
+      "SPANISH": "Pero, carajo...",
+      "PERSIAN": "اما لعنت بهش…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하...",
+      "ENGLISH": "sigh…",
+      "CHINESE_SIMPLIFIED": "唉...",
+      "CHINESE_TRADITIONAL": "唉...",
+      "JAPANESE": "はぁ…",
+      "INDONESIAN": "Hhh…",
+      "PORTUGUESE": "Ha…",
+      "SPANISH": "Ha…",
+      "PERSIAN": "هوووف..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우린 쓰던 거 모은다고.",
+      "ENGLISH": "We collect the used ones separately.",
+      "CHINESE_SIMPLIFIED": "我们要把用过的收起来洗的",
+      "CHINESE_TRADITIONAL": "我們會把用過的收集起來拿去洗的",
+      "JAPANESE": "私たちは使ったものを集めてるの",
+      "INDONESIAN": "Kita ngumpulin yang bekas-bekas, tau!",
+      "PORTUGUESE": "Aqui a gente guarda separado.",
+      "SPANISH": "Aquí las guardamos por separado.",
+      "PERSIAN": "ما موارد استفاده شده را جداگانه جمع آوری می کنیم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 가서 빨아 와!!!",
+      "ENGLISH": "Go wash it. NOW!!!",
+      "CHINESE_SIMPLIFIED": "拿去洗干净！！！",
+      "CHINESE_TRADITIONAL": "你去把這個洗乾淨！！",
+      "JAPANESE": "これ、持ってって洗ってきなさい！！！",
+      "INDONESIAN": "Cuci ini sekarang juga!!!",
+      "PORTUGUESE": "Vai lavar isso agora mesmo!",
+      "SPANISH": "¡Ve y lávalas ahora mismo!",
+      "PERSIAN": "برو بشورش. همین الان!!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야...너 대답 안 하니?",
+      "ENGLISH": "Hey… are you not going to answer me?",
+      "CHINESE_SIMPLIFIED": "喂...你不回话是吧？",
+      "CHINESE_TRADITIONAL": "喂...你不回答嗎？",
+      "JAPANESE": "おい…返事しないの？",
+      "INDONESIAN": "Hey… kamu nggak jawab, ya?",
+      "PORTUGUESE": "Não vai me responder?",
+      "SPANISH": "¿No piensas responderme?",
+      "PERSIAN": "هی... جوابمو نمیدی؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "대답을, 하라고, 너 벙어리야?, 어?",
+      "ENGLISH": "Answer me — are you mute or something? Huh?",
+      "CHINESE_SIMPLIFIED": "我让你，回话，你是哑巴吗？嗯？",
+      "CHINESE_TRADITIONAL": "叫你怎麼不回，你是啞巴嗎？嗯？",
+      "JAPANESE": "返事しろって言ってるの、口がきけないの？あぁ？",
+      "INDONESIAN": "Aku bilang jawab! Kamu bisu, ya? Hah?!",
+      "PORTUGUESE": "Tô mandando responder. É muda ou o quê, hein?",
+      "SPANISH": "Te dije que respondas. ¿Eres muda o qué, eh?",
+      "PERSIAN": "جوابمو بده - لال شدی یا چی؟ ها؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.1,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "대답하라니까!!!",
+      "ENGLISH": "I said ANSWER!!!",
+      "CHINESE_SIMPLIFIED": "说话啊！！！",
+      "CHINESE_TRADITIONAL": "說話啊！！！",
+      "JAPANESE": "返事しろって！！",
+      "INDONESIAN": "Jawab, dong!!!",
+      "PORTUGUESE": "Responde!!",
+      "SPANISH": "¡¡Qué me respondas!!",
+      "PERSIAN": "گفتم جواب بده!!!"
+    }
+  }
+]

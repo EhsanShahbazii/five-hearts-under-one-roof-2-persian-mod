@@ -1,0 +1,592 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 5.15
+    },
+    "SCRIPT": {
+      "KOREAN": "“스킨십에 서툰 애인 vs 스킨십에 능숙한 애인”",
+      "ENGLISH": "“A partner who's awkward with physical affection vs. one who’s a total pro.”",
+      "CHINESE_SIMPLIFIED": "“不擅长肢体接触的恋人 vs 擅长肢体接触的恋人”",
+      "CHINESE_TRADITIONAL": "“不擅長肢體接觸的戀人” vs “擅長肢體接觸的戀人”",
+      "JAPANESE": "\"スキンシップが不器用な恋人 vs スキンシップが上手な恋人”",
+      "INDONESIAN": "“Pacar yang awkward soal skinship vs. yang udah pro banget.”",
+      "PORTUGUESE": "\"Alguém sem experiência em relacionamentos\" ou \"Alguém com muita experiência\"",
+      "SPANISH": "\"Alguien sin experiencia en relaciones\" o \"Alguien con mucha experiencia\"",
+      "PERSIAN": "\"یک شریک که از نظر محبت جسمی ناخوشایند است در مقابل کسی که کاملا حرفه ای است.\""
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.15,
+      "HIDE": 9.18
+    },
+    "SCRIPT": {
+      "KOREAN": "그런데 스킨십에 서툰 애인은 뭔가",
+      "ENGLISH": "Honestly? the awkward one...",
+      "CHINESE_SIMPLIFIED": "不过不擅长肢体接触的恋人嘛",
+      "CHINESE_TRADITIONAL": "不擅長肢體接觸的戀人，總覺得",
+      "JAPANESE": "でもスキンシップが不器用な恋人って",
+      "INDONESIAN": "Tapi yang awkward tuh ya...",
+      "PORTUGUESE": "É que alguém sem experiência nessa idade...",
+      "SPANISH": "Es que alguien sin experiencia a esta edad...",
+      "PERSIAN": "راستش؟ بی دست و پا..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.18,
+      "HIDE": 13.09
+    },
+    "SCRIPT": {
+      "KOREAN": "이 나이 먹고 알려주다가도 현타 올 거 같고",
+      "ENGLISH": "Picturing myself teach them would just make me feel weird.",
+      "CHINESE_SIMPLIFIED": "都这个年纪了，还要我手把手教？想想就有点无语",
+      "CHINESE_TRADITIONAL": "這個年紀了，還要我一步步教，感覺會很出戲",
+      "JAPANESE": "年齢的に教えてる途中でなえそうだし",
+      "INDONESIAN": "Di umur segini masih harus ngajarin soal beginian? Capek cuy.",
+      "PORTUGUESE": "seria meio estranho ter que ensinar tudo do zero.",
+      "SPANISH": "sería muy raro tener que enseñarle desde cero.",
+      "PERSIAN": "اینکه خودم را در حال آموزش به اونا تصور کنم، فقط احساس عجیبی در من ایجاد می کند."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.09,
+      "HIDE": 16.23
+    },
+    "SCRIPT": {
+      "KOREAN": "능숙한 애인은 너무 전 여친 작품 같고",
+      "ENGLISH": "And the pro one? Feels a little too... trained by his ex.",
+      "CHINESE_SIMPLIFIED": "很会肢体接触的恋人呢，又感觉太像前女友调教出来的",
+      "CHINESE_TRADITIONAL": "很會肢體接觸的戀人，又會讓人覺得是前女友調教出來的",
+      "JAPANESE": "スキンシップが上手な恋人は、なんか元カノの作品っぽいし",
+      "INDONESIAN": "Yang terlalu jago juga kayak hasil didikan mantan.",
+      "PORTUGUESE": "Mas se tiver experiência demais, parece que foi treinado pela ex.",
+      "SPANISH": "Pero si tiene demasiada experiencia, se siente como entrenado por su ex.",
+      "PERSIAN": "و حرفه ای؟ احساس می کند کمی نیز... آموزش دیده توسط سابقش."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.09,
+      "HIDE": 16.23
+    },
+    "SCRIPT": {
+      "KOREAN": "차라리 능숙한 애인이 나은 것 같아요",
+      "ENGLISH": "Still, if I had to choose, give me the pro. ",
+      "CHINESE_SIMPLIFIED": "这么看来，反而是擅长肢体接触的恋人更好一点吧",
+      "CHINESE_TRADITIONAL": "不過還是選擅長肢體接觸的戀人好一點吧",
+      "JAPANESE": "それでも上手な恋人の方がマシかな",
+      "INDONESIAN": "Tapi ya mending yang jago aja sih.",
+      "PORTUGUESE": "Acho que prefiro alguém com muita experiência.",
+      "SPANISH": "Creo que prefiero al que tiene mucha experiencia.",
+      "PERSIAN": "با این حال، اگر مجبور به انتخاب شدم، حرفه ای را به من بدهید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.08,
+      "HIDE": 20.07
+    },
+    "SCRIPT": {
+      "KOREAN": "더 최악인 건",
+      "ENGLISH": "Now, the absolute worst...",
+      "CHINESE_SIMPLIFIED": "哪一个更糟糕？",
+      "CHINESE_TRADITIONAL": "更糟糕的是——",
+      "JAPANESE": "もっと最悪なのは",
+      "INDONESIAN": "Yang paling parah tuh...",
+      "PORTUGUESE": "Agora algo pior:",
+      "SPANISH": "Qué prefieres:",
+      "PERSIAN": "اکنون، بدترین ..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.04
+    },
+    "SCRIPT": {
+      "KOREAN": "“내 친구 집에 여친 팬티 vs 여친 집에 내 친구 팬티”",
+      "ENGLISH": "Finding my girlfriend's underwear at my friend’s place vs. My friend's underwear at my girlfriend's place",
+      "CHINESE_SIMPLIFIED": "“在我朋友家发现女友的内裤 vs 在女友家发现我朋友的内裤”",
+      "CHINESE_TRADITIONAL": "“在朋友家發現男友的內褲” vs “在男友家發現朋友的內褲”",
+      "JAPANESE": "”友達の家に恋人の下着 vs 恋人の家に友達の下着”",
+      "INDONESIAN": "“Celana dalam pacar ada di rumah temen vs. celana dalam temen ada di rumah pacar.”",
+      "PORTUGUESE": "“Encontrar a calcinha da sua namorada na casa do seu amigo” ou “Encontrar a cueca do seu amigo na casa da sua namorada.”",
+      "SPANISH": "“Encontrar los calzones de tu novia en casa de tu amigo\" o \"Encontrar los calzones de tu amigo en casa de tu novia”",
+      "PERSIAN": "پیدا کردن لباس زیر دوست دخترم در محل دوستم در مقابل لباس زیر دوست دخترم در محل دوست دخترم"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.04,
+      "HIDE": 29.03
+    },
+    "SCRIPT": {
+      "KOREAN": "둘 다 그냥 미친 거 아니에요?",
+      "ENGLISH": "Aren’t both just insane?",
+      "CHINESE_SIMPLIFIED": "这两种情况不都是离谱到家了吗？",
+      "CHINESE_TRADITIONAL": "這兩個都超扯的吧？",
+      "JAPANESE": "どっちもヤバくないですか？",
+      "INDONESIAN": "Dua-duanya gila gak sih?!",
+      "PORTUGUESE": "Mas os dois são igualmente horríveis.",
+      "SPANISH": "Pero ambos son igual de malos.",
+      "PERSIAN": "هر دو فقط دیوانه نیستند؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.03,
+      "HIDE": 30.23
+    },
+    "SCRIPT": {
+      "KOREAN": "(저는 여자니까)내 친구 집에 남친 팬티",
+      "ENGLISH": "(And since I’m a woman...) Your boyfriend’s undies at your friend’s place?",
+      "CHINESE_SIMPLIFIED": "（不过因为我是女生）所以改成在我朋友家发现男友的内裤",
+      "CHINESE_TRADITIONAL": "（因為我是女生）在我朋友家發現男友的內褲",
+      "JAPANESE": "（私は女だから）友達の家に彼氏の下着",
+      "INDONESIAN": "(Karena aku cewek ya...) nemu CD cowokku di rumah temen tuh...",
+      "PORTUGUESE": "(Para as meninas seria) a cueca do seu namorado na casa da sua amiga.",
+      "SPANISH": "(Para las chicas sería) los calzones de tu novio en casa de tu amiga",
+      "PERSIAN": "(و چون من یک زن هستم...) لباس های دوست پسرت در محل دوستت است؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 30.23,
+      "HIDE": 33.19
+    },
+    "SCRIPT": {
+      "KOREAN": "둘 다 그러니까 둘이 했다는 거 아니에요?",
+      "ENGLISH": "That pretty much screams they hooked up.",
+      "CHINESE_SIMPLIFIED": "这不摆明了俩人有一腿吗？",
+      "CHINESE_TRADITIONAL": "這不都代表他們兩個有一腿，不是嗎？",
+      "JAPANESE": "どっちにしても二人がそういう関係ってことですよね？",
+      "INDONESIAN": "Itu udah fix banget mereka ngapa-ngapain sih.",
+      "PORTUGUESE": "Mas em qualquer dos casos, significa que já rolou alguma coisa.",
+      "SPANISH": "Pero en cualquiera de los dos casos, significa que ya lo hicieron.",
+      "PERSIAN": "که تقریباً اونا فریاد می زدند."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 33.19,
+      "HIDE": 37.05
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 남친 집에 내 친구 팬티?",
+      "ENGLISH": "But if it’s your friend’s underwear at his place?",
+      "CHINESE_SIMPLIFIED": "但对比起来...在男友家发现我朋友的内裤？",
+      "CHINESE_TRADITIONAL": "硬選的話...我可能會選“男友家發現朋友的內褲”",
+      "JAPANESE": "でも彼氏の家に友達の下着？",
+      "INDONESIAN": "Tapi kalo CD temenku ada di rumah pacarku?",
+      "PORTUGUESE": "Ainda assim, a calcinha da minha amiga na casa do meu namorado...",
+      "SPANISH": "Aun así, los calzones de mi amiga en casa de mi novio...",
+      "PERSIAN": "اما اگر لباس زیر دوست شما در محل او باشد؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 37.05,
+      "HIDE": 40.04
+    },
+    "SCRIPT": {
+      "KOREAN": "얘기를 할 수 있을 거 같아요",
+      "ENGLISH": "At least I could call him out.",
+      "CHINESE_SIMPLIFIED": "这种至少还能当面摊牌吧",
+      "CHINESE_TRADITIONAL": "這樣我還可以開口",
+      "JAPANESE": "話せる気がする",
+      "INDONESIAN": "Masih bisa lah dibahas langsung.",
+      "PORTUGUESE": "acho que eu ainda conseguiria falar alguma coisa.",
+      "SPANISH": "creo que aún podría decir algo.",
+      "PERSIAN": "حداقل میتونستم صداش کنم"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 40.04,
+      "HIDE": 41.2
+    },
+    "SCRIPT": {
+      "KOREAN": "남자친구한테 그 자리에서 바로",
+      "ENGLISH": "Like, I could confront him right away.",
+      "CHINESE_SIMPLIFIED": "能当场直接跟男朋友对质",
+      "CHINESE_TRADITIONAL": "直接當場質問男朋友",
+      "JAPANESE": "彼氏にその瞬間ちゃんと聞けるし",
+      "INDONESIAN": "Bisa nanya langsung juga.",
+      "PORTUGUESE": "Poderia cobrar meu namorado na hora.",
+      "SPANISH": "Podría reclamarle a mi novio de inmediato.",
+      "PERSIAN": "مثلاً می‌توانستم فوراً با او مقابله کنم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 41.2,
+      "HIDE": 43.13
+    },
+    "SCRIPT": {
+      "KOREAN": "더 최악인 거",
+      "ENGLISH": "But what's worst is...",
+      "CHINESE_SIMPLIFIED": "但最最最糟糕的是——",
+      "CHINESE_TRADITIONAL": "更糟糕的是——",
+      "JAPANESE": "もっと最悪なのは",
+      "INDONESIAN": "Tapi yang lebih parah...",
+      "PORTUGUESE": "Mas seria pior",
+      "SPANISH": "Pero sería peor...",
+      "PERSIAN": "اما بدترین چیز این است که ..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 43.13,
+      "HIDE": 44.16
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 내 친구 집에 남친 팬티",
+      "ENGLISH": "My boyfriend's underwear at my friend's",
+      "CHINESE_SIMPLIFIED": "在我朋友家发现男友的内裤",
+      "CHINESE_TRADITIONAL": "在朋友家發現男友的內褲",
+      "JAPANESE": "友達の家に彼氏の下着",
+      "INDONESIAN": "CD cowokku di rumah temen.",
+      "PORTUGUESE": "encontrar a cueca do meu namorado na casa da minha amiga.",
+      "SPANISH": "encontrar los calzones de mi novio en casa de mi amiga.",
+      "PERSIAN": "لباس زیر دوست پسرم نزد دوستم"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 44.16,
+      "HIDE": 46.17
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 뭔가 말하기도 애매하고",
+      "ENGLISH": "It's hard to confront them",
+      "CHINESE_SIMPLIFIED": "这种根本尴尬到不知从何问起",
+      "CHINESE_TRADITIONAL": "那樣就很難開口...",
+      "JAPANESE": "それはちょっと問い詰めづらいし",
+      "INDONESIAN": "Itu tuh... mau ngomong juga ribet.",
+      "PORTUGUESE": "Seria muito mais constrangedor dizer:",
+      "SPANISH": "Sería mucho más incómodo decirle:",
+      "PERSIAN": "مقابله با اونا سخت است"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 49.17,
+      "HIDE": 51.19
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 팬티 뭐야?라고 했을 때",
+      "ENGLISH": "Like, “Hey, what the hell is this?” ",
+      "CHINESE_SIMPLIFIED": "就算问“这内裤怎么回事？”",
+      "CHINESE_TRADITIONAL": "要問“這是誰的內褲啊？”",
+      "JAPANESE": "この下着何？って聞いた時",
+      "INDONESIAN": "“Ini CD siapa?” aja udah males banget.",
+      "PORTUGUESE": "“O que essa cueca está fazendo aqui?”",
+      "SPANISH": "“¿Qué hacen estos calzones aquí?”",
+      "PERSIAN": "مثل \"هی، این چه جهنمی است؟\""
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 51.19,
+      "HIDE": 52.17
+    },
+    "SCRIPT": {
+      "KOREAN": "그것도 말하기가 좀 그렇고",
+      "ENGLISH": "That's just hard.",
+      "CHINESE_SIMPLIFIED": "这样的话也难以启齿",
+      "CHINESE_TRADITIONAL": "好像也怪怪的...",
+      "JAPANESE": "それもまた話づらいし",
+      "INDONESIAN": "Bawaannya udah gak enak ngomonginnya.",
+      "PORTUGUESE": "Eu nem saberia como tocar no assunto.",
+      "SPANISH": "No sabría cómo sacar el tema.",
+      "PERSIAN": "این فقط سخت است."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 52.17,
+      "HIDE": 54.15
+    },
+    "SCRIPT": {
+      "KOREAN": "“애인 방귀 냄새 맡기 vs 내 방귀 냄새 애인이 맡기”",
+      "ENGLISH": "“Smelling your partner’s fart vs. them smelling yours.”",
+      "CHINESE_SIMPLIFIED": "“让恋人闻我的屁 vs 我闻恋人的屁”",
+      "CHINESE_TRADITIONAL": "\"讓戀人聞我的屁味\" vs \"我聞戀人的屁味\"",
+      "JAPANESE": "”恋人のオナラのにおいを嗅ぐ vs 自分のオナラのにおいを恋人が嗅ぐ”",
+      "INDONESIAN": "“Nyium kentut pacar vs. pacar nyim kentut aku.”",
+      "PORTUGUESE": "“Que seu parceiro sinta o cheiro dos seus gases” ou “Ter que cheirar os gases do seu parceiro.”",
+      "SPANISH": "“Que tu pareja huela tus  gases\" o \"Tener que oler los gases de tu pareja”",
+      "PERSIAN": "«بوی گوز همسرتان در مقابل بوی گوز شما»"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 54.15,
+      "HIDE": 59.17
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 “내 방귀 냄새 애인이 맡기”",
+      "ENGLISH": "I’m going with them smelling mine.",
+      "CHINESE_SIMPLIFIED": "我选让恋人闻自己的屁",
+      "CHINESE_TRADITIONAL": "我選\"讓戀人聞我的屁味\"",
+      "JAPANESE": "私は”自分のオナラのにおいを恋人が嗅ぐ”派",
+      "INDONESIAN": "Aku sih milih pacar yang nyium kentutku.",
+      "PORTUGUESE": "Eu prefiro que meu parceiro cheire os meus.",
+      "SPANISH": "Yo prefiero que mi pareja huela los míos.",
+      "PERSIAN": "من با اونا می روم بوی خود را."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 59.17,
+      "HIDE": 62.18
+    },
+    "SCRIPT": {
+      "KOREAN": "(둘 다 냄새는 최악이에요)",
+      "ENGLISH": "(I mean, both are nasty, let’s be real.)",
+      "CHINESE_SIMPLIFIED": "（反正两者都是生化武器级别）",
+      "CHINESE_TRADITIONAL": "（反正兩種都很糟）",
+      "JAPANESE": "（どっちも最悪です）",
+      "INDONESIAN": "Dua-duanya sih bau ya.",
+      "PORTUGUESE": "(Os gases dos dois fedem do mesmo jeito.)",
+      "SPANISH": "(Los gases de ambos huelen asqueroso)",
+      "PERSIAN": "(منظورم این است که هر دو بد هستند، بگذارید واقعی باشیم.)"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 59.17,
+      "HIDE": 62.18
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까 내 거를 맡는 게 나을 거 같은데",
+      "ENGLISH": "But if someone’s gotta suffer...",
+      "CHINESE_SIMPLIFIED": "所以我觉得让他闻我的比较好",
+      "CHINESE_TRADITIONAL": "所以讓對方聞自己的屁味會比較好",
+      "JAPANESE": "でも自分のを嗅がれる方がまだマシだと思うけど",
+      "INDONESIAN": "Tapi mending dia aja yang nyium.",
+      "PORTUGUESE": "Mas prefiro que seja ele quem sofra, não eu.",
+      "SPANISH": "Pero prefiero que sea él quien sufra y no yo.",
+      "PERSIAN": "اما اگر کسی باید رنج بکشد ..."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 62.18,
+      "HIDE": 65.06
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 더 낫지 않나요?",
+      "ENGLISH": "it shouldn’t be me, right?",
+      "CHINESE_SIMPLIFIED": "这么想是不是合理多了？",
+      "CHINESE_TRADITIONAL": "比起我來聞，讓對方聞我的味道…",
+      "JAPANESE": "それがマシじゃないですか？",
+      "INDONESIAN": "Lebih mending gitu daripada aku.",
+      "PORTUGUESE": "Não é melhor assim?",
+      "SPANISH": "¿No es mejor así?",
+      "PERSIAN": "این نباید من باشم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 66.0,
+      "HIDE": 69.0
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 맡는 거 보다",
+      "ENGLISH": "Way better than me having to deal with their stink.",
+      "CHINESE_SIMPLIFIED": "与其让我承受精神攻击",
+      "CHINESE_TRADITIONAL": "這樣不是比較好嗎？",
+      "JAPANESE": "自分が嗅ぐよりは",
+      "INDONESIAN": "Mending dia yang nanggung baunya.",
+      "PORTUGUESE": "Antes de cheirar,",
+      "SPANISH": "Antes que olerlos,",
+      "PERSIAN": "خیلی بهتر از اینکه من با بوی تعفن اونا کنار بیایم."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 70.03,
+      "HIDE": 71.22
+    },
+    "SCRIPT": {
+      "KOREAN": "차라리 재 냄새를 상대가 맡는 게...",
+      "ENGLISH": "Like, no thanks. I’ll gas 'em, not sniff 'em.",
+      "CHINESE_SIMPLIFIED": "不如把伤害值转移给对方",
+      "CHINESE_TRADITIONAL": "至少我不用受那個味道的罪",
+      "JAPANESE": "相手に嗅がせた方が…",
+      "INDONESIAN": "Aku sih gamau kalo harus nyium.",
+      "PORTUGUESE": "prefiro soltá-los e deixar ele cheirar...",
+      "SPANISH": "prefiero tirármelos y que él los huela...",
+      "PERSIAN": "مثل، نه ممنون من اونا رو گاز می زنم، نه اینکه اونا رو بو کنم."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 71.22,
+      "HIDE": 73.01
+    },
+    "SCRIPT": {
+      "KOREAN": "“1분에 한 번씩 연락하기 vs 하루에 한 번만 연락하기”",
+      "ENGLISH": "“Texting every minute vs. texting just once a day.”",
+      "CHINESE_SIMPLIFIED": "“每分钟联络一次 vs 每天只联络一次”",
+      "CHINESE_TRADITIONAL": "”每分鐘聯絡一次” vs “一天只聯絡一次”",
+      "JAPANESE": "”1分ごとに連絡する vs 1日1回だけ連絡する”",
+      "INDONESIAN": "“Chat tiap menit vs. chat sekali sehari.”",
+      "PORTUGUESE": "“Que te mande mensagem a cada minuto\" ou \"que te mande só uma vez por dia.”",
+      "SPANISH": "“Que te escriba a cada minuto\" o \"Que te escriba una vez al día.”",
+      "PERSIAN": "ارسال پیامک در هر دقیقه در مقابل ارسال پیامک فقط یک بار در روز."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 74.01,
+      "HIDE": 78.04
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 “하루에 한 번만 연락하기” 연락을 자주 못하겠어요",
+      "ENGLISH": "I’d pick once a day, for sure. I’m not really the type to text all the time.",
+      "CHINESE_SIMPLIFIED": "我选“每天只联络一次”，实在做不到高频聊天",
+      "CHINESE_TRADITIONAL": "我選”一天只聯絡一次“，我本來就不是常常聯絡別人的人",
+      "JAPANESE": "私は”1日1回だけ連絡する”そんなに頻繁に連絡取れなさそうです",
+      "INDONESIAN": "Aku pilih yang sekali sehari aja, gak bisa yang sering-sering.",
+      "PORTUGUESE": "Eu escolho “uma vez por dia”. Não consigo ficar mandando mensagem o tempo todo.",
+      "SPANISH": "Escojo “una vez al día”. No puedo estar mensajeando tan seguido.",
+      "PERSIAN": "حتما روزی یکبار انتخاب میکنم من واقعاً اون نوع نیستم که همیشه پیامک بنویسم."
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 78.18,
+      "HIDE": 81.21
+    },
+    "SCRIPT": {
+      "KOREAN": "연락을 뭘 더 이어가야 될지 잘 모르겠기도 하고",
+      "ENGLISH": "Half the time, I don’t even know what to say next.",
+      "CHINESE_SIMPLIFIED": "也不知道该怎么延续话题",
+      "CHINESE_TRADITIONAL": "而且常常不知道要接著聊什麼",
+      "JAPANESE": "連絡の続け方もよくわからないし",
+      "INDONESIAN": "Kadang bingung juga mau bahas apa.",
+      "PORTUGUESE": "Além disso, nunca sei bem como manter a conversa,",
+      "SPANISH": "Además, nunca sé bien cómo mantener la conversación,",
+      "PERSIAN": "نصف وقت، حتی نمی دانم بعدش چه بگویم."
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 83.21,
+      "HIDE": 87.14
+    },
+    "SCRIPT": {
+      "KOREAN": "많이 하면 좀 부담스럽다 해야 하나",
+      "ENGLISH": "And when it’s too much, it starts to feel kinda suffocating.",
+      "CHINESE_SIMPLIFIED": "聊天太密集又会有压力",
+      "CHINESE_TRADITIONAL": "太頻繁聯絡的話，會讓人有負擔吧",
+      "JAPANESE": "多いとちょっと重く感じるというか",
+      "INDONESIAN": "Kalo kebanyakan malah jadi beban.",
+      "PORTUGUESE": "e se for demais, vira algo cansativo.",
+      "SPANISH": "y si es demasiado, llega a ser agobiante.",
+      "PERSIAN": "و وقتی خیلی زیاد است، شروع به احساس خفگی می کند."
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 90.2,
+      "HIDE": 94.03
+    },
+    "SCRIPT": {
+      "KOREAN": "1분에 한 번씩은 좀",
+      "ENGLISH": "Every minute? ",
+      "CHINESE_SIMPLIFIED": "每分钟发一次",
+      "CHINESE_TRADITIONAL": "每分鐘聯絡一次那種",
+      "JAPANESE": "1分ごとはさすがに",
+      "INDONESIAN": "Tiap menit tuh... lebay sih.",
+      "PORTUGUESE": "Isso de escrever a cada minuto seria...",
+      "SPANISH": "Eso de escribir cada minuto sería...",
+      "PERSIAN": "هر دقیقه؟"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 94.03,
+      "HIDE": 95.17
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 힘들 거 같긴 해요",
+      "ENGLISH": "That sounds exhausting.",
+      "CHINESE_SIMPLIFIED": "那真的太累了吧？",
+      "CHINESE_TRADITIONAL": "感覺真的會太累",
+      "JAPANESE": "きついと思います",
+      "INDONESIAN": "Capek cuy kalo kayak gitu terus.",
+      "PORTUGUESE": "exaustivo demais.",
+      "SPANISH": "demasiado agotador.",
+      "PERSIAN": "خسته کننده به نظر می رسد."
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 95.17,
+      "HIDE": 98.04
+    },
+    "SCRIPT": {
+      "KOREAN": "할 말도 없을 것 같은데",
+      "ENGLISH": "Like, what are we even supposed to talk about that often?",
+      "CHINESE_SIMPLIFIED": "哪来那么多话可聊啊",
+      "CHINESE_TRADITIONAL": "應該也沒那麼多話可以講啦",
+      "JAPANESE": "話すこともなさそう",
+      "INDONESIAN": "Mau ngobrol apaan coba terus-terusan gitu?",
+      "PORTUGUESE": "Não ia sobrar nem assunto.",
+      "SPANISH": "Ya no habría de qué hablar.",
+      "PERSIAN": "مثلاً، ما حتی قرار است در مورد چه چیزی اغلب صحبت کنیم؟"
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 98.04,
+      "HIDE": 99.15
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 99.15,
+      "HIDE": 101.21
+    }
+  }
+]

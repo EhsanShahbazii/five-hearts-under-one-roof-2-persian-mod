@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이것 좀 먹어봐요...",
+      "ENGLISH": "Try this...",
+      "CHINESE_SIMPLIFIED": "来，尝一点这个...",
+      "CHINESE_TRADITIONAL": "來，嚐一點這個...",
+      "JAPANESE": "これ、食べてください",
+      "INDONESIAN": "Coba makan ini sedikit...",
+      "PORTUGUESE": "Come isso…",
+      "SPANISH": "Coma esto…",
+      "PERSIAN": "اینو امتحان کن..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "没事吧？",
+      "CHINESE_TRADITIONAL": "沒事吧",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Tá tudo bem?",
+      "SPANISH": "¿Está bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저번에도 그렇고, 계속 이런 일이 있었던 거예요?",
+      "ENGLISH": "Like last time, has this been happening a lot?",
+      "CHINESE_SIMPLIFIED": "上次也这样，这种事是不是一直有？",
+      "CHINESE_TRADITIONAL": "上次也這樣，這種事情常常發生嗎？",
+      "JAPANESE": "この前もそうだったけど、ずっとこんなことがあったんですか？",
+      "INDONESIAN": "Waktu itu juga kejadian kayak gini terus, ya?",
+      "PORTUGUESE": "Da última vez que a gente se viu… você tava assim por causa disso?",
+      "SPANISH": "La última vez que nos vimos… ¿estaba así por esto?",
+      "PERSIAN": "مثل دفعه قبل، این اتفاق زیاد افتاده؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "전 괜찮아요",
+      "ENGLISH": "I'm fine.",
+      "CHINESE_SIMPLIFIED": "我没事",
+      "CHINESE_TRADITIONAL": "我沒事的",
+      "JAPANESE": "私は平気です",
+      "INDONESIAN": "Aku nggak apa-apa.",
+      "PORTUGUESE": "Tô bem.",
+      "SPANISH": "Estoy bien.",
+      "PERSIAN": "من حالم خوبه."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 통원치료 마지막 날인데 유만 씨는 좀 어때요?",
+      "ENGLISH": "Today's my last outpatient treatment day. How about you, Yoo-man?",
+      "CHINESE_SIMPLIFIED": "不过今天是你门诊治疗的最后一天呢，你现在感觉怎么样？",
+      "CHINESE_TRADITIONAL": "不過今天是門診治療的最後一天，宥萬先生感覺如何呢？",
+      "JAPANESE": "でも、今日は通院の最終日なのにユマンさんは大丈夫ですか？",
+      "INDONESIAN": "Tapi ini kan hari terakhir rawat jalan... kamu sendiri gimana Yuman?",
+      "PORTUGUESE": "Hoje é meu último dia de fisioterapia ambulatorial, e você, como tá se sentindo, Yumán?",
+      "SPANISH": "Hoy es mi último día de terapia ambulatoria, ¿y usted cómo se siente, Yumán?",
+      "PERSIAN": "امروز آخرین روز درمان سرپایی منه. تو چطور، یو-من؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 병원 그만 가도 되겠다 그쵸.",
+      "ENGLISH": "I guess I can stop coming to the hospital now, right?",
+      "CHINESE_SIMPLIFIED": "以后不用再来医院了吧？",
+      "CHINESE_TRADITIONAL": "以後不用再來醫院了吧？",
+      "JAPANESE": "もう病院、卒業ですね、ね？",
+      "INDONESIAN": "Sekarang sudah nggak perlu ke rumah sakit lagi kan?",
+      "PORTUGUESE": "Acho que você já não precisa continuar indo pro hospital, né?",
+      "SPANISH": "Creo que ya no necesita seguir yendo al hospital, ¿verdad?",
+      "PERSIAN": "فکر کنم دیگه بتونم بیمارستان نیام، درسته؟"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "또 병원을 오라고요? 아이 그러지 마요~",
+      "ENGLISH": "Come to the hospital again? Oh, don't do that~",
+      "CHINESE_SIMPLIFIED": "又要我来医院？哎呀别这样啦～",
+      "CHINESE_TRADITIONAL": "又要我來醫院？哎喲，不要這樣啦～",
+      "JAPANESE": "また病院に来てって？いや〜それはやめましょうよ〜",
+      "INDONESIAN": "Disuruh ke rumah sakit lagi? Aduh jangan gitu dong",
+      "PORTUGUESE": "Quer que eu continue indo pro hospital? Ah, por favor, não.",
+      "SPANISH": "¿Quieres que siga yendo al hospital? No, por favor.",
+      "PERSIAN": "دوباره اومدی بیمارستان؟ اوه، این کارو نکن~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나 이제야 좀 숨 좀 쉬는 거 같은데~",
+      "ENGLISH": "I feel like I'm finally catching my breath~",
+      "CHINESE_SIMPLIFIED": "我好不容易才喘口气呢～",
+      "CHINESE_TRADITIONAL": "好不容易才喘口氣的說",
+      "JAPANESE": "やっと少し息つけるようになったのに〜",
+      "INDONESIAN": "Aku baru ngerasa bisa napas lega nih",
+      "PORTUGUESE": "Só de pensar nisso já me dá arrepios~",
+      "SPANISH": "Se me eriza la piel solo pensarlo~",
+      "PERSIAN": "حس می‌کنم بالاخره دارم نفس می‌کشم~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으론 제 앞에서 병원에 ‘ㅂ’자도 꺼내지 마세요.",
+      "ENGLISH": "From now on, don't even mention the letter ‘B’ in front of me.",
+      "CHINESE_SIMPLIFIED": "以后在我面前连医院的“医”字都不准提",
+      "CHINESE_TRADITIONAL": "以後在我面前，連“醫”這個字都不要提",
+      "JAPANESE": "これからは俺の前で「びょ（病）」の字も出しちゃダメですよ",
+      "INDONESIAN": "Mulai sekarang jangan sebut-sebut kata \"rumah sakit\" di depan aku ya",
+      "PORTUGUESE": "De agora em diante, nem menciona a palavra “hospital” na minha frente.",
+      "SPANISH": "De ahora en adelante, ni menciones la palabra “hospital” frente a mí.",
+      "PERSIAN": "از این به بعد، حتی حرف «ب» را جلوی من به زبان نیاور."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 미안해요...",
+      "ENGLISH": "Oh, I'm sorry...",
+      "CHINESE_SIMPLIFIED": "啊，抱歉...",
+      "CHINESE_TRADITIONAL": "啊，抱歉...",
+      "JAPANESE": "あっ、ごめんなさい…",
+      "INDONESIAN": "Ah maaf...",
+      "PORTUGUESE": "Ah, desculpa...",
+      "SPANISH": "Ah, lo siento...",
+      "PERSIAN": "اوه، متاسفم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 만날 거면 규리 씨가 제 쪽으로 오는 거로 ",
+      "ENGLISH": "Ah, if we're meeting, let's make it so Kyuri-ssi comes to my place?",
+      "CHINESE_SIMPLIFIED": "那要见面的话，就换你来我这边吧",
+      "CHINESE_TRADITIONAL": "如果要見面的話，那你來我這邊吧",
+      "JAPANESE": "じゃあ、会うときはギュリさんが僕の方に来るってことで",
+      "INDONESIAN": "Kalau gitu kalau maunya Gyuri aja yang dateng ke tempatku",
+      "PORTUGUESE": "Se quiser me ver, tem que vir você.",
+      "SPANISH": "Si me quieres ver, tienes que venir usted.",
+      "PERSIAN": "آه، اگر قرار است همدیگر را ببینیم، طوری رفتار کنیم که کیوری-سی به خونه من بیاید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "콜? 헤헤헤헤",
+      "ENGLISH": "Call? Hehehehe",
+      "CHINESE_SIMPLIFIED": "好不好？嘿嘿嘿",
+      "CHINESE_TRADITIONAL": "好嗎？嘿嘿嘿",
+      "JAPANESE": "オッケー？ へへへへ",
+      "INDONESIAN": "Deal? Hehehehe",
+      "PORTUGUESE": "Combinado?",
+      "SPANISH": "¿Trato hecho?",
+      "PERSIAN": "زنگ بزن؟ هههههه"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네 그래요 그럼...",
+      "ENGLISH": "Yeah, okay then...",
+      "CHINESE_SIMPLIFIED": "嗯，好吧，那就这么定了...",
+      "CHINESE_TRADITIONAL": "嗯，好吧，那就這樣...",
+      "JAPANESE": "はい、そうですね、じゃあ…",
+      "INDONESIAN": "Iya deh kalau gitu...",
+      "PORTUGUESE": "Sim, tudo bem então...",
+      "SPANISH": "Sí, está bien entonces...",
+      "PERSIAN": "آره، باشه پس..."
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 당연하죠!",
+      "ENGLISH": "Oh, of course!",
+      "CHINESE_SIMPLIFIED": "当然啦！",
+      "CHINESE_TRADITIONAL": "當然啦！",
+      "JAPANESE": "もちろんですよ！",
+      "INDONESIAN": "Ya jelas dong!",
+      "PORTUGUESE": "Ah, claro!",
+      "SPANISH": "¡Ah, por supuesto!",
+      "PERSIAN": "اوه، البته!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨랑은 병원에서도 보고...",
+      "ENGLISH": "I see you at the hospital...",
+      "CHINESE_SIMPLIFIED": "我不想只在医院见到方护士",
+      "CHINESE_TRADITIONAL": "我不只想在醫院見到護理師你",
+      "JAPANESE": "ギュリさんとは、病院でも会いたいし…",
+      "INDONESIAN": "Aku pengen ketemu Gyuri bukan cuma di rumah sakit",
+      "PORTUGUESE": "A gente não pode se ver no hospital...",
+      "SPANISH": "No podemos ver en el hospital...",
+      "PERSIAN": "تو بیمارستان می‌بینمت..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "밖에서도 보고 싶은데요?",
+      "ENGLISH": "But I want to see you outside too?",
+      "CHINESE_SIMPLIFIED": "在外面也想见你呢",
+      "CHINESE_TRADITIONAL": "也想在外面和你碰面",
+      "JAPANESE": "外でも会いたいです！",
+      "INDONESIAN": "Tapi juga di luar..",
+      "PORTUGUESE": "mas pode se ver do lado de fora também.",
+      "SPANISH": "pero también podemos vernos afuera.",
+      "PERSIAN": "اما من هم می‌خوام تو را بیرون ببینم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんとですか？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "جدی می‌گی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "바쁘다고 나 안 만나주면 안 돼요~",
+      "ENGLISH": "You can't say you're too busy to meet me, right~",
+      "CHINESE_SIMPLIFIED": "你可不许因为忙就不见我哦～",
+      "CHINESE_TRADITIONAL": "你不要因為忙碌，就不跟我見面喔",
+      "JAPANESE": "忙しいって言って、会ってくれなかったら嫌ですよ〜？",
+      "INDONESIAN": "Jangan sampai nanti bilang sibuk terus nggak mau ketemu ya",
+      "PORTUGUESE": "Depois não vem me dizer que tá ocupado demais pra me ver~",
+      "SPANISH": "Luego no me diga que está muy ocupado para verme~",
+      "PERSIAN": "نمیتونی بگی که سرت خیلی شلوغه که بهم سر بزنی، درسته~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 그럴 리 없잖아요~",
+      "ENGLISH": "I wouldn't do that to you~",
+      "CHINESE_SIMPLIFIED": "我怎么可能呢～",
+      "CHINESE_TRADITIONAL": "我怎麼可能～",
+      "JAPANESE": "そんなこと、あるわけないじゃないですか〜！",
+      "INDONESIAN": "Aku kan nggak mungkin kayak gitu~",
+      "PORTUGUESE": "Você sabe que eu nunca faria isso~",
+      "SPANISH": "Sabe que nunca haría eso~",
+      "PERSIAN": "من این کارو باهات نمیکنم~"
+    }
+  }
+]

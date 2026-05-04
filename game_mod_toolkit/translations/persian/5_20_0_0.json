@@ -1,0 +1,196 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.22
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 다 들어왔어? ",
+      "ENGLISH": "Hey, everyone in here now?",
+      "CHINESE_SIMPLIFIED": "都到齐了吗？",
+      "CHINESE_TRADITIONAL": "嗯，人都到齊了嗎？",
+      "JAPANESE": "おい、全員来たか？",
+      "INDONESIAN": "Eh semua udah pada masuk?",
+      "PORTUGUESE": "Já entraram todos?",
+      "SPANISH": "¿Ya entraron todos?",
+      "PERSIAN": "هی، همه الان اینجا هستند؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.23,
+      "HIDE": 2.15
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yes…",
+      "CHINESE_SIMPLIFIED": "是的...",
+      "CHINESE_TRADITIONAL": "是的…",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Udah…",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "بله…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.16,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너네 이제 중학생 아니여 고1이여. 어?",
+      "ENGLISH": "You’re not middle schoolers anymore—you’re in high school now, got it?",
+      "CHINESE_SIMPLIFIED": "你们现在可不是初中生了，是高一了，懂吗？",
+      "CHINESE_TRADITIONAL": "你們現在不是國中生，是高一！高一，知道嗎",
+      "JAPANESE": "お前らもう中学生じゃねえぞ、高1だ 高1！",
+      "INDONESIAN": "Kalian bukan kan anak SMP lagi. Sekarang udah SMA tau, ngerti kan?",
+      "PORTUGUESE": "Vamos ver, vocês já não são mais alunos da escolinha. Já estão no ensino médio.",
+      "SPANISH": "A ver, ustedes ya no son alumnos de escuelita. Ya están en en preparatoria.",
+      "PERSIAN": "شما دیگر دبیرستانی نیستید - الان در دبیرستان هستید، متوجه شدید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 눈 깜빡하면 2학년이고 눈 깜빡하면 수능이여",
+      "ENGLISH": "Before you know it, you’ll blink and be in second year, blink again and it’s college entrance exams.",
+      "CHINESE_SIMPLIFIED": "啊？眨个眼就高二了，再眨个眼就高考了",
+      "CHINESE_TRADITIONAL": "一眨眼就升高二，再來就是學測",
+      "JAPANESE": "いいか？瞬きしたら2年生、もう一回瞬きしたら受験だ",
+      "INDONESIAN": "Tau-tau nanti kedip sekali udah naik kelas dua, kedip lagi ujian masuk kuliah.",
+      "PORTUGUESE": "Num piscar de olhos vocês já vão estar no último ano, e depois fazendo o vestibular!",
+      "SPANISH": "¡En un parpateo ya estarán en último año, y luego haciendo el examen de ingreso a la universidad!",
+      "PERSIAN": "قبل از اینکه متوجه شوید، پلک می زنید و سال دوم می شوید، دوباره پلک می زنید و امتحانات ورودی دانشگاه است."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니께 우리 반 수업태도 안 좋다 얘기 들리기만 햐 아주 어?!",
+      "ENGLISH": "So if I hear even one word about this class slacking off—",
+      "CHINESE_SIMPLIFIED": "所以啊，要是再听到我们班上课态度不好的话",
+      "CHINESE_TRADITIONAL": "所以，只要讓我聽到我們班的上課態度不好的話，嗯？！",
+      "JAPANESE": "だから、うちのクラスの態度悪いって聞こえてきたら 全員連帯責任な！わかったか！？",
+      "INDONESIAN": "Jadi kalau aku denger ada kabar kelas ini suka males-malesan—",
+      "PORTUGUESE": "Então se eu chegar a ouvir qualquer reclamação desta turma...!",
+      "SPANISH": "¡Así que si llego a escuchar alguna queja de esta clase...!",
+      "PERSIAN": "بنابراین اگر من حتی یک کلمه در مورد سستی این کلاس بشنوم-"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": " 바로 단체 기합할 거니께 알겠지?",
+      "ENGLISH": "you’re all getting group punishment, got it?",
+      "CHINESE_SIMPLIFIED": "全体都给我体罚，知道了吗？",
+      "CHINESE_TRADITIONAL": "我會對全班進行懲罰，知道嗎？",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "semuanya bakal dihukum bareng, paham?!",
+      "PORTUGUESE": "Eu vou punir todos vocês. Me ouviram?!",
+      "SPANISH": "Los voy a castigar a todos. ¡¿me oyeron?!",
+      "PERSIAN": "همه شما در حال مجازات گروهی هستید، متوجه شدید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yes…",
+      "CHINESE_SIMPLIFIED": "知道了...",
+      "CHINESE_TRADITIONAL": "是...",
+      "JAPANESE": "1時間目、寝るなよ！ったく、頑張れよ！",
+      "INDONESIAN": "Iya…",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "بله…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "1교시 졸지말고! 쯧, 수고들 햐!",
+      "ENGLISH": "Don’t fall asleep in first period! Tsk Good luck, everyone.",
+      "CHINESE_SIMPLIFIED": "第一节课别打瞌睡！啧，打起精神来啊！",
+      "CHINESE_TRADITIONAL": "第一節課不准打瞌睡！大家集中精神啊！",
+      "JAPANESE": "はぁ…",
+      "INDONESIAN": "Jangan tidur di jam pertama! Tsk… Semangat ya, semuanya.",
+      "PORTUGUESE": "E não durmam na primeira hora! Tsk... A estudar!",
+      "SPANISH": "¡Y no se duerman en la primera hora! Tsk... ¡A estudiar!",
+      "PERSIAN": "در اولین دوره به خواب نروید! تف موفق باشید، همه."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에휴...",
+      "CHINESE_SIMPLIFIED": "唉...",
+      "CHINESE_TRADITIONAL": "唉唉...",
+      "JAPANESE": "さて〜1時間目なんだったっけな…",
+      "PORTUGUESE": "Ai...",
+      "SPANISH": "Ay...",
+      "PERSIAN": "에휴..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 28.1
+    },
+    "SCRIPT": {
+      "KOREAN": "자~ 1교시가 뭐였더라...",
+      "ENGLISH": "Alright~ what was first period again...?",
+      "CHINESE_SIMPLIFIED": "第一节课是什么来着...",
+      "CHINESE_TRADITIONAL": "第一節課是什麼啊…",
+      "JAPANESE": "おい、ユマン〜",
+      "INDONESIAN": "Oke deh~ pelajaran pertama tadi apa ya…?",
+      "PORTUGUESE": "Vamos ver~ qual era a primeira aula...?",
+      "SPANISH": "A ver~ ¿cuál era la primera clase...?",
+      "PERSIAN": "خوب ~ دوباره دوره اول چی بود...؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "헤이 유만이~",
+      "ENGLISH": "Hey, Yuman~",
+      "CHINESE_SIMPLIFIED": "嘿，宥万同学~",
+      "CHINESE_TRADITIONAL": "嘿，宥萬～",
+      "INDONESIAN": "Hei, Yuman~",
+      "PORTUGUESE": "Ei, Yuman.",
+      "SPANISH": "Oye, Yuman.",
+      "PERSIAN": "هی، یومان~"
+    }
+  }
+]

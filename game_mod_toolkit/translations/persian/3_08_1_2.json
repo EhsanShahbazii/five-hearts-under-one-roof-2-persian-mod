@@ -1,0 +1,223 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "남자들은 말숙이 같은 얼굴 좋아하죠.",
+      "ENGLISH": "Guys always go for girls like Mal-sook, right?",
+      "CHINESE_SIMPLIFIED": "男人都喜欢末淑那样的长相吧",
+      "CHINESE_TRADITIONAL": "男生都喜歡像末淑那種長相吧",
+      "JAPANESE": "男って、マルスクさんみたいな顔が好きですよね",
+      "INDONESIAN": "Cowok-cowok tuh emang selalu suka cewek kayak Mal-sook, kan?",
+      "SPANISH": "A los hombres les gustan las chicas con una cara como la de Malsook, ¿verdad?",
+      "PERSIAN": "پسرها همیشه سراغ دخترانی مثل مال‌سوک می روند، درست است؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 근데 키가 너무 크지 않아요?",
+      "ENGLISH": "Ugh~ but isn’t she, like, way too tall?",
+      "CHINESE_SIMPLIFIED": "啊~不过她个子是不是太高了点？",
+      "CHINESE_TRADITIONAL": "嗯～不過她有點太高了吧？",
+      "JAPANESE": "あ〜でも、ちょっと背が高すぎません？",
+      "INDONESIAN": "Ugh~ tapi dia tuh tinggi banget nggak sih?",
+      "SPANISH": "Ah~ pero, ¿no es demasiado alta?",
+      "PERSIAN": "اوه~ اما او خیلی قد بلند نیست؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 예쁘잖아요.",
+      "ENGLISH": "Yeah, but she’s pretty.",
+      "CHINESE_SIMPLIFIED": "但是漂亮啊",
+      "CHINESE_TRADITIONAL": "但是她很漂亮啊～",
+      "JAPANESE": "でも可愛いじゃないですか",
+      "INDONESIAN": "Iya, tapi dia cantik.",
+      "SPANISH": "Pero es linda.",
+      "PERSIAN": "بله، اما او زیباست."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "예쁜데 성격이 안 좋으면?",
+      "ENGLISH": "What if she’s got a terrible personality?",
+      "CHINESE_SIMPLIFIED": "漂亮但性格不好呢？",
+      "CHINESE_TRADITIONAL": "要是脾氣很差呢？",
+      "JAPANESE": "可愛くても性格悪かったら？",
+      "INDONESIAN": "Gimana kalau ternyata kepribadiannya nyebelin?",
+      "SPANISH": "¿Y si tiene mal carácter?",
+      "PERSIAN": "اگر او شخصیت وحشتناکی داشته باشد چه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 예쁘잖아요.",
+      "ENGLISH": "Still pretty.",
+      "CHINESE_SIMPLIFIED": "但是漂亮啊！",
+      "CHINESE_TRADITIONAL": "還是漂亮啊",
+      "JAPANESE": "でも可愛いじゃないですか",
+      "INDONESIAN": "Tetep cantik.",
+      "SPANISH": "Pero sigue siendo linda.",
+      "PERSIAN": "هنوز زیباست"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "막 밥도 흘리면서 먹으면요?",
+      "ENGLISH": "What if she eats like a slob and spills food everywhere?",
+      "CHINESE_SIMPLIFIED": "要是吃饭总掉饭粒呢？",
+      "CHINESE_TRADITIONAL": "吃飯掉得到處都是呢？",
+      "JAPANESE": "ご飯こぼしながら食べてたら？",
+      "INDONESIAN": "Gimana kalau makannya jorok dan berantakan banget?",
+      "SPANISH": "¿Y si come derramando la comida por todos lados?",
+      "PERSIAN": "چه می شود اگر او مانند یک لپه غذا بخورد و غذا را همه جا بریزد؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 예쁘잖아요.",
+      "ENGLISH": "Still pretty.",
+      "CHINESE_SIMPLIFIED": "但是...漂亮啊～",
+      "CHINESE_TRADITIONAL": "還是漂亮啊～",
+      "JAPANESE": "でも可愛いじゃないですか",
+      "INDONESIAN": "Tetep cantik.",
+      "SPANISH": "Aun así, es linda.",
+      "PERSIAN": "هنوز زیباست"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "똥도 막 맨날 싸고 그러면요?",
+      "ENGLISH": "What if she’s, like... constantly going to the bathroom?",
+      "CHINESE_SIMPLIFIED": "要是总那什么...总去大号呢？",
+      "CHINESE_TRADITIONAL": "那要是每天都大便呢？",
+      "JAPANESE": "トイレばっか行ってたら？",
+      "INDONESIAN": "Gimana kalau dia... bolak-balik ke kamar mandi terus?",
+      "SPANISH": "¿Y si va al baño todo el tiempo?",
+      "PERSIAN": "اگر مدام به دستشویی برود چه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.1
+    },
+    "SCRIPT": {
+      "KOREAN": "건강해서 좋죠 뭐.",
+      "ENGLISH": "Hey, that just means she’s healthy.",
+      "CHINESE_SIMPLIFIED": "说明身体健康啊，怎么了",
+      "CHINESE_TRADITIONAL": "那代表腸胃很好～健康美女欸",
+      "JAPANESE": "元気でいいじゃないですか",
+      "INDONESIAN": "Yah, berarti dia sehat dong.",
+      "SPANISH": "Eso significa que está saludable.",
+      "PERSIAN": "هی، این فقط به این معنی است که او سالم است."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 26.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨 알겠어요! 짜증 나!",
+      "ENGLISH": "Ugh, fine! I get it! You’re so annoying!",
+      "CHINESE_SIMPLIFIED": "阿西...知道啦！烦死了！",
+      "CHINESE_TRADITIONAL": "你！真的很煩欸！",
+      "JAPANESE": "はぁ!? もういいです！ ムカつく！",
+      "INDONESIAN": "Ugh, ya udah! Aku ngerti! Nyebelin banget sih kamu!",
+      "SPANISH": "¡Ugh, ya basta! ¡Qué fastidio!",
+      "PERSIAN": "اوه، خوب! متوجه شدم! تو خیلی آزار دهنده ای!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 어디 가요~",
+      "ENGLISH": "Huh? Where are you going~",
+      "CHINESE_SIMPLIFIED": "呃？你去哪儿啊~",
+      "CHINESE_TRADITIONAL": "欸？你要去哪裡～",
+      "JAPANESE": "えっ、どこ行くんですか〜",
+      "INDONESIAN": "Hah? Mau ke mana~",
+      "SPANISH": "¿Eh? ¿A dónde vas~?",
+      "PERSIAN": "ها؟ کجا میری~"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 31.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 잘 거예요! ",
+      "ENGLISH": "I’m going to bed!",
+      "CHINESE_SIMPLIFIED": "去睡觉！",
+      "CHINESE_TRADITIONAL": "去睡覺啦！",
+      "JAPANESE": "寝ます！",
+      "INDONESIAN": "Aku mau tidur!",
+      "SPANISH": "¡A dormir!",
+      "PERSIAN": "من میرم بخوابم!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 자든가, 말든가",
+      "ENGLISH": "Sleep or don’t—I don’t care!",
+      "CHINESE_SIMPLIFIED": "爱睡不睡！",
+      "CHINESE_TRADITIONAL": "那就好好睡吧～哼",
+      "JAPANESE": "じゃあ寝ればいいじゃないですか",
+      "INDONESIAN": "Tidur kek nggak kek—aku nggak peduli!",
+      "SPANISH": "Buenas o malas noches, lo que sea.",
+      "PERSIAN": "بخواب یا نخواب - برام مهم نیست!"
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "야 넌 무조건 다리지.",
+      "ENGLISH": "Girl, for you it’s definitely the legs.",
+      "CHINESE_SIMPLIFIED": "你必须得秀腿啊",
+      "CHINESE_TRADITIONAL": "你必須要秀出你的雙腿",
+      "JAPANESE": "お前は絶対に脚だな",
+      "INDONESIAN": "Cewek sepertimu, jelas yang paling menonjol itu kaki.",
+      "PORTUGUESE": "No seu caso, definitivamente são as pernas.",
+      "SPANISH": "En tu caso, definitivamente son las piernas.",
+      "PERSIAN": "دختر، برای تو قطعاً پاها هستند."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래? 다리가 제일 이뻐?",
+      "ENGLISH": "Really? My legs are the prettiest?",
+      "CHINESE_SIMPLIFIED": "是吗？腿最好看？",
+      "CHINESE_TRADITIONAL": "是嗎？腿最好看？",
+      "JAPANESE": "そう？脚が一番きれい？",
+      "INDONESIAN": "Serius? Kaki aku yang paling oke?",
+      "PORTUGUESE": "Sério? Minhas pernas são a parte mais bonita que eu tenho?",
+      "SPANISH": "¿Sí? ¿Mis piernas son lo más bonito que tengo?",
+      "PERSIAN": "واقعا؟ پاهای من زیباترین هستند؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "완전. 묻지도 말고 따지지도 말고 무조건 다리야.",
+      "ENGLISH": "Absolutely. No need to ask or think — it’s 100% the legs.",
+      "CHINESE_SIMPLIFIED": "绝对。别问也别犹豫，无条件选腿",
+      "CHINESE_TRADITIONAL": "沒錯。不要問，也不要猶豫，無條件就是你的雙腿",
+      "JAPANESE": "ああ 文句なしに絶対脚",
+      "INDONESIAN": "Udah pasti. Nggak usah mikir lama — 100% kaki.",
+      "PORTUGUESE": "Totalmente. Sem dúvida, as pernas.",
+      "SPANISH": "Totalmente. Sin dudar, las piernas.",
+      "PERSIAN": "کاملا. نیازی به پرسیدن یا فکر کردن نیست - 100٪ پاهاست."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "포즈도 말이야, 이렇게 다리를 내밀고, 어?",
+      "ENGLISH": "So for the pose, you stick your leg out like this,",
+      "CHINESE_SIMPLIFIED": "姿势嘛，得这样把腿往前伸，懂？",
+      "CHINESE_TRADITIONAL": "就連姿勢嘛，也要像這樣把雙腿伸出來，懂嗎？",
+      "JAPANESE": "ポーズもさ、こうやって脚を出して…な？",
+      "INDONESIAN": "Jadi kalau pose, kamu keluarin satu kaki gini,",
+      "PORTUGUESE": "E quanto à pose, olha, estica a perna assim, tá vendo?",
+      "SPANISH": "Y en cuanto a la pose, mira, saca la pierna así, ¿ves?",
+      "PERSIAN": "بنابراین برای ژست، پای خود را به این صورت بیرون می آورید،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "요렇게, 요렇게! 요렇게 한번 내밀어 봐.",
+      "ENGLISH": "like this, like this — try posing like this.",
+      "CHINESE_SIMPLIFIED": "这样，这样！试着这样伸一下",
+      "CHINESE_TRADITIONAL": "像這樣、像這樣！伸出來看看",
+      "JAPANESE": "ほら、こう、こう！こうやってみ？",
+      "INDONESIAN": "kayak gini, gini — coba deh pose kayak gini.",
+      "PORTUGUESE": "Assim, assim. Isso, tenta assim!",
+      "SPANISH": "Así, así. ¡Así, inténtalo!",
+      "PERSIAN": "اینجوری، اینجوری - سعی کن اینجوری ژست بگیری."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 알았어 요렇게?",
+      "ENGLISH": "Ah, got it — like this?",
+      "CHINESE_SIMPLIFIED": "啊知道啦，这样？",
+      "CHINESE_TRADITIONAL": "啊，我知道了，像這樣？",
+      "JAPANESE": "あ、こう？",
+      "INDONESIAN": "Ah, oke — kayak gini?",
+      "PORTUGUESE": "Ah, assim?",
+      "SPANISH": "Ah, ¿así?",
+      "PERSIAN": "آه، فهمیدم - اینجوری؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그치 이렇게 하면",
+      "ENGLISH": "Yeah, if you do that,",
+      "CHINESE_SIMPLIFIED": "没错就是这样",
+      "CHINESE_TRADITIONAL": "沒錯，就是這樣",
+      "JAPANESE": "そうそう、それそれ",
+      "INDONESIAN": "Iya, kalau kamu pose gitu,",
+      "PORTUGUESE": "Exato, assim você tá perfeita",
+      "SPANISH": "Exacto, así estás perfecta",
+      "PERSIAN": "بله، اگر این کار را انجام دهید،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다리 걸기 딱 좋아 ",
+      "ENGLISH": "your legs are perfect for crossing.",
+      "CHINESE_SIMPLIFIED": "这腿刚好适合绊一跤！",
+      "CHINESE_TRADITIONAL": "這樣交疊擺著最適合！",
+      "JAPANESE": "脚かけるのにちょうどだ",
+      "INDONESIAN": "kaki kamu tuh pas banget buat disilangkan.",
+      "PORTUGUESE": "pra uma luta de judô.",
+      "SPANISH": "para un duelo de judo",
+      "PERSIAN": "پاهای شما برای ضربدری مناسب هستند."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야?",
+      "ENGLISH": "...What?",
+      "CHINESE_SIMPLIFIED": "什么啊？",
+      "CHINESE_TRADITIONAL": "什麼啊？",
+      "JAPANESE": "なにそれ",
+      "INDONESIAN": "...Hah?",
+      "PORTUGUESE": "O quê…?",
+      "SPANISH": "¿Qué…?",
+      "PERSIAN": "... چی؟"
+    }
+  }
+]

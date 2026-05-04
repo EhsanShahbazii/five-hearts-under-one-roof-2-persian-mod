@@ -1,0 +1,315 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 말을 해볼까",
+      "ENGLISH": "Should I tell this to him",
+      "CHINESE_SIMPLIFIED": "今天要不要说出口呢",
+      "CHINESE_TRADITIONAL": "今天要不要說出口呢",
+      "JAPANESE": "今日は言ってみようかな",
+      "INDONESIAN": "Haruskah aku ngomong ke dia hari ini",
+      "PORTUGUESE": "Deveria te contar hoje?",
+      "SPANISH": "¿Debería decírtelo hoy?",
+      "PERSIAN": "باید اینو به او بگویم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야?",
+      "ENGLISH": "What the",
+      "CHINESE_SIMPLIFIED": "什么啊？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "なにこれ？",
+      "INDONESIAN": "Apaan sih ini",
+      "PORTUGUESE": "O que foi?",
+      "SPANISH": "¿Qué pasa?",
+      "PERSIAN": "چه چیزی"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 이거",
+      "ENGLISH": "What is this",
+      "CHINESE_SIMPLIFIED": "搞什么",
+      "CHINESE_TRADITIONAL": "這是什麼啊",
+      "JAPANESE": "え、なにこれ？",
+      "INDONESIAN": "Apaan nih",
+      "PORTUGUESE": "O que ele tá fazendo?",
+      "SPANISH": "¿Qué hace?",
+      "PERSIAN": "این چیه"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 왜 안 불러!! 돈 아깝다!!!",
+      "ENGLISH": "Hey, why aren't you singing!! This is a waste of money!!!",
+      "CHINESE_SIMPLIFIED": "怎么不唱歌！！钱都白花了！！",
+      "CHINESE_TRADITIONAL": "怎麼不唱！！錢都白花了！！",
+      "JAPANESE": "なに？なんで歌わないの！？金返せよ！！",
+      "INDONESIAN": "Kenapa nggak mulai-mulai!! Buang-buang duit aja!!!",
+      "PORTUGUESE": "Mas que diabos? Por que ela não tá cantando? Que perda de dinheiro!",
+      "SPANISH": "¿Qué demonios? ¿Por qué no canta? ¡Qué pérdida de dinero!",
+      "PERSIAN": "هی چرا نمیخونی!! این هدر دادن پول است!!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하 불안불안하더니...",
+      "ENGLISH": "Oh, I was feeling so uneasy...",
+      "CHINESE_SIMPLIFIED": "就知道会这样...",
+      "CHINESE_TRADITIONAL": "我就說會唱的不穩...",
+      "JAPANESE": "はぁ…やっぱり不安だったけど…",
+      "INDONESIAN": "Hah... dari tadi udah nggak yakin rasanya...",
+      "PORTUGUESE": "Ah, eu sabia… isso tava me cheirando mal…",
+      "SPANISH": "Ah, lo sabía... esto me daba mala espina...",
+      "PERSIAN": "اوه خیلی ناراحت بودم..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.2
+    },
+    "SCRIPT": {
+      "KOREAN": "노래나 하지 뭐하는거야 돈아깝게 씨",
+      "ENGLISH": "You don't even sing at all! this is a waste of money",
+      "CHINESE_SIMPLIFIED": "唱你的歌啊，在干嘛呢，浪费钱",
+      "CHINESE_TRADITIONAL": "不好好唱歌，幹什麼呢，真是浪費錢，該死",
+      "JAPANESE": "歌えよ！何してんだよ金の無駄だろ！！",
+      "INDONESIAN": "Nyanyi aja lah, ngapain sih buang-buang duit begini",
+      "PORTUGUESE": "Pelo menos devia cantar, que jeito de jogar dinheiro fora!",
+      "SPANISH": "¡Al menos debería cantar, qué manera de desperdiciar el dinero!",
+      "PERSIAN": "تو اصلاً آواز هم نمی‌خوانی! این هدر دادن پول است"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 32.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 그만하세요!!! 이건 너무 심하잖아요!!!",
+      "ENGLISH": "Everyone, stop it!!! This is way too much!!!",
+      "CHINESE_SIMPLIFIED": "各位请适可而止！！！你们太过分了！！",
+      "CHINESE_TRADITIONAL": "大家請適可而止，太過分了",
+      "JAPANESE": "みんなやめてください！！！ひどすぎます！！",
+      "INDONESIAN": "Hei cukup! Ini udah keterlaluan!!",
+      "PORTUGUESE": "Todo mundo, parem! Isso já é demais!",
+      "SPANISH": "¡Todos deténganse! ¡Esto ya es demasiado!",
+      "PERSIAN": "همه بس کن!!! این خیلی زیاده!!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 32.6,
+      "HIDE": 34.9
+    },
+    "SCRIPT": {
+      "KOREAN": "너 같은 놈 때문에 저런 애가 튀어 나오는 거 아니야!!",
+      "ENGLISH": "It's because of jerks like you that girls like her get pushed out!!",
+      "CHINESE_SIMPLIFIED": "就是因为你这种人，才会冒出这种艺人！！",
+      "CHINESE_TRADITIONAL": "就是因為有你這種傢伙，才會有這種藝人啊",
+      "JAPANESE": "お前みたいなのがいるから、ああいう奴が出てくるんだよ！！",
+      "INDONESIAN": "Gara-gara orang kayak kamu makanya anak-anak kayak dia jadi kesingkir!!",
+      "PORTUGUESE": "É por causa de tipos como você que garotas assim acabam saindo do palco!",
+      "SPANISH": "¡Por tipos como tú es que chicas así terminan saliendo del escenario!",
+      "PERSIAN": "به خاطر تند تندهایی مثل تو است که دخترانی مثل او رانده می شوند!!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 37.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나와! 씨!!",
+      "ENGLISH": "Get out! Dammit!!",
+      "CHINESE_SIMPLIFIED": "下来！喂！！",
+      "CHINESE_TRADITIONAL": "下來！喂！！",
+      "JAPANESE": "出てこい！この野郎！！",
+      "INDONESIAN": "Keluar sana! Sialan!!",
+      "PORTUGUESE": "Sai daí, seu desgraçado!",
+      "SPANISH": "¡Sal de ahí, maldito!",
+      "PERSIAN": "برو بیرون! لعنتی!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 37.9,
+      "HIDE": 38.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나오라고!!",
+      "ENGLISH": "Get out!!",
+      "CHINESE_SIMPLIFIED": "给我下来！！",
+      "CHINESE_TRADITIONAL": "給我下來！！",
+      "JAPANESE": "出てこいって！！",
+      "INDONESIAN": "Keluar!!!",
+      "PORTUGUESE": "Tô mandando você sair!",
+      "SPANISH": "¡Te dije que salgas!",
+      "PERSIAN": "برو بیرون!!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 39.4,
+      "HIDE": 40.2
+    },
+    "SCRIPT": {
+      "KOREAN": "꺼x라고! 씨!",
+      "ENGLISH": "Get the f*** out! Dammit!",
+      "CHINESE_SIMPLIFIED": "滚开！混蛋！",
+      "CHINESE_TRADITIONAL": "滾開！混蛋！",
+      "JAPANESE": "消えろ！！",
+      "INDONESIAN": "Minggir sana!",
+      "PORTUGUESE": "Cai fora, porra!",
+      "SPANISH": "¡Lárgate, carajo!",
+      "PERSIAN": "*** را بیرون بیاور! لعنتی!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 40.3,
+      "HIDE": 41.1
+    },
+    "SCRIPT": {
+      "KOREAN": "꺼x라고!",
+      "ENGLISH": "Get the f*** out!",
+      "CHINESE_SIMPLIFIED": "滚蛋！",
+      "CHINESE_TRADITIONAL": "滾蛋！",
+      "JAPANESE": "消えろ！！",
+      "INDONESIAN": "Minggir!!",
+      "PORTUGUESE": "Eu disse pra sair!",
+      "SPANISH": "¡Te dije que te largues!",
+      "PERSIAN": "*** را بیرون بیاور!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 41.6,
+      "HIDE": 42.1
+    },
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "呀！",
+      "CHINESE_TRADITIONAL": "呀！",
+      "JAPANESE": "おい！！",
+      "INDONESIAN": "Hey!",
+      "PORTUGUESE": "Ei!",
+      "SPANISH": "¡Oye!",
+      "PERSIAN": "سلام!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 42.2,
+      "HIDE": 42.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우~~~~!!!!",
+      "ENGLISH": "Wooooo~~~~!!!!",
+      "CHINESE_SIMPLIFIED": "呜~~~~！！！！",
+      "CHINESE_TRADITIONAL": "嗚～～～！！！！",
+      "JAPANESE": "うぉぉぉぉ！！",
+      "INDONESIAN": "Wooooo!!!!",
+      "PORTUGUESE": "Uuuuuuuhhh!",
+      "SPANISH": "¡Uuuuuhhh!",
+      "PERSIAN": "وووو~~~~!!!!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 42.8,
+      "HIDE": 44.8
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님!! 괜찮아요??",
+      "ENGLISH": "Minjeong-nim!! Are you okay??",
+      "CHINESE_SIMPLIFIED": "敏静！！你没事吧？？",
+      "CHINESE_TRADITIONAL": "敏靜！！你沒是吧？？",
+      "JAPANESE": "ミンジョンさん！！大丈夫ですか！？",
+      "INDONESIAN": "Min-jung! Kamu nggak apa-apa??",
+      "PORTUGUESE": "Minjung! Você tá bem?",
+      "SPANISH": "¡Minjung! ¿Estás bien?",
+      "PERSIAN": "مین‌جونگ نیم!! حالت خوبه؟؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 45.9,
+      "HIDE": 47.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 말이 맞았네요.",
+      "ENGLISH": "My brother was right.",
+      "CHINESE_SIMPLIFIED": "哥哥说得对呢",
+      "CHINESE_TRADITIONAL": "哥哥說得對",
+      "JAPANESE": "お兄さんの言った通りでしたね。",
+      "INDONESIAN": "Oppa ternyata bener ya",
+      "PORTUGUESE": "Você tinha razão, oppa...",
+      "SPANISH": "Tenías razón, oppa...",
+      "PERSIAN": "برادرم درست می گفت."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 47.6,
+      "HIDE": 50.5
+    },
+    "SCRIPT": {
+      "KOREAN": "역시 무대 위에 오르는 게 아니었어요.",
+      "ENGLISH": "She really shouldn't have been on stage.",
+      "CHINESE_SIMPLIFIED": "果然我不该站上舞台的",
+      "CHINESE_TRADITIONAL": "我果然不該站上舞台的",
+      "JAPANESE": "やっぱり…ステージには立つべきじゃなかったです…",
+      "INDONESIAN": "Aku emang nggak seharusnya naik ke atas panggung...",
+      "PORTUGUESE": "Eu não devia ter subido no palco, afinal.",
+      "SPANISH": "No debí haber subido al escenario después de todo.",
+      "PERSIAN": "او واقعاً نباید روی صحنه می بود."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 51.2
+    }
+  }
+]

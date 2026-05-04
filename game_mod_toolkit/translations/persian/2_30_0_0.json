@@ -1,0 +1,55 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "까미는 개냥이라서 안 그럴 거예요.",
+      "ENGLISH": "Kkami’s really friendly—like a dog in a cat’s body.",
+      "CHINESE_SIMPLIFIED": "小黑是只狗里狗气的猫，不会那样的",
+      "CHINESE_TRADITIONAL": "小黑比較像狗狗，牠不會那樣的",
+      "JAPANESE": "カミは犬みたいに人懐っこい猫だから大丈夫ですよ",
+      "INDONESIAN": "Kkami sangat ramah—seperti anjing di tubuh kucing.",
+      "PORTUGUESE": "Mas o Blacky não é assim. Ele é muito dócil.",
+      "SPANISH": "Pero Blacky no es así. Es muy manso.",
+      "PERSIAN": "ککامی واقعاً دوستانه است - مثل سگی در بدن گربه."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 얘 이름이 까미예요?",
+      "ENGLISH": "Oh... his name’s Kkami?",
+      "CHINESE_SIMPLIFIED": "啊...它叫小黑吗？",
+      "CHINESE_TRADITIONAL": "啊... 牠的名字叫小黑嗎？",
+      "JAPANESE": "あ…この子の名前、カミっていうんですか？",
+      "INDONESIAN": "Oh... namanya Kkami?",
+      "PORTUGUESE": "Ah... ele se chama Blacky?",
+      "SPANISH": "Ah... ¿Se llama Blacky?",
+      "PERSIAN": "اوه... اسمش ککامی است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "한번 쓰다듬어도 돼요?",
+      "ENGLISH": "Is it okay if I pet him?",
+      "CHINESE_SIMPLIFIED": "我可以摸摸它吗？",
+      "CHINESE_TRADITIONAL": "我可以摸摸牠嗎？",
+      "JAPANESE": "ちょっと撫でてもいいですか？",
+      "INDONESIAN": "Apakah aku boleh membelainya?",
+      "PORTUGUESE": "Posso fazer carinho nele?",
+      "SPANISH": "¿Le puedo acariciar?",
+      "PERSIAN": "اگه نوازشش کنم اشکالی نداره؟"
+    }
+  }
+]

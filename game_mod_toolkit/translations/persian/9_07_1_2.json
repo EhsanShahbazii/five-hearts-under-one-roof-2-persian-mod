@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐야 다시 원점이네?",
+      "ENGLISH": "What— I’m back at the starting point again?",
+      "CHINESE_SIMPLIFIED": "怎么又回到原点了？",
+      "CHINESE_TRADITIONAL": "怎麼又回到原點？",
+      "JAPANESE": "あれ、なんだよまた元の場所じゃん？",
+      "INDONESIAN": "Apa— aku balik ke titik awal lagi?",
+      "PORTUGUESE": "Ah, o quê…? Voltei pro ponto de início de novo!",
+      "SPANISH": "Ah, ¿qué…? ¡Volví al punto de inicio otra vez!",
+      "PERSIAN": "چی - دوباره به نقطه شروع برگشتم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 빨리 가야겠다",
+      "ENGLISH": "I need to hurry.",
+      "CHINESE_SIMPLIFIED": "得快点才行了！",
+      "CHINESE_TRADITIONAL": "要快點才行了...！",
+      "JAPANESE": "早く行かないと",
+      "INDONESIAN": "Aku harus cepet-cepet.",
+      "PORTUGUESE": "Tenho que me apressar.",
+      "SPANISH": "Tengo que apurarme.",
+      "PERSIAN": "باید عجله کنم"
+    }
+  }
+]

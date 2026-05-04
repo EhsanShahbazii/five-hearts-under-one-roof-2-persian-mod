@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.3
+    },
+    "SCRIPT": {
+      "KOREAN": "가득.",
+      "ENGLISH": "Fill it up.",
+      "CHINESE_SIMPLIFIED": "满上",
+      "CHINESE_TRADITIONAL": "倒滿",
+      "JAPANESE": "なみなみと",
+      "INDONESIAN": "Isilah sampai penuh.",
+      "PORTUGUESE": "Cheio.",
+      "SPANISH": "Lleno.",
+      "PERSIAN": "اونو پر کنید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "가득이요?",
+      "ENGLISH": "Fill it up?",
+      "CHINESE_SIMPLIFIED": "满上？",
+      "CHINESE_TRADITIONAL": "真的要倒滿？",
+      "JAPANESE": "なみなみですか？",
+      "INDONESIAN": "Mengisinya?",
+      "PORTUGUESE": "Cheio?",
+      "SPANISH": "¿Lleno?",
+      "PERSIAN": "اونو پر کنم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "남자가 자존심이 있지.",
+      "ENGLISH": "Come on, I’ve got my pride.",
+      "CHINESE_SIMPLIFIED": "男人是有自尊心的",
+      "CHINESE_TRADITIONAL": "男人是有自尊心的",
+      "JAPANESE": "男にはプライドってもんがあるんですよ",
+      "INDONESIAN": "Ayolah, aku punya harga diri.",
+      "PORTUGUESE": "Como homem, tenho meu orgulho.",
+      "SPANISH": "Como hombre, tengo mi orgullo.",
+      "PERSIAN": "بیا، من غرورم را بدست آورده ام."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "가득 따라 줘요.",
+      "ENGLISH": "Pour it full.",
+      "CHINESE_SIMPLIFIED": "给我倒满",
+      "CHINESE_TRADITIONAL": "整杯倒滿",
+      "JAPANESE": "いっぱい注いでください",
+      "INDONESIAN": "Tuangkan hingga penuh.",
+      "PORTUGUESE": "Me serve até a borda.",
+      "SPANISH": "Sírveme hasta arriba.",
+      "PERSIAN": "اونو پر بریزید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "더",
+      "ENGLISH": "More.",
+      "CHINESE_SIMPLIFIED": "再满点",
+      "CHINESE_TRADITIONAL": "更多",
+      "JAPANESE": "もっと",
+      "INDONESIAN": "Lagi.",
+      "PORTUGUESE": "Mais.",
+      "SPANISH": "Más.",
+      "PERSIAN": "بیشتر"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "더더",
+      "ENGLISH": "More. More.",
+      "CHINESE_SIMPLIFIED": "再满点",
+      "CHINESE_TRADITIONAL": "再滿一點",
+      "JAPANESE": "もっともっと",
+      "INDONESIAN": "Lebih banyak. Lebih banyak.",
+      "PORTUGUESE": "Mais, mais.",
+      "SPANISH": "Más, más.",
+      "PERSIAN": "بیشتر بیشتر"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "더더더더더!",
+      "ENGLISH": "More. More. More. More!",
+      "CHINESE_SIMPLIFIED": "再满点再满点再满点！",
+      "CHINESE_TRADITIONAL": "再再再再再滿！",
+      "JAPANESE": "もっともっともっともっと！",
+      "INDONESIAN": "Lebih. Lebih. Lebih. Lebih. Lebih!",
+      "PORTUGUESE": "Mais, mais, mais, mais!",
+      "SPANISH": "¡Más, más, más, más!",
+      "PERSIAN": "بیشتر بیشتر بیشتر بیشتر!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "됐어요?",
+      "ENGLISH": "Happy now?",
+      "CHINESE_SIMPLIFIED": "够了没？",
+      "CHINESE_TRADITIONAL": "這樣夠嗎？",
+      "JAPANESE": "これでいいですか？",
+      "INDONESIAN": "Senang sekarang?",
+      "PORTUGUESE": "Já deu?",
+      "SPANISH": "¿Ya está?",
+      "PERSIAN": "الان خوشحالی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나 이거 원샷갑니다.",
+      "ENGLISH": "I’m downing this in one go.",
+      "CHINESE_SIMPLIFIED": "这个我直接一口闷",
+      "CHINESE_TRADITIONAL": "我一口乾",
+      "JAPANESE": "よし、これ一気にいきます！",
+      "INDONESIAN": "Aku menghabiskannya sekaligus.",
+      "PORTUGUESE": "Vou beber tudo de um gole só.",
+      "SPANISH": "Voy a tomarlo de un trago.",
+      "PERSIAN": "من اینو یکباره حذف می کنم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "무리하지마요! ",
+      "ENGLISH": "Don’t overdo it!",
+      "CHINESE_SIMPLIFIED": "别逞强啊！",
+      "CHINESE_TRADITIONAL": "不要勉強耶！",
+      "JAPANESE": "無理しないでくださいよ！",
+      "INDONESIAN": "Jangan berlebihan!",
+      "PORTUGUESE": "Não exagere!",
+      "SPANISH": "¡No te sobrepases!",
+      "PERSIAN": "زیاده روی نکنید!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "나 오늘 경호도 안 데리고 왔단 말이에요!",
+      "ENGLISH": "I didn’t even bring security today!",
+      "CHINESE_SIMPLIFIED": "我今天连保镖都没带过来呢！",
+      "CHINESE_TRADITIONAL": "我今天連保鏢都沒帶來耶！",
+      "JAPANESE": "今日、警護の人も連れてきてないんですから！",
+      "INDONESIAN": "Aku bahkan tidak membawa keamanan hari ini!",
+      "PORTUGUESE": "Hoje nem trouxe meu segurança!",
+      "SPANISH": "¡Hoy no traje a mi guardaespaldas!",
+      "PERSIAN": "من حتی امروز امنیت نیاوردم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "꺾어 마시면 ",
+      "ENGLISH": "If I stop halfway,",
+      "CHINESE_SIMPLIFIED": "要是分段喝",
+      "CHINESE_TRADITIONAL": "要是一點一點喝的話",
+      "JAPANESE": "グラスを傾けて飲むのは",
+      "INDONESIAN": "Jika aku berhenti di tengah jalan,",
+      "PORTUGUESE": "Se eu não fizer isso,",
+      "SPANISH": "Si no lo hago,",
+      "PERSIAN": "اگر در نیمه راه بایستم،"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 21.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그거 남자도 아닙니다.",
+      "ENGLISH": "I’m no man at all!",
+      "CHINESE_SIMPLIFIED": "那还算什么男人",
+      "CHINESE_TRADITIONAL": "還算什麼男人",
+      "JAPANESE": "男じゃないんです！",
+      "INDONESIAN": "Aku bukan laki-laki sama sekali!",
+      "PORTUGUESE": "onde fica a minha masculinidade?",
+      "SPANISH": "¿dónde queda mi hombría?",
+      "PERSIAN": "من اصلا مرد نیستم!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나 오늘 이 두 발로 안전 귀가 합니다!",
+      "ENGLISH": "I will return home safely—on my own two feet!",
+      "CHINESE_SIMPLIFIED": "我今天绝对会自己走着安全回家的！",
+      "CHINESE_TRADITIONAL": "我今天會靠自己這雙腿安全回到家的！",
+      "JAPANESE": "今日はこの二本の足でちゃんと帰ります！",
+      "INDONESIAN": "Aku akan pulang dengan selamat—dengan kedua kakiku sendiri!",
+      "PORTUGUESE": "Hoje eu volto pra casa em pé, nas minhas próprias pernas!",
+      "SPANISH": "¡Hoy vuelvo a casa parado en mi dos pies!",
+      "PERSIAN": "من سالم به خونه برمی گردم - روی پای خودم!"
+    }
+  }
+]

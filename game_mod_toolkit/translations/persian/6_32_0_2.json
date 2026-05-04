@@ -1,0 +1,271 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 검은색 스타킹!\n- 살색 스타킹!",
+      "ENGLISH": "- Black stockings! \n- Nude stockings!",
+      "CHINESE_SIMPLIFIED": "-黑色丝袜！\n-肉色丝袜！",
+      "CHINESE_TRADITIONAL": "-黑色絲襪\n-膚色絲襪",
+      "JAPANESE": "‐ 黒のストッキング！\n‐ 肌色のストッキング！",
+      "INDONESIAN": "– Stoking hitam!\n– Stoking warna kulit!",
+      "PORTUGUESE": "- Pretas!\n- Cor da pele!",
+      "SPANISH": "- ¡Negras!\n- ¡Color piel!",
+      "PERSIAN": "- جوراب سیاه! - جوراب برهنه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네!?",
+      "ENGLISH": "Wait, what?!",
+      "CHINESE_SIMPLIFIED": "什么！？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "はい！？",
+      "INDONESIAN": "Eh, apa?!",
+      "PORTUGUESE": "O quê!?",
+      "SPANISH": "¿¡Qué!?",
+      "PERSIAN": "صبر کن چی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "검은색 스타킹이 무조건 정답 입니다.",
+      "ENGLISH": "Black stockings are 100% the correct answer.",
+      "CHINESE_SIMPLIFIED": "黑色丝袜才是正确答案",
+      "CHINESE_TRADITIONAL": "黑色絲襪才是正確答案",
+      "JAPANESE": "黒のストッキングが正解に決まってます！",
+      "INDONESIAN": "Stoking hitam tuh udah pasti jawaban yang bener.",
+      "PORTUGUESE": "As meias pretas são a única resposta certa.",
+      "SPANISH": "Las medias negras son la única respuesta correcta.",
+      "PERSIAN": "جوراب های مشکی 100% پاسخ صحیح هستند."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님은 이 패션 업계 트렌드세터로서",
+      "ENGLISH": "As a trendsetter in the fashion world,",
+      "CHINESE_SIMPLIFIED": "科长作为时尚界的潮流引领者",
+      "CHINESE_TRADITIONAL": "課長身為這個時尚界的潮流引領者",
+      "JAPANESE": "課長はファッション業界のトレンドセッターとして、",
+      "INDONESIAN": "Sebagai trendsetter di dunia fashion,",
+      "PORTUGUESE": "Nossa chefe, como uma diva da moda,",
+      "SPANISH": "Nuestra jefa, como una diva de la moda,",
+      "PERSIAN": "به عنوان یک ترندست در دنیای مد،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 11.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어떤 스타킹이 최고인지 다 알고 착용하는 거라고요.",
+      "ENGLISH": "Chief knows exactly which stockings look best—and she chooses black.",
+      "CHINESE_SIMPLIFIED": "当然清楚哪种丝袜最适合自己啦",
+      "CHINESE_TRADITIONAL": "當然知道什麼絲襪類型是最棒的。對吧？",
+      "JAPANESE": "どのストッキングが一番かをわかって着こなしてるんですよね！",
+      "INDONESIAN": "Chief tahu persis mana yang paling cocok—dan dia pilih stoking hitam.",
+      "PORTUGUESE": "sabe perfeitamente que são as melhores e é por isso que as usa.",
+      "SPANISH": "sabe perfectamente que son las mejores y por eso las usa.",
+      "PERSIAN": "چیف دقیقاً می‌دونه کدام جوراب‌های ساق بلند بهتر به نظر می‌رسند—و مشکی را انتخاب می‌کنه."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "맞죠?",
+      "ENGLISH": "Right?",
+      "CHINESE_SIMPLIFIED": "对吧？",
+      "CHINESE_TRADITIONAL": "對吧？",
+      "JAPANESE": "ですよね？",
+      "INDONESIAN": "Iya, kan?",
+      "PORTUGUESE": "Não é mesmo?",
+      "SPANISH": "¿Verdad?",
+      "PERSIAN": "درسته؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "정답",
+      "ENGLISH": "Correct.",
+      "CHINESE_SIMPLIFIED": "回答正确",
+      "CHINESE_TRADITIONAL": "回答正確",
+      "JAPANESE": "正解",
+      "INDONESIAN": "Betul.",
+      "PORTUGUESE": "Correto.",
+      "SPANISH": "Correcto.",
+      "PERSIAN": "درست است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우선 씨 진짜 기특한데?",
+      "ENGLISH": "Woo-seon, you’re seriously impressive.",
+      "CHINESE_SIMPLIFIED": "优先真是好机灵呢？",
+      "CHINESE_TRADITIONAL": "宇善真是討人喜歡呢？",
+      "JAPANESE": "ウソンさん、すごいじゃん",
+      "INDONESIAN": "Woo-seon, kamu keren banget sih.",
+      "PORTUGUESE": "Wooseon, você é realmente admirável.",
+      "SPANISH": "Wooseon, eres realmente admirable.",
+      "PERSIAN": "وو سون، تو به طور جدی چشمگیر هستی."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다. 근데 아직 많이 부족합니다.",
+      "ENGLISH": "Thank you! But I still have a lot to learn.",
+      "CHINESE_SIMPLIFIED": "谢谢夸奖~不过我还有很多不足",
+      "CHINESE_TRADITIONAL": "謝謝誇獎～不過我還有很多不足",
+      "JAPANESE": "ありがとうございます でもまだまだ足りません",
+      "INDONESIAN": "Makasih! Tapi aku masih harus banyak belajar.",
+      "PORTUGUESE": "Obrigado. Embora eu ainda tenha muito a aprender.",
+      "SPANISH": "Gracias. Aunque aún me falta mucho por aprender.",
+      "PERSIAN": "ممنونم! اما هنوز چیزهای زیادی برای یادگیری دارم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 과장님 옆에서 항상 열심히 따르겠습니다.",
+      "ENGLISH": "I’ll keep working hard by your side, Chief. Always.",
+      "CHINESE_SIMPLIFIED": "我会一直在科长身边努力学习的",
+      "CHINESE_TRADITIONAL": "我會一直在課長身邊努力學習的",
+      "JAPANESE": "これからも課長のそばで一生懸命ついていきます！",
+      "INDONESIAN": "Aku bakal terus kerja keras di sampingmu, Chief. Selalu.",
+      "PORTUGUESE": "Vou continuar me esforçando sempre ao seu lado.",
+      "SPANISH": "Seguiré esforzándome siempre a su lado.",
+      "PERSIAN": "من به سختی در کنار شما کار خواهم کرد، رئیس. همیشه."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "에...아쉽다! 과장님 방귀 냄새가 독한 건 알고 있었는데...!",
+      "ENGLISH": "Ugh... what a shame! I did know your farts were deadly, though...",
+      "CHINESE_SIMPLIFIED": "啊...可惜了！我只知道科长的屁味挺冲的...！",
+      "CHINESE_TRADITIONAL": "啊...可惜，我只知道課長放屁的味道挺重的...",
+      "JAPANESE": "あ〜残念！課長のおならが強烈なのは知ってたんですけどね…！",
+      "INDONESIAN": "Ugh… sayang banget! Tapi aku tahu sih, kentut kamu emang mematikan...",
+      "PORTUGUESE": "É… que pena. Mas o que realmente é letal são os gases dela...",
+      "SPANISH": "Eh… qué lástima. Pero algo que sí es lo letal de sus gases...",
+      "PERSIAN": "اوه ... چه شرم آور! من میدونستم که گوزهای تو کشنده بود..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 29.9
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님 손님 오셨는데요",
+      "ENGLISH": "Chief, your guest is here.",
+      "CHINESE_SIMPLIFIED": "科长，您的客人到了",
+      "CHINESE_TRADITIONAL": "課長，您的客人來了",
+      "JAPANESE": "課長、お客様が来られました",
+      "INDONESIAN": "Chief, tamu kamu udah datang.",
+      "PORTUGUESE": "Chefe, tem uma visita.",
+      "SPANISH": "Jefa, tiene una visita.",
+      "PERSIAN": "رئیس، مهمان شما اینجاست."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다 오기로 했었는데",
+      "ENGLISH": "Oh right—they were supposed to come today.",
+      "CHINESE_SIMPLIFIED": "啊对了，约好要来的",
+      "CHINESE_TRADITIONAL": "啊對了，有約好要來的",
+      "JAPANESE": "あ、そうだ 来る予定だったんだ",
+      "INDONESIAN": "Oh iya—mereka memang bilang mau datang hari ini.",
+      "PORTUGUESE": "Ah, é mesmo, ela vinha hoje.",
+      "SPANISH": "Ah, cierto, venía hoy.",
+      "PERSIAN": "اوه درست - قرار بود امروز بیایند."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.6,
+      "HIDE": 33.3
+    },
+    "SCRIPT": {
+      "KOREAN": "누구요?",
+      "ENGLISH": "Who is it?",
+      "CHINESE_SIMPLIFIED": "谁啊？",
+      "CHINESE_TRADITIONAL": "是誰啊？",
+      "JAPANESE": "どちら様ですか？",
+      "INDONESIAN": "Siapa ya?",
+      "PORTUGUESE": "Quem?",
+      "SPANISH": "¿Quién?",
+      "PERSIAN": "کیه؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 35.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저 왔어요~",
+      "ENGLISH": "I’m here~",
+      "CHINESE_SIMPLIFIED": "我来啦~",
+      "CHINESE_TRADITIONAL": "我來了～",
+      "JAPANESE": "お邪魔しま〜す〜",
+      "INDONESIAN": "Aku datang~",
+      "PORTUGUESE": "Já chegueeeei~!",
+      "SPANISH": "¡Ya llegué~!",
+      "PERSIAN": "من اینجا هستم~"
+    }
+  }
+]

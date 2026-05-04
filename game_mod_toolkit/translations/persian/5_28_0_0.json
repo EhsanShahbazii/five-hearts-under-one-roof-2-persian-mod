@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": " 아 왜...!",
+      "ENGLISH": "Ugh, what now…!",
+      "CHINESE_SIMPLIFIED": "喂干嘛啦...！",
+      "CHINESE_TRADITIONAL": "吼...怎樣啦...！",
+      "JAPANESE": "なに…！",
+      "INDONESIAN": "Uh, apaan lagi sih…!",
+      "PORTUGUESE": "Ai, por quê...!",
+      "SPANISH": "Ay, ¿por qué…!",
+      "PERSIAN": "اوه حالا چی…!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "좀 이따 나랑 1학년 층에 같이 갈 거지?",
+      "ENGLISH": "You’re still coming with me to the first‑years’ floor later, right?",
+      "CHINESE_SIMPLIFIED": "等会儿要陪我去一年级楼层吧？",
+      "CHINESE_TRADITIONAL": "等一下你會跟我去一年級樓層那邊吧",
+      "JAPANESE": "あとで一緒に1年のフロア行くでしょ？",
+      "INDONESIAN": "Kamu masih ikut aku ke lantai anak kelas satu nanti kan?",
+      "PORTUGUESE": "Mais tarde você vai comigo ver a garota do 1º ano, certo?",
+      "SPANISH": "Más tarde vas a venir conmigo a ver a la de 1er año, ¿verdad?",
+      "PERSIAN": "هنوز هم بعد از اون با من به طبقه اول می آیی، درست است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "거길 왜 가.",
+      "ENGLISH": "Why would I go there.",
+      "CHINESE_SIMPLIFIED": "去那里干嘛",
+      "CHINESE_TRADITIONAL": "去那邊幹嘛",
+      "JAPANESE": "なんで行くのさ",
+      "INDONESIAN": "Ngapain juga aku ke sana.",
+      "PORTUGUESE": "Por que eu iria lá?",
+      "SPANISH": "¿Por qué iría allá?",
+      "PERSIAN": "چرا باید برم اونجا"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 내가 직접 가 봐야지!",
+      "ENGLISH": "I need to see it with my own eyes!",
+      "CHINESE_SIMPLIFIED": "当然要亲自去考察啊！",
+      "CHINESE_TRADITIONAL": "欸，當然要親自去看看啊！",
+      "JAPANESE": "あたしが直接見に行くの！",
+      "INDONESIAN": "Aku harus ngeliat sendiri dengan mata kepala aku!",
+      "PORTUGUESE": "Porque eu tenho que ver com meus próprios olhos!",
+      "SPANISH": "¡Porque tengo que ir a verla con mis propios ojos!",
+      "PERSIAN": "باید با چشم خودم ببینمش!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어쩌면 나를 이어서 2대 얼짱이 나올 수도 있는데.",
+      "ENGLISH": "What if the second‑gen “school beauty” shows up to succeed me?",
+      "CHINESE_SIMPLIFIED": "说不定会有接替我成为二代校花的人出现呢",
+      "CHINESE_TRADITIONAL": "搞不好會出現下一任校花啊",
+      "JAPANESE": "もしかしたら私のあとを継ぐ2代目美人かもしれないし",
+      "INDONESIAN": "Gimana kalo tiba-tiba muncul “primadona” generasi kedua yang mau gantiin aku?",
+      "PORTUGUESE": "Vai que apareceu a segunda mais bonita depois de mim.",
+      "SPANISH": "Puede que haya aparecido la segunda más guapa después de mí.",
+      "PERSIAN": "اگر «زیبایی مدرسه» نسل دوم برای جانشینی من ظاهر شود، چه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "난 네가 얼짱인 게 이해가 안 돼.",
+      "ENGLISH": "I never understood how you became the school beauty.",
+      "CHINESE_SIMPLIFIED": "我真没法理解你居然是校花",
+      "CHINESE_TRADITIONAL": "我無法理解妳是校花這件事",
+      "JAPANESE": "俺 お前が美人で有名なの今でも信じられないけど",
+      "INDONESIAN": "Aku juga nggak pernah ngerti kenapa kamu bisa jadi primadona.",
+      "PORTUGUESE": "Ainda não entendo como é que você pode ser a mais bela da escola.",
+      "SPANISH": "Todavía no entiendo cómo tú puedes ser la más bella del colegio.",
+      "PERSIAN": "هیچ وقت نفهمیدم چطور شدی زیبای مدرسه."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "맞아. 내가 얼짱보다는 여신에 더 가깝기는 해~",
+      "ENGLISH": "That’s true. I’m closer to a goddess than just a school beauty, after all~",
+      "CHINESE_SIMPLIFIED": "没错，我其实比起“校花”更接近“女神”啦~",
+      "CHINESE_TRADITIONAL": "也是，比起校花，我應該要被稱為女神才對",
+      "JAPANESE": "そうか 私は美人っていうより女神に近いからね〜",
+      "INDONESIAN": "Ya iya lah. Soalnya aku tuh lebih deket ke dewi daripada sekadar primadona~",
+      "PORTUGUESE": "Você tem razão. Na verdade, eu tô mais pra uma deusa do que pra uma simples beleza~",
+      "SPANISH": "Tienes razón. En realidad, estoy más cerca de ser una diosa que una simple belleza~",
+      "PERSIAN": "این درست است. به هر حال من به یک الهه نزدیکترم تا فقط یک زیبایی مدرسه"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에휴...",
+      "ENGLISH": "…Good grief.",
+      "CHINESE_SIMPLIFIED": "哎呦...",
+      "CHINESE_TRADITIONAL": "呃...",
+      "JAPANESE": "はぁ…",
+      "INDONESIAN": "...Ya ampun.",
+      "PORTUGUESE": "Ah, por favor...",
+      "SPANISH": "Ay, por favor...",
+      "PERSIAN": "... اندوه خوب."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 또 왜!",
+      "ENGLISH": "What now.",
+      "CHINESE_SIMPLIFIED": "哎呀，又怎么啦！",
+      "CHINESE_TRADITIONAL": "哎，又怎樣啦",
+      "JAPANESE": "ちょっと なんだよ！",
+      "INDONESIAN": "Apa lagi.",
+      "PORTUGUESE": "O quê?!",
+      "SPANISH": "¡¿Pero qué?!",
+      "PERSIAN": "حالا چی"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 28.3
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 봐봐.",
+      "ENGLISH": "Look closely.",
+      "CHINESE_SIMPLIFIED": "看好了",
+      "CHINESE_TRADITIONAL": "你快看",
+      "JAPANESE": "よく見ててね",
+      "INDONESIAN": "Liat sini baik-baik.",
+      "PORTUGUESE": "Olha bem pra mim.",
+      "SPANISH": "Mírame bien.",
+      "PERSIAN": "از نزدیک نگاه کنید."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.6,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "야 뭐 해!",
+      "ENGLISH": "Hey—what are you doing!",
+      "CHINESE_SIMPLIFIED": "喂你干嘛！",
+      "CHINESE_TRADITIONAL": "喂！你在幹嘛！",
+      "JAPANESE": "おい 何してんの！",
+      "INDONESIAN": "Eh—kamu ngapain sih!",
+      "PORTUGUESE": "Ei, o que você tá fazendo?!",
+      "SPANISH": "¡Oye, ¿qué estás haciendo?!",
+      "PERSIAN": "هی-چیکار میکنی!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 39.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어때? 안 들키지? 너도 한번 춰 봐 .",
+      "ENGLISH": "See? You can’t tell who I am, right? You try it too.",
+      "CHINESE_SIMPLIFIED": "怎么样？没被发现吧？你也来跳一个嘛",
+      "CHINESE_TRADITIONAL": "怎麼樣？沒被發現吧？你也跳一次看看",
+      "JAPANESE": "どう？バレてないでしょ？ あんたも踊ってみな",
+      "INDONESIAN": "Tuh kan? Kamu juga nggak bisa nebak aku siapa, kan? Sekarang giliran kamu coba.",
+      "PORTUGUESE": "E aí? Não dá pra dizer quem eu sou, né? Tenta adivinhar!",
+      "SPANISH": "¿Qué tal? ¡No me vio! ¡Inténtalo!",
+      "PERSIAN": "ببینید؟ شما نمی توانید بگویید من کی هستم، درست است؟ شما هم امتحان کنید"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 39.9,
+      "HIDE": 40.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 안 해~",
+      "ENGLISH": "I’m not doing that.",
+      "CHINESE_SIMPLIFIED": "啊不要~",
+      "CHINESE_TRADITIONAL": "吼！我才不要～",
+      "JAPANESE": "やだよ〜",
+      "INDONESIAN": "Aku nggak mau.",
+      "PORTUGUESE": "Não quero~!",
+      "SPANISH": "¡No quiero~!",
+      "PERSIAN": "من این کار را نمی کنم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 42.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아왜에!! 같이 추자!",
+      "ENGLISH": "Whaaat! Let’s do it together!",
+      "CHINESE_SIMPLIFIED": "来嘛！！一起跳啦！",
+      "CHINESE_TRADITIONAL": "為什麼！一起跳啊！",
+      "JAPANESE": "なんでぇ！一緒に踊ろう！",
+      "INDONESIAN": "Haaaah?! Yuk lah bareng-bareng!",
+      "PORTUGUESE": "Ah, por que não! Vamos dançar juntos!",
+      "SPANISH": "¡Ay, por qué no! ¡Baila conmigo!",
+      "PERSIAN": "وای! بیا با هم انجامش بدیم!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 42.9,
+      "HIDE": 44.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 안 한다고!",
+      "ENGLISH": "I said I’m not.",
+      "CHINESE_SIMPLIFIED": "说了不要！",
+      "CHINESE_TRADITIONAL": "我說我不要跳",
+      "JAPANESE": "やらないって！",
+      "INDONESIAN": "Aku nggak mau.",
+      "PORTUGUESE": "Eu disse que não quero!",
+      "SPANISH": "¡Que no quiero!",
+      "PERSIAN": "گفتم من نیستم"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 44.2,
+      "HIDE": 45.6
+    },
+    "SCRIPT": {
+      "KOREAN": "같이 추자니깐?",
+      "ENGLISH": "We’re doing it together, okay?",
+      "CHINESE_SIMPLIFIED": "一起跳啦？",
+      "CHINESE_TRADITIONAL": "我不是也說了一起跳嗎",
+      "JAPANESE": "一緒に踊ろうってば？",
+      "INDONESIAN": "Kita lakuin bareng ya?",
+      "PORTUGUESE": "Tô dizendo pra dançar!",
+      "SPANISH": "¡Te digo que bailes!",
+      "PERSIAN": "ما با هم انجامش می دهیم، باشه؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 46.2,
+      "HIDE": 47.7
+    },
+    "SCRIPT": {
+      "KOREAN": "셋 하면 같이 추는 거야 ",
+      "ENGLISH": "On three.",
+      "CHINESE_SIMPLIFIED": "数到三就一起跳",
+      "CHINESE_TRADITIONAL": "數到三就一起跳",
+      "JAPANESE": "3つ数えたら一緒に踊るんだよ",
+      "INDONESIAN": "Hitungan ketiga.",
+      "PORTUGUESE": "Na contagem de três.",
+      "SPANISH": "A la cuenta de tres.",
+      "PERSIAN": "در سه."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 48.2,
+      "HIDE": 49.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하나... ",
+      "ENGLISH": "One…",
+      "CHINESE_SIMPLIFIED": "一...",
+      "CHINESE_TRADITIONAL": "一...",
+      "JAPANESE": "いち…",
+      "INDONESIAN": "Satu…",
+      "PORTUGUESE": "Um...",
+      "SPANISH": "Uno...",
+      "PERSIAN": "یکی…"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 49.3,
+      "HIDE": 50.2
+    },
+    "SCRIPT": {
+      "KOREAN": "둘... ",
+      "ENGLISH": "Two…",
+      "CHINESE_SIMPLIFIED": "二...",
+      "CHINESE_TRADITIONAL": "二...",
+      "JAPANESE": "に…",
+      "INDONESIAN": "Dua…",
+      "PORTUGUESE": "Dois...",
+      "SPANISH": "Dos...",
+      "PERSIAN": "دو…"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 50.5,
+      "HIDE": 50.9
+    },
+    "SCRIPT": {
+      "KOREAN": "셋!",
+      "ENGLISH": "Three!",
+      "CHINESE_SIMPLIFIED": "三！",
+      "CHINESE_TRADITIONAL": "三！",
+      "JAPANESE": "さん！",
+      "INDONESIAN": "Tiga!",
+      "PORTUGUESE": "Três!",
+      "SPANISH": "¡Tres!",
+      "PERSIAN": "سه!"
+    }
+  }
+]

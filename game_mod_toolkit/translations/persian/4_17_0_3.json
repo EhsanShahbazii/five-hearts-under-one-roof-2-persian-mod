@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 잘 부탁드립니다?",
+      "ENGLISH": "I look forward to working with you.",
+      "CHINESE_SIMPLIFIED": "今后请多指教！",
+      "CHINESE_TRADITIONAL": "是～以後請您多多指教了",
+      "JAPANESE": "はい これからもよろしくお願いしますね？",
+      "INDONESIAN": "Senang bisa kerja bareng kamu.",
+      "PORTUGUESE": "Espero que nos demos bem.",
+      "SPANISH": "Espero que nos llevemos bien.",
+      "PERSIAN": "من مشتاقانه منتظر همکاری با شما هستم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아...예, 예",
+      "ENGLISH": "Ah… yes, yes.",
+      "CHINESE_SIMPLIFIED": "啊...嗯，嗯",
+      "CHINESE_TRADITIONAL": "啊... 是，是",
+      "JAPANESE": "あ、は、はい",
+      "INDONESIAN": "Ah… iya, iya.",
+      "PORTUGUESE": "Ah... sim, claro.",
+      "SPANISH": "Ah... sí, claro.",
+      "PERSIAN": "آه… بله، بله."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어리버리한 놈.",
+      "ENGLISH": "Such a clueless guy.",
+      "CHINESE_SIMPLIFIED": "呆头呆脑的家伙",
+      "CHINESE_TRADITIONAL": "呆頭呆腦的傢伙",
+      "JAPANESE": "まったく…頼りなさそうな奴だな",
+      "INDONESIAN": "Duh, orangnya polos banget.",
+      "PORTUGUESE": "Ele não faz ideia.",
+      "SPANISH": "No tiene ni idea.",
+      "PERSIAN": "همچین آدم بی معرفتی"
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "은비야 이제는 고등학교 등교 시간이 더 빠르잖아~",
+      "ENGLISH": "Eun-bi, high school starts earlier now, remember~",
+      "CHINESE_SIMPLIFIED": "恩妃啊，现在高中上学时间更早了嘛~",
+      "CHINESE_TRADITIONAL": "恩妃，現在高中上學的時間變得更早了～",
+      "JAPANESE": "ウンビ、今は高校の登校時間の方が早いでしょ〜",
+      "INDONESIAN": "Eun-bi, sekarang sekolah harus mulai lebih pagi lho, inget kan~",
+      "PORTUGUESE": "Eunbi, você sabe que nossas aulas começam mais cedo.",
+      "SPANISH": "Eunbi, sabes que nuestras clases empiezan más temprano",
+      "PERSIAN": "یون بی، دبیرستان الان زودتر شروع می شود، یادت باشد"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 나도 같이 가!",
+      "ENGLISH": "I don’t care! I still wanna go with you!",
+      "CHINESE_SIMPLIFIED": "那我也要一起去！",
+      "CHINESE_TRADITIONAL": "那我也要一起去！",
+      "JAPANESE": "それでも一緒に行くの！",
+      "INDONESIAN": "Nggak peduli! Aku tetap mau berangkat bareng kamu!",
+      "PORTUGUESE": "Mesmo assim, quero ir com vocês!",
+      "SPANISH": "¡Aun así quiero ir con ustedes!",
+      "PERSIAN": "برام مهم نیست! من هنوز هم می خواهم با تو بروم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.01,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "고은비, 그럼 내가 깨울 때 제때 일어나야지",
+      "ENGLISH": "Go Eun-bi, then maybe wake up on time when I try to get you up.",
+      "CHINESE_SIMPLIFIED": "高恩妃，那你得在我叫你的时候马上起床才行啊",
+      "CHINESE_TRADITIONAL": "高恩菲，那我叫你的時候要準時起床喔",
+      "JAPANESE": "コ・ウンビ、私が起こしたときにちゃんと起きてよ",
+      "INDONESIAN": "Go Eun-bi, ya bangunnya jangan telat dong pas dibangunin.",
+      "PORTUGUESE": "Então devia levantar quando eu te acordo.",
+      "SPANISH": "Entonces deberías levantarte cuando te despierto.",
+      "PERSIAN": "برو یون بی، شاید وقتی می‌خوام تو را بلند کنم، سر وقت بیدار شوی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 몰라 나도 빨리 고등학생 할래!",
+      "ENGLISH": "Ugh, whatever! I wanna hurry up and be a high schooler too!",
+      "CHINESE_SIMPLIFIED": "我不管！我也想快点变成高中生！",
+      "CHINESE_TRADITIONAL": "啊，不管啦，我也要快點當高中生啦！",
+      "JAPANESE": "もう知らない！私も早く高校生になりたい！",
+      "INDONESIAN": "Ugh, terserah deh! Aku juga pengin cepet-cepet jadi anak SMA!",
+      "PORTUGUESE": "Ai, eu também quero ir pro ensino médio!",
+      "SPANISH": "Ay, ¡yo también quiero ir a la preparatoria!",
+      "PERSIAN": "اوه، هر چه باشد! من می خواهم عجله کنم و دبیرستانی هم بشوم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 안 돼~ 난 그렇게 빨리 늙고 싶지 않아~",
+      "ENGLISH": "No waaay~ I’m not trying to get old that fast.",
+      "CHINESE_SIMPLIFIED": "啊，不行不行~我可不想那么快变老~",
+      "CHINESE_TRADITIONAL": "不行～ 我不想那麼快變老～",
+      "JAPANESE": "だめ〜そんなに早く年取りたくないよ〜",
+      "INDONESIAN": "Nggak maaau~ Aku nggak pengin tua secepet itu.",
+      "PORTUGUESE": "Ah nãooo! Eu não quero envelhecer tão rápido.",
+      "SPANISH": "¡Ay noo! yo no quiero envejecer tan rápido.",
+      "PERSIAN": "نه وای~ من سعی نمی کنم به این سرعت پیر شوم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아 오빠! ",
+      "ENGLISH": "It’s okay, Oppa!",
+      "CHINESE_SIMPLIFIED": "没关系的，哥哥！",
+      "CHINESE_TRADITIONAL": "沒關係，哥哥！",
+      "JAPANESE": "大丈夫だよお兄さん！",
+      "INDONESIAN": "Gak apa-apa kok, Oppa!",
+      "PORTUGUESE": "Não se preocupe, oppa!",
+      "SPANISH": "¡No te preocupes, oppa!",
+      "PERSIAN": "اشکالی نداره یومان!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아저씨 되면 내가 결혼해 줄게!",
+      "ENGLISH": "When you’re an old man, I’ll marry you!",
+      "CHINESE_SIMPLIFIED": "等你变成大叔，我就嫁给你！",
+      "CHINESE_TRADITIONAL": "你變成大叔的話，我會嫁給你的！",
+      "JAPANESE": "おじさんになったら私がお嫁さんになってあげる！",
+      "INDONESIAN": "Pas kamu udah jadi kakek, aku nikahin deh!",
+      "PORTUGUESE": "Quando você for um velhinho, eu vou me casar com você!",
+      "SPANISH": "¡Cuando seas un abuelito, me casaré contigo!",
+      "PERSIAN": "وقتی پیر شدی با تو ازدواج می کنم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그것 참 고맙네...",
+      "ENGLISH": "Wow, how generous of you…",
+      "CHINESE_SIMPLIFIED": "那可真是谢谢你了...",
+      "CHINESE_TRADITIONAL": "真是謝謝妳喔...",
+      "JAPANESE": "それはありがたいねぇ…",
+      "INDONESIAN": "Wah, baik banget ya kamu…",
+      "PORTUGUESE": "Que bonitinho da sua parte...",
+      "SPANISH": "Qué lindo de tu parte...",
+      "PERSIAN": "وای چقدر سخاوتمندی…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.01,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너 근데 오늘 체육대회 있다고 하지 않았어? 빨리 가야 되는 거 아니야?",
+      "ENGLISH": "Didn’t you say today’s your field day? Shouldn’t you be rushing out the door?",
+      "CHINESE_SIMPLIFIED": "你今天不是说有运动会吗？是不是该快点走了？",
+      "CHINESE_TRADITIONAL": "妳不是說今天有運動會嗎？不用早點去嗎？",
+      "JAPANESE": "今日運動会って言ってなかった？早く行かないとじゃない？",
+      "INDONESIAN": "Bukannya hari ini kamu ada lomba olahraga? Harusnya udah siap-siap dong.",
+      "PORTUGUESE": "Você não disse que hoje tinha uma competição? Não devia ir agora?",
+      "SPANISH": "¿No dijiste que hoy tenías una competencia? ¿No deberías irte ya?",
+      "PERSIAN": "مگه نگفتی امروز روز میدانی توست؟ نباید با عجله از در بیرون بروید؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다!!! 나 갈게!!!",
+      "ENGLISH": "Oh crap!! I gotta go!!!",
+      "CHINESE_SIMPLIFIED": "啊，对喔！！那我走啦！！！",
+      "CHINESE_TRADITIONAL": "啊，對耶！！！我要走了！！！",
+      "JAPANESE": "あっ、そうだった！！行ってくる！！",
+      "INDONESIAN": "Aduh gawat!! Aku harus berangkat!!!",
+      "PORTUGUESE": "Ah, é mesmo! Já tô indo!",
+      "SPANISH": "¡Ah, cierto! ¡Ya me voy!",
+      "PERSIAN": "اوه چرت و پرت!! من باید برم!!!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 근데 가방 문 열렸다?",
+      "ENGLISH": "Oppa, your bag’s unzipped, by the way.",
+      "CHINESE_SIMPLIFIED": "哥哥，你书包拉链是不是开了？",
+      "CHINESE_TRADITIONAL": "哥哥，可是你書包的拉鍊沒拉好耶？",
+      "JAPANESE": "お兄さん、でもカバンのチャック開いてるよ？",
+      "INDONESIAN": "Oppa, tas kamu belum dikancing tuh.",
+      "PORTUGUESE": "Oppa, sua mochila tá aberta.",
+      "SPANISH": "Oppa, tienes la mochila abierta.",
+      "PERSIAN": "یومان، زیپ کیفت باز شده، اتفاقا."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "고은비 천천히 가~",
+      "ENGLISH": "Go Eun-bi, slow down~",
+      "CHINESE_SIMPLIFIED": "高恩妃，慢点跑啊~",
+      "CHINESE_TRADITIONAL": "喂，高恩妃，走慢一點啊～",
+      "JAPANESE": "コ・ウンビ、気をつけて行きなよ〜",
+      "INDONESIAN": "Go Eun-bi, pelan-pelan aja napa~",
+      "PORTUGUESE": "Eunbi, vai com cuidado~",
+      "SPANISH": "Eunbi, ve con cuidado~",
+      "PERSIAN": "برو یون بی، سرعتت را کم کن"
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "맛있게 먹어!",
+      "ENGLISH": "Enjoy!",
+      "CHINESE_SIMPLIFIED": "快吃吧！",
+      "CHINESE_TRADITIONAL": "好好吃！",
+      "JAPANESE": "美味しく食べてね!",
+      "INDONESIAN": "Selamat menikmati!",
+      "PORTUGUESE": "Bom apetite!",
+      "SPANISH": "¡Buen provecho!",
+      "PERSIAN": "لذت ببرید!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "더 먹을 거면 얘기하고.",
+      "ENGLISH": "If you want more, just say so.",
+      "CHINESE_SIMPLIFIED": "要是还想吃就跟我说",
+      "CHINESE_TRADITIONAL": "要是還想吃就跟我說",
+      "JAPANESE": "もっと欲しかったら言って",
+      "INDONESIAN": "Jika kamu menginginkan lebih, katakan saja.",
+      "PORTUGUESE": "Se quiser mais, é só dizer.",
+      "SPANISH": "Si quieres más, solo dime.",
+      "PERSIAN": "اگر بیشتر می خواهید، فقط بگویید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다.",
+      "ENGLISH": "Thanks!",
+      "CHINESE_SIMPLIFIED": "谢谢",
+      "CHINESE_TRADITIONAL": "謝謝",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Terima kasih!",
+      "PORTUGUESE": "Obrigado.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "با تشکر"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그래~",
+      "ENGLISH": "You got it~",
+      "CHINESE_SIMPLIFIED": "嗯呢~",
+      "CHINESE_TRADITIONAL": "好～",
+      "JAPANESE": "はいはい",
+      "INDONESIAN": "Kamu berhasil~",
+      "PORTUGUESE": "Sim~",
+      "SPANISH": "Sí~",
+      "PERSIAN": "فهمیدی~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아싸~",
+      "ENGLISH": "Yes!!",
+      "CHINESE_SIMPLIFIED": "太棒啦~",
+      "CHINESE_TRADITIONAL": "太棒啦～",
+      "JAPANESE": "やった〜",
+      "INDONESIAN": "Ya!!",
+      "PORTUGUESE": "Genial~!",
+      "SPANISH": "¡Genial~!",
+      "PERSIAN": "بله!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "먹어.",
+      "ENGLISH": "Eat up.",
+      "CHINESE_SIMPLIFIED": "吃吧",
+      "CHINESE_TRADITIONAL": "吃吧",
+      "JAPANESE": "食べなよ",
+      "INDONESIAN": "Menghabiskan.",
+      "PORTUGUESE": "Coma.",
+      "SPANISH": "Come.",
+      "PERSIAN": "بخور"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어때 맛있어?",
+      "ENGLISH": "Well? Is it good?",
+      "CHINESE_SIMPLIFIED": "怎么样，好吃吗？",
+      "CHINESE_TRADITIONAL": "怎麼樣，好吃嗎？",
+      "JAPANESE": "どう 美味しい?",
+      "INDONESIAN": "Baik? Apakah bagus?",
+      "PORTUGUESE": "E aí, tá gostoso?",
+      "SPANISH": "¿Qué tal, está rico?",
+      "PERSIAN": "خب؟ خوبه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "존맛임.",
+      "ENGLISH": "Freakin' amazing.",
+      "CHINESE_SIMPLIFIED": "绝了！",
+      "CHINESE_TRADITIONAL": "超級好吃的！",
+      "JAPANESE": "超うまい",
+      "INDONESIAN": "Luar biasa sekali.",
+      "PORTUGUESE": "Delicioso.",
+      "SPANISH": "Delicioso.",
+      "PERSIAN": "عجیبه"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 먹어봐 너도 ",
+      "ENGLISH": "Hurry up and try it too.",
+      "CHINESE_SIMPLIFIED": "你也快吃",
+      "CHINESE_TRADITIONAL": "你也快吃吃看",
+      "JAPANESE": "早く食べてみなよ 君も",
+      "INDONESIAN": "Cobain juga deh!",
+      "PORTUGUESE": "Vai, prova você também.",
+      "SPANISH": "Anda, pruébalo tú también.",
+      "PERSIAN": "عجله کنید و اونو نیز امتحان کنید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 24.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 해?",
+      "ENGLISH": "What are you doing?",
+      "CHINESE_SIMPLIFIED": "干嘛呢？",
+      "CHINESE_TRADITIONAL": "怎麼了？",
+      "JAPANESE": "何してんの?",
+      "INDONESIAN": "Apa yang kamu lakukan?",
+      "PORTUGUESE": "O que você tá fazendo?",
+      "SPANISH": "¿Qué haces?",
+      "PERSIAN": "چیکار میکنی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 먹여줘.",
+      "ENGLISH": "Feed me NOW!",
+      "CHINESE_SIMPLIFIED": "快喂我吃",
+      "CHINESE_TRADITIONAL": "快點餵我",
+      "JAPANESE": "早く食べさせてよ",
+      "INDONESIAN": "Suapi aku sekarang!",
+      "PORTUGUESE": "Me dá na boca você.",
+      "SPANISH": "Dame de comer tú.",
+      "PERSIAN": "حالا به من غذا بده!"
+    }
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야자 쉬는 시간 짧으니까 빨리 가자.",
+      "ENGLISH": "Break time’s short, so let’s go quickly.",
+      "CHINESE_SIMPLIFIED": "晚自习休息时间很短，我们快去吧",
+      "CHINESE_TRADITIONAL": "晚自習的休息時間很短，快點走啦",
+      "JAPANESE": "夜自習の休み時間短いから早く行こ",
+      "INDONESIAN": "Waktu istirahatnya bentar tau jadi ayo buruan.",
+      "PORTUGUESE": "O recreio é curto, então vamos logo.",
+      "SPANISH": "El resceso es corto, así que apurémonos.",
+      "PERSIAN": "زمان استراحت کوتاه است، پس سریع برویم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 귀찮은데~",
+      "ENGLISH": "Ugh, I’m feeling lazy~",
+      "CHINESE_SIMPLIFIED": "啊好麻烦啊~",
+      "CHINESE_TRADITIONAL": "欸，好麻煩喔～",
+      "JAPANESE": "あ〜めんどくさい〜",
+      "INDONESIAN": "Elah males banget deh~",
+      "PORTUGUESE": "Ah, que preguiça~",
+      "SPANISH": "Ah, qué pereza~",
+      "PERSIAN": "اوه، من احساس تنبلی می کنم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 빨리~",
+      "ENGLISH": "Come on, hurry~",
+      "CHINESE_SIMPLIFIED": "啊快点~",
+      "CHINESE_TRADITIONAL": "啊～快點～",
+      "JAPANESE": "早く〜",
+      "INDONESIAN": "Ayolah, buru~",
+      "PORTUGUESE": "Anda logo.",
+      "SPANISH": "Ay muévete",
+      "PERSIAN": "بیا، عجله کن~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 매점 갈려고 그랬다고!",
+      "ENGLISH": "I was just gonna go to the store!",
+      "CHINESE_SIMPLIFIED": "我本来是想去小卖部的！",
+      "CHINESE_TRADITIONAL": "我要去福利社啊！",
+      "JAPANESE": "売店行くつもりだったのに！",
+      "INDONESIAN": "Tadi aku mau ke koperasi, tau!",
+      "PORTUGUESE": "Eu queria ir na cantina comprar alguma coisa!",
+      "SPANISH": "¡Quería ir a la tienda a comprar algo!",
+      "PERSIAN": "من فقط می خواستم به فروشگاه بروم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 얼짱 빨리 보고 내가 매점에서 빵 사줄게",
+      "ENGLISH": "Then I’ll let you see the school beauty quickly, and I’ll buy you some bread at the store.",
+      "CHINESE_SIMPLIFIED": "那看完校花我就去小卖部给你买面包",
+      "CHINESE_TRADITIONAL": "那我們快點看完那個美女，去福利社買麵包給你",
+      "JAPANESE": "じゃあそのかわいい子見てから私がパン買ってあげる",
+      "INDONESIAN": "Yaudah, nanti aku tunjukin si primadonanya-nya cepet-cepet, terus aku beliin roti di koperasi.",
+      "PORTUGUESE": "Se você for comigo, eu compro pão pra você na loja.",
+      "SPANISH": "Si me acompañas, yo te compro pan en la tienda",
+      "PERSIAN": "سپس به شما اجازه می دهم که زیبایی مدرسه را به سرعت ببینید و از فروشگاه برای شما نون می خرم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 됐지?",
+      "ENGLISH": "Alright, deal?",
+      "CHINESE_SIMPLIFIED": "这样总行了吧？",
+      "CHINESE_TRADITIONAL": "這樣可以吧？",
+      "JAPANESE": "それでいいでしょ？",
+      "INDONESIAN": "Oke, deal?",
+      "PORTUGUESE": "Combinado?",
+      "SPANISH": "¿trato hecho?",
+      "PERSIAN": "باشه، معامله؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어.",
+      "ENGLISH": "Got it.",
+      "CHINESE_SIMPLIFIED": "好吧",
+      "CHINESE_TRADITIONAL": "知道了啦",
+      "JAPANESE": "わかったよ",
+      "INDONESIAN": "Sip.",
+      "PORTUGUESE": "Tá bom.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "متوجه شدم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "1학년 1반 저기인가 보다. 빨리 가자.",
+      "ENGLISH": "Looks like first‑year, class 1 is over there. Let’s go quickly.",
+      "CHINESE_SIMPLIFIED": "一年级一班应该在那边，快点走",
+      "CHINESE_TRADITIONAL": "一年一班好像在那裡！快點",
+      "JAPANESE": "1年1組 あそこじゃない？ 早く",
+      "INDONESIAN": "Kayaknya kelas 1-1 ada di sana tuh. Ayo cepet ke sana.",
+      "PORTUGUESE": "Ali fica a sala 1 do primeiro ano. Vamos.",
+      "SPANISH": "Por allá está la clase 1 de 1er año. Vamos.",
+      "PERSIAN": "به نظر می رسد سال اول، کلاس 1 اونجاست. سریع برویم"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 어딨지... 안 보이네 넌 보여?",
+      "ENGLISH": "Ah, where…? I don’t see them. Can you?",
+      "CHINESE_SIMPLIFIED": "啊，在哪儿呢...没看到啊，你看见了吗？",
+      "CHINESE_TRADITIONAL": "嗯...在哪裡呢...我沒看到，你有看到嗎？",
+      "JAPANESE": "あ、どこ…見えない あんた見える？",
+      "INDONESIAN": "Ah, mana…? Aku nggak liat siapa-siapa. Kamu liat?",
+      "PORTUGUESE": "Ah, onde ela tá...? Não tô vendo. Você tá vendo?",
+      "SPANISH": "Ah, ¿dónde está...? No la veo. ¿Tú la ves?",
+      "PERSIAN": "آه کجا…؟ من اونا رو نمی بینم می توانید؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 야자 시간까지 이런 데 와야 돼?",
+      "ENGLISH": "Ugh, do we really have to come here during break?",
+      "CHINESE_SIMPLIFIED": "唉...晚自习时间我们跑到这里来干嘛？",
+      "CHINESE_TRADITIONAL": "唉，連晚自習時間都要跑來這種地方嗎？",
+      "JAPANESE": "あ〜夜自習の時間にこんなとこ来なきゃいけないんだ？",
+      "INDONESIAN": "Ugh, emang harus banget sih ke sini pas istirahat?",
+      "PORTUGUESE": "A gente precisava mesmo vir até aqui no intervalo?",
+      "SPANISH": "¿De verdad tenemos que venir hasta aquí en el descanso?",
+      "PERSIAN": "اوه، واقعاً باید در زمان استراحت به اینجا بیاییم؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜... ",
+      "ENGLISH": "Come on...",
+      "CHINESE_SIMPLIFIED": "真是...",
+      "CHINESE_TRADITIONAL": "真是的...",
+      "JAPANESE": "ほんと…",
+      "INDONESIAN": "Ayolah…",
+      "PORTUGUESE": "Sério...",
+      "SPANISH": "En serio...",
+      "PERSIAN": "بیا..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어 찾았다!",
+      "ENGLISH": "Ah, found them!",
+      "CHINESE_SIMPLIFIED": "啊找到了！",
+      "CHINESE_TRADITIONAL": "找到了！",
+      "JAPANESE": "あ、見つけた！",
+      "INDONESIAN": "Ah, ketemu!",
+      "PORTUGUESE": "Ah, achei!",
+      "SPANISH": "¡Ah, la encontré!",
+      "PERSIAN": "آه، اونا رو پیدا کردم!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어디??",
+      "ENGLISH": "Where??",
+      "CHINESE_SIMPLIFIED": "在哪？？",
+      "CHINESE_TRADITIONAL": "在哪裡？",
+      "JAPANESE": "どこ？？",
+      "INDONESIAN": "Dimana??",
+      "PORTUGUESE": "Onde??",
+      "SPANISH": "¿Dónde??",
+      "PERSIAN": "کجا؟؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 31.2,
+      "HIDE": 33.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 저기에 창가에 귤 먹는 애 보이잖아...!",
+      "ENGLISH": "Ah, over there by the window, see the kid eating a tangerine…!",
+      "CHINESE_SIMPLIFIED": "就在那里，窗边那个在吃橘子的女生，看见没...！",
+      "CHINESE_TRADITIONAL": "那邊，你沒看到嗎，就是那個在窗戶旁邊吃橘子的孩子...！",
+      "JAPANESE": "あそこ 窓際でみかん食べてる子見えるでしょ…！",
+      "INDONESIAN": "Tuh, di deket jendela, liat deh anak yang lagi makan jeruk itu…!",
+      "PORTUGUESE": "Ali, perto da janela, a que tá comendo tangerinas...!",
+      "SPANISH": "¡Allá, junto a la ventana, la que está comiendo mandarinas...!",
+      "PERSIAN": "آه، اون طرف پنجره، بچه را ببین که نارنگی می خورد…!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 42.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네가 방규리야? ",
+      "ENGLISH": "You’re Bang Gyu‑ri?",
+      "CHINESE_SIMPLIFIED": "你就是方久梨？",
+      "CHINESE_TRADITIONAL": "你就是方久梨嗎？",
+      "JAPANESE": "君がパン・ギュリ？",
+      "INDONESIAN": "Kamu Bang Gyu-ri ya?",
+      "PORTUGUESE": "Você é a Bang Gyuri?",
+      "SPANISH": "¿Tú eres Bang Gyuri?",
+      "PERSIAN": "شما بانگ گیوری هستید؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 42.2,
+      "HIDE": 44.2
+    },
+    "SCRIPT": {
+      "KOREAN": "밀크중에서 이름 좀 날렸다는?",
+      "ENGLISH": "The one who made a name for herself at Milk?",
+      "CHINESE_SIMPLIFIED": "听说你在牛奶初中很有名？",
+      "CHINESE_TRADITIONAL": "聽說你在 Milk 國中小有名氣？",
+      "JAPANESE": "ミルク中でちょっと名前知られてたって？",
+      "INDONESIAN": "Yang dulu sempet terkenal di Milk?",
+      "PORTUGUESE": "Aquela de quem todo mundo tá falando?",
+      "SPANISH": "¿De la que todos están hablando?",
+      "PERSIAN": "اونی که تو میلک برای خودش اسم و رسمی پیدا کرد؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 45.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã...?",
+      "SPANISH": "¿Eh...?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 45.7,
+      "HIDE": 46.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Huh?",
+      "PORTUGUESE": "Uh?",
+      "SPANISH": "¿Uh?",
+      "PERSIAN": "اوه؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 47.2,
+      "HIDE": 48.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 선배??",
+      "ENGLISH": "Senior?",
+      "CHINESE_SIMPLIFIED": "啊？学长？？",
+      "CHINESE_TRADITIONAL": "欸？學長？",
+      "JAPANESE": "あ、先輩？？",
+      "INDONESIAN": "Kakak kelas?",
+      "PORTUGUESE": "Você é...?",
+      "SPANISH": "¿Tú eres...?",
+      "PERSIAN": "ارشد؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 49.1,
+      "HIDE": 50.0
+    },
+    "SCRIPT": {
+      "KOREAN": "선배?",
+      "ENGLISH": "Senio???",
+      "CHINESE_SIMPLIFIED": "学长？",
+      "CHINESE_TRADITIONAL": "學長？",
+      "JAPANESE": "先輩？",
+      "INDONESIAN": "Kakaaa???",
+      "PORTUGUESE": "Quem me ajudou de manhã?",
+      "SPANISH": "¿Quién me ayudo en la mañana?",
+      "PERSIAN": "سنیو؟؟؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 50.6,
+      "HIDE": 52.8
+    },
+    "SCRIPT": {
+      "KOREAN": "선배가 여긴 무슨 일로 오신 거예요?",
+      "ENGLISH": "What brings a senior to the first‑year classroom?",
+      "CHINESE_SIMPLIFIED": "学长来这里是有什么事吗？",
+      "CHINESE_TRADITIONAL": "學長是為了什麼來這裡呢？",
+      "JAPANESE": "先輩がこんなとこにどうして？",
+      "INDONESIAN": "Ngapain kakak kelas ke kelas satu sih?",
+      "PORTUGUESE": "O que você tá fazendo aqui?",
+      "SPANISH": "¿Qué hace aquí?",
+      "PERSIAN": "چه چیزی یک سالمند را به کلاس درس سال اول می آورد؟"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 53.4,
+      "HIDE": 55.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그냥 난 뭐 지나가다가...",
+      "ENGLISH": "Ah, I was just passing by…",
+      "CHINESE_SIMPLIFIED": "啊，我就是路过...",
+      "CHINESE_TRADITIONAL": "啊...只是剛好經過而已...",
+      "JAPANESE": "あ〜俺はただ通りかかって…",
+      "INDONESIAN": "Ah, aku cuma lagi lewat doang…",
+      "PORTUGUESE": "Ah, bom, eu só tava passando por aqui...",
+      "SPANISH": "Ah, bueno, yo solo pasaba por aquí...",
+      "PERSIAN": "آخه من داشتم می گذشتم…"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 59.3,
+      "HIDE": 64.1
+    },
+    "SCRIPT": {
+      "KOREAN": "3학년이 1학년 교실에 그냥 올 일 없을 텐데~",
+      "ENGLISH": "A third‑year normally wouldn’t come into a first‑year classroom~",
+      "CHINESE_SIMPLIFIED": "高三生应该不会没事来一年级教室吧~",
+      "CHINESE_TRADITIONAL": "三年級的學生不會沒事就跑到一年級教室來吧～",
+      "JAPANESE": "3年が1年の教室に用もなく来るわけないのに〜",
+      "INDONESIAN": "Anak kelas tiga biasanya nggak bakal masuk ke kelas satu gini loh~",
+      "PORTUGUESE": "Um aluno do terceiro ano não viria até aqui “só por vir”~",
+      "SPANISH": "Un alumno de 3er año no vedría hasta aquí “solo porque sí”~",
+      "PERSIAN": "یک سال سوم معمولاً وارد کلاس اول نمی شود"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 64.9,
+      "HIDE": 66.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야? 둘이 아는 사이였어?",
+      "ENGLISH": "Wait… you two know each other?",
+      "CHINESE_SIMPLIFIED": "什么呀？你们两个认识啊？",
+      "CHINESE_TRADITIONAL": "等等？你們兩個認識嗎？",
+      "JAPANESE": "なに 二人知り合いなの？",
+      "INDONESIAN": "Eh… kalian berdua saling kenal?",
+      "PORTUGUESE": "O que foi? Vocês se conhecem?",
+      "SPANISH": "¿Se conocen? ¿Qué relación tienen?",
+      "PERSIAN": "صبر کن...شما دوتا همدیگه رو میشناسید؟"
+    }
+  }
+]

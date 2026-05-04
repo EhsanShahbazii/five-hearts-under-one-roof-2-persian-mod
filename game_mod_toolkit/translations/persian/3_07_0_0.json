@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 저 이제부터 이 방 쓰면 될까요..?",
+      "ENGLISH": "Then can I start using this room now...?",
+      "CHINESE_SIMPLIFIED": "那我今天开始用这间房就可以了吗...？",
+      "CHINESE_TRADITIONAL": "那我從今天開始就住這個房間好了，可以嗎？",
+      "JAPANESE": "じゃあ、これからこの部屋を使えばいいですか？",
+      "INDONESIAN": "Kalau gitu, aku boleh mulai pakai kamar ini sekarang...?",
+      "PORTUGUESE": "Então… posso usar esse quarto a partir de agora?",
+      "SPANISH": "Entonces… ¿puedo usar esta habitación desde ahora?",
+      "PERSIAN": "حالا میتونم از این اتاق استفاده کنم...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 여기 계시는 동안은 이 방 쓰시면 돼요.",
+      "ENGLISH": "Yes! While you’re here, this room is yours.",
+      "CHINESE_SIMPLIFIED": "嗯！你回来住这段时间，用这间房就好",
+      "CHINESE_TRADITIONAL": "當然。妳回來的這段時間，就住這裡吧",
+      "JAPANESE": "はい！ ここにいる間はこの部屋を使ってください",
+      "INDONESIAN": "Iya! Selama kamu di sini, kamar ini milikmu.",
+      "PORTUGUESE": "Sim! Enquanto você estiver aqui, esse será o seu quarto.",
+      "SPANISH": "¡Sí! Mientras estés aquí, esta será tu habitación.",
+      "PERSIAN": "بله! وقتی اینجا هستید، این اتاق مال شماست."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "암튼 다시 돌아온 거 축하해요",
+      "ENGLISH": "Anyway! Welcome back!",
+      "CHINESE_SIMPLIFIED": "总之欢迎你回来",
+      "CHINESE_TRADITIONAL": "不管怎樣，歡迎妳回來～",
+      "JAPANESE": "とにかく、戻ってきたの、おめでとうございます",
+      "INDONESIAN": "Pokoknya, selamat datang kembali—selamat ya.",
+      "PORTUGUESE": "Enfim, bem-vinda de volta.",
+      "SPANISH": "En fin, bienvenida de nuevo.",
+      "PERSIAN": "به هر حال! خوش آمدید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요",
+      "ENGLISH": "Thanks.",
+      "CHINESE_SIMPLIFIED": "谢谢你",
+      "CHINESE_TRADITIONAL": "謝謝",
+      "JAPANESE": "ありがとう",
+      "INDONESIAN": "Makasih.",
+      "PORTUGUESE": "Obrigada.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "با تشکر"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 근데 저 월세는 어떡하죠..?",
+      "ENGLISH": "Oh, but... what about the rent...?",
+      "CHINESE_SIMPLIFIED": "哦对了，房租我该怎么付啊...？",
+      "CHINESE_TRADITIONAL": "對了，不過那個…房租要怎麼算呢？",
+      "JAPANESE": "あ、でも…家賃ってどうすればいいですか？",
+      "INDONESIAN": "Oh, tapi... soal uang sewa gimana...?",
+      "PORTUGUESE": "Ah, mas… e o aluguel?",
+      "SPANISH": "Ah, pero… ¿qué pasa con la renta?",
+      "PERSIAN": "اوه، اما... اجاره چه؟"
+    }
+  }
+]

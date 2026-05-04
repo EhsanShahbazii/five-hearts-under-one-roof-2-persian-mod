@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 또 갈림길인데요?",
+      "ENGLISH": "But now there’s another branching path…?",
+      "CHINESE_SIMPLIFIED": "不过这又是个岔路呢？",
+      "CHINESE_TRADITIONAL": "欸，又是岔路耶？",
+      "JAPANESE": "でもまた分かれ道ですよ？",
+      "INDONESIAN": "Tapi sekarang ada jalan bercabang lagi yah…?",
+      "PORTUGUESE": "De novo, esquerda ou direita?",
+      "SPANISH": "¿Otra vez izquierda o derecha?",
+      "PERSIAN": "اما اکنون مسیر انشعاب دیگری وجود دارد…؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "으음...? 흐음...",
+      "ENGLISH": "Hmm…? Hmmmm…",
+      "CHINESE_SIMPLIFIED": "嗯...？唔...",
+      "CHINESE_TRADITIONAL": "嗯…？唔嗯…",
+      "JAPANESE": "うーん…？ふむ…",
+      "INDONESIAN": "Hmm…? Hmmmm…",
+      "PORTUGUESE": "Mmm...? Hmm...",
+      "SPANISH": "¿Mmm....? Hmm...",
+      "PERSIAN": "هوم…؟ هوم…"
+    }
+  }
+]

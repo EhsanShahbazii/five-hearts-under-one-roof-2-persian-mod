@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 이제 진짜 잘나간다...",
+      "ENGLISH": "Min-jung's doing so well now…",
+      "CHINESE_SIMPLIFIED": "敏静现在真的很红啊…",
+      "CHINESE_TRADITIONAL": "敏靜現在真的超紅的耶…",
+      "JAPANESE": "ミンジョンさん、今ほんとに絶好調だね…",
+      "INDONESIAN": "Min-jung sekarang bener-bener sukses ya...",
+      "PORTUGUESE": "A Min-jeong agora está realmente fazendo sucesso...",
+      "SPANISH": "Min-jung ya está triunfando de verdad...",
+      "PERSIAN": "مین‌جونگ حسابی کار و بارش گرفته و معروف شده..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 집에서 하숙했던 게 진짜 꿈인 거 같네.",
+      "ENGLISH": "Feels like her boarding at our house was just a dream.",
+      "CHINESE_SIMPLIFIED": "以前在我们家住的事情，简直就像一场梦一样",
+      "CHINESE_TRADITIONAL": "在我們家住過這件事，感覺真像一場夢",
+      "JAPANESE": "うちで下宿していたのが本当に夢みたいだな",
+      "INDONESIAN": "Rasanya kayak mimpi dia pernah ngekos di rumah kita.",
+      "PORTUGUESE": "Parece até um sonho pensar que ela já morou de pensão na nossa casa.",
+      "SPANISH": "Parece un sueño que haya vivido en mi casa.",
+      "PERSIAN": "اینکه یه زمانی توی پانسیون ما زندگی می‌کرد شبیه خواب و خیاله."
+    }
+  }
+]

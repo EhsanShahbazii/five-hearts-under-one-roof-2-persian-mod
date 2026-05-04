@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.6
+    },
+    "SCRIPT": {
+      "KOREAN": "3개월이요? ",
+      "ENGLISH": "Three months?",
+      "CHINESE_SIMPLIFIED": "三个月吗？",
+      "CHINESE_TRADITIONAL": "三個月嗎？",
+      "JAPANESE": "3ヶ月ですか？",
+      "INDONESIAN": "Tiga bulan ya",
+      "PORTUGUESE": "Três meses?",
+      "SPANISH": "¿Tres meses?",
+      "PERSIAN": "سه ماه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하고 싶은 거만 해도 짧은 시간일 거 같은데...",
+      "ENGLISH": "Even if I only do what I want, it still feels like such a short time...",
+      "CHINESE_SIMPLIFIED": "光做想做的事都觉得时间太短呢...",
+      "CHINESE_TRADITIONAL": "光做想做的事情都覺得時間不夠呢...",
+      "JAPANESE": "やりたいことするだけでも短すぎる時間ですね…",
+      "INDONESIAN": "Buat ngelakuin hal-hal yang aku pengen aja rasanya udah sempit",
+      "PORTUGUESE": "Mesmo fazendo só o que eu quero, acho que seria muito pouco tempo…",
+      "SPANISH": "Aunque haciendo solo lo que quiero, siento que sería muy poco tiempo…",
+      "PERSIAN": "حتی اگر فقط کاری را که می‌خوام انجام دهم، باز هم احساس می‌کنم زمان خیلی کوتاهی است..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇죠... 엄청 짧죠.",
+      "ENGLISH": "Yeah... It's incredibly short.",
+      "CHINESE_SIMPLIFIED": "是啊...真的很短",
+      "CHINESE_TRADITIONAL": "是啊...時間真的很短",
+      "JAPANESE": "そうですよね…すごく短いですよね。",
+      "INDONESIAN": "Iya kan… emang singkat banget",
+      "PORTUGUESE": "Sim… é pouco demais.",
+      "SPANISH": "Sí… es demasiado poco.",
+      "PERSIAN": "آره... خیلی کوتاهه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 전",
+      "ENGLISH": "Then I'll",
+      "CHINESE_SIMPLIFIED": "那我选择",
+      "CHINESE_TRADITIONAL": "那麼，我選擇",
+      "JAPANESE": "じゃあ僕は",
+      "INDONESIAN": "Kalau gitu",
+      "PORTUGUESE": "Então eu…",
+      "SPANISH": "Entonces yo…",
+      "PERSIAN": "سپس من"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨랑 같이 살래요!",
+      "ENGLISH": "live with Kyuri!",
+      "CHINESE_SIMPLIFIED": "和久梨一起生活！",
+      "CHINESE_TRADITIONAL": "和久梨你一起生活！",
+      "JAPANESE": "ギュリさんと一緒に暮らします！",
+      "INDONESIAN": "Aku mau tinggal bareng sama Gyuri",
+      "PORTUGUESE": "viveria com você, Gyuri!",
+      "SPANISH": "¡viviría con usted, Gyuri!",
+      "PERSIAN": "با کیوری زندگی کن!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저에게 3개월만 남았으면",
+      "ENGLISH": "If I only had three months left,",
+      "CHINESE_SIMPLIFIED": "如果我只剩三个月的生命",
+      "CHINESE_TRADITIONAL": "如果我只剩下三個月生命的話",
+      "JAPANESE": "もし僕の命が3ヶ月しか残っていないなら",
+      "INDONESIAN": "Kalau aku cuma punya waktu tiga bulan lagi",
+      "PORTUGUESE": "Se eu só tivesse três meses,",
+      "SPANISH": "Si solo me quedaran tres meses,",
+      "PERSIAN": "اگر فقط سه ماه دیگر فرصت داشتم،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨랑 같이 자고, 같이 눈 뜨고, 같이 밥 먹고,",
+      "ENGLISH": "I'd want to sleep with Kyuri, wake up with Kyuri, eat with Kyuri,",
+      "CHINESE_SIMPLIFIED": "我想和久梨一起睡觉，一起醒来，一起吃饭",
+      "CHINESE_TRADITIONAL": "我想和你一起睡覺、一起起床、一起吃飯",
+      "JAPANESE": "ギュリさんと一緒に寝て、目覚めて、ご飯食べて",
+      "INDONESIAN": "Aku pengen tidur bareng kamu, bangun bareng kamu, makan bareng kamu",
+      "PORTUGUESE": "queria dormir com você, acordar ao seu lado, comer juntos,",
+      "SPANISH": "querría dormir con usted, despertar a su lado, comer juntos,",
+      "PERSIAN": "دلم می‌خواد با کیوری بخوابم، با کیوری بیدار بشم، با کیوری غذا بخورم،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 하든 규리 씨랑 함께 하다가 가고 싶어요.",
+      "ENGLISH": "and do everything with Kyuri before I go.",
+      "CHINESE_SIMPLIFIED": "无论做什么都要和你在一起，然后再离开",
+      "CHINESE_TRADITIONAL": "無論做什麼都要和你在一起，然後我在離開",
+      "JAPANESE": "何をするにも一緒に過ごして、そうして終わりたいです",
+      "INDONESIAN": "Apa pun yang kulakuin, aku pengen semuanya bareng kamu",
+      "PORTUGUESE": "e fazer tudo com você até o fim.",
+      "SPANISH": "y hacer todo con usted hasta el final.",
+      "PERSIAN": "و قبل از رفتنم همه کارها رو با کیوری انجام بدم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저도요! 저도 유만 씨랑 함께 할게요!",
+      "ENGLISH": "Me too! I'll be with Yoo-man too!",
+      "CHINESE_SIMPLIFIED": "我也是！我也要和你一直在一起！",
+      "CHINESE_TRADITIONAL": "我也是！我也想要和你一直在一起！",
+      "JAPANESE": "私も…！私もユマンさんと一緒にいます！",
+      "INDONESIAN": "Aku juga! Aku juga mau bareng sama Yuman aja",
+      "PORTUGUESE": "Eu também! Eu também queria fazer isso!",
+      "SPANISH": "¡Yo también! ¡Yo también quisiera hacer eso!",
+      "PERSIAN": "من هم! من هم با یو-مان می‌شم!"
+    }
+  }
+]

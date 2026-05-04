@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 1.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 저 진짜 맞아요!",
+      "ENGLISH": "No, I’m serious—I am allowed in!",
+      "CHINESE_SIMPLIFIED": "不是，我真的是被邀请的！",
+      "CHINESE_TRADITIONAL": "不是啊，我真的是被邀請的！",
+      "JAPANESE": "いや 俺ほんとに関係者なんですって!",
+      "INDONESIAN": "Tidak, aku serius—aku diizinkan masuk!",
+      "PORTUGUESE": "Juro que a conheço!",
+      "SPANISH": "¡Le juro que la conozco!",
+      "PERSIAN": "نه، جدی می گویم - اجازه ورود دارم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "안 돼요.",
+      "ENGLISH": "I said no.",
+      "CHINESE_SIMPLIFIED": "不行",
+      "CHINESE_TRADITIONAL": "不行！",
+      "JAPANESE": "ダメです",
+      "INDONESIAN": "Saya bilang tidak.",
+      "PORTUGUESE": "Não pode entrar.",
+      "SPANISH": "No puede pasar.",
+      "PERSIAN": "گفتم نه."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 맞다고요",
+      "ENGLISH": "I’m telling you, I am allowed!",
+      "CHINESE_SIMPLIFIED": "啊，真的没骗你！",
+      "CHINESE_TRADITIONAL": "啊！就說了是真的啊！",
+      "JAPANESE": "あ、本当ですって",
+      "INDONESIAN": "Aku bilang padamu, aku diizinkan!",
+      "PORTUGUESE": "Tenho autorização!",
+      "SPANISH": "¡Tengo autorización!",
+      "PERSIAN": "من به شما می گویم، من مجاز هستم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "안 된다니깐요 ",
+      "ENGLISH": "I said no!",
+      "CHINESE_SIMPLIFIED": "说了不行就是不行",
+      "CHINESE_TRADITIONAL": "我說不行就是不行！",
+      "JAPANESE": "ダメだって言ってるでしょ",
+      "INDONESIAN": "Saya bilang tidak!",
+      "PORTUGUESE": "Já disse que não.",
+      "SPANISH": "Ya le dije que no.",
+      "PERSIAN": "گفتم نه!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 저 들어가도 되는 사람이라고요",
+      "ENGLISH": "I have permission to be in there!",
+      "CHINESE_SIMPLIFIED": "啊！我是可以进去的人啊",
+      "CHINESE_TRADITIONAL": "啊！我是可以進去的人啊",
+      "JAPANESE": "俺 入っていい人間なんですよ",
+      "INDONESIAN": "Saya mendapat izin untuk berada di sana!",
+      "PORTUGUESE": "Ah, mas eu tenho permissão pra entrar.",
+      "SPANISH": "Ah, pero tengo permiso para entrar.",
+      "PERSIAN": "من اجازه حضور در آنجا را دارم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어..저 죄송해요..",
+      "ENGLISH": "Wait—I'm sorry!",
+      "CHINESE_SIMPLIFIED": "呃...那个...对不起...",
+      "CHINESE_TRADITIONAL": "呃…對、對不起",
+      "JAPANESE": "あっ…ごめんなさい…",
+      "INDONESIAN": "Tunggu—Maaf!",
+      "PORTUGUESE": "Ah... desculpe...",
+      "SPANISH": "Ah… lo siento…",
+      "PERSIAN": "صبر کن - متاسفم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 밀려던 거는 아닌데!",
+      "ENGLISH": "I didn’t mean to push you!",
+      "CHINESE_SIMPLIFIED": "我不是故意要推你的！",
+      "CHINESE_TRADITIONAL": "我不是故意要推你的！",
+      "JAPANESE": "押すつもりじゃなかったんです!",
+      "INDONESIAN": "Aku tidak bermaksud mendorongmu!",
+      "PORTUGUESE": "Não era minha intenção empurrá-la!",
+      "SPANISH": "¡No era mi intención empujarla!",
+      "PERSIAN": "من قصد نداشتم به شما فشار بیاورم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮으세요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "你没事吧？",
+      "CHINESE_TRADITIONAL": "你還好嗎？",
+      "JAPANESE": "大丈夫ですか!?",
+      "INDONESIAN": "Apakah kamu baik-baik saja?",
+      "PORTUGUESE": "Você está bem?",
+      "SPANISH": "¿Está bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "사람을 이렇게 밀면 어떡해요.",
+      "ENGLISH": "You can't just shove someone like that!",
+      "CHINESE_SIMPLIFIED": "怎么能这么用力推人呢",
+      "CHINESE_TRADITIONAL": "你怎麼可以這樣推人！",
+      "JAPANESE": "人をそんなに押したら危ないでしょ",
+      "INDONESIAN": "Kamu tidak bisa begitu saja mendorong seseorang seperti itu!",
+      "PORTUGUESE": "Não pode sair empurrando as pessoas assim.",
+      "SPANISH": "No puede ir empujando a la gente así.",
+      "PERSIAN": "شما نمی توانید به همین سادگی کسی را هل دهید!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유정 씨?",
+      "ENGLISH": "Huh...? Yoo-jung?!",
+      "CHINESE_SIMPLIFIED": "呃？有情小姐？",
+      "CHINESE_TRADITIONAL": "咦？有情小姐？",
+      "JAPANESE": "え? ユジョンさん?",
+      "INDONESIAN": "Hah...? Yoo-jung?!",
+      "PORTUGUESE": "Hã? Senhorita Yujeong?",
+      "SPANISH": "¿Eh? ¿Señorita Yujeong?",
+      "PERSIAN": "ها...؟ یو جونگ؟!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 미안해요.",
+      "ENGLISH": "I’m really sorry.",
+      "CHINESE_SIMPLIFIED": "啊真的对不起",
+      "CHINESE_TRADITIONAL": "真的很抱歉",
+      "JAPANESE": "あ 本当にごめんなさい",
+      "INDONESIAN": "Saya sungguh minta maaf.",
+      "PORTUGUESE": "Sinto muito.",
+      "SPANISH": "Lo siento mucho.",
+      "PERSIAN": "واقعا متاسفم"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 밀릴 줄 몰랐어요.",
+      "ENGLISH": "I didn’t think you’d get pushed like that...",
+      "CHINESE_SIMPLIFIED": "没想到你会被推倒",
+      "CHINESE_TRADITIONAL": "我不知道會推到你",
+      "JAPANESE": "そんなに押されるとは思わなくて",
+      "INDONESIAN": "Aku tidak menyangka kamu akan didorong seperti itu...",
+      "PORTUGUESE": "Não pensei que me empurraria com tanta força.",
+      "SPANISH": "no pensé que me iba a empujar tan fuerte.",
+      "PERSIAN": "فکر نمیکردم اینطوری فشار بیاری..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 23.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어제 알바 한다던 게 이거였어요?",
+      "ENGLISH": "So this is the part-time job you mentioned earlier?",
+      "CHINESE_SIMPLIFIED": "刚才说的兼职就是这个吗？",
+      "CHINESE_TRADITIONAL": "你說的打工就是這個人嗎？",
+      "JAPANESE": "さっきのアルバイトってこれだったんですか?",
+      "INDONESIAN": "Jadi ini pekerjaan paruh waktu yang Anda sebutkan sebelumnya?",
+      "PORTUGUESE": "O trabalho do qual falava antes... era este?",
+      "SPANISH": "¿El trabajo del que hablaba antes… era este?",
+      "PERSIAN": "پس این همون شغل پاره وقت است که قبلاً به اون اشاره کردید؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 오빠!",
+      "ENGLISH": "Yuman oppa!",
+      "CHINESE_SIMPLIFIED": "宥万哥哥！",
+      "CHINESE_TRADITIONAL": "宥萬哥哥！",
+      "JAPANESE": "ユマンお兄さん!",
+      "INDONESIAN": "Yuman oppa!",
+      "PORTUGUESE": "Yuman oppa!",
+      "SPANISH": "¡Yumán oppa!",
+      "PERSIAN": "یومان یومان!"
+    }
+  }
+]

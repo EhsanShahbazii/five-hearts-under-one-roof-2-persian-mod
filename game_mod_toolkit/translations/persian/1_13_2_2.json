@@ -1,0 +1,73 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 확실히 슬픈 게 반으로 줄어들겠는데요?",
+      "ENGLISH": "That’d definitely cut the sadness in half, huh?",
+      "CHINESE_SIMPLIFIED": "这样的话，悲伤也能减少一半吧？",
+      "CHINESE_TRADITIONAL": "這樣的話，悲傷肯定會減少一半吧？",
+      "JAPANESE": "それなら確かに悲しみが半分に減りそうですね",
+      "INDONESIAN": "Kalau gitu sih, sedihnya beneran bisa berkurang setengah, ya?",
+      "PORTUGUESE": "Isso com certeza reduziria a tristeza pela metade, né?",
+      "SPANISH": "Si es así, los problemas seguro se reducen.",
+      "PERSIAN": "اینطوری غم آدم واقعاً نصف می‌شه، نه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그쵸!",
+      "ENGLISH": "Right?!",
+      "CHINESE_SIMPLIFIED": "没错！",
+      "CHINESE_TRADITIONAL": "沒錯！",
+      "JAPANESE": "ですよね！",
+      "INDONESIAN": "Iya, kan!",
+      "PORTUGUESE": "Né?!",
+      "SPANISH": "¿Verdad?",
+      "PERSIAN": "دیدی گفتم؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까... 너무 우울해 하지마요?",
+      "ENGLISH": "So… don’t get too down on yourself, okay?",
+      "CHINESE_SIMPLIFIED": "所以说…别太难过了，好吗？",
+      "CHINESE_TRADITIONAL": "所以啊…就別再那麼憂鬱了，好嗎？",
+      "JAPANESE": "だから…あまり落ち込みすぎないでくださいね？",
+      "INDONESIAN": "Makanya… jangan terlalu larut dalam kesedihan, oke?",
+      "PORTUGUESE": "Então… não fica se culpando tanto, tá?",
+      "SPANISH": "Así que no te pongas triste.",
+      "PERSIAN": "پس... اینقدر خودتو سرزنش نکن و غصه نخور، باشه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요.",
+      "ENGLISH": "…Thanks.",
+      "CHINESE_SIMPLIFIED": "谢谢你",
+      "CHINESE_TRADITIONAL": "謝謝你",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Makasih ya.",
+      "PORTUGUESE": "…Obrigado.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "...ممنون ازت."
+    }
+  }
+]

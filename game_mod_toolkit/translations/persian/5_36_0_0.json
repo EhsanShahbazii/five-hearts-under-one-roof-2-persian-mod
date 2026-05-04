@@ -1,0 +1,344 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "우와 대박...!",
+      "ENGLISH": "Whoa, no way…!",
+      "CHINESE_SIMPLIFIED": "哇，真的假的...！",
+      "CHINESE_TRADITIONAL": "哇，太厲害了…！",
+      "JAPANESE": "うわ すご…！",
+      "INDONESIAN": "Wah nggak nyangka banget sumpah…!",
+      "PORTUGUESE": "Uau, incrível...!",
+      "SPANISH": "¡Wow, increíble...!",
+      "PERSIAN": "وای، به هیچ وجه…!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 그때 그 선배였군요!! ",
+      "ENGLISH": "Yooman, you were that senior back then?!",
+      "CHINESE_SIMPLIFIED": "原来那时候的学长就是宥万先生啊！！",
+      "CHINESE_TRADITIONAL": "原來宥萬你就是那時候的學長啊！！",
+      "JAPANESE": "ユマンさんがあの時の先輩だったんですね！！",
+      "INDONESIAN": "Yuman, kamu tuh ternyata kakak kelas waktu itu?!",
+      "PORTUGUESE": "Então, Yumán, era você quem me ajudou!",
+      "SPANISH": "¡Así que, Yuman, usted fue quien me ayudó!",
+      "PERSIAN": "یومان تو اون موقع ارشد بودی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "세상 진짜 좁네... 둘이서 또 그런 일이 있었어?",
+      "ENGLISH": "Seriously, the world is so small… you two had history like that?",
+      "CHINESE_SIMPLIFIED": "这世界也太小了吧...你们俩居然还有这种渊源？",
+      "CHINESE_TRADITIONAL": "世界真小…你們還發生過這種事嗎？",
+      "JAPANESE": "世間ってほんと狭いね…二人いつの間にそんなことが！",
+      "INDONESIAN": "Seriusan, dunia tuh sempit banget ya… kalian berdua pernah kayak gitu?",
+      "PORTUGUESE": "O mundo é pequeno... é sério isso?",
+      "SPANISH": "El mundo es un pañuelo... ¿De verdad les eso?",
+      "PERSIAN": "به طور جدی، دنیا خیلی کوچک است... شما دو نفر چنین سابقه ای داشتید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 어쩐지 낯이 좀 익더라니!",
+      "ENGLISH": "No wonder your face looked kinda familiar!",
+      "CHINESE_SIMPLIFIED": "难怪我老觉得你们看着有点眼熟！",
+      "CHINESE_TRADITIONAL": "難怪我覺得妳有點面熟！",
+      "JAPANESE": "あ〜なんか見覚えあると思ったんですよ！",
+      "INDONESIAN": "Pantes wajah kamu kayak familiar gitu!",
+      "PORTUGUESE": "Ah, por isso seu rosto me parecia tão familiar.",
+      "SPANISH": "Ah, con razón se me hacía tan familiar tu cara.",
+      "PERSIAN": "جای تعجب نیست که چهره شما کمی آشنا به نظر می رسید!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙 님 우리 학교에서 예쁜 걸로 완전 유명했잖아요!!",
+      "ENGLISH": "Malsook, you were totally famous at our school for being pretty!!",
+      "CHINESE_SIMPLIFIED": "末淑姐在我们学校可是以美貌出名的啊！！",
+      "CHINESE_TRADITIONAL": "末淑在學校可是超級出名的美女耶！！",
+      "JAPANESE": "マルスクさんってうちの学校で美人でめちゃくちゃ有名だったじゃないですか！！",
+      "INDONESIAN": "Mal-sook, kamu tuh dulu terkenal banget di sekolah karena cantik tau!!",
+      "PORTUGUESE": "Malsook, você era super famosa na escola pela sua beleza!",
+      "SPANISH": "¡Malsook, eras súper famosa en la escuela por su belleza!",
+      "PERSIAN": "مال‌سوک تو مدرسه ما به خاطر خوشگل بودن کاملا معروف بودی!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 선생님도 한 이쁨한다 했는데 내 얼짱 후배였구나?",
+      "ENGLISH": "Even the teachers said you were gorgeous — turns out you were my top-tier visual junior?",
+      "CHINESE_SIMPLIFIED": "连老师都夸你漂亮，原来是我的校花后辈啊？",
+      "CHINESE_TRADITIONAL": "久梨護理師也很漂亮啊，原來是我的校花學妹啊？",
+      "JAPANESE": "先生も美人だって言ってたけど 私の美人後輩だったとはね？",
+      "INDONESIAN": "Sampai guru-guru aja bilang kamu cantik banget — ternyata kamu tuh juniorku yang primadona itu?",
+      "PORTUGUESE": "E você era minha sucessora, até os professores comentavam o quanto era linda.",
+      "SPANISH": "Y tú eras mi sucesora, que hasta los profesores hablaban de lo hermosa que eras.",
+      "PERSIAN": "حتی معلم‌ها گفتند تو فوق‌العاده بودی - معلوم شد که تو دانش‌آموز بصری درجه یک من بودی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "말 놓을게...?",
+      "ENGLISH": "Mind if I drop honorifics…?",
+      "CHINESE_SIMPLIFIED": "那我们就用平语说话吧？",
+      "CHINESE_TRADITIONAL": "那我們說話就輕鬆一點囉...？",
+      "JAPANESE": "タメ口でいい？",
+      "INDONESIAN": "Boleh nggak aku ngomong nyantai aja…?",
+      "PORTUGUESE": "O que acha da gente se tratar por “você”...?",
+      "SPANISH": "¿Te parece si nos tuteamos...?",
+      "PERSIAN": "فکر می کنم اگر افتخارات را کنار بگذارم...؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 그놈의 얼짱...",
+      "ENGLISH": "Ugh, that “top-tier beauty” thing again…",
+      "CHINESE_SIMPLIFIED": "哈...你们就别再提什么“校花”那一套了...",
+      "CHINESE_TRADITIONAL": "哈…又是一個校花...",
+      "JAPANESE": "はぁ…その“美人”って言葉 ほんともう…",
+      "INDONESIAN": "Ugh, primadona lagi primadona lagi…",
+      "PORTUGUESE": "De novo com essa história de “a mais bonita”...",
+      "SPANISH": "Otra vez con lo de “la más linda”...",
+      "PERSIAN": "اوه، دوباره اون چیز \"زیبایی درجه یک\"…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 완전요! 말 편하게 하세요 언니.",
+      "ENGLISH": "Oh totally! Talk casually, unnie.",
+      "CHINESE_SIMPLIFIED": "当然可以啦！请随意说平语吧，姐姐！",
+      "CHINESE_TRADITIONAL": "當然可以！請輕鬆地說平語吧，姐姐",
+      "JAPANESE": "あ 全然いいですよ！気軽に話してください お姉さん",
+      "INDONESIAN": "Oh tentu! Santai aja ngomongnya, unnie.",
+      "PORTUGUESE": "Claro! Vamos falar com confiança.",
+      "SPANISH": "¡Claro! Hablemos con confianza.",
+      "PERSIAN": "اوه کاملا! راحت صحبت کن عزیزم"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 말 놓은 김에, 우리 하숙집 사람들끼리 놀러 가기로 했는데 같이 갈래?",
+      "ENGLISH": "Then since we’re dropping formalities — our boarding house folks are planning to hang out, wanna come?",
+      "CHINESE_SIMPLIFIED": "那既然都用平语了，我们合租屋的人最近打算一起出去玩，你要不要一起？",
+      "CHINESE_TRADITIONAL": "既然說平語了，我們公寓的大家打算出去玩，妳要一起去嗎？",
+      "JAPANESE": "じゃあタメ口ついでに うちの下宿の人たちで遊びに行くことになったんだけど 一緒に来る？",
+      "INDONESIAN": "Kalau gitu, mumpung udah nggak kaku banget — anak-anak asrama tuh rencananya mau nongkrong, mau ikut nggak?",
+      "PORTUGUESE": "Então, já que a gente ficou próxima, quer entrar no plano que combinamos com as meninas da pensão?",
+      "SPANISH": "Entonces, ya que nos hicimos cercanas, ¿quieres unirte al plan que teníamos con las chicas de la pensión?",
+      "PERSIAN": "پس از اون‌جا که ما تشریفات را کنار می‌گذاریم - افراد پانسیون ما در حال برنامه‌ریزی برای معاشرت هستند، می‌خواین بیایید؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 그런 약속이 있었어?",
+      "ENGLISH": "Huh? We had plans like that?",
+      "CHINESE_SIMPLIFIED": "诶？还有这种约吗？",
+      "CHINESE_TRADITIONAL": "欸？有說要約出去玩嗎？",
+      "JAPANESE": "え？そんな約束あったっけ？",
+      "INDONESIAN": "Hah? Kita punya rencana gitu?",
+      "PORTUGUESE": "Hã? A gente tinha planos?",
+      "SPANISH": "¿Eh? ¿Teníamos planes?",
+      "PERSIAN": "ها؟ ما همچین برنامه هایی داشتیم؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 35.5
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 하면 되지, 안 돼?",
+      "ENGLISH": "We can make them now, can’t we?",
+      "CHINESE_SIMPLIFIED": "现在说也不迟啊，不行吗？",
+      "CHINESE_TRADITIONAL": "現在約不行嗎？",
+      "JAPANESE": "今決めればいいじゃん ダメ？",
+      "INDONESIAN": "Ya kita bikin sekarang, kenapa nggak?",
+      "PORTUGUESE": "Podemos montar agora.",
+      "SPANISH": "Podemos armarlo ahora",
+      "PERSIAN": "اکنون می توانیم اونا رو درست کنیم، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 37.2
+    },
+    "SCRIPT": {
+      "KOREAN": "안 될 건 없지...",
+      "ENGLISH": "There’s no reason not to…",
+      "CHINESE_SIMPLIFIED": "倒也不是不行...",
+      "CHINESE_TRADITIONAL": "也不是不行啦...",
+      "JAPANESE": "ダメなわけないけど…",
+      "INDONESIAN": "Nggak ada alasan buat nolak juga sih…",
+      "PORTUGUESE": "Não vejo por que não...",
+      "SPANISH": "No veo por qué no...",
+      "PERSIAN": "دلیلی وجود ندارد که…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 39.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 좋아요! 꼭 불러주세요!",
+      "ENGLISH": "I’d love to! Please invite me!",
+      "CHINESE_SIMPLIFIED": "太好了！一定要叫上我！",
+      "CHINESE_TRADITIONAL": "太好了！一定要讓我一起去！",
+      "JAPANESE": "めっちゃ嬉しい！絶対呼んでください！",
+      "INDONESIAN": "Aku mau banget! Ajak aku ya!",
+      "PORTUGUESE": "Adoraria! Me avisem quando for!",
+      "SPANISH": "¡Me encantaría! ¡Avísenme cuando sea!",
+      "PERSIAN": "من دوست دارم! لطفا مرا دعوت کنید!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 40.1,
+      "HIDE": 44.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그럼 우리 학교 다닐 때 그거 기억나? 그 15번 버스의 전설.",
+      "ENGLISH": "Oh, then do you remember that thing from back in school? The legend of Bus 15.",
+      "CHINESE_SIMPLIFIED": "啊，对了，你还记得我们上学那会儿的那个人吗？那个“15路公交车的传说”",
+      "CHINESE_TRADITIONAL": "啊，妳還記得我們上學的時候，那個 15 號公車的傳說嗎？",
+      "JAPANESE": "あ そうだ！うちらが学生の頃のあれ覚えてる？ あの15番バスの伝説！",
+      "INDONESIAN": "Oh iya, kamu inget nggak Legenda Bus 15 pas jaman sekolah itu?",
+      "PORTUGUESE": "Ah, aliás, você lembra de outra coisa da escola? A lenda do ônibus 15.",
+      "SPANISH": "Ah, por cierto, ¿recuerdas otra cosa de la escuela? La leyenda del autobús 15.",
+      "PERSIAN": "اوه، پس اون چیز را از دوران مدرسه به یاد می آورید؟ افسانه اتوبوس 15."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 46.1,
+      "HIDE": 49.1
+    },
+    "SCRIPT": {
+      "KOREAN": "15번 버스면? 밀크고 통학버스?",
+      "ENGLISH": "Bus 15? The Milk High commute bus?",
+      "CHINESE_SIMPLIFIED": "15路？你说的是牛奶高中的通学巴士？",
+      "CHINESE_TRADITIONAL": "15號公車？Milk 高中的通勤公車嗎？",
+      "JAPANESE": "15番バス？ ミルク高の通学バス？",
+      "INDONESIAN": "Bus 15? Bus antar-jemput SMA Milk itu?",
+      "PORTUGUESE": "O ônibus 15...? Aquele que passava pela escola Milk?",
+      "SPANISH": "¿El autobús 15...? ¿El que pasaba por la preparatoria Milk?",
+      "PERSIAN": "اتوبوس 15؟ اتوبوس رفت و آمد شیر های؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 49.5,
+      "HIDE": 52.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그 있잖아~ 그 15번 버스 전설의 왕가슴 선배! ",
+      "ENGLISH": "You know~ the legendary big-chest senior on Bus 15!",
+      "CHINESE_SIMPLIFIED": "对啊~就是那个！15路公交车上传说中的“巨乳学姐”！",
+      "CHINESE_TRADITIONAL": "對啊～就是那個15號公車，傳說中的巨乳學姊！",
+      "JAPANESE": "そうそう〜15番バスの“伝説の爆乳先輩”！",
+      "INDONESIAN": "Tau lah~ kakak kelas legendaris di Bus 15 yang… bohay itu!",
+      "PORTUGUESE": "Sim, esse mesmo~ a lenda dos melões do ônibus 15!",
+      "SPANISH": "Sí, ese~ ¡la leyenda de los melones del bus 15!",
+      "PERSIAN": "می دانید ~ ارشد افسانه ای با سینه بزرگ در اتوبوس 15!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 54.0,
+      "HIDE": 56.4
+    },
+    "SCRIPT": {
+      "KOREAN": "전설의 왕가슴 선배...? ",
+      "ENGLISH": "Legendary big-chest senior…?",
+      "CHINESE_SIMPLIFIED": "传说中的...巨乳学姐？",
+      "CHINESE_TRADITIONAL": "傳說中的巨乳學姊...？",
+      "JAPANESE": "伝説の爆乳先輩…？",
+      "INDONESIAN": "Kakak kelas dada legendaris…?",
+      "PORTUGUESE": "A lenda dos melões...?",
+      "SPANISH": "¿La leyenda de los melones...?",
+      "PERSIAN": "ارشد افسانه ای سینه بزرگ...؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 61.5,
+      "HIDE": 63.5
+    },
+    "SCRIPT": {
+      "KOREAN": "왕가슴 선배?",
+      "ENGLISH": "Big-chest senior?",
+      "CHINESE_SIMPLIFIED": "巨乳学姐？",
+      "CHINESE_TRADITIONAL": "巨乳學姊？",
+      "JAPANESE": "爆乳先輩？",
+      "INDONESIAN": "Kakak kelas dada besar…?",
+      "PORTUGUESE": "Que melões...?",
+      "SPANISH": "¿Qué melones...?",
+      "PERSIAN": "سینه بزرگ ارشد؟"
+    }
+  }
+]

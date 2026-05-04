@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 봐 이거 봐, 하면 잘할 놈이 쯥.",
+      "ENGLISH": "Look at this, look at this—this is gonna be easy for him, tsk.",
+      "CHINESE_SIMPLIFIED": "你看看你看看，会做嘛，啧",
+      "CHINESE_TRADITIONAL": "你看，你這傢伙明明就做得很好",
+      "JAPANESE": "ほら見ろ やればできるやつがまったく",
+      "INDONESIAN": "Liat nih, liat nih—ini mah gampang banget buat dia cih.",
+      "PORTUGUESE": "Olha só... Você nunca me decepciona.",
+      "SPANISH": "Mira no más... Nunca me decepcionas.",
+      "PERSIAN": "به این نگاه کن، به این نگاه کن - این برای او آسان است، تف."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "들어가!",
+      "ENGLISH": "Go in!",
+      "CHINESE_SIMPLIFIED": "回去吧！",
+      "CHINESE_TRADITIONAL": "回去位置上！",
+      "JAPANESE": "戻れ！",
+      "INDONESIAN": "Masuk sana!",
+      "PORTUGUESE": "Entrem logo!",
+      "SPANISH": "¡Siéntate!",
+      "PERSIAN": "برو داخل"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네... ",
+      "ENGLISH": "Yes…",
+      "CHINESE_SIMPLIFIED": "是...",
+      "CHINESE_TRADITIONAL": "是的...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya…",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "بله…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "일루와, 일루와",
+      "ENGLISH": "Come on in, come on in.",
+      "CHINESE_SIMPLIFIED": "过来，过来",
+      "CHINESE_TRADITIONAL": "過來，過來",
+      "JAPANESE": "こっち来い こっち来い",
+      "INDONESIAN": "Ayo masuk, ayo masuk.",
+      "PORTUGUESE": "Entrem, entrem.",
+      "SPANISH": "Espera, ven acá",
+      "PERSIAN": "بیا داخل، بیا داخل"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "다시 들어가 봐.",
+      "ENGLISH": "Try going in again.",
+      "CHINESE_SIMPLIFIED": "再重新回去",
+      "CHINESE_TRADITIONAL": "重新回去",
+      "JAPANESE": "もう一回戻れ",
+      "INDONESIAN": "Coba masuk lagi.",
+      "PORTUGUESE": "Já podem ir.",
+      "SPANISH": "¿Qué se dice?",
+      "PERSIAN": "دوباره وارد شوید"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다.",
+      "ENGLISH": "Thank you.",
+      "CHINESE_SIMPLIFIED": "谢谢老师",
+      "CHINESE_TRADITIONAL": "謝謝",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Makasih.",
+      "PORTUGUESE": "Muito obrigada.",
+      "SPANISH": "Muchas gracias.",
+      "PERSIAN": "ممنونم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇지.",
+      "ENGLISH": "See?",
+      "CHINESE_SIMPLIFIED": "这就对了",
+      "CHINESE_TRADITIONAL": "就是這樣",
+      "JAPANESE": "そうそう",
+      "INDONESIAN": "Tuh, kan?",
+      "PORTUGUESE": "Sim, sim...",
+      "SPANISH": "Sí sí...",
+      "PERSIAN": "ببینید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 진짜 씨...",
+      "ENGLISH": "Ugh, seriously… geez.",
+      "CHINESE_SIMPLIFIED": "哎，真是的...",
+      "CHINESE_TRADITIONAL": "唉，在搞什麼...",
+      "JAPANESE": "まったくもう チッ…",
+      "INDONESIAN": "Elah, yang bener aja… duh.",
+      "PORTUGUESE": "Ai... por pouco...",
+      "SPANISH": "Ay... por poco...",
+      "PERSIAN": "اوه، جدی... عزیزم."
+    }
+  }
+]

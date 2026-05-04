@@ -1,0 +1,848 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.01,
+      "HIDE": 3.05
+    },
+    "SCRIPT": {
+      "KOREAN": "더 최악인 건",
+      "ENGLISH": "Which is worse",
+      "CHINESE_SIMPLIFIED": "哪一个更糟糕？",
+      "CHINESE_TRADITIONAL": "更糟糕的是——",
+      "JAPANESE": "もっと最悪なのは",
+      "INDONESIAN": "Yang paling parah tuh ya...",
+      "PORTUGUESE": "O que você prefere:",
+      "SPANISH": "Qué prefieres:",
+      "PERSIAN": "که بدتره"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.05,
+      "HIDE": 7.12
+    },
+    "SCRIPT": {
+      "KOREAN": "“엄마 앞에서 애인이랑 키스 vs 애인 앞에서 이성친구랑 뽀뽀”",
+      "ENGLISH": "Kissing in front of Mom vs kissing a friend before your partner",
+      "CHINESE_SIMPLIFIED": "“在妈妈面前和恋人接吻 vs 在恋人面前和异性朋友亲亲”",
+      "CHINESE_TRADITIONAL": "“在媽媽面前跟戀人接吻” vs “在戀人面前跟異性朋友親親”",
+      "JAPANESE": "”お母さんの前で恋人とキス vs 恋人の前で異性の友達とキス”",
+      "INDONESIAN": "“Ciuman sama pacar di depan mama vs. ciuman sama temen cowok di depan pacar.”",
+      "PORTUGUESE": "“Beijar seu parceiro na frente da sua mãe” ou “Que seu parceiro te veja dando um beijo em um amigo do sexo oposto”?",
+      "SPANISH": "“Besar a tu pareja frente a tu mamá\" o \"Que tu pareja te vea darle un beso a un amigo del sexo opuesto”",
+      "PERSIAN": "بوسیدن جلوی مادر در مقابل بوسیدن دوست قبل از شریک زندگی تان"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마가 요새",
+      "ENGLISH": "But my mom’s been on me lately.",
+      "CHINESE_SIMPLIFIED": "不过我妈最近",
+      "CHINESE_TRADITIONAL": "因為我媽",
+      "JAPANESE": "うちの母が最近",
+      "INDONESIAN": "Akhir-akhir ini tuh sebenernya mama aku sering banget...",
+      "PORTUGUESE": "Ultimamente minha mãe",
+      "SPANISH": "Últimamente mi mamá",
+      "PERSIAN": "اما مامانم اخیرا به من توجه کرده است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "시집가라는 소리를 많이 하거든요",
+      "ENGLISH": "Like, get married already! ",
+      "CHINESE_SIMPLIFIED": "老是催我出嫁呢",
+      "CHINESE_TRADITIONAL": "最近一直催我結婚",
+      "JAPANESE": "早く結婚しなさいって言うんですよ",
+      "INDONESIAN": "Ngomong, “Udah lah, nikah!...",
+      "PORTUGUESE": "anda me pressionando com essas coisas.",
+      "SPANISH": "anda presionándome con esas cosas.",
+      "PERSIAN": "مثل اینکه قبلا ازدواج کن!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 13.18
+    },
+    "SCRIPT": {
+      "KOREAN": "차라리 시집을 가라 애를 낳아라 이래가지고",
+      "ENGLISH": "Have a baby!",
+      "CHINESE_SIMPLIFIED": "整天跟我唠叨“赶紧结婚生孩子吧”这句话",
+      "CHINESE_TRADITIONAL": "一天到晚說趕快嫁人、生個孩子之類的",
+      "JAPANESE": "結婚して子ども産めってずっと言って",
+      "INDONESIAN": "sama punya anak aja.\"",
+      "PORTUGUESE": "Que quando vai ser o casamento, quando vai vir um neto…",
+      "SPANISH": "Que para cuando la boda, para cuando un nieto...",
+      "PERSIAN": "بچه دار شو"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.18,
+      "HIDE": 16.05
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마 앞에서 애인이랑 키스하면 엄마가",
+      "ENGLISH": "So if she saw me kissing my boyfriend,",
+      "CHINESE_SIMPLIFIED": "要是在妈妈面前和恋人接吻",
+      "CHINESE_TRADITIONAL": "如果在媽媽面前跟戀人接吻的話",
+      "JAPANESE": "だからお母さんの前で恋人とキスしたら",
+      "INDONESIAN": "Jadi kalo aku ciuman sama pacarku di depan mama,",
+      "PORTUGUESE": "Então, se eu beijar meu namorado na frente dela,",
+      "SPANISH": "Entonces si me beso con un novio frente a ella",
+      "PERSIAN": "بنابراین اگر او من را در حال بوسیدن دوست پسرم دید،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.05,
+      "HIDE": 19.08
+    },
+    "SCRIPT": {
+      "KOREAN": "아이고 잘한다",
+      "ENGLISH": "She’d probably go, “Good job!\"",
+      "CHINESE_SIMPLIFIED": "我妈肯定会说“哎呀太好了！”",
+      "CHINESE_TRADITIONAL": "她應該會說，哎唷，幹得好",
+      "JAPANESE": "よかったね",
+      "INDONESIAN": "mama aku  malah bakal bilang, “gitu dong~ bagus banget!”",
+      "PORTUGUESE": "ela com certeza me parabeniza.",
+      "SPANISH": "seguro me felicita.",
+      "PERSIAN": "او احتمالاً می‌گفت: \"کار خوب است!\""
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.08,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "결혼해라 하실 것 같아서",
+      "ENGLISH": "\"Just marry him!”",
+      "CHINESE_SIMPLIFIED": "然后催我们结婚吧",
+      "CHINESE_TRADITIONAL": "快去結婚，這種話吧",
+      "JAPANESE": "結婚しなさいって言いそうで",
+      "INDONESIAN": "“Cepetan nikah sana~”",
+      "PORTUGUESE": "Ia dizer para a gente casar.",
+      "SPANISH": "Nos diría que nos casemos.",
+      "PERSIAN": "\"فقط با او ازدواج کن!\""
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.19
+    },
+    "SCRIPT": {
+      "KOREAN": "애인 앞에서 이성친구랑 뽀뽀하면",
+      "ENGLISH": "But kissing a guy friend in front of my boyfriend?",
+      "CHINESE_SIMPLIFIED": "要是在恋人面前和异性朋友亲亲",
+      "CHINESE_TRADITIONAL": "在戀人面前跟異性朋友親親的話",
+      "JAPANESE": "でも恋人の前で異性の友達とキスなんてしたら",
+      "INDONESIAN": "Tapi kalo aku ciuman sama temen cowok di depan pacar?",
+      "PORTUGUESE": "Mas se eu beijasse alguém na frente do meu namorado,",
+      "SPANISH": "Pero si beso a alguien frente a mi novio",
+      "PERSIAN": "اما بوسیدن یک دوست پسر جلوی دوست پسرم؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.19,
+      "HIDE": 24.1
+    },
+    "SCRIPT": {
+      "KOREAN": "남자친구한테 차이잖아요",
+      "ENGLISH": "That’s an instant breakup.",
+      "CHINESE_SIMPLIFIED": "肯定会被男朋友甩的啊",
+      "CHINESE_TRADITIONAL": "會被男朋友甩掉啊",
+      "JAPANESE": "絶対彼氏にふられるでしょ",
+      "INDONESIAN": "Wah itu mah langsung putus.",
+      "PORTUGUESE": "ele terminaria comigo ali na hora.",
+      "SPANISH": "Terminaría conmigo ahí mismo.",
+      "PERSIAN": "این یک جدایی فوری است."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 25.17
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 안 돼",
+      "ENGLISH": "No way. ",
+      "CHINESE_SIMPLIFIED": "所以不行",
+      "CHINESE_TRADITIONAL": "所以絕對不行",
+      "JAPANESE": "だからダメ",
+      "INDONESIAN": "Nggak bisa dong.",
+      "PORTUGUESE": "Então não.",
+      "SPANISH": "Entonces no.",
+      "PERSIAN": "به هیچ وجه."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.17,
+      "HIDE": 28.01
+    },
+    "SCRIPT": {
+      "KOREAN": "애인 앞에서 이성친구랑 뽀뽀는 최악이다",
+      "ENGLISH": "That’s the worst one for sure.",
+      "CHINESE_SIMPLIFIED": "在恋人面前和异性朋友亲亲简直最糟糕了",
+      "CHINESE_TRADITIONAL": "在戀人面前跟異性朋友親親是最最最糟糕的",
+      "JAPANESE": "恋人の前で異性の友達とキスは最悪です",
+      "INDONESIAN": "Itu  beneran yang paling parah.",
+      "PORTUGUESE": "Beijar um amigo do sexo oposto na frente do seu parceiro seria o pior.",
+      "SPANISH": "Besar a un amigo del sexo opuesto frente a tu pareja sería lo peor.",
+      "PERSIAN": "مطمئناً این بدترین است."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.01,
+      "HIDE": 29.01
+    },
+    "SCRIPT": {
+      "KOREAN": "오렌지",
+      "ENGLISH": "Orange",
+      "CHINESE_SIMPLIFIED": "橙子",
+      "CHINESE_TRADITIONAL": "柳橙",
+      "JAPANESE": "オレンジ",
+      "INDONESIAN": "Orenji.",
+      "PORTUGUESE": "Laranja.",
+      "SPANISH": "Naranja.",
+      "PERSIAN": "نارنجی"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.01,
+      "HIDE": 31.08
+    },
+    "SCRIPT": {
+      "KOREAN": "오렌지주스 먹고 싶으니까",
+      "ENGLISH": "I want orange juice.",
+      "CHINESE_SIMPLIFIED": "因为我想喝橙汁",
+      "CHINESE_TRADITIONAL": "因為想喝柳橙汁",
+      "JAPANESE": "オレンジジュース飲みたいから",
+      "INDONESIAN": "Jadi kepengen jus jeruk deh!",
+      "PORTUGUESE": "Quero tomar suco de laranja, então…",
+      "SPANISH": "Quiero tomar jugo de naranja, así que…",
+      "PERSIAN": "من آب پرتقال میخوام"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 33.14,
+      "HIDE": 39.07
+    },
+    "SCRIPT": {
+      "KOREAN": "“다시 태어나면 하숙생이 전부 미녀입니다만 시즌 2 캐릭터 중 누가 되고 싶은가요?”",
+      "ENGLISH": "If you were reborn as a character from FHUOR S2, who would you be?",
+      "CHINESE_SIMPLIFIED": "如果重新投胎成为《阿西美女2》里的角色，最想成为谁？",
+      "CHINESE_TRADITIONAL": "“如果重新投胎，在《阿西, 美女室友竟然...？》2裡，想成為哪個角色呢？”",
+      "JAPANESE": "”また生まれ変わったら、まさか！下宿生が 美女ですって？シーズン2のキャラの中で誰になりたいですか？”",
+      "INDONESIAN": "“Kalau bisa reinkarnasi jadi salah satu karakter di Five Hearts Under One Roof 2, kamu mau jadi siapa?”",
+      "PORTUGUESE": "Se você renascesse, que personagem de Five Hearts Under One Roof 2 gostaria de ser?",
+      "SPANISH": "Si volvieras a nacer, ¿qué personaje de Five Hearts Under One Roof 2 te gustaría ser?",
+      "PERSIAN": "اگر به عنوان شخصیتی از یک سقف و پنج قلب 2 دوباره متولد می شدید، چه کسی بودید؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 39.07,
+      "HIDE": 40.14
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 재밌다",
+      "ENGLISH": "Oh, this is a fun one.",
+      "CHINESE_SIMPLIFIED": "这个问题有意思",
+      "CHINESE_TRADITIONAL": "這個好有趣",
+      "JAPANESE": "これ面白いね",
+      "INDONESIAN": "Wah, pertanyaannya seru banget!",
+      "PORTUGUESE": "Essa é divertida.",
+      "SPANISH": "Esa es divertida.",
+      "PERSIAN": "اوه، این یک سرگرمی است."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 40.14,
+      "HIDE": 42.09
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 이제 “빵귤”",
+      "ENGLISH": "I’d go with Bbanggyul!",
+      "CHINESE_SIMPLIFIED": "我选金橘（方久梨）！",
+      "CHINESE_TRADITIONAL": "我選金橘的角色",
+      "JAPANESE": "私は“パンギュル”",
+      "INDONESIAN": "Hmm Bbanggyul deh!",
+      "PORTUGUESE": "Eu seria “A das mandarinas”.",
+      "SPANISH": "Yo sería \"La de las mandarinas\".",
+      "PERSIAN": "من با بابانگیول می روم!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 42.09,
+      "HIDE": 46.17
+    },
+    "SCRIPT": {
+      "KOREAN": "왜냐면 빵귤이가 엉덩이가 자꾸 예쁘다고 생각을 해서",
+      "ENGLISH": "I mean... I always thought she had a really cute butt.",
+      "CHINESE_SIMPLIFIED": "因为我总觉得金橘的屁股很漂亮",
+      "CHINESE_TRADITIONAL": "因為我一直覺得金橘的屁股很漂亮",
+      "JAPANESE": "なんかパンギュルのお尻がすごく綺麗だなって思ってて",
+      "INDONESIAN": "Soalnya aku tuh sering mikir... pantatnya dia tuh gemes banget.",
+      "PORTUGUESE": "Porque sempre achei que a Bang Gyuri tem um bumbum muito bonito.",
+      "SPANISH": "Porque siempre he pensado que Bang Gyuri tiene un trasero muy bonito.",
+      "PERSIAN": "یعنی... همیشه فکر می کردم که او باسن بسیار زیبایی دارد."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 46.17,
+      "HIDE": 47.22
+    },
+    "SCRIPT": {
+      "KOREAN": "아 이거 말해도 되나?",
+      "ENGLISH": "Wait—can I even say that?",
+      "CHINESE_SIMPLIFIED": "啊，这个能说吗？",
+      "CHINESE_TRADITIONAL": "啊...這個可以說嗎？",
+      "JAPANESE": "あ これ言っていいのかな？",
+      "INDONESIAN": "Eh, boleh ngomong gak ya ngomong gini?",
+      "PORTUGUESE": "Posso dizer isso?",
+      "SPANISH": "¿Puedo decir eso?",
+      "PERSIAN": "صبر کن - حتی می توانم اینو بگویم؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 47.22,
+      "HIDE": 48.16
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해 빵귤",
+      "ENGLISH": "Sorry, Bbanggyul!",
+      "CHINESE_SIMPLIFIED": "对不起啦金橘",
+      "CHINESE_TRADITIONAL": "對不起啦，金橘～",
+      "JAPANESE": "ごめんね パンギュル",
+      "INDONESIAN": "Maaf ya Bbanggyul hahahah",
+      "PORTUGUESE": "Desculpa, Gyuri.",
+      "SPANISH": "Perdóname, Gyuri.",
+      "PERSIAN": "ببخشید بابانگیول!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 48.16,
+      "HIDE": 51.09
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 원하면 딱 아담한 키에다가",
+      "ENGLISH": "But seriously, she’s got the perfect height,",
+      "CHINESE_SIMPLIFIED": "我想像她一样拥有娇小身高",
+      "CHINESE_TRADITIONAL": "她的身高嬌小可愛",
+      "JAPANESE": "私が理想とする小柄な背と",
+      "INDONESIAN": "Tapi serius, dia tingginya pas, ",
+      "PORTUGUESE": "Se eu pudesse renascer, seria baixinha,",
+      "SPANISH": "Si pudiera renacer sería chiquita,",
+      "PERSIAN": "اما به طور جدی، او قد عالی دارد،"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 51.09,
+      "HIDE": 54.22
+    },
+    "SCRIPT": {
+      "KOREAN": "되게 예쁜 얼굴과 몸과 예쁜 나이",
+      "ENGLISH": "a gorgeous face, a great body, and she’s just the right age.",
+      "CHINESE_SIMPLIFIED": "漂亮的脸蛋和身材，还是个妙龄少女~",
+      "CHINESE_TRADITIONAL": "臉又漂亮、身材又好、年紀又剛好",
+      "JAPANESE": "顔も身体も可愛くて 年齢まで可愛い",
+      "INDONESIAN": "mukanya cantik, badannya bagus, dan masih muda.",
+      "PORTUGUESE": "com rosto, corpo e idade bonitos.",
+      "SPANISH": "con una cara, cuerpo y edad bonita.",
+      "PERSIAN": "یک چهره زیبا، یک بدن عالی، و او فقط در سن مناسب است."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 54.22,
+      "HIDE": 55.22
+    },
+    "SCRIPT": {
+      "KOREAN": "빵귤아 사랑한다",
+      "ENGLISH": "Love you, Bbanggyul~ ",
+      "CHINESE_SIMPLIFIED": "金橘~爱你哦~",
+      "CHINESE_TRADITIONAL": "我愛你～金橘～",
+      "JAPANESE": "パンギュル 愛してる",
+      "INDONESIAN": "Love you Bbanggyul~",
+      "PORTUGUESE": "Te amo, Gyuri.",
+      "SPANISH": "Te amo Gyuri.",
+      "PERSIAN": "دوستت دارم بابانگیول~"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 55.22,
+      "HIDE": 58.23
+    },
+    "SCRIPT": {
+      "KOREAN": "아하 캐릭터였어요?",
+      "ENGLISH": "Oh wait, you meant the actual characters?",
+      "CHINESE_SIMPLIFIED": "啊哈，原来是指角色吗？",
+      "CHINESE_TRADITIONAL": "啊哈，原來是指角色啊？",
+      "JAPANESE": "ああ、キャラの話だったんですか？",
+      "INDONESIAN": "Oh ini maksudnya karakter di game ya?",
+      "PORTUGUESE": "Ah, era para escolher um personagem?",
+      "SPANISH": "Ah, ¿era un personaje?",
+      "PERSIAN": "اوه صبر کنید، منظور شما شخصیت های واقعی بود؟"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 58.23,
+      "HIDE": 60.04
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면",
+      "ENGLISH": "In that case—",
+      "CHINESE_SIMPLIFIED": "那...",
+      "CHINESE_TRADITIONAL": "那我換一個",
+      "JAPANESE": "じゃあ",
+      "INDONESIAN": "Kalau gitu... ",
+      "PORTUGUESE": "Então…",
+      "SPANISH": "Entonces…",
+      "PERSIAN": "در اون صورت-"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 60.04,
+      "HIDE": 61.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나는 유나몽",
+      "ENGLISH": "Yunamong!",
+      "CHINESE_SIMPLIFIED": "我选有娜梦（郑有娜）",
+      "CHINESE_TRADITIONAL": "我選有娜夢",
+      "JAPANESE": "私はユナモン",
+      "INDONESIAN": "Yunamong deh!",
+      "PORTUGUESE": "Eu seria a Yuna!",
+      "SPANISH": "¡Yo sería Yuna!",
+      "PERSIAN": "یونامونگ!"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 61.0,
+      "HIDE": 62.06
+    },
+    "SCRIPT": {
+      "KOREAN": "유나가 부자잖아요",
+      "ENGLISH": "She’s rich, right?",
+      "CHINESE_SIMPLIFIED": "有娜不是很有钱嘛",
+      "CHINESE_TRADITIONAL": "因為有娜是有錢人嘛～",
+      "JAPANESE": "ユナってお金持ちじゃないですか",
+      "INDONESIAN": "Dia anak orang kaya, kan?",
+      "PORTUGUESE": "Porque a Yuna é milionária.",
+      "SPANISH": "Porque Yuna es millonaria.",
+      "PERSIAN": "او ثروتمند است، درست است؟"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 62.06,
+      "HIDE": 64.09
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 집안이 그렇게 부자는 아니어서",
+      "ENGLISH": "My family’s not exactly loaded,",
+      "CHINESE_SIMPLIFIED": "我家境没那么富裕",
+      "CHINESE_TRADITIONAL": "我家境沒有那麼富裕",
+      "JAPANESE": "私はそんな裕福な家じゃないから",
+      "INDONESIAN": "Sedangkan keluargaku nggak sekaya itu...",
+      "PORTUGUESE": "E eu não venho de uma família rica, então",
+      "SPANISH": "Y yo no vengo de una familia rica, así que",
+      "PERSIAN": "خانواده من دقیقاً بارگیری نشده اند،"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 64.09,
+      "HIDE": 67.03
+    },
+    "SCRIPT": {
+      "KOREAN": "부자 집안에서",
+      "ENGLISH": "so I’d love to try living like her",
+      "CHINESE_SIMPLIFIED": "所以很想体验下在富裕家庭",
+      "CHINESE_TRADITIONAL": "想試著在有錢人的家裡",
+      "JAPANESE": "裕福な家庭で",
+      "INDONESIAN": "Jadi pengen juga ngerasain hidup sebagai cewek kaya kayak Yuna,",
+      "PORTUGUESE": "pelo menos uma vez",
+      "SPANISH": "al menos una vez",
+      "PERSIAN": "بنابراین من دوست دارم سعی کنم مانند او زندگی کنم"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 67.03,
+      "HIDE": 68.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유나처럼 하고 싶은 거 다 하는 캐릭터로 한 번 살아보고 싶긴 해요",
+      "ENGLISH": "Doing whatever I want without worrying about money. Living the dream!",
+      "CHINESE_SIMPLIFIED": "像有娜这样为所欲为地活一次",
+      "CHINESE_TRADITIONAL": "當個想幹嘛就幹嘛的——富家千金",
+      "JAPANESE": "ユナみたいにやりたいこと全部やるキャラクターで生きてみたいですね",
+      "INDONESIAN": "yang bisa ngelakuin apa aja yang aku mau!",
+      "PORTUGUESE": "eu gostaria de viver como uma garota rica que faz tudo o que quer.",
+      "SPANISH": "me gustaría vivir como una chica adinerada que hace todo lo que quiere",
+      "PERSIAN": "هر کاری دلم می خواهد بدون نگرانی از پول انجام دهم. زندگی کردن در رویا!"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 68.1,
+      "HIDE": 72.04
+    },
+    "SCRIPT": {
+      "KOREAN": "“애인 방귀 냄새 맡기 vs 내 방귀 냄새 애인이 맡기”",
+      "ENGLISH": "Smelling your partner’s fart vs. your partner smelling yours.",
+      "CHINESE_SIMPLIFIED": "“让恋人闻我的屁 vs 我闻恋人的屁”",
+      "CHINESE_TRADITIONAL": "\"讓戀人聞我的屁味\" vs \"我聞戀人的屁味\"",
+      "JAPANESE": "”恋人のオナラのにおいを嗅ぐ vs 自分のオナラのにおいを恋人が嗅ぐ”",
+      "INDONESIAN": "“Nyium kentut pacar vs. Dia nyium kentutku.”",
+      "PORTUGUESE": "“Que seu parceiro cheire seus gases” ou “Cheirar os gases do seu parceiro”?",
+      "SPANISH": "“Que tu pareja huela tus gases\" o \"Oler los gases de tu pareja”",
+      "PERSIAN": "بوییدن گوز همسرتان در مقابل بوییدن گوز همسرتان."
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 72.04,
+      "HIDE": 74.02
+    },
+    "SCRIPT": {
+      "KOREAN": "어느 정도 최악이에요? 쓰레기 냄새나요?",
+      "ENGLISH": "Okay but how bad are we talking? Like trash can-level?",
+      "CHINESE_SIMPLIFIED": "这能有多糟？难道是垃圾的臭味？",
+      "CHINESE_TRADITIONAL": "這題…有多糟啊？是垃圾臭味嗎？",
+      "JAPANESE": "どれくらい最悪なんですか？ ゴミのにおい？",
+      "INDONESIAN": "Ini tuh seberapa parah sih baunya? Kayak bau sampah?",
+      "PORTUGUESE": "Que nível de cheiro estamos falando? Cheiro de lixo?",
+      "SPANISH": "¿Qué nivel de olor estamos hablando? ¿Olor a basura?",
+      "PERSIAN": "باشه اما چقدر بد حرف میزنیم؟ مانند سطح سطل زباله؟"
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 74.02,
+      "HIDE": 79.11
+    },
+    "SCRIPT": {
+      "KOREAN": "똥?",
+      "ENGLISH": "Poop?",
+      "CHINESE_SIMPLIFIED": "还是屎味？",
+      "CHINESE_TRADITIONAL": "還是大便的味道嗎？",
+      "JAPANESE": "うんち？",
+      "INDONESIAN": "Bau pup??",
+      "PORTUGUESE": "De cocô?",
+      "SPANISH": "¿A popó?",
+      "PERSIAN": "مدفوع؟"
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 79.11,
+      "HIDE": 81.22
+    },
+    "SCRIPT": {
+      "KOREAN": "아 왜 이래?",
+      "ENGLISH": "Ew, whyyy...",
+      "CHINESE_SIMPLIFIED": "啊，为什么问这个？",
+      "CHINESE_TRADITIONAL": "啊，為什麼要那樣問？",
+      "JAPANESE": "ちょっと なにそれ",
+      "INDONESIAN": "Ih kenapa sih?!",
+      "PORTUGUESE": "Ai, por quê?",
+      "SPANISH": "Ay, ¿pero por qué?",
+      "PERSIAN": "اوه، چرا..."
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 81.22,
+      "HIDE": 82.11
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 그렇다고요?",
+      "ENGLISH": "Are you saying I smell like that?",
+      "CHINESE_SIMPLIFIED": "我也要选吗？",
+      "CHINESE_TRADITIONAL": "我也要回答嗎？",
+      "JAPANESE": "私もそうなの？",
+      "INDONESIAN": "Emang aku bau banget gitu??",
+      "PORTUGUESE": "Os meus também?",
+      "SPANISH": "¿Los míos también?",
+      "PERSIAN": "میخوای بگی من همچین بویی دارم؟"
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 83.04,
+      "HIDE": 83.04
+    },
+    "SCRIPT": {
+      "KOREAN": "나 방귀 냄새 그렇게 안 심한데",
+      "ENGLISH": "Hey, my farts aren’t that bad!",
+      "CHINESE_SIMPLIFIED": "我的屁味其实没那么重啊...",
+      "CHINESE_TRADITIONAL": "我放屁味其實沒那麼糟啦",
+      "JAPANESE": "私 オナラのにおいそんなにひどくないけど",
+      "INDONESIAN": "Nggak sebau itu kok!!",
+      "PORTUGUESE": "Meus gases não cheiram tão mal.",
+      "SPANISH": "Mis gases no huelen tan mal.",
+      "PERSIAN": "هی، گوزهای من آنقدرها هم بد نیستند!"
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "TIME": {
+      "SHOW": 83.04,
+      "HIDE": 83.04
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 애인 방귀 냄새 맡기",
+      "ENGLISH": "I’ll just go with smelling theirs.",
+      "CHINESE_SIMPLIFIED": "那就选闻恋人的屁吧",
+      "CHINESE_TRADITIONAL": "那我選聞戀人的屁味",
+      "JAPANESE": "恋人のオナラのにおいを嗅ぐ、かな",
+      "INDONESIAN": "Aku mendingan nyium kentut dia aja deh.",
+      "PORTUGUESE": "Prefiro cheirar os do meu parceiro.",
+      "SPANISH": "Prefiero oler los de mi pareja.",
+      "PERSIAN": "من فقط با بوییدن بوی اونا می روم."
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "TIME": {
+      "SHOW": 84.2,
+      "HIDE": 84.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어차피 사랑하는 사람이니까 뭔 냄새를 맡아도 좋을 것 같아요",
+      "ENGLISH": "If I love them, I feel like I could handle any smell.",
+      "CHINESE_SIMPLIFIED": "反正是心爱之人，什么味道我都能接受",
+      "CHINESE_TRADITIONAL": "反正是自己喜歡的人，聞到什麼味道應該都可以接受",
+      "JAPANESE": "どうせ好きな人だし どんなにおいでも大丈夫な気がします",
+      "INDONESIAN": "Soalnya kalo udah sayang, bau apa pun tuh jadi nggak masalah.",
+      "PORTUGUESE": "No fim, se é alguém que eu amo, acho que qualquer cheiro estaria tudo bem.",
+      "SPANISH": "Al final, si es alguien que amo, creo que cualquier olor estaría bien.",
+      "PERSIAN": "اگر اونا رو دوست داشته باشم، احساس می کنم می توانم هر بویی را تحمل کنم."
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "TIME": {
+      "SHOW": 86.08,
+      "HIDE": 88.06
+    },
+    "SCRIPT": {
+      "KOREAN": "왜냐하면 저는",
+      "ENGLISH": "Like, when I had a boyfriend,",
+      "CHINESE_SIMPLIFIED": "因为以前交男朋友的时候",
+      "CHINESE_TRADITIONAL": "我以前交男朋友的時候",
+      "JAPANESE": "だって私は",
+      "INDONESIAN": "Dulu waktu aku pacaran, ",
+      "PORTUGUESE": "Porque quando eu tive namorado,",
+      "SPANISH": "Porque cuando tuve novio,",
+      "PERSIAN": "مثلا وقتی دوست پسر داشتم"
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "TIME": {
+      "SHOW": 88.06,
+      "HIDE": 92.05
+    },
+    "SCRIPT": {
+      "KOREAN": "남자친구 사귀었을 때 땀 냄새가 되게 좋았거든요",
+      "ENGLISH": "I really liked the way his sweat smelled.",
+      "CHINESE_SIMPLIFIED": "我连他的汗味都很喜欢",
+      "CHINESE_TRADITIONAL": "得他的汗味很好聞",
+      "JAPANESE": "彼氏いた時 汗のにおいすごく好きだったんです",
+      "INDONESIAN": "aku malah suka bau keringet pacarku loh.",
+      "PORTUGUESE": "eu gostava muito do cheiro do suor dele.",
+      "SPANISH": "el olor de su sudor me gustaba mucho.",
+      "PERSIAN": "بوی عرقش را خیلی دوست داشتم."
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "TIME": {
+      "SHOW": 92.05,
+      "HIDE": 92.05
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아하면 그렇게 땀 냄새가 좋더라구요",
+      "ENGLISH": "When you like someone, even their sweat smells kinda... nice.",
+      "CHINESE_SIMPLIFIED": "只要喜欢一个人，连汗味都会觉得好闻",
+      "CHINESE_TRADITIONAL": "喜歡一個人的時候，連汗味都會覺得香",
+      "JAPANESE": "好きだと汗のにおいも良く感じるんですよね",
+      "INDONESIAN": "Aneh sih, tapi kalo udah sayang ya emang gitu.",
+      "PORTUGUESE": "Quando você gosta de alguém, até o cheiro da pessoa você gosta.",
+      "SPANISH": "Cuando te gusta alguien, hasta su olor te gusta.",
+      "PERSIAN": "وقتی کسی را دوست دارید، حتی عرق او نیز بوی خوبی می دهد."
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "TIME": {
+      "SHOW": 93.04,
+      "HIDE": 93.04
+    },
+    "SCRIPT": {
+      "KOREAN": "미친 것 같지만",
+      "ENGLISH": "I know, I sound insane.",
+      "CHINESE_SIMPLIFIED": "虽然听起来有点变态",
+      "CHINESE_TRADITIONAL": "雖然聽起來很瘋狂",
+      "JAPANESE": "やばいけど",
+      "INDONESIAN": "Tapi kalau pacarku yang harus nyium kentutku?",
+      "PORTUGUESE": "Estou parecendo uma louca.",
+      "SPANISH": "Estoy quedando como una loca.",
+      "PERSIAN": "میدونم دیوونه به نظر میرسم"
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "TIME": {
+      "SHOW": 96.05,
+      "HIDE": 93.04
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 내 방귀 냄새를 애인이 맡는다는 건 좀 부끄러워",
+      "ENGLISH": "But making him smell my fart? No way. That’s embarrassing.",
+      "CHINESE_SIMPLIFIED": "但要是让恋人闻我的屁，还挺羞耻的",
+      "CHINESE_TRADITIONAL": "但是讓另一半聞我的屁味，我會覺得有點害羞",
+      "JAPANESE": "でも自分のオナラのにおいを恋人に嗅がせるのはちょっと恥ずかしい",
+      "INDONESIAN": "Itu... malu banget sumpah.",
+      "PORTUGUESE": "Mas fazer meu parceiro cheirar meus peidos… disso eu tenho vergonha.",
+      "SPANISH": "Pero que mi pareja huela mis pedos… eso sí me da pena.",
+      "PERSIAN": "اما وادار کردن او به بوی گوز من؟ به هیچ وجه. این شرم آور است"
+    }
+  },
+  {
+    "INDEX": 44.0,
+    "TIME": {
+      "SHOW": 96.05,
+      "HIDE": 96.05
+    },
+    "SCRIPT": {
+      "KOREAN": "여자로서 수치스러워",
+      "ENGLISH": "As a girl, that’s just humiliating.",
+      "CHINESE_SIMPLIFIED": "作为女生太丢脸了",
+      "CHINESE_TRADITIONAL": "身為女生，我會覺得丟臉",
+      "JAPANESE": "女として無理",
+      "INDONESIAN": "Sebagai cewek tuh... nggak banget deh.",
+      "PORTUGUESE": "Como mulher, tenho vergonha.",
+      "SPANISH": "Como mujer, me da vergüenza.",
+      "PERSIAN": "به عنوان یک دختر، این فقط تحقیر کننده است."
+    }
+  },
+  {
+    "INDEX": 45.0,
+    "TIME": {
+      "SHOW": 98.13,
+      "HIDE": 96.05
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 맡겠습니다",
+      "ENGLISH": "So yeah. I’ll do it.",
+      "CHINESE_SIMPLIFIED": "还是我来闻吧！",
+      "CHINESE_TRADITIONAL": "所以對方的屁味",
+      "JAPANESE": "私が嗅ぎます",
+      "INDONESIAN": "Jadi biar aku aja yang nyium.",
+      "PORTUGUESE": "Então eu cheiro.",
+      "SPANISH": "Así que los huelo yo...",
+      "PERSIAN": "پس آره من اونو انجام خواهم داد."
+    }
+  },
+  {
+    "INDEX": 46.0,
+    "TIME": {
+      "SHOW": 99.11,
+      "HIDE": 98.13
+    },
+    "SCRIPT": {
+      "KOREAN": "방귀 냄새",
+      "ENGLISH": "I’ll take the fart.",
+      "CHINESE_SIMPLIFIED": "屁味儿~",
+      "CHINESE_TRADITIONAL": "我來聞就好",
+      "JAPANESE": "オナラのにおい",
+      "INDONESIAN": "Kentut? Biar aku yang urus.",
+      "PORTUGUESE": "Os gases dele.",
+      "SPANISH": "sus gases.",
+      "PERSIAN": "من گوز را خواهم گرفت"
+    }
+  },
+  {
+    "INDEX": 47.0,
+    "TIME": {
+      "SHOW": 99.43,
+      "HIDE": 99.11
+    },
+    "SCRIPT": {
+      "KOREAN": "끝!",
+      "ENGLISH": "The end!",
+      "CHINESE_SIMPLIFIED": "结束！",
+      "CHINESE_TRADITIONAL": "結束！",
+      "JAPANESE": "終わり！",
+      "INDONESIAN": "Selesai!",
+      "PORTUGUESE": "Fim!",
+      "SPANISH": "¡Fin!",
+      "PERSIAN": "پایان!"
+    }
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "소주랑 맥주랑 섞어서 먹어본 적 있어요?",
+      "ENGLISH": "Have you ever mixed soju and beer?",
+      "CHINESE_SIMPLIFIED": "烧酒和啤酒混着喝过吗？",
+      "CHINESE_TRADITIONAL": "你有喝過燒酒混啤酒嗎？",
+      "JAPANESE": "焼酎とビール混ぜて飲んだことあります？",
+      "INDONESIAN": "Pernah  ngga kamu mencampur soju dan bir?",
+      "PORTUGUESE": "Já experimentou misturar soju com cerveja?",
+      "SPANISH": "¿Alguna vez ha probado mezclar soju con cerveza?",
+      "PERSIAN": "تا به حال سوجو و آبجو را با هم مخلوط کرده اید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨?",
+      "ENGLISH": "Nope.",
+      "CHINESE_SIMPLIFIED": "没呢？",
+      "CHINESE_TRADITIONAL": "沒有耶？",
+      "JAPANESE": "いいえ？",
+      "INDONESIAN": "Tidak.",
+      "PORTUGUESE": "Não?",
+      "SPANISH": "¿No?",
+      "PERSIAN": "نه"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "음... ",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "SPANISH": "Hmm...",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 제가 한번 따라볼게요.",
+      "ENGLISH": "Then let me make one for you.",
+      "CHINESE_SIMPLIFIED": "那我来示范一次给你看吧",
+      "CHINESE_TRADITIONAL": "那我來幫你調一杯吧",
+      "JAPANESE": "じゃあ、俺が作ります",
+      "INDONESIAN": "Kalau begitu, biar aku buatkan satu untukmu.",
+      "PORTUGUESE": "Então deixa que eu preparo um pra você.",
+      "SPANISH": "Entonces déjame prepararte una.",
+      "PERSIAN": "بعد بذار یکی برات درست کنم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "자 소주...",
+      "ENGLISH": "Okay—soju...",
+      "CHINESE_SIMPLIFIED": "来，烧酒...",
+      "CHINESE_TRADITIONAL": "來，燒酒...",
+      "JAPANESE": "はい、焼酎…",
+      "INDONESIAN": "Oke—soju...",
+      "PORTUGUESE": "Um pouco de soju...",
+      "SPANISH": "Un poco de soju…",
+      "PERSIAN": "باشه-سوجو..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "맥주...",
+      "ENGLISH": "and beer...",
+      "CHINESE_SIMPLIFIED": "啤酒...",
+      "CHINESE_TRADITIONAL": "啤酒...",
+      "JAPANESE": "ビール…",
+      "INDONESIAN": "dan bir...",
+      "PORTUGUESE": "e agora cerveja...",
+      "SPANISH": "y ahora cerveza…",
+      "PERSIAN": "و آبجو..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 이게 '소맥'이에요.",
+      "ENGLISH": "There! This is so-maek.",
+      "CHINESE_SIMPLIFIED": "看，这就是“烧啤”啦",
+      "CHINESE_TRADITIONAL": "好了，這個就是“燒啤”啦",
+      "JAPANESE": "これが“ソメク”ですよ",
+      "INDONESIAN": "Nah! Ini so-maek.",
+      "PORTUGUESE": "Pronto, isso se chama somaek.",
+      "SPANISH": "Listo, esto se llama somaek.",
+      "PERSIAN": "آنجا! این چنین است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "마셔봐요.",
+      "ENGLISH": "Try it.",
+      "CHINESE_SIMPLIFIED": "尝尝看",
+      "CHINESE_TRADITIONAL": "喝看看吧",
+      "JAPANESE": "飲んでみてください",
+      "INDONESIAN": "Cobalah.",
+      "PORTUGUESE": "Prova.",
+      "SPANISH": "Pruébalo.",
+      "PERSIAN": "اونو امتحان کنید."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.89,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 입 되게 까다로운데",
+      "ENGLISH": "Just so you know, I’m kind of picky...",
+      "CHINESE_SIMPLIFIED": "我嘴巴可是很挑的",
+      "CHINESE_TRADITIONAL": "我的嘴巴可是很挑喔",
+      "JAPANESE": "私、けっこう味にはうるさいですよ？",
+      "INDONESIAN": "Sekadar informasi, saya agak pilih-pilih...",
+      "PORTUGUESE": "Só pra avisar, meu paladar é exigente.",
+      "SPANISH": "Que sepas que tengo el paladar muy exigente.",
+      "PERSIAN": "فقط برای اینکه بدونی من یه جورایی حساسم..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 30.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 알겠으니까 얼른 마셔봐요.",
+      "ENGLISH": "Yeah yeah, just drink it already.",
+      "CHINESE_SIMPLIFIED": "啊，知道啦，你快尝尝看",
+      "CHINESE_TRADITIONAL": "哎，知道了，趕快喝啦",
+      "JAPANESE": "はいはい、早く飲んでみてください",
+      "INDONESIAN": "Ya ya, minum saja.",
+      "PORTUGUESE": "Sim, sim, vai, só prova.",
+      "SPANISH": "Sí, sí, ya, solo pruébelo.",
+      "PERSIAN": "بله، بله، فقط اونو بنوشید."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.3,
+      "HIDE": 36.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 맛있는데요?",
+      "ENGLISH": "Whoa, this is actually good!",
+      "CHINESE_SIMPLIFIED": "什么嘛，挺好喝的啊？",
+      "CHINESE_TRADITIONAL": "咦？蠻好喝的耶？",
+      "JAPANESE": "え、何これ 美味しいんですよ？",
+      "INDONESIAN": "Wah, ini sebenarnya bagus!",
+      "PORTUGUESE": "Ei, tá bom!",
+      "SPANISH": "Oye, ¡está rico!",
+      "PERSIAN": "اوه، این در واقع خوب است!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 37.1,
+      "HIDE": 37.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그쵸!",
+      "ENGLISH": "Right?!",
+      "CHINESE_SIMPLIFIED": "对吧！",
+      "CHINESE_TRADITIONAL": "對吧！",
+      "JAPANESE": "ほら！",
+      "INDONESIAN": "Benar?!",
+      "PORTUGUESE": "Viu só?",
+      "SPANISH": "¿Verdad que sí?",
+      "PERSIAN": "درسته؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 37.9,
+      "HIDE": 38.9
+    },
+    "SCRIPT": {
+      "KOREAN": "먹을 만하죠??",
+      "ENGLISH": "Not bad, huh?",
+      "CHINESE_SIMPLIFIED": "还不错吧？？",
+      "CHINESE_TRADITIONAL": "還不錯喝吧？？",
+      "JAPANESE": "けっこうイケるでしょ？",
+      "INDONESIAN": "Lumayan, kan?",
+      "PORTUGUESE": "É gostoso, né?",
+      "SPANISH": "Está bueno, ¿no?",
+      "PERSIAN": "بد نیست، نه؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 39.4,
+      "HIDE": 42.4
+    },
+    "SCRIPT": {
+      "KOREAN": "여기서 소주 비율만 본인 양껏 하면 돼요",
+      "ENGLISH": "Now you just adjust the soju ratio to your liking.",
+      "CHINESE_SIMPLIFIED": "这里面的烧酒比例按你自己的量调整就行",
+      "CHINESE_TRADITIONAL": "之後按照自己的酒量，調整燒酒的比例就可以了",
+      "JAPANESE": "あとは焼酎の割合を自分の好みにすればいいんです",
+      "INDONESIAN": "Sekarang kamu tinggal menyesuaikan takaran soju sesuai keinginanmu.",
+      "PORTUGUESE": "Você só precisa ajustar a quantidade de soju do jeito que quiser.",
+      "SPANISH": "Solo tienes que ajustar la cantidad de soju a tu gusto.",
+      "PERSIAN": "حالا شما فقط نسبت سوجو را مطابق میل خود تنظیم کنید."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 42.6,
+      "HIDE": 43.3
+    },
+    "SCRIPT": {
+      "KOREAN": "줘 봐요. ",
+      "ENGLISH": "Here, give it to me.",
+      "CHINESE_SIMPLIFIED": "给我吧",
+      "CHINESE_TRADITIONAL": "給我 ",
+      "JAPANESE": "貸してください",
+      "INDONESIAN": "Sini, berikan padaku.",
+      "PORTUGUESE": "Me dá aqui.",
+      "SPANISH": "Dámelo.",
+      "PERSIAN": "اینجا، اونو به من بدهید."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 43.7,
+      "HIDE": 45.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이번에 내가 만들어볼래요.",
+      "ENGLISH": "Let me try making one this time.",
+      "CHINESE_SIMPLIFIED": "这次我来调",
+      "CHINESE_TRADITIONAL": "這次換我調調看",
+      "JAPANESE": "今度は私が作ってみます",
+      "INDONESIAN": "Izinkan saya mencoba membuatnya kali ini.",
+      "PORTUGUESE": "Quero tentar eu.",
+      "SPANISH": "Quiero intentarlo yo.",
+      "PERSIAN": "اجازه دهید این بار یکی را درست کنم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 54.8,
+      "HIDE": 57.6
+    },
+    "SCRIPT": {
+      "KOREAN": " 유만 씨 소주 얼마나 따를까요? ",
+      "ENGLISH": "Yuman, how much soju should I pour for you?",
+      "CHINESE_SIMPLIFIED": "宥万先生要倒多少烧酒呢？",
+      "CHINESE_TRADITIONAL": "宥萬先生，你的燒酒要倒多少呢？",
+      "JAPANESE": "ユマンさん、焼酎どのくらい注ぎましょうか？",
+      "INDONESIAN": "Yuman, berapa banyak soju yang harus aku tuangkan untukmu?",
+      "PORTUGUESE": "Quanto de soju você quer que eu coloque?",
+      "SPANISH": "¿Cuánto soju quiere que le ponga?",
+      "PERSIAN": "یومان چقدر سوجو برات بریزم؟"
+    }
+  }
+]

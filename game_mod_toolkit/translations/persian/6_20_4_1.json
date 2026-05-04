@@ -1,0 +1,398 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨 ",
+      "ENGLISH": "Yuna?",
+      "CHINESE_SIMPLIFIED": "有娜",
+      "CHINESE_TRADITIONAL": "有娜？",
+      "JAPANESE": "ユナさん",
+      "INDONESIAN": "Yuna?",
+      "PORTUGUESE": "Yuna...",
+      "SPANISH": "Yuna...",
+      "PERSIAN": "یونا؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "자요?",
+      "ENGLISH": "Are you still awake?",
+      "CHINESE_SIMPLIFIED": "睡啦？",
+      "CHINESE_TRADITIONAL": "睡了嗎？",
+      "JAPANESE": "寝てますか？",
+      "INDONESIAN": "Kamu masih bangun?",
+      "PORTUGUESE": "Tá dormindo?",
+      "SPANISH": "¿Estás durmiendo?",
+      "PERSIAN": "هنوز بیداری؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "자는데 어떻게 대답해요?",
+      "ENGLISH": "If I were asleep, how would I answer?",
+      "CHINESE_SIMPLIFIED": "睡着的人还能回话呀？",
+      "CHINESE_TRADITIONAL": "睡著的人還能回話呀？",
+      "JAPANESE": "寝てるのにどうやって返事するんですか？",
+      "INDONESIAN": "Kalau aku lagi tidur, gimana bisa jawab?",
+      "PORTUGUESE": "Como você consegue responder se tá dormindo?",
+      "SPANISH": "¿Cómo puedes responder si estás dormida?",
+      "PERSIAN": "اگه خواب بودم چطور جواب میدادم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 한참 기다렸잖아요~",
+      "ENGLISH": "I’ve been waiting for you, you know~",
+      "CHINESE_SIMPLIFIED": "人家可是等了好久啦~",
+      "CHINESE_TRADITIONAL": "我可是等了好久啦~",
+      "JAPANESE": "ずっと待ってたんですよ〜",
+      "INDONESIAN": "Aku udah nungguin kamu, tahu~",
+      "PORTUGUESE": "Esperei demais~",
+      "SPANISH": "Estuve esperando demasiado~",
+      "PERSIAN": "من منتظرت بودم، میدونی~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 요즘 다리는 좀 괜찮아요?",
+      "ENGLISH": "By the way, how’s your leg been feeling lately?",
+      "CHINESE_SIMPLIFIED": "话说你的腿最近还好吗？",
+      "CHINESE_TRADITIONAL": "話說你的腿最近還好嗎？",
+      "JAPANESE": "最近、足の具合はどうですか？",
+      "INDONESIAN": "Ngomong-ngomong, gimana kaki kamu belakangan ini?",
+      "PORTUGUESE": "E a sua perna, como tá?",
+      "SPANISH": "¿Y tu pierna cómo va?",
+      "PERSIAN": "به هر حال، اخیراً پای شما چطوره؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다리요? 뭐 가끔 쑤시긴 하는데 괜찮아요.",
+      "ENGLISH": "My leg? It still aches now and then, but it’s okay.",
+      "CHINESE_SIMPLIFIED": "腿啊？偶尔会疼两下，不过没事啦",
+      "CHINESE_TRADITIONAL": "腿嗎？雖然偶爾會痠痛，不過沒事啦",
+      "JAPANESE": "足ですか？ たまにうずくけど大丈夫です",
+      "INDONESIAN": "Kaki aku? Masih suka nyeri sesekali, tapi nggak apa-apa kok.",
+      "PORTUGUESE": "Minha perna? Bom, às vezes dói um pouco, mas tá tudo bem.",
+      "SPANISH": "¿Mi pierna? Bueno, a veces duele un poco, pero está bien.",
+      "PERSIAN": "پای من؟ هنوز هم گاهی درد می کند، اما اشکالی ندارد."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "괜히 미안해지네요.",
+      "ENGLISH": "That just makes me feel worse.",
+      "CHINESE_SIMPLIFIED": "突然觉得好愧疚...",
+      "CHINESE_TRADITIONAL": "突然覺得好愧疚...",
+      "JAPANESE": "なんか、申し訳なくなってきました",
+      "INDONESIAN": "Itu malah bikin aku makin ngerasa bersalah.",
+      "PORTUGUESE": "Sinto muito mesmo…",
+      "SPANISH": "En serio lo siento…",
+      "PERSIAN": "این فقط حالم را بدتر می کند."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 31.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 차로 친 사람보다 내가 더 나쁜 사람 같아요.",
+      "ENGLISH": "I feel like I’m worse than the person who hit you.",
+      "CHINESE_SIMPLIFIED": "比起撞伤你的人，感觉我更像坏人呢",
+      "CHINESE_TRADITIONAL": "比起撞傷你的人，感覺我更像壞人呢",
+      "JAPANESE": "ユマンさんを車でひいた人より私がもっと悪い人みたいです",
+      "INDONESIAN": "Aku kayaknya lebih parah dari orang yang nabrak kamu.",
+      "PORTUGUESE": "Sinto que sou uma pessoa pior do que quem te atropelou.",
+      "SPANISH": "Siento que soy peor persona que el que te atropelló.",
+      "PERSIAN": "احساس می کنم از کسی که تو را زده بدتر هستم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 32.7,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "애초에 바보같이 그러지만 않았으면 ",
+      "ENGLISH": "If I hadn’t been so foolish in the first place…",
+      "CHINESE_SIMPLIFIED": "要是当初没犯傻的话",
+      "CHINESE_TRADITIONAL": "要是當初我沒有做傻事的話",
+      "JAPANESE": "最初からあんなバカみたいなことしなければ",
+      "INDONESIAN": "Kalau aja aku nggak sebodoh itu waktu itu...",
+      "PORTUGUESE": "Se eu não tivesse sido tão boba desde o começo,",
+      "SPANISH": "Si no hubiera sido tan tonta desde el principio,",
+      "PERSIAN": "اگر از اول اینقدر احمق نبودم…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 38.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 다칠 일도 없었을 텐데.",
+      "ENGLISH": "you never would’ve gotten hurt.",
+      "CHINESE_SIMPLIFIED": "你也不会受伤了",
+      "CHINESE_TRADITIONAL": "你也不會受傷了",
+      "JAPANESE": "ユマンさんも怪我しなかったのに",
+      "INDONESIAN": "kamu nggak bakal sampai terluka.",
+      "PORTUGUESE": "você não teria se machucado.",
+      "SPANISH": "tú no te habrías lastimado.",
+      "PERSIAN": "هرگز صدمه نمی دیدی"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 40.4
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 괜찮아요.",
+      "ENGLISH": "Hey, it’s really okay.",
+      "CHINESE_SIMPLIFIED": "哎~没事啦",
+      "CHINESE_TRADITIONAL": "哎呀，沒關係啦",
+      "JAPANESE": "大丈夫ですよ",
+      "INDONESIAN": "Hei, beneran nggak apa-apa.",
+      "PORTUGUESE": "Não se preocupa com isso.",
+      "SPANISH": "No te preocupes por eso.",
+      "PERSIAN": "هی، واقعاً اشکالی ندارد."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 40.7,
+      "HIDE": 43.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 이제 우리 미안하다는 얘기 안 하기로 했잖아요~",
+      "ENGLISH": "And didn’t we agree? No more saying sorry, remember?",
+      "CHINESE_SIMPLIFIED": "而且我们不是说好不再道歉了嘛~",
+      "CHINESE_TRADITIONAL": "而且我們不是說好不再道歉了嗎～",
+      "JAPANESE": "それにもうごめんは言わないって約束したじゃないですか〜",
+      "INDONESIAN": "Dan kita udah janji, kan? Nggak usah minta maaf lagi, inget nggak?",
+      "PORTUGUESE": "Além disso, a gente já tinha combinado de não dizer mais “desculpa”.",
+      "SPANISH": "Además, ya habíamos quedado en no volver a decir “lo siento”.",
+      "PERSIAN": "و موافق نبودیم؟ دیگر نمی گویی متاسفم، یادت هست؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 44.5,
+      "HIDE": 46.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 아 맞다...",
+      "ENGLISH": "Ah, right…",
+      "CHINESE_SIMPLIFIED": "啊，对哦...",
+      "CHINESE_TRADITIONAL": "啊，對哦...",
+      "JAPANESE": "あ、そうでしたね…",
+      "INDONESIAN": "Ah, iya ya...",
+      "PORTUGUESE": "Ah, é mesmo…",
+      "SPANISH": "Ah, es verdad…",
+      "PERSIAN": "آه، درست…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 46.7,
+      "HIDE": 50.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 하숙집에 받아줘서 정말 고마워요.",
+      "ENGLISH": "Also… thank you for letting me stay at the guesthouse.",
+      "CHINESE_SIMPLIFIED": "啊还有，谢谢你愿意收留我合租",
+      "CHINESE_TRADITIONAL": "啊還有，謝謝你願意收留我住進合租公寓",
+      "JAPANESE": "それと、私を下宿に入れてくれてありがとうございます",
+      "INDONESIAN": "Terus… makasih ya, udah ngizinin aku tinggal di guesthouse.",
+      "PORTUGUESE": "Ah, e obrigada por me deixar ficar na pensão, Yumán.",
+      "SPANISH": "Ah, y gracias por dejarme quedarme en la pensión, Yumán.",
+      "PERSIAN": "همچنین... ممنون که به من اجازه دادید در مهمانخانه بمانم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 51.9,
+      "HIDE": 53.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이 얘기 꼭 하고 싶었어요",
+      "ENGLISH": "I really wanted to say that.",
+      "CHINESE_SIMPLIFIED": "这句话一直想亲口告诉你",
+      "CHINESE_TRADITIONAL": "這句話一直想親口告訴你",
+      "JAPANESE": "どうしてもその言葉は伝えたくて",
+      "INDONESIAN": "Aku pengin banget bilang itu.",
+      "PORTUGUESE": "Eu realmente queria te dizer isso.",
+      "SPANISH": "De verdad quería decírtelo.",
+      "PERSIAN": "من واقعاً می خواستم اینو بگویم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 55.0,
+      "HIDE": 59.2
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 여기 하숙집에서 지내는 건 괜찮죠?",
+      "ENGLISH": "So… has it been okay, living here?",
+      "CHINESE_SIMPLIFIED": "现在合租生活还挺满意的吧？",
+      "CHINESE_TRADITIONAL": "嗯...對現在合租生活還滿意嗎？",
+      "JAPANESE": "下宿での生活は気に入ってますか？",
+      "INDONESIAN": "Jadi… gimana, tinggal di sini sejauh ini oke?",
+      "PORTUGUESE": "Você tá se sentindo bem morando na pensão?",
+      "SPANISH": "¿Te sientes bien viviendo en la pensión?",
+      "PERSIAN": "پس... خوب بود، اینجا زندگی می کنید؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 59.6,
+      "HIDE": 62.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 괜찮은 정도가 아니라...",
+      "ENGLISH": "Yeah. But not just “okay”…",
+      "CHINESE_SIMPLIFIED": "何止是满意",
+      "CHINESE_TRADITIONAL": "何止是滿意...",
+      "JAPANESE": "はい、ただ気に入ってるなんてもんじゃなくて",
+      "INDONESIAN": "Iya. Tapi bukan cuma “oke”…",
+      "PORTUGUESE": "Sim, mas não é só isso…",
+      "SPANISH": "Sí, pero no es solo eso…",
+      "PERSIAN": "آره اما نه فقط \"خوب\"…"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 62.5,
+      "HIDE": 64.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 있어서 너무 좋아요.",
+      "ENGLISH": "It’s been really great—because you’re here.",
+      "CHINESE_SIMPLIFIED": "是因为有你在才特别好啊",
+      "CHINESE_TRADITIONAL": "是因為有宥萬你在，我才覺得特別好",
+      "JAPANESE": "ユマンさんがいるからいいんです",
+      "INDONESIAN": "Rasanya luar biasa—karena kamu di sini.",
+      "PORTUGUESE": "é que eu gosto porque você tá lá.",
+      "SPANISH": "es que me gusta porque tú estás ahí.",
+      "PERSIAN": "واقعا عالی بود - چون شما اینجا هستید."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 65.8,
+      "HIDE": 66.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh...?",
+      "CHINESE_SIMPLIFIED": "诶？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah...?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها...؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 68.0,
+      "HIDE": 69.8
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 알면서",
+      "ENGLISH": "Oh, come on. You know.",
+      "CHINESE_SIMPLIFIED": "你明明知道的嘛~",
+      "CHINESE_TRADITIONAL": "你明明知道還問",
+      "JAPANESE": "もう分かってるくせに",
+      "INDONESIAN": "Ayolah. Kamu tahu maksud aku.",
+      "PORTUGUESE": "Ah, você já sabe.",
+      "SPANISH": "Ay, ya sabes.",
+      "PERSIAN": "اوه، بیا شما می دانید."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 71.6,
+      "HIDE": 72.9
+    },
+    "SCRIPT": {
+      "KOREAN": " 잘 자요.",
+      "ENGLISH": "Sleep well.",
+      "CHINESE_SIMPLIFIED": "晚安啦",
+      "CHINESE_TRADITIONAL": "晚安啦",
+      "JAPANESE": "おやすみなさい",
+      "INDONESIAN": "Selamat tidur.",
+      "PORTUGUESE": "Dorme bem.",
+      "SPANISH": "Duerme bien.",
+      "PERSIAN": "خوب بخواب."
+    }
+  }
+]

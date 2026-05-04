@@ -1,0 +1,457 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.6
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 씨 여기 한번 봐주세요",
+      "ENGLISH": "Min-jung, could you look over here for a second?",
+      "CHINESE_SIMPLIFIED": "敏静小姐，请对此做出解释！",
+      "CHINESE_TRADITIONAL": "敏靜小姐，請看這邊！",
+      "JAPANESE": "ミンジョンさん、こっち見てください",
+      "INDONESIAN": "Min-jung, bisa lihat ke sini sebentar?",
+      "PORTUGUESE": "Minjung, olhe aqui um momento!",
+      "SPANISH": "¡Minjung, mire aquí un momento!",
+      "PERSIAN": "مین‌جونگ، می تونی یه لحظه اینجا رو نگاه کنی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "여기도 봐주세요",
+      "ENGLISH": "Over here, too!",
+      "CHINESE_SIMPLIFIED": "这里也请您说明一下！",
+      "CHINESE_TRADITIONAL": "這裡也請你解釋一下！",
+      "JAPANESE": "こっちもお願いします",
+      "INDONESIAN": "Ke sini juga!",
+      "PORTUGUESE": "Por favor, deste lado também!",
+      "SPANISH": "¡Por favor, también por acá!",
+      "PERSIAN": "اینجا هم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "呃？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "呃？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 일이지?",
+      "ENGLISH": "Huh? What's going on?",
+      "CHINESE_SIMPLIFIED": "怎么回事？",
+      "CHINESE_TRADITIONAL": "發生什麼事？",
+      "JAPANESE": "な、何が起きてるの？",
+      "INDONESIAN": "Hah? Ada apa ini?",
+      "PORTUGUESE": "O que está acontecendo?",
+      "SPANISH": "¿Qué está pasando?",
+      "PERSIAN": "ها؟ چه خبره؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 논란 사실 입니까?",
+      "ENGLISH": "Is it true? Are the rumors real?",
+      "CHINESE_SIMPLIFIED": "现在的争议属实吗？",
+      "CHINESE_TRADITIONAL": "最近的爭議是真的嗎？",
+      "JAPANESE": "今回の騒動、本当なんですか？",
+      "INDONESIAN": "Apa itu benar? Rumornya beneran terjadi?",
+      "PORTUGUESE": "O escândalo é verdade?",
+      "SPANISH": "¿El escándalo es cierto?",
+      "PERSIAN": "حقیقت دارد؟ شایعات واقعی هستند؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "해명해 주세요",
+      "ENGLISH": "Please say something!",
+      "CHINESE_SIMPLIFIED": "请您做出解释！",
+      "CHINESE_TRADITIONAL": "請說明一下！",
+      "JAPANESE": "説明してください",
+      "INDONESIAN": "Tolong beri pernyataan!",
+      "PORTUGUESE": "Por favor, esclareça.",
+      "SPANISH": "Por favor, aclárelo.",
+      "PERSIAN": "لطفا یه چیزی بگید!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨!",
+      "ENGLISH": "Yu-jeong!",
+      "CHINESE_SIMPLIFIED": "有情！",
+      "CHINESE_TRADITIONAL": "有情小姐！",
+      "JAPANESE": "ユジョンさん！",
+      "INDONESIAN": "Yu-jeong!",
+      "PORTUGUESE": "Yujeong!",
+      "SPANISH": "¡Yujeong!",
+      "PERSIAN": "یو-جئونگ!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨!!",
+      "ENGLISH": "Yu-jeong!!",
+      "CHINESE_SIMPLIFIED": "有情！！",
+      "CHINESE_TRADITIONAL": "有情小姐！！",
+      "JAPANESE": "ユジョンさん！！",
+      "INDONESIAN": "Yu-jeong!!",
+      "PORTUGUESE": "Yujeong!!",
+      "SPANISH": "¡Yujeong!!",
+      "PERSIAN": "یو جونگ!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "갑질 사건은 해명 안 하십니까?",
+      "ENGLISH": "Are you not going to explain yourself about the abuse of power scandal?",
+      "CHINESE_SIMPLIFIED": "关于这次霸凌争议，您不打算回应吗？",
+      "CHINESE_TRADITIONAL": "關於這次的霸凌事件，您不打算回應嗎？",
+      "JAPANESE": "パワハラ事件、釈明はしないんですか？",
+      "INDONESIAN": "Kamu nggak mau kasih penjelasan soal skandal penyalahgunaan wewenang itu?",
+      "PORTUGUESE": "Não vai esclarecer o caso de agressão?",
+      "SPANISH": "¿No va a aclarar el caso de agresión?",
+      "PERSIAN": "قصد ندارید درباره رسوایی سوء استفاده از قدرت توضیح دهید؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이번 갑질 사건으로 광고 계약 위반하여",
+      "ENGLISH": "What are your plans regarding the multi-million won penalty",
+      "CHINESE_SIMPLIFIED": "因本次霸凌争议导致的广告合约违约",
+      "CHINESE_TRADITIONAL": "因爲霸凌事件所導致違反廣告合約",
+      "JAPANESE": "今回のパワハラ事件によって広告契約を違反し",
+      "INDONESIAN": "Apa rencanamu soal denda miliaran won",
+      "PORTUGUESE": "O que planeja fazer sobre a multa milionária",
+      "SPANISH": "¿qué planea hacer respecto a la multa millonaria",
+      "PERSIAN": "در مورد پنالتی چند میلیونی چه برنامه ای دارید؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "발생한 억대 위약금은 어떻게 하실 계획입니까?",
+      "ENGLISH": "for violating your advertising contract in this incident?",
+      "CHINESE_SIMPLIFIED": "产生的巨额违约金您打算如何处理？",
+      "CHINESE_TRADITIONAL": "您打算如何處理巨額的違約金呢？",
+      "JAPANESE": "発生した億単位の違約金はどうされるおつもりですか！？",
+      "INDONESIAN": "karena melanggar kontrak iklan dalam kasus ini?",
+      "PORTUGUESE": "por quebrar o contrato publicitário?",
+      "SPANISH": " por romper el contrato publicitario?",
+      "PERSIAN": "به خاطر نقض قرارداد تبلیغاتی شما در این حادثه؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 23.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 그만하세요.",
+      "ENGLISH": "Everyone, please stop.",
+      "CHINESE_SIMPLIFIED": "请大家不要再说了！",
+      "CHINESE_TRADITIONAL": "請大家不要再說了！",
+      "JAPANESE": "もうやめてください！",
+      "INDONESIAN": "Semuanya, tolong hentikan.",
+      "PORTUGUESE": "Todos, parem agora!",
+      "SPANISH": "¡Todos, deténganse ya!",
+      "PERSIAN": "همه لطفا بس کنید"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 25.2
+    },
+    "SCRIPT": {
+      "KOREAN": "밀크걸즈 활동시에도 비슷한 논란이 있었는데",
+      "ENGLISH": "There were similar controversies during your Milk Girls days as well—",
+      "CHINESE_SIMPLIFIED": "“牛奶少女”活动时期也有过类似争议...",
+      "CHINESE_TRADITIONAL": "在Milk Girls的活動時期也有類似的爭議...",
+      "JAPANESE": "ミルクガールズ活動時にも似たような騒動があったとか！",
+      "INDONESIAN": "Waktu kamu masih di Milk Girls juga sempat ada kontroversi serupa—",
+      "PORTUGUESE": "Durante a época em Milk Girls também houve polêmicas parecidas…",
+      "SPANISH": "Durante su época en Milk Girls también hubo polémicas similares…",
+      "PERSIAN": "در طول دوران شیردهی شما نیز مشاجرات مشابهی وجود داشت-"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 그만!!!!!",
+      "ENGLISH": "I said, THAT’S ENOUGH!!!!!",
+      "CHINESE_SIMPLIFIED": "各位，请住口！！！！",
+      "CHINESE_TRADITIONAL": "大家全都停一下！！！！！",
+      "JAPANESE": "もうやめてってば!!!!!",
+      "INDONESIAN": "Aku bilang, CUKUP!!!!!",
+      "PORTUGUESE": "Eu disse pra pararem!!!!!",
+      "SPANISH": "¡Dije que se detengan!!!!!",
+      "PERSIAN": "گفتم دیگه بسه!!!!!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 30.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 그 사진 속 돼지 옷 입은 양유정 입니다.",
+      "ENGLISH": "I am Yang Yu-jeong — the one in the pig costume in those photos.",
+      "CHINESE_SIMPLIFIED": "我就是照片里那个穿小猪玩偶服的人，梁有情",
+      "CHINESE_TRADITIONAL": "我就是照片裡穿著小豬玩偶服的人，梁有情",
+      "JAPANESE": "あの写真のブタの着ぐるみを着ていたのは、私、ヤン・ユジョンです",
+      "INDONESIAN": "Aku Yang Yu-jeong — orang yang pakai kostum babi di foto itu.",
+      "PORTUGUESE": "Eu sou Yujeong Yang, a pessoa nessa foto.",
+      "SPANISH": "Yo soy Yujeong Yang, la persona en esa foto.",
+      "PERSIAN": "من یانگ یو-جونگ هستم - کسی که در اون عکس ها لباس خوک پوشیده است."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 33.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 지금은 민정 언니의 친한 동생이기도 하죠.",
+      "ENGLISH": "And right now, I’m also Min-jung unnie’s close little sister.",
+      "CHINESE_SIMPLIFIED": "同时，现在也是敏静姐姐亲近的妹妹",
+      "CHINESE_TRADITIONAL": "同時，我也是跟敏靜姐姐很要好的妹妹",
+      "JAPANESE": "そして今はミンジョンお姉さんの大切な妹分でもあります",
+      "INDONESIAN": "Dan sekarang, aku juga adik kecilnya Min-jung unnie yang dekat dengannya.",
+      "PORTUGUESE": "E agora, também sou amiga da Minjung.",
+      "SPANISH": "Y ahora, también soy amiga de Minjung.",
+      "PERSIAN": "و در حال حاضر، من همچنین خواهر کوچک نزدیک مین‌جونگ اونی هستم."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 33.9,
+      "HIDE": 36.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그날 민정 언니는 스태프인 저에게 함께 식사를 하자며",
+      "ENGLISH": "That day, Min-jung unnie simply invited me — her staff member — to eat with her.",
+      "CHINESE_SIMPLIFIED": "那天，是敏静姐姐邀请作为工作人员的我一起吃饭",
+      "CHINESE_TRADITIONAL": "那天是敏靜姊邀請身為工作人員的我一起吃飯",
+      "JAPANESE": "あの日ミンジョンお姉さんは、スタッフの私を気にかけて一緒に食事しようって",
+      "INDONESIAN": "Hari itu, Min-jung unnie cuma ngajak aku — stafnya — buat makan bareng.",
+      "PORTUGUESE": "Naquele dia, a Minjung só me convidou pra comer com ela.",
+      "SPANISH": "Ese día, Minjung solo me invitó a comer con ella.",
+      "PERSIAN": "اون روز، مین‌جونگ آنی به سادگی از من - کارمندش - دعوت کرد تا با او غذا بخورم."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 39.3
+    },
+    "SCRIPT": {
+      "KOREAN": "곁을 내주었을 뿐 그런 사람 아니에요!",
+      "ENGLISH": "She is not that kind of person!",
+      "CHINESE_SIMPLIFIED": "她只是照顾我、给了我一份温暖而已，她绝不是那种人！",
+      "CHINESE_TRADITIONAL": "她沒有霸凌我，她不是那樣的人！",
+      "JAPANESE": "誘ってくれただけです　そんな人じゃありません！",
+      "INDONESIAN": "Dia bukan orang seperti yang kalian kira!",
+      "PORTUGUESE": "Ela não é uma má pessoa!",
+      "SPANISH": "¡Ella no es una mala persona!",
+      "PERSIAN": "اون همچین آدمی نیست!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 39.8,
+      "HIDE": 42.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그 사진은 악의적으로 편집된 거라고요!",
+      "ENGLISH": "Those photos were maliciously edited!",
+      "CHINESE_SIMPLIFIED": "那张照片是经过恶意剪辑的！",
+      "CHINESE_TRADITIONAL": "那張照片是被惡意剪輯過的！",
+      "JAPANESE": "あの写真は悪意のある編集なんです！",
+      "INDONESIAN": "Foto-foto itu sudah diedit dengan jahat!",
+      "PORTUGUESE": "Essa foto foi editada com má intenção!",
+      "SPANISH": "¡Esa foto fue editada con mala intención!",
+      "PERSIAN": "این عکس ها بدجوری ویرایش شدند!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 42.2,
+      "HIDE": 44.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저희는 분명 시민 제보를 통해 그 사진을 받았고!",
+      "ENGLISH": "But we received those photos from citizen reports—",
+      "CHINESE_SIMPLIFIED": "我们确实是通过市民举报收到那张照片的！",
+      "CHINESE_TRADITIONAL": "我們明明是透過市民舉報收到那張照片的！",
+      "JAPANESE": "でも、私たちは市民からの通報でその写真を受け取って！",
+      "INDONESIAN": "Tapi kami dapat foto itu dari laporan warga—",
+      "PORTUGUESE": "Mas nós recebemos essa imagem por uma denúncia anônima!",
+      "SPANISH": "¡Pero nosotros recibimos esa imagen por una denuncia ciudadana!",
+      "PERSIAN": "اما ما اون عکس ها را از گزارش شهروندان دریافت کردیم-"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 48.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 피해자인 저한테 먼저 확인해 보셨어야죠!",
+      "ENGLISH": "Then you should have checked with me, the actual person involved, first!",
+      "CHINESE_SIMPLIFIED": "那么，你们应该先向我这个当事人核实一下才对！",
+      "CHINESE_TRADITIONAL": "那麼，你們應該要向身為受害者的我確認過才對啊！",
+      "JAPANESE": "だったら、被害者の私にまず確認すべきだったんじゃないですか！",
+      "INDONESIAN": "Kalau gitu kalian harusnya konfirmasi dulu sama aku, orang yang ada di foto itu!",
+      "PORTUGUESE": "Então vocês deviam ter confirmado comigo primeiro.",
+      "SPANISH": "Entonces deberían haber confirmado primero conmigo.",
+      "PERSIAN": "سپس شما باید ابتدا با من، شخص واقعی درگیر، چک می کردید!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 48.7,
+      "HIDE": 52.8
+    },
+    "SCRIPT": {
+      "KOREAN": "다시 말하지만 민정 언니가 갑질했다는 이야기는 전부 거짓말이에요.",
+      "ENGLISH": "I’ll say it again — every rumor about Min-jung abusing her power is a lie.",
+      "CHINESE_SIMPLIFIED": "我再说一遍，所有关于敏静姐姐霸凌的说法全都是假的",
+      "CHINESE_TRADITIONAL": "我再說一次，關於敏靜姐姐霸凌的說法全部都是假的",
+      "JAPANESE": "もう一度言います　ミンジョンお姉さんがパワハラしたなんて全部嘘です！",
+      "INDONESIAN": "Aku ulangi — semua rumor soal Min-jung menyalahgunakan wewenang itu bohong.",
+      "PORTUGUESE": "Repito: tudo o que dizem sobre a Minjung ter abusado do poder é mentira.",
+      "SPANISH": "Repito: todo lo que dicen de que Minjung abusó de su poder es mentira.",
+      "PERSIAN": "باز هم می گویم - هر شایعه ای در مورد سوء استفاده مین‌جونگ از قدرتش دروغ است."
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 53.1,
+      "HIDE": 55.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까 이제 민정 언니 그만 괴롭히세요.",
+      "ENGLISH": "So please stop harassing her.",
+      "CHINESE_SIMPLIFIED": "所以，请你们不要再骚扰敏静姐姐了",
+      "CHINESE_TRADITIONAL": "所以，請你們不要再騷擾敏靜姐姐了",
+      "JAPANESE": "だから、もうお姉さんを苦しめないでください",
+      "INDONESIAN": "Jadi tolong berhenti gangguin dia.",
+      "PORTUGUESE": "Então, por favor, parem de persegui-la.",
+      "SPANISH": "Así que, por favor, dejen de acosarla.",
+      "PERSIAN": "پس لطفا دست از آزار او بردارید."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 56.5,
+      "HIDE": 58.5
+    },
+    "SCRIPT": {
+      "KOREAN": "언니 이제 그만 들어가요.",
+      "ENGLISH": "Unnie, let’s go inside now.",
+      "CHINESE_SIMPLIFIED": "姐姐，我们进去吧",
+      "CHINESE_TRADITIONAL": "姐姐，我們進去吧",
+      "JAPANESE": "お姉さん、もう中に入りましょう",
+      "INDONESIAN": "Unnie, ayo kita masuk.",
+      "PORTUGUESE": "Vamos entrar.",
+      "SPANISH": "Entremos ya.",
+      "PERSIAN": "اونی، حالا بریم داخل."
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "  ",
+      "PERSIAN": ""
+    }
+  }
+]

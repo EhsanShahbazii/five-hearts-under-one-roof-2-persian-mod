@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데... 병원 일 너무 힘든 거 아니에요?",
+      "ENGLISH": "But... isn't hospital work just too hard?",
+      "CHINESE_SIMPLIFIED": "不过...医院工作不会太辛苦吗？",
+      "CHINESE_TRADITIONAL": "不過...醫院的工作不會很辛苦嗎？",
+      "JAPANESE": "でも…病院の仕事、きつくないですか？",
+      "INDONESIAN": "Tapi... kerja di rumah sakit nggak terlalu berat ya",
+      "PORTUGUESE": "Mas… não é muito pesado trabalhar no hospital?",
+      "SPANISH": "Pero… ¿no es demasiado duro turabajar en el hospital?",
+      "PERSIAN": "اما... کار بیمارستان خیلی سخت نیست؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 일도 일인데 사람들 때문에 더 힘든 거 같아요",
+      "ENGLISH": "Ah... it's the work itself, but dealing with people is what's really getting to me.",
+      "CHINESE_SIMPLIFIED": "啊...工作本身还好，但人际关系更累人",
+      "CHINESE_TRADITIONAL": "嗯...工作本身還可以，人際關係讓人更累",
+      "JAPANESE": "あぁ…仕事もそうですけど、人間関係の方が大変です",
+      "INDONESIAN": "Ah... kerjanya sih berat..Tapi yang bikin lebih capek itu orang-orangnya",
+      "PORTUGUESE": "Ah… o trabalho em si é puxado, mas acho que o que mais me cansa são as pessoas.",
+      "SPANISH": "Ah… el trabajo en sí es pesado, pero creo que lo que más me agota es la gente.",
+      "PERSIAN": "آه... این خودِ کار است، اما سروکله زدن با مردم چیزی است که واقعاً من را آزار می‌دهد."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "요즘 고민하고 있는데 ",
+      "ENGLISH": "I've been thinking about it lately—",
+      "CHINESE_SIMPLIFIED": "最近我一直在考虑",
+      "CHINESE_TRADITIONAL": "最近我也一直在思考",
+      "JAPANESE": "最近悩んでて…",
+      "INDONESIAN": "Akhir-akhir ini aku lagi mikir juga",
+      "PORTUGUESE": "Ultimamente tenho pensado…",
+      "SPANISH": "Últimamente he estado pensando…",
+      "PERSIAN": "اخیراً بهش فکر می‌کنم—"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저 그냥 간호사 그만둘까요?",
+      "ENGLISH": "Should I just quit being a nurse?",
+      "CHINESE_SIMPLIFIED": "要不要干脆别当护士了？",
+      "CHINESE_TRADITIONAL": "還是我不要當護理師了？",
+      "JAPANESE": "もう看護師、辞めようかなって",
+      "INDONESIAN": "Gimana kalau aku berhenti jadi perawat aja",
+      "PORTUGUESE": "E se eu desistir de ser enfermeira?",
+      "SPANISH": "¿Y si renuncio a ser enfermera?",
+      "PERSIAN": "باید از شغل پرستاری استعفا بدهم؟"
+    }
+  }
+]

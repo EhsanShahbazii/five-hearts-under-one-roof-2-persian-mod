@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 보지 마요...",
+      "ENGLISH": "Don’t look at me…",
+      "CHINESE_SIMPLIFIED": "别看了...",
+      "CHINESE_TRADITIONAL": "別看了...",
+      "JAPANESE": "あ、見ないでください…",
+      "INDONESIAN": "Jangan liat aku…",
+      "PORTUGUESE": "Não me olha…",
+      "SPANISH": "No me mire…",
+      "PERSIAN": "به من نگاه نکن…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 울어요?",
+      "ENGLISH": "Wait, are you actually crying?",
+      "CHINESE_SIMPLIFIED": "啊，真哭啦？",
+      "CHINESE_TRADITIONAL": "欸，真的哭了啊？",
+      "JAPANESE": "え、本当に泣いてるんですか？",
+      "INDONESIAN": "Eh, kamu beneran nangis?",
+      "PORTUGUESE": "Hã, tá chorando?",
+      "SPANISH": "¿Ah, está llorando?",
+      "PERSIAN": "صبر کن واقعا گریه میکنی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 쌤 우는 건 처음 보는데",
+      "ENGLISH": "I’ve never seen you cry before, teacher.",
+      "CHINESE_SIMPLIFIED": "啊，我还是第一次见方护士哭呢",
+      "CHINESE_TRADITIONAL": "我還是第一次看到護理師你哭的樣子呢",
+      "JAPANESE": "先生が泣くの、初めて見ますけど",
+      "INDONESIAN": "Aku belum pernah liat kamu nangis sebelumnya, lho, guru.",
+      "PORTUGUESE": "É a primeira vez que te vejo chorar.",
+      "SPANISH": "Es la primera vez que la veo llorar.",
+      "PERSIAN": "تا حالا ندیده بودم گریه کنی استاد"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 얼굴 좀 보여줘 봐요~",
+      "ENGLISH": "Come on, let me see your face~",
+      "CHINESE_SIMPLIFIED": "来让我看看你的脸嘛~",
+      "CHINESE_TRADITIONAL": "讓我看看你的臉嘛～",
+      "JAPANESE": "ほら、顔見せてくださいよ〜",
+      "INDONESIAN": "Ayo dong, kasih liat wajah kamu~",
+      "PORTUGUESE": "Deixa eu ver~",
+      "SPANISH": "Déjeme verla~",
+      "PERSIAN": "بیا، بگذار صورتت را ببینم~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 하세요 지금....!",
+      "ENGLISH": "What are you doing right now…!",
+      "CHINESE_SIMPLIFIED": "你这是干什么呀...！",
+      "CHINESE_TRADITIONAL": "你現在在做什麼啦....！",
+      "JAPANESE": "何してるんですか今…！",
+      "INDONESIAN": "Kamu lagi ngapain sih sekarang…!",
+      "PORTUGUESE": "O que você tá fazendo…?",
+      "SPANISH": "¿Qué estás haciendo…?",
+      "PERSIAN": "الان داری چیکار میکنی…!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 심정이 어떠십니까.",
+      "ENGLISH": "How do you feel at this moment?",
+      "CHINESE_SIMPLIFIED": "请问您现在心情如何？",
+      "CHINESE_TRADITIONAL": "現在的心情如何呢？",
+      "JAPANESE": "今の気持ちはどうですか？",
+      "INDONESIAN": "Gimana perasaan kamu sekarang?",
+      "PORTUGUESE": "Tá se sentindo melhor?",
+      "SPANISH": "¿Se siente mejor?",
+      "PERSIAN": "در این لحظه چه احساسی دارید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 하지마세요 진짜...!",
+      "ENGLISH": "Ha— please don’t do this…!",
+      "CHINESE_SIMPLIFIED": "别闹了，真的...！",
+      "CHINESE_TRADITIONAL": "不要鬧了，真的...！",
+      "JAPANESE": "や、やめてください本当に…！",
+      "INDONESIAN": "Ha— tolong jangan gini…!",
+      "PORTUGUESE": "Ha… já chega…!",
+      "SPANISH": "Ha… ¡ya deténgase…!",
+      "PERSIAN": "هه- لطفا این کارو نکن…!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "평소 눈물을 자주 흘리시는 편이신가요?",
+      "ENGLISH": "Do you often cry like this in daily life?",
+      "CHINESE_SIMPLIFIED": "您平时是容易流泪的类型吗？",
+      "CHINESE_TRADITIONAL": "你平常就容易流淚的類型嗎？",
+      "JAPANESE": "普段からよく涙を流すタイプなんですか？",
+      "INDONESIAN": "Kamu sering nangis kayak gini juga nggak sih sehari-hari?",
+      "PORTUGUESE": "Você é sempre assim chorona?",
+      "SPANISH": "¿Siempre es así de llorona?",
+      "PERSIAN": "اغلب در زندگی روزمره اینگونه گریه می کنید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하지 말라구요...",
+      "ENGLISH": "I said stop…",
+      "CHINESE_SIMPLIFIED": "都说了别这样...",
+      "CHINESE_TRADITIONAL": "都叫你不要這樣了...",
+      "JAPANESE": "やめてって言ってるじゃないですか…！",
+      "INDONESIAN": "Aku bilang berhenti…",
+      "PORTUGUESE": "Eu disse pra parar…",
+      "SPANISH": "Le dije que pare…",
+      "PERSIAN": "گفتم بس کن…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하지 말라고요 좀 제발! ",
+      "ENGLISH": "Please, seriously, just stop!",
+      "CHINESE_SIMPLIFIED": "我叫你停下，听到没有！",
+      "CHINESE_TRADITIONAL": "求求你不要再這樣了！",
+      "JAPANESE": "お願いですから、もうやめてくださいってば！",
+      "INDONESIAN": "Tolong, serius deh, udahan!",
+      "PORTUGUESE": "Por favor, já basta!",
+      "SPANISH": "¡Por favor, ya basta!",
+      "PERSIAN": "لطفا، جدی، فقط بس کنید!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 자꾸 왜 그래요 진짜!!",
+      "ENGLISH": "Why do you keep doing this?! Really!!",
+      "CHINESE_SIMPLIFIED": "为什么要这样啊真是！！",
+      "CHINESE_TRADITIONAL": "為什麼老是這樣呢！！",
+      "JAPANESE": "なんでそんなに…なんでそうするんですか本当に！！",
+      "INDONESIAN": "Kenapa sih kamu terus kayak gini?! Hah?!",
+      "PORTUGUESE": "Por que você não para quando eu peço?!",
+      "SPANISH": "¡¿Por qué no para cuando se lo pido?!",
+      "PERSIAN": "چرا این کارو ادامه میدی؟! واقعا!!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요... 난 그냥 웃으라고 그런건데...",
+      "ENGLISH": "…Sorry… I just wanted to make you laugh…",
+      "CHINESE_SIMPLIFIED": "对不起...我只是想逗你笑才这样的...",
+      "CHINESE_TRADITIONAL": "對不起...我只是想逗你笑而已...",
+      "JAPANESE": "ごめんなさい… ちょっとでも笑わせたくて…",
+      "INDONESIAN": "…Maaf… aku cuma pengin bikin kamu ketawa…",
+      "PORTUGUESE": "Desculpa… eu só queria te fazer sorrir…",
+      "SPANISH": "Lo siento… solo quería hacerte reír…",
+      "PERSIAN": "... متاسفم ... فقط می خواستم شما را بخندانم ..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 35.7
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요...",
+      "ENGLISH": "I’m sorry…",
+      "CHINESE_SIMPLIFIED": "对不起...",
+      "CHINESE_TRADITIONAL": "對不起...",
+      "JAPANESE": "本当にごめんなさい…",
+      "INDONESIAN": "Maaf ya…",
+      "PORTUGUESE": "Desculpa…",
+      "SPANISH": "Lo siento…",
+      "PERSIAN": "متاسفم…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 36.6,
+      "HIDE": 37.7
+    },
+    "SCRIPT": {
+      "KOREAN": "됐어요.",
+      "ENGLISH": "…it’s fine.",
+      "CHINESE_SIMPLIFIED": "算了",
+      "CHINESE_TRADITIONAL": "算了",
+      "JAPANESE": "もういいです",
+      "INDONESIAN": "…nggak apa-apa.",
+      "PORTUGUESE": "Pronto, tudo bem.",
+      "SPANISH": "Ya, no pasa nada.",
+      "PERSIAN": "... خوب است."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 40.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면은 나랑 같이 가요, ",
+      "ENGLISH": "Then come with me.",
+      "CHINESE_SIMPLIFIED": "那...要不你跟我来",
+      "CHINESE_TRADITIONAL": "那你跟我一起走吧",
+      "JAPANESE": "じゃあ、一緒に行きましょう",
+      "INDONESIAN": "Kalau gitu ikut aku.",
+      "PORTUGUESE": "Então vem comigo,",
+      "SPANISH": "Entonces venga conmigo,",
+      "PERSIAN": "بعد با من بیا"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 40.3,
+      "HIDE": 42.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 스트레스 풀어줄게요.",
+      "ENGLISH": "I’ll help you relieve that stress.",
+      "CHINESE_SIMPLIFIED": "我帮你解解",
+      "CHINESE_TRADITIONAL": "我來幫妳消除壓力",
+      "JAPANESE": "僕がストレス解消させてあげますから",
+      "INDONESIAN": "Aku bantuin kamu ngurangin stresnya.",
+      "PORTUGUESE": "vou te ajudar a aliviar o estresse.",
+      "SPANISH": "le ayudaré a liberar el estrés.",
+      "PERSIAN": "من به شما کمک خواهم کرد تا این استرس را از بین ببرید."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 42.6,
+      "HIDE": 44.4
+    },
+    "SCRIPT": {
+      "KOREAN": "또 놀리려고 그러는 거죠...",
+      "ENGLISH": "You’re just going to tease me again, aren’t you…",
+      "CHINESE_SIMPLIFIED": "你又想捉弄我了吧...",
+      "CHINESE_TRADITIONAL": "你又想捉弄我了吧...",
+      "JAPANESE": "またからかうつもりでしょ…",
+      "INDONESIAN": "Kamu pasti mau ngeledek aku lagi, kan…",
+      "PORTUGUESE": "Vai me incomodar de novo, né…?",
+      "SPANISH": "¿Otra vez me va a molestar, verdad…?",
+      "PERSIAN": "تو فقط داری دوباره منو اذیت میکنی، نه…"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 46.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니에요~ 빨리 와 봐요.",
+      "ENGLISH": "Nope~ come on, hurry.",
+      "CHINESE_SIMPLIFIED": "不是啦~快跟我来",
+      "CHINESE_TRADITIONAL": "不是啦～ 快點跟我來",
+      "JAPANESE": "違いますよ〜 ほら、早く来てください",
+      "INDONESIAN": "Nggak kok~ ayo cepetan.",
+      "PORTUGUESE": "Não, vem comigo.",
+      "SPANISH": "No, venga conmigo.",
+      "PERSIAN": "نه بیا، عجله کن."
+    }
+  }
+]

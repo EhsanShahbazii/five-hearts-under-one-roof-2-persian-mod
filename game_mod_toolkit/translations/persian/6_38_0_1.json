@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어머, 지금 뭐 하시는 거예요?",
+      "ENGLISH": "Excuse me — what do you think you’re doing?",
+      "CHINESE_SIMPLIFIED": "哎呀，你在干什么呢？",
+      "CHINESE_TRADITIONAL": "喂！你在做什麼呢？",
+      "JAPANESE": "あの、今なにしてるんですか？",
+      "INDONESIAN": "Permisi — kamu lagi ngapain, ya?",
+      "PORTUGUESE": "Desculpa, o que você tá fazendo?",
+      "SPANISH": "Disculpa, ¿qué está haciendo?",
+      "PERSIAN": "ببخشید - فکر می کنید چه کار می کنید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Pardon?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Maaf?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "عفو؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 여기 자리 있었나요?",
+      "ENGLISH": "Oh — was this seat taken?",
+      "CHINESE_SIMPLIFIED": "啊，这里有人坐吗？",
+      "CHINESE_TRADITIONAL": "啊，這裡有人坐嗎？",
+      "JAPANESE": "あ、ここ、席ありました？",
+      "INDONESIAN": "Oh — kursi ini ada yang duduk?",
+      "PORTUGUESE": "Tinha alguém sentado aqui?",
+      "SPANISH": "¿Había alguien sentado aquí?",
+      "PERSIAN": "اوه - این صندلی نشسته بود؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만 앉아있으면 안 될까요?",
+      "ENGLISH": "Mind if I sit here for just a moment?",
+      "CHINESE_SIMPLIFIED": "我能在这儿坐一会吗？",
+      "CHINESE_TRADITIONAL": "可以讓我暫時坐一下嗎？",
+      "JAPANESE": "ちょっとだけ座っててもいいですか？",
+      "INDONESIAN": "Boleh nggak aku duduk di sini sebentar aja?",
+      "PORTUGUESE": "Posso ficar só um momento?",
+      "SPANISH": "¿Puedo quedarme solo un momento?",
+      "PERSIAN": "فکر می کنم اگر فقط یک لحظه اینجا بنشینم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "되겠어요?",
+      "ENGLISH": "Do you think that’s okay?",
+      "CHINESE_SIMPLIFIED": "你觉得行吗？",
+      "CHINESE_TRADITIONAL": "可以嗎？",
+      "JAPANESE": "いいと思います？",
+      "INDONESIAN": "Menurut kamu itu sopan?",
+      "PORTUGUESE": "O que você acha?",
+      "SPANISH": "¿Usted qué cree?",
+      "PERSIAN": "به نظر شما اشکالی ندارد؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "2분이면 됩니다",
+      "ENGLISH": "It’ll only be 2 minutes.",
+      "CHINESE_SIMPLIFIED": "就两分钟",
+      "CHINESE_TRADITIONAL": "兩分鐘就可以了",
+      "JAPANESE": "2分だけです",
+      "INDONESIAN": "Cuma dua menit, kok.",
+      "PORTUGUESE": "Vão ser só dois minutos.",
+      "SPANISH": "Solo serán dos minutos.",
+      "PERSIAN": "فقط 2 دقیقه می‌شه"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "하 진짜 잠깐 카페 나왔더니",
+      "ENGLISH": "Seriously… I step out of the café for one second and—",
+      "CHINESE_SIMPLIFIED": "哈，我不过是出来喝杯咖啡",
+      "CHINESE_TRADITIONAL": "真是的，我只是出來喝杯咖啡",
+      "JAPANESE": "はぁ…ほんの少しカフェ出ただけなのに",
+      "INDONESIAN": "Serius… aku cuma keluar dari kafe sebentar dan—",
+      "PORTUGUESE": "Ah, sério… só saí um segundo…",
+      "SPANISH": "Ah, en serio…solo salí un segundo…",
+      "PERSIAN": "جدی... برای یک ثانیه از کافه بیرون می روم و-"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 헌팅 하는 곳 아니거든요?",
+      "ENGLISH": "This isn’t some pick-up spot, you know?",
+      "CHINESE_SIMPLIFIED": "这里可不是什么搭讪的地方啊？",
+      "CHINESE_TRADITIONAL": "這裡不是搭訕的地方，好嗎？",
+      "JAPANESE": "ここナンパする場所じゃないんですけど？",
+      "INDONESIAN": "Ini bukan tempat buat modus, tahu nggak?",
+      "PORTUGUESE": "Esse não é um lugar pra paquerar.",
+      "SPANISH": "Este no es un lugar para que ligue",
+      "PERSIAN": "این یک مکان حمل و نقل نیست، می دانید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "근데요?",
+      "ENGLISH": "And?",
+      "CHINESE_SIMPLIFIED": "所以呢？",
+      "CHINESE_TRADITIONAL": "所以？",
+      "JAPANESE": "だから？",
+      "INDONESIAN": "Terus?",
+      "PORTUGUESE": "E daí?",
+      "SPANISH": "¿Y?",
+      "PERSIAN": "و"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 제발 저 좀 피곤하게 하지마세요 ",
+      "ENGLISH": "Please — stop tiring me out.",
+      "CHINESE_SIMPLIFIED": "唉，拜托别来烦我，好吗",
+      "CHINESE_TRADITIONAL": "哈啊...拜託別來煩我可以嗎",
+      "JAPANESE": "はぁ…お願いですから面倒くさくしないでください",
+      "INDONESIAN": "Tolong deh — jangan bikin aku capek.",
+      "PORTUGUESE": "Por favor, não torna isso mais difícil pra mim.",
+      "SPANISH": "Por favor, no me haga esto más difícil.",
+      "PERSIAN": "لطفا - خسته ام نکن"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 30.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 무슨 뜻이에요?",
+      "ENGLISH": "…What’s that supposed to mean?",
+      "CHINESE_SIMPLIFIED": "这话什么意思？",
+      "CHINESE_TRADITIONAL": "那是什麼意思？",
+      "JAPANESE": "それ、どういう意味ですか？",
+      "INDONESIAN": "…Maksud kamu apa, sih?",
+      "PORTUGUESE": "E o que isso quer dizer?",
+      "SPANISH": "¿Y qué significa eso?",
+      "PERSIAN": "... این قرار است به چه معنی باشد؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.2,
+      "HIDE": 33.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 얼굴을 가리고 다니던가 해야지...",
+      "ENGLISH": "sigh… At least cover your face or something if you’re gonna do this…",
+      "CHINESE_SIMPLIFIED": "唉...看来我真该把脸遮起来出门...",
+      "CHINESE_TRADITIONAL": "唉...我得把臉遮起來才行...",
+      "JAPANESE": "はぁ…もう顔でも隠して歩かないと…",
+      "INDONESIAN": "Huff… minimal tutupin muka dulu kek kalau mau kayak gini…",
+      "PORTUGUESE": "Ha… eu devia andar com o rosto coberto ou algo assim…",
+      "SPANISH": "Ha… debería andar con la cara tapada o algo…",
+      "PERSIAN": "آه بکش… اگر می‌خوای این کار را انجام دهی، حداقل صورتت را بپوشان یا چیزی…"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 36.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 뭐요?",
+      "ENGLISH": "Do what, exactly?",
+      "CHINESE_SIMPLIFIED": "那是什么？",
+      "CHINESE_TRADITIONAL": "什麼意思？",
+      "JAPANESE": "なんですかそれ？",
+      "INDONESIAN": "Mau ngapain, emangnya?",
+      "PORTUGUESE": "O que é isso?",
+      "SPANISH": "¿Qué es eso?",
+      "PERSIAN": "دقیقاً چه کاری انجام دهید؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 37.7,
+      "HIDE": 39.2
+    },
+    "SCRIPT": {
+      "KOREAN": "물 불 안 가리시겠다?",
+      "ENGLISH": "So you don’t care who it is, huh?",
+      "CHINESE_SIMPLIFIED": "你是非要纠缠不休吗？",
+      "CHINESE_TRADITIONAL": "你還要繼續糾纏嗎？",
+      "JAPANESE": "手段選ばないってことですか？",
+      "INDONESIAN": "Jadi kamu nggak peduli ini siapa, ya?",
+      "PORTUGUESE": "Tá tão desesperado assim?",
+      "SPANISH": "¿Tan desesperado está?",
+      "PERSIAN": "پس برایت مهم نیست کیه، نه؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 39.7,
+      "HIDE": 41.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 남자친구 있다고요",
+      "ENGLISH": "I have a boyfriend.",
+      "CHINESE_SIMPLIFIED": "我有男朋友了",
+      "CHINESE_TRADITIONAL": "我有男朋友了",
+      "JAPANESE": "私、彼氏いますから",
+      "INDONESIAN": "Aku udah punya pacar, lho.",
+      "PORTUGUESE": "Eu tenho namorado.",
+      "SPANISH": "Tengo novio.",
+      "PERSIAN": "من یک دوست پسر دارم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 41.9,
+      "HIDE": 43.0
+    },
+    "SCRIPT": {
+      "KOREAN": "거짓말 하지마세요.",
+      "ENGLISH": "Stop lying.",
+      "CHINESE_SIMPLIFIED": "别骗人了",
+      "CHINESE_TRADITIONAL": "不要騙人了",
+      "JAPANESE": "嘘つかないでください",
+      "INDONESIAN": "Bohong.",
+      "PORTUGUESE": "Não mente.",
+      "SPANISH": "No mienta.",
+      "PERSIAN": "دست از دروغگویی بردارید"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 43.5,
+      "HIDE": 44.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 믿고 싶으신 거겠죠",
+      "ENGLISH": "You just want to pretend I’ll believe that.",
+      "CHINESE_SIMPLIFIED": "你就宁愿不信是吧",
+      "CHINESE_TRADITIONAL": "你只是想那樣相信而已吧",
+      "JAPANESE": "そう信じたいだけでしょ",
+      "INDONESIAN": "Kamu cuma pengin aku pura-pura percaya.",
+      "PORTUGUESE": "Nem você acredita nisso.",
+      "SPANISH": "Ni usted se lo cree.",
+      "PERSIAN": "شما فقط می خواهید وانمود کنید که من اینو باور خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 44.7,
+      "HIDE": 46.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 진짜 있다고요",
+      "ENGLISH": "I’m serious — I really do.",
+      "CHINESE_SIMPLIFIED": "我真有男朋友了",
+      "CHINESE_TRADITIONAL": "我真的有男朋友了",
+      "JAPANESE": "本当にいるんですって",
+      "INDONESIAN": "Aku serius — aku beneran punya pacar.",
+      "PORTUGUESE": "Não tô mentindo!",
+      "SPANISH": "¡No estoy mintiendo!",
+      "PERSIAN": "من جدی هستم - واقعاً این کار را می کنم."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 46.1,
+      "HIDE": 47.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그니깐 가시라고요.",
+      "ENGLISH": "So please leave.",
+      "CHINESE_SIMPLIFIED": "所以请你离开",
+      "CHINESE_TRADITIONAL": "所以請你離開",
+      "JAPANESE": "だから、行ってください",
+      "INDONESIAN": "Jadi tolong pergi.",
+      "PORTUGUESE": "Vai embora, por favor.",
+      "SPANISH": "Ya váyase, por favor.",
+      "PERSIAN": "پس لطفا ترک کن"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 48.0,
+      "HIDE": 50.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 그럼 쉬세요.",
+      "ENGLISH": "…Alright then. Rest well.",
+      "CHINESE_SIMPLIFIED": "好的，那您好好呆着吧",
+      "CHINESE_TRADITIONAL": "好，那你好好休息吧",
+      "JAPANESE": "はい、それじゃあ",
+      "INDONESIAN": "…Ya udah deh. Istirahat yang nyenyak.",
+      "PORTUGUESE": "Tá bom. Então descansa.",
+      "SPANISH": "Está bien. Entonces descanse.",
+      "PERSIAN": "... باشه پس. خوب استراحت کن"
+    }
+  }
+]

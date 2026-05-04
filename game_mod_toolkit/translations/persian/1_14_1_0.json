@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "와~ 여기 날씨 너무 좋다!",
+      "ENGLISH": "While we’re up here, take in the rooftop view!",
+      "CHINESE_SIMPLIFIED": "哇~这里天气真好！",
+      "CHINESE_TRADITIONAL": "哇～這裡天氣也太好了吧！",
+      "JAPANESE": "わあ〜ここ、天気すごくいいですね！",
+      "INDONESIAN": "Waaah~ cuacanya bagus banget di sini!",
+      "PORTUGUESE": "Já que subimos, vamos aproveitar a vista do terraço!",
+      "SPANISH": "Wow... ¡Qué buen clima hace hoy!",
+      "PERSIAN": "حالا که اومدیم پشت‌بوم، یه نگاه به منظره بنداز!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뷰도 예쁜데요? 밑에도 예쁜가?",
+      "ENGLISH": "It's pretty from up here! How's from there?",
+      "CHINESE_SIMPLIFIED": "风景也太美了吧？下面是不是也很美啊？",
+      "CHINESE_TRADITIONAL": "風景也很漂亮耶？不知道下面漂不漂亮？",
+      "JAPANESE": "景色もきれいだし、下もきれいかな？",
+      "INDONESIAN": "Pemandangannya juga cantik~ bawahnya juga cantik nggak ya?",
+      "PORTUGUESE": "Olha só o pôr do sol, tá lindo demais, não acha?",
+      "SPANISH": "El atardecer también se ve increíble. ¿Se verá allá abajo?",
+      "PERSIAN": "از این بالا چقدر قشنگه! از اون طرف چطوره؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "위험하게 그러지 말고 저희 그만 내려가죠?",
+      "ENGLISH": "Don’t lean like that—it’s dangerous.",
+      "CHINESE_SIMPLIFIED": "别这么危险，咱们还是下去吧？",
+      "CHINESE_TRADITIONAL": "不要這麼危險，我們趕快下去吧？",
+      "JAPANESE": "危ないから、そろそろ降りましょう？",
+      "INDONESIAN": "Jangan berdiri di situ, bahaya. Yuk kita turun aja, ya?",
+      "PORTUGUESE": "Não faça isso, é perigoso.",
+      "SPANISH": "Deja de hacer tonterías y mejor ya vámonos.",
+      "PERSIAN": "اینطوری تکیه نده به نرده، خطریه!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요~ 여기 너무 예쁜데요?",
+      "ENGLISH": "Let’s head back, okay?",
+      "CHINESE_SIMPLIFIED": "为什么？这里真的很漂亮呢～",
+      "CHINESE_TRADITIONAL": "為什麼啦～這裡很漂亮耶？",
+      "JAPANESE": "どうしてですか〜？ここすごくきれいですよ？",
+      "INDONESIAN": "Eh kenapa~ tempatnya bagus banget, lho!",
+      "PORTUGUESE": "Vamos descer agora, tá?",
+      "SPANISH": "¿Por qué? Se ve muy lindo desde acá.",
+      "PERSIAN": "بیا دیگه برگردیم پایین، باشه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "좀만 더 있어요~",
+      "ENGLISH": "Wow, the sky’s on fire right now...",
+      "CHINESE_SIMPLIFIED": "再待一会儿啦～",
+      "CHINESE_TRADITIONAL": "再待一下下嘛～",
+      "JAPANESE": "もう少しだけいましょうよ〜",
+      "INDONESIAN": "Kita diem di sini aja dulu~",
+      "PORTUGUESE": "Uau, a luz do pôr do sol está incrível daqui!",
+      "SPANISH": "¡Guau, la luz del atardecer es genial!",
+      "PERSIAN": "وای، رنگ غروب آسمونو ببین چقدر محشره..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": "위험하니까 그냥 가자고요.",
+      "ENGLISH": "Seriously, let’s go. It’s not safe.",
+      "CHINESE_SIMPLIFIED": "太危险了，还是走吧",
+      "CHINESE_TRADITIONAL": "就說很危險了，我們走吧！",
+      "JAPANESE": "危ないから、もう行きましょうってば",
+      "INDONESIAN": "Ini bahaya, ayo turun aja.",
+      "PORTUGUESE": "Eu disse que é perigoso, vamos embora!",
+      "SPANISH": "Es peligroso, vámonos ya.",
+      "PERSIAN": "جدی می‌گم بیا بریم، اینجا اصلاً امن نیست."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네? ",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "額？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 어어어....!!!!",
+      "ENGLISH": "Whoa—!!",
+      "CHINESE_SIMPLIFIED": "啊，啊啊啊…!!!!",
+      "CHINESE_TRADITIONAL": "呃，呃啊啊…！！！",
+      "JAPANESE": "あ、ああああっ…！！！",
+      "INDONESIAN": "Eh, ehhh… AAAHHH!!!!",
+      "PORTUGUESE": "E-ei... aaaah!!!!",
+      "SPANISH": "O-oye… ¡¡¡ahhh!!!",
+      "PERSIAN": "وای، یا خدااا—!!"
+    }
+  }
+]

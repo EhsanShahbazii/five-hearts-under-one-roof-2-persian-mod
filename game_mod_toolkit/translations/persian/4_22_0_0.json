@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이번 S/S 라인 어땠어?",
+      "ENGLISH": "How's the upcoming S/S collection?",
+      "CHINESE_SIMPLIFIED": "这批春夏季新品你觉得怎么样？",
+      "CHINESE_TRADITIONAL": "這次的 S/S 系列產品，你覺得怎麼樣？",
+      "JAPANESE": "今回のS/Sライン、どうだった？",
+      "INDONESIAN": "Gimana koleksi S/S yang nanti bakal dateng?",
+      "PORTUGUESE": "Como foi a nova coleção S/S?",
+      "SPANISH": "¿Cómo estuvo la nueva colección de S/S?",
+      "PERSIAN": "مجموعه / آینده چطوره؟"
+    }
+  }
+]

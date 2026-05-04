@@ -1,0 +1,55 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아하아ㅠㅠ어후 냄새나ㅠㅠ",
+      "ENGLISH": "Ughhh, seriously—ugh, it stinks!",
+      "CHINESE_SIMPLIFIED": "啊啊啊，好臭啊",
+      "CHINESE_TRADITIONAL": "啊啊啊，好臭啊",
+      "JAPANESE": "うわぁぁっ、くっさぁ…！！",
+      "INDONESIAN": "Ughhh, serius deh—ugh, baunya!",
+      "PORTUGUESE": "Ugh! Que fedor!",
+      "SPANISH": "¡Ugh! ¡Cómo apesta!",
+      "PERSIAN": "اوه، جدی - اوه، بوی بدی می دهد!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 출근하는 것도 열 받는데 누구예요...!",
+      "ENGLISH": "It’s bad enough we have to go to work, and now this?! Who did that…?",
+      "CHINESE_SIMPLIFIED": "哎呀，上班本来就烦死了，是谁啊...！",
+      "CHINESE_TRADITIONAL": "哎呀，上班本來就煩死了，是誰啊...！",
+      "JAPANESE": "うあ！出勤するのもストレスなのに誰ですか…！",
+      "INDONESIAN": "Udah cukup nyebelin harus kerja pagi-pagi, eh ditambah beginian?! Siapa sih yang kentut…?",
+      "PORTUGUESE": "Vir trabalhar já é chato... quem foi o atrevido que...?",
+      "SPANISH": "Venir a trabajar ya es molesto... ¡¿quién se atrevió a...?!",
+      "PERSIAN": "خیلی بد است که باید بریم سر کار و حالا این؟! کی اینکارو کرد…؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뒤쪽에서 들리지 않았어요?",
+      "ENGLISH": "Didn’t it sound like it came from the back?",
+      "CHINESE_SIMPLIFIED": "应该是从后面发出的声音吧？",
+      "CHINESE_TRADITIONAL": "應該是從後面傳來的吧？",
+      "JAPANESE": "後ろの方から聞こえませんでした？",
+      "INDONESIAN": "Tadi suaranya kayak dari belakang, nggak sih?",
+      "PORTUGUESE": "O barulho não veio de trás?",
+      "SPANISH": "¿El sonido no vino de atrás?",
+      "PERSIAN": "به نظر نمی رسید از پشت آمده باشد؟"
+    }
+  }
+]

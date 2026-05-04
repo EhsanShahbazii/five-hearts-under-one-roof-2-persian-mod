@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "원무과가 3층이었나... ",
+      "ENGLISH": "Was the administration office on the 3rd floor…?",
+      "CHINESE_SIMPLIFIED": "挂号处是在三楼吧...",
+      "CHINESE_TRADITIONAL": "掛號的地方是在三樓吧...",
+      "JAPANESE": "医事課って3階だったっけ…",
+      "INDONESIAN": "Ruang administrasinya di lantai 3 ya…?",
+      "PORTUGUESE": "Era o terceiro andar…?",
+      "SPANISH": "¿Era el tercer piso…?",
+      "PERSIAN": "دفتر اداری در طبقه سوم بود؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤 계시면 좋겠다.",
+      "ENGLISH": "I hope Nurse Gyu-ri is here.",
+      "CHINESE_SIMPLIFIED": "要是能遇到方护士就好了",
+      "CHINESE_TRADITIONAL": "要是能遇到久梨護理師就好了",
+      "JAPANESE": "ギュリ先生、いらっしゃったらいいな",
+      "INDONESIAN": "Semoga suster Gyu-ri lagi ada.",
+      "PORTUGUESE": "Tomara que a enfermeira Gyuri esteja aqui.",
+      "SPANISH": "Ojalá esté la enfermera Gyuri.",
+      "PERSIAN": "امیدوارم پرستار گیو ری اینجا باشد."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 규리 쌤...?",
+      "ENGLISH": "Oh? Nurse Gyu-ri…?",
+      "CHINESE_SIMPLIFIED": "嗯？方护士...？",
+      "CHINESE_TRADITIONAL": "嗯？久梨護理師...？",
+      "JAPANESE": "あ、ギュリ先生…？",
+      "INDONESIAN": "Oh? Suster Gyu-ri…?",
+      "PORTUGUESE": "Hã? Enfermeira Gyuri…?",
+      "SPANISH": "¿Eh? ¿enfermera Gyuri…?",
+      "PERSIAN": "اوه؟ پرستار گیوری…؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님! 오셨어요?",
+      "ENGLISH": "Yuman! You’re here?",
+      "CHINESE_SIMPLIFIED": "宥万先生！你来了啊？",
+      "CHINESE_TRADITIONAL": "宥萬先生！你來了啊？",
+      "JAPANESE": "ユマンさん！来られたんですね？",
+      "INDONESIAN": "Yuman! Kamu datang?",
+      "PORTUGUESE": "Senhor Yumán, olá!",
+      "SPANISH": "¡Señor Yumán, hola!",
+      "PERSIAN": "یومان! شما اینجا هستید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "진료받으러 오신 거예요??",
+      "ENGLISH": "Did you come for a checkup??",
+      "CHINESE_SIMPLIFIED": "是来就诊的吗？",
+      "CHINESE_TRADITIONAL": "是來回診的嗎？",
+      "JAPANESE": "診察に来たんですか？",
+      "INDONESIAN": "Kamu ke sini buat periksa, ya??",
+      "PORTUGUESE": "Veio pra consulta?",
+      "SPANISH": "¿Vino a consulta?",
+      "PERSIAN": "اومدی چکاپ؟؟"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "와아악!!!",
+      "ENGLISH": "WAAAHHH!!!",
+      "CHINESE_SIMPLIFIED": "哇啊啊啊！！！",
+      "CHINESE_TRADITIONAL": "哇啊啊！！！",
+      "JAPANESE": "うわぁー！！",
+      "INDONESIAN": "WAAAHHH!!!",
+      "PORTUGUESE": "AAAAAHHHH!!!",
+      "SPANISH": "¡¡¡AHHHHH!!!",
+      "PERSIAN": "واااای!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아잇, 뭡니까...!",
+      "ENGLISH": "Ugh—what was that…?!",
+      "CHINESE_SIMPLIFIED": "哎呀，搞什么呀...！",
+      "CHINESE_TRADITIONAL": "哎呀，搞什麼...！",
+      "JAPANESE": "あっ、なんですか…！",
+      "INDONESIAN": "Ugh—apa tadi itu…?!",
+      "PORTUGUESE": "Ah! Mas o que foi isso?!",
+      "SPANISH": "¡Ah! ¡¿Pero qué le pasa?!",
+      "PERSIAN": "اوه-این چی بود...؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 아침부터 짜증나게 진짜...",
+      "ENGLISH": "Seriously? First thing in the morning? Come on…",
+      "CHINESE_SIMPLIFIED": "哎，一大早就烦死人了，真是...",
+      "CHINESE_TRADITIONAL": "哈，一大清早的就讓人煩躁，真是的...",
+      "JAPANESE": "はぁ、朝からイライラさせるな…",
+      "INDONESIAN": "Seriusan? Baru juga pagi udah begini? Ayolah…",
+      "PORTUGUESE": "Ha... já aprontando logo de manhã...",
+      "SPANISH": "Ja... desde tan temprano portándose así...",
+      "PERSIAN": "جدی؟ اول صبح؟ بیا…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 무슨 냄새 안 나요?",
+      "ENGLISH": "Wait… does anyone else smell something?",
+      "CHINESE_SIMPLIFIED": "不过，没闻到什么味道吗？",
+      "CHINESE_TRADITIONAL": "過，沒聞到什麼味道嗎？",
+      "JAPANESE": "てか、なんか変なにおいしません？",
+      "INDONESIAN": "Eh… kalian nyium bau aneh nggak sih?",
+      "PORTUGUESE": "Não tá com um cheiro estranho aqui?",
+      "SPANISH": "¿No huele raro aquí?",
+      "PERSIAN": "صبر کن... کسی دیگری بویی می دهد؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워...",
+      "ENGLISH": "…Thanks.",
+      "CHINESE_SIMPLIFIED": "谢了...",
+      "CHINESE_TRADITIONAL": "謝謝你...",
+      "JAPANESE": "ありがとう…",
+      "INDONESIAN": "…Makasih.",
+      "PORTUGUESE": "Valeu...",
+      "SPANISH": "Gracias...",
+      "PERSIAN": "… با تشکر."
+    }
+  }
+]

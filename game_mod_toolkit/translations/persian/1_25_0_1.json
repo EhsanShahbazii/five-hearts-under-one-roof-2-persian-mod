@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "자! 아까 네가 먹고 싶다던 우유!",
+      "ENGLISH": "Here, the milk you said you wanted earlier",
+      "CHINESE_SIMPLIFIED": "来！你刚才不是说想喝牛奶吗？",
+      "CHINESE_TRADITIONAL": "喏！你剛才說想喝的牛奶！",
+      "JAPANESE": "さあ！さっき飲みたいって言ってた牛乳！",
+      "INDONESIAN": "Nih! Ini yang tadi kamu bilang pengin, susu!",
+      "PORTUGUESE": "Aqui, o leite que você disse que queria antes",
+      "SPANISH": "Aquí tienes la leche que pediste.",
+      "PERSIAN": "بیا پسرم! اینم همون شیری که هی سراغشو می‌گرفتی!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자 얼른 마셔",
+      "ENGLISH": "Drink up!",
+      "CHINESE_SIMPLIFIED": "快喝了！",
+      "CHINESE_TRADITIONAL": "快點喝！",
+      "JAPANESE": "はい、早く飲んで",
+      "INDONESIAN": "Ayo, cepat diminum.",
+      "PORTUGUESE": "Bebe!",
+      "SPANISH": "¡Tómatela!",
+      "PERSIAN": "بگیر تا خنکه سر بکش."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "응",
+      "ENGLISH": "Mm...",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "うん",
+      "INDONESIAN": "Hmm.",
+      "PORTUGUESE": "Mm…",
+      "SPANISH": "Mmm...",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "얘가 생전 찾지도 않던 우유를...",
+      "ENGLISH": "I don't remember you asking for milk before…",
+      "CHINESE_SIMPLIFIED": "这孩子平时从来不喝牛奶的...",
+      "CHINESE_TRADITIONAL": "這孩子平常根本不喝牛奶的...",
+      "JAPANESE": "この子、普段は全然牛乳なんて欲しがらないのに…",
+      "INDONESIAN": "Padahal biasanya kamu nggak pernah nyari-nyari susu...",
+      "PORTUGUESE": "Eu não lembro de você ter pedido leite antes…",
+      "SPANISH": "No recuerdo que me hayas pedido leche antes...",
+      "PERSIAN": "تو که تو خوابم شیر لب نمی‌زدی، چطور شد یهو؟..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어우, 이제 좀 살 거 같다.",
+      "ENGLISH": "Phew, I feel human again.",
+      "CHINESE_SIMPLIFIED": "呼，现在感觉好多了",
+      "CHINESE_TRADITIONAL": "嗚，現在總算活過來了",
+      "JAPANESE": "ふぅ、やっと生き返った気がする",
+      "INDONESIAN": "Aduh, baru kerasa hidup lagi deh.",
+      "PORTUGUESE": "Ufa, agora me sinto gente de novo.",
+      "SPANISH": "Uf, ya me siento vivo otra vez.",
+      "PERSIAN": "هاااه... بالاخره حس کردم آدمیزادم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래! 이제 집에 가자.",
+      "ENGLISH": "Alright—let’s get you home.",
+      "CHINESE_SIMPLIFIED": "好！现在回家吧",
+      "CHINESE_TRADITIONAL": "好了！現在回家吧",
+      "JAPANESE": "よし！じゃあもう家に帰ろう",
+      "INDONESIAN": "Yuk! Sekarang kita pulang.",
+      "PORTUGUESE": "Certo—vamos te levar pra casa.",
+      "SPANISH": "Bueno, vamos a llevarte a casa.",
+      "PERSIAN": "خیلی خب! پاشو بریم سمت خونه."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "응!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "É!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "باشه بریم!"
+    }
+  }
+]

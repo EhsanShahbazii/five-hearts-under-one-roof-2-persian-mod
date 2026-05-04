@@ -1,0 +1,488 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이 작은 집에 사람이 몇 명이야",
+      "ENGLISH": "How many people are in this tiny house?",
+      "CHINESE_SIMPLIFIED": "这小房子里到底住了多少人进来啊",
+      "CHINESE_TRADITIONAL": "這個小房子裡到底住幾個人啊？",
+      "JAPANESE": "この家、こんなに人がいるの？",
+      "INDONESIAN": "Berapa banyak orang yang tinggal di rumah mungil ini?",
+      "PORTUGUESE": "Quantas pessoas moram nesta casa?",
+      "SPANISH": "¿Cuánta gente vive en esta casa?",
+      "PERSIAN": "چند نفر در این خونه کوچک هستند؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "새로 들어왔나 봐?",
+      "ENGLISH": "Looks like someone new moved in?",
+      "CHINESE_SIMPLIFIED": "是有新人住进来了吗？",
+      "CHINESE_TRADITIONAL": "好像有新房客搬進來了？",
+      "JAPANESE": "新しい人、入ったみたいですね？",
+      "INDONESIAN": "Sepertinya ada yang baru pindah, ya?",
+      "PORTUGUESE": "Tem alguém novo?",
+      "SPANISH": "Parece que hay alguien nuevo",
+      "PERSIAN": "انگار فردی جدید وارد خونه شده است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 유나 씨라고 들어온 지 얼마 안 됐고 ",
+      "ENGLISH": "This is Yu-na—she hasn’t been here long.",
+      "CHINESE_SIMPLIFIED": "这位是有娜小姐，刚搬来不久",
+      "CHINESE_TRADITIONAL": "這位是剛進來不久的有娜小姐",
+      "JAPANESE": "こちらはユナさんって言って、入ってきてまだあまり経ってないです",
+      "INDONESIAN": "Ini Yu‑na—dia belum lama tinggal di sini.",
+      "PORTUGUESE": "Sim, a Yuna chegou há pouco.",
+      "SPANISH": "Sí, Yuna llegó hace poco.",
+      "PERSIAN": "این یونا است - او مدت زیادی نیست که اینجا نیست."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "여긴 동그란 님, 우유만 직장 상사",
+      "ENGLISH": "And this is Dong-geuran, Yuman’s boss.",
+      "CHINESE_SIMPLIFIED": "这位是佟圆圆小姐，她是吴宥万的公司上司",
+      "CHINESE_TRADITIONAL": "這位是佟圓圓小姐，她是吳宥萬的主管",
+      "JAPANESE": "こちらはトン・グランさん ユマンさんの職場の上司です",
+      "INDONESIAN": "Dan ini Gran Dong, bosnya Yuman.",
+      "PORTUGUESE": "E essa é a Gran Dong, a chefe do Yuman.",
+      "SPANISH": "Y ella es Gran Dong, la jefe de Yumán.",
+      "PERSIAN": "و این دونگ گیوران، رئیس یومان است."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "상~사? 상사까지 하숙시킨 거예요? ",
+      "ENGLISH": "Boss? You actually let your boss stay in the guesthouse too?",
+      "CHINESE_SIMPLIFIED": "上司？连上司都招来合租了？",
+      "CHINESE_TRADITIONAL": "主、主管？連主管都住進來了？",
+      "JAPANESE": "上司？ 上司まで下宿させてるの？",
+      "INDONESIAN": "Bos? Sungguh kau biarkan bosmu tinggal juga di guesthouse?",
+      "PORTUGUESE": "Chefe? Até a chefe dele mora aqui?",
+      "SPANISH": "¿Jefa? ¿Tu jefa también vive aquí?",
+      "PERSIAN": "رئیس؟ در واقع اجازه دادید رئیستان هم در مهمانخانه بماند؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "와... 우유만 씨 마케팅 능력 미쳤는데요?",
+      "ENGLISH": "Wow… Yuman, your marketing skills are insane.",
+      "CHINESE_SIMPLIFIED": "哇...宥万先生这营销能力够厉害的啊",
+      "CHINESE_TRADITIONAL": "哇...宥萬先生的行銷能力也太狂了吧？",
+      "JAPANESE": "ユマンさん、マーケティング能力すごいじゃん",
+      "INDONESIAN": "Wow… Yuman, bakat marketing‑mu gila banget.",
+      "PORTUGUESE": "Uau... o talento de marketing do Yuman Woo é absurdo!",
+      "SPANISH": "Wow… ¡el talento de marketing de Yumán es impresionante!",
+      "PERSIAN": "وای... یومان، مهارت های بازاریابی شما دیوانه کننده است."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 뭐 그런 건 아니고...",
+      "ENGLISH": "Ah… it’s nothing like that…",
+      "CHINESE_SIMPLIFIED": "啊...倒也不是那样...",
+      "CHINESE_TRADITIONAL": "啊... 也不是那樣啦...",
+      "JAPANESE": "あ…そんな大したことじゃなくて…",
+      "INDONESIAN": "Ah… nggak seserius itu…",
+      "PORTUGUESE": "Ah... não é bem assim...",
+      "SPANISH": "Ah… no es precisamente eso…",
+      "PERSIAN": "آه ... این چیزی نیست ..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 24.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨라고 했나? 옷 예쁘네요.",
+      "ENGLISH": "Yu-na, right? Nice outfit.",
+      "CHINESE_SIMPLIFIED": "是有娜小姐对吧？衣服很漂亮呢",
+      "CHINESE_TRADITIONAL": "妳是有娜小姐吧？衣服好漂亮",
+      "JAPANESE": "ユナさんって言いましたっけ？ 服、かわいいですね",
+      "INDONESIAN": "Yu‑na, ya? Outfit‑mu keren.",
+      "PORTUGUESE": "Seu nome é Yuna, certo? Sua roupa é bonita.",
+      "SPANISH": "Tu nombre es Yuna, ¿cierto? Tu ropa es bonita.",
+      "PERSIAN": "یونا، درسته؟ لباس خوب"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "큼, 예쁘기만 한 건 아니고 꽤 비싸요.",
+      "ENGLISH": "Heh, not just nice—it’s pretty expensive too.",
+      "CHINESE_SIMPLIFIED": "哼，可不只是漂亮，价格也相当昂贵呢",
+      "CHINESE_TRADITIONAL": "嗯，不只漂亮，價錢也不低呢",
+      "JAPANESE": "ふふん、かわいいだけじゃなくて結構高いんですよ",
+      "INDONESIAN": "Heh, bukan cuma keren! lumayan mahal juga.",
+      "PORTUGUESE": "Ehm, não é só bonita, também é bem cara.",
+      "SPANISH": "Ejem, no solo es bonita, también es bastante cara.",
+      "PERSIAN": "هه، نه فقط خوب است، بلکه بسیار گران است."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 36.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이 셔츠... 치마...이거 한정판인데...? 어디서 구한 거예요?",
+      "ENGLISH": "This shirt… this skirt… it’s a limited edition? Where did you get it?",
+      "CHINESE_SIMPLIFIED": "这件衬衫...裙子...这都是限量版啊...？从哪儿弄来的？",
+      "CHINESE_TRADITIONAL": "嗯？襯衫…裙子…這都是限量款？你在哪裡買到的？",
+      "JAPANESE": "このシャツにスカート…限定品じゃないですか？どこで手に入れたんです？",
+      "INDONESIAN": "Kemeja ini… rok ini… edisi terbatas? Dari mana kau dapet?",
+      "PORTUGUESE": "Essa camisa... a saia... são edição limitada? Onde conseguiu?",
+      "SPANISH": "Esa camisa… la falda… ¿son de edición limitada? ¿Dónde las conseguiste?",
+      "PERSIAN": "این پیراهن ... این دامن ... نسخه محدود است؟ از کجا گرفتی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 42.7
+    },
+    "SCRIPT": {
+      "KOREAN": "직장인 월급으로는 어림도 없을 텐데? 뭐 하는 사람이에요?",
+      "ENGLISH": "There’s no way that’s possible on a regular salary. What does she do?",
+      "CHINESE_SIMPLIFIED": "普通上班族的工资根本想都别想吧？她是做什么的？",
+      "CHINESE_TRADITIONAL": "以上班族薪水根本買不到啊？她到底是做什麼的？",
+      "JAPANESE": "会社員の給料じゃ無理でしょ？ 何してる人です？",
+      "INDONESIAN": "Mana mungkin itu bisa beli cuma dari gaji normal. Dia ngapain, ya?",
+      "PORTUGUESE": "Com o salário de um funcionário normal, isso não dá pra pagar. Com o que você trabalha?",
+      "SPANISH": "El sueldo de una empleada normal no alcanzaría. ¿En qué trabaja?",
+      "PERSIAN": "هیچ راهی با حقوق معمولی امکان پذیر نیست. او چه کار می کند؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 42.8,
+      "HIDE": 44.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 보세 아닌가?",
+      "ENGLISH": "Probably just bought it off the street or something.",
+      "CHINESE_SIMPLIFIED": "应该都是山寨吧？",
+      "CHINESE_TRADITIONAL": "這應該都不是名牌吧？",
+      "JAPANESE": "ただの既製服じゃない？",
+      "INDONESIAN": "Mungkin dia beli aja di jalan atau sesuatu.",
+      "PORTUGUESE": "Deve ser roupa genérica.",
+      "SPANISH": "Debe ser falsa.",
+      "PERSIAN": "احتمالاً فقط اونو از خیابان خریده یا چیزی مشابه."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 47.7
+    },
+    "SCRIPT": {
+      "KOREAN": "전 좀 피곤해서 먼저 들어갈게요.",
+      "ENGLISH": "I’m kinda tired, so I’ll head in first.",
+      "CHINESE_SIMPLIFIED": "我有点累了，先回房了",
+      "CHINESE_TRADITIONAL": "我有點累了，先進去了",
+      "JAPANESE": "私はちょっと疲れたので、先に部屋に戻ります",
+      "INDONESIAN": "Aku agak capek, jadi aku masuk duluan aja.",
+      "PORTUGUESE": "Tô meio cansada, então vou me recolher primeiro.",
+      "SPANISH": "Estoy un poco cansada, así que me retiro primero.",
+      "PERSIAN": "من تا حدودی خسته هستم، بنابراین اول وارد می شوم."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 47.8,
+      "HIDE": 51.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 그러지 말구 친해질 겸! 파티해요!",
+      "ENGLISH": "Ah, don’t be like that! Let’s have a party and get to know each other!",
+      "CHINESE_SIMPLIFIED": "别这样嘛，趁这机会熟悉一下！开个派对吧！",
+      "CHINESE_TRADITIONAL": "唉，別這樣，為了讓大家熟悉一下！來開個派對吧！",
+      "JAPANESE": "え〜そんなこと言わずに仲良くなるついでにパーティーしましょうよ！",
+      "INDONESIAN": "Ah, jangan gitu dong! Ayo ngadain pesta dan saling kenal lebih deket!",
+      "PORTUGUESE": "Ah, não fala isso, vamos fazer uma festinha pra nos conhecermos melhor!",
+      "SPANISH": "Ay, no te vayas ¡Hay que hacer algo para conocernos mejor!",
+      "PERSIAN": "آه، اینطوری نباش! بیا یه مهمونی بگیریم و با هم آشنا بشیم!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 51.6,
+      "HIDE": 54.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래요! 우리 오랜만인데 한잔해요!",
+      "ENGLISH": "Sounds good! It’s been a while, let’s have a drink!",
+      "CHINESE_SIMPLIFIED": "好啊！我们好久没聚了，喝一杯吧！",
+      "CHINESE_TRADITIONAL": "好啊！好久沒聚會了，不然喝一杯吧！",
+      "JAPANESE": "そうですよ、久しぶりなんだし一杯やりましょう！",
+      "INDONESIAN": "Kayanya seru! Udah lama nih, ayo minum bareng!",
+      "PORTUGUESE": "Sim, faz tempo que não nos reunimos, vamos beber um pouco!",
+      "SPANISH": "¡Sí, hace mucho que no nos reunimos, tomemos algo!",
+      "PERSIAN": "خوب به نظر می رسد! مدتی گذشت، بیا یک نوشیدنی بخوریم!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 55.0,
+      "HIDE": 56.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐랑 먹지... 치킨? ",
+      "ENGLISH": "What should we eat… chicken?",
+      "CHINESE_SIMPLIFIED": "配什么下酒菜呢...炸鸡？",
+      "CHINESE_TRADITIONAL": "配什麼呢…炸雞？",
+      "JAPANESE": "何食べよう…チキン？ ",
+      "INDONESIAN": "Makan apa ya… ayam?",
+      "PORTUGUESE": "Pra acompanhar... frango frito?",
+      "SPANISH": "¿Con qué acompañamos...? ¿Pollo frito?",
+      "PERSIAN": "چی بخوریم... مرغ؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 57.2,
+      "HIDE": 62.8
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요, 내일 출근이라서 다음에. 우유만 씨는 잠깐 나 좀 보지?",
+      "ENGLISH": "Sorry, I have work tomorrow, so maybe next time. Yuman, can you come with me for a sec?",
+      "CHINESE_SIMPLIFIED": "抱歉，我明天要上班，下次吧。吴宥万能出来一下吗？",
+      "CHINESE_TRADITIONAL": "不好意思，我明天還要上班，下次吧。宥萬先生，可以跟你單獨談一下嗎？",
+      "JAPANESE": "すみません、明日仕事なのでまた今度にします ユマンさん、ちょっと話せます？",
+      "INDONESIAN": "Maaf, aku kerja besok, jadi mungkin lain kali aja. Yuman, bisa ikut sebentar ke luar?",
+      "PORTUGUESE": "Desculpa, tenho que trabalhar amanhã, fica pra próxima. Yuman, pode vir um segundo?",
+      "SPANISH": "Perdón, tengo que trabajar mañana, mejor la próxima. Yumán, ¿puedes venir un segundo?",
+      "PERSIAN": "ببخشید من فردا کار دارم پس شاید دفعه بعد. یومان، می تونی یه لحظه با من بیای؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 63.3,
+      "HIDE": 66.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야~ 저도 내일 저녁 약속 있어요! 유만 씨랑.",
+      "ENGLISH": "What? I have plans tomorrow evening too—with Yuman.",
+      "CHINESE_SIMPLIFIED": "什么呀~我明晚也有约会呢！和宥万一起",
+      "CHINESE_TRADITIONAL": "什麼呀～我明天晚上也有約啊！跟宥萬一起",
+      "JAPANESE": "なにそれ〜！私も明日の夜予定あるんですけど！ユマンさんと！",
+      "INDONESIAN": "Apa? Aku juga ada rencana besok malam bareng Yuman.",
+      "PORTUGUESE": "Hã? Eu também tenho um encontro amanhã à tarde! Com o Yuman.",
+      "SPANISH": "¿Eh? ¡Yo también tengo una cita mañana en la tarde! Con Yumán.",
+      "PERSIAN": "چی؟ فردا عصر هم برنامه هایی دارم - با یومان."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 67.2,
+      "HIDE": 68.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 저요?",
+      "ENGLISH": "Huh? Me?",
+      "CHINESE_SIMPLIFIED": "啊？和我？",
+      "CHINESE_TRADITIONAL": "欸？我嗎？",
+      "JAPANESE": "え？俺と？",
+      "INDONESIAN": "Hah? Aku?",
+      "PORTUGUESE": "Hã? Comigo?",
+      "SPANISH": "¿Eh? ¿Conmigo?",
+      "PERSIAN": "ها؟ من؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 69.2,
+      "HIDE": 70.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 시간 좀 내줘요!",
+      "ENGLISH": "Yeah! Make some time!",
+      "CHINESE_SIMPLIFIED": "嗯！抽点时间给我嘛！",
+      "CHINESE_TRADITIONAL": "對！撥點時間給我吧！",
+      "JAPANESE": "はい！時間くださいね！",
+      "INDONESIAN": "Iya! Sisihkan waktu!",
+      "PORTUGUESE": "Sim! Arranja um tempinho pra mim!",
+      "SPANISH": "¡Sí! ¡Saca un poco de tiempo para mí!",
+      "PERSIAN": "آره کمی وقت بگذار!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 71.7,
+      "HIDE": 75.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 내일 기자님들한테 해명 기사 연락 돌려야 된단 말이에요",
+      "ENGLISH": "I also have to send clarification articles to the reporters tomorrow.",
+      "CHINESE_SIMPLIFIED": "我明天还得给记者们发澄清声明呢",
+      "CHINESE_TRADITIONAL": "我明天也要給記者們發聲明稿",
+      "JAPANESE": "私も明日は記者さんたちに説明の記事を送らなきゃいけないんです",
+      "INDONESIAN": "Aku juga harus kirim artikel klarifikasi ke wartawan besok.",
+      "PORTUGUESE": "Eu tenho que entrar em contato com os jornalistas amanhã pra esclarecer o artigo.",
+      "SPANISH": "Yo tengo que contactar a los periodistas mañana para aclarar lo del artículo.",
+      "PERSIAN": "فردا هم باید مطالب شفاف سازی را برای خبرنگاران بفرستم."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 75.9,
+      "HIDE": 77.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 내일 뭐 있을걸?",
+      "ENGLISH": "I think I have something tomorrow too…",
+      "CHINESE_SIMPLIFIED": "我明天好像也有事...？",
+      "CHINESE_TRADITIONAL": "我明天好像也有事…？",
+      "JAPANESE": "私も明日は何かあったような…？",
+      "INDONESIAN": "Sepertinya aku juga ada urusan besok…",
+      "PORTUGUESE": "Eu... acho que também tenho algo amanhã.",
+      "SPANISH": "Yo… creo que también tengo algo mañana.",
+      "PERSIAN": "فکر کنم فردا هم چیزی دارم…"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 77.8,
+      "HIDE": 80.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까 그게 대체 뭔데…",
+      "ENGLISH": "So what exactly is going on…",
+      "CHINESE_SIMPLIFIED": "所以这到底是怎么回事...",
+      "CHINESE_TRADITIONAL": "所以到底是要…？",
+      "JAPANESE": "だからそれが一体何なんだ…",
+      "INDONESIAN": "Jadi apa sih sebenarnya yang terjadi…",
+      "PORTUGUESE": "O que você tem amanhã...?",
+      "SPANISH": "¿Qué tienes mañana...?",
+      "PERSIAN": "پس دقیقا چه خبره…"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 80.7,
+      "HIDE": 84.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저희도 다 일정 있잖아요. 그러니깐 같이 마셔요.",
+      "ENGLISH": "We all have schedules, so let’s just drink together.",
+      "CHINESE_SIMPLIFIED": "我们都有安排啊，所以干脆现在一起喝吧",
+      "CHINESE_TRADITIONAL": "我們大家都有事情啊，所以…還是喝一杯吧",
+      "JAPANESE": "みんな予定あるって言うし、だったら一緒に飲みましょうよ",
+      "INDONESIAN": "Kita semua kan punya jadwal, jadi ayo aja minum bareng.",
+      "PORTUGUESE": "Todos temos coisas pra fazer, por isso devíamos relaxar juntos e beber.",
+      "SPANISH": "Todos tenemos cosas que hacer, por eso deberíamos relajarnos juntos y beber.",
+      "PERSIAN": "همه ما برنامه داریم، پس بیایید فقط با هم بنوشیم."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 84.4,
+      "HIDE": 90.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 그러고 싶은데 내일 일정이 좀 많아서. 우유만 씨는 어떻게 할래?",
+      "ENGLISH": "I’d like to, but I’ve got a busy day tomorrow. Yuman, what about you?",
+      "CHINESE_SIMPLIFIED": "我也想喝，但明天行程太多了。吴宥万，你说怎么办？",
+      "CHINESE_TRADITIONAL": "我也很想，但明天行程太多了。吳宥萬，你打算怎麼辦？",
+      "JAPANESE": "私もそうしたいけど、明日はスケジュールが多くて… ユマンさんはどうする？",
+      "INDONESIAN": "Aku pengen sih, tapi besok aku sibuk banget. Yuman, gimana denganmu?",
+      "PORTUGUESE": "Adoraria, mas meu dia amanhã tá lotado. E você, Yuman?",
+      "SPANISH": "Me encantaría, pero creo que esta vez no. ¿Tú qué vas a hacer, Yumán?",
+      "PERSIAN": "من دوست دارم، اما فردا روز شلوغی دارم. یومان، تو چی؟"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 90.5,
+      "HIDE": 91.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저요?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我吗？",
+      "CHINESE_TRADITIONAL": "我嗎？",
+      "JAPANESE": "俺ですか？",
+      "INDONESIAN": "Aku?",
+      "PORTUGUESE": "E-eu...?",
+      "SPANISH": "¿Y-yo?",
+      "PERSIAN": "من؟"
+    }
+  }
+]

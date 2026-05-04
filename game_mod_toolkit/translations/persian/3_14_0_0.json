@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 여긴 왜 온 거예요?",
+      "ENGLISH": "But why are you even out here?",
+      "CHINESE_SIMPLIFIED": "不过我们怎么来这儿了？",
+      "CHINESE_TRADITIONAL": "不過我們來這裡幹嘛？",
+      "JAPANESE": "ところで、なんでここに？",
+      "INDONESIAN": "Tapi kenapa kamu malah jalan-jalan di luar gini sih?",
+      "PORTUGUESE": "Mas o que você tá fazendo aqui?",
+      "SPANISH": "Pero, ¿qué haces aquí?",
+      "PERSIAN": "اما چرا اصلا اینجایی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 연예인이잖아요!",
+      "ENGLISH": "You’re a celebrity, Min-jung!",
+      "CHINESE_SIMPLIFIED": "敏静可是艺人啊！",
+      "CHINESE_TRADITIONAL": "敏靜你不是藝人嗎？",
+      "JAPANESE": "ミンジョンさん、芸能人でしょ？",
+      "INDONESIAN": "Kamu tuh selebriti, Min-jung!",
+      "PORTUGUESE": "Minjung, você é uma celebridade!",
+      "SPANISH": "¡Minjung, eres una celebridad!",
+      "PERSIAN": "تو یک سلبریتی هستی، مین‌جونگ!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이러고 밖에 돌아다니면 안 된다고요.",
+      "ENGLISH": "You can’t just walk around like this!",
+      "CHINESE_SIMPLIFIED": "不能就这样出门溜达的",
+      "CHINESE_TRADITIONAL": "這樣在外面亂逛不太好吧",
+      "JAPANESE": "こんな格好で外歩いたらダメですよ",
+      "INDONESIAN": "Nggak bisa sembarangan keluyuran kayak gini!",
+      "PORTUGUESE": "Não devia ficar andando por aí assim.",
+      "SPANISH": "No deberías andar por ahí así nada más.",
+      "PERSIAN": "اینجوری نمیشه راه رفت!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "변장해야죠!",
+      "ENGLISH": "You need to be in disguise!",
+      "CHINESE_SIMPLIFIED": "得伪装一下才行嘛！",
+      "CHINESE_TRADITIONAL": "還是要偽裝一下",
+      "JAPANESE": "変装しなきゃ！",
+      "INDONESIAN": "Kamu harus nyamar dong!",
+      "PORTUGUESE": "Tem que se disfarçar!",
+      "SPANISH": "¡Tienes que disfrazarte!",
+      "PERSIAN": "شما باید در لباس مبدل باشید!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍, 아...맞네",
+      "ENGLISH": "Tsk... ah, you’re right.",
+      "CHINESE_SIMPLIFIED": "嘶——啊...对哦",
+      "CHINESE_TRADITIONAL": "喔...對喔",
+      "JAPANESE": "…あっ、たしかに！",
+      "INDONESIAN": "Tsk... ah, iya juga sih.",
+      "PORTUGUESE": "Hã, ah... é mesmo.",
+      "SPANISH": "Mmm, ah... cierto.",
+      "PERSIAN": "تسک... آه، حق با شماست."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 여기 뭐가 되게 많네요.",
+      "ENGLISH": "But wow, there’s a ton of stuff here.",
+      "CHINESE_SIMPLIFIED": "不过这里东西还真多呢",
+      "CHINESE_TRADITIONAL": "不過這裡東西好多喔",
+      "JAPANESE": "でもここ、すごい色々ありますね",
+      "INDONESIAN": "Tapi wow, di sini banyak banget barang.",
+      "PORTUGUESE": "Mas uau, tem tanta coisa aqui.",
+      "SPANISH": "Pero wow, hay muchas cosas aquí.",
+      "PERSIAN": "اما وای، اینجا چیزهای زیادی وجود دارد."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 중에 뭐 해 볼까요?",
+      "ENGLISH": "Wanna try something on?",
+      "CHINESE_SIMPLIFIED": "我们挑个什么试试看？",
+      "CHINESE_TRADITIONAL": "我們挑個什麼來試試看？",
+      "JAPANESE": "この中からなにしてみましょうか？",
+      "INDONESIAN": "Mau coba-coba sesuatu?",
+      "PORTUGUESE": "Qual delas a gente prova?",
+      "SPANISH": "¿Cuál de todas probamos?",
+      "PERSIAN": "می خواهید چیزی را امتحان کنید؟"
+    }
+  }
+]

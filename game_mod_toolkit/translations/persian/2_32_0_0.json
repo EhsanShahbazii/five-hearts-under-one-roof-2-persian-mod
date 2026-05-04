@@ -1,0 +1,506 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어..저 근데 유정 씨...",
+      "ENGLISH": "Uh... Yoo-jeong...?",
+      "CHINESE_SIMPLIFIED": "那个...有情小姐...",
+      "CHINESE_TRADITIONAL": "呃…不過有情小姐…",
+      "JAPANESE": "あの…でもユジョンさん…",
+      "INDONESIAN": "Uh... Yoo-jeong...?",
+      "PORTUGUESE": "Ah... Senhorita Yujeong...",
+      "SPANISH": "Ah... Señorita Yujeong…",
+      "PERSIAN": "اوه... یو جونگ...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네 아저씨!",
+      "ENGLISH": "Yes, mister!",
+      "CHINESE_SIMPLIFIED": "嗯，大叔！",
+      "CHINESE_TRADITIONAL": "是，大叔！",
+      "JAPANESE": "はい おじさん!",
+      "INDONESIAN": "Ya, tuan!",
+      "PORTUGUESE": "Sim, senhor!",
+      "SPANISH": "¡Sí, señor!",
+      "PERSIAN": "بله آقا!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 아저씨가 아닌데...",
+      "ENGLISH": "I'm not that old, you know...",
+      "CHINESE_SIMPLIFIED": "我不是大叔啊...",
+      "CHINESE_TRADITIONAL": "我不是大叔耶...",
+      "JAPANESE": "俺 おじさんじゃないんですけど…",
+      "INDONESIAN": "Aku tidak setua itu, kau tahu...",
+      "PORTUGUESE": "Senhor? Não precisa ser tão formal...",
+      "SPANISH": "¿Señor? No tienes que ser tan formal…",
+      "PERSIAN": "من اونقدرا هم پیر نیستم میدونی..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 죄송해요. 뭐라고 불러야 되는지 몰라서...",
+      "ENGLISH": "Oh—sorry! I didn’t know what to call you...",
+      "CHINESE_SIMPLIFIED": "啊对不起，我不知道该怎么称呼您...",
+      "CHINESE_TRADITIONAL": "啊，不好意思。我不知道該怎麼稱呼您…",
+      "JAPANESE": "あ ごめんなさい なんて呼べばいいかわからなくて…",
+      "INDONESIAN": "Oh—maaf! Aku tidak tahu harus memanggilmu apa...",
+      "PORTUGUESE": "Ah, desculpe. É que eu não sabia como te chamar...",
+      "SPANISH": "Ah, perdón. Es que no sabía cómo llamarlo…",
+      "PERSIAN": "اوه - متاسفم! نمیدونستم چی صداتون کنم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 우유만이라고 불러주세요 ",
+      "ENGLISH": "Just call me Yuman.",
+      "CHINESE_SIMPLIFIED": "就直接叫我吴宥万吧",
+      "CHINESE_TRADITIONAL": "就叫我吳宥萬吧",
+      "JAPANESE": "じゃあ ウ・ユマンって呼んでください",
+      "INDONESIAN": "Panggil saja aku Yuman.",
+      "PORTUGUESE": "Meu nome é Yuman Woo.",
+      "SPANISH": "Me llamo Yumán Woo.",
+      "PERSIAN": "فقط منو یومان صدا کن"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 우.유.만님",
+      "ENGLISH": "Okay! Yu. Man. Got it!",
+      "CHINESE_SIMPLIFIED": "好的！吴...宥...万...先生！",
+      "CHINESE_TRADITIONAL": "好！吳宥萬先生！",
+      "JAPANESE": "はい! ウ・ユ・マンさん",
+      "INDONESIAN": "Oke! Yu. Man. Oke!",
+      "PORTUGUESE": "Entendido, senhor Yu-man-Woo.",
+      "SPANISH": " Entendido, Señor Yu - Mán - Woo.",
+      "PERSIAN": "باشه! یو. مرد متوجه شدم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 오늘은 일 안 해요?",
+      "ENGLISH": "So... you’re not working today?",
+      "CHINESE_SIMPLIFIED": "不过你今天不用工作吗？",
+      "CHINESE_TRADITIONAL": "不過，你今天不用上班嗎？",
+      "JAPANESE": "でも今日は仕事ないんですか?",
+      "INDONESIAN": "Jadi... kamu tidak bekerja hari ini?",
+      "PORTUGUESE": "Mas... hoje você não trabalha?",
+      "SPANISH": "Pero, ¿hoy no trabajas?",
+      "PERSIAN": "پس ... شما امروز کار نمی کنید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "병원이라든가..편의점이라든가 ",
+      "ENGLISH": "Not at the hospital or the convenience store?",
+      "CHINESE_SIMPLIFIED": "医院那边...或者便利店...",
+      "CHINESE_TRADITIONAL": "像是醫院或便利商店之類？",
+      "JAPANESE": "病院とか…コンビニとか",
+      "INDONESIAN": "Tidak di rumah sakit atau toko swalayan?",
+      "PORTUGUESE": "No hospital ou na loja?",
+      "SPANISH": "¿En el hospital o en la tienda?",
+      "PERSIAN": "در بیمارستان یا فروشگاه رفاه نیست؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 오늘은 다른 알바 가요 ",
+      "ENGLISH": "I’ve got a different part-time job today.",
+      "CHINESE_SIMPLIFIED": "今天有其他兼职",
+      "CHINESE_TRADITIONAL": "今天要去別的地方打工",
+      "JAPANESE": "今日は別のバイト行きます",
+      "INDONESIAN": "Saya punya pekerjaan paruh waktu yang berbeda hari ini.",
+      "PORTUGUESE": "Hoje eu trabalho em outro lugar.",
+      "SPANISH": "Hoy trabajo en otro sitio.",
+      "PERSIAN": "من امروز یک کار نیمه وقت متفاوت دارم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "다른 데도 알바해요?",
+      "ENGLISH": "You work somewhere else too?",
+      "CHINESE_SIMPLIFIED": "你还在别的地方兼职吗？",
+      "CHINESE_TRADITIONAL": "你在別的地方也有打工？",
+      "JAPANESE": "他でもバイトしてるんですか?",
+      "INDONESIAN": "Anda bekerja di tempat lain juga?",
+      "PORTUGUESE": "Em outro lugar?",
+      "SPANISH": "¿En otro sitio?",
+      "PERSIAN": "شما هم جای دیگری کار می کنید؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "알바가 대체 몇 개예요?",
+      "ENGLISH": "How many jobs do you have??",
+      "CHINESE_SIMPLIFIED": "到底打几份工啊？",
+      "CHINESE_TRADITIONAL": "你到底有幾份工作啊？",
+      "JAPANESE": "バイトっていくつあるんですか?",
+      "INDONESIAN": "Berapa banyak pekerjaan yang Anda miliki?",
+      "PORTUGUESE": "Quantos trabalhos você tem afinal?",
+      "SPANISH": "¿Pues cuántos trabajos tienes?",
+      "PERSIAN": "چند تا شغل داری؟؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음...지금은..",
+      "ENGLISH": "Hmm... right now...",
+      "CHINESE_SIMPLIFIED": "嗯...现在的话...",
+      "CHINESE_TRADITIONAL": "嗯…目前…",
+      "JAPANESE": "んー…今は…",
+      "INDONESIAN": "Hmm... saat ini...",
+      "PORTUGUESE": "Por enquanto...",
+      "SPANISH": "Por ahora...",
+      "PERSIAN": "هوم... همین الان..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 32.1
+    },
+    "SCRIPT": {
+      "KOREAN": "한 여섯 개 정도 되는 거 같아요 ",
+      "ENGLISH": "About six, I think.",
+      "CHINESE_SIMPLIFIED": "大概有六份左右吧",
+      "CHINESE_TRADITIONAL": "大概六份左右吧",
+      "JAPANESE": "6つくらいですかね",
+      "INDONESIAN": "Sekitar enam, saya kira.",
+      "PORTUGUESE": "Acho que uns seis, mais ou menos.",
+      "SPANISH": "Creo que unos seis más o menos.",
+      "PERSIAN": "حدود شش، فکر می کنم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.1,
+      "HIDE": 37.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 여섯 개요? 아니 공부할 시간이 돼요?",
+      "ENGLISH": "Wait, six?! When do you even have time to study??",
+      "CHINESE_SIMPLIFIED": "哈？六份？那还有时间学习吗？",
+      "CHINESE_TRADITIONAL": "什麼？六份？那你還有時間讀書嗎？",
+      "JAPANESE": "えっ 6つ!? 勉強する時間あるんですか?",
+      "INDONESIAN": "Tunggu, enam?! Kapan kamu punya waktu untuk belajar??",
+      "PORTUGUESE": "Seis? E ainda dá tempo de estudar?",
+      "SPANISH": "¿Seis? ¿Y todavía te da tiempo de estudiar?",
+      "PERSIAN": "صبر کن شش؟! اصلا کی وقت داری درس بخونی؟؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 37.3,
+      "HIDE": 38.9
+    },
+    "SCRIPT": {
+      "KOREAN": "틈틈이 하고 있어요...",
+      "ENGLISH": "I squeeze it in when I can...",
+      "CHINESE_SIMPLIFIED": "挤时间在学啦...",
+      "CHINESE_TRADITIONAL": "都是用零碎時間在讀…",
+      "JAPANESE": "合間を見てやってます…",
+      "INDONESIAN": "Saya melakukannya saat saya bisa...",
+      "PORTUGUESE": "Eu estudo quando posso, entre um turno e outro...",
+      "SPANISH": "Estudio cuando puedo, entre ratos…",
+      "PERSIAN": "هر وقت بتوانم فشارش می دهم..."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 38.9,
+      "HIDE": 42.7
+    },
+    "SCRIPT": {
+      "KOREAN": "헉, 아 저 늦었어요 ",
+      "ENGLISH": "Gasp—oh no, I’m late!",
+      "CHINESE_SIMPLIFIED": "啊呀，我快迟到了",
+      "CHINESE_TRADITIONAL": "糟糕，我要遲到了！",
+      "JAPANESE": "うわっ あ 遅れました",
+      "INDONESIAN": "Terkesiap—oh tidak, aku terlambat!",
+      "PORTUGUESE": "Ai, já tô atrasada!",
+      "SPANISH": "Ay, ¡ya se me hizo tarde!",
+      "PERSIAN": "نفس نفس زدن-اوه نه، دیر کردم!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 42.7,
+      "HIDE": 44.1
+    },
+    "SCRIPT": {
+      "KOREAN": "알바 가봐야 돼요",
+      "ENGLISH": "Gotta get to work!",
+      "CHINESE_SIMPLIFIED": "得去打工了",
+      "CHINESE_TRADITIONAL": "我必須去打工了",
+      "JAPANESE": "バイト行かないといけないので",
+      "INDONESIAN": "Harus mulai bekerja!",
+      "PORTUGUESE": "Preciso ir trabalhar.",
+      "SPANISH": "Tengo que ir a trabajar.",
+      "PERSIAN": "باید دست به کار شوم"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 44.1,
+      "HIDE": 45.5
+    },
+    "SCRIPT": {
+      "KOREAN": "먼저 가볼게요",
+      "ENGLISH": "See you!",
+      "CHINESE_SIMPLIFIED": "我先走啦",
+      "CHINESE_TRADITIONAL": "我先走了",
+      "JAPANESE": "先に失礼します",
+      "INDONESIAN": "Sampai jumpa!",
+      "PORTUGUESE": "Até logo.",
+      "SPANISH": "Hasta luego.",
+      "PERSIAN": "ببینمت!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 46.9,
+      "HIDE": 48.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아!",
+      "ENGLISH": "Ah—wait!",
+      "CHINESE_SIMPLIFIED": "啊！",
+      "CHINESE_TRADITIONAL": "啊！",
+      "JAPANESE": "あ!",
+      "INDONESIAN": "Ah—tunggu!",
+      "PORTUGUESE": "Ah!",
+      "SPANISH": "¡Ah!",
+      "PERSIAN": "آه - صبر کن!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 49.0,
+      "HIDE": 50.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 드시지 마시고 ",
+      "ENGLISH": "Don’t eat this yourself—",
+      "CHINESE_SIMPLIFIED": "这个您可别吃",
+      "CHINESE_TRADITIONAL": "啊！這個請不要吃掉",
+      "JAPANESE": "これ食べないで",
+      "INDONESIAN": "Jangan makan ini sendiri—",
+      "PORTUGUESE": "Tem que dar tudo isso pro Blacky.",
+      "SPANISH": "Tiene que darle todo esto a Blacky.",
+      "PERSIAN": "خودتان اینو نخورید -"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 50.6,
+      "HIDE": 52.7
+    },
+    "SCRIPT": {
+      "KOREAN": "꼭 까미한테 다 주셔야 돼요!",
+      "ENGLISH": "Make sure you give it all to Kkami, okay?",
+      "CHINESE_SIMPLIFIED": "一定要全都给小黑哦！",
+      "CHINESE_TRADITIONAL": "一定要全部都餵給小黑喔！",
+      "JAPANESE": "絶対カミに全部あげてくださいね!",
+      "INDONESIAN": "Pastikan kau memberikan semuanya pada Kkami, oke?",
+      "PORTUGUESE": "Não vá comer, hein.",
+      "SPANISH": "No se lo vaya a comer.",
+      "PERSIAN": "مطمئن شوید که همه چیز را به کامی می دهید، باشه؟"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 52.7,
+      "HIDE": 53.9
+    },
+    "SCRIPT": {
+      "KOREAN": "꼭이에요!",
+      "ENGLISH": "Promise!",
+      "CHINESE_SIMPLIFIED": "一定哦！",
+      "CHINESE_TRADITIONAL": "一定！",
+      "JAPANESE": "絶対ですよ!",
+      "INDONESIAN": "Janji!",
+      "PORTUGUESE": "Não se esqueça!",
+      "SPANISH": "¡Que no se le olvide!",
+      "PERSIAN": "قول بده!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 53.9,
+      "HIDE": 54.8
+    },
+    "SCRIPT": {
+      "KOREAN": "엇 네",
+      "ENGLISH": "Uh—okay!",
+      "CHINESE_SIMPLIFIED": "呃，好的",
+      "CHINESE_TRADITIONAL": "喔，好",
+      "JAPANESE": "あっ はい",
+      "INDONESIAN": "Uh—oke!",
+      "PORTUGUESE": "T-tá bom...",
+      "SPANISH": "E-e está bien…",
+      "PERSIAN": "اوه - باشه!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 57.1,
+      "HIDE": 59.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 난 고양이가 아니니깐...",
+      "ENGLISH": "Guess I’m not the cat here...",
+      "CHINESE_SIMPLIFIED": "反正我又不是猫...",
+      "CHINESE_TRADITIONAL": "我也不是貓啊…",
+      "JAPANESE": "俺 猫じゃないから…",
+      "INDONESIAN": "Kurasa aku bukan kucing di sini...",
+      "PORTUGUESE": "Mas eu nem poderia comer isso, não sou um gato...",
+      "SPANISH": "Pues no puedo comerme esto, no soy un gato...",
+      "PERSIAN": "حدس بزن من گربه اینجا نیستم..."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 60.5,
+      "HIDE": 61.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 까미야",
+      "ENGLISH": "Alright, Kkami...",
+      "CHINESE_SIMPLIFIED": "来，小黑",
+      "CHINESE_TRADITIONAL": "來，小黑",
+      "JAPANESE": "ほら カミ",
+      "INDONESIAN": "Baiklah, Kkami...",
+      "PORTUGUESE": "Vem, Blacky.",
+      "SPANISH": "Ven, Blacky.",
+      "PERSIAN": "باشه ککامی..."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 62.9,
+      "HIDE": 64.0
+    },
+    "SCRIPT": {
+      "KOREAN": "까, 까미야",
+      "ENGLISH": "K-Kkami...",
+      "CHINESE_SIMPLIFIED": "小、小黑",
+      "CHINESE_TRADITIONAL": "小、小黑",
+      "JAPANESE": "カ…カミ",
+      "INDONESIAN": "K-Kkami...",
+      "PORTUGUESE": "Gatinho!",
+      "SPANISH": "¡Gatito!",
+      "PERSIAN": "کی-ککامی..."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 64.0,
+      "HIDE": 66.3
+    },
+    "SCRIPT": {
+      "KOREAN": "까..까..까미야!",
+      "ENGLISH": "K-K-Kkami...!",
+      "CHINESE_SIMPLIFIED": "小...小黑！",
+      "CHINESE_TRADITIONAL": "小～小～小黑啊！",
+      "JAPANESE": "カ…カ…カミ!",
+      "INDONESIAN": "K-K-Kkami...!",
+      "PORTUGUESE": "Blacky! Prrrr...",
+      "SPANISH": "¡Blacky! Prrrr...",
+      "PERSIAN": "ک-ک-ککامی...!"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 66.3,
+      "HIDE": 67.3
+    },
+    "SCRIPT": {
+      "KOREAN": "까..까미..",
+      "ENGLISH": "K...Kkami...",
+      "CHINESE_SIMPLIFIED": "小...小黑...",
+      "CHINESE_TRADITIONAL": "小～黑～",
+      "JAPANESE": "カ…カミ…",
+      "INDONESIAN": "K...Kkami...",
+      "PORTUGUESE": "Bla... Blacky...",
+      "SPANISH": "Bla... Blacky...",
+      "PERSIAN": "ک...ککامی..."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "あ、",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "عه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아무도 없네...",
+      "ENGLISH": "Nothing's here...",
+      "CHINESE_SIMPLIFIED": "什么都没有啊...",
+      "CHINESE_TRADITIONAL": "沒什麼...",
+      "JAPANESE": "誰もいない…",
+      "INDONESIAN": "Nggak ada siapa-siapa...",
+      "PORTUGUESE": "Não tem ninguém aqui...",
+      "SPANISH": "No hay nadie...",
+      "PERSIAN": "اینجا که پرنده هم پر نمی‌زنه..."
+    }
+  }
+]

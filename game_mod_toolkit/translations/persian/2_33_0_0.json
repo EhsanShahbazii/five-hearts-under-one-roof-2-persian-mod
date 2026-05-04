@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "다녀왔습니다~",
+      "ENGLISH": "I’m back~",
+      "CHINESE_SIMPLIFIED": "我回来了~",
+      "CHINESE_TRADITIONAL": "我回來了～",
+      "JAPANESE": "ただいま〜",
+      "INDONESIAN": "aku kembali~",
+      "PORTUGUESE": "Já cheguei!",
+      "SPANISH": "¡Ya llegué!",
+      "PERSIAN": "من برگشتم~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 왔어요?",
+      "ENGLISH": "Oh? You’re home?",
+      "CHINESE_SIMPLIFIED": "哦？回来啦？",
+      "CHINESE_TRADITIONAL": "咦？回來啦？",
+      "JAPANESE": "あっ 帰ってきたんですね?",
+      "INDONESIAN": "Oh? Kamu sudah di rumah?",
+      "PORTUGUESE": "Hã? Já voltou?",
+      "SPANISH": "¿Eh? ¿Ya volviste?",
+      "PERSIAN": "اوه؟ تو خونه ای؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 집에 혼자 있었어요? 말숙이는요?",
+      "ENGLISH": "Wait—were you here alone? Where’s Mal-sook?",
+      "CHINESE_SIMPLIFIED": "啊？你一个人在家吗？末淑呢？",
+      "CHINESE_TRADITIONAL": "嗯？只有你在家嗎？末淑呢？",
+      "JAPANESE": "え? 家に一人だったんですか? マルスクは?",
+      "INDONESIAN": "Tunggu—kamu sendirian di sini? Mal-sook di mana?",
+      "PORTUGUESE": "Oh? Tá sozinho? Onde está a Malsook?",
+      "SPANISH": "¿Oh? ¿Estás sola? ¿Dónde está Malsook?",
+      "PERSIAN": "صبر کن اینجا تنها بودی؟ مال‌سوک کجاست؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아직 안 왔어요",
+      "ENGLISH": "She’s not back yet.",
+      "CHINESE_SIMPLIFIED": "还没回来呢",
+      "CHINESE_TRADITIONAL": "她還沒回來",
+      "JAPANESE": "まだ帰ってませんよ",
+      "INDONESIAN": "Dia belum kembali.",
+      "PORTUGUESE": "Ela ainda não voltou.",
+      "SPANISH": "Todavía no ha vuelto.",
+      "PERSIAN": "او هنوز برنگشته است"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 깁스 풀었네요!!",
+      "ENGLISH": "Oh! You got your cast off!",
+      "CHINESE_SIMPLIFIED": "哦！石膏拆掉啦！！",
+      "CHINESE_TRADITIONAL": "欸！石膏拆掉啦！！",
+      "JAPANESE": "あっ! ギプス外したんですね!!",
+      "INDONESIAN": "Oh! Gipsmu sudah dilepas!",
+      "PORTUGUESE": "Oh! Já tiraram o gesso!",
+      "SPANISH": "¡Oh! ¡Ya te quitaron el yeso!",
+      "PERSIAN": "اوه! اخراج خود را گرفتید!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 네 이제 재활 운동만 열심히 하면 될 거 같아요.",
+      "ENGLISH": "Yeah~ Now I just need to focus on rehab.",
+      "CHINESE_SIMPLIFIED": "啊~嗯，现在只要努力做康复运动应该就行啦",
+      "CHINESE_TRADITIONAL": "啊～是啊，現在好像認真復健就好了",
+      "JAPANESE": "あ〜 はい もうこれからはリハビリ頑張れば大丈夫そうです",
+      "INDONESIAN": "Ya~ Sekarang saya hanya perlu fokus pada rehabilitasi.",
+      "PORTUGUESE": "Ah~ sim, agora só falta continuar com a reabilitação.",
+      "SPANISH": "Ah~ sí, ahora solo me queda seguir con la rehabilitación.",
+      "PERSIAN": "آره~ حالا فقط باید روی توانبخشی تمرکز کنم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 다행이다...",
+      "ENGLISH": "That’s a relief...",
+      "CHINESE_SIMPLIFIED": "嗯...太好了...",
+      "CHINESE_TRADITIONAL": "嗯…太好了…",
+      "JAPANESE": "ふぅ…よかった…",
+      "INDONESIAN": "Itu melegakan...",
+      "PORTUGUESE": "Hmm... que alívio...",
+      "SPANISH": "Hmm… qué alivio…",
+      "PERSIAN": "این یک آرامش است..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": " 아 맞다! 이거요.",
+      "ENGLISH": "Oh, right! This is for you.",
+      "CHINESE_SIMPLIFIED": "啊对了！这个",
+      "CHINESE_TRADITIONAL": "啊，對了！這個給你",
+      "JAPANESE": "あ そうだ! これです",
+      "INDONESIAN": "Oh, iya! Ini untukmu.",
+      "PORTUGUESE": "Ah, é verdade, toma isso!",
+      "SPANISH": "Ah, cierto, ¡toma esto!",
+      "PERSIAN": "اوه، درست است! این برای شماست."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 제 거예요?",
+      "ENGLISH": "Huh? For me?",
+      "CHINESE_SIMPLIFIED": "呃？是我的吗？",
+      "CHINESE_TRADITIONAL": "咦？這是我的嗎？",
+      "JAPANESE": "え? これ 俺のですか?",
+      "INDONESIAN": "Hah? Untukku?",
+      "PORTUGUESE": "Hã? É pra mim?",
+      "SPANISH": "¿Eh? ¿Es mío?",
+      "PERSIAN": "ها؟ برای من؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "문 앞에 있던데요?",
+      "ENGLISH": "It was by the door.",
+      "CHINESE_SIMPLIFIED": "放在门口了来着",
+      "CHINESE_TRADITIONAL": "我看就在門口那邊",
+      "JAPANESE": "玄関の前に置いてありましたよ",
+      "INDONESIAN": "Letaknya di dekat pintu.",
+      "PORTUGUESE": "Tava na porta.",
+      "SPANISH": "Estaba frente a la puerta.",
+      "PERSIAN": "کنار در بود."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "(민정 콘서트 초대장) \n우와.. 우와! 앗싸~ 무조건 가야겠다...!!",
+      "ENGLISH": "(Min-jung's Concert Invitation)\nWhoa... whoa! Yes!! I have to go to this...!",
+      "CHINESE_SIMPLIFIED": "「敏静演唱会邀请函」\n哇...哇！太棒了~我一定要去...！！",
+      "CHINESE_TRADITIONAL": "「敏靜演唱會邀請函」\n哇…哇啊！太棒了～一定要去…！！",
+      "JAPANESE": "「ミンジョン コンサート招待状」\nうわっ うわっ! やった〜! 絶対行かなきゃ…!!",
+      "INDONESIAN": "(Undangan Konser Min-jung)\nWah... wah! Iya nih!! Aku harus ke sana...!",
+      "PORTUGUESE": "(Convite para o show da Minjung)\nUau! Sim! Definitivamente eu tenho que ir!",
+      "SPANISH": "(Invitación al concierto de Minjung)\n¡Guau! ¡Sí! ¡Definitivamente tengo que ir!",
+      "PERSIAN": "(دعوتنامه کنسرت مین‌جونگ) وای... اوه! بله!! باید برم سراغ این...!"
+    }
+  }
+]

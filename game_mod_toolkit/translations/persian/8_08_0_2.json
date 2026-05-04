@@ -1,0 +1,271 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Hmm…",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm…",
+      "PORTUGUESE": "Hmm…",
+      "SPANISH": "Mmm…",
+      "PERSIAN": "هوم…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "고민이 좀 되긴 하지?",
+      "ENGLISH": "You’re still unsure, right?",
+      "CHINESE_SIMPLIFIED": "不过我还是有点犹豫",
+      "CHINESE_TRADITIONAL": "有點煩惱嗎？",
+      "JAPANESE": "ちょっと悩む",
+      "INDONESIAN": "Kamu masih galau, ya?",
+      "PORTUGUESE": "Você não tem certeza, né?",
+      "SPANISH": "No estás seguro, ¿verdad?",
+      "PERSIAN": "شما هنوز مطمئن نیستید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍...음...",
+      "ENGLISH": "Mmm...",
+      "CHINESE_SIMPLIFIED": "嘶...嗯...",
+      "CHINESE_TRADITIONAL": "喔...嗯...",
+      "JAPANESE": "ふぅ…んー…",
+      "INDONESIAN": "Mmm...",
+      "PORTUGUESE": "Tss… mmm…",
+      "SPANISH": "Tss… mmm…",
+      "PERSIAN": "ممم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이참에 나가실래요?",
+      "ENGLISH": "Well… then how about you do move out?",
+      "CHINESE_SIMPLIFIED": "趁这个机会，你要不要真搬走？",
+      "CHINESE_TRADITIONAL": "還是就趁這個機會搬走呢？",
+      "JAPANESE": "この際、出ます？",
+      "INDONESIAN": "Yaa… gimana kalau kamu beneran pindah aja?",
+      "PORTUGUESE": "E se aproveitar e se mudar agora?",
+      "SPANISH": "¿Y si aprovecha y se muda ahora?",
+      "PERSIAN": "خب... پس چطوری میای بیرون؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "…What?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "…Apa?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "... چی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 11.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 나갈 마음 있다고 하시니까 말씀드리는 건데 ",
+      "ENGLISH": "I’m only saying this since you mentioned you might leave —",
+      "CHINESE_SIMPLIFIED": "不是啦，你自己刚才不是也提了吗",
+      "CHINESE_TRADITIONAL": "不是啦，是因為你說有想搬走的想法，我才這麼說的",
+      "JAPANESE": "いや、出るつもりがあるって言うから言うんですけど",
+      "INDONESIAN": "Aku cuma ngomong gini karena kamu sendiri yang bilang mungkin mau keluar —",
+      "PORTUGUESE": "Não, falo isso porque você comentou que talvez quisesse sair,",
+      "SPANISH": "No, lo digo porque mencionó que tal vez quería irse,",
+      "PERSIAN": "من فقط از زمانی که شما اشاره کردید که ممکنه ترک کنید اینو می گویم -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히 과장님 때문에 저희 하숙집 평균 연령이 좀 높아졌거든요.",
+      "ENGLISH": "but honestly, because of you, our boarding house’s average age has gone up a bit.",
+      "CHINESE_SIMPLIFIED": "老实说，因为佟科长，我们的平均年龄都被拉高了呢",
+      "CHINESE_TRADITIONAL": "說實話，因為課長的關係，合宿公寓的平均年齡都被拉高了",
+      "JAPANESE": "正直、課長のせいでうちの下宿、平均年齢がちょっと上がったんですよ",
+      "INDONESIAN": "tapi jujur aja, gara-gara kamu, rata-rata umur penghuni rumah kos jadi naik dikit.",
+      "PORTUGUESE": "mas, sendo sincero, por sua causa a média de idade na pensão subiu um pouco.",
+      "SPANISH": "pero siendo sincero, por su culpa el promedio de edad en la pensión subió un poco.",
+      "PERSIAN": "اما راستش را بخواهید، به خاطر شما، میانگین سنی پانسیون ما کمی بالا رفته است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 나이가 많아서 나가야 한다고 말하는 거야?",
+      "ENGLISH": "…Are you telling me to leave because I’m old?",
+      "CHINESE_SIMPLIFIED": "你是在说我年纪大就该搬走吗？",
+      "CHINESE_TRADITIONAL": "你是說我年紀大就該搬走嗎？",
+      "JAPANESE": "私が年上だから出ろってこと？",
+      "INDONESIAN": "…Kamu nyuruh aku keluar karena aku tua?!",
+      "PORTUGUESE": "Você tá dizendo que eu devo ir embora porque sou mais velha?",
+      "SPANISH": "¿Me estás diciendo que debo irme porque soy mayor?",
+      "PERSIAN": "... به من می گویید بروم چون پیر شده ام؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "요즘 느낌으로 가려면... 예...",
+      "ENGLISH": "If we want a fresher vibe these days… yeah…",
+      "CHINESE_SIMPLIFIED": "如果想让氛围年轻点的话...是吧",
+      "CHINESE_TRADITIONAL": "如果想讓氣氛年輕一點的話...嗯...",
+      "JAPANESE": "今風にするなら…まぁ、はい…",
+      "INDONESIAN": "Kalau kita mau suasana yang lebih fresh sekarang… ya gitu deh…",
+      "PORTUGUESE": "Se quisermos manter uma vibe mais jovem… bem, sim.",
+      "SPANISH": "Si queremos mantener una vibra más joven… pues, sí.",
+      "PERSIAN": "اگر این روزها حال و هوای تازه تری می خواهیم… بله…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 근데 진짜 이건 그냥 나간다고 하셨으니까",
+      "ENGLISH": "But really — I’m only bringing it up from a business standpoint ",
+      "CHINESE_SIMPLIFIED": "不过我真没别的意思，就是既然你提了",
+      "CHINESE_TRADITIONAL": "不過這真的只是因為妳提到離開，不然我真的沒有其他意思",
+      "JAPANESE": "でもほんと、出るって言ったので",
+      "INDONESIAN": "Tapi serius — ini beneran murni dari sudut pandang bisnis",
+      "PORTUGUESE": "Mas sério, só tô dizendo porque você mesma falou que poderia ir,",
+      "SPANISH": "Pero en serio, solo lo digo porque usted misma dijo que podría irse,",
+      "PERSIAN": "اما واقعا - من اونو فقط از نقطه نظر تجاری مطرح می کنم"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "사업적인 면에서 말씀드리는 거지, 악감정은 없어요.",
+      "ENGLISH": "since you said you might leave. No hard feelings at all.",
+      "CHINESE_SIMPLIFIED": "我从合租的业务角度说说而已，没恶意",
+      "CHINESE_TRADITIONAL": "我才從商業角度説説而已，沒有惡意的",
+      "JAPANESE": "ビジネス的な話をしただけで、悪意はないです",
+      "INDONESIAN": "karena kamu bilang mungkin bakal pergi. Nggak ada maksud jelek, sumpah.",
+      "PORTUGUESE": "tô falando do ponto de vista do negócio, sem má intenção.",
+      "SPANISH": "hablo desde el lado del negocio, sin mala intención.",
+      "PERSIAN": "از زمانی که گفتی ممکنه بروی اصلا احساس سختی نداره"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 30.3
+    },
+    "SCRIPT": {
+      "KOREAN": "차라리 욕을 해!",
+      "ENGLISH": "Then just curse me out instead!",
+      "CHINESE_SIMPLIFIED": "还不如直接骂我呢！",
+      "CHINESE_TRADITIONAL": "你還不如直接罵我吧！",
+      "JAPANESE": "いっそ悪口のほうがまし！",
+      "INDONESIAN": "Kalau gitu maki aku aja sekalian!",
+      "PORTUGUESE": "Que insulto!",
+      "SPANISH": "¡Qué insulto!",
+      "PERSIAN": "سپس به جای اون فقط مرا نفرین کن!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 31.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 과장님...",
+      "ENGLISH": "Oh, Manager…",
+      "CHINESE_SIMPLIFIED": "哎呀，科长～",
+      "CHINESE_TRADITIONAL": "哎呀～課長～",
+      "JAPANESE": "あぁ課長…",
+      "INDONESIAN": "Aduh, Manajer…",
+      "PORTUGUESE": "Ai, chefa Gran…",
+      "SPANISH": "Ay, jefa Gran…",
+      "PERSIAN": "ای مدیر…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "젊은 애들이랑 잘 먹고 잘 살아라, 씨....",
+      "ENGLISH": "Go live happily with your young people then, jeez…",
+      "CHINESE_SIMPLIFIED": "行啦，和年轻人们好好过吧！真是...",
+      "CHINESE_TRADITIONAL": "祝你和那些年輕人過得開心吧！真的是...",
+      "JAPANESE": "若い子たちと仲良くやって、まったく…",
+      "INDONESIAN": "Udah sana hidup bahagia aja sama anak-anak muda kamu itu, hff…",
+      "PORTUGUESE": "Então boa sorte com suas inquilinas jovens, grosseiro…",
+      "SPANISH": "Pues que te vaya bien con tus jóvenes inquilinas, grosero…",
+      "PERSIAN": "برو با جوونت خوشبخت زندگی کن..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 35.2,
+      "HIDE": 37.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 잠깐만~ 감정 상하기 없기예요~",
+      "ENGLISH": "Ah— wait, wait! We agreed no hurt feelings!!",
+      "CHINESE_SIMPLIFIED": "哎～别生气嘛，说好了不放在心上的～",
+      "CHINESE_TRADITIONAL": "哎～等一下～不要生氣嘛～",
+      "JAPANESE": "あ〜ちょっと！気を悪くしないでください〜！",
+      "INDONESIAN": "Ah—tunggu, tunggu! Kita udah janji nggak baperan!!",
+      "PORTUGUESE": "Ah~ espera! Nada de mágoas~!",
+      "SPANISH": "Ah~ ¡un momento! ¡Nada de resentimientos~!",
+      "PERSIAN": "آه - صبر کن، صبر کن! ما توافق کردیم که هیچ احساس صدمه ای نداشته باشیم!!"
+    }
+  }
+]

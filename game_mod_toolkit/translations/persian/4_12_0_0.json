@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니깐 제가 물을 쏟아서 닦는 모습이 ",
+      "ENGLISH": "So basically, the story got exaggerated—",
+      "CHINESE_SIMPLIFIED": "所以说当时我不小心打翻水在擦拭的样子",
+      "CHINESE_TRADITIONAL": "所以說，敏靜小姐當時其實是幫忙擦掉潑出來的水",
+      "JAPANESE": "つまり、水をこぼして拭いているところを",
+      "INDONESIAN": "Jadi intinya, ceritanya jadi dilebay--lebayin",
+      "PORTUGUESE": "Quer dizer que tiraram de contexto a cena",
+      "SPANISH": "¿Quieren decir que sacaron de contexto la escena",
+      "PERSIAN": "بنابراین اساسا، داستان اغراق آمیز شد-"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오히려 민정 님이 갑질하는 것처럼 부풀려졌다는 이야기 아니에요!",
+      "ENGLISH": "because you were just cleaning up the spilled water, it made it look like Min-jung was bossing people around!",
+      "CHINESE_SIMPLIFIED": "反而被夸大曲解成敏静小姐在霸凌我了对吧！",
+      "CHINESE_TRADITIONAL": "反而被誤會成在霸凌嗎！",
+      "JAPANESE": "ミンジョンさんがパワハラしてるみたいに誇張されたってことですよね？",
+      "INDONESIAN": "karena kamu cuma lagi bersihin air yang tumpah, kesannya malah kayak Min-jung nyuruh-nyuruh orang!",
+      "PORTUGUESE": "em que ela tava limpando a água e a acusaram de maus-tratos?",
+      "SPANISH": "dónde estaba limpiando el agua y la acusaron de maltrato?",
+      "PERSIAN": "چون شما فقط آب ریخته شده را تمیز می کردید، به نظر می رسید که مین‌جونگ دارد مردم را در اطراف اداره می کند!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "맞아요...",
+      "ENGLISH": "Yeah…",
+      "CHINESE_SIMPLIFIED": "没错...",
+      "CHINESE_TRADITIONAL": "是啊",
+      "JAPANESE": "そうなんです…",
+      "INDONESIAN": "Iya…",
+      "PORTUGUESE": "Exato...",
+      "SPANISH": "Exacto...",
+      "PERSIAN": "آره…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "죄송해요...",
+      "ENGLISH": "I’m sorry…",
+      "CHINESE_SIMPLIFIED": "对不起...",
+      "CHINESE_TRADITIONAL": "對不起",
+      "JAPANESE": "ごめんなさい…",
+      "INDONESIAN": "Maaf ya…",
+      "PORTUGUESE": "Sinto muito...",
+      "SPANISH": "Lo siento mucho...",
+      "PERSIAN": "متاسفم…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니에요!!! 유정 씨가 사과할 일이 절대 아니에요!",
+      "ENGLISH": "No!!! Yu-jeong, you absolutely don’t need to apologize!",
+      "CHINESE_SIMPLIFIED": "千万别这么说！！！这绝对不是有情小姐需要道歉的事！",
+      "CHINESE_TRADITIONAL": "才不是呢！！！有情妳絕對沒有必要道歉！",
+      "JAPANESE": "違いますよ！！ユジョンさんが謝ることなんて全然ないです！",
+      "INDONESIAN": "Nggak!!! Yu-jeong, kamu sama sekali nggak perlu minta maaf!",
+      "PORTUGUESE": "Não, não! Você não tem nada pelo que se desculpar!",
+      "SPANISH": "¡No, no! ¡Tú no tienes nada de que disculparte!",
+      "PERSIAN": "نه!!! یو-جئونگ، شما مطلقاً نیازی به عذرخواهی ندارید!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 도울 수 있는 일이 있을까요...? ",
+      "ENGLISH": "Is there anything I can do to help…?",
+      "CHINESE_SIMPLIFIED": "有什么我能帮忙的吗...？",
+      "CHINESE_TRADITIONAL": "有什麼是我可以幫忙的嗎？",
+      "JAPANESE": "私に何かできることありますか…？",
+      "INDONESIAN": "Apa ada yang bisa aku bantu…?",
+      "PORTUGUESE": "Tem algo em que eu possa ajudar...?",
+      "SPANISH": "¿Hay algo en lo que pueda ayudar...?",
+      "PERSIAN": "کاری هست که بتوانم کمکی بکنم…؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 24.9
+    },
+    "SCRIPT": {
+      "KOREAN": "음...근데 괜히 유정 씨가 도우려고 했다가",
+      "ENGLISH": "Hmm… but I’m worried that if you try to help,",
+      "CHINESE_SIMPLIFIED": "嗯...不过要是让有情小姐插手帮忙",
+      "CHINESE_TRADITIONAL": "嗯... 不過如果有情妳想要幫忙的話，",
+      "JAPANESE": "うーん…でもユジョンさんが助けようとして",
+      "INDONESIAN": "Hmm… tapi aku khawatir kalau kamu ikut bantu,",
+      "PORTUGUESE": "Hmm... mas fico preocupada que, se você me ajudar,",
+      "SPANISH": "Mmm… pero me preocupa que, si me ayudas,",
+      "PERSIAN": "هوم... اما من نگرانم که اگر سعی کنی کمک کنی،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "팬분들이 해코지 할까 봐. ",
+      "ENGLISH": "the fans might cause trouble.",
+      "CHINESE_SIMPLIFIED": "粉丝们可能会来找麻烦",
+      "CHINESE_TRADITIONAL": "我很擔心妳會被粉絲們惡意攻擊",
+      "JAPANESE": "ファンの人たちに何かされたらって思うと",
+      "INDONESIAN": "nanti fans-fans malah ribut.",
+      "PORTUGUESE": "os fãs acabem indo contra você.",
+      "SPANISH": "los fans se vayan contra ti.",
+      "PERSIAN": "هواداران ممکنه مشکل ایجاد کنند."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 28.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 너무 걱정이에요",
+      "ENGLISH": "That’s what I’m really worried about.",
+      "CHINESE_SIMPLIFIED": "我真的很担心这个",
+      "CHINESE_TRADITIONAL": "我真的很擔心這個",
+      "JAPANESE": "それが心配で…",
+      "INDONESIAN": "Itu yang paling aku takutin.",
+      "PORTUGUESE": "Isso me preocupa bastante.",
+      "SPANISH": "Eso me preocupa bastante.",
+      "PERSIAN": "این چیزی است که من واقعاً نگران اون هستم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 29.5,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니면 유정 씨만 괜찮으면 저희 하숙집에서 당분간 지내실래요?",
+      "ENGLISH": "Or, if you’re okay with it, would you like to stay at our guesthouse for a while?",
+      "CHINESE_SIMPLIFIED": "如果有情小姐不介意的话，要不要暂时先住在我们合租公寓？",
+      "CHINESE_TRADITIONAL": "不然，如果妳不介意，要不要暫時住在我們家？",
+      "JAPANESE": "もしユジョンさんさえ良ければ、しばらくうちの下宿で過ごしませんか？",
+      "INDONESIAN": "Atau, kalau kamu nggak keberatan, gimana kalau kamu tinggal sementara di guesthouse kita?",
+      "PORTUGUESE": "E se você ficasse um tempo na nossa pensão?",
+      "SPANISH": "¿Y si te quedas un tiempo en nuestra casa de huéspedes?",
+      "PERSIAN": "یا اگر با اون مشکلی ندارید، می خواهید مدتی در مهمانخانه ما بمانید؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 35.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어차피 집 청소도 매일 오셔야 하고 ",
+      "ENGLISH": "You’d still have to come clean the house every day anyway—",
+      "CHINESE_SIMPLIFIED": "反正您每天也要来打扫",
+      "CHINESE_TRADITIONAL": " 反正妳每天都要來家裡打掃",
+      "JAPANESE": "どうせ毎日掃除に来るんですし",
+      "INDONESIAN": "Toh kamu juga harus datang tiap hari buat bersih-bersih..",
+      "PORTUGUESE": "De qualquer forma, você vem todos os dias pra limpar,",
+      "SPANISH": "De todas formas vas a venir todos los días a limpiar,",
+      "PERSIAN": "به هر حال هنوز باید بیایید خونه را تمیز کنید -"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 37.5
+    },
+    "SCRIPT": {
+      "KOREAN": "여기서 지내는 건 어때요?",
+      "ENGLISH": "so why not stay here?",
+      "CHINESE_SIMPLIFIED": "不如就住在这里怎么样？",
+      "CHINESE_TRADITIONAL": "不如就住在這裡怎麼樣？",
+      "JAPANESE": "ここに住むのはどうですか？",
+      "INDONESIAN": "jadi kenapa nggak sekalian tinggal di sini aja?",
+      "PORTUGUESE": "então poderia ficar aqui — o que acha?",
+      "SPANISH": "así que podrías quedarte aquí, ¿qué opinas?",
+      "PERSIAN": "پس چرا اینجا نمی مانی؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 37.6,
+      "HIDE": 39.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그 하숙 비용이 어떻게 될까요?",
+      "ENGLISH": "What about the rent?",
+      "CHINESE_SIMPLIFIED": "那住宿费用怎么算呢？",
+      "CHINESE_TRADITIONAL": "但是，房租怎麼算呢？",
+      "JAPANESE": "その下宿代はどうなりますか？",
+      "INDONESIAN": "Terus uang sewanya gimana?",
+      "PORTUGUESE": "E o custo da hospedagem?",
+      "SPANISH": "¿Y el costo del alojamiento?",
+      "PERSIAN": "در مورد اجاره خونه چطور؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 42.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 걱정 마요! 제가 낼게요.",
+      "ENGLISH": "Don’t worry about it! I’ll pay.",
+      "CHINESE_SIMPLIFIED": "这个不用担心！我来付",
+      "CHINESE_TRADITIONAL": "這個妳不用擔心了！我會付的",
+      "JAPANESE": "それは気にしないでください！私が払います",
+      "INDONESIAN": "Nggak usah dipikirin! Aku yang bayar.",
+      "PORTUGUESE": "Não se preocupe com isso! Eu cuido disso.",
+      "SPANISH": "¡No te preocupes por eso! Yo me encargo.",
+      "PERSIAN": "نگرانش نباش! من پرداخت خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 42.1,
+      "HIDE": 43.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니에요!",
+      "ENGLISH": "No!",
+      "CHINESE_SIMPLIFIED": "不行！",
+      "CHINESE_TRADITIONAL": "不好吧！",
+      "JAPANESE": "いいえ！",
+      "INDONESIAN": "Nggak!",
+      "PORTUGUESE": "Não precisa fazer isso!",
+      "SPANISH": "¡No tiene que hacerlo!",
+      "PERSIAN": "نه!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 43.8,
+      "HIDE": 47.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니에요! 나 때문에 유정 씨 고생하는거니깐.",
+      "ENGLISH": "No! You’d be working hard because of me, Yu-jeong.",
+      "CHINESE_SIMPLIFIED": "不！是因为我才让有情小姐受累的",
+      "CHINESE_TRADITIONAL": "不行！都是因為我才讓有情妳這麼辛苦",
+      "JAPANESE": "いいえ！私のせいでユジョンさんが大変なんだから",
+      "INDONESIAN": "Nggak! Kamu bakal overworked gara-gara aku, Yu-jeong.",
+      "PORTUGUESE": "Claro que sim! Você vai ter problemas por minha causa.",
+      "SPANISH": "¡Claro que sí! Vas a tener inconvenientes por mi culpa.",
+      "PERSIAN": "نه! تو به خاطر من سخت کار می کنی، یو-جئونگ."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 47.1,
+      "HIDE": 50.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 내는 게 맞아요. 제가 낼게요 오빠!",
+      "ENGLISH": "It’s only right that I pay. I’ll cover it, Oppa!",
+      "CHINESE_SIMPLIFIED": "应该由我来付。哥哥我来付吧！",
+      "CHINESE_TRADITIONAL": "應該要由我付才對。我來付啦，哥哥！",
+      "JAPANESE": "払うのは私です　私が払います！",
+      "INDONESIAN": "Udah seharusnya aku yang bayar. Aku tanggung, Oppa!",
+      "PORTUGUESE": "É o justo. Eu pago por ela, oppa.",
+      "SPANISH": "Es lo justo. Yo pago por ella, oppa.",
+      "PERSIAN": "درست است که من پرداخت کنم. من اونو پوشش خواهم داد، یومان!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 50.4,
+      "HIDE": 52.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 감사합니다.",
+      "ENGLISH": "Ah, thank you.",
+      "CHINESE_SIMPLIFIED": "啊，谢谢您",
+      "CHINESE_TRADITIONAL": "啊，謝謝妳",
+      "JAPANESE": "あ、ありがとうございます",
+      "INDONESIAN": "Ah, makasih banyak.",
+      "PORTUGUESE": "Ah... muito obrigada.",
+      "SPANISH": "Ah… muchas gracias.",
+      "PERSIAN": "آه، ممنونم"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 52.3,
+      "HIDE": 53.6
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 부탁드려요...",
+      "ENGLISH": "I really appreciate it…",
+      "CHINESE_SIMPLIFIED": "那就拜托您了...",
+      "CHINESE_TRADITIONAL": "那就麻煩妳了...",
+      "JAPANESE": "よろしくお願いします…",
+      "INDONESIAN": "Aku bener-bener makasih banget loh…",
+      "PORTUGUESE": "Pode contar comigo.",
+      "SPANISH": "Cuente conmigo.",
+      "PERSIAN": "واقعا قدردانش هستم…"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 54.5,
+      "HIDE": 57.3
+    },
+    "SCRIPT": {
+      "KOREAN": "머리 다 말랐다. 제가 머리 이쁘게 해줄까요?",
+      "ENGLISH": "Your hair’s dry now. Want me to style it for you?",
+      "CHINESE_SIMPLIFIED": "头发都干了呢。我帮你弄个漂亮的发型吧？",
+      "CHINESE_TRADITIONAL": "既然頭髮都吹乾了。要不要幫妳弄個好看的髮型？",
+      "JAPANESE": "髪、もう乾きましたね　綺麗に整えましょうか？",
+      "INDONESIAN": "Rambutmu udah kering sekarang. Mau aku bantuin styling nggak?",
+      "PORTUGUESE": "Seu cabelo já secou. Posso pentear pra você?",
+      "SPANISH": "Ya se te secó el cabello. ¿Me dejas peinártelo?",
+      "PERSIAN": "موهات الان خشکه میخوای برات مدلش کنم؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 57.4,
+      "HIDE": 58.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã...?",
+      "SPANISH": "¿Eh...?",
+      "PERSIAN": "ها؟"
+    }
+  }
+]

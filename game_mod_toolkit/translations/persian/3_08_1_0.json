@@ -1,0 +1,151 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1
+    },
+    "SCRIPT": {
+      "KOREAN": "남자들은 유나 씨 같은 얼굴 좋아하죠.",
+      "PERSIAN": "مردان چهره هایی مانند یونا را دوست دارند."
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2
+    },
+    "SCRIPT": {
+      "KOREAN": "나?",
+      "PERSIAN": "شما؟"
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 약간 귀여운데 섹시하고, 청순한데 예뻐요.",
+      "PERSIAN": "بله کمی ناز اما سکسی، معصوم اما زیبا."
+    }
+  },
+  {
+    "INDEX": 4,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4
+    },
+    "SCRIPT": {
+      "KOREAN": "또~?",
+      "PERSIAN": "دوباره ~"
+    }
+  },
+  {
+    "INDEX": 5,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5
+    },
+    "SCRIPT": {
+      "KOREAN": "또? ",
+      "PERSIAN": "شما؟"
+    }
+  },
+  {
+    "INDEX": 6,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6
+    },
+    "SCRIPT": {
+      "KOREAN": "또 눈도 이쁘고, 아까 보니깐 손도 이쁘고",
+      "PERSIAN": "درضمن چشمات خوشگله و قبلا دیدمت دستات هم خوشگله."
+    }
+  },
+  {
+    "INDEX": 7,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야! 손은 또 언제 봤데",
+      "PERSIAN": "چی کی دوباره دستاتو دیدی؟"
+    }
+  },
+  {
+    "INDEX": 8,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 유나씨 사람 자체가..",
+      "PERSIAN": "و خود یونا..."
+    }
+  },
+  {
+    "INDEX": 9,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9
+    },
+    "SCRIPT": {
+      "KOREAN": "사랑스러워요",
+      "PERSIAN": "دوست داشتنی است"
+    }
+  },
+  {
+    "INDEX": 10,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10
+    },
+    "SCRIPT": {
+      "KOREAN": "우와! 웃으니깐 더 이쁘네",
+      "PERSIAN": "وای وقتی لبخند میزنی زیباتر میشی"
+    }
+  },
+  {
+    "INDEX": 11,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 어떡하지?",
+      "PERSIAN": "اوه واقعا چیکار کنم"
+    }
+  },
+  {
+    "INDEX": 12,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12
+    },
+    "SCRIPT": {
+      "KOREAN": "어떡하긴 어떡해요 더 예뻐해 주면 되지.",
+      "PERSIAN": "چه کار کنم؟ فقط منو خوشگل تر کن"
+    }
+  },
+  {
+    "INDEX": 13,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13
+    },
+    "SCRIPT": {
+      "KOREAN": "유만씨, 내꿈 꿔요!",
+      "PERSIAN": "آقای یومان، خواب من را ببین!"
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": 6,
+      "PERSIAN": "6"
+    }
+  }
+]

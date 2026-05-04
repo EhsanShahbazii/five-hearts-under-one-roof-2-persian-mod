@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "발표 잘 봤어요??",
+      "ENGLISH": "Did you see my presentation??",
+      "CHINESE_SIMPLIFIED": "你觉得我的汇报怎么样？",
+      "CHINESE_TRADITIONAL": "我簡報發表的還可以嗎？",
+      "JAPANESE": "発表、見てくれました？",
+      "INDONESIAN": "Kamu nonton presentasiku, nggak??",
+      "PORTUGUESE": "Você viu minha apresentação?",
+      "SPANISH": "¿Viste mi presentación?",
+      "PERSIAN": "ارائه من رو دیدی؟؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 연습한 거보다 훨씬 더 잘했어요.",
+      "ENGLISH": "Oh~ you did even better than in practice.",
+      "CHINESE_SIMPLIFIED": "喔～比练习时发挥得好多了！",
+      "CHINESE_TRADITIONAL": "嗯～比練習的時候發多了！",
+      "JAPANESE": "お〜練習の時よりずっとよかったですよ",
+      "INDONESIAN": "Oh~ kamu malah lebih bagus dari waktu latihan.",
+      "PORTUGUESE": "Sim~ você mandou muito melhor do que nos ensaios.",
+      "SPANISH": "Sí~ lo hiciste muchísimo mejor que en los ensayos.",
+      "PERSIAN": "اوه~ شما حتی بهتر از عمل کردید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유나야",
+      "ENGLISH": "Yu-na.",
+      "CHINESE_SIMPLIFIED": "有娜啊",
+      "CHINESE_TRADITIONAL": "有娜啊",
+      "JAPANESE": "ユナ",
+      "INDONESIAN": "Yu-na.",
+      "PORTUGUESE": "Yuna.",
+      "SPANISH": "Yuna.",
+      "PERSIAN": "یو-نا."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마..!",
+      "ENGLISH": "Mom…!",
+      "CHINESE_SIMPLIFIED": "妈妈...！",
+      "CHINESE_TRADITIONAL": "媽媽...！",
+      "JAPANESE": "お母さん…！",
+      "INDONESIAN": "Mom…!",
+      "PORTUGUESE": "Mamãe…!",
+      "SPANISH": "¡Mamá…!",
+      "PERSIAN": "مامان…!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 안녕하세요! 저는 우유만...",
+      "ENGLISH": "Ah! Hello! I’m Woo Yuman…",
+      "CHINESE_SIMPLIFIED": "啊！您好！我是吴宥万...",
+      "CHINESE_TRADITIONAL": "啊，您好！我是吳宥萬...",
+      "JAPANESE": "あっ、こんにちは！僕はウ・ユマンと申します",
+      "INDONESIAN": "Ah! Halo! Aku Woo Yuman…",
+      "PORTUGUESE": "Ah, olá! Eu sou o Yumán Woo…",
+      "SPANISH": "Ah, ¡hola! Soy Yumán Woo…",
+      "PERSIAN": "آه! سلام! من وو یومان هستم…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 맞으시죠?",
+      "ENGLISH": "You’re Yuman, right?",
+      "CHINESE_SIMPLIFIED": "宥万先生对吧？",
+      "CHINESE_TRADITIONAL": "宥萬先生，對吧？",
+      "JAPANESE": "ユマンさん、ですよね？",
+      "INDONESIAN": "Kamu Yuman, kan?",
+      "PORTUGUESE": "Você deve ser o Yumán, certo?",
+      "SPANISH": "Usted debe ser Yumán, ¿cierto?",
+      "PERSIAN": "تو یومان هستی، درسته؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 저를 어떻게...",
+      "ENGLISH": "How did you…",
+      "CHINESE_SIMPLIFIED": "啊...您怎么知道我？",
+      "CHINESE_TRADITIONAL": "啊...您知道我啊？",
+      "JAPANESE": "えっ…僕のことをどうして…",
+      "INDONESIAN": "Kok Ibu tahu…",
+      "PORTUGUESE": "Ah… me conhece…?",
+      "SPANISH": "Ah… ¿me conoce…?",
+      "PERSIAN": "چطوری…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마니까요. 우리 딸이 어디서 지내는진 알아야죠.",
+      "ENGLISH": "I’m her mother. Of course I should know where my daughter’s been staying.",
+      "CHINESE_SIMPLIFIED": "因为我是她妈妈呀，我当然得知道女儿住在哪里",
+      "CHINESE_TRADITIONAL": "因為我是她媽媽啊，當然要知道女兒住在哪裡",
+      "JAPANESE": "母親ですから 娘がどこで過ごしてるかくらい知っておかないと",
+      "INDONESIAN": "Aku ibunya. Tentu aja aku harus tahu di mana anakku tinggal.",
+      "PORTUGUESE": "Sou a mãe dela. Tenho que saber onde minha filha mora.",
+      "SPANISH": "Soy su madre. Tengo que saber dónde vive mi hija.",
+      "PERSIAN": "من مادرش هستم البته باید بدانم دخترم کجا اقامت دارد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah…",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ah…",
+      "PORTUGUESE": "Ah…",
+      "SPANISH": "Ah…",
+      "PERSIAN": "آه…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 오늘 발표도 유만 씨 도움이 큰 거 같더라고요.",
+      "ENGLISH": "And from what I saw today, it looked like your help played a big role in her presentation.",
+      "CHINESE_SIMPLIFIED": "还有，今天的汇报，好像也多亏了宥万先生帮忙",
+      "CHINESE_TRADITIONAL": "而且，今天簡報的發表，好像也多虧宥萬先生的幫忙",
+      "JAPANESE": "それに今日の発表も、ユマンさんの助けが大きかったみたいね",
+      "INDONESIAN": "Dan dari yang Ibu lihat hari ini, bantuanmu kelihatan berperan besar di presentasinya.",
+      "PORTUGUESE": "E pelo que vi, acho que sua ajuda foi muito importante pra apresentação de hoje.",
+      "SPANISH": "Y por lo que vi, creo que tu ayuda fue muy importante para la presentación de hoy.",
+      "PERSIAN": "و از آنچه امروز دیدم، به نظر می رسید که کمک شما نقش مهمی در ارائه او داشت."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이... 아니에요....!",
+      "ENGLISH": "Oh… no, not at all…!",
+      "CHINESE_SIMPLIFIED": "哎呀...没有啦....！",
+      "CHINESE_TRADITIONAL": "啊...沒有啦...！",
+      "JAPANESE": "いえいえ、そんな…！",
+      "INDONESIAN": "Oh… nggak kok, nggak juga…!",
+      "PORTUGUESE": "Ah, não… não foi nada…",
+      "SPANISH": "Ah, no… no fue nada…",
+      "PERSIAN": "اوه... نه اصلاً...!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 우리 유나랑은 어떤 관계시죠?",
+      "ENGLISH": "So — what exactly is your relationship with my Yu-na?",
+      "CHINESE_SIMPLIFIED": "所以，你和我们有娜是什么关系？",
+      "CHINESE_TRADITIONAL": "所以，你和我們有娜是什麼關係呢？",
+      "JAPANESE": "それで、あなたとユナはどういう関係なの？",
+      "INDONESIAN": "Jadi — kamu ini sebenernya siapa buat Yu-na?",
+      "PORTUGUESE": "Então, que tipo de relação você tem com a minha Yuna?",
+      "SPANISH": "Entonces, ¿qué clase de relación tienes con mi Yuna?",
+      "PERSIAN": "بنابراین - دقیقاً چه رابطه ای با یونا من دارید؟"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "실수하면 안 되는 거 아는데",
+      "ENGLISH": "I know I can't afford to make a mistake,",
+      "CHINESE_SIMPLIFIED": "虽然知道不能出错",
+      "CHINESE_TRADITIONAL": "雖然知道不能出錯",
+      "JAPANESE": "失敗しちゃダメなのはわかってるけど、",
+      "INDONESIAN": "Aku tahu nggak boleh salah",
+      "PORTUGUESE": "Eu sei que não posso errar,",
+      "SPANISH": "Sé que no puedo equivocarme,",
+      "PERSIAN": "می‌دونم که نمی‌تونم از پسِ اشتباه کردن بربیایم،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "자꾸만 긴장 돼요...",
+      "ENGLISH": "but I keep getting nervous...",
+      "CHINESE_SIMPLIFIED": "可还是会一直紧张...",
+      "CHINESE_TRADITIONAL": "但還是會一直緊張...",
+      "JAPANESE": "どうしても緊張しちゃうんです…",
+      "INDONESIAN": "Tapi tetep aja rasanya deg-degan terus...",
+      "PORTUGUESE": "mas isso não ajuda a me acalmar…",
+      "SPANISH": "pero eso no ayuda a calmarme....",
+      "PERSIAN": "اما مدام عصبی میشم..."
+    }
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 방은 어떻게 할 거야?",
+      "ENGLISH": "What’re you going to do about Min-jung’s room?",
+      "CHINESE_SIMPLIFIED": "敏静的房间要怎么安排呢？",
+      "CHINESE_TRADITIONAL": "敏靜妳要住哪間房間呢？",
+      "JAPANESE": "ミンジョンさんの部屋、どうします？",
+      "INDONESIAN": "Kamu mau gimana soal kamarnya Min-jung?",
+      "PORTUGUESE": "Minjung, qual quarto você quer usar?",
+      "SPANISH": "¿Minjung, que habitación quieres usar?",
+      "PERSIAN": "در مورد اتاق مین‌جونگ می خواهید چه کار کنید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "방은 저 원래 그냥 쓰던 방 하면 되지 않을까요?",
+      "ENGLISH": "I thought you’d just take the room you used before.",
+      "CHINESE_SIMPLIFIED": "我住原来那个房间就可以吧？",
+      "CHINESE_TRADITIONAL": "我住原本那間就可以了吧？",
+      "JAPANESE": "部屋は…前に使ってた部屋でいいんじゃないですか？",
+      "INDONESIAN": "Kupikir kamu bakal pakai kamar yang dulu kamu tempatin.",
+      "PORTUGUESE": "Posso usar o que eu ocupava antes?",
+      "SPANISH": "¿Podría usar la que solía ocupar antes?",
+      "PERSIAN": "فکر کردم فقط اتاقی را که قبلا استفاده می کردی می گیری."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 근데 거기는 지금 유나 씨가 쓰고 있어요.",
+      "ENGLISH": "But Yuna’s currently using that room.",
+      "CHINESE_SIMPLIFIED": "啊，不过，那里现在是有娜在住呢",
+      "CHINESE_TRADITIONAL": "啊，可是那間現在是有娜小姐在用",
+      "JAPANESE": "あ、でもそこ、今はユナさんが使ってます",
+      "INDONESIAN": "Tapi kamar itu sekarang dipakai Yuna.",
+      "PORTUGUESE": "Ah, mas no momento quem tá usando aquele é a Yuna.",
+      "SPANISH": "Ah, pero ahora mismo esa la está usando Yuna.",
+      "PERSIAN": "اما یونا در حال حاضر از اون اتاق استفاده می کند."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨? ",
+      "ENGLISH": "Yuna?",
+      "CHINESE_SIMPLIFIED": "有娜？",
+      "CHINESE_TRADITIONAL": "有娜？",
+      "JAPANESE": "ユナさん？",
+      "INDONESIAN": "Yuna?",
+      "PORTUGUESE": "Yuna?",
+      "SPANISH": "¿Yuna?",
+      "PERSIAN": "یونا؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저요?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我吗？",
+      "CHINESE_TRADITIONAL": "叫我嗎？",
+      "JAPANESE": "私ですか？",
+      "INDONESIAN": "Aku?",
+      "PORTUGUESE": "Eu?",
+      "SPANISH": "¿Yo?",
+      "PERSIAN": "من؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 언제부터 여기 계셨어요..? ",
+      "ENGLISH": "Huh… since when have you been here…?",
+      "CHINESE_SIMPLIFIED": "诶？你什么时候在这的...？",
+      "CHINESE_TRADITIONAL": "欸？妳什麼時候在這的…？",
+      "JAPANESE": "あれ？ いつからここにいたんですか…？",
+      "INDONESIAN": "Hah... sejak kapan kamu di sini...?",
+      "PORTUGUESE": "Hã? Desde quando você tá aqui...?",
+      "SPANISH": "¿Eh? ¿Desde cuándo estás aquí…?",
+      "PERSIAN": "ها... از کی اینجا بودی...؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "죄송해요~ 제가 정신이 없어서  ",
+      "ENGLISH": "I’m sorry—I’ve been out of it lately.",
+      "CHINESE_SIMPLIFIED": "不好意思哦~我都没注意到",
+      "CHINESE_TRADITIONAL": "抱歉～我剛剛沒有注意到",
+      "JAPANESE": "すみません〜 ちょっとバタバタしてて",
+      "INDONESIAN": "Maaf ya—belakangan aku agak linglung.",
+      "PORTUGUESE": "Ah, desculpa~ andei tão distraído que nem percebi.",
+      "SPANISH": "Ay, perdón~ he estado tan distraído que ni me di cuenta.",
+      "PERSIAN": "متاسفم - من اخیراً از اون خارج شده ام."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 괜찮아요 ",
+      "ENGLISH": "Ah, that’s okay.",
+      "CHINESE_SIMPLIFIED": "啊没关系",
+      "CHINESE_TRADITIONAL": "沒關係",
+      "JAPANESE": "あ、大丈夫ですよ",
+      "INDONESIAN": "Ah, nggak apa-apa kok.",
+      "PORTUGUESE": "Ah, tudo bem.",
+      "SPANISH": "Ah, no pasa nada.",
+      "PERSIAN": "آه، اشکالی ندارد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저 민정님 노래 진짜 좋아해요",
+      "ENGLISH": "I really like your singing, Min-jung.",
+      "CHINESE_SIMPLIFIED": "我真的很喜欢敏静小姐的歌",
+      "CHINESE_TRADITIONAL": "我超喜歡敏靜小姐的歌！",
+      "JAPANESE": "私、ミンジョンさんの歌ほんとに大好きなんです！",
+      "INDONESIAN": "Aku suka banget denger kamu nyanyi, Min-jung.",
+      "PORTUGUESE": "Sou super fã das suas músicas, Minjung.",
+      "SPANISH": "Soy muy fan de tus canciones, Minjung.",
+      "PERSIAN": "من آواز شما را خیلی دوست دارم، مین‌جونگ."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 25.3
+    },
+    "SCRIPT": {
+      "KOREAN": "여기서 이렇게 볼 줄은 상상도 못 했어요 ",
+      "ENGLISH": "Never imagined I’d see you here like this.",
+      "CHINESE_SIMPLIFIED": "没想到能在这里见到你！",
+      "CHINESE_TRADITIONAL": "沒想到會在這邊見到妳",
+      "JAPANESE": "まさかここで会えるなんて、思ってもみませんでした",
+      "INDONESIAN": "Nggak nyangka bisa ketemu kamu langsung kayak gini.",
+      "PORTUGUESE": "Nunca imaginei te ver pessoalmente aqui.",
+      "SPANISH": "Jamás imaginé verte aquí en persona.",
+      "PERSIAN": "هرگز تصور نمی کردم تو را اینگونه اینجا ببینم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "감사해요..",
+      "ENGLISH": "Thank you…",
+      "CHINESE_SIMPLIFIED": "谢谢...",
+      "CHINESE_TRADITIONAL": "謝謝…",
+      "JAPANESE": "ありがとう…",
+      "INDONESIAN": "Makasih…",
+      "PORTUGUESE": "Obrigada…",
+      "SPANISH": "Gracias…",
+      "PERSIAN": "ممنون…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 잘 지내봐요!",
+      "ENGLISH": "Let’s try living together well from now on!",
+      "CHINESE_SIMPLIFIED": "以后请多关照！",
+      "CHINESE_TRADITIONAL": "我們以後好好相處吧！        ",
+      "JAPANESE": "これから仲良くしましょうね",
+      "INDONESIAN": "Yuk, mulai sekarang kita coba hidup bareng dengan baik, ya!",
+      "PORTUGUESE": "Espero que a gente se dê bem daqui pra frente.",
+      "SPANISH": "Espero que nos llevemos bien de ahora en adelante.",
+      "PERSIAN": "از این به بعد سعی کنیم با هم خوب زندگی کنیم!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.7,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 유나 씨는 무슨 일하세요? ",
+      "ENGLISH": "By the way—what do you do, Yuna?",
+      "CHINESE_SIMPLIFIED": "不过有娜小姐是做什么的？",
+      "CHINESE_TRADITIONAL": "有娜小姐是做什麼的呢？",
+      "JAPANESE": "ところでユナさんって、どんなお仕事されてるんですか？",
+      "INDONESIAN": "Ngomong-ngomong—kamu ngapain di sini, Yuna?",
+      "PORTUGUESE": "Mas, Yuna, com o que você trabalha?",
+      "SPANISH": "Pero, Yuna, ¿a qué te dedicas?",
+      "PERSIAN": "در ضمن، یونا، چه کار می کنی؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 33.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 저 유만 씨, 전담 케어 하러 왔어요 ",
+      "ENGLISH": "Oh, I came to care for Yuman full-time.",
+      "CHINESE_SIMPLIFIED": "啊～我是来专门照顾宥万先生的",
+      "CHINESE_TRADITIONAL": "啊～我是因為宥萬先生，專門來照顧他的",
+      "JAPANESE": "あ～私、ユマンさんの専属ケアしに来ました",
+      "INDONESIAN": "Oh, aku ke sini buat ngurusin Yuman full-time.",
+      "PORTUGUESE": "Ah~ vim cuidar do bem-estar do Yumán.",
+      "SPANISH": "Ah~ vine a encargarme del cuidado personal de Yumán.",
+      "PERSIAN": "اوه، من آمدم تا از یومان به طور تمام وقت مراقبت کنم."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 34.3,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네...? 왜..요?",
+      "ENGLISH": "Huh…? Why…?",
+      "CHINESE_SIMPLIFIED": "啊....？为什么...？",
+      "CHINESE_TRADITIONAL": "嗯…？為什麼…？",
+      "JAPANESE": "えっ…なんで…？",
+      "INDONESIAN": "Hah...? Kenapa...?",
+      "PORTUGUESE": "Hã...? Por quê...?",
+      "SPANISH": "¿Eh…? ¿Por qué…?",
+      "PERSIAN": "ها…؟ چرا…؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 36.1,
+      "HIDE": 36.8
+    },
+    "SCRIPT": {
+      "KOREAN": "음..",
+      "ENGLISH": "Hmm…",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm…",
+      "PORTUGUESE": "Hmm…",
+      "SPANISH": "Hmm…",
+      "PERSIAN": "هوم…"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 41.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼..! 그 민정 님 원래방 말고 위에 방 쓰셔야 될 거 같아요.",
+      "ENGLISH": "Anyway… I think you should take the upstairs room, not your old one.",
+      "CHINESE_SIMPLIFIED": "总之！敏静，你可能只能用楼上的房间了",
+      "CHINESE_TRADITIONAL": "總之…！敏靜，妳可能只能用樓上的房間了",
+      "JAPANESE": "まぁ、とにかく！ ミンジョンさんは前の部屋じゃなくて、上の部屋を使ったほうがいいと思います",
+      "INDONESIAN": "Ya udah... menurutku kamu mending ambil kamar lantai atas aja, bukan yang lama.",
+      "PORTUGUESE": "Enfim, então a Minjung podia ficar com o quarto de cima em vez do anterior!",
+      "SPANISH": "En fin, ¡entonces Minjung debería usar la habitación de arriba en lugar de la anterior!",
+      "PERSIAN": "به هر حال... من فکر می کنم شما باید به اتاق طبقه بالا بروید، نه اتاق قدیمی خود را."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 44.5
+    },
+    "SCRIPT": {
+      "KOREAN": "전 어디든 좋아요",
+      "ENGLISH": "I’m fine wherever.",
+      "CHINESE_SIMPLIFIED": "我住哪里都可以",
+      "CHINESE_TRADITIONAL": "我住哪裡都可以",
+      "JAPANESE": "私はどこでも大丈夫です",
+      "INDONESIAN": "Aku sih bebas di mana aja.",
+      "PORTUGUESE": "Por mim, tudo bem.",
+      "SPANISH": "Por mí no hay problema.",
+      "PERSIAN": "هرجا حالم خوبه"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 48.9
+    },
+    "SCRIPT": {
+      "KOREAN": "음..윗방? 그냥 같이 올라가서 보는 게 어때?",
+      "ENGLISH": "Hmm… the upstairs room? Why don’t we just go see it together?",
+      "CHINESE_SIMPLIFIED": "嗯...楼上房间？要不一起上去看看吧？",
+      "CHINESE_TRADITIONAL": "嗯…樓上房間嗎？一起上去看看如何？",
+      "JAPANESE": "上の部屋？ じゃあ一緒に見に行ってみようか？",
+      "INDONESIAN": "Hmm... kamar lantai atas ya? Gimana kalau kita lihat bareng-bareng aja?",
+      "PORTUGUESE": "Hmm… o de cima? Que tal subirmos juntos pra ver?",
+      "SPANISH": "Hmm… ¿la de arriba? ¿Y si subimos juntos a verla?",
+      "PERSIAN": "هوم... اتاق طبقه بالا؟ چرا با هم نمی‌بینیم؟"
+    }
+  }
+]

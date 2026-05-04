@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.3
+    },
+    "SCRIPT": {
+      "KOREAN": "기억나지. ",
+      "ENGLISH": "I remember now.",
+      "CHINESE_SIMPLIFIED": "记得啊",
+      "CHINESE_TRADITIONAL": "我記得啊",
+      "JAPANESE": "覚えてるさ",
+      "INDONESIAN": "Aku inget kok.",
+      "PORTUGUESE": "Agora eu lembrei.",
+      "SPANISH": "Claro que me acuerdo.",
+      "PERSIAN": "الان یادم اومد!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너 분홍색 입었었잖아.",
+      "ENGLISH": "You were wearing pink.",
+      "CHINESE_SIMPLIFIED": "你那时候穿的是粉色的吧？",
+      "CHINESE_TRADITIONAL": "你穿粉紅色的啊",
+      "JAPANESE": "お前、ピンク着てただろ",
+      "INDONESIAN": "Kamu pakai yang warna pink, kan.",
+      "PORTUGUESE": "Você tava de rosa.",
+      "SPANISH": "Llevabas uno rosa.",
+      "PERSIAN": "صورتی پوشیده بودی!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "바꿀 기회 한 번 더 줄게.",
+      "ENGLISH": "I’ll give you one more chance to change your answer.",
+      "CHINESE_SIMPLIFIED": "给你一次改答案的机会",
+      "CHINESE_TRADITIONAL": "再給你一次可以修改的機會",
+      "JAPANESE": "訂正するチャンスもう一回あげる",
+      "INDONESIAN": "Aku kasih kamu satu kesempatan lagi buat ganti jawaban.",
+      "PORTUGUESE": "Vou te dar mais uma chance pra mudar essa resposta.",
+      "SPANISH": "Te voy a dar otra oportunidad para corregir.",
+      "PERSIAN": "یه فرصت دیگه بهت می‌دم جوابت رو عوض کنی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "안 바꿔~",
+      "ENGLISH": "Nope, not changing it.",
+      "CHINESE_SIMPLIFIED": "我不改~",
+      "CHINESE_TRADITIONAL": "我不要改～",
+      "JAPANESE": "変えない〜",
+      "INDONESIAN": "Nggak mau, tetap itu!",
+      "PORTUGUESE": "Não, não vou mudar.",
+      "SPANISH": "¡No voy a cambiar mi respuesta!",
+      "PERSIAN": "عوض نمی‌کنم، خیالم راحته!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "너 그 베이비 핑크? 뭐 그런 거 입었잖아.",
+      "ENGLISH": "You had on that baby pink or whatever, right?",
+      "CHINESE_SIMPLIFIED": "你不是穿的那种婴儿粉吗？",
+      "CHINESE_TRADITIONAL": "你不是穿了那個嬰兒粉嗎？",
+      "JAPANESE": "お前あのベビーピンク？みたいなの着てただろ",
+      "INDONESIAN": "Kamu tuh yang pakai baby pink? Atau semacam itulah.",
+      "PORTUGUESE": "Você tava com aquele rosa bebê ou sei lá, né?",
+      "SPANISH": "Era rosa clarito, ¿baby pink?, algo así.",
+      "PERSIAN": "از اون صورتی لایت‌های خوشگل تنت بود دیگه، مگه نه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그거 박민정이 입은 거 잖아...",
+      "ENGLISH": "Uh, that was Min-jung…",
+      "CHINESE_SIMPLIFIED": "啊，那不是我，是朴敏静啊",
+      "CHINESE_TRADITIONAL": "啊，那個不是我，是樸敏靜",
+      "JAPANESE": "あ、それパク・ミンジョンが着てたやつじゃん…",
+      "INDONESIAN": "Eh, itu kan yang dipakai Min-jung…",
+      "PORTUGUESE": "Uh, essa era a Min-jung…",
+      "SPANISH": "¡Ese lo llevaba Min-jung!",
+      "PERSIAN": "اون که لباس پارک مین‌جونگ بود بدبخت..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그 밍밍인가 뭔가.",
+      "ENGLISH": "Or Mingming, or whatever her name was.",
+      "CHINESE_SIMPLIFIED": "那个叫什么敏敏的",
+      "CHINESE_TRADITIONAL": "那個叫什麼咪咪的",
+      "JAPANESE": "あのミンミンとかいう子",
+      "INDONESIAN": "Si Ming-ming atau siapa itu.",
+      "PORTUGUESE": "Ou Ming-ming, sei lá qual era o nome dela.",
+      "SPANISH": "Ming-ming o como se llame.",
+      "PERSIAN": "همون مینگ‌مینگ یا هر کوفتی که اسمش بود!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다....",
+      "ENGLISH": "Oh, right…",
+      "CHINESE_SIMPLIFIED": "啊对哦…",
+      "CHINESE_TRADITIONAL": "啊對喔…",
+      "JAPANESE": "あ、そうだっけ…",
+      "INDONESIAN": "Ah, iya ya…",
+      "PORTUGUESE": "Ah, verdade…",
+      "SPANISH": "Ah, cierto…",
+      "PERSIAN": "آخ راست می‌گی... مینگ‌مینگ بود..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그 하숙집 나간 밍밍이 또 보고 싶어??",
+      "ENGLISH": "Do you still want to see that Ming-ming who moved out of the boarding house?",
+      "CHINESE_SIMPLIFIED": "怎么了？突然想念已经搬出去的敏敏了吗？",
+      "CHINESE_TRADITIONAL": "怎麼？你還想再見那個搬出去的敏敏嗎？",
+      "JAPANESE": "その下宿から出てったミンミン、また会いたいの？",
+      "INDONESIAN": "Kamu masih pengin ketemu Ming-ming yang udah keluar dari rumah kos itu?",
+      "PORTUGUESE": "Você ainda quer ver aquela Ming-ming que se mudou da pensão?",
+      "SPANISH": "¿Todavía extrañas a esa Ming-ming?",
+      "PERSIAN": "نکنه هنوزم دلت پیش اون مینگ‌مینگیه که از پانسیون رفت؟! ها؟!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "보고 싶긴 해.",
+      "ENGLISH": "…Yeah, I kinda do.",
+      "CHINESE_SIMPLIFIED": "是有点想",
+      "CHINESE_TRADITIONAL": "是有點想念",
+      "JAPANESE": "会いたいよ",
+      "INDONESIAN": "Iya… pengin sih.",
+      "PORTUGUESE": "…É, meio que quero.",
+      "SPANISH": "La verdad sí la extraño un poco.",
+      "PERSIAN": "راستش... یکم دلم براش تنگ شده."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이씨...",
+      "ENGLISH": "Unbelievable…",
+      "CHINESE_SIMPLIFIED": "你真是…",
+      "CHINESE_TRADITIONAL": "你這傢伙...",
+      "JAPANESE": "このやつ…",
+      "INDONESIAN": "Ish… dasar!",
+      "PORTUGUESE": "Inacreditável…",
+      "SPANISH": "¡Ugh…!",
+      "PERSIAN": "کوفت و دلم تنگ شده! بی‌تربیت..."
+    }
+  }
+]

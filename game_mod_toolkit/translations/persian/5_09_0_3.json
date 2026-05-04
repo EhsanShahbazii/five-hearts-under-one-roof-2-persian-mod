@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오른쪽이 맞는 것 같아요.",
+      "ENGLISH": "I think it’s this way—on the right.",
+      "CHINESE_SIMPLIFIED": "好像是右边没错",
+      "CHINESE_TRADITIONAL": "好像往左邊走才對",
+      "JAPANESE": "右の方で合ってる気がします",
+      "INDONESIAN": "Kayaknya lewat sini deh—ke kanan.",
+      "PORTUGUESE": "Acho que é pela direita.",
+      "SPANISH": "Creo que es por la derecha.",
+      "PERSIAN": "فکر می‌کنم به این صورت است - سمت راست."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 복도에 아무것도 없고 조용하네요.",
+      "ENGLISH": "But yeah, the hallway’s totally empty and quiet.",
+      "CHINESE_SIMPLIFIED": "不过这走廊空荡荡的，好安静啊",
+      "CHINESE_TRADITIONAL": "嗯...但走廊上什麼也沒有，好安靜",
+      "JAPANESE": "でも廊下には何もなくて静かですね",
+      "INDONESIAN": "Tapi iya sih, lorongnya kosong banget dan sepi.",
+      "PORTUGUESE": "Esse corredor tá muito vazio e silencioso.",
+      "SPANISH": "Este pasillo estámuy  vacío y silencioso.",
+      "PERSIAN": "اما بله، راهرو کاملاً خالی و ساکت است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 뭐예요오!",
+      "ENGLISH": "Ah—what was that?!",
+      "CHINESE_SIMPLIFIED": "啊，什么呀！",
+      "CHINESE_TRADITIONAL": "啊，搞什麼啊！",
+      "JAPANESE": "あ、なにですかぁ！",
+      "INDONESIAN": "Ah—apa tuh barusan?!",
+      "PORTUGUESE": "Ai, o que foi isso?!",
+      "SPANISH": "¡Ay, ¿qué fue eso?!",
+      "PERSIAN": "آه-این چی بود؟!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 긴장 풀어요!",
+      "ENGLISH": "Come on~ relax a little!",
+      "CHINESE_SIMPLIFIED": "哎呦~放松点啦！",
+      "CHINESE_TRADITIONAL": "哎～ 放輕鬆點！",
+      "JAPANESE": "いや〜力抜いてください！",
+      "INDONESIAN": "Ayolah~ selow aja kali!",
+      "PORTUGUESE": "Eii~ relaxa.",
+      "SPANISH": "Eey~ relájate.",
+      "PERSIAN": "بیا ~ کمی استراحت کن!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "장난치지 마요오...",
+      "ENGLISH": "Don’t mess around like that…",
+      "CHINESE_SIMPLIFIED": "别吓我啦...",
+      "CHINESE_TRADITIONAL": "不要再開玩笑了...",
+      "JAPANESE": "からかわないでくださいよぉ…",
+      "INDONESIAN": "Jangan becanda kayak gitu dong…",
+      "PORTUGUESE": "Não me assusta assim...",
+      "SPANISH": "No me asustes así…",
+      "PERSIAN": "اینجوری قاطی نکن…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나 원래 공포영화도 잘 못 보고,",
+      "ENGLISH": "I can’t even watch horror movies…",
+      "CHINESE_SIMPLIFIED": "我本来就连恐怖片都不敢看",
+      "CHINESE_TRADITIONAL": "本來就不敢看恐怖片",
+      "JAPANESE": "私、もともとホラー映画とかも全然見れなくて",
+      "INDONESIAN": "Nonton film horor aja aku nggak berani…",
+      "PORTUGUESE": "Nem consigo ver filmes de terror,",
+      "SPANISH": "Ni siquiera puedo ver películas de terror,",
+      "PERSIAN": "من حتی نمیتونم فیلم ترسناک ببینم…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "귀신 이런 거 엄청 무서워한단 말이에요...",
+      "ENGLISH": "I get super scared of ghosts and stuff…",
+      "CHINESE_SIMPLIFIED": "一提到鬼什么的我就害怕...",
+      "CHINESE_TRADITIONAL": "也超級怕鬼這種東西...",
+      "JAPANESE": "幽霊とかほんと苦手なんですよ…",
+      "INDONESIAN": "Aku tuh gampang banget takut sama hal-hal kayak hantu…",
+      "PORTUGUESE": "porque eu morro de medo de fantasmas e essas coisas...",
+      "SPANISH": "porque me dan muchísimo miedo los fantasmas y esas cosas…",
+      "PERSIAN": "من خیلی از ارواح و چیزهای دیگر می ترسم…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 진짜요...?",
+      "ENGLISH": "Wait, seriously…?",
+      "CHINESE_SIMPLIFIED": "啊，真的吗...？",
+      "CHINESE_TRADITIONAL": "啊，真的嗎...？",
+      "JAPANESE": "あ、そうなんですか…？",
+      "INDONESIAN": "Eh, serius…?",
+      "PORTUGUESE": "Ah, é mesmo...?",
+      "SPANISH": "¿Ah, en serio…?",
+      "PERSIAN": "صبر کن جدی…؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 아까 깨울 때 말을 하시지...",
+      "ENGLISH": "Then you should’ve said something when I woke you up…",
+      "CHINESE_SIMPLIFIED": "那刚才叫醒你的时候怎么不说...",
+      "CHINESE_TRADITIONAL": "那你剛才叫我的時候就應該說啊...",
+      "JAPANESE": "じゃあさっき起こしたとき言ってくれればよかったのに",
+      "INDONESIAN": "Harusnya kamu bilang dong pas aku bangunin tadi…",
+      "PORTUGUESE": "Por que não me disse isso quando eu te chamei?",
+      "SPANISH": "¿Por qué no me lo dijiste cuando te desperté?",
+      "PERSIAN": "پس وقتی بیدارت کردم باید چیزی میگفتی…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠가 부탁하는데 어떡해요오...",
+      "ENGLISH": "How could I say no when you were the one asking…?",
+      "CHINESE_SIMPLIFIED": "哥哥拜托我的事我怎么能拒绝嘛...",
+      "CHINESE_TRADITIONAL": "可是哥哥你都拜託我了，我還能怎麼辦...",
+      "JAPANESE": "お兄さんに頼まれたら断れないじゃないですかぁ…",
+      "INDONESIAN": "Gimana bisa nolak… soalnya kamu yang minta…",
+      "PORTUGUESE": "Porque você me pediu pra te acompanhar, oppa.",
+      "SPANISH": "Porque me pediste que te acompañara, oppa",
+      "PERSIAN": "چطور می‌توانستم بگویم نه وقتی تو بودی که می‌پرسید...؟"
+    }
+  }
+]

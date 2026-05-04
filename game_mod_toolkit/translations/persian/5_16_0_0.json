@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.07
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 일어났어??",
+      "ENGLISH": "Oh, you're awake?",
+      "CHINESE_SIMPLIFIED": "呃，醒啦？",
+      "CHINESE_TRADITIONAL": "哦，醒啦？",
+      "JAPANESE": "あ、起きた？",
+      "INDONESIAN": "Oh, kamu udah bangun?",
+      "PORTUGUESE": "Oh, acordou?",
+      "SPANISH": "Oh, ¿despertaste?",
+      "PERSIAN": "اوه، تو بیداری؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.08,
+      "HIDE": 5.17
+    },
+    "SCRIPT": {
+      "KOREAN": "어...  어! 근데 칼은 좀 내려놓고 얘기할까...?",
+      "ENGLISH": "Uh… y-yeah! But hey, maybe let's talk without the knife first...?",
+      "CHINESE_SIMPLIFIED": "啊...啊！不过我们能先把刀放下再说话吗...？",
+      "CHINESE_TRADITIONAL": "呃…嗯！不過能不能先把刀放下來再說話…？",
+      "JAPANESE": "ああ…お、おう！でもさ、ナイフは置いて話そうか…？",
+      "INDONESIAN": "Uh… i-iya! Tapi eh, gimana kalau kita ngobrol tanpa pisau dulu ya...?",
+      "PORTUGUESE": "Ah... sim! Mas, por que não abaixa a faca antes de falar...?",
+      "SPANISH": "Eh... ¡Sí! Pero, ¿por qué no bajas el cuchillo antes de hablar…?",
+      "PERSIAN": "اوه... آره! اما هی، شاید اول بدون چاقو صحبت کنیم...؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.18,
+      "HIDE": 6.12
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.06,
+      "HIDE": 9.29
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 열은 좀 내려간 건가...?",
+      "ENGLISH": "Looks like your fever's gone down a bit...",
+      "CHINESE_SIMPLIFIED": "不过烧好像退了些...？",
+      "CHINESE_TRADITIONAL": "有退燒了嗎？",
+      "JAPANESE": "でも熱はちょっと下がったかな…？",
+      "INDONESIAN": "Kelihatannya demammu udah agak turun...",
+      "PORTUGUESE": "A febre já diminuiu um pouco...?",
+      "SPANISH": "¿Ya te bajó un poco la fiebre...?",
+      "PERSIAN": "انگار تبت کم شده..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.07,
+      "HIDE": 12.07
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 컨디션은 어때요?",
+      "ENGLISH": "How are you feeling, Yuman?",
+      "CHINESE_SIMPLIFIED": "宥万先生，你现在感觉怎么样？",
+      "CHINESE_TRADITIONAL": "你現在感覺怎麼樣，宥萬？",
+      "JAPANESE": "ユマンさん、体調どうです？",
+      "INDONESIAN": "Gimana rasanya sekarang, Yuman?",
+      "PORTUGUESE": "Como você tá se sentindo, Yuman?",
+      "SPANISH": "¿Cómo te sientes, Yuman?",
+      "PERSIAN": "چه احساسی داری یومان؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.17,
+      "HIDE": 14.16
+    },
+    "SCRIPT": {
+      "KOREAN": "아...네 좋은 거 같은데요...?",
+      "ENGLISH": "Ah… I think I’m okay? Feeling pretty good, actually.",
+      "CHINESE_SIMPLIFIED": "啊...好像还不错...？",
+      "CHINESE_TRADITIONAL": "啊…嗯，好像還好…？",
+      "JAPANESE": "あ…はい、たぶん大丈夫です…",
+      "INDONESIAN": "Ah… kayaknya aku udah oke? Malah lumayan enakan, sih.",
+      "PORTUGUESE": "Ah... sim, acho que melhor...",
+      "SPANISH": "Ah... sí, creo que mejor...",
+      "PERSIAN": "آه... فکر کنم خوبم؟ در واقع احساس بسیار خوبی دارد."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.22,
+      "HIDE": 15.28
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 아~ 해.",
+      "ENGLISH": "Say “ah~”",
+      "CHINESE_SIMPLIFIED": "吴宥万，啊~张嘴",
+      "CHINESE_TRADITIONAL": "來，宥萬，啊～張嘴",
+      "JAPANESE": "ウ・ユマン、あ〜んして",
+      "INDONESIAN": "Bilang “ah~”",
+      "PORTUGUESE": "Yuman, abre a boca.",
+      "SPANISH": "Yuman, abre la boca.",
+      "PERSIAN": "بگو \"آه~\""
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.05,
+      "HIDE": 17.07
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.07,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 웃어?",
+      "ENGLISH": "Why are you laughing?",
+      "CHINESE_SIMPLIFIED": "笑什么？",
+      "CHINESE_TRADITIONAL": "妳笑什麼？",
+      "JAPANESE": "なんで笑ってんの？",
+      "INDONESIAN": "Kenapa kamu ketawa?",
+      "PORTUGUESE": "Por que tá rindo?",
+      "SPANISH": "¿Por qué te ríes?",
+      "PERSIAN": "چرا میخندی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.18,
+      "HIDE": 21.02
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 고딩 때 생각나서.",
+      "ENGLISH": "Just reminded me of high school.",
+      "CHINESE_SIMPLIFIED": "就是想起高中时候的事了",
+      "CHINESE_TRADITIONAL": "就…想到高中的事啊",
+      "JAPANESE": "ただ、学生の頃思い出して",
+      "INDONESIAN": "Tiba-tiba inget pas SMA.",
+      "PORTUGUESE": "Lembrei da escola.",
+      "SPANISH": "Me acordé del colegio.",
+      "PERSIAN": "تازه منو یاد دوران دبیرستان انداخت"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.06,
+      "HIDE": 22.14
+    },
+    "SCRIPT": {
+      "KOREAN": "고등학교 때?",
+      "ENGLISH": "High school?",
+      "CHINESE_SIMPLIFIED": "高中时候？",
+      "CHINESE_TRADITIONAL": "高中？",
+      "JAPANESE": "高校のとき？",
+      "INDONESIAN": "SMA?",
+      "PORTUGUESE": "Da escola?",
+      "SPANISH": "¿Del colegio?",
+      "PERSIAN": "دبیرستان؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 25.12
+    },
+    "SCRIPT": {
+      "KOREAN": "기억 안 나? 우리 고딩 때....",
+      "ENGLISH": "You don’t remember? Back when we were in high school…",
+      "CHINESE_SIMPLIFIED": "你不记得了？我们高中那会儿....",
+      "CHINESE_TRADITIONAL": "不記得了嗎？我們高中的時候…",
+      "JAPANESE": "覚えてないの？私たち高校のときのこと…",
+      "INDONESIAN": "Kamu nggak inget? Waktu kita masih sekolah dulu…",
+      "PORTUGUESE": "Não lembra? Quando a gente era estudante...",
+      "SPANISH": "¿No recuerdas? Cuando éramos estudiantes...",
+      "PERSIAN": "یادت نمیاد؟ زمانی که دبیرستان بودیم…"
+    }
+  }
+]

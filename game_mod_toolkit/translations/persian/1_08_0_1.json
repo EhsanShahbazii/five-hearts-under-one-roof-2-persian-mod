@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요.",
+      "ENGLISH": "It’s okay.",
+      "CHINESE_SIMPLIFIED": "没事啦",
+      "CHINESE_TRADITIONAL": "沒關係",
+      "JAPANESE": "大丈夫です",
+      "INDONESIAN": "Nggak apa-apa.",
+      "PORTUGUESE": "Está tudo bem.",
+      "SPANISH": "No, estoy bien.",
+      "PERSIAN": "نه، دست نزن تعارف نکن."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 환자분 걸 어떻게 먹어요.",
+      "ENGLISH": "I can’t take a patient’s food.",
+      "CHINESE_SIMPLIFIED": "我怎么能吃病人的东西呢",
+      "CHINESE_TRADITIONAL": "我怎麼好意思吃病人的東西呢？",
+      "JAPANESE": "私が患者さんのものを食べるわけにはいかないですよ",
+      "INDONESIAN": "Mana mungkin aku makan punya pasien.",
+      "PORTUGUESE": "Como eu poderia comer a comida do paciente?",
+      "SPANISH": "¿Cómo me voy a comer la comida de un paciente?",
+      "PERSIAN": "من چطور بیام خوراکی مریضمو بالا بکشم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그쵸?",
+      "ENGLISH": "Right?",
+      "CHINESE_SIMPLIFIED": "对吧？",
+      "CHINESE_TRADITIONAL": "對吧？",
+      "JAPANESE": "ですよね？",
+      "INDONESIAN": "Iya, kan?",
+      "PORTUGUESE": "Não é mesmo?",
+      "SPANISH": "Es verdad...",
+      "PERSIAN": "درست نمیگم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 환자 거 먹으면 모양이 좀 그렇죠? ",
+      "ENGLISH": "It’d look a little weird if you ate my snack. Right?",
+      "CHINESE_SIMPLIFIED": "吃病人的东西会有点不太好吧？",
+      "CHINESE_TRADITIONAL": "我吃了病人的餐點好像不太好吧？",
+      "JAPANESE": "やっぱり患者さんのを食べちゃうのはちょっとおかしいですよね",
+      "INDONESIAN": "Soalnya kalau makan punya pasien, kelihatannya agak gimana gitu ya?",
+      "PORTUGUESE": "Afinal, se eu comer a comida do paciente, não fica muito adequado, né?",
+      "SPANISH": "Si se come la comida de un paciente, queda medio feo, ¿no?",
+      "PERSIAN": "اصلاً زشته پرستار بیاد میوه بیمارو بخوره، نه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 제가 대신 먹어드릴게요.",
+      "ENGLISH": "So I’ll just eat it for you.",
+      "CHINESE_SIMPLIFIED": "那我就帮你吃掉好了",
+      "CHINESE_TRADITIONAL": "那我就代勞幫你吃掉囉",
+      "JAPANESE": "それなら僕が代わりにいただきますね",
+      "INDONESIAN": "Kalau gitu, biar aku aja yang makaninnya buat kamu.",
+      "PORTUGUESE": "Então eu vou comer no seu lugar.",
+      "SPANISH": "Entonces yo me lo comeré por usted.",
+      "PERSIAN": "واسه همین خودم فداکاری می‌کنم و به جات می‌خورمش!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 보자.. 이게 귤이! 이야~",
+      "ENGLISH": "Let’s see... whoa~ this tangerine!",
+      "CHINESE_SIMPLIFIED": "我看看…这橘子！哇～",
+      "CHINESE_TRADITIONAL": "我看看…這個橘子！哇～",
+      "JAPANESE": "どれどれ…このみかん！うわ〜",
+      "INDONESIAN": "Coba kita lihat... Ini jeruk! Waaah~",
+      "PORTUGUESE": "Deixa eu ver... uau~ uma tangerina!",
+      "SPANISH": "A ver que hay… ¡Uy, mandarina!",
+      "PERSIAN": "به‌به، ببینیم چی داریم اینجا... عجب نارنگـیـی!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아주 그냥 때깔이 무조건 이건 맛있는 거네",
+      "ENGLISH": "Must be from Jeju!",
+      "CHINESE_SIMPLIFIED": "这颜色一看就知道，肯定好吃！",
+      "CHINESE_TRADITIONAL": "這個色澤看起來就超好吃的啊！",
+      "JAPANESE": "見た目からして絶対うまいに決まってるな",
+      "INDONESIAN": "Wah, dari warnanya aja udah kelihatan, ini pasti enak banget!",
+      "PORTUGUESE": "Nossa, deve ser porque veio de Jeju,",
+      "SPANISH": "Tiene pinta de estar delicioso",
+      "PERSIAN": "رنگ و روشو ببین، قشنگ معلومه مال شمال و آبداره!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "와~ 이걸 나혼자 먹어도 되나~",
+      "ENGLISH": "Looks fantastic!",
+      "CHINESE_SIMPLIFIED": "哇～我一个人吃真的可以吗？",
+      "CHINESE_TRADITIONAL": "哇～這種好東西我一個人吃真的沒問題嗎？",
+      "JAPANESE": "わあ〜これ、俺ひとりで食べちゃっていいのかな〜",
+      "INDONESIAN": "Boleh nggak ya aku makan ini sendirian~",
+      "PORTUGUESE": "mas parece deliciosa~",
+      "SPANISH": "¿Estará mal si como solo~?",
+      "PERSIAN": "وای خدا... اینو تنهایی بزنم به رگ چه حالی میده!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이야 이게 완전~ 우와~",
+      "ENGLISH": "I'll eat yours too, for your sake!",
+      "CHINESE_SIMPLIFIED": "哇哦，这个简直…哇～",
+      "CHINESE_TRADITIONAL": "這簡直是…哇塞～",
+      "JAPANESE": "おお、これ本当に…うわ〜",
+      "INDONESIAN": "Wah bener-bener... wow~",
+      "PORTUGUESE": "Eu até como a do professor no seu lugar também!",
+      "SPANISH": "Es que se ve tan~~ wow~~",
+      "PERSIAN": "اصلاً واسه خاطر سلامتی توئه که دارم می‌خورمش ها!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 28.6
+    },
+    "SCRIPT": {
+      "KOREAN": "음~ 오! 맛있다!",
+      "ENGLISH": "Mmm, so good!",
+      "CHINESE_SIMPLIFIED": "哦，好好吃！",
+      "CHINESE_TRADITIONAL": "喔～喔！好好吃！",
+      "JAPANESE": "ん〜、おお！うまい！",
+      "INDONESIAN": "Ooh, enak banget!",
+      "PORTUGUESE": "Hmm, que delícia!",
+      "SPANISH": "¡Mmm, qué rica!",
+      "PERSIAN": "اوممم... وای چه شیرینه!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "방 쌤~ 콜이요!!",
+      "ENGLISH": "Nurse Bang! Call for you!",
+      "CHINESE_SIMPLIFIED": "方护士~叫你啦！！",
+      "CHINESE_TRADITIONAL": "方護士～有電話！！",
+      "JAPANESE": "バン先生〜コールです！！",
+      "INDONESIAN": "Perawat Bang! Ada panggilan!!",
+      "PORTUGUESE": "Enfermeira Bang! É pra você!",
+      "SPANISH": "¡Enfermera Gyu-ri~! ¡¡La llaman!!",
+      "PERSIAN": "خانم پرستار بنگ! پیجتون می‌کنن!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.4,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 네!",
+      "ENGLISH": "Coming!",
+      "CHINESE_SIMPLIFIED": "啊，好！",
+      "CHINESE_TRADITIONAL": "啊，好的！",
+      "JAPANESE": "あっ、はい！",
+      "INDONESIAN": "Ah, ya!",
+      "PORTUGUESE": "Ah, sim!",
+      "SPANISH": "¡Ah, ya voy!",
+      "PERSIAN": "اومدم اومدم!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 37.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 유만님! 이따 선생님한테 진료 받으셔야 되니깐",
+      "ENGLISH": "Mr. Yuman, you’ve got a check-up with the doctor soon,",
+      "CHINESE_SIMPLIFIED": "对了，宥万先生！你等会儿还要看医生",
+      "CHINESE_TRADITIONAL": "啊對了，宥萬先生！等等你還要給醫生檢查",
+      "JAPANESE": "あっ！ユマンさん！あとで先生の診察を受けてもらわないといけませんから",
+      "INDONESIAN": "Ah! Pak Yuman! Nanti Anda harus ketemu dokter buat pemeriksaan,",
+      "PORTUGUESE": "Sr. Yooman! Daqui a pouco o senhor tem consulta com o médico,",
+      "SPANISH": "Señor Yumán, después tiene consulta con la doctora.",
+      "PERSIAN": "آقا یومان! دکتر قراره بیاد بالاسرت معاینه‌ت کنه،"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 37.8,
+      "HIDE": 40.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 가지 마시고 꼭! 여기 계세요!",
+      "ENGLISH": "So don’t go anywhere, okay?",
+      "CHINESE_SIMPLIFIED": "所以千万别乱跑，要乖乖待在这里哦！",
+      "CHINESE_TRADITIONAL": "所以不要亂跑，一定要待在這裡喔！",
+      "JAPANESE": "どこにも行かずに、必ずここにいてくださいね！",
+      "INDONESIAN": "jadi jangan ke mana-mana dan tetap di sini ya!",
+      "PORTUGUESE": "então, por favor, não vá a lugar nenhum e fique aqui!",
+      "SPANISH": "No se vaya a ningún lado y espere aquí.",
+      "PERSIAN": "هیچ‌جا نریا، حتماً همین‌جا بمون!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 42.6,
+      "HIDE": 44.6
+    },
+    "SCRIPT": {
+      "KOREAN": "엄청 바쁘시네...",
+      "ENGLISH": "She's super busy today...",
+      "CHINESE_SIMPLIFIED": "真是忙得不可开交呢…",
+      "CHINESE_TRADITIONAL": "看起來真的很忙呢…",
+      "JAPANESE": "すごく忙しそうだな…",
+      "INDONESIAN": "Wah, dia sibuk banget ya...",
+      "PORTUGUESE": "Ela está realmente ocupada...",
+      "SPANISH": "Se ve que está ocupada…",
+      "PERSIAN": "طفلی چقدر هم سرش شلوغه..."
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 어?!",
+      "ENGLISH": "What? What?!",
+      "CHINESE_SIMPLIFIED": "诶？诶？！",
+      "CHINESE_TRADITIONAL": "欸？蛤？",
+      "JAPANESE": "え？えぇ！？",
+      "INDONESIAN": "Apa? Apa sih?!",
+      "PORTUGUESE": "Hã? O quê?!",
+      "SPANISH": "¿Eh? ¡¿Eh?!",
+      "PERSIAN": "چی؟ چی؟!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "거 바쁜데 오라고 해놓고 말이야!",
+      "ENGLISH": "Acting like you’re busy — calling me here and there!",
+      "CHINESE_SIMPLIFIED": "大家都忙着呢，把我们叫过来叫过去的！",
+      "CHINESE_TRADITIONAL": "真是的，這麼忙還把我們叫過來",
+      "JAPANESE": "忙しいってのに、行けだの来いだのって…",
+      "INDONESIAN": "Sok sibuk banget — nyuruh aku ke sana-sini segala!",
+      "PORTUGUESE": "Tanta pressa pra isso! Me fazendo vir até aqui!",
+      "SPANISH": "¡Tanto apuro para esto! ¡Haciéndome venir hasta aquí!",
+      "PERSIAN": "طوری رفتار می‌کنی که انگار سرت شلوغ است - با من تماس می‌گیریم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "시간만 낭비했네!",
+      "ENGLISH": "What a waste of my time!",
+      "CHINESE_SIMPLIFIED": "净浪费时间！",
+      "CHINESE_TRADITIONAL": "就會浪費時間！",
+      "JAPANESE": "時間の無駄だったな！",
+      "INDONESIAN": "Buang-buang waktuku aja!",
+      "PORTUGUESE": "Você só me faz perder tempo!",
+      "SPANISH": "¡Solo me haces perder el tiempo!",
+      "PERSIAN": "چه اتلاف وقت من!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "안 그래?",
+      "ENGLISH": "Isn’t that right?",
+      "CHINESE_SIMPLIFIED": "你说是不是？",
+      "CHINESE_TRADITIONAL": "你說是不是？",
+      "JAPANESE": "そう思わないか？",
+      "INDONESIAN": "Bener, kan?",
+      "PORTUGUESE": "Quem você pensa que é?!",
+      "SPANISH": "¡¿Qué te crees?!",
+      "PERSIAN": "این درست نیست؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 자료 준비도 없이 뭐 하는 거야 지금",
+      "ENGLISH": "Seriously — showing up without even preparing the materials?",
+      "CHINESE_SIMPLIFIED": "哎，连资料都没准备好，来干什么呢？",
+      "CHINESE_TRADITIONAL": "連資料都沒有準備好，搞什麼啊？",
+      "JAPANESE": "資料の準備もなしで何やってんの",
+      "INDONESIAN": "Serius deh — datang tanpa siapin bahan apa pun?",
+      "PORTUGUESE": "Ai, o que você tá fazendo aqui sem nem ter o material pronto?",
+      "SPANISH": "Ay, ¿qué haces aquí sin tener ni los materiales listos?",
+      "PERSIAN": "به طور جدی - حتی بدون تهیه مواد ظاهر می شوید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너 정말 엄마 망신 주려고 그래?",
+      "ENGLISH": "Are you trying to embarrass your mother?",
+      "CHINESE_SIMPLIFIED": "你真是存心想给妈妈丢脸吗？",
+      "CHINESE_TRADITIONAL": "妳存心想讓媽媽丟臉嗎？",
+      "JAPANESE": "あんた、本当に母さんに恥かかせたいの？",
+      "INDONESIAN": "Mau bikin malu ibumu, ya?!",
+      "PORTUGUESE": "Quer mesmo fazer sua mãe passar vergonha?",
+      "SPANISH": "¿De verdad quieres hacer quedar mal a tu madre?",
+      "PERSIAN": "می خواهید مادرتان را شرمنده کنید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니야 그런 거.",
+      "ENGLISH": "That’s not it.",
+      "CHINESE_SIMPLIFIED": "不是那样的...",
+      "CHINESE_TRADITIONAL": "不是那樣的...",
+      "JAPANESE": "そんなつもりじゃないよ！",
+      "INDONESIAN": "Bukan gitu…",
+      "PORTUGUESE": "Não é isso...",
+      "SPANISH": "No es eso...",
+      "PERSIAN": "این نیست."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마가 너 논다고 일 배우라고 강요한 적 있어?",
+      "ENGLISH": "Have I ever forced you to go work instead of fooling around?",
+      "CHINESE_SIMPLIFIED": "我什么时候逼你学这些工作的？",
+      "CHINESE_TRADITIONAL": "媽媽有因為妳玩樂，逼妳去學這些工作嗎？",
+      "JAPANESE": "母さんがあんたに遊ばないで仕事覚えてって言ったことある？",
+      "INDONESIAN": "Pernah nggak sih Ibu maksa kamu kerja daripada main-main terus?",
+      "PORTUGUESE": "Já te pedi alguma vez pra fazer outra coisa além de se divertir por aí?",
+      "SPANISH": "¿Alguna vez te he pedido que hagas algo aparte de divertirte por ahí?",
+      "PERSIAN": "تا به حال تو را مجبور کرده ام به جای فریب دادن به سر کار بروی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 그렇게 살면 되지 왜 이랬어 정말!",
+      "ENGLISH": "You could’ve just lived quietly — why’d you do this?!",
+      "CHINESE_SIMPLIFIED": "你就那样随便过日子不行吗？！你这是干什么啊！",
+      "CHINESE_TRADITIONAL": "你就那樣隨便生活不行嗎？為什麼要做這些東西！",
+      "JAPANESE": "そのままでよかったのに、なんでこんなことしたの！",
+      "INDONESIAN": "Kamu bisa aja hidup tenang — kenapa malah begini?!",
+      "PORTUGUESE": "Você podia viver tranquila, por que fez isso? De verdade!",
+      "SPANISH": "Podrías vivir tranquila, ¿por qué hiciste esto? ¡De verdad!",
+      "PERSIAN": "می توانستی ساکت زندگی کنی - چرا این کار را کردی؟!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마가 나한테는 아무것도 안 바라니까!",
+      "ENGLISH": "Because you never expected anything from me!",
+      "CHINESE_SIMPLIFIED": "因为你从来不对我抱任何期待！",
+      "CHINESE_TRADITIONAL": "因為媽媽你從來不對我抱任何期待！",
+      "JAPANESE": "母さん、私には何も期待してないから！",
+      "INDONESIAN": "Karena Ibu nggak pernah ngarep apa-apa dariku!",
+      "PORTUGUESE": "Porque você nunca espera nada de mim!",
+      "SPANISH": "¡Porque tú nunca esperas nada de mí!",
+      "PERSIAN": "چون هیچوقت از من انتظاری نداشتی!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 33.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 나도 뭔가 보여주고 싶었다구!",
+      "ENGLISH": "So I wanted to show you something, at least!",
+      "CHINESE_SIMPLIFIED": "所以我才想证明自己啊！",
+      "CHINESE_TRADITIONAL": "所以我才想證明自己啊！",
+      "JAPANESE": "だから私、自分で何か見せたかったの！！",
+      "INDONESIAN": "Makanya aku pengen nunjukin sesuatu, setidaknya sekali aja!",
+      "PORTUGUESE": "Por isso eu queria te provar alguma coisa!",
+      "SPANISH": "¡Por eso quería demostrarte algo!",
+      "PERSIAN": "بنابراین می خواستم حداقل چیزی را به شما نشان دهم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 35.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 제대로 했어야지!",
+      "ENGLISH": "Then you should’ve done it properly!",
+      "CHINESE_SIMPLIFIED": "那你就该做好啊！",
+      "CHINESE_TRADITIONAL": "那你就該好好做啊！",
+      "JAPANESE": "なら、ちゃんとやればよかったでしょ！",
+      "INDONESIAN": "Kalau gitu harusnya kamu lakuin yang bener!",
+      "PORTUGUESE": "Então devia ter feito direito!",
+      "SPANISH": "¡Entonces debiste hacerlo bien!",
+      "PERSIAN": "سپس شما باید اونو به درستی انجام می دادید!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 44.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨...",
+      "ENGLISH": "Yu-na…",
+      "CHINESE_SIMPLIFIED": "有娜...",
+      "CHINESE_TRADITIONAL": "有娜...",
+      "JAPANESE": "ユナさん…",
+      "INDONESIAN": "Yu-na…",
+      "PORTUGUESE": "Yuna…",
+      "SPANISH": "Yuna…",
+      "PERSIAN": "یونا…"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 저 물 좀 주세요.",
+      "ENGLISH": "Min-jung, could I have some water…?",
+      "CHINESE_SIMPLIFIED": "敏静，能给我点水吗？",
+      "CHINESE_TRADITIONAL": "敏靜，請給我一點水...",
+      "JAPANESE": "ミンジョンさん、水ください",
+      "INDONESIAN": "Min-jung, boleh ambilin air nggak…?",
+      "PORTUGUESE": "Minjung, você pode me trazer um pouco de água?",
+      "SPANISH": "Minjung, ¿me traes un poco de agua?",
+      "PERSIAN": "مین‌جونگ، میتونم کمی آب بخورم...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "웅!",
+      "ENGLISH": "Mhm!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Okeh!",
+      "PORTUGUESE": "Claro!",
+      "SPANISH": "¡Claro!",
+      "PERSIAN": "مم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요, 오빠.",
+      "ENGLISH": "Here you go, oppa.",
+      "CHINESE_SIMPLIFIED": "哥哥，给你",
+      "CHINESE_TRADITIONAL": "哥哥，水在這裡",
+      "JAPANESE": "はい、お兄さん",
+      "INDONESIAN": "Nih, airnya, oppa.",
+      "PORTUGUESE": "Aqui está, oppa.",
+      "SPANISH": "Aquí está, oppa.",
+      "PERSIAN": "برو یومان"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다...",
+      "ENGLISH": "Thank you…",
+      "CHINESE_SIMPLIFIED": "谢谢你...",
+      "CHINESE_TRADITIONAL": "謝謝你...",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Makasih ya…",
+      "PORTUGUESE": "Muito obrigado.",
+      "SPANISH": "Muchas gracias.",
+      "PERSIAN": "ممنون…"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.9
+    },
+    "SCRIPT": {
+      "KOREAN": "나가지 마요 과장님.",
+      "ENGLISH": "Please don’t move out, Manager.",
+      "CHINESE_SIMPLIFIED": "别走啊，科长",
+      "CHINESE_TRADITIONAL": "課長，不要走",
+      "JAPANESE": "出ないでください、課長",
+      "INDONESIAN": "Jangan pindah, Manajer.",
+      "PORTUGUESE": "Não vai embora, Gran.",
+      "SPANISH": "No se vayas, Gran.",
+      "PERSIAN": "لطفا بیرون نروید، مدیر."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 나가 줘야 다른 친구들이 더 들어올 수 있지 않을까?",
+      "ENGLISH": "But if I leave, wouldn’t that make room for more people to move in?",
+      "CHINESE_SIMPLIFIED": "可要是我搬走，其他人就能搬进来啊",
+      "CHINESE_TRADITIONAL": "但我搬走的話，其他人就能搬進來了啊？",
+      "JAPANESE": "私が出たほうが、他の人が入りやすいんじゃないかな？",
+      "INDONESIAN": "Tapi kalau aku keluar, kan jadi ada tempat buat orang lain masuk?",
+      "PORTUGUESE": "Mas se eu for, outros poderão vir, não acha?",
+      "SPANISH": "Pero si me voy, otros podrán venir, ¿no crees?",
+      "PERSIAN": "اما اگر من را ترک کنم، این جا برای افراد بیشتری برای نقل مکان ایجاد نمی کند؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "누가 과장님한테 그런 거 바랐어요?",
+      "ENGLISH": "Who asked you to do that?",
+      "CHINESE_SIMPLIFIED": "有谁希望你搬走吗？",
+      "CHINESE_TRADITIONAL": "有誰希望妳搬走嗎？",
+      "JAPANESE": "誰がそんなこと望んでるんですか？",
+      "INDONESIAN": "Siapa juga yang nyuruh kamu ngelakuin itu?",
+      "PORTUGUESE": "E quem é que quer isso?",
+      "SPANISH": "¿Y quién quiere eso?",
+      "PERSIAN": "چه کسی از شما خواسته است که این کار را انجام دهید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나가지 말고 나랑 하숙집에 있어요.",
+      "ENGLISH": "Don’t leave — stay here with me in the boarding house.",
+      "CHINESE_SIMPLIFIED": "别走，留下来，继续和我一起合租吧",
+      "CHINESE_TRADITIONAL": "不要走，留下來，繼續跟我一起住吧",
+      "JAPANESE": "出ないで、俺と一緒に下宿にいましょう",
+      "INDONESIAN": "Jangan pergi — tetap di sini aja, bareng aku di rumah kos.",
+      "PORTUGUESE": "Não vai embora, fica comigo na pensão.",
+      "SPANISH": "No se vaya, quédese conmigo en la pensión.",
+      "PERSIAN": "نرو - اینجا با من در پانسیون بمان."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어 우유만...",
+      "ENGLISH": "…Alright, Yuman.",
+      "CHINESE_SIMPLIFIED": "好吧，吴宥万...",
+      "CHINESE_TRADITIONAL": "好吧，吳宥萬...",
+      "JAPANESE": "わかった、ユマン…",
+      "INDONESIAN": "…Iya deh, Yuman.",
+      "PORTUGUESE": "Tá bom, Yumán…",
+      "SPANISH": "Está bien, Yumán…",
+      "PERSIAN": "... باشه، یومان."
+    }
+  }
+]

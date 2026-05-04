@@ -1,0 +1,307 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨 날개 어딨어요?",
+      "ENGLISH": "Gyu-ri, where are your wings?",
+      "CHINESE_SIMPLIFIED": "久梨小姐，翅膀在哪里啊？",
+      "CHINESE_TRADITIONAL": "久梨護理師，請問翅膀在哪裡呢？",
+      "JAPANESE": "ギュリさん、羽どこ行ったんですか",
+      "INDONESIAN": "Gyu-ri, mana sayapmu?",
+      "PORTUGUESE": "Senhorita Gyuri, onde estão as asas?",
+      "SPANISH": "Señorita Gyuri, ¿dónde están las alas?",
+      "PERSIAN": "گیو ری، بال های تو کجا هستند؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "날개요?",
+      "ENGLISH": "Wings?",
+      "CHINESE_SIMPLIFIED": "翅膀？",
+      "CHINESE_TRADITIONAL": "翅膀？",
+      "JAPANESE": "羽？",
+      "INDONESIAN": "Sayap?",
+      "PORTUGUESE": "As asas?",
+      "SPANISH": "¿Las alas?",
+      "PERSIAN": "بال؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": " 아~~ 날개~??",
+      "ENGLISH": "Ohh~ wings??",
+      "CHINESE_SIMPLIFIED": "啊~~翅膀~？？",
+      "CHINESE_TRADITIONAL": "啊～～翅膀～？？",
+      "JAPANESE": "あ〜〜羽〜？",
+      "INDONESIAN": "Ohh~ sayap??",
+      "PORTUGUESE": "Ah~~ asas~?",
+      "SPANISH": "Ah~~ ¿alas~?",
+      "PERSIAN": "اوه~ بال؟؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그 천사 날개 그런 건가요?",
+      "ENGLISH": "Like… angel wings, is that what you mean?",
+      "CHINESE_SIMPLIFIED": "是说那种天使翅膀之类的吗？",
+      "CHINESE_TRADITIONAL": "你是說天使翅膀那種嗎？",
+      "JAPANESE": "その天使の羽ってやつですか？",
+      "INDONESIAN": "Seperti... sayap malaikat, apakah itu yang kamu maksud?",
+      "PORTUGUESE": "Tá falando das minhas asas de anjo?",
+      "SPANISH": "¿Se refiere a mis alas de ángel?",
+      "PERSIAN": "مثل... بال های فرشته، منظورت همینه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 이런 말도 할 줄 알았어요~??",
+      "ENGLISH": "Wow, Yuman, didn’t think you were the type to say stuff like that~",
+      "CHINESE_SIMPLIFIED": "宥万先生居然还会说这种话~？？",
+      "CHINESE_TRADITIONAL": "沒想到宥萬先生也會說這種話～？",
+      "JAPANESE": "ユマンさん そんなセリフも言えるんですね〜？",
+      "INDONESIAN": "Wah, Yuman, aku tidak menyangka kamu tipe orang yang mengatakan hal seperti itu~",
+      "PORTUGUESE": "Senhor Yumán, desde quando você sabe dizer essas coisas?",
+      "SPANISH": "Señor Yumán, ¿desde cuándo sabes decir esas cosas?",
+      "PERSIAN": "وای، یومان، فکر نمی‌کردم تو از اون نوع حرف‌هایی باشی"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 아 진짜 유치하다 유치해~~!",
+      "ENGLISH": "That is so cheesy. Seriously—so cheesy!",
+      "CHINESE_SIMPLIFIED": "啊，真是幼稚鬼啊~~！",
+      "CHINESE_TRADITIONAL": "啊～真是幼稚鬼呢～～！",
+      "JAPANESE": "うわ 子どもみたい ほんっとに！",
+      "INDONESIAN": "Itu norak banget. Serius—norak banget!",
+      "PORTUGUESE": "Ai, que brega, sério~ que infantil!",
+      "SPANISH": "Ay, qué cursi, de verdad~ ¡qué infantil!",
+      "PERSIAN": "این خیلی بد است. به طور جدی - خیلی جالب!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니요, 날개 어딨냐고요.",
+      "ENGLISH": "No, I mean—where are the chicken wings?",
+      "CHINESE_SIMPLIFIED": "不是，我问的是翅膀在哪里",
+      "CHINESE_TRADITIONAL": "不是啦，我是問翅膀在哪裡？",
+      "JAPANESE": "いやいや 違うんですよ 羽どこ行ったんですか",
+      "INDONESIAN": "Tidak, maksudku—di mana sayap ayamnya?",
+      "PORTUGUESE": "Não, falando sério, onde estão as asas?",
+      "SPANISH": "No, en serio, ¿dónde están las alas?",
+      "PERSIAN": "نه، منظورم این است که بال مرغ کجاست؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.3
+    },
+    "SCRIPT": {
+      "KOREAN": "날개?",
+      "ENGLISH": "Wings?",
+      "CHINESE_SIMPLIFIED": "翅膀？",
+      "CHINESE_TRADITIONAL": "翅膀？",
+      "JAPANESE": "羽？",
+      "INDONESIAN": "Sayap?",
+      "PORTUGUESE": "Asas?",
+      "SPANISH": "¿Alas?",
+      "PERSIAN": "بال؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그러니깐.",
+      "ENGLISH": "Yeah, like… ",
+      "CHINESE_SIMPLIFIED": "不是，我是说...",
+      "CHINESE_TRADITIONAL": "不是，我是說...",
+      "JAPANESE": "ちがいますって ほら",
+      "INDONESIAN": "Ya, seperti…",
+      "PORTUGUESE": "Sim, tipo...",
+      "SPANISH": "Sí, o sea...",
+      "PERSIAN": "آره مثل…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이, 이 닭날개 어딨냐고요! 닭날개!!",
+      "ENGLISH": "Chicken. Chicken wings.",
+      "CHINESE_SIMPLIFIED": "这、这鸡翅膀在哪儿啊！鸡翅！！",
+      "CHINESE_TRADITIONAL": "這個雞翅膀在哪啦！雞翅膀！！",
+      "JAPANESE": "このチキンウィングですよ チキンウィング",
+      "INDONESIAN": "Ayam. Sayap ayam.",
+      "PORTUGUESE": "Asinhas de frango! Asinhas!",
+      "SPANISH": "¡Las alas de pollo! ¡Las alitas!",
+      "PERSIAN": "مرغ. بال مرغ."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자 따라 해보세요",
+      "ENGLISH": "Come on, repeat after me!",
+      "CHINESE_SIMPLIFIED": "来跟我念一遍",
+      "CHINESE_TRADITIONAL": "來，跟我念一遍",
+      "JAPANESE": "さ 言ってみてください",
+      "INDONESIAN": "Ayo, ulangi setelah saya!",
+      "PORTUGUESE": "Vamos lá, repete comigo.",
+      "SPANISH": "Vamos, repita conmigo.",
+      "PERSIAN": "بیا، بعد از من تکرار کن!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "날.개!",
+      "ENGLISH": "Wings!",
+      "CHINESE_SIMPLIFIED": "鸡~翅！",
+      "CHINESE_TRADITIONAL": "雞.翅.膀！",
+      "JAPANESE": "ハ・ネ！",
+      "INDONESIAN": "Sayap!",
+      "PORTUGUESE": "A-si-nhas.",
+      "SPANISH": "A-li-tas.",
+      "PERSIAN": "بال!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.1,
+      "HIDE": 32.2
+    },
+    "SCRIPT": {
+      "KOREAN": "날개...",
+      "ENGLISH": "Wings...",
+      "CHINESE_SIMPLIFIED": "鸡翅...",
+      "CHINESE_TRADITIONAL": "雞翅…",
+      "JAPANESE": "ハネ…",
+      "INDONESIAN": "Sayap...",
+      "PORTUGUESE": "Asinhas...",
+      "SPANISH": "Alitas...",
+      "PERSIAN": "بال..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 34.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그쵸? 날개 어딨어요.",
+      "ENGLISH": "There you go! So—where are the wings?",
+      "CHINESE_SIMPLIFIED": "对吧？鸡翅在哪里啊？",
+      "CHINESE_TRADITIONAL": "對吧？那個雞翅在哪裡呢？",
+      "JAPANESE": "そう それです で そのハ・ネどこにあります？",
+      "INDONESIAN": "Nah, itu dia! Jadi—di mana sayapnya?",
+      "PORTUGUESE": "Isso mesmo. Sabe onde estão?",
+      "SPANISH": "Exacto ¿Sabe dónde están?",
+      "PERSIAN": "شما بروید! بنابراین - بال ها کجا هستند؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 35.3,
+      "HIDE": 38.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그거..육류 코너에 있어요 ",
+      "ENGLISH": "Uh... meat section.",
+      "CHINESE_SIMPLIFIED": "那个...在肉类区啦",
+      "CHINESE_TRADITIONAL": "那個…在肉類區那邊",
+      "JAPANESE": "……お肉コーナーにありますけど…",
+      "INDONESIAN": "Uh... bagian daging.",
+      "PORTUGUESE": "Ah... estão na seção de carnes.",
+      "SPANISH": "Eh... están en la sección de carnes.",
+      "PERSIAN": "اوه ... بخش گوشت"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 39.1,
+      "HIDE": 43.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 참으로 감사합니다, 예?!",
+      "ENGLISH": "Yes, thank you so very much.",
+      "CHINESE_SIMPLIFIED": "真是非常感谢您，哈？！",
+      "CHINESE_TRADITIONAL": "是，真是太感謝您了，啊？！ ",
+      "JAPANESE": "ありがとうございますっ！！",
+      "INDONESIAN": "Ya, terima kasih banyak.",
+      "PORTUGUESE": "Ah, muito obrigado.",
+      "SPANISH": "Ah, muchísimas gracias.",
+      "PERSIAN": "بله خیلی ممنون"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 43.4,
+      "HIDE": 43.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "...Right.",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "INDONESIAN": "...Benar.",
+      "PORTUGUESE": "Aham...",
+      "SPANISH": "Ajá...",
+      "PERSIAN": "...درسته."
+    }
+  }
+]

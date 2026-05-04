@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "와..오늘 날씨 엄청 좋은데요?",
+      "ENGLISH": "Wow... the weather’s amazing today.",
+      "CHINESE_SIMPLIFIED": "哇...今天天气真好啊！",
+      "CHINESE_TRADITIONAL": "哇…今天天氣很不錯呢？",
+      "JAPANESE": "うわ〜 天気めっちゃいいですね",
+      "INDONESIAN": "Wah... cuacanya luar biasa hari ini.",
+      "PORTUGUESE": "Uau… o tempo tá incrível, né?",
+      "SPANISH": "Wow… el clima está increíble, ¿no?",
+      "PERSIAN": "وای... امروز هوا فوق العاده است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까요.",
+      "ENGLISH": "Right?",
+      "CHINESE_SIMPLIFIED": "就是说啊",
+      "CHINESE_TRADITIONAL": "是啊～",
+      "JAPANESE": "ほんとですね",
+      "INDONESIAN": "Benar?",
+      "PORTUGUESE": "Sim, totalmente.",
+      "SPANISH": "Sí, totalmente.",
+      "PERSIAN": "درسته؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 다음에도 우리 이렇게 날씨 좋으면 같이 놀래요?",
+      "ENGLISH": "Yuman, if it’s this nice out again... wanna hang out together like this next time too?",
+      "CHINESE_SIMPLIFIED": "宥万先生，下次天气好的时候我们再一起出来玩吧？",
+      "CHINESE_TRADITIONAL": "宥萬先生，下次天氣這麼好時，我們再一起出來玩吧？",
+      "JAPANESE": "ユマンさん 次も こんな天気のいい日に一緒に遊びませんか？",
+      "INDONESIAN": "Yuman, kalau cuacanya seindah ini lagi...kamu mau nongkrong bareng kayak gini juga lain kali?",
+      "PORTUGUESE": "Yumán, se fizer um dia tão lindo como esse de novo, a gente sai junto outra vez?",
+      "SPANISH": "Yumán, si vuelve a hacer un día tan lindo como este, ¿salimos juntos otra vez?",
+      "PERSIAN": "یومان، اگر دوباره اینقدر خوب است... می‌خوای دفعه بعد هم همینطور با هم باشیم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 좋은데요?",
+      "ENGLISH": "I’d love that.",
+      "CHINESE_SIMPLIFIED": "当然好啊！",
+      "CHINESE_TRADITIONAL": "好啊，太棒了！",
+      "JAPANESE": "いいですね",
+      "INDONESIAN": "Aku sangat menyukainya.",
+      "PORTUGUESE": "Eu adoraria.",
+      "SPANISH": "Me encantaría.",
+      "PERSIAN": "من اونو دوست دارم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 말숙이?",
+      "ENGLISH": "Huh? Mal-sook?",
+      "CHINESE_SIMPLIFIED": "咦？那不是末淑吗？",
+      "CHINESE_TRADITIONAL": "欸？是末淑嗎？",
+      "JAPANESE": "あれ？ マルスク？",
+      "INDONESIAN": "Hah? Mal-sook?",
+      "PORTUGUESE": "Hã? Malsook?",
+      "SPANISH": "¿Eh? ¿Malsook?",
+      "PERSIAN": "ها؟ مال‌سوک؟"
+    }
+  }
+]

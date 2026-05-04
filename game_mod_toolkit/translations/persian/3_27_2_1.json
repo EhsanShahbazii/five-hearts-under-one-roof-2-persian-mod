@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤! 혹시 집에 강아지 있어요?",
+      "ENGLISH": "Nurse Gyu-ri! Do you have a dog at home, by any chance?",
+      "CHINESE_SIMPLIFIED": "方护士，你家里养狗吗？",
+      "CHINESE_TRADITIONAL": "久梨護理師！妳有養狗嗎？",
+      "JAPANESE": "ギュリ先生、うちに犬いますか？",
+      "INDONESIAN": "Suster Gyu-ri! Kamu punya anjing di rumah, nggak?",
+      "PORTUGUESE": "Enfermeira Gyuri! Por acaso você tem cachorro em casa?",
+      "SPANISH": "¡Enfermera Gyuri! ¿Por casualidad tiene perro en su casa?",
+      "PERSIAN": "پرستار گیو ری! شما به طور شانسی در خونه سگ دارید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 있어요!",
+      "ENGLISH": "Yeah, I do!",
+      "CHINESE_SIMPLIFIED": "嗯！有养！",
+      "CHINESE_TRADITIONAL": "有啊！",
+      "JAPANESE": "はい！いますよ！",
+      "INDONESIAN": "Iya, punya!",
+      "PORTUGUESE": "Sim! Tenho!",
+      "SPANISH": "¡Sí! ¡Tengo!",
+      "PERSIAN": "آره، دارم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아...그러면 좀 어렵겠는데요.",
+      "ENGLISH": "Ah... then this might be a bit of a problem.",
+      "CHINESE_SIMPLIFIED": "啊...那样的话可能有点麻烦呢",
+      "CHINESE_TRADITIONAL": "喔…那可能有點麻煩",
+      "JAPANESE": "あ…それだとちょっと難しいかもです",
+      "INDONESIAN": "Ah... kalau gitu, ini bisa jadi masalah, nih.",
+      "PORTUGUESE": "Ah... então isso vai ser um pouco complicado.",
+      "SPANISH": "Ah... entonces eso será un poco complicado.",
+      "PERSIAN": "آه... پس این ممکنه کمی مشکل ساز باشد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 왜요?",
+      "ENGLISH": "Huh? Why?",
+      "CHINESE_SIMPLIFIED": "嗯？怎么了？",
+      "CHINESE_TRADITIONAL": "欸？為什麼？",
+      "JAPANESE": "え？どうしてですか？",
+      "INDONESIAN": "Hah? Kenapa?",
+      "PORTUGUESE": "É mesmo? Por quê?",
+      "SPANISH": "¿Sí? ¿Por qué?",
+      "PERSIAN": "ها؟ چرا؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 강아지 털 알러지가 있거든요.",
+      "ENGLISH": "I’m allergic to dog fur.",
+      "CHINESE_SIMPLIFIED": "我对狗毛过敏呢",
+      "CHINESE_TRADITIONAL": "我對狗毛會過敏",
+      "JAPANESE": "俺、犬の毛のアレルギーがあるんです",
+      "INDONESIAN": "Aku alergi bulu anjing.",
+      "PORTUGUESE": "É que eu sou alérgico a pelo de cachorro.",
+      "SPANISH": "Es que soy alérgico al pelo de perro.",
+      "PERSIAN": "من به خز سگ حساسیت دارم"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊…",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "예, 들어가세요! 다음에 또 봬요!",
+      "ENGLISH": "Well then! You should head on home. I’ll see you around!",
+      "CHINESE_SIMPLIFIED": "嗯，回家吧！下次再见！",
+      "CHINESE_TRADITIONAL": "好吧，那回去小心喔！下次見！",
+      "JAPANESE": "はい　わかりました　じゃあまた今度！",
+      "INDONESIAN": "Kalau gitu! Kamu mendingan pulang aja, ya. Sampai ketemu lagi!",
+      "PORTUGUESE": "Pode entrar. A gente se vê na próxima!",
+      "SPANISH": "Ya entre ¡Nos vemos la próxima!",
+      "PERSIAN": "خب پس! شما باید به خونه بروید من شما را در اطراف می بینم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아..네.",
+      "ENGLISH": "Ah... okay.",
+      "CHINESE_SIMPLIFIED": "啊...好的",
+      "CHINESE_TRADITIONAL": "嗯…好",
+      "JAPANESE": "あ…はい",
+      "INDONESIAN": "Ah... oke.",
+      "PORTUGUESE": "Ah... tá bom.",
+      "SPANISH": "Ah... sí.",
+      "PERSIAN": "آه... باشه."
+    }
+  }
+]

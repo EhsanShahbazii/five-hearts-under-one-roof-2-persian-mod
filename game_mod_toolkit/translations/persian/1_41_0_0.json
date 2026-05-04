@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 그쪽은...",
+      "ENGLISH": "Huh? You are…",
+      "CHINESE_SIMPLIFIED": "咦？你是…",
+      "CHINESE_TRADITIONAL": "咦？你是...",
+      "JAPANESE": "えっ？ あなたは…",
+      "INDONESIAN": "Eh? Kamu itu...",
+      "PORTUGUESE": "Hã? Você é…",
+      "SPANISH": "¿Oh? Acaso ella es...",
+      "PERSIAN": "عه؟ شما..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 책임지러 왔어요. ",
+      "ENGLISH": "I came to take responsibility for Yuman.",
+      "CHINESE_SIMPLIFIED": "我来照顾你了，吴宥万先生",
+      "CHINESE_TRADITIONAL": "我是來對宥萬先生負責的",
+      "JAPANESE": "ユマンさんの責任を取りに来ました",
+      "INDONESIAN": "Aku datang untuk tanggung jawab sama Yuman.",
+      "PORTUGUESE": "Eu vim assumir a responsabilidade pelo Yuman.",
+      "SPANISH": "Vine a hacerme responsable de Yumán.",
+      "PERSIAN": "من اومدم تا مسئولیت یومان رو کامل به عهده بگیرم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "전 제가 뱉은 말은 꼭 지키거든요.",
+      "ENGLISH": "I always keep my word.",
+      "CHINESE_SIMPLIFIED": "我说过的话，绝不会食言",
+      "CHINESE_TRADITIONAL": "我是個說到做到的人",
+      "JAPANESE": "私は、自分が口にした言葉は必ず守るんです",
+      "INDONESIAN": "Soalnya aku selalu menepati janji yang udah aku ucapin.",
+      "PORTUGUESE": "Eu sempre cumpro minha palavra.",
+      "SPANISH": "Soy alguien que cumple su palabra.",
+      "PERSIAN": "چون من همیشه پای حرفی که از دهنم درمیاد وایمیستم."
+    }
+  }
+]

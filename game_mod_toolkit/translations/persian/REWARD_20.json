@@ -1,0 +1,667 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.12
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요 여러분들!",
+      "ENGLISH": "Hi everyone!",
+      "CHINESE_SIMPLIFIED": "大家好！",
+      "CHINESE_TRADITIONAL": "大家好～",
+      "JAPANESE": "こんにちは みなさん！",
+      "INDONESIAN": "Halo semuanya!",
+      "PORTUGUESE": "Olá a todos!",
+      "SPANISH": "¡Hola a todos!",
+      "PERSIAN": "سلام به همه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.12,
+      "HIDE": 6.01
+    },
+    "SCRIPT": {
+      "KOREAN": "하전미2 에서 양유정 역할을 맡게 된 양유정입니다.",
+      "ENGLISH": "I’m Yang Yu-jeong, and I play Yang Yu-jeong in FHUOR 2!",
+      "CHINESE_SIMPLIFIED": "我是在《阿西美女2》中饰演梁有情的演员——梁有玎",
+      "CHINESE_TRADITIONAL": "我是出演《阿西, 美女室友竟然...？2》擔任梁有情一角的梁有玎（ㄉㄧㄥ）",
+      "JAPANESE": "まさか！下宿生が 美女ですって？2でヤン・ユジョン役を演じることになったヤン・ユジョンです",
+      "INDONESIAN": "Aku Yu-jeong Yang yang mainin karakter  Yu-jeong  di FHUOR 2!",
+      "PORTUGUESE": "Sou Yang Yujeong, que interpreta Yang Yujeong em Five Hearts Under One Roof 2.",
+      "SPANISH": "Soy Yang Yujeong, quien interpreta a Yang Yujeong en Five Hearts Under One Roof  2",
+      "PERSIAN": "من یانگ یو-جونگ هستم و در یک سقف و پنج قلب 2 نقش یانگ یو-جونگ را بازی می کنم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.08,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 부탁드려요",
+      "ENGLISH": "Please take good care of me~",
+      "CHINESE_SIMPLIFIED": "请多多关照~",
+      "CHINESE_TRADITIONAL": "請多多指教",
+      "JAPANESE": "よろしくお願いします",
+      "INDONESIAN": "Mohon dukungannya yaa~",
+      "PORTUGUESE": "Prazer em conhecê-los!",
+      "SPANISH": "¡Encantada de conocerlos!",
+      "PERSIAN": "لطفا از من خوب مراقبت کنید~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.19
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 하전미2에 나오는 유정이는",
+      "ENGLISH": "The Yu-jeong you’ll see in FHUOR 2",
+      "CHINESE_SIMPLIFIED": "这次在《阿西美女2》中登场的有情",
+      "CHINESE_TRADITIONAL": "在遊戲登場的有情",
+      "JAPANESE": "今回まさか！下宿生が 美女ですって？2に登場するユジョンは",
+      "INDONESIAN": "Yu-jeong  yang muncul di FHUOR 2 ini...",
+      "PORTUGUESE": "A Yujeong que aparece agora nesta temporada",
+      "SPANISH": "La Yujeong que aparece ahora en esta temporada",
+      "PERSIAN": "یو-جونگ که در یک سقف و پنج قلب 2 خواهید دید"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.19,
+      "HIDE": 14.08
+    },
+    "SCRIPT": {
+      "KOREAN": "예전에 학창 시절의 트라우마로 인해서",
+      "ENGLISH": "is someone who’s a bit withdrawn",
+      "CHINESE_SIMPLIFIED": "是一个因学生时代的创伤",
+      "CHINESE_TRADITIONAL": "因為有著過去學生時期的心理創傷",
+      "JAPANESE": "学生時代のトラウマがあって",
+      "INDONESIAN": "dia punya trauma waktu masa sekolah dulu,",
+      "PORTUGUESE": "é alguém que tem um pouco de fobia social",
+      "SPANISH": "es alguien que tiene un poco de fobia social",
+      "PERSIAN": "کسی است که کمی گوشه گیر است"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 18.15
+    },
+    "SCRIPT": {
+      "KOREAN": "약간 대인기피증 같은 게 조금 있는 아이입니다",
+      "ENGLISH": "she’s dealing with trauma from her school days.",
+      "CHINESE_SIMPLIFIED": "而略带社交恐惧的女孩",
+      "CHINESE_TRADITIONAL": "有點社交恐懼的小女孩",
+      "JAPANESE": "少し対人恐怖っぽいところがある子です",
+      "INDONESIAN": "jadi dia agak susah buat deket sama orang.",
+      "PORTUGUESE": "por causa de traumas que sofreu na escola.",
+      "SPANISH": "debido a traumas que sufrió en la escuela.",
+      "PERSIAN": "او با ترومای دوران مدرسه اش دست و پنجه نرم می کند."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 23.06
+    },
+    "SCRIPT": {
+      "KOREAN": "혼자만의 힘으로 돈을 버는 그런 일을 좀 하고요",
+      "ENGLISH": "She makes money working on her own.",
+      "CHINESE_SIMPLIFIED": "她靠着独自打工来赚钱",
+      "CHINESE_TRADITIONAL": "她自己賺錢、靠自己生活",
+      "JAPANESE": "ひとりでできる仕事でお金を稼いだり",
+      "INDONESIAN": "Sekarang dia kerja cari duit sendiri,",
+      "PORTUGUESE": "Ela também trabalha para ganhar seu próprio dinheiro,",
+      "SPANISH": "También trabaja para conseguir su propio dinero,",
+      "PERSIAN": "او با کار خودش پول در می آورد."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.16,
+      "HIDE": 26.16
+    },
+    "SCRIPT": {
+      "KOREAN": "사람들이랑 마주치는 걸 좀 무서워하기 때문에",
+      "ENGLISH": "Because she’s afraid of dealing with people,",
+      "CHINESE_SIMPLIFIED": "因为有些害怕与人接触",
+      "CHINESE_TRADITIONAL": "因為害怕與人接觸",
+      "JAPANESE": "人と向き合うのが怖くて",
+      "INDONESIAN": "tapi karena takut ketemu orang, dia jadi...",
+      "PORTUGUESE": "e como tem medo de lidar com as pessoas,",
+      "SPANISH": "y como le da miedo enfrentarse a la gente,",
+      "PERSIAN": "چون از برخورد با مردم می ترسد،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.16,
+      "HIDE": 29.18
+    },
+    "SCRIPT": {
+      "KOREAN": "대학교 가는 것도 좀 계속 망설이면서",
+      "ENGLISH": "she keeps putting off going to college,",
+      "CHINESE_SIMPLIFIED": "就连上大学也一直犹豫不决",
+      "CHINESE_TRADITIONAL": "所以對上大學這件事也一直猶豫不決",
+      "JAPANESE": "大学へ行くこともずっと迷ってしまって",
+      "INDONESIAN": "ragu banget buat masuk kuliah.",
+      "PORTUGUESE": "continua adiando a universidade.",
+      "SPANISH": "sigue posponiendo la universidad.",
+      "PERSIAN": "او رفتن به دانشگاه را به تعویق می اندازد،"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 29.18,
+      "HIDE": 33.18
+    },
+    "SCRIPT": {
+      "KOREAN": "혼자서 스스로 고립 되어가는 그런 친구예요",
+      "ENGLISH": "and ends up isolating herself more and more.",
+      "CHINESE_SIMPLIFIED": "是这样一个逐渐自我封闭的角色",
+      "CHINESE_TRADITIONAL": "是個有點自我封閉的孩子",
+      "JAPANESE": "自分から孤立していくようなそんなタイプの子です",
+      "INDONESIAN": "Akhirnya dia malah makin nutup diri dan ngejauh dari semua orang.",
+      "PORTUGUESE": "É uma garota que foi se isolando aos poucos.",
+      "SPANISH": "Es una chica que se ha ido aislando poco a poco.",
+      "PERSIAN": "و در نهایت بیشتر و بیشتر خود را منزوی می کند."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 33.18,
+      "HIDE": 38.09
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 우유만이라는 남자 주인공을 만나서 점점 성장해",
+      "ENGLISH": "But then she meets the main guy, Yuman,",
+      "CHINESE_SIMPLIFIED": "不过当她遇到男主角吴宥万之后，会慢慢获得成长",
+      "CHINESE_TRADITIONAL": "但是她遇到了男主角吳宥萬之後，慢慢開始成長",
+      "JAPANESE": "でも ウユマンという男性主人公に出会って少しずつ成長して",
+      "INDONESIAN": "Tapi suatu hari dia ketemu Yuman si karakter utama",
+      "PORTUGUESE": "Mas ao conhecer o protagonista, Woo Yuman,",
+      "SPANISH": "Pero al conocer al protagonista, Woo Yuman",
+      "PERSIAN": "اما سپس او با مرد اصلی، یومان، آشنا می شود،"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 38.09,
+      "HIDE": 42.09
+    },
+    "SCRIPT": {
+      "KOREAN": "나가는 그런 캐릭터라고 이해해 주시면 편할 것 같은데요",
+      "ENGLISH": "and through him, she slowly starts to grow. So that’s the kind of character she is.",
+      "CHINESE_SIMPLIFIED": "大家可以把她理解为这样一个成长型角色",
+      "CHINESE_TRADITIONAL": "大家可以理解是一個，從孤單中慢慢成長的角色",
+      "JAPANESE": "いくそんなキャラクターとして理解してもらえると嬉しいです",
+      "INDONESIAN": "dan dari situ dia pelan-pelan mulai tumbuh dan berkembang. Jadi kurang lebih, karakter Yu-jeong  itu kayak gitu, ya!",
+      "PORTUGUESE": "acho que sua personagem começa a crescer pouco a pouco.",
+      "SPANISH": "creo que su personaje va creciendo poco a poco.",
+      "PERSIAN": "و از طریق او، او به آرامی شروع به رشد می کند. پس این نوع شخصیت اوست."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 42.1,
+      "HIDE": 46.11
+    },
+    "SCRIPT": {
+      "KOREAN": "사실 제가 MBTI가 완전 대문자 E예요",
+      "ENGLISH": "Honestly, my own MBTI is a huge E, Extrovert.",
+      "CHINESE_SIMPLIFIED": "其实我本人的MBTI是纯纯的大写E",
+      "CHINESE_TRADITIONAL": "其實我的MBTI 完全是大寫E",
+      "JAPANESE": "実は私のMBTIは大文字のEで",
+      "INDONESIAN": "Sebenarnya MBTI-ku tuh E banget loh..!",
+      "PORTUGUESE": "Na verdade, eu sou muito extrovertida.",
+      "SPANISH": "En realidad, yo soy muy extrovertida",
+      "PERSIAN": "راستش را بخواهید، ام‌بی‌تی‌آی خودم یک بزرگ، برونگرا است."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 46.12,
+      "HIDE": 50.21
+    },
+    "SCRIPT": {
+      "KOREAN": "완전 ENFP 사람을 좋아하고 낯도 안 가리고",
+      "ENGLISH": "Like full-on ENFP! I love people~",
+      "CHINESE_SIMPLIFIED": "是典型的ENFP，很喜欢和人打交道，也完全不认生",
+      "CHINESE_TRADITIONAL": "我完全是ENFP，很喜歡人群、外向不怕生",
+      "JAPANESE": "ENFP人が好きで、人見知りもしなくて",
+      "INDONESIAN": "Aku ENFP banget! Suka  ngobrol sama orang lain~",
+      "PORTUGUESE": "Meu MBTI é ENFP, eu gosto de pessoas, não sou tímida,",
+      "SPANISH": "Mi MBTI es ENFP, me gusta la gente, no soy tímida",
+      "PERSIAN": "مانند ای‌ان‌اف‌پی کامل! من مردم را دوست دارم~"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 50.24,
+      "HIDE": 53.14
+    },
+    "SCRIPT": {
+      "KOREAN": "처음 보는 자리에서 이렇게 이야기도 잘할 수 있고",
+      "ENGLISH": "I’m super outgoing!",
+      "CHINESE_SIMPLIFIED": "即使在陌生场合也能畅所欲言",
+      "CHINESE_TRADITIONAL": "和第一次見面的人也能聊得很開心",
+      "JAPANESE": "初めて会う場でもこんなふうに普通に話せるし",
+      "INDONESIAN": "Sama ketemu orang baru!",
+      "PORTUGUESE": "e consigo falar muito bem até em lugares onde não conheço ninguém.",
+      "SPANISH": "y puedo hablar muy bien incluso en lugares donde no conozco a nadie.",
+      "PERSIAN": "من فوق العاده برونگرا هستم!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 53.14,
+      "HIDE": 55.04
+    },
+    "SCRIPT": {
+      "KOREAN": "약간 그런 성격이라고 말이죠",
+      "ENGLISH": "I have no problem talking to strangers.",
+      "CHINESE_SIMPLIFIED": "大概就是这样的性格",
+      "CHINESE_TRADITIONAL": "我的個性大致上是屬於這種",
+      "JAPANESE": "本当はそういうタイプなんです",
+      "INDONESIAN": "Aku tuh nggak canggung sama sekali sama orang baru.",
+      "PORTUGUESE": "Essa é a minha personalidade.",
+      "SPANISH": "Esa es mi personalidad.",
+      "PERSIAN": "من مشکلی برای صحبت با غریبه ها ندارم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 55.04,
+      "HIDE": 58.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 처음에는 이 작중에 유정이를",
+      "ENGLISH": "So at first, I really struggled ",
+      "CHINESE_SIMPLIFIED": "所以最初我在思考",
+      "CHINESE_TRADITIONAL": "所以一開始我有點苦惱",
+      "JAPANESE": "なので最初は この作品のユジョンを",
+      "INDONESIAN": "Jadi pas awal-awal aku juga mikir sih,",
+      "PORTUGUESE": "Por isso, no começo pensei bastante",
+      "SPANISH": "Por eso, al principio pensé mucho",
+      "PERSIAN": "بنابراین در ابتدا، من واقعاً مشکل داشتم"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 58.1,
+      "HIDE": 61.16
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게 살려야 좀 매력 있게 느껴질까",
+      "ENGLISH": "with how to make Yu-jeong feel real and still keep her interesting as a character.",
+      "CHINESE_SIMPLIFIED": "该如何演绎才能让作品中的有情显得更有魅力呢",
+      "CHINESE_TRADITIONAL": "要怎麼把有情演得更有魅力",
+      "JAPANESE": "どう表現したら魅力的になるだろうって",
+      "INDONESIAN": "“Gimana ya caranya bikin karakter Yu-jeong ini tetep keliatan menarik?”",
+      "PORTUGUESE": "em como dar vida e encanto a essa personagem.",
+      "SPANISH": "en cómo darle vida y encanto a este personaje.",
+      "PERSIAN": "با این که چگونه یو-جئونگ احساس واقعی بودن کند و همچنان اونو به عنوان یک شخصیت جذاب نگه دارد."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 61.21,
+      "HIDE": 65.03
+    },
+    "SCRIPT": {
+      "KOREAN": "좀 고민을 많이 했었던 것 같습니다. 초반에",
+      "ENGLISH": "I spent a lot of time figuring that out early on.",
+      "CHINESE_SIMPLIFIED": "前期确实苦恼了很久",
+      "CHINESE_TRADITIONAL": "讓大家感覺她可愛、吸引人",
+      "JAPANESE": "けっこう悩んだ時期もありました 序盤は特に",
+      "INDONESIAN": "Aku sempet lumayan mikir keras waktu baru mulai syuting.",
+      "PORTUGUESE": "Eu realmente tive muitas dúvidas no início.",
+      "SPANISH": "Realmente tuve muchas dudas al comienzo.",
+      "PERSIAN": "من زمان زیادی را صرف فهمیدن این موضوع در اوایل کردم."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 65.03,
+      "HIDE": 67.1
+    },
+    "SCRIPT": {
+      "KOREAN": "(인기투표 1등을 한다면?)",
+      "ENGLISH": "(What if you win 1st place in the popularity vote?)",
+      "CHINESE_SIMPLIFIED": "（如果能在人气投票中获得第一的话？）",
+      "CHINESE_TRADITIONAL": "如果人氣投票拿到第一名的話？",
+      "JAPANESE": "（人気投票で1位になったら？）",
+      "INDONESIAN": "(Gimana kalau kamu dapet juara 1 di voting?)",
+      "PORTUGUESE": "(Se você ficasse em primeiro lugar na votação de popularidade?)",
+      "SPANISH": "(Si quedaras primera en la votación de popularidad?)",
+      "PERSIAN": "(اگر رتبه اول را در رای محبوبیت کسب کنید چه؟)"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 65.03,
+      "HIDE": 69.11
+    },
+    "SCRIPT": {
+      "KOREAN": "사실 조금 자신 없어요",
+      "ENGLISH": "To be honest... I’m not confident.",
+      "CHINESE_SIMPLIFIED": "说实话我有点没信心",
+      "CHINESE_TRADITIONAL": "說實話，我有點沒自信...",
+      "JAPANESE": "正直ちょっと自信ないです",
+      "INDONESIAN": "Jujur... aku nggak terlalu yakin.",
+      "PORTUGUESE": "Na verdade, não acho que eu conseguiria.",
+      "SPANISH": "La verdad, no creo lograrlo",
+      "PERSIAN": "راستش... من مطمئن نیستم."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 67.1,
+      "HIDE": 70.1
+    },
+    "SCRIPT": {
+      "KOREAN": "왜냐하면",
+      "ENGLISH": "Because",
+      "CHINESE_SIMPLIFIED": "因为...",
+      "CHINESE_TRADITIONAL": "因為有情這個角色",
+      "JAPANESE": "だって",
+      "INDONESIAN": "Soalnya,",
+      "PORTUGUESE": "Porque…",
+      "SPANISH": "Porque…",
+      "PERSIAN": "چون"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 69.11,
+      "HIDE": 75.04
+    },
+    "SCRIPT": {
+      "KOREAN": "나의 진짜 매력이랑은 좀 다른 캐릭터다 보니까",
+      "ENGLISH": "Yu-jeong’s personality is really different from mine,",
+      "CHINESE_SIMPLIFIED": "这毕竟是一个和我真实性格相差很大的角色",
+      "CHINESE_TRADITIONAL": "跟我真實的個性有些不同",
+      "JAPANESE": "私自身の魅力とはけっこう違うタイプのキャラクターなので",
+      "INDONESIAN": "karakter  Yu-jeong ini beda banget sama kepribadianku aslinya",
+      "PORTUGUESE": "essa personagem é muito diferente de mim.",
+      "SPANISH": "este personaje es muy distinto a mí.",
+      "PERSIAN": "شخصیت یو-جئونگ واقعاً با من متفاوت است،"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 70.1,
+      "HIDE": 77.09
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히 “일등 할 수 있어!”",
+      "ENGLISH": "so I can’t just say, “Yeah! I’m totally gonna win!”",
+      "CHINESE_SIMPLIFIED": "要是说出“我能拿第一！”",
+      "CHINESE_TRADITIONAL": "所以說“我一定能拿第一！”",
+      "JAPANESE": "正直”1位取れる！”",
+      "INDONESIAN": "Jadi aku gak bisa bilang, “Aku pasti juara 1!”",
+      "PORTUGUESE": "Então dizer “Vou ficar em primeiro lugar!”",
+      "SPANISH": "Así que decir \"¡Voy a quedar primera!\"",
+      "PERSIAN": "بنابراین نمی توانم فقط بگویم: \"آره! من کاملاً برنده خواهم شد!\""
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 75.04,
+      "HIDE": 79.13
+    },
+    "SCRIPT": {
+      "KOREAN": "“나의 매력을 전부 다 알리겠어!”",
+      "ENGLISH": "or “I’ll charm everyone with my real personality!”",
+      "CHINESE_SIMPLIFIED": "“我要让大家看到我全部的魅力！”",
+      "CHINESE_TRADITIONAL": "“我要把我的魅力全部展現出來！”",
+      "JAPANESE": "”私の魅力を見せてやるぞ！”",
+      "INDONESIAN": "atau “Aku bakal nunjukin semua pesonaku!”",
+      "PORTUGUESE": "“Vou mostrar todo o meu charme!”",
+      "SPANISH": "\"¡Voy a mostrar todo mi encanto!\"",
+      "PERSIAN": "یا \"من همه را با شخصیت واقعی خود مجذوب خواهم کرد!\""
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 77.09,
+      "HIDE": 82.1
+    },
+    "SCRIPT": {
+      "KOREAN": "약간 요런 건 솔직히 자신이 없는 거 같아요",
+      "ENGLISH": "That doesn’t quite fit this time.",
+      "CHINESE_SIMPLIFIED": "这种话我其实没什么底气",
+      "CHINESE_TRADITIONAL": "我好像沒有那麼有把握",
+      "JAPANESE": "みたいな強気な感じにはなれなくて",
+      "INDONESIAN": "Aku nggak sepercaya diri itu sih.",
+      "PORTUGUESE": "Eu não tenho tanta certeza assim.",
+      "SPANISH": "No estoy muy segura, la verdad.",
+      "PERSIAN": "این بار کاملاً مناسب نیست."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 79.13,
+      "HIDE": 85.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 좋아해 주세요..",
+      "ENGLISH": "But still... I hope you like me.",
+      "CHINESE_SIMPLIFIED": "但还是请大家多多喜爱我...",
+      "CHINESE_TRADITIONAL": "但還是請大家多多喜歡我…",
+      "JAPANESE": "それでも 好きでいてくれたら嬉しいです…",
+      "INDONESIAN": "Tapi tetep tolong dukung aku yaaa",
+      "PORTUGUESE": "Ainda assim, por favor, me apoiem…",
+      "SPANISH": "Aun así, por favor apóyenme…",
+      "PERSIAN": "اما با این حال... امیدوارم دوستم داشته باشید."
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 82.1,
+      "HIDE": 87.08
+    },
+    "SCRIPT": {
+      "KOREAN": "1등 노려보겠습니다.",
+      "ENGLISH": "I’ll aim for #1 anyway!",
+      "CHINESE_SIMPLIFIED": "我会努力以第一为目标的！",
+      "CHINESE_TRADITIONAL": "我會努力爭取第一名的",
+      "JAPANESE": "1位 目指してみます",
+      "INDONESIAN": "Aku juga pengen ngerasain jadi juara 1 kok...",
+      "PORTUGUESE": "Vou tentar mirar no primeiro lugar.",
+      "SPANISH": "Intentaré apuntar al primer lugar",
+      "PERSIAN": "به هر حال من شماره 1 را هدف خواهم گرفت!"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 85.2,
+      "HIDE": 89.06
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히 저 좀 아쉬웠어요",
+      "ENGLISH": "Honestly, I did feel a little bit of FOMO.",
+      "CHINESE_SIMPLIFIED": "说实话我有点小遗憾呢",
+      "CHINESE_TRADITIONAL": "老實說，我有點小遺憾",
+      "JAPANESE": "正直ちょっと悔しかったです",
+      "INDONESIAN": "Sebenernya aku agak sedih juga sih...",
+      "PORTUGUESE": "Na verdade, eu fiquei com um pouco de inveja.",
+      "SPANISH": "La verdad me quedé con ganas.",
+      "PERSIAN": "راستش را بخواهید، من کمی ترس عقب افتادن را احساس کردم."
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 87.08,
+      "HIDE": 89.22
+    },
+    "SCRIPT": {
+      "KOREAN": "왜냐?",
+      "ENGLISH": "If you asked me why...",
+      "CHINESE_SIMPLIFIED": "为什么呢？",
+      "CHINESE_TRADITIONAL": "為什麼呢？",
+      "JAPANESE": "というのも",
+      "INDONESIAN": "Kalo nanya kenapa..",
+      "PORTUGUESE": "Do quê?",
+      "SPANISH": "¿De qué?",
+      "PERSIAN": "اگر از من می پرسیدی چرا ..."
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 89.06,
+      "HIDE": 92.22
+    },
+    "SCRIPT": {
+      "KOREAN": "유정이는 좀 꾸미지 않는 그런 캐릭터거든요",
+      "ENGLISH": "Because Yujeong’s the kind of girl who doesn’t really dress up much.",
+      "CHINESE_SIMPLIFIED": "因为有情是个不怎么打扮的角色",
+      "CHINESE_TRADITIONAL": "因為有情是個不太化妝打扮的角色",
+      "JAPANESE": "ユジョンってあまり飾らないキャラで",
+      "INDONESIAN": "Soalnya Yu-jeong ini bukan tipe karakter yang dandan maksimal gitu.",
+      "PORTUGUESE": "Como a Yujeong é um personagem que não se arruma muito,",
+      "SPANISH": "Como Yujeong es un personaje que no se arregla mucho",
+      "PERSIAN": "زیرا یو-جونگ از اون دسته دخترهایی است که در واقع زیاد لباس نمی پوشد."
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 89.22,
+      "HIDE": 97.03
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 화장도 좀 연하게 하고 노출도 별로 없고",
+      "ENGLISH": "She wears light makeup, no flashy clothes... she’s more low-key.\n",
+      "CHINESE_SIMPLIFIED": "所以妆容也比较淡，穿着也很保守",
+      "CHINESE_TRADITIONAL": "所以妝容比較清淡，也沒有什麼裸露的裝扮",
+      "JAPANESE": "メイクも薄めで露出も少なめなんですよ",
+      "INDONESIAN": "Makeup-nya natural banget, bajunya juga nggak terbuka.",
+      "PORTUGUESE": "sua maquiagem é modesta e ela quase não mostra pele.",
+      "SPANISH": "Su maquillaje es modesto y casi no muestra piel.",
+      "PERSIAN": "او آرایش ملایم می‌پوشد، لباس‌های پر زرق و برق نمی‌پوشد... او کمتر رفتار می‌کنه."
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 89.22,
+      "HIDE": 101.0
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 만약에 1등이 된다면",
+      "ENGLISH": "But if I do win first place...",
+      "CHINESE_SIMPLIFIED": "如果我这次能拿到第一的话",
+      "CHINESE_TRADITIONAL": "如果我真的拿到第一名",
+      "JAPANESE": "だからもし私が1位になれたら",
+      "INDONESIAN": "Tapi kalau misalnya aku beneran dapet peringkat 1,",
+      "PORTUGUESE": "Se eu ficar em primeiro lugar,",
+      "SPANISH": "Si llego a quedar primera",
+      "PERSIAN": "اما اگر رتبه اول را کسب کنم ..."
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 92.22,
+      "HIDE": 103.17
+    },
+    "SCRIPT": {
+      "KOREAN": "하전미 3에",
+      "ENGLISH": "maybe for FHUOR S3",
+      "CHINESE_SIMPLIFIED": "在《阿西美女3》里",
+      "CHINESE_TRADITIONAL": "我想在第三季中",
+      "JAPANESE": "『まさか！下宿生が 美女ですって？3』では",
+      "INDONESIAN": "di FHUOR 3 nanti...",
+      "PORTUGUESE": "na temporada 3…",
+      "SPANISH": "para la temporada 3...",
+      "PERSIAN": "شاید برای یک سقف و پنج قلب 3"
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 92.22,
+      "HIDE": 106.17
+    },
+    "SCRIPT": {
+      "KOREAN": "약간 좀 활발한 캐릭터로 나올 수 있게 한 번",
+      "ENGLISH": "I can convince the director",
+      "CHINESE_SIMPLIFIED": "我一定会想办法去说服导演",
+      "CHINESE_TRADITIONAL": "試著讓她變成一個更活潑的角色的",
+      "JAPANESE": "もう少し明るくて積極的なキャラとして出演できるように",
+      "INDONESIAN": "aku bakal coba bujuk sutradaranya ",
+      "PORTUGUESE": "eu gostaria de aparecer como um personagem um pouco mais enérgico.",
+      "SPANISH": "me gustaría aparecer como un personaje un poco más enérgico",
+      "PERSIAN": "من می توانم کارگردان را متقاعد کنم"
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 97.03,
+      "HIDE": 110.0
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 한 번 감독님을 꼬셔보도록 하겠습니다",
+      "ENGLISH": "to let me play a more outgoing, energetic role!",
+      "CHINESE_SIMPLIFIED": "争取能以一个更活泼的角色形象和大家见面！",
+      "CHINESE_TRADITIONAL": "我會努力去說服導演看看",
+      "JAPANESE": "監督にお願いしてみようと思います",
+      "INDONESIAN": "supaya kasih aku peran yang lebih aktif dan ceria!",
+      "PORTUGUESE": "Vou tentar convencer o diretor.",
+      "SPANISH": "Intentaré convencer al director.",
+      "PERSIAN": "به من اجازه می دهد نقش برونگرا و پرانرژی بازی کنم!"
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "TIME": {
+      "SHOW": 97.03,
+      "HIDE": 113.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네 여러분들",
+      "ENGLISH": "Thanks, everyone! ",
+      "CHINESE_SIMPLIFIED": "好吗，各位？谢谢大家~",
+      "CHINESE_TRADITIONAL": "就先這樣～謝謝大家！",
+      "JAPANESE": "はい、みなさん",
+      "INDONESIAN": "Oke segitu dulu ya, semuanya~",
+      "PORTUGUESE": "Acho que é só isso.",
+      "SPANISH": "Creo que eso es todo.",
+      "PERSIAN": "با تشکر از همه!"
+    }
+  }
+]

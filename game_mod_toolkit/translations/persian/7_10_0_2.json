@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.3
+    },
+    "SCRIPT": {
+      "KOREAN": "가지 마.",
+      "ENGLISH": "Don’t go.",
+      "CHINESE_SIMPLIFIED": "别走",
+      "CHINESE_TRADITIONAL": "不要走",
+      "JAPANESE": "行くな",
+      "INDONESIAN": "Jangan pergi.",
+      "PORTUGUESE": "Não vai.",
+      "SPANISH": "No vayas.",
+      "PERSIAN": "نرو"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "숙소 그거 꼭 가야 되는 거야?",
+      "ENGLISH": "Do you have to move into that dorm?",
+      "CHINESE_SIMPLIFIED": "那个宿舍非去不可吗？",
+      "CHINESE_TRADITIONAL": "那個宿舍是一定非去不可的嗎？",
+      "JAPANESE": "その宿舎、どうしても行かなきゃいけないのか？",
+      "INDONESIAN": "Emang kamu harus banget pindah ke asrama itu?",
+      "PORTUGUESE": "Você realmente precisa ir pra esse alojamento?",
+      "SPANISH": "¿De verdad tienes que ir a ese alojamiento?",
+      "PERSIAN": "شما باید به اون خوابگاه نقل مکان کنید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "모델 준비하는 애들이랑 같이 지내는 건데...",
+      "ENGLISH": "I mean… I’d be living with other model trainees…",
+      "CHINESE_SIMPLIFIED": "那里是和准备做模特的人一起住的...",
+      "CHINESE_TRADITIONAL": "那裡是和準備當模特兒的人一起住的...",
+      "JAPANESE": "モデル仲間と一緒に暮らすことになってて…",
+      "INDONESIAN": "Ya soalnya… aku bakal tinggal bareng trainee model lain juga…",
+      "PORTUGUESE": "É que eu tenho que morar com as outras garotas que também estão se preparando pra ser modelos...",
+      "SPANISH": "Es que tengo que vivir con las demás chicas que también se preparan para ser modelos...",
+      "PERSIAN": "منظورم این است که ... من با دیگر کارآموزان مدل زندگی می کنم ..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 모르겠고 가지 마.",
+      "ENGLISH": "I don’t care — just don’t go.",
+      "CHINESE_SIMPLIFIED": "算了，别去吧",
+      "CHINESE_TRADITIONAL": "啊，我不管，你不要走",
+      "JAPANESE": "知るか、行くな",
+      "INDONESIAN": "Aku nggak peduli — pokoknya jangan pergi.",
+      "PORTUGUESE": "Não me importa, não vai.",
+      "SPANISH": "No me importa, no te vayas.",
+      "PERSIAN": "من اهمیتی نمی دهم - فقط نرو."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너한테 잔소리도 안 하고, 하숙비도 내라고도 안 할게. ",
+      "ENGLISH": "I won’t nag you, I won’t even make you pay rent.",
+      "CHINESE_SIMPLIFIED": "我不唠叨你，也不催你交房租了",
+      "CHINESE_TRADITIONAL": "我不會對你嘮叨，也不會催收你房租",
+      "JAPANESE": "小言も言わないし、家賃もいらない",
+      "INDONESIAN": "Aku nggak bakal cerewet, bahkan nggak usah bayar kos.",
+      "PORTUGUESE": "Eu não vou te dar bronca, nem pedir pra você pagar aluguel.",
+      "SPANISH": "No voy a regañarte, ni a pedirte que pagues renta.",
+      "PERSIAN": "من شما را ناله نمی کنم، حتی مجبور نمی شوم کرایه بدهید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "청소도 안 해도 되니까 나랑 같이 있어.",
+      "ENGLISH": "You don’t have to clean either — just stay with me.",
+      "CHINESE_SIMPLIFIED": "不打扫卫生也行，就和我一起住吧",
+      "CHINESE_TRADITIONAL": "你不打掃也可以，和我一起住吧",
+      "JAPANESE": "掃除もしなくていいから、俺と一緒にいろ",
+      "INDONESIAN": "Nggak usah bersih-bersih juga — yang penting kamu tetap di sini.",
+      "PORTUGUESE": "Nem vai precisar limpar, só fica comigo.",
+      "SPANISH": "Ni siquiera tendrás que limpiar, solo quédate conmigo.",
+      "PERSIAN": "شما هم لازم نیست تمیز کنید - فقط با من بمانید."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 좋겠어?",
+      "ENGLISH": "Would you really like that?",
+      "CHINESE_SIMPLIFIED": "这样你也愿意吗？",
+      "CHINESE_TRADITIONAL": "如果這樣，你會開心嗎？",
+      "JAPANESE": "そうしてほしいの？",
+      "INDONESIAN": "Kamu beneran bakal suka kalau aku tetap di sini?",
+      "PORTUGUESE": "Isso te deixaria feliz?",
+      "SPANISH": "¿Eso te haría feliz?",
+      "PERSIAN": "واقعاً اونو دوست دارید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "あぁ！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره"
+    }
+  }
+]

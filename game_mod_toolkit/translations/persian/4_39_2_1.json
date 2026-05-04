@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 중대장 님... 참 좋은 분이셨죠.",
+      "ENGLISH": "Ah, Captain... he really was a good guy.",
+      "CHINESE_SIMPLIFIED": "啊，中队长…确实是位好人呢",
+      "CHINESE_TRADITIONAL": "啊，中隊長啊...他真是個好人啊",
+      "JAPANESE": "ああ、中隊長…ほんといい人でしたね",
+      "INDONESIAN": "Ah, Kapten… dia emang orang baik, ya.",
+      "PORTUGUESE": "Ah, o comandante… era uma boa pessoa.",
+      "SPANISH": "Ah, el comandante… era una buena persona.",
+      "PERSIAN": "آه، کاپیتان... او واقعاً پسر خوبی بود."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 근데 머리카락이 좀 부족하셨는데. ",
+      "ENGLISH": "Well, except for the hair situation.",
+      "CHINESE_SIMPLIFIED": "不过就是头发有点稀疏",
+      "CHINESE_TRADITIONAL": "不過他頭髮有點稀疏",
+      "JAPANESE": "でも髪の毛がちょっと足りなくて",
+      "INDONESIAN": "Yah, kecuali soal rambutnya sih.",
+      "PORTUGUESE": "Embora... faltasse um pouco de cabelo.",
+      "SPANISH": "Aunque le faltaba un poco de cabello.",
+      "PERSIAN": "خوب، به جز وضعیت مو."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저희 드래곤 파이어 내에서는 대머리 독수리라고 불렀습니다.",
+      "ENGLISH": "In our Dragon Fire unit, we used to call him the Bald Eagle.",
+      "CHINESE_SIMPLIFIED": "我们在龙焰内部都叫他“秃头鹰”",
+      "CHINESE_TRADITIONAL": "在龍火內部，大家都叫他「禿鷹」",
+      "JAPANESE": "俺らドラゴンファイアの中じゃハゲタカって呼んでました",
+      "INDONESIAN": "Di unit Dragon Fire, kita dulu manggil dia si Elang Botak.",
+      "PORTUGUESE": "Na nossa unidade, chamávamos ele de “Águia Careca”.",
+      "SPANISH": "Dentro de nuestro unidad, lo llamábamos el águila calva.",
+      "PERSIAN": "در واحد آتش اژدها، ما اونو عقاب طاس صدا می کردیم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "기억하시죠?",
+      "ENGLISH": "You remember that, right?",
+      "CHINESE_SIMPLIFIED": "你还记得吧？",
+      "CHINESE_TRADITIONAL": "您還記得吧？",
+      "JAPANESE": "覚えてます？",
+      "INDONESIAN": "Kamu inget kan?",
+      "PORTUGUESE": "Lembra?",
+      "SPANISH": "¿Se acuerda?",
+      "PERSIAN": "یادت هست، درست است؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 속아주는 것도 힘드네.",
+      "ENGLISH": "Man, pretending to believe you is exhausting.",
+      "CHINESE_SIMPLIFIED": "啊，要装傻听你胡扯也太累了",
+      "CHINESE_TRADITIONAL": "要配合你演下去也真不容易",
+      "JAPANESE": "はあ…騙されきれないな",
+      "INDONESIAN": "Astaga, pura-pura percaya omongan kamu tuh capek banget, tahu.",
+      "PORTUGUESE": "Como é difícil te acompanhar.",
+      "SPANISH": "Qué dificil es seguirte la corriente.",
+      "PERSIAN": "مرد، تظاهر به باور شما خسته کننده است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "중대장님 머리가 얼마나 풍성했는데",
+      "ENGLISH": "His hair was plenty full, thank you very much.",
+      "CHINESE_SIMPLIFIED": "中队长可是一头浓密秀发",
+      "CHINESE_TRADITIONAL": "中隊長頭髮很多好嗎",
+      "JAPANESE": "中隊長、髪はふさふさだ",
+      "INDONESIAN": "Rambutnya tuh lebat banget, makasih ya.",
+      "PORTUGUESE": "O comandante tinha uma cabeleira cheia!",
+      "SPANISH": "¡El comandante tenía una cabellera abundante!",
+      "PERSIAN": "موهاش پر بود خیلی ممنون"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "별명이 붉은 머리의 사자였다고. 이게 어디서 거짓말이야!",
+      "ENGLISH": "They used to call him the Red-Maned Lion, for god’s sake. Don’t go making stuff up!",
+      "CHINESE_SIMPLIFIED": "外号可是“红发雄狮”啊。这谎扯得太离谱了！",
+      "CHINESE_TRADITIONAL": "他的外號可是紅髮獅子欸！你是在說謊嗎！",
+      "JAPANESE": "あだ名は赤髪のライオンだったんだよ どこでそんな嘘ついてんだ！",
+      "INDONESIAN": "Dulu malah dipanggil Singa Berjambul Merah, sumpah. Jangan asal ngarang, deh!",
+      "PORTUGUESE": "E o apelido dele era “Leão de Juba Vermelha”! Como pode mentir assim?!",
+      "SPANISH": "y su apodo era “el león de melena roja”. ¡¿Cómo se te ocurre mentir así?!",
+      "PERSIAN": "به خاطر خدا اونو شیر یال قرمز می نامیدند. به ساختن مطالب نپردازید!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어우야 하지 마...",
+      "ENGLISH": "Ugh, stop it...",
+      "CHINESE_SIMPLIFIED": "哎哟别这样...",
+      "CHINESE_TRADITIONAL": "唉呀不要這樣...",
+      "JAPANESE": "おい、やめろって…",
+      "INDONESIAN": "Ugh, udahan dong...",
+      "PORTUGUESE": "Ah, não... não faz isso...",
+      "SPANISH": "Ay, no… no lo hagas…",
+      "PERSIAN": "اوه بس کن..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "- 애들아 \n- 그만해...!",
+      "ENGLISH": "— Guys\n— That’s enough...!",
+      "CHINESE_SIMPLIFIED": "-你们别打了\n-快住手...！",
+      "CHINESE_TRADITIONAL": "-你們不要打了\n-快住手...！",
+      "JAPANESE": "‐あんたたち\n‐やめて…！",
+      "INDONESIAN": "— Guys\n— Cukup…!",
+      "PORTUGUESE": "— Rapazes!\n— Parem...!",
+      "SPANISH": "—¡Chicos!\n—¡Basta...!",
+      "PERSIAN": "- بچه ها - بسه دیگه...!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그만 하라고!!",
+      "ENGLISH": "I said knock it off!!",
+      "CHINESE_SIMPLIFIED": "快住手！！",
+      "CHINESE_TRADITIONAL": "我說快住手！！",
+      "JAPANESE": "もうやめてって！！",
+      "INDONESIAN": "Aku bilang BERHENTI!!",
+      "PORTUGUESE": "Eu disse pra pararem!!",
+      "SPANISH": "¡Les dije que paren!!",
+      "PERSIAN": "گفتم ولش کن!!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜...",
+      "ENGLISH": "God, seriously...",
+      "CHINESE_SIMPLIFIED": "啊真是...",
+      "CHINESE_TRADITIONAL": "啊，真是的...",
+      "JAPANESE": "もうほんとに…",
+      "INDONESIAN": "Ya ampun, serius deh...",
+      "PORTUGUESE": "Ah, sério...",
+      "SPANISH": "Ay, de verdad…",
+      "PERSIAN": "خدایا جدی..."
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "데마시아!!! ",
+      "ENGLISH": "Demacia!!!",
+      "CHINESE_SIMPLIFIED": "德玛西亚！！！",
+      "CHINESE_TRADITIONAL": "是蒂瑪西亞！！！",
+      "JAPANESE": "デマシアーーー！！！",
+      "INDONESIAN": "Demacia!!!",
+      "PORTUGUESE": "Demasiaaa!!!",
+      "SPANISH": "¡¡Demasiaaa!!!",
+      "PERSIAN": "دماچیا!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.21,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아아악!!!!",
+      "ENGLISH": "Aaaagh!!!",
+      "CHINESE_SIMPLIFIED": "啊啊啊！！！！",
+      "CHINESE_TRADITIONAL": "啊啊啊！！！",
+      "JAPANESE": "うわあああああ！！！！！",
+      "INDONESIAN": "Aaaagh!!!",
+      "PORTUGUESE": "Aaaahhh!!",
+      "SPANISH": "¡¡Aaaahhh!!",
+      "PERSIAN": "آاااا!!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 씨 얼른 가요!",
+      "ENGLISH": "Min-jung, hurry—go now!",
+      "CHINESE_SIMPLIFIED": "敏静，快跑！",
+      "CHINESE_TRADITIONAL": "敏靜，趕快走！",
+      "JAPANESE": "ミンジョンさん、早く行って！！",
+      "INDONESIAN": "Min-jung, cepet—lari sekarang!",
+      "PORTUGUESE": "Minjung, vamos rápido!",
+      "SPANISH": "¡Minjung, vámonos rápido!",
+      "PERSIAN": "مین‌جونگ، عجله کن - برو!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어??",
+      "ENGLISH": "Huh??",
+      "CHINESE_SIMPLIFIED": "呃？？",
+      "CHINESE_TRADITIONAL": "欸？？",
+      "JAPANESE": "えっ！？",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Hã??",
+      "SPANISH": "¿Eh??",
+      "PERSIAN": "ها؟؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "야!! 야!! 너 거기 안 서?!",
+      "ENGLISH": "Hey!! You! Stop right there!!",
+      "CHINESE_SIMPLIFIED": "喂！！喂！！你给我站住？！",
+      "CHINESE_TRADITIONAL": "喂！喂！你給我站住！",
+      "JAPANESE": "おい！！おい！！そこ止まれっ！！",
+      "INDONESIAN": "Hey!! Kamu! Berhenti di situ!!",
+      "PORTUGUESE": "Ei!! Você!! Não sai daí!!",
+      "SPANISH": "¡Oye!! ¡¡Tú!! ¡¡No te muevas de ahí!!",
+      "PERSIAN": "سلام!! تو! همینجا بایست!!"
+    }
+  }
+]

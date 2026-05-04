@@ -1,0 +1,198 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 잠시만요!",
+      "ENGLISH": "\"Oh...! wait a second!",
+      "CHINESE_TRADITIONAL": "喔，等一下！",
+      "INDONESIAN": "\"Oh, tunggu bentar!",
+      "PERSIAN": "\"اوه...! یک لحظه صبر کن!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다",
+      "ENGLISH": "Thank you.",
+      "CHINESE_TRADITIONAL": "謝謝",
+      "INDONESIAN": "Makasih.",
+      "PERSIAN": "ممنونم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "- 감사합니다\n- 뭐야...",
+      "ENGLISH": "—Thank you.\n—Wait... what?",
+      "CHINESE_TRADITIONAL": "-謝謝\n-什麼啊...",
+      "INDONESIAN": "—Makasih.\n—Eh... apa sih?",
+      "PERSIAN": "-ممنونم -صبر کن...چی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 어...!\n- 어어!?",
+      "ENGLISH": "—Uh...!\n—Whoa, hey?!",
+      "CHINESE_TRADITIONAL": "-喔...! \n-喔喔！？",
+      "INDONESIAN": "—Uh...!\n—Eh!?",
+      "PERSIAN": "-آه...! -وای هی؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아저씨 좀만 천천히요...!",
+      "ENGLISH": "Sir, could please you slow down a bit...?",
+      "CHINESE_TRADITIONAL": "大叔，請再慢一點點...！",
+      "INDONESIAN": "Pak, bisa pelan-pelan sedikit nggak...?",
+      "PERSIAN": "آقا میشه لطفا یه کم سرعتتون رو کم کنید...؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "앗, 여기 앉으세요",
+      "ENGLISH": "Ah... here, have a seat.",
+      "CHINESE_TRADITIONAL": "啊，請坐這裡",
+      "INDONESIAN": "Ah...ini, silakan duduk di sini.",
+      "PERSIAN": "آه... اینجا، بنشین."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 28.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 감사합니다",
+      "ENGLISH": "Oh... thank you.",
+      "CHINESE_TRADITIONAL": "啊... 謝謝",
+      "INDONESIAN": "Oh... terima kasih.",
+      "PERSIAN": "اوه ... ممنون"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 31.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 떨어뜨리셨어요.",
+      "ENGLISH": "You dropped this.",
+      "CHINESE_TRADITIONAL": "這個掉了喔",
+      "INDONESIAN": "Ini kamu jatuhin ini tadi.",
+      "PERSIAN": "اینو ول کردی"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "INDONESIAN": "Ah...",
+      "PERSIAN": "آه..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 35.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 저",
+      "ENGLISH": "Um, I...",
+      "CHINESE_TRADITIONAL": "是我",
+      "INDONESIAN": "Umm, aku...",
+      "PERSIAN": "ام، من..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.6,
+      "HIDE": 37.4
+    },
+    "SCRIPT": {
+      "KOREAN": "야 우유만! 여기 자리 났어",
+      "ENGLISH": "Hey, Yuman! There’s a seat open here!",
+      "CHINESE_TRADITIONAL": "吳宥萬！這裡有空的位置",
+      "INDONESIAN": "Hey, Yuman! Ada tempat kosong di sini nih!",
+      "PERSIAN": "هی، یومان! اینجا یک صندلی باز است!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 38.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 어~",
+      "ENGLISH": "Huh? Oh~ coming!",
+      "CHINESE_TRADITIONAL": "呃？喔～",
+      "INDONESIAN": "Hah? Oh...ya!",
+      "PERSIAN": "ها؟ اوه~ می آید!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 38.3,
+      "HIDE": 39.5
+    },
+    "SCRIPT": {
+      "KOREAN": "엇, 저...",
+      "ENGLISH": "Wait, I...",
+      "CHINESE_TRADITIONAL": "啊，我...",
+      "INDONESIAN": "Eh, tadi...",
+      "PERSIAN": "صبر کن من..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 42.5,
+      "HIDE": 44.7
+    },
+    "SCRIPT": {
+      "KOREAN": "고맙다는 말을 못 했는데...",
+      "ENGLISH": "I didn’t get to thank him...",
+      "CHINESE_TRADITIONAL": "還沒來得及說謝謝...",
+      "INDONESIAN": "Aku belum sempat bilang makasih...",
+      "PERSIAN": "نتونستم ازش تشکر کنم..."
+    }
+  }
+]

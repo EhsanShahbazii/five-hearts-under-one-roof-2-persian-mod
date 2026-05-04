@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유나랑 무슨 사이에요?",
+      "ENGLISH": "What’s your relationship with Yu‑na?",
+      "CHINESE_SIMPLIFIED": "你跟有娜是什么关系？",
+      "CHINESE_TRADITIONAL": "你和有娜是什麼關係？",
+      "JAPANESE": "ユナさんとどういう関係ですか？",
+      "INDONESIAN": "Kamu tuh hubungan apa ya sama Yu-na?",
+      "PORTUGUESE": "E que relação você tem com a Yuna?",
+      "SPANISH": "¿Y qué relación tienes con Yuna?",
+      "PERSIAN": "رابطه شما با یونا چیه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "친구?",
+      "ENGLISH": "A… friend?",
+      "CHINESE_SIMPLIFIED": "朋友？",
+      "CHINESE_TRADITIONAL": "朋友？",
+      "JAPANESE": "友達？",
+      "INDONESIAN": "T-temen?",
+      "PORTUGUESE": "Amigos?",
+      "SPANISH": "¿Amigos?",
+      "PERSIAN": "یک دوست…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 친구 아니고 ",
+      "ENGLISH": "Not just a friend —",
+      "CHINESE_SIMPLIFIED": "不只是普通朋友",
+      "CHINESE_TRADITIONAL": "不只是普通朋友",
+      "JAPANESE": "ただの友達じゃなくて",
+      "INDONESIAN": "Bukan cuma temen—",
+      "PORTUGUESE": "Não apenas amigos.",
+      "SPANISH": "No solo amigos.",
+      "PERSIAN": "نه فقط یک دوست -"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 7.15
+    },
+    "SCRIPT": {
+      "KOREAN": "남자친구입니다.",
+      "ENGLISH": "I’m her boyfriend.",
+      "CHINESE_SIMPLIFIED": "是男朋友",
+      "CHINESE_TRADITIONAL": "我是她的男朋友",
+      "JAPANESE": "彼氏です",
+      "INDONESIAN": "Aku pacarnya.",
+      "PORTUGUESE": "Sou o namorado dela.",
+      "SPANISH": "Soy su novio.",
+      "PERSIAN": "من دوست پسرش هستم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "남친",
+      "ENGLISH": "Her boyfriend.",
+      "CHINESE_SIMPLIFIED": "男、男朋友？",
+      "CHINESE_TRADITIONAL": "男、男朋友？",
+      "JAPANESE": "彼氏",
+      "INDONESIAN": "Pacarnya.",
+      "PORTUGUESE": "Namorado dela.",
+      "SPANISH": "Su novio.",
+      "PERSIAN": "دوست پسرش"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야 괜찮냐?",
+      "ENGLISH": "Hey, you okay?",
+      "CHINESE_SIMPLIFIED": "喂，你没事吧？",
+      "CHINESE_TRADITIONAL": "喂，你沒事吧？",
+      "JAPANESE": "おい、大丈夫か？",
+      "INDONESIAN": "Eh, kamu nggak apa-apa?",
+      "PORTUGUESE": "Ei, você tá bem?",
+      "SPANISH": "Oye, ¿estás bien?",
+      "PERSIAN": "هی، خوبی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 남친 분 오해하시잖아~",
+      "ENGLISH": "Whoa, her boyfriend might misunderstand~",
+      "CHINESE_SIMPLIFIED": "哎呦，你这样她男朋友会误会的~",
+      "CHINESE_TRADITIONAL": "哎，你這樣她的男朋友會誤會的～",
+      "JAPANESE": "あ〜彼氏さん、誤解しないでくださいね〜",
+      "INDONESIAN": "Wah, pacarnya bisa salah paham tuh~",
+      "PORTUGUESE": "Ah, não fala assim, vai fazer o namorado dela entender errado~",
+      "SPANISH": "No digas eso, vas a hacer que su novio lo malinterprete.",
+      "PERSIAN": "اوه، دوست پسرش ممکنه سوءتفاهم کند"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 다른 게 아니고",
+      "ENGLISH": "No, it’s just that…",
+      "CHINESE_SIMPLIFIED": "不是你想的那样",
+      "CHINESE_TRADITIONAL": "不是你想的那樣",
+      "JAPANESE": "いや、そういうんじゃなくて",
+      "INDONESIAN": "Nggak, ini cuma…",
+      "PORTUGUESE": "Não, não é isso...",
+      "SPANISH": "Es solo que...",
+      "PERSIAN": "نه، فقط همین…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "약혼할 뻔한 사이거든요",
+      "ENGLISH": "We were this close to getting engaged.",
+      "CHINESE_SIMPLIFIED": "我们只是差点就要订婚的关系",
+      "CHINESE_TRADITIONAL": "只是我們曾經是差點要訂婚的關係",
+      "JAPANESE": "俺たち、婚約しかけた仲なんですよ",
+      "INDONESIAN": "Kita tuh hampir tunangan, lho.",
+      "PORTUGUESE": "A gente quase ficou noivo.",
+      "SPANISH": "estuvimos apunto de comprometernos.",
+      "PERSIAN": "خیلی به نامزدی نزدیک بودیم"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그치?",
+      "ENGLISH": "Right?",
+      "CHINESE_SIMPLIFIED": "对吧？",
+      "CHINESE_TRADITIONAL": "對吧？",
+      "JAPANESE": "ね？",
+      "INDONESIAN": "Iya, kan?",
+      "PORTUGUESE": "Não é?",
+      "SPANISH": "¿Verdad?",
+      "PERSIAN": "درسته؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그만해",
+      "ENGLISH": "Stop it.",
+      "CHINESE_SIMPLIFIED": "别说了",
+      "CHINESE_TRADITIONAL": "夠了",
+      "JAPANESE": "やめて",
+      "INDONESIAN": "Udah, stop.",
+      "PORTUGUESE": "Já chega.",
+      "SPANISH": "Ya basta.",
+      "PERSIAN": "بس کن"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 나라고 너랑 파혼하고 마음 편했겠냐?",
+      "ENGLISH": "What, you think I was fine after our engagement fell through?",
+      "CHINESE_SIMPLIFIED": "啊~你以为我跟你解约婚约后心里就好受吗？",
+      "CHINESE_TRADITIONAL": "啊～你以為我跟你解除婚約後，心裡有比較好受嗎？",
+      "JAPANESE": "あ〜俺だってお前と破談になって楽だったわけじゃないんだぞ？",
+      "INDONESIAN": "Apa? Kamu pikir aku baik-baik aja waktu tunangan kita batal?",
+      "PORTUGUESE": "Acha que pra mim foi fácil terminar o noivado?",
+      "SPANISH": "¿Crees que para mí fue fácil romper el compromiso?",
+      "PERSIAN": "فکر می کنی من خوب بودم بعد از اینکه نامزدی ما به پایان رسید؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 그만해~",
+      "ENGLISH": "I said stop.",
+      "CHINESE_SIMPLIFIED": "别说了！",
+      "CHINESE_TRADITIONAL": "別說了！",
+      "JAPANESE": "やめなよ",
+      "INDONESIAN": "Udah berenti.",
+      "PORTUGUESE": "Eu disse que já chega!",
+      "SPANISH": "¡Dije que ya basta!",
+      "PERSIAN": "گفتم بس کن"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유나야 미안~",
+      "ENGLISH": "Yu‑na, I’m sorry~",
+      "CHINESE_SIMPLIFIED": "有娜啊对不起~",
+      "CHINESE_TRADITIONAL": "有娜啊，抱歉～",
+      "JAPANESE": "ユナ、ごめんね〜",
+      "INDONESIAN": "Yu-na, maaf ya~",
+      "PORTUGUESE": "Yuna, desculpa~",
+      "SPANISH": "Yuna, lo siento~",
+      "PERSIAN": "یونا، متاسفم~"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 30.2
+    },
+    "SCRIPT": {
+      "KOREAN": "원래 남자애들이 눈치가 없잖아~",
+      "ENGLISH": "You know how guys can be totally clueless~",
+      "CHINESE_SIMPLIFIED": "男生本来就没眼力见嘛~",
+      "CHINESE_TRADITIONAL": "本來男生就比較不會看眼色嘛～",
+      "JAPANESE": "男ってほんと空気読めないから〜",
+      "INDONESIAN": "Kamu tahu kan, cowok tuh kadang clueless banget~",
+      "PORTUGUESE": "Você sabe como os garotos são, não entendem indiretas~",
+      "SPANISH": "Ya sabes cómo son los chicos, no entienden las indirectas~",
+      "PERSIAN": "شما می دانید که چگونه بچه ها می توانند کاملاً بی خبر باشند"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 30.3,
+      "HIDE": 32.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그만 하라고 너네",
+      "ENGLISH": "I said that’s enough, both of you.",
+      "CHINESE_SIMPLIFIED": "我叫你们别说了",
+      "CHINESE_TRADITIONAL": "我說夠了",
+      "JAPANESE": "やめてってば、あなたたち",
+      "INDONESIAN": "Aku bilang cukup, kalian berdua.",
+      "PORTUGUESE": "Eu disse pra pararem!",
+      "SPANISH": "¡Les dije que paren!",
+      "PERSIAN": "گفتم هر دوی شما کافی است."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 37.1
+    },
+    "SCRIPT": {
+      "KOREAN": "야~ 너네 때문에 유나 울잖아!",
+      "ENGLISH": "Hey—she’s crying because of you two!",
+      "CHINESE_SIMPLIFIED": "喂~你们都把有娜弄哭了！",
+      "CHINESE_TRADITIONAL": "喂！你們這些人把有娜都弄哭了",
+      "JAPANESE": "ちょっと！ユナ泣いてるじゃん！",
+      "INDONESIAN": "Hey, dia jadi nangis gara-gara kalian!",
+      "PORTUGUESE": "Olhem, por culpa de vocês a Yuna tá chorando!",
+      "SPANISH": "¡Miren, por su culpa Yuna está llorando!",
+      "PERSIAN": "هی - او به خاطر شما دو نفر گریه می کند!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 38.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유나야 괜찮아?",
+      "ENGLISH": "Yu‑na, are you okay??",
+      "CHINESE_SIMPLIFIED": "有娜啊没事吧？",
+      "CHINESE_TRADITIONAL": "有娜啊，你沒事吧？",
+      "JAPANESE": "ユナ、大丈夫？",
+      "INDONESIAN": "Yu-na, kamu nggak apa-apa??",
+      "PORTUGUESE": "Yuna, você tá bem?",
+      "SPANISH": "¿Yuna, estás bien?",
+      "PERSIAN": "یونا حالت خوبه؟؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 40.3,
+      "HIDE": 41.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨 괜찮아요?",
+      "ENGLISH": "Yu‑na, are you alright?",
+      "CHINESE_SIMPLIFIED": "有娜小姐您没事吧？",
+      "CHINESE_TRADITIONAL": "有娜小姐，你沒事吧？",
+      "JAPANESE": "ユナさん、大丈夫ですか？",
+      "INDONESIAN": "Yu-na, kamu baik-baik aja?",
+      "PORTUGUESE": "Senhorita Yuna, tá tudo bem?",
+      "SPANISH": "¿Señorita Yuna, está bien?",
+      "PERSIAN": "یونا، حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 47.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 저 안 울어요 괜찮아요",
+      "ENGLISH": "Oh— I’m not crying. I’m okay.",
+      "CHINESE_SIMPLIFIED": "啊，我没哭，没事的",
+      "CHINESE_TRADITIONAL": "啊，我沒有哭，我沒事",
+      "JAPANESE": "あ、泣いてません 大丈夫です",
+      "INDONESIAN": "Oh...aku nggak nangis kok. Aku nggak papa.",
+      "PORTUGUESE": "Eu não tô chorando, de verdade, tô bem.",
+      "SPANISH": "No estoy llorando, de verdad estoy bien.",
+      "PERSIAN": "اوه - من گریه نمی کنم. من خوبم"
+    }
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 0.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아악...! ",
+      "ENGLISH": "Aah…!",
+      "CHINESE_SIMPLIFIED": "啊啊啊——！",
+      "CHINESE_TRADITIONAL": "啊啊...! ",
+      "JAPANESE": "あっ…！",
+      "INDONESIAN": "Aah…!",
+      "PORTUGUESE": "Ahhh…!",
+      "SPANISH": "¡Ahhh…!",
+      "PERSIAN": "آه…!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "숨…! 숨…!! 숨…!!! 숨…!!!!",
+      "ENGLISH": "Breath…! Breath…!! Breath…!!! Breath…!!!!",
+      "CHINESE_SIMPLIFIED": "呼...！呼...！！呼...！！！呼——！！！！",
+      "CHINESE_TRADITIONAL": "呼...！吸...！！我...！！！呼吸...！！！！",
+      "JAPANESE": "息…！息が…！息が…！！息がっ…！！！！",
+      "INDONESIAN": "Napas…! Napas…!! Napas…!!! Napas…!!!!",
+      "PORTUGUESE": "Ar...! Ar...! Por favor...!!! Ar...!!!",
+      "SPANISH": "¡Aire...! ¡Aire...! ¡Por favor...! ¡¡¡Aire...!!!",
+      "PERSIAN": "نفس…! نفس…!! نفس…!!! نفس…!!!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어!! 죄송해요! 괜찮으세요??",
+      "ENGLISH": "Oh!! I’m so sorry! Are you okay??",
+      "CHINESE_SIMPLIFIED": "啊！！对不起！您还好吗？？",
+      "CHINESE_TRADITIONAL": "啊！！對不起！你還好嗎？？",
+      "JAPANESE": "あっ！！すみません！！大丈夫ですか！？",
+      "INDONESIAN": "Oh!! Maaf banget! Kamu nggak apa-apa??",
+      "PORTUGUESE": "Ah! Desculpa! Tá tudo bem??",
+      "SPANISH": "¡Ah! ¡Perdón! ¿Está bien??",
+      "PERSIAN": "اوه!! خیلی متاسفم! حالت خوبه؟؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐 하세요 빨리 일어나셔야죠.",
+      "ENGLISH": "What are you doing — you need to get up quickly.",
+      "CHINESE_SIMPLIFIED": "哎，您干嘛呀，得快点起来啊！",
+      "CHINESE_TRADITIONAL": "你在做什麼，快點站起來啊",
+      "JAPANESE": "なにしてるんですか 早く起きないと！",
+      "INDONESIAN": "Ngapain sih—cepetan bangun dong.",
+      "PORTUGUESE": "O que tá fazendo? Levanta rápido.",
+      "SPANISH": "¿Qué hace? Levántese rápido.",
+      "PERSIAN": "چه کار می کنید - باید سریع بلند شوید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저게 뭐야...?",
+      "ENGLISH": "What is that…?",
+      "CHINESE_SIMPLIFIED": "搞什么啊...？",
+      "CHINESE_TRADITIONAL": "那是什麼啊…？",
+      "JAPANESE": "あれ何…？",
+      "INDONESIAN": "Itu apaan…?",
+      "PORTUGUESE": "O que é isso...?",
+      "SPANISH": "¿Pero qué le pasa...?",
+      "PERSIAN": "اون چیه…؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아 나 괜찮아.",
+      "ENGLISH": "I’m fine, Mal-sook.",
+      "CHINESE_SIMPLIFIED": "末淑，我没事",
+      "CHINESE_TRADITIONAL": "我沒事啦，末淑",
+      "JAPANESE": "マルスク 俺大丈夫",
+      "INDONESIAN": "Aku nggak apa-apa, Mal-sook.",
+      "PORTUGUESE": "Malsook, eu tô bem.",
+      "SPANISH": "Malsook, estoy bien.",
+      "PERSIAN": "من خوبم، مال‌سوک."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 잡으시면 괜찮으실 거예요.",
+      "ENGLISH": "If you hold onto this, you should be okay.",
+      "CHINESE_SIMPLIFIED": "您抓着这个应该会好些",
+      "CHINESE_TRADITIONAL": "抓住這個就沒事了",
+      "JAPANESE": "これ掴めば平気ですよ",
+      "INDONESIAN": "Kalau kamu pegangin ini, harusnya kamu aman.",
+      "PORTUGUESE": "Se segurar aqui, vai ficar tudo certo.",
+      "SPANISH": "Si se agarra de aquí, va aestar bien.",
+      "PERSIAN": "اگر اینو حفظ کنید، باید خوب باشید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아...네 감사합니다...",
+      "ENGLISH": "Ah… thank you…",
+      "CHINESE_SIMPLIFIED": "啊...谢谢...",
+      "CHINESE_TRADITIONAL": "啊...謝謝你",
+      "JAPANESE": "あ…はい ありがとうございます…",
+      "INDONESIAN": "Ah… makasih…",
+      "PORTUGUESE": "Ah… sim, muito obrigada...",
+      "SPANISH": "Ah… sí, muchas gracias...",
+      "PERSIAN": "آه…ممنون…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "야 우유만.",
+      "ENGLISH": "Hey, Yu man.",
+      "CHINESE_SIMPLIFIED": "喂，吴宥万",
+      "CHINESE_TRADITIONAL": "喂！吳宥萬",
+      "JAPANESE": "ウ・ユマン",
+      "INDONESIAN": "Eh, Yuman.",
+      "PORTUGUESE": "Ei, Yumán.",
+      "SPANISH": "Oye, Yumán.",
+      "PERSIAN": "هی، مرد یو"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 사람이 그 사람인 가봐!",
+      "ENGLISH": "I think that person is the one!",
+      "CHINESE_SIMPLIFIED": "那个人，好像就是那个人！",
+      "CHINESE_TRADITIONAL": "那個人好像就是他！",
+      "JAPANESE": "あの人 たぶんその人だよ！",
+      "INDONESIAN": "Kayaknya orang itu deh!",
+      "PORTUGUESE": "Acho que aquela garota é ela!",
+      "SPANISH": "¡Creo esa chica es \"ella\"!",
+      "PERSIAN": "من فکر می کنم اون شخص همون است!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어떤 사람?",
+      "ENGLISH": "Who?",
+      "CHINESE_SIMPLIFIED": "哪个人？",
+      "CHINESE_TRADITIONAL": "什麼人？",
+      "JAPANESE": "どの人？",
+      "INDONESIAN": "Siapa?",
+      "PORTUGUESE": "Quem...?",
+      "SPANISH": "¿Quién...?",
+      "PERSIAN": "سازمان بهداشت جهانی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그 15번 버스 전설의 왕가슴 선배",
+      "ENGLISH": "The legendary big-boob senpai from Bus 15.",
+      "CHINESE_SIMPLIFIED": "就是——15路公交车传说中的“巨乳学姐”！",
+      "CHINESE_TRADITIONAL": "啊，就是15號公車上，傳說中的巨乳學姊！",
+      "JAPANESE": "あの 15番バス伝説の爆乳先輩！",
+      "INDONESIAN": "Kakak kelas legendaris yang dada besar dari Bus 15 itu.",
+      "PORTUGUESE": "A lenda dos melões do ônibus 15!",
+      "SPANISH": "¡La leyenda de los melones del autobús 15!",
+      "PERSIAN": "سنپای افسانه ای سینه بزرگ از اتوبوس 15."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왕가슴 선배?",
+      "ENGLISH": "Big-chest senior…",
+      "CHINESE_SIMPLIFIED": "巨乳学姐？",
+      "CHINESE_TRADITIONAL": "巨乳學姊？",
+      "JAPANESE": "爆乳先輩？",
+      "INDONESIAN": "Kakak dada besar…",
+      "PORTUGUESE": "A dos melões?",
+      "SPANISH": "¿La de los melones?",
+      "PERSIAN": "ارشد سینه بزرگ…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 나 지금까지 구란 줄 알았는데... ",
+      "ENGLISH": "Wow, I seriously thought that was just a rumor…",
+      "CHINESE_SIMPLIFIED": "哈，我一直以为是编的故事呢...",
+      "CHINESE_TRADITIONAL": "哈，我之前還以為只是傳說…",
+      "JAPANESE": "はぁ…今までただの作り話だと思ってたけど…",
+      "INDONESIAN": "Gila, gue kira itu cuma rumor doang…",
+      "PORTUGUESE": "Haha, achei que era só história, mas...",
+      "SPANISH": "Ja, pensé que era puro cuento pero…",
+      "PERSIAN": "وای من جدی فکر کردم شایعه بود…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 31.6
+    },
+    "SCRIPT": {
+      "KOREAN": "실제로 보니까 가슴이 막 이만해~~!!!",
+      "ENGLISH": "But seeing in person, her chest are like this big~~!!!",
+      "CHINESE_SIMPLIFIED": "实际看到才发现胸部居然这么大——！！！",
+      "CHINESE_TRADITIONAL": "沒想到親眼看到，胸部竟然有這麼大～～！！！",
+      "JAPANESE": "実際に見ると胸がもうこんなにデカい〜〜！！！",
+      "INDONESIAN": "Tapi pas liat langsung, dadanya bener-bener segede gini~~!!!",
+      "PORTUGUESE": "Ver ao vivo... são assim de grandes~~!!!",
+      "SPANISH": "Pero verla en persona... ¡son así de grandes~~!!!",
+      "PERSIAN": "ولی با دیدن شخصا سینه هاش اینقدر بزرگه~~!!!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 34.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 야야야야!! 손 치워! 다 보인다고!",
+      "ENGLISH": "Hey hey hey hey!! Move your hand! Everything’s showing!",
+      "CHINESE_SIMPLIFIED": "喂喂喂！！把手放下！全都被看见了！！",
+      "CHINESE_TRADITIONAL": "喂喂喂喂！！把手拿開！都被看見了啦！",
+      "JAPANESE": "おいおいおい！！手どけろ！全部見えるだろ！",
+      "INDONESIAN": "Eh eh eh eh!! Tangan lo minggir! Kelihatan semua!",
+      "PORTUGUESE": "Ei, ei! Abaixa as mãos! Ela vai perceber!",
+      "SPANISH": "¡Oye, oye! ¡Baja las manos! ¡Se va a dar cuenta!",
+      "PERSIAN": "هی هی هی هی!! دستت را حرکت بده! همه چیز نشان می دهد!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 부럽다~",
+      "ENGLISH": "Man, I’m jealous of the milk~",
+      "CHINESE_SIMPLIFIED": "吴宥万，真让人羡慕啊~",
+      "CHINESE_TRADITIONAL": "好羨慕吳宥萬啊～",
+      "JAPANESE": "ウ・ユマン うらやまし〜",
+      "INDONESIAN": "Gue iri banget sama susunya~",
+      "PORTUGUESE": "Que inveja, Yuman~",
+      "SPANISH": "Qué envidia, Yuman~",
+      "PERSIAN": "مرد، من به شیر حسادت می کنم"
+    }
+  }
+]

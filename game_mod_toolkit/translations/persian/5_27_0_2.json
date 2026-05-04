@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "튀어요!!",
+      "ENGLISH": "Scatter!!",
+      "CHINESE_SIMPLIFIED": "快跑！！",
+      "CHINESE_TRADITIONAL": "快跑！！",
+      "JAPANESE": "走れ！！",
+      "INDONESIAN": "Bubar sekarang!!",
+      "PORTUGUESE": "Corre!!",
+      "SPANISH": "¡¡Corre!!",
+      "PERSIAN": "پراکنده!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야 우유만이 어디가!!",
+      "ENGLISH": "Hey, Yuman, where are you going?!",
+      "CHINESE_SIMPLIFIED": "喂，吴宥万！你跑哪去！",
+      "CHINESE_TRADITIONAL": "喂！吳宥萬！你要去哪裡！！",
+      "JAPANESE": "おい ウ・ユマン どこ行く！！",
+      "INDONESIAN": "Hei, Yuman, kamu mau kemana sih?!",
+      "PORTUGUESE": "Ei, Yuman! Pra onde você tá indo?!",
+      "SPANISH": "¡Oye, Yuman! ¿A dónde vas?!",
+      "PERSIAN": "هی یومان کجا میری؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 이것들 어디로 갔지 이거 어?",
+      "ENGLISH": "Ah… where did they even go?",
+      "CHINESE_SIMPLIFIED": "啊...这些家伙跑哪儿去了这是？",
+      "CHINESE_TRADITIONAL": "啊...這些傢伙跑去哪了？",
+      "JAPANESE": "あ…あいつらどこ行きやがった…ん？",
+      "INDONESIAN": "Ah… mereka semua ke mana, ya?",
+      "PORTUGUESE": "Ah... pra onde eles foram...? Hã?",
+      "SPANISH": "Ah... ¿a dónde se fueron estos...? ¿Eh?",
+      "PERSIAN": "آه... اصلا کجا رفتند؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍, 이쪽인가...",
+      "ENGLISH": "Tsk… maybe over here…",
+      "CHINESE_SIMPLIFIED": "嘶——是这边吗...",
+      "CHINESE_TRADITIONAL": "嘖！是這邊嗎...",
+      "JAPANESE": "チッ こっちか…",
+      "INDONESIAN": "Tsk… mungkin ke arah sini…",
+      "PORTUGUESE": "Tsk, será que é por aqui...?",
+      "SPANISH": "Tsk, ¿será por aquí...?",
+      "PERSIAN": "تسک… شاید اینجا…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "휴 갔다... 이제 괜찮은 거 같아요.",
+      "ENGLISH": "Phew, they’re gone… I think it’s safe now.",
+      "CHINESE_SIMPLIFIED": "呼，走了...现在应该没事了",
+      "CHINESE_TRADITIONAL": "呼！終於走了...現在好像沒事了",
+      "JAPANESE": "ふぅ 行った…もう大丈夫みたいです",
+      "INDONESIAN": "Huft, mereka udah pergi… kayaknya udah aman sekarang.",
+      "PORTUGUESE": "Ufa, já foi embora... acho que agora estamos a salvo.",
+      "SPANISH": "Uf, ya se fue... creo que ya estamos a salvo.",
+      "PERSIAN": "وای، اونا رفته اند... فکر می کنم اکنون امن است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "휴우... 다행이다...",
+      "ENGLISH": "Ah… thank goodness…",
+      "CHINESE_SIMPLIFIED": "呼呜...幸好...",
+      "CHINESE_TRADITIONAL": "呼...太好了...",
+      "JAPANESE": "ふぅ…よかった…",
+      "INDONESIAN": "Ah… syukurlah…",
+      "PORTUGUESE": "Uff... que alívio...",
+      "SPANISH": "Uff... qué alivio...",
+      "PERSIAN": "آه...خدایا شکرت…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그... 이제 손은 놔도 될 거 같은데.",
+      "ENGLISH": "Uh… I think I can let go now.",
+      "CHINESE_SIMPLIFIED": "那个...现在可以放手了吧",
+      "CHINESE_TRADITIONAL": "那個...現在好像可以把手放開了",
+      "JAPANESE": "あの…もう手 放してもいいかと…",
+      "INDONESIAN": "Uh… kayaknya aku  udah bisa lepasin sekarang.",
+      "PORTUGUESE": "Ehm... acho que você já pode me soltar.",
+      "SPANISH": "Ehm... creo que ya puede soltarme.",
+      "PERSIAN": "اوه... فکر می کنم الان می توانم رها کنم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 27.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아! ",
+      "CHINESE_SIMPLIFIED": "啊！",
+      "CHINESE_TRADITIONAL": "啊！",
+      "JAPANESE": "あっ！",
+      "PORTUGUESE": "Ah!",
+      "SPANISH": "¡Ah!",
+      "PERSIAN": "آه"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.7,
+      "HIDE": 29.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 죄송해요!",
+      "ENGLISH": "Ah! Sorry!",
+      "CHINESE_SIMPLIFIED": "啊！对不起！",
+      "CHINESE_TRADITIONAL": "啊！對不起！",
+      "JAPANESE": "あっ ごめん！",
+      "INDONESIAN": "Ah! Maaf!",
+      "PORTUGUESE": "Ah! Desculpa!",
+      "SPANISH": "¡Ah! Perdón!",
+      "PERSIAN": "آه! متاسفم!"
+    }
+  }
+]

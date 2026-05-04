@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 진짜... 이럴 거예요?",
+      "ENGLISH": "Oh come on... seriously?",
+      "CHINESE_SIMPLIFIED": "哎呦真是..您这是要干嘛？",
+      "CHINESE_TRADITIONAL": "欸，你...這是要做什麼？",
+      "JAPANESE": "もう… 本当ですか？",
+      "INDONESIAN": "Oh ayolah... serius?",
+      "PORTUGUESE": "Ai, sério… vai continuar assim?",
+      "SPANISH": "Ay, de verdad… ¿va a seguir así?",
+      "PERSIAN": "بیا... جدی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "언제 적 플러팅 이에요, 쌤~",
+      "ENGLISH": "That kind of flirting? Really, Ms. Gyu-ri?",
+      "CHINESE_SIMPLIFIED": "这都什么年代的撩人方式了，老师~",
+      "CHINESE_TRADITIONAL": "這是多久以前的撩人招數了啦，護士小姐～",
+      "JAPANESE": "いつの時代のナンパですか 先生〜",
+      "INDONESIAN": "Rayuan macam itu? Benarkah, Nona Gyu-ri?",
+      "PORTUGUESE": "Esse jeitinho de flertar já tá fora de moda~",
+      "SPANISH": "Esa forma de coquetear ya está pasada de moda~",
+      "PERSIAN": "این نوع معاشقه؟ راستی خانم گیو ری؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가요...?",
+      "ENGLISH": "What are you talking about...?",
+      "CHINESE_SIMPLIFIED": "您在说什么呢...",
+      "CHINESE_TRADITIONAL": "你在說什麼啊...？",
+      "JAPANESE": "なにが…？",
+      "INDONESIAN": "Apa yang sedang kamu bicarakan...?",
+      "PORTUGUESE": "Do que você tá falando…?",
+      "SPANISH": "¿De qué habla…?",
+      "PERSIAN": "از چی حرف میزنی...؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 크림~ 그거 일부러 묻히셨죠.",
+      "ENGLISH": "The cream~ You totally did that on purpose.",
+      "CHINESE_SIMPLIFIED": "啊，奶油~您是故意沾上的吧",
+      "CHINESE_TRADITIONAL": "啊，奶油～ 你是故意沾上去的吧",
+      "JAPANESE": "あ クリーム〜 わざとつけたでしょ？",
+      "INDONESIAN": "Krim~ Kamu benar-benar melakukannya dengan sengaja.",
+      "PORTUGUESE": "Ah, o creme~ aposto que você passou de propósito!",
+      "SPANISH": "Ah, la crema~ ¡seguro se la puso a propósito!",
+      "PERSIAN": "کرم ~ تو کاملا عمدا این کار را کردی."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 크림이 묻었어요?",
+      "ENGLISH": "Cream? There’s cream on me?",
+      "CHINESE_SIMPLIFIED": "啊，沾到奶油了吗？",
+      "CHINESE_TRADITIONAL": "啊，我沾到奶油了？",
+      "JAPANESE": "あっ クリームついてました？",
+      "INDONESIAN": "Krim? Ada krim di badanku?",
+      "PORTUGUESE": "Ah, eu tinha creme?",
+      "SPANISH": "¿Ah, tenía crema?",
+      "PERSIAN": "کرم؟ کرم روی من هست؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네 여기요.",
+      "ENGLISH": "Yeah, right here.",
+      "CHINESE_SIMPLIFIED": "嗯，这里",
+      "CHINESE_TRADITIONAL": "對，在這裡",
+      "JAPANESE": "はい ここです",
+      "INDONESIAN": "Ya, di sini.",
+      "PORTUGUESE": "Sim, aqui.",
+      "SPANISH": "Sí, aquí.",
+      "PERSIAN": "آره همینجا"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요?",
+      "ENGLISH": "Here?",
+      "CHINESE_SIMPLIFIED": "这里吗？",
+      "CHINESE_TRADITIONAL": "在這裡嗎？",
+      "JAPANESE": "ここ？",
+      "INDONESIAN": "Di Sini?",
+      "PORTUGUESE": "Aqui?",
+      "SPANISH": "¿Aquí?",
+      "PERSIAN": "اینجا؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 조금 더 밑에",
+      "ENGLISH": "No, a little lower.",
+      "CHINESE_SIMPLIFIED": "不是，再往下一点",
+      "CHINESE_TRADITIONAL": "不對，再下面一點",
+      "JAPANESE": "いや もうちょっと下です",
+      "INDONESIAN": "Tidak, sedikit lebih rendah.",
+      "PORTUGUESE": "Não, um pouquinho mais pra baixo.",
+      "SPANISH": "No, un poco más abajo.",
+      "PERSIAN": "نه، کمی پایین تر."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "밑에 여기요?",
+      "ENGLISH": "Lower... here?",
+      "CHINESE_SIMPLIFIED": "下面这里吗？",
+      "CHINESE_TRADITIONAL": "下面？這裡嗎？",
+      "JAPANESE": "下？ ここ？",
+      "INDONESIAN": "Lebih rendah... di sini?",
+      "PORTUGUESE": "Pra baixo, aqui?",
+      "SPANISH": "¿Abajo, aquí?",
+      "PERSIAN": "پایین تر... اینجا؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 좀 더 위로!",
+      "ENGLISH": "No, wait—up a bit!",
+      "CHINESE_SIMPLIFIED": "啊，再往上一点！",
+      "CHINESE_TRADITIONAL": "啊，再上面一點！",
+      "JAPANESE": "あ もうちょっと上！",
+      "INDONESIAN": "Tidak, tunggu—naik sedikit!",
+      "PORTUGUESE": "Não, um pouquinho mais pra cima.",
+      "SPANISH": "No, un poquito más arriba.",
+      "PERSIAN": "نه، صبر کن - کمی بالا!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 말하는 거예요...!",
+      "ENGLISH": "Where are you even pointing?!",
+      "CHINESE_SIMPLIFIED": "到底是在说哪里啊...！",
+      "CHINESE_TRADITIONAL": "你到底在說哪裡啊...!",
+      "JAPANESE": "どこですかっ…！",
+      "INDONESIAN": "Kamu tunjuk ke mana sih?!",
+      "PORTUGUESE": "De que parte você tá falando…?",
+      "SPANISH": "¿De qué parte está hablando...?",
+      "PERSIAN": "اصلا به کجا اشاره می کنی؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨...",
+      "ENGLISH": "Ugh... seriously!",
+      "CHINESE_SIMPLIFIED": "阿西...",
+      "CHINESE_TRADITIONAL": "欸...",
+      "JAPANESE": "えいっ…！",
+      "INDONESIAN": "Ugh... serius!",
+      "PORTUGUESE": "Ai, pelo amor de Deus…",
+      "SPANISH": "Ay, por Dios…",
+      "PERSIAN": "اوه... جدی!"
+    }
+  }
+]

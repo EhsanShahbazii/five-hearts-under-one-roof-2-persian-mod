@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그쪽은 뭐 하시는 분이세요?",
+      "ENGLISH": "By the way, what do you do?",
+      "CHINESE_SIMPLIFIED": "不过请问您是做什么的？",
+      "CHINESE_TRADITIONAL": "對了，請問您是做什麼的呢？",
+      "JAPANESE": "でも、そちらは何されてる方ですか？",
+      "INDONESIAN": "Ngomong‑ngomong, kamu kerja apa deh?",
+      "PORTUGUESE": "Aliás, com o que você trabalha?",
+      "SPANISH": "Por cierto, ¿A qué te dedicas?",
+      "PERSIAN": "در ضمن، چه کار می کنی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "파티에서는 처음 뵙는 거 같은데.",
+      "ENGLISH": "I don’t think we’ve met at the party before.",
+      "CHINESE_SIMPLIFIED": "好像是第一次在派对上见到您",
+      "CHINESE_TRADITIONAL": "我好像是第一次在派對上見到您",
+      "JAPANESE": "パーティーでは初めてお会いしますけど",
+      "INDONESIAN": "Kayaknya kita belum pernah ketemu di pesta sebelumnya.",
+      "PORTUGUESE": "Acho que nunca o vi antes.",
+      "SPANISH": "No creo habernos visto antes.",
+      "PERSIAN": "فکر نمی‌کنم قبلاً در مهمانی ملاقات کرده باشیم."
+    }
+  }
+]

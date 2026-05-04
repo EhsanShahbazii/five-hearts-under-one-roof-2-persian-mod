@@ -1,0 +1,452 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요!",
+      "ENGLISH": "Over here!",
+      "CHINESE_SIMPLIFIED": "是这张！",
+      "CHINESE_TRADITIONAL": "這個！",
+      "JAPANESE": "ここです！",
+      "INDONESIAN": "Di sini!",
+      "PORTUGUESE": "Aqui!",
+      "SPANISH": "¡Aquí!",
+      "PERSIAN": "اینجا!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 2번인데??",
+      "ENGLISH": "Huh? I think it’s card 2!",
+      "CHINESE_SIMPLIFIED": "呃？是2号吧？？",
+      "CHINESE_TRADITIONAL": "咦？是第二張吧？？",
+      "JAPANESE": "え？2番じゃないですか？",
+      "INDONESIAN": "Hah? Kayaknya itu kartu 2!",
+      "PORTUGUESE": "Hã? É a número 2?",
+      "SPANISH": "¿Eh? ¿Es la número 2?",
+      "PERSIAN": "ها؟ فکر کنم کارت 2 باشه!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "흠, 1번인데...",
+      "ENGLISH": "Hmm, I thought it was card 1...",
+      "CHINESE_SIMPLIFIED": "嗯，我觉得是1号...",
+      "CHINESE_TRADITIONAL": "嗯，我覺得是第一張…",
+      "JAPANESE": "うーん、1番に見えるけど…",
+      "INDONESIAN": "Hmm, kukira itu kartu 1...",
+      "PORTUGUESE": "Hã, eu diria que é a 1…",
+      "SPANISH": "Mmm, yo diría que es la 1…",
+      "PERSIAN": "هوم، فکر کردم کارت 1 بود..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아...2번 같은데...",
+      "ENGLISH": "Ah... but it feels like 2...",
+      "CHINESE_SIMPLIFIED": "啊...好像是2号呢...",
+      "CHINESE_TRADITIONAL": "啊…但好像比較像第二張…",
+      "JAPANESE": "あ〜でも2番っぽいな…",
+      "INDONESIAN": "Ah... tapi rasanya seperti 2...",
+      "PORTUGUESE": "Ah... não sei, pra mim parece mais a 2...",
+      "SPANISH": "Ah... no sé, me parece más la 2...",
+      "PERSIAN": "آه ... اما احساس می کنم 2 ..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그런가...",
+      "ENGLISH": "Really...?",
+      "CHINESE_SIMPLIFIED": "是吗...",
+      "CHINESE_TRADITIONAL": "是嗎…",
+      "JAPANESE": "そうですか？",
+      "INDONESIAN": "Benar-benar...?",
+      "PORTUGUESE": "Ah, é...?",
+      "SPANISH": "¿Ah, sí...?",
+      "PERSIAN": "واقعا...؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "두 분 따로 가시겠어요?",
+      "ENGLISH": "Would you two like to vote separately?",
+      "CHINESE_SIMPLIFIED": "两位要分开选吗？",
+      "CHINESE_TRADITIONAL": "兩位要分開選嗎？",
+      "JAPANESE": "お二人で別々に選びますか？",
+      "INDONESIAN": "Apakah kalian berdua ingin memilih secara terpisah?",
+      "PORTUGUESE": "Querem escolher separadamente?",
+      "SPANISH": "¿Quieren elegir por separado?",
+      "PERSIAN": "شما دو نفر می خواهید جداگانه رای دهید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hã...",
+      "SPANISH": "Mmm...",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 유만 씨가 한 걸로 갈게요! 2번이요!",
+      "ENGLISH": "I’ll go with Yuman! Card 2!",
+      "CHINESE_SIMPLIFIED": "我也跟着宥万先生选吧！选2号！",
+      "CHINESE_TRADITIONAL": "我還是跟你選一樣的！第二張！",
+      "JAPANESE": "私もユマンさんに合わせます！2番にします！",
+      "INDONESIAN": "Aku pilih Yuman! Kartu 2!",
+      "PORTUGUESE": "Não, vou com a escolha do Yumán. A 2!",
+      "SPANISH": "No, voy con la elección de Yumán. ¡La 2!",
+      "PERSIAN": "من با یومان می روم! کارت 2!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "2번이요!",
+      "ENGLISH": "Card 2, please!",
+      "CHINESE_SIMPLIFIED": "选2号！",
+      "CHINESE_TRADITIONAL": "第二張！",
+      "JAPANESE": "2番ですね！",
+      "INDONESIAN": "Kartu 2, tolong!",
+      "PORTUGUESE": "A 2!",
+      "SPANISH": "¡La 2!",
+      "PERSIAN": "کارت 2، لطفا!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 그럼 공개해 보도록 하겠습니다.",
+      "ENGLISH": "Alright, let’s see ",
+      "CHINESE_SIMPLIFIED": "好，那么现在揭晓答案",
+      "CHINESE_TRADITIONAL": "那麼我們就公開答案吧",
+      "JAPANESE": "では、公開いたします",
+      "INDONESIAN": "Baiklah, mari kita lihat",
+      "PORTUGUESE": "Muito bem, então vamos revelar o resultado.",
+      "SPANISH": "Muy bien, entonces revelaremos el resultado.",
+      "PERSIAN": "باشه ببینیم"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "과연 2번이 맞을지...!",
+      "ENGLISH": "if card 2 is the one...!",
+      "CHINESE_SIMPLIFIED": "到底2号对不对呢...！",
+      "CHINESE_TRADITIONAL": "到底第二張是不是正確的呢─！",
+      "JAPANESE": "果たして2番が正解か…！",
+      "INDONESIAN": "jika kartu 2 adalah yang satu...!",
+      "PORTUGUESE": "Será que a número 2 é a certa...?",
+      "SPANISH": "¿Será la número 2 la correcta...?",
+      "PERSIAN": "اگر کارت 2 یکی باشد...!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "쨘!",
+      "ENGLISH": "Ta-da!",
+      "CHINESE_SIMPLIFIED": "锵！",
+      "CHINESE_TRADITIONAL": "鏘！",
+      "JAPANESE": "じゃん！",
+      "INDONESIAN": "Ta-da!",
+      "PORTUGUESE": "Tcharã!",
+      "SPANISH": "¡Tarán!",
+      "PERSIAN": "تا-دا!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 28.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이야~ 맞히셨네요!",
+      "ENGLISH": "Whoa~ you got it right!",
+      "CHINESE_SIMPLIFIED": "哎呀~猜对啦！",
+      "CHINESE_TRADITIONAL": "哇～答對了！",
+      "JAPANESE": "わあ〜！当たりです！",
+      "INDONESIAN": "Wah~ kamu benar!",
+      "PORTUGUESE": "Uau~ acertaram!",
+      "SPANISH": "¡Wow~ acertaron!",
+      "PERSIAN": "اوه~ درست متوجه شدی!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.31,
+      "HIDE": 29.1
+    },
+    "SCRIPT": {
+      "KOREAN": "헐 대박",
+      "ENGLISH": "No way! That’s wild!",
+      "CHINESE_SIMPLIFIED": "哇，太神了",
+      "CHINESE_TRADITIONAL": "哇！太厲害！",
+      "JAPANESE": "すごーい！",
+      "INDONESIAN": "Tidak mungkin! Gila!",
+      "PORTUGUESE": "Não é possível! Incrível!",
+      "SPANISH": "¡No puede ser! ¡Increíble!",
+      "PERSIAN": "به هیچ وجه! این وحشی است!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 29.45,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 유만 씨 따라가길 잘했네요!",
+      "ENGLISH": "Good thing I went with Yuman’s choice, huh?",
+      "CHINESE_SIMPLIFIED": "我跟着宥万先生选还真是跟对了呢!",
+      "CHINESE_TRADITIONAL": "還好我跟著宥萬先生一起選～！",
+      "JAPANESE": "ユマンさんについていって正解でした！",
+      "INDONESIAN": "Untungnya aku memilih pilihan Yuman, ya?",
+      "PORTUGUESE": "Ainda bem que segui sua escolha, hein?",
+      "SPANISH": "Qué bueno que seguí su elección, ¿eh?",
+      "PERSIAN": "چه خوب که با انتخاب یومان رفتم، نه؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 정답을 맞히신 분들께",
+      "ENGLISH": "For everyone who picked correctly—",
+      "CHINESE_SIMPLIFIED": "我会为答对的朋友",
+      "CHINESE_TRADITIONAL": "我將會贈送禮物",
+      "JAPANESE": "正解されたお二人には",
+      "INDONESIAN": "Untuk semua orang yang memilih dengan benar—",
+      "PORTUGUESE": "Pros que acertam,",
+      "SPANISH": "A los que aciertan",
+      "PERSIAN": "برای همه کسانی که به درستی انتخاب کردند -"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "선물을 드리고 있거든요?",
+      "ENGLISH": "I’ve got a little prize for you!",
+      "CHINESE_SIMPLIFIED": "送上小礼物哦",
+      "CHINESE_TRADITIONAL": "給兩位回答正確的來賓",
+      "JAPANESE": "プレゼントを差し上げています！",
+      "INDONESIAN": "Aku punya hadiah kecil untukmu!",
+      "PORTUGUESE": "estou dando um presentinho.",
+      "SPANISH": "les estoy dando un pequeño regalo.",
+      "PERSIAN": "من یک جایزه کوچک برای شما دارم!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 37.6,
+      "HIDE": 39.0
+    },
+    "SCRIPT": {
+      "KOREAN": "- 헉, 우와!\n- 우와!",
+      "ENGLISH": "— Gasp! No way!\n— Wow!",
+      "CHINESE_SIMPLIFIED": "-天啊，哇！\n-哇～！",
+      "CHINESE_TRADITIONAL": "—哇！太棒了！\n—哇～！",
+      "JAPANESE": "‐うわっ、わあ！\n‐わあ！",
+      "INDONESIAN": "— Astaga! Mustahil!\n— Wow!",
+      "PORTUGUESE": "—Ah, uau!\n—Uau!",
+      "SPANISH": "—¡Ah, wow!\n—¡Guau!",
+      "PERSIAN": "- نفس نفس زدن! به هیچ وجه! - عجب!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 41.5,
+      "HIDE": 42.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아!",
+      "ENGLISH": "Ah—",
+      "CHINESE_SIMPLIFIED": "啊！",
+      "CHINESE_TRADITIONAL": "啊！",
+      "JAPANESE": "あっ！",
+      "INDONESIAN": "Ah-",
+      "PORTUGUESE": "Ah...!",
+      "SPANISH": "¡Ah...!",
+      "PERSIAN": "آه -"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 42.2,
+      "HIDE": 45.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이거는 남성 분께 기회를 드리도록 하겠습니다.",
+      "ENGLISH": "Let’s give the gentleman the honor.",
+      "CHINESE_SIMPLIFIED": "这次就把机会让给这位男士吧",
+      "CHINESE_TRADITIONAL": "這次讓男士來抽獎吧",
+      "JAPANESE": "では男性の方にチャンスをお渡ししますね",
+      "INDONESIAN": "Mari kita berikan kehormatan itu pada pria itu.",
+      "PORTUGUESE": "Nesse caso, vou dar a oportunidade ao cavalheiro.",
+      "SPANISH": "En este caso, le daré la oportunidad al caballero.",
+      "PERSIAN": "به آقا افتخار بدهیم."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 46.5,
+      "HIDE": 47.7
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다.",
+      "ENGLISH": "Thank you.",
+      "CHINESE_SIMPLIFIED": "谢谢您",
+      "CHINESE_TRADITIONAL": "謝謝！",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Terima kasih.",
+      "PORTUGUESE": "Muito obrigado.",
+      "SPANISH": "Muchas gracias.",
+      "PERSIAN": "ممنونم."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 48.6,
+      "HIDE": 49.5
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요",
+      "ENGLISH": "Here you go.",
+      "CHINESE_SIMPLIFIED": "给你",
+      "CHINESE_TRADITIONAL": "給您",
+      "JAPANESE": "どうぞ",
+      "INDONESIAN": "Ini dia.",
+      "PORTUGUESE": "Aqui está.",
+      "SPANISH": "Aquí tiene.",
+      "PERSIAN": "در اینجا شما بروید."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 49.7,
+      "HIDE": 51.2
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다!",
+      "ENGLISH": "Thanks so much!",
+      "CHINESE_SIMPLIFIED": "谢谢！",
+      "CHINESE_TRADITIONAL": "謝謝！",
+      "JAPANESE": "ありがとうございます！",
+      "INDONESIAN": "Terima kasih banyak!",
+      "PORTUGUESE": "Obrigado.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "خیلی ممنون"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 51.6,
+      "HIDE": 52.9
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 너무 재미있는데요?",
+      "ENGLISH": "This was seriously so much fun.",
+      "CHINESE_SIMPLIFIED": "真的太有趣了！",
+      "CHINESE_TRADITIONAL": "真的太有趣了！",
+      "JAPANESE": "ほんと、すごく楽しいですね！",
+      "INDONESIAN": "Ini sungguh sangat menyenangkan.",
+      "PORTUGUESE": "Isso foi demais!",
+      "SPANISH": "¡Esto estuvo genial!",
+      "PERSIAN": "این به طور جدی بسیار سرگرم کننده بود."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 53.0,
+      "HIDE": 54.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저 마술 처음 봐요!",
+      "ENGLISH": "It’s actually my first time seeing a magic show!",
+      "CHINESE_SIMPLIFIED": "我还是第一次看魔术呢！",
+      "CHINESE_TRADITIONAL": "我第一次看魔術表演呢！",
+      "JAPANESE": "マジック見るの初めてです！",
+      "INDONESIAN": "Ini sebenarnya pertama kalinya aku menonton pertunjukan sulap!",
+      "PORTUGUESE": "É a primeira vez que vejo um truque de mágica assim.",
+      "SPANISH": "Es la primera vez que veo un truco de magia así.",
+      "PERSIAN": "در واقع اولین بار است که یک نمایش جادویی را می بینم!"
+    }
+  }
+]

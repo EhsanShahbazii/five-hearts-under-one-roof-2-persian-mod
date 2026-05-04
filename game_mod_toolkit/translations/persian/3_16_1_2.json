@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네!!! 그 말만을 기다렸습니다! 너무 좋아요!",
+      "ENGLISH": "Yes!! That’s exactly what I was hoping you’d say! I’m so happy!",
+      "CHINESE_SIMPLIFIED": "太好啦！！就等您这句话呢！太开心了！",
+      "CHINESE_TRADITIONAL": "好耶！！！我就等你這麼說呢！太好了！",
+      "JAPANESE": "はい！！！ その言葉を待ってました！ めっちゃ嬉しいです！",
+      "INDONESIAN": "Ya!! Persis seperti yang kuharapkan darimu! Aku sangat senang!",
+      "PORTUGUESE": "Sim!!! Eu tava esperando você dizer isso! Adorei!",
+      "SPANISH": "¡Sí!!! ¡Estuve esperando que dijera eso! ¡Me encanta!",
+      "PERSIAN": "بله!! این دقیقاً همون چیزی است که من امیدوار بودم شما بگویید! من خیلی خوشحالم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 먼저 말해주시지",
+      "ENGLISH": "Then you should’ve said something first.",
+      "CHINESE_SIMPLIFIED": "那您该早点告诉我嘛",
+      "CHINESE_TRADITIONAL": "你應該早點說啊～",
+      "JAPANESE": "じゃあ先に言ってくれればよかったのに",
+      "INDONESIAN": "Kalau begitu, kamu seharusnya mengatakan sesuatu terlebih dahulu.",
+      "PORTUGUESE": "Então, por que não falou antes?",
+      "SPANISH": "Entonces, ¿por qué no lo dijo antes?",
+      "PERSIAN": "بعد باید اول چیزی میگفتی"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "생각도 안 하셨을까 봐요...",
+      "ENGLISH": "I wasn’t sure if you were even thinking about it...",
+      "CHINESE_SIMPLIFIED": "还以为您根本没考虑过呢...",
+      "CHINESE_TRADITIONAL": "我怕你根本沒有考慮…",
+      "JAPANESE": "考えてもいないのかと思って…",
+      "INDONESIAN": "Aku tidak yakin apakah kamu sedang memikirkannya...",
+      "PORTUGUESE": "Pensei que talvez você não tivesse pensado nisso...",
+      "SPANISH": "Pensé que tal vez no lo habías considerado...",
+      "PERSIAN": "مطمئن نبودم اصلا بهش فکر میکردی یا نه..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 그럴 리 없잖아요!",
+      "ENGLISH": "Come on, like I wouldn’t be?",
+      "CHINESE_SIMPLIFIED": "哎呦怎么可能啊！",
+      "CHINESE_TRADITIONAL": "怎麼可能嘛！",
+      "JAPANESE": "そんなわけないじゃないですか！",
+      "INDONESIAN": "Ayolah, bagaimana mungkin aku tidak akan melakukannya?",
+      "PORTUGUESE": "Ah, claro que não!",
+      "SPANISH": "¡Ay, claro que no!",
+      "PERSIAN": "بیا، مثل اینکه من نباشم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 급히 사가지고 들어가야 되는 거 아니에요?",
+      "ENGLISH": "But don’t you have to hurry back and get the stuff?",
+      "CHINESE_SIMPLIFIED": "不过您不是急着买了东西就要回去吗？",
+      "CHINESE_TRADITIONAL": "不過，不是應該趕快買好東西回去嗎？",
+      "JAPANESE": "でも 急いで買い物して帰らなくていいんですか？",
+      "INDONESIAN": "Tapi bukankah kamu harus bergegas kembali dan mengambil barangnya?",
+      "PORTUGUESE": "Mas, você não precisa comprar aquilo com pressa?",
+      "SPANISH": "Pero, ¿no tienes que comprar eso con prisa?",
+      "PERSIAN": "اما مجبور نیستید عجله کنید و وسایل را تحویل بگیرید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 하숙집 비품 사는 거라 괜찮아요!",
+      "ENGLISH": "Nah, it’s just supplies for the boarding house—it’s fine!",
+      "CHINESE_SIMPLIFIED": "哎呦，就是给合租公寓买的用品，没关系啦！",
+      "CHINESE_TRADITIONAL": "沒事，反正只是買我們合宿公寓裡要用的東西而已，沒關係！",
+      "JAPANESE": "大丈夫です 下宿の備品を買うだけなんで！",
+      "INDONESIAN": "Nah, itu cuma perlengkapan untuk asrama—gak apa-apa!",
+      "PORTUGUESE": "Nah, tá tudo bem, são só coisas pra pensão.",
+      "SPANISH": "Nah, está bien, son solo cosas para la pensión.",
+      "PERSIAN": "نه، این فقط لوازم پانسیون است - خوب است!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하숙집이요?",
+      "ENGLISH": "Guesthouse?",
+      "CHINESE_SIMPLIFIED": "合租公寓？",
+      "CHINESE_TRADITIONAL": "合宿公寓？",
+      "JAPANESE": "下宿？",
+      "INDONESIAN": "Wisma?",
+      "PORTUGUESE": "Pensão?",
+      "SPANISH": "¿Pensión?",
+      "PERSIAN": "مهمانسرا؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 모르셨구나 저 하숙집 운영하거든요.",
+      "ENGLISH": "Oh~ you didn’t know? I run a boarding house.",
+      "CHINESE_SIMPLIFIED": "啊~您还不知道吧，我经营着合租公寓呢",
+      "CHINESE_TRADITIONAL": "啊～你不知道啊，我正在經營合宿公寓",
+      "JAPANESE": "あ〜 知らなかったんですね 俺下宿をやってるんですよ",
+      "INDONESIAN": "Oh~ kamu belum tahu? Aku mengelola sebuah rumah kos.",
+      "PORTUGUESE": "Ah~ eu não tinha contado. É que eu administro uma.",
+      "SPANISH": "Ah~ no le había dicho. Es que yo administro una.",
+      "PERSIAN": "اوه~ نمیدونستی؟ من یک پانسیون را اداره می کنم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 26.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그럼 그때 그분도 ‘그냥’ 하숙생?",
+      "ENGLISH": "Ah, so that person I saw with you before... they’re just a tenant?",
+      "CHINESE_SIMPLIFIED": "啊，所以当时那位也只是“普通”住客？",
+      "CHINESE_TRADITIONAL": "啊，上次那位也只是單純的房客嗎？",
+      "JAPANESE": "あ じゃあ この前のあの人も “ただの” 下宿生？",
+      "INDONESIAN": "Ah, jadi orang yang kulihat bersamamu sebelumnya... dia hanya penyewa?",
+      "PORTUGUESE": "Ah, então a pessoa que vi daquela vez era só uma inquilina.",
+      "SPANISH": "Ah, entonces la persona que vi aquella vez era solo una inquilina.",
+      "PERSIAN": "آه، پس اون شخصی را که قبلاً با شما دیدم... اونا فقط یک مستاجر هستند؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 맞아요.",
+      "ENGLISH": "Yep, exactly.",
+      "CHINESE_SIMPLIFIED": "嗯！没错",
+      "CHINESE_TRADITIONAL": "是啊！沒錯",
+      "JAPANESE": "はい！ そうです",
+      "INDONESIAN": "Ya, tepat sekali.",
+      "PORTUGUESE": "Sim, exatamente!",
+      "SPANISH": "¡Sí, exacto!",
+      "PERSIAN": "بله دقیقا"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 30.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇구나!",
+      "ENGLISH": "Got it!",
+      "CHINESE_SIMPLIFIED": "这样啊！",
+      "CHINESE_TRADITIONAL": "原來如此！",
+      "JAPANESE": "なるほど！",
+      "INDONESIAN": "Mengerti!",
+      "PORTUGUESE": "Entendi.",
+      "SPANISH": "Ya veo.",
+      "PERSIAN": "متوجه شدم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 가볼까요?",
+      "ENGLISH": "Well then—shall we go?",
+      "CHINESE_SIMPLIFIED": "那我们出发吧？",
+      "CHINESE_TRADITIONAL": "那我們出發吧？",
+      "JAPANESE": "じゃあ 行きましょうか！",
+      "INDONESIAN": "Baiklah kalau begitu—haruskah kita pergi?",
+      "PORTUGUESE": "Então… vamos?",
+      "SPANISH": "Entonces… ¿nos vamos?",
+      "PERSIAN": "خب پس - بریم؟"
+    }
+  }
+]

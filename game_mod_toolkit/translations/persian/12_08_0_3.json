@@ -1,0 +1,225 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨는 다른 곳에 뺏기고 싶지 않은 인재예요.",
+      "ENGLISH": "Yujeong is the kind of talent I don't want to lose to someone else.",
+      "CHINESE_SIMPLIFIED": "有情是不可多得的人才，我舍不得让别人抢走你",
+      "CHINESE_TRADITIONAL": "有情你是不可多得的人才",
+      "JAPANESE": "ユジョンさんは、他の誰にも取られたくない“逸材”ですよ。",
+      "INDONESIAN": "Yujeong itu orang yang nggak pengin aku biarin pindah ke mana-mana",
+      "PORTUGUESE": "Yujeong, você é alguém que eu não quero perder.",
+      "SPANISH": "Yujeong, eres alguien que no quiero perder.",
+      "PERSIAN": "یوجئونگ استعدادی است که نمی‌خوام به دیگری از دست بدهم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 좀 치웠다 싶으면 어지르고, 조금 치웠다 싶으면 깨뜨리고.",
+      "ENGLISH": "Everyone else would just make a mess as soon as it was tidied up, or break things as soon as they were put away.",
+      "CHINESE_SIMPLIFIED": "以前家里总是刚收拾就被弄乱，刚整理好就被打碎",
+      "CHINESE_TRADITIONAL": "家裡以前整理好後就被弄亂，剛打掃完就打破東西",
+      "JAPANESE": "前は、片付けたと思えばまた散らかされて、",
+      "INDONESIAN": "Dulu tuh, tiap kali rumah udah agak rapi, pasti langsung berantakan lagi atau baru dibersihin dikit, ada aja yang rusak",
+      "PORTUGUESE": "Sempre que a casa parecia arrumada, alguém bagunçava de novo,",
+      "SPANISH": "Siempre que parecía que la casa estaba ordenada, alguien la volvía a desordenar,",
+      "PERSIAN": "همه افراد به محض اینکه مرتب می شدند به هم می ریختند یا به محض اینکه وسایل را کنار می گذاشتند می شکستند."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하숙집 관리가 정말 쉽지 않았거든요.",
+      "ENGLISH": "Managing the boarding house was really tough.",
+      "CHINESE_SIMPLIFIED": "管理合租公寓真的很不容易",
+      "CHINESE_TRADITIONAL": "管理合租公寓很不容易",
+      "JAPANESE": "やっと綺麗になったと思えばすぐ壊されて…。",
+      "INDONESIAN": "Ngurus kos tuh capek banget sebenernya",
+      "PORTUGUESE": "e quando finalmente tava limpa, alguém quebrava alguma coisa.",
+      "SPANISH": "y cuando por fin estaba limpia, alguien rompía algo.",
+      "PERSIAN": "مدیریت پانسیون واقعاً سخت بود."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 16.1
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 유정 씨 들어오고 나서 집이 매일 깨끗하니까",
+      "ENGLISH": "But ever since Yujeong moved in, the house stays clean every single day.",
+      "CHINESE_SIMPLIFIED": "但自从有情住进来后，家里每天都干干净净",
+      "CHINESE_TRADITIONAL": "但自從你住進來後，家裡每天都乾乾淨淨的",
+      "JAPANESE": "下宿の管理、本当に大変だったんです。",
+      "INDONESIAN": "Tapi sejak Yujeong masuk, rumah jadi bersih terus tiap hari",
+      "PORTUGUESE": "Cuidar da pensão não era nada fácil.",
+      "SPANISH": "Administrar la pensión no era nada fácil.",
+      "PERSIAN": "اما از زمانی که یو-جونگ به خونه نقل مکان کرد، خونه هر روز تمیز می ماند."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너~무 좋아요.",
+      "ENGLISH": "It's so~ good.",
+      "CHINESE_SIMPLIFIED": "我超~开心的",
+      "CHINESE_TRADITIONAL": "我超級開心～",
+      "JAPANESE": "でもユジョンさんが入ってから、毎日家が綺麗で。",
+      "INDONESIAN": "Suka banget!",
+      "PORTUGUESE": "Mas desde que você chegou, tudo fica limpo todos os dias,",
+      "SPANISH": "Pero desde que llegaste, todo está limpio todos los días,",
+      "PERSIAN": "خیلی خوبه"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이보다 좋을 수가 없어.",
+      "ENGLISH": "It couldn't be better.",
+      "CHINESE_SIMPLIFIED": "没有比这更好的了",
+      "CHINESE_TRADITIONAL": "沒有比這樣更好了",
+      "JAPANESE": "最高ですよ。これ以上ないです。",
+      "INDONESIAN": "Nggak bisa lebih bahagia dari ini",
+      "PORTUGUESE": "e eu adoro isso~",
+      "SPANISH": "y me encanta~",
+      "PERSIAN": "بهتر از این نمی شد."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あぁ…。",
+      "INDONESIAN": "Ah...",
+      "PORTUGUESE": "Não poderia estar melhor.",
+      "SPANISH": "No podría estar mejor.",
+      "PERSIAN": "آه..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 23.2
+    },
+    "SCRIPT": {
+      "KOREAN": "우리집 앞으로도 잘 부탁드립니다 네?",
+      "ENGLISH": "Please continue to take good care of our house, okay?",
+      "CHINESE_SIMPLIFIED": "我们家以后也拜托你啦，好吗？",
+      "CHINESE_TRADITIONAL": "我們家以後也拜託你了，好嗎？",
+      "JAPANESE": "これからも、うちの家をよろしくお願いしますね？",
+      "INDONESIAN": "Jadi, tolong jaga rumah kita terus ke depannya ya?",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "لطفا به مراقبت از خونه ما ادامه دهید، باشه؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네...! 그럼요...",
+      "ENGLISH": "Yes...! Of course...",
+      "CHINESE_SIMPLIFIED": "嗯...！当然...",
+      "CHINESE_TRADITIONAL": "嗯...！當然...",
+      "JAPANESE": "はい…！もちろんです…。",
+      "INDONESIAN": "Iya...! Tentu aja...",
+      "PORTUGUESE": "Então, por favor, continue cuidando da nossa pensão.",
+      "SPANISH": "Así que, por favor, sigue cuidando de nuestra pensión.",
+      "PERSIAN": "بله...! البته..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 28.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 아주 최고야 최고...",
+      "ENGLISH": "Ah... Absolutely the best, the best...",
+      "CHINESE_SIMPLIFIED": "哈...真是太棒了，最棒...",
+      "CHINESE_TRADITIONAL": "哈...真是最棒了，太棒了",
+      "JAPANESE": "はぁ〜最高だな、ほんと…。",
+      "INDONESIAN": "Haa... bener-bener yang terbaik...",
+      "PORTUGUESE": "Sim...! Claro...",
+      "SPANISH": "¡Sí...! Por supuesto...",
+      "PERSIAN": "آه ... کاملاً بهترین ، بهترین ..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아씨, 유정 씨 너무 좋아!",
+      "ENGLISH": "Oh my, I love Yujeong so much!",
+      "CHINESE_SIMPLIFIED": "哎呀，我太喜欢有情了！",
+      "CHINESE_TRADITIONAL": "哎喲，我太喜歡有情你了！",
+      "JAPANESE": "あぁ、ユジョンさん大好きだ…。",
+      "INDONESIAN": "Aduh, Yujeong kamu tuh bikin aku suka banget!",
+      "PORTUGUESE": "Ah... você é incrível, de verdade...",
+      "SPANISH": "Ah... eres lo máximo, de verdad...",
+      "PERSIAN": "اوه من، من یو-جونگ را خیلی دوست دارم!"
+    }
+  },
+  {
+    "SCRIPT": {
+      "PORTUGUESE": "Ah, Yujeong, eu adoro você!",
+      "SPANISH": "Ah, Yujeong, ¡me encantas!",
+      "PERSIAN": ""
+    }
+  }
+]

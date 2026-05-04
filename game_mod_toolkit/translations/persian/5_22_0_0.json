@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐만, 고마워~",
+      "ENGLISH": "Hold up—thanks~",
+      "CHINESE_SIMPLIFIED": "等一下，谢啦~",
+      "CHINESE_TRADITIONAL": "等一下，謝啦～",
+      "JAPANESE": "ちょっと待って、ありがとう〜",
+      "INDONESIAN": "Tunggu—makasih~",
+      "PORTUGUESE": "Um momento, obrigado~",
+      "SPANISH": "Un momento, gracias~",
+      "PERSIAN": "دست نگه دارید - ممنونم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야 너 여기 왜 왔어!",
+      "ENGLISH": "Hey, what are you doing here?!",
+      "CHINESE_SIMPLIFIED": "喂，你来这里干嘛！",
+      "CHINESE_TRADITIONAL": "喂，你怎麼會在這裡！",
+      "JAPANESE": "おい、なんでここに来たんだよ！",
+      "INDONESIAN": "Eh, kamu ngapain di sini?!",
+      "PORTUGUESE": "¿Tú qué haces aquí?",
+      "SPANISH": "¡¿Tú qué haces aquí?!",
+      "PERSIAN": "هی اینجا چیکار میکنی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 오긴 너 보러 왔지.",
+      "ENGLISH": "What do you mean? I came to see you.",
+      "CHINESE_SIMPLIFIED": "还能干嘛，当然是来看你啊",
+      "CHINESE_TRADITIONAL": "怎麼會在這？當然是來看你啊",
+      "JAPANESE": "なんでって、会いに来たに決まってるでしょ",
+      "INDONESIAN": "Maksudnya apa? Aku kan dateng buat ngeliat kamu.",
+      "PORTUGUESE": "Como que \"por qué\"? Vim te ver.",
+      "SPANISH": "¿Cómo qué \"por qué\"? Vine a verte.",
+      "PERSIAN": "منظورت چیه؟ اومدم ببینمت"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그니까 왜...!!",
+      "ENGLISH": "Yeah, but why…?!",
+      "CHINESE_SIMPLIFIED": "我说你为什么...！！",
+      "CHINESE_TRADITIONAL": "所以說為什麼…！！",
+      "JAPANESE": "だからなんで…！！",
+      "INDONESIAN": "Iya, tapi kenapa...?!",
+      "PORTUGUESE": "Mas por quê...?!",
+      "SPANISH": "Pero ¿por qué...?!",
+      "PERSIAN": "آره ولی چرا…؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 31.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 전에 내가 하라고 했던 거 기억하지?",
+      "ENGLISH": "You remember what I told you to do earlier, right?",
+      "CHINESE_SIMPLIFIED": "之前我让你做的事还记得吧？",
+      "CHINESE_TRADITIONAL": "還記得我剛剛叫你做的事吧？",
+      "JAPANESE": "さっき私が言ったこと、覚えてる？",
+      "INDONESIAN": "Kamu ingat yang aku suruh kamu tadi nggak?",
+      "PORTUGUESE": "Lembra do que eu te pedi pra fazer?",
+      "SPANISH": "¿Recuerdas lo que te dije que hicieras?",
+      "PERSIAN": "یادت میاد قبلا چیکار بهت گفتم درسته؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 34.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 유만이한테 얘기 많이 들었다?",
+      "ENGLISH": "Hey, I heard a lot about you from Yuman.",
+      "CHINESE_SIMPLIFIED": "喂，从宥万那儿听说了你不少事呢？",
+      "CHINESE_TRADITIONAL": "喂，聽宥萬說了很多關於你的事呢？",
+      "JAPANESE": "なあ、ユマンからお前の話いっぱい聞いたよ？",
+      "INDONESIAN": "Eh, aku denger banyak soal kamu dari Yuman.",
+      "PORTUGUESE": "Ei, Yuman falou muito de você pra mim.",
+      "SPANISH": "Oye, Yuman me ha hablado mucho de ti.",
+      "PERSIAN": "هی، من از یومان چیزهای زیادی در مورد شما شنیدم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 36.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나 진팸 진희규.",
+      "ENGLISH": "Jin Pam, Jin Hui-gyu.",
+      "CHINESE_SIMPLIFIED": "我“陈家帮”的陈熙奎",
+      "CHINESE_TRADITIONAL": "我是陳幫的陳熙奎",
+      "JAPANESE": "俺はジンペムのジン・ヒギュ",
+      "INDONESIAN": "Jin Pam, Jin Hui-gyu.",
+      "PORTUGUESE": "Sou Jin Heekyu, seu fã.",
+      "SPANISH": "Soy Jin Heekyu, tu fan",
+      "PERSIAN": "جین پام، جین هوی-گیو."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 38.0
+    },
+    "SCRIPT": {
+      "KOREAN": "끝나고 같이 노래방 갈래?",
+      "ENGLISH": "Wanna hit up karaoke after school?",
+      "CHINESE_SIMPLIFIED": "放学后一起去唱K不？",
+      "CHINESE_TRADITIONAL": "放學後要不要一起去KTV呢？",
+      "JAPANESE": "終わったら一緒にカラオケ行かない？",
+      "INDONESIAN": "Mau ikut karaoke abis sekolah?",
+      "PORTUGUESE": "Quer ir ao karaokê depois das aulas?",
+      "SPANISH": "¿Quieres ir al karaoke después de clases?",
+      "PERSIAN": "می خواهید بعد از مدرسه کارائوکه بزنید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 39.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 못생긴 게",
+      "ENGLISH": "Ugh, you ugly little—",
+      "CHINESE_SIMPLIFIED": "哈，丑八怪",
+      "CHINESE_TRADITIONAL": "噗，醜八怪",
+      "JAPANESE": "あ、ブサイクなくせに",
+      "INDONESIAN": "Ugh, dasar jelek—",
+      "PORTUGUESE": "Tch, que feio você é.",
+      "SPANISH": "Tch, qué feo eres.",
+      "PERSIAN": "اوه، ای کوچک زشت -"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 41.9
+    },
+    "SCRIPT": {
+      "KOREAN": "내 얘기 많이 들었다며,",
+      "ENGLISH": "You did hear a lot about me, right?",
+      "CHINESE_SIMPLIFIED": "你不是听说我不少事嘛",
+      "CHINESE_TRADITIONAL": "妳不是說聽過很多關於我的事嗎？",
+      "JAPANESE": "私の話たくさん聞いたって？",
+      "INDONESIAN": "Kamu kan memang denger banyak tentang aku, kan?",
+      "PORTUGUESE": "Se você ouviu tanto sobre mim,",
+      "SPANISH": "Si tanto escuchaste de mí,",
+      "PERSIAN": "تو درباره من زیاد شنیدی، درسته؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 42.0,
+      "HIDE": 43.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 못 생긴거 싫어하는 거 못들었어?",
+      "ENGLISH": "So did you not hear the part where I don’t like ugly guys?",
+      "CHINESE_SIMPLIFIED": "那没听说我讨厌丑八怪吗？",
+      "CHINESE_TRADITIONAL": "那你沒聽到我不喜歡醜的人嗎？",
+      "JAPANESE": "じゃあブサイク嫌いって話は聞いてないの？",
+      "INDONESIAN": "Terus kamu nggak tau kalo aku nggak suka cowok jelek?",
+      "PORTUGUESE": "não ouviu também que eu não gosto de feios?",
+      "SPANISH": "¿no escuchaste también que no me gustan los feos?",
+      "PERSIAN": "پس قسمتی را نشنیدید که من از پسرهای زشت خوشم نمی آید؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 44.6,
+      "HIDE": 46.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그게 무슨 말이야...",
+      "ENGLISH": "Wait, what’s that supposed to mean…?",
+      "CHINESE_SIMPLIFIED": "你这话什么意思...",
+      "CHINESE_TRADITIONAL": "妳這是什麼意思...",
+      "JAPANESE": "は？それどういう意味だよ…",
+      "INDONESIAN": "Tunggu, maksudnya apa tuh...?",
+      "PORTUGUESE": "Eh... o que você quer dizer...?",
+      "SPANISH": "Eh…¿qué quieres decir...?",
+      "PERSIAN": "صبر کن این یعنی چی…؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 48.6,
+      "HIDE": 49.0
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 잘 들어! ",
+      "ENGLISH": "Alright, listen up, everyone!",
+      "CHINESE_SIMPLIFIED": "大家都听好了！",
+      "CHINESE_TRADITIONAL": "全部人都給我聽清楚了！",
+      "JAPANESE": "よく聞いて！",
+      "INDONESIAN": "Oke, semua dengerin!",
+      "PORTUGUESE": "Todo mundo, prestem atenção!",
+      "SPANISH": "¡Todos, préstenme atención!",
+      "PERSIAN": "خوب، همه گوش کنید!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 49.0,
+      "HIDE": 51.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘부터 1학년 1반 우유만 내 깔이야!",
+      "ENGLISH": "Starting today, Class 1-1’s Yuman is mine.",
+      "CHINESE_SIMPLIFIED": "从今天起，一年一班的吴宥万归我罩！",
+      "CHINESE_TRADITIONAL": "從今天開始，一年一班的吳宥萬是我的人！",
+      "JAPANESE": "今日から1年1組のウ・ユマンは私の子分だから！",
+      "INDONESIAN": "Mulai hari ini, Yuman kelas 1-1 jadi milik aku.",
+      "PORTUGUESE": "A partir de hoje, Yuman Woo do 1º ano do ensino médio está sob minha proteção!",
+      "SPANISH": "¡Desde hoy, Yuman Woo de 1er año de preparatoria está bajo mi protección!",
+      "PERSIAN": "از امروز، یومان کلاس 1-1 مال من است."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 51.6,
+      "HIDE": 53.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니깐 한 번만 더 우유만 건드는 새끼는 ",
+      "ENGLISH": "So anyone who so much as touches him again—",
+      "CHINESE_SIMPLIFIED": "所以哪个混蛋再敢动吴宥万",
+      "CHINESE_TRADITIONAL": "所以啊，要是還有誰敢動他",
+      "JAPANESE": "だからもう一度でもユマンに手を出すやつがいたら",
+      "INDONESIAN": "Jadi siapa pun yang berani nyentuh dia lagi—",
+      "PORTUGUESE": "Se alguém ousar tocá-lo de novo,",
+      "SPANISH": "Si alguien se atreve a tocarlo otra vez,",
+      "PERSIAN": "بنابراین هرکسی که دوباره اونو لمس کند-"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 53.0,
+      "HIDE": 54.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내 손에 뒤져. 알았어?",
+      "ENGLISH": "you’re dead. By my hand. Got it?",
+      "CHINESE_SIMPLIFIED": "我就弄死他，明白了吗？",
+      "CHINESE_TRADITIONAL": "就準備死在我手上。聽懂了嗎？",
+      "JAPANESE": "この手でぶっ飛ばすから、わかった？",
+      "INDONESIAN": "mati. Sama tanganku. Ngerti?!",
+      "PORTUGUESE": "vou acabar com as minhas próprias mãos, entendido?!",
+      "SPANISH": "¡lo acabaré con mis propias manos, entendido?!",
+      "PERSIAN": "تو مرده ای با دست من متوجه شدید؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 59.6,
+      "HIDE": 61.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 집 갈 때 나랑 같이 가. 알았지?",
+      "ENGLISH": "You’re walking home with me today, alright?",
+      "CHINESE_SIMPLIFIED": "今天放学跟我一起走，听到没？",
+      "CHINESE_TRADITIONAL": "放學回家跟我一起走。聽到沒？",
+      "JAPANESE": "今日帰るとき、一緒に帰るから、いい？",
+      "INDONESIAN": "Kamu pulang bareng aku hari ini, oke?",
+      "PORTUGUESE": "Hoje na saída, você vai comigo. Tudo bem?",
+      "SPANISH": "Hoy a la salida, te vas conmigo. ¿De acuerdo?",
+      "PERSIAN": "امروز با من به خونه می روید، خوب؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 62.7,
+      "HIDE": 63.4
+    },
+    "SCRIPT": {
+      "KOREAN": "대답.",
+      "ENGLISH": "Answer me.",
+      "CHINESE_SIMPLIFIED": "回答",
+      "CHINESE_TRADITIONAL": "回答！",
+      "JAPANESE": "返事",
+      "INDONESIAN": "Jawab.",
+      "PORTUGUESE": "Responda-me.",
+      "SPANISH": "Repóndeme.",
+      "PERSIAN": "جواب منو بده"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 64.5,
+      "HIDE": 65.1
+    },
+    "SCRIPT": {
+      "KOREAN": "응...",
+      "ENGLISH": "…Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "...Iya.",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "…آره."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 70.1,
+      "HIDE": 70.9
+    },
+    "SCRIPT": {
+      "KOREAN": "말, 말숙아!",
+      "ENGLISH": "Hey, Mal-sook!",
+      "CHINESE_SIMPLIFIED": "末、末淑啊！",
+      "CHINESE_TRADITIONAL": "末、末淑啊！",
+      "JAPANESE": "ま、マルスク！",
+      "INDONESIAN": "Hei, Mal-sook!",
+      "PORTUGUESE": "M-Malsook!",
+      "SPANISH": "¡M-Malsook!",
+      "PERSIAN": "هی، مال‌سوک!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 77.8,
+      "HIDE": 79.4
+    },
+    "SCRIPT": {
+      "KOREAN": "끝나고 데리러 갈게!",
+      "ENGLISH": "I’ll come get you after school!",
+      "CHINESE_SIMPLIFIED": "放学我来接你！",
+      "CHINESE_TRADITIONAL": "放學我來接你！",
+      "JAPANESE": "終わったら迎えに来るから！",
+      "INDONESIAN": "Aku jemput kamu abis sekolah!",
+      "PORTUGUESE": "Vou passar pra te buscar na saída.",
+      "SPANISH": "Te pasaré a buscar a la salida.",
+      "PERSIAN": "بعد از مدرسه میام بیارمت!"
+    }
+  }
+]

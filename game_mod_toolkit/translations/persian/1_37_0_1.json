@@ -1,0 +1,487 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저기...",
+      "ENGLISH": "Hey…",
+      "CHINESE_SIMPLIFIED": "那个…",
+      "CHINESE_TRADITIONAL": "那個⋯⋯",
+      "JAPANESE": "ちょっと…",
+      "INDONESIAN": "Eh…",
+      "PORTUGUESE": "Ei…",
+      "SPANISH": "Disculpe...",
+      "PERSIAN": "آهای پسرجون..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐.",
+      "ENGLISH": "What.",
+      "CHINESE_SIMPLIFIED": "干嘛",
+      "CHINESE_TRADITIONAL": "怎樣？",
+      "JAPANESE": "なんだよ",
+      "INDONESIAN": "Apa.",
+      "PORTUGUESE": "Que foi.",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "هان؟ بنال."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그만하시죠?",
+      "ENGLISH": "That’s enough, alright?",
+      "CHINESE_SIMPLIFIED": "别闹了好吗？",
+      "CHINESE_TRADITIONAL": "適可而止吧？",
+      "JAPANESE": "もうやめましょうよ",
+      "INDONESIAN": "Udahan aja ya?",
+      "PORTUGUESE": "Já chega, tá?",
+      "SPANISH": "Ya pare.",
+      "PERSIAN": "تمومش نمی‌کنی این الم‌شنگه رو؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "들어보니까 신분증 때문에 그러시는 거 같은데. ",
+      "ENGLISH": "Sounds like it’s just about an ID.",
+      "CHINESE_SIMPLIFIED": "听起来好像是因为身份证的事吧",
+      "CHINESE_TRADITIONAL": "聽起來好像是因為身分證的事吧",
+      "JAPANESE": "聞いてると、身分証のことでもめてるみたいですけど",
+      "INDONESIAN": "Kayaknya masalahnya cuma gara-gara KTP deh.",
+      "PORTUGUESE": "Parece que é só questão de identidade.",
+      "SPANISH": "Por lo que oí, todo esto es porque no trajó su ID.",
+      "PERSIAN": "از دور شنیدم سر کارت ملی داری چونه می‌زنی."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "들고 다시 오던가 하세요. ",
+      "ENGLISH": "Either bring it and come back, or leave.",
+      "CHINESE_SIMPLIFIED": "那就拿了身份证再来吧",
+      "CHINESE_TRADITIONAL": "你回去拿了再回來不就好了",
+      "JAPANESE": "持ってきてからまた来てください",
+      "INDONESIAN": "Ambil dulu, terus balik lagi aja.",
+      "PORTUGUESE": "Ou traz e volta, ou vai embora.",
+      "SPANISH": "Solo vaya por el y regrese.",
+      "PERSIAN": "یا برو بیارش یا کلاً راهتو بکش برو پی کارت."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "예? 나가세요.",
+      "ENGLISH": "What? Get out.",
+      "CHINESE_SIMPLIFIED": "啊？请你出去",
+      "CHINESE_TRADITIONAL": "欸？請你出去",
+      "JAPANESE": "は？出てけっての",
+      "INDONESIAN": "Apa? Silakan keluar sekarang.",
+      "PORTUGUESE": "O quê? Cai fora.",
+      "SPANISH": "¿Sí? ¡Ya váyase!",
+      "PERSIAN": "چی؟ گم شو بیرون آقا!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐하는거야..놓으세요! ",
+      "ENGLISH": "What are you doing...? Please let go!",
+      "CHINESE_SIMPLIFIED": "干嘛呢... 请放手！",
+      "CHINESE_TRADITIONAL": "幹嘛呢... 請放手！",
+      "JAPANESE": "何してんの… 離してください！",
+      "INDONESIAN": "Kamu ngapain...? Tolong lepaskan!",
+      "PORTUGUESE": "O que você está fazendo...? Solte-me, por favor!",
+      "SPANISH": "¿Qué haces...? ¡Suélteme, por favor!",
+      "PERSIAN": "چیکار می‌کنی... دستتو بکش!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야, 이 다리 병X은.",
+      "ENGLISH": "What the—crippled leg freak.",
+      "CHINESE_SIMPLIFIED": "干什么啊，你这瘸子",
+      "CHINESE_TRADITIONAL": "什麼啊，你這個瘸子",
+      "JAPANESE": "なんだよ、この足のポンコツが",
+      "INDONESIAN": "Apa-apaan, si pincang ini.",
+      "PORTUGUESE": "Que—freak da perna manca.",
+      "SPANISH": "¿Qué le pasa a este cojo?",
+      "PERSIAN": "این لنگ دراز علیل دیگه از کجا پیداش شد؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그 말은 좀 상처인데...",
+      "ENGLISH": "…That’s kinda harsh, man.",
+      "CHINESE_SIMPLIFIED": "这话说得有点过分了吧…",
+      "CHINESE_TRADITIONAL": "你說話有點過分了吧⋯⋯",
+      "JAPANESE": "……その言葉はちょっと傷つくな",
+      "INDONESIAN": "Heh, omongan itu lumayan nyakitin lho…",
+      "PORTUGUESE": "…Isso foi meio pesado, cara.",
+      "SPANISH": "No tiene porqué hablarme así...",
+      "PERSIAN": "این حرفت واقعاً بی‌ادبانه و سنگین بود..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아저씨는 민증 있죠?",
+      "ENGLISH": "You’ve got an ID, right?",
+      "CHINESE_SIMPLIFIED": "大叔你有身份证的吧？",
+      "CHINESE_TRADITIONAL": "大叔你有身分證吧？",
+      "JAPANESE": "おじさん、身分証持ってますよね？",
+      "INDONESIAN": "Pak, Bapak punya KTP kan?",
+      "PORTUGUESE": "Você tem identidade, né?",
+      "SPANISH": "Oiga, usted sí trae identificación, ¿cierto?",
+      "PERSIAN": "یارو، تو کارت ملی همراهت هست دیگه؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 카드 줄 테니까",
+      "ENGLISH": "Here, I’ll give you my card—",
+      "CHINESE_SIMPLIFIED": "那我把卡给你",
+      "CHINESE_TRADITIONAL": "我把卡給你",
+      "JAPANESE": "俺のカード渡すから",
+      "INDONESIAN": "Saya kasih uang,",
+      "PORTUGUESE": "Aqui, eu te dou meu cartão—",
+      "SPANISH": "Le doy mi tarjeta",
+      "PERSIAN": "بیا کارت بانکیمو بهت می‌دم،"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아저씨가 나 대신 사서 주면 되겠네.",
+      "ENGLISH": "just buy it for me instead.",
+      "CHINESE_SIMPLIFIED": "你帮我买不就行了？",
+      "CHINESE_TRADITIONAL": "你代替我去買，再拿給我不就好了",
+      "JAPANESE": "代わりに買ってきてくれればよさそうだな",
+      "INDONESIAN": "Bapak beliin buat saya ya.",
+      "PORTUGUESE": "só compra pra mim então.",
+      "SPANISH": "cómprelo por mí y ya. Así de fácil.",
+      "PERSIAN": "به جا من تو بخر بده به من حله دیگه."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 근데 이 사람이!",
+      "ENGLISH": "Hey, hold on a sec!",
+      "CHINESE_SIMPLIFIED": "你这人！",
+      "CHINESE_TRADITIONAL": "你這個傢伙！",
+      "JAPANESE": "なんだよお前！",
+      "INDONESIAN": "Eh, tunggu dulu!",
+      "PORTUGUESE": "Ei, espera aí!",
+      "SPANISH": "¡¿Pero qué le pasa a este?!",
+      "PERSIAN": "هووی! ببین کی داره چی می‌گه!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "딱 봐도 어린 거 같은데 말이야! 어?",
+      "ENGLISH": "He clearly looks underage!",
+      "CHINESE_SIMPLIFIED": "一看就是小孩啊！哎？",
+      "CHINESE_TRADITIONAL": "一看就是個小孩！嗯？",
+      "JAPANESE": "いやいや、どう見ても未成年っぽいな！",
+      "INDONESIAN": "Dari mukanya aja jelas-jelas masih bocah!",
+      "PORTUGUESE": "Ele claramente parece menor de idade!",
+      "SPANISH": "¡Se te nota a millas que eres menor!",
+      "PERSIAN": "از ریختت معلومه هنوز دهنت بوی شیر می‌ده!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어른한테 말이야. 어?",
+      "ENGLISH": "And you’re talking like that to an adult? Huh?",
+      "CHINESE_SIMPLIFIED": "跟大人怎么说话的，嗯？",
+      "CHINESE_TRADITIONAL": "怎麼這樣跟大人說話，嗯？",
+      "JAPANESE": "大人に向かって、その態度はなんだよ！",
+      "INDONESIAN": "Berani banget ngomong gitu sama orang dewasa, hah!?",
+      "PORTUGUESE": "E você fala assim com um adulto? Hã?",
+      "SPANISH": "¡Y así le hablas a un adulto? ¡¿eh?!",
+      "PERSIAN": "خجالت نمی‌کشی با یه بزرگتر اینجوری فک می‌زنی؟ هان؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 31.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어른 뭐요?",
+      "ENGLISH": "Adult what?",
+      "CHINESE_SIMPLIFIED": "大人？什么啊？",
+      "CHINESE_TRADITIONAL": "什麼大人啊？",
+      "JAPANESE": "大人がどうしたんですか？",
+      "INDONESIAN": "Dewasa apanya?",
+      "PORTUGUESE": "Adulto o quê?",
+      "SPANISH": "¿Y qué tiene?",
+      "PERSIAN": "بزرگتر چه کوفتیه؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 32.9
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "What was that?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O que foi que disse?",
+      "SPANISH": "¿Ah?",
+      "PERSIAN": "چی گفتی؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 말을 하세요~",
+      "ENGLISH": "No, go on—say it~",
+      "CHINESE_SIMPLIFIED": "你倒是说啊",
+      "CHINESE_TRADITIONAL": "不是啊，說話啊～",
+      "JAPANESE": "いやいや、ちゃんと最後まで言ってくださいよ〜。",
+      "INDONESIAN": "Ayo ngomong yang jelas dong.",
+      "PORTUGUESE": "Vai, continua—adulto o quê?!",
+      "SPANISH": "¿Por qué se queda callado?",
+      "PERSIAN": "نه بگو، چی زر زدی الان؟~"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어른 뭐요!",
+      "ENGLISH": "Adult what?!",
+      "CHINESE_SIMPLIFIED": "大人又怎样！",
+      "CHINESE_TRADITIONAL": "大人又怎樣！",
+      "JAPANESE": "大人がどうしたって？",
+      "INDONESIAN": "Dewasa apa coba!",
+      "PORTUGUESE": "Adulto o quê?!",
+      "SPANISH": "¡¿Qué tiene que sea adulto?!",
+      "PERSIAN": "بزرگتر کیه اخه؟!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 40.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아,아니..신분증 없이 이러면  진짜 큰일 나요! ",
+      "ENGLISH": "L-look… without an ID this is serious business!",
+      "CHINESE_SIMPLIFIED": "不…你要是没身份证这样闹，真的会出大事的！",
+      "CHINESE_TRADITIONAL": "啊，不是…沒身分證的話會出大事的喔",
+      "JAPANESE": "あ、あのな…身分証なしでゴネたら、本当に大事になるんだぞ！",
+      "INDONESIAN": "Kalau ketauan beli minuman tanpa KTP, bisa gawat tau nggak!",
+      "PORTUGUESE": "O-olha… sem identidade isso é coisa séria!",
+      "SPANISH": "¡Si te atrapan haciendo esto, te vas a meter en problemas!",
+      "PERSIAN": "بـ... ببین... بدون کارت ملی گیر بیفتی دهنت صافه ها!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 42.1
+    },
+    "SCRIPT": {
+      "KOREAN": "경찰서 가고 싶어?? 어!?",
+      "ENGLISH": "You wanna end up at the police station?! Huh?!",
+      "CHINESE_SIMPLIFIED": "想去派出所吗？？",
+      "CHINESE_TRADITIONAL": "想去警察局嗎？？嗯？！",
+      "JAPANESE": "警察行きたいのか！？あぁ！？",
+      "INDONESIAN": "Mau ikut saya ke kantor polisi, hah!?",
+      "PORTUGUESE": "Quer acabar na delegacia?! Hein?!",
+      "SPANISH": "¡¿Quieres acabar en la cárcel, eso quieres?!",
+      "PERSIAN": "می‌خوای بندازمت بازداشتگاه؟! هان؟!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 43.2,
+      "HIDE": 47.1
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 미안한데. 난 촉법이라 안 걸리는데~",
+      "ENGLISH": "Sorry, but I’m under juvenile law—I won’t get charged~",
+      "CHINESE_SIMPLIFIED": "哎呀，不好意思啊。我未成年不会被抓啦~",
+      "CHINESE_TRADITIONAL": "真是不好意思喔。我還未成年，所以不會被抓啦～",
+      "JAPANESE": "悪いけど俺、触法少年だから捕まらないんだよね〜",
+      "INDONESIAN": "Hehe, maaf banget nih. Aku masih di bawah umur, jadi nggak bisa kena pidana~",
+      "PORTUGUESE": "Desculpa, mas eu tô sob a lei juvenil—não vou ser acusado~",
+      "SPANISH": "Lo siento pero soy menor de edad, así que no me pueden detener~",
+      "PERSIAN": "شرمنده داداش، من هنوز به سن قانونی نرسیدم دادگاه اطفالم کارم نداره~"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 47.1,
+      "HIDE": 49.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 촉법이라고?",
+      "ENGLISH": "Wait, what? Juvenile law?",
+      "CHINESE_SIMPLIFIED": "什么？未成年？",
+      "CHINESE_TRADITIONAL": "啊？果然是未成年嗎？",
+      "JAPANESE": "は？触法だと？",
+      "INDONESIAN": "Apa? Masih di bawah umur!?",
+      "PORTUGUESE": "Espera, o quê? Lei juvenil?",
+      "SPANISH": "¿Eh? ¿Dijiste que eres menor?",
+      "PERSIAN": "چی؟ گفتی به سن قانونی نرسیدی؟!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 50.0,
+      "HIDE": 51.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아.",
+      "ENGLISH": "Ah…",
+      "CHINESE_SIMPLIFIED": "啊",
+      "CHINESE_TRADITIONAL": "啊",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ah… ",
+      "PORTUGUESE": "Ah…",
+      "SPANISH": "Ah.",
+      "PERSIAN": "آخ..."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 53.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이 새X 이거 진짜 학생 맞았네. 이거!",
+      "ENGLISH": "This little punk really is a student!",
+      "CHINESE_SIMPLIFIED": "这小兔崽子还真是学生啊！",
+      "CHINESE_TRADITIONAL": "這小兔崽子，還真是個學生啊！",
+      "JAPANESE": "この野郎！やっぱ学生じゃねえか！",
+      "INDONESIAN": "Breng**k, ternyata beneran anak sekolah!",
+      "PORTUGUESE": "Esse moleque é mesmo estudante!",
+      "SPANISH": "¡Este mocoso todavía va a la escuela!",
+      "PERSIAN": "پس توله‌سگ واقعاً زیر سن بودی و زبونت درازه! آره؟!"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 53.9,
+      "HIDE": 56.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너 경찰서 가고 싶어? 어!?",
+      "ENGLISH": "You wanna go to the police station, huh?!",
+      "CHINESE_SIMPLIFIED": "你信不信真送你去派出所！啊！？",
+      "CHINESE_TRADITIONAL": "真的想去警察局是不是？嗯？！",
+      "JAPANESE": "お前、警察署行きたいのか！？あぁ！？",
+      "INDONESIAN": "Mau ikut ke kantor polisi, hah!?",
+      "PORTUGUESE": "Quer ir pra delegacia, é?!",
+      "SPANISH": "¿Quieres que te lleve con la policía, eh!?",
+      "PERSIAN": "حالا بریم کلانتری ببینم بلبلی زبونی می‌کنی یا نه؟! هان؟!"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 57.2,
+      "HIDE": 59.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아..ㅆ 까비",
+      "ENGLISH": "…Tch. Damn, so close.",
+      "CHINESE_SIMPLIFIED": "啊我去…可惜了",
+      "CHINESE_TRADITIONAL": "啊…靠，真是的",
+      "JAPANESE": "……ちっ、惜しかった",
+      "INDONESIAN": "A..sial, hampir aja…",
+      "PORTUGUESE": "…Tch. Droga, por pouco.",
+      "SPANISH": "Ah... qué mala suerte...",
+      "PERSIAN": "تف به این شانس... گندش بزنن دستم رو شد!"
+    }
+  }
+]

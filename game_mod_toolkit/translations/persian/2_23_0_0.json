@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 오늘 컨디션 어떠세요?",
+      "ENGLISH": "Yuman, how are you feeling today?",
+      "CHINESE_SIMPLIFIED": "宥万先生，今天状态怎么样？",
+      "CHINESE_TRADITIONAL": "宥萬先生，今天的狀況如何？",
+      "JAPANESE": "ユマンさん 今日のコンディションはいかがですか?",
+      "INDONESIAN": "Yuman, gimana perasaanmu hari ini?",
+      "PORTUGUESE": "Como o senhor está se sentindo hoje, senhor Yuman?",
+      "SPANISH": "¿Cómo se siente hoy, Señor Yumán?",
+      "PERSIAN": "یومان، امروز چه احساسی داری؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요. 오랜만에 집에서 자니까 좋더라구요.",
+      "ENGLISH": "Hi! It was nice—finally got to sleep at home again.",
+      "CHINESE_SIMPLIFIED": "您好，隔了这么久在家睡觉，感觉特别好",
+      "CHINESE_TRADITIONAL": "你好。好久沒有回家裡睡，狀態很好",
+      "JAPANESE": "こんにちは 久しぶりに家で寝たら気持ちよかったです",
+      "INDONESIAN": "Hai! Enak banget—akhirnya bisa tidur di rumah lagi.",
+      "PORTUGUESE": "Boa tarde. Ah, dormir na minha cama depois de tanto tempo foi ótimo.",
+      "SPANISH": "Buenas tardes. Pues dormir en mi cama después de tanto tiempo se sintió genial.",
+      "PERSIAN": "سلام! خوب بود - بالاخره دوباره در خونه بخوابم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "좋네요, 다리깁스는 오늘 풀어드릴게요",
+      "ENGLISH": "That’s great. We’ll remove the leg cast today.",
+      "CHINESE_SIMPLIFIED": "太好了，腿上的石膏今天可以给您拆掉了",
+      "CHINESE_TRADITIONAL": "太好了，腿上的石膏今天可以拆除了喔",
+      "JAPANESE": "いいですね じゃあ今日は足のギプスを外しましょう",
+      "INDONESIAN": "Bagus deh. Hari ini kita bakal lepas gips kaki kamu.",
+      "PORTUGUESE": "Que bom. Então hoje eu vou tirar o gesso da sua perna.",
+      "SPANISH": "Qué bien. Entonces hoy le voy a quitar el yeso de la pierna.",
+      "PERSIAN": "این عالی است امروز گچ پا را برمی داریم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오! 진짜요?",
+      "ENGLISH": "Oh, really?!",
+      "CHINESE_SIMPLIFIED": "哦！真的吗？",
+      "CHINESE_TRADITIONAL": "喔！真的嗎？",
+      "JAPANESE": "おっ! 本当ですか?",
+      "INDONESIAN": "Oh, beneran?!",
+      "PORTUGUESE": "Oh! Sério?",
+      "SPANISH": "¡Oh! ¿De verdad?",
+      "PERSIAN": "اوه، واقعا؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네~ 뼈가 아주 예쁘게 붙었거든요 ",
+      "ENGLISH": "Yep~ Your bone healed up nicely.",
+      "CHINESE_SIMPLIFIED": "嗯~因为骨头愈合得很好",
+      "CHINESE_TRADITIONAL": "是的～因為骨頭長得很好",
+      "JAPANESE": "はい 骨がきれいにくっつきましたから",
+      "INDONESIAN": "Iya~ Tulangnya udah nyatu dengan baik.",
+      "PORTUGUESE": "Sim~ o osso cicatrizou muito bem.",
+      "SPANISH": "Sí~ el hueso sanó muy bien.",
+      "PERSIAN": "بله ~ استخوان شما به خوبی بهبود یافت."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Aham~",
+      "SPANISH": "Ajá~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 머리에 뭐가 붙어있는 거 같은데...",
+      "ENGLISH": "Hmm? You’ve got something in your hair...",
+      "CHINESE_SIMPLIFIED": "呃？头上好像沾了什么东西...",
+      "CHINESE_TRADITIONAL": "欸？您頭上好像黏了什麼東西…",
+      "JAPANESE": "あれ? 髪に何かついてますよ…",
+      "INDONESIAN": "Hmm? Ada sesuatu di rambut kamu...",
+      "PORTUGUESE": "Hã? Tem algo no seu cabelo...",
+      "SPANISH": "¿Eh? Tiene algo en el cabello…",
+      "PERSIAN": "هوم؟ یه چیزی تو موهات داری..."
+    }
+  }
+]

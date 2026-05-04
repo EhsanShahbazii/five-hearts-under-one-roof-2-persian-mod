@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 저는",
+      "ENGLISH": "Hmm… I think",
+      "CHINESE_SIMPLIFIED": "嗯...我嘛",
+      "CHINESE_TRADITIONAL": "嗯...我...",
+      "JAPANESE": "うーん…俺は",
+      "INDONESIAN": "Hmm… kayaknya",
+      "PORTUGUESE": "Hmm... eu...",
+      "SPANISH": "Estem... yo...",
+      "PERSIAN": "هوم... فکر کنم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 먹을게요!",
+      "ENGLISH": "I’ll have this one!",
+      "CHINESE_SIMPLIFIED": "就吃这个啦！",
+      "CHINESE_TRADITIONAL": "我吃這個",
+      "JAPANESE": "これ食べます！",
+      "INDONESIAN": "Aku mau yang ini aja!",
+      "PORTUGUESE": "vou comer este!",
+      "SPANISH": "¡me comeré este!",
+      "PERSIAN": "من این یکی را خواهم داشت!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그거 한 입에 넣기 힘들지 않을까요?",
+      "ENGLISH": "Isn’t that gonna be hard to fit in one bite?",
+      "CHINESE_SIMPLIFIED": "这东西一口能塞得下吗？",
+      "CHINESE_TRADITIONAL": "這東西一口吃得下去嗎？",
+      "JAPANESE": "それ一口で入れるの難しくないですか？",
+      "INDONESIAN": "Itu nggak bakal susah dimakan dalam sekali lahap?",
+      "PORTUGUESE": "Não é difícil demais comer de uma vez?",
+      "SPANISH": "¿No es muy difícil comerlo de un bocado?",
+      "PERSIAN": "قرار دادن اون در یک لقمه سخت نیست؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "고기도 별로 안 들어가 있는 거 같은데 ",
+      "ENGLISH": "Doesn’t even look like there’s much meat in it.",
+      "CHINESE_SIMPLIFIED": "感觉也没包多少肉啊",
+      "CHINESE_TRADITIONAL": "感覺沒有多少肉啊",
+      "JAPANESE": "お肉もあんまり入ってないみたいだけど",
+      "INDONESIAN": "Dagingnya juga kayaknya dikit banget, deh.",
+      "PORTUGUESE": "E acho que quase não tem carne.",
+      "SPANISH": "Y creo que casi no tiene carne.",
+      "PERSIAN": "حتی به نظر نمی رسد که گوشت زیادی در اون وجود داشته باشد."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨! 아~ 하세요",
+      "ENGLISH": "Yuman! Say ah~",
+      "CHINESE_SIMPLIFIED": "宥万！啊～张嘴——",
+      "CHINESE_TRADITIONAL": "宥萬！啊～張嘴——",
+      "JAPANESE": "ユマンさん、はい あ〜んして",
+      "INDONESIAN": "Yuman! Bilang ah~",
+      "PORTUGUESE": "Deixa eu ver, Yumán. Abre a boca.",
+      "SPANISH": "A ver, Yumán. Abre la boca",
+      "PERSIAN": "یومان! بگو آه~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊～",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아구 잘 먹는다~",
+      "ENGLISH": "Wow, look at you go~ good job!",
+      "CHINESE_SIMPLIFIED": "哎一古，吃得真香~",
+      "CHINESE_TRADITIONAL": "哎呀，吃得真香～",
+      "JAPANESE": "おぉ よく食べますね〜",
+      "INDONESIAN": "Wah, hebat banget kamu~ pinter!",
+      "PORTUGUESE": "Aww, como você come bem!",
+      "SPANISH": "Aww, ¡qué bien comes!",
+      "PERSIAN": "وای، ببین تو برو~ کار خوبی!"
+    }
+  }
+]

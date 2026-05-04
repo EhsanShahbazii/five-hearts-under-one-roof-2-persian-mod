@@ -1,0 +1,38 @@
+[
+  {
+    "SCRIPT": {
+      "KOREAN": "( 막는다 ) ( 못 막는다 )",
+      "ENGLISH": "(blocks) (fails to block)",
+      "CHINESE_SIMPLIFIED": "（挡住）（没挡住）",
+      "CHINESE_TRADITIONAL": "（擋住了）沒擋住）",
+      "JAPANESE": "（止める） （止められない）",
+      "INDONESIAN": "(memblokir) (gagal memblokir)",
+      "SPANISH": "(Bloquea) (No bloquea)",
+      "PERSIAN": "(بلاک) (بلاک نمی شود)"
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "– 유만이 승연의 공격을 막는다",
+      "ENGLISH": "Yuman blocks Seung-yeon’s attack",
+      "CHINESE_SIMPLIFIED": "—宥万挡下了胜延的攻击",
+      "CHINESE_TRADITIONAL": "—宥萬擋住了勝延的攻擊",
+      "JAPANESE": "― ユマンがスンヨンの攻撃を防ぐ",
+      "INDONESIAN": "Yuman menangkis serangan Seung-yeon",
+      "SPANISH": "– Yumán bloquea el ataque de Seungyeon.",
+      "PERSIAN": "یومان جلوی حمله سونگ یون را می گیرد"
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "막는다 – 유만이 승연의 공격을 막지 못한다.",
+      "ENGLISH": "Yuman fails to block Seung-yeon’s attack",
+      "CHINESE_SIMPLIFIED": "挡住了 – 宥万没有挡住胜延的攻击",
+      "CHINESE_TRADITIONAL": "擋住了– 宥萬沒有擋住勝延的攻擊",
+      "JAPANESE": "止める ― ユマンはスンヨンの攻撃を防げない",
+      "INDONESIAN": "Yuman gagal menangkis serangan Seung-yeon",
+      "SPANISH": "No bloquea – Yumán no logra detener el ataque de Seungyeon.",
+      "PERSIAN": "یومان نمی تواند جلوی حمله سونگ یون را بگیرد"
+    }
+  }
+]

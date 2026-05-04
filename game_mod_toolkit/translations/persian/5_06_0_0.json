@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 화장실 가고 싶은데... ",
+      "ENGLISH": "Ugh, I really need to go to the bathroom…",
+      "CHINESE_SIMPLIFIED": "啊，好想上厕所...",
+      "CHINESE_TRADITIONAL": "啊，我好想上廁所...",
+      "JAPANESE": "あ〜トイレ行きたいけど…",
+      "INDONESIAN": "Duh, aku beneran kebelet ke kamar mandi nih…",
+      "PORTUGUESE": "Ai, tô morrendo de vontade de ir ao banheiro...",
+      "SPANISH": "Ay, tengo muchas ganas de ir al baño...",
+      "PERSIAN": "اوه من واقعا باید برم دستشویی…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 규리 쌤은 괜히 그런 얘기를 해 가지고...",
+      "ENGLISH": "Why’d Gyu-ri have to say that creepy stuff…",
+      "CHINESE_SIMPLIFIED": "哎~方护士干嘛要说什么闹鬼的事啊...",
+      "CHINESE_TRADITIONAL": "唉～久梨護理師幹嘛沒事說那種話...",
+      "JAPANESE": "はあ、ギュリ先生なんであんな話なんかしたんだろ…",
+      "INDONESIAN": "Kenapa sih Gyu-ri harus ngomong hal serem gitu…",
+      "PORTUGUESE": "Se ao menos a enfermeira não tivesse falado do fantasma...",
+      "SPANISH": "Si tan solo la enfermera no hubiera hablado del fantasma...",
+      "PERSIAN": "چرا گیوری باید این چیزهای وحشتناک را بگوید…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어떡하지…",
+      "ENGLISH": "What do I do now…",
+      "CHINESE_SIMPLIFIED": "怎么办啊…",
+      "CHINESE_TRADITIONAL": "怎麼辦...",
+      "JAPANESE": "どうしよう…",
+      "INDONESIAN": "Sekarang gimana dong…",
+      "PORTUGUESE": "O que eu faço...?",
+      "SPANISH": "¿Qué hago...?",
+      "PERSIAN": "الان چیکار کنم…"
+    }
+  }
+]

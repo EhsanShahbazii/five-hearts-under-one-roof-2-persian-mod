@@ -1,0 +1,297 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저한테 안기세요",
+      "ENGLISH": "Get in my arms.",
+      "CHINESE_SIMPLIFIED": "让我来抱抱你吧",
+      "CHINESE_TRADITIONAL": "我抱抱你吧",
+      "JAPANESE": "俺が抱いてあげます",
+      "INDONESIAN": "Sini, peluk aku.",
+      "PORTUGUESE": "Venha, me deixa te abraçar.",
+      "SPANISH": "Venga, déjeme abrazarla.",
+      "PERSIAN": "بیا تو بغلم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么？",
+      "CHINESE_TRADITIONAL": "為什麼？",
+      "JAPANESE": "どうして？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Hã? Por quê?",
+      "SPANISH": "¿Ah? ¿Por qué?",
+      "PERSIAN": "چرا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 저 누워있는 동안 회사에서 힘드셨을 거 아니에요. ",
+      "ENGLISH": "You’ve had a tough time at work while I was lying in bed, right?",
+      "CHINESE_SIMPLIFIED": "在我昏迷的这段时间，你在公司肯定很辛苦吧",
+      "CHINESE_TRADITIONAL": "總之，在我休息的這段期間，你在公司一定很辛苦吧",
+      "JAPANESE": "ほら、俺が寝込んでる間、課長も会社で大変だったでしょ",
+      "INDONESIAN": "Kamu udah kerja keras banget pas aku cuma bisa tiduran, kan?",
+      "PORTUGUESE": "Bom, enquanto eu tava de cama, a senhora deve ter se esforçado muito no trabalho, né?",
+      "SPANISH": "Bueno, mientras yo estaba en cama, usted debió pasarla mal en el trabajo, ¿no?",
+      "PERSIAN": "در حالی که من در رختخواب دراز کشیده بودم، در محل کار سختی سپری کردی، درست است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "고생하셨으니까 제가 안아드릴게요.",
+      "ENGLISH": "Since you worked so hard, I’m gonna give you a hug.",
+      "CHINESE_SIMPLIFIED": "看你这么辛苦，我来抱抱你吧",
+      "CHINESE_TRADITIONAL": "辛苦了，我來抱抱你吧",
+      "JAPANESE": "お疲れさまって意味で、俺が抱きしめてあげます",
+      "INDONESIAN": "Karena kamu udah capek-capek, aku mau peluk kamu.",
+      "PORTUGUESE": "Como se dedicou tanto, me deixa retribuir um pouco do carinho.",
+      "SPANISH": "Como se esforzó tanto, déjeme devolverle un poco de cariño.",
+      "PERSIAN": "از آنجایی که خیلی زحمت کشیدی، من تو را در آغوش می گیرم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐... 좀 고생을 하긴 했는데...",
+      "ENGLISH": "Well… I did have a bit of a hard time…",
+      "CHINESE_SIMPLIFIED": "确实...是有点累...",
+      "CHINESE_TRADITIONAL": "嗯…是有點辛苦啦…",
+      "JAPANESE": "……まあ、ちょっとは大変だったけどね",
+      "INDONESIAN": "Yah… emang sih, lumayan berat juga kemarin-kemarin…",
+      "PORTUGUESE": "Bem... sim, foi um pouco puxado, mas...",
+      "SPANISH": "Bueno… sí, fue algo duro, pero…",
+      "PERSIAN": "خب من یه مقدار سختی کشیدم…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 안 오실 거예요?",
+      "ENGLISH": "Aren’t you coming over anytime soon?",
+      "CHINESE_SIMPLIFIED": "不快点过来吗？",
+      "CHINESE_TRADITIONAL": "還不快點過來嗎？",
+      "JAPANESE": "早く来ないんですか？",
+      "INDONESIAN": "Kamu nggak mau deket-deket dikit, gitu?",
+      "PORTUGUESE": "Não vai vir?",
+      "SPANISH": "¿No va a venir?",
+      "PERSIAN": "به این زودی نمی آیی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너한테 안기는 거 너무 후진데...",
+      "ENGLISH": "Getting hugged by you feels a little… awkward…",
+      "CHINESE_SIMPLIFIED": "被你抱也太逊了吧...",
+      "CHINESE_TRADITIONAL": "被你抱我覺得太不好意思了…",
+      "JAPANESE": "ユマンに抱かれるの、なんかダサいんだけど…",
+      "INDONESIAN": "Dipeluk sama kamu tuh rasanya agak… awkward…",
+      "PORTUGUESE": "Te abraçar é meio estranho...",
+      "SPANISH": "Esto se siente un poco raro…",
+      "PERSIAN": "در آغوش گرفتن شما کمی احساس ناخوشایندی دارد…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 싫으시면 말고~",
+      "ENGLISH": "Ah, if you don’t want to, that’s fine~",
+      "CHINESE_SIMPLIFIED": "啊，不愿意就算了~",
+      "CHINESE_TRADITIONAL": "啊，如果不想的話就算了～",
+      "JAPANESE": "あ〜嫌ならいいですよ〜",
+      "INDONESIAN": "Ah, kalau nggak mau juga nggak apa-apa kok~",
+      "PORTUGUESE": "Ah, se não quiser, tudo bem~",
+      "SPANISH": "Si no quiere, no importa~",
+      "PERSIAN": "آه، اگر نمی خواهید، خوب است~"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 21.2
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 28.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 너 말마따나",
+      "ENGLISH": "Yuman, like you said—",
+      "CHINESE_SIMPLIFIED": "吴宥万，你说的对",
+      "CHINESE_TRADITIONAL": "吳宥萬，照你說的…",
+      "JAPANESE": "ウ・ユマン、お前の言う通りだよ",
+      "INDONESIAN": "Yuman, kayak yang kamu bilang sendiri—",
+      "PORTUGUESE": "Yuman Woo, como você mesmo disse,",
+      "SPANISH": "Yumán, como tú mismo dijiste,",
+      "PERSIAN": "یومان، همانطور که شما گفتید-"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 33.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네가 아니 내가 너 대신 고생했으니까! ",
+      "ENGLISH": "You—or rather, I—suffered in your place!",
+      "CHINESE_SIMPLIFIED": "你倒是躺着...是我替你受累了呢！",
+      "CHINESE_TRADITIONAL": "是你…不，我也替你受罪了！",
+      "JAPANESE": "お前が寝込んでる間、俺が代わりに苦労したんだから！",
+      "INDONESIAN": "Kamu..atau lebih tepatnya, aku yang berjuang gantiin kamu!",
+      "PORTUGUESE": "eu fui quem trabalhou duro por você,",
+      "SPANISH": "yo fui la que trabajó duro por ti",
+      "PERSIAN": "تو یا بهتر بگویم من به جای تو رنج کشیدی!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 33.3,
+      "HIDE": 35.4
+    },
+    "SCRIPT": {
+      "KOREAN": "기브앤테이크 확실히 한 것뿐이야.",
+      "ENGLISH": "It’s just a fair give-and-take.",
+      "CHINESE_SIMPLIFIED": "这不过是礼尚往来罢了",
+      "CHINESE_TRADITIONAL": "就只是做個等值交換而已",
+      "JAPANESE": "ギブアンドテイク、きっちりだ",
+      "INDONESIAN": "Jadi ini cuma adil dong, saling kasih imbalan.",
+      "PORTUGUESE": "então isso é só uma troca justa!",
+      "SPANISH": "¡así que esto es solo un intercambio justo!",
+      "PERSIAN": "این فقط یک دادن و گرفتن منصفانه است."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.6,
+      "HIDE": 37.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 네네~",
+      "ENGLISH": "Ah, yeah, yeah~",
+      "CHINESE_SIMPLIFIED": "啊，是是~",
+      "CHINESE_TRADITIONAL": "啊，是是是～",
+      "JAPANESE": "あ〜はいはい〜",
+      "INDONESIAN": "Ah, iya, iya~",
+      "PORTUGUESE": "Ah, sim, sim~",
+      "SPANISH": "Ah, sí, sí~",
+      "PERSIAN": "آه، آره، آره~"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 37.99,
+      "HIDE": 39.3
+    },
+    "SCRIPT": {
+      "KOREAN": "말투 뭐지?",
+      "ENGLISH": "What’s with that tone?",
+      "CHINESE_SIMPLIFIED": "这什么语气？",
+      "CHINESE_TRADITIONAL": "這什麼口氣啊？",
+      "JAPANESE": "その言い方何？",
+      "INDONESIAN": "Nada bicaramu tuh lho.",
+      "PORTUGUESE": "Que tom é esse?",
+      "SPANISH": "¿Y ese tonito?",
+      "PERSIAN": "اون لحن چیه؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 39.4,
+      "HIDE": 41.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제 말투가 뭐 어때서요?",
+      "ENGLISH": "What’s wrong with my tone?",
+      "CHINESE_SIMPLIFIED": "我语气怎么了？",
+      "CHINESE_TRADITIONAL": "我的口氣哪裡奇怪了？",
+      "JAPANESE": "俺の言い方がどうって言うんですか？",
+      "INDONESIAN": "Emang kenapa sama nada aku?",
+      "PORTUGUESE": "O que tem o meu tom?",
+      "SPANISH": "¿Qué pasa con mi tono?",
+      "PERSIAN": "لحن من چه مشکلی دارد؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 42.6,
+      "HIDE": 48.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼 내일 출근해야 하니까 출근 준비 잘해놓고 나가 봐",
+      "ENGLISH": "Anyway, you’ve got work tomorrow, so get ready and head out.",
+      "CHINESE_SIMPLIFIED": "反正明天要上班，记得把该准备的都准备好...出去吧",
+      "CHINESE_TRADITIONAL": "總之明天還要上班，把東西準備好，就先出去吧",
+      "JAPANESE": "とにかく明日は出勤なんだから、ちゃんと準備してね",
+      "INDONESIAN": "Ya udah deh, besok kamu kerja kan? Siap-siap terus berangkat sana.",
+      "PORTUGUESE": "Enfim, amanhã temos trabalho, então se prepare e vá descansar.",
+      "SPANISH": "En fin, mañana hay que trabajar, así que prepárate bien y vete a descansar.",
+      "PERSIAN": "به هر حال، فردا کار دارید، پس آماده شوید و بروید."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 49.5,
+      "HIDE": 51.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네~ 안녕히 주무세요~",
+      "ENGLISH": "Okay~ good night!",
+      "CHINESE_SIMPLIFIED": "得嘞~您好好休息~",
+      "CHINESE_TRADITIONAL": "好~晚安囉",
+      "JAPANESE": "は〜い、おやすみなさ〜い",
+      "INDONESIAN": "Oke~ selamat malam!",
+      "PORTUGUESE": "Sim, boa noite.",
+      "SPANISH": "Sí, que descanse.",
+      "PERSIAN": "باشه ~ شب بخیر!"
+    }
+  }
+]

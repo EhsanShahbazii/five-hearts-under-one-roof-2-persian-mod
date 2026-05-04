@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유정 씨!",
+      "ENGLISH": "Oh? Yu-jeong!",
+      "CHINESE_SIMPLIFIED": "咦？有情！",
+      "CHINESE_TRADITIONAL": "欸？有情小姐！",
+      "JAPANESE": "あっ、ユジョンさん！",
+      "INDONESIAN": "Oh? Yu-jeong!",
+      "PORTUGUESE": "Hã? Yujeong!",
+      "SPANISH": "¿Eh? ¡Yujeong!",
+      "PERSIAN": "اوه؟ یو-جئونگ!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님!!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万先生！！",
+      "CHINESE_TRADITIONAL": "宥萬先生？",
+      "JAPANESE": "ユマンさん！！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Senhor Yumán!",
+      "SPANISH": "¡Señor Yumán!",
+      "PERSIAN": "یومان!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "장 보고 오시는 길이에요?",
+      "ENGLISH": "Were you out grocery shopping?",
+      "CHINESE_SIMPLIFIED": "您是买菜回来了吗？",
+      "CHINESE_TRADITIONAL": "你去買菜回來嗎？",
+      "JAPANESE": "買い物の帰りですか？",
+      "INDONESIAN": "Kamu habis belanja?",
+      "PORTUGUESE": "Tá voltando das compras?",
+      "SPANISH": "¿Vienes de hacer las compras?",
+      "PERSIAN": "برای خرید مواد غذایی بیرون بودید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 먹을 거랑 떨어진 거 이것저것 좀 샀어요!",
+      "ENGLISH": "Yeah! I bought some food and restocked a few things we were out of!",
+      "CHINESE_SIMPLIFIED": "嗯！买了些吃的还有零碎的一些日用品",
+      "CHINESE_TRADITIONAL": "嗯！買了些吃的還有一些生活用品",
+      "JAPANESE": "はい！食べ物とか、切れてたものをちょっと買ってきました！",
+      "INDONESIAN": "Iya! Aku beli bahan makanan dan stok ulang barang-barang yang udah habis!",
+      "PORTUGUESE": "Sim! Comprei comida e algumas coisinhas que tinham acabado.",
+      "SPANISH": "¡Sí! Compré comida y algunas cosas que se habían acabado.",
+      "PERSIAN": "آره من مقداری غذا خریدم و چند چیز را که از اونا خارج شده بودیم دوباره ذخیره کردم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 들어줄게요!",
+      "ENGLISH": "Let me carry them for you!",
+      "CHINESE_SIMPLIFIED": "我帮你拿点吧！",
+      "CHINESE_TRADITIONAL": "我幫你一起拿吧！",
+      "JAPANESE": "俺が持ちますよ！",
+      "INDONESIAN": "Biar aku bawain!",
+      "PORTUGUESE": "Deixa eu te ajudar a carregar!",
+      "SPANISH": "¡Déjame ayudarte a cargarlas!",
+      "PERSIAN": "بگذار اونا رو برای تو حمل کنم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 괜찮아요!",
+      "ENGLISH": "Ah, it’s okay!",
+      "CHINESE_SIMPLIFIED": "啊不用！",
+      "CHINESE_TRADITIONAL": "啊～沒關係！",
+      "JAPANESE": "あ、大丈夫ですよ！",
+      "INDONESIAN": "Ah, nggak usah!",
+      "PORTUGUESE": "Ah, não precisa.",
+      "SPANISH": "Ah, no hace falta.",
+      "PERSIAN": "آه، اشکالی ندارد!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 그럼 하나만이라도 들게 해 줘요!",
+      "ENGLISH": "At least let me carry one bag then!",
+      "CHINESE_SIMPLIFIED": "哎呀，就让我帮忙拿一样嘛！",
+      "CHINESE_TRADITIONAL": "哎，至少讓我拿一個嘛",
+      "JAPANESE": "え〜、じゃあせめてひとつだけでも持たせてください！",
+      "INDONESIAN": "Minimal satu kantong aja deh, ya?",
+      "PORTUGUESE": "Vamos lá, pelo menos me deixa levar uma sacola.",
+      "SPANISH": "Vamos, al menos déjame llevar una bolsa.",
+      "PERSIAN": "لااقل بذار یه کیسه حمل کنم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "음... ",
+      "ENGLISH": "Hmm…",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm…",
+      "PORTUGUESE": "Mmm...",
+      "SPANISH": "Mmm...",
+      "PERSIAN": "هوم…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 27.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 이것만 좀 부탁드릴게요.",
+      "ENGLISH": "Then, could you take just this one?",
+      "CHINESE_SIMPLIFIED": "那这个就拜托你啦",
+      "CHINESE_TRADITIONAL": "那這個就拜託你啦",
+      "JAPANESE": "じゃあ、これだけお願いします",
+      "INDONESIAN": "Kalau gitu, yang ini aja ya?",
+      "PORTUGUESE": "Então leva essa, por favor.",
+      "SPANISH": "Entonces lleve esta, por favor.",
+      "PERSIAN": "سپس، می توانید فقط این یکی را بردارید؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 33.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그 시험 공부는 잘 돼가요? 일 때문에 시간 많지 않을텐데.",
+      "ENGLISH": "Is your exam study going well? You don’t have much time because of work, right.",
+      "CHINESE_SIMPLIFIED": "考试复习还顺利吗？工作这么忙，应该没什么时间吧",
+      "CHINESE_TRADITIONAL": "那個...考試準備得順利嗎？因為工作的關係，時間應該不多吧",
+      "JAPANESE": "試験勉強はうまく進んでますか？仕事もあって時間あまりないでしょう",
+      "INDONESIAN": "Belajarnya lancar? Soalnya kamu kan kerja juga, waktunya pasti sempit.",
+      "PORTUGUESE": "E como vão os estudos? Com o trabalho, deve não sobrar muito tempo.",
+      "SPANISH": "¿Y cómo va el estudio? Con el trabajo seguro no tienes mucho tiempo.",
+      "PERSIAN": "مطالعه امتحانی شما خوب پیش می رود؟ شما به دلیل کار وقت زیادی ندارید، درست است."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 35.5
+    },
+    "SCRIPT": {
+      "KOREAN": "틈틈이 하고 있어요!",
+      "ENGLISH": "I’m studying whenever I can!",
+      "CHINESE_SIMPLIFIED": "都在抽空准备呢！",
+      "CHINESE_TRADITIONAL": "我都利用空檔時間在看書！",
+      "JAPANESE": "合間を見てやってます！",
+      "INDONESIAN": "Aku belajar kapan pun ada waktu!",
+      "PORTUGUESE": "Eu estudo quando dá, entre um tempinho e outro.",
+      "SPANISH": "Lo hago cuando puedo, entre ratos.",
+      "PERSIAN": "هر وقت بتونم دارم درس میخونم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 35.8,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "요즘에는 일하는 것도 재밌고, 집에 가는 것도 재밌어요!",
+      "ENGLISH": "These days, working is fun — and going home is fun too!",
+      "CHINESE_SIMPLIFIED": "最近觉得上班也有趣，回家也开心！",
+      "CHINESE_TRADITIONAL": "最近不只上班很有趣，回家也很有趣！",
+      "JAPANESE": "最近は仕事も楽しいし、家に帰るのも楽しいんです！",
+      "INDONESIAN": "Akhir-akhir ini, kerja jadi menyenangkan — dan pulang ke rumah juga jadi hal yang aku tunggu!",
+      "PORTUGUESE": "Ultimamente tenho gostado muito de trabalhar… e também de voltar pra casa.",
+      "SPANISH": "Últimamente disfruto mucho trabajar… y también volver a casa.",
+      "PERSIAN": "این روزها، کار کردن سرگرم کننده است - و رفتن به خونه نیز سرگرم کننده است!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 40.2,
+      "HIDE": 42.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저 하숙집 진짜 잘들어온 거 같아요.",
+      "ENGLISH": "I think moving into the boarding house was really the right decision.",
+      "CHINESE_SIMPLIFIED": "我觉得来这个合租公寓真是来对了",
+      "CHINESE_TRADITIONAL": "我覺得來合宿公寓住真的是來對了",
+      "JAPANESE": "この下宿に入って本当によかったです",
+      "INDONESIAN": "Kayaknya pindah ke rumah kos ini emang keputusan yang tepat banget.",
+      "PORTUGUESE": "Acho que fiz muito bem em me mudar pra pensão.",
+      "SPANISH": "Creo que hice muy bien en mudarme a la pensión.",
+      "PERSIAN": "فکر می کنم انتقال به پانسیون واقعا تصمیم درستی بود."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 43.4,
+      "HIDE": 44.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨는 어때요? ",
+      "ENGLISH": "What about you, Yuman?",
+      "CHINESE_SIMPLIFIED": "宥万先生呢？",
+      "CHINESE_TRADITIONAL": "宥萬先生呢？",
+      "JAPANESE": "ユマンさんはどうですか？",
+      "INDONESIAN": "Kalau kamu gimana, Yuman?",
+      "PORTUGUESE": "Mas o senhor...",
+      "SPANISH": "Pero usted...",
+      "PERSIAN": "تو چی، یومان؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 45.1,
+      "HIDE": 46.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저 하숙집 들어간 거.",
+      "ENGLISH": "Me moving in...",
+      "CHINESE_SIMPLIFIED": "你会不会后悔",
+      "CHINESE_TRADITIONAL": "你會不會後悔",
+      "JAPANESE": "私が下宿に入ったの",
+      "INDONESIAN": "Aku yang pindah ke sini...",
+      "PORTUGUESE": "Não se arrepende",
+      "SPANISH": "¿No se arrepiente",
+      "PERSIAN": "من در حال حرکت در ..."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 48.5
+    },
+    "SCRIPT": {
+      "KOREAN": "후회하지 않으세요?",
+      "ENGLISH": "Do you regret it?",
+      "CHINESE_SIMPLIFIED": "让我住进来这里？",
+      "CHINESE_TRADITIONAL": "讓我住進來這裡？",
+      "JAPANESE": "後悔してませんか？",
+      "INDONESIAN": "Kamu nyesel nggak?",
+      "PORTUGUESE": "de ter me convidado pra ficar?",
+      "SPANISH": "de haberme invitado a quedarme?",
+      "PERSIAN": "پشیمونی؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 48.6,
+      "HIDE": 50.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 후회요?",
+      "ENGLISH": "Huh? Regret?",
+      "CHINESE_SIMPLIFIED": "嗯？后悔？",
+      "CHINESE_TRADITIONAL": "嗯？後悔嗎？",
+      "JAPANESE": "え？後悔ですか？",
+      "INDONESIAN": "Hah? Nyesel?",
+      "PORTUGUESE": "Arrepender?",
+      "SPANISH": "¿Arrepentirme?",
+      "PERSIAN": "ها؟ پشیمانی؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 50.5,
+      "HIDE": 54.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 전 다른 사람들처럼 활발하지도 않고...",
+      "ENGLISH": "Yeah… since I’m not lively or outgoing like the others…",
+      "CHINESE_SIMPLIFIED": "是啊...我既不像别人那么活泼...",
+      "CHINESE_TRADITIONAL": "嗯...我不像其他人那麼活潑",
+      "JAPANESE": "はい…私、他の人みたいに明るくないし…",
+      "INDONESIAN": "Iya… soalnya aku nggak ceria atau rame kayak yang lain...",
+      "PORTUGUESE": "Sim… eu não sou tão animada quanto os outros,",
+      "SPANISH": "Sí… no soy tan animada como los demás,",
+      "PERSIAN": "آره... چون من مثل بقیه سرزنده یا اهل رفتار نیستم..."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 54.5,
+      "HIDE": 56.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우중충하다는 얘기 많이 들어서요.",
+      "ENGLISH": "I’ve been told I’m gloomy a lot.",
+      "CHINESE_SIMPLIFIED": "还总被人说阴沉沉的",
+      "CHINESE_TRADITIONAL": "還總是被人說陰沉沉的",
+      "JAPANESE": "地味だってよく言われるから…",
+      "INDONESIAN": "Aku sering dibilang murung.",
+      "PORTUGUESE": "e muita gente diz que eu tenho um ar meio triste…",
+      "SPANISH": "y muchos dicen que tengo un aire algo triste…",
+      "PERSIAN": "به من گفته اند که خیلی عبوس هستم."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 56.9,
+      "HIDE": 59.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 혹시라도 후회하실까봐 해서요.",
+      "ENGLISH": "So I was worried you might regret taking me in.",
+      "CHINESE_SIMPLIFIED": "怕你说不定会后悔收留我...",
+      "CHINESE_TRADITIONAL": "我擔心你會不會後悔收留我...",
+      "JAPANESE": "もしかして後悔してるんじゃないかと思って",
+      "INDONESIAN": "Jadi aku khawatir kamu nyesel udah nerima aku tinggal bareng.",
+      "PORTUGUESE": "Tinha medo de que isso te incomodasse.",
+      "SPANISH": "Tenía miedo de que eso le molestara.",
+      "PERSIAN": "بنابراین نگران بودم که از پذیرش من پشیمان شوید."
+    }
+  }
+]

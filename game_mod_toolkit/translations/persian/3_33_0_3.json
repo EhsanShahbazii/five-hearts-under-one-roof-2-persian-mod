@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에취!!!!!!!!!!!!!!!!",
+      "ENGLISH": "Achoo!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "阿——嚏！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "哈啾!!!!!!!!!!!!",
+      "JAPANESE": "ハックション！！！！！！！！",
+      "INDONESIAN": "Achoo!!!!!!!!!",
+      "PORTUGUESE": "Aatchim!!!!!!!!!",
+      "SPANISH": "¡Aachís!!!!!!!!!",
+      "PERSIAN": "آچو!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "후~!",
+      "ENGLISH": "Whew~!",
+      "CHINESE_SIMPLIFIED": "呼～！",
+      "CHINESE_TRADITIONAL": "呼——！",
+      "JAPANESE": "ふぅ〜",
+      "INDONESIAN": "Whew~!",
+      "PORTUGUESE": "Uf~",
+      "SPANISH": "Uf~",
+      "PERSIAN": "وای~!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "...유만 씨...?",
+      "ENGLISH": "...Yuman...?",
+      "CHINESE_SIMPLIFIED": "...宥万？",
+      "CHINESE_TRADITIONAL": "…宥萬先生…？",
+      "JAPANESE": "…ユマンさん…？",
+      "INDONESIAN": "...Yuman...?",
+      "PORTUGUESE": "...Yumán...?",
+      "SPANISH": "...¿Yumán...?",
+      "PERSIAN": "...یومن...؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 쌤 재채기 소리는 안 들렸겠다, 그쵸? 인정?",
+      "ENGLISH": "But hey—at least she probably didn’t hear your sneeze, right? That counts for something, yeah?",
+      "CHINESE_SIMPLIFIED": "不过至少，方护士的喷嚏声没被听到，对吧？可以吧？",
+      "CHINESE_TRADITIONAL": "不過，護理師你打噴嚏的聲音應該沒被聽到吧，對吧？承認吧？",
+      "JAPANESE": "でも先生のくしゃみの音は聞こえなかったでしょ？そうでしょ？認めます？",
+      "INDONESIAN": "Tapi hey—setidaknya dia kayaknya nggak denger kamu bersin, kan? Itu lumayan lah ya?",
+      "PORTUGUESE": "Bom, pelo menos o seu espirro não deu pra ouvir, né?",
+      "SPANISH": "Bueno, al menos no se escuchó su estornudo, ¿verdad?",
+      "PERSIAN": "اما هی، حداقل او احتمالاً عطسه شما را نشنیده است، درست است؟ این برای چیزی مهم است، بله؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네??",
+      "ENGLISH": "Huh??",
+      "CHINESE_SIMPLIFIED": "嗯？？",
+      "CHINESE_TRADITIONAL": "嗯？？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Hã??",
+      "SPANISH": "¿Eh??",
+      "PERSIAN": "ها؟؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What...",
+      "CHINESE_SIMPLIFIED": "咦？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa...",
+      "PORTUGUESE": "Ah?",
+      "SPANISH": "¿Ah?",
+      "PERSIAN": "چی..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 이게 무슨 상황이죠?",
+      "ENGLISH": "Can someone please explain what’s happening right now?",
+      "CHINESE_SIMPLIFIED": "现在这到底是什么情况？",
+      "CHINESE_TRADITIONAL": "現在這是什麼情況？",
+      "JAPANESE": "今これは一体どういう状況ですか？",
+      "INDONESIAN": "Bisa tolong jelasin apa yang sebenernya lagi terjadi di sini?",
+      "PORTUGUESE": "Alguém poderia me explicar o que tá acontecendo aqui?",
+      "SPANISH": "¿Podría alguien explicarme qué está pasando aquí?",
+      "PERSIAN": "میشه لطفا یکی توضیح بده که الان چه خبره؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저를 납득시켜야 할 이유가 있어야 할 겁니다.",
+      "ENGLISH": "You better have a very convincing reason for this.",
+      "CHINESE_SIMPLIFIED": "你最好给我个能接受的理由",
+      "CHINESE_TRADITIONAL": "你最好給我一個能說服我的理由",
+      "JAPANESE": "私を納得させる理由を聞かせてもらいましょうか",
+      "INDONESIAN": "Kalian harus punya alasan yang bener-bener meyakinkan buat ini semua.",
+      "PORTUGUESE": "Vou precisar de uma razão muito boa pra conseguir acreditar em vocês.",
+      "SPANISH": "Voy a necesitar una muy buena razón para poder creerles.",
+      "PERSIAN": "بهتر است دلیل قانع کننده ای برای این موضوع داشته باشید."
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어멋...! ",
+      "ENGLISH": "Oh my—!",
+      "CHINESE_SIMPLIFIED": "哎呀...！",
+      "CHINESE_TRADITIONAL": "哎呀...！",
+      "JAPANESE": "えっ…！",
+      "INDONESIAN": "Astaga—!",
+      "PORTUGUESE": "Ah...!",
+      "SPANISH": "¡Ah...!",
+      "PERSIAN": "اوه من -!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어우 뭐야",
+      "ENGLISH": "Ugh, what was that?",
+      "CHINESE_SIMPLIFIED": "呃，什么呀",
+      "CHINESE_TRADITIONAL": "呃，搞什麼啊",
+      "JAPANESE": "ちょ、なに…",
+      "INDONESIAN": "Ugh, barusan apa sih?",
+      "PORTUGUESE": "Mas o que...?",
+      "SPANISH": "¿pero qué…?",
+      "PERSIAN": "اوه، این چی بود؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 지금 뭐 하시는 거예요??",
+      "ENGLISH": "Ha… what exactly do you think you’re doing right now??",
+      "CHINESE_SIMPLIFIED": "你这是在干什么啊？？",
+      "CHINESE_TRADITIONAL": "哈，你現在是在幹嘛？？",
+      "JAPANESE": "は？今、何してるんですか！？",
+      "INDONESIAN": "Ha… kamu pikir kamu lagi ngapain sekarang, hah??",
+      "PORTUGUESE": "Ha… o que você acha que tá fazendo?",
+      "SPANISH": "Ha… ¿qué cree que está haciendo?",
+      "PERSIAN": "هه... فکر میکنی دقیقا الان داری چیکار میکنی؟؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 죄송합니다.",
+      "ENGLISH": "Ah… I’m sorry.",
+      "CHINESE_SIMPLIFIED": "啊...抱歉",
+      "CHINESE_TRADITIONAL": "啊...抱歉",
+      "JAPANESE": "あ…すみません",
+      "INDONESIAN": "Ah… maaf.",
+      "PORTUGUESE": "Ah… desculpa.",
+      "SPANISH": "Ah… lo siento.",
+      "PERSIAN": "آه ... متاسفم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자리가 있었네요",
+      "ENGLISH": "There was an open seat right here.",
+      "CHINESE_SIMPLIFIED": "原来这里有人坐了啊",
+      "CHINESE_TRADITIONAL": "原來這裡有人坐了啊",
+      "JAPANESE": "席、空いてたんですね",
+      "INDONESIAN": "Tadi ada kursi kosong di sini soalnya.",
+      "PORTUGUESE": "Mas tem um assento livre sim.",
+      "SPANISH": "Pero sí hay una asiento libre.",
+      "PERSIAN": "اینجا یک صندلی باز بود."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "お？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  }
+]

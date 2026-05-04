@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 떨리는데 민정 님은 오죽하겠어요...",
+      "ENGLISH": "I'm nervous too, so imagine how Min-jung must feel...",
+      "CHINESE_SIMPLIFIED": "我自己都很紧张，更别说你了",
+      "CHINESE_TRADITIONAL": "連我都感到很緊張，更別說你了",
+      "JAPANESE": "俺も緊張してるんですから、ミンジョンさんはもっとですよね",
+      "INDONESIAN": "Aku aja deg-degan, Apalagi kamu, Min-jung",
+      "PORTUGUESE": "Eu também tô nervoso, então nem imagino como você deve estar se sentindo...",
+      "SPANISH": "Yo también estoy nervioso, así que no imagino cómo debe sentirse tú...",
+      "PERSIAN": "منم خیلی نگرانم، پس تصور کن مین‌جونگ چه حالی داره..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저랑 같이 심호흡 한번 해봐요!",
+      "ENGLISH": "Let's take a deep breath together!",
+      "CHINESE_SIMPLIFIED": "跟我一起深呼吸试试",
+      "CHINESE_TRADITIONAL": "跟我做一次深呼吸試試",
+      "JAPANESE": "俺と一緒に深呼吸してみましょう",
+      "INDONESIAN": "Yuk bareng aku tarik napas dulu",
+      "PORTUGUESE": "Vamos respirar fundo juntos.",
+      "SPANISH": "Hagamos una respiración profunda juntos.",
+      "PERSIAN": "بیایید با هم نفس عمیق بکشیم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍~후",
+      "ENGLISH": "Haa...",
+      "CHINESE_SIMPLIFIED": "吸——呼——",
+      "CHINESE_TRADITIONAL": "嘶～呼～",
+      "JAPANESE": "すぅ〜はぁ〜",
+      "INDONESIAN": "Hhh~ huu",
+      "PORTUGUESE": "Inspira~ expira~",
+      "SPANISH": "Inhala~ exhala~",
+      "PERSIAN": "هاها..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍~후",
+      "ENGLISH": "Haa...",
+      "CHINESE_SIMPLIFIED": "吸——呼——",
+      "CHINESE_TRADITIONAL": "嘶～呼～",
+      "JAPANESE": "すぅ〜はぁ〜",
+      "INDONESIAN": "Hhh~ huu",
+      "PORTUGUESE": "Inspira~ expira~",
+      "SPANISH": "Inhala~ exhala~",
+      "PERSIAN": "هاها..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 무대 아래에 있을 거니까 맘 편하게 먹어요.",
+      "ENGLISH": "I'll be right here below the stage, so relax.",
+      "CHINESE_SIMPLIFIED": "我也会在台下看着你，放轻松点，好吗？",
+      "CHINESE_TRADITIONAL": "我也會在舞台下面，所以放輕鬆一點，好嗎？",
+      "JAPANESE": "俺もステージの下で見てますから、安心してください",
+      "INDONESIAN": "Aku juga bakal ada di bawah panggung kok",
+      "PORTUGUESE": "Eu vou estar ali embaixo do palco, então não se preocupa, tá?",
+      "SPANISH": "Yo estaré abajo del escenario, así que no te preocupes",
+      "PERSIAN": "من همینجا زیر صحنه هستم، پس راحت باشید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠죠? 어때요, 좀 괜찮아졌어요?",
+      "ENGLISH": "Got it? How about it, feeling a bit better?",
+      "CHINESE_SIMPLIFIED": "怎么样，好一点了吗？",
+      "CHINESE_TRADITIONAL": "怎麼樣？有沒有好一點？",
+      "JAPANESE": "ね？どうです？少し落ち着きました？",
+      "INDONESIAN": "Jadi tenang aja ya! Gimana, udah mendingan?",
+      "PORTUGUESE": "Tudo bem? Tá se sentindo um pouco melhor agora?",
+      "SPANISH": "¿Está bien? ¿Te siente un poco mejor ahora?",
+      "PERSIAN": "گرفتی؟ چطوره، یه کم حالت بهتره؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 좀 괜찮아진 거 같아요!",
+      "ENGLISH": "Yeah... I think I'm feeling a bit better!",
+      "CHINESE_SIMPLIFIED": "嗯，好像好多了",
+      "CHINESE_TRADITIONAL": "嗯，好像好多了",
+      "JAPANESE": "はい…ちょっと落ち着いた気がします",
+      "INDONESIAN": "Iya... kayaknya udah agak tenang sekarang!",
+      "PORTUGUESE": "Sim... acho que já me sinto um pouco melhor.",
+      "SPANISH": "Sí... creo que ya me siento un poco mejor.",
+      "PERSIAN": "آره... فکر کنم یه ذره حالم بهتر شده!"
+    }
+  }
+]

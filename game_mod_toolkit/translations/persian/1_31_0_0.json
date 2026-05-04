@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "애가 좀 더 이상해졌는데...",
+      "ENGLISH": "You’ve been acting kinda weird…",
+      "CHINESE_SIMPLIFIED": "你这人…好像比以前更奇怪了…",
+      "CHINESE_TRADITIONAL": "你好像變得更奇怪了耶",
+      "JAPANESE": "なんか前よりやっぱり変じゃない…？",
+      "INDONESIAN": "Kamu makin aneh deh sekarang...",
+      "PORTUGUESE": "Você anda agindo meio estranho…",
+      "SPANISH": "Estás un poco más raro que antes...",
+      "PERSIAN": "تو کلاً یه تختت کمه، الانم خل‌تر شدی..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너 진짜 사고 때 기억만 없는 거 맞아?",
+      "ENGLISH": "Are you sure it’s only your memory from the accident that’s gone?",
+      "CHINESE_SIMPLIFIED": "你真的就只是不记得出事那段时间吗？",
+      "CHINESE_TRADITIONAL": "確定只有車禍那段記憶沒了嗎？",
+      "JAPANESE": "本当に事故のときの記憶だけないってこと？",
+      "INDONESIAN": "Kamu yakin cuma ingatan soal kecelakaan aja yang hilang?",
+      "PORTUGUESE": "Tem certeza de que só perdeu a memória do acidente?",
+      "SPANISH": "¿De verdad lo único que perdiste fue la memoria del accidente?",
+      "PERSIAN": "مطمئنی فقط خاطرات اون تصادف از کله‌ت پریده؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그렇다니까.",
+      "ENGLISH": "I told you, yeah.",
+      "CHINESE_SIMPLIFIED": "都说了是真的啊",
+      "CHINESE_TRADITIONAL": "就說了真的啊",
+      "JAPANESE": "ああ、そうだって",
+      "INDONESIAN": "Iya, beneran cuma itu kok.",
+      "PORTUGUESE": "Eu já disse que sim.",
+      "SPANISH": "¡Que sí!",
+      "PERSIAN": "آره بابا، صد بار گفتم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 예전에 사람들이랑 같이 바다 놀러갔을 때",
+      "ENGLISH": "Then do you remember the time we went to the beach with everyone?",
+      "CHINESE_SIMPLIFIED": "那你还记得之前和大家去海边玩的时候",
+      "CHINESE_TRADITIONAL": "那我們以前和大家一起去海邊玩的時候",
+      "JAPANESE": "じゃあ、前にみんなで海に遊びに行ったとき、",
+      "INDONESIAN": "Kalau gitu, pas dulu kita liburan ke pantai bareng yang rame-rame,",
+      "PORTUGUESE": "Então lembra da vez que a gente foi à praia com todo mundo?",
+      "SPANISH": "Entonces, cuando fuimos a la playa,",
+      "PERSIAN": "خب پس اون دفعه که با بچه‌ها رفتیم دریا رو یادته؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내 수영복 색깔 뭔지 기억해?",
+      "ENGLISH": "What color was my swimsuit?",
+      "CHINESE_SIMPLIFIED": "我穿什么颜色的泳衣吗？",
+      "CHINESE_TRADITIONAL": "還記得我的泳衣是什麼顏色的嗎？",
+      "JAPANESE": "私の水着の色、覚えてる？",
+      "INDONESIAN": "kamu masih inget nggak warna baju renangku waktu itu?",
+      "PORTUGUESE": "De que cor era meu maiô?",
+      "SPANISH": "¿de qué color era mi traje de baño?",
+      "PERSIAN": "بگو ببینم رنگ مایوی من چی بود؟"
+    }
+  }
+]

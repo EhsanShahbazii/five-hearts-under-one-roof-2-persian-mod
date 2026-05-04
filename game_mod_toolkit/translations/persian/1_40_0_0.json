@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 편의점이 코앞인데 왜 이렇게 늦게와!",
+      "ENGLISH": "Hey, the store’s right around the corner—why are you so late?",
+      "CHINESE_SIMPLIFIED": "喂，便利店就在前面，怎么还这么慢！",
+      "CHINESE_TRADITIONAL": "喂，便利商店就在前面而已，怎麼這麼晚才回來！",
+      "JAPANESE": "ちょっと〜、コンビニすぐそこなのに、なんでそんなに遅いの？",
+      "INDONESIAN": "Hei! Minimarket ada di depan mata, kenapa lama banget sih!",
+      "PORTUGUESE": "Ei, a loja é logo na esquina—por que você demorou tanto?",
+      "SPANISH": "¡La tienda está en la esquina no más! ¿Por qué tardaste tanto?",
+      "PERSIAN": "هووی! سوپرمارکت که دو قدمیه پس چرا اینقدر لفتش دادی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너 또 센스 없게 맥주 딸랑 2개만 사온 거 아니지?",
+      "ENGLISH": "Don’t tell me you were clueless enough to only bring back two beers.",
+      "CHINESE_SIMPLIFIED": "你不会这么没眼力见只买了两罐啤酒吧？",
+      "CHINESE_TRADITIONAL": "別告訴我你這麼沒常識，只買了兩罐啤酒吧？",
+      "JAPANESE": "またセンスなくビール2本だけ買ってきたんじゃないでしょうね？",
+      "INDONESIAN": "Jangan bilang kamu cuma bawa dua kaleng doang ya, kayak biasanya nggak peka gitu?",
+      "PORTUGUESE": "Não me diga que foi tonto o bastante pra trazer só duas cervejas.",
+      "SPANISH": "¿No me digas que solo trajiste dos miserables cervezas?",
+      "PERSIAN": "نکنه باز خنگ‌بازی درآوردی فقط دو تا دونه قوطی خریدی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 2개는 무슨..",
+      "ENGLISH": "Psh, two? Please…",
+      "CHINESE_SIMPLIFIED": "哎，两罐哪够啊…",
+      "CHINESE_TRADITIONAL": "哎唷，兩罐算什麼…",
+      "JAPANESE": "はは〜、2本どころか…",
+      "INDONESIAN": "Eh, mana ada dua...",
+      "PORTUGUESE": "Psh, duas? Qual é…",
+      "SPANISH": "¿Dos? ¿Por quién me tomas...?",
+      "PERSIAN": "هه، دو تا چیه بابا..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오~",
+      "ENGLISH": "Oh~",
+      "CHINESE_SIMPLIFIED": "哇哦～",
+      "CHINESE_TRADITIONAL": "喔～",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "O~",
+      "PORTUGUESE": "Oh~",
+      "SPANISH": "Uff...",
+      "PERSIAN": "اوه~ پس بیشتر خریدی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "한 개도 못 사 왔지롱~",
+      "ENGLISH": "I didn’t bring back any!",
+      "CHINESE_SIMPLIFIED": "我一罐都没买呢！",
+      "CHINESE_TRADITIONAL": "一罐都沒買回來啦～",
+      "JAPANESE": "1本も買えなかった〜",
+      "INDONESIAN": "Satu pun nggak bisa aku bawa pulang~",
+      "PORTUGUESE": "Eu não trouxe nenhuma!",
+      "SPANISH": "¡No pude comprar ni una!",
+      "PERSIAN": "یه دونه‌شم نتونستم بخرم دست خالی اومدم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 진짜! 일로 안 와?",
+      "ENGLISH": "You little—get over here!",
+      "CHINESE_SIMPLIFIED": "你这家伙！给我过来！",
+      "CHINESE_TRADITIONAL": "你這傢伙！給我過來！",
+      "JAPANESE": "はぁ！？ちょっと来て！",
+      "INDONESIAN": "Astaga! Sini kamu!",
+      "PORTUGUESE": "Seu… vem aqui!",
+      "SPANISH": "¡¿Qué dijiste?! ¡Ven acá ahora mismo!",
+      "PERSIAN": "روانی شدی؟! بیا اینجا ببینم باهات کار دارم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야! 맥주 사 오라는 게 그렇게 힘들어?",
+      "ENGLISH": "How hard is it to buy some beer?!",
+      "CHINESE_SIMPLIFIED": "喂，叫你去买个啤酒有这么难吗？",
+      "CHINESE_TRADITIONAL": "呀！買個啤酒有那麼難嗎？",
+      "JAPANESE": "ビール買ってくるのがそんなに難しい！？",
+      "INDONESIAN": "Suruh beli bir aja segitu susahnya?",
+      "PORTUGUESE": "Quão difícil é comprar umas cervejas?!",
+      "SPANISH": "¿Tan difícil es comprar unas simples cervezas?",
+      "PERSIAN": "خریدن چهار تا قوطی اینقدر کار شاقی بود مگه؟!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 신분증을 놓고 가서 그래.",
+      "ENGLISH": "I left my ID, that’s why.",
+      "CHINESE_SIMPLIFIED": "啊！是我忘带身份证了啦",
+      "CHINESE_TRADITIONAL": "啊！因為我忘帶身分證了",
+      "JAPANESE": "それが〜、身分証持ってくの忘れた",
+      "INDONESIAN": "Ah! Soalnya aku lupa bawa KTP.",
+      "PORTUGUESE": "Eu deixei minha identidade, por isso.",
+      "SPANISH": "¡Ah! Es que olvidé mi identificación…",
+      "PERSIAN": "کارت ملیمو نبرده بودم خب، نداد بهم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 미안해!",
+      "ENGLISH": "Sorry!",
+      "CHINESE_SIMPLIFIED": "真的对不起嘛！",
+      "CHINESE_TRADITIONAL": "真的對不起嘛！",
+      "JAPANESE": "ごめんって！",
+      "INDONESIAN": "Ya ampun, maaf deh!",
+      "PORTUGUESE": "Desculpa!",
+      "SPANISH": "¡Perdón!",
+      "PERSIAN": "ببخشید دیگه غلط کردم!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 무슨 소리 나지 않았어?",
+      "ENGLISH": "Huh? Did you hear that sound?",
+      "CHINESE_SIMPLIFIED": "咦？你有没有听到什么声音？",
+      "CHINESE_TRADITIONAL": "咦？剛才是不是有什麼聲音？",
+      "JAPANESE": "ねぇ…今なんか音しなかった？",
+      "INDONESIAN": "Eh? Tadi kamu nggak denger suara aneh gitu?",
+      "PORTUGUESE": "Hã? Você ouviu esse som?",
+      "SPANISH": "¿Eh? ¿Oíste eso?",
+      "PERSIAN": "عه؟ صدایی نشنیدی؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 소리.",
+      "ENGLISH": "What sound?",
+      "CHINESE_SIMPLIFIED": "什么声音？",
+      "CHINESE_TRADITIONAL": "什麼聲音",
+      "JAPANESE": "音？全然聞こえないけど？",
+      "INDONESIAN": "Suara apa?",
+      "PORTUGUESE": "Que som?",
+      "SPANISH": "¿Qué cosa?",
+      "PERSIAN": "چه صدایی اخه؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저승사자가 네 이름 부르는 소리?",
+      "ENGLISH": "The Grim Reaper calling your name?",
+      "CHINESE_SIMPLIFIED": "是阎王爷在叫你名字的声音？",
+      "CHINESE_TRADITIONAL": "是閻王爺在叫你的名字嗎？",
+      "JAPANESE": "死神がユマンの名前呼んでる音じゃない？",
+      "INDONESIAN": "Suara malaikat maut manggil nama kamu?",
+      "PORTUGUESE": "A Morte chamando seu nome?",
+      "SPANISH": "¿La muerte llamándote~?",
+      "PERSIAN": "صدای عزرائیل که اومده جونتو بگیره؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 36.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야? 누구 올 사람 있어?",
+      "ENGLISH": "What the—are you expecting someone?",
+      "CHINESE_SIMPLIFIED": "什么啊？有人要来了？",
+      "CHINESE_TRADITIONAL": "什麼啊？有人要來嗎？",
+      "JAPANESE": "何？誰か来る予定あるの？",
+      "INDONESIAN": "Hah? Apaan sih? Ada orang mau datang?",
+      "PORTUGUESE": "Que—você tá esperando alguém?",
+      "SPANISH": "¿Eh? ¿Tienes visitas?",
+      "PERSIAN": "این دیگه کیه؟ منتظر کسی بودی مگه؟"
+    }
+  }
+]

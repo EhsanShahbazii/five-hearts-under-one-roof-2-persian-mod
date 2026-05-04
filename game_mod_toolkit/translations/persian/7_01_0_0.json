@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이쪽 보시고",
+      "ENGLISH": "Look over here—",
+      "CHINESE_SIMPLIFIED": "看这边",
+      "CHINESE_TRADITIONAL": "看這邊",
+      "JAPANESE": "こっち見てください",
+      "INDONESIAN": "Lihat ke sini.",
+      "PORTUGUESE": "Mira aquí",
+      "SPANISH": "Mira aquí",
+      "PERSIAN": "اینجا را نگاه کن-"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하나, 둘, 셋",
+      "ENGLISH": "One, two, three.",
+      "CHINESE_SIMPLIFIED": "一、二、三",
+      "CHINESE_TRADITIONAL": "一、二、三",
+      "JAPANESE": "いち、に、さん",
+      "INDONESIAN": "Satu, dua, tiga.",
+      "PORTUGUESE": "Uno, dos, tres",
+      "SPANISH": "Uno, dos, tres",
+      "PERSIAN": "یک، دو، سه."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하나, 둘, 셋",
+      "ENGLISH": "And again—one, two, three.",
+      "CHINESE_SIMPLIFIED": "一、二、三",
+      "CHINESE_TRADITIONAL": "一、二、三",
+      "JAPANESE": "いち、に、さん",
+      "INDONESIAN": "Satu, dua, tiga.",
+      "PORTUGUESE": "Uno, dos, tres",
+      "SPANISH": "Uno, dos, tres",
+      "PERSIAN": "و دوباره - یک، دو، سه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "확인 들어갈게요.",
+      "ENGLISH": "Alright, let’s take a look.",
+      "CHINESE_SIMPLIFIED": "好，确认一下",
+      "CHINESE_TRADITIONAL": "好，確認一下喔",
+      "JAPANESE": "確認入りますね",
+      "INDONESIAN": "Biar aku cek dulu.",
+      "PORTUGUESE": "Voy a revisar.",
+      "SPANISH": "Voy a revisar.",
+      "PERSIAN": "خوب، بیایید نگاهی بیندازیم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 보면 살짝 틀어서 찍어볼게요.",
+      "ENGLISH": "It’s totally fine if the angle’s a little off like this.",
+      "CHINESE_SIMPLIFIED": "这边可以稍微侧一点拍",
+      "CHINESE_TRADITIONAL": "這邊可以稍微再測一點拍",
+      "JAPANESE": "ここ、ちょっと角度をずらして撮っても大丈夫ですよ",
+      "INDONESIAN": "Nggak apa-apa kok kalau agak miring dikit kayak gini.",
+      "PORTUGUESE": "Creo que podría mover un poco en esta pose",
+      "SPANISH": "Creo que podría mover un poco en esta pose",
+      "PERSIAN": "اگر زاویه کمی به این شکل باشد، کاملاً خوب است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 네!",
+      "ENGLISH": "Ah... okay!",
+      "CHINESE_SIMPLIFIED": "啊...好的！",
+      "CHINESE_TRADITIONAL": "啊...好的",
+      "JAPANESE": "あ…はい！",
+      "INDONESIAN": "Ah… ngerti!",
+      "PORTUGUESE": "Sí, entiendo.",
+      "SPANISH": "Sí, entiendo.",
+      "PERSIAN": "آه... باشه!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아셨죠?",
+      "ENGLISH": "Got it?",
+      "CHINESE_SIMPLIFIED": "明白了吗？",
+      "CHINESE_TRADITIONAL": "明白了嗎？",
+      "JAPANESE": "わかりました？",
+      "INDONESIAN": "Kamu siap?",
+      "PORTUGUESE": "¿Okay?",
+      "SPANISH": "¿Okay?",
+      "PERSIAN": "متوجه شدید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 나왔어요",
+      "ENGLISH": "These turned out really nice.",
+      "CHINESE_SIMPLIFIED": "拍得还挺好的",
+      "CHINESE_TRADITIONAL": "拍得還不錯",
+      "JAPANESE": "いい感じに撮れてます",
+      "INDONESIAN": "Hasilnya bagus banget.",
+      "PORTUGUESE": "Salieron bien.",
+      "SPANISH": "Salieron bien.",
+      "PERSIAN": "اینا واقعاً زیبا شدند."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "살짝 쉬었다 갈까요?",
+      "ENGLISH": "Wanna take a little break?",
+      "CHINESE_SIMPLIFIED": "稍微休息一下再继续吧？",
+      "CHINESE_TRADITIONAL": "稍微休息一下再繼續吧？",
+      "JAPANESE": "ちょっと休憩しましょうか？",
+      "INDONESIAN": "Gimana kalau istirahat sebentar?",
+      "PORTUGUESE": "Tomamos un descanso",
+      "SPANISH": "Tomamos un descanso",
+      "PERSIAN": "می خواهید کمی استراحت کنید؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "好！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "¡Sí!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "5분만 쉬었다가 갈게요!",
+      "ENGLISH": "Let’s chill for like five minutes, then get back to it.",
+      "CHINESE_SIMPLIFIED": "休息五分钟后继续！",
+      "CHINESE_TRADITIONAL": "休息五分鐘後再繼續！",
+      "JAPANESE": "5分だけ休みましょう！",
+      "INDONESIAN": "Kita istirahat 5 menit ya!",
+      "PORTUGUESE": "Descansamos cinco minutos y seguimos.",
+      "SPANISH": "Descansamos cinco minutos y seguimos.",
+      "PERSIAN": "اجازه دهید به مدت پنج دقیقه خنک شود، سپس به اون برگردیم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 쉽지 않다...",
+      "ENGLISH": "Whew... this is harder than I thought.",
+      "CHINESE_SIMPLIFIED": "啊，真不容易...",
+      "CHINESE_TRADITIONAL": "啊，真不容易...",
+      "JAPANESE": "はぁ…難しい…",
+      "INDONESIAN": "Wah, ternyata nggak semudah itu ya…",
+      "PORTUGUESE": "Ay, no está nada fácil…",
+      "SPANISH": "Ay, no está nada fácil…",
+      "PERSIAN": "وای... این سخت تر از چیزی است که فکر می کردم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 32.7,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 나 어때... 좀 괜찮은 거 같아?",
+      "ENGLISH": "Just me and Yuman... do I look okay? You think it works?",
+      "CHINESE_SIMPLIFIED": "吴宥万，我怎么样...还行吗？",
+      "CHINESE_TRADITIONAL": "吳宥萬，我看起來如何...還可以嗎？",
+      "JAPANESE": "ウ・ユマン、私どう？ うまくできてる？",
+      "INDONESIAN": "Yuman, aku kelihatan gimana…? Oke nggak?",
+      "PORTUGUESE": "Yumán, ¿cómo me veo…? ¿Crees que lo hago bien?",
+      "SPANISH": "Yumán, ¿cómo me veo…? ¿Crees que lo hago bien?",
+      "PERSIAN": "فقط من و یومان... حالم خوبه؟ فکر می کنید کار می کند؟"
+    }
+  }
+]

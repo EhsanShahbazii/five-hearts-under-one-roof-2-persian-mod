@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "와 민정님 엄청 귀여운데요",
+      "ENGLISH": "Whoa, Min-jung, you look seriously cute.",
+      "CHINESE_SIMPLIFIED": "哇你穿着也太可爱了吧",
+      "CHINESE_TRADITIONAL": "哇，敏靜你超可愛的！",
+      "JAPANESE": "わぁ、ミンジョンさんめっちゃ可愛いですね",
+      "INDONESIAN": "Wah, Min-jung, kamu keliatan imut banget.",
+      "PORTUGUESE": "Uau, Minjung, você tá super fofa!",
+      "SPANISH": "Wow, Minjung, ¡te ves súper linda!",
+      "PERSIAN": "وای، مین‌جونگ، تو خیلی بامزه به نظر میای."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "한 바퀴 돌아보실래요?",
+      "ENGLISH": "Wanna give us a spin?",
+      "CHINESE_SIMPLIFIED": "可以转一圈看看吗？",
+      "CHINESE_TRADITIONAL": "可以轉一圈給我看看嗎？",
+      "JAPANESE": "一回くるっと回ってみます？",
+      "INDONESIAN": "Coba muter dikit, dong?",
+      "PORTUGUESE": "Quer dar uma voltinha?",
+      "SPANISH": "¿Quieres dar una vueltita?",
+      "PERSIAN": "می خواهید به ما یک چرخش بدهید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "와, 이거 가질래요?",
+      "ENGLISH": "Wow... you know what? You can keep it if you want.",
+      "CHINESE_SIMPLIFIED": "哇，这个要送你吗？",
+      "CHINESE_TRADITIONAL": "這件你就拿去穿吧？",
+      "JAPANESE": "うわ、これ欲しいかも",
+      "INDONESIAN": "Wow... tau nggak? Kalau kamu mau, baju itu boleh kamu simpen aja.",
+      "PORTUGUESE": "Uau… quer ficar com ela?",
+      "SPANISH": "Wow… ¿quieres quedártela?",
+      "PERSIAN": "وای...میدونی چیه؟ در صورت تمایل می توانید اونو نگه دارید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이걸요?",
+      "ENGLISH": "This?",
+      "CHINESE_SIMPLIFIED": "这件？",
+      "CHINESE_TRADITIONAL": "這件嗎？",
+      "JAPANESE": "これを？",
+      "INDONESIAN": "Yang ini?",
+      "PORTUGUESE": "Essa aqui?",
+      "SPANISH": "¿Esta?",
+      "PERSIAN": "این؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그거 저 고딩 때 반티로 딱 한 번 입고 안 입었거든요",
+      "ENGLISH": "Yeah, I only wore that once in high school it was a class shirt.",
+      "CHINESE_SIMPLIFIED": "这衣服是我高中班服，只穿过一次就没再穿过了",
+      "CHINESE_TRADITIONAL": "我高中時當班服穿過一次就沒再穿了",
+      "JAPANESE": "それ、高校のときクラスTで一回だけ着て、あとはずっとしまってたんですよ",
+      "INDONESIAN": "Iya, aku cuma pernah pakai sekali waktu SMA—itu kaus angkatan.",
+      "PORTUGUESE": "Sim, essa. Usei só uma vez, quando tava no colégio, era a camiseta da banda.",
+      "SPANISH": "Sí, esa. La usé solo una vez cuando estaba en la prepa, era la camiseta del grupo.",
+      "PERSIAN": "بله، من فقط یک بار در دبیرستان اونو پوشیدم که پیراهن کلاسی بود."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이야 이게 이제야  주인을 찾아갔네",
+      "ENGLISH": "Guess it finally found its real owner.",
+      "CHINESE_SIMPLIFIED": "哇，它终于找到真正的主人了",
+      "CHINESE_TRADITIONAL": "它現在終於找到主人了",
+      "JAPANESE": "いや〜、やっと本当の持ち主に渡る日が来たな",
+      "INDONESIAN": "Kayaknya sekarang baru nemu pemilik aslinya.",
+      "PORTUGUESE": "Olha só, finalmente encontrou sua verdadeira dona.",
+      "SPANISH": "Mira nada más, al fin encontró a su verdadera dueña.",
+      "PERSIAN": "حدس بزنید بالاخره صاحب واقعی خود را پیدا کرد."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 너 이거 아직도 안 버렸어?",
+      "ENGLISH": "Wait, you still haven’t thrown this out?",
+      "CHINESE_SIMPLIFIED": "什么呀，你这件居然还没扔？",
+      "CHINESE_TRADITIONAL": "搞什麼？ 你這件還沒丟掉喔？",
+      "JAPANESE": "ちょっと、まだそれ捨ててなかったの？",
+      "INDONESIAN": "Tunggu, kamu belum buang ini juga?",
+      "PORTUGUESE": "Hã? Você ainda não jogou fora?",
+      "SPANISH": "¿Eh? ¿Todavía no la tiras?",
+      "PERSIAN": "صبر کن، هنوز اینو بیرون نگذاشتی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 22.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 거의 새 건데 왜 버려",
+      "ENGLISH": "Hey, it’s practically new! Why toss it?",
+      "CHINESE_SIMPLIFIED": "哎呦，这跟新的没两样干嘛要扔",
+      "CHINESE_TRADITIONAL": "欸，幾乎是新的，為什麼要丟",
+      "JAPANESE": "だって、ほとんど新品だよ？ なんで捨てるの",
+      "INDONESIAN": "Eh, itu masih kayak baru! Ngapain dibuang?",
+      "PORTUGUESE": "Ah, tá quase nova, por que eu jogaria fora?",
+      "SPANISH": "Ay, si está casi nueva, ¿por qué la tiraría?",
+      "PERSIAN": "سلام، این عملا جدید است! چرا پرتش کنم؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 25.1
+    },
+    "SCRIPT": {
+      "KOREAN": "...",
+      "ENGLISH": "...",
+      "CHINESE_SIMPLIFIED": "...",
+      "CHINESE_TRADITIONAL": "...",
+      "JAPANESE": "……",
+      "INDONESIAN": "...",
+      "PORTUGUESE": "…",
+      "SPANISH": "…",
+      "PERSIAN": "..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어.. 버리면 되잖아 ",
+      "ENGLISH": "Alright, fine. I’ll get rid of it.",
+      "CHINESE_SIMPLIFIED": "行行...我扔还不行吗",
+      "CHINESE_TRADITIONAL": "知道了...不就是丟掉衣服嗎？",
+      "JAPANESE": "わかったよ、捨てればいいんでしょ",
+      "INDONESIAN": "Ya udah deh. Aku buang.",
+      "PORTUGUESE": "Tá bom… tudo bem, eu jogo fora se você quiser.",
+      "SPANISH": "Está bien… ya, la tiro si quieres.",
+      "PERSIAN": "باشه خوبه من از شر اون خلاص خواهم شد."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 벗어요 내가 따로 빌려줄게요",
+      "ENGLISH": "Take that off. I’ll lend you something better.",
+      "CHINESE_SIMPLIFIED": "把这个脱下来吧，我另借你衣服穿",
+      "CHINESE_TRADITIONAL": "你把這件衣服脫掉，我借你我的衣服",
+      "JAPANESE": "その服脱いで　私が別の貸してあげる",
+      "INDONESIAN": "Lepasin aja bajunya. Aku pinjemin yang lebih bagus.",
+      "PORTUGUESE": "Tira essa camiseta, eu te empresto outra.",
+      "SPANISH": "Quítate esa camiseta, te presto otra.",
+      "PERSIAN": "اونو بردارید چیز بهتری بهت قرض میدم"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.9,
+      "HIDE": 31.6
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんとに？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.7,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "응",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "うん",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.1,
+      "HIDE": 33.4
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요!",
+      "ENGLISH": "Thank you so much!",
+      "CHINESE_SIMPLIFIED": "真的太谢谢你啦！",
+      "CHINESE_TRADITIONAL": "真的太謝謝你了！",
+      "JAPANESE": "本当にありがとう！",
+      "INDONESIAN": "Makasih banyak ya!",
+      "PORTUGUESE": "De verdade, obrigado!",
+      "SPANISH": "¡De verdad, gracias!",
+      "PERSIAN": "خیلی ممنون!"
+    }
+  }
+]

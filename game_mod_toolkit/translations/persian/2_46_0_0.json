@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 다들 저녁 먹었어요? ",
+      "ENGLISH": "Hey, did everyone eat dinner already?",
+      "CHINESE_SIMPLIFIED": "不过大家都吃晚饭了吗？",
+      "CHINESE_TRADITIONAL": "不過大家都吃晚餐了嗎？",
+      "JAPANESE": "ところで、みんな晩ごはん食べた？",
+      "INDONESIAN": "Hei, apakah semuanya sudah makan malam?",
+      "PORTUGUESE": "Vocês duas já comeram?",
+      "SPANISH": "¿Las dos ya comieron?",
+      "PERSIAN": "هی، همه قبلا شام خورده اند؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나 좀 출출한데. ",
+      "ENGLISH": "I’m kinda hungry.",
+      "CHINESE_SIMPLIFIED": "我有点饿了",
+      "CHINESE_TRADITIONAL": "我有點餓了",
+      "JAPANESE": "ちょっとお腹すいたんだけど",
+      "INDONESIAN": "Aku agak lapar.",
+      "PORTUGUESE": "Eu tô com um pouco de fome.",
+      "SPANISH": "Yo tengo un poco de hambre.",
+      "PERSIAN": "من یه جورایی گرسنه ام"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "라면 먹을 사람?",
+      "ENGLISH": "Anyone down for some ramyun?",
+      "CHINESE_SIMPLIFIED": "有人要吃泡面吗？",
+      "CHINESE_TRADITIONAL": "有人要吃泡麵嗎？",
+      "JAPANESE": "ラーメン食べる人〜？",
+      "INDONESIAN": "Ada yang mau makan ramyun?",
+      "PORTUGUESE": "Quem quer ramyeon?",
+      "SPANISH": "¿Quién quiere ramyeon?",
+      "PERSIAN": "کسی برای کمی رامیون حاضر است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "니가 끓이면 먹을게!",
+      "ENGLISH": "If you’re cooking, I’m in!",
+      "CHINESE_SIMPLIFIED": "你煮我就吃！",
+      "CHINESE_TRADITIONAL": "你煮的話我就吃！",
+      "JAPANESE": "ユマンが作るなら食べる！",
+      "INDONESIAN": "Kalau kamu masak, aku ikut!",
+      "PORTUGUESE": "Se for você quem faz, eu quero.",
+      "SPANISH": "Si lo preparas tú, yo quiero.",
+      "PERSIAN": "اگر در حال آشپزی هستید، من وارد هستم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 맨날 내가 끓였잖아!",
+      "ENGLISH": "Oh come on, I always end up cooking!",
+      "CHINESE_SIMPLIFIED": "不行，怎么老是我煮啊！",
+      "CHINESE_TRADITIONAL": "喂，每次都是我煮的吧！",
+      "JAPANESE": "ちょっと！ いつも俺が作ってるじゃん！",
+      "INDONESIAN": "Oh ayolah, akhirnya aku selalu memasak!",
+      "PORTUGUESE": "Mas eu sempre que faço!",
+      "SPANISH": "¡Pero siempre lo preparo yo!",
+      "PERSIAN": "اوه بیا، من همیشه آشپزی می کنم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "라면? 맛있겠다! 누가 만들 건데요?",
+      "ENGLISH": "Ramyun? Sounds good! Who’s making it, though?",
+      "CHINESE_SIMPLIFIED": "泡面？听起来不错！那谁来煮呢？",
+      "CHINESE_TRADITIONAL": "泡麵？聽起來不錯！誰要煮呢？",
+      "JAPANESE": "ラーメン？ 美味しそう！ 誰が作るんですか？",
+      "INDONESIAN": "Ramyun? Kedengarannya enak! Siapa yang membuatnya?",
+      "PORTUGUESE": "Ramyeon? Que delícia! Quem vai preparar?",
+      "SPANISH": "¿Ramyeon? ¡Qué rico! ¿Quién lo va a hacer?",
+      "PERSIAN": "رامیون؟ خوب به نظر می رسد! با این حال چه کسی اونو می سازد؟"
+    }
+  }
+]

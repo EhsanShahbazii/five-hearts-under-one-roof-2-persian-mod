@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음… 워워",
+      "ENGLISH": "Hmm… whoa, whoa.",
+      "CHINESE_SIMPLIFIED": "嗯...慢着慢着",
+      "CHINESE_TRADITIONAL": "嗯... 哇喔",
+      "JAPANESE": "うーん…まあまあ、落ち着いて",
+      "INDONESIAN": "Hmm… eh, eh, bentar dulu.",
+      "PORTUGUESE": "Hmm... ok, ok.",
+      "SPANISH": "Hmm… okey, okey.",
+      "PERSIAN": "هوم... اوه، اوه."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "전 그렇다고 생각해요.",
+      "ENGLISH": "I actually agree with that.",
+      "CHINESE_SIMPLIFIED": "各位请听我说",
+      "CHINESE_TRADITIONAL": "我是這麼想",
+      "JAPANESE": "俺は、そうだと思う",
+      "INDONESIAN": "Aku malah setuju deh.",
+      "PORTUGUESE": "Eu penso o mesmo.",
+      "SPANISH": "Yo pienso lo mismo.",
+      "PERSIAN": "من در واقع با اون موافقم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "진정한 ‘청소’의 의미가 무엇인지부터 바로잡아야 한다고 생각하거든요",
+      "ENGLISH": "I think we need to start by understanding what true “cleaning” really means.",
+      "CHINESE_SIMPLIFIED": "我认为应该先纠正所谓“清洁”的真正含义",
+      "CHINESE_TRADITIONAL": "我認為應該先從釐清打掃真正的「意義」是什麼開始",
+      "JAPANESE": "本当の掃除の意味”を、まず正しく理解するところから始めるべきだと思うんだ",
+      "INDONESIAN": "Menurutku kita harus mulai dari ngerti dulu arti “bersih-bersih” yang sebenarnya.",
+      "PORTUGUESE": "Acho que antes de tudo, precisamos esclarecer o que realmente significa “limpeza”.",
+      "SPANISH": "Creo que antes que nada debemos aclarar qué significa realmente “limpieza”.",
+      "PERSIAN": "من فکر می کنم ما باید با درک معنای واقعی \"تمیز کردن\" شروع کنیم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 소리야?",
+      "ENGLISH": "What are you talking about?",
+      "CHINESE_SIMPLIFIED": "你在说什么啊？",
+      "CHINESE_TRADITIONAL": "妳在說什麼？",
+      "JAPANESE": "なに言ってんの？",
+      "INDONESIAN": "Maksud kamu apaan sih?",
+      "PORTUGUESE": "Do que você tá falando?",
+      "SPANISH": "¿De qué estás hablando?",
+      "PERSIAN": "در مورد چی حرف میزنی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 지금 ‘청소’가 정확히 뭔지 알고 그러세요?",
+      "ENGLISH": "Do you all even know what cleaning actually is right now?",
+      "CHINESE_SIMPLIFIED": "诸位现在说\"清洁\"时，真的明白它准确指什么吗？",
+      "CHINESE_TRADITIONAL": "大家知道「打掃」究竟是什麼意思，才這麼說的嗎？",
+      "JAPANESE": "みんな、“掃除”が本当は何か分かってて言ってる？",
+      "INDONESIAN": "Kalian semua beneran tahu nggak, arti bersih-bersih itu apa?",
+      "PORTUGUESE": "Será que todos sabem o que “limpar” quer dizer?",
+      "SPANISH": "¿Acaso todos saben exactamente qué es “limpiar”?",
+      "PERSIAN": "همه شما می دانید که در حال حاضر تمیز کردن چیه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "청소가 청소 아닌가요?",
+      "ENGLISH": "Isn’t cleaning… just cleaning?",
+      "CHINESE_SIMPLIFIED": "清洁不就是清洁吗？",
+      "CHINESE_TRADITIONAL": "打掃不就是打掃嗎？",
+      "JAPANESE": "掃除は掃除でしょ？",
+      "INDONESIAN": "Bukannya… bersih-bersih ya bersih-bersih aja?",
+      "PORTUGUESE": "Não é simplesmente... limpar?",
+      "SPANISH": "¿No es simplemente… limpiar?",
+      "PERSIAN": "تمیز کردن، فقط تمیز کردن نیست؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 청소란, 더러운 곳을 깨끗이 하는 일을 말하는 거로서",
+      "ENGLISH": "Ah, cleaning is the act of making dirty places clean,",
+      "CHINESE_SIMPLIFIED": "啊，所谓清洁，是指将脏污场所打理干净的工作",
+      "CHINESE_TRADITIONAL": "所謂的打掃呢，指的是把髒亂的地方弄乾淨的工作，",
+      "JAPANESE": "ああ、掃除とは――汚い場所をきれいにする行為のことである",
+      "INDONESIAN": "Ah, bersih-bersih itu proses membersihkan tempat yang kotor,",
+      "PORTUGUESE": "Ah, não, não. Limpar significa eliminar a sujeira de um lugar,",
+      "SPANISH": "Ah, no, no. Limpiar significa eliminar la suciedad de un lugar,",
+      "PERSIAN": "آه، تمیز کردن عمل تمیز کردن مکان های کثیف است،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "가장 일반적인 청소로는 집 청소",
+      "ENGLISH": "and the most common type is house cleaning.",
+      "CHINESE_SIMPLIFIED": "最普通的清洁就是家居清洁——",
+      "CHINESE_TRADITIONAL": "一般來說的打掃包含房子清潔整理...",
+      "JAPANESE": "最も一般的な掃除には、家の掃除",
+      "INDONESIAN": "dan yang paling umum ya bersih-bersih rumah.",
+      "PORTUGUESE": "e, entre as formas mais comuns, está a limpeza doméstica...",
+      "SPANISH": "y, entre las formas más comunes, está la limpieza del hogar…",
+      "PERSIAN": "و رایج ترین نوع اون نظافت منزل است."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 25.9
+    },
+    "SCRIPT": {
+      "KOREAN": "- 집청소, 가구나 장롱 위, 바닥, \n- 그냥 업체 불러줘요.",
+      "ENGLISH": "— House cleaning: furniture, tops of wardrobes, floors…\n— Just call the service already.",
+      "CHINESE_SIMPLIFIED": "- 家居清洁包括家具、衣柜上方、地板...\n-直接叫保洁公司吧",
+      "CHINESE_TRADITIONAL": "—房屋清潔、家具和衣櫃上、地板...\n—乾脆直接叫清潔公司來",
+      "JAPANESE": "‐ 家の掃除、家具やタンスの上、床…\n‐ もう業者呼んでください",
+      "INDONESIAN": "— Bersih-bersih rumah: perabotan, atas lemari, lantai…\n— Ya udah, langsung aja panggil jasanya.",
+      "PORTUGUESE": "— A limpeza doméstica inclui móveis, armários, o chão...\n— Só chama a empresa, por favor.",
+      "SPANISH": "— La limpieza del hogar, incluye muebles, armarios, el suelo…\n— Solo llama a la empresa, por favor.",
+      "PERSIAN": "- نظافت خونه: مبلمان، رویه کمدها، کف… - فقط از قبل با سرویس تماس بگیرید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 집청소, 가구나 장롱 위, 바닥, \n- 넹~ \n",
+      "ENGLISH": "— Kitchen vents, living room, master bedroom, bathroom, garden…\n— How much would that cost?",
+      "CHINESE_SIMPLIFIED": "-家居清洁包括家具、衣柜上方、地板...\n-好的~",
+      "CHINESE_TRADITIONAL": "—房屋清潔、家具和衣櫃上、地板...\n—好喔～",
+      "JAPANESE": "‐ 家の掃除、家具やタンスの上、床…\n‐ は〜い",
+      "INDONESIAN": "— Ventilasi dapur, ruang tamu, kamar utama, kamar mandi, taman…\n— Emang biayanya berapa sih?",
+      "PORTUGUESE": "— A limpeza doméstica inclui móveis, armários, o chão...\n— Sim, sim~.",
+      "SPANISH": "— La limpieza del hogar, incluye muebles, armarios, el suelo…\n— Sí, sí~.",
+      "PERSIAN": "- دریچه های آشپزخانه، اتاق نشیمن، اتاق خواب اصلی، حمام، باغ… - هزینه اون چقدر است؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.6
+    },
+    "SCRIPT": {
+      "KOREAN": "- 부엌의 환풍기, 거실, 안방, 화장실, 정원 등을 청소할 수 있고\n- 얼마 내면 돼요?",
+      "ENGLISH": "— Kitchen vents, living room, master bedroom, bathroom, garden…\n— How much would that cost?",
+      "CHINESE_SIMPLIFIED": "-厨房的排风扇、客厅、卧室、卫生间、庭院等都属清洁范围\n-要付多少钱？",
+      "CHINESE_TRADITIONAL": "— 廚房的抽風機、客廳、主臥房、廁所、庭院等等都可以清掃...\n— 要付多少錢呢？",
+      "JAPANESE": "‐ 台所の換気扇、リビング、寝室、トイレ、庭などを掃除することができて\n‐ いくら払えばいいですか？",
+      "INDONESIAN": "— Ventilasi dapur, ruang tamu, kamar utama, kamar mandi, taman…\n— Emang berapaan sih?",
+      "PORTUGUESE": "— Também abrange a cozinha, o ventilador, a sala, o quarto, o banheiro e o jardim...\n— Quanto é pra pagar?",
+      "SPANISH": "— También abarca la cocina, el ventilador, la sala, el dormitorio, el baño y el jardín…\n— ¿Cuánto hay que pagar?",
+      "PERSIAN": "- دریچه های آشپزخانه، اتاق نشیمن، اتاق خواب اصلی، حمام، باغ… - هزینه اون چقدر است؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 부엌의 환풍기, 거실, 안방, 화장실, 정원 등을 청소할 수 있고\n- 그냥 제가 낼게요, 저 편하자고 하는 거니까.",
+      "ENGLISH": "— Kitchen vents, living room, master bedroom, bathroom, garden…\n— How much would that cost? I’ll pay for it; it’s just to make things easier.",
+      "CHINESE_SIMPLIFIED": "-厨房的排风扇、客厅、卧室、卫生间、庭院等都属清洁范围\n-钱我来付吧，毕竟是我图方便提议的",
+      "CHINESE_TRADITIONAL": "— 廚房的抽風機、客廳、主臥房、廁所、庭院等等都可以清掃...\n— 我來付吧，反正我是為了自己方便",
+      "JAPANESE": "‐ 台所の換気扇、リビング、寝室、トイレ、庭などを掃除することができて\n‐ 私が払いますよ、自分が楽したくて言い出したことだから",
+      "INDONESIAN": "— Ventilasi dapur, ruang tamu, kamar utama, kamar mandi, taman…\n— Berapa pun deh, aku bayar aja, biar gampang.",
+      "PORTUGUESE": "— Também abrange a cozinha, o ventilador, a sala, o quarto, o banheiro e o jardim...\n— Deixa comigo, faço por praticidade.",
+      "SPANISH": "— También abarca la cocina, el ventilador, la sala, el dormitorio, el baño y el jardín…\n— Yo me encargo, lo hago por comodidad.",
+      "PERSIAN": "- دریچه های آشپزخانه، اتاق نشیمن، اتاق خواب اصلی، حمام، باغ… - هزینه اون چقدر است؟ من هزینه اونو خواهم پرداخت؛ این فقط برای آسان کردن کار است."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 32.7
+    },
+    "SCRIPT": {
+      "KOREAN": "- 부엌의 환풍기, 거실, 안방, 화장실, 정원 등을 청소할 수 있고\n- 그렇게 해요 그럼.",
+      "ENGLISH": "— Kitchen vents, living room, master bedroom, bathroom, garden…\n— Okay, let’s do that then.",
+      "CHINESE_SIMPLIFIED": "-厨房的排风扇、客厅、卧室、卫生间、庭院等都属清洁范围\n-那就这么办吧",
+      "CHINESE_TRADITIONAL": "— 廚房的抽風機、客廳、主臥房、廁所、庭院等等都可以清掃...\n— 那就這麼辦吧",
+      "JAPANESE": "‐ 台所の換気扇、リビング、寝室、トイレ、庭などを掃除することができて\n‐ じゃあそれで",
+      "INDONESIAN": "— Ventilasi dapur, ruang tamu, kamar utama, kamar mandi, taman…\n— Oke deh, kita gasin aja.",
+      "PORTUGUESE": "— Também abrange a cozinha, o ventilador, a sala, o quarto, o banheiro e o jardim...\n— Então, faça assim.",
+      "SPANISH": "— También abarca la cocina, el ventilador, la sala, el dormitorio, el baño y el jardín…\n— Entonces, qué sea así.",
+      "PERSIAN": "- دریچه های آشپزخانه، اتاق نشیمن، اتاق خواب اصلی، حمام، باغ… - باشه، پس بیا این کار را بکنیم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 36.4
+    },
+    "SCRIPT": {
+      "KOREAN": "의미를 확대하면 정리정돈도 청소에 포함되며...",
+      "ENGLISH": "Expanding the definition, tidying up also counts as cleaning…",
+      "CHINESE_SIMPLIFIED": "若扩大定义，整理收纳也属于清洁范畴...",
+      "CHINESE_TRADITIONAL": "如果廣泛一點的解釋，整理整頓也包含在打掃的範圍內...",
+      "JAPANESE": "意味を広げれば整理整頓も掃除に含まれて…",
+      "INDONESIAN": "Kalau diperluas, beberes juga bisa dibilang bagian dari bersih-bersih…",
+      "PORTUGUESE": "Se ampliarmos o conceito, a organização e o arranjo também entram na definição de limpeza...",
+      "SPANISH": "Si ampliamos el concepto, el orden y la organización también entran en la definición de limpieza…",
+      "PERSIAN": "گسترش تعریف، مرتب کردن نیز به عنوان تمیز کردن به حساب می آید…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 39.9
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍... 음, 계획대로 됐군...",
+      "ENGLISH": "Tsk… hmm, looks like things are going according to plan…",
+      "CHINESE_SIMPLIFIED": "嘶...嗯，一切按计划进行呢...",
+      "CHINESE_TRADITIONAL": "喔—... 嗯，一切都照計畫進行...",
+      "JAPANESE": "すぅ…ふっ、計画通り…",
+      "INDONESIAN": "Tsk… hmm, kelihatannya semuanya berjalan sesuai rencana…",
+      "PORTUGUESE": "Fiuu... perfeito, tudo saiu como planejado...",
+      "SPANISH": "Fiuu… perfecto, todo salió según el plan…",
+      "PERSIAN": "تف… هوم، به نظر می رسد همه چیز طبق برنامه پیش می رود…"
+    }
+  }
+]

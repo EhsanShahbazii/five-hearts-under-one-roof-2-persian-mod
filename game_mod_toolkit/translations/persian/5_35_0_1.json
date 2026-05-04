@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 잘 먹을게요.",
+      "ENGLISH": "Ah, thanks, I’ll eat it well.",
+      "CHINESE_SIMPLIFIED": "啊，那我就不客气啦",
+      "CHINESE_TRADITIONAL": "我會好好享用的",
+      "JAPANESE": "あ、いただきます",
+      "INDONESIAN": "Ah makasih, aku makan ya.",
+      "PORTUGUESE": "Obrigado, vou aproveitar.",
+      "SPANISH": "Gracias, la disfrutaré.",
+      "PERSIAN": "آه، ممنون، خوب می خورم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 선배 저한테 말 놓으시면 안 돼요...?",
+      "ENGLISH": "But senior… could you not speak formally to me?",
+      "CHINESE_SIMPLIFIED": "不过学长，以后能不能不要对我用敬语啊...？",
+      "CHINESE_TRADITIONAL": "不過學長，可以輕鬆一點跟我說話…？",
+      "JAPANESE": "でも先輩 私にタメ口で話してくれませんか…？",
+      "INDONESIAN": "Tapi Kak… bisa nggak ngomongnya jangan kaku banget ke aku?",
+      "PORTUGUESE": "Mas... você pode parar de falar comigo com tanta formalidade?",
+      "SPANISH": "¿Pero... no puede dejar de hablarme de usted?",
+      "PERSIAN": "اما ارشد... نمیتونی به طور رسمی با من صحبت کنی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "반말?",
+      "ENGLISH": "Casually, then?",
+      "CHINESE_SIMPLIFIED": "说平语？",
+      "CHINESE_TRADITIONAL": "輕鬆一點？",
+      "JAPANESE": "タメ口？",
+      "INDONESIAN": "Santai aja gitu?",
+      "PORTUGUESE": "Com formalidade?",
+      "SPANISH": "¿De usted?",
+      "PERSIAN": "اتفاقی پس؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 선배랑 친해지고 싶은데 자꾸 존대 쓰니까 안 친해 보이잖아요.",
+      "ENGLISH": "I want to get closer to you, but if you keep using honorifics, it doesn’t feel like we’re close.",
+      "CHINESE_SIMPLIFIED": "我想跟学长更熟一点，可你老是用敬语，就感觉有点生分",
+      "CHINESE_TRADITIONAL": "我想跟學長變得熟一點，不過一直說敬語，好像很疏遠的感覺",
+      "JAPANESE": "私 先輩と仲良くなりたいんですけど 敬語だとなんか距離ある感じで…",
+      "INDONESIAN": "Aku pengen deket sama Kakak, tapi kalau ngomongnya masih  kaku rasanya kayak masih gak deket.",
+      "PORTUGUESE": "É que eu quero que sejamos amigos, mas se você fala assim parece que não somos.",
+      "SPANISH": "Es que quiero que seamos amigos, pero si me trata de usted es como si no lo fueramos.",
+      "PERSIAN": "من می‌خوام به شما نزدیک‌تر شوم، اما اگر مدام از افتخارات استفاده کنید، به نظر نمی‌رسد که ما به شما نزدیک شده‌ایم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그야 안 친하니까...",
+      "ENGLISH": "Well, because we’re not close…",
+      "CHINESE_SIMPLIFIED": "那是因为...我们现在还不熟啊",
+      "CHINESE_TRADITIONAL": "因為我們本來就不熟啊…",
+      "JAPANESE": "だって まだ仲良くないし…",
+      "INDONESIAN": "Soalnya emang kita belum deket…",
+      "PORTUGUESE": "É porque ainda não somos.",
+      "SPANISH": "Pues porque aún no lo somos.",
+      "PERSIAN": "خب چون به هم نزدیک نیستیم…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "지금은 안 친한데 암튼 저는 선배랑 친해지고 싶으니까",
+      "ENGLISH": "We’re not close yet, but I want to be —",
+      "CHINESE_SIMPLIFIED": "虽然现在是不熟啦，但我就是想跟学长变熟嘛",
+      "CHINESE_TRADITIONAL": "雖然現在不熟，但我想跟學長變熟啊",
+      "JAPANESE": "今はそうですけど とにかく私は先輩と仲良くなりたいから",
+      "INDONESIAN": "Belum deket banget sih tapi aku pengen deket—",
+      "PORTUGUESE": "Eu sei, mas eu quero que a gente se dê melhor.",
+      "SPANISH": "Ya lo sé, pero yo quiero que nos llevemos más",
+      "PERSIAN": "ما هنوز نزدیک نیستیم، اما من می خواهم -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으론 반말해 줘요!",
+      "ENGLISH": "so speak casually to me from now on!",
+      "CHINESE_SIMPLIFIED": "所以以后请跟我说平语吧！",
+      "CHINESE_TRADITIONAL": "那...以後就用半語吧！",
+      "JAPANESE": "これからはタメ口で話してください！",
+      "INDONESIAN": "jadi mulai sekarang ngomongnya santai aja ke aku!",
+      "PORTUGUESE": "Então me trata por “você”, por favor!",
+      "SPANISH": "¡Así que tutéeme, por favor!",
+      "PERSIAN": "پس از این به بعد راحت با من صحبت کن!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어 그래 알았어ㅎ",
+      "ENGLISH": "Uh, sure, got it. Haha.",
+      "CHINESE_SIMPLIFIED": "哦，好吧，知道啦",
+      "CHINESE_TRADITIONAL": "喔，我知道了，呵～",
+      "JAPANESE": "わかった わかった",
+      "INDONESIAN": "Ah, iya oke deh. Haha.",
+      "PORTUGUESE": "Tá bom. Vou te tratar por “você” hahaha",
+      "SPANISH": "Está bien. Te voy a tutear jajaja",
+      "PERSIAN": "اوه، حتما فهمیدم هاها"
+    }
+  }
+]

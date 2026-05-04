@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 저는",
+      "ENGLISH": "Hmm… I think",
+      "CHINESE_SIMPLIFIED": "嗯...我嘛",
+      "CHINESE_TRADITIONAL": "嗯...我",
+      "JAPANESE": "うーん…おれは",
+      "INDONESIAN": "Hmm… kayaknya",
+      "PORTUGUESE": "Hmm... eu...",
+      "SPANISH": "Estem... yo...",
+      "PERSIAN": "هوم... فکر کنم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 먹을게요!",
+      "ENGLISH": "I’ll eat this one!",
+      "CHINESE_SIMPLIFIED": "就吃这个啦！",
+      "CHINESE_TRADITIONAL": "我要吃這個！",
+      "JAPANESE": "これ食べます！",
+      "INDONESIAN": "Aku mau yang ini aja!",
+      "PORTUGUESE": "vou comer este!",
+      "SPANISH": "¡me comeré este!",
+      "PERSIAN": "من این یکی را می خورم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저게 입에 들어가요?",
+      "ENGLISH": "That’s actually going in your mouth?",
+      "CHINESE_SIMPLIFIED": "那玩意儿真能塞进嘴吗？",
+      "CHINESE_TRADITIONAL": "那個東西塞得進嘴巴裡嗎？",
+      "JAPANESE": "それ口に入るんですか？",
+      "INDONESIAN": "Itu nggak bakal susah dimakan dalam sekali lahap?",
+      "PORTUGUESE": "Vai comer isso?",
+      "SPANISH": "¿Te vas a comer eso?",
+      "PERSIAN": "این واقعاً در دهان شما می رود؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "조심해요. 자칫하면 급성 턱관절 탈구 걸릴 수도 있으니까.",
+      "ENGLISH": "Careful. One wrong move and you might dislocate your jaw.",
+      "CHINESE_SIMPLIFIED": "小心点，搞不好可能会引发急性下颌关节脱臼哦",
+      "CHINESE_TRADITIONAL": "小心點。搞不好會引發急性下顎關節脫臼喔",
+      "JAPANESE": "気をつけてくださいね うっかりすると顎関節外れるかもしれませんから",
+      "INDONESIAN": "Dagingnya juga kayaknya dikit banget, deh.",
+      "PORTUGUESE": "Cuidado. Um movimento errado e você desloca a mandíbula.",
+      "SPANISH": "Cuidado. Un mal movimiento y se te sale la mandíbula.",
+      "PERSIAN": "مراقب باشید. یک حرکت اشتباه و ممکنه فک خود را دررفته کنید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "자 유만님",
+      "ENGLISH": "Alright, Yuman—",
+      "CHINESE_SIMPLIFIED": "来，宥万",
+      "CHINESE_TRADITIONAL": "來，宥萬",
+      "JAPANESE": "はい ユマンさん",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Deixa eu ver, Yumán.",
+      "SPANISH": "A ver, Yumán",
+      "PERSIAN": "باشه، یومان-"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Say ah~",
+      "CHINESE_SIMPLIFIED": "啊——",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Bilang ah~",
+      "PORTUGUESE": "Diz ah~",
+      "SPANISH": "Dí ah~",
+      "PERSIAN": "بگو آه~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊——",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "와... 저게 들어가네",
+      "ENGLISH": "Wow… can’t believe that actually fit.",
+      "CHINESE_SIMPLIFIED": "哇...还真塞进去了",
+      "CHINESE_TRADITIONAL": "哇...還真的吃下去了",
+      "JAPANESE": "わぁ…ほんとに入った…",
+      "INDONESIAN": "Wah, hebat banget kamu~ pinter!",
+      "PORTUGUESE": "Uau... entrou inteiro.",
+      "SPANISH": "Wow... entró completo.",
+      "PERSIAN": "وای… نمی توانم باور کنم که واقعاً مناسب است."
+    }
+  }
+]

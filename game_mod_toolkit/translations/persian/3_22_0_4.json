@@ -1,0 +1,488 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 우리 이제 뭐 할까요?",
+      "ENGLISH": "So... what should we do now?",
+      "CHINESE_SIMPLIFIED": "那我们现在做点什么呢？",
+      "CHINESE_TRADITIONAL": "那接下來要做什麼呢？",
+      "JAPANESE": "じゃあ これからどうします？",
+      "INDONESIAN": "Jadi... apa yang harus kita lakukan sekarang?",
+      "PORTUGUESE": "Então, o que a gente faz agora?",
+      "SPANISH": "Entonces, ¿qué hacemos ahora?",
+      "PERSIAN": "خب...حالا چیکار کنیم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "음… 또  뭐 해 볼까요?",
+      "ENGLISH": "Hmm… what else is there to try?",
+      "CHINESE_SIMPLIFIED": "嗯...再玩点别的？",
+      "CHINESE_TRADITIONAL": "嗯…要不要再玩點別的？",
+      "JAPANESE": "うーん… 何しようかな？",
+      "INDONESIAN": "Hmm… apa lagi yang bisa dicoba?",
+      "PORTUGUESE": "Hã… tentamos outra coisa?",
+      "SPANISH": "Mmm… ¿intentamos algo más?",
+      "PERSIAN": "هوم... چه چیز دیگری برای امتحان کردن وجود دارد؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 두 분 연인이신가요? ",
+      "ENGLISH": "Excuse me—are you two a couple by any chance?",
+      "CHINESE_SIMPLIFIED": "请问两位是情侣吗？",
+      "CHINESE_TRADITIONAL": "請問你們是情侶嗎？",
+      "JAPANESE": "もしかして お二人って恋人同士ですか？",
+      "INDONESIAN": "Permisi—apakah kalian berdua sepasang kekasih?",
+      "PORTUGUESE": "Com licença, vocês dois são um casal?",
+      "SPANISH": "¿Perdón, ustedes dos son pareja?",
+      "PERSIAN": "ببخشید، شما دو نفر به طور تصادفی یک زوج هستید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 아뇨... 아직 연인은 아닌데...",
+      "ENGLISH": "Huh? Oh, no… we’re not quite a couple yet...",
+      "CHINESE_SIMPLIFIED": "啊？不是...还不是情侣...",
+      "CHINESE_TRADITIONAL": "嗯？啊，不…還不是情侶啦…",
+      "JAPANESE": "えっ？ いえ… まだ恋人ではないですけど…",
+      "INDONESIAN": "Hah? Oh, tidak... kita belum jadi pasangan...",
+      "PORTUGUESE": "Hã? Ah, não… ainda não somos um casal, mas…",
+      "SPANISH": "¿Eh? Ah, no… todavía no somos pareja, pero…",
+      "PERSIAN": "ها؟ اوه، نه... ما هنوز جفت نشدیم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 연인처럼 보이시니까",
+      "ENGLISH": "Well, you look like one!",
+      "CHINESE_SIMPLIFIED": "但看起来很像情侣呢",
+      "CHINESE_TRADITIONAL": "不過看起來像一對情侶呢",
+      "JAPANESE": "でも 恋人みたいに見えるので",
+      "INDONESIAN": "Wah, kamu kelihatan seperti itu!",
+      "PORTUGUESE": "É que parecem um,",
+      "SPANISH": "Es que se ven como una,",
+      "PERSIAN": "خوب، شما شبیه یکی هستید!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 연인분들께 마술을 보여 드리고 있거든요?",
+      "ENGLISH": "And I’ve been performing magic for couples today—",
+      "CHINESE_SIMPLIFIED": "我会为两位小情侣表演魔术哦？",
+      "CHINESE_TRADITIONAL": "因為我會給情侶們表演魔術",
+      "JAPANESE": "実は今 カップルのお客さんにマジックを披露してるんですよ",
+      "INDONESIAN": "Dan hari ini aku telah melakukan sulap untuk pasangan—",
+      "PORTUGUESE": "e eu tô mostrando um truque de mágica pra casais agora.",
+      "SPANISH": "y justo estoy mostrando un truco de magia para las parejas.",
+      "PERSIAN": "و من امروز برای زوج ها جادو اجرا می کنم-"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "마술 좋아하세요?",
+      "ENGLISH": "Do you like magic?",
+      "CHINESE_SIMPLIFIED": "你们喜欢魔术吗？",
+      "CHINESE_TRADITIONAL": "你們喜歡魔術嗎？",
+      "JAPANESE": "マジック お好きですか？",
+      "INDONESIAN": "Apakah kamu menyukai sulap?",
+      "PORTUGUESE": "Vocês gostam de mágica?",
+      "SPANISH": "¿Les gusta la magia?",
+      "PERSIAN": "شما سحر و جادو دوست دارید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 19.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "喜欢！",
+      "CHINESE_TRADITIONAL": "喜歡！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Ya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 여기 카드가 굉장히 많은데 ",
+      "ENGLISH": "Great! So, I’ve got a bunch of cards here—",
+      "CHINESE_SIMPLIFIED": "那么这里有很多牌",
+      "CHINESE_TRADITIONAL": "這裡有非常多的牌",
+      "JAPANESE": "じゃあ ここにカードがたくさんありますけど",
+      "INDONESIAN": "Bagus! Jadi, aku punya banyak kartu di sini—",
+      "PORTUGUESE": "Então aqui eu tenho um monte de cartas,",
+      "SPANISH": "Entonces aquí tengo un montón de cartas,",
+      "PERSIAN": "عالیه بنابراین، من یک دسته کارت در اینجا دارم-"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 26.7
+    },
+    "SCRIPT": {
+      "KOREAN": "보이는 카드 중에서 마음에 드는 거 하나만 마음 속으로 생각해 주세요",
+      "ENGLISH": "Just pick one in your mind. Don’t say it out loud.",
+      "CHINESE_SIMPLIFIED": "请从看到的牌中，在心里默选一张",
+      "CHINESE_TRADITIONAL": "選一張後在心裡默想",
+      "JAPANESE": "このカードの中から一枚だけ 心の中で選んでください",
+      "INDONESIAN": "Pilih satu saja dalam pikiranmu. Jangan diucapkan keras-keras.",
+      "PORTUGUESE": "pensem em uma delas, mas sem dizer em voz alta.",
+      "SPANISH": "piensen solo en una de las que ven, pero sin decirla en voz alta.",
+      "PERSIAN": "فقط یکی را در ذهن خود انتخاب کنید. با صدای بلند نگو"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "생각하셨나요?",
+      "ENGLISH": "Got one?",
+      "CHINESE_SIMPLIFIED": "选好了吗？",
+      "CHINESE_TRADITIONAL": "選好了嗎？",
+      "JAPANESE": "選びました？",
+      "INDONESIAN": "Punya satu?",
+      "PORTUGUESE": "Já pensaram?",
+      "SPANISH": "¿Ya la pensaron?",
+      "PERSIAN": "یکی گرفتی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.1,
+      "HIDE": 31.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "好了！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Ya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好了！",
+      "CHINESE_TRADITIONAL": "好了！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Ya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 34.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이제부터 그 카드를 맞춰볼 건데",
+      "ENGLISH": "Okay, now I’m going to guess your card...",
+      "CHINESE_SIMPLIFIED": "现在我要猜你们心里选的牌啦",
+      "CHINESE_TRADITIONAL": "接下來我會猜出你們心裡的牌",
+      "JAPANESE": "では 今から そのカードを当てます",
+      "INDONESIAN": "Oke, sekarang aku akan menebak kartu kamu...",
+      "PORTUGUESE": "Agora eu vou adivinhar a carta de vocês.",
+      "SPANISH": "Ahora voy a adivinar su carta.",
+      "PERSIAN": "باشه، حالا کارتت رو حدس میزنم..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 38.6
+    },
+    "SCRIPT": {
+      "KOREAN": "음~ 사실 생각한 카드를 미리 제가 지갑 안에 넣어놨어요 ",
+      "ENGLISH": "Actually—fun fact—I already put your card inside my wallet earlier.",
+      "CHINESE_SIMPLIFIED": "嗯～其实我早就把你们选的牌放在钱包里了",
+      "CHINESE_TRADITIONAL": "嗯～ 其實我已經先把你們選的牌放進我的錢包裡了",
+      "JAPANESE": "うーん 実は そのカード もう財布の中に入れてあるんです",
+      "INDONESIAN": "Sebenarnya—fakta menarik—aku sudah menaruh kartu kamu di dompet aku sebelumnya.",
+      "PORTUGUESE": "Hã~ na verdade, já coloquei a carta que pensaram dentro da minha carteira.",
+      "SPANISH": "Mmm~ en realidad, ya puse la carta que pensaron dentro de mi billetera.",
+      "PERSIAN": "در واقع - واقعیت جالب - من قبلاً کارت شما را در کیف پولم گذاشته بودم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 39.0,
+      "HIDE": 40.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그냥 맞히면 좀 별로 재미가 없잖아요?",
+      "ENGLISH": "But just guessing would be kind of boring, right?",
+      "CHINESE_SIMPLIFIED": "不过如果直接猜出来就没意思了，对吧？",
+      "CHINESE_TRADITIONAL": "直接猜到的話就太無聊了",
+      "JAPANESE": "でも ただ当てるだけじゃ面白くないですよね？",
+      "INDONESIAN": "Namun, sekadar menebak-nebak pasti membosankan, bukan?",
+      "PORTUGUESE": "Mas, claro, se eu só tirar assim, não tem muita graça, né?",
+      "SPANISH": "Pero, claro, si solo la saco así, no tiene mucha gracia, ¿verdad?",
+      "PERSIAN": "اما فقط حدس زدن به نوعی خسته کننده می‌شه، درست است؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 40.8,
+      "HIDE": 42.8
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 저는 마술사니깐, 좀..",
+      "ENGLISH": "And since I am a magician... ",
+      "CHINESE_SIMPLIFIED": "毕竟我是魔术师嘛，所以...",
+      "CHINESE_TRADITIONAL": "身為一名魔術師，當然要…",
+      "JAPANESE": "でも僕 マジシャンですから…ちょっと",
+      "INDONESIAN": "Dan karena aku seorang pesulap...",
+      "PORTUGUESE": "Então, como eu sou mágico, vou fazer de um jeito mais…",
+      "SPANISH": "Así que, como soy mago, voy a hacerlo un poco más…",
+      "PERSIAN": "و از آنجایی که من یک شعبده باز هستم ..."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 43.6
+    },
+    "SCRIPT": {
+      "KOREAN": "화려하게",
+      "ENGLISH": "Let’s do it with a little flair.",
+      "CHINESE_SIMPLIFIED": "要炫酷一点！",
+      "CHINESE_TRADITIONAL": "表演的華麗一點囉",
+      "JAPANESE": "派手にいきましょう",
+      "INDONESIAN": "Mari kita melakukannya dengan sedikit gaya.",
+      "PORTUGUESE": "espetacular!",
+      "SPANISH": "¡espectacular!",
+      "PERSIAN": "بیایید با کمی ذوق این کار را انجام دهیم."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 43.7,
+      "HIDE": 44.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오오!!",
+      "ENGLISH": "Ooooh!!",
+      "CHINESE_SIMPLIFIED": "哦哦！！",
+      "CHINESE_TRADITIONAL": "哇！！",
+      "JAPANESE": "おおっ！！",
+      "INDONESIAN": "Ooooh!!",
+      "PORTUGUESE": "Oooh!",
+      "SPANISH": "¡Oooh!",
+      "PERSIAN": "اوووه!!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 44.2,
+      "HIDE": 45.0
+    },
+    "SCRIPT": {
+      "KOREAN": "호오우!!",
+      "ENGLISH": "No way!!",
+      "CHINESE_SIMPLIFIED": "嚯噢！！",
+      "CHINESE_TRADITIONAL": "哇啊啊！！",
+      "JAPANESE": "ほおぉ〜！！",
+      "INDONESIAN": "Mustahil!!",
+      "PORTUGUESE": "Whoa!",
+      "SPANISH": "¡Whoa!",
+      "PERSIAN": "راهی نیست!!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 45.7,
+      "HIDE": 46.5
+    },
+    "SCRIPT": {
+      "KOREAN": "대박이다!",
+      "ENGLISH": "That’s insane!",
+      "CHINESE_SIMPLIFIED": "好牛啊！",
+      "CHINESE_TRADITIONAL": "太厲害了！",
+      "JAPANESE": "すごい！",
+      "INDONESIAN": "Gila sekali!",
+      "PORTUGUESE": "Incrível!",
+      "SPANISH": "¡Increíble!",
+      "PERSIAN": "این دیوانه کننده است!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 46.7,
+      "HIDE": 47.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게 맞혔지?",
+      "ENGLISH": "How did you do that??",
+      "CHINESE_SIMPLIFIED": "怎么猜中的？",
+      "CHINESE_TRADITIONAL": "怎麼猜到的？",
+      "JAPANESE": "どうやって当てたんですか！？",
+      "INDONESIAN": "Bagaimana kamu melakukannya??",
+      "PORTUGUESE": "Como você fez isso?",
+      "SPANISH": "¿Cómo lo hiciste?",
+      "PERSIAN": "چطوری اینکارو کردی؟؟"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 48.2,
+      "HIDE": 49.0
+    },
+    "SCRIPT": {
+      "KOREAN": "신기하죠?",
+      "ENGLISH": "Cool, right?",
+      "CHINESE_SIMPLIFIED": "很神奇吧？",
+      "CHINESE_TRADITIONAL": "很神奇吧？",
+      "JAPANESE": "不思議でしょ？",
+      "INDONESIAN": "Keren, kan?",
+      "PORTUGUESE": "Impressionante, né?",
+      "SPANISH": "Asombroso, ¿verdad?",
+      "PERSIAN": "باحال، درسته؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 49.1,
+      "HIDE": 49.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "是啊！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Ya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 49.7,
+      "HIDE": 51.5
+    },
+    "SCRIPT": {
+      "KOREAN": "좀 제대로 보여 드릴 건데, 준비되셨어요?",
+      "ENGLISH": "Okay, now I’ll show you a real one—are you ready?",
+      "CHINESE_SIMPLIFIED": "现在我要正式表演了，你们准备好了吗？",
+      "CHINESE_TRADITIONAL": "接下來我要正式表演，準備好了嗎？",
+      "JAPANESE": "じゃあ 次は ちゃんと見せてあげますね 準備はいいですか？",
+      "INDONESIAN": "Oke, sekarang aku akan menunjukkan yang asli—apakah kamu siap?",
+      "PORTUGUESE": "Agora vou mostrar algo de verdade, prontos?",
+      "SPANISH": "Ahora les voy a mostrar algo de verdad, ¿listos?",
+      "PERSIAN": "خوب، حالا من یک واقعی را به شما نشان می دهم - آماده اید؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 51.6,
+      "HIDE": 52.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好了！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Ya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 52.4,
+      "HIDE": 53.3
+    },
+    "SCRIPT": {
+      "KOREAN": "가시죠!",
+      "ENGLISH": "Let’s go!",
+      "CHINESE_SIMPLIFIED": "那我们开始吧！",
+      "CHINESE_TRADITIONAL": "那我們開始吧！",
+      "JAPANESE": "行きましょう！",
+      "INDONESIAN": "Ayo berangkat!",
+      "PORTUGUESE": "Vamos lá!",
+      "SPANISH": "¡Vamos allá!",
+      "PERSIAN": "برویم!"
+    }
+  }
+]

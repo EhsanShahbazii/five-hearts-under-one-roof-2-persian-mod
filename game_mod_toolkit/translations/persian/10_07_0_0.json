@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 유만 씨, 이거 갖고 되겠어요?",
+      "ENGLISH": "But Mr. Yoo Man, will this really be enough?",
+      "CHINESE_SIMPLIFIED": "不过宥万，你吃这些就够了吗？",
+      "CHINESE_TRADITIONAL": "不過宥萬啊，你吃這些就夠了嗎？",
+      "JAPANESE": "でもユマンさん、これで足りますか？",
+      "INDONESIAN": "Tapi Yuman, emang cukup cuma ini aja?",
+      "PORTUGUESE": "Você acha que com isso vai ser o suficiente, Yumán?",
+      "SPANISH": "¿Yumán, cree que con esto será suficiente?",
+      "PERSIAN": "اما آقای یومان، این واقعاً کافی می‌شه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "안 출출해요?",
+      "ENGLISH": "Aren't you hungry?",
+      "CHINESE_SIMPLIFIED": "能顶饱吗？",
+      "CHINESE_TRADITIONAL": "不會太少嗎？",
+      "JAPANESE": "お腹空いてないですか？",
+      "INDONESIAN": "Nggak laper?",
+      "PORTUGUESE": "Não tá com fome?",
+      "SPANISH": "¿No tiene hambre?",
+      "PERSIAN": "گرسنه نیستی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 드세요!",
+      "ENGLISH": "Here, have this!",
+      "CHINESE_SIMPLIFIED": "来，吃这个吧！",
+      "CHINESE_TRADITIONAL": "再吃一點這個吧！",
+      "JAPANESE": "これ、どうぞ！",
+      "INDONESIAN": "Nih makan ini ya",
+      "PORTUGUESE": "Tome, come isso!",
+      "SPANISH": "¡Tome, coma esto!",
+      "PERSIAN": "بفرمایید، اینو داشته باشید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 이거 규리 쌤 귀한 간식인 거 뻔히 아는데!",
+      "ENGLISH": "Oh~ I know perfectly well this is Teacher Gyuri's precious snack!",
+      "CHINESE_SIMPLIFIED": "哎~这明明是你珍藏的零食！",
+      "CHINESE_TRADITIONAL": "哎喲，這是護理師你珍藏的零食！",
+      "JAPANESE": "え〜、これギュリ先生の貴重なおやつって知ってるのに！",
+      "INDONESIAN": "Eh ini kan camilan favorit Gyuri",
+      "PORTUGUESE": "Ah~ mas eu sei que esse é o seu lanche precioso.",
+      "SPANISH": "Ay~ pero sé este es su precioso snack.",
+      "PERSIAN": "اوه~ من کاملاً می‌دونم که این خوراکی خوشمزه‌ی معلم گیوریه!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 어떻게 먹어요!",
+      "ENGLISH": "How could I possibly eat it!",
+      "CHINESE_SIMPLIFIED": "我怎么能吃呢！",
+      "CHINESE_TRADITIONAL": "我怎麼能吃呢！",
+      "JAPANESE": "食べられませんよ！",
+      "INDONESIAN": "Aku mana tega makan",
+      "PORTUGUESE": "Não posso comer isso!",
+      "SPANISH": "¡No puedo comérmelo!",
+      "PERSIAN": "چطور ممکنه اون را بخورم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 뭐 어때요~!",
+      "ENGLISH": "Oh, what's the big deal~!",
+      "CHINESE_SIMPLIFIED": "哎呀有什么关系嘛~！",
+      "CHINESE_TRADITIONAL": "那又怎麼樣～！",
+      "JAPANESE": "いいじゃないですか〜！",
+      "INDONESIAN": "Ah nggak apa-apa~",
+      "PORTUGUESE": "Ah, não tem problema~",
+      "SPANISH": "Ay, no importa~",
+      "PERSIAN": "اوه، چه خبره~!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "전 괜찮으니까 쌤 많이 드세요!",
+      "ENGLISH": "I'm fine, so Teacher, please eat plenty!",
+      "CHINESE_SIMPLIFIED": "我没关系的，你多吃点！",
+      "CHINESE_TRADITIONAL": "我沒關係，你就多吃一點吧！",
+      "JAPANESE": "私は平気だから、ユマンさんたくさん食べてください！",
+      "INDONESIAN": "Aku nggak papa kok jadi kamu makan yang banyak ya",
+      "PORTUGUESE": "Eu tô bem, então come mais você.",
+      "SPANISH": "Estoy bien, así que coma más usted.",
+      "PERSIAN": "من خوبم، پس معلم، لطفاً زیاد بخورید!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 23.1
+    },
+    "SCRIPT": {
+      "KOREAN": "요즘 자꾸 살도 빠지시는거 같아서 ",
+      "ENGLISH": "Lately, it seems like you're losing weight,",
+      "CHINESE_SIMPLIFIED": "看你最近一直瘦下去",
+      "CHINESE_TRADITIONAL": "看你最近好像又變瘦了",
+      "JAPANESE": "最近ちょっと痩せた気がして",
+      "INDONESIAN": "Akhir-akhir ini kayaknya kamu makin kurusan",
+      "PORTUGUESE": "Ultimamente tenho te visto mais magro,",
+      "SPANISH": "Últimamente la he visto más delgada,",
+      "PERSIAN": "اخیراً، انگار که وزن کم می‌کنین،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": " 마음이 안 좋단 말이에요.",
+      "ENGLISH": "and it's making me feel bad.",
+      "CHINESE_SIMPLIFIED": "我心里很不好受啊",
+      "CHINESE_TRADITIONAL": "我覺得很不好受",
+      "JAPANESE": "心配なんです",
+      "INDONESIAN": "Aku jadi nggak enak hati",
+      "PORTUGUESE": "e isso me preocupa.",
+      "SPANISH": "y eso me preocupa.",
+      "PERSIAN": "و این داره حالمو بد می‌کنه."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 뭐 다이어트가 잘 되고 있나 보죠~",
+      "ENGLISH": "Oh, well, I guess your diet is working~",
+      "CHINESE_SIMPLIFIED": "哎呦，就当是减肥成功了吧~",
+      "CHINESE_TRADITIONAL": "哎喲，我還當作是減肥成功了～",
+      "JAPANESE": "あ〜、ダイエット成功してるかもしれないですよ〜",
+      "INDONESIAN": "Ya mungkin dietnya lagi berhasil kali~",
+      "PORTUGUESE": "Ah, será que a dieta tá funcionando~",
+      "SPANISH": "Ay, será que la dieta está funcionando~",
+      "PERSIAN": "اوه، خب، فکر کنم رژیمت داره جواب میده~"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 유만 씨만 보면 뭐 주고 싶은 걸 어떡해요...",
+      "ENGLISH": "And when I see you, Yoo-man, I just keep wanting to give you something...",
+      "CHINESE_SIMPLIFIED": "而且每次看到你，就老想给你点什么",
+      "CHINESE_TRADITIONAL": "而且我每次看到你，就想要給你點什麼東西...",
+      "JAPANESE": "それに、ユマンさん見てるとつい何かあげたくなるんです…",
+      "INDONESIAN": "Kalau lihat kamu aku tuh pengen ngasih sesuatu terus",
+      "PORTUGUESE": "E além disso, quando eu te vejo, sinto que tenho que te oferecer alguma coisa...",
+      "SPANISH": "Y además, cuando lo veo, siento que le tengo que ofrecer algo...",
+      "PERSIAN": "و وقتی تو را می‌بینم، یو-مان، فقط دلم می‌خواد چیزی به تو بدهم..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "첫 날에도 그랬구...",
+      "ENGLISH": "Like on the first day...",
+      "CHINESE_SIMPLIFIED": "从第一天就这样呢...",
+      "CHINESE_TRADITIONAL": "從第一天開始就這樣呢...",
+      "JAPANESE": "最初の日もそうだったし…",
+      "INDONESIAN": "Waktu hari pertama juga gitu...",
+      "PORTUGUESE": "Como no primeiro dia...",
+      "SPANISH": "Como el primer día...",
+      "PERSIAN": "مثل روز اول..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 34.9
+    },
+    "SCRIPT": {
+      "KOREAN": "첫 날이요?",
+      "ENGLISH": "The first day?",
+      "CHINESE_SIMPLIFIED": "第一天？",
+      "CHINESE_TRADITIONAL": "第一天？",
+      "JAPANESE": "最初の日？",
+      "INDONESIAN": "Hari pertama?",
+      "PORTUGUESE": "No primeiro dia?",
+      "SPANISH": "¿El primer día?",
+      "PERSIAN": "روز اول؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 37.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 유만 씨 눈 뜬 첫 날에",
+      "ENGLISH": "Yes! On the first day you woke up,",
+      "CHINESE_SIMPLIFIED": "对呀！你刚醒来的那天",
+      "CHINESE_TRADITIONAL": "對啊！你剛醒來的那一天！",
+      "JAPANESE": "はい！ユマンさんが目を覚ました最初の日",
+      "INDONESIAN": "Iya! Pas hari pertama kamu sadar",
+      "PORTUGUESE": "Sim! No primeiro dia em que você acordou, Yumán,",
+      "SPANISH": "¡Sí! El primer día que despertó, Yumán,",
+      "PERSIAN": "بله! در اولین روزی که از خواب بیدار شدید،"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 40.5
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 뭐 드렸는지 기억나요?",
+      "ENGLISH": "do you remember what I gave you?",
+      "CHINESE_SIMPLIFIED": "还记得我给了你什么吗？",
+      "CHINESE_TRADITIONAL": "還記得我給你什麼嗎？",
+      "JAPANESE": "私が何をあげたか覚えてます？",
+      "INDONESIAN": "Kamu masih inget nggak aku kasih apa?",
+      "PORTUGUESE": "lembra o que foi que eu te dei?",
+      "SPANISH": "¿recuerda qué fue lo que le di?",
+      "PERSIAN": "یادت هست چی بهت دادم؟"
+    }
+  }
+]

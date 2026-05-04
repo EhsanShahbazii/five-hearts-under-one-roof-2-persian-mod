@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 뭐지?",
+      "ENGLISH": "What’s this?",
+      "CHINESE_SIMPLIFIED": "这什么啊？",
+      "CHINESE_TRADITIONAL": "這是什麼？",
+      "JAPANESE": "これ何だ?",
+      "INDONESIAN": "Ini apaan?",
+      "PORTUGUESE": "O que é isso?",
+      "SPANISH": "¿Qué es esto?",
+      "PERSIAN": "این چیه"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "밀크 가이즈?",
+      "ENGLISH": "“Milkeu… Guys?”",
+      "CHINESE_SIMPLIFIED": "“米尔克盖子”？",
+      "CHINESE_TRADITIONAL": "蜜牛奶男孩？",
+      "JAPANESE": "ミルクガイズ?",
+      "INDONESIAN": "“Milkeu… Guys?”",
+      "PORTUGUESE": "Garotos leite?",
+      "SPANISH": "¿Chicos leche?",
+      "PERSIAN": "\"میلکئو... بچه ها؟\""
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "밀크가 아니라, Milk!",
+      "ENGLISH": "It’s not “milkeu”—it’s Milk!",
+      "CHINESE_SIMPLIFIED": "不是“米尔克”，是Milk！",
+      "CHINESE_TRADITIONAL": "不是蜜牛奶，是Milk",
+      "JAPANESE": "ミルクじゃなくて Milk!",
+      "INDONESIAN": "Bukan “milkeu”—itu Milk!",
+      "PORTUGUESE": "Não é “Garotos leite”, é Milk Guys!",
+      "SPANISH": "¡No es “Chicos leche”, es Milk Guys!",
+      "PERSIAN": "این \"شیر\" نیست - شیر است!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ Milk!",
+      "ENGLISH": "Ahh, Milk!",
+      "CHINESE_SIMPLIFIED": "啊~Milk！",
+      "CHINESE_TRADITIONAL": "啊～Milk！",
+      "JAPANESE": "あ〜 Milk!",
+      "INDONESIAN": "Ahh, Milk!",
+      "PORTUGUESE": "Ah~ Milk Guys!",
+      "SPANISH": "Ah~ ¡Milk Guys!",
+      "PERSIAN": "آه، شیر!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 잠깐만!",
+      "ENGLISH": "Wait—hold up!",
+      "CHINESE_SIMPLIFIED": "呃？等等！",
+      "CHINESE_TRADITIONAL": "啊？等等！",
+      "JAPANESE": "え? ちょっと待って!",
+      "INDONESIAN": "Eh—tunggu dulu!",
+      "PORTUGUESE": "Hã? Espera!",
+      "SPANISH": "¿Eh? ¡Espera!",
+      "PERSIAN": "صبر کن - صبر کن!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어어?",
+      "ENGLISH": "Whoa, hey!",
+      "CHINESE_SIMPLIFIED": "呃呃？",
+      "CHINESE_TRADITIONAL": "額？",
+      "JAPANESE": "ええ!?",
+      "INDONESIAN": "Woi, eh!",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "اوه، هی!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 제 영어 공부용이에요.",
+      "ENGLISH": "This is for my English practice, okay?",
+      "CHINESE_SIMPLIFIED": "这是我学英语用的！",
+      "CHINESE_TRADITIONAL": "這是我的英文參考書啦",
+      "JAPANESE": "これ 私の英語勉強用なんです",
+      "INDONESIAN": "Itu buat latihan Bahasa Inggrisku, oke?!",
+      "PORTUGUESE": "Isso é pra estudar inglês!",
+      "SPANISH": "Eso es para estudiar inglés.",
+      "PERSIAN": "این برای تمرین انگلیسی من است، خوب؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오해하지 마세요!",
+      "ENGLISH": "Don’t get the wrong idea!",
+      "CHINESE_SIMPLIFIED": "别误会啊！",
+      "CHINESE_TRADITIONAL": "不要誤會！",
+      "JAPANESE": "誤解しないでくださいね!",
+      "INDONESIAN": "Jangan salah paham!",
+      "PORTUGUESE": "Não pense outra coisa!",
+      "SPANISH": "¡No pienses otra cosa!",
+      "PERSIAN": "فکر اشتباه نکنید!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "Okay, girl~",
+      "ENGLISH": "Okay, girl~",
+      "CHINESE_SIMPLIFIED": "Okay, girrrl~",
+      "CHINESE_TRADITIONAL": "Okay, girl~",
+      "JAPANESE": "オーケー ガール〜",
+      "INDONESIAN": "Oke deh, cewek~",
+      "PORTUGUESE": "Ok, girl~",
+      "SPANISH": "Okay, girl~",
+      "PERSIAN": "باشه دختر ~"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이씨...",
+      "ENGLISH": "Ugh… seriously...",
+      "CHINESE_SIMPLIFIED": "哎哟...",
+      "CHINESE_TRADITIONAL": "嘖",
+      "JAPANESE": "もう…",
+      "INDONESIAN": "Ugh… ya ampun...",
+      "PORTUGUESE": "Tch...",
+      "SPANISH": "Tch…",
+      "PERSIAN": "اوه... جدی..."
+    }
+  }
+]

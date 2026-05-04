@@ -1,0 +1,217 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "방규리...?",
+      "ENGLISH": "Gyu-ri…?",
+      "CHINESE_SIMPLIFIED": "方久梨...？",
+      "CHINESE_TRADITIONAL": "方久梨...？",
+      "JAPANESE": "バン・ギュリ…？",
+      "INDONESIAN": "Gyu-ri…?",
+      "PORTUGUESE": "Gyuri…?",
+      "SPANISH": "¿Gyuri…?",
+      "PERSIAN": "گیو ری…؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤인데요?",
+      "ENGLISH": "That’s Gyu-ri, right?",
+      "CHINESE_SIMPLIFIED": "是方护士啊？",
+      "CHINESE_TRADITIONAL": "是久梨護理師吧？",
+      "JAPANESE": "ギュリ先生ですよ？",
+      "INDONESIAN": "Itu Gyu-ri kan?",
+      "PORTUGUESE": "Essa não é a enfermeira Gyuri?",
+      "SPANISH": "¿Esa no es la enfermera Gyuri?",
+      "PERSIAN": "این گیو ری است، درست است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 우리 그냥 가요...!!",
+      "ENGLISH": "Oppa, let’s just go…!!",
+      "CHINESE_SIMPLIFIED": "哥哥，我们快走吧...！！",
+      "CHINESE_TRADITIONAL": "哥哥，我們直接走吧...！！",
+      "JAPANESE": "お兄さん、もう行きましょう…！！",
+      "INDONESIAN": "Oppa, mending kita pergi aja…!!",
+      "PORTUGUESE": "Oppa, vamos embora...!",
+      "SPANISH": "¡Oppa, solo vámonos...!",
+      "PERSIAN": "یومان بیا بریم…!!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐라고 하는 거 같은데 잠시만요...!",
+      "ENGLISH": "Wait, hold on—she’s saying something, I think.",
+      "CHINESE_SIMPLIFIED": "她好像说了什么，等一下...！",
+      "CHINESE_TRADITIONAL": "等等，她好像在說些什麼...!",
+      "JAPANESE": "なんか言ってるみたい、ちょっと待ってください…！",
+      "INDONESIAN": "Tunggu, bentar—kayaknya dia ngomong sesuatu.",
+      "PORTUGUESE": "Espera, acho que ela tá dizendo alguma coisa...",
+      "SPANISH": "Espera, creo que está diciendo algo...",
+      "PERSIAN": "صبر کنید، صبر کنید - فکر می کنم او چیزی می گوید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "#$q*&$",
+      "ENGLISH": "Wait, hold on—she’s saying something, I think. Yuman steps in closer.",
+      "CHINESE_SIMPLIFIED": "#$q*&$",
+      "CHINESE_TRADITIONAL": "#$q*&$",
+      "JAPANESE": "#$q*&$",
+      "INDONESIAN": "Tunggu, bentar—kayaknya dia ngomong sesuatu. Yuman maju lebih dekat.",
+      "PORTUGUESE": "#$q*&$",
+      "SPANISH": "#$q*&$",
+      "PERSIAN": "صبر کنید، صبر کنید - فکر می کنم او چیزی می گوید. یومان نزدیک تر می شود."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 뭐라고요?",
+      "ENGLISH": "what did you say?",
+      "CHINESE_SIMPLIFIED": "呃？你说什么？",
+      "CHINESE_TRADITIONAL": "你說什麼？",
+      "JAPANESE": "なんて？",
+      "INDONESIAN": "Kamu bilang apa?",
+      "PORTUGUESE": "O que foi que ela disse?",
+      "SPANISH": "¿Qué fue lo que dijo?",
+      "PERSIAN": "چی گفتی"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "배고파...",
+      "ENGLISH": "Hungry…",
+      "CHINESE_SIMPLIFIED": "肚子好饿…",
+      "CHINESE_TRADITIONAL": "肚子好餓...",
+      "JAPANESE": "お腹すいた…",
+      "INDONESIAN": "Lapar…",
+      "PORTUGUESE": "Tô com fome...",
+      "SPANISH": "Tengo hambre...",
+      "PERSIAN": "گرسنه…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 27.6
+    },
+    "SCRIPT": {
+      "KOREAN": "예? 배고프다고요?",
+      "ENGLISH": "Gyu-ri, what did you say?",
+      "CHINESE_SIMPLIFIED": "嗯？你说肚子饿了？",
+      "CHINESE_TRADITIONAL": "欸？肚子餓嗎？",
+      "JAPANESE": "え？お腹すいたって？",
+      "INDONESIAN": "Gyu-ri, kamu bilang apa?",
+      "PORTUGUESE": "Hã? Que tá com fome?",
+      "SPANISH": "¿Eh? ¿Que tiene hambre?",
+      "PERSIAN": "گیو ری چی گفتی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "잠, 잠깐만.",
+      "ENGLISH": "Hungry? You’re… hungry? Oh no—hold on!",
+      "CHINESE_SIMPLIFIED": "等、等一下",
+      "CHINESE_TRADITIONAL": "等、等一下",
+      "JAPANESE": "ちょ、ちょっと待ってください",
+      "INDONESIAN": "Lapar? Kamu… lapar? Aduh—tunggu bentar!",
+      "PORTUGUESE": "E-espera.",
+      "SPANISH": "E-espere.",
+      "PERSIAN": "گرسنه؟ تو گرسنه ای؟ اوه نه - دست نگه دار!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 30.7
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요",
+      "CHINESE_SIMPLIFIED": "给你",
+      "CHINESE_TRADITIONAL": "這個給妳",
+      "JAPANESE": "はい、どうぞ",
+      "PORTUGUESE": "Aqui está.",
+      "SPANISH": "Aquí tiene.",
+      "PERSIAN": "여기요"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 31.5
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 35.6
+    },
+    "SCRIPT": {
+      "KOREAN": "가요!!",
+      "ENGLISH": "Min-jung, run!!",
+      "CHINESE_SIMPLIFIED": "走吧！！",
+      "CHINESE_TRADITIONAL": "走吧！！",
+      "JAPANESE": "行きましょう！！",
+      "PORTUGUESE": "Vamos embora agora!!",
+      "SPANISH": "¡Vámonos ya!!",
+      "PERSIAN": "مین‌جونگ فرار کن!!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.2,
+      "HIDE": 35.6
+    },
+    "SCRIPT": {
+      "KOREAN": "응",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "INDONESIAN": "Min-jung, lari!!",
+      "PERSIAN": "응"
+    }
+  }
+]

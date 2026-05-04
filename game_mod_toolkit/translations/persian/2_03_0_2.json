@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "음.. 외모로 보면, 유나 님?",
+      "ENGLISH": "Hmm... if we’re talking looks... Yu-na, maybe?",
+      "CHINESE_SIMPLIFIED": "嗯...单看长相的话，应该是有娜小姐？",
+      "CHINESE_TRADITIONAL": "嗯…如果光看外表的話，有娜小姐？",
+      "JAPANESE": "んー…外見だけならユナさん?",
+      "INDONESIAN": "Hmm... kalau soal penampilan... mungkin Yu-na?",
+      "PORTUGUESE": "Hmm... se for pela aparência, a senhorita Yu-na?",
+      "SPANISH": "Hmm… si es por el físico, ¿la señorita Yuna?",
+      "PERSIAN": "هوم... اگر صحبت می کنیم به نظر می رسد ... یو-نا، شاید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "예스!",
+      "ENGLISH": "Yes!!",
+      "CHINESE_SIMPLIFIED": "Yes！",
+      "CHINESE_TRADITIONAL": "Yes！",
+      "JAPANESE": "イエス!",
+      "INDONESIAN": "Yes!!",
+      "PORTUGUESE": "YES!",
+      "SPANISH": "¡YES!",
+      "PERSIAN": "بله!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "에엥?",
+      "ENGLISH": "Huh?!",
+      "CHINESE_SIMPLIFIED": "诶——？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "ええっ!?",
+      "INDONESIAN": "Hah?!",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 너 퇴원하면 안 됐나 봐! ",
+      "ENGLISH": "Hey, maybe you shouldn't be discharged yet!",
+      "CHINESE_SIMPLIFIED": "喂，你是不是不该出院啊！",
+      "CHINESE_TRADITIONAL": "喂，你根本不該出院吧！",
+      "JAPANESE": "おい、退院しちゃダメだったんじゃないの!",
+      "INDONESIAN": "Eh, jangan-jangan kamu belum boleh keluar dari rumah sakit deh!",
+      "PORTUGUESE": "Acho que você devia continuar internado!",
+      "SPANISH": "¡Creo que deberías seguir hospitalizado!",
+      "PERSIAN": "هی شاید هنوز نباید مرخص بشی!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "너 왜 그래? 괜찮아?",
+      "ENGLISH": "Are you okay? What’s wrong with you?",
+      "CHINESE_SIMPLIFIED": "你怎么了？没事吧？",
+      "CHINESE_TRADITIONAL": "你腦袋怎麼了？還好嗎？",
+      "JAPANESE": "どうしたの？大丈夫?",
+      "INDONESIAN": "Kamu kenapa sih? Ada yang nggak beres?",
+      "PORTUGUESE": "O que foi? Tá bem?",
+      "SPANISH": "¿Qué te pasa? ¿Estás bien?",
+      "PERSIAN": "حالت خوبه؟ چه بلایی سرت اومده؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 그래~",
+      "ENGLISH": "Come on~",
+      "CHINESE_SIMPLIFIED": "干嘛这样~",
+      "CHINESE_TRADITIONAL": "幹嘛這樣～",
+      "JAPANESE": "どうした〜",
+      "INDONESIAN": "Ayolah~",
+      "PORTUGUESE": "Por que você é assim?",
+      "SPANISH": "¿Por qué eres así?",
+      "PERSIAN": "بیا ~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "질문해서 대답해준 거 아니야.",
+      "ENGLISH": "He just answered the question!",
+      "CHINESE_SIMPLIFIED": "我只是回答了你问的问题而已",
+      "CHINESE_TRADITIONAL": "我只是回答了你的問題而已",
+      "JAPANESE": "質問されたから答えただけだろ",
+      "INDONESIAN": "Dia cuma jawab pertanyaan doang!",
+      "PORTUGUESE": "Só respondi à sua pergunta.",
+      "SPANISH": "Solo respondí tu pregunta.",
+      "PERSIAN": "او فقط به سوال پاسخ داد!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 병원에서부터 그렇게 생각한 거예요?",
+      "ENGLISH": "Did you think that way since the hospital?",
+      "CHINESE_SIMPLIFIED": "你是从医院那会儿就这么想的？",
+      "CHINESE_TRADITIONAL": "你在醫院的時候就這麼想了嗎？",
+      "JAPANESE": "今日病院で会った時からそう思ってたんですか?",
+      "INDONESIAN": "Kamu udah mikir gitu dari masih di rumah sakit, ya?",
+      "PORTUGUESE": "Você pensava isso desde que nos vimos no hospital?",
+      "SPANISH": "¿Pensabas eso desde que nos vimos en el hospital?",
+      "PERSIAN": "از زمان بیمارستان چنین فکری می کردید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "보기보다 솔직하시네요?",
+      "ENGLISH": "You’re more blunt than you look.",
+      "CHINESE_SIMPLIFIED": "你比想象的还要坦诚嘛？",
+      "CHINESE_TRADITIONAL": "你比看起來的還要老實耶？",
+      "JAPANESE": "思ったより正直なんですね?",
+      "INDONESIAN": "Kamu ternyata lebih to the point dari tampangnya.",
+      "PORTUGUESE": "Você é mais sincero do que parece.",
+      "SPANISH": "Eres más sincero de lo que pareces.",
+      "PERSIAN": "شما رک تر از اون چیزی هستید که به نظر می رسید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 이러나 저러나",
+      "ENGLISH": "Well, either way...",
+      "CHINESE_SIMPLIFIED": "不管怎么说",
+      "CHINESE_TRADITIONAL": "不管怎麼說",
+      "JAPANESE": "まあ どっちにしても",
+      "INDONESIAN": "Yah, gimana pun juga...",
+      "PORTUGUESE": "Bom, de um jeito ou de outro,",
+      "SPANISH": "Bueno, de una forma u otra,",
+      "PERSIAN": "خب در هر صورت..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "예쁜 건 예쁜 거니까요.",
+      "ENGLISH": "Pretty is pretty, right?",
+      "CHINESE_SIMPLIFIED": "漂亮就是漂亮呗",
+      "CHINESE_TRADITIONAL": "漂亮就是漂亮嘛",
+      "JAPANESE": "綺麗なもんは綺麗ですから",
+      "INDONESIAN": "Cantik ya tetap cantik, kan?",
+      "PORTUGUESE": "não dá pra negar a verdade.",
+      "SPANISH": "no se puede negar la verdad.",
+      "PERSIAN": "زیباست، نه؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "허, 놀고들 있네. 진짜...",
+      "ENGLISH": "Wow... you guys are ridiculous. Seriously.",
+      "CHINESE_SIMPLIFIED": "哈，你们真是有够闹的...",
+      "CHINESE_TRADITIONAL": "呵，真是有夠鬧的…",
+      "JAPANESE": "ふん、遊んでんな…",
+      "INDONESIAN": "Astaga... kalian konyol banget. Sumpah.",
+      "PORTUGUESE": "Uau, olha só como você tá todo galante hoje...",
+      "SPANISH": "Guau, mira que coqueto andas...",
+      "PERSIAN": "وای... شماها مسخره اید. جدی"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "사람들이 절 까먹진 않았겠죠?",
+      "ENGLISH": "People haven’t forgotten me, right?",
+      "CHINESE_SIMPLIFIED": "大家应该还没忘了我吧？",
+      "CHINESE_TRADITIONAL": "大家應該沒有忘記我吧？",
+      "JAPANESE": "みんな、俺のこと忘れてないですよね？",
+      "INDONESIAN": "Orang-orang masih inget sama aku, kan?",
+      "PORTUGUESE": "As pessoas não se esqueceram de mim, né?",
+      "SPANISH": "La gente no se habrá olvidado de mí, ¿verdad?",
+      "PERSIAN": "مردم مرا فراموش نکرده اند، درست است؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "별걱정을 다해~ 우유만 씨는 아무도 안 까먹어.",
+      "ENGLISH": "Worrying about nothing~ Yuman, no one’s forgotten you.",
+      "CHINESE_SIMPLIFIED": "别瞎担心啦~没人会忘了你的",
+      "CHINESE_TRADITIONAL": "不用擔心那麼多啦～沒有人會忘記宥萬你的",
+      "JAPANESE": "そんな心配しなくていいって〜ウ・ユマンさんのことを忘れる人なんていませんよ",
+      "INDONESIAN": "Ngekhawatirin yang nggak penting terus ih~ Yuman, nggak ada yang lupa sama kamu.",
+      "PORTUGUESE": "Claro que não~ Ninguém conseguiria esquecer de você.",
+      "SPANISH": "Claro que no~ Nadie podría olvidarse de ti.",
+      "PERSIAN": "نگران هیچ چیز نیستی ~ یومان، هیچکس تو را فراموش نکرده است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "좋은 아침~",
+      "ENGLISH": "Good morning~",
+      "CHINESE_SIMPLIFIED": "早上好~",
+      "CHINESE_TRADITIONAL": "早安～",
+      "JAPANESE": "おはよう〜",
+      "INDONESIAN": "Selamat pagi~",
+      "PORTUGUESE": "Bom dia~!",
+      "SPANISH": "¡Buenos días~!",
+      "PERSIAN": "صبح بخیر~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요~",
+      "ENGLISH": "Hello~",
+      "CHINESE_SIMPLIFIED": "您好~",
+      "CHINESE_TRADITIONAL": "早安～",
+      "JAPANESE": "おはようございます〜",
+      "INDONESIAN": "Halo~",
+      "PORTUGUESE": "Bom dia~!",
+      "SPANISH": "¡Buenos días~!",
+      "PERSIAN": "سلام~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "동 과장~",
+      "ENGLISH": "Manager Gran~",
+      "CHINESE_SIMPLIFIED": "佟科长~",
+      "CHINESE_TRADITIONAL": "佟課長~",
+      "JAPANESE": "ドン課長〜",
+      "INDONESIAN": "Manajer Gran~",
+      "PORTUGUESE": "Chefe Gran~",
+      "SPANISH": "Jefa Gran~",
+      "PERSIAN": "مدیر گرن~"
+    }
+  }
+]

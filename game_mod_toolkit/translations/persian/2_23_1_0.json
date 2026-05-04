@@ -1,0 +1,153 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 38.0
+    },
+    "SCRIPT": {
+      "KOREAN": "짠~!",
+      "ENGLISH": "Ta-da~!",
+      "CHINESE_SIMPLIFIED": "干杯~！",
+      "CHINESE_TRADITIONAL": "鏘～！",
+      "JAPANESE": "かんぱ～い！",
+      "INDONESIAN": "Ta-da~!",
+      "PORTUGUESE": "Saúde!",
+      "SPANISH": "¡Salud!",
+      "PERSIAN": "تا-دا~!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 39.1
+    },
+    "SCRIPT": {
+      "KOREAN": "짠~!",
+      "ENGLISH": "Ta-da~!",
+      "CHINESE_SIMPLIFIED": "干杯~！",
+      "CHINESE_TRADITIONAL": "鏘～！",
+      "JAPANESE": "かんぱ～い！",
+      "INDONESIAN": "Ta-da~!",
+      "PORTUGUESE": "Saúde!",
+      "SPANISH": "¡Salud!",
+      "PERSIAN": "تا-دا~!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 45.4,
+      "HIDE": 48.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어으... 근데 이렇게만 마시긴 아쉬운데.",
+      "ENGLISH": "Ugh... feels like a waste to just end it like this.",
+      "CHINESE_SIMPLIFIED": "啊～不过光这样喝有点可惜呢",
+      "CHINESE_TRADITIONAL": "啊～就這樣喝完有點可惜耶",
+      "JAPANESE": "うぅ…でもこれだけで終わるのはちょっと物足りないし",
+      "INDONESIAN": "Ugh... rasanya sayang banget kalau cuma sampai di sini.",
+      "PORTUGUESE": "Hmm... beber assim, sem mais nem menos, parece meio sem graça.",
+      "SPANISH": "Mmm... tomar así no más se siente incompleto.",
+      "PERSIAN": "اوه... خاتمه دادن به اون به این صورت است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 48.7,
+      "HIDE": 50.1
+    },
+    "SCRIPT": {
+      "KOREAN": "내일도 날씨 좋다는데",
+      "ENGLISH": "They say the weather’s nice tomorrow too—",
+      "CHINESE_SIMPLIFIED": "听说明天天气也不错",
+      "CHINESE_TRADITIONAL": "明天天氣也很好呢",
+      "JAPANESE": "明日も天気いいらしいし",
+      "INDONESIAN": "Katanya besok cuacanya juga cerah, lho—",
+      "PORTUGUESE": "Vi que amanhã o clima vai estar bom.",
+      "SPANISH": "Vi que mañana va a hacer buen clima.",
+      "PERSIAN": "می گویند فردا هم هوا خوب است-"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 50.8,
+      "HIDE": 52.1
+    },
+    "SCRIPT": {
+      "KOREAN": "내일도 데이트 해요!",
+      "ENGLISH": "Let’s go on another date!",
+      "CHINESE_SIMPLIFIED": "我们明天也约会吧！",
+      "CHINESE_TRADITIONAL": "我們明天也約會吧！",
+      "JAPANESE": "明日もデートしましょう！",
+      "INDONESIAN": "Kita kencan lagi, yuk!",
+      "PORTUGUESE": "Então vamos sair amanhã também!",
+      "SPANISH": "¡Entonces salgamos mañana también!",
+      "PERSIAN": "بیا بریم یه قرار دیگه!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 52.3,
+      "HIDE": 53.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 좋아요!",
+      "ENGLISH": "Yeah! I’d love that!",
+      "CHINESE_SIMPLIFIED": "好呀！没问题！",
+      "CHINESE_TRADITIONAL": "好！沒問題！",
+      "JAPANESE": "はい！いいですよ！",
+      "INDONESIAN": "Iya! Aku mau banget!",
+      "PORTUGUESE": "Perfeito!",
+      "SPANISH": "¡Perfecto!",
+      "PERSIAN": "آره من اونو دوست دارم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 60.3,
+      "HIDE": 61.6
+    },
+    "SCRIPT": {
+      "KOREAN": "음~!",
+      "ENGLISH": "Mmm~",
+      "CHINESE_SIMPLIFIED": "嗯~！",
+      "CHINESE_TRADITIONAL": "嗯～！",
+      "JAPANESE": "ん～！",
+      "INDONESIAN": "Mmm~",
+      "PORTUGUESE": "Hmm!",
+      "SPANISH": "¡Mmm!",
+      "PERSIAN": "ممم~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 62.3,
+      "HIDE": 63.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 맛있다!?",
+      "ENGLISH": "This is so good!?",
+      "CHINESE_SIMPLIFIED": "这个好好喝！？",
+      "CHINESE_TRADITIONAL": "這個好好喝喔！？",
+      "JAPANESE": "これ、おいしい！",
+      "INDONESIAN": "Enak banget ini!?",
+      "PORTUGUESE": "Tá uma delícia!",
+      "SPANISH": "¡Qué rico está!",
+      "PERSIAN": "این خیلی خوبه!؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 64.0,
+      "HIDE": 64.1
+    }
+  }
+]

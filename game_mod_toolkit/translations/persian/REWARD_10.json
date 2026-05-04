@@ -1,0 +1,631 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 0.22
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요",
+      "ENGLISH": "Hello",
+      "CHINESE_SIMPLIFIED": "大家好！",
+      "CHINESE_TRADITIONAL": "你好",
+      "JAPANESE": "こんにちは",
+      "INDONESIAN": "Halo",
+      "PORTUGUESE": "Olá",
+      "SPANISH": "Hola",
+      "PERSIAN": "سلام"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 0.22,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "한국에서 인플루언서로 활동 중인 고말숙이고요",
+      "ENGLISH": "I’m Mal-sook Go, an influencer from Korea.",
+      "CHINESE_SIMPLIFIED": "我是在韩国的网红高末淑",
+      "CHINESE_TRADITIONAL": "我是來自韓國的網紅高末淑。",
+      "JAPANESE": "韓国でインフルエンサーとして活動しているコ・マルスクです。",
+      "INDONESIAN": "Saya Ko Mal-sook, seorang influencer dari Korea.",
+      "PORTUGUESE": "Sou Ko Mal-sook, uma influenciadora da Coreia.",
+      "SPANISH": "Soy Ko Mal-sook, una influencer de Corea.",
+      "PERSIAN": "من مال‌سوک گو هستم، یک تأثیرگذار از کره."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 9.19
+    },
+    "SCRIPT": {
+      "KOREAN": "게임 속에서는 우유만의 어렸을 때부터 제일 친한 친구역 고말숙입니다",
+      "ENGLISH": "In the game, I play Ko Mal-sook, Yuman Woo’s childhood best friend.",
+      "CHINESE_SIMPLIFIED": "也是在游戏中饰演宥万从小最要好朋友的高末淑",
+      "CHINESE_TRADITIONAL": "在遊戲中，我飾演禹滿宇從小到大的好朋友——高馬淑。",
+      "JAPANESE": "ゲームの中では、ウ・ユマンの幼なじみで一番の親友、コ・マルスクを演じています。",
+      "INDONESIAN": "Dalam game, saya memerankan Ko Mal-sook, sahabat masa kecil Woo Yuman.",
+      "PORTUGUESE": "No jogo, interpreto Ko Mal-sook, a melhor amiga de infância de Woo Yuman.",
+      "SPANISH": "En el juego interpreto a Ko Mal-sook, la mejor amiga de la infancia de Woo Yuman.",
+      "PERSIAN": "در بازی، من نقش کو مال‌سوک، بهترین دوست دوران کودکی یومان وو را بازی می کنم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.19,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "시즌 1에서는 피시방 안에서만 있는 제 모습을 많이 보여드렸었을 텐데",
+      "ENGLISH": "In Season 1, you probably saw me mostly staying inside the PC café,",
+      "CHINESE_SIMPLIFIED": "在第一季中大家可能看到的多是泡在网吧里的我",
+      "CHINESE_TRADITIONAL": "在第一季中，你們可能看到我大多都待在網咖裡，",
+      "JAPANESE": "シーズン1では主にPCカフェにいる姿を多く見せたと思いますが、",
+      "INDONESIAN": "Di Season 1, kalian mungkin sering melihat saya di warnet,",
+      "PORTUGUESE": "Na primeira temporada, vocês devem ter me visto mais no lan house,",
+      "SPANISH": "En la primera temporada probablemente me vieron siempre en el cibercafé,",
+      "PERSIAN": "در فصل 1، احتمالاً من را دیدید که بیشتر در کافه رایانه شخصی بودم،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 19.01
+    },
+    "SCRIPT": {
+      "KOREAN": "이번에는 우유만과 어떻게 학창 시절을 보냈는지도 많이 보여드릴 수 있게 되었고",
+      "ENGLISH": "but this time, you’ll get to see more of how Yuman and I spent our school days together,",
+      "CHINESE_SIMPLIFIED": "但这次能够更多地展现我和宥万的学生时代",
+      "CHINESE_TRADITIONAL": "但這次你們可以看到我和禹滿是如何度過學生時代的，",
+      "JAPANESE": "今回はユマンとどんな学生時代を過ごしたのか、",
+      "INDONESIAN": "tapi kali ini, kalian bisa melihat lebih banyak tentang masa sekolah saya bersama Yuman,",
+      "PORTUGUESE": "mas desta vez poderão ver mais sobre meus dias de escola com Yuman",
+      "SPANISH": "pero esta vez podrán ver cómo pasamos nuestros días escolares juntos",
+      "PERSIAN": "اما این بار، بیشتر خواهید دید که من و یومان چگونه روزهای مدرسه را با هم گذراندیم،"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.01,
+      "HIDE": 22.07
+    },
+    "SCRIPT": {
+      "KOREAN": "더 애정이 깊어지는 그런 모습을 더 보여줄 수 있게 됐습니다",
+      "ENGLISH": "and how our bond grows even deeper.",
+      "CHINESE_SIMPLIFIED": "也能呈现感情逐渐加深的各种故事",
+      "CHINESE_TRADITIONAL": "以及我們之間感情更加深厚的樣子。",
+      "JAPANESE": "そしてより深まる愛情の姿をお見せできるようになりました。",
+      "INDONESIAN": "dan bagaimana hubungan kami semakin dalam.",
+      "PORTUGUESE": "e como nosso vínculo se aprofunda.",
+      "SPANISH": "y cómo nuestra relación se vuelve más profunda.",
+      "PERSIAN": "و چگونه پیوند ما عمیق تر می شود."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.07,
+      "HIDE": 23.04
+    },
+    "SCRIPT": {
+      "KOREAN": "(시즌2에서 어려웠던 점은?)",
+      "ENGLISH": "(Was there anything difficult about Season 2?)",
+      "CHINESE_SIMPLIFIED": "（第二季拍摄时有什么困难吗？）",
+      "CHINESE_TRADITIONAL": "（第二季拍攝時有什麼困難嗎？）",
+      "JAPANESE": "（シーズン2で難しかったことは？）",
+      "INDONESIAN": "(Apa yang paling sulit di Season 2?)",
+      "PORTUGUESE": "(O que foi mais difícil na 2ª temporada?)",
+      "SPANISH": "(¿Qué fue lo más difícil de la temporada 2?)",
+      "PERSIAN": "(چیز سختی در مورد فصل 2 وجود داشت؟)"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.04,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어려운 점은 아무래도 지금 서른한 살 먹고",
+      "ENGLISH": "The hard part was probably acting as a student at the age of 31.",
+      "CHINESE_SIMPLIFIED": "要说困难的地方，毕竟我现在已经三十一岁了",
+      "CHINESE_TRADITIONAL": "困難的地方大概是三十一歲還要演學生。",
+      "JAPANESE": "やっぱり31歳で学生役を演じるのが少し難しかったです。",
+      "INDONESIAN": "Yang paling sulit mungkin berperan sebagai siswa di usia 31 tahun.",
+      "PORTUGUESE": "O mais difícil foi interpretar uma estudante aos 31 anos.",
+      "SPANISH": "Lo más difícil fue interpretar a una estudiante con 31 años.",
+      "PERSIAN": "قسمت سخت احتمالاً بازیگری در دوران دانشجویی در سن 31 سالگی بود."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.11,
+      "HIDE": 29.17
+    },
+    "SCRIPT": {
+      "KOREAN": "학생 연기를 한다는 게 조금 어렵긴 했는데 재밌었어요",
+      "ENGLISH": "It was a bit challenging, but fun.",
+      "CHINESE_SIMPLIFIED": "要演绎学生角色确实有些难度，但很有趣",
+      "CHINESE_TRADITIONAL": "雖然有點難，但很好玩。",
+      "JAPANESE": "でも楽しかったです。",
+      "INDONESIAN": "Agak susah, tapi menyenangkan juga.",
+      "PORTUGUESE": "Foi um pouco desafiador, mas divertido.",
+      "SPANISH": "Fue un poco difícil, pero divertido.",
+      "PERSIAN": "کمی چالش برانگیز اما سرگرم کننده بود."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 29.17,
+      "HIDE": 32.11
+    },
+    "SCRIPT": {
+      "KOREAN": "아마 그게 마지막 교복일 거 같아요",
+      "ENGLISH": "That was probably my last school uniform in this lifetime.",
+      "CHINESE_SIMPLIFIED": "这大概会是我最后一次穿校服了吧",
+      "CHINESE_TRADITIONAL": "那應該是我人生中最後一次穿校服了。",
+      "JAPANESE": "たぶんあれが最後の制服になると思います。",
+      "INDONESIAN": "Mungkin itu adalah seragam sekolah terakhir saya seumur hidup.",
+      "PORTUGUESE": "Provavelmente será meu último uniforme escolar.",
+      "SPANISH": "Probablemente fue mi último uniforme escolar.",
+      "PERSIAN": "این احتمالا آخرین لباس مدرسه من در این زندگی بود."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.11,
+      "HIDE": 34.12
+    },
+    "SCRIPT": {
+      "KOREAN": "(시즌 2를 기획하면서)다 같이 머리 싸매고 힘들어했던 게",
+      "ENGLISH": "(While planning Season 2) we really struggled together,",
+      "CHINESE_SIMPLIFIED": "（在策划第二季时）我们整个团队绞尽脑汁的一点是",
+      "CHINESE_TRADITIONAL": "（在策劃第二季時）我們一起絞盡腦汁，",
+      "JAPANESE": "（シーズン2を企画しながら）みんなで頭を抱えて悩みました。",
+      "INDONESIAN": "(Saat merencanakan Season 2) kami semua benar-benar pusing,",
+      "PORTUGUESE": "(Ao planejar a 2ª temporada) trabalhamos duro juntos,",
+      "SPANISH": "(Al planear la temporada 2) todos nos rompimos la cabeza,",
+      "PERSIAN": "(هنگام برنامه ریزی فصل 2) ما واقعاً با هم مشکل داشتیم،"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 34.12,
+      "HIDE": 36.16
+    },
+    "SCRIPT": {
+      "KOREAN": "이번엔 서사를 많이 넣었단 말이죠",
+      "ENGLISH": "because we added a lot more story this time.",
+      "CHINESE_SIMPLIFIED": "这次加入了大量剧情线",
+      "CHINESE_TRADITIONAL": "因為這次加入了更多劇情內容。",
+      "JAPANESE": "今回はストーリーをたくさん入れたんです。",
+      "INDONESIAN": "karena kali ini kami menambahkan lebih banyak cerita.",
+      "PORTUGUESE": "pois adicionamos muito mais enredo desta vez.",
+      "SPANISH": "porque esta vez añadimos mucha más historia.",
+      "PERSIAN": "زیرا این بار داستان های بسیار بیشتری اضافه کردیم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.16,
+      "HIDE": 40.2
+    },
+    "SCRIPT": {
+      "KOREAN": "과거로 돌아갔을 때 다른 캐릭터들이 지금 현재 모습을 잃지 않고",
+      "ENGLISH": "When going back to the past,",
+      "CHINESE_SIMPLIFIED": "回到过去时，如何让其他角色既不失去现在的特质",
+      "CHINESE_TRADITIONAL": "回到過去時，",
+      "JAPANESE": "過去に戻ったとき、",
+      "INDONESIAN": "Saat kembali ke masa lalu,",
+      "PORTUGUESE": "Quando voltamos ao passado,",
+      "SPANISH": "Al regresar al pasado,",
+      "PERSIAN": "هنگام بازگشت به گذشته،"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 40.2,
+      "HIDE": 42.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게 그 모습을 보여줄 수 있는가",
+      "ENGLISH": "we had to figure out how to show the characters",
+      "CHINESE_SIMPLIFIED": "又能展现当年的模样？",
+      "CHINESE_TRADITIONAL": "我們必須思考如何表現角色的過去樣子，",
+      "JAPANESE": "他のキャラクターたちが今の姿を失わずにどう見せるか、",
+      "INDONESIAN": "kami harus memikirkan bagaimana menampilkan karakter",
+      "PORTUGUESE": "pensamos em como mostrar os personagens",
+      "SPANISH": "tuvimos que pensar cómo mostrar a los personajes",
+      "PERSIAN": "باید بفهمیم که چگونه شخصیت ها را نشان دهیم"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 42.1,
+      "HIDE": 44.07
+    },
+    "SCRIPT": {
+      "KOREAN": "아니면 아역을 써야 하나 말아야 하나",
+      "ENGLISH": "without losing their current selves,",
+      "CHINESE_SIMPLIFIED": "或者要不要找儿童演员来演？",
+      "CHINESE_TRADITIONAL": "同時又不失去他們現在的氣質，",
+      "JAPANESE": "子役を使うべきかどうかなど、",
+      "INDONESIAN": "tanpa kehilangan sisi mereka yang sekarang,",
+      "PORTUGUESE": "sem perder suas versões atuais,",
+      "SPANISH": "sin perder su esencia actual,",
+      "PERSIAN": "بدون از دست دادن خود فعلی خود،"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 44.07,
+      "HIDE": 45.23
+    },
+    "SCRIPT": {
+      "KOREAN": "재밌는 고민을 많이 했었는데",
+      "ENGLISH": "or whether we should use younger actors or not.",
+      "CHINESE_SIMPLIFIED": "我们进行了很多有趣的探讨",
+      "CHINESE_TRADITIONAL": "是否要找童年演員來演出，",
+      "JAPANESE": "たくさん悩みましたが、",
+      "INDONESIAN": "apakah kami harus menggunakan aktor anak-anak atau tidak,",
+      "PORTUGUESE": "ou se deveríamos usar atores mirins.",
+      "SPANISH": "si usar o no actores más jóvenes,",
+      "PERSIAN": "یا اینکه از بازیگران جوانتر استفاده کنیم یا نه."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 45.23,
+      "HIDE": 48.22
+    },
+    "SCRIPT": {
+      "KOREAN": "힘든 만큼 재밌는 결과가 나왔던 것 같아요",
+      "ENGLISH": "It was a fun challenge, and I think the result turned out great.",
+      "CHINESE_SIMPLIFIED": "虽然辛苦但也收获了有趣的成果",
+      "CHINESE_TRADITIONAL": "雖然辛苦但結果真的很有趣。",
+      "JAPANESE": "苦労した分だけ面白い結果になったと思います。",
+      "INDONESIAN": "itu jadi tantangan yang seru.",
+      "PORTUGUESE": "Foi um desafio divertido e o resultado valeu a pena.",
+      "SPANISH": "fue un reto divertido y el resultado valió la pena.",
+      "PERSIAN": "چالش جالبی بود و به نظر من نتیجه عالی بود."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 48.22,
+      "HIDE": 51.03
+    },
+    "SCRIPT": {
+      "KOREAN": "(인기 투표 2위를 하셨는데)",
+      "ENGLISH": "(You got 2nd place in the popularity vote)",
+      "CHINESE_SIMPLIFIED": "（人气投票中你得了第二名呢）",
+      "CHINESE_TRADITIONAL": "（人氣投票中你得了第二名）",
+      "JAPANESE": "（人気投票で2位でしたが）",
+      "INDONESIAN": "(Saya dengar kamu mendapat posisi ke-2 dalam voting popularitas)",
+      "PORTUGUESE": "(Você ficou em segundo lugar na votação de popularidade)",
+      "SPANISH": "(Quedaste en segundo lugar en la votación de popularidad)",
+      "PERSIAN": "(شما رتبه دوم را در رای محبوبیت کسب کردید)"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 51.03,
+      "HIDE": 52.05
+    },
+    "SCRIPT": {
+      "KOREAN": "1위는 누구예요?",
+      "ENGLISH": "Who’s 1st?",
+      "CHINESE_SIMPLIFIED": "第一名是谁呢？",
+      "CHINESE_TRADITIONAL": "第一名是誰？",
+      "JAPANESE": "1位は誰ですか？",
+      "INDONESIAN": "Siapa yang nomor satu?",
+      "PORTUGUESE": "Quem ficou em primeiro?",
+      "SPANISH": "¿Quién fue el primero?",
+      "PERSIAN": "1 کیه؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 52.05,
+      "HIDE": 52.17
+    },
+    "SCRIPT": {
+      "KOREAN": "(그란님입니다)",
+      "ENGLISH": "(Gran)",
+      "CHINESE_SIMPLIFIED": "（是圆圆）",
+      "CHINESE_TRADITIONAL": "（格蘭）",
+      "JAPANESE": "（グラン）",
+      "INDONESIAN": "(Gran)",
+      "PORTUGUESE": "(Gran)",
+      "SPANISH": "(Gran)",
+      "PERSIAN": "(بزرگ)"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 52.17,
+      "HIDE": 53.22
+    },
+    "SCRIPT": {
+      "KOREAN": "아 GRANDMA",
+      "ENGLISH": "Ah, Grandma.",
+      "CHINESE_SIMPLIFIED": "啊，是Grandma啊~",
+      "CHINESE_TRADITIONAL": "啊，Grandma。",
+      "JAPANESE": "ああ、Grandma。",
+      "INDONESIAN": "Ah, Grandma.",
+      "PORTUGUESE": "Ah, Grandma.",
+      "SPANISH": "Ah, Grandma.",
+      "PERSIAN": "آه، مادربزرگ."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 53.22,
+      "HIDE": 56.18
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 의외의 인물로 들어간 분이 있나요?",
+      "ENGLISH": "Then, was there anyone unexpected who made the list?",
+      "CHINESE_SIMPLIFIED": "那有没有出现什么意外的人选呢？",
+      "CHINESE_TRADITIONAL": "那有沒有意外上榜的人？",
+      "JAPANESE": "意外な人はいましたか？",
+      "INDONESIAN": "Apakah ada nama yang tidak terduga di daftar itu?",
+      "PORTUGUESE": "Houve alguém inesperado na lista?",
+      "SPANISH": "¿Hubo alguien inesperado en la lista?",
+      "PERSIAN": "سپس، کسی غیرمنتظره بود که لیست را تهیه کرد؟"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 57.09,
+      "HIDE": 58.03
+    },
+    "SCRIPT": {
+      "KOREAN": "(소세지형)",
+      "ENGLISH": "(Sausage Bro)",
+      "CHINESE_SIMPLIFIED": "（香肠哥）",
+      "CHINESE_TRADITIONAL": "（香腸哥）",
+      "JAPANESE": "（ソーセージ兄）",
+      "INDONESIAN": "(Sosis Bro)",
+      "PORTUGUESE": "(Sausage Bro)",
+      "SPANISH": "(Hermano Salchicha)",
+      "PERSIAN": "(برادر سوسیس)"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 58.03,
+      "HIDE": 59.17
+    },
+    "SCRIPT": {
+      "KOREAN": "아 이거 좀 초조한데",
+      "ENGLISH": "Ah, that’s a bit nerve-wracking.",
+      "CHINESE_SIMPLIFIED": "啊这有点让人着急啊...",
+      "CHINESE_TRADITIONAL": "啊，這有點緊張呢。",
+      "JAPANESE": "あ、ちょっと焦りますね。",
+      "INDONESIAN": "Ah, ini agak bikin gugup.",
+      "PORTUGUESE": "Ah, isso me deixa um pouco nervosa.",
+      "SPANISH": "Ah, eso me pone un poco nerviosa.",
+      "PERSIAN": "آه، این کمی اعصاب خردکن است."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 61.02,
+      "HIDE": 63.0
+    },
+    "SCRIPT": {
+      "KOREAN": "금방 따라잡힐 수 있는 느낌이라서",
+      "ENGLISH": "It feels like I could be overtaken soon,",
+      "CHINESE_SIMPLIFIED": "感觉随时都会被追上",
+      "CHINESE_TRADITIONAL": "感覺隨時會被追上，",
+      "JAPANESE": "すぐ追いつかれそうな感じで、",
+      "INDONESIAN": "Rasanya bisa tersusul kapan saja,",
+      "PORTUGUESE": "Parece que posso ser ultrapassada a qualquer momento,",
+      "SPANISH": "Siento que podrían alcanzarme en cualquier momento,",
+      "PERSIAN": "به نظر می رسد می توانم به زودی از من سبقت بگیرم،"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 63.0,
+      "HIDE": 64.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그다지 기쁘지만은 않은데요?",
+      "ENGLISH": "so I’m not that happy about it.",
+      "CHINESE_SIMPLIFIED": "所以其实没有特别开心呢？",
+      "CHINESE_TRADITIONAL": "所以其實不是太開心。",
+      "JAPANESE": "正直あまり嬉しくないかも？",
+      "INDONESIAN": "jadi tidak terlalu senang, haha.",
+      "PORTUGUESE": "então não estou tão feliz assim, haha.",
+      "SPANISH": "así que no estoy tan feliz.",
+      "PERSIAN": "بنابراین من از اون راضی نیستم"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 65.2,
+      "HIDE": 67.9
+    },
+    "SCRIPT": {
+      "KOREAN": "표차가 별로 안 날 것 같아서",
+      "ENGLISH": "I don’t think the vote gap is big.",
+      "CHINESE_SIMPLIFIED": "看来票数差距应该不大？",
+      "CHINESE_TRADITIONAL": "我覺得票數差不多。",
+      "JAPANESE": "票差もあまりなさそうで。",
+      "INDONESIAN": "Aku rasa selisih suaranya tidak terlalu besar.",
+      "PORTUGUESE": "Acho que a diferença de votos não é tão grande.",
+      "SPANISH": "Creo que la diferencia de votos no es tan grande.",
+      "PERSIAN": "فکر نمی کنم شکاف رای زیاد باشد."
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 67.9,
+      "HIDE": 70.1
+    },
+    "SCRIPT": {
+      "KOREAN": "장난이고 이제 게임을 통해서",
+      "ENGLISH": "Just kidding. Through this game,",
+      "CHINESE_SIMPLIFIED": "开个玩笑啦！能通过这款游戏",
+      "CHINESE_TRADITIONAL": "開玩笑啦，透過這款遊戲，",
+      "JAPANESE": "冗談ですよ。ゲームを通して、",
+      "INDONESIAN": "Hanya bercanda, lewat game ini,",
+      "PORTUGUESE": "Brincadeira, através deste jogo,",
+      "SPANISH": "Es broma, a través de este juego,",
+      "PERSIAN": "شوخی کردم از طریق این بازی،"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 70.1,
+      "HIDE": 76.0
+    },
+    "SCRIPT": {
+      "KOREAN": "다른 나라에서도 많은 매력을 보여드린 것 같아서 너무 영광이고",
+      "ENGLISH": "I’m really honored that people from other countries got to see more of my charm,",
+      "CHINESE_SIMPLIFIED": "向其他国家的朋友们展现我的魅力，我感到非常荣幸",
+      "CHINESE_TRADITIONAL": "能讓其他國家的玩家看到我的魅力，我真的很榮幸。",
+      "JAPANESE": "他の国の方々にも私の魅力を見せられて本当に光栄です。",
+      "INDONESIAN": "aku merasa sangat terhormat bisa menunjukkan pesonaku ke pemain luar negeri.",
+      "PORTUGUESE": "fico muito honrada por mostrar meu charme a pessoas de outros países.",
+      "SPANISH": "me siento muy honrada de haber mostrado mi encanto a otros países.",
+      "PERSIAN": "من واقعاً مفتخرم که مردم کشورهای دیگر بیشتر از جذابیت من دیدن کردند،"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 76.0,
+      "HIDE": 80.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이번에도 저에 대한 많은 매력을 느껴 주셨으면 좋겠습니다",
+      "ENGLISH": "and I hope everyone will feel even more affection for me this time.",
+      "CHINESE_SIMPLIFIED": "也希望大家这次能感受到我更多的魅力",
+      "CHINESE_TRADITIONAL": "希望這次大家也能感受到更多對我的喜愛。",
+      "JAPANESE": "今回もたくさんの魅力を感じてもらえたら嬉しいです。",
+      "INDONESIAN": "Semoga kali ini juga kalian bisa merasakan pesonaku lebih banyak lagi.",
+      "PORTUGUESE": "Espero que desta vez vocês sintam ainda mais o meu encanto.",
+      "SPANISH": "Espero que esta vez también puedan sentir aún más mi encanto.",
+      "PERSIAN": "و امیدوارم همه این بار بیشتر به من محبت کنند."
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 80.1,
+      "HIDE": 82.01
+    },
+    "SCRIPT": {
+      "KOREAN": "1위 공약이요?",
+      "ENGLISH": "A promise for 1st place?",
+      "CHINESE_SIMPLIFIED": "有什么夺冠公约吗？",
+      "CHINESE_TRADITIONAL": "第一名的公約？",
+      "JAPANESE": "1位の公約は？",
+      "INDONESIAN": "Janji jika menang peringkat pertama?",
+      "PORTUGUESE": "Promessa se eu ficar em primeiro?",
+      "SPANISH": "¿Promesa si gano el primer lugar?",
+      "PERSIAN": "قولی برای مقام اول؟"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 82.01,
+      "HIDE": 83.15
+    },
+    "SCRIPT": {
+      "KOREAN": "1위를 한다면",
+      "ENGLISH": "If I win 1st place,",
+      "CHINESE_SIMPLIFIED": "如果能拿到第一的话",
+      "CHINESE_TRADITIONAL": "如果我得第一名，",
+      "JAPANESE": "もし1位になったら、",
+      "INDONESIAN": "Kalau saya jadi nomor satu,",
+      "PORTUGUESE": "Se eu ganhar o primeiro lugar,",
+      "SPANISH": "Si gano el primer lugar,",
+      "PERSIAN": "اگر مقام اول را کسب کنم،"
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 83.15,
+      "HIDE": 85.03
+    },
+    "SCRIPT": {
+      "KOREAN": "전신 탈의를 하겠습니다",
+      "ENGLISH": "I’ll do a full-body reveal.",
+      "CHINESE_SIMPLIFIED": "我会脱光光",
+      "CHINESE_TRADITIONAL": "我會全身脫光。",
+      "JAPANESE": "全身脱ぎます。",
+      "INDONESIAN": "saya akan membuka semuanya.",
+      "PORTUGUESE": "vou tirar toda a roupa.",
+      "SPANISH": "¡me quitaré toda la ropa!",
+      "PERSIAN": "من یک افشای کل بدن انجام خواهم داد."
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 86.19,
+      "HIDE": 88.22
+    },
+    "SCRIPT": {
+      "KOREAN": "(집에서 혼자?)",
+      "ENGLISH": "(At home alone?)",
+      "CHINESE_SIMPLIFIED": "（在家里自己一个人吗？）",
+      "CHINESE_TRADITIONAL": "（在家一個人？）",
+      "JAPANESE": "（家で一人で？）",
+      "INDONESIAN": "(Di rumah sendirian?)",
+      "PORTUGUESE": "(Sozinha em casa?)",
+      "SPANISH": "(¿Sola en casa?)",
+      "PERSIAN": "(در خونه تنها؟)"
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 88.22,
+      "HIDE": 91.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 보여드린다 곤 안 했어요",
+      "ENGLISH": "I never said I’d show it to anyone.",
+      "CHINESE_SIMPLIFIED": "我可没说会展示给大家看哦！",
+      "CHINESE_TRADITIONAL": "我又沒說要給別人看喔。",
+      "JAPANESE": "見せるとは言ってませんよ。",
+      "INDONESIAN": "Saya tidak bilang akan memperlihatkannya ke siapa pun.",
+      "PORTUGUESE": "Eu não disse que mostraria a ninguém.",
+      "SPANISH": "Nunca dije que se lo mostraría a nadie.",
+      "PERSIAN": "من هرگز نگفتم که اونو به کسی نشان خواهم داد."
+    }
+  }
+]

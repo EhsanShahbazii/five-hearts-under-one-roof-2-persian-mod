@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "발목은 괜찮은데",
+      "ENGLISH": "My ankle’s fine,",
+      "CHINESE_SIMPLIFIED": "脚踝倒没事",
+      "CHINESE_TRADITIONAL": "腳踝是沒事",
+      "JAPANESE": "足首は大丈夫だけど",
+      "INDONESIAN": "Pergelangan kakiku sih nggak papa,",
+      "PORTUGUESE": "O tornozelo tá bem,",
+      "SPANISH": "El tobillo está bien,",
+      "PERSIAN": "مچ پایم خوب است،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 종아리 근육이 좀 놀랐는지 땡기네요.",
+      "ENGLISH": "but I think I pulled a calf muscle earlier—it’s feeling kinda tight.",
+      "CHINESE_SIMPLIFIED": "不过刚才小腿肌肉可能有点吓到了，现在抽得紧紧的",
+      "CHINESE_TRADITIONAL": "不過小腿肌肉好像拉傷了，有點緊",
+      "JAPANESE": "さっきふくらはぎの筋肉がちょっとびっくりして、張ってる感じです",
+      "INDONESIAN": "tapi kayaknya tadi otot betisku ketarik—kerasa agak kaku.",
+      "PORTUGUESE": "mas acho que o músculo da panturrilha deu uma leve contraída.",
+      "SPANISH": "pero creo que el músculo de la pantorrilla se me tensó un poco.",
+      "PERSIAN": "اما فکر می‌کنم عضله ساق پا را زودتر کشیدم - احساس می‌کنم کمی سفت شده است."
+    }
+  }
+]

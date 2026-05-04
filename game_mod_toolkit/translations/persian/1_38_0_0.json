@@ -1,0 +1,289 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "와..편의점에서 일하시기 힘드시겠어요...",
+      "ENGLISH": "Wow… working at a convenience store must be tough.",
+      "CHINESE_SIMPLIFIED": "哇，便利店工作一定很辛苦吧…",
+      "CHINESE_TRADITIONAL": "在便利商店工作，一定很辛苦吧…",
+      "JAPANESE": "わぁ…コンビニの仕事、大変ですね…",
+      "INDONESIAN": "Kerja di minimarket pasti capek ya...",
+      "PORTUGUESE": "Nossa… trabalhar em loja de conveniência deve ser difícil.",
+      "SPANISH": "Debe ser difícil trabajar en una tienda...",
+      "PERSIAN": "واو... کار کردن تو سوپرمارکت واقعاً کار سختیه‌ها..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요. 감사합니다.",
+      "ENGLISH": "It’s fine. Thank you.",
+      "CHINESE_SIMPLIFIED": "没事的，谢谢你",
+      "CHINESE_TRADITIONAL": "沒關係，謝謝",
+      "JAPANESE": "大丈夫です。ありがとうございます。",
+      "INDONESIAN": "Nggak apa-apa kok. Terima kasih.",
+      "PORTUGUESE": "Tá tudo bem. Obrigada.",
+      "SPANISH": "Estoy bien. Muchas gracias.",
+      "PERSIAN": "نه طوری نیست، ممنونم ازتون."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 우리 어디서 보지 않았어요?",
+      "ENGLISH": "Huh? Haven’t we met before?",
+      "CHINESE_SIMPLIFIED": "咦？我们是不是在哪里见过？",
+      "CHINESE_TRADITIONAL": "咦？我們是不是在哪裡見過？",
+      "JAPANESE": "ん？俺たち、どこかで会ったことありません？",
+      "INDONESIAN": "Eh? Kita kayaknya pernah ketemu, ya?",
+      "PORTUGUESE": "Hã? A gente já não se encontrou antes?",
+      "SPANISH": "¿Eh? ¿No nos hemos visto antes?",
+      "PERSIAN": "عه؟ ما قبلاً همدیگه رو جایی ندیدیم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "병원에서, 맞죠?",
+      "ENGLISH": "At the hospital, right?",
+      "CHINESE_SIMPLIFIED": "在医院，对吧？",
+      "CHINESE_TRADITIONAL": "是在醫院，對吧？",
+      "JAPANESE": "病院で…ですよね？",
+      "INDONESIAN": "Di rumah sakit, kan?",
+      "PORTUGUESE": "No hospital, né?",
+      "SPANISH": "En el hospital, ¿cierto?",
+      "PERSIAN": "توی همون بیمارستان، درسته؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 네 맞아요...",
+      "ENGLISH": "Ah, yes, that’s right…",
+      "CHINESE_SIMPLIFIED": "啊，对对，没错…",
+      "CHINESE_TRADITIONAL": "啊，對，沒錯…",
+      "JAPANESE": "あ、はい。そうです…。",
+      "INDONESIAN": "Ah, iya betul...",
+      "PORTUGUESE": "Ah, sim, isso mesmo…",
+      "SPANISH": "Ah, sí, es verdad...",
+      "PERSIAN": "آهان... بله درسته، همونجا بود..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "여기서 또 보네요. 이름이 어떻게 되세요?",
+      "ENGLISH": "Funny running into you here. What’s your name?",
+      "CHINESE_SIMPLIFIED": "没想到在这里又碰上了。您叫什么名字呀？",
+      "CHINESE_TRADITIONAL": "沒想到又見面了，請問你叫什麼名字？",
+      "JAPANESE": "ここでまた会うなんて。お名前は？",
+      "INDONESIAN": "Ketemu lagi di sini ternyata. Namanya siapa ya?",
+      "PORTUGUESE": "Engraçado te encontrar aqui. Qual é o seu nome?",
+      "SPANISH": "Qué coincidencia encontrarnos otra vez. ¿Cómo te llamas?",
+      "PERSIAN": "چه جالب که دوباره اینجا دیدمتون! اسمتون چیه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 저 양유정이라고 합니다...",
+      "ENGLISH": "Oh, I’m Yu-jeong Yang…",
+      "CHINESE_SIMPLIFIED": "啊，我叫梁有情…",
+      "CHINESE_TRADITIONAL": "啊，我叫梁有情…",
+      "JAPANESE": "私、ヤン・ユジョンって言います…",
+      "INDONESIAN": "Ah, saya Yang Yoo-jung...",
+      "PORTUGUESE": "Ah, eu sou Yu-jeong Yang…",
+      "SPANISH": "Ah, soy Yu-jeong Yang...",
+      "PERSIAN": "من... یانگ یو-جونگ هستم..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 공부하세요?",
+      "ENGLISH": "Oh? Are you a student?",
+      "CHINESE_SIMPLIFIED": "你还在读书吗？",
+      "CHINESE_TRADITIONAL": "額？你還在讀書嗎？",
+      "JAPANESE": "へぇ、勉強されてるんですか？",
+      "INDONESIAN": "Oh? Kamu kuliah?",
+      "PORTUGUESE": "Oh? Você é estudante?",
+      "SPANISH": "¿Oh? ¿Estás estudiando?",
+      "PERSIAN": "عه؟ درس می‌خونین؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 제가 아직 대학을 못 가서요. ",
+      "ENGLISH": "Ah… I haven’t gone to college yet.",
+      "CHINESE_SIMPLIFIED": "啊…我还没能上大学呢",
+      "CHINESE_TRADITIONAL": "啊…我還沒上大學啦",
+      "JAPANESE": "いえ…まだ大学には行けてなくて",
+      "INDONESIAN": "Ah... saya belum bisa masuk kuliah.",
+      "PORTUGUESE": "Ah… ainda não entrei na faculdade.",
+      "SPANISH": "Ah... todavía no he podido entrar a la universidad.",
+      "PERSIAN": "راستش... هنوز نتونستم برم دانشگاه، کنکوریم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 계산해 드릴까요?",
+      "ENGLISH": "Oh… shall I ring you up?",
+      "CHINESE_SIMPLIFIED": "哦…那我帮您结账吧？",
+      "CHINESE_TRADITIONAL": "啊…要幫你結帳嗎？",
+      "JAPANESE": "……あ、レジ打ちしましょうか？",
+      "INDONESIAN": "Oh... saya bantu hitung belanjaannya ya?",
+      "PORTUGUESE": "Oh… devo registrar sua compra?",
+      "SPANISH": "Eh... ¿le cobro?",
+      "PERSIAN": "آها... حساب کنم براتون؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 28.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 네네. 해주세요.",
+      "ENGLISH": "Ah, yes, please.",
+      "CHINESE_SIMPLIFIED": "啊，好的好的，麻烦了",
+      "CHINESE_TRADITIONAL": "啊，好。麻煩你了",
+      "JAPANESE": "あ、はいはい。お願いします。",
+      "INDONESIAN": "Ah iya, tolong.",
+      "PORTUGUESE": "Ah, sim, por favor.",
+      "SPANISH": "Ah, sí, por favor.",
+      "PERSIAN": "آره، بی زحمت لطف کنین."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 34.1
+    },
+    "SCRIPT": {
+      "KOREAN": "맥주 4캔 하셨고...",
+      "ENGLISH": "four cans of beer…",
+      "CHINESE_SIMPLIFIED": "啤酒四罐是吧…",
+      "CHINESE_TRADITIONAL": "啤酒四罐…",
+      "JAPANESE": "ビール4本で…",
+      "INDONESIAN": "ada 4 kaleng bir...",
+      "PORTUGUESE": "quatro latas de cerveja…",
+      "SPANISH": "serían 4 latas de cerveza...",
+      "PERSIAN": "چهار تا قوطی نوشیدنی دارین و..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증 부탁드릴게요.",
+      "ENGLISH": "I’ll need to see your ID.",
+      "CHINESE_SIMPLIFIED": "请出示一下身份证。",
+      "CHINESE_TRADITIONAL": "麻煩請出示一下身分證",
+      "JAPANESE": "身分証お願いできますか？",
+      "INDONESIAN": "Minta tolong KTP-nya ya.",
+      "PORTUGUESE": "Vou precisar ver sua identidade.",
+      "SPANISH": "¿Me muestra su ID, por favor?",
+      "PERSIAN": "کارت ملی‌تون رو محبت می‌کنین ببینم؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 38.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네~ 신분증이요.",
+      "ENGLISH": "Sure, here’s my ID.",
+      "CHINESE_SIMPLIFIED": "好的~身份证是吧",
+      "CHINESE_TRADITIONAL": "好～身分證是吧",
+      "JAPANESE": "あ、身分証ですね",
+      "INDONESIAN": "Iya~ ini KTP saya.",
+      "PORTUGUESE": "Claro, aqui está minha identidade.",
+      "SPANISH": "Sí~ aquí está...",
+      "PERSIAN": "بله، حتماً! بفرمایید اینم کارت مـ..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "咦？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Eh?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "عه؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 41.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 맞다! 신분증!",
+      "ENGLISH": "Oh, right! My ID!",
+      "CHINESE_SIMPLIFIED": "啊，对了！身份证！",
+      "CHINESE_TRADITIONAL": "啊，對了！身分證！",
+      "JAPANESE": "はっ、そうだ！身分証！",
+      "INDONESIAN": "Ah, iya! KTP!",
+      "PORTUGUESE": "Ah, é mesmo! Minha identidade!",
+      "SPANISH": "¡Oh no! ¡mi ID!",
+      "PERSIAN": "وای راستی! کارت ملیم جا مونده!"
+    }
+  }
+]

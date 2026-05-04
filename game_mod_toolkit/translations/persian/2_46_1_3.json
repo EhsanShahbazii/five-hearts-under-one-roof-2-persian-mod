@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "피스타치오 그린이지 않았어?",
+      "ENGLISH": "Wasn’t it pistachio green?",
+      "CHINESE_SIMPLIFIED": "是开心果绿没错吧？",
+      "CHINESE_TRADITIONAL": "不是開心果綠嗎？",
+      "JAPANESE": "ピスタチオグリーンじゃなかった？",
+      "INDONESIAN": "Bukankah warnanya hijau pistachio?",
+      "PORTUGUESE": "Não eram verde pistache?",
+      "SPANISH": "¿No eran verde pistacho?",
+      "PERSIAN": "سبز پسته ای نبود؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐어???",
+      "ENGLISH": "What the heck?!",
+      "CHINESE_SIMPLIFIED": "什么？？？",
+      "CHINESE_TRADITIONAL": "什麼？？？",
+      "JAPANESE": "はぁ!?",
+      "INDONESIAN": "Apa-apaan ini?!",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "چه لعنتی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아닌가? ",
+      "ENGLISH": "Wait—was it not?",
+      "CHINESE_SIMPLIFIED": "啊，不对吗？",
+      "CHINESE_TRADITIONAL": "欸，不是嗎？",
+      "JAPANESE": "あ、違った？",
+      "INDONESIAN": "Tunggu—bukankah begitu?",
+      "PORTUGUESE": "Ah, não?",
+      "SPANISH": "¿Ah no?",
+      "PERSIAN": "صبر کن - اینطوری نبود؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "맞지 않아?",
+      "ENGLISH": "Pretty sure it was, no?",
+      "CHINESE_SIMPLIFIED": "难道我猜错了？",
+      "CHINESE_TRADITIONAL": "難道猜錯了嗎？",
+      "JAPANESE": "合ってない？",
+      "INDONESIAN": "Cukup yakin, bukan?",
+      "PORTUGUESE": "Era outra cor?",
+      "SPANISH": "¿Era otro color?",
+      "PERSIAN": "کاملا مطمئن بود که بود، نه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "넌 진짜 안 되겠다...",
+      "ENGLISH": "Unbelievable... you’re so hopeless.",
+      "CHINESE_SIMPLIFIED": "你真是没救了...",
+      "CHINESE_TRADITIONAL": "你這樣不行耶…",
+      "JAPANESE": "お前、ほんっとダメだな…",
+      "INDONESIAN": "Tidak dapat dipercaya... kamu benar-benar tidak ada harapan.",
+      "PORTUGUESE": "Você não tem jeito...",
+      "SPANISH": "No tienes remedio...",
+      "PERSIAN": "باور نکردنی... تو خیلی نا امیدی."
+    }
+  }
+]

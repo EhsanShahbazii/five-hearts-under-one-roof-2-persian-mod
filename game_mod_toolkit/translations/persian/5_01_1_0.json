@@ -1,0 +1,123 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "본인 먼저 챙기세요 규리 씨!!",
+      "PERSIAN": "본인 먼저 챙기세요 규리 씨!!"
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 3,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 이 상황에도 내 걱정이에요?",
+      "PERSIAN": "지금 이 상황에도 내 걱정이에요؟"
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "PERSIAN": "آیا؟"
+    }
+  },
+  {
+    "INDEX": 4,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨 먼저 챙기라고요 ",
+      "PERSIAN": "규리 씨 먼저 챙기라고요"
+    }
+  },
+  {
+    "INDEX": 5,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 그 이상한 간호사에, 어? 감기만 지금 몇 주째에요!",
+      "PERSIAN": "아까 그 이상한 간호사에، 어؟ 감기만 지금 몇 주째에요!"
+    }
+  },
+  {
+    "INDEX": 6,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야~ 지금 내 걱정해주는 거예요?",
+      "PERSIAN": "뭐야~ 지금 내 걱정해주는 거예요؟"
+    }
+  },
+  {
+    "INDEX": 7,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 20
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 규리 씨 그게 포인트가 아니잖아요!",
+      "PERSIAN": "아이 규리 씨 그게 포인트가 아니잖아요!"
+    }
+  },
+  {
+    "INDEX": 8,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨 건강도 좀 챙기라구요.",
+      "PERSIAN": "규리 씨 건강도 좀 챙기라구요."
+    }
+  },
+  {
+    "INDEX": 9,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠어요~",
+      "PERSIAN": "알겠어요~"
+    }
+  },
+  {
+    "INDEX": 10,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그래두...",
+      "PERSIAN": "그래두..."
+    }
+  },
+  {
+    "INDEX": 11,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 걱정해주니까 전 너무 좋은데요?",
+      "PERSIAN": "유만 씨가 걱정해주니까 전 너무 좋은데요؟"
+    }
+  }
+]

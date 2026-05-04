@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 1.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 씨... ",
+      "ENGLISH": "Ah, damn…",
+      "CHINESE_SIMPLIFIED": "阿西...",
+      "CHINESE_TRADITIONAL": "靠...",
+      "JAPANESE": "くそ…",
+      "INDONESIAN": "Ah, sial…",
+      "PORTUGUESE": "Ah, droga…",
+      "SPANISH": "Ah, rayos…",
+      "PERSIAN": "آه، لعنتی…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 가야 되는데",
+      "ENGLISH": "I really need to hurry…",
+      "CHINESE_SIMPLIFIED": "得快点过去",
+      "CHINESE_TRADITIONAL": "我真的要快點過去了",
+      "JAPANESE": "早く行かないと",
+      "INDONESIAN": "Aku bener-bener harus buru-buru…",
+      "PORTUGUESE": "Tenho que me apressar.",
+      "SPANISH": "Tengo que apurarme.",
+      "PERSIAN": "واقعا باید عجله کنم…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "あれ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "또 갈림길이네",
+      "ENGLISH": "Another fork in the road…",
+      "CHINESE_SIMPLIFIED": "又是岔路口？",
+      "CHINESE_TRADITIONAL": "又是岔路口？",
+      "JAPANESE": "また分かれ道かよ…",
+      "INDONESIAN": "Cabang jalan lagi…",
+      "PORTUGUESE": "De novo uma bifurcação…",
+      "SPANISH": "Otra vez una bifurcación…",
+      "PERSIAN": "انشعابی دیگر در جاده…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 어떡하지...",
+      "ENGLISH": "What do I do…",
+      "CHINESE_SIMPLIFIED": "这可怎么办啊...",
+      "CHINESE_TRADITIONAL": "怎麼辦呢...",
+      "JAPANESE": "どうしよう…",
+      "INDONESIAN": "Gimana dong…",
+      "PORTUGUESE": "Ah, o que eu faço agora…?",
+      "SPANISH": "Ah, ¿qué hago ahora…?",
+      "PERSIAN": "چیکار کنم…"
+    }
+  }
+]

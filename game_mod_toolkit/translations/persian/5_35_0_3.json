@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 까서 주세요~",
+      "ENGLISH": "Ehh~ peel it for me~",
+      "CHINESE_SIMPLIFIED": "哎呦~帮我剥好嘛~",
+      "CHINESE_TRADITIONAL": "哎呀～剝給我吃啦～",
+      "JAPANESE": "え〜むいてくださいよ〜",
+      "INDONESIAN": "Ehh~ tolong kupasin dong~",
+      "PORTUGUESE": "Ai, descasca pra mim.",
+      "SPANISH": "Ay, pélela por mí.",
+      "PERSIAN": "آه ~ برای من پوستش کن ~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 잠시만요!",
+      "ENGLISH": "Ah! Hold on a sec!",
+      "CHINESE_SIMPLIFIED": "啊！稍等一下！",
+      "CHINESE_TRADITIONAL": "啊！等一下！",
+      "JAPANESE": "あっ ちょっと待ってください！",
+      "INDONESIAN": "Ah! Bentar ya!",
+      "PORTUGUESE": "Ah! Um momento!",
+      "SPANISH": "¡Ah! ¡Un momento!",
+      "PERSIAN": "آه! یک ثانیه صبر کن"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요!",
+      "ENGLISH": "Here you go!",
+      "CHINESE_SIMPLIFIED": "给！",
+      "CHINESE_TRADITIONAL": "給你！",
+      "JAPANESE": "はい どうぞ！",
+      "INDONESIAN": "Nih, udah~",
+      "PORTUGUESE": "Aqui está.",
+      "SPANISH": "Aquí tiene.",
+      "PERSIAN": "در اینجا شما بروید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "으응~",
+      "ENGLISH": "Mhm~",
+      "CHINESE_SIMPLIFIED": "唔嗯~",
+      "CHINESE_TRADITIONAL": "嗯嗯～",
+      "JAPANESE": "ん〜？",
+      "INDONESIAN": "Mhm~",
+      "PORTUGUESE": "Mmm~",
+      "SPANISH": "Mmm~",
+      "PERSIAN": "مم~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 안 먹을 거예요?",
+      "ENGLISH": "Huh? You’re not gonna eat it?",
+      "CHINESE_SIMPLIFIED": "嗯？你不吃吗？",
+      "CHINESE_TRADITIONAL": "欸？你不吃嗎？",
+      "JAPANESE": "え？食べないんですか？",
+      "INDONESIAN": "Hah? Kamu nggak makan juga?",
+      "PORTUGUESE": "Hã? Você não vai comer?",
+      "SPANISH": "¿Eh? ¿No la va a comer?",
+      "PERSIAN": "ها؟ نمی خوای بخوریش؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "귤락도 떼줘야죠.",
+      "ENGLISH": "You have to take off the pith too.",
+      "CHINESE_SIMPLIFIED": "得把橘络也去掉才行啊",
+      "CHINESE_TRADITIONAL": "橘子蒂要去掉喔",
+      "JAPANESE": "スジも取ってくれなきゃ",
+      "INDONESIAN": "Harus dibersihin juga kulit dalemnya.",
+      "PORTUGUESE": "Também tem que tirar os fiapinhos brancos.",
+      "SPANISH": "También tiene que quitarle las hebras blancas.",
+      "PERSIAN": "شما هم باید قلاب را بردارید."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 29.4
+    },
+    "SCRIPT": {
+      "KOREAN": "귤락이요...?",
+      "ENGLISH": "The… pith?",
+      "CHINESE_SIMPLIFIED": "橘络...？",
+      "CHINESE_TRADITIONAL": "橘子蒂…？",
+      "JAPANESE": "スジ…ですか？",
+      "INDONESIAN": "Kulit… dalem?",
+      "PORTUGUESE": "Os fiapinhos...?",
+      "SPANISH": "¿Las hebras…?",
+      "PERSIAN": "مغز؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 31.6
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요 하얀 거...",
+      "ENGLISH": "Yeah, this white stuff here…",
+      "CHINESE_SIMPLIFIED": "这里，这些白白的东西...",
+      "CHINESE_TRADITIONAL": "這裡，白白的那個…",
+      "JAPANESE": "ここですよ 白いの…",
+      "INDONESIAN": "Iya, yang putih-putih ini nih…",
+      "PORTUGUESE": "Sim, olha, isso branquinho aqui...",
+      "SPANISH": "Sí, mire, esto blanquito...",
+      "PERSIAN": "آره، این چیزهای سفید اینجا…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 32.7,
+      "HIDE": 36.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 네",
+      "ENGLISH": "Ah… okay.",
+      "CHINESE_SIMPLIFIED": "啊...好",
+      "CHINESE_TRADITIONAL": "喔…好",
+      "JAPANESE": "あ…はい",
+      "INDONESIAN": "Ah… oke.",
+      "PORTUGUESE": "Ah... sim.",
+      "SPANISH": "Ah... sí.",
+      "PERSIAN": "آه… باشه."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 48.7,
+      "HIDE": 49.6
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요!",
+      "ENGLISH": "Here you go!",
+      "CHINESE_SIMPLIFIED": "给！",
+      "CHINESE_TRADITIONAL": "來，給你！",
+      "JAPANESE": "どうぞ！",
+      "INDONESIAN": "Nih ya~",
+      "PORTUGUESE": "Aqui está.",
+      "SPANISH": "Aquí tiene.",
+      "PERSIAN": "در اینجا شما بروید!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 50.1,
+      "HIDE": 51.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 51.3,
+      "HIDE": 53.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 54.3,
+      "HIDE": 57.5
+    },
+    "SCRIPT": {
+      "KOREAN": "으음 맛있다~",
+      "ENGLISH": "Mmm, it’s good~",
+      "CHINESE_SIMPLIFIED": "嗯~好吃~",
+      "CHINESE_TRADITIONAL": "嗯～好好吃～",
+      "JAPANESE": "ん〜うま〜い",
+      "INDONESIAN": "Mmm, enak~",
+      "PORTUGUESE": "Mmm, tá uma delícia~",
+      "SPANISH": "Mmm, qué rica está~",
+      "PERSIAN": "ممم، خوبه~"
+    }
+  }
+]

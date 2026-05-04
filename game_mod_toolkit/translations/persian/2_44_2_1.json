@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "초록색이었잖아!",
+      "ENGLISH": "They were green!",
+      "CHINESE_SIMPLIFIED": "是绿色的啊！",
+      "CHINESE_TRADITIONAL": "是綠色的啊！",
+      "JAPANESE": "緑だったじゃん！",
+      "INDONESIAN": "Mereka berwarna hijau!",
+      "PORTUGUESE": "Você sabe que eram verdes!",
+      "SPANISH": "¡Sabes que eran verdes!",
+      "PERSIAN": "سبز بودند!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오~",
+      "ENGLISH": "Oooh~",
+      "CHINESE_SIMPLIFIED": "哦~",
+      "CHINESE_TRADITIONAL": "喔～",
+      "JAPANESE": "お〜",
+      "INDONESIAN": "Oooh~",
+      "PORTUGUESE": "É verdade.",
+      "SPANISH": "Es cierto.",
+      "PERSIAN": "اوه~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 날 뭘로 보고! ",
+      "ENGLISH": "Hey, come on—who do you think I am?!",
+      "CHINESE_SIMPLIFIED": "喂，你把我当什么了！",
+      "CHINESE_TRADITIONAL": "喂！你把我當什麼人啊！",
+      "JAPANESE": "おい、俺をなんだと思ってるんだ！",
+      "INDONESIAN": "Hei, ayolah—menurutmu aku ini siapa?!",
+      "PORTUGUESE": "Por quem você me toma?",
+      "SPANISH": "¿Por quién me tomas?",
+      "PERSIAN": "هی، بیا - فکر می کنی من کی هستم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아, 나 우유만이야!",
+      "ENGLISH": "Mal-sook, I’m Yuman!",
+      "CHINESE_SIMPLIFIED": "末淑啊，我可是吴宥万！",
+      "CHINESE_TRADITIONAL": "末淑，我可是吳宥萬！",
+      "JAPANESE": "マルスク、俺はユマンだぞ！",
+      "INDONESIAN": "Mal-sook, aku Yuman!",
+      "PORTUGUESE": "Sou o grande Yuman!",
+      "SPANISH": "¡Soy el gran Yumán Woo!",
+      "PERSIAN": "مال‌سوک، من یومان هستم!"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 두 번째 질문",
+      "ENGLISH": "Alright, next question—",
+      "CHINESE_SIMPLIFIED": "好，第二个问题——",
+      "CHINESE_TRADITIONAL": "好，第二個問題——",
+      "JAPANESE": "さあ、第二問",
+      "INDONESIAN": "Oke, pertanyaan selanjutnya—",
+      "PORTUGUESE": "Próxima pergunta",
+      "SPANISH": "Siguiente pregunta",
+      "PERSIAN": "خوب، سوال بعدی -"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 제일 좋아하는 스타킹 종류는?",
+      "ENGLISH": "What’s my favorite type of stockings?",
+      "CHINESE_SIMPLIFIED": "我最喜欢的丝袜款式是？",
+      "CHINESE_TRADITIONAL": "我最喜歡的絲襪款式是？",
+      "JAPANESE": "私が一番好きなストッキングの種類は？",
+      "INDONESIAN": "Jenis stoking favorit aku apa?",
+      "PORTUGUESE": "Quais são as minhas meias-calças favoritas?",
+      "SPANISH": "¿Cuáles son pantimedias favoritas?",
+      "PERSIAN": "نوع جوراب مورد علاقه من چیه؟"
+    }
+  }
+]

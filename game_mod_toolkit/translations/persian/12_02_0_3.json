@@ -1,0 +1,351 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨 이 진상은 제가 처리할게요.",
+      "ENGLISH": "Mr. Yoo Jeong, I'll handle this situation.",
+      "CHINESE_SIMPLIFIED": "有情，这闹事的我来处理",
+      "CHINESE_TRADITIONAL": "有情小姐，這個奧客我來處理",
+      "JAPANESE": "ユジョンさん、この迷惑客は僕が対応します。",
+      "INDONESIAN": "Pak Yoo Jeong, saya yang urus ini",
+      "PORTUGUESE": "Yujeong, eu me encarrego..",
+      "SPANISH": "Yujeong, yo me encargo..",
+      "PERSIAN": "آقای یو جونگ، من این وضعیت را اداره می کنم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 유만 님! 잠시만요!",
+      "ENGLISH": "Ah, Mr. A Yoo Man! Just a moment!",
+      "CHINESE_SIMPLIFIED": "啊宥万先生！请稍等！",
+      "CHINESE_TRADITIONAL": "啊，宥萬先生！等一下！",
+      "JAPANESE": "あ、ユマンさん！ちょっと待ってください！",
+      "INDONESIAN": "Ah, Pak Yoo Man! Sebentar saja!",
+      "PORTUGUESE": "Ah, Yumán, espere um momento!",
+      "SPANISH": "Ah, Yumán, ¡espere un momento!",
+      "PERSIAN": "آه، آقای یو من! فقط یک لحظه!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "와 씨...",
+      "ENGLISH": "Damn it...",
+      "CHINESE_SIMPLIFIED": "我去...",
+      "CHINESE_TRADITIONAL": "我靠...",
+      "JAPANESE": "おいおい…",
+      "INDONESIAN": "Sialan...",
+      "PORTUGUESE": "Droga...",
+      "SPANISH": "Maldición...",
+      "PERSIAN": "لعنتی..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "두 분 싸우지 마시고...",
+      "ENGLISH": "You two, stop fighting...",
+      "CHINESE_SIMPLIFIED": "两位别动手...",
+      "CHINESE_TRADITIONAL": "兩位請不要打架啊",
+      "JAPANESE": "二人ともケンカはやめて…",
+      "INDONESIAN": "Kalian berdua, hentikan pertengkaran ini...",
+      "PORTUGUESE": "Por favor, não briguem...",
+      "SPANISH": "Por favor, no peleen...",
+      "PERSIAN": "شما دوتا دست از دعوا بردارید..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까 지금 나랑 맞장 뜨자는 거지?",
+      "ENGLISH": "So you're challenging me to a fight right now?",
+      "CHINESE_SIMPLIFIED": "所以现在是要跟我干架？",
+      "CHINESE_TRADITIONAL": "所以現在是想跟我單挑嗎？",
+      "JAPANESE": "つまり、俺とやり合いたいってことだな？",
+      "INDONESIAN": "Jadi sekarang kamu ngajak ribut ya?",
+      "PORTUGUESE": "Então o que você quer é brigar comigo, né?",
+      "SPANISH": "Así que lo que quieres es pelear conmigo, ¿no?",
+      "PERSIAN": "پس همین الان مرا به مبارزه دعوت می کنی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네 놈은 내가 한방에 보낸다.",
+      "ENGLISH": "I'll take you down in one shot.",
+      "CHINESE_SIMPLIFIED": "我一招就能送你上路",
+      "CHINESE_TRADITIONAL": "我用一招就可以打倒你這傢伙",
+      "JAPANESE": "お前なんか一発で沈めてやる。",
+      "INDONESIAN": "Sekali pukul juga bisa saya tumbangkan",
+      "PORTUGUESE": "Vou te derrubar com um só golpe.",
+      "SPANISH": "Te voy a tumbar de un solo golpe.",
+      "PERSIAN": "من تو را در یک شات پایین می آورم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 이 양반 재밌게 사시네~",
+      "ENGLISH": "Hey, this guy sure knows how to live it up~",
+      "CHINESE_SIMPLIFIED": "哎呀这位大哥真有意思~",
+      "CHINESE_TRADITIONAL": "哇，這大哥挺有趣嘛～",
+      "JAPANESE": "あぁ〜おじさん、面白い生き方してますね！",
+      "INDONESIAN": "Wih, gaya juga nih orang hidupnya~",
+      "PORTUGUESE": "Puxa, senhor, o senhor sabe mesmo como se divertir~",
+      "SPANISH": "Vaya, señor, sí que sabe cómo divertirse~",
+      "PERSIAN": "هی، این مرد مطمئناً می داند که چگونه باید زندگی کند"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오케이 들어와 봐! 한번 들어와 봐!",
+      "ENGLISH": "Okay, come on in! Come on in!",
+      "CHINESE_SIMPLIFIED": "好啊你来！有本事你来啊！",
+      "CHINESE_TRADITIONAL": "好啊你來！有本事你來試試啊",
+      "JAPANESE": "オーケー、来いよ！やってみようじゃん！",
+      "INDONESIAN": "Oke, silakan masuk! Silakan masuk!",
+      "PORTUGUESE": "Tá bom, vem! Vamos, chega aqui!",
+      "SPANISH": "Está bien, ¡ven! ¡Vamos, acércate!",
+      "PERSIAN": "باشه بیا داخل بیا داخل"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 19.9
+    },
+    "SCRIPT": {
+      "KOREAN": "빛보다 빛나는 자여, 심연보다도 깊고 어두운 자여...",
+      "ENGLISH": "One brighter than light, deeper and darker than the abyss...",
+      "CHINESE_SIMPLIFIED": "比光芒更耀眼，比深渊更深更暗之人啊...",
+      "CHINESE_TRADITIONAL": "比光芒更閃耀之人，比深淵更深沉黑暗之人...",
+      "JAPANESE": "光より輝く者、深淵より暗き者よ――",
+      "INDONESIAN": "Lebih terang dari cahaya, lebih dalam dan gelap dari jurang...",
+      "PORTUGUESE": "Oh, luz mais brilhante que a própria luz,",
+      "SPANISH": "Oh, luz más brillante que la luz misma,",
+      "PERSIAN": "یکی روشن تر از نور، عمیق تر و تاریک تر از پرتگاه..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 이게 뭐....!",
+      "ENGLISH": "What the hell is this...!",
+      "CHINESE_SIMPLIFIED": "这什么鬼....！",
+      "CHINESE_TRADITIONAL": "蛤，這什麼鬼...！",
+      "JAPANESE": "な、なんだこりゃ…！",
+      "INDONESIAN": "Apa-apaan ini...!",
+      "PORTUGUESE": "ser mais profundo e escuro que o abismo...",
+      "SPANISH": "ser más profundo y oscuro que el abismo...",
+      "PERSIAN": "این چه جهنمی است...!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 22.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유, 유정 씨...",
+      "ENGLISH": "Yoo, Yoojeong...",
+      "CHINESE_SIMPLIFIED": "有，有情...",
+      "CHINESE_TRADITIONAL": "有、有情...",
+      "JAPANESE": "ユ、ユジョンさん…",
+      "INDONESIAN": "Yoo, Yoojeong...",
+      "PORTUGUESE": "O que... que diabos é isso...?",
+      "SPANISH": "¿Qué... qué demonios es eso...?",
+      "PERSIAN": "یو، یو-جونگ..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이만 나가시죠.",
+      "ENGLISH": "You should leave now.",
+      "CHINESE_SIMPLIFIED": "请现在离开吧",
+      "CHINESE_TRADITIONAL": "到此為止吧！",
+      "JAPANESE": "もう出ましょう。",
+      "INDONESIAN": "Kamu harus pergi sekarang",
+      "PORTUGUESE": "Y-Yujeong...",
+      "SPANISH": "Y-Yujeong...",
+      "PERSIAN": "الان باید بری"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "더 이상 이러시면 경찰에 신고할 거예요.",
+      "ENGLISH": "If you keep this up, I'll call the police.",
+      "CHINESE_SIMPLIFIED": "再这样我真要报警了",
+      "CHINESE_TRADITIONAL": "再這樣我真的要報警了",
+      "JAPANESE": "これ以上は警察に通報しますよ。",
+      "INDONESIAN": "Kalau masih dilanjutin, saya bakal panggil polisi",
+      "PORTUGUESE": "É melhor você ir embora.",
+      "SPANISH": "Será mejor se vaya.",
+      "PERSIAN": "اگه اینو ادامه بدی به پلیس زنگ میزنم"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 32.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 내가 5년만 젊었어도 이렇게 못 막는데 진짜",
+      "ENGLISH": "Ah, if only I were five years younger, I wouldn't have been able to stop this. Seriously.",
+      "CHINESE_SIMPLIFIED": "唉，我要是年轻五岁，哪会被这样拦着，真是",
+      "CHINESE_TRADITIONAL": "唉，我要是再年輕五歲，你們就攔不住我了...真是的",
+      "JAPANESE": "あぁ、俺があと5歳若けりゃ、こんなもん簡単に片付けたのに…",
+      "INDONESIAN": "Ah, kalau saya lima tahun lebih muda, udah nggak bisa saya tahan tadi. Sumpah",
+      "PORTUGUESE": "Se continuar assim, vou chamar a polícia.",
+      "SPANISH": "Si sigue así, llamaré a la policía.",
+      "PERSIAN": "آه، اگر پنج سال کوچکتر بودم، نمی توانستم جلوی این کار را بگیرم. جدی"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너네..아...내가 간다",
+      "ENGLISH": "You guys... Ah... I'm leaving.",
+      "CHINESE_SIMPLIFIED": "你们..哎...我走了",
+      "CHINESE_TRADITIONAL": "你們...哼...我走了",
+      "JAPANESE": "お前ら…あぁ…もう帰る！",
+      "INDONESIAN": "Kalian semua... ah... saya pergi aja",
+      "PORTUGUESE": "Ah, se eu tivesse cinco anos a menos, não a teriam detido tão fácil...",
+      "SPANISH": "Ah, si tuviera cinco años menos, no la habrían detenido tan fácil...",
+      "PERSIAN": "شما بچه ها ... آه ... من می روم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 38.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님 괜찮아요? 어디 다친 데는 없어요?",
+      "ENGLISH": "Mr. Yoo, are you okay? Are you hurt anywhere?",
+      "CHINESE_SIMPLIFIED": "宥万先生没事吗？有没有受伤？",
+      "CHINESE_TRADITIONAL": "宥萬先生，你沒事吧？有沒有受傷？",
+      "JAPANESE": "ユマンさん、大丈夫ですか？どこか怪我してません？",
+      "INDONESIAN": "Pak Yoo, Anda nggak apa-apa? Ada yang sakit?",
+      "PORTUGUESE": "Vocês... ah... melhor eu ir.",
+      "SPANISH": "Ustedes... ah... mejor me voy.",
+      "PERSIAN": "آقای یو، خوبی؟ جایی آسیب دیدی؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 39.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨 괜찮아요 ",
+      "ENGLISH": "No, I'm fine.",
+      "CHINESE_SIMPLIFIED": "啊没事",
+      "CHINESE_TRADITIONAL": "啊，沒事的",
+      "JAPANESE": "いえ、大丈夫です！",
+      "INDONESIAN": "Nggak, saya baik-baik aja",
+      "PORTUGUESE": "Tá tudo bem? Não se machucou em nenhuma parte?",
+      "SPANISH": "¿Está bien? ¿No se lastimó en ninguna parte?",
+      "PERSIAN": "نه من خوبم"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 39.6,
+      "HIDE": 42.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 근데 유정 씨 언제 이렇게 멋있어진 거예요!",
+      "ENGLISH": "But seriously, Mr. Yoo, when did you become so cool?!",
+      "CHINESE_SIMPLIFIED": "不过有情，你什么时候变得这么帅了！",
+      "CHINESE_TRADITIONAL": "不過，有情小姐，你什麼時候變得這麼帥氣啊！",
+      "JAPANESE": "ていうかユジョンさん、いつの間にそんなにかっこよくなったんですか！？",
+      "INDONESIAN": "Tapi serius deh, Pak Yoo, sejak kapan jadi sekeren itu?!",
+      "PORTUGUESE": "Não, tô bem.",
+      "SPANISH": "No, estoy bien.",
+      "PERSIAN": "ولی جدی آقا یو کی اینقدر باحال شدی؟!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 42.6,
+      "HIDE": 46.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 멋있다니... 아, 아니에요 그런 거!",
+      "ENGLISH": "Huh? Cool? Ah, no, not like that!",
+      "CHINESE_SIMPLIFIED": "诶？帅什么...没，没有啦！",
+      "CHINESE_TRADITIONAL": "欸？帥氣什麼的...沒、沒有啦！",
+      "JAPANESE": "えっ？かっこいいって…そ、そんなこと…！",
+      "INDONESIAN": "Hah? Keren? Ah, bukan gitu maksudnya!",
+      "PORTUGUESE": "Mas, Yujeong, desde quando você ficou tão incrível?",
+      "SPANISH": "Pero, Yujeong, ¿desde cuándo te volviste tan genial?",
+      "PERSIAN": "ها؟ باحال؟ آه، نه، اینطوری نیست!"
+    }
+  },
+  {
+    "SCRIPT": {
+      "PORTUGUESE": "Hã? Incrível? N-não, não é isso!",
+      "SPANISH": "¿Eh? ¿Genial? N-no, ¡no es eso!",
+      "PERSIAN": ""
+    }
+  }
+]

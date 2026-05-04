@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 어떻게 해야되지?",
+      "ENGLISH": "Uh… what should I do?",
+      "CHINESE_SIMPLIFIED": "呃，要怎么做呢？",
+      "CHINESE_TRADITIONAL": "呃…要怎麼做呢？",
+      "JAPANESE": "えっと…どうすればいいんだろう？",
+      "INDONESIAN": "Uh... gimana ya caranya?",
+      "PORTUGUESE": "Ahm… o que eu faço?",
+      "SPANISH": "¿Cómo hago esto...?",
+      "PERSIAN": "امم... الان باید چیکار کنم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만요~",
+      "ENGLISH": "Hold on a sec~",
+      "CHINESE_SIMPLIFIED": "稍等一下",
+      "CHINESE_TRADITIONAL": "等一下～",
+      "JAPANESE": "ちょっと待ってくださいね〜",
+      "INDONESIAN": "Tunggu bentar~",
+      "PORTUGUESE": "Espera um pouquinho~",
+      "SPANISH": "A ver...",
+      "PERSIAN": "یه لحظه دندون رو جگر بذارین..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요?",
+      "ENGLISH": "How about now?",
+      "CHINESE_SIMPLIFIED": "怎么样？",
+      "CHINESE_TRADITIONAL": "怎麼樣？",
+      "JAPANESE": "どうですか？",
+      "INDONESIAN": "Gimana?",
+      "PORTUGUESE": "E agora?",
+      "SPANISH": "¿Escucha algo?",
+      "PERSIAN": "الان چطوره؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오...! 들려요!",
+      "ENGLISH": "Oh! I can hear it!",
+      "CHINESE_SIMPLIFIED": "哦哦，听到了！",
+      "CHINESE_TRADITIONAL": "喔…！聽到了！",
+      "JAPANESE": "おお…！聞こえます！",
+      "INDONESIAN": "Oh...! Kedengeran!",
+      "PORTUGUESE": "Ah—! Eu consigo ouvir!",
+      "SPANISH": "¡Sí! ¡Se escucha!",
+      "PERSIAN": "اوه...! صداش میاد!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "지금은 작동이 잘 되나보다.",
+      "ENGLISH": "Looks like it’s working fine now.",
+      "CHINESE_SIMPLIFIED": "现在好像又能用了呢",
+      "CHINESE_TRADITIONAL": "看來現在又正常了",
+      "JAPANESE": "今はちゃんと作動しているみたいですね",
+      "INDONESIAN": "Sekarang kayaknya udah jalan normal.",
+      "PORTUGUESE": "Parece que tá funcionando bem agora.",
+      "SPANISH": "Creo que está arreglado.",
+      "PERSIAN": "خداروشکر، سالمه کار می‌کنه."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "확인 고마워요.",
+      "ENGLISH": "Thanks for checking.",
+      "CHINESE_SIMPLIFIED": "谢谢您的配合",
+      "CHINESE_TRADITIONAL": "謝謝你幫忙確認",
+      "JAPANESE": "確認ありがとうございます",
+      "INDONESIAN": "Terima kasih ya udah bantu cek.",
+      "PORTUGUESE": "Valeu por conferir.",
+      "SPANISH": "Gracias por su ayuda.",
+      "PERSIAN": "ممنون که تستش کردی."
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮으세요? ",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "你还好吗？",
+      "CHINESE_TRADITIONAL": "還好嗎？",
+      "JAPANESE": "大丈夫ですか?",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Está tudo bem?",
+      "SPANISH": "¿Está bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저 잠시만요.",
+      "ENGLISH": "Just a sec—",
+      "CHINESE_SIMPLIFIED": "稍微来一下可以吗",
+      "CHINESE_TRADITIONAL": "那個，請等一下",
+      "JAPANESE": "俺 ちょっと…",
+      "INDONESIAN": "Bentar ya—",
+      "PORTUGUESE": "Me dá um instante.",
+      "SPANISH": "Deme un momento.",
+      "PERSIAN": "فقط یک ثانیه -"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "앗 죄, 죄송해요!",
+      "ENGLISH": "Ah! S-sorry!",
+      "CHINESE_SIMPLIFIED": "啊抱歉，对不起！",
+      "CHINESE_TRADITIONAL": "啊，對、對不起！",
+      "JAPANESE": "あっ ご、ごめんなさい!",
+      "INDONESIAN": "Ah! M-maaf!",
+      "PORTUGUESE": "Ah! D-desculpa!",
+      "SPANISH": "¡Ah! Lo… lo siento mucho.",
+      "PERSIAN": "آه! -ببخشید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "땀 흘리시는데 닦아드리면 좋을 거 같아서..",
+      "ENGLISH": "You were sweating, so I thought I’d wipe it for you...",
+      "CHINESE_SIMPLIFIED": "我看你出汗了，觉得帮你擦一下会好些...",
+      "CHINESE_TRADITIONAL": "我看您在流汗，想說幫您擦一下比較好…",
+      "JAPANESE": "汗かいてらしたから 拭いてあげた方がいいかなって…",
+      "INDONESIAN": "Kamu tadi keringetan, jadi aku kira mau aku lapin...",
+      "PORTUGUESE": "Vi que você tava suando e só queria te secar um pouco...",
+      "SPANISH": "Vi que estaba sudando y sol quería secarla un poco…",
+      "PERSIAN": "عرق کرده بودی، فکر کردم برایت پاکش کنم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 그럼 이쪽도 닦아줄래요?",
+      "ENGLISH": "Oh... then can you wipe this side too?",
+      "CHINESE_SIMPLIFIED": "啊...那这边也帮我擦一下吧？",
+      "CHINESE_TRADITIONAL": "啊…那這邊也幫我擦一下，好嗎？",
+      "JAPANESE": "あ…じゃあこっちも拭いてくれます?",
+      "INDONESIAN": "Oh... kalau gitu bisa lapin sisi satunya juga?",
+      "PORTUGUESE": "Ah... então poderia me secar desse lado também?",
+      "SPANISH": "Ah… ¿entonces podría secarme de este lado también?",
+      "PERSIAN": "اوه... پس میشه این طرف رو هم پاک کنی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "안 닦아줄 거예요?",
+      "ENGLISH": "You’re not gonna wipe it?",
+      "CHINESE_SIMPLIFIED": "不帮我擦吗？",
+      "CHINESE_TRADITIONAL": "你不幫我擦嗎？",
+      "JAPANESE": "拭いてくれないんですか?",
+      "INDONESIAN": "Nggak mau dilapin?",
+      "PORTUGUESE": "Isso é um não?",
+      "SPANISH": "¿Eso es un no?",
+      "PERSIAN": "نمیخوای پاکش کنی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 다 닦인 거 같아요.",
+      "ENGLISH": "I think it’s all wiped now.",
+      "CHINESE_SIMPLIFIED": "现在好像都擦干净了呢",
+      "CHINESE_TRADITIONAL": "我想應該都擦乾淨了",
+      "JAPANESE": "もう全部拭けたみたいですね",
+      "INDONESIAN": "Kayaknya udah bersih semua deh.",
+      "PORTUGUESE": "Acho que é só isso.",
+      "SPANISH": "Creo que eso es todo.",
+      "PERSIAN": "فکر کنم الان همه چی پاک شده"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요, 유만 씨!",
+      "ENGLISH": "Thanks, Yuman!",
+      "CHINESE_SIMPLIFIED": "谢谢您，宥万先生！",
+      "CHINESE_TRADITIONAL": "謝謝你，宥萬先生！",
+      "JAPANESE": "ありがとう ユマンさん!",
+      "INDONESIAN": "Makasih ya, Yuman!",
+      "PORTUGUESE": "Obrigada, senhor Yuman.",
+      "SPANISH": "Gracias, Señor Yumán.",
+      "PERSIAN": "ممنونم، یومان!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 35.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 진료실로 이동할까요?",
+      "ENGLISH": "Shall we head to the treatment room?",
+      "CHINESE_SIMPLIFIED": "我们现在去诊疗室吧？",
+      "CHINESE_TRADITIONAL": "我們現在去診間吧？",
+      "JAPANESE": "じゃあ診察室に移動しましょうか",
+      "INDONESIAN": "Kita ke ruang perawatan sekarang?",
+      "PORTUGUESE": "Vamos pra sala de tratamento?",
+      "SPANISH": "¿Vamos a la sala de tratamiento?",
+      "PERSIAN": "به اتاق درمان برویم؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.3,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "好的",
+      "CHINESE_TRADITIONAL": "好的",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Claro.",
+      "SPANISH": "Claro.",
+      "PERSIAN": "آره"
+    }
+  }
+]

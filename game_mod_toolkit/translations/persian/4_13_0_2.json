@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "와~ 너무 잘 어울려요!",
+      "ENGLISH": "Wow~ it looks amazing on you!",
+      "CHINESE_SIMPLIFIED": "哇~这发型超级适合你的！",
+      "CHINESE_TRADITIONAL": "什麼啊！超適合妳的耶！",
+      "JAPANESE": "何ですか〜、すごく似合ってるじゃないですか！",
+      "INDONESIAN": "Wow~ kamu keliatan keren banget!",
+      "PORTUGUESE": "OMG! Ficou perfeito!",
+      "SPANISH": "¡OMG! ¡Te queda perfecto!",
+      "PERSIAN": "وای ~ به نظر شما شگفت انگیز است!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.81,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "엄청 어색해요...",
+      "ENGLISH": "It feels so awkward…",
+      "CHINESE_SIMPLIFIED": "总觉得好不习惯...",
+      "CHINESE_TRADITIONAL": "我不是很習慣...",
+      "JAPANESE": "すごくぎこちないです…",
+      "INDONESIAN": "Rasanya aneh banget…",
+      "PORTUGUESE": "Se sente meio estranho...",
+      "SPANISH": "Se siente demasiado raro...",
+      "PERSIAN": "خیلی احساس ناخوشایندی داره…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어우, 아니에요! 민정 님 역시 센스 짱! 우후~!",
+      "ENGLISH": "No way! Min-jung, your sense is incredible! Woohoo~!",
+      "CHINESE_SIMPLIFIED": "哎呦，不会啊！敏静果然品味超赞！呜呼~！",
+      "CHINESE_TRADITIONAL": "哎呀，不會啦！很好看，敏靜超有Sense～！",
+      "JAPANESE": "いやいや！ミンジョンさん、やっぱりセンス抜群！お〜！",
+      "INDONESIAN": "Ah masa~! Min-jung, selera kamu emang luar biasa! Wuhuu~!",
+      "PORTUGUESE": "Ai, nada disso! Minjung, você manda muito bem nisso! Slaaay~!",
+      "SPANISH": "¡Ay, para nada! ¡Minjung, esto se te da muy bien! ¡Slaaay~!",
+      "PERSIAN": "به هیچ وجه! مین‌جونگ، حس تو باور نکردنیه! وووو ~!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘요...",
+      "ENGLISH": "Oh, it’s nothing…",
+      "CHINESE_SIMPLIFIED": "哪有...",
+      "CHINESE_TRADITIONAL": "沒什麼啦...",
+      "JAPANESE": "いやそんな…",
+      "INDONESIAN": "Ah, biasa aja kok…",
+      "PORTUGUESE": "Não é nada...",
+      "SPANISH": "No es nada...",
+      "PERSIAN": "اوه چیزی نیست…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "머리 감사해요...",
+      "ENGLISH": "Thanks for doing my hair…",
+      "CHINESE_SIMPLIFIED": "谢谢您帮我弄发型...",
+      "CHINESE_TRADITIONAL": "謝謝妳幫我弄頭髮...",
+      "JAPANESE": "髪、ありがとうございます…",
+      "INDONESIAN": "Makasih ya udah iketin rambutku…",
+      "PORTUGUESE": "Obrigada pelo cabelo...",
+      "SPANISH": "Gracias por peinarme...",
+      "PERSIAN": "مرسی که موهامو درست کردی…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 이제 출근 준비 하자.",
+      "ENGLISH": "Yuman, let’s get ready for work now.",
+      "CHINESE_SIMPLIFIED": "吴宥万，我们该准备去上班了",
+      "CHINESE_TRADITIONAL": "吳宥萬先生，你要準備上班了吧",
+      "JAPANESE": "ウ・ユマンさん、そろそろ出勤の準備しましょう",
+      "INDONESIAN": "Yuman, ayo siap-siap kerja sekarang.",
+      "PORTUGUESE": "Yuman, precisamos nos preparar pra ir trabalhar.",
+      "SPANISH": "Yumán, hay que prepararnos para ir a trabajar.",
+      "PERSIAN": "یومان، بیا الان برای کار آماده شویم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다. 여러분 저 출근 준비 해야 돼서 이따 뵐게요",
+      "ENGLISH": "Ah, right. Everyone, I have to head to work, so I’ll see you later.",
+      "CHINESE_SIMPLIFIED": "啊对了，各位我得去上班了，待会儿见",
+      "CHINESE_TRADITIONAL": "對欸。各位，我得出門去上班了，晚一點見",
+      "JAPANESE": "あ、そうだ　みんな、俺もう会社行かなきゃだから、また後で",
+      "INDONESIAN": "Ah, iya. Semuanya, aku berangkat kerja dulu ya, sampai ketemu nanti.",
+      "PORTUGUESE": "Ah, verdade. Meninas, tenho que ir. Até mais.",
+      "SPANISH": "Ah, cierto. Chicas, tengo que irme. Nos vemos luego.",
+      "PERSIAN": "آه، درست است. همه، من باید به سر کار بروم، پس شما را بعدا می بینم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 잘 다녀와요!",
+      "ENGLISH": "Oppa, have a good day at work!",
+      "CHINESE_SIMPLIFIED": "哥哥路上小心！",
+      "CHINESE_TRADITIONAL": "哥哥，路上小心！",
+      "JAPANESE": "いってらっしゃい！",
+      "INDONESIAN": "Oppa, semangat kerja ya!",
+      "PORTUGUESE": "Oppa, boa sorte!",
+      "SPANISH": "¡Oppa, que te vaya bien!",
+      "PERSIAN": "یومان، روز خوبی در محل کار داشته باشید!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "다녀오세요...",
+      "ENGLISH": "You too… take care.",
+      "CHINESE_SIMPLIFIED": "路上小心...",
+      "CHINESE_TRADITIONAL": "路上小心...",
+      "JAPANESE": "いってらっしゃ〜い",
+      "INDONESIAN": "Kamu juga… jaga diri baik-baik.",
+      "PORTUGUESE": "Vá com cuidado...",
+      "SPANISH": "Vaya con cuidado…",
+      "PERSIAN": "تو هم... مواظب خودت باش"
+    }
+  }
+]

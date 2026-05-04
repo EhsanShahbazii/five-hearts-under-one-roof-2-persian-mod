@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "역시 박민정은 신이야...",
+      "ENGLISH": "Park Min-jung really is a goddess...",
+      "CHINESE_SIMPLIFIED": "果然朴敏静就是女神啊...",
+      "CHINESE_TRADITIONAL": "樸敏靜果然是我的女神…",
+      "JAPANESE": "やっぱりパク・ミンジョンは神だ…",
+      "INDONESIAN": "Park Min-jung benar-benar seorang dewi...",
+      "PORTUGUESE": "Definitivamente, a Minjung é uma deusa...",
+      "SPANISH": "Definitivamente Minjung es una diosa...",
+      "PERSIAN": "پارک مین‌جونگ واقعا یک الهه است..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "신?",
+      "ENGLISH": "A goddess?",
+      "CHINESE_SIMPLIFIED": "女神？",
+      "CHINESE_TRADITIONAL": "女神？",
+      "JAPANESE": "神？",
+      "INDONESIAN": "Seorang dewi?",
+      "PORTUGUESE": "Uma deusa?",
+      "SPANISH": "¿Una diosa?",
+      "PERSIAN": "الهه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 솔직히 ",
+      "ENGLISH": "Seriously!",
+      "CHINESE_SIMPLIFIED": "不是，说实话",
+      "CHINESE_TRADITIONAL": "也不是啦，老實說",
+      "JAPANESE": "いや、正直",
+      "INDONESIAN": "Dengan serius!",
+      "PORTUGUESE": "Mas falando sério...",
+      "SPANISH": "Pero en serio...",
+      "PERSIAN": "جدی!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "살은 더 안 빼셔도 충분히 말랐는데",
+      "ENGLISH": "She was already super slim, ",
+      "CHINESE_SIMPLIFIED": "她之前明明已经够瘦了",
+      "CHINESE_TRADITIONAL": "她之前明明就已經很瘦了",
+      "JAPANESE": "もうこれ以上痩せなくても十分細いのに、",
+      "INDONESIAN": "Dia sudah sangat langsing,",
+      "PORTUGUESE": "Ela já era bem magra,",
+      "SPANISH": "Ya estaba bastante delgada",
+      "PERSIAN": "او قبلاً فوق العاده لاغر بود،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그새 살을 더 빼신 거 같더라고.",
+      "ENGLISH": "But it looks like she lost even more weight.",
+      "CHINESE_SIMPLIFIED": "感觉这段时间又瘦了不少呢",
+      "CHINESE_TRADITIONAL": "感覺這段時間又瘦了不少",
+      "JAPANESE": "またちょっと痩せた気がする",
+      "INDONESIAN": "Namun tampaknya berat badannya malah turun lebih banyak lagi.",
+      "PORTUGUESE": "não sei como conseguiu emagrecer ainda mais.",
+      "SPANISH": "y no sé como logró perder más peso aún.",
+      "PERSIAN": "اما به نظر می رسد که او حتی وزن بیشتری از دست داده است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "걍 미모가 끝장이야, 끝장!",
+      "ENGLISH": "And that face? Just... next level. Totally unreal.",
+      "CHINESE_SIMPLIFIED": "而且她的美貌真是绝了，无敌！",
+      "CHINESE_TRADITIONAL": "而且她真的美到極點！",
+      "JAPANESE": "美貌がもう反則級 マジでやばい",
+      "INDONESIAN": "Dan wajah itu? Benar-benar... luar biasa. Benar-benar tak nyata.",
+      "PORTUGUESE": "A beleza dela tá em outro nível, é uma loucura!",
+      "SPANISH": "Su belleza está a otro nivel, ¡es una locura!",
+      "PERSIAN": "و اون چهره؟ فقط... سطح بعدی. کاملا غیر واقعی"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그 정도 아니지 않나?",
+      "ENGLISH": "Isn’t that a little much?",
+      "CHINESE_SIMPLIFIED": "我觉得倒也不至于那种程度？",
+      "CHINESE_TRADITIONAL": "還不到那種程度吧？",
+      "JAPANESE": "いや、そこまでじゃなくない？",
+      "INDONESIAN": "Bukankah itu agak berlebihan?",
+      "PORTUGUESE": "Pra mim, nem é tudo isso...",
+      "SPANISH": "A mí no me parece para tanto...",
+      "PERSIAN": "این کمی زیاد نیست؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 잘 모르겠어요...",
+      "ENGLISH": "Honestly, I can’t even tell anymore...",
+      "CHINESE_SIMPLIFIED": "我也不太懂...",
+      "CHINESE_TRADITIONAL": "我是不太懂...",
+      "JAPANESE": "私もよく分かりません…",
+      "INDONESIAN": "Sejujurnya, aku bahkan tidak bisa mengatakannya lagi...",
+      "PORTUGUESE": "Não entendo mesmo.",
+      "SPANISH": "De verdad no lo entiendo",
+      "PERSIAN": "راستش دیگه نمیتونم بگم..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그쵸! ",
+      "ENGLISH": "Right?! ",
+      "CHINESE_SIMPLIFIED": "对吧！",
+      "CHINESE_TRADITIONAL": "對吧！",
+      "JAPANESE": "でしょ！",
+      "INDONESIAN": "Benar?! ",
+      "PORTUGUESE": "Exato!",
+      "SPANISH": "¡Exacto!",
+      "PERSIAN": "درسته؟!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 진짜 모르겠다니까요?",
+      "ENGLISH": "Same goes for me—I seriously can’t tell!",
+      "CHINESE_SIMPLIFIED": "我也说真的理解不了",
+      "CHINESE_TRADITIONAL": "我也完全不懂！",
+      "JAPANESE": "私も全然わかんないんですよ〜",
+      "INDONESIAN": "Hal yang sama juga terjadi padaku—aku sungguh tidak bisa mengatakannya!",
+      "PORTUGUESE": "Eu também não entendo!",
+      "SPANISH": "¡Yo tampoco lo entiendo!",
+      "PERSIAN": "در مورد من هم همینطور - جدی نمی توانم بگویم!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "확실히 예쁘면 적이 많아... 으휴...",
+      "ENGLISH": "Guess it’s true what they say... the prettier you are, the more haters you get. Ugh...",
+      "CHINESE_SIMPLIFIED": "果然长得漂亮就是容易招人忌啊...",
+      "CHINESE_TRADITIONAL": "長得漂亮容易招人嫉妒…唉...",
+      "JAPANESE": "確かに、綺麗だと敵も多いよね…ふう…",
+      "INDONESIAN": "Kurasa benar kata mereka... semakin cantik kamu, semakin banyak pembencimu. Ugh...",
+      "PORTUGUESE": "Quando alguém é bonita assim, sempre aparecem as invejosas...",
+      "SPANISH": "Cuando eres tan bonita, la faltan las envidiosas...",
+      "PERSIAN": "حدس بزنید درست است آنچه اونا می گویند ... هر چه زیباتر باشید، نفرت بیشتری خواهید داشت. اوه..."
+    }
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 1.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 응원해 줄래.",
+      "ENGLISH": "Then… would you still cheer for me?",
+      "CHINESE_SIMPLIFIED": "那我也会支持你的",
+      "JAPANESE": "じゃあ応援してくれる？",
+      "INDONESIAN": "Terus… kamu masih bakal dukung aku nggak?",
+      "PORTUGUESE": "Então… você me apoiaria?",
+      "SPANISH": "Entonces… ¿me apoyarías?",
+      "PERSIAN": "بعد… هنوز برای من تشویق می کنی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 가슴 엄청 파인 옷이거나",
+      "ENGLISH": "Huh? Even if I wore something with a super low-cut chest,",
+      "CHINESE_SIMPLIFIED": "哦？就算是深V开到肚脐的款",
+      "JAPANESE": "谷間が見える服とか",
+      "INDONESIAN": "Hah? Meskipun aku pakai baju yang belahannya super rendah,",
+      "PORTUGUESE": "Hã? Mesmo que eu usasse algo com um decote enorme",
+      "SPANISH": "¿Eh? ¿Aunque use algo con un escote enorme",
+      "PERSIAN": "ها؟ حتی اگر چیزی با سینه‌ای بسیار کوتاه بپوشم،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "팬티 같은 바지를 입었다고 해도?",
+      "ENGLISH": "or shorts that are basically like underwear?",
+      "CHINESE_SIMPLIFIED": "或者像内裤一样的短裤？",
+      "JAPANESE": "パンツみたいなズボンを着ることになっても？",
+      "INDONESIAN": "atau celana pendek yang udah kayak daleman?",
+      "PORTUGUESE": "ou de roupa íntima?",
+      "SPANISH": "o en ropa interior?",
+      "PERSIAN": "یا شورت که اساسا شبیه لباس زیر است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 그게 너의 일인데 응원해줘야지",
+      "ENGLISH": "Of course — it’s your job, so I should support you.",
+      "CHINESE_SIMPLIFIED": "那也是你的工作啊，我当然得支持你",
+      "JAPANESE": "それでも、それが君の仕事なら応援するよ",
+      "INDONESIAN": "Ya jelas — itu kan kerjaan kamu, jadi aku harus dukung dong.",
+      "PORTUGUESE": "Claro, se é o seu trabalho, tenho que te apoiar.",
+      "SPANISH": "Claro, si es tu trabajo, tengo que apoyarte.",
+      "PERSIAN": "البته - این کار شماست، بنابراین من باید از شما حمایت کنم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 우유만...",
+      "ENGLISH": "…What the heck, Wooyooman…",
+      "CHINESE_SIMPLIFIED": "什么啊，吴宥万...",
+      "JAPANESE": "なにそれウユマン…",
+      "INDONESIAN": "…Apaan sih, Wooyooman…",
+      "PORTUGUESE": "Você tá falando sério, Yumán…?",
+      "SPANISH": "¿Hablas en serio Yumán…?",
+      "PERSIAN": "... چه لعنتی، وویومن…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그리고 어? 내가 뭐 입지 말라면 안 입을 거야?",
+      "ENGLISH": "And hey — if I told you not to wear something, would you actually not wear it?",
+      "CHINESE_SIMPLIFIED": "而且，难道我说别穿你就不穿了？",
+      "JAPANESE": "じゃあ、な、着ないでって言ったら、着ないのか？",
+      "INDONESIAN": "Dan eh — kalau aku bilang jangan pakai baju itu, kamu bakal nurut?",
+      "PORTUGUESE": "Se eu dissesse pra você não usar isso, você me ouviria?",
+      "SPANISH": "¿Si te dijera que no usaras eso, me harías caso?",
+      "PERSIAN": "و هی - اگر به شما بگویم چیزی نپوشید، در واقع اونو نمی پوشید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어차피 너 하고 싶은 대로 입을 거 잖아!",
+      "ENGLISH": "You’d wear whatever you want anyway!",
+      "CHINESE_SIMPLIFIED": "反正你最后还不是会穿你想穿的！",
+      "JAPANESE": "どうせ、自分のやりたいようにやるだろ！",
+      "INDONESIAN": "Kamu juga bakal tetap pakai yang kamu mau, kan!",
+      "PORTUGUESE": "De qualquer jeito, você vai acabar usando.",
+      "SPANISH": "Igual vas a ponértelo",
+      "PERSIAN": "به هر حال هر چه بخواهی می پوشی!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 21.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 너가 싫다 해도 난 입을 거긴 해~",
+      "ENGLISH": "Well yeah — even if you said no, I’m still gonna wear it~",
+      "CHINESE_SIMPLIFIED": "也是，就算你反对我也照样会穿~",
+      "JAPANESE": "あんたが反対しても、私はきっと着ちゃうと思う",
+      "INDONESIAN": "Ya iyalah — meskipun kamu bilang nggak, aku tetap bakal pakai~",
+      "PORTUGUESE": "Bom, mesmo que você não goste, eu usaria do mesmo jeito~",
+      "SPANISH": "Bueno, aunque no te guste, igual lo usaría~",
+      "PERSIAN": "خب آره - حتی اگر نه گفتی، باز هم می‌پوشمش"
+    }
+  }
+]

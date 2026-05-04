@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 싫어.",
+      "ENGLISH": "Ugh, I don’t want to.",
+      "CHINESE_SIMPLIFIED": "我不同意",
+      "CHINESE_TRADITIONAL": "我不同意",
+      "JAPANESE": "やだ",
+      "INDONESIAN": "Ugh, aku nggak mau.",
+      "PORTUGUESE": "Não gosto.",
+      "SPANISH": "No me gusta.",
+      "PERSIAN": "اوه، من نمی خواهم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "왜~ 일이잖아~",
+      "ENGLISH": "Why not~? It’s work~",
+      "CHINESE_SIMPLIFIED": "为什么~这是工作啊~",
+      "CHINESE_TRADITIONAL": "為什麼～這是工作啊～",
+      "JAPANESE": "どうして〜仕事でしょ〜",
+      "INDONESIAN": "Kenapaa~? Ini kan kerjaan~",
+      "PORTUGUESE": "Ai, por quê~? É trabalho~!",
+      "SPANISH": "Ay, ¿por qué~? ¡Si es trabajo~!",
+      "PERSIAN": "چرا نه ~ کار است~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그래도 싫어.",
+      "ENGLISH": "Still, I don’t want to.",
+      "CHINESE_SIMPLIFIED": "不行就是不行",
+      "CHINESE_TRADITIONAL": "不行就是不行",
+      "JAPANESE": "それでもやだ",
+      "INDONESIAN": "Tetap aja, aku nggak mau.",
+      "PORTUGUESE": "Mesmo assim, não gosto.",
+      "SPANISH": "Igual no me gusta.",
+      "PERSIAN": "با این حال، من نمی خواهم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 싫다는 건데~",
+      "ENGLISH": "Why do you hate it so much~?",
+      "CHINESE_SIMPLIFIED": "为什么这么不行啊",
+      "CHINESE_TRADITIONAL": "為什麼不行",
+      "JAPANESE": "なんでそんなに嫌なの〜",
+      "INDONESIAN": "Kenapa sih kamu benci banget~?",
+      "PORTUGUESE": "Por que isso te incomoda tanto~?",
+      "SPANISH": "¿Por qué te molesta tanto~?",
+      "PERSIAN": "چرا اینقدر ازش متنفری~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그냥 안 하면 안 돼?",
+      "ENGLISH": "Can’t I just not do it?",
+      "CHINESE_SIMPLIFIED": "不接这种工作不行吗？",
+      "CHINESE_TRADITIONAL": "不接這種工作不行嗎？",
+      "JAPANESE": "やめちゃダメ？",
+      "INDONESIAN": "Nggak boleh ya aku nolak?",
+      "PORTUGUESE": "Você não pode simplesmente deixar pra lá?",
+      "SPANISH": "¿No puedes simplemente no hacerlo?",
+      "PERSIAN": "نمی توانم اونو انجام ندهم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그니까 왜 싫다는 거냐고",
+      "ENGLISH": "I’m asking why you hate it that much.",
+      "CHINESE_SIMPLIFIED": "所以到底为什么这么讨厌啊",
+      "CHINESE_TRADITIONAL": "所以到底為什麼這麼討厭啊",
+      "JAPANESE": "だから、なんでそんなに嫌なのかって聞いてるの",
+      "INDONESIAN": "Aku nanya, kenapa kamu sebenci itu.",
+      "PORTUGUESE": "Tô perguntando, por que isso te incomoda tanto?",
+      "SPANISH": "Te pregunto, ¿por qué te molesta tanto?",
+      "PERSIAN": "میپرسم چرا اینقدر ازش متنفری"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 다 보이잖아!",
+      "ENGLISH": "Because everyone can see!",
+      "CHINESE_SIMPLIFIED": "都会被人看光啊！",
+      "CHINESE_TRADITIONAL": "會被看光光啊！",
+      "JAPANESE": "あ、全部見えちゃうから！",
+      "INDONESIAN": "Soalnya semua orang bisa liat!",
+      "PORTUGUESE": "Porque dá pra ver tudo!",
+      "SPANISH": "¡Porque se te ve todo!",
+      "PERSIAN": "چون همه می توانند ببینند!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "일이고 뭐고 다른 사람들이",
+      "ENGLISH": "It’s work or whatever, but other people",
+      "CHINESE_SIMPLIFIED": "什么工作不工作的",
+      "CHINESE_TRADITIONAL": "什麼工作不工作的",
+      "JAPANESE": "仕事とか関係なく、他の人が",
+      "INDONESIAN": "Ini emang kerjaan atau apalah, tapi orang lain",
+      "PORTUGUESE": "Trabalho ou não, pensar que outras pessoas",
+      "SPANISH": "Trabajo o no, pensar que otras personas",
+      "PERSIAN": "این کار یا هر چیز دیگری است، اما افراد دیگر"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네 몸 보고 막 좋아하는 거 아 난 싫어",
+      "ENGLISH": "seeing your body and liking it—ugh, I hate it.",
+      "CHINESE_SIMPLIFIED": "想到别人盯着你身体看我就受不了",
+      "CHINESE_TRADITIONAL": "想到別人盯著你的身體看我就受不了",
+      "JAPANESE": "君のこと見て喜ぶのが嫌なんだ",
+      "INDONESIAN": "liat badan kamu terus suka—ugh, aku nggak suka.",
+      "PORTUGUESE": "vão olhar pro seu corpo e se empolgar… isso eu não gosto.",
+      "SPANISH": "van a mirar tu cuerpo y emocionarse... eso no me gusta.",
+      "PERSIAN": "دیدن بدن شما و دوست داشتن اون - اوه، من از اون متنفرم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 19.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 어이 없네",
+      "ENGLISH": "Wow, unbelievable.",
+      "CHINESE_SIMPLIFIED": "哎，真是搞不懂你",
+      "CHINESE_TRADITIONAL": "欸，搞不懂你耶",
+      "JAPANESE": "はぁ？意味わかんない",
+      "INDONESIAN": "Wah, nggak nyangka.",
+      "PORTUGUESE": "Ai, não acredito.",
+      "SPANISH": "Ay, no puedo creerlo.",
+      "PERSIAN": "عجب باور نکردنی"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 일인데 왜 그러냐~!",
+      "ENGLISH": "It’s just work, what’s the big deal~!",
+      "CHINESE_SIMPLIFIED": "只是工作而已，干嘛这样~！",
+      "CHINESE_TRADITIONAL": "只是一個工作而已，幹嘛這樣～！",
+      "JAPANESE": "仕事なのに、どうしてよ〜？",
+      "INDONESIAN": "Ini kan cuma kerjaan, emang kenapa sih~!",
+      "PORTUGUESE": "Se é só trabalho, por que você fica assim~?!",
+      "SPANISH": "¡Si solo es trabajo, ¿por qué te pones así~?!",
+      "PERSIAN": "این فقط کار است، چه چیز مهمی است~!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아무튼 난 싫어 안 돼.",
+      "ENGLISH": "Anyway, I said no. I don’t like it.",
+      "CHINESE_SIMPLIFIED": "反正我不同意，不准接",
+      "CHINESE_TRADITIONAL": "反正我不同意，不準接",
+      "JAPANESE": "とにかくやだ、ダメ",
+      "INDONESIAN": "Pokoknya aku bilang nggak. Aku nggak suka.",
+      "PORTUGUESE": "De qualquer forma, não gosto.",
+      "SPANISH": "De todas formas, no me gusta.",
+      "PERSIAN": "به هر حال گفتم نه. من اونو دوست ندارم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.4,
+      "HIDE": 28.6
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어~",
+      "ENGLISH": "Fine~",
+      "CHINESE_SIMPLIFIED": "知道啦~",
+      "CHINESE_TRADITIONAL": "知道了啦～",
+      "JAPANESE": "わかった〜",
+      "INDONESIAN": "Yaudah deh~",
+      "PORTUGUESE": "Tá bom~",
+      "SPANISH": "Está bien~",
+      "PERSIAN": "خوب ~"
+    }
+  }
+]

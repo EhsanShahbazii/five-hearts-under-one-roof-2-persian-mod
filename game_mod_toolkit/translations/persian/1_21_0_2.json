@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저... ",
+      "ENGLISH": "Um…",
+      "CHINESE_SIMPLIFIED": "那个...",
+      "CHINESE_TRADITIONAL": "那個...",
+      "JAPANESE": "あの…",
+      "INDONESIAN": "Saya...",
+      "PORTUGUESE": "Um…",
+      "SPANISH": "Yo...",
+      "PERSIAN": "راستش..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네 말씀하세요.",
+      "ENGLISH": "Yes? Go ahead.",
+      "CHINESE_SIMPLIFIED": "嗯，请说吧",
+      "CHINESE_TRADITIONAL": "嗯，請說吧",
+      "JAPANESE": "はい、どうぞおっしゃってください。",
+      "INDONESIAN": "Ya, silakan bicara.",
+      "PORTUGUESE": "Sim? Pode falar.",
+      "SPANISH": "Sí, dígame.",
+      "PERSIAN": "بله، بفرمایید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 선생님이 궁금한데요.",
+      "ENGLISH": "I… I’m curious about you, doctor.",
+      "CHINESE_SIMPLIFIED": "我对医生有点好奇",
+      "CHINESE_TRADITIONAL": "我對醫生你很好奇",
+      "JAPANESE": "先生のことが気になるんですが",
+      "INDONESIAN": "Saya penasaran dengan dokter.",
+      "PORTUGUESE": "Eu… eu tenho curiosidade sobre você, doutor.",
+      "SPANISH": "Tengo curiosodad sobre usted.",
+      "PERSIAN": "راستش... درباره خودتون کنجکاوم، خانم دکتر."
+    }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "역시 제대로 풀어 드리려면 안마기가 낫죠.",
+      "ENGLISH": "Honestly, I think a massage gun might be better for really loosening it up.",
+      "CHINESE_SIMPLIFIED": "果然要好好放松的话，还是得用按摩仪呢",
+      "CHINESE_TRADITIONAL": "要徹底放鬆的話，還是用按摩機比較好吧",
+      "INDONESIAN": "Jujur aja, kayaknya pake massage gun bakal lebih manjur buat ngelonggarin ototnya.",
+      "PORTUGUESE": "Definitivamente, pra fazer direito, seria melhor usar um massageador.",
+      "SPANISH": "Definitivamente, para hacerlo bien, sería mejor usar un masajeador.",
+      "PERSIAN": "راستش، من فکر می کنم یک تفنگ ماساژ ممکنه برای شل کردن اون بهتر باشد."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "애매하게 하니까 간지러운 거 같아요!",
+      "ENGLISH": "The way I’m doing it now kinda just... tickles.",
+      "CHINESE_SIMPLIFIED": "这样按得不轻不重的，反而有点痒呢",
+      "CHINESE_TRADITIONAL": "這樣不輕不重的反而有點癢！",
+      "INDONESIAN": "Soalnya cara aku mijet sekarang tuh... rasanya malah kayak geli-geli doang.",
+      "PORTUGUESE": "Do jeito que tá, só dá cócegas.",
+      "SPANISH": "Haciéndolo a medias, solo me da cosquillas.",
+      "PERSIAN": "روشی که الان دارم انجامش می دهم به نوعی... قلقلک می دهد."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "좀… 차라리 세게 해 주면 안 돼요?",
+      "ENGLISH": "Then—can you go a bit harder?",
+      "CHINESE_SIMPLIFIED": "能不能...稍微用力点啊？",
+      "CHINESE_TRADITIONAL": "還是…力道可以再大一點嗎？",
+      "INDONESIAN": "Kalau gitu—bisa agak ditekan lagi nggak?",
+      "PORTUGUESE": "Então... pode apertar um pouquinho mais?",
+      "SPANISH": "Entonces... ¿podrías hacerlo un poco más fuerte?",
+      "PERSIAN": "سپس - می توانید کمی سخت تر بروید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "세게요? 얼마나 세게 해 드려야 되지?",
+      "ENGLISH": "Harder? How hard are we talkin’?",
+      "CHINESE_SIMPLIFIED": "用力？该用多大的劲才行呢？",
+      "CHINESE_TRADITIONAL": "力道大一點？要多大呢？",
+      "INDONESIAN": "Ditekan lagi? Seberapa keras, nih?",
+      "PORTUGUESE": "Mais forte? Quão mais forte você quer que eu faça?",
+      "SPANISH": "¿Más fuerte? ¿Qué tanto más fuerte quieres que lo haga?",
+      "PERSIAN": "سخت تر؟ چقدر سخت داریم حرف میزنیم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게?",
+      "ENGLISH": "Like this?",
+      "CHINESE_SIMPLIFIED": "这样？",
+      "INDONESIAN": "Kayak gini?",
+      "PORTUGUESE": "Assim?",
+      "SPANISH": "¿Así?",
+      "PERSIAN": "اینجوری؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오... 유만 씨 제법 괜찮은데요?",
+      "ENGLISH": "Ooh... not bad, Yuman. You’ve got some skill.",
+      "CHINESE_SIMPLIFIED": "喔...宥万先生还挺有两下子的嘛？",
+      "CHINESE_TRADITIONAL": "哦…宥萬先生，手勁還不錯嘛？",
+      "INDONESIAN": "Ooh... not bad, Yuman. Kamu ada bakat juga ternyata.",
+      "PORTUGUESE": "Oh... Yumán, isso tá bem gostoso.",
+      "SPANISH": "Oh... Yumán, eso se siente bastante bien.",
+      "PERSIAN": "اوه... بد نیست، یومان. تو مهارتی داری"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오!? 괜찮아요?",
+      "ENGLISH": "Oh! You okay?",
+      "CHINESE_SIMPLIFIED": "哦！？这样可以吗？",
+      "CHINESE_TRADITIONAL": "哦！？這樣可以嗎？",
+      "INDONESIAN": "Oh! Kamu nggak papa?",
+      "PORTUGUESE": "Sério? Tá bom assim?",
+      "SPANISH": "¿En serio? ¿Está bien así?",
+      "PERSIAN": "اوه! شما خوبی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네 딱 좋은 거 같아요! ",
+      "ENGLISH": "Yeah, that feels just right!",
+      "CHINESE_SIMPLIFIED": "嗯，感觉刚好！",
+      "CHINESE_TRADITIONAL": "嗯，剛剛好！",
+      "INDONESIAN": "Iya, itu pas banget rasanya!",
+      "PORTUGUESE": "Sim, acho que tá perfeito.",
+      "SPANISH": "Sí, creo que está perfecto.",
+      "PERSIAN": "بله، این احساس درستی دارد!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 29.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 이쪽도, 이쪽도 해주면 안 돼요? ",
+      "ENGLISH": "Could you do this side too? Pleeease?",
+      "CHINESE_SIMPLIFIED": "我这边、这边也能帮我按一下吗？",
+      "CHINESE_TRADITIONAL": "這邊、還有這邊，也可以幫我按一下嗎？",
+      "INDONESIAN": "Bisa pijetin sisi satunya juga nggak? Pleeease?",
+      "PORTUGUESE": "Pode fazer desse lado também... e desse outro?",
+      "SPANISH": "¿Podrías hacerlo también de este lado... y de este otro?",
+      "PERSIAN": "می توانید این طرف را هم انجام دهید؟ لطفا؟"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나가야지.",
+      "ENGLISH": "You should move out.",
+      "CHINESE_SIMPLIFIED": "那得搬出去啊",
+      "CHINESE_TRADITIONAL": "當然要搬出去啊",
+      "JAPANESE": "出て行かないと",
+      "INDONESIAN": "Kamu harus pindah.",
+      "PORTUGUESE": "Você tem que se mudar.",
+      "SPANISH": "Tienes que mudarte.",
+      "PERSIAN": "باید کوچ کنی"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "…Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "…Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "… ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 우리 집에 계속 있을 생각이었어?",
+      "ENGLISH": "What, were you planning to stay at my place forever?",
+      "CHINESE_SIMPLIFIED": "不然你打算一直待在家里吗？",
+      "CHINESE_TRADITIONAL": "不然你打算一直住在我們家嗎？",
+      "JAPANESE": "まさか、下宿にずっと住むつもりだったのか？",
+      "INDONESIAN": "Emang kamu rencananya mau tinggal di tempat aku selamanya?",
+      "PORTUGUESE": "Você achava que ia ficar na pensão pra sempre?",
+      "SPANISH": "¿Pensabas quedarte en la pensión para siempre?",
+      "PERSIAN": "چی، قصد داشتی برای همیشه در خونه من بمانی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아니... 그래도 어떻게 붙잡을 생각을 안 해?",
+      "ENGLISH": "No… but shouldn’t you at least try to stop me?",
+      "CHINESE_SIMPLIFIED": "不是...你怎么都不试着挽留我？",
+      "CHINESE_TRADITIONAL": "不是...就算這樣，你怎麼都不試著挽留我一下？",
+      "JAPANESE": "いや…でも、止めようとは思わないの？",
+      "INDONESIAN": "Nggak sih… tapi kamu nggak mau coba cegah aku gitu?",
+      "PORTUGUESE": "Não… mas, você nem vai tentar me impedir?",
+      "SPANISH": "No… pero, ¿ni siquiera vas a intentar detenerme?",
+      "PERSIAN": "نه... اما نباید حداقل سعی کنی جلوی من را بگیری؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 뭔 소리야.",
+      "ENGLISH": "What are you talking about.",
+      "CHINESE_SIMPLIFIED": "这叫什么话",
+      "CHINESE_TRADITIONAL": "你在說什麼啊？",
+      "JAPANESE": "いや、何言ってんだよ",
+      "INDONESIAN": "Ngomong apa sih kamu.",
+      "PORTUGUESE": "O que você tá dizendo?",
+      "SPANISH": "¿Qué estás diciendo?",
+      "PERSIAN": "در مورد چی صحبت میکنی"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 이제 둘이 살아야 되는데",
+      "ENGLISH": "It’s gonna be just the two of us living together now —",
+      "CHINESE_SIMPLIFIED": "我们现在该两个人一起生活了",
+      "CHINESE_TRADITIONAL": "我們現在不是應該兩個人一起住嗎？",
+      "JAPANESE": "もう、俺たち二人で住む準備してるのに",
+      "INDONESIAN": "Kita bakal tinggal berdua aja sekarang —",
+      "PORTUGUESE": "Agora que vamos morar só nós dois,",
+      "SPANISH": "Ahora que vamos a vivir solo nosotros dos,",
+      "PERSIAN": "حالا فقط ما دو نفر با هم زندگی می کنیم -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "언제까지 거기 있을 수 없잖아.",
+      "ENGLISH": "you can’t stay there forever.",
+      "CHINESE_SIMPLIFIED": "总不能一直住在那里吧",
+      "CHINESE_TRADITIONAL": "總不能一直住在這裡吧",
+      "JAPANESE": "いつまでもそこにいられないだろ",
+      "INDONESIAN": "nggak mungkin kamu terus di sana selamanya.",
+      "PORTUGUESE": "não dá pra ficar lá pra sempre.",
+      "SPANISH": "no podemos quedarnos ahí para siempre.",
+      "PERSIAN": "شما نمی توانید برای همیشه آنجا بمانید"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아 나랑 둘이 살자. 내가 잘해줄게.",
+      "ENGLISH": "Malsook, let’s live together. I’ll take good care of you.",
+      "CHINESE_SIMPLIFIED": "末淑啊，我们两个人一起生活吧，我会好好对你的",
+      "CHINESE_TRADITIONAL": "末淑，我們就兩個人一起住吧，我會好好對待你的",
+      "JAPANESE": "マルスク、一緒に暮らそう 俺がしっかりするから",
+      "INDONESIAN": "Malsook, tinggal bareng aku yuk. Aku bakal jagain kamu baik-baik.",
+      "PORTUGUESE": "Malsook, vamos morar juntos. Eu vou cuidar bem de você.",
+      "SPANISH": "Malsook, vivamos juntos. Te voy a cuidar bien.",
+      "PERSIAN": "مال‌سوک، بیا با هم زندگی کنیم. من به خوبی از شما مراقبت خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너 그 말 무슨 뜻인지 알고 말하는 거야?",
+      "ENGLISH": "Do you even know what you’re saying?",
+      "CHINESE_SIMPLIFIED": "你说这话的时候，知道自己什么意思吗？",
+      "CHINESE_TRADITIONAL": "你知道你自己在說什麼嗎？",
+      "JAPANESE": "それ、どういう意味で言ってるか分かってるの？",
+      "INDONESIAN": "Kamu sadar nggak sih barusan ngomong apa?",
+      "PORTUGUESE": "Você tem noção do que tá dizendo?",
+      "SPANISH": "¿Sabes lo que estás diciendo?",
+      "PERSIAN": "اصلا میدونی چی میگی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 모를 리가 없지",
+      "ENGLISH": "Come on, like I wouldn’t know.",
+      "CHINESE_SIMPLIFIED": "哎，我怎么可能不知道",
+      "CHINESE_TRADITIONAL": "當然，怎麼可能不知道",
+      "JAPANESE": "何だよ、分かってるくせに",
+      "INDONESIAN": "Ayolah, masa aku nggak tahu.",
+      "PORTUGUESE": "Claro que tenho.",
+      "SPANISH": "Claro que lo sé.",
+      "PERSIAN": "بیا، مثل اینکه من نمی دانم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 26.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 너가 먼저 얘기한 거다?",
+      "ENGLISH": "Yuman you said it first, okay?",
+      "CHINESE_SIMPLIFIED": "吴宥万，这话可是你先说的？",
+      "CHINESE_TRADITIONAL": "吳宥萬，這話可是你自己先說的喔",
+      "JAPANESE": "ユマン、今の言葉先に言ったからね？",
+      "INDONESIAN": "Yuman, kamu yang ngomong duluan ya, inget!",
+      "PORTUGUESE": "Yumán, foi você quem disse isso primeiro, hein?",
+      "SPANISH": "Yumán, fuiste tú quien lo dijo primero, ¿eh?",
+      "PERSIAN": "یومان تو اول گفتی، باشه؟"
+    }
+  }
+]

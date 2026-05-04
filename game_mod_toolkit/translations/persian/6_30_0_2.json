@@ -1,0 +1,344 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "- 고양이!\n- 강아지!",
+      "ENGLISH": "- Cat! \n- Dog!",
+      "CHINESE_SIMPLIFIED": "-小猫！\n-小狗！",
+      "CHINESE_TRADITIONAL": "-小貓\n-小狗",
+      "JAPANESE": "‐ 猫！\n‐ 犬！",
+      "INDONESIAN": "- Kucing! \n- Anjing!",
+      "PORTUGUESE": "- Gato!\n- Cachorro!",
+      "SPANISH": "- ¡Gato!\n- ¡Perro!",
+      "PERSIAN": "- گربه! - سگ!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 유만 씨 어떻게 알았어?",
+      "ENGLISH": "Wait, Yuman—how’d you know?",
+      "CHINESE_SIMPLIFIED": "什么呀宥万，你怎么知道的？",
+      "CHINESE_TRADITIONAL": "什麼啊，宥萬，你怎麼會知道？",
+      "JAPANESE": "えっ ユマンさん どうしてわかったの？",
+      "INDONESIAN": "Eh, Yuman—kok kamu bisa tahu?",
+      "PORTUGUESE": "O quê? Como você sabe disso, Yumán?",
+      "SPANISH": "¿Qué? ¿Cómo sabe eso, Yumán?",
+      "PERSIAN": "صبر کن، یومان-از کجا فهمیدی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 방에 고양이 사진 있으시잖아요!",
+      "ENGLISH": "Ah~ You’ve got that cat photo in your office, remember?",
+      "CHINESE_SIMPLIFIED": "啊~你房间不是有猫咪的照片嘛！",
+      "CHINESE_TRADITIONAL": "啊～ 您房間裡不是有貓咪的照片嗎！",
+      "JAPANESE": "あ〜課長の部屋に猫の写真ありますよね！",
+      "INDONESIAN": "Ah~ Kamu kan punya foto kucing di kantor, inget nggak?",
+      "PORTUGUESE": "Ah~ é que tem fotos de gatos no seu quarto.",
+      "SPANISH": "Ah~ Es que tiene fotos de gatos en su cuarto.",
+      "PERSIAN": "آه~ تو اون عکس گربه را در دفترت داری، یادت هست؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야~ 그건 또 언제 봤대?",
+      "ENGLISH": "What?! When did you even see that?",
+      "CHINESE_SIMPLIFIED": "什么呀~那又是什么时候看到的？",
+      "CHINESE_TRADITIONAL": "什麼啊～你又是什麼時候看到的？",
+      "JAPANESE": "え、なにそれ いつ見たの！？",
+      "INDONESIAN": "Apa?! Emang kapan kamu liat itu?!",
+      "PORTUGUESE": "O quê~? E quando você viu isso?",
+      "SPANISH": "¿Qué~? ¿Y cuándo las viste?",
+      "PERSIAN": "چی؟! اصلا کی اینو دیدی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "방이요?",
+      "ENGLISH": "Office...?",
+      "CHINESE_SIMPLIFIED": "房间？",
+      "CHINESE_TRADITIONAL": "房間？",
+      "JAPANESE": "部屋？",
+      "INDONESIAN": "Kantor...?",
+      "PORTUGUESE": "Quarto?",
+      "SPANISH": "¿Cuarto?",
+      "PERSIAN": "دفتر...؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 그란 님이 잠자고 그런 방 말하는 거예요?",
+      "ENGLISH": "Are we talking about the room Miss Gran sleeps in?",
+      "CHINESE_SIMPLIFIED": "他现在说的是你睡觉的房间吗？",
+      "CHINESE_TRADITIONAL": "他現在說的是您睡覺的房間嗎？",
+      "JAPANESE": "今 グランさんが寝たりしてる部屋のことですか？",
+      "INDONESIAN": "Kita lagi ngomongin ruangannya Miss Gran tidur, ya?",
+      "PORTUGUESE": "Tá falando do lugar onde a chefe Gran dorme?",
+      "SPANISH": "¿Está hablando del dónde la jefa Gran duerme?",
+      "PERSIAN": "ما در مورد اتاقی صحبت می کنیم که خانم گرن در اون می خوابد؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What...?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Apa...?!",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی...؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "설마 두분 같, 같이 살아요?",
+      "ENGLISH": "Wait, are you two... living together or something?!",
+      "CHINESE_SIMPLIFIED": "难道两位同、同居了？",
+      "CHINESE_TRADITIONAL": "難道兩位在同、同居嗎？",
+      "JAPANESE": "ま、まさか二人 一緒に住んでるんですか？",
+      "INDONESIAN": "Tunggu, kalian tuh… tinggal bareng atau gimana?!",
+      "PORTUGUESE": "Não me diga que vocês… moram juntos?",
+      "SPANISH": "No me digas que ustedes… ¿viven juntos?",
+      "PERSIAN": "صبر کن شما دوتا... با هم زندگی می کنید یا چیزی؟!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "가, 같이 살다뇨! 그게 무슨 소리예요!",
+      "ENGLISH": "L-Living together?! What are you even talking about?!",
+      "CHINESE_SIMPLIFIED": "同、同居什么呀！这什么话！",
+      "CHINESE_TRADITIONAL": "同、同居什麼的！那是什麼話！",
+      "JAPANESE": "い、一緒に住むって なんですか！",
+      "INDONESIAN": "T-tinggal bareng?! Kamu ngomong apa sih?!",
+      "PORTUGUESE": "M-morar juntos!? O que você tá dizendo?!",
+      "SPANISH": "¿¡V-vivir juntos!? ¡¿Qué estás diciendo?!",
+      "PERSIAN": "ال-زندگی مشترک؟! اصلا از چی حرف میزنی؟!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.8
+    },
+    "SCRIPT": {
+      "KOREAN": "우선 씨 무슨 그런 농담을 해!",
+      "ENGLISH": "Woo-seon, why would you joke like that?!",
+      "CHINESE_SIMPLIFIED": "优先你怎么开这种玩笑！",
+      "CHINESE_TRADITIONAL": "宇善你怎麼開這種玩笑啦！",
+      "JAPANESE": "ウソンさん、そんな冗談言わないでよ！",
+      "INDONESIAN": "Woo-seon, kenapa sih ngelawaknya gitu?!",
+      "PORTUGUESE": "Wooseon, como pode brincar com uma coisa dessas?!",
+      "SPANISH": "¡Wooseon, ¿cómo puedes bromear con algo así?!",
+      "PERSIAN": "ووسون چرا اینطوری شوخی میکنی؟!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 아까 전에 분명 이거 방이라고 말씀하셨잖아요!!",
+      "ENGLISH": "But just now, you clearly said “room,” didn’t you?!",
+      "CHINESE_SIMPLIFIED": "不是，刚才明明说的是“房间”啊！！",
+      "CHINESE_TRADITIONAL": "不是，剛才明明說了是房間不是嗎！！",
+      "JAPANESE": "でもさっき確かに部屋って言ってましたよ！！",
+      "INDONESIAN": "Tapi barusan kamu jelas-jelas bilang “ruangan,” kan?!",
+      "PORTUGUESE": "Mas você acabou de dizer “quarto”.",
+      "SPANISH": "Pero si acaba de decir en su \"cuarto\".",
+      "PERSIAN": "اما همین الان به وضوح گفتی «اتاق»، نه؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 31.1
+    },
+    "SCRIPT": {
+      "KOREAN": "방? 방이라고 했나?",
+      "ENGLISH": "Room...? Did I say “room”?",
+      "CHINESE_SIMPLIFIED": "房间？他说了房间吗？",
+      "CHINESE_TRADITIONAL": "房間？他說了房間嗎？",
+      "JAPANESE": "部屋？ 言ったっけ？",
+      "INDONESIAN": "Ruangan...? Emangnya aku bilang “ruangan”?",
+      "PORTUGUESE": "Eu disse “quarto”?",
+      "SPANISH": "¿Dije “cuarto”?",
+      "PERSIAN": "اتاق...؟ گفتم «اتاق»؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자리...라고 하지 않았나?",
+      "ENGLISH": "Didn’t I say desk?",
+      "CHINESE_SIMPLIFIED": "他说的是座位...吧？",
+      "CHINESE_TRADITIONAL": "他說的是座位...吧？",
+      "JAPANESE": "席って言わなかった？",
+      "INDONESIAN": "Bukannya aku bilang meja?",
+      "PORTUGUESE": "Quis dizer “escritório”.",
+      "SPANISH": "Quise decir \"escritorio\"",
+      "PERSIAN": "نگفتم میز؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아!! 자리~ 자리... 그쵸!",
+      "ENGLISH": "Ah—right!! Desk! That’s what you meant!",
+      "CHINESE_SIMPLIFIED": "啊，啊！！座位~座位...对吧！",
+      "CHINESE_TRADITIONAL": "啊，啊！！座位～座位...！對啦！",
+      "JAPANESE": "あ、あっ！！そう！席！席ですよ！",
+      "INDONESIAN": "Ah—iya!! Meja! Maksud kamu itu, kan!",
+      "PORTUGUESE": "Ah, ah!! Isso, isso~ escritório, claro!",
+      "SPANISH": "¡Ah, ah!! ¡Eso, eso~ escritorio, claro!",
+      "PERSIAN": "آه - درسته!! میز تحریر! منظورت همین بود!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 38.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저기 저 사무실 자.리",
+      "ENGLISH": "Over there, the desk in her office.",
+      "CHINESE_SIMPLIFIED": "就是那个办公室座位",
+      "CHINESE_TRADITIONAL": "他說的辦公室的座位啦",
+      "JAPANESE": "ほら あのオフィスの せ・き",
+      "INDONESIAN": "Meja yang di kantornya, tuh.",
+      "PORTUGUESE": "O escritório… do trabalho.",
+      "SPANISH": "El escritorio… de la oficina.",
+      "PERSIAN": "آنجا، میز دفترش."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 39.8,
+      "HIDE": 42.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 제가 잘못 들은 겁니까.",
+      "ENGLISH": "So I must’ve misheard then.",
+      "CHINESE_SIMPLIFIED": "所以是我听错了吗？",
+      "CHINESE_TRADITIONAL": "所以是我聽錯了嗎？",
+      "JAPANESE": "じゃあ僕が聞き間違えたんですね",
+      "INDONESIAN": "Berarti aku salah denger ya.",
+      "PORTUGUESE": "Então... acho que ouvi errado.",
+      "SPANISH": "Entonces... creo escuché mal.",
+      "PERSIAN": "پس باید اون موقع اشتباه شنیده باشم."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 42.8,
+      "HIDE": 44.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아이~ 그렇다니까요~",
+      "ENGLISH": "Exactly~ just a misunderstanding~",
+      "CHINESE_SIMPLIFIED": "哎呦~就说嘛~",
+      "CHINESE_TRADITIONAL": "哎呦～就是那樣啊～",
+      "JAPANESE": "そうそう そうなんですよ〜",
+      "INDONESIAN": "Nah, iya~ cuma salah paham doang~",
+      "PORTUGUESE": "Claro, foi um mal-entendido.",
+      "SPANISH": "Claro, fue un malentendido",
+      "PERSIAN": "دقیقا ~ فقط یک سوء تفاهم~"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 45.8,
+      "HIDE": 46.5
+    },
+    "SCRIPT": {
+      "KOREAN": "헤에~",
+      "ENGLISH": "Hmm~ really now~?",
+      "CHINESE_SIMPLIFIED": "嘿诶~",
+      "CHINESE_TRADITIONAL": "嘿唉～",
+      "JAPANESE": "へぇ〜",
+      "INDONESIAN": "Hmm~ yakin cuma salah paham~?",
+      "PORTUGUESE": "Hehe...",
+      "SPANISH": "Jeje...",
+      "PERSIAN": "هوم~ واقعا الان~؟"
+    }
+  }
+]

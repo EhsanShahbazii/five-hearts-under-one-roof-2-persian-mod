@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 오늘 정말 잘해야되는 날이에요.",
+      "ENGLISH": "Min-jung, today is a day where you absolutely must do well.",
+      "CHINESE_SIMPLIFIED": "今天可是你必须要好好表现的一天",
+      "CHINESE_TRADITIONAL": "敏靜，今天真的是你要好好表現的一天",
+      "JAPANESE": "ミンジョンさん、今日は本当に絶対にちゃんとしないといけない日ですよ",
+      "INDONESIAN": "Hari ini tuh penting banget buat kamu, Min-jung",
+      "PORTUGUESE": "Minjung, hoje é um dia muito importante.",
+      "SPANISH": "Minjung, hoy es un día muy importante.",
+      "PERSIAN": "مین‌جونگ، امروز روزی است که قطعاً باید خوب عمل کنی."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "평소라면 실수해도 다들 귀엽게 넘어가 주겠지만,",
+      "ENGLISH": "Normally, even if you make a mistake, everyone would overlook it and think it's cute,",
+      "CHINESE_SIMPLIFIED": "平时就算出点错，大家也会觉得可爱就算了",
+      "CHINESE_TRADITIONAL": "平常出點錯，大家都會可愛地放過妳",
+      "JAPANESE": "いつもみたいに、ちょっとミスしても可愛い〜で済むかもしれないけど",
+      "INDONESIAN": "Biasanya sih kalau ada salah dikit orang-orang masih nganggep lucu",
+      "PORTUGUESE": "Em outras ocasiões, mesmo que você cometesse um erro, todo mundo deixaria passar,",
+      "SPANISH": "En otras ocasiones, aunque cometas un error, todos lo dejarían pasar,",
+      "PERSIAN": "معمولاً، حتی اگر اشتباه کنی، همه اونو نادیده می‌گیرند و فکر می‌کنن بامزه است،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이번엔 죽자고 달려들 거예요.",
+      "ENGLISH": "but this time, they'll come at you with everything they've got.",
+      "CHINESE_SIMPLIFIED": "但这次他们会往死里追着骂的",
+      "CHINESE_TRADITIONAL": "但這次大家真的會往死裡追著罵的",
+      "JAPANESE": "今回はみんな本気で噛みついてくるはずです",
+      "INDONESIAN": "Tapi kali ini beda, mereka bakal nyerbu habis-habisan",
+      "PORTUGUESE": "mas desta vez eles vão pegar pesado.",
+      "SPANISH": "pero esta vez van a ir con todo.",
+      "PERSIAN": "اما این بار، با هر چه در چنته دارند به سراغت خواهند آمد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까 절대! 절대! 실수하면 안 돼요. 알겠죠??",
+      "ENGLISH": "So you absolutely! absolutely! must not make a mistake. Got it??",
+      "CHINESE_SIMPLIFIED": "所以绝对！绝对不能出错！知道吗？",
+      "CHINESE_TRADITIONAL": "所以絕對！絕對不能出錯喔！知道嗎？",
+      "JAPANESE": "だから、絶対に！絶対に！失敗しちゃダメですよ わかりましたか！？",
+      "INDONESIAN": "Jadi inget ya, Kamu nggak boleh! Nggak boleh banget! Sampai salah! Ngerti??",
+      "PORTUGUESE": "Então, nunca! Nunca cometa um erro, entendeu?",
+      "SPANISH": "Así que ¡jamás! ¡Jamás! cometas un error, ¿entendido?",
+      "PERSIAN": "پس تو مطلقاً! مطلقاً! نباید اشتباه کنی. فهمیدی؟؟"
+    }
+  }
+]

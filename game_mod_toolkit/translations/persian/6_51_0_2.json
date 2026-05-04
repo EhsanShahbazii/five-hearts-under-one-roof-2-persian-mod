@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠...!",
+      "ENGLISH": "Oppa…!",
+      "CHINESE_SIMPLIFIED": "哥哥...！",
+      "CHINESE_TRADITIONAL": "哥哥...！",
+      "JAPANESE": "お兄さん…！",
+      "INDONESIAN": "Oppa…!",
+      "PORTUGUESE": "¡Oppa...!",
+      "SPANISH": "¡Oppa...!",
+      "PERSIAN": "یومان…!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 눈물 멈췄다!",
+      "ENGLISH": "Oh? Your tears stopped!",
+      "CHINESE_SIMPLIFIED": "哦？不哭了呢！",
+      "CHINESE_TRADITIONAL": "喔？不哭了呢！",
+      "JAPANESE": "ん？涙、止まった！",
+      "INDONESIAN": "Oh? Air matanya udah berhenti!",
+      "PORTUGUESE": "¡Mira, ya dejaste de llorar!",
+      "SPANISH": "¡Mira, ya dejaste de llorar!",
+      "PERSIAN": "اوه؟ اشک هایت قطع شد!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐예요~ 놀랬잖아요~",
+      "ENGLISH": "What— you scared me~",
+      "CHINESE_SIMPLIFIED": "干嘛啦～吓我一跳～",
+      "CHINESE_TRADITIONAL": "幹嘛啦～嚇我一跳～",
+      "JAPANESE": "なんですか〜びっくりしたじゃないですか〜",
+      "INDONESIAN": "Eh—kagetin aja sih~",
+      "PORTUGUESE": "¿Qué fue eso~? ¡Me asustaste!",
+      "SPANISH": "¿Qué fue eso~? ¡Me asustaste!",
+      "PERSIAN": "چی - تو منو ترسوندی ~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 안 울었으면 좋겠단 말이에요.",
+      "ENGLISH": "I just don’t want to see you cry, Min-jung.",
+      "CHINESE_SIMPLIFIED": "我只是...不想看到敏静你哭而已",
+      "CHINESE_TRADITIONAL": "我只是...不想看到敏靜你哭而已...",
+      "JAPANESE": "ミンジョンさんには、もう泣いてほしくないんですよ",
+      "INDONESIAN": "Aku cuma nggak pengin liat kamu nangis, Min-jung.",
+      "PORTUGUESE": "Es que no quiero verte llorar, Minjung.",
+      "SPANISH": "Es que no quiero verte llorar, Minjung.",
+      "PERSIAN": "من فقط نمی خواهم گریه تو را ببینم، مین‌جونگ."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요.",
+      "ENGLISH": "Thank you.",
+      "CHINESE_SIMPLIFIED": "谢谢你",
+      "CHINESE_TRADITIONAL": "謝謝你",
+      "JAPANESE": "ありがとう",
+      "INDONESIAN": "Makasih ya.",
+      "PORTUGUESE": "Gracias.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "ممنونم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "먼저 들어가 볼게요!",
+      "ENGLISH": "I’ll head in first!",
+      "CHINESE_SIMPLIFIED": "那我先回去了哦",
+      "CHINESE_TRADITIONAL": "那我先回去囉",
+      "JAPANESE": "じゃあ、先に戻りますね！",
+      "INDONESIAN": "Aku masuk duluan ya!",
+      "PORTUGUESE": "Voy a mi cuarto.",
+      "SPANISH": "Voy a mi cuarto.",
+      "PERSIAN": "من اول وارد می شوم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 자요!",
+      "ENGLISH": "Good night!",
+      "CHINESE_SIMPLIFIED": "晚安",
+      "CHINESE_TRADITIONAL": "晚安",
+      "JAPANESE": "おやすみなさい！",
+      "INDONESIAN": "Selamat tidur!",
+      "PORTUGUESE": "¡Buenas noches!",
+      "SPANISH": "¡Buenas noches!",
+      "PERSIAN": "شب بخیر"
+    }
+  }
+]

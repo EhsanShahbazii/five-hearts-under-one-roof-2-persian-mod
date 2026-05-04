@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어어 유정 씨 제가 따서 먹을게요.",
+      "ENGLISH": "Uh—Yu-jeong, it’s okay, I can peel it myself.",
+      "CHINESE_SIMPLIFIED": "呃呃，有情小姐，我自己摘着吃吧",
+      "CHINESE_TRADITIONAL": "呃，有情小姐，我自己剝來吃就好",
+      "JAPANESE": "あっ、ユジョンさん、自分でむいて食べます",
+      "INDONESIAN": "Eh...Yu-jeong, nggak apa-apa kok, aku bisa ngupas sendiri.",
+      "PORTUGUESE": "Senhorita Yujeong, eu posso fazer isso.",
+      "SPANISH": "Señorita Yujeong, yo puedo hacerlo.",
+      "PERSIAN": "اوه-یو-جونگ، اشکالی ندارد، می توانم خودم پوست اونو بکنم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "안 돼요, 힘드시잖아요! 거의 다 했어요.",
+      "ENGLISH": "Nope! You’re still recovering! I’ve almost got it.",
+      "CHINESE_SIMPLIFIED": "不行，您现在还没恢复呢！就快好啦",
+      "CHINESE_TRADITIONAL": "不行，你會很累！我快剝好了",
+      "JAPANESE": "ダメです、無理しないで！もうすぐ終わります",
+      "INDONESIAN": "Nggak boleh! Kamu masih pemulihan! Dikit lagi juga kelar nih.",
+      "PORTUGUESE": "Não! O senhor deve estar cansado, e eu já tô quase terminando.",
+      "SPANISH": "¡No! Usted debe estar cansado y ya casi termino.",
+      "PERSIAN": "نه! شما هنوز در حال بهبودی هستید! من تقریباً اونو دریافت کردم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아휴... 제가 할 수 있는데...",
+      "ENGLISH": "Sigh… I can do it, though…",
+      "CHINESE_SIMPLIFIED": "哎呦...我自己能行的...",
+      "CHINESE_TRADITIONAL": "唉唷... 我可以自己弄啦...",
+      "JAPANESE": "はあ…自分でできるのに…",
+      "INDONESIAN": "Huft… padahal aku bisa sendiri…",
+      "PORTUGUESE": "Ai… mas eu posso fazer de verdade...",
+      "SPANISH": "Ay… pero de verdad puedo hacerlo...",
+      "PERSIAN": "آه… من می توانم اونو انجام دهم، هر چند…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 16.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 해 주실 수 있으신가요?",
+      "ENGLISH": "Ah… could you… do it for me…?",
+      "CHINESE_SIMPLIFIED": "可以张一下嘴吗？",
+      "CHINESE_TRADITIONAL": "啊，你可以幫我剝嗎？",
+      "JAPANESE": "あ、やってくださるんですか？",
+      "INDONESIAN": "Ah… bisa minta tolong… ngupasin nggak…?",
+      "PORTUGUESE": "Poderia abrir a boca, por favor?",
+      "SPANISH": "¿Podría abrir la boca, por favor?",
+      "PERSIAN": "آه ... می توانید ... این کار را برای من انجام دهید ...؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah…",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ah…",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "آه…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "으음~! 우와, 진짜 맛있어요.",
+      "ENGLISH": "Mmm~! Whoa, that’s really good.",
+      "CHINESE_SIMPLIFIED": "嗯~！哇，真的好好吃",
+      "CHINESE_TRADITIONAL": "哇，真的好好吃喔",
+      "JAPANESE": "ん〜！うわっ、めっちゃおいしいです",
+      "INDONESIAN": "Mmm~! Wah, enak banget.",
+      "PORTUGUESE": "Mmm~! Uau, tá muito gostoso!",
+      "SPANISH": "¡Mmm~! ¡Guau, está muy rico!",
+      "PERSIAN": "ممم~! اوه، این واقعاً خوب است."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.8
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜요? 그럼 이거 다 드릴게요!",
+      "ENGLISH": "Really? Then you can have the rest!",
+      "CHINESE_SIMPLIFIED": "真的吗？这些都给您吃吧！",
+      "CHINESE_TRADITIONAL": "真的嗎？這些全部都給你！",
+      "JAPANESE": "本当ですか？じゃあこれ全部どうぞ！",
+      "INDONESIAN": "Serius? Kalau gitu sisanya buat kamu aja!",
+      "PORTUGUESE": "Sério? Então eu vou preparar o resto pra você!",
+      "SPANISH": "¿De verdad? ¡Entonces le prepararé el resto!",
+      "PERSIAN": "واقعا؟ سپس می توانید بقیه را داشته باشید!"
+    }
+  }
+]

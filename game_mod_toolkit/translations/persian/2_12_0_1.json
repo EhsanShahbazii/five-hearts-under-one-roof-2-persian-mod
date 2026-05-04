@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 씨...",
+      "ENGLISH": "Ugh, seriously...",
+      "CHINESE_SIMPLIFIED": "可恶...",
+      "CHINESE_TRADITIONAL": "可惡…",
+      "JAPANESE": "ちくしょう…",
+      "INDONESIAN": "Ugh, seriusan...",
+      "PORTUGUESE": "Mas que droga...",
+      "SPANISH": "Qué rayos...",
+      "PERSIAN": "اوه، جدی..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히 나 어제까지 누워있던 사람인데...",
+      "ENGLISH": "I was in bed 'til yesterday!",
+      "CHINESE_SIMPLIFIED": "说实话我昨天还躺在病床上呢...",
+      "CHINESE_TRADITIONAL": "老實說，我到昨天都還是臥病在床的人...",
+      "JAPANESE": "正直 俺 昨日まで寝込んでたんだぞ…",
+      "INDONESIAN": "Aku tuh baru kemarin masih tiduran di kasur!",
+      "PORTUGUESE": "Mas pra ser justo, ainda tô me recuperando.",
+      "SPANISH": "Pero para ser justos, todavía me estoy recuperando",
+      "PERSIAN": "من تا دیروز در رختخواب بودم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "억울하면 이기세요~",
+      "ENGLISH": "If it's unfair, then beat me~",
+      "CHINESE_SIMPLIFIED": "不服气就赢过我啊~",
+      "CHINESE_TRADITIONAL": "不服氣的話，就贏過我啊～",
+      "JAPANESE": "悔しかったら勝ってみな〜",
+      "INDONESIAN": "Kalau ngerasa nggak adil, ya kalahin aku~",
+      "PORTUGUESE": "Se achou injusto, da próxima vez não perca.",
+      "SPANISH": "Si te parece injusto, la próxima no pierdas.",
+      "PERSIAN": "اگر ناعادلانه است، پس مرا کتک بزنید"
+    }
+  }
+]

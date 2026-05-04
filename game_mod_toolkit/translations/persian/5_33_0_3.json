@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아무 사이 아닌데?",
+      "ENGLISH": "We’re nothing.",
+      "CHINESE_SIMPLIFIED": "什么关系都不是啊？",
+      "CHINESE_TRADITIONAL": "我們之間沒什麼關係吧？",
+      "JAPANESE": "なんの関係でもないけど？",
+      "INDONESIAN": "Kita tuh sebenernya nggak ada apa-apa.",
+      "PORTUGUESE": "A gente não tem nenhuma relação.",
+      "SPANISH": "No tenemos ninguna relación.",
+      "PERSIAN": "ما هیچی نیستیم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아무 사이 아니라고?",
+      "ENGLISH": "Nothing, huh?",
+      "CHINESE_SIMPLIFIED": "你说什么关系都不是？",
+      "CHINESE_TRADITIONAL": "沒什麼關係？",
+      "JAPANESE": "なんの関係でもないって？",
+      "INDONESIAN": "Nggak ada apa-apa, ya?",
+      "PORTUGUESE": "Nenhuma relação?",
+      "SPANISH": "¿Ninguna relación?",
+      "PERSIAN": "هیچی، ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우리가 무슨 사이이던가요?",
+      "ENGLISH": "What are we, exactly?",
+      "CHINESE_SIMPLIFIED": "我们之间能有什么关系啊？",
+      "CHINESE_TRADITIONAL": "我們之間…到底是什麼關係呢？",
+      "JAPANESE": "俺たち どんな関係だったっけ？",
+      "INDONESIAN": "Kita ini sebenernya apa, sih?",
+      "PORTUGUESE": "Pois é, ou tô errado?",
+      "SPANISH": "Pues sí, ¿o me equivoco?",
+      "PERSIAN": "ما دقیقا چی هستیم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 맞죠...!",
+      "ENGLISH": "Ah, right…!",
+      "CHINESE_SIMPLIFIED": "啊，对啊...！",
+      "CHINESE_TRADITIONAL": "啊，對喔…",
+      "JAPANESE": "あ、そうです…！",
+      "INDONESIAN": "Ah, iya…!",
+      "PORTUGUESE": "Ah, claro...",
+      "SPANISH": "Ah, claro...",
+      "PERSIAN": "آه، درست…!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아무 사이 아니죠...",
+      "ENGLISH": "We’re nothing…",
+      "CHINESE_SIMPLIFIED": "什么关系都没有呢...",
+      "CHINESE_TRADITIONAL": "一點關係都沒有...",
+      "JAPANESE": "なんの関係でもないですね…",
+      "INDONESIAN": "Kita nggak ada apa-apa…",
+      "PORTUGUESE": "A gente não é nada...",
+      "SPANISH": "No somos nada...",
+      "PERSIAN": "ما هیچی نیستیم…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그래~",
+      "ENGLISH": "Oh, sure~",
+      "CHINESE_SIMPLIFIED": "啊这样~",
+      "CHINESE_TRADITIONAL": "對吧～",
+      "JAPANESE": "あ そう〜",
+      "INDONESIAN": "Oh, ya tentu~",
+      "PORTUGUESE": "Entendi.",
+      "SPANISH": "Ya veo.",
+      "PERSIAN": "اوه، حتما~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아!",
+      "ENGLISH": "Ah!",
+      "CHINESE_SIMPLIFIED": "啊！",
+      "CHINESE_TRADITIONAL": "啊！",
+      "JAPANESE": "あ！",
+      "INDONESIAN": "Ah!",
+      "PORTUGUESE": "Ah!",
+      "SPANISH": "¡Ah!",
+      "PERSIAN": "آه!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 그래. 또 그거야?",
+      "ENGLISH": "What’s wrong? That again?",
+      "CHINESE_SIMPLIFIED": "你怎么了，又要来这套？",
+      "CHINESE_TRADITIONAL": "你幹嘛啦？又是那樣？",
+      "JAPANESE": "どうした またあれ？",
+      "INDONESIAN": "Kenapa? Itu lagi?",
+      "PORTUGUESE": "O que foi? De novo isso?",
+      "SPANISH": "¿Qué pasa? ¿Otra vez eso?",
+      "PERSIAN": "چه اشکالی دارد؟ اون دوباره؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 똥 마려워... ",
+      "ENGLISH": "Ugh, I need to poop…",
+      "CHINESE_SIMPLIFIED": "啊肚子好痛...",
+      "CHINESE_TRADITIONAL": "啊，我想大便啦…",
+      "JAPANESE": "あ お腹痛い…",
+      "INDONESIAN": "Ugh, aku pengen boker…",
+      "PORTUGUESE": "Preciso ir ao banheiro...",
+      "SPANISH": "Tengo que ir al baño...",
+      "PERSIAN": "اوه، من باید مدفوع کنم…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 23.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 너 정도면 내가 2대 얼짱 인정해 줄게. ",
+      "ENGLISH": "Anyway, for your level, I’ll acknowledge you as the 2nd top beauty.",
+      "CHINESE_SIMPLIFIED": "还有，以你这条件，我就承认你是第二代校花吧",
+      "CHINESE_TRADITIONAL": "不過以你這樣程度，我承認你是第二代校花",
+      "JAPANESE": "それとあんたくらいなら2代目美人認める",
+      "INDONESIAN": "Yaudah deh, buat level kamu, aku akui kamu primadona nomor dua.",
+      "PORTUGUESE": "E bom, você até tem um rostinho pra ser a segunda mais bonita da escola.",
+      "SPANISH": "Y bueno, sí tienes una cara para ser la segunda más linda de la escuela.",
+      "PERSIAN": "به هر حال، برای سطح شما، من شما را به عنوان دومین زیبایی برتر تصدیق خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 24.8
+    },
+    "SCRIPT": {
+      "KOREAN": "영광인 줄 알아.",
+      "ENGLISH": "Feel honored.",
+      "CHINESE_SIMPLIFIED": "你就感恩戴德吧",
+      "CHINESE_TRADITIONAL": "覺得榮幸吧",
+      "JAPANESE": "光栄に思ってね",
+      "INDONESIAN": "Harusnya bangga dong.",
+      "PORTUGUESE": "Devia se sentir honrada.",
+      "SPANISH": "Deberías sentirte honrada.",
+      "PERSIAN": "احساس افتخار کنید"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 배야...",
+      "ENGLISH": "Ugh, my stomach…",
+      "CHINESE_SIMPLIFIED": "啊肚子好痛...",
+      "CHINESE_TRADITIONAL": "啊…肚子好痛…",
+      "JAPANESE": "あ お腹が…",
+      "INDONESIAN": "Ugh, perutku…",
+      "PORTUGUESE": "Ah... minha barriga tá doendo...",
+      "SPANISH": "Ah... me duele el estómago...",
+      "PERSIAN": "اوه، شکم من…"
+    }
+  }
+]

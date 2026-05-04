@@ -1,0 +1,207 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 죽을 뻔했잖아요!",
+      "ENGLISH": "Ugh, I thought I was gonna die just now!",
+      "CHINESE_SIMPLIFIED": "啊，差点就要挂了！",
+      "CHINESE_TRADITIONAL": "啊，差點要死掉了！",
+      "JAPANESE": "もう、死ぬところでしたよ！",
+      "INDONESIAN": "Ah, tadi hampir mati rasanya!",
+      "PORTUGUESE": "Ugh, achei que ia morrer agora há pouco!",
+      "SPANISH": "¡Ah, casi muero!",
+      "PERSIAN": "وای، یه لحظه حس کردم عزرائیلو جلو چشمام دیدم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 우유 먹으니까 금방 괜찮아지죠?",
+      "ENGLISH": "But hey, a little milk and you’re good as new, right?",
+      "CHINESE_SIMPLIFIED": "但喝了牛奶之后，是不是一下子就好多了？",
+      "CHINESE_TRADITIONAL": "但喝了牛奶之後，是不是馬上就好多了？",
+      "JAPANESE": "でも牛乳を飲んだらすぐに楽になりますよね？",
+      "INDONESIAN": "Tapi abis minum susu langsung baikan, kan?",
+      "PORTUGUESE": "Mas ei, um pouquinho de leite e você já tá novinho em folha, né?",
+      "SPANISH": "Pero con la leche se pasa rápido, ¿verdad?",
+      "PERSIAN": "ولی دیدی شیر رو خوردی چطور مثل روز اولت شدی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐 그렇긴 한데...",
+      "ENGLISH": "Well… yeah, I guess so…",
+      "CHINESE_SIMPLIFIED": "啊…也算是吧…",
+      "CHINESE_TRADITIONAL": "啊，是這樣沒錯…",
+      "JAPANESE": "まあ、そうですけど…",
+      "INDONESIAN": "Yah, iya sih...",
+      "PORTUGUESE": "Bom… é, acho que sim…",
+      "SPANISH": "Bueno, sí, pero…",
+      "PERSIAN": "خب... آره، ولی..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "완전 고단수시네.",
+      "ENGLISH": "Wow… you really know what you’re doing.",
+      "CHINESE_SIMPLIFIED": "你真的很会诶",
+      "CHINESE_TRADITIONAL": "你真的很會欸，根本老江湖了",
+      "JAPANESE": "一枚上手ですね",
+      "INDONESIAN": "Wah, kamu lihai banget ya.",
+      "PORTUGUESE": "Uau… você realmente sabe o que tá fazendo.",
+      "SPANISH": "Ya veo lo que tramas.",
+      "PERSIAN": "ای کلک... عجب حرکتی زدی، معلومه حسابی کاربلدی ها!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 뭐가요?",
+      "ENGLISH": "Huh? What do you mean?",
+      "CHINESE_SIMPLIFIED": "嗯？什么很会？",
+      "CHINESE_TRADITIONAL": "蛤？什麼很會？",
+      "JAPANESE": "えっ？何がですか？",
+      "INDONESIAN": "Hah? Maksudnya apa?",
+      "PORTUGUESE": "Hã? O que você quer dizer?",
+      "SPANISH": "¿Eh? ¿De qué hablas?",
+      "PERSIAN": "جون؟ منظورت چیه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "OK. OK. 이런 거 좋아하시는구나?",
+      "ENGLISH": "Okay, okay… so that’s the kinda thing you’re into, huh?",
+      "CHINESE_SIMPLIFIED": "OK，OK～原来你喜欢这种风格啊？",
+      "CHINESE_TRADITIONAL": "OK，OK。原來你喜歡這種啊？",
+      "JAPANESE": "OK, OK. こういうのがお好きなんですね？",
+      "INDONESIAN": "Oke, oke~ jadi kamu suka yang kayak gini ya?",
+      "PORTUGUESE": "Ok, ok… então é esse tipo de coisa que você curte, né?",
+      "SPANISH": "OK, OK. Así que te gustan este tipo de cosas, ¿eh?",
+      "PERSIAN": "اوکی، حله... پس اهل این مدل حرکاتی، نه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 28.4
+    },
+    "SCRIPT": {
+      "KOREAN": "응? 무슨 소리인지 잘 모르겠는데?",
+      "ENGLISH": "Wait—what? I have no idea what you’re talking about.",
+      "CHINESE_SIMPLIFIED": "嗯？你在说什么啊，我怎么听不懂？",
+      "CHINESE_TRADITIONAL": "嗯？是什麼意思，我不太懂耶？",
+      "JAPANESE": "えっ？何のことかよくわからないけど？",
+      "INDONESIAN": "Hah? Aku nggak ngerti maksud kamu…",
+      "PORTUGUESE": "Espera—o quê? Eu não faço ideia do que você tá falando.",
+      "SPANISH": "¿Eh? ¿De qué hablas...?",
+      "PERSIAN": "ها؟! چی داری می‌گی، من که سر درنمیارم؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 한 방울도 남김없이 닦아줄게요.",
+      "ENGLISH": "Don’t worry. I’ll make sure not a single drop goes to waste.",
+      "CHINESE_SIMPLIFIED": "我会一滴不剩地帮你全部擦干净的",
+      "CHINESE_TRADITIONAL": "我會一滴不剩地幫你擦乾淨的",
+      "JAPANESE": "一滴残らず拭いてあげますよ",
+      "INDONESIAN": "Aku bakal bersihin sampai tetes terakhir.",
+      "PORTUGUESE": "Não se preocupe. Eu vou garantir que nem uma gota se perca.",
+      "SPANISH": "Voy a dejarlo todo limpio, ni una gota va a quedar.",
+      "PERSIAN": "نگران نباش، نمی‌ذارم حتی یه قطره‌ش هدر بره، همه‌شو برات پاک می‌کنم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 31.7,
+      "HIDE": 34.1
+    },
+    "SCRIPT": {
+      "KOREAN": "닦아요? 뭘요?",
+      "ENGLISH": "‘Not a single drop’...? What are you talking about??",
+      "CHINESE_SIMPLIFIED": "擦？擦什么？",
+      "CHINESE_TRADITIONAL": "擦？擦什麼？",
+      "JAPANESE": "拭く？何をですか？",
+      "INDONESIAN": "Bersihin? Apa maksudnya?",
+      "PORTUGUESE": "‘Nem uma gota’...? Do que você tá falando??",
+      "SPANISH": "¿Limpiar...? ¿Qué cosa...?",
+      "PERSIAN": "«یه قطره‌ش»؟! داری در مورد چی حرف می‌زنی اخه؟!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 37.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 나한테 다 맡기면 돼요.",
+      "ENGLISH": "Relax. Just leave it all to me.",
+      "CHINESE_SIMPLIFIED": "交给我就好了",
+      "CHINESE_TRADITIONAL": "全部交給我處理就好",
+      "JAPANESE": "全部私に任せてください",
+      "INDONESIAN": "Pokoknya serahin aja semuanya ke aku.",
+      "PORTUGUESE": "Relaxa. Deixa tudo comigo.",
+      "SPANISH": "Solo déjamelo a mí.",
+      "PERSIAN": "شل کن بابا! همه‌چیزو بسپار به خودم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 42.7
+    },
+    "SCRIPT": {
+      "KOREAN": "왜..왜..요? 여기서? 지금?",
+      "ENGLISH": "Wh-what?? Here? Right now??",
+      "CHINESE_SIMPLIFIED": "为、为什么…？在这？现在？？",
+      "CHINESE_TRADITIONAL": "為…為什麼？在這裡？現在？",
+      "JAPANESE": "え…えっ？ここで？今？",
+      "INDONESIAN": "K-kenapa…? Di sini? Sekarang?!",
+      "PORTUGUESE": "O-o quê?? Aqui? Agora??",
+      "SPANISH": "¿P-por qué...? ¿Aquí? ¿Ahora...?",
+      "PERSIAN": "چـ... چی؟! همین‌جا؟! الان؟!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 42.7,
+      "HIDE": 43.0
+    }
+  }
+]

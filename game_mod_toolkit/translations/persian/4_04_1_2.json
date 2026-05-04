@@ -1,0 +1,488 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 가?",
+      "ENGLISH": "Where are you going?",
+      "CHINESE_SIMPLIFIED": "去哪儿？",
+      "CHINESE_TRADITIONAL": "你要去哪？",
+      "JAPANESE": "どこ行くの？",
+      "INDONESIAN": "Mau kemana?",
+      "PORTUGUESE": "Pra onde vai?",
+      "SPANISH": "¿A dónde vas?",
+      "PERSIAN": "کجا میری؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 나 화장실...",
+      "ENGLISH": "Huh? I’m going to the bathroom…",
+      "CHINESE_SIMPLIFIED": "呃？我要去厕所...",
+      "CHINESE_TRADITIONAL": "呃？我要去廁所…",
+      "JAPANESE": "あっ トイレに…",
+      "INDONESIAN": "Hah? Ke kamar mandi…",
+      "PORTUGUESE": "Hã? Ao banheiro...",
+      "SPANISH": "¿Eh? Al baño…",
+      "PERSIAN": "ها؟ دارم میرم حموم…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么？",
+      "CHINESE_TRADITIONAL": "為什麼？",
+      "JAPANESE": "どうして？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "SPANISH": "¿Por qué?",
+      "PERSIAN": "چرا؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 물을 좀 많이 마셨거든.",
+      "ENGLISH": "Uh… I drank a lot of water.",
+      "CHINESE_SIMPLIFIED": "呃？水喝得有点多...",
+      "CHINESE_TRADITIONAL": "呃？我水喝得有點多",
+      "JAPANESE": "水をちょっとたくさん飲んだ",
+      "INDONESIAN": "Uh… aku minum air kebanyakan.",
+      "PORTUGUESE": "É que bebi muita água.",
+      "SPANISH": "Eh… es que tomé mucha agua.",
+      "PERSIAN": "اوه... من زیاد آب خوردم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么？",
+      "CHINESE_TRADITIONAL": "為什麼？",
+      "JAPANESE": "どうして？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "SPANISH": "¿Por qué?",
+      "PERSIAN": "چرا؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 점심을 좀 짜게 먹었어...",
+      "ENGLISH": "Uh… lunch was a bit salty…",
+      "CHINESE_SIMPLIFIED": "啊？午饭吃得有点咸...",
+      "CHINESE_TRADITIONAL": "蛤？我中午吃得有點鹹…",
+      "JAPANESE": "昼ごはんちょっと味濃く食べた…",
+      "INDONESIAN": "Uh… makan siangnya agak keasinan…",
+      "PORTUGUESE": "Bom... porque almocei algo salgado...",
+      "SPANISH": "Pues… porque almorcé algo salado…",
+      "PERSIAN": "اوه… ناهار کمی شور بود…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "왜!",
+      "ENGLISH": "Why!",
+      "CHINESE_SIMPLIFIED": "为什么！",
+      "CHINESE_TRADITIONAL": "為什麼啦！",
+      "JAPANESE": "どうして！",
+      "INDONESIAN": "Kenapaaa!",
+      "PORTUGUESE": "Por quê?!",
+      "SPANISH": "¡¿Por qué?!",
+      "PERSIAN": "چرا!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "蛤？ ",
+      "JAPANESE": "あっ",
+      "INDONESIAN": "Uh?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "اوه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "갔다 와.",
+      "ENGLISH": "Go ahead, then.",
+      "CHINESE_SIMPLIFIED": "快去吧",
+      "CHINESE_TRADITIONAL": "你去吧",
+      "JAPANESE": "行ってきて",
+      "INDONESIAN": "Ya udah, sana.",
+      "PORTUGUESE": "Vai logo.",
+      "SPANISH": "Ve, anda.",
+      "PERSIAN": "برو جلو پس"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "응..",
+      "ENGLISH": "Okay…",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "喔",
+      "JAPANESE": "うん",
+      "INDONESIAN": "Oke…",
+      "PORTUGUESE": "Aham...",
+      "SPANISH": "Ajá…",
+      "PERSIAN": "باشه…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.4,
+      "HIDE": 28.3
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜요?ㅋㅋㅋ",
+      "ENGLISH": "Really? Hahaha",
+      "CHINESE_SIMPLIFIED": "真的吗？哈哈哈",
+      "CHINESE_TRADITIONAL": "真的假的？哈哈哈",
+      "JAPANESE": "ほんとですか？ｗｗｗ",
+      "INDONESIAN": "Serius? Hahaha",
+      "PORTUGUESE": "Sério? hahaha",
+      "SPANISH": "¿En serio? jajaja",
+      "PERSIAN": "واقعا؟ هاهاها"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그랬다니깐요! ㅋㅋㅋ",
+      "ENGLISH": "See, I told you! Hahaha",
+      "CHINESE_SIMPLIFIED": "啊都说了是这样嘛！哈哈哈",
+      "CHINESE_TRADITIONAL": "就說真的啦！ 哈哈哈",
+      "JAPANESE": "あ、そうだってば！ｗｗｗ",
+      "INDONESIAN": "Tuh kan, udah aku bilang! Hahaha",
+      "PORTUGUESE": "Tô te dizendo que sim! hahaha",
+      "SPANISH": "¡Te digo que sí! jajaja",
+      "PERSIAN": "ببین بهت گفتم! هاهاها"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 유나 씨, 성격 진짜 좋아 ㅋㅋㅋ ",
+      "ENGLISH": "No, Yu-na, your personality is so good. Hahaha",
+      "CHINESE_SIMPLIFIED": "有娜小姐性格真的好好哦，哈哈哈",
+      "CHINESE_TRADITIONAL": "不是啊，有娜妳的個性真的很好耶 哈哈",
+      "JAPANESE": "ユナさん、本当に性格いいよねｗｗｗ",
+      "INDONESIAN": "Nggak, Yu-na, kepribadianmu tuh asik banget. Hahaha",
+      "PORTUGUESE": "Ei, Yuna, você tem uma personalidade incrível hahaha",
+      "SPANISH": "Oye Yuna,eres muy divertida jajaja",
+      "PERSIAN": "نه یونا، شخصیتت خیلی خوبه. هاهاها"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 35.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아이~ 진짜 성격 좋은 건 언니들이죠~ ",
+      "ENGLISH": "Ah~ the ones with the best personalities are the older sisters~",
+      "CHINESE_SIMPLIFIED": "哎呦~要说性格好还得是姐姐们呀~",
+      "CHINESE_TRADITIONAL": "個性好的明明是幾位姊姊吧～",
+      "JAPANESE": "いや〜 性格いいのはお姉さんのほうです〜",
+      "INDONESIAN": "Ah~ yang lebih tua tuh emang personalitynya lebih asik!!",
+      "PORTUGUESE": "Na verdade, gosto muito de todas vocês, queridas~",
+      "SPANISH": "Las verdad, todas ustedes me caen muy bien, queridas~",
+      "PERSIAN": "آه~ آنهایی که بهترین شخصیت را دارند خواهران بزرگتر هستند~"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 37.3
+    },
+    "SCRIPT": {
+      "KOREAN": "언니? ㅋㅋㅋ",
+      "ENGLISH": "Older sisters? Hahaha",
+      "CHINESE_SIMPLIFIED": "姐姐？哈哈哈",
+      "CHINESE_TRADITIONAL": "姊姊？ 哈哈哈",
+      "JAPANESE": "お姉さんってｗｗｗ",
+      "INDONESIAN": "Yang lebih tua? Hahaha",
+      "PORTUGUESE": "“Queridas”? hahaha",
+      "SPANISH": "¿“Queridas”? jajaja",
+      "PERSIAN": "خواهرهای بزرگتر؟ هاهاها"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 38.2,
+      "HIDE": 39.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 다 마셨다 ",
+      "ENGLISH": "We already finished our drinks.",
+      "CHINESE_SIMPLIFIED": "我们都喝完啦",
+      "CHINESE_TRADITIONAL": "我們都喝光了嗎！",
+      "JAPANESE": "もう全部飲んじゃった",
+      "INDONESIAN": "Minumannya udah abis lho.",
+      "PORTUGUESE": "Já terminamos a garrafa.",
+      "SPANISH": "Ya nos terminamos la botella.",
+      "PERSIAN": "ما قبلا نوشیدنی هایمان را تمام کرده بودیم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 39.4,
+      "HIDE": 40.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그걸 벌써?",
+      "ENGLISH": "Already?",
+      "CHINESE_SIMPLIFIED": "这么快？",
+      "CHINESE_TRADITIONAL": "已經喝完了？",
+      "JAPANESE": "もう？",
+      "INDONESIAN": "Udah?",
+      "PORTUGUESE": "Tão rápido?",
+      "SPANISH": "¿Tan rápido?",
+      "PERSIAN": "قبلا؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 40.3,
+      "HIDE": 41.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 우리 하마야?",
+      "ENGLISH": "Aren’t we hippos?",
+      "CHINESE_SIMPLIFIED": "我们是河马吗这么能喝？",
+      "CHINESE_TRADITIONAL": "我們不是一人只有一杯嗎？",
+      "JAPANESE": "えっ 私たちカバ？",
+      "INDONESIAN": "Kita ini kuda nil apa gimana sih?",
+      "PORTUGUESE": "O que somos, hipopótamos?",
+      "SPANISH": "¿Somos hipopótamos o qué?",
+      "PERSIAN": "مگه ما اسب آبی نیستیم؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 42.0,
+      "HIDE": 43.1
+    },
+    "SCRIPT": {
+      "KOREAN": "더 마실 사람~!! ",
+      "ENGLISH": "Who wants to drink more!!",
+      "CHINESE_SIMPLIFIED": "还有谁要喝~！！",
+      "CHINESE_TRADITIONAL": "還有誰要喝！",
+      "JAPANESE": "もっと飲みたい人〜!!",
+      "INDONESIAN": "Siapa yang mau lanjut minum!!",
+      "PORTUGUESE": "Quem quer continuar bebendo~?",
+      "SPANISH": "¿Quién quiere seguir bebiendo~?",
+      "PERSIAN": "کی میخواد بیشتر بنوشه!!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 43.2,
+      "HIDE": 44.1
+    },
+    "SCRIPT": {
+      "KOREAN": "나!!",
+      "ENGLISH": "Me!!",
+      "CHINESE_SIMPLIFIED": "我！！",
+      "CHINESE_TRADITIONAL": "我！！",
+      "JAPANESE": "私!!",
+      "INDONESIAN": "Akuuu!!",
+      "PORTUGUESE": "Eu!",
+      "SPANISH": "¡Yo!",
+      "PERSIAN": "من!!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 44.1,
+      "HIDE": 45.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네 진짜 잘 마신다",
+      "ENGLISH": "Wow, you really know how to drink.",
+      "CHINESE_SIMPLIFIED": "哇塞，真能喝啊",
+      "CHINESE_TRADITIONAL": "哇賽，真的很會喝耶！",
+      "JAPANESE": "やばっ私たちすごい飲むね",
+      "INDONESIAN": "Wow, kamu jago banget minum ya.",
+      "PORTUGUESE": "Caramba, você aguenta mesmo.",
+      "SPANISH": "¡Dios mío, sí que aguantas!",
+      "PERSIAN": "وای، شما واقعاً نوشیدن را بلدید."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 47.2,
+      "HIDE": 48.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그니깐! ",
+      "ENGLISH": "I know, right!",
+      "CHINESE_SIMPLIFIED": "啊就是说啊！",
+      "CHINESE_TRADITIONAL": "對啊，就是說！",
+      "JAPANESE": "ほんとだよね！",
+      "INDONESIAN": "Iya dong!",
+      "PORTUGUESE": "Pode apostar!",
+      "SPANISH": "¡Ya lo creo!",
+      "PERSIAN": "می دانم، درست است!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 48.2,
+      "HIDE": 49.3
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 짠!",
+      "ENGLISH": "Alright, cheers!",
+      "CHINESE_SIMPLIFIED": "先干杯！",
+      "CHINESE_TRADITIONAL": "總之先乾杯！",
+      "JAPANESE": "じゃあ乾杯！",
+      "INDONESIAN": "Oke deh, cheers!",
+      "PORTUGUESE": "Então, saúde!",
+      "SPANISH": "¡Entonces salud!",
+      "PERSIAN": "باشه، به سلامتی!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 49.4,
+      "HIDE": 50.1
+    },
+    "SCRIPT": {
+      "KOREAN": "짠~!",
+      "ENGLISH": "Cheers~!",
+      "CHINESE_SIMPLIFIED": "干杯~！",
+      "CHINESE_TRADITIONAL": "乾杯～！",
+      "JAPANESE": "乾杯〜！",
+      "INDONESIAN": "Toast~!",
+      "PORTUGUESE": "Saúde~!",
+      "SPANISH": "¡Salud~!",
+      "PERSIAN": "به سلامتی~!"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 50.7,
+      "HIDE": 52.5
+    },
+    "SCRIPT": {
+      "KOREAN": "짠해! 야~!",
+      "ENGLISH": "Pitiful! Hey~!",
+      "CHINESE_SIMPLIFIED": "干杯！耶~！",
+      "CHINESE_TRADITIONAL": "乾杯～！耶～！",
+      "JAPANESE": "乾杯して！ね〜！",
+      "INDONESIAN": "Kasihan! Heii~!",
+      "PORTUGUESE": "Saúde, meninas~!",
+      "SPANISH": "¡Salud, chicas~!",
+      "PERSIAN": "رقت انگیز! هی ~!"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 57.5,
+      "HIDE": 60.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어휴... 여자는 잘 모르겠다.",
+      "ENGLISH": "sigh… I’ll never understand women.",
+      "CHINESE_SIMPLIFIED": "哎呦...真搞不懂女人",
+      "CHINESE_TRADITIONAL": "唉... 女人啊，真是搞不懂。",
+      "JAPANESE": "ああ…女のことはわかんないな",
+      "INDONESIAN": "sigh… cewek emang nggak akan pernah bisa dimengerti.",
+      "PORTUGUESE": "Ahh… nunca vou entender as mulheres.",
+      "SPANISH": "Ahh… nunca entenderé a las mujeres.",
+      "PERSIAN": "آه… من هرگز زنان را درک نخواهم کرد."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 60.6,
+      "HIDE": 61.9
+    },
+    "SCRIPT": {
+      "KOREAN": "잘~들 논다...",
+      "ENGLISH": "They’re having so much fun…",
+      "CHINESE_SIMPLIFIED": "玩得真嗨啊...",
+      "CHINESE_TRADITIONAL": "玩得可真嗨啊...",
+      "JAPANESE": "楽しそうだな",
+      "INDONESIAN": "Tapi seru banget ngeliatin mereka…",
+      "PORTUGUESE": "Como se divertem, caramba…",
+      "SPANISH": "Cómo se divierten, caray…",
+      "PERSIAN": "خیلی خوش می گذرانند…"
+    }
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어우...여기가 어디지?",
+      "ENGLISH": "Ugh… where am I?",
+      "CHINESE_SIMPLIFIED": "呃...这是哪儿啊？",
+      "CHINESE_TRADITIONAL": "喔... 這裡是哪裡啊？",
+      "JAPANESE": "あれ…ここ、どこだ？",
+      "INDONESIAN": "Ugh… ini di mana…?",
+      "PORTUGUESE": "Oh... onde estou?",
+      "SPANISH": "Oh... ¿Dónde estoy?",
+      "PERSIAN": "اوه... من کجام؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "깼어?",
+      "ENGLISH": "You’re awake?",
+      "CHINESE_SIMPLIFIED": "醒了吗？",
+      "CHINESE_TRADITIONAL": "妳醒了？",
+      "JAPANESE": "目が覚めた？",
+      "INDONESIAN": "Kamu udah sadar?",
+      "PORTUGUESE": "Acordou?",
+      "SPANISH": "¿Despertaste?",
+      "PERSIAN": "شما بیدار هستید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "고말숙?",
+      "ENGLISH": "Mal-sook?",
+      "CHINESE_SIMPLIFIED": "高末淑？",
+      "CHINESE_TRADITIONAL": "高末淑？",
+      "JAPANESE": "コ・マルスク？",
+      "INDONESIAN": "Mal-sook?",
+      "PORTUGUESE": "Malsook...?",
+      "SPANISH": "¿Malsook?",
+      "PERSIAN": "مال‌سوک؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "방금 죽어서 그런가? 따뜻하다.",
+      "ENGLISH": "Did I just die or something? It’s so warm.",
+      "CHINESE_SIMPLIFIED": "难道是因为刚死过一回？身子还挺暖的",
+      "CHINESE_TRADITIONAL": "是因為剛才死了嗎？感覺好溫暖喔",
+      "JAPANESE": "さっき死んだからかな?あったかいな",
+      "INDONESIAN": "Aku… barusan mati ya? Kok hangat banget di sini.",
+      "PORTUGUESE": "Será que morri? Tá tão quentinho...",
+      "SPANISH": "¿Acaso estoy muerto? Se siente cálido.",
+      "PERSIAN": "من فقط مردم یا چیزی؟ خیلی گرمه"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "방금 죽어서 그런가? 따뜻하다.",
+      "ENGLISH": "Did I just die or something? It’s so warm.",
+      "CHINESE_SIMPLIFIED": "难道是因为刚死过一回？身子还挺暖的",
+      "CHINESE_TRADITIONAL": "是因為剛才死了嗎？感覺好溫暖喔",
+      "JAPANESE": "さっき死んだからかな?あったかいな",
+      "INDONESIAN": "Aku… barusan mati ya? Kok hangat banget di sini.",
+      "PORTUGUESE": "Será que morri? Tá tão quentinho...",
+      "SPANISH": "¿Acaso estoy muerto? Se siente cálido.",
+      "PERSIAN": "من فقط مردم یا چیزی؟ خیلی گرمه"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 평생 여기서 나랑 같이 사는 거야. 알았지?",
+      "ENGLISH": "From now on, you’re living here with me forever. Got it?",
+      "CHINESE_SIMPLIFIED": "从今往后你要永远和我一起住在这里了。知道了吗？",
+      "CHINESE_TRADITIONAL": "以後在這裡要跟我永遠住在一起喔。 知道嗎？",
+      "JAPANESE": "これからここで私と一生一緒に暮らすの わかった？",
+      "INDONESIAN": "Mulai sekarang, kamu bakal tinggal di sini sama aku selamanya. Ngerti",
+      "PORTUGUESE": "Daqui pra frente, você vai viver comigo aqui... pra sempre.",
+      "SPANISH": "De ahora en adelante vas a vivir conmigo aquí para siempre.",
+      "PERSIAN": "از این به بعد، تو برای همیشه اینجا با من زندگی می کنی. متوجه شدید؟"
+    }
+  }
+]

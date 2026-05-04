@@ -1,0 +1,308 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저 아직 아파요...",
+      "ENGLISH": "I'm still in pain...",
+      "CHINESE_SIMPLIFIED": "我现在不舒服...",
+      "CHINESE_TRADITIONAL": "我還是不舒服...",
+      "JAPANESE": "まだ痛いです…",
+      "INDONESIAN": "Aku masih sakit",
+      "PORTUGUESE": "Ainda tá doendo...",
+      "SPANISH": "Todavía me duele...",
+      "PERSIAN": "هنوز درد دارم..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아파요? 어디요?",
+      "ENGLISH": "You're in pain? Where?",
+      "CHINESE_SIMPLIFIED": "不舒服？哪里？",
+      "CHINESE_TRADITIONAL": "不舒服？哪裡？",
+      "JAPANESE": "痛い？どこがですか？",
+      "INDONESIAN": "Sakit? Di mana?",
+      "PORTUGUESE": "Tá doendo? Onde?",
+      "SPANISH": "¿Te duele? ¿Dónde?",
+      "PERSIAN": "درد داری؟ کجا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어디가 아파요?",
+      "ENGLISH": "Where does it hurt?",
+      "CHINESE_SIMPLIFIED": "是哪里疼？",
+      "CHINESE_TRADITIONAL": "哪裡不舒服？",
+      "JAPANESE": "どこが痛いんですか？",
+      "INDONESIAN": "Bagian mana yang sakit?",
+      "PORTUGUESE": "Onde tá doendo?",
+      "SPANISH": "¿Dónde te duele?",
+      "PERSIAN": "کجا درد می‌کنه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "교통사고는 후유증이 있는 케이스라 ",
+      "ENGLISH": "Car accidents can have lingering effects,",
+      "CHINESE_SIMPLIFIED": "这属于交通事故后遗症",
+      "CHINESE_TRADITIONAL": "也會有交通事故後遺症的案例",
+      "JAPANESE": "交通事故の後遺症のケースは",
+      "INDONESIAN": "Kecelakaan lalu lintas itu kadang ada efek sampingnya",
+      "PORTUGUESE": "Em casos de acidente de trânsito, podem ficar sequelas",
+      "SPANISH": "En casos de accidentes de tráfico, pueden quedar secuelas",
+      "PERSIAN": "تصادفات رانندگی می‌تونن اثرات ماندگاری داشته باشند،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "갑자기 어디가 아플 수 있거든요....!",
+      "ENGLISH": "so pain can suddenly appear anywhere...!",
+      "CHINESE_SIMPLIFIED": "有时候是会突然发作的...！",
+      "CHINESE_TRADITIONAL": "所以有可能突然會痛...",
+      "JAPANESE": "突然痛みが出たりもするんですよね…！",
+      "INDONESIAN": "Tiba-tiba bisa aja muncul rasa sakit di mana gitu",
+      "PORTUGUESE": "e pode doer de repente...",
+      "SPANISH": "y puede doler de repente...",
+      "PERSIAN": "بنابراین درد می‌تونه ناگهان در هر جایی ظاهر شود...!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 역시...",
+      "ENGLISH": "Ah... I see...",
+      "CHINESE_SIMPLIFIED": "啊...果然...",
+      "CHINESE_TRADITIONAL": "啊...果然...",
+      "JAPANESE": "あぁ、やっぱり…",
+      "INDONESIAN": "Ah... bener juga...",
+      "PORTUGUESE": "Ah... entendi...",
+      "SPANISH": "Ah... ya veo...",
+      "PERSIAN": "آه... می‌بینم..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 어디가 아픈데요",
+      "ENGLISH": "So where does it hurt?",
+      "CHINESE_SIMPLIFIED": "所以到底是哪里疼呢",
+      "CHINESE_TRADITIONAL": "所以，是哪裡不舒服呢？",
+      "JAPANESE": "それで、どこが痛いんです？",
+      "INDONESIAN": "Jadi sakitnya di mana?",
+      "PORTUGUESE": "Então, onde tá doendo?",
+      "SPANISH": "Entonces, ¿dónde te duele?",
+      "PERSIAN": "خب کجاش درد می‌کنه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저 여기 입술이요.",
+      "ENGLISH": "My lip, here.",
+      "CHINESE_SIMPLIFIED": "这里，嘴唇",
+      "CHINESE_TRADITIONAL": "這裡，嘴唇",
+      "JAPANESE": "ここです　唇です",
+      "INDONESIAN": "Di sini... bibir aku",
+      "PORTUGUESE": "Bem aqui.",
+      "SPANISH": "Justo aquí.",
+      "PERSIAN": "لب من، اینجا."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "입술이요?!",
+      "ENGLISH": "Your lip?!",
+      "CHINESE_SIMPLIFIED": "嘴唇？！",
+      "CHINESE_TRADITIONAL": "嘴唇？！",
+      "JAPANESE": "唇！？",
+      "INDONESIAN": "Bibir?",
+      "PORTUGUESE": "Nos lábios!?",
+      "SPANISH": "¿¡En los labios!?",
+      "PERSIAN": "لبت؟!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네 입술 아픈데 안 봐줘요?",
+      "ENGLISH": "Yeah, my lip hurts. Won't you look at it?",
+      "CHINESE_SIMPLIFIED": "对啊我嘴唇疼，不帮我看看吗？",
+      "CHINESE_TRADITIONAL": "對啊，我的嘴唇很痛，不幫我看看嗎？",
+      "JAPANESE": "はい、唇が痛いのに、見てくれないんですか？",
+      "INDONESIAN": "Iya bibir aku sakit tapi nggak ada yang perhatiin",
+      "PORTUGUESE": "Sim, tá doendo muito, não pode dar uma olhada?",
+      "SPANISH": "Sí, me duelen mucho, ¿no puede revisarlos?",
+      "PERSIAN": "آره، لبم درد می‌کنه. نمی‌خوای بهش نگاه کنی؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이씨... 장난칠 거예요??",
+      "ENGLISH": "Geez... Are you kidding me??",
+      "CHINESE_SIMPLIFIED": "你这家伙...是要跟我开玩笑吗？？",
+      "CHINESE_TRADITIONAL": "你這傢伙，是在跟我開玩笑嗎？？",
+      "JAPANESE": "なっ…また冗談ですか！？",
+      "INDONESIAN": "Hey... kamu lagi bercanda ya",
+      "PORTUGUESE": "Ei... tá brincando comigo?",
+      "SPANISH": "Oiga... ¿está bromeando?",
+      "PERSIAN": "خدای من... داری مسخره‌ام می‌کنی؟؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 26.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 규리 씨 표정이 너무 심각하잖아요~",
+      "ENGLISH": "Ah, Ms. Gyuri, your expression is way too serious~",
+      "CHINESE_SIMPLIFIED": "久梨，你那表情太认真了啊~",
+      "CHINESE_TRADITIONAL": "久梨護理師的表情太過嚴肅了啦～",
+      "JAPANESE": "だって、ギュリさんの顔が深刻です〜",
+      "INDONESIAN": "Eh tapi ekspresi kamu serius banget sih Gyuri",
+      "PORTUGUESE": "Ah, Gyuri, é que você tava com uma expressão tão séria~",
+      "SPANISH": "Ay, Gyuri, es que tenía una expresión muy seria~",
+      "PERSIAN": "آه، خانم گیوری، قیافه‌تون زیادی جدیه~"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "난 다 나아도 규리 씨 보러 병원 올 건데.",
+      "ENGLISH": "Even if I'm all better, I'm coming to the hospital to see Ms. Gyuri.",
+      "CHINESE_SIMPLIFIED": "就算我康复了，也还是会来看你的",
+      "CHINESE_TRADITIONAL": "就算我康復了，也會來看你的！",
+      "JAPANESE": "俺、全部治ってもギュリさんに会いに病院来ますからね",
+      "INDONESIAN": "Padahal aku udah sembuh juga bakal tetap ke rumah sakit buat ketemu kamu",
+      "PORTUGUESE": "Mesmo que eu já esteja bem, ainda vou vir pro hospital só pra te ver.",
+      "SPANISH": "Aunque ya esté bien, igual vendré al hospital solo para verte.",
+      "PERSIAN": "حتی اگر حالم کاملاً خوب باشد، برای دیدن خانم گیوری به بیمارستان می‌آیم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.3
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "本当ですか？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "جدی می‌گی؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 32.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까 나 올 때마다 만나줘야 돼요.",
+      "ENGLISH": "So you have to meet me every time I come.",
+      "CHINESE_SIMPLIFIED": "所以我每次来，你都得见我哦",
+      "CHINESE_TRADITIONAL": "所以，我每次來的時候，你都要跟我見面喔",
+      "JAPANESE": "だから、俺が来たときは必ず会ってくださいね",
+      "INDONESIAN": "Makanya setiap aku datang kamu harus mau ketemu ya",
+      "PORTUGUESE": "Então, toda vez que eu vier, a gente tem que se ver.",
+      "SPANISH": "Así que cada vez que venga, tenemos que vernos.",
+      "PERSIAN": "پس هر وقت اومدم باید به استقبالم بیای."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 33.5
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠죠?",
+      "ENGLISH": "Got it?",
+      "CHINESE_SIMPLIFIED": "说定了？",
+      "CHINESE_TRADITIONAL": "知道嗎？",
+      "JAPANESE": "いいですか？",
+      "INDONESIAN": "Janji ya",
+      "PORTUGUESE": "Entendido?",
+      "SPANISH": "¿Entendido?",
+      "PERSIAN": "فهمیدی پسرم؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 알겠어요~",
+      "ENGLISH": "Yes! I got it~",
+      "CHINESE_SIMPLIFIED": "嗯！说定了！",
+      "CHINESE_TRADITIONAL": "嗯，知道了～！",
+      "JAPANESE": "はい！わかりました〜！",
+      "INDONESIAN": "Iya janji",
+      "PORTUGUESE": "Sim! Entendido~",
+      "SPANISH": "¡Sí! ¡Entendido~!",
+      "PERSIAN": "بله! گرفتم~"
+    }
+  }
+]

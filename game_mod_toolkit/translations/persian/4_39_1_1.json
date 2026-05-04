@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만요! 지금 뭐 하는 짓이에요!",
+      "ENGLISH": "Wait a second! What the hell do you think you’re doing?!",
+      "CHINESE_SIMPLIFIED": "等一下！你现在这是在做什么！",
+      "CHINESE_TRADITIONAL": "等一下！你現在在做什麼！",
+      "JAPANESE": "ちょっと待ってください！今何してるんですか！",
+      "INDONESIAN": "Tunggu dulu! Kamu pikir kamu lagi ngapain sih?!",
+      "PORTUGUESE": "Um momento! O que acha que tá fazendo?!",
+      "SPANISH": "¡Un momento! ¿Qué crees que estás haciendo?",
+      "PERSIAN": "یک ثانیه صبر کن فکر میکنی داری چیکار میکنی لعنتی؟!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "돈 많으면 사람 막 패도 됩니까?? ",
+      "ENGLISH": "Just ’cause you’ve got money, you think you can go around beating people up??",
+      "CHINESE_SIMPLIFIED": "有钱就可以随便打人吗？？",
+      "CHINESE_TRADITIONAL": "有錢就可以隨便打人嗎？？",
+      "JAPANESE": "金持ちだからって人を殴ってもいいんですか？？",
+      "INDONESIAN": "Cuma karena kamu punya duit, kamu pikir bisa seenaknya mukulin orang?!",
+      "PORTUGUESE": "Acha que por ter dinheiro pode sair batendo nas pessoas assim?",
+      "SPANISH": "¿Crees que por tener mucho dinero puede pegarle a la gente así?",
+      "PERSIAN": "فقط چون پول داری، فکر میکنی میتوانی مردم را کتک بزنی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": " 그것도 여자를??",
+      "ENGLISH": "And a woman, no less?!",
+      "CHINESE_SIMPLIFIED": "而且对方还是女生？？",
+      "CHINESE_TRADITIONAL": "而且還是打女人？？",
+      "JAPANESE": "しかも女を？？",
+      "INDONESIAN": "Dan cewek pula?!",
+      "PORTUGUESE": "E ainda por cima numa mulher?!",
+      "SPANISH": "¿Y encima a una mujer?",
+      "PERSIAN": "و یک زن، نه کمتر؟!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 약혼이고 뭐고 지금은 제 여자친구입니다! ",
+      "ENGLISH": "I don’t care if she’s your fiancée or whatever—right now, she’s my girlfriend!",
+      "CHINESE_SIMPLIFIED": "还有，不管你们以前是不是订过婚，现在她是我女朋友！",
+      "CHINESE_TRADITIONAL": "還有，不管你們有沒有訂婚，她現在是我的女朋友！",
+      "JAPANESE": "それと婚約とか何とか言ってるけど今は私の彼女です！",
+      "INDONESIAN": "Aku nggak peduli dia tunangan kamu atau siapa—sekarang, dia pacarku!",
+      "PORTUGUESE": "Quem liga pro noivado?! Agora ela é minha namorada!",
+      "SPANISH": "¡¿A quién le importa el compromiso?! ¡ahora ella es mi novia!",
+      "PERSIAN": "برای من مهم نیست که نامزد شما باشد یا هر چیز دیگری - در حال حاضر، او دوست دختر من است!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 네가 대신 맞을래?",
+      "ENGLISH": "Oh yeah? Then how about I hit you instead?",
+      "CHINESE_SIMPLIFIED": "那你要替她挨打吗？",
+      "CHINESE_TRADITIONAL": "那你要替她挨打嗎？",
+      "JAPANESE": "じゃあおまえが代わりに殴られるか？",
+      "INDONESIAN": "Oh ya? Kalau gitu gimana kalau aku pukul kamu aja?",
+      "PORTUGUESE": "Quer que eu bata em você no lugar dela?",
+      "SPANISH": "¿Quieres que te pegue a ti en su lugar?",
+      "PERSIAN": "اوه بله؟ پس چطوره که من به جای اون شما را بزنم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래! 차라리 날 때려라! 날 때려!!",
+      "ENGLISH": "Fine! Go ahead! Hit me! Hit me!!",
+      "CHINESE_SIMPLIFIED": "好！那你打我吧！来，打我啊！！",
+      "CHINESE_TRADITIONAL": "好啊！那你打我啊！來，打我啊！！",
+      "JAPANESE": "いいよ！むしろ俺を殴れ！殴れ！！",
+      "INDONESIAN": "Ayo! Pukul aja! Ayo, pukul!!",
+      "PORTUGUESE": "Quero ver tentar! Vai, me bate!",
+      "SPANISH": "¡Quiero ver qué lo intentes! ¡A ver, golpéame!",
+      "PERSIAN": "خوب! برو جلو! منو بزن منو بزن!!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 왜 그래요!",
+      "ENGLISH": "Yooman, what are you doing?!",
+      "CHINESE_SIMPLIFIED": "宥万，你干嘛啊！",
+      "CHINESE_TRADITIONAL": "宥萬，你幹嘛這樣啊！",
+      "JAPANESE": "ユマンさんどうしたんですか！",
+      "INDONESIAN": "Yuman, kamu ngapain sih?!",
+      "PORTUGUESE": "Yuman, o que deu em você?!",
+      "SPANISH": "¡Yumán, ¿qué te pasa?!",
+      "PERSIAN": "یومان چیکار میکنی؟!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오오~ 그래 그게 좋겠네.",
+      "ENGLISH": "Oooh~ now that sounds fun.",
+      "CHINESE_SIMPLIFIED": "哦哦~这主意不错啊",
+      "CHINESE_TRADITIONAL": "喔喔～這主意不錯啊",
+      "JAPANESE": "おお〜それいいね",
+      "INDONESIAN": "Oooh~ ini baru seru nih.",
+      "PORTUGUESE": "Isso vai ser divertido.",
+      "SPANISH": "Esto va a ser divertido.",
+      "PERSIAN": "اوه ~ حالا که برای تلفن های موبایل سرگرم کننده است."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "억!",
+      "ENGLISH": "Ugh!",
+      "CHINESE_SIMPLIFIED": "呃啊！",
+      "CHINESE_TRADITIONAL": "呃啊",
+      "JAPANESE": "うっ！",
+      "INDONESIAN": "Ugh!",
+      "PORTUGUESE": "Uf!",
+      "SPANISH": "¡Uf!",
+      "PERSIAN": "اوه"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어우야...하지 마~",
+      "ENGLISH": "Ah, come on… stop it~",
+      "CHINESE_SIMPLIFIED": "喂别打了！",
+      "CHINESE_TRADITIONAL": "喂別打了！",
+      "JAPANESE": "ううっ…やめて〜",
+      "INDONESIAN": "Ah, udah dong… berhenti~",
+      "PORTUGUESE": "Ah, não... não faz isso~",
+      "SPANISH": "¡Ay, no... no lo hagan!",
+      "PERSIAN": "آه، بیا... بس کن~"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그만해!",
+      "ENGLISH": "Enough!",
+      "CHINESE_SIMPLIFIED": "住手！",
+      "CHINESE_TRADITIONAL": "住手！",
+      "JAPANESE": "やめて！",
+      "INDONESIAN": "Cukup!",
+      "PORTUGUESE": "Parem!",
+      "SPANISH": "¡Basta!",
+      "PERSIAN": "بس است!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그만하라고!!",
+      "ENGLISH": "I said cut it out!!",
+      "CHINESE_SIMPLIFIED": "快住手！！",
+      "CHINESE_TRADITIONAL": "快住手！！",
+      "JAPANESE": "あ、やめて！！",
+      "INDONESIAN": "Aku bilang udahan!!",
+      "PORTUGUESE": "Eu disse pra pararem!!",
+      "SPANISH": "¡¡Les dije que paren!!",
+      "PERSIAN": "گفتم قطعش کن!!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 29.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜...",
+      "ENGLISH": "Goddammit...",
+      "CHINESE_SIMPLIFIED": "啊真是...",
+      "CHINESE_TRADITIONAL": "啊真是的...",
+      "JAPANESE": "あ うそ…",
+      "INDONESIAN": "Sialan...",
+      "PORTUGUESE": "Ai, meu Deus...",
+      "SPANISH": "Ay dios mío...",
+      "PERSIAN": "لعنتی..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 30.3,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 어떡해...",
+      "ENGLISH": "What do I even do now...",
+      "CHINESE_SIMPLIFIED": "怎么办啊...",
+      "CHINESE_TRADITIONAL": "怎麼辦啊...",
+      "JAPANESE": "あ どうしよう…",
+      "INDONESIAN": "Sekarang aku harus gimana...",
+      "PORTUGUESE": "O que eu faço agora?",
+      "SPANISH": "¿Qué hago?",
+      "PERSIAN": "الان چیکار کنم..."
+    }
+  }
+]

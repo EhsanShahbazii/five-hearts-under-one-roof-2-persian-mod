@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍, 근데 어느 쪽을 보고 누워야 되지?",
+      "ENGLISH": "Ssshh… But now… which way am I even supposed to face?",
+      "CHINESE_SIMPLIFIED": "嘶...但是我该朝哪边躺才好呢？",
+      "CHINESE_TRADITIONAL": "唔...但是我該朝哪邊躺才好呢？",
+      "JAPANESE": "スッ…どっち向いて寝ればいいんだろ？",
+      "INDONESIAN": "Ssshh... Tapi sekarang… aku harus menghadap ke arah mana, ya?",
+      "PORTUGUESE": "E agora, pra que lado eu tenho que virar?",
+      "SPANISH": "¿Y ahora que lado me tengo que voltear?",
+      "PERSIAN": "سسش... اما حالا... من اصلا قرار است با کدام سمت روبرو شوم؟"
+    }
+  }
+]

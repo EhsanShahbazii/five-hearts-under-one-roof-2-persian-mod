@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "긴장 돼요?",
+      "ENGLISH": "Nervous?",
+      "CHINESE_SIMPLIFIED": "紧张吗？",
+      "CHINESE_TRADITIONAL": "緊張嗎？",
+      "JAPANESE": "緊張してますか？",
+      "INDONESIAN": "Deg-degan ya?",
+      "PORTUGUESE": "Tá nervosa?",
+      "SPANISH": "¿Estás nerviosa?",
+      "PERSIAN": "عصبی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 조금요...",
+      "ENGLISH": "Yeah... a little...",
+      "CHINESE_SIMPLIFIED": "嗯...有点...",
+      "CHINESE_TRADITIONAL": "嗯...有點...",
+      "JAPANESE": "はい…ちょっとだけ…",
+      "INDONESIAN": "Iya... dikit",
+      "PORTUGUESE": "Sim... um pouco...",
+      "SPANISH": "Sí... un poco...",
+      "PERSIAN": "آره... یه کم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요! 늘 하던 대로! 알겠죠!",
+      "ENGLISH": "It's okay! Just do what you always do! Got it!",
+      "CHINESE_SIMPLIFIED": "没事的！就照平时那样来就好，好吗？",
+      "CHINESE_TRADITIONAL": "沒事的！照平常練習的做就好了！知道嗎！",
+      "JAPANESE": "大丈夫ですよ！いつも通りにやればいいんです、ね？",
+      "INDONESIAN": "Gak apa-apa! Kayak biasanya aja oke?",
+      "PORTUGUESE": "Fica tranquila! Faz do jeitinho que você sempre faz, tá?",
+      "SPANISH": "¡Tranquila! Hazlo como siempre lo haces, ¿sí?",
+      "PERSIAN": "اشکالی نداره! فقط کاری رو بکن که همیشه انجام میدی! قبول!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저 오늘 어때 보여요?",
+      "ENGLISH": "How do I look today?",
+      "CHINESE_SIMPLIFIED": "我今天看起来怎么样？",
+      "CHINESE_TRADITIONAL": "我今天看起來如何？",
+      "JAPANESE": "今日、私どうですか？",
+      "INDONESIAN": "Hari ini aku kelihatan gimana?",
+      "PORTUGUESE": "Como eu tô hoje?",
+      "SPANISH": "¿Cómo me veo hoy?",
+      "PERSIAN": "امروز چطور به نظر می‌رسم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그 사건 있고 첫 무대라 신경 좀 썼는데....",
+      "ENGLISH": "It's my first stage since that incident, so I've been stressing out a lot...",
+      "CHINESE_SIMPLIFIED": "因为是那件事之后第一次登台，所以特别花了点心思...",
+      "CHINESE_TRADITIONAL": "那件事之後的第一個舞台，特別花了一點心思...",
+      "JAPANESE": "あの事件のあと初めてのステージだから、かなり気を使ったんですけど…",
+      "INDONESIAN": "Ini panggung pertama sejak kejadian itu, jadi aku lumayan usaha...",
+      "PORTUGUESE": "Depois daquele incidente, como é minha primeira apresentação, me esforcei bastante...",
+      "SPANISH": "Después de aquel incidente, como es mi primera presentación, me esmeré mucho...",
+      "PERSIAN": "این اولین تجربه من بعد از اون اتفاقه، برای همین خیلی استرس دارم..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "还行吗？",
+      "CHINESE_TRADITIONAL": "還可以嗎？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kelihatan oke nggak?",
+      "PORTUGUESE": "Tá bom assim?",
+      "SPANISH": "¿Está bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  }
+]

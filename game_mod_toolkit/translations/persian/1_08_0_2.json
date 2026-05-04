@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 귤이요.",
+      "ENGLISH": "Here, a tangerine.",
+      "CHINESE_SIMPLIFIED": "这里有橘子",
+      "CHINESE_TRADITIONAL": "這裡有橘子",
+      "JAPANESE": "はい、みかんどうぞ",
+      "INDONESIAN": "Ini jeruknya.",
+      "PORTUGUESE": "Aqui, uma tangerina.",
+      "SPANISH": "Tome, es mandarina.",
+      "PERSIAN": "بیا، این نارنگی مال شما."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 주시는 거예요?",
+      "ENGLISH": "You’re giving it to me?",
+      "CHINESE_SIMPLIFIED": "这是给我的吗？",
+      "CHINESE_TRADITIONAL": "這是要給我嗎？",
+      "JAPANESE": "私にくださるんですか？",
+      "INDONESIAN": "Buat aku?",
+      "PORTUGUESE": "Está me dando mesmo?",
+      "SPANISH": "¿Me la está dando?",
+      "PERSIAN": "واقعاً دارین اینو به من میدین؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "밥도 못 드시고 일하시는 거 같은데 ",
+      "ENGLISH": "You haven’t eaten and you’re still working...",
+      "CHINESE_SIMPLIFIED": "看你连饭都没顾上吃还在工作",
+      "CHINESE_TRADITIONAL": "看你飯都沒吃就一直在忙",
+      "JAPANESE": "ご飯も食べずに働いているみたいなので",
+      "INDONESIAN": "soalnya kayaknya kamu kerja terus sampai belum sempat makan...",
+      "PORTUGUESE": "parece que você nem conseguiu comer e está trabalhando...",
+      "SPANISH": "parece que no ha podido comer por tanto trabajo",
+      "PERSIAN": "هنوز ناهار نخوردین و دارین بی‌وقفه سرپا کار می‌کنین..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 지금 드릴 수 있는 게 귤밖에 없네요...",
+      "ENGLISH": "This is all I have to offer right now.",
+      "CHINESE_SIMPLIFIED": "我现在能给你的也只有橘子了…",
+      "CHINESE_TRADITIONAL": "我現在能給的就只有橘子了…",
+      "JAPANESE": "今あげられるのがみかんしかなくて…",
+      "INDONESIAN": "Sekarang yang bisa aku kasih cuma jeruk ini...",
+      "PORTUGUESE": "No momento, a única coisa que posso te oferecer é essa tangerina...",
+      "SPANISH": "pero no tengo nada más que ofrecerle...",
+      "PERSIAN": "فعلاً تنها چیزی که دستم بود همین نارنگی بود..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니에요. 저 귤 완전 좋아해요.",
+      "ENGLISH": "No, I love tangerines.",
+      "CHINESE_SIMPLIFIED": "没关系，我很喜欢橘子",
+      "CHINESE_TRADITIONAL": "不會啦！我超喜歡橘子的",
+      "JAPANESE": "そんなことないですよ。私、みかん好きなんです。",
+      "INDONESIAN": "Nggak apa-apa kok. Aku suka banget jeruk.",
+      "PORTUGUESE": "Imagina, eu adoro tangerinas.",
+      "SPANISH": "No se preocupe, me encanta la mandarina.",
+      "PERSIAN": "وای نه این چه حرفیه، من عاشق نارنگیم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요, 유만 씨.",
+      "ENGLISH": "Thanks, Yuman.",
+      "CHINESE_SIMPLIFIED": "谢谢你，宥万先生",
+      "CHINESE_TRADITIONAL": "謝謝你，宥萬先生",
+      "JAPANESE": "ありがとう、ユマンさん",
+      "INDONESIAN": "Makasih ya, Yuman.",
+      "PORTUGUESE": "Obrigada, Sr. Yuman.",
+      "SPANISH": "Muchas gracias, señor Yumán",
+      "PERSIAN": "خیلی ازت ممنونم یومان."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 32.6,
+      "HIDE": 34.1
+    },
+    "SCRIPT": {
+      "KOREAN": "방 쌤 ~ 콜이요!",
+      "ENGLISH": "Nurse Bang! Call for you!",
+      "CHINESE_SIMPLIFIED": "方护士~叫你啦！",
+      "CHINESE_TRADITIONAL": "方護士～有電話！",
+      "JAPANESE": "バン先生〜コールです！！",
+      "INDONESIAN": "Perawat Bang! Ada panggilan!!",
+      "PORTUGUESE": "Enfermeira Bang! É pra você!",
+      "SPANISH": "¡Enfermera Gyu-ri! ¡La llaman!",
+      "PERSIAN": "خانم پرستار بنگ! بدو بیا صدات می‌کنن!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 34.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "来了！",
+      "CHINESE_TRADITIONAL": "來了！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Ya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Voy!",
+      "PERSIAN": "بله اومدم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 38.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유만님! 이따 선생님 진료 보셔야 되니까",
+      "ENGLISH": "Yuman, you’ve got a check-up coming up,",
+      "CHINESE_SIMPLIFIED": "对了，宥万先生！你等会儿还要看医生",
+      "CHINESE_TRADITIONAL": "啊對了，宥萬先生！等等你還要給醫生檢查",
+      "JAPANESE": "ユマンさん！あとで先生の診察を受けてもらわないといけないので、",
+      "INDONESIAN": "Yuman! Nanti kamu harus periksa sama dokter,",
+      "PORTUGUESE": "Sr. Yooman! Daqui a pouco o senhor tem consulta com o médico,",
+      "SPANISH": "Señor Yumán, como después tiene consulta con la doctora,",
+      "PERSIAN": "یومان جون! دکتر قراره تا چند دقیقه دیگه بیاد برای معاینه،"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 38.9,
+      "HIDE": 41.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 가지 마시고 꼭! 여기 계세요!",
+      "ENGLISH": "So please stay right here, okay?",
+      "CHINESE_SIMPLIFIED": "所以千万别乱跑，要乖乖待在这里哦！",
+      "CHINESE_TRADITIONAL": "所以不要亂跑，一定要待在這裡喔！",
+      "JAPANESE": "どこにも行かずに必ずここにいてくださいね！",
+      "INDONESIAN": "jadi jangan ke mana-mana dan tetap di sini ya!",
+      "PORTUGUESE": "então, por favor, não vá a lugar nenhum e fique aqui!",
+      "SPANISH": "no se vaya a ningún lado y espere aquí.",
+      "PERSIAN": "جایی نریا، حتماً روی تختت بمون باشه؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 44.0,
+      "HIDE": 46.3
+    },
+    "SCRIPT": {
+      "KOREAN": "엄청 바쁘시네...",
+      "ENGLISH": "She’s running around like crazy today...",
+      "CHINESE_SIMPLIFIED": "真是忙得不可开交呢…",
+      "CHINESE_TRADITIONAL": "看起來真的很忙呢…",
+      "JAPANESE": "本当に忙しそうだな…",
+      "INDONESIAN": "Wah, dia sibuk banget ya...",
+      "PORTUGUESE": "Ela está realmente ocupada...",
+      "SPANISH": "Sí que está ocupada…",
+      "PERSIAN": "سرش خیلی شلوغه بنده خدا..."
+    }
+  }
+]

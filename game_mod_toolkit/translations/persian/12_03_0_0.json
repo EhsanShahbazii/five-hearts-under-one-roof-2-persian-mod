@@ -1,0 +1,217 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 유정 씨 처음 만났을 때랑 묘하게 달라진 거 알아요?",
+      "ENGLISH": "But you know how you've changed strangely since the first time I met you, Yujeong?",
+      "CHINESE_SIMPLIFIED": "不过我发现，你和我第一次见你的时候有点不一样了",
+      "CHINESE_TRADITIONAL": "不過我發現，你和我第一次見你的時候有點不一樣了",
+      "JAPANESE": "でもユジョンさん、最初に会った時とちょっと雰囲気変わりましたよね？",
+      "INDONESIAN": "Tapi tahu nggak, Yujeong sekarang kelihatan beda dari pertama kali kita ketemu",
+      "PORTUGUESE": "Sabe, Yujeong? Você tá diferente desde a primeira vez que te conheci.",
+      "SPANISH": "¿Sabe, Yujeong? Te has vuelto diferente desde la primera vez que te conocí.",
+      "PERSIAN": "اما می‌دونی از اولین باری که تو را دیدم چگونه به طرز عجیبی تغییر کردی، یو-جونگ؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제가요?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我吗？",
+      "CHINESE_TRADITIONAL": "我嗎？",
+      "JAPANESE": "私が？",
+      "INDONESIAN": "Saya?",
+      "PORTUGUESE": "Eu?",
+      "SPANISH": "¿Yo?",
+      "PERSIAN": "من؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네 뭔가... 사람이 좀 밝고 당당해졌달까...?",
+      "ENGLISH": "Yeah, somehow... you seem brighter and more confident...?",
+      "CHINESE_SIMPLIFIED": "嗯，总觉得...变得开朗自信了些...？",
+      "CHINESE_TRADITIONAL": "嗯，總覺得...你變得開朗自信了些...？",
+      "JAPANESE": "ええ、なんか…人が少し明るく、自信に満ちた感じに。",
+      "INDONESIAN": "Iya, kayak... kamu kelihatan lebih cerah dan percaya diri gitu",
+      "PORTUGUESE": "Sim, é como se... você tivesse ficado mais radiante, mais confiante.",
+      "SPANISH": "Sí, es como si... te has vuelto más radiente, más segura de sí misma.",
+      "PERSIAN": "آره، یه جورایی... شما باهوش تر و مطمئن تر به نظر می رسید...؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "本当ですか？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 근데 제가 혹시 나댔거나...",
+      "ENGLISH": "Ah, but maybe I've been too nosy or...",
+      "CHINESE_SIMPLIFIED": "但会不会是我太冒失了...",
+      "CHINESE_TRADITIONAL": "但會不會是我太冒失了...",
+      "JAPANESE": "でも、もしかして私、出しゃばりすぎたとか…",
+      "INDONESIAN": "Eh tapi... jangan-jangan saya jadi terlalu lebay atau gimana...",
+      "PORTUGUESE": "Ah, mas... será que não tô forçando demais...?",
+      "SPANISH": "Ah, pero... ¿no estaré actuando demasiado...?",
+      "PERSIAN": "آه، اما شاید من بیش از حد فضول بودم یا ..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 아니, 그런 거 전혀 아니고! 좋다구요! 그런 모습...",
+      "ENGLISH": "No, no, not at all! It's good! That kind of vibe...",
+      "CHINESE_SIMPLIFIED": "不，不，完全不会！这样很好！非常好...",
+      "CHINESE_TRADITIONAL": "不，不，完全不會！這樣很好！非常好...",
+      "JAPANESE": "いえいえ、全然そんなことないです！むしろいいですよ、その感じ！",
+      "INDONESIAN": "Nggak, nggak sama sekali! Justru bagus! Aku suka kamu yang kayak gitu",
+      "PORTUGUESE": "Não, não, de jeito nenhum! Tá ótimo! Gosto de te ver assim...",
+      "SPANISH": "¡No, no, para nada! ¡Está muy bien! Me gusta verla así...",
+      "PERSIAN": "نه، نه، اصلا! خوب است! این جوری..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 공부는 잘 돼 가요?",
+      "ENGLISH": "But how's your studying going?",
+      "CHINESE_SIMPLIFIED": "对了，学业还顺利吗？",
+      "CHINESE_TRADITIONAL": "對了，學業還順利嗎？",
+      "JAPANESE": "ところで、勉強は順調ですか？",
+      "INDONESIAN": "Tapi belajar lancar-lancar aja?",
+      "PORTUGUESE": "E como vão os estudos?",
+      "SPANISH": "¿Y cómo va el estudio?",
+      "PERSIAN": "اما مطالعه شما چگونه پیش می رود؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 저 올해 수능 보기로 했어요!",
+      "ENGLISH": "Ah... I decided to take the college entrance exam this year!",
+      "CHINESE_SIMPLIFIED": "啊...我决定参加今年高考了！",
+      "CHINESE_TRADITIONAL": "啊...我決定參加今年學測了！",
+      "JAPANESE": "あ…今年、大学入試を受けることにしたんです！",
+      "INDONESIAN": "Ah... aku mutusin buat ikut ujian masuk tahun ini",
+      "PORTUGUESE": "Ah... este ano vou prestar o vestibular.",
+      "SPANISH": "Ah... este año voy a presentar el examen de ingreso a la universidad.",
+      "PERSIAN": "آخه... تصمیم گرفتم امسال کنکور بدم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 정말요?",
+      "ENGLISH": "Huh? Really?",
+      "CHINESE_SIMPLIFIED": "嗯？真的？",
+      "CHINESE_TRADITIONAL": "嗯？真的？",
+      "JAPANESE": "えっ？ほんとに？",
+      "INDONESIAN": "Hah? Serius?",
+      "PORTUGUESE": "Hã? Sério?",
+      "SPANISH": "¿Eh? ¿De verdad?",
+      "PERSIAN": "ها؟ واقعا؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "사실 그동안 또래 애들이랑 어울리는 게 망설여져서",
+      "ENGLISH": "Honestly, I've been hesitant to hang out with kids my age lately,",
+      "CHINESE_SIMPLIFIED": "其实之前一直不敢和同龄人接触",
+      "CHINESE_TRADITIONAL": "其實之前一直不敢和同齡人接觸",
+      "JAPANESE": "実は、同年代の子たちと関わるのが怖くて、ずっと躊躇してたんですけど…",
+      "INDONESIAN": "Sebenarnya selama ini aku suka ragu buat gaul sama teman seumuran",
+      "PORTUGUESE": "Sim. Antes eu tinha muita dificuldade em me enturmar com pessoas da minha idade,",
+      "SPANISH": "Sí. Antes dudaba mucho en juntarme con gente de mi edad,",
+      "PERSIAN": "راستش را بخواهید، اخیراً برای معاشرت با بچه های همسن خودم مردد بودم،"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 32.2
+    },
+    "SCRIPT": {
+      "KOREAN": "용기가 안 났는데, 이번에는 도전... 해보려구요.",
+      "ENGLISH": "couldn't muster the courage, but this time I'm going to... give it a shot.",
+      "CHINESE_SIMPLIFIED": "总是鼓不起勇气，但这次想挑战看看...",
+      "CHINESE_TRADITIONAL": "總是鼓不起勇氣，但這次想挑戰看看...",
+      "JAPANESE": "今度こそ挑戦してみようと思って。",
+      "INDONESIAN": "Nggak pede juga, tapi tahun ini aku pengen coba... tantang diri sendiri",
+      "PORTUGUESE": "me faltava coragem, mas dessa vez eu quero tentar.",
+      "SPANISH": "me faltaba valor, pero esta vez quiero intentarlo.",
+      "PERSIAN": "نتوانستم شجاعت را به دست بیاورم، اما این بار قصد دارم... به اون ضربه بزنم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 34.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 저... 괜찮겠죠?",
+      "ENGLISH": "I... think it'll be okay, right?",
+      "CHINESE_SIMPLIFIED": "我...能行的吧？",
+      "CHINESE_TRADITIONAL": "我...可以的吧？",
+      "JAPANESE": "……私、やっていけますかね？",
+      "INDONESIAN": "Menurut kamu... aku bakal bisa kan?",
+      "PORTUGUESE": "Você acha que... eu consigo?",
+      "SPANISH": "¿Cree que... pueda lograrlo?",
+      "PERSIAN": "فکر کنم درست میشه، درسته؟"
+    }
+  }
+]

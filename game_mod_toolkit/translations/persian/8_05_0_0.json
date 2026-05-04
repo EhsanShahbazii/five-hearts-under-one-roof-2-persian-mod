@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 요즘 어때?",
+      "ENGLISH": "So, how’s it been lately?",
+      "CHINESE_SIMPLIFIED": "那你最近怎么样？",
+      "CHINESE_TRADITIONAL": "那你最近過得怎麼樣？",
+      "JAPANESE": "それで、最近どう？",
+      "INDONESIAN": "Jadi, gimana belakangan ini?",
+      "PORTUGUESE": "Então, como você tem passado ultimamente?",
+      "SPANISH": "Entonces, ¿cómo te va últimamente?",
+      "PERSIAN": "بنابراین، اخیراً چگونه بوده است؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어떤 거요?",
+      "ENGLISH": "How’s what?",
+      "CHINESE_SIMPLIFIED": "你是指什么？",
+      "CHINESE_TRADITIONAL": "你是指什麼？",
+      "JAPANESE": "何がですか？",
+      "INDONESIAN": "Gimana apanya?",
+      "PORTUGUESE": "Ao que você se refere?",
+      "SPANISH": "¿A qué te refieres?",
+      "PERSIAN": "چطوری چی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하숙집 말이야.",
+      "ENGLISH": "The boarding house.",
+      "CHINESE_SIMPLIFIED": "就是合租生活啊",
+      "CHINESE_TRADITIONAL": "就是合租公寓的生活啊",
+      "JAPANESE": "下宿のこと",
+      "INDONESIAN": "Rumah kosnya.",
+      "PORTUGUESE": "À pensão.",
+      "SPANISH": "A la pensión.",
+      "PERSIAN": "پانسیون."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "지내는 사람 달라졌는데 어떠냐구.",
+      "ENGLISH": "The people you live with changed — how is it now?",
+      "CHINESE_SIMPLIFIED": "换了室友，感觉如何？",
+      "CHINESE_TRADITIONAL": "換了室友，感覺如何？",
+      "JAPANESE": "一緒に住んでる人が変わったけど、どう？",
+      "INDONESIAN": "Orang-orang yang tinggal bareng kamu kan udah ganti — sekarang rasanya gimana?",
+      "PORTUGUESE": "Como tá indo com os novos inquilinos?",
+      "SPANISH": "¿Como te va con los nuevos inquilinos?",
+      "PERSIAN": "افرادی که با اونا زندگی می کنید تغییر کردند - الان چطوره؟"
+    }
+  }
+]

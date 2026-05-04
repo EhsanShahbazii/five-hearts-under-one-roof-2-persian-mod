@@ -1,0 +1,159 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 1.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아마 오른쪽일 거예요.",
+      "ENGLISH": "It’s probably this way—on the right.",
+      "CHINESE_SIMPLIFIED": "应该是右边吧",
+      "CHINESE_TRADITIONAL": "應該是右邊吧",
+      "JAPANESE": "たぶん右の方だと思います",
+      "INDONESIAN": "(jalan ke kanan) (jalan ke kiri)",
+      "PORTUGUESE": "Deve ser pela direita.",
+      "SPANISH": "Debe ser a la derecha.",
+      "PERSIAN": "احتمالاً از این طریق است - در سمت راست."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오른쪽이요?",
+      "ENGLISH": "The right?",
+      "CHINESE_SIMPLIFIED": "右边吗？",
+      "CHINESE_TRADITIONAL": "右邊嗎？",
+      "JAPANESE": "右ですか？",
+      "INDONESIAN": "Kayaknya lewat sini deh—ke kanan.",
+      "PORTUGUESE": "Pela direita?",
+      "SPANISH": "¿A la derecha?",
+      "PERSIAN": "حق؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "yeah",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "是的",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Ke kanan?",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "بله"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨 좀 천천히 가요...",
+      "ENGLISH": "Yu-na, slow down a bit…",
+      "CHINESE_SIMPLIFIED": "有娜小姐，我们走慢点...",
+      "CHINESE_TRADITIONAL": "有娜小姐你走慢一點",
+      "JAPANESE": "ユナさん、もうちょっとゆっくり行きましょうよ…",
+      "INDONESIAN": "iya",
+      "PORTUGUESE": "Yuna, anda mais devagar...",
+      "SPANISH": "Yuna, ve más despacio…",
+      "PERSIAN": "یونا یه کم سرعتت رو کم کن…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "급하다면서요!",
+      "ENGLISH": "Didn’t you say it was urgent?",
+      "CHINESE_SIMPLIFIED": "刚才不是还说很急吗！",
+      "CHINESE_TRADITIONAL": "妳不是說很急嗎！",
+      "JAPANESE": "急いでるって言ったじゃないですか！",
+      "INDONESIAN": "Yu-na, pelan-pelan dong…",
+      "PORTUGUESE": "Mas você disse que tava com pressa!",
+      "SPANISH": "¡Pero dijiste que tenías prisa!",
+      "PERSIAN": "مگه نگفتی فوری بود؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 맞는데... 뭔가 좀 무섭잖아요...",
+      "ENGLISH": "It is, but… it’s still kinda scary…",
+      "CHINESE_SIMPLIFIED": "急是急啦...但总觉得有点吓人...",
+      "CHINESE_TRADITIONAL": "話是這麼說沒錯...總覺得有點可怕...",
+      "JAPANESE": "それはそうだけど…なんかちょっと怖いじゃないですか…",
+      "INDONESIAN": "Katanya tadi darurat?",
+      "PORTUGUESE": "Sim, mas… esse lugar dá medo.",
+      "SPANISH": "Sí, pero… este lugar da miedo.",
+      "PERSIAN": "هست، اما… هنوز هم ترسناک است…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 그냥 어두운 건데 뭐가 무섭다고 그래요",
+      "ENGLISH": "Come on, it’s just dark. Nothing scary about that. People are way scarier than ghosts anyway!",
+      "CHINESE_SIMPLIFIED": "哎呦，就是暗了点而已，有什么好怕的",
+      "CHINESE_TRADITIONAL": "只是比較暗，有什麼好怕的啊～比起鬼，人不是更可怕嗎！",
+      "JAPANESE": "ただ暗いだけですよ〜幽霊より人間の方がよっぽど怖いですよ！",
+      "INDONESIAN": "Iya sih, tapi… tetep aja agak serem…",
+      "PORTUGUESE": "É só um pouquinho de escuridão. As pessoas são bem mais assustadoras que os fantasmas!",
+      "SPANISH": "Solo es un poco de oscuridad. ¡Las personas dan más miedo que los fantasmas!",
+      "PERSIAN": "بیا، فقط تاریک است. هیچ چیز ترسناکی در مورد اون وجود ندارد. به هر حال مردم از ارواح ترسناک ترند!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "귀신보다 사람이 더 무섭다고요!",
+      "CHINESE_SIMPLIFIED": "比起鬼，人更可怕吧！",
+      "INDONESIAN": "Ayolah, cuma gelap doang. Nggak ada yang serem. Orang tuh jauh lebih serem daripada hantu!",
+      "PERSIAN": "مردم از ارواح ترسناک ترند!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 무서운데...",
+      "ENGLISH": "Still… I’m scared…",
+      "CHINESE_SIMPLIFIED": "可还是害怕嘛...",
+      "CHINESE_TRADITIONAL": "但我還是很害怕啊...",
+      "JAPANESE": "でもやっぱり怖いです…",
+      "INDONESIAN": "Tapi… aku tetep aja takut…",
+      "PORTUGUESE": "Tá, mas… eu tô com medo...",
+      "SPANISH": "Ya, pero… tengo miedo…",
+      "PERSIAN": "هنوز… می ترسم…"
+    }
+  }
+]

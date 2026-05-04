@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Oh?",
+      "CHINESE_SIMPLIFIED": "咦？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "あれ？",
+      "INDONESIAN": "Oh?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "اوه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님?",
+      "ENGLISH": "Is that Min‑jung?",
+      "CHINESE_SIMPLIFIED": "敏静？",
+      "CHINESE_TRADITIONAL": "是敏靜耶？",
+      "JAPANESE": "ミンジョンさん？",
+      "INDONESIAN": "Itu Min-jung ya?",
+      "PORTUGUESE": "Minjung?",
+      "SPANISH": "¿Minjung?",
+      "PERSIAN": "اون مین‌جونگ است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이 사람도 민정 님 팬인가...?",
+      "ENGLISH": "Is this person a fan of hers too…?",
+      "CHINESE_SIMPLIFIED": "这位也是敏静的粉丝吗...？",
+      "CHINESE_TRADITIONAL": "這個人也是敏靜的粉絲嗎...?",
+      "JAPANESE": "この人もミンジョンさんのファンなのかな…？",
+      "INDONESIAN": "Orang ini juga fansnya dia juga…?",
+      "PORTUGUESE": "Essa pessoa também é fã da Minjung?",
+      "SPANISH": "¿Esta persona también es fan de Minjung?",
+      "PERSIAN": "این شخص هم طرفدار اوست…؟"
+    }
+  }
+]

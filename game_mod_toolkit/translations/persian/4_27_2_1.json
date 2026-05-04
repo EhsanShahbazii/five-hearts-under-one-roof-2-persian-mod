@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 어? 시선 떨어진다!",
+      "ENGLISH": "Oh, oh? Your gaze is dropping!",
+      "CHINESE_SIMPLIFIED": "呃，呃？走神了！",
+      "CHINESE_TRADITIONAL": "欸、欸？視線掉下去了！",
+      "JAPANESE": "お、おっと！視線が下がってる！",
+      "INDONESIAN": "Oh, oh? Matanya mulai lima watttuh!",
+      "PORTUGUESE": "Ei, ei, não baixe o olhar!",
+      "SPANISH": "Eh, eh, ¡no baje la mirada!",
+      "PERSIAN": "اوه، اوه؟ نگاهت می افتد!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "바에 너무 기대지 마시고",
+      "ENGLISH": "Don’t lean too much on the bar—like this.",
+      "CHINESE_SIMPLIFIED": "别太往把杆上靠",
+      "CHINESE_TRADITIONAL": "不要太依賴在槓上",
+      "JAPANESE": "バーに寄りかかりすぎないで",
+      "INDONESIAN": "Jangan terlalu nyender ke bar, kayak gini.",
+      "PORTUGUESE": "Não se apoie tanto na barra.",
+      "SPANISH": "No se apoye tanto en la barra.",
+      "PERSIAN": "خیلی به میله تکیه نکنید - مثل این."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게",
+      "ENGLISH": "Can you feel the muscles properly?",
+      "CHINESE_SIMPLIFIED": "像这样吗？",
+      "CHINESE_TRADITIONAL": "像這樣？",
+      "JAPANESE": "こうやって",
+      "INDONESIAN": "Kamu kerasa tegang ototnya nggak?",
+      "PORTUGUESE": "Assim, olha...",
+      "SPANISH": "Así, mire…",
+      "PERSIAN": "می توانید عضلات را به درستی احساس کنید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근육이 제대로 느껴져요?",
+      "ENGLISH": "Which muscles?",
+      "CHINESE_SIMPLIFIED": "能感受到肌肉发力吗？",
+      "CHINESE_TRADITIONAL": "有感受到肌肉發力嗎？",
+      "JAPANESE": "筋肉、ちゃんと感じます？",
+      "INDONESIAN": "Otot yang mana?",
+      "PORTUGUESE": "Sente o trabalho do músculo?",
+      "SPANISH": "¿Siente bien el trabajo del músculo?",
+      "PERSIAN": "کدام ماهیچه ها؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 근육?",
+      "ENGLISH": "Here, your glute muscles.",
+      "CHINESE_SIMPLIFIED": "哪块肌肉？",
+      "CHINESE_TRADITIONAL": "哪裡的肌肉？",
+      "JAPANESE": "どこの筋肉？",
+      "INDONESIAN": "Ini lho, otot bokongnya.",
+      "PORTUGUESE": "De qual músculo?",
+      "SPANISH": "¿De qué músculo?",
+      "PERSIAN": "در اینجا، عضلات باسن شما."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요 여기 엉덩이 근육이요",
+      "ENGLISH": "You’re keeping the posture right?",
+      "CHINESE_SIMPLIFIED": "这里，这里的臀肌啊",
+      "CHINESE_TRADITIONAL": "這裡啦，這裡，臀部的肌肉！",
+      "JAPANESE": "ここです、ここ！お尻の筋肉！",
+      "INDONESIAN": "Posturnya udah bener, kan?",
+      "PORTUGUESE": "Desse aqui, do glúteo.",
+      "SPANISH": "De aquí, del glúteo.",
+      "PERSIAN": "شما وضعیت را درست نگه می دارید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "자세 잡아주는 거 맞지?",
+      "ENGLISH": "Ah, ah! Your posture’s slipping again.",
+      "CHINESE_SIMPLIFIED": "你是在帮我调整姿势对吧？",
+      "CHINESE_TRADITIONAL": "你有好好幫我調整姿勢吧？",
+      "JAPANESE": "フォーム、ちゃんと見てくれてるよね？",
+      "INDONESIAN": "Ah, ah! Posturmu mulai meleset lagi tuh.",
+      "PORTUGUESE": "Tem certeza de que está só corrigindo minha postura?",
+      "SPANISH": "¿Estás seguro de que me estás ayudando?",
+      "PERSIAN": "آه، آه! وضعیت شما دوباره لغزش می کند."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": " 어, 어! 자세 무너진다.",
+      "ENGLISH": "Look forward, look forward!",
+      "CHINESE_SIMPLIFIED": "呃，呃！姿势又要塌了",
+      "CHINESE_TRADITIONAL": "欸、欸！姿勢又跑掉了！",
+      "JAPANESE": "おっと、また崩れてる！",
+      "INDONESIAN": "Liat ke depan, liat ke depan!",
+      "PORTUGUESE": "Ei, de novo está perdendo a postura!",
+      "SPANISH": "Eh, ¡otra vez está perdiendo la postura!",
+      "PERSIAN": "به جلو نگاه کن، به جلو نگاه کن!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "앞에 보시고, 앞에 보시고!  ",
+      "ENGLISH": "Watch carefully.",
+      "CHINESE_SIMPLIFIED": "看前面，看前面！",
+      "CHINESE_TRADITIONAL": "看前面，看前面！",
+      "JAPANESE": "前を見てください、前！",
+      "INDONESIAN": "Perhatiin baik-baik ya.",
+      "PORTUGUESE": "Olhe pra frente, pra frente.",
+      "SPANISH": "Mire al frente, al frente.",
+      "PERSIAN": "با دقت تماشا کنید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제대로 봐요",
+      "ENGLISH": "It really feels like",
+      "CHINESE_SIMPLIFIED": "认真看动作哦",
+      "CHINESE_TRADITIONAL": "妳要認真看動作！",
+      "JAPANESE": "ちゃんと見てください！",
+      "INDONESIAN": "Rasanya tuh bener-bener",
+      "PORTUGUESE": "Concentre-se.",
+      "SPANISH": "Concéntrese.",
+      "PERSIAN": "واقعاً احساس می شود"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "확실히 유만 씨랑 오니까 운동이 잘 되는 거 같아",
+      "ENGLISH": "the workout’s more effective with you here, Yuman.",
+      "CHINESE_SIMPLIFIED": "果然和你一起练效果更好了呢",
+      "CHINESE_TRADITIONAL": "感覺跟你一起來，運動效果好像比較好耶？",
+      "JAPANESE": "やっぱりユマンさんと来ると運動がはかどるね",
+      "INDONESIAN": "latihannya jadi lebih efektif kalau kamu ada, Yuman.",
+      "PORTUGUESE": "Definitivamente, quando venho com você, o treino rende mais.",
+      "SPANISH": "Definitivamente, cuando vengo contigo, el ejercicio rinde más.",
+      "PERSIAN": "تمرین با شما در اینجا مؤثرتر است، یومان."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 다음에도 같이 오자.",
+      "ENGLISH": "Let’s come together next time too.",
+      "CHINESE_SIMPLIFIED": "下次也一起来吧",
+      "CHINESE_TRADITIONAL": "下次也一起來吧",
+      "JAPANESE": "次も一緒に来よう",
+      "INDONESIAN": "Besok kita latihan bareng lagi ya.",
+      "PORTUGUESE": "Vamos juntos da próxima vez.",
+      "SPANISH": "Vengamos juntos la próxima vez.",
+      "PERSIAN": "دفعه بعد هم بیایید دور هم"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.2,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요 ",
+      "ENGLISH": "Sounds good.",
+      "CHINESE_SIMPLIFIED": "好啊",
+      "CHINESE_TRADITIONAL": "好啊！",
+      "JAPANESE": "いいですよ",
+      "INDONESIAN": "Oke, siap!",
+      "PORTUGUESE": "Certo.",
+      "SPANISH": "De acuerdo.",
+      "PERSIAN": "به نظر خوب می رسد."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.4,
+      "HIDE": 35.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 벌써 그만 타시게요? ",
+      "ENGLISH": "But… you’re stopping already?",
+      "CHINESE_SIMPLIFIED": "不过这就不打算继续做啦？",
+      "CHINESE_TRADITIONAL": "可是，這麼快就要結束了嗎？",
+      "JAPANESE": "でも、もう終わりですか？",
+      "INDONESIAN": "Tapi… udah selesai aja nih?",
+      "PORTUGUESE": "Mas por que parou tão cedo?",
+      "SPANISH": "¿Pero por qué se detiene tan pronto?",
+      "PERSIAN": "اما ... شما در حال حاضر متوقف شده است؟"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아으...진짜..아..",
+      "ENGLISH": "Ugh... seriously... ah—",
+      "CHINESE_SIMPLIFIED": "啊呜...真是的...啊...",
+      "CHINESE_TRADITIONAL": "吼…搞什麼…",
+      "JAPANESE": "ああもう…ほんとに…あぁ…",
+      "INDONESIAN": "Ugh... serius... ah—",
+      "PORTUGUESE": "Não pode ser sério...",
+      "SPANISH": "No puede ser en serio...",
+      "PERSIAN": "اوه ... جدی ... آه -"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 비가 뭐가 이렇게 갑자기 와",
+      "ENGLISH": "Why did it have to start pouring all of a sudden?!",
+      "CHINESE_SIMPLIFIED": "不是，这雨怎么突然下这么大",
+      "CHINESE_TRADITIONAL": "怎麼突然下起雨啊",
+      "JAPANESE": "なんでこんな急に雨が降るの",
+      "INDONESIAN": "Mengapa tiba-tiba harus turun hujan deras?!",
+      "PORTUGUESE": "Por que tinha que começar a chover justo agora?",
+      "SPANISH": "¿Por qué tenía que empezar a llover de repente?",
+      "PERSIAN": "چرا باید یکدفعه شروع به ریختن می کرد؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "왔어?",
+      "ENGLISH": "You’re back?",
+      "CHINESE_SIMPLIFIED": "回来了？",
+      "CHINESE_TRADITIONAL": "回來了？",
+      "JAPANESE": "帰って来ましたか？",
+      "INDONESIAN": "Kamu kembali?",
+      "PORTUGUESE": "Já chegou?",
+      "SPANISH": "¿Ya llegaste?",
+      "PERSIAN": "تو برگشتی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 밖에 비 와요?",
+      "ENGLISH": "Huh? It’s raining out?",
+      "CHINESE_SIMPLIFIED": "呃？外面下雨了吗？",
+      "CHINESE_TRADITIONAL": "咦？外面下雨嗎？",
+      "JAPANESE": "え？ 外、雨降ってるんですか？",
+      "INDONESIAN": "Hah? Di luar sedang hujan?",
+      "PORTUGUESE": "Tá chovendo lá fora?",
+      "SPANISH": "¿Está lloviendo afuera?",
+      "PERSIAN": "ها؟ داره بارون میاد؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 집 앞에 도착하니까 ",
+      "ENGLISH": "Yeah. The second I got to the front door,",
+      "CHINESE_SIMPLIFIED": "嗯，我刚要到家门口",
+      "CHINESE_TRADITIONAL": "對啊，才剛要走到家門口",
+      "JAPANESE": "うん、家の前に着いた瞬間",
+      "INDONESIAN": "Ya. Saat aku sampai di pintu depan,",
+      "PORTUGUESE": "Sim, começou bem na hora que cheguei.",
+      "SPANISH": "Sí, empezó justo cuando llegué.",
+      "PERSIAN": "آره دومی که به جلوی در رسیدم،"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "갑자기 쏟아지더라고요!",
+      "ENGLISH": "it just dumped.",
+      "CHINESE_SIMPLIFIED": "下起倾盆大雨了呢！",
+      "CHINESE_TRADITIONAL": "就突然下大雨！",
+      "JAPANESE": "どしゃ降りですよ！",
+      "INDONESIAN": "itu dibuang begitu saja.",
+      "PORTUGUESE": "Tá caindo um temporal.",
+      "SPANISH": "Está lloviendo a cántaros.",
+      "PERSIAN": "فقط ریخته شد"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나 버리고 박민정 콘서트 간 벌이지!",
+      "ENGLISH": "That’s what you get for ditching me and going to Park Min-jung’s concert!",
+      "CHINESE_SIMPLIFIED": "这就是丢下我去看朴敏静演唱会的报应！",
+      "CHINESE_TRADITIONAL": "誰叫你丟下我自己跑去樸敏靜的演唱會，報應啦！",
+      "JAPANESE": "私を置いてパク・ミンジョンのコンサート行った罰だね！",
+      "INDONESIAN": "Itulah akibatnya kalau kau meninggalkanku dan pergi ke konser Park Min-jung!",
+      "PORTUGUESE": "Isso é o que dá por me deixar e ir pro show da Minjung!",
+      "SPANISH": "¡Eso te pasa por dejarme e irte al concierto de Minjung!",
+      "PERSIAN": "این چیزی است که برای رها کردن من و رفتن به کنسرت پارک مین‌جونگ بدست می آورید!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 콘서트는 재밌었어?",
+      "ENGLISH": "So? Was the concert fun?",
+      "CHINESE_SIMPLIFIED": "所以演唱会好看吗？",
+      "CHINESE_TRADITIONAL": "所以演唱會好玩嗎？",
+      "JAPANESE": "で、コンサートは楽しかった？",
+      "INDONESIAN": "Jadi? Apakah konsernya menyenangkan?",
+      "PORTUGUESE": "Mas... o show foi bom?",
+      "SPANISH": "¿Pero estuvo bueno el concierto?",
+      "PERSIAN": "پس؟ کنسرت جالب بود؟"
+    }
+  }
+]

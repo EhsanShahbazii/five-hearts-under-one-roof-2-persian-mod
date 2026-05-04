@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.4
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮을 거예요. ",
+      "ENGLISH": "It'll be okay.",
+      "CHINESE_SIMPLIFIED": "没问题的",
+      "CHINESE_TRADITIONAL": "沒問題的",
+      "JAPANESE": "大丈夫ですよ。",
+      "INDONESIAN": "Kamu pasti bisa kok",
+      "PORTUGUESE": "Vai dar tudo certo.",
+      "SPANISH": "Todo saldrá bien.",
+      "PERSIAN": "درست میشه"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": " 유정 씨는 정~말 성실한 사람이니깐.",
+      "ENGLISH": "You're such a sincere person, Yujeong.",
+      "CHINESE_SIMPLIFIED": "有情可是非常认真的人啊",
+      "CHINESE_TRADITIONAL": "有情可是會非常認真的人啊",
+      "JAPANESE": "ユジョンさんは本当に〜真面目で努力家なんですから。",
+      "INDONESIAN": "Yujeong itu orang yang bener-bener rajin",
+      "PORTUGUESE": "Yujeong, você é uma pessoa muito esforçada.",
+      "SPANISH": "Yujeong, eres una persona muy trabajadora.",
+      "PERSIAN": "تو خیلی آدم صمیمی هستی، یو-جونگ."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다른 사람도 유정 씨 좋게 볼 거예요.",
+      "ENGLISH": "Others will see you in a good light too.",
+      "CHINESE_SIMPLIFIED": "别人也会对你产生好感的",
+      "CHINESE_TRADITIONAL": "別人也會對你產生好感的",
+      "JAPANESE": "周りの人もきっとユジョンさんを良く思ってますよ。",
+      "INDONESIAN": "Orang lain juga pasti bakal lihat kamu dengan cara yang positif",
+      "PORTUGUESE": "Os outros também vão perceber o quanto você é boa.",
+      "SPANISH": "Los demás también verán lo buena que eres.",
+      "PERSIAN": "دیگران نیز شما را در نور خوبی خواهند دید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "本当ですか？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇다니까요~ 스스로를 더 믿어봐요.",
+      "ENGLISH": "I'm telling you~ Try believing in yourself more.",
+      "CHINESE_SIMPLIFIED": "当然啦~要更相信自己",
+      "CHINESE_TRADITIONAL": "當然啊～你要更相信自己",
+      "JAPANESE": "本当ですって〜。もっと自分を信じてください。",
+      "INDONESIAN": "Iya beneran~ Coba percaya diri sama dirimu sendiri",
+      "PORTUGUESE": "Claro que sim~! Acredita em você mesma.",
+      "SPANISH": "¡Claro que sí~! Confía en ti misma.",
+      "PERSIAN": "دارم بهت میگم سعی کن بیشتر به خودت ایمان داشته باشی."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠죠??",
+      "ENGLISH": "Got it??",
+      "CHINESE_SIMPLIFIED": "知道了吗？？",
+      "CHINESE_TRADITIONAL": "知道了嗎？？",
+      "JAPANESE": "いいですね？",
+      "INDONESIAN": "Oke?",
+      "PORTUGUESE": "Tudo bem?",
+      "SPANISH": "¿Está bien?",
+      "PERSIAN": "فهمیدم؟؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네...! 파이팅....!!!",
+      "ENGLISH": "Yes...! Fighting....!!!",
+      "CHINESE_SIMPLIFIED": "嗯...！加油！！！",
+      "CHINESE_TRADITIONAL": "嗯...！加油！！！",
+      "JAPANESE": "はい…！ファイト…！！",
+      "INDONESIAN": "Iya...! Semangat....!!!",
+      "PORTUGUESE": "Sim...! Vou dar o meu máximo...!!!",
+      "SPANISH": "¡Sí...! ¡A darlo todo...!!!",
+      "PERSIAN": "بله...! دعوا....!!!"
+    }
+  }
+]

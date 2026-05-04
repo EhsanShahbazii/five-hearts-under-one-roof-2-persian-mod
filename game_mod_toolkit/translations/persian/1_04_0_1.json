@@ -1,0 +1,122 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마 나 물 좀 줄 수 있어?",
+      "ENGLISH": "Mom, can I get some water?",
+      "PERSIAN": "مامان، یه کم آب بهم میدی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "목이 너무 말라서...",
+      "ENGLISH": "My throat’s so dry...",
+      "PERSIAN": "گلوم بدجوری خشک شده..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "물? 물병이 어디 있었는데..",
+      "ENGLISH": "Water? I think I saw a bottle around here somewhere.",
+      "PERSIAN": "آب؟ فک کنم همین دور و برا یه بطری دیدم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 얼른 가서 사 올게!",
+      "ENGLISH": "Hey, I’ll run out and grab some right now!",
+      "PERSIAN": "وایسا، الان می‌پرم بیرون برات می‌گیرم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 같이 가.",
+      "ENGLISH": "I’ll come with you.",
+      "PERSIAN": "منم باهات میام."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마 금방 올게 아들!",
+      "ENGLISH": "I’ll be right back, sweetie!",
+      "PERSIAN": "الان برمی‌گردم قربونت برم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마, 내 만화책!",
+      "ENGLISH": "Mom, my comics!",
+      "PERSIAN": "مامان، کمیک‌هام!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "만화책도 좀 갖다 줘...",
+      "ENGLISH": "Can you bring my comics, please?",
+      "PERSIAN": "کمیک‌هامم برام بیارین لطفاً..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마!",
+      "ENGLISH": "Mom!!!",
+      "PERSIAN": "ماماننن!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어..어?! 으아악!",
+      "ENGLISH": "Ah... huh?! Aaah—aghh!!",
+      "PERSIAN": "آخ... ها؟! واااای—آاااخ!!"
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요? 저 좀 재능있는 거 같죠!",
+      "ENGLISH": "Well? I think I’ve got some talent, right?",
+      "CHINESE_SIMPLIFIED": "怎么样？我挺有天赋的吧！",
+      "CHINESE_TRADITIONAL": "如何如何？我是不是很有天份！",
+      "JAPANESE": "どうです? 俺ちょっと才能あると思いません?",
+      "INDONESIAN": "Yah? Kurasa aku punya bakat, kan?",
+      "PORTUGUESE": "O que acha? Acho que tenho talento!",
+      "SPANISH": "¿Qué le parece? ¡Creo que tengo talento!",
+      "PERSIAN": "خب؟ فکر می کنم کمی استعداد دارم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네? ",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "재능의 뜻을 잘못 알고 계신 거 아니에요?",
+      "ENGLISH": "Are you sure you know what “talent” means...?",
+      "CHINESE_SIMPLIFIED": "你是不是对“天赋”这个词有什么误解？",
+      "CHINESE_TRADITIONAL": "你是不是誤解了有天份的意思？",
+      "JAPANESE": "才能の意味を勘違いしてません?",
+      "INDONESIAN": "Apakah Anda yakin tahu apa arti \"bakat\"...?",
+      "PORTUGUESE": "Você sabe mesmo o que significa “talento”?",
+      "SPANISH": "¿Sí conoces el significado de “talento”?",
+      "PERSIAN": "مطمئن هستید که می دانید \"استعداد\" یعنی چه...؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그, 그런가...",
+      "ENGLISH": "W-Was I that bad...?",
+      "CHINESE_SIMPLIFIED": "这，这样吗...",
+      "CHINESE_TRADITIONAL": "是、是這樣嗎…",
+      "JAPANESE": "そ、そうかな…",
+      "INDONESIAN": "A-apakah aku seburuk itu...?",
+      "PORTUGUESE": "S-sério...?",
+      "SPANISH": "¿E-en serio…?",
+      "PERSIAN": "و-اینقدر بد بودم...؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 아무튼 여기 수영장 같이 오고 싶었던 이유는",
+      "ENGLISH": "Anyway, part of why I wanted to come to the pool is—",
+      "CHINESE_SIMPLIFIED": "反正我想跟你一起来这个游泳馆的原因是",
+      "CHINESE_TRADITIONAL": "總之，我想跟你一起來游泳的原因是…",
+      "JAPANESE": "まあ とにかく ここプールに一緒に来た理由は",
+      "INDONESIAN": "Ngomong-ngomong, salah satu alasan saya ingin datang ke kolam renang adalah—",
+      "PORTUGUESE": "Bom, enfim, o motivo de eu querer vir à piscina juntos",
+      "SPANISH": "Bueno, en fin, la razón por la que quería venir a la piscina juntos",
+      "PERSIAN": "به هر حال، بخشی از دلیلی که می خواستم به استخر بیایم این است که"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "재활치료에 수영이 되게 좋다 하더라고요",
+      "ENGLISH": "I heard swimming’s really good for rehab.",
+      "CHINESE_SIMPLIFIED": "听说游泳对康复治疗特别有好处",
+      "CHINESE_TRADITIONAL": "聽說游泳對復健治療很有幫助",
+      "JAPANESE": "リハビリに水泳がすごくいいって聞いたからなんです",
+      "INDONESIAN": "Saya dengar berenang sangat bagus untuk rehabilitasi.",
+      "PORTUGUESE": "é porque dizem que nadar é ótimo pra reabilitação.",
+      "SPANISH": "es porque dicen que nadar es muy bueno para la rehabilitación.",
+      "PERSIAN": "شنیدم شنا برای توانبخشی واقعاً خوب است."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오! 제 생각해서 여기 온 거예요?",
+      "ENGLISH": "Oh! You came here for me?",
+      "CHINESE_SIMPLIFIED": "哦！是为我考虑才来的吗？",
+      "CHINESE_TRADITIONAL": "喔！你是為了我才來這裡的嗎？",
+      "JAPANESE": "おっ! 俺のこと考えてここに来てくれたんですか?",
+      "INDONESIAN": "Oh! Kau datang ke sini untukku?",
+      "PORTUGUESE": "Oh! Então você quis vir aqui por minha causa?",
+      "SPANISH": "¡Oh! ¿Entonces querías venir acá por mí?",
+      "PERSIAN": "اوه! برای من اومدی اینجا؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 뭐 나도 수영하고 싶기도 했고.",
+      "ENGLISH": "I mean... I wanted to swim too.",
+      "CHINESE_SIMPLIFIED": "不是啦，我自己也挺想游泳的",
+      "CHINESE_TRADITIONAL": "也不是啦，我自己也想游",
+      "JAPANESE": "いや まあ 自分も泳ぎたかったし",
+      "INDONESIAN": "Maksudku... aku juga ingin berenang.",
+      "PORTUGUESE": "Bom, eu também tava com vontade de nadar um pouco.",
+      "SPANISH": "Bueno, también tenía ganas de nadar un poco.",
+      "PERSIAN": "یعنی... من هم می خواستم شنا کنم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 유만 씨, 제가 도와주기로 했잖아요.",
+      "ENGLISH": "And Yuman, I did say I’d help you, didn’t I?",
+      "CHINESE_SIMPLIFIED": "而且我答应过要帮宥万先生的呀",
+      "CHINESE_TRADITIONAL": "而且我不是說過我會幫你的嗎",
+      "JAPANESE": "それにユマンさん 私が助けるって言ったでしょ",
+      "INDONESIAN": "Dan Yuman, aku sudah bilang aku akan membantumu, bukan?",
+      "PORTUGUESE": "E além disso, eu te disse que ia te ajudar, lembra?",
+      "SPANISH": "Y además, te dije que iba a ayudarte, ¿recuerdas?",
+      "PERSIAN": "و یومان، من گفتم که به شما کمک خواهم کرد، نه؟"
+    }
+  }
+]

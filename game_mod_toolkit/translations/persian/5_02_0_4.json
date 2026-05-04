@@ -1,0 +1,73 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤 저 물 좀 주세요...",
+      "ENGLISH": "Gyu-ri… can I get some water…?",
+      "CHINESE_SIMPLIFIED": "方护士，请给我点水...",
+      "CHINESE_TRADITIONAL": "久梨護理師，請給我一點水...",
+      "JAPANESE": "ギュリ先生、水ください…",
+      "INDONESIAN": "Gyu-ri… bisa ambilin air nggak…?",
+      "PORTUGUESE": "Enfermeira Gyuri, a senhora pode me trazer água?",
+      "SPANISH": "Enfermera Gyuri, ¿me puede traer agua?",
+      "PERSIAN": "گیو-ری… می توانم کمی آب بیاورم…؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 누워계세요! ",
+      "ENGLISH": "Yuman, just lie back and rest!",
+      "CHINESE_SIMPLIFIED": "宥万先生，您躺着别动！",
+      "CHINESE_TRADITIONAL": "宥萬先生，請你躺著休息",
+      "JAPANESE": "ユマンさん、横になっててください！",
+      "INDONESIAN": "Yuman, rebahan aja, istirahat dulu!",
+      "PORTUGUESE": "Não se preocupe, senhor Yumán!",
+      "SPANISH": "¡Usted no se preocupe, señor Yumán!",
+      "PERSIAN": "یومان، فقط دراز بکش و استراحت کن!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요!",
+      "ENGLISH": "Here you go!",
+      "CHINESE_SIMPLIFIED": "给！",
+      "CHINESE_TRADITIONAL": "水在這裡！",
+      "JAPANESE": "どうぞ！",
+      "INDONESIAN": "Nih, airnya!",
+      "PORTUGUESE": "Aqui está.",
+      "SPANISH": "Aquí tiene.",
+      "PERSIAN": "در اینجا شما بروید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다아...",
+      "ENGLISH": "Thank yooou…",
+      "CHINESE_SIMPLIFIED": "太谢谢了...",
+      "CHINESE_TRADITIONAL": "謝謝你...",
+      "JAPANESE": "ありがとうございます〜",
+      "INDONESIAN": "Makasiiiih…",
+      "PORTUGUESE": "Muuuito obrigadooo...",
+      "SPANISH": "Muchas graciaaas...",
+      "PERSIAN": "ممنون از شما…"
+    }
+  }
+]

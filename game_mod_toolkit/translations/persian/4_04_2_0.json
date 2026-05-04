@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.6
+    },
+    "SCRIPT": {
+      "KOREAN": "짠~!",
+      "ENGLISH": "Ta-da!",
+      "CHINESE_SIMPLIFIED": "干杯～！",
+      "CHINESE_TRADITIONAL": "乾杯～！",
+      "JAPANESE": "乾杯～！",
+      "INDONESIAN": "Tadaaa~!",
+      "PORTUGUESE": "Saúde!",
+      "SPANISH": "¡Salud!",
+      "PERSIAN": "تا-دا!"
+    }
+  }
+]

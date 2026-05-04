@@ -1,0 +1,104 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "나 근데 만약에 막 모델 데뷔 제대로 하면 ",
+      "ENGLISH": "But like, if I actually debut as a real model,",
+      "CHINESE_SIMPLIFIED": "不过要是...我真当了模特",
+      "JAPANESE": "でもさ、もし本当にモデルデビューとかして",
+      "INDONESIAN": "Tapi ya, kalau aku beneran debut jadi model,",
+      "PORTUGUESE": "Mas ei, se eu realmente estrear como modelo…",
+      "SPANISH": "Pero oye, si llego a debutar de verdad como modelo…",
+      "PERSIAN": "اما اگر من واقعاً به عنوان یک مدل واقعی شروع به کار کنم،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "막 말도 안 되는 옷 같은 거 입어야 될 거 같지 않아? ",
+      "ENGLISH": "don’t you think I’ll have to wear some crazy outfits?",
+      "CHINESE_SIMPLIFIED": "肯定得穿那些超级夸张的衣服吧？",
+      "JAPANESE": "ありえない服とか着なきゃいけなくなったらどうしよう？",
+      "INDONESIAN": "kamu nggak kepikiran aku bakal harus pakai baju-baju aneh?",
+      "PORTUGUESE": "Você não acha que eu teria que usar umas roupas meio esquisitas?",
+      "SPANISH": "¿No crees que tendría que ponerme ropa toda rara?",
+      "PERSIAN": "فکر نمیکنی باید لباسهای دیوانه کننده بپوشم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "말도 안 되는 옷 어떤 거??",
+      "ENGLISH": "Crazy outfits like what??",
+      "CHINESE_SIMPLIFIED": "夸张的衣服？是指哪种？",
+      "JAPANESE": "ありえない服って？",
+      "INDONESIAN": "Baju aneh kayak gimana??",
+      "PORTUGUESE": "Roupas esquisitas como?",
+      "SPANISH": "¿Ropa rara cómo?",
+      "PERSIAN": "لباس های دیوونه ای مثل چی؟؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.2
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 노출 있는 옷?",
+      "ENGLISH": "Hmm… like revealing outfits?",
+      "CHINESE_SIMPLIFIED": "嗯...露很多肉的那种？",
+      "JAPANESE": "うーん…露出の多い服とか？",
+      "INDONESIAN": "Hmm… kayak yang terbuka gitu?",
+      "PORTUGUESE": "Hmm… muito reveladoras?",
+      "SPANISH": "Mmm… ¿muy reveladora?",
+      "PERSIAN": "هوم... مثل لباس های آشکار؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "노출 있는 옷!?!",
+      "ENGLISH": "Revealing outfits?!",
+      "CHINESE_SIMPLIFIED": "露很多肉的！？！",
+      "JAPANESE": "露出の多い服！？",
+      "INDONESIAN": "Baju terbuka?!",
+      "PORTUGUESE": "Roupas reveladoras!?",
+      "SPANISH": "¿¡Ropa reveladora!?",
+      "PERSIAN": "لباس های فاش کننده؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "응... 노출있는 옷 입게 되면 어떨 거 같아?",
+      "ENGLISH": "Yeah… how do you think it’d be if I had to wear something revealing?",
+      "CHINESE_SIMPLIFIED": "嗯...要真让我穿暴露的衣服，你会怎么想？",
+      "JAPANESE": "うん…もしそういう服を着ることになったら、どう？",
+      "INDONESIAN": "Iya… menurut kamu gimana kalau aku harus pakai yang begituan?",
+      "PORTUGUESE": "Sim… se eu tivesse que usar algo assim, o que você acharia?",
+      "SPANISH": "Sí… si tuviera que ponerme algo así, ¿qué pensarías?",
+      "PERSIAN": "آره... فکر می‌کنی چطور می‌شد اگر مجبور شوم چیزی آشکار بپوشم؟"
+    }
+  }
+]

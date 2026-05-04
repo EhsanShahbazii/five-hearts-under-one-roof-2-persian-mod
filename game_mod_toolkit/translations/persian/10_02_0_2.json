@@ -1,0 +1,153 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 아!\n- 어!",
+      "ENGLISH": "— Ah!\n— Oh!",
+      "CHINESE_SIMPLIFIED": "-啊！\n-呃！",
+      "CHINESE_TRADITIONAL": "-啊！\n-呃！",
+      "JAPANESE": "‐ あっ！ \n‐ えっ！",
+      "INDONESIAN": "–Aduh!\n–Eh!",
+      "PORTUGUESE": "– Ah!\n– Ei!",
+      "SPANISH": "- ¡Ah!\n- ¡Eh!",
+      "PERSIAN": "— آه! — اوه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨... 괜찮아요?",
+      "ENGLISH": "Gyu-ri, are you okay?",
+      "CHINESE_SIMPLIFIED": "久梨...你没事吧？",
+      "CHINESE_TRADITIONAL": "久梨護理師...你沒事吧？",
+      "JAPANESE": "ギュリさん…大丈夫ですか？",
+      "INDONESIAN": "–Eh!",
+      "PORTUGUESE": "– Ah!",
+      "SPANISH": "– ¡Ah!",
+      "PERSIAN": "گیو-ری، حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨...",
+      "ENGLISH": "Yuman…",
+      "CHINESE_SIMPLIFIED": "宥万...",
+      "CHINESE_TRADITIONAL": "宥萬先生...",
+      "JAPANESE": "ユマンさん…",
+      "INDONESIAN": "Gyuri, kamu gapapa?",
+      "PORTUGUESE": "Gyuri… você tá bem?",
+      "SPANISH": "¿Gyuri… estás bien?",
+      "PERSIAN": "یومان…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 미쳤어요?",
+      "ENGLISH": "Are you out of your mind?",
+      "CHINESE_SIMPLIFIED": "你疯了吗？！",
+      "CHINESE_TRADITIONAL": "你瘋了嗎？",
+      "JAPANESE": "あんた、狂ってんのか？",
+      "INDONESIAN": "Kamu gila ya?!",
+      "PORTUGUESE": "Yumán…",
+      "SPANISH": "Yumán…",
+      "PERSIAN": "عقلت رو از دست دادی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "후배 교육시키는 거니까 그냥 가시죠?",
+      "ENGLISH": "I’m disciplining a junior — just leave us.",
+      "CHINESE_SIMPLIFIED": "我在教训后辈！不关你的事",
+      "CHINESE_TRADITIONAL": "我正在教訓後輩！不關你的事",
+      "JAPANESE": "後輩の教育なんだから放っておいてください！",
+      "INDONESIAN": "Kalau cuma mau \"ngedidik junior\", mending lo pergi aja deh!",
+      "PORTUGUESE": "Tá louca ou o quê?",
+      "SPANISH": "¿Está loca o qué?",
+      "PERSIAN": "دارم یه دانش‌آموز سال سومی رو تنبیه می‌کنم - فقط ما رو تنها بذار."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 후배 교육을 때리면서 해요!",
+      "ENGLISH": "Who hits someone to “educate” them?!",
+      "CHINESE_SIMPLIFIED": "谁教后辈是靠打的啊！",
+      "CHINESE_TRADITIONAL": "有誰教育後輩是用打得啊？",
+      "JAPANESE": "教育って、殴ることじゃないだろ！！",
+      "INDONESIAN": "Mana ada yang ngedidik sambil main tangan?!",
+      "PORTUGUESE": "Só tô ensinando ela, então vá embora.",
+      "SPANISH": "Solo la estoy educando, así que váyase.",
+      "PERSIAN": "چه کسی کسی را می‌زند تا «تربیت» کند؟!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨 가요.",
+      "ENGLISH": "Gyu-ri, let’s go.",
+      "CHINESE_SIMPLIFIED": "久梨，我们走",
+      "CHINESE_TRADITIONAL": "久梨，我們走",
+      "JAPANESE": "ギュリさん、行きましょう",
+      "INDONESIAN": "Gyuri, ayo.",
+      "PORTUGUESE": "Ninguém ensina batendo!",
+      "SPANISH": "¡Nadie educa a golpes!",
+      "PERSIAN": "گیوری، بیا بریم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "야... 너 어디 가!!!",
+      "ENGLISH": "Hey… where do you think you’re going!!!",
+      "CHINESE_SIMPLIFIED": "喂！你给我站住！！！",
+      "CHINESE_TRADITIONAL": "喂！你給我站住",
+      "JAPANESE": "おい…どこ行くんだよ！！！",
+      "INDONESIAN": "Hey... lo mau ke mana!!!",
+      "PORTUGUESE": "Gyuri, vamos embora.",
+      "SPANISH": "Gyuri, vámonos.",
+      "PERSIAN": "هی... فکر می‌کنی کجا داری میری!!!"
+    }
+  },
+  {
+    "SCRIPT": {
+      "PORTUGUESE": "Ei…! Aonde você pensa que vai!!!",
+      "SPANISH": "¡Oye…! ¡¿A dónde crees que vas!!!",
+      "PERSIAN": ""
+    }
+  }
+]

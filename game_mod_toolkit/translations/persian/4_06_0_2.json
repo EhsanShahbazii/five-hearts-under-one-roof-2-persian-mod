@@ -1,0 +1,343 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 전 과장님 말이 맞는 거 같아요.",
+      "ENGLISH": "Hmm… I think Manager’s right.",
+      "CHINESE_SIMPLIFIED": "嗯，我觉得科长说得有道理",
+      "CHINESE_TRADITIONAL": "嗯，我覺得課長說的滿有道理的",
+      "JAPANESE": "うーん、俺は課長の言うことが正しいと思います",
+      "INDONESIAN": "Hmm… kayaknya yang dibilang Manajer ada benernya.",
+      "PORTUGUESE": "Hmm, acho que a chefe Gran tem razão.",
+      "SPANISH": "Hmm, yo creo que le jefa Gran tiene razón.",
+      "PERSIAN": "هوم... من فکر می کنم مدیر درست می گوید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이걸로 사람 부르는 건 좀 돈 낭비인 것 같은데...",
+      "ENGLISH": "Calling someone in for this seems like a waste of money…",
+      "CHINESE_SIMPLIFIED": "为这点事叫保洁好像有点浪费钱...",
+      "CHINESE_TRADITIONAL": "為了這點事請人來清，有點浪費錢吧...",
+      "JAPANESE": "これで人を呼ぶのはちょっとお金の無駄な気がします…",
+      "INDONESIAN": "Manggil orang cuma buat ini kayaknya sayang duit deh…",
+      "PORTUGUESE": "Chamar alguém só por isso me parece um desperdício de dinheiro…",
+      "SPANISH": "Llamar a alguien solo por esto me parece un desperdicio de dinero…",
+      "PERSIAN": "تماس گرفتن با کسی برای این کار به نظر هدر دادن پول است…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇다니까!",
+      "ENGLISH": "Exactly!",
+      "CHINESE_SIMPLIFIED": "就是说啊！",
+      "CHINESE_TRADITIONAL": "就是說啊！",
+      "JAPANESE": "そうでしょ！",
+      "INDONESIAN": "Nah, itu dia maksudku!",
+      "PORTUGUESE": "Exatamente!",
+      "SPANISH": "¡Exactamente!",
+      "PERSIAN": "دقیقا!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그럼 매번 이걸 다 치워야 되는데요?",
+      "ENGLISH": "But then we’d have to clean up every time, right?",
+      "CHINESE_SIMPLIFIED": "但这样的话每次都要自己打扫不是吗？",
+      "CHINESE_TRADITIONAL": "那這樣我們每次就要自己清耶？",
+      "JAPANESE": "でもそしたら毎回自分たちで片付けることになりますよ？",
+      "INDONESIAN": "Tapi kalau gitu, kita harus bersihin setiap saat sendiri dong?",
+      "PORTUGUESE": "Mas então teríamos que limpar o tempo todo.",
+      "SPANISH": "Pero entonces tendríamos que limpiar todo el tiempo.",
+      "PERSIAN": "اما پس از اون ما باید هر بار تمیز کنیم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 당연한 건데 이게 왜 지금 문제가 되는 거지?",
+      "ENGLISH": "Well… of course. Why is that even a problem now?",
+      "CHINESE_SIMPLIFIED": "这不是理所当然的吗，这有什么好讨论的？",
+      "CHINESE_TRADITIONAL": "這不是理所當然的事嗎，現在怎麼會變成一個問題？",
+      "JAPANESE": "いや、それが普通のことでしょ　なんで今それが問題なの？",
+      "INDONESIAN": "Yah… ya iyalah. Emang kenapa juga sekarang jadi masalah?",
+      "PORTUGUESE": "Ué, obviamente, e qual é o problema?",
+      "SPANISH": "Pues obviamente, ¿y cuál es el problema?",
+      "PERSIAN": "خب… البته. چرا این حتی الان یک مشکل است؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "제 생각도 그래요",
+      "ENGLISH": "I think so too.",
+      "CHINESE_SIMPLIFIED": "我也这么想",
+      "CHINESE_TRADITIONAL": "我也這麼覺得",
+      "JAPANESE": "俺もそう思います",
+      "INDONESIAN": "Aku juga setuju.",
+      "PORTUGUESE": "Eu também penso o mesmo.",
+      "SPANISH": "Yo también pienso lo mismo.",
+      "PERSIAN": "من هم همینطور فکر می کنم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 그냥 조금씩만 더 부지런하게 치우면 되는 일 같은데",
+      "ENGLISH": "Everyone just needs to be a little more diligent about cleaning up.",
+      "CHINESE_SIMPLIFIED": "大家只要稍微勤快点儿随手收拾就行了吧",
+      "CHINESE_TRADITIONAL": "大家只要勤勞一點，自己動手清一下就好了吧",
+      "JAPANESE": "みんながもう少しだけマメに片付ければいい話ですよね",
+      "INDONESIAN": "Semua cuma perlu sedikit lebih rajin bersih-bersih aja.",
+      "PORTUGUESE": "Se todo mundo for só um pouquinho mais organizado, já resolve.",
+      "SPANISH": "Con que todos seamos un poquito más ordenados, ya está.",
+      "PERSIAN": "همه فقط باید کمی در مورد تمیز کردن کوشا باشند."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그래~ 뭐 돈이 뭐 썩어나는 것도 아니고.",
+      "ENGLISH": "Yeah~ it’s not like money grows on trees anyway.",
+      "CHINESE_SIMPLIFIED": "就是~钱又不是大风刮来的",
+      "CHINESE_TRADITIONAL": "對啊～ 又不是錢多到沒地方花",
+      "JAPANESE": "そうそう〜 お金が余ってるわけでもないし",
+      "INDONESIAN": "Iya~ lagian juga duit nggak tumbuh di pohon, kan.",
+      "PORTUGUESE": "Sim, também não é como se a gente tivesse dinheiro sobrando.",
+      "SPANISH": "Sí, tampoco es que nos sobre el dinero.",
+      "PERSIAN": "بله، به هر حال اینطوری نیست که پول روی درختان رشد کند."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그럼 제가 내면요?",
+      "ENGLISH": "So… should I pay for it?",
+      "CHINESE_SIMPLIFIED": "那要不我来付？",
+      "CHINESE_TRADITIONAL": "那... 如果我來付錢呢？",
+      "JAPANESE": "でも、もし私が払うならどうですか？",
+      "INDONESIAN": "Jadi… aku aja yang bayar?",
+      "PORTUGUESE": "E se eu pagar?",
+      "SPANISH": "¿Y si yo pago?",
+      "PERSIAN": "بنابراین ... باید برای اون پرداخت کنم؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨가 다 낸다고요?",
+      "ENGLISH": "Yu-na said she’d cover it.",
+      "CHINESE_SIMPLIFIED": "有娜小姐要全出吗？",
+      "CHINESE_TRADITIONAL": "有娜小姐妳要全部付掉？",
+      "JAPANESE": "ユナさんが全部払うって？",
+      "INDONESIAN": "Tadi Yu-na bilang dia yang mau tanggung.",
+      "PORTUGUESE": "Yuna, você vai pagar tudo?",
+      "SPANISH": "¿Yuna, tú vas a pagar todo?",
+      "PERSIAN": "یونا گفت که اونو پوشش می دهد."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 요거 뭐 얼마 안 해요",
+      "ENGLISH": "Yeah! It’s not that expensive.",
+      "CHINESE_SIMPLIFIED": "嗯！这个花不了多少钱的",
+      "CHINESE_TRADITIONAL": "對啊！這個又沒多少錢",
+      "JAPANESE": "はい！ これくらいなら大した金額じゃないですよ",
+      "INDONESIAN": "Iya! Harganya juga nggak mahal kok.",
+      "PORTUGUESE": "Sim! Também não é tão caro assim.",
+      "SPANISH": "¡Sí! Tampoco cuesta tanto.",
+      "PERSIAN": "آره آنقدرها هم گران نیست"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 30.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 낼게요",
+      "ENGLISH": "I’ll pay then.",
+      "CHINESE_SIMPLIFIED": "我来付吧",
+      "CHINESE_TRADITIONAL": "我來付！",
+      "JAPANESE": "私が払います",
+      "INDONESIAN": "Ya udah, aku yang bayar deh.",
+      "PORTUGUESE": "Eu pago.",
+      "SPANISH": "Yo lo pago.",
+      "PERSIAN": "اونوقت پرداخت میکنم"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ ",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah…",
+      "SPANISH": "Ah…",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 31.7,
+      "HIDE": 35.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 근데 업체가 청소하는 게 조금 더 깔끔하지 않을까요?",
+      "ENGLISH": "But wouldn’t a professional cleaning service make it a bit cleaner?",
+      "CHINESE_SIMPLIFIED": "不过专业保洁确实会更干净些吧？",
+      "CHINESE_TRADITIONAL": "那請清潔公司來打掃會不會更乾淨一點？",
+      "JAPANESE": "でも業者さんが掃除したほうが、もっとスッキリきれいになりませんか？",
+      "INDONESIAN": "Tapi jasa bersih-bersih profesional kan hasilnya lebih rapi?",
+      "PORTUGUESE": "Embora, se for uma empresa que fizer, com certeza vai ficar mais limpo, né?",
+      "SPANISH": "Aunque, si lo hace una empresa, seguro queda más limpio, ¿no creen?",
+      "PERSIAN": "اما یک سرویس نظافت حرفه ای اونو کمی تمیزتر نمی کند؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 35.4,
+      "HIDE": 39.2
+    },
+    "SCRIPT": {
+      "KOREAN": "왜냐면 우유만이 청소할 때마다 저희가 손을 한 번씩 더 댔어야 됐잖아요.",
+      "ENGLISH": "Because every time Yuman cleaned, we still had to touch it up ourselves.",
+      "CHINESE_SIMPLIFIED": "因为之前吴宥万每次打扫完，我们都得返工重擦一遍呢...",
+      "CHINESE_TRADITIONAL": "因為每次宥萬在整理完，我們都還要再幫他整理一次，不是嗎？",
+      "JAPANESE": "だってユマンが掃除するたびに、私たちが結局手直ししてたじゃないですか",
+      "INDONESIAN": "Soalnya tiap kali Yuman yang bersihin, kita tetep harus rapihin ulang.",
+      "PORTUGUESE": "Porque toda vez que o Yumán limpava, a gente tinha que fazer tudo de novo depois.",
+      "SPANISH": "Porque cada vez que Yumán limpiaba, teníamos que volver a hacerlo nosotras",
+      "PERSIAN": "چون هر بار که یومان تمیز می‌کرد، باز هم باید خودمان اونو لمس می‌کردیم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 42.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 또 그렇긴 해...",
+      "ENGLISH": "True…",
+      "CHINESE_SIMPLIFIED": "那倒也是...",
+      "CHINESE_TRADITIONAL": "這點倒是真的啦...",
+      "JAPANESE": "それもまあ、そうなんだけど…",
+      "INDONESIAN": "Itu sih bener juga…",
+      "PORTUGUESE": "Bom, isso também é verdade…",
+      "SPANISH": "Bueno, eso también es verdad…",
+      "PERSIAN": "درسته…"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 44.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 과장님?",
+      "ENGLISH": "Right, Manager?",
+      "CHINESE_SIMPLIFIED": "嗯？科长？",
+      "CHINESE_TRADITIONAL": "蛤？課長？",
+      "JAPANESE": "え？課長？",
+      "INDONESIAN": "Bener, kan, Manajer?",
+      "PORTUGUESE": "Você também, chefe?",
+      "SPANISH": "¿Usted también, jefa? ",
+      "PERSIAN": "درسته مدیر؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 44.5,
+      "HIDE": 47.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 다들 오케이한 거죠? 지금 부를게요? ",
+      "ENGLISH": "So… everyone’s okay with this? Should we call them now?",
+      "CHINESE_SIMPLIFIED": "那大家都同意了？我现在就叫保洁？",
+      "CHINESE_TRADITIONAL": "所以大家都同意吧？我現在打電話叫人囉？",
+      "JAPANESE": "じゃあ全員OKってことでいいですね？ 今呼びますね？",
+      "INDONESIAN": "Jadi… semua setuju? Kita panggil aja sekarang yuk?",
+      "PORTUGUESE": "Então, todos de acordo? Posso chamar o serviço agora?",
+      "SPANISH": "Entonces, ¿todos de acuerdo? ¿Llamo al servicio ahora?",
+      "PERSIAN": "پس ... همه با این مشکلی ندارند؟ الان باید باهاشون تماس بگیریم؟"
+    }
+  }
+]

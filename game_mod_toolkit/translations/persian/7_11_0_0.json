@@ -1,0 +1,297 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍...하...",
+      "ENGLISH": "tss… hah…",
+      "CHINESE_SIMPLIFIED": "嘶...哈...",
+      "CHINESE_TRADITIONAL": "呼...哈...",
+      "JAPANESE": "……はぁ",
+      "INDONESIAN": "Tss… hah…",
+      "PORTUGUESE": "Tss… ha…",
+      "SPANISH": "Tss… ha…",
+      "PERSIAN": "فش… هه…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "준비 되셨어요?",
+      "ENGLISH": "Are you ready?",
+      "CHINESE_SIMPLIFIED": "准备好了吗？",
+      "CHINESE_TRADITIONAL": "準備好了嗎？",
+      "JAPANESE": "準備できましたか？",
+      "INDONESIAN": "Kamu udah siap?",
+      "PORTUGUESE": "Tá pronta?",
+      "SPANISH": "¿Estás lista?",
+      "PERSIAN": "شما آماده اید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그 준비 아직 안 됐는데... ",
+      "ENGLISH": "Ah— I’m not mentally ready yet…",
+      "CHINESE_SIMPLIFIED": "那个，还没准备好...",
+      "CHINESE_TRADITIONAL": "那個，還沒準備好...",
+      "JAPANESE": "あ、まだ心の準備が…",
+      "INDONESIAN": "Ah— aku belum siap mental…",
+      "PORTUGUESE": "Ah, ainda não totalmente…",
+      "SPANISH": "Ah, todavía no del todo…",
+      "PERSIAN": "آه- من هنوز از نظر ذهنی آماده نیستم…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 보고 싶은데 너무 떨리는데 어떡하죠?",
+      "ENGLISH": "Ah… I want to see it, but I’m shaking so much, what do I do?",
+      "CHINESE_SIMPLIFIED": "啊..好想看，但又紧张得要命怎么办？",
+      "CHINESE_TRADITIONAL": "啊...好想看，但又緊張的要命，怎麼辦？",
+      "JAPANESE": "あぁ…見たいけど、緊張しすぎてどうしよ",
+      "INDONESIAN": "Ah… aku pengin lihat, tapi aku gemetaran banget, gimana dong?",
+      "PORTUGUESE": "Ah… quero ver, mas tô tão nervoso, o que eu faço?",
+      "SPANISH": "Ah… quiero verla, pero estoy tan nervioso, ¿qué hago?",
+      "PERSIAN": "آه... من می خواهم ببینمش، اما خیلی می لرزم، چه کار کنم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "신부님 보여드리겠습니다.",
+      "ENGLISH": "I will now show you the bride.",
+      "CHINESE_SIMPLIFIED": "现在要给您揭晓了哦",
+      "CHINESE_TRADITIONAL": "現在為你揭曉新娘的模樣",
+      "JAPANESE": "それでは、新婦さんをお見せします",
+      "INDONESIAN": "Sekarang aku bakal tunjukin pengantinnya.",
+      "PORTUGUESE": "Vou apresentar a noiva.",
+      "SPANISH": "Le presentaré a la novia.",
+      "PERSIAN": "حالا عروس را به شما نشان می دهم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어때?",
+      "ENGLISH": "How is it?",
+      "CHINESE_SIMPLIFIED": "怎么样？",
+      "CHINESE_TRADITIONAL": "怎麼樣？",
+      "JAPANESE": "どう？",
+      "INDONESIAN": "Gimana?",
+      "PORTUGUESE": "O que você acha?",
+      "SPANISH": "¿Qué te parece?",
+      "PERSIAN": "چطوره؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 28.7,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "예,예뻐...",
+      "ENGLISH": "B… beautiful…",
+      "CHINESE_SIMPLIFIED": "好...好漂亮...",
+      "CHINESE_TRADITIONAL": "好、好漂亮...",
+      "JAPANESE": "き、きれい…",
+      "INDONESIAN": "C… cantik banget…",
+      "PORTUGUESE": "Você tá… linda.",
+      "SPANISH": "Te ves… hermosa.",
+      "PERSIAN": "ب… زیبا…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 31.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 다야?",
+      "ENGLISH": "That’s it?",
+      "CHINESE_SIMPLIFIED": "就这句？",
+      "CHINESE_TRADITIONAL": "就只有這樣",
+      "JAPANESE": "それだけ？",
+      "INDONESIAN": "Cuma itu?",
+      "PORTUGUESE": "É só isso?",
+      "SPANISH": "¿Eso es todo?",
+      "PERSIAN": "همین؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 32.9,
+      "HIDE": 34.9
+    },
+    "SCRIPT": {
+      "KOREAN": "고말숙 남편 된 소감이 어때?",
+      "ENGLISH": "How does it feel— being Go Malsook’s future husband?",
+      "CHINESE_SIMPLIFIED": "当上高末淑的老公，有什么感想？",
+      "CHINESE_TRADITIONAL": "成為高末淑的老公，有什麼感想呢？",
+      "JAPANESE": "コ・マルスクの旦那になった気分は？",
+      "INDONESIAN": "Gimana rasanya—jadi calon suami Go Malsook?",
+      "PORTUGUESE": "Como é ser o marido da Malsook Go?",
+      "SPANISH": "¿Cómo se siente ser el esposo de Malsook Go?",
+      "PERSIAN": "چه احساسی دارد - شوهر آینده گو مال‌سوک بودن؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 39.1,
+      "HIDE": 40.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 행복해...",
+      "ENGLISH": "I’m so happy…",
+      "CHINESE_SIMPLIFIED": "太幸福了...",
+      "CHINESE_TRADITIONAL": "太幸福了...",
+      "JAPANESE": "すごく幸せだ…",
+      "INDONESIAN": "Aku seneng banget…",
+      "PORTUGUESE": "Eu tô tão feliz…",
+      "SPANISH": "Soy tan feliz…",
+      "PERSIAN": "من خیلی خوشحالم…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 44.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야~ 우유만 울어?",
+      "ENGLISH": "What— Wooyooman, are you crying?",
+      "CHINESE_SIMPLIFIED": "什么呀~吴宥万你哭啦？",
+      "CHINESE_TRADITIONAL": "搞什麼啊，吳宥萬你哭了嗎？",
+      "JAPANESE": "なにそれ〜ユマン泣いてるの？",
+      "INDONESIAN": "Eh—Wooyooman, kamu nangis ya?",
+      "PORTUGUESE": "O que foi~ Yumán, você tá chorando?",
+      "SPANISH": "¿Qué pasa~ Yumán, estás llorando?",
+      "PERSIAN": "چی - وویومن، داری گریه می کنی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 44.6,
+      "HIDE": 46.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 너가 너무 예쁘잖아...",
+      "ENGLISH": "No, it’s just… you’re too beautiful…",
+      "CHINESE_SIMPLIFIED": "还不是因为你太漂亮了...",
+      "CHINESE_TRADITIONAL": "不是，是妳太漂亮了",
+      "JAPANESE": "いや、君が綺麗すぎるだけだよ…",
+      "INDONESIAN": "Nggak, ini cuma… kamu terlalu cantik…",
+      "PORTUGUESE": "Não, é que você tá linda demais…",
+      "SPANISH": "No, es que te ves demasiado hermosa…",
+      "PERSIAN": "نه، فقط… تو خیلی زیبا هستی…"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 47.8,
+      "HIDE": 51.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 넌 왜 웃어... 너 진짜 이쁘단 말이야...",
+      "ENGLISH": "Why are you laughing… I’m serious, you’re really beautiful…",
+      "CHINESE_SIMPLIFIED": "你笑什么...你是真的很美啊...",
+      "CHINESE_TRADITIONAL": "你笑什麼...你真的很美啊...",
+      "JAPANESE": "なに笑ってるの、ほんとに綺麗なんだよ…",
+      "INDONESIAN": "Kenapa ketawa… aku serius lho, kamu bener-bener cantik…",
+      "PORTUGUESE": "Por que tá rindo…? De verdade, você tá maravilhosa…",
+      "SPANISH": "¿Por qué te ríes…? De verdad, estás preciosa…",
+      "PERSIAN": "چرا میخندی...جدی میگم تو واقعا زیبایی…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 51.7,
+      "HIDE": 54.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 나 봐. 나 예쁘다며 ",
+      "ENGLISH": "Wooyooman, look at me. You said I’m pretty.",
+      "CHINESE_SIMPLIFIED": "吴宥万，看着我。你不是说我漂亮吗？",
+      "CHINESE_TRADITIONAL": "吳宥萬，看看我。你不是說我漂亮嗎？",
+      "JAPANESE": "ユマン見て、 私綺麗？",
+      "INDONESIAN": "Wooyooman, liat aku. Kamu bilang aku cantik.",
+      "PORTUGUESE": "Yumán, olha pra mim. Você disse que eu tava linda.",
+      "SPANISH": "Yumán, mírame. Dijiste que era hermosa.",
+      "PERSIAN": "وویومن، به من نگاه کن. گفتی من خوشگلم"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 56.3,
+      "HIDE": 57.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나랑 결혼해줘서 고마워.",
+      "ENGLISH": "Thank you for marrying me.",
+      "CHINESE_SIMPLIFIED": "谢谢你愿意和我结婚",
+      "CHINESE_TRADITIONAL": "謝謝你願意和我結婚",
+      "JAPANESE": "俺と結婚してくれてありがとう",
+      "INDONESIAN": "Makasih udah nikahin aku.",
+      "PORTUGUESE": "Obrigada por casar comigo.",
+      "SPANISH": "Gracias por casarte conmigo.",
+      "PERSIAN": "ممنون که با من ازدواج کردی"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 58.9,
+      "HIDE": 61.0
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 평생 나랑 행복하자.",
+      "ENGLISH": "Let’s be happy together for the rest of our lives.",
+      "CHINESE_SIMPLIFIED": "以后我们要一辈子幸福下去",
+      "CHINESE_TRADITIONAL": "以後我們要一輩子幸福下去喔",
+      "JAPANESE": "これから一生、俺と幸せになろう",
+      "INDONESIAN": "Ayo kita bahagia bareng seumur hidup.",
+      "PORTUGUESE": "A partir de agora, vamos ser felizes pro resto da vida juntos.",
+      "SPANISH": "A partir de ahora, seamos felices toda la vida juntos.",
+      "PERSIAN": "تا آخر عمر با هم شاد باشیم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 61.0,
+      "HIDE": 61.5
+    }
+  }
+]

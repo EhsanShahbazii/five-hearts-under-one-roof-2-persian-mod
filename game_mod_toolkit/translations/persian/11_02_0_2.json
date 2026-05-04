@@ -1,0 +1,91 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네. 예쁜데요?",
+      "ENGLISH": "Yes. Pretty, isn't it?",
+      "CHINESE_SIMPLIFIED": "嗯，很漂亮",
+      "CHINESE_TRADITIONAL": "嗯，很漂亮",
+      "JAPANESE": "はい…綺麗ですよ？",
+      "INDONESIAN": "Iya, cantik banget malah",
+      "PORTUGUESE": "Sim. Você tá linda.",
+      "SPANISH": "Sí. Te ves hermosa.",
+      "PERSIAN": "بله. قشنگه، مگه نه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 다예요?",
+      "ENGLISH": "Is that all?",
+      "CHINESE_SIMPLIFIED": "就这样吗？",
+      "CHINESE_TRADITIONAL": "就只有這樣嗎？",
+      "JAPANESE": "それだけですか？",
+      "INDONESIAN": "Cuma itu doang?",
+      "PORTUGUESE": "É só isso?",
+      "SPANISH": "¿Eso es todo?",
+      "PERSIAN": "همین؟ تمام شد؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 민정 씨, 충분히 예쁘니깐.",
+      "ENGLISH": "Yes! Minjeong, you're pretty enough.",
+      "CHINESE_SIMPLIFIED": "是啊，敏静已经够漂亮了",
+      "CHINESE_TRADITIONAL": "是嗎，敏靜已經夠漂亮了",
+      "JAPANESE": "はい！ミンジョンさん、十分綺麗ですから",
+      "INDONESIAN": "Iya serius Min-jung, kamu udah cakep banget",
+      "PORTUGUESE": "Sim, Minjung, você é mais do que o suficiente.",
+      "SPANISH": "Sí, Minjung, eres más que suficiente.",
+      "PERSIAN": "بله! مین‌جونگ، تو به اندازه کافی خوشگل هستی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "지금부터 무대만 신경 쓰면 돼요.",
+      "ENGLISH": "From now on, just focus on the stage.",
+      "CHINESE_SIMPLIFIED": "现在只要专注舞台就好了",
+      "CHINESE_TRADITIONAL": "係在只要專注在舞台上就好",
+      "JAPANESE": "今はステージのことだけ考えてください",
+      "INDONESIAN": "Sekarang tinggal fokus ke panggung aja",
+      "PORTUGUESE": "Agora só se concentra no palco.",
+      "SPANISH": "Ahora solo concéntrate en el escenario.",
+      "PERSIAN": "از این به بعد فقط روی صحنه تمرکز کن."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네. 그렇게 할게요.",
+      "ENGLISH": "Yes. I will.",
+      "CHINESE_SIMPLIFIED": "好，我会的...",
+      "CHINESE_TRADITIONAL": "好，我會的！",
+      "JAPANESE": "はい、そうします",
+      "INDONESIAN": "Iya, siap deh",
+      "PORTUGUESE": "Tá bom. Vou fazer isso.",
+      "SPANISH": "Sí. Lo haré así.",
+      "PERSIAN": "بله. انجامش میدم."
+    }
+  }
+]

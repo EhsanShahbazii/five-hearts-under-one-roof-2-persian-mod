@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "왔어요?",
+      "ENGLISH": "You’re here?",
+      "CHINESE_SIMPLIFIED": "来啦？",
+      "CHINESE_TRADITIONAL": "回來啦？",
+      "JAPANESE": "来たんですか？",
+      "INDONESIAN": "Kamu di sini?",
+      "PORTUGUESE": "Já chegou?",
+      "SPANISH": "¿Ya llegaste?",
+      "PERSIAN": "شما اینجا هستید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아직 안 잤네요 ",
+      "ENGLISH": "Still awake, huh.",
+      "CHINESE_SIMPLIFIED": "还没睡呢",
+      "CHINESE_TRADITIONAL": "還沒睡啊",
+      "JAPANESE": "まだ寝てなかったんですね",
+      "INDONESIAN": "Belum tidur ya.",
+      "PORTUGUESE": "Ainda tá acordada?",
+      "SPANISH": "¿Sigues despierta?",
+      "PERSIAN": "هنوز بیداره ها"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 오빠랑 얘기 좀 하다 자려고 기다렸어요.",
+      "ENGLISH": "Yeah! I was waiting—I wanted to talk to you a bit before bed.",
+      "CHINESE_SIMPLIFIED": "嗯！想跟哥哥聊会儿再睡，一直在等你呢",
+      "CHINESE_TRADITIONAL": "是！想跟哥哥聊一下天再睡，一直等著你",
+      "JAPANESE": "はい！お兄さんと少し話してから寝ようと思って待ってました",
+      "INDONESIAN": "Iya! Aku nungguin—pengen ngobrol sedikit sebelum tidur.",
+      "PORTUGUESE": "Sim, eu queria conversar um pouquinho com você antes de dormir.",
+      "SPANISH": "Sí, quería hablar un rato contigo antes de dormir.",
+      "PERSIAN": "آره منتظر بودم - می خواستم قبل از خواب با شما صحبت کنم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "啊，真的吗？",
+      "CHINESE_TRADITIONAL": "啊，真的嗎？",
+      "JAPANESE": "本当ですか？",
+      "INDONESIAN": "Gitu ya?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 어땠어요? 즐거웠어요?",
+      "ENGLISH": "So... how was today? Did you have a good time?",
+      "CHINESE_SIMPLIFIED": "今天怎么样？开心吗？",
+      "CHINESE_TRADITIONAL": "今天怎麼樣？開心嗎？",
+      "JAPANESE": "今日はどうでした？楽しかったですか？",
+      "INDONESIAN": "Jadi... gimana hari ini? Kamu senang nggak?",
+      "PORTUGUESE": "Como foi o seu dia? Se divertiu?",
+      "SPANISH": "¿Cómo te fue hoy? ¿La pasaste bien?",
+      "PERSIAN": "خب... امروز چطور بود؟ خوش گذشت؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 근데 마냥 편하지만은 않았어요.",
+      "ENGLISH": "Yeah… but I wouldn’t say it was completely relaxing.",
+      "CHINESE_SIMPLIFIED": "嗯，不过也不是完全轻松",
+      "CHINESE_TRADITIONAL": "嗯，但也不是完全輕鬆",
+      "JAPANESE": "はい、でも完全に気楽ってわけじゃなかったです",
+      "INDONESIAN": "Iya… tapi nggak bisa dibilang benar-benar santai juga sih.",
+      "PORTUGUESE": "Sim, mas… não consegui relaxar completamente.",
+      "SPANISH": "Sí, pero… no me pude relajar del todo.",
+      "PERSIAN": "بله... اما نمی توانم بگویم که کاملا آرامش بخش بود."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 일이 아직 해결 안 됐다 보니까.",
+      "ENGLISH": "I guess because things still aren’t really resolved yet.",
+      "CHINESE_SIMPLIFIED": "毕竟事情还没彻底解决嘛",
+      "CHINESE_TRADITIONAL": "畢竟事情還沒徹底解決",
+      "JAPANESE": "やっぱりまだ仕事の件が解決してないから",
+      "INDONESIAN": "Kayaknya karena semuanya masih belum benar-benar kelar.",
+      "PORTUGUESE": "Acho que é porque as coisas ainda não se resolveram.",
+      "SPANISH": "Supongo que es porque aún no se han solucionado las cosas.",
+      "PERSIAN": "حدس می‌زنم چون هنوز همه چیز واقعاً حل نشده است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 27.7
+    },
+    "SCRIPT": {
+      "KOREAN": "생각보다 제 얘기 들어주는 기자님들 찾기가 쉽지 않네요.",
+      "ENGLISH": "Turns out, it’s harder than I thought to find a journalist who’ll actually listen.",
+      "CHINESE_SIMPLIFIED": "没想到要找到能听我澄清的记者还挺难的",
+      "CHINESE_TRADITIONAL": "沒想到要找到願意聽我澄清的記者還滿難的",
+      "JAPANESE": "思ったより話を聞いてくれる記者さんを見つけるのって難しいですね",
+      "INDONESIAN": "Ternyata nyari jurnalis yang mau dengerin tuh lebih susah dari yang aku kira.",
+      "PORTUGUESE": "Não tá sendo fácil encontrar jornalistas que queiram ouvir minha história.",
+      "SPANISH": "No está siendo fácil encontrar periodistas que quieran escuchar mi historia.",
+      "PERSIAN": "به نظر می رسد، سخت تر از اون چیزی است که فکر می کردم پیدا کردن روزنامه نگاری که واقعاً گوش کند."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 30.9
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요 연락 받아주는 곳 분명 있을거예요 ",
+      "ENGLISH": "It’s okay. Someone out there will respond. I’m sure of it.",
+      "CHINESE_SIMPLIFIED": "没关系，总会有人愿意听你说的",
+      "CHINESE_TRADITIONAL": "沒關係，一定會有願意跟妳聯絡的地方",
+      "JAPANESE": "大丈夫ですよ きっと話を聞いてくれるところありますよ",
+      "INDONESIAN": "Nggak apa-apa. Pasti ada kok seseorang di luar sana yang bakal dengerin. Aku yakin.",
+      "PORTUGUESE": "Não se preocupa, com certeza vai ter algum meio que vai te responder.",
+      "SPANISH": "No te preocupes, seguro habrá algún medio que te responda.",
+      "PERSIAN": "اشکالی ندارد کسی آنجا پاسخ خواهد داد. من از اون مطمئن هستم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 32.1,
+      "HIDE": 34.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 막 불안하진 않아요 ",
+      "ENGLISH": "I’m not feeling super anxious or anything though.",
+      "CHINESE_SIMPLIFIED": "不过我倒不会太担心",
+      "CHINESE_TRADITIONAL": "不過我也沒有很擔心",
+      "JAPANESE": "でも、不思議と不安ではないんです",
+      "INDONESIAN": "Tapi aku juga nggak terlalu ngerasa cemas sih.",
+      "PORTUGUESE": "Mas pra ser sincera, eu não me sinto tão ansiosa assim.",
+      "SPANISH": "Pero la verdad, no me siento tan ansiosa.",
+      "PERSIAN": "من احساس اضطراب فوق العاده یا هیچ چیز دیگری ندارم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 37.5
+    },
+    "SCRIPT": {
+      "KOREAN": "설령 가수를 못 하게 된다고 하더라도",
+      "ENGLISH": "Even if I can’t keep going as a singer…",
+      "CHINESE_SIMPLIFIED": "就算最后真的当不了歌手",
+      "CHINESE_TRADITIONAL": "就算最後沒辦法當歌手",
+      "JAPANESE": "たとえ歌手を続けられなくなっても",
+      "INDONESIAN": "Bahkan kalau aku nggak bisa terus nyanyi pun…",
+      "PORTUGUESE": "Mesmo que eu acabe deixando minha carreira de cantora…",
+      "SPANISH": "Incluso si dejo mi carrera de cantante…",
+      "PERSIAN": "حتی اگر نتوانم به عنوان خواننده ادامه دهم…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 37.7,
+      "HIDE": 39.3
+    },
+    "SCRIPT": {
+      "KOREAN": "내 옆에는 오빠가 있으니까...",
+      "ENGLISH": "As long as you’re by my side, I’ll be okay.",
+      "CHINESE_SIMPLIFIED": "我身边还有哥哥在...",
+      "CHINESE_TRADITIONAL": "我身邊還有哥哥你在啊...",
+      "JAPANESE": "私のそばにはお兄さんがいるから…",
+      "INDONESIAN": "Selama kamu ada di sisiku, aku bakal baik-baik aja.",
+      "PORTUGUESE": "enquanto eu tiver você do meu lado, oppa…",
+      "SPANISH": "mientras te tenga a mi lado, oppa…",
+      "PERSIAN": "تا زمانی که تو کنارم باشی، حالم خوب است."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 43.2
+    },
+    "SCRIPT": {
+      "KOREAN": "와, 저한테 민정 님이 딱 그런 존재 잖아요",
+      "ENGLISH": "Wow… you know, that’s exactly what you are to me, Minjung.",
+      "CHINESE_SIMPLIFIED": "哇，对我来说，敏静你也是这样的存在啊",
+      "CHINESE_TRADITIONAL": "哇，對我來說，敏靜你也是這樣的存在啊",
+      "JAPANESE": "わぁ、ミンジョンさんも俺にとってまさにそんな存在です",
+      "INDONESIAN": "Wow… kamu tahu nggak, kamu juga persis kayak gitu buat aku, Minjung.",
+      "PORTUGUESE": "Minjung, você também é essa pessoa pra mim.",
+      "SPANISH": "Minjung,  tú también eres esa persona para mí.",
+      "PERSIAN": "وای... میدونی، این دقیقاً همون چیزی است که تو برای من هستی، مین‌جونگ."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 43.8,
+      "HIDE": 45.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼, 일 잘 해결될 거니깐",
+      "ENGLISH": "Anyway, everything’s gonna work out.",
+      "CHINESE_SIMPLIFIED": "总之事情肯定会顺利解决的",
+      "CHINESE_TRADITIONAL": "總之，事情會順利解決的",
+      "JAPANESE": "とにかく、きっと全部うまくいきますから",
+      "INDONESIAN": "Pokoknya, semua bakal baik-baik aja.",
+      "PORTUGUESE": "De qualquer forma, tudo vai se resolver,",
+      "SPANISH": "De todos modos, todo se va a solucionar,",
+      "PERSIAN": "به هر حال همه چیز درست میشه"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 46.1,
+      "HIDE": 47.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 걱정하지말고 ",
+      "ENGLISH": "So don’t stress too much—",
+      "CHINESE_SIMPLIFIED": "别太担心了",
+      "CHINESE_TRADITIONAL": "所以不要太擔心",
+      "JAPANESE": "あまり心配せずに",
+      "INDONESIAN": "Jadi jangan terlalu dipikirin—",
+      "PORTUGUESE": "então não se preocupa demais",
+      "SPANISH": "así que no te preocupes demasiado",
+      "PERSIAN": "پس زیاد استرس نداشته باشید-"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 47.3,
+      "HIDE": 49.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 푹 자요 알겠죠?",
+      "ENGLISH": "Just get some real sleep tonight, okay?",
+      "CHINESE_SIMPLIFIED": "今天要好好睡觉，知道吗？",
+      "CHINESE_TRADITIONAL": "今天好好睡一覺吧，知道嗎？",
+      "JAPANESE": "今日はゆっくり寝てくださいね",
+      "INDONESIAN": "Tidur yang nyenyak malam ini, ya?",
+      "PORTUGUESE": "e dorme bem essa noite, tá?",
+      "SPANISH": "y duerme bien esta noche, ¿sí?",
+      "PERSIAN": "فقط امشب کمی بخواب، باشه؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 50.2,
+      "HIDE": 52.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네 오빠도 잘 자요",
+      "ENGLISH": "Okay. You too. Sleep well.",
+      "CHINESE_SIMPLIFIED": "嗯，哥哥也晚安",
+      "CHINESE_TRADITIONAL": "嗯，哥哥也晚安",
+      "JAPANESE": "はい お兄さんもおやすみなさい",
+      "INDONESIAN": "Oke. Kamu juga. Selamat tidur.",
+      "PORTUGUESE": "Tá bom, você também, oppa.",
+      "SPANISH": "Sí, tú también, oppa.",
+      "PERSIAN": "باشه شما هم همینطور خوب بخواب."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 53.2,
+      "HIDE": 54.2
+    },
+    "SCRIPT": {
+      "KOREAN": "내꿈 꿔요",
+      "ENGLISH": "Dream of me.",
+      "CHINESE_SIMPLIFIED": "要梦到我哦",
+      "CHINESE_TRADITIONAL": "要夢到我喔",
+      "JAPANESE": "私の夢見てくださいね",
+      "INDONESIAN": "Mimpiin aku, ya.",
+      "PORTUGUESE": "Sonha comigo.",
+      "SPANISH": "Sueña conmigo.",
+      "PERSIAN": "رویای من"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "손발톱은 유만 씨 누워계시는 동안 ",
+      "ENGLISH": "While you were resting,",
+      "CHINESE_SIMPLIFIED": "宥万先生卧床期间",
+      "CHINESE_TRADITIONAL": "宥萬先生躺著的時候",
+      "JAPANESE": "手足の爪は ユマンさんが寝ている間に",
+      "INDONESIAN": "Saat kamu sedang beristirahat,",
+      "PORTUGUESE": "Enquanto o senhor estava de cama,",
+      "SPANISH": "Mientras estaba en cama",
+      "PERSIAN": "در حالی که در حال استراحت بودی،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "보호자 분께서 정리 좀 해주셨는데..",
+      "ENGLISH": "your guardian trimmed your nails,",
+      "CHINESE_SIMPLIFIED": "指甲是由陪护的家人帮忙修剪的...",
+      "CHINESE_TRADITIONAL": "家屬有幫你修剪指甲和趾甲",
+      "JAPANESE": "保護者の方が整えてくださいましたけど…",
+      "INDONESIAN": "walimu memotong kukumu,",
+      "PORTUGUESE": "sua cuidadora se encarregou de cortar suas unhas...",
+      "SPANISH": "su cuidadora se encargó de cortarle las uñas…",
+      "PERSIAN": "نگهبانت ناخن هایت را کوتاه کرد،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오신 김에 귀 좀 봐드릴게요",
+      "ENGLISH": "so while you’re here, I’ll check your ears too.",
+      "CHINESE_SIMPLIFIED": "既然您来， 顺便帮您检查下耳朵吧",
+      "CHINESE_TRADITIONAL": "不過都來了，順便幫您清理一下耳朵吧",
+      "JAPANESE": "来られたついでに耳も見ておきますね",
+      "INDONESIAN": "Jadi selagi kamu di sini, aku akan memeriksa telingamu juga.",
+      "PORTUGUESE": "Aproveitando que está aqui, vou dar uma olhadinha nos seus ouvidos.",
+      "SPANISH": "Aprovechando que está aquí, voy a revisarle los oídos.",
+      "PERSIAN": "بنابراین تا زمانی که شما اینجا هستید، گوش های شما را نیز بررسی خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好的！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい!",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Tudo bem.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "باشه!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이야..용케 소통이 되셨네...",
+      "ENGLISH": "Wow... I'm impressed you two managed to communicate.",
+      "CHINESE_SIMPLIFIED": "哎呀...居然还能正常沟通呢...",
+      "CHINESE_TRADITIONAL": "哇…你們居然能夠溝通…",
+      "JAPANESE": "いや〜 よく意思疎通できましたね…",
+      "INDONESIAN": "Wow... Saya terkesan kalian berdua berhasil berkomunikasi.",
+      "PORTUGUESE": "Nossa... como será que conseguiu se comunicar tão bem esse tempo todo?",
+      "SPANISH": "Vaya… cómo habrá logrado comunicarse tan bien todo este tiempo.",
+      "PERSIAN": "وای... من تحت تاثیر قرار گرفتم که شما دوتا توانستید با هم ارتباط برقرار کنید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨..하.. 움직이지 마세요 다칩니다",
+      "ENGLISH": "Ah—nothing. Just... don’t move or you’ll get hurt.",
+      "CHINESE_SIMPLIFIED": "不是...唉...请别动，会弄疼的",
+      "CHINESE_TRADITIONAL": "沒有…哈，請不要亂動，會受傷的",
+      "JAPANESE": "いえ…はぁ…動かないでください ケガしますよ",
+      "INDONESIAN": "Ah—tidak apa-apa. Jangan bergerak atau kau akan terluka.",
+      "PORTUGUESE": "Ah... não se mexa, pode se machucar.",
+      "SPANISH": "Ah… no se mueva, podría lastimarse.",
+      "PERSIAN": "آه - هیچی. فقط... تکان نخورید وگرنه آسیب خواهید دید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우와...",
+      "ENGLISH": "Whoa...",
+      "CHINESE_SIMPLIFIED": "哇...",
+      "CHINESE_TRADITIONAL": "哇塞…",
+      "JAPANESE": "うわぁ…",
+      "INDONESIAN": "Wah...",
+      "PORTUGUESE": "Uau...",
+      "SPANISH": "Guau...",
+      "PERSIAN": "وای..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 31.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우와 지금 이게 제 귀에서 나왔다고요?",
+      "ENGLISH": "Wait, that came out of my ear?!",
+      "CHINESE_SIMPLIFIED": "哇，这个真的是从我耳朵里挖出来的吗？",
+      "CHINESE_TRADITIONAL": "哇塞，這個是從我耳朵裡挖出來的嗎？",
+      "JAPANESE": "うわ これ本当に俺の耳から出たんですか?",
+      "INDONESIAN": "Tunggu, itu keluar dari telingaku?!",
+      "PORTUGUESE": "Isso saiu do meu ouvido?",
+      "SPANISH": "¿Eso salió de mi oído?",
+      "PERSIAN": "صبر کن از گوشم بیرون اومد؟!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "학회 보고 감 입니다.",
+      "ENGLISH": "This could be presented at a medical conference.",
+      "CHINESE_SIMPLIFIED": "这分量都够在学术会上发表一篇报告了",
+      "CHINESE_TRADITIONAL": "這簡直值得放進學術報告了吧",
+      "JAPANESE": "学会に出せるレベルですね",
+      "INDONESIAN": "Ini dapat dipresentasikan pada konferensi medis.",
+      "PORTUGUESE": "Isso aqui é material digno de um congresso médico.",
+      "SPANISH": "Esto es material digno de un congreso médico.",
+      "PERSIAN": "این می تواند در یک کنفرانس پزشکی ارائه شود."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 36.8
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 그 정돈 아닌데 장난 치시는거죠?",
+      "ENGLISH": "Oh come on~ it’s not that bad. You’re joking, right?",
+      "CHINESE_SIMPLIFIED": "哎呦~没那么夸张吧，您开玩笑是不是？",
+      "CHINESE_TRADITIONAL": "哎唷～沒那麼誇張啦，你是開玩笑吧？",
+      "JAPANESE": "え〜 そこまでじゃないでしょ 冗談ですよね?",
+      "INDONESIAN": "Ayolah~ nggak seburuk itu. Kamu bercanda, kan?",
+      "PORTUGUESE": "Também não exagere, está brincando, né?",
+      "SPANISH": "Tampocoo exagere, está bromeando, ¿verdad?",
+      "PERSIAN": "اوه بیا ~ آنقدرها هم بد نیست. شوخی میکنی، درسته؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 38.3,
+      "HIDE": 40.6
+    },
+    "SCRIPT": {
+      "KOREAN": "피곤하실텐데, 다리깁스 푸시고 ",
+      "ENGLISH": "You must be tired. Let's take the cast off.",
+      "CHINESE_SIMPLIFIED": "您应该也累了，拆完石膏后",
+      "CHINESE_TRADITIONAL": "你應該也累了，拆掉石膏後",
+      "JAPANESE": "お疲れでしょうし 足のギプス外して",
+      "INDONESIAN": "Kamu pasti lelah. Ayo kita lepas gipsnya.",
+      "PORTUGUESE": "O senhor deve estar cansado, então depois de tirar o gesso,",
+      "SPANISH": "Debe estar cansado, así que después de quitarle el yeso,",
+      "PERSIAN": "حتما خسته هستی بیایید بازیگران را برداریم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 40.6,
+      "HIDE": 41.8
+    },
+    "SCRIPT": {
+      "KOREAN": "귀가 하시죠",
+      "ENGLISH": "And get you discharged.",
+      "CHINESE_SIMPLIFIED": "就回家休息吧",
+      "CHINESE_TRADITIONAL": "就回家休息吧",
+      "JAPANESE": "お帰りになりましょうか",
+      "INDONESIAN": "Dan membuat Anda dipulangkan.",
+      "PORTUGUESE": "vá descansar.",
+      "SPANISH": "vaya a descansar.",
+      "PERSIAN": "و مرخص بشی"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 44.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네.. 감사합니다",
+      "ENGLISH": "Yeah... thank you.",
+      "CHINESE_SIMPLIFIED": "好的...谢谢",
+      "CHINESE_TRADITIONAL": "好…謝謝",
+      "JAPANESE": "はい…ありがとうございます",
+      "INDONESIAN": "Ya... terima kasih.",
+      "PORTUGUESE": "Sim... obrigado.",
+      "SPANISH": "Sí… gracias.",
+      "PERSIAN": "آره... ممنون"
+    }
+  }
+]

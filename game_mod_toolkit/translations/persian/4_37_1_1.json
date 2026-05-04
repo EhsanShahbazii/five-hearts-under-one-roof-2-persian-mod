@@ -1,0 +1,308 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저 밀크 코퍼레이션...",
+      "ENGLISH": "I’m from Milk Corporation…",
+      "CHINESE_SIMPLIFIED": "我是优乳科技的...",
+      "CHINESE_TRADITIONAL": "我...Milk Corporation的...",
+      "JAPANESE": "俺、ミルク・コーポレーションの…",
+      "INDONESIAN": "Aku dari Milk Corporation…",
+      "PORTUGUESE": "Trabalho na Milk Corporation...",
+      "SPANISH": "Trabajo en Milk Corporation...",
+      "PERSIAN": "من از شرکت شیر هستم…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오?? 밀크 코퍼레이션??",
+      "ENGLISH": "Oh?? Milk Corporation??",
+      "CHINESE_SIMPLIFIED": "哦？？优乳科技？？",
+      "CHINESE_TRADITIONAL": "喔？Milk Corporation？？",
+      "JAPANESE": "え？？ミルク・コーポレーション！？",
+      "INDONESIAN": "Oh?? Milk Corporation??",
+      "PORTUGUESE": "Oh?? Milk Corporation??",
+      "SPANISH": "¿Oh?? ¿Milk Corporation??",
+      "PERSIAN": "اوه؟؟ شرکت شیر؟؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그, 설마 동구박 회장님 아들??",
+      "ENGLISH": "Wait… are you the son of Chairman Dong‑gu Park??",
+      "CHINESE_SIMPLIFIED": "该、该不会是佟富贵会长的儿子吧？？",
+      "CHINESE_TRADITIONAL": "該不會是，佟具朴會長的兒子？",
+      "JAPANESE": "まさか、ドングバク会長の息子さん！？",
+      "INDONESIAN": "Tunggu… kamu anaknya Presiden Dong-gu Park??",
+      "PORTUGUESE": "Não me diga que... é filho do presidente Dong?",
+      "SPANISH": "¿No me diga qué... es el hijo del presidente Dong?",
+      "PERSIAN": "صبر کن... شما پسر رئیس دونگ گو پارک هستید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 아냐. 동 회장님 딸 하나 있어.",
+      "ENGLISH": "No, he has just one daughter.",
+      "CHINESE_SIMPLIFIED": "喂，不是啦，佟会长就一个女儿",
+      "CHINESE_TRADITIONAL": "啊，不對。佟會長只有一個女兒",
+      "JAPANESE": "いやいや、会長には娘がひとり",
+      "INDONESIAN": "Nggak, beliau cuma punya satu anak perempuan.",
+      "PORTUGUESE": "Não, o presidente Dong só tem uma filha.",
+      "SPANISH": "No, el presidente Dong solo tiene una hija.",
+      "PERSIAN": "نه، او فقط یک دختر دارد."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 하, 그 딸이 진짜 빡세다는데.",
+      "ENGLISH": "Ah, and I heard she’s really strict.",
+      "CHINESE_SIMPLIFIED": "听说他女儿超级难搞",
+      "CHINESE_TRADITIONAL": "而且聽說那個女兒超級強勢",
+      "JAPANESE": "しかもその娘、めちゃくちゃ厳しいって有名だぞ",
+      "INDONESIAN": "Ah, dan katanya galaknya bukan main.",
+      "PORTUGUESE": "Dizem que ela é extremamente rígida.",
+      "SPANISH": "Dicen que es realmente estricta.",
+      "PERSIAN": "آه، و من شنیدم که او واقعاً سختگیر است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼....",
+      "ENGLISH": "So then…",
+      "CHINESE_SIMPLIFIED": "那他是...",
+      "CHINESE_TRADITIONAL": "那麼....",
+      "JAPANESE": "じゃあ…",
+      "INDONESIAN": "Jadi, kamu itu…",
+      "PORTUGUESE": "Então...",
+      "SPANISH": "Entonces…",
+      "PERSIAN": "پس پس…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "밀크 코퍼레이션의 사...",
+      "ENGLISH": "Milk Corporation’s pr…",
+      "CHINESE_SIMPLIFIED": "优乳科技的社...",
+      "CHINESE_TRADITIONAL": "Milk Corporation 的社...",
+      "JAPANESE": "ミルク・コーポレーションのしゃ…",
+      "INDONESIAN": "PR-nya Milk Corporation…",
+      "PORTUGUESE": "Será que ele...?",
+      "SPANISH": "Acaso él...?",
+      "PERSIAN": "روابط عمومی شرکت شیر شرکت…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "사...",
+      "ENGLISH": "Pre…",
+      "CHINESE_SIMPLIFIED": "社...",
+      "CHINESE_TRADITIONAL": "社...",
+      "JAPANESE": "しゃ…",
+      "INDONESIAN": "Pre…",
+      "PORTUGUESE": "Pre...",
+      "SPANISH": "Pre...",
+      "PERSIAN": "پیش…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "사...?",
+      "ENGLISH": "Pre…?",
+      "CHINESE_SIMPLIFIED": "社...？",
+      "CHINESE_TRADITIONAL": "社...？",
+      "JAPANESE": "しゃ…？",
+      "INDONESIAN": "Pre…?",
+      "PORTUGUESE": "Pre...?",
+      "SPANISH": "¿Pre...?",
+      "PERSIAN": "قبل از…؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "사...",
+      "ENGLISH": "Pre…?",
+      "CHINESE_SIMPLIFIED": "社...",
+      "CHINESE_TRADITIONAL": "社...",
+      "JAPANESE": "しゃ…",
+      "INDONESIAN": "Pre…?",
+      "PORTUGUESE": "Pres...?",
+      "SPANISH": "Pres...",
+      "PERSIAN": "قبل از…؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "사...?",
+      "ENGLISH": "Pre…?",
+      "CHINESE_SIMPLIFIED": "社...？",
+      "CHINESE_TRADITIONAL": "社...？",
+      "JAPANESE": "しゃ…？",
+      "INDONESIAN": "Pre…?",
+      "PORTUGUESE": "Pres...?",
+      "SPANISH": "¿Pres...?",
+      "PERSIAN": "قبل از…؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "사장?",
+      "ENGLISH": "President?",
+      "CHINESE_SIMPLIFIED": "社长？",
+      "CHINESE_TRADITIONAL": "社長？",
+      "JAPANESE": "しゃちょう？",
+      "INDONESIAN": "Presiden?",
+      "PORTUGUESE": "É o presidente?",
+      "SPANISH": "¿Es el presidente?",
+      "PERSIAN": "رئیس جمهور؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.1,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨 사원...",
+      "ENGLISH": "No, just a staff member…",
+      "CHINESE_SIMPLIFIED": "啊不，是员工...",
+      "CHINESE_TRADITIONAL": "不是，是員工",
+      "JAPANESE": "いえ、社員です…",
+      "INDONESIAN": "Nggak, cuma staf biasa…",
+      "PORTUGUESE": "Não, ele só “presta” serviços...",
+      "SPANISH": "No, solo 'presto' sus servicios...",
+      "PERSIAN": "نه، فقط یک کارمند…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아오, 아... 진짜 깜짝 놀랬네 진짜 씨.",
+      "ENGLISH": "Ah, wow… I really got scared for a second.",
+      "CHINESE_SIMPLIFIED": "哎呦，啊...真是吓我一跳，我去",
+      "CHINESE_TRADITIONAL": "噢，哇...我真的被你嚇到了啦",
+      "JAPANESE": "うわっ、びっくりした〜！",
+      "INDONESIAN": "Ah, wah… aku beneran sempat deg-degan barusan.",
+      "PORTUGUESE": "Ah, meu Deus... me assustou de verdade.",
+      "SPANISH": "Ah, por Dios… me asustó, de verdad.",
+      "PERSIAN": "آه، وای... من واقعا یک لحظه ترسیدم."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 35.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 나 순간 사장이라는 줄 알았어",
+      "ENGLISH": "Ah, I actually thought you were the president for a moment.",
+      "CHINESE_SIMPLIFIED": "我瞬间还以为是社长呢",
+      "CHINESE_TRADITIONAL": "真是的。我還以為你要說社長",
+      "JAPANESE": "今、一瞬ほんとに社長かと思った！",
+      "INDONESIAN": "Aku juga tadi bener-bener kira kamu presidennya.",
+      "PORTUGUESE": "Por um momento, pensei que fosse o presidente.",
+      "SPANISH": "Por un momento pensé que era el presidente.",
+      "PERSIAN": "آه، من واقعاً برای یک لحظه فکر کردم شما رئیس جمهور هستید."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 39.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 유나야 이건 너도 진짜 너무한 거야~",
+      "ENGLISH": "Hey, Yu-na, this is really too much on your part~",
+      "CHINESE_SIMPLIFIED": "有娜啊，你这也太夸张了吧~",
+      "CHINESE_TRADITIONAL": "有娜啊，妳這樣實在太超過了啦～",
+      "JAPANESE": "なぁユナ、これはあんたもひどいじゃんか〜",
+      "INDONESIAN": "Eh, Yu-na, ini keterlaluan banget sih kamu~",
+      "PORTUGUESE": "Yuna, sério, você passou dos limites~",
+      "SPANISH": "Yuna, en serio, te pasaste~",
+      "PERSIAN": "هی، یونا، این واقعاً از طرف تو خیلی زیاد است"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 39.7,
+      "HIDE": 42.0
+    },
+    "SCRIPT": {
+      "KOREAN": "정 회장님이 너 이러고 다니는 거 아시면 가슴 찢어지신다?",
+      "ENGLISH": "If Chairman Jung knew you were running around like this, he’d really be heartbroken!",
+      "CHINESE_SIMPLIFIED": "郑会长要是知道你这样在外面乱晃，怕是要心碎了哦？",
+      "CHINESE_TRADITIONAL": "鄭會長要是知道妳這樣到處亂來，心臟會被你嚇壞的！",
+      "JAPANESE": "チョン会長があんたがこんなことしてるって知ったら、きっと胸が張り裂けるぞ？",
+      "INDONESIAN": "Kalau Ketua Jung tahu kamu keluyuran kayak gini, bisa-bisa hatinya hancur!",
+      "PORTUGUESE": "Se o presidente Jung souber que anda aprontando essas coisas, vai partir o coração dele.",
+      "SPANISH": "Si el presidente Jung se entera de que andas haciendo estas cosas, le romperías el corazón.",
+      "PERSIAN": "اگر رئیس یونگ می دانست که شما اینطوری می دوید، واقعاً دلش می سوخت!"
+    }
+  }
+]

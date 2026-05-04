@@ -1,0 +1,470 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어서! 오세요..",
+      "ENGLISH": "Come on in!",
+      "CHINESE_SIMPLIFIED": "欢迎光..",
+      "CHINESE_TRADITIONAL": "歡迎！光臨...",
+      "JAPANESE": "いらっしゃいませ！",
+      "INDONESIAN": "Silakan! Masuk...",
+      "PORTUGUESE": "Bom... bem-vindo...",
+      "SPANISH": "Bien... bienvenido...",
+      "PERSIAN": "بیا داخل"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Eh?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 아가씨~ 음?",
+      "ENGLISH": "But miss~ Hmm?",
+      "CHINESE_SIMPLIFIED": "不过小妹~嗯？",
+      "CHINESE_TRADITIONAL": "不過小姐！嗯？",
+      "JAPANESE": "でもお嬢さんよぉ〜、ん？",
+      "INDONESIAN": "Tapi mbak~ hmm?",
+      "PORTUGUESE": "Mas, senhorita",
+      "SPANISH": "Pero señorita",
+      "PERSIAN": "اما خانم ~ هوم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아가씨.",
+      "ENGLISH": "Miss.",
+      "CHINESE_SIMPLIFIED": "小妹",
+      "CHINESE_TRADITIONAL": "小姐",
+      "JAPANESE": "お嬢さん。",
+      "INDONESIAN": "Mbak",
+      "PORTUGUESE": "Senhorita.",
+      "SPANISH": "Señorita.",
+      "PERSIAN": "خانم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "앞집 가서 구해오든, 옆 동네가서 구해오든",
+      "ENGLISH": "Whether you go to the house next door or the neighborhood next door,",
+      "CHINESE_SIMPLIFIED": "去前边店里调货也好，去隔壁街区进货也好",
+      "CHINESE_TRADITIONAL": "無論是去前面的店，或是隔壁社區找貨也好",
+      "JAPANESE": "隣の店でも、向こうの町でもいいからさ、",
+      "INDONESIAN": "Kalau pelanggan minta tolong, ya harusnya dicariin dong",
+      "PORTUGUESE": "Se um cliente pede algo, a senhora deveria mostrar um pouco de esforço,",
+      "SPANISH": "Si un cliente le pide algo, debería mostrar algo de esfuerzo,",
+      "PERSIAN": "چه به خونه همسایه بروید و چه به محله همسایه،"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "손님이 구해달라고 하면 구해오는 성의를 보여야 될 거 아니야, 안 그래?",
+      "ENGLISH": "if a customer asks you to get something, shouldn't you show the courtesy of getting it for them? Don't you think?",
+      "CHINESE_SIMPLIFIED": "客人说要你就该去调货，总得有点诚意吧，不对吗？",
+      "CHINESE_TRADITIONAL": "客人讓你去調貨，應該也要表現得有誠意一點吧！不是嗎？",
+      "JAPANESE": "客が欲しいって言ったもんは、探して持ってくる努力を見せなきゃダメだろ？そう思わない？",
+      "INDONESIAN": "Mau ke toko sebelah, atau ke kampung sebelah kek, yang penting nunjukkin itikad baik, iya nggak?",
+      "PORTUGUESE": "mesmo que tenha que ir até a loja da frente ou ao bairro ao lado, não acha?",
+      "SPANISH": "aunque tenga que ir a la tienda de enfrente o al vecindario de al lado, ¿no cree?",
+      "PERSIAN": "اگر مشتری از شما بخواهد چیزی را دریافت کنید، نباید نجابت را در دریافت اون برای او نشان دهید؟ فکر نمی کنی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그만하세요.",
+      "ENGLISH": "Stop it.",
+      "CHINESE_SIMPLIFIED": "请适可而止",
+      "CHINESE_TRADITIONAL": "請你適可而止",
+      "JAPANESE": "もうやめてください。",
+      "INDONESIAN": "Sudah, cukup",
+      "PORTUGUESE": "Chega.",
+      "SPANISH": "Ya basta.",
+      "PERSIAN": "بس کن"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 네가 뭔데 그만하라 마라야~",
+      "ENGLISH": "Ha, who do you think you are telling me to stop?",
+      "CHINESE_SIMPLIFIED": "哈，你算老几让我停就停~",
+      "CHINESE_TRADITIONAL": "哈，你是算哪根蔥啊？讓我住手？",
+      "JAPANESE": "はぁ？お前何様だよ、「やめろ」だと？",
+      "INDONESIAN": "Heh, kamu siapa nyuruh-nyuruh berhenti segala~",
+      "PORTUGUESE": "E você quem é pra falar comigo assim?",
+      "SPANISH": "¿Y tú quién eres para hablarme así?",
+      "PERSIAN": "هاا، فکر می کنی به کی می گی بس کنم؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "자꾸 그러시면...",
+      "ENGLISH": "If you keep this up...",
+      "CHINESE_SIMPLIFIED": "再这样下去...",
+      "CHINESE_TRADITIONAL": "如果您再這樣下去...",
+      "JAPANESE": "そんなこと言い続けるなら…",
+      "INDONESIAN": "Kalau terus kayak gini...",
+      "PORTUGUESE": "Se continuar assim...",
+      "SPANISH": "Si sigue así...",
+      "PERSIAN": "اگه اینو ادامه بدی..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 23.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그러시면 뭐.",
+      "ENGLISH": "If I keep this up?",
+      "CHINESE_SIMPLIFIED": "那又怎样",
+      "CHINESE_TRADITIONAL": "再這樣下去又怎樣",
+      "JAPANESE": "ならどうするんだよ。",
+      "INDONESIAN": "Kalau gini kenapa",
+      "PORTUGUESE": "Se eu continuar assim, o quê?",
+      "SPANISH": "¿Si sigo así, qué?",
+      "PERSIAN": "اگر اینو ادامه دهم؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 어쩔건데",
+      "ENGLISH": "What are you going to do about it?",
+      "CHINESE_SIMPLIFIED": "你能怎样",
+      "CHINESE_TRADITIONAL": "你想怎樣啊",
+      "JAPANESE": "ならどうするんだよ。",
+      "INDONESIAN": "Emang kamu mau ngapain",
+      "PORTUGUESE": "O que você vai fazer?",
+      "SPANISH": "¿Qué vas a hacer?",
+      "PERSIAN": "قرار است در این مورد چه کاری انجام دهید؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 어쩌실 거냐고~",
+      "ENGLISH": "What are you going to do?",
+      "CHINESE_SIMPLIFIED": "问你能拿我怎样啊~",
+      "CHINESE_TRADITIONAL": "想怎麼樣啊～",
+      "JAPANESE": "どうするってんだ？あぁ？",
+      "INDONESIAN": "Mau ngapain emangnya~",
+      "PORTUGUESE": "O que vai me fazer, hein~?",
+      "SPANISH": "¿Qué vas a hacerme, eh~?",
+      "PERSIAN": "قراره چیکار کنی؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 29.5
+    },
+    "SCRIPT": {
+      "KOREAN": "경찰에 신고할 거예요.",
+      "ENGLISH": "I'm going to call the police.",
+      "CHINESE_SIMPLIFIED": "我就要报警了",
+      "CHINESE_TRADITIONAL": "我就要報警了",
+      "JAPANESE": "警察に通報します。",
+      "INDONESIAN": "Saya akan lapor polisi",
+      "PORTUGUESE": "Vou chamar a polícia.",
+      "SPANISH": "Voy a llamar a la policía.",
+      "PERSIAN": "من به پلیس زنگ می زنم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "は？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 30.3,
+      "HIDE": 32.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저기 CCTV에 다 찍히고 있거든요?",
+      "ENGLISH": "Everything's being recorded on the CCTV over there, you know?",
+      "CHINESE_SIMPLIFIED": "那边监控都拍着呢",
+      "CHINESE_TRADITIONAL": "那邊的監視器都有拍下來",
+      "JAPANESE": "ほら、ここCCTV（防犯カメラ）全部映ってますけど？",
+      "INDONESIAN": "Itu semua terekam CCTV lho",
+      "PORTUGUESE": "Tudo isso tá gravado pelas câmeras de segurança.",
+      "SPANISH": "Todo esto está grabado por las cámaras de seguridad.",
+      "PERSIAN": "همه چیز در دوربین مداربسته در آنجا ضبط می شود، می دانید؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 35.6
+    },
+    "SCRIPT": {
+      "KOREAN": "경찰서 가서 얘기하고 싶으신 거 아니시면",
+      "ENGLISH": "Unless you want to go to the police station and talk about this,",
+      "CHINESE_SIMPLIFIED": "要是不想去警局喝茶",
+      "CHINESE_TRADITIONAL": "要是不想去警察局喝杯茶的話",
+      "JAPANESE": "警察署で話したくないなら、",
+      "INDONESIAN": "Kecuali bapak emang pengin ngobrol di kantor polisi",
+      "PORTUGUESE": "Se não quer ter uma conversa na delegacia,",
+      "SPANISH": "Si no quiere tener una charla en la comisaría,",
+      "PERSIAN": "مگر اینکه بخواهید به اداره پلیس بروید و در این مورد صحبت کنید،"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 37.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이쯤하고 그냥 가세요.",
+      "ENGLISH": "just stop here and leave.",
+      "CHINESE_SIMPLIFIED": "现在见好就收吧",
+      "CHINESE_TRADITIONAL": "就到此為止吧",
+      "JAPANESE": "このへんでやめて帰ってください。",
+      "INDONESIAN": "Mending berhenti sekarang dan pulang",
+      "PORTUGUESE": "é melhor ir embora.",
+      "SPANISH": "será mejor que se vaya.",
+      "PERSIAN": "فقط اینجا توقف کن و برو"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 37.3,
+      "HIDE": 38.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아...CCTV?",
+      "ENGLISH": "Ah... CCTV?",
+      "CHINESE_SIMPLIFIED": "啊...监控？",
+      "CHINESE_TRADITIONAL": "啊...監視器？",
+      "JAPANESE": "あ…カメラ？",
+      "INDONESIAN": "Ah... CCTV ya?",
+      "PORTUGUESE": "Ah... as câmeras?",
+      "SPANISH": "Ah... ¿las cámaras?",
+      "PERSIAN": "آه... دوربین مداربسته؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 39.9,
+      "HIDE": 41.2
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 이게 내가 던진 게 아니라",
+      "ENGLISH": "But I didn't throw this.",
+      "CHINESE_SIMPLIFIED": "但这可不是我扔的",
+      "CHINESE_TRADITIONAL": "但這不是我丟的",
+      "JAPANESE": "でも、これ俺が投げたんじゃなくてさ、",
+      "INDONESIAN": "Tapi kan itu bukan saya yang lempar",
+      "PORTUGUESE": "Mas eu não joguei nada,",
+      "SPANISH": "Pero yo no lancé nada,",
+      "PERSIAN": "ولی من اینو ننداختم"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 41.3,
+      "HIDE": 42.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 저절로 날아간 건데...",
+      "ENGLISH": "It just flew over on its own...",
+      "CHINESE_SIMPLIFIED": "是它自己飞过来的啊...",
+      "CHINESE_TRADITIONAL": "是它自己飛出去的...",
+      "JAPANESE": "勝手に飛んだんだよ。",
+      "INDONESIAN": "Itu tuh... melayang sendiri gitu aja...",
+      "PORTUGUESE": "isso... voou sozinho, né, senhor?",
+      "SPANISH": "esto... voló solo, ¿verdad, señor? ",
+      "PERSIAN": "فقط خودش پرواز کرد..."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 43.5,
+      "HIDE": 47.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아저씨도 봤지? 내가 던진 게 아니야 이게 어...",
+      "ENGLISH": "You saw it too, right? I didn't throw it. This thing...",
+      "CHINESE_SIMPLIFIED": "大叔也看见了吧？不是我扔的，这玩意儿...",
+      "CHINESE_TRADITIONAL": "大叔你也看到了吧？這不是我丟的，這..",
+      "JAPANESE": "おじさんも見ただろ？俺投げてないって。な？",
+      "INDONESIAN": "Pak, bapak juga lihat kan? Itu bukan saya yang lempar, bener kan...?",
+      "PORTUGUESE": " O senhor viu, eu não joguei nada...",
+      "SPANISH": "Usted lo vio, yo no lancé nada...",
+      "PERSIAN": "تو هم دیدی، درسته؟ پرتش نکردم این چیز..."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 49.4,
+      "HIDE": 53.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아오 저거 그냥 한방이면 끝나는 건데 저거! 아오~",
+      "ENGLISH": "Ugh, that thing would've been done with one hit! Ugh~",
+      "CHINESE_SIMPLIFIED": "哎呦本来一招就能解决的！真是...",
+      "CHINESE_TRADITIONAL": "唉～本來一拳就能解決的！真是...",
+      "JAPANESE": "あぁ〜、あれ一発で終わらせられたのに、くそっ！",
+      "INDONESIAN": "Aduh itu anak kalau saya tampar sekali juga langsung kelar itu! Aduh!",
+      "PORTUGUESE": "Ah, se eu pudesse acabar com ele com um só golpe! Que raiva~!",
+      "SPANISH": "Ah, ¡si con un solo golpe podría acabar con el! ¡Qué rabia~!",
+      "PERSIAN": "اوه، این کار با یک ضربه انجام می شد! اوه~"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 54.8,
+      "HIDE": 56.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨 괜찮아요?",
+      "ENGLISH": "Are you okay, Yujeong?",
+      "CHINESE_SIMPLIFIED": "有情你没事吧？",
+      "CHINESE_TRADITIONAL": "有情小姐，你沒事吧？",
+      "JAPANESE": "ユジョンさん、大丈夫？",
+      "INDONESIAN": "Yujeong, kamu nggak apa-apa?",
+      "PORTUGUESE": "Yujeong, você tá bem?",
+      "SPANISH": "¿Yujeong, estás bien?",
+      "PERSIAN": "حالت خوبه یو-جونگ؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 58.0,
+      "HIDE": 59.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 사러 오신 거 아니에요?",
+      "ENGLISH": "Didn't you come to buy something?",
+      "CHINESE_SIMPLIFIED": "您不是来买东西的吗？",
+      "CHINESE_TRADITIONAL": "你不是來買東西的嗎？",
+      "JAPANESE": "何か買いに来たんじゃないんですか？",
+      "INDONESIAN": "Kamu tadi ke sini buat beli sesuatu, kan?",
+      "PORTUGUESE": "Você não tinha vindo comprar algo?",
+      "SPANISH": "¿No venías a comprar algo?",
+      "PERSIAN": "نیومدی چیزی بخری؟"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 59.9,
+      "HIDE": 62.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨, 그냥 뭐... 지나가다 들른 건데",
+      "ENGLISH": "Ah, I just... stopped by while passing through.",
+      "CHINESE_SIMPLIFIED": "啊就...路过顺便进来一下",
+      "CHINESE_TRADITIONAL": "啊...我就是路過...順便進來看看",
+      "JAPANESE": "いや、ただ通りかかっただけで…。",
+      "INDONESIAN": "Ah iya tadi berhenti aja sih",
+      "PORTUGUESE": "Ah, não, só... tava passando por aqui.",
+      "SPANISH": "Ah, no, solo... pasaba por aquí.",
+      "PERSIAN": "آه، من فقط... هنگام عبور از آنجا توقف کردم."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 63.0,
+      "HIDE": 64.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 네.",
+      "ENGLISH": "Ah~ Yeah.",
+      "CHINESE_SIMPLIFIED": "啊，好的",
+      "CHINESE_TRADITIONAL": "啊～原來如此",
+      "JAPANESE": "あ〜、そうですか。",
+      "INDONESIAN": "Ah iyaaa",
+      "PORTUGUESE": "Ah~ entendi.",
+      "SPANISH": "Ah~ ya veo.",
+      "PERSIAN": "آه ~ آره"
+    }
+  }
+]

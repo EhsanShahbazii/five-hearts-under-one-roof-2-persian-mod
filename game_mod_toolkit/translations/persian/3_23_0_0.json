@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "헉, 저 그러면 가수 관두고 하숙집 눌러 앉을까요?",
+      "ENGLISH": "Gasp—should I just quit being a singer and move into the boarding house for good?",
+      "CHINESE_SIMPLIFIED": "啊，那我要不要干脆不当歌手，直接留在合租公寓好了？",
+      "CHINESE_TRADITIONAL": "哈，那我乾脆放棄當歌手，直接住進合宿公寓好了？",
+      "JAPANESE": "えっ じゃあ私 歌手やめて 下宿に住み込もうかな？",
+      "INDONESIAN": "Astaga—haruskah aku berhenti menjadi penyanyi dan pindah ke rumah kos untuk selamanya?",
+      "PORTUGUESE": "Oh! Então, e se eu deixar de ser cantora e ficar morando na pensão?",
+      "SPANISH": "¡Oh! Entonces, ¿y si dejo de ser cantante y me quedo a vivir en la pensión?",
+      "PERSIAN": "گسپ-باید خواننده بودن را رها کنم و برای همیشه به پانسیون بروم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "알죠? 나 밀크걸스 때 완전 살림 잘했던 거!",
+      "ENGLISH": "You do remember how domestic I was back in the Milk Girls days, right?",
+      "CHINESE_SIMPLIFIED": "你知道的吧？我还在女团里的时候就可会持家了！",
+      "CHINESE_TRADITIONAL": "你知道吧？我在MILK Girls的時候，就很會做家事喔！",
+      "JAPANESE": "知ってるでしょ？ 私 ミルクガールズの時も 家事めっちゃ得意だったの！",
+      "INDONESIAN": "Kamu ingat betapa domestiknya aku di masa Milk Girls, kan?",
+      "PORTUGUESE": "Sabe, nos meus tempos de Milk Girls eu era ótima com as tarefas de casa.",
+      "SPANISH": "¿Sabes? En mis tiempos de Milk Girls era buenísima para las tareas del hogar.",
+      "PERSIAN": "یادت می آید که من در دوران میلک گرز چقدر اهلی بودم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "알죠~",
+      "ENGLISH": "Of course~",
+      "CHINESE_SIMPLIFIED": "我知道啊~",
+      "CHINESE_TRADITIONAL": "我知道啊～",
+      "JAPANESE": "知ってますよ〜",
+      "INDONESIAN": "Tentu saja~",
+      "PORTUGUESE": "Claro que eu sei~",
+      "SPANISH": "Claro que lo sé~",
+      "PERSIAN": "البته ~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "나 집에 있으면 꽤 도움 될 걸요?",
+      "ENGLISH": "I’d actually be super helpful around the house, you know!",
+      "CHINESE_SIMPLIFIED": "我要是待在公寓里，肯定能帮上不少忙吧？",
+      "CHINESE_TRADITIONAL": "我如果在你家，應該可以幫你不少忙喔？",
+      "JAPANESE": "私が家にいたら 結構助かると思いますよ？",
+      "INDONESIAN": "Aku sebenarnya akan sangat membantu di rumah, lho!",
+      "PORTUGUESE": "Se eu ficar em casa, com certeza vou ser de muita ajuda.",
+      "SPANISH": "Si me quedo en casa, seguro sería de mucha ayuda.",
+      "PERSIAN": "من در واقع در اطراف خونه فوق العاده مفید می‌شم، می دانید!"
+    }
+  }
+]

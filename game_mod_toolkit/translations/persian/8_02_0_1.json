@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 잘 치는 건 아니지만 ",
+      "ENGLISH": "I’m not great at it,",
+      "CHINESE_SIMPLIFIED": "虽然不算打得多好",
+      "CHINESE_TRADITIONAL": "雖然沒有打得多好",
+      "JAPANESE": "うまくはないですけど",
+      "INDONESIAN": "Aku nggak terlalu jago,",
+      "PORTUGUESE": "Não sou muito bom, mas",
+      "SPANISH": "No soy muy bueno, pero",
+      "PERSIAN": "من در اون عالی نیستم،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "자세 정도는 잡아드릴 수 있어요.",
+      "ENGLISH": "but I can at least fix your posture.",
+      "CHINESE_SIMPLIFIED": "但调整姿势还是没问题的",
+      "CHINESE_TRADITIONAL": "但調整姿勢還是可以的",
+      "JAPANESE": "姿勢くらいなら見れますよ",
+      "INDONESIAN": "tapi setidaknya aku bisa bantu benerin postur kamu.",
+      "PORTUGUESE": "pelo menos posso te ajudar com a postura.",
+      "SPANISH": "al menos puedo ayudarla con la postura.",
+      "PERSIAN": "اما من حداقل می توانم وضعیت شما را درست کنم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "정말?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんと？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네 한번 서보실래요?",
+      "ENGLISH": "Yes — would you like to stand here?",
+      "CHINESE_SIMPLIFIED": "嗯，要试着站一下吗？",
+      "CHINESE_TRADITIONAL": "嗯，要不要站一下看看呢？",
+      "JAPANESE": "はい、一度構えてみてください",
+      "INDONESIAN": "Iya — coba berdiri di sini, ya?",
+      "PORTUGUESE": "Sim, pode ficar de pé um momento?",
+      "SPANISH": "Sí, ¿quiere ponerse de pie un momento?",
+      "PERSIAN": "بله - دوست دارید اینجا بایستید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그래!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好啊！",
+      "CHINESE_TRADITIONAL": "好啊！",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Claro!",
+      "SPANISH": "¡Claro!",
+      "PERSIAN": "باشه!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만요 실례할게요",
+      "ENGLISH": "Excuse me for a moment.",
+      "CHINESE_SIMPLIFIED": "稍等一下，失礼了",
+      "CHINESE_TRADITIONAL": "請等一下，我失禮了",
+      "JAPANESE": "じゃあ、ちょっと失礼しますね",
+      "INDONESIAN": "Permisi sebentar.",
+      "PORTUGUESE": "Um segundo, com licença.",
+      "SPANISH": "Un segundo, con su permiso.",
+      "PERSIAN": "یک لحظه ببخشید"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "골반이 조금 더 세워져도 되고요 ",
+      "ENGLISH": "You can tilt your hips a little more forward,",
+      "CHINESE_SIMPLIFIED": "臀部可以再挺一点",
+      "CHINESE_TRADITIONAL": "骨盆這邊可以再挺一點",
+      "JAPANESE": "骨盤、もう少し立てても大丈夫です",
+      "INDONESIAN": "Coba miringin pinggul kamu sedikit ke depan,",
+      "PORTUGUESE": "O quadril pode ficar um pouco mais reto,",
+      "SPANISH": "La cadera puede ir un poco más recta,",
+      "PERSIAN": "می توانید باسن خود را کمی بیشتر به جلو خم کنید،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "팔은 조금만 더 모아볼까요?",
+      "ENGLISH": "and maybe bring your arms in just a bit?",
+      "CHINESE_SIMPLIFIED": "手臂再收拢点试试？",
+      "CHINESE_TRADITIONAL": "手臂再稍微靠攏一點試看看？",
+      "JAPANESE": "腕はもう少しだけ近づけてみましょうか",
+      "INDONESIAN": "terus tangan kamu agak masukin dikit.",
+      "PORTUGUESE": "e os braços… aproxima um pouquinho mais.",
+      "SPANISH": "y los brazos… acércalos un poco más.",
+      "PERSIAN": "و شاید فقط کمی بازوهایت را بیاوری؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.1,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네 이렇게 하면 훨씬 더 잘 될거예요",
+      "ENGLISH": "Yes — like this, it’ll go much better.",
+      "CHINESE_SIMPLIFIED": "嗯，这样调整后会打得更好",
+      "CHINESE_TRADITIONAL": "嗯，這樣調整後會打得更好一點",
+      "JAPANESE": "はい、そうです これでずっと打ちやすくなると思います",
+      "INDONESIAN": "Nah — kayak gini, pasti hasilnya lebih oke.",
+      "PORTUGUESE": "Isso, assim vai sair muito melhor.",
+      "SPANISH": "Sí, así le saldrá mucho mejor.",
+      "PERSIAN": "بله - به این ترتیب، خیلی بهتر پیش خواهد رفت."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "是吗？",
+      "CHINESE_TRADITIONAL": "是嗎？",
+      "JAPANESE": "そう？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "É mesmo?",
+      "SPANISH": "¿Sí?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.9,
+      "HIDE": 34.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 불편하세요?",
+      "ENGLISH": "Anywhere uncomfortable?",
+      "CHINESE_SIMPLIFIED": "你哪里不舒服吗？",
+      "CHINESE_TRADITIONAL": "你有哪裡不舒服嗎？",
+      "JAPANESE": "どこか気になるところありますか？",
+      "INDONESIAN": "Ada yang nggak nyaman?",
+      "PORTUGUESE": "Tá sentindo algum desconforto?",
+      "SPANISH": "¿Siente que algo le incomoda?",
+      "PERSIAN": "جایی ناراحت کننده است؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 36.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니야 아무것도.",
+      "ENGLISH": "No, nothing.",
+      "CHINESE_SIMPLIFIED": "没，没有",
+      "CHINESE_TRADITIONAL": "沒有、什麼都沒有",
+      "JAPANESE": "ううん、全然",
+      "INDONESIAN": "Nggak, aman kok.",
+      "PORTUGUESE": "Não, nenhum.",
+      "SPANISH": "No, nada.",
+      "PERSIAN": "نه هیچی"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 37.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 한번 쳐볼까요?",
+      "ENGLISH": "Then shall we try a swing?",
+      "CHINESE_SIMPLIFIED": "那试着挥一杆？",
+      "CHINESE_TRADITIONAL": "那試著揮一杆看看吧？",
+      "JAPANESE": "じゃあ、打ってみましょうか？",
+      "INDONESIAN": "Kalau gitu, mau coba ayun sekarang?",
+      "PORTUGUESE": "Então, vamos tentar uma tacada?",
+      "SPANISH": "Entonces, ¿probamos un tiro?",
+      "PERSIAN": "سپس یک نوسان را امتحان کنیم؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 45.7,
+      "HIDE": 47.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나이스샷~",
+      "ENGLISH": "Nice shot~",
+      "CHINESE_SIMPLIFIED": "漂亮~",
+      "CHINESE_TRADITIONAL": "漂亮～",
+      "JAPANESE": "ナイスショット〜！",
+      "INDONESIAN": "Nice shot~",
+      "PORTUGUESE": "Belo golpe~!",
+      "SPANISH": "¡Buen golpe~!",
+      "PERSIAN": "شوت خوب ~"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 48.6,
+      "HIDE": 51.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 잡아주니까 확실히 좋은데?",
+      "ENGLISH": "It’s definitely better with you adjusting me, Yuman.",
+      "CHINESE_SIMPLIFIED": "你帮忙调整后确实感觉更好了呢？",
+      "CHINESE_TRADITIONAL": "給宥萬你調整後，感覺真的不錯呢！",
+      "JAPANESE": "やっぱりユマンさんが見てくれると違うね",
+      "INDONESIAN": "Emang beda sih kalau kamu yang bantuin posturnya, Yuman.",
+      "PORTUGUESE": "Com a sua ajuda, Yumán, eu me sinto muito melhor.",
+      "SPANISH": "Con tu ayuda, Yumán, me siento mucho mejor.",
+      "PERSIAN": "مطمئناً بهتر است که من را تنظیم کنی، یومان."
+    }
+  }
+]

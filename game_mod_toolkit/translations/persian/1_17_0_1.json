@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "와 엄청 작다... ",
+      "ENGLISH": "Whoa… so tiny.",
+      "CHINESE_SIMPLIFIED": "哇，好小啊...",
+      "CHINESE_TRADITIONAL": "哇，好小喔...",
+      "JAPANESE": "うわ、めっちゃ小さいな…",
+      "INDONESIAN": "Wah, kecil banget ya...",
+      "PORTUGUESE": "Uau, é muito pequeno...",
+      "SPANISH": "¡Pero qué pequeños...!",
+      "PERSIAN": "واو... چقدر ظریفه و کوچیکه..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "의사 선생님은... 구두 신고 다니시는구나.",
+      "ENGLISH": "You wear heels, huh?",
+      "CHINESE_SIMPLIFIED": "原来她平时都穿皮鞋啊",
+      "CHINESE_TRADITIONAL": "醫生原來平時是穿皮鞋啊",
+      "JAPANESE": "先生って…革靴履いてるんだ",
+      "INDONESIAN": "Dokter... ternyata pakai sepatu hak tinggi juga ya.",
+      "PORTUGUESE": "Você anda de sapato social, né?",
+      "SPANISH": "Así que usa tacones para trabajar.",
+      "PERSIAN": "خانم دکتر با کفش پاشنه‌بلند راه می‌ره پس..."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나 적당한 때에 잘 찾아온 거 맞죠?",
+      "ENGLISH": "I showed up at the right time… didn’t I?",
+      "CHINESE_SIMPLIFIED": "我来的正是时候吧？",
+      "CHINESE_TRADITIONAL": "我來的正是時候吧？",
+      "JAPANESE": "私、ちょうどいいタイミングで来たんですよね？",
+      "INDONESIAN": "Aku datang pas timing yang tepat… kan?",
+      "PORTUGUESE": "Cheguei bem na hora certa, né?",
+      "SPANISH": "Llegué en un buen momento, ¿verdad?",
+      "PERSIAN": "من در زمان مناسب حاضر شدم ... نه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "시간 좀 내줘요.",
+      "ENGLISH": "Hope you can spare me a few minutes.",
+      "CHINESE_SIMPLIFIED": "抽点时间给我吧",
+      "CHINESE_TRADITIONAL": "請抽點時間給我吧",
+      "JAPANESE": "少し時間ください",
+      "INDONESIAN": "Semoga kamu bisa luangin waktu sebentar buat aku.",
+      "PORTUGUESE": "Me dá um pouquinho do seu tempo.",
+      "SPANISH": "Regálame un poco de tu tiempo.",
+      "PERSIAN": "امیدوارم بتوانید چند دقیقه به من فرصت بدهید."
+    }
+  }
+]

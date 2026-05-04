@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "푸하하하하!!!!",
+      "ENGLISH": "Pfft— HAHAHAHA!!!",
+      "CHINESE_SIMPLIFIED": "噗哈哈哈哈哈哈！！！",
+      "CHINESE_TRADITIONAL": "噗哈哈哈哈哈！！！",
+      "JAPANESE": "ぷはははは！！",
+      "INDONESIAN": "Pfft— HAHAHAHA!!!",
+      "PORTUGUESE": "Pff… hahahaha!",
+      "SPANISH": "¡Pff… jajajaja!",
+      "PERSIAN": "پففت- هاهاهاها!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 왜 웃어.",
+      "ENGLISH": "What? Why are you laughing?",
+      "CHINESE_SIMPLIFIED": "你笑什么啦",
+      "CHINESE_TRADITIONAL": "你笑什麼啦",
+      "JAPANESE": "なに？ なんで笑うの",
+      "INDONESIAN": "Apa? Kenapa kamu ketawa?",
+      "PORTUGUESE": "O quê? Por que você tá rindo?",
+      "SPANISH": "¿Qué? ¿Por qué te ríes?",
+      "PERSIAN": "چی؟ چرا میخندی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 미안 미안, 아 왜 이렇게 웃기지?",
+      "ENGLISH": "Ah, sorry, sorry — why is this so funny??",
+      "CHINESE_SIMPLIFIED": "啊抱歉抱歉，怎么这么好笑呢？",
+      "CHINESE_TRADITIONAL": "啊抱歉抱歉，但怎麼會這麼好笑啊？",
+      "JAPANESE": "あ、ごめんごめん！ なんか、ついツボって",
+      "INDONESIAN": "Ah, maaf, maaf — entah kenapa ini lucu banget??",
+      "PORTUGUESE": "Ah, desculpa, desculpa. Não sei por que isso me dá tanta vontade de rir.",
+      "SPANISH": "Ah, perdón, perdón. No sé por qué me da tanta risa.",
+      "PERSIAN": "آه، ببخشید، ببخشید - چرا اینقدر خنده دار است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "웃겨?",
+      "ENGLISH": "It’s funny?",
+      "CHINESE_SIMPLIFIED": "很搞笑吗？",
+      "CHINESE_TRADITIONAL": "很搞笑嗎？",
+      "JAPANESE": "おかしい？",
+      "INDONESIAN": "Lucu ya?",
+      "PORTUGUESE": "Te dá vontade de rir?",
+      "SPANISH": "¿Te da risa?",
+      "PERSIAN": "خنده دار است؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아 그냥 다른 일 알아볼까?",
+      "ENGLISH": "Malsook, should I just look for another career?",
+      "CHINESE_SIMPLIFIED": "末淑啊，要不你还是考虑做点别的事吧？",
+      "CHINESE_TRADITIONAL": "末淑啊，還是要不要考慮別的工作？",
+      "JAPANESE": "マルスクさ、もう別の仕事探した方がいいんじゃない？",
+      "INDONESIAN": "Malsook, gimana kalau aku cari karier lain aja?",
+      "PORTUGUESE": "Malsook, e se você procurar outra coisa?",
+      "SPANISH": "Malsook, ¿y si mejor buscas otra cosa?",
+      "PERSIAN": "مال‌سوک، باید به دنبال شغل دیگری باشم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 아닌 거 같애!",
+      "ENGLISH": "I don’t think this is it!",
+      "CHINESE_SIMPLIFIED": "这个好像不太适合你！",
+      "CHINESE_TRADITIONAL": "這個好像不太適合你！",
+      "JAPANESE": "これ、違う気がする！",
+      "INDONESIAN": "Kayaknya ini bukan jalanku deh!",
+      "PORTUGUESE": "Acho que isso não é muito a sua cara!",
+      "SPANISH": "¡Creo que esto no es lo tuyo!",
+      "PERSIAN": "فکر نمی کنم این باشد!"
+    }
+  }
+]

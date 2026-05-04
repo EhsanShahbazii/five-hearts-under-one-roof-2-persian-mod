@@ -1,0 +1,271 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너 립 바꿨지?",
+      "ENGLISH": "You changed your lipstick, didn’t you?",
+      "CHINESE_SIMPLIFIED": "你换口红了对吧？",
+      "CHINESE_TRADITIONAL": "你換口紅了對吧？",
+      "JAPANESE": "お前、リップ変えたろ？",
+      "INDONESIAN": "Kamu ganti lipstik ya?",
+      "PORTUGUESE": "Você mudou o batom, não foi?",
+      "SPANISH": "¿Cambiaste de labial?",
+      "PERSIAN": "رنگ رژ لبتو عوض کردی، نه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야? ",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么啊？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "え、なに？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué dices?",
+      "PERSIAN": "چی گفتی؟! واقعاً؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "허, 너 그냥 때려 맞힌 거지.",
+      "ENGLISH": "Ha, you’re just guessing.",
+      "CHINESE_SIMPLIFIED": "哼，你就是瞎猜的吧",
+      "CHINESE_TRADITIONAL": "哼，你只是瞎猜的吧",
+      "JAPANESE": "ふん、適当に言っただけでしょ",
+      "INDONESIAN": "Huh, kamu nebak doang kan.",
+      "PORTUGUESE": "Ha, você tá só chutando.",
+      "SPANISH": "Solo adivinaste.",
+      "PERSIAN": "هه، شانسی گفتی تابلوئه!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "씁... 이전에는 그냥 핑크였다면 ",
+      "ENGLISH": "Tch… before it was plain pink,",
+      "CHINESE_SIMPLIFIED": "嘶...如果之前是纯粉色的话",
+      "CHINESE_TRADITIONAL": "嘶...如果之前是純粉紅色的話",
+      "JAPANESE": "ふっ…前は普通のピンクだったけど",
+      "INDONESIAN": "Hmph… sebelumnya tuh pink biasa,",
+      "PORTUGUESE": "Tch… antes era rosa simples,",
+      "SPANISH": "Mmm... antes era solo rosa,",
+      "PERSIAN": "نوچ... قبلاً صورتی خالی می‌زدی،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "지금은 약간 코랄이 섞인 핑크랄까?",
+      "ENGLISH": "but now it’s more like a pink with a hint of coral.",
+      "CHINESE_SIMPLIFIED": "现在嘛，应该是混了点珊瑚色的粉？",
+      "CHINESE_TRADITIONAL": "現在嘛，應該是帶點珊瑚色的粉紅？",
+      "JAPANESE": "今はちょっとコーラルが混ざったピンクって感じ？",
+      "INDONESIAN": "sekarang warnanya kayak pink yang ada campuran coral-nya gitu.",
+      "PORTUGUESE": "mas agora é mais um rosa com um toque de coral.",
+      "SPANISH": "pero ahora es... un rosa con un toque coral.",
+      "PERSIAN": "ولی الان انگار یه تم هلویی یا مرجانی هم قاطیش داره!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "정...답...",
+      "ENGLISH": "Cor…rect.",
+      "CHINESE_SIMPLIFIED": "答对了...",
+      "CHINESE_TRADITIONAL": "答…對…了",
+      "JAPANESE": "せ、正解…",
+      "INDONESIAN": "Be...nar...",
+      "PORTUGUESE": "Cor…reto.",
+      "SPANISH": "Acertaste...",
+      "PERSIAN": "درست... حدس زدی..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "예스!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "Yes！",
+      "CHINESE_TRADITIONAL": "Yes！",
+      "JAPANESE": "イエス！",
+      "INDONESIAN": "Yes!",
+      "PORTUGUESE": "Isso!",
+      "SPANISH": "¡SÍ!",
+      "PERSIAN": "یسسس! دیدی گفتم؟!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐.",
+      "ENGLISH": "Hold on.",
+      "CHINESE_SIMPLIFIED": "等等",
+      "CHINESE_TRADITIONAL": "等等",
+      "JAPANESE": "ちょっと、ストップ",
+      "INDONESIAN": "Tunggu dulu.",
+      "PORTUGUESE": "Espera aí.",
+      "SPANISH": "Espera un segundo.",
+      "PERSIAN": "صبر کن ببینم..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "怎麼？",
+      "JAPANESE": "なに？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Que foi?",
+      "SPANISH": "¿Qué pasa?",
+      "PERSIAN": "چیه؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너한테 이런 센스가 있을 리가 없는데... ",
+      "ENGLISH": "There’s no way you’d notice something like that on your own…",
+      "CHINESE_SIMPLIFIED": "你才不会有这种品味…",
+      "CHINESE_TRADITIONAL": "你不可能有這種品味...",
+      "JAPANESE": "ユマンにこんなセンスあるわけない…",
+      "INDONESIAN": "Nggak mungkin kamu punya sense kayak gitu sendiri...",
+      "PORTUGUESE": "Não tem como você notar algo assim sozinho…",
+      "SPANISH": "Tú no eres de los que se fijan en esas cosas...",
+      "PERSIAN": "تو عمراً عقلت به این چیزا نمی‌رسید تنهایی..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너 확실히 말해. ",
+      "ENGLISH": "Be honest...",
+      "CHINESE_SIMPLIFIED": "老实说吧",
+      "CHINESE_TRADITIONAL": "老實給我說",
+      "JAPANESE": "はっきり言って",
+      "INDONESIAN": "Jawab jujur.",
+      "PORTUGUESE": "Fala a verdade…",
+      "SPANISH": "Dime la verdad.",
+      "PERSIAN": "راستشو بذار کف دستم..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너 누구한테 배운 거지?",
+      "ENGLISH": "Who taught you?",
+      "CHINESE_SIMPLIFIED": "是谁教你的？",
+      "CHINESE_TRADITIONAL": "你到底是跟誰學的？",
+      "JAPANESE": "誰に教わったの？",
+      "INDONESIAN": "Kamu belajar dari siapa?",
+      "PORTUGUESE": "Quem te ensinou?",
+      "SPANISH": "¿Quién te enseñó eso?",
+      "PERSIAN": "کی این ریزه‌کاریا رو یادت داده ها؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 안 배웠어~",
+      "ENGLISH": "I… I didn’t learn it from anyone~",
+      "CHINESE_SIMPLIFIED": "啊…我没学过啦～",
+      "CHINESE_TRADITIONAL": "啊…我沒學過啦～",
+      "JAPANESE": "あ…習ってないって〜",
+      "INDONESIAN": "Hah... nggak belajar dari siapa-siapa~",
+      "PORTUGUESE": "Eu… eu não aprendi com ninguém~",
+      "SPANISH": "Aah... ¡nadie~!",
+      "PERSIAN": "کی؟! نه بابا... خودم فهمیدم کسی یادم نداده!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "확실히 말 안 해?",
+      "ENGLISH": "You sure about that?",
+      "CHINESE_SIMPLIFIED": "还不给我说清楚？",
+      "CHINESE_TRADITIONAL": "還不說清楚？",
+      "JAPANESE": "はっきり言って？本当に？",
+      "INDONESIAN": "Yakin nggak mau ngaku?",
+      "PORTUGUESE": "Tem certeza disso?",
+      "SPANISH": "¿No me lo vas a decir?",
+      "PERSIAN": "داری راستشو می‌گی یا بیام خفتت کنم؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "안 배웠다고!",
+      "ENGLISH": "I said I didn’t!",
+      "CHINESE_SIMPLIFIED": "都说了没学过！",
+      "CHINESE_TRADITIONAL": "就說我沒學過！",
+      "JAPANESE": "習ってないってば！",
+      "INDONESIAN": "Aku bilang aku nggak ada belajar!",
+      "PORTUGUESE": "Eu disse que não!",
+      "SPANISH": "¡Que no aprendí de nadie!",
+      "PERSIAN": "به جون خودم کسی یادم نداده گیر نده دیگه!"
+    }
+  }
+]

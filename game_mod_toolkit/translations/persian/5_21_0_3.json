@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 이건 좀 덜 아픈데?",
+      "ENGLISH": "Ah~ that one didn’t hurt as much.",
+      "CHINESE_SIMPLIFIED": "啊~这次倒没那么疼？",
+      "CHINESE_TRADITIONAL": "啊～ 好像沒那麼痛？",
+      "JAPANESE": "ああ、これはちょっと弱いな",
+      "INDONESIAN": "Ah~ yang barusan nggak terlalu sakit, sih.",
+      "PORTUGUESE": "Ah... esse nem doeu tanto.",
+      "SPANISH": "Ah... esta no dolió tanto.",
+      "PERSIAN": "آه ~ اون یکی اونقدر اذیت نشد"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아침이라 그런가? 힘이 좀 덜 들어간 거 같은데.",
+      "ENGLISH": "Maybe ‘cause it’s morning? Feels like you didn’t put your full strength into it.",
+      "CHINESE_SIMPLIFIED": "是因为早上吗？感觉你没使劲啊",
+      "CHINESE_TRADITIONAL": "是因為早上嗎？還沒有使出全力？",
+      "JAPANESE": "朝だからかな？力があんまり入ってない感じだ",
+      "INDONESIAN": "Mungkin karena masih pagi ya? Kerasa kayak kamu nggak pake tenaga penuh.",
+      "PORTUGUESE": "Será que é porque ainda tá muito cedo? Senti que você nem usou toda a força.",
+      "SPANISH": "¿Será porque es muy temprano? Siento que no usaste toda tu fuerza.",
+      "PERSIAN": "شاید \"به دلیل اینکه صبح است؟ به نظر می رسد تمام توان خود را در اون به کار نبرده اید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": " 희규 너 오늘 아침 안 먹었구나!",
+      "ENGLISH": "Hui-gyu, you skipped breakfast today, didn’t you!",
+      "CHINESE_SIMPLIFIED": "熙奎，你是没吃早饭吧！",
+      "CHINESE_TRADITIONAL": "熙奎啊，你今天早上沒吃飯吧！",
+      "JAPANESE": "ヒギュ、お前今朝飯食ってないだろ！",
+      "INDONESIAN": "Hui-gyu, kamu belum sarapan ya hari ini!",
+      "PORTUGUESE": "Heekyu, parece que você nem tomou café da manhã hoje!",
+      "SPANISH": "¡Heekyu, parece que no desayunaste hoy!",
+      "PERSIAN": "هوی-گیو، امروز صبحانه را حذف کردی، نه!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그래?",
+      "ENGLISH": "Oh yeah?",
+      "CHINESE_SIMPLIFIED": "啊，是吗？",
+      "CHINESE_TRADITIONAL": "啊，是嗎？",
+      "JAPANESE": "あ、そうか？",
+      "INDONESIAN": "Oh ya?",
+      "PORTUGUESE": "Ah, é?",
+      "SPANISH": "¿Ah, sí?",
+      "PERSIAN": "اوه بله؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오! 오! 이번 건 좀 괜찮았다",
+      "ENGLISH": "Ooh! Ooh! That one was pretty solid! laughs",
+      "CHINESE_SIMPLIFIED": "哦！哦！这次还行嘛",
+      "CHINESE_TRADITIONAL": "喔！喔！這拳不錯喔哈哈哈～",
+      "JAPANESE": "おおお、今回のはまあマシだったなｗｗ",
+      "INDONESIAN": "Ooh! Ooh! Yang itu lumayan mantap! *ketawa*",
+      "PORTUGUESE": "Oh, oh! Esse sim foi bom, hahaha!",
+      "SPANISH": "¡Oh, oh! ¡Esta sí estuvo buena, jajaja!",
+      "PERSIAN": "اوه اوه اون یکی خیلی محکم بود! می خندد"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어때 좀 괜찮은 부분?",
+      "ENGLISH": "What do you think—was that a good hit?",
+      "CHINESE_SIMPLIFIED": "怎么样，还不错吧？",
+      "CHINESE_TRADITIONAL": "怎樣，還行吧？",
+      "JAPANESE": "どう？ちょっとマシだったろ？",
+      "INDONESIAN": "Gimana tuh—pukulan yang bagus nggak?",
+      "PORTUGUESE": "E aí? Foi um bom soco, né?",
+      "SPANISH": "¿Qué tal? ¿Fue un buen golpe, no?",
+      "PERSIAN": "شما چه فکر می کنید - این موفقیت خوبی بود؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어어 뇌가 살짝 흔들린 거 같고 괜찮았어.",
+      "ENGLISH": "Yeah, yeah—my brain jiggled a bit. Not bad.",
+      "CHINESE_SIMPLIFIED": "嗯，脑子好像轻轻晃了一下，不过还行",
+      "CHINESE_TRADITIONAL": "嗯嗯，他的腦袋好像有點被震到，不過還不錯",
+      "JAPANESE": "うんうん、脳が軽く揺れた感じで良かったぞ",
+      "INDONESIAN": "Iya, iya—kepala aku agak geter dikit. Lumayan lah.",
+      "PORTUGUESE": "Sim... deu uma zunida no cérebro, mas foi legal.",
+      "SPANISH": "Sí... me zumbó un poco el cerebro, pero estuvo bien.",
+      "PERSIAN": "آره، آره- مغزم کمی تکان خورد. بد نیست."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 근데 유만아",
+      "ENGLISH": "sigh Anyway, Yuman…",
+      "CHINESE_SIMPLIFIED": "哈，不过宥万啊",
+      "CHINESE_TRADITIONAL": "不過，宥萬啊",
+      "JAPANESE": "あーでもユマンよ",
+      "INDONESIAN": "*hela napas* Tapi ya, Yuman…",
+      "PORTUGUESE": "Ei, Yumán,",
+      "SPANISH": "Oye Yumán,",
+      "PERSIAN": "آه به هر حال یومان…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 23.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 나 말숙이랑 다리 언제 놔줄 건데",
+      "ENGLISH": "So when are you gonna hook me up with Mal-sook?",
+      "CHINESE_SIMPLIFIED": "你到底什么时候帮我和末淑牵线啊？",
+      "CHINESE_TRADITIONAL": "你什麼時候才要把我介紹給末淑呢？",
+      "JAPANESE": "で、いつマルスク紹介くれるんだよ",
+      "INDONESIAN": "Kapan kamu mau ngenalin aku ke Mal-sook?",
+      "PORTUGUESE": "quando é que você vai me ajudar com a Malsook?",
+      "SPANISH": "¿cuándo me vas a ayudar con Malsook?",
+      "PERSIAN": "پس کی میخوای منو با مال‌سوک وصل کنی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": " 아 나도 얼짱 고말숙 남친 한번 돼 보자! 어?",
+      "ENGLISH": "Come on, let me be the hot guy dating Go Mal-sook just once!",
+      "CHINESE_SIMPLIFIED": "也让我当一回校花高末淑的男朋友嘛！嗯？",
+      "CHINESE_TRADITIONAL": "我不是說想當一次校花高末淑的男友嗎！嗯？",
+      "JAPANESE": "ああ、俺も一度は超美人コ・マルスクの彼氏になってみたいんだよ！な？",
+      "INDONESIAN": "Ayolah, sekali aja biarin gue jadi cowok keren yang pacaran sama Go Mal-sook!",
+      "PORTUGUESE": "Quero ser o namorado da famosa Go Malsook!",
+      "SPANISH": "¡Quiero ser el novio de la famosa Go Malsook!",
+      "PERSIAN": "بیا، بگذار من اون مرد داغی باشم که فقط یک بار با گو مال‌سوک قرار می گیرد!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이 그런 거 싫어해...",
+      "ENGLISH": "Mal-sook’s not into that kind of stuff…",
+      "CHINESE_SIMPLIFIED": "末淑不喜欢这种事...",
+      "CHINESE_TRADITIONAL": "但末淑不喜歡…",
+      "JAPANESE": "マルスクはそういうの嫌だって…",
+      "INDONESIAN": "Mal-sook tuh nggak suka yang begituan…",
+      "PORTUGUESE": "A Malsook não gosta dessas coisas...",
+      "SPANISH": "A Malsook no le gustan esas cosas...",
+      "PERSIAN": "مال‌سوک اهل این جور چیزها نیست…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "고말숙 떴다!!!",
+      "ENGLISH": "Go Mal-sook’s here!!!",
+      "CHINESE_SIMPLIFIED": "高末淑来了！！！",
+      "CHINESE_TRADITIONAL": "高末淑來了！！！",
+      "JAPANESE": "コ・マルスク現れた！！！",
+      "INDONESIAN": "Go Mal-sook datang!!!",
+      "PORTUGUESE": "A Malsook tá aqui!!!",
+      "SPANISH": "¡Malsook está aquí!!!",
+      "PERSIAN": "برو مال‌سوک اینجاست!!!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 30.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어!?",
+      "ENGLISH": "Wait—what!?",
+      "CHINESE_SIMPLIFIED": "呃！？",
+      "CHINESE_TRADITIONAL": "欸！？",
+      "JAPANESE": "えっ！？",
+      "INDONESIAN": "Hah—apa!?",
+      "PORTUGUESE": "Hã!?",
+      "SPANISH": "¿¡Eh!?",
+      "PERSIAN": "صبر کن - چی!؟"
+    }
+  }
+]

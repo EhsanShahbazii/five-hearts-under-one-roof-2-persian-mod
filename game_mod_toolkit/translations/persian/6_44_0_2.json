@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "진정이 좀 됐어요?",
+      "ENGLISH": "Are you feeling a bit calmer now?",
+      "CHINESE_SIMPLIFIED": "现在冷静点了吗？",
+      "CHINESE_TRADITIONAL": "現在冷靜一點了嗎？",
+      "JAPANESE": "少し落ち着きました？",
+      "INDONESIAN": "Kamu udah agak tenang sekarang?",
+      "PORTUGUESE": "Tá se sentindo melhor?",
+      "SPANISH": "¿Se siente mejor?",
+      "PERSIAN": "الان کمی آرام‌تر هستید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 따라와요. ",
+      "ENGLISH": "Come with me.",
+      "CHINESE_SIMPLIFIED": "跟我来吧",
+      "CHINESE_TRADITIONAL": "跟我來",
+      "JAPANESE": "僕についてきてください",
+      "INDONESIAN": "Yuk ikut aku.",
+      "PORTUGUESE": "Vem comigo.",
+      "SPANISH": "Venga conmigo.",
+      "PERSIAN": "با من بیا"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 스트레스 풀어줄게요.",
+      "ENGLISH": "I’ll help you relieve your stress.",
+      "CHINESE_SIMPLIFIED": "我带你去放松一下",
+      "CHINESE_TRADITIONAL": "我帶你去放鬆一下",
+      "JAPANESE": "僕がストレス、吹き飛ばしてあげますから",
+      "INDONESIAN": "Aku bantuin kamu ngurangin stresnya.",
+      "PORTUGUESE": "Vou te ajudar a relaxar.",
+      "SPANISH": "La ayudaré a relajarse.",
+      "PERSIAN": "من به شما کمک می کنم استرس خود را از بین ببرید."
+    }
+  }
+]

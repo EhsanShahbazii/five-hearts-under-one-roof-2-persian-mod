@@ -1,0 +1,97 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 0.8
+    },
+    "SCRIPT": {
+      "KOREAN": "다 했어?",
+      "ENGLISH": "You all done?",
+      "PERSIAN": "تموم شد کارت؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 엄마",
+      "ENGLISH": "Yeah, Mom.",
+      "PERSIAN": "آره مامان."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "(하숙집 전단지) \n이것만 하고 집 가려고",
+      "ENGLISH": "(Boarding House Flier)\nJust finishing this up before heading home.",
+      "PERSIAN": "(تراکت پانسیون) فقط اینو تموم کنم راه می‌افتم سمت خونه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "늦었는데 얼른 들어가지..",
+      "ENGLISH": "It’s late—don’t stay out too long.",
+      "PERSIAN": "دیروقته، زودتر بیا خونه‌ها..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "승이 씨랑 은비 나가고 빈 방 생긴 거 빨리 채워야지",
+      "ENGLISH": "Now that Seung-yi and Eun-bi moved out, we’ve gotta fill that empty room quick.",
+      "PERSIAN": "حالا که سونگ‌یی و اون‌بی رفتن، باید سریع اون اتاق خالی رو پر کنیم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마는 언제 와?",
+      "ENGLISH": "When are you coming home?",
+      "PERSIAN": "خودت کی میای مامان؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어어! 위험해요!!",
+      "ENGLISH": "Ah—watch out!!",
+      "PERSIAN": "وای، مواظب باشین!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "으아악!",
+      "ENGLISH": "Aaaah!!",
+      "PERSIAN": "آاااخ!!"
+    }
+  }
+]

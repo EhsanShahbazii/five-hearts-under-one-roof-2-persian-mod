@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "키야~",
+      "ENGLISH": "Whew~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "ふぁ〜",
+      "INDONESIAN": "Whew~",
+      "PORTUGUESE": "Kyaaa~!",
+      "SPANISH": "¡Kyaaa~!",
+      "PERSIAN": "وای~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "좀 괜찮아지셨어요?",
+      "ENGLISH": "Feeling a bit better now?",
+      "CHINESE_SIMPLIFIED": "现在好点了吗？",
+      "CHINESE_TRADITIONAL": "感覺好點了嗎？",
+      "JAPANESE": "ちょっと元気になりました？",
+      "INDONESIAN": "Udah mendingan sekarang?",
+      "PORTUGUESE": "Tá se sentindo um pouco melhor?",
+      "SPANISH": "¿Se siente un poco mejor?",
+      "PERSIAN": "الان کمی بهتر شدی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 아까보다는 훨씬 좋아진 것 같아요.",
+      "ENGLISH": "Yeah, I think I’m doing way better than before.",
+      "CHINESE_SIMPLIFIED": "嗯，感觉比刚才好多了",
+      "CHINESE_TRADITIONAL": "是的，感覺比剛才好多了",
+      "JAPANESE": "はい、さっきよりずっと良くなった気がします",
+      "INDONESIAN": "Iya, kayaknya jauh lebih enakan dari tadi.",
+      "PORTUGUESE": "Sim, bem melhor do que antes.",
+      "SPANISH": "Sí, mucho mejor que antes.",
+      "PERSIAN": "آره، فکر می کنم خیلی بهتر از قبل هستم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "더 필요하신 건 없으세요?",
+      "ENGLISH": "Need anything else?",
+      "CHINESE_SIMPLIFIED": "还需要别的什么吗？",
+      "CHINESE_TRADITIONAL": "還需要其他的嗎？",
+      "JAPANESE": "何か他に欲しいものありますか？",
+      "INDONESIAN": "Mau minta apa lagi?",
+      "PORTUGUESE": "Não precisa de mais nada?",
+      "SPANISH": "¿No necesita nada más?",
+      "PERSIAN": "به چیز دیگری نیاز دارید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 약간 과일 같은 거 먹고 싶은데...",
+      "ENGLISH": "Kinda craving some fruit, actually…",
+      "CHINESE_SIMPLIFIED": "我有点想吃水果...",
+      "CHINESE_TRADITIONAL": "我有點想吃水果之類的...",
+      "JAPANESE": "ちょっとフルーツとか食べたいな…",
+      "INDONESIAN": "Sebenernya pengen buah sih…",
+      "PORTUGUESE": "Tô com vontade de comer fruta...",
+      "SPANISH": "Tengo ganas de comer fruta...",
+      "PERSIAN": "هوس مقداری میوه، در واقع…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다 나은 거 아니야?",
+      "ENGLISH": "Aren’t you basically healed at this point?",
+      "CHINESE_SIMPLIFIED": "你这不都好了吗？",
+      "CHINESE_TRADITIONAL": "該不會完全恢復了吧？",
+      "JAPANESE": "もう治ったんじゃないの？",
+      "INDONESIAN": "Lah, bukannya kamu udah sembuh total ya?",
+      "PORTUGUESE": "Acho que você já se recuperou 100%",
+      "SPANISH": "Creo que ya te recuperaste al 100%",
+      "PERSIAN": "اساساً در این مرحله شفا نگرفته اید؟"
+    }
+  }
+]

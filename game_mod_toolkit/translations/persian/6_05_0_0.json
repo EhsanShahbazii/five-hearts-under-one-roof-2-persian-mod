@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? ",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "喔？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "喔...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "누구랑 놀지?",
+      "ENGLISH": "Who should I have fun with?",
+      "CHINESE_SIMPLIFIED": "要跟谁一起玩呢？",
+      "CHINESE_TRADITIONAL": "要和誰一起玩呢？",
+      "JAPANESE": "誰と遊ぼっかな",
+      "INDONESIAN": "Aku enaknya seru-seruan sama siapa, ya?",
+      "PORTUGUESE": "E agora, com quem eu vou?",
+      "SPANISH": "¿Y ahora con quién me voy?",
+      "PERSIAN": "با کی خوش بگذرونم؟"
+    }
+  }
+]

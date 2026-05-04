@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 당연히 어렵죠!",
+      "ENGLISH": "Oh, of course it's hard!",
+      "CHINESE_SIMPLIFIED": "啊，当然困难啊！",
+      "CHINESE_TRADITIONAL": "啊，當然很難啊！",
+      "JAPANESE": "まぁ、正直言って難しいでしょうね！",
+      "INDONESIAN": "Ya jelas susah dong!",
+      "PORTUGUESE": "Ah, claro que vai ser difícil!",
+      "SPANISH": "¡Ah, claro que será difícil!",
+      "PERSIAN": "اوه، البته سخت است!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 기분 나쁘게 듣진 말고.",
+      "ENGLISH": "Don't take it too badly.",
+      "CHINESE_SIMPLIFIED": "请别觉得我说话难听",
+      "CHINESE_TRADITIONAL": "請不要覺得我說話不中聽",
+      "JAPANESE": "気を悪くしないでください。",
+      "INDONESIAN": "Tapi jangan terlalu tersinggung ya",
+      "PORTUGUESE": "Não quero que entenda mal.",
+      "SPANISH": "No quiero que lo tomes a mal.",
+      "PERSIAN": "خیلی بد نگیرید"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "애매하게 공부해서 시험 쳤다가 괜히 자신감만 떨어질까봐 그래요",
+      "ENGLISH": "Studying half-heartedly and taking the exam might just make you lose confidence for no reason.",
+      "CHINESE_SIMPLIFIED": "我只是怕你准备得不够充分去考试，反而会打击自信心",
+      "CHINESE_TRADITIONAL": "我只是擔心你準備得不夠充分就去考試，反而會打擊自信心",
+      "JAPANESE": "中途半端に勉強して試験を受けて、変に自信を失う方がもったいない気がして。",
+      "INDONESIAN": "Aku cuma takut kamu belajar setengah-setengah terus malah gagal ujian dan jadi kehilangan percaya diri",
+      "PORTUGUESE": "Só me preocupo que, se estudar pela metade, talvez não tenha o resultado que deseja.",
+      "SPANISH": "Solo me preocupa que, si estudias a medias, no te vaya tan bien como deseas.",
+      "PERSIAN": "مطالعه نیمه جون و شرکت در امتحان ممکنه باعث شود اعتماد به نفس شما بی دلیل از دست برود."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 깔끔하게 내년 노리거나",
+      "ENGLISH": "Why not just cleanly aim for next year",
+      "CHINESE_SIMPLIFIED": "干脆把目标放在明年",
+      "CHINESE_TRADITIONAL": "幹脆把目標放在明年",
+      "JAPANESE": "思い切って来年を狙うとか、",
+      "INDONESIAN": "Gimana kalau sekalian aja fokus buat tahun depan",
+      "PORTUGUESE": "Por que não tenta mirar pro próximo ano",
+      "SPANISH": "¿Por qué no apuntas mejor al próximo año",
+      "PERSIAN": "چرا فقط برای سال آینده هدف گذاری نکنید"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다른 걸 찾아보는 게 어때요?",
+      "ENGLISH": "or look for something else?",
+      "CHINESE_SIMPLIFIED": "或者找找其他出路如何？",
+      "CHINESE_TRADITIONAL": "或者找找其他出路如何？",
+      "JAPANESE": "別の道を考えてみるのもどうです？",
+      "INDONESIAN": "Atau coba cari jalan lain?",
+      "PORTUGUESE": "ou procurar outra opção?",
+      "SPANISH": "o buscas otra opción?",
+      "PERSIAN": "یا به دنبال چیز دیگری باشید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 알잖아요. ",
+      "ENGLISH": "Oh, you know.",
+      "CHINESE_SIMPLIFIED": "哎呦，你明白的吧",
+      "CHINESE_TRADITIONAL": "啊，你明白的吧",
+      "JAPANESE": "わかるでしょ？",
+      "INDONESIAN": "Aduh, kamu juga tahu kan",
+      "PORTUGUESE": "Você sabe.",
+      "SPANISH": "Ya sabes.",
+      "PERSIAN": "اوه، شما می دانید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "시험이라는 게 그냥 뚝딱 해서 되는 것도 아니고",
+      "ENGLISH": "Exams aren't something you just breeze through.",
+      "CHINESE_SIMPLIFIED": "考试又不是随便应付就能成的",
+      "CHINESE_TRADITIONAL": "考試也不是隨便應付就能成功的",
+      "JAPANESE": "試験って、そんなに簡単に“ポン”とできるもんじゃないから。",
+      "INDONESIAN": "Ujian tuh nggak bisa asal dikerjain terus langsung jadi",
+      "PORTUGUESE": "Um exame assim não se passa da noite pro dia.",
+      "SPANISH": "Un examen así no se aprueba de la noche a la mañana.",
+      "PERSIAN": "امتحانات چیزی نیست که شما فقط از اون عبور کنید."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "ああ…。",
+      "INDONESIAN": "Ah...",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "آه..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 23.2
+    },
+    "SCRIPT": {
+      "KOREAN": "원하는 대학 있어요?",
+      "ENGLISH": "Do you have a university you want to go to?",
+      "CHINESE_SIMPLIFIED": "有心仪的大学吗？",
+      "CHINESE_TRADITIONAL": "你有想要上的大學嗎？",
+      "JAPANESE": "志望校、あるんですか？",
+      "INDONESIAN": "Kamu ada universitas yang pengen dimasukin?",
+      "PORTUGUESE": "Tem alguma universidade em mente?",
+      "SPANISH": "¿Tienes alguna universidad en mente?",
+      "PERSIAN": "دانشگاهی داری که بخوای بری؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저 밀크대요...",
+      "ENGLISH": "I want to go to Milk University...",
+      "CHINESE_SIMPLIFIED": "我想考牛奶大学...",
+      "CHINESE_TRADITIONAL": "我想考 Milk 大學...",
+      "JAPANESE": "ミルク大学です…。",
+      "INDONESIAN": "Aku pengen masuk Universitas Milk...",
+      "PORTUGUESE": "Sim, a Universidade Milk.",
+      "SPANISH": "Sí, la Universidad Milk.",
+      "PERSIAN": "من میخوام برم دانشگاه میلک..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "밀...밀 밀크? 밀크대요? ",
+      "ENGLISH": "Milk... Milk? Milk University?",
+      "CHINESE_SIMPLIFIED": "牛...牛奶？牛奶大学？",
+      "CHINESE_TRADITIONAL": "Mi...Mi Milk？Milk 大學",
+      "JAPANESE": "ミ…ミルク？ミルク大学？",
+      "INDONESIAN": "Mi...Milk? Universitas Milk?",
+      "PORTUGUESE": "Mi... Milk? A Universidade Milk?",
+      "SPANISH": "¿Mi... Milk? ¿La Universidad Milk?",
+      "PERSIAN": "شیر... شیر؟ دانشگاه شیر؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 29.6
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍, 아... 좀 난 반댄데?",
+      "ENGLISH": "Sigh, ah... That's kinda out of my league?",
+      "CHINESE_SIMPLIFIED": "嘶，啊...这难度是不是太高了？",
+      "CHINESE_TRADITIONAL": "嘶，啊...我有點反對？",
+      "JAPANESE": "う〜ん、それは…ちょっと反対かも。",
+      "INDONESIAN": "Hmm, aduh... aku sih kurang setuju ya",
+      "PORTUGUESE": "Tss... ah... eu não concordaria muito, não.",
+      "SPANISH": "Tss... ah... yo no estaría muy de acuerdo.",
+      "PERSIAN": "آه، آه... این به نوعی خارج از لیگ من است؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 31.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 왜요?",
+      "ENGLISH": "Huh? Why?",
+      "CHINESE_SIMPLIFIED": "嗯？为什么？",
+      "CHINESE_TRADITIONAL": "嗯？為什麽？",
+      "JAPANESE": "えっ？なんでですか？",
+      "INDONESIAN": "Hah? Kenapa?",
+      "PORTUGUESE": "Hã? Por quê?",
+      "SPANISH": "¿Eh? ¿Por qué?",
+      "PERSIAN": "ها؟ چرا؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "거긴... 못 가요",
+      "ENGLISH": "that place... I can't go there.",
+      "CHINESE_SIMPLIFIED": "那里...考不上的",
+      "CHINESE_TRADITIONAL": "那裡...考不上的",
+      "JAPANESE": "あそこは…無理ですよ。",
+      "INDONESIAN": "Kamu nggak bakal bisa masuk ke sana",
+      "PORTUGUESE": "Porque... você não vai entrar lá.",
+      "SPANISH": "Porque... no vas a entrar ahí.",
+      "PERSIAN": "اون مکان... من نمیتونم برم اونجا."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 35.7
+    },
+    "SCRIPT": {
+      "KOREAN": "다시 태어나도 안 될걸요?",
+      "ENGLISH": "Not even if I were reborn?",
+      "CHINESE_SIMPLIFIED": "就算重新投胎也难啊",
+      "CHINESE_TRADITIONAL": "就算重新投胎也難啊",
+      "JAPANESE": "生まれ変わっても無理かも。",
+      "INDONESIAN": "Lahir lagi juga belum tentu",
+      "PORTUGUESE": "Nem se nascesse de novo, seria impossível.",
+      "SPANISH": "Ni aunque volvieras a nacer, sería imposible.",
+      "PERSIAN": "حتی اگر دوباره متولد شده باشم؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 38.0
+    },
+    "SCRIPT": {
+      "KOREAN": "적당히 상향해야지",
+      "ENGLISH": "You gotta aim a bit higher.",
+      "CHINESE_SIMPLIFIED": "目标要定得适度才行",
+      "CHINESE_TRADITIONAL": "目標要訂得適合才行",
+      "JAPANESE": "もう少し現実的に上を狙うくらいにしましょう。",
+      "INDONESIAN": "Kalau mau pasang target, ya jangan setinggi langit juga",
+      "PORTUGUESE": "É bom mirar alto,",
+      "SPANISH": "Hay que apuntar alto, ",
+      "PERSIAN": "شما باید کمی بالاتر هدف بگیرید"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 38.3,
+      "HIDE": 40.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이거는 우주 상향이니까~",
+      "ENGLISH": "This is like aiming for the stars~",
+      "CHINESE_SIMPLIFIED": "这简直比摘星星还难啊~",
+      "CHINESE_TRADITIONAL": "這簡直比摘星星還難啊~",
+      "JAPANESE": "これはもう宇宙レベルのチャレンジですから〜。",
+      "INDONESIAN": "Yang kamu incar itu udah luar angkasa, tahu?",
+      "PORTUGUESE": "mas isso já é mirar pro espaço.",
+      "SPANISH": "pero eso ya es apuntar al espacio.",
+      "PERSIAN": "این مثل هدف گرفتن ستاره هاست"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 40.9,
+      "HIDE": 44.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 적당한 데로 다시 생각해 봐요? 알겠죠?",
+      "ENGLISH": "Just rethink it for somewhere more realistic? Got it?",
+      "CHINESE_SIMPLIFIED": "考虑换个更实际的目标好吗？明白了吧？",
+      "CHINESE_TRADITIONAL": "考慮換個更實際的目標好嗎？明白了吧？",
+      "JAPANESE": "適度なところをもう一度考えてみましょう、ね？",
+      "INDONESIAN": "Coba pikirin lagi yang realistis dikit, ya? Oke?",
+      "PORTUGUESE": "Pense em algo mais realista.",
+      "SPANISH": "Piensa en algo más realista.",
+      "PERSIAN": "فقط برای جایی واقعی تر به اون فکر کنید؟ متوجه شدید؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 47.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 알겠어요...",
+      "ENGLISH": "Yeah... I get it...",
+      "CHINESE_SIMPLIFIED": "嗯...明白了...",
+      "CHINESE_TRADITIONAL": "嗯...明白了...",
+      "JAPANESE": "はい…わかりました…。",
+      "INDONESIAN": "Iya... baik...",
+      "PORTUGUESE": "Sim... tá bom...",
+      "SPANISH": "Sí... está bien...",
+      "PERSIAN": "آره... فهمیدم..."
+    }
+  }
+]

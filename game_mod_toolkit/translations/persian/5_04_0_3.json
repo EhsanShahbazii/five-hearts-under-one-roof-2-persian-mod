@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠, 잠깐만요!",
+      "ENGLISH": "Oppa, wait a sec!",
+      "CHINESE_SIMPLIFIED": "哥哥，稍等一下！",
+      "CHINESE_TRADITIONAL": "哥哥，等一下",
+      "JAPANESE": "お兄さん、ちょっと待ってください！",
+      "INDONESIAN": "Oppa, tunggu bentar!",
+      "PORTUGUESE": "Oppa, espera um pouquinho!",
+      "SPANISH": "¡Oppa, espera un momento!",
+      "PERSIAN": "یومان، یک لحظه صبر کن!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 이게 제일 맛있어 보인다",
+      "ENGLISH": "Hmm… this one looks the best.",
+      "CHINESE_SIMPLIFIED": "嗯...这个看起来最好吃",
+      "CHINESE_TRADITIONAL": "嗯... 這個看起來最好吃",
+      "JAPANESE": "ん…これが一番おいしそうだね",
+      "INDONESIAN": "Hmm… yang ini kelihatannya paling oke.",
+      "PORTUGUESE": "Mmm... esse parece mais gostoso.",
+      "SPANISH": "Mmm... este se ve más rico.",
+      "PERSIAN": "هوم... این یکی بهترین به نظر می رسد."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 아~ ",
+      "ENGLISH": "Oppa, say “ah~”",
+      "CHINESE_SIMPLIFIED": "哥哥，啊~",
+      "CHINESE_TRADITIONAL": "哥哥，嘴巴打開，啊～",
+      "JAPANESE": "お兄さん、あ〜ん",
+      "INDONESIAN": "Oppa, bilang “ah~”",
+      "PORTUGUESE": "Oppa, abre a boca~",
+      "SPANISH": "Oppa, di aaah~",
+      "PERSIAN": "یومان، بگو \"آه\""
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "먹을 만해요?",
+      "ENGLISH": "How is it?",
+      "CHINESE_SIMPLIFIED": "味道还可以吗？",
+      "CHINESE_TRADITIONAL": "還可以嗎？",
+      "JAPANESE": "どう？おいしい？",
+      "INDONESIAN": "Gimana rasanya?",
+      "PORTUGUESE": "Tá bom?",
+      "SPANISH": "¿Está bueno?",
+      "PERSIAN": "چطوره؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 너무 맛있는데요?",
+      "ENGLISH": "It’s really good!",
+      "CHINESE_SIMPLIFIED": "嗯！超级好吃呢！",
+      "CHINESE_TRADITIONAL": "可以！非常好吃！",
+      "JAPANESE": "はい！めっちゃおいしいです！",
+      "INDONESIAN": "Enak banget!",
+      "PORTUGUESE": "Sim! Delicioso.",
+      "SPANISH": "¡Sí! delicioso.",
+      "PERSIAN": "واقعاً خوب است!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.1
+    },
+    "SCRIPT": {
+      "KOREAN": "다행이다 또 줄까요?",
+      "ENGLISH": "Thank goodness. Want another?",
+      "CHINESE_SIMPLIFIED": "太好了，要再喂你一颗吗？",
+      "CHINESE_TRADITIONAL": "太好了。要不要再吃呢？",
+      "JAPANESE": "よかった、もう一口あげましょうか？",
+      "INDONESIAN": "Syukurlah. Mau lagi?",
+      "PORTUGUESE": "Ainda bem. Quer mais?",
+      "SPANISH": "Menos mal. ¿Quiere más?",
+      "PERSIAN": "خداروشکر دیگری می خواهید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 또 주세요! 또!",
+      "ENGLISH": "Yes! More, please! More!",
+      "CHINESE_SIMPLIFIED": "好！再给我一颗！还要！",
+      "CHINESE_TRADITIONAL": "要！再給我！再來一個！",
+      "JAPANESE": "はい！もっとください！もっと！",
+      "INDONESIAN": "Mau! Lagi dong! Lagi!",
+      "PORTUGUESE": "Sim! Me dá mais!",
+      "SPANISH": "¡Sí! ¡Dame más!",
+      "PERSIAN": "بله! بیشتر، لطفا! بیشتر!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  }
+]

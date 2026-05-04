@@ -1,0 +1,314 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 이만 가죠.",
+      "ENGLISH": "Let’s call it a day.",
+      "CHINESE_SIMPLIFIED": "今天要不就到这儿吧",
+      "CHINESE_TRADITIONAL": "今天先到這裡吧",
+      "JAPANESE": "今日はこのへんで帰りましょうか",
+      "INDONESIAN": "Baiklah, kita akhiri saja hari ini.",
+      "PORTUGUESE": "Vamos encerrar por hoje.",
+      "SPANISH": "Dejémoslo aquí por hoy.",
+      "PERSIAN": "بگذارید اونو یک روز بنامیم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 컨디션도 안 좋은 거 같은데",
+      "ENGLISH": "Yuman, you’re not feeling great—no need to push yourself.",
+      "CHINESE_SIMPLIFIED": "宥万先生看起来状态也不太好",
+      "CHINESE_TRADITIONAL": "宥萬先生你看起來好像不太舒服",
+      "JAPANESE": "ユマンさん、ちょっと体調も悪そうだし",
+      "INDONESIAN": "Yuman, kamu sedang tidak enak badan—tidak perlu memaksakan diri.",
+      "PORTUGUESE": "Parece que você não está se sentindo bem.",
+      "SPANISH": "Parece que no te sientes bien.",
+      "PERSIAN": "یومان، شما احساس خوبی ندارید—نیازی به فشار آوردن به خود ندارید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "더 무리 말구.",
+      "ENGLISH": "Aww... but I don’t wanna go just yet.",
+      "CHINESE_SIMPLIFIED": "别再勉强了",
+      "CHINESE_TRADITIONAL": "不要再勉強自己了",
+      "JAPANESE": "これ以上は無理しないでくださいね",
+      "INDONESIAN": "Aww... tapi aku belum mau pergi sekarang.",
+      "PORTUGUESE": "Não force mais.",
+      "SPANISH": "No hagas más esfuerzo.",
+      "PERSIAN": "اوه ... اما من هنوز نمی خواهم بروم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아...나 그냥 가기 너무 아쉬운데?",
+      "ENGLISH": "Ugh, why do I feel so dizzy all of a sudden...?",
+      "CHINESE_SIMPLIFIED": "啊...可我舍不得就这么走啊？",
+      "CHINESE_TRADITIONAL": "啊...但這樣離開好像很可惜",
+      "JAPANESE": "あぁ…でも、このまま帰るの、なんか名残惜しいな",
+      "INDONESIAN": "Aduh, kenapa tiba-tiba aku merasa pusing sekali...?",
+      "PORTUGUESE": "Ah... que pena irmos embora assim.",
+      "SPANISH": "Ah… pero que lástima irnos así.",
+      "PERSIAN": "اوه، چرا من یکدفعه اینقدر سرگیجه دارم...؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어우, 근데 나 왜 이렇게 어지럽지?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哎哟，我怎么这么头晕啊？",
+      "CHINESE_TRADITIONAL": "哎...我怎麼感覺頭好暈？",
+      "JAPANESE": "うわ…なんでこんなにクラクラするんだろ…？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Ugh, por que eu tô tão tonto?",
+      "SPANISH": "Ugh, ¿por qué me siento tan mareado?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "還好嗎？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "나 돈다!",
+      "ENGLISH": "I’m spinning... ",
+      "CHINESE_SIMPLIFIED": "我怎么在转！",
+      "CHINESE_TRADITIONAL": "我怎麼在轉！",
+      "JAPANESE": "め、めまいが…！",
+      "INDONESIAN": "Aku sedang berputar...",
+      "PORTUGUESE": "Tô girando!",
+      "SPANISH": "¡Estoy girando!",
+      "PERSIAN": "من می چرخم..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "돈다아..",
+      "ENGLISH": "I’m spinning...",
+      "CHINESE_SIMPLIFIED": "怎么转来转去的啊...",
+      "CHINESE_TRADITIONAL": "轉來轉去的...",
+      "JAPANESE": "目が回る…！",
+      "INDONESIAN": "aku sedang berputar...",
+      "PORTUGUESE": "Girandooo...!",
+      "SPANISH": "¡Girandooo...!",
+      "PERSIAN": "من می چرخم..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어어어...",
+      "ENGLISH": "Wh-whoa...",
+      "CHINESE_SIMPLIFIED": "呃呃呃...",
+      "CHINESE_TRADITIONAL": "欸欸欸...",
+      "JAPANESE": "うわあああ…",
+      "INDONESIAN": "Ap-ap-ap-ap...",
+      "PORTUGUESE": "E-ei...!",
+      "SPANISH": "¡O-oye…!",
+      "PERSIAN": "وای..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 26.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어어어...!!!",
+      "ENGLISH": "Whoa—!!",
+      "CHINESE_SIMPLIFIED": "呃呃呃...！！！",
+      "CHINESE_TRADITIONAL": "喂喂喂...！！！",
+      "JAPANESE": "うわあああ…！",
+      "INDONESIAN": "Wah—!!",
+      "PORTUGUESE": "Eii...!",
+      "SPANISH": "¡Oyeee…!",
+      "PERSIAN": "وای-!!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 27.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!!! ",
+      "ENGLISH": "Yuman!!",
+      "CHINESE_SIMPLIFIED": "宥万先生！！！",
+      "CHINESE_TRADITIONAL": "宥萬先生！！！",
+      "JAPANESE": "ユマンさん！！",
+      "INDONESIAN": "Yuman!!",
+      "PORTUGUESE": "Yuman!",
+      "SPANISH": "¡Yumán!",
+      "PERSIAN": "یومان!!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.8,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?!",
+      "CHINESE_SIMPLIFIED": "你没事吧？",
+      "CHINESE_TRADITIONAL": "你還好嗎？",
+      "JAPANESE": "大丈夫ですか!?",
+      "INDONESIAN": "Apakah kamu baik-baik saja?!",
+      "PORTUGUESE": "Você tá bem?",
+      "SPANISH": "¿Está bien?",
+      "PERSIAN": "حالت خوبه؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요! ",
+      "ENGLISH": "Excuse me!",
+      "CHINESE_SIMPLIFIED": "不好意思！",
+      "CHINESE_TRADITIONAL": "有人嗎！",
+      "JAPANESE": "誰か！",
+      "INDONESIAN": "Permisi!",
+      "PORTUGUESE": "Socorro!",
+      "SPANISH": "¡Ayuda!",
+      "PERSIAN": "ببخشید!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 32.2
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 사람 쓰러졌어요!",
+      "ENGLISH": "Someone just collapsed over here!",
+      "CHINESE_SIMPLIFIED": "这里有人晕倒了！",
+      "CHINESE_TRADITIONAL": "這裡有人昏倒了！",
+      "JAPANESE": "ここに人が倒れました！",
+      "INDONESIAN": "Seseorang baru saja pingsan di sini!",
+      "PORTUGUESE": "Alguém desmaiou!",
+      "SPANISH": "¡Alguien se desmayó!",
+      "PERSIAN": "یک نفر همین جا سقوط کرد!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 33.3,
+      "HIDE": 34.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!!",
+      "ENGLISH": "Yuman!!",
+      "CHINESE_SIMPLIFIED": "宥万先生！！",
+      "CHINESE_TRADITIONAL": "宥萬先生！！",
+      "JAPANESE": "ユマンさん！！",
+      "INDONESIAN": "Yuman!!",
+      "PORTUGUESE": "Yuman Woo!!",
+      "SPANISH": "¡Yumán Woo!!",
+      "PERSIAN": "یومان!!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 36.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하..어떡해..",
+      "ENGLISH": "Oh no... what do I do...",
+      "CHINESE_SIMPLIFIED": "天啊怎么办...",
+      "CHINESE_TRADITIONAL": "天啊...怎麼辦...",
+      "JAPANESE": "はぁ…どうしよう…",
+      "INDONESIAN": "Oh tidak... apa yang harus aku lakukan...",
+      "PORTUGUESE": "Ah... o que eu faço...?",
+      "SPANISH": "Ah… ¿qué hago…?",
+      "PERSIAN": "نه...چیکار کنم..."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 37.1,
+      "HIDE": 39.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨! 괜찮아요?",
+      "ENGLISH": "Yuman! Can you hear me?! Are you okay?!",
+      "CHINESE_SIMPLIFIED": "宥万先生！你没事吧？",
+      "CHINESE_TRADITIONAL": "宥萬先生！你沒事吧？",
+      "JAPANESE": "ユマンさん！ 聞こえますか!?",
+      "INDONESIAN": "Yuman! Kamu bisa dengar aku?! Kamu baik-baik saja?!",
+      "PORTUGUESE": "Yuman! Você tá bem?!",
+      "SPANISH": "¡Yumán! ¿Estás bien?",
+      "PERSIAN": "یومان! صدایم را می شنوی؟! حالت خوبه؟!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 39.1
+    }
+  }
+]

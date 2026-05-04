@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "평소에도 다리 많이 꼬세요? ",
+      "ENGLISH": "Do you usually cross your legs a lot?",
+      "CHINESE_SIMPLIFIED": "平时经常翘二郎腿吗？",
+      "CHINESE_TRADITIONAL": "平常很常翹腳嗎？",
+      "JAPANESE": "普段から足よく組まれますか?",
+      "INDONESIAN": "Kamu sering nyilangin kaki, ya?",
+      "PORTUGUESE": "Você costuma cruzar muito as pernas?",
+      "SPANISH": "¿Suele cruzar mucho las piernas?",
+      "PERSIAN": "معمولاً پاهای خود را زیاد روی هم قرار می دهید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "골반은 제가  풀어드릴게요!",
+      "ENGLISH": "I’ll work on your pelvis for you.",
+      "CHINESE_SIMPLIFIED": "我来帮您放松一下骨盆！",
+      "CHINESE_TRADITIONAL": "幫你放鬆骨盆喔！",
+      "JAPANESE": "骨盤は私がほぐしていきますね",
+      "INDONESIAN": "Aku bakal bantu aturin posisi panggul kamu.",
+      "PORTUGUESE": "Vou começar pelo quadril.",
+      "SPANISH": "Voy empezar con las caderas.",
+      "PERSIAN": "من برای شما روی لگن شما کار می کنم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.2
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮으세요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "还可以吗？",
+      "CHINESE_TRADITIONAL": "還好嗎？",
+      "JAPANESE": "大丈夫ですか?",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Assim está bem?",
+      "SPANISH": "¿Está bien así?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아프시면 말씀하세요",
+      "ENGLISH": "Let me know if it hurts, okay?",
+      "CHINESE_SIMPLIFIED": "如果痛的话请随时告诉我",
+      "CHINESE_TRADITIONAL": "會痛的話請跟我說",
+      "JAPANESE": "痛かったら言ってくださいね",
+      "INDONESIAN": "Bilang aja ya kalau sakit.",
+      "PORTUGUESE": "Se doer, me avise.",
+      "SPANISH": "Si le duele, avíseme.",
+      "PERSIAN": "اگر درد دارد به من بگو، باشه؟"
+    }
+  }
+]

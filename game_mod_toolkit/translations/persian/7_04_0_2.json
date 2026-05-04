@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 제발!!! 정신 좀 차려~ ",
+      "ENGLISH": "Hey, seriously!!! Get a grip.",
+      "CHINESE_SIMPLIFIED": "喂，拜托！！！清醒点吧～",
+      "CHINESE_TRADITIONAL": "喂，拜託！！！清醒點吧～",
+      "JAPANESE": "おい、頼むから!!! 目を覚ませよ〜！",
+      "INDONESIAN": "Eh, seriusan deh!!! Sadar diri, dong.",
+      "PORTUGUESE": "Já chega, por favor! Cai na real!",
+      "SPANISH": "¡Ya basta, por favor! ¡Reacciona!",
+      "PERSIAN": "هی جدی !!! گرفتن."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네 주제에 무슨 모델을 한다 그래!!",
+      "ENGLISH": "Who do you think you are — trying to be a model?!",
+      "CHINESE_SIMPLIFIED": "你这种条件还想当模特？！",
+      "CHINESE_TRADITIONAL": "你這種條件還想當模特兒？！",
+      "JAPANESE": "お前がモデルだなんてありえないだろ！！",
+      "INDONESIAN": "Kamu pikir kamu siapa — mau jadi model segala?!",
+      "PORTUGUESE": "Você, modelo? Ah, por favor, volta pra terra!",
+      "SPANISH": "¿Tú, modelo? ¡Por favor, aterriza!",
+      "PERSIAN": "فکر می‌کنی کی هستی - تلاش می‌کنی مدل شوی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "말 다 했어...?",
+      "ENGLISH": "…Are you done talking?",
+      "CHINESE_SIMPLIFIED": "话说完了吗...？",
+      "CHINESE_TRADITIONAL": "你說完了嗎...？",
+      "JAPANESE": "今、なんて言ったの？",
+      "INDONESIAN": "…Udah selesai ngomongnya?",
+      "PORTUGUESE": "Terminou de falar...?",
+      "SPANISH": "¿Terminaste de hablar...?",
+      "PERSIAN": "... حرف زدنت تمام شد؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "야 사람은 말이야 원래 주제에 맞게 살아야 되는 거야.",
+      "ENGLISH": "Listen, people need to live according to their level. That’s just how it is.",
+      "CHINESE_SIMPLIFIED": "喂，人啊，本来就得掂量清楚自己几斤几两",
+      "CHINESE_TRADITIONAL": "喂，人啊，就是要懂得自己的本分活著",
+      "JAPANESE": "人間ってのはな、自分の分をわきまえて生きるもんなんだよ",
+      "INDONESIAN": "Dengar ya, orang itu harus hidup sesuai levelnya. Emang udah gitu aturan mainnya.",
+      "PORTUGUESE": "Olha, as pessoas têm que viver de acordo com o que são, é assim que a vida é.",
+      "SPANISH": "Mira, la gente tiene que vivir de acuerdo a lo que es, así es la vida.",
+      "PERSIAN": "گوش کن، مردم باید مطابق سطح خود زندگی کنند. همین طور است."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네가 지금 당장은 내 말 듣기 싫겠지만...",
+      "ENGLISH": "You might not want to hear it right now, but—",
+      "CHINESE_SIMPLIFIED": "你现在可能不想听我说这些...",
+      "CHINESE_TRADITIONAL": "雖然你現在可能不想聽我說這些...",
+      "JAPANESE": "今は俺の言葉が耳障りに聞こえるかもしれないけど…",
+      "INDONESIAN": "Mungkin sekarang kamu nggak mau denger, tapi—",
+      "PORTUGUESE": "Pode ser que agora você não queira me ouvir, mas…",
+      "SPANISH": "Puede que ahora no quieras escucharme, pero…",
+      "PERSIAN": "ممکنه در حال حاضر نخواهید اونو بشنوید، اما"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니야~ 아 고맙네, 아 친구 좋다는 게 이럴 때 쓰는 거지.",
+      "ENGLISH": "No, no~ wow, thank you, really — this is what real friends are for.",
+      "CHINESE_SIMPLIFIED": "没事啦～呵真是谢谢您嘞，这才是真朋友嘛",
+      "CHINESE_TRADITIONAL": "沒屎啦～謝謝你喔，這才是真朋友啊",
+      "JAPANESE": "いや〜ありがと こういう時に言ってくれるのが本当の友達だよね",
+      "INDONESIAN": "Nggak, nggak~ wow, makasih lho, beneran — ini baru namanya teman sejati.",
+      "PORTUGUESE": "Não, tudo bem~ obrigada, de verdade. Pra isso que servem os amigos, né?",
+      "SPANISH": "No, está bien~ gracias, de verdad. Para eso están los amigos, ¿no?",
+      "PERSIAN": "نه، نه، وای، ممنونم، واقعاً - این همون چیزی است که دوستان واقعی برای اون هستند."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 그래 잘 생각했어 말숙아 어? 내가...",
+      "ENGLISH": "Ha… yeah, you’re right, Mal-sook. Thanks. I—",
+      "CHINESE_SIMPLIFIED": "哈，对，你想通了就好，我这是...",
+      "CHINESE_TRADITIONAL": "哈，對啊，你有想通就好，我這是...",
+      "JAPANESE": "はっ、そうだね 目が覚めたよ",
+      "INDONESIAN": "Ha… iya, kamu bener, Mal-sook. Makasih. Aku—",
+      "PORTUGUESE": "Ha… é, pensando bem, Malsook, ei…",
+      "SPANISH": "Ha… sí, pensándolo bien, Malsook, oye…",
+      "PERSIAN": "ها... آره، حق با توست، مال‌سوک. با تشکر من -"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "덕분에 정신 차렸어. 내가 말도 안 되는 걸 꿈꿨네.",
+      "ENGLISH": "Thanks to you, I snapped out of it. I was dreaming about something ridiculous.",
+      "CHINESE_SIMPLIFIED": "多亏你让我清醒了，我居然在做这种不切实际的梦",
+      "CHINESE_TRADITIONAL": "多虧了你我清醒多了，我竟然這麼異想天開",
+      "JAPANESE": "私、バカみたいな夢見てたんだね",
+      "INDONESIAN": "Gara-gara kamu, aku jadi sadar. Aku tadi cuma lagi mimpi ketinggian.",
+      "PORTUGUESE": "Foi graças a você que eu voltei pra realidade. Eu tava sonhando com algo absurdo.",
+      "SPANISH": "Gracias a ti volví a la realidad. Estaba soñando con algo absurdo.",
+      "PERSIAN": "با تشکر از شما، من از اون خارج شدم. داشتم خواب چیز مسخره ای می دیدم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 28.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네 말대로 내 주제에 맞게 좀 살게.",
+      "ENGLISH": "Like you said, I’ll just live within my limits from now on.",
+      "CHINESE_SIMPLIFIED": "就像你说的那样，我会掂量清楚自己几斤几两的",
+      "CHINESE_TRADITIONAL": "就像你說的，我會過著符合自己能力的生活的",
+      "JAPANESE": "言う通り、身の丈に合った生き方するよ",
+      "INDONESIAN": "Kayak yang kamu bilang, mulai sekarang aku bakal hidup sesuai batas aku aja.",
+      "PORTUGUESE": "Você tem razão, vou viver de acordo com quem eu sou.",
+      "SPANISH": "Tienes razón, voy a vivir de acuerdo a lo que soy.",
+      "PERSIAN": "همانطور که شما گفتید، من از این به بعد فقط در محدوده خودم زندگی خواهم کرد."
+    }
+  }
+]

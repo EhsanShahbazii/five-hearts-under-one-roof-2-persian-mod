@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨, 이거 드세요.",
+      "ENGLISH": "Gyuri, here—have this.",
+      "CHINESE_SIMPLIFIED": "久梨小姐，这个给你",
+      "CHINESE_TRADITIONAL": "久梨小姐，請吃這個",
+      "JAPANESE": "ギュリさん これどうぞ",
+      "INDONESIAN": "Gyuri, nih—buat kamu.",
+      "PORTUGUESE": "Senhorita Gyuri, tome isso.",
+      "SPANISH": "Señorita Gyuri, tome esto.",
+      "PERSIAN": "گیوری، اینجا - اینو داشته باشید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 저 주시는 거예요??",
+      "ENGLISH": "Huh? You’re giving this to me?",
+      "CHINESE_SIMPLIFIED": "这是给我的吗？？",
+      "CHINESE_TRADITIONAL": "這個要給我的嗎？",
+      "JAPANESE": "えっ 私にくれるんですか??",
+      "INDONESIAN": "Hah? Kamu ngasih ini ke aku?",
+      "PORTUGUESE": "Oh? É pra mim?",
+      "SPANISH": "¿Oh? ¿Es para mí?",
+      "PERSIAN": "ها؟ اینو به من میدی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 저 때문에 땀도 이렇게 흘리시는데... ",
+      "ENGLISH": "Yeah! You’re sweating because of me...",
+      "CHINESE_SIMPLIFIED": "是啊！你因为我都流这么多汗了...",
+      "CHINESE_TRADITIONAL": "對啊！因為我，讓你流了這麼多汗...",
+      "JAPANESE": "はい! 僕のせいでこんなに汗かいてらっしゃるし…",
+      "INDONESIAN": "Iya! Kamu jadi keringetan gara-gara aku...",
+      "PORTUGUESE": "Sim! Você está suando por minha causa...",
+      "SPANISH": "¡Sí! Está sudando por mi culpa…",
+      "PERSIAN": "آره به خاطر من عرق می کنی..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "칼로리 소모했을 때 바나나 먹는 게 그렇게 좋다고 하더라고요!",
+      "ENGLISH": "I heard bananas are great after burning calories!",
+      "CHINESE_SIMPLIFIED": "听说消耗卡路里后吃香蕉特别好！",
+      "CHINESE_TRADITIONAL": "聽說消耗熱量後，吃香蕉對身體特別好！",
+      "JAPANESE": "カロリー消費した時にバナナ食べるのってすごくいいらしいですよ!",
+      "INDONESIAN": "Katanya pisang bagus lho setelah bakar kalori!",
+      "PORTUGUESE": "Ouvi dizer que comer uma banana faz bem depois de fazer muito esforço.",
+      "SPANISH": "Escuché que comer un plátano es bueno después de hacer mucho esfuerzo.",
+      "PERSIAN": "شنیده ام که موز بعد از کالری سوزی عالی است!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 정말요? 감사합니다.",
+      "ENGLISH": "Oh really? Thanks!",
+      "CHINESE_SIMPLIFIED": "啊真的吗？谢谢",
+      "CHINESE_TRADITIONAL": "啊，真的嗎？謝謝",
+      "JAPANESE": "あ 本当ですか? ありがとうございます",
+      "INDONESIAN": "Oh gitu ya? Makasih!",
+      "PORTUGUESE": "Sério? Muito obrigada.",
+      "SPANISH": "¿De verdad? Muchas gracias.",
+      "PERSIAN": "اوه واقعا؟ با تشکر"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "와..엄청 잘 드시네요.",
+      "ENGLISH": "Wow... you’re really going for it.",
+      "CHINESE_SIMPLIFIED": "哇...吃得好香呢",
+      "CHINESE_TRADITIONAL": "哇…妳吃得好快",
+      "JAPANESE": "わぁ…すごく美味しそうに食べますね",
+      "INDONESIAN": "Wah... kamu makan lahap banget.",
+      "PORTUGUESE": "Uau... eu realmente estava com fome.",
+      "SPANISH": "Guau… de verdad tenía hambre.",
+      "PERSIAN": "وای... شما واقعاً دنبالش هستید."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "엄청 달아요!",
+      "ENGLISH": "It’s so sweet!",
+      "CHINESE_SIMPLIFIED": "好甜啊！",
+      "CHINESE_TRADITIONAL": "真的好甜喔！",
+      "JAPANESE": "すごい甘い!",
+      "INDONESIAN": "Manis banget!",
+      "PORTUGUESE": "Tá superdocinha!",
+      "SPANISH": "¡Está súper dulce!",
+      "PERSIAN": "خیلی شیرین است!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 41.2,
+      "HIDE": 43.0
+    },
+    "SCRIPT": {
+      "KOREAN": "껍질은 저 주셔도 되는데",
+      "ENGLISH": "You can give me the peel, if you want.",
+      "CHINESE_SIMPLIFIED": "香蕉皮可以给我来处理",
+      "CHINESE_TRADITIONAL": "香蕉皮可以給我喔",
+      "JAPANESE": "皮は僕にくれてもいいですけど",
+      "INDONESIAN": "Kulitnya kasih ke aku aja, kalau mau.",
+      "PORTUGUESE": "A casca pode me entregar.",
+      "SPANISH": "La cáscara me la puede dar a mí.",
+      "PERSIAN": "در صورت تمایل می توانید پوست اونو به من بدهید."
+    }
+  }
+]

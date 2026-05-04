@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 우유만이",
+      "ENGLISH": "Hey, Yuman.",
+      "CHINESE_SIMPLIFIED": "喂，吴宥万",
+      "CHINESE_TRADITIONAL": "啊，吳宥萬",
+      "JAPANESE": "おい ウ・ユマン！",
+      "INDONESIAN": "Eh Yuman.",
+      "PORTUGUESE": "Ei, Yumán!",
+      "SPANISH": "¡Oye, Yumán!",
+      "PERSIAN": "هی، یومان."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yeah?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Iyah?",
+      "PORTUGUESE": "Sim?",
+      "SPANISH": "¿Sí?",
+      "PERSIAN": "آره؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "명단 다 적었어?",
+      "ENGLISH": "Did you write down the whole list?",
+      "CHINESE_SIMPLIFIED": "名单都记好了吗？",
+      "CHINESE_TRADITIONAL": "名單都整理完了嗎？",
+      "JAPANESE": "名簿は全部書いたか？",
+      "INDONESIAN": "Kamu udah catet semua daftar isinya?",
+      "PORTUGUESE": "Você anotou todos os nomes na lista?",
+      "SPANISH": "¿Anotaste todos los nombres en la lista?",
+      "PERSIAN": "کل لیست را یادداشت کردید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네 다 적었어요!",
+      "ENGLISH": "Yes, I wrote everything down!",
+      "CHINESE_SIMPLIFIED": "嗯，都记好了！",
+      "CHINESE_TRADITIONAL": "是的，都弄好了",
+      "JAPANESE": "はい 全部書きました！",
+      "INDONESIAN": "Udah, aku tulis semuanya!",
+      "PORTUGUESE": "Sim, anotei todos!",
+      "SPANISH": "¡Sí, los anoté todos!",
+      "PERSIAN": "بله، همه چیز را یادداشت کردم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "야 우유만이 너 솔직하게 얘기햐.",
+      "ENGLISH": "Yuman, be honest.",
+      "CHINESE_SIMPLIFIED": "喂，吴宥万，你老实交代",
+      "CHINESE_TRADITIONAL": "吳宥萬，你老實說",
+      "JAPANESE": "おい ウ・ユマン 正直に言え",
+      "INDONESIAN": "Yuman, jujur deh.",
+      "PORTUGUESE": "Yumán, fala a verdade.",
+      "SPANISH": "Yumán, dime la verdad.",
+      "PERSIAN": "یومان، صادق باش"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어떤 걸...",
+      "ENGLISH": "About what…",
+      "CHINESE_SIMPLIFIED": "交代什么...",
+      "CHINESE_TRADITIONAL": "說什麼...",
+      "JAPANESE": "何を…",
+      "INDONESIAN": "Soal apa…",
+      "PORTUGUESE": "Sobre o quê...?",
+      "SPANISH": "¿Sobre qué...?",
+      "PERSIAN": "در مورد چه…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "씁... 너 저쪽에서부터 선생님이 다 봤어!",
+      "ENGLISH": "The teacher saw everything from over there!",
+      "CHINESE_SIMPLIFIED": "啧...你从刚才在那边的时候老师就全看见了！",
+      "CHINESE_TRADITIONAL": "嗯...你在那邊的時候，老師我都看到了",
+      "JAPANESE": "チッ… お前 あっちの方で先生が全部見てたぞ！",
+      "INDONESIAN": "Guru ngeliatin semua, tau!",
+      "PORTUGUESE": "Eu vi tudo o que aconteceu de lá.",
+      "SPANISH": "Desde allá vi todo lo que pasó.",
+      "PERSIAN": "معلم همه چیز را از آنجا دید!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 저 그게...",
+      "ENGLISH": "Ah… well, that…",
+      "CHINESE_SIMPLIFIED": "啊... 那个...",
+      "CHINESE_TRADITIONAL": "啊...我...那個",
+      "JAPANESE": "あ… それは…",
+      "INDONESIAN": "Ah… itu sih…",
+      "PORTUGUESE": "Ah... bom, é que...",
+      "SPANISH": "Ah... bueno, es que...",
+      "PERSIAN": "آه...خب اون…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야 기회 있을 때 얘기햐.",
+      "ENGLISH": "Hey, talk about it when you get the chance.",
+      "CHINESE_SIMPLIFIED": "趁现在有机会老实说",
+      "CHINESE_TRADITIONAL": "趁給你機會的時候趕快從實招來",
+      "JAPANESE": "おい 今のうちに言っとけ",
+      "INDONESIAN": "Eh, ngomong aja kalo ada apa-apa.",
+      "PORTUGUESE": "Tô te dando a chance de explicar.",
+      "SPANISH": "Te estoy dando la oportunidad de hablar.",
+      "PERSIAN": "هی، وقتی فرصت کردی در موردش صحبت کن"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 사실은...",
+      "ENGLISH": "Actually…",
+      "CHINESE_SIMPLIFIED": "我其实是...",
+      "CHINESE_TRADITIONAL": "實際上...",
+      "JAPANESE": "実は…",
+      "INDONESIAN": "Sebenernya…",
+      "PORTUGUESE": "A verdade é que...",
+      "SPANISH": "La verdad es que...",
+      "PERSIAN": "در واقع…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그려! 너 지금 배 아픈 거 아니여~ 어?",
+      "ENGLISH": "Yeah! You’re not, like, in pain right now, are you?",
+      "CHINESE_SIMPLIFIED": "是吧！你现在是不是肚子疼~啊？",
+      "CHINESE_TRADITIONAL": "沒錯！你現在是不是肚子痛啊～ 嗯？",
+      "JAPANESE": "そうだろ！お前今お腹痛いんじゃないか〜？",
+      "INDONESIAN": "Iya! Kamu nggak lagi sakit perut atau apa gitu, kan?",
+      "PORTUGUESE": "Aham! Tá com dor de barriga ou algo assim?",
+      "SPANISH": "¡Ajá! ¿Te duele el estómago o algo asi?",
+      "PERSIAN": "آره شما در حال حاضر درد ندارید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 24.7
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã...?",
+      "SPANISH": "¿Eh...?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야 너 저기서부터 어그적 어그적 똥 마려운 개 마냥.",
+      "ENGLISH": "Hey, from the moment you were over there, you were squirming like a dog about to… you know.",
+      "CHINESE_SIMPLIFIED": "你在那边开始就扭来扭去，一副快憋不住的样子",
+      "CHINESE_TRADITIONAL": "你從在那邊開始就扭來扭去、像隻急著想要拉屎的狗一樣",
+      "JAPANESE": "おい あそこにいた時からヨロヨロして うんこ我慢してる犬みたいだったぞ",
+      "INDONESIAN": "Hei, dari tadi pas kamu di sana, kamu kayak anjing mau… ya gitu deh.",
+      "PORTUGUESE": "Ei, de lá dava pra ver você se mexendo que nem um cachorro atropelado.",
+      "SPANISH": "Oye, desde allá te estás moviendo como perro atropellado.",
+      "PERSIAN": "هی، از لحظه‌ای که آنجا بودی، مثل سگی که می‌خواد می‌چرخد... می‌دونی."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 29.1
+    },
+    "SCRIPT": {
+      "KOREAN": "선생님이 모를 거 같어?",
+      "ENGLISH": "You think the teacher wouldn’t notice?",
+      "CHINESE_SIMPLIFIED": "你以为老师看不出来吗？",
+      "CHINESE_TRADITIONAL": "你覺得老師我會看不出來嗎？",
+      "JAPANESE": "先生が知らないとでも思ったか？",
+      "INDONESIAN": "Kamu pikir gurunya nggak nyadar?",
+      "PORTUGUESE": "Achou que eu não ia perceber?",
+      "SPANISH": "¿Creías que no me daría cuenta?",
+      "PERSIAN": "فکر می کنید معلم متوجه نمی شود؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 31.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어...! 맞아요! 아...지금 나오기 직전이라...그...!",
+      "ENGLISH": "Uh…! Yes! Just before coming out…!",
+      "CHINESE_SIMPLIFIED": "呃...！没错！啊...现在马上就要出来了...那个...！",
+      "CHINESE_TRADITIONAL": "呃...! 對對對！啊...肚子裡的東西快出來了...!",
+      "JAPANESE": "あっ！そうです！あ…もう出そうで…その…！",
+      "INDONESIAN": "Uh…! Iya! Tadi sebelum keluar tuh…!",
+      "PORTUGUESE": "Ah...! Tem razão! É que... eu tô quase... já sabe...",
+      "SPANISH": "¡Ah...! ¡Tiene razón! Es que... estoy a punto de... ya sabe...",
+      "PERSIAN": "اوه…! بله! درست قبل از بیرون آمدن…!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 34.3
+    },
+    "SCRIPT": {
+      "KOREAN": " 아! 그려? 야, 빨리 가. 아오, 씨…",
+      "ENGLISH": "Ah! Really? Hey, go quickly. ",
+      "CHINESE_SIMPLIFIED": "啊！是吗？那赶紧去吧。哎哟，真是…",
+      "CHINESE_TRADITIONAL": "啊！是真的嗎？欸，那你快去。哎唷，可惡...",
+      "JAPANESE": "あ！そうか？ じゃあ 早く行け あ〜もう…",
+      "INDONESIAN": "Ah! Serius? Yaudah, cepet sana.",
+      "PORTUGUESE": "Ah! Anda logo! Vai de uma vez...!",
+      "SPANISH": "¡Ah! ¡Anda, rápido! ¡Muévete...!",
+      "PERSIAN": "آه! واقعا؟ هی زود برو"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 36.1
+    },
+    "SCRIPT": {
+      "KOREAN": "더러워 죽겠네. 씨… 빨리 가!",
+      "ENGLISH": "Ugh, gross… go!",
+      "CHINESE_SIMPLIFIED": "脏死了，啧…快去！",
+      "CHINESE_TRADITIONAL": "真是髒死了。真的是...你快點去！",
+      "JAPANESE": "汚いな 早く行け！",
+      "INDONESIAN": "Ugh, jijik… buruan pergi!",
+      "PORTUGUESE": "Que nojo, sério... vai logo!",
+      "SPANISH": "Qué asco, de verdad... ¡Vete ya!",
+      "PERSIAN": "اوه، بد... برو!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 37.4
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다!",
+      "ENGLISH": "Thank you!",
+      "CHINESE_SIMPLIFIED": "谢谢老师！",
+      "CHINESE_TRADITIONAL": "謝謝老師",
+      "JAPANESE": "ありがとうございます！",
+      "INDONESIAN": "Makasih!",
+      "PORTUGUESE": "Valeu!",
+      "SPANISH": "¡Gracias!",
+      "PERSIAN": "ممنونم!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 39.1,
+      "HIDE": 40.1
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 배 아프세요?",
+      "ENGLISH": "Are you really in pain?",
+      "CHINESE_SIMPLIFIED": "你是真的肚子疼吗？",
+      "CHINESE_TRADITIONAL": "你真的是肚子痛嗎？",
+      "JAPANESE": "本当にお腹痛いんですか？",
+      "INDONESIAN": "Kamu beneran sakit?",
+      "PORTUGUESE": "Será que ele tá mesmo com dor de barriga?",
+      "SPANISH": "¿De verdad le duele el estómago?",
+      "PERSIAN": "واقعا درد داری؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 40.2,
+      "HIDE": 42.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 아 당연히 아니죠!! 빨리 올라가요!",
+      "ENGLISH": "Ah! Of course not!! Let’s go up quickly!",
+      "CHINESE_SIMPLIFIED": "啊！当然不是啦！！我们快走吧！",
+      "CHINESE_TRADITIONAL": "呃！當然不是啊！！妳快點上去",
+      "JAPANESE": "あっ！違うに決まってるじゃないですか！！早く行きましょう！",
+      "INDONESIAN": "Ah! Nggak kok!! Ayo cepetan naik!",
+      "PORTUGUESE": "Claro que não! Vamos subir rápido!",
+      "SPANISH": "¡Por supuesto que no! ¡Subamos rápido!",
+      "PERSIAN": "آه! البته نه!! سریع بریم بالا!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 43.2,
+      "HIDE": 45.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 감사합니다...!",
+      "ENGLISH": "Yes! Thank you…!",
+      "CHINESE_SIMPLIFIED": "好！谢谢你...！",
+      "CHINESE_TRADITIONAL": "好！謝謝你...！",
+      "JAPANESE": "はい！ありがとうございます…！",
+      "INDONESIAN": "Iya! Makasih…!",
+      "PORTUGUESE": "Sim! Obrigado...!",
+      "SPANISH": "¡Sí! ¡Gracias...!",
+      "PERSIAN": "بله! ممنون…!"
+    }
+  }
+]

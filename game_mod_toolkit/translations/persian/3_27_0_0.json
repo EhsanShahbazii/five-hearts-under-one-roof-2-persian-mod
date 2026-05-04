@@ -1,0 +1,120 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저 여자 마스크 벗기면 달풍선 3000개",
+      "ENGLISH": "If she takes off the mask—3,000 moon balloons!",
+      "CHINESE_SIMPLIFIED": "如果她摘下面具，我就送3000个热气球！",
+      "CHINESE_TRADITIONAL": "如果他摘下面具，我就送3000個月亮氣球！",
+      "JAPANESE": "あの女のマスクを外したら、ダル風船3000個！",
+      "PORTUGUESE": "Se você tirar a máscara daquela garota, eu te dou três mil balões.",
+      "SPANISH": "Si le quitas la mascarilla a esa chica, te doy tres mil globos.",
+      "PERSIAN": "اگر نقاب را بردارد - 3000 بادکنک ماه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "예? 형님!",
+      "ENGLISH": "Wait, what? Bro!",
+      "CHINESE_SIMPLIFIED": "嗯？不是吧老铁！",
+      "CHINESE_TRADITIONAL": "欸？大哥！",
+      "JAPANESE": "えっ？兄貴、それ本当っすか！？",
+      "PORTUGUESE": "Hã? Sério?",
+      "SPANISH": "¿Eh? ¿En serio?",
+      "PERSIAN": "صبر کن چی؟ داداش!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "달풍선 3000개 간다고요?!",
+      "ENGLISH": "You’re saying 3,000 moon balloons are on the line?!",
+      "CHINESE_SIMPLIFIED": "你要送3000个热气球？！",
+      "CHINESE_TRADITIONAL": "你要送3000個月亮氣球嗎？",
+      "JAPANESE": "ダル風船3000個ですよ！？",
+      "PORTUGUESE": "Três mil balões?!",
+      "SPANISH": "¡¿Tres mil globos?!",
+      "PERSIAN": "شما می گویید 3000 بادکنک ماه در خط هستند؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "들으셨죠?",
+      "ENGLISH": "You heard that, right?",
+      "CHINESE_SIMPLIFIED": "各位都听到了吧！",
+      "CHINESE_TRADITIONAL": "大家都聽到了吧？！",
+      "JAPANESE": "聞きましたよね！？",
+      "PORTUGUESE": "Vocês ouviram, né?",
+      "SPANISH": "¿Lo escucharon, verdad?",
+      "PERSIAN": "شنیدی، درسته؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 이제 방송 그만하세요!",
+      "ENGLISH": "C’mon, that’s enough streaming for today!",
+      "CHINESE_SIMPLIFIED": "哎呦，你别在这直播了！",
+      "CHINESE_TRADITIONAL": "哎呀，現在別再直播了",
+      "JAPANESE": "もう、配信やめてくださいってば！",
+      "PORTUGUESE": "Ei, parem a transmissão agora!",
+      "SPANISH": "¡Oiga, ya paren la transmisión!",
+      "PERSIAN": "بیایید، برای امروز پخش جریانی کافی است!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 얼른 가자",
+      "ENGLISH": "L-let’s get moving!",
+      "CHINESE_SIMPLIFIED": "快走吧快走！",
+      "CHINESE_TRADITIONAL": "快去快去！",
+      "JAPANESE": "お、おい、早く行くぞ！",
+      "PORTUGUESE": "V-vamos logo.",
+      "SPANISH": "V-vamos de una vez.",
+      "PERSIAN": "-بیا حرکت کنیم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "형님 미션 바로 들어갑니다잉",
+      "ENGLISH": "Bro, I’m jumping on that mission right now!",
+      "CHINESE_SIMPLIFIED": "老铁你等着，我马上执行任务！",
+      "CHINESE_TRADITIONAL": "大哥你等著，我馬上去執行任務！",
+      "JAPANESE": "兄貴、ミッションすぐ始めますよ！！",
+      "PORTUGUESE": "Vou cumprir a missão agora mesmo!",
+      "SPANISH": "¡Voy a cumplir la misión ahora mismo!",
+      "PERSIAN": "برادر، من در حال حاضر در اون ماموریت می پرم!"
+    }
+  }
+]

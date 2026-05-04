@@ -1,0 +1,145 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "넌 내가 증거 제대로 남겨준다... ",
+      "ENGLISH": "You know what? I’m gonna make sure I get proof of this...",
+      "CHINESE_SIMPLIFIED": "居然...这罪证我可都记下了...",
+      "CHINESE_TRADITIONAL": "這個，我作為證據留下了…",
+      "JAPANESE": "これ、ちゃんと証拠残しておくからな…",
+      "INDONESIAN": "Tahu nggak? Aku akan pastikan aku punya buktinya...",
+      "PORTUGUESE": "Vou deixar uma prova disso, hein...?",
+      "SPANISH": "Voy a dejar prueba de esto, ¿eh...?",
+      "PERSIAN": "میدونی چیه؟ من مطمئن می شوم که مدرکی برای این موضوع دارم..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "나한테 숨기는 게 생겼단 말이지...",
+      "ENGLISH": "So you have been hiding something from me...",
+      "CHINESE_SIMPLIFIED": "现在居然有事瞒着我了是吧...",
+      "CHINESE_TRADITIONAL": "所以說，你有事在瞞著我對吧？",
+      "JAPANESE": "俺に隠し事ができたってことか…",
+      "INDONESIAN": "Jadi, kamu menyembunyikan sesuatu dari aku ...",
+      "PORTUGUESE": "Então agora você tá escondendo alguma coisa de mim...",
+      "SPANISH": "Así que ahora me estás ocultando algo...",
+      "PERSIAN": "پس تو داری چیزی رو از من پنهان میکنی..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "What is it?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "怎麼了？",
+      "JAPANESE": "どうしたんですか？",
+      "INDONESIAN": "Apa itu?",
+      "PORTUGUESE": "O que foi?",
+      "SPANISH": "¿Qué pasa?",
+      "PERSIAN": "چیه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어디서 무슨 소리나지 않았어요?",
+      "ENGLISH": "Didn’t you hear something just now?",
+      "CHINESE_SIMPLIFIED": "你刚没听见哪儿有动静吗？",
+      "CHINESE_TRADITIONAL": "你沒聽到什麼聲音嗎？",
+      "JAPANESE": "今、どこかで音しませんでした？",
+      "INDONESIAN": "Apakah kamu tidak mendengar sesuatu tadi?",
+      "PORTUGUESE": "Você não ouviu um barulho por aí?",
+      "SPANISH": "¿No escuchaste un ruido por ahí?",
+      "PERSIAN": "الان چیزی نشنیدی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "蛤？什麼聲音？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨 소리 왜 이렇게 커...!",
+      "ENGLISH": "Damn it, why’s that sound so loud...",
+      "CHINESE_SIMPLIFIED": "我去，怎么这么大声...！",
+      "CHINESE_TRADITIONAL": "哇！這聲音怎麼這麼大…！",
+      "JAPANESE": "うわ、音デカすぎ…！",
+      "INDONESIAN": "Sialan, kenapa suaranya keras sekali...",
+      "PORTUGUESE": "Ah, droga, que barulho alto foi esse...",
+      "SPANISH": "Ah, maldición, qué fuerte sonó eso...",
+      "PERSIAN": "لعنتی چرا صداش اینقدر بلنده..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어디요...?",
+      "ENGLISH": "Where is it coming from...?",
+      "CHINESE_SIMPLIFIED": "哪儿啊...？",
+      "CHINESE_TRADITIONAL": "哪裡的聲音...？",
+      "INDONESIAN": "Dari mana asalnya...?",
+      "PORTUGUESE": "Onde...?",
+      "SPANISH": "¿Dónde...?",
+      "PERSIAN": "از کجا می آید...؟"
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어어!!! 저게 뭐지!!",
+      "ENGLISH": "Whoa—what is that?!",
+      "CHINESE_SIMPLIFIED": "呃呃！！！那是什么啊！！",
+      "CHINESE_TRADITIONAL": "啊啊！！！那是什麼！！",
+      "JAPANESE": "えっ！！あれ なんだ！！",
+      "INDONESIAN": "Wah—apa itu?!",
+      "PORTUGUESE": "Ei!!! O que é aquilo!!",
+      "SPANISH": "¡Eh!!! ¿Qué es eso!!",
+      "PERSIAN": "وای-این چیه؟!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네??",
+      "ENGLISH": "Huh??",
+      "CHINESE_SIMPLIFIED": "嗯？？",
+      "CHINESE_TRADITIONAL": "嗯？？",
+      "JAPANESE": "えっ！？",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Hã??",
+      "SPANISH": "¿Eh??",
+      "PERSIAN": "ها؟؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가요? 뭐가 있다는 거예요!",
+      "ENGLISH": "What? What are you talking about?!",
+      "CHINESE_SIMPLIFIED": "什么东西？您看到什么了！",
+      "CHINESE_TRADITIONAL": "什麼啊？你看的什麼？",
+      "JAPANESE": "なんですか！？ 何があるんですか！？",
+      "INDONESIAN": "Apa? Apa yang kamu bicarakan?!",
+      "PORTUGUESE": "O que foi? O que tem?",
+      "SPANISH": "¿Qué pasa? ¿Qué hay?",
+      "PERSIAN": "چی؟ چه حرفی میزنی؟!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저 뒤에 있잖아요 저기에!",
+      "ENGLISH": "Back there! Look, over there!",
+      "CHINESE_SIMPLIFIED": "就在后面那边！！就在那里！",
+      "CHINESE_TRADITIONAL": "就在後面啊，在那裡！",
+      "JAPANESE": "ほら 左のとこにあるじゃないですか！！あれ！！",
+      "INDONESIAN": "Di sana! Lihat, di sana!",
+      "PORTUGUESE": "Lá atrás, olha! Ali!",
+      "SPANISH": "¡Allá atrás, mira! ¡Ahí!",
+      "PERSIAN": "بازگشت به آنجا! ببین، اونجا!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뒤에..?",
+      "ENGLISH": "Behind...??",
+      "CHINESE_SIMPLIFIED": "后面...？",
+      "CHINESE_TRADITIONAL": "後面...？",
+      "INDONESIAN": "Di belakang...??",
+      "PORTUGUESE": "Atrás...?",
+      "SPANISH": "¿Atrás...?",
+      "PERSIAN": "پشت سر...؟؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 씨 그냥 편의점 가요!",
+      "ENGLISH": "Min-jung, let’s just go to the convenience store!",
+      "CHINESE_SIMPLIFIED": "我们快去便利店看看！！",
+      "CHINESE_TRADITIONAL": "我們去便利商店那邊看看吧！！",
+      "JAPANESE": "コンビニのほう 見に行ってみましょう！！",
+      "INDONESIAN": "Min-jung, ayo kita pergi ke toko swalayan saja!",
+      "PORTUGUESE": "Minjung, é melhor a gente ir pra loja!",
+      "SPANISH": "¡Minjung, mejor vayamos a la tienda!",
+      "PERSIAN": "مین‌جونگ، بیایید فقط به فروشگاه رفاه برویم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네...!!",
+      "ENGLISH": "Okay...!!",
+      "CHINESE_SIMPLIFIED": "好...！！",
+      "CHINESE_TRADITIONAL": "好…！！",
+      "JAPANESE": "はい…！！",
+      "INDONESIAN": "Oke...!!",
+      "PORTUGUESE": "S-sim...!!",
+      "SPANISH": "¡Sí...!!",
+      "PERSIAN": "باشه...!!"
+    }
+  }
+]

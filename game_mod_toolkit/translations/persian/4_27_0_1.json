@@ -1,0 +1,308 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 과장님 그렇게 하면 운동 안 돼요",
+      "ENGLISH": "Ah, Manager, you shouldn’t exercise like that.",
+      "CHINESE_SIMPLIFIED": "啊，科长您不能这样运动",
+      "CHINESE_TRADITIONAL": "啊，課長，你不能那樣運動啦！",
+      "JAPANESE": "課長、そのやり方じゃダメですよ",
+      "INDONESIAN": "Ah, Manajer, jangan latihan kayak gitu.",
+      "PORTUGUESE": "Chefe, não deveria fazer o exercício desse jeito.",
+      "SPANISH": "Jefa, no debería hacer el ejercicio así.",
+      "PERSIAN": "آه، مدیر، شما نباید اینطوری ورزش کنید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "확실히 긴장한 상태로 코어에 힘을 빡 주고.",
+      "ENGLISH": "Make sure you keep your core tight while staying tense.",
+      "CHINESE_SIMPLIFIED": "要保持紧绷状态，核心用力收紧",
+      "CHINESE_TRADITIONAL": "要確實保持緊繃的狀態，核心要用力收緊",
+      "JAPANESE": "しっかり体幹を意識して、コアに力をグッと入れて",
+      "INDONESIAN": "Kunci otot intinya dan tetap jaga ketegangan tubuhnya.",
+      "PORTUGUESE": "Tem que manter o corpo firme e concentrar a força no abdômen.",
+      "SPANISH": "Debe mantener el cuerpo firme y concentrar la fuerza en el abdomen.",
+      "PERSIAN": "اطمینان حاصل کنید که در حالی که تنش دارید، هسته خود را سفت نگه دارید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "천천히 가볼게요",
+      "ENGLISH": "I’ll go slowly.",
+      "CHINESE_SIMPLIFIED": "要慢慢来哦",
+      "CHINESE_TRADITIONAL": "慢慢再試一次喔",
+      "JAPANESE": "ゆっくりいきましょう",
+      "INDONESIAN": "Aku bantuin pelan-pelan.",
+      "PORTUGUESE": "Vamos devagar.",
+      "SPANISH": "Vamos despacio.",
+      "PERSIAN": "آهسته می روم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "응 알았어.",
+      "ENGLISH": "Okay, got it.",
+      "CHINESE_SIMPLIFIED": "嗯，知道了",
+      "CHINESE_TRADITIONAL": "嗯，我知道了",
+      "JAPANESE": "うん、わかった",
+      "INDONESIAN": "Oke, siap.",
+      "PORTUGUESE": "Tudo bem.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "باشه فهمیدم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게?",
+      "ENGLISH": "Like this?",
+      "CHINESE_SIMPLIFIED": "是这样吗？",
+      "CHINESE_TRADITIONAL": "這樣嗎？",
+      "JAPANESE": "こう？",
+      "INDONESIAN": "Gini?",
+      "PORTUGUESE": "Assim?",
+      "SPANISH": "¿Así?",
+      "PERSIAN": "اینجوری؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네 좋아요~",
+      "ENGLISH": "Yes, perfect~",
+      "CHINESE_SIMPLIFIED": "对很好~",
+      "CHINESE_TRADITIONAL": "對，很棒～",
+      "JAPANESE": "はい、いい感じです〜",
+      "INDONESIAN": "Yes, pas banget~",
+      "PORTUGUESE": "Sim, perfeito.",
+      "SPANISH": "Sí, perfecto.",
+      "PERSIAN": "بله عالی ~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요? 자극이 오죠?",
+      "ENGLISH": "How’s that? Feeling the tension?",
+      "CHINESE_SIMPLIFIED": "感觉如何？肌肉有酸痛感吧？",
+      "CHINESE_TRADITIONAL": "怎麼樣？有感受到痠痛感嗎？",
+      "JAPANESE": "どうですか？効いてきました？",
+      "INDONESIAN": "Gimana? Kerasa tegangnya?",
+      "PORTUGUESE": "E então? Sente a tensão?",
+      "SPANISH": "¿Qué tal? ¿Siente la tensión?",
+      "PERSIAN": "چطوره؟ تنش را احساس می کنید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 어...",
+      "ENGLISH": "Huh? Uh…",
+      "CHINESE_SIMPLIFIED": "呃、呃...",
+      "CHINESE_TRADITIONAL": "嗯？嗯...",
+      "JAPANESE": "え、う、うん…",
+      "INDONESIAN": "Hah? Ugh…",
+      "PORTUGUESE": "Hã? S-sim...",
+      "SPANISH": "¿Eh? S-sí...",
+      "PERSIAN": "ها؟ اوه…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 자 모으면서 후~",
+      "ENGLISH": "Now, bring them together and exhale~",
+      "CHINESE_SIMPLIFIED": "来，夹紧的同时呼气~",
+      "CHINESE_TRADITIONAL": "來，夾緊時吐氣，呼～",
+      "JAPANESE": "じゃあ、閉じながらふぅ〜",
+      "INDONESIAN": "Sekarang, rapetin dan buang napas~",
+      "PORTUGUESE": "Ótimo, agora junte os braços e exale~",
+      "SPANISH": "Bien, ahora junte los brazos y exhale~",
+      "PERSIAN": "حالا اونا رو کنار هم بیاورید و بازدم کنید"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "벌리면서 들이마시고 ",
+      "ENGLISH": "Open up and inhale",
+      "CHINESE_SIMPLIFIED": "展开时吸气——",
+      "CHINESE_TRADITIONAL": "張開時，吸氣——",
+      "JAPANESE": "開きながら吸って",
+      "INDONESIAN": "Buka lagi, tarik napas~",
+      "PORTUGUESE": "Separe e inspire...",
+      "SPANISH": "Sepárelos e inhale...",
+      "PERSIAN": "باز کنید و دم کنید"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "모으면서 후~",
+      "ENGLISH": "Bring them together and exhale~",
+      "CHINESE_SIMPLIFIED": "夹紧时呼气~",
+      "CHINESE_TRADITIONAL": "夾緊時，吐氣",
+      "JAPANESE": "閉じながらふぅ〜",
+      "INDONESIAN": "Rapetin lagi, buang napas~",
+      "PORTUGUESE": "Junte e exale~",
+      "SPANISH": "Junte y exhale~",
+      "PERSIAN": "اونا رو کنار هم بیاورید و بازدم کنید"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 31.3
+    },
+    "SCRIPT": {
+      "KOREAN": "벌리면서 들이마시고 ",
+      "ENGLISH": "Open up and inhale",
+      "CHINESE_SIMPLIFIED": "展开时吸气——",
+      "CHINESE_TRADITIONAL": "張開時，吸氣——",
+      "JAPANESE": "開きながら吸って",
+      "INDONESIAN": "Buka lagi, tarik napas~",
+      "PORTUGUESE": "Separe e inspire...",
+      "SPANISH": "Separe e inhale...",
+      "PERSIAN": "باز کنید و دم کنید"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 33.9
+    },
+    "SCRIPT": {
+      "KOREAN": "다시 모으면서 후~",
+      "ENGLISH": "Bring them together again and exhale~",
+      "CHINESE_SIMPLIFIED": "再次夹紧时呼气~",
+      "CHINESE_TRADITIONAL": "再次夾緊，吐氣～",
+      "JAPANESE": "また閉じながらふぅ〜",
+      "INDONESIAN": "Rapetin sekali lagi, buang napas~",
+      "PORTUGUESE": "De novo, junte e exale~",
+      "SPANISH": "Otra vez, junte y exhale~",
+      "PERSIAN": "دوباره اونا رو جمع کنید و بازدم کنید"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 34.8
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요.",
+      "ENGLISH": "Good.",
+      "CHINESE_SIMPLIFIED": "很好",
+      "CHINESE_TRADITIONAL": "很好",
+      "JAPANESE": "いいですね",
+      "INDONESIAN": "Bagus.",
+      "PORTUGUESE": "Muito bem.",
+      "SPANISH": "Muy bien.",
+      "PERSIAN": "خوب"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 39.9
+    },
+    "SCRIPT": {
+      "KOREAN": "확실히 유만 씨랑 오니깐 운동이 잘되는 거 같은데?",
+      "ENGLISH": "It really feels like the workout’s more effective with you here, Yuman.",
+      "CHINESE_SIMPLIFIED": "果然和你一起来运动效果更好呢",
+      "CHINESE_TRADITIONAL": "感覺跟你一起來，運動效果好像比較好耶？",
+      "JAPANESE": "やっぱりユマンさんと来ると運動がうまくいく気がする",
+      "INDONESIAN": "Rasanya latihan jadi lebih efektif kalau ada kamu, Yuman.",
+      "PORTUGUESE": "Definitivamente, vir treinar com você faz o exercício render mais.",
+      "SPANISH": "Definitivamente, venir a entrenar contigo hace que el ejercicio rinda más.",
+      "PERSIAN": "واقعاً احساس می‌شه که تمرین با شما در اینجا مؤثرتر است، یومان."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 41.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다음에도 같이 오자 ",
+      "ENGLISH": "Let’s come together next time too.",
+      "CHINESE_SIMPLIFIED": "下次也一起来吧",
+      "CHINESE_TRADITIONAL": "下次也一起來吧",
+      "JAPANESE": "次も一緒に来ましょう",
+      "INDONESIAN": "Lain kali kita olahraga barengan lagi, ya.",
+      "PORTUGUESE": "Vamos vir juntos da próxima vez também.",
+      "SPANISH": "Vengamos juntos la próxima vez también.",
+      "PERSIAN": "دفعه بعد هم بیایید دور هم"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 42.1,
+      "HIDE": 43.0
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요!",
+      "ENGLISH": "Sounds good!",
+      "CHINESE_SIMPLIFIED": "好啊！",
+      "CHINESE_TRADITIONAL": "好啊！",
+      "JAPANESE": "いいですよ！",
+      "INDONESIAN": "Siap!",
+      "PORTUGUESE": "Combinado!",
+      "SPANISH": "¡De acuerdo!",
+      "PERSIAN": "خوب به نظر می رسد!"
+    }
+  }
+]

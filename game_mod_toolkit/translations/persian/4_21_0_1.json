@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 60.3,
+      "HIDE": 63.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이건 작년에도 구매율 좋았던 건데 어때?",
+      "ENGLISH": "This was a top seller last year, what do you think?",
+      "CHINESE_SIMPLIFIED": "这个是去年的热销款，你觉得怎么样？",
+      "CHINESE_TRADITIONAL": "這個是去年的熱銷產品，你覺得呢？",
+      "JAPANESE": "去年も購入率が良かったけど、どう思う？",
+      "INDONESIAN": "i best seller tahun lalu kalo menurutmu gimana?",
+      "PORTUGUESE": "Teve boas vendas no ano passado. O que você acha?",
+      "SPANISH": "Tuvo buenas ventas el año pasado. ¿Qué opinas?",
+      "PERSIAN": "این پرفروش سال گذشته بود، نظر شما چیه؟"
+    }
+  }
+]

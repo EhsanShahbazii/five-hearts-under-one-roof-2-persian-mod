@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그거... ㅁ..뭘 사오라고 했더라...?",
+      "ENGLISH": "؟...ﻡﺩﺮﮔﺮﺑ ﻡﺮﺨﺑ ﯽﭼ ﺖﻔﮔ ...ـﮔ ...ﺩﻮﺑ ﯽﭼ ﻥﻭﺍ",
+      "CHINESE_SIMPLIFIED": "啊那个...我...我是要买什么来着...？",
+      "CHINESE_TRADITIONAL": "啊那個…我…我要買什麼來著…？",
+      "JAPANESE": "えー…な、何買ってこいって言われてたっけ…？",
+      "INDONESIAN": "Ah itu… aku tadi disuruh beli apa ya...?",
+      "PORTUGUESE": "Ah, o que era mesmo… o-o que você me disse pra comprar?",
+      "SPANISH": "Ah… ¿qué me mandaron a comprar...?",
+      "PERSIAN": "؟ ..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그니까. 아줌마가 사장이야?",
+      "ENGLISH": "؟ﯼﺍﻩﺯﺎﻐﻣ ﺐﺣﺎﺻ ﻮﺗ ﻪﮕﻣ ،ﻢﻨﯿﺒﺑ ﻦﮐ ﺮﺒﺻ",
+      "CHINESE_SIMPLIFIED": "不是，说真的，阿姨你是老板吗？",
+      "CHINESE_TRADITIONAL": "所以說，阿姨你是這裡的老闆嗎？",
+      "JAPANESE": "いや、だから。おばさん店長なの？",
+      "INDONESIAN": "Eh tapi maksudnya gini. Ibu itu yang punya toko?",
+      "PORTUGUESE": "Espera, então… você é mesmo a dona aqui?",
+      "SPANISH": "¿Acaso usted es la dueña?",
+      "PERSIAN": "؟ همه ﺍ ﺯ ﻐ ﺐ ﺐ ﺣﺎ ﺐ ﺐ ﺩﺍﺭ ﺩﺍﺭﺩ ﺩﺍﺭﺩ ﺩﺍﺭﺩ ﺩﺍﺭ ﺩﺍﺭﺩ"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "사장도 아닌데 아줌마가 뭔데 나한테 이래라 저래라야?",
+      "ENGLISH": "؟ﯽﻨﮐﯽﻣ ﯽﻧﻮﺑﺯﻞﺒﻠﺑ ﺭﺪﻘﻨﯾﺍ ﻪﮐ ﯽﻨﺴﺣ ﻩﺭﺎﮐ ﻪﭼ ﺲﭘ ﯽﺘﺴﯿﻧ ﻢﺸﺒﺣﺎﺻ",
+      "CHINESE_SIMPLIFIED": "你又不是老板，凭什么对我指手画脚啊？",
+      "CHINESE_TRADITIONAL": "你又不是老闆，憑什麼對我指手畫腳的？",
+      "JAPANESE": "店長でもないのに、なんで俺にあれこれ言うんだよ？",
+      "INDONESIAN": "Kalau bukan pemilik, kenapa sih Ibu ngatur-ngatur aku begini begitu?",
+      "PORTUGUESE": "Você não é a chefe, então por que diabos tá mandando em mim?",
+      "SPANISH": "¿Ni siquiera es la dueña y se cree con derecho de decirme qué hacer?",
+      "PERSIAN": "."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아...",
+      "ENGLISH": "...ﻢﻣﺍ ...ﺁ",
+      "CHINESE_SIMPLIFIED": "啊，啊…",
+      "CHINESE_TRADITIONAL": "啊，啊…",
+      "JAPANESE": "あ、あぁ…。",
+      "INDONESIAN": "A-apa...?",
+      "PORTUGUESE": "Ah, uh…",
+      "SPANISH": "Ah, ah...",
+      "PERSIAN": "... ﺍﺍ ...ﺁ"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아씨, 뭐야 이 아저씨는.",
+      "ENGLISH": ".ﻂﺳﻭ ﻦﯾﺍ ﻪﮔﯽﻣ ﯽﭼ ﻪﮕﯾﺩ ﻭﺭﺎﯾ ﻦﯾﺍ ،ﻩﺍ",
+      "CHINESE_SIMPLIFIED": "我靠，这大叔又是什么情况啊",
+      "CHINESE_TRADITIONAL": "靠，這大叔是怎樣",
+      "JAPANESE": "チッ、なんだよこのおっさんは",
+      "INDONESIAN": "Astaga, apaan sih nih orang...",
+      "PORTUGUESE": "Que diabos tem esse cara.",
+      "SPANISH": "¡Ash ¿y a este señor que le pasa?!",
+      "PERSIAN": "وجود دارد."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 저는 신경 쓰지 마시고요.",
+      "ENGLISH": ".ﻦﯿﺷﺎﺑ ﺖﺣﺍﺭ ﻦﯿﻨﮑﻧ ﻪﺟﻮﺗ ﻦﻣ ﻪﺑ ﻼﺻﺍ ﺎﻤﺷ ...ﻢﻣﺍ",
+      "CHINESE_SIMPLIFIED": "呃…不用管我",
+      "CHINESE_TRADITIONAL": "呃…請不要管我",
+      "JAPANESE": "えっと…私は気にしないでください",
+      "INDONESIAN": "Oh… saya nggak usah dihiraukan.",
+      "PORTUGUESE": "Uh… não liga pra mim.",
+      "SPANISH": "Eh... no se preocupe por mí.",
+      "PERSIAN": "."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "말씀하시던 거 계속, 계속 하세요! 예...",
+      "ENGLISH": "...ﻪﻠﺑ !ﻦﯾﺪﺑ ﻪﻣﺍﺩﺍ ،ﺪﯿﯾﺎﻣﺮﻔﺑ ،ﻦﯿﻧﺰﺑ ﻭﺭ ﻥﻮﺘﻓﺮﺣ",
+      "CHINESE_SIMPLIFIED": "请继续说你刚才说的！嗯…",
+      "CHINESE_TRADITIONAL": "請繼續說您剛才的話，請繼續！嗯…",
+      "JAPANESE": "どうぞお話の続きを…は、はい…",
+      "INDONESIAN": "Silakan lanjut bicara, terusin aja, iya...",
+      "PORTUGUESE": "Vai em frente, continua falando, por favor! Isso…",
+      "SPANISH": "Continúe con lo que estaba diciendo...",
+      "PERSIAN": "... هَلَبُنْدَبَبِهُمْﺍﺩﺍ، از انطبعبب، در ﻭﺭ ﻥوتنتريزب."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그니까 아줌마, 아줌마가 뭔데 계ㅅ...",
+      "ENGLISH": "...ـﻫ ﻪﮐ ﯽﺘﺴﻫ ﯽﮐ ﻮﺗ ﻪﮕﻣ ،ﻡﻮﻧﺎﺧ ﻢﺘﻔﮔﯽﻣ ﻢﺘﺷﺍﺩ",
+      "CHINESE_SIMPLIFIED": "不是我说，阿姨你凭什么在那边…",
+      "CHINESE_TRADITIONAL": "不是啊，那個阿姨，那個阿姨憑什麼…",
+      "JAPANESE": "だからさ、あんた何なんだよ、あんたが何でえらそ…",
+      "INDONESIAN": "Eh tapi maksudnya, Ibu ini siapa sih, kok bisa begi—",
+      "PORTUGUESE": "Então enfim, moça—quem diabos você pen—",
+      "SPANISH": "Señora, ¿usted quién se cree para es—",
+      "PERSIAN": "...-همین طور است؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "...",
+      "ENGLISH": "...",
+      "CHINESE_SIMPLIFIED": "…",
+      "CHINESE_TRADITIONAL": "…",
+      "JAPANESE": "……",
+      "INDONESIAN": "...",
+      "PORTUGUESE": "…",
+      "SPANISH": "...",
+      "PERSIAN": "..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "... ...",
+      "ENGLISH": "... ...",
+      "CHINESE_SIMPLIFIED": "……",
+      "CHINESE_TRADITIONAL": "……",
+      "JAPANESE": "…… ……",
+      "INDONESIAN": "... ...",
+      "PORTUGUESE": "… …",
+      "SPANISH": "... ...",
+      "PERSIAN": "......"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 시X, 아저씨 때문에 까먹었잖아! 씨...",
+      "ENGLISH": "...ﻒﺗ !ﻢﮕﺑ ﻢﺘﺳﺍﻮﺧﯽﻣ ﯽﭼ ﺖﻓﺭ ﻡﺩﺎﯾ ﯼﺩﺮﮐ ﺕﺮﭘ ﻮﻤﺳﺍﻮﺣ ﻪﮑﯿﺗﺮﻣ ،ﺕﺭﺪﭘ ﺮﺑ ﯼﺍ",
+      "CHINESE_SIMPLIFIED": "靠！被大叔你一打岔我都忘了我要说啥了！",
+      "CHINESE_TRADITIONAL": "…X的，都怪這個大叔，害我忘記了啦！靠…",
+      "JAPANESE": "クソッ！おっさんのせいで忘れちまったじゃねーか！チッ！",
+      "INDONESIAN": "Aduh sial, gara-gara si bapak ini aku jadi lupa, kan! Sial banget...",
+      "PORTUGUESE": "Droga, esqueci o que eu tava dizendo por causa desse cara! Merda…",
+      "SPANISH": "¡Ah, mierda, por su culpa se me olvidó lo que iba a decir! ¡Mierda!",
+      "PERSIAN": "..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 35.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그러면 오늘은 이쯤 하시는 게... 어떨까요 하하",
+      "ENGLISH": "!ﻪﻫﻪﻫ ...ﻢﯿﻨﮐ ﺶﻣﻮﻤﺗ ﺯﻭﺮﻣﺍ ﻪﺳﺍﻭ ﻪﮕﯾﺩ ﻩﺮﺘﻬﺑ ﻢﻨﮐ ﺮﮑﻓ ...ﺐﺧ",
+      "CHINESE_SIMPLIFIED": "啊…那，要不今天就到这儿？哈哈…",
+      "CHINESE_TRADITIONAL": "啊，那今天就到此為止…如何？哈哈",
+      "JAPANESE": "そ、それなら今日はこのへんで…どうでしょう、はは…",
+      "INDONESIAN": "Ehem, kalau gitu mungkin mendingan cukup sampai di sini aja dulu untuk hari ini... hehe.",
+      "PORTUGUESE": "Bom, talvez seja melhor encerrar por hoje… haha.",
+      "SPANISH": "¿Qué le parece si... lo dejamos hasta aquí por hoy? Jeje...",
+      "PERSIAN": "!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "와... 오늘 진짜 ",
+      "ENGLISH": "...ﯽﯾﺍﺪﺧ ﻪﯾﺯﻭﺭ ﺐﺠﻋ",
+      "CHINESE_SIMPLIFIED": "哇…今天真是",
+      "CHINESE_TRADITIONAL": "哇…今天真的是…",
+      "JAPANESE": "うわ…今日マジで",
+      "INDONESIAN": "Wah... hari ini bener-bener...",
+      "PORTUGUESE": "Nossa… sério,",
+      "SPANISH": "Guau... maldita sea...",
+      "PERSIAN": "... دلیلﺍدلیل این"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 40.5
+    },
+    "SCRIPT": {
+      "KOREAN": "앞뒤로 쌍으로 지X이네 나한테 그냥 지X이야.",
+      "ENGLISH": "!ﻥﺮﯿﮔﯽﻣ ﻪﭼﺎﭘ ﺵﻪﻤﻫ ،ﻥﺭﯽﻣ ﻪﻤﺗﺭﻮﯾ ﻦﻣ ﺏﺎﺼﻋﺍ ﻭﺭ ﻥﺭﺍﺩ ﻂﻘﻓ ﺖﺳﺍﺭ ﻭ ﭗﭼ ﺯﺍ",
+      "CHINESE_SIMPLIFIED": "前有一个后有一个，全都在找我麻烦",
+      "CHINESE_TRADITIONAL": "你們倆這是雙重折磨啊。簡直就是在搞我嘛",
+      "JAPANESE": "前と後ろサイドでうざいな、全員うざいんだよ！",
+      "INDONESIAN": "Depan belakang, double trouble. Bener-bener gila.",
+      "PORTUGUESE": "tô levando dos dois lados hoje—só porcaria sem parar em cima de mim.",
+      "SPANISH": "Una locura de principio a fin, ¡una locura total!",
+      "PERSIAN": "! ﻥ ﻥ ﻥ ﻥ ﺭﺍﺩ ﺵ ﺵ ﻫﻢ ﻫﻢ،ﻥﺭﺭﺩ ﺩﺭﺭﺍﺍﺍﺏﺼﺍﺍ"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 41.6,
+      "HIDE": 43.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아줌마 나 또 올게",
+      "ENGLISH": "!ﻢﺳﺭﯽﻣ ﻮﺘﺑﺎﺴﺣ ﻡﺩﺮﮔﯽﻣﺮﺑ ﺯﺎﺑ ﻦﻣ ،ﻡﻮﻧﺎﺧ",
+      "CHINESE_SIMPLIFIED": "阿姨，我下次还会再来的",
+      "CHINESE_TRADITIONAL": "阿姨，我下次還會來的！",
+      "JAPANESE": "おばさん、また来るからな！",
+      "INDONESIAN": "Ibu, nanti aku balik lagi.",
+      "PORTUGUESE": "Moça, eu volto.",
+      "SPANISH": "Señora, ¡luego vuelvo!",
+      "PERSIAN": "!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 44.7,
+      "HIDE": 46.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이 아저씨는... %$#@!",
+      "ENGLISH": "!@#$% ...ﻪﻠﯿﻄﻌﺗ ﻼﮐ ﻪﮐ ﻢﻫ ﻪﮑﯿﺗﺮﻣ ﻦﯾﺍ",
+      "CHINESE_SIMPLIFIED": "至于这大叔你…%$#@!",
+      "CHINESE_TRADITIONAL": "你這個大叔…#$%@!",
+      "JAPANESE": "あのおっさんは…%$#@！",
+      "INDONESIAN": "Dan bapak ini... %$#@!",
+      "PORTUGUESE": "E esse cara aí… %$#@!",
+      "SPANISH": "Este señor... %$#@!",
+      "PERSIAN": "!@#$% ... همه چیز را می‌توان نامید."
+    }
+  }
+]

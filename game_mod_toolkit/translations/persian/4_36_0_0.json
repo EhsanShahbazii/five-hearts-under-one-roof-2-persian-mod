@@ -1,0 +1,50 @@
+[
+  {
+    "SCRIPT": {
+      "KOREAN": "전환)",
+      "ENGLISH": "(Changes scene)",
+      "CHINESE_SIMPLIFIED": "（转场）",
+      "CHINESE_TRADITIONAL": "（場景轉換） ",
+      "JAPANESE": "（転換）",
+      "INDONESIAN": "(Berubah scene)",
+      "SPANISH": "(Cambio de escena)",
+      "PERSIAN": "(تغییر صحنه)"
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "이번엔 더더욱 평소에 입지 않는 옷을 입고",
+      "ENGLISH": "This time, she’s wearing clothes she normally wouldn’t, smiling as she’s with a man.",
+      "CHINESE_SIMPLIFIED": "这次的她穿着平时绝不会穿的衣服",
+      "CHINESE_TRADITIONAL": "這次穿著更不是平日會穿的服裝",
+      "JAPANESE": "今度は普段絶対に着ない服を着て",
+      "INDONESIAN": "Kali ini, Mal-sook memakai pakaian yang biasanya nggak dia pakai, tersenyum sambil bersama seorang lelaki.",
+      "SPANISH": "Esta vez lleva ropa que nunca usaría,",
+      "PERSIAN": "این بار، او لباس‌هایی را می‌پوشد که معمولاً نمی‌پوشید، در حالی که با یک مرد لبخند می‌زند."
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "웃음을 보이며 남자와 있다. 유만은 지금 말숙의 모든 게 어색하다.",
+      "ENGLISH": "Yuman feels awkward about everything Mal-sook is doing right now.",
+      "CHINESE_SIMPLIFIED": "笑容满面地站在另一个男人身边。宥万觉得末淑此刻的每个举动都透着别扭。",
+      "CHINESE_TRADITIONAL": "臉上帶著笑容，和一個男人在一起。 現在的吳宥萬對馬淑的一切都感到很彆扭",
+      "JAPANESE": "笑顔で男と並んでいる ユマンには今のマルスクの姿すべてがぎこちなく見える",
+      "INDONESIAN": "Yuman merasa canggung dengan semua yang Mal-sook lakukan sekarang.",
+      "SPANISH": "y sonríe al lado de un hombre. Yumán no reconoce a la Malsook que tiene en frente.",
+      "PERSIAN": "یومان نسبت به هر کاری که مال‌سوک در حال حاضر انجام می دهد احساس ناخوشایندی می کند."
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "남자가 말숙의 허리에 손을 얹고 볼에 키스하러",
+      "ENGLISH": "The man places a hand on Mal-sook’s waist and leans in to kiss her cheek.",
+      "CHINESE_SIMPLIFIED": "男人的手搭上她的腰际，俯身凑近想吻她的脸颊——",
+      "CHINESE_TRADITIONAL": "那個男人將手放在末淑的腰上，並湊近要親吻她的臉頰...",
+      "JAPANESE": "男がマルスクの腰に手を回し、頬にキスをしようとする",
+      "INDONESIAN": "Pria itu meletakkan tangannya di pinggang Mal-sook dan mendekat untuk mencium pipinya.",
+      "SPANISH": "El hombre pone su mano en la cintura de Malsook y se acerca para darle un beso",
+      "PERSIAN": "مرد دستی را روی کمر مال‌سوک می‌گذارد و برای بوسیدن گونه‌اش به داخل خم می‌شه."
+    }
+  }
+]

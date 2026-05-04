@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저기.. ",
+      "ENGLISH": "Um...",
+      "CHINESE_SIMPLIFIED": "那个...",
+      "CHINESE_TRADITIONAL": "那個…",
+      "JAPANESE": "あの…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Com licença...",
+      "SPANISH": "Disculpe…",
+      "PERSIAN": "اوم..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그것 좀 주워주실 수 있어요?",
+      "ENGLISH": "Could you pick that up for me?",
+      "CHINESE_SIMPLIFIED": "能帮我捡一下那个吗？",
+      "CHINESE_TRADITIONAL": "可以麻煩幫我撿一下那個嗎？",
+      "JAPANESE": "それ 拾っていただけますか?",
+      "INDONESIAN": "Bisakah Anda mengambilnya untuk saya?",
+      "PORTUGUESE": "poderia me ajudar a pegar isso?",
+      "SPANISH": "¿podría ayudarme a recoger eso?",
+      "PERSIAN": "می توانید اونو برای من انتخاب کنید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Sure.",
+      "CHINESE_SIMPLIFIED": "好的",
+      "CHINESE_TRADITIONAL": "沒問題",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Tentu.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "مطمئنا"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요.",
+      "ENGLISH": "Here you go.",
+      "CHINESE_SIMPLIFIED": "给您",
+      "CHINESE_TRADITIONAL": "給你",
+      "JAPANESE": "どうぞ",
+      "INDONESIAN": "Ini dia.",
+      "PORTUGUESE": "Aqui está.",
+      "SPANISH": "Aquí tiene.",
+      "PERSIAN": "در اینجا شما بروید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다.",
+      "ENGLISH": "Thank you.",
+      "CHINESE_SIMPLIFIED": "谢谢",
+      "CHINESE_TRADITIONAL": "謝謝",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Terima kasih.",
+      "PORTUGUESE": "Obrigada.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "ممنونم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 혹시...!",
+      "ENGLISH": "Oh? Wait...!",
+      "CHINESE_SIMPLIFIED": "呃？难道...！",
+      "CHINESE_TRADITIONAL": "欸？妳是…！",
+      "JAPANESE": "あっ もしかして…！",
+      "INDONESIAN": "Oh? Tunggu...!",
+      "PORTUGUESE": "Hã? Um momento...!",
+      "SPANISH": "¿Eh? ¡Un momento…!",
+      "PERSIAN": "اوه؟ صبر کن...!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그 편의점 맞죠!",
+      "ENGLISH": "You’re from that convenience store, right?",
+      "CHINESE_SIMPLIFIED": "就是那家便利店对吧！",
+      "CHINESE_TRADITIONAL": "妳是便利商店的，對吧！",
+      "JAPANESE": "あのコンビニですよね!",
+      "INDONESIAN": "Kamu dari toko swalayan itu, kan?",
+      "PORTUGUESE": "Você é a moça da loja, não é?!",
+      "SPANISH": "¡Usted es la de la tienda, ¿verdad?!",
+      "PERSIAN": "شما اهل اون فروشگاه هستید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 안녕하세요...",
+      "ENGLISH": "Ah—hello...",
+      "CHINESE_SIMPLIFIED": "啊，您好...",
+      "CHINESE_TRADITIONAL": "啊，您好…",
+      "JAPANESE": "あ こんにちは…",
+      "INDONESIAN": "Ah—halo...",
+      "PORTUGUESE": "Ah... boa tarde...",
+      "SPANISH": "Ah… buenas tardes…",
+      "PERSIAN": "آه - سلام ..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 혹시 제가 아는 척해서 불편하신 건 아니죠?",
+      "ENGLISH": "I didn’t make you uncomfortable by saying hi, did I?",
+      "CHINESE_SIMPLIFIED": "啊，我这样套近乎不会让您不舒服吧？",
+      "CHINESE_TRADITIONAL": "啊，我這樣跟妳搭話，是不是讓妳覺得不自在？",
+      "JAPANESE": "あの もしかして俺が声かけて 不快じゃなかったですか?",
+      "INDONESIAN": "Aku tidak membuatmu tak nyaman dengan menyapanya, kan?",
+      "PORTUGUESE": "Não se incomoda de eu ter te reconhecido?",
+      "SPANISH": "¿No le molesta que la haya reconocido?",
+      "PERSIAN": "من با سلام کردن شما را ناراحت نکردم، نه؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그런 건 아닌데.. ",
+      "ENGLISH": "No, it’s not that...",
+      "CHINESE_SIMPLIFIED": "那倒不是...",
+      "CHINESE_TRADITIONAL": "倒也不是…",
+      "JAPANESE": "そんなことはないですけど…",
+      "INDONESIAN": "Tidak, bukan itu...",
+      "PORTUGUESE": "Não, não é isso...",
+      "SPANISH": "No, no es eso…",
+      "PERSIAN": "نه اینطوری نیست..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "길가다가 알아본 건 아저씨가 처음이라서요 ",
+      "ENGLISH": "You’re just the first person who’s recognized me on the street.",
+      "CHINESE_SIMPLIFIED": "只是在路上被认出来，大叔您是头一位呢",
+      "CHINESE_TRADITIONAL": "只是，您是第一個在路上認出我的大叔",
+      "JAPANESE": "道端で声かけられたのおじさんが初めてで",
+      "INDONESIAN": "Kamu hanya orang pertama yang mengenaliku di jalan.",
+      "PORTUGUESE": "É que é a primeira vez que alguém me reconhece...",
+      "SPANISH": "Es que es la primera vez que alguien me reconoce...",
+      "PERSIAN": "تو اولین کسی هستی که من را در خیابان شناخت."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아..아저씨..?",
+      "ENGLISH": "Ah... “mister”?",
+      "CHINESE_SIMPLIFIED": "啊...大叔...？",
+      "CHINESE_TRADITIONAL": "啊…大叔？",
+      "JAPANESE": "お…おじさん…？",
+      "INDONESIAN": "Ah... \"tuan\"?",
+      "PORTUGUESE": "S-senhor...?",
+      "SPANISH": "¿S-señor…?",
+      "PERSIAN": "آه ... \"آقا\"؟"
+    }
+  }
+]

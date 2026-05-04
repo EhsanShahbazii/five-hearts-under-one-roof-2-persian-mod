@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야, 돌이에요?",
+      "ENGLISH": "What the—are you made of stone?",
+      "CHINESE_SIMPLIFIED": "我去，你这腿是铁打的吗？",
+      "CHINESE_TRADITIONAL": "搞什麼，這是石頭嗎？",
+      "JAPANESE": "何これ、岩ですか?",
+      "INDONESIAN": "Apa-apaan sih—kamu terbuat dari batu ya?",
+      "PORTUGUESE": "Que isso, você é de pedra ou o quê?",
+      "SPANISH": "¿Qué onda, eres de piedra o qué?",
+      "PERSIAN": "شما از چه سنگی ساخته شده اید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "남자여서 걱정했는데",
+      "ENGLISH": "I was worried 'cause you're a guy,",
+      "CHINESE_SIMPLIFIED": "之前还担心因为是男生会很强呢",
+      "CHINESE_TRADITIONAL": "我還因為你是男生有點擔心",
+      "JAPANESE": "男だから心配してたんだけど",
+      "INDONESIAN": "Tadi aku sempet khawatir soalnya kamu cowok,",
+      "PORTUGUESE": "Como você é homem, eu até fiquei um pouco preocupada,",
+      "SPANISH": "Como eres hombre estaba un poco preocupada",
+      "PERSIAN": "من نگران بودم، چون تو پسر هستی،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "생각보다 별 거 없네요?",
+      "ENGLISH": "but you’re not that tough.",
+      "CHINESE_SIMPLIFIED": "结果不过如此嘛？",
+      "CHINESE_TRADITIONAL": "結果…也不過如此而已嘛？",
+      "JAPANESE": "思ったより大したことないですね?",
+      "INDONESIAN": "tapi ternyata nggak segitunya juga.",
+      "PORTUGUESE": "mas no fim não foi grande coisa.",
+      "SPANISH": "pero al final no fue gran cosa.",
+      "PERSIAN": "اما تو آنقدر سخت نیستی"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 솔직히 나 어제까지 누워있던 사람인데...",
+      "ENGLISH": "Hey, I was literally in bed 'til yesterday!",
+      "CHINESE_SIMPLIFIED": "啊，说实话我昨天还躺在病床上呢",
+      "CHINESE_TRADITIONAL": "老實說，我到昨天都還是臥病在床的人...",
+      "JAPANESE": "いや正直 俺 昨日まで寝込んでた人間なんですけど",
+      "INDONESIAN": "Eh, aku tuh literally baru kemarin keluar dari kasur!",
+      "PORTUGUESE": "Mas pra ser justo, ainda tô me recuperando...",
+      "SPANISH": "Pero para ser justos, todavía me estoy recuperando...",
+      "PERSIAN": "هی، من تا دیروز به معنای واقعی کلمه در رختخواب بودم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 승부의 세계는 냉정한 법이니까요!",
+      "ENGLISH": "But hey, the world of competition is brutal!",
+      "CHINESE_SIMPLIFIED": "没办法，胜负的世界就是这么残酷呀！",
+      "CHINESE_TRADITIONAL": "不過，勝負的世界就是這麼殘酷！",
+      "JAPANESE": "まあ勝負の世界って冷たいもんですからね!",
+      "INDONESIAN": "Tapi ya gitu deh, dunia persaingan emang kejam!",
+      "PORTUGUESE": "Bom... numa competição ninguém espera por ninguém.",
+      "SPANISH": "Bueno… en la competencia nadie espera a nadie.",
+      "PERSIAN": "اما هی، دنیای رقابت وحشیانه است!"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이상으로 발표 마치겠습니다. ",
+      "ENGLISH": "And that concludes my presentation.",
+      "CHINESE_SIMPLIFIED": "以上就是我的汇报内容",
+      "CHINESE_TRADITIONAL": "以上就是我的簡報內容",
+      "JAPANESE": "以上で発表を終わります",
+      "INDONESIAN": "Dan presentasiku selesai sampai di sini.",
+      "PORTUGUESE": "Obrigada pela atenção.",
+      "SPANISH": "Gracias por su atención.",
+      "PERSIAN": "و این پایان ارائه من است."
+    }
+  }
+]

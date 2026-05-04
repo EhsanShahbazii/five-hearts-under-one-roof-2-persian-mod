@@ -1,0 +1,155 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 것도 붙이세요?",
+      "ENGLISH": "Do you put this on too?",
+      "CHINESE_SIMPLIFIED": "这个贴纸也得贴上吗？",
+      "JAPANESE": "こんなのまでつけるんですか？",
+      "INDONESIAN": "Ini juga mau kamu pake?",
+      "PORTUGUESE": "Você também usa coisas assim?",
+      "SPANISH": "¿También usa cosas como esta?",
+      "PERSIAN": "اینو هم میذاری؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨 그냥 변장하려고 샀던 거예요",
+      "ENGLISH": "No, I just bought it to use for a disguise.",
+      "CHINESE_SIMPLIFIED": "没有啦，是之前为了变装买的",
+      "JAPANESE": "いえ、ただ変装しようと思って買ってただけですよ",
+      "INDONESIAN": "Nggak, aku beli cuma buat nyamar aja.",
+      "PORTUGUESE": "Não, só comprei pra me fantasiar.",
+      "SPANISH": "No, solo la compré para disfrazarme.",
+      "PERSIAN": "نه، من اونو خریدم تا برای مبدل استفاده کنم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이것도 귀여운데요?",
+      "ENGLISH": "This is cute too, though!",
+      "CHINESE_SIMPLIFIED": "这个也很可爱呢？",
+      "JAPANESE": "これも可愛いですね",
+      "INDONESIAN": "Tapi ini gemes juga, lho!",
+      "PORTUGUESE": "Mas ficou linda desse jeito.",
+      "SPANISH": "Pero se te ve linda así.",
+      "PERSIAN": "هرچند این هم زیباست!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "놀리지 마세요...",
+      "ENGLISH": "Don’t tease me…",
+      "CHINESE_SIMPLIFIED": "别笑话我了...",
+      "JAPANESE": "からかわないでください…",
+      "INDONESIAN": "Jangan godain aku dong, elah…",
+      "PORTUGUESE": "Tá brincando, né...?",
+      "SPANISH": "¿Está bromeando, verdad...?",
+      "PERSIAN": "اذیتم نکن…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 귀여워...",
+      "ENGLISH": "Uh… it’s cute…",
+      "CHINESE_SIMPLIFIED": "呃...好可爱...",
+      "JAPANESE": "あ…かわいい…",
+      "INDONESIAN": "Uh… lucu kok…",
+      "PORTUGUESE": "Ai, ficou linda.",
+      "SPANISH": "Ay, te ves linda.",
+      "PERSIAN": "اوه… ناز است…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 이제 출근 준비 하자.",
+      "ENGLISH": "Yuman, let’s get ready for work now.",
+      "CHINESE_SIMPLIFIED": "吴宥万，我们该准备去上班了",
+      "JAPANESE": "ウユマンさん、そろそろ出勤の準備しましょう",
+      "INDONESIAN": "Yuman, ayo siap-siap kerja sekarang.",
+      "PORTUGUESE": "Yuman, precisamos nos preparar pra ir trabalhar.",
+      "SPANISH": "Yumán, hay que prepararnos para ir a trabajar.",
+      "PERSIAN": "یومان، بیا الان برای کار آماده شویم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 맞다. 여러분, 저 출근 준비해야 돼서 이따 뵐게요.",
+      "ENGLISH": "Ah, right. Everyone, I have to head to work, so see you later.",
+      "CHINESE_SIMPLIFIED": "啊对了，各位，我得去上班了，待会儿见~",
+      "JAPANESE": "あ、そうだ　みんな、俺もう仕事行かなきゃだから、また後で",
+      "INDONESIAN": "Ah, iya. Semuanya, aku harus berangkat kerja, jadi sampai ketemu nanti.",
+      "PORTUGUESE": "Ah, é verdade. Pessoal, tenho que me preparar para o trabalho, então vejo vocês mais tarde.",
+      "SPANISH": "Ah, es cierto. Chicos/Todos, tengo que prepararme para el trabajo, así que nos vemos más tarde.",
+      "PERSIAN": "آه، درست است. همه، من باید به سر کار بروم، پس شما را بعدا می بینم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 잘 다녀와요!",
+      "ENGLISH": "Oppa, have a good day!",
+      "CHINESE_SIMPLIFIED": "哥哥路上小心！",
+      "JAPANESE": "お兄さん、いってらっしゃい！",
+      "INDONESIAN": "Oppa, semangat ya hari ini!",
+      "PORTUGUESE": "Oppa, boa sorte!",
+      "SPANISH": "¡Oppa, que te vaya bien!",
+      "PERSIAN": "یومان، روز خوبی داشته باشی!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "다녀오세요...",
+      "ENGLISH": "You too… take care…",
+      "CHINESE_SIMPLIFIED": "路上小心...",
+      "JAPANESE": "いってらっしゃい…",
+      "INDONESIAN": "Kamu juga… jaga diri baik-baik…",
+      "PORTUGUESE": "Vá com cuidado...",
+      "SPANISH": "Vaya con cuidado…",
+      "PERSIAN": "تو هم… مواظب خودت باش…"
+    }
+  }
+]

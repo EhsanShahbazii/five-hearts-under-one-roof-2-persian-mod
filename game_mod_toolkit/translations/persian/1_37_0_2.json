@@ -1,0 +1,530 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어이",
+      "ENGLISH": "Hey.",
+      "CHINESE_SIMPLIFIED": "喂！",
+      "CHINESE_TRADITIONAL": "喂",
+      "JAPANESE": "おい…",
+      "INDONESIAN": "Hei.",
+      "PORTUGUESE": "Ei.",
+      "SPANISH": "¡Oye tú!",
+      "PERSIAN": "هووی!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "《빛보다 빛나는 자》",
+      "ENGLISH": "<O radiant one, shining brighter than light>",
+      "CHINESE_SIMPLIFIED": "《比光更耀眼之人》",
+      "CHINESE_TRADITIONAL": "《比光更耀眼的人》",
+      "JAPANESE": "《光よりもなお輝く者よ》",
+      "INDONESIAN": "Engkau yang lebih bersinar dari cahaya'",
+      "PORTUGUESE": "<Ó radiante, mais brilhante que a luz>",
+      "SPANISH": "《Más brillante que la luz》",
+      "PERSIAN": "«ای درخشنده‌تر از هر نور!»"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "《심연보다도 깊고 어두운 자여》",
+      "ENGLISH": "<O being, deeper and darker than the abyss>",
+      "CHINESE_SIMPLIFIED": "《比深渊更深更暗之人啊》",
+      "CHINESE_TRADITIONAL": "《比深淵更深邃更黑暗的人》",
+      "JAPANESE": "《深淵よりもさらに深く、暗き者よ》",
+      "INDONESIAN": "Engkau yang lebih dalam dan lebih gelap dari kegelapan'",
+      "PORTUGUESE": "<Ó ser, mais profundo e sombrio que o abismo>",
+      "SPANISH": "《Más oscuro y profundo que el abismo》",
+      "PERSIAN": "«ای موجودی عمیق‌تر و تاریک‌تر از سیاه‌چاله‌های ابدیت!»"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "- 뭔 소리야?\n- 《불보다 붉은 불의 용사여》",
+      "ENGLISH": "- What the hell are you saying?\n- <O warrior, redder than fire itself>",
+      "CHINESE_SIMPLIFIED": "- 这都什么乱七八糟的？\n-《比火焰更炽烈的火之勇士啊》",
+      "CHINESE_TRADITIONAL": "- 你在說什麼？\n-《比火更赤紅的烈火勇士》",
+      "JAPANESE": "- ……何言ってんだ？\n-《炎よりも赤き炎の戦士よ》",
+      "INDONESIAN": "- Apa-apaan sih ini?\n- 'Engkau, sang pejuang api yang lebih merah dari api'",
+      "PORTUGUESE": "- Que diabos você tá dizendo?\n- <Ó guerreiro, mais vermelho que o próprio fogo>",
+      "SPANISH": "- ¿Qué estás diciendo...?\n-《Guerrero de fuego, más rojo que las llamas》",
+      "PERSIAN": "- چی داری بلغور می‌کنی؟ - «ای دلاور سرخ‌تر از شعله‌های آتشین!»"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "《나 여기서 그대에게 바란다》",
+      "ENGLISH": "<Here and now, I ask of you>",
+      "CHINESE_SIMPLIFIED": "《在此，我向你祈求》",
+      "CHINESE_TRADITIONAL": "《我在此對你提出要求》",
+      "JAPANESE": "《ここにて、そなたに願わん》",
+      "INDONESIAN": "Di sini, aku memohon padamu'",
+      "PORTUGUESE": "<Aqui e agora, eu te invoco>",
+      "SPANISH": "《Desde aquí, te lo imploro》",
+      "PERSIAN": "«اینک در برابرت این تقاضا را دارم!»"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "용권...",
+      "ENGLISH": "Dragon Fist…",
+      "CHINESE_SIMPLIFIED": "龙拳…",
+      "CHINESE_TRADITIONAL": "龍捲...",
+      "JAPANESE": "ドラゴンフィスト…",
+      "INDONESIAN": "Tendangan...",
+      "PORTUGUESE": "Punho do Dragão…",
+      "SPANISH": "Patada...",
+      "PERSIAN": "مشت اژدها..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선",
+      "ENGLISH": "Dragon Fist Whirl…",
+      "CHINESE_SIMPLIFIED": "龙拳旋…",
+      "CHINESE_TRADITIONAL": "龍捲旋",
+      "JAPANESE": "ドラゴンフィスト旋",
+      "INDONESIAN": "Tendangan Tor",
+      "PORTUGUESE": "Redemoinho do Punho do Dragão…",
+      "SPANISH": "Patada del",
+      "PERSIAN": "لگد..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍",
+      "ENGLISH": "Dragon Fist Whirlwind…",
+      "CHINESE_SIMPLIFIED": "龙拳旋风…",
+      "CHINESE_TRADITIONAL": "龍捲旋風",
+      "JAPANESE": "ドラゴンフィスト旋風",
+      "INDONESIAN": "Tendangan Tornado",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão…",
+      "SPANISH": "Patada del dragón",
+      "PERSIAN": "لگد چرخشی..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각",
+      "ENGLISH": "Dragon Fist Whirlwind Kick…",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳",
+      "JAPANESE": "ドラゴンフィスト旋風脚",
+      "INDONESIAN": "Tendangan Tornado Naga",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!",
+      "SPANISH": "¡Patada del dragón!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!",
+      "INDONESIAN": "Tendangan Tornado Naga!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!",
+      "SPANISH": "¡¡Patada del dragón!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!",
+      "SPANISH": "¡¡¡Patada del dragón!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!",
+      "SPANISH": "¡¡¡¡Patada del dragón!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!",
+      "SPANISH": "¡¡¡¡¡Patada del dragón!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡Patada del dragón!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡Patada del dragón!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!![61]!"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "용권선풍각!!!!!!!!!!!!!!!!!!!!",
+      "ENGLISH": "Dragon Fist Whirlwind Kick!!!!!!!!!!!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "龙拳旋风脚！！！！！！！！！！！！！！！！！！！！",
+      "CHINESE_TRADITIONAL": "龍捲旋風腳!!!!!!!!!!!!!!!!!!!!",
+      "JAPANESE": "ドラゴンフィスト旋風脚!!!!!!!!!!!!!!!!!!!!",
+      "INDONESIAN": "Tendangan Tornado Naga!!!!!!!!!!!!!!!!!!!!",
+      "PORTUGUESE": "Chute Redemoinho do Punho do Dragão!!!!!!!!!!!!!!!!!!!!",
+      "SPANISH": "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Patada del dragón!!!!!!!!!!!!!!!!!!!!",
+      "PERSIAN": "لگد چرخشی طوفان اژدها!!!!!!!!!!!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 24.0
+    }
+  }
+]

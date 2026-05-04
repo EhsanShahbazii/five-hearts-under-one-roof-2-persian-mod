@@ -1,0 +1,181 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍...하...이거 아닌데...",
+      "ENGLISH": "Tch... haah... this isn’t it...",
+      "CHINESE_SIMPLIFIED": "嘶...哈...感觉不太对啊...",
+      "CHINESE_TRADITIONAL": "嗯...哈...感覺不太對...",
+      "JAPANESE": "すぅ…ふぅ…こうじゃないんだよな…",
+      "INDONESIAN": "Tss… hah… Bukan gini maksudnya…",
+      "PORTUGUESE": "Tss… ha… não, isso não é…",
+      "SPANISH": "Tss… ha… no, esto no es…",
+      "PERSIAN": "تچ ... هاا ... این نیست ..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "왜... 별로야...?",
+      "ENGLISH": "What’s wrong? Is it that bad?",
+      "CHINESE_SIMPLIFIED": "怎么...不好看吗？",
+      "CHINESE_TRADITIONAL": "怎麼說...不好看嗎？",
+      "JAPANESE": "なんで？ あんまりよくなかった？",
+      "INDONESIAN": "Kenapa ya… keliatannya jelek…?",
+      "PORTUGUESE": "Por quê…? Você não gostou?",
+      "SPANISH": "¿Por qué…? ¿No te gusta?",
+      "PERSIAN": "چه اشکالی دارد؟ اینقدر بد است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 가능성은 보이거든?",
+      "ENGLISH": "No, no—there’s definitely potential.",
+      "CHINESE_SIMPLIFIED": "不是，我是能看到潜力的！",
+      "CHINESE_TRADITIONAL": "不是，我有看到潛力！",
+      "JAPANESE": "いや、可能性は見えるんだけどさ？",
+      "INDONESIAN": "Nggak sih, aku masih lihat potensinya?",
+      "PORTUGUESE": "Vejo potencial, sabia?",
+      "SPANISH": "Veo potencial, ¿sabes?",
+      "PERSIAN": "نه، نه - قطعاً پتانسیل وجود دارد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 뭐랄까 좀 어색하달까? ",
+      "ENGLISH": "It’s just... I don’t know. It feels a little awkward?",
+      "CHINESE_SIMPLIFIED": "但总觉得有点别扭？",
+      "CHINESE_TRADITIONAL": "但怎麼說呢，有點尷尬？",
+      "JAPANESE": "なんかこう…ちょっとぎこちないっていうか？",
+      "INDONESIAN": "Tapi gimana ya ngomongnya… rasanya agak canggung gitu?",
+      "PORTUGUESE": "Mas… sei lá, parece um pouco forçado.",
+      "SPANISH": "Pero… no sé, se siente un poco forzado.",
+      "PERSIAN": "فقط... من نمی دانم. کمی ناخوشایند به نظر می رسد؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "쫌?",
+      "ENGLISH": "A little?",
+      "CHINESE_SIMPLIFIED": "有点？",
+      "CHINESE_TRADITIONAL": "有點？",
+      "JAPANESE": "少し？",
+      "INDONESIAN": "Agak?",
+      "PORTUGUESE": "Um pouco?",
+      "SPANISH": "¿Un poco?",
+      "PERSIAN": "کمی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "애매해.",
+      "ENGLISH": "Yeah... kinda off.",
+      "CHINESE_SIMPLIFIED": "不太到位",
+      "CHINESE_TRADITIONAL": "感覺少了什麼",
+      "JAPANESE": "なんか微妙",
+      "INDONESIAN": "Kayak… ada yang kurang pas.",
+      "PORTUGUESE": "Estranho.",
+      "SPANISH": "Raro.",
+      "PERSIAN": "آره...خیلی خاموش"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그래?",
+      "ENGLISH": "Oh, really?",
+      "CHINESE_SIMPLIFIED": "啊，这样吗？",
+      "CHINESE_TRADITIONAL": "啊，這樣嗎？",
+      "JAPANESE": "あ、そう？",
+      "INDONESIAN": "Oh, gitu ya?",
+      "PORTUGUESE": "Ah, é?",
+      "SPANISH": "¿Ah, sí?",
+      "PERSIAN": "اوه، واقعا؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "연습을 쪼금만 더 해보면 좋아질 거 같은데",
+      "ENGLISH": "I think if you practiced just a little more, it could really work.",
+      "CHINESE_SIMPLIFIED": "我觉得再多练习一下会更好的...",
+      "CHINESE_TRADITIONAL": "再多練習一點可能會比較好...",
+      "JAPANESE": "もうちょっとだけ練習したらすごくよくなりそうなんだけどな",
+      "INDONESIAN": "Tapi aku yakin kalau kamu latihan sedikit lagi, pasti hasilnya bagus.",
+      "PORTUGUESE": "Acho que se você praticar só mais um pouquinho, vai ficar muito melhor.",
+      "SPANISH": "Creo que si practicas un poquito más, va a salir mucho mejor.",
+      "PERSIAN": "فکر می‌کنم اگر کمی بیشتر تمرین می‌کردید، واقعاً می‌توانست کار کند."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "응... 알겠어! ",
+      "ENGLISH": "Mm... got it!",
+      "CHINESE_SIMPLIFIED": "嗯...知道了！",
+      "CHINESE_TRADITIONAL": "嗯...知道了！",
+      "JAPANESE": "うん…わかった！",
+      "INDONESIAN": "Oke… sip!",
+      "PORTUGUESE": "Sim… entendido!",
+      "SPANISH": "Sí… ¡entendido!",
+      "PERSIAN": "مم... فهمیدم!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "연습 더 해 볼게!",
+      "ENGLISH": "I’ll keep working on it!",
+      "CHINESE_SIMPLIFIED": "我会再多练练的！",
+      "CHINESE_TRADITIONAL": "我會再多練習的！",
+      "JAPANESE": "もっと練習してみる！",
+      "INDONESIAN": "Aku bakal latihan lebih banyak lagi!",
+      "PORTUGUESE": "Vou praticar mais.",
+      "SPANISH": "Voy a practicar más.",
+      "PERSIAN": "من به کار روی اون ادامه خواهم داد!"
+    }
+  }
+]

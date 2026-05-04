@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하나도 안 변했단 건 좋은 뜻?",
+      "ENGLISH": "Does “hasn’t changed a bit” mean that in a good way?",
+      "CHINESE_SIMPLIFIED": "还是老样子，这是好事吧？",
+      "CHINESE_TRADITIONAL": "一點都沒變，是好事吧？",
+      "JAPANESE": "全然変わってないって、いい意味？",
+      "INDONESIAN": "“Masih aja sama kayak dulu” itu maksudnya bagus, kan?",
+      "PORTUGUESE": "Não mudou nada... isso é uma coisa boa?",
+      "SPANISH": "No ha cambiado nada... ¿eso es algo bueno?",
+      "PERSIAN": "«کمی تغییر نکرده است» به معنای اون است؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 당연하죠!",
+      "ENGLISH": "Of course it does!",
+      "CHINESE_SIMPLIFIED": "那当然啦！",
+      "CHINESE_TRADITIONAL": "當然囉！",
+      "JAPANESE": "もちろんです！",
+      "INDONESIAN": "Tentu aja!",
+      "PORTUGUESE": "Ah, claro que é!",
+      "SPANISH": "¡Ah, claro que sí!",
+      "PERSIAN": "البته که دارد!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 근데 치마에 벌레 있어요.",
+      "ENGLISH": "Huh? Wait, there’s a bug on your skirt.",
+      "CHINESE_SIMPLIFIED": "呃？不过你裙子上有虫子哦",
+      "CHINESE_TRADITIONAL": "欸？不過你的裙子上有蟲耶",
+      "JAPANESE": "あれ？ スカートに虫がついてますよ",
+      "INDONESIAN": "Hah? Eh, ada serangga di roknya tuh.",
+      "PORTUGUESE": "Hã? Mas tem um inseto na sua saia.",
+      "SPANISH": "¿Eh? Pero hay un insecto en su falda.",
+      "PERSIAN": "ها؟ صبر کن، یک حشره روی دامن تو هست."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "벌레?",
+      "ENGLISH": "A bug?",
+      "CHINESE_SIMPLIFIED": "虫子？",
+      "CHINESE_TRADITIONAL": "蟲？",
+      "JAPANESE": "虫？",
+      "INDONESIAN": "Serangga?!",
+      "PORTUGUESE": "Um inseto?",
+      "SPANISH": "¿Un insecto?",
+      "PERSIAN": "یک اشکال؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아악!!",
+      "ENGLISH": "Aaah!!",
+      "CHINESE_SIMPLIFIED": "啊！！",
+      "CHINESE_TRADITIONAL": "啊啊！！",
+      "JAPANESE": "ぎゃああっ！！",
+      "INDONESIAN": "Aaaah!!",
+      "PORTUGUESE": "Aaaah!!",
+      "SPANISH": "¡Aaah!!",
+      "PERSIAN": "آها!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "벌레는??? 아직 있어?",
+      "ENGLISH": "The bug?? Is it still there?",
+      "CHINESE_SIMPLIFIED": "虫子呢？？？还在吗？",
+      "CHINESE_TRADITIONAL": "蟲呢？？？…還在嗎？",
+      "JAPANESE": "虫は…？ まだいる？",
+      "INDONESIAN": "Serangganya?? Masih nempel nggak?!",
+      "PORTUGUESE": "Um inseto? Ainda tá aí?",
+      "SPANISH": "¿Un insecto? ¿Aún está ahí?",
+      "PERSIAN": "اشکال؟؟ هنوز آنجاست؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "농담~농담~",
+      "ENGLISH": "Just kidding~ just kidding~",
+      "CHINESE_SIMPLIFIED": "开玩笑的啦~",
+      "CHINESE_TRADITIONAL": "開玩笑～我開玩笑的～",
+      "JAPANESE": "冗談、冗談です〜",
+      "INDONESIAN": "Canda~ cuma bercanda~",
+      "PORTUGUESE": "Tô brincando~ Tô brincando~",
+      "SPANISH": "¡Es broma~ Es broma~",
+      "PERSIAN": "فقط شوخی ~ فقط شوخی ~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐야 놀랬잖아...!",
+      "ENGLISH": "Ugh, you really scared me!",
+      "CHINESE_SIMPLIFIED": "什么呀，吓死我了...！",
+      "CHINESE_TRADITIONAL": "啊，嚇死我了…！",
+      "JAPANESE": "もう！ 驚かせないで…！",
+      "INDONESIAN": "Ugh, beneran bikin kaget!",
+      "PORTUGUESE": "Ah, o quê?! Você me assustou...!",
+      "SPANISH": "¡Ah, ¿qué?! Me asustaste...!",
+      "PERSIAN": "اوه، تو واقعا منو ترسوندی!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "성인 남자도 때려잡으시면서 벌레는 또 엄청 무서워하시네요?",
+      "ENGLISH": "You can take down a grown man, but bugs still freak you out?",
+      "CHINESE_SIMPLIFIED": "成年男人都敢揍，怎么对虫子就这么害怕呀？",
+      "CHINESE_TRADITIONAL": "明明連成年男人都能打趴，卻還這麼怕蟲？",
+      "JAPANESE": "大人の男でも殴り倒すくせに、虫はすごく苦手なんですね？",
+      "INDONESIAN": "Kamu bisa ngalahin cowok dewasa, tapi tetep takut sama serangga?",
+      "PORTUGUESE": "Você consegue derrubar um homem adulto, mas morre de medo de insetos, né?",
+      "SPANISH": "Usted puede noquear a un hombre adulto, pero le tiene muchísimo miedo a los insectos, ¿eh?",
+      "PERSIAN": "شما می توانید یک مرد بالغ را از پا در بیاورید، اما اشکالات هنوز شما را وحشت زده می کنند؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "다리가 너무 많아.",
+      "ENGLISH": "Too many legs.",
+      "CHINESE_SIMPLIFIED": "虫子有太多只脚了！",
+      "CHINESE_TRADITIONAL": "蟲的腳太多隻了啦！",
+      "JAPANESE": "足が多すぎ",
+      "INDONESIAN": "Kakinya kebanyakan.",
+      "PORTUGUESE": "Eles têm patas demais!",
+      "SPANISH": "¡Tiene demasiadas patas!",
+      "PERSIAN": "پاهای خیلی زیاد"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 들어오세요.",
+      "ENGLISH": "Anyway, come on inside.",
+      "CHINESE_SIMPLIFIED": "先进来吧",
+      "CHINESE_TRADITIONAL": "先進來吧",
+      "JAPANESE": "とにかく中に入りましょう",
+      "INDONESIAN": "Udah yuk, masuk ke dalam.",
+      "PORTUGUESE": "Por enquanto, entre, por favor.",
+      "SPANISH": "Por ahora, entre, por favor.",
+      "PERSIAN": "به هر حال بیا داخل"
+    }
+  }
+]

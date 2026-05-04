@@ -1,0 +1,199 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 기억나지. ",
+      "ENGLISH": "Ah, of course I remember.",
+      "CHINESE_SIMPLIFIED": "记得啊",
+      "CHINESE_TRADITIONAL": "啊，我記得",
+      "JAPANESE": "ああ、覚えてるさ",
+      "INDONESIAN": "Oh, tentu aku ingat.",
+      "PORTUGUESE": "Ah, claro que eu lembro.",
+      "SPANISH": "Ah, claro que me acuerdo.",
+      "PERSIAN": "آها، معلومه که یادمه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너 화이트 입었었잖아.",
+      "ENGLISH": "You were wearing white.",
+      "CHINESE_SIMPLIFIED": "你那时候穿的是白色的吧",
+      "CHINESE_TRADITIONAL": "你那時候穿白色的啊",
+      "JAPANESE": "お前、白着てただろ",
+      "INDONESIAN": "Kamu pakai yang putih, kan.",
+      "PORTUGUESE": "Você tava de branco.",
+      "SPANISH": "Era blanco.",
+      "PERSIAN": "سفید پوشیده بودی دیگه!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "화이트?",
+      "ENGLISH": "White?",
+      "CHINESE_SIMPLIFIED": "白色？",
+      "CHINESE_TRADITIONAL": "白色？",
+      "JAPANESE": "白？",
+      "INDONESIAN": "Putih?",
+      "PORTUGUESE": "Branco?",
+      "SPANISH": "¿Blanco?",
+      "PERSIAN": "سفید؟!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "겉에 입은 옷 말고 수영복이 하얀색이라고?",
+      "ENGLISH": "Not the cover-up—are you saying the swimsuit itself was white?",
+      "CHINESE_SIMPLIFIED": "你是说外面套的那件，还是泳衣是白色的？",
+      "CHINESE_TRADITIONAL": "不是套在外面的衣服，而是泳衣是白色的嗎？",
+      "JAPANESE": "上に羽織ってた服じゃなくて、水着が白だったって？",
+      "INDONESIAN": "Maksud kamu bukan baju luarnya, tapi warna swimsuit-nya putih?",
+      "PORTUGUESE": "Não a saída de praia—tá dizendo que o maiô mesmo era branco?",
+      "SPANISH": "¿Te refieres al traje de baño debajo del pareo?",
+      "PERSIAN": "اون لباسی که روش انداخته بودم نه ها، خود مایو منظورت سفیده؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너 화이트 맞지 않아?",
+      "ENGLISH": "Wasn’t it?",
+      "CHINESE_SIMPLIFIED": "你不就是穿的白色泳衣吗？",
+      "CHINESE_TRADITIONAL": "你不是穿的白色泳衣嗎？",
+      "JAPANESE": "お前、白じゃなかったっけ？",
+      "INDONESIAN": "Emang kamu bukan pakai putih?",
+      "PORTUGUESE": "Não era?",
+      "SPANISH": "¿No era blanco?",
+      "PERSIAN": "مگه سفید نبود؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그거 나 아니야!",
+      "ENGLISH": "That wasn’t me!",
+      "CHINESE_SIMPLIFIED": "啊，那不是我！",
+      "CHINESE_TRADITIONAL": "呀，那個不是我啦！",
+      "JAPANESE": "あ、それ私じゃないから！",
+      "INDONESIAN": "Itu bukan aku!",
+      "PORTUGUESE": "Esse não era eu!",
+      "SPANISH": "¡Esa no era yo!",
+      "PERSIAN": "اون اصلاً من نبودم خنگول!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아니야...?",
+      "ENGLISH": "It wasn’t…?",
+      "CHINESE_SIMPLIFIED": "不是吗…？",
+      "CHINESE_TRADITIONAL": "不是嗎...？",
+      "JAPANESE": "違うの…？",
+      "INDONESIAN": "Bukan...?",
+      "PORTUGUESE": "Não era…?",
+      "SPANISH": "¿No...?",
+      "PERSIAN": "تو نبودی...؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그건 동그란이잖아! ",
+      "ENGLISH": "That was Gran!",
+      "CHINESE_SIMPLIFIED": "那是圆圆啊！",
+      "CHINESE_TRADITIONAL": "那是圓圓穿的！",
+      "JAPANESE": "あれはドングランでしょ！",
+      "INDONESIAN": "Itu si Gran yang pakai putih!",
+      "PORTUGUESE": "Esse era o Dong-geuran!",
+      "SPANISH": "¡Esa era Gran!",
+      "PERSIAN": "اون که گران بود بابا!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 됐어.",
+      "ENGLISH": "Ugh, forget it.",
+      "CHINESE_SIMPLIFIED": "唉，算了",
+      "CHINESE_TRADITIONAL": "唉，算了",
+      "JAPANESE": "もういい",
+      "INDONESIAN": "Udah deh, lupain aja.",
+      "PORTUGUESE": "Ugh, deixa pra lá.",
+      "SPANISH": "Ugh, olvídalo.",
+      "PERSIAN": "ای بابا ولش کن اصلاً، از تو آبی گرم نمی‌شه."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 나 다쳤잖아.",
+      "ENGLISH": "Hey, I’m injured, remember?",
+      "CHINESE_SIMPLIFIED": "喂，我可是个伤员耶",
+      "CHINESE_TRADITIONAL": "哎，我不是受傷了嗎？",
+      "JAPANESE": "お～い、俺ケガしてんだぞ",
+      "INDONESIAN": "Eh, tapi aku kan abis kecelakaan~",
+      "PORTUGUESE": "Ei, eu tô machucado, lembra?",
+      "SPANISH": "Ay~ Aún me estoy recuperando.",
+      "PERSIAN": "ای بابا، من هنوز مریضم تازه ضربه مغزی شدم خب!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "다친 사람은 좀 봐줘야 돼~",
+      "ENGLISH": "You should be a little nicer to someone who’s hurt~",
+      "CHINESE_SIMPLIFIED": "就体谅一下受伤的人嘛~",
+      "CHINESE_TRADITIONAL": "要對受傷的人寬容一點嘛～",
+      "JAPANESE": "ケガ人なんだから少し労わってくれよ〜",
+      "INDONESIAN": "Orang yang lagi sakit harus dimaklumin dong~",
+      "PORTUGUESE": "Devia ser um pouquinho mais legal com alguém ferido~",
+      "SPANISH": "¡Ténle paciencia a alguien que está herido~!",
+      "PERSIAN": "با یه آدم آسیب‌دیده باید یکم مهربون‌تر تا کنی~"
+    }
+  }
+]

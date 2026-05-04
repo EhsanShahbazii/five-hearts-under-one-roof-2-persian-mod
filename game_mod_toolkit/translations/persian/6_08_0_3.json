@@ -1,0 +1,235 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 빨리해! 빨리해!\n- 빨리해! 빨리해!",
+      "ENGLISH": "- Hurry up! Hurry up! \n- Yeah, do it already!",
+      "CHINESE_SIMPLIFIED": "-来一个！来一个！\n-来一个！来一个！",
+      "CHINESE_TRADITIONAL": "- 快點啦！快點啦！ \n- 快點啦！快點啦！",
+      "JAPANESE": "- 早く！早く！\n- 早く！早く！",
+      "INDONESIAN": "- Cepetan dong! Cepetan!\n- Iya nih, buruan!",
+      "PORTUGUESE": "- Rápido! Rápido!\n- Rápido! Rápido!",
+      "SPANISH": "- ¡Rápido! ¡Rápido!\n- ¡Rápido! ¡Rápido!",
+      "PERSIAN": "- عجله کن عجله کن - آره، انجامش بده!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "자자자!",
+      "ENGLISH": "Alright, alright!",
+      "CHINESE_SIMPLIFIED": "好啦好啦！",
+      "CHINESE_TRADITIONAL": "好啦好啦！",
+      "JAPANESE": "じゃあじゃあじゃあ！",
+      "INDONESIAN": "Oke, oke!",
+      "PORTUGUESE": "Tá bom, já vou!",
+      "SPANISH": "¡Está bien, ya voy!",
+      "PERSIAN": "باشه، باشه!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제 이름으로 3행시 해보겠습니다!",
+      "ENGLISH": "I’ll do a toast with my name!",
+      "CHINESE_SIMPLIFIED": "我来用我的名字造个三行诗！",
+      "CHINESE_TRADITIONAL": "我用我的名字造個三行詩！",
+      "JAPANESE": "俺の名前で三行詩やってみます！",
+      "INDONESIAN": "Aku kasih toast pake namaku, ya!",
+      "PORTUGUESE": "Mas eu vou fazer um acróstico com meu nome!",
+      "SPANISH": "¡Pero haré un acróstico con mi nombre!",
+      "PERSIAN": "من یک نون تست با نام خودم می گذارم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "운 띄어 주세요!",
+      "ENGLISH": "Give me the first syllable!",
+      "CHINESE_SIMPLIFIED": "大家帮我起个头！",
+      "CHINESE_TRADITIONAL": "請大家幫我起頭！",
+      "JAPANESE": "リードお願いします！",
+      "INDONESIAN": "Kasi aku suku kata pertama!",
+      "PORTUGUESE": "Me deem a primeira sílaba!",
+      "SPANISH": "¡Denme la primera sílaba!",
+      "PERSIAN": "هجای اول را به من بده!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우!",
+      "ENGLISH": "U!",
+      "CHINESE_SIMPLIFIED": "吴！",
+      "CHINESE_TRADITIONAL": "吳！",
+      "JAPANESE": "ウ！",
+      "INDONESIAN": "Yu!",
+      "PORTUGUESE": "M!",
+      "SPANISH": "¡M!",
+      "PERSIAN": "!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우리의 웃음이 가득한",
+      "ENGLISH": "U know what makes us all smile—",
+      "CHINESE_SIMPLIFIED": "无忧无虑的欢声笑语",
+      "CHINESE_TRADITIONAL": "無憂無慮的歡聲笑語",
+      "JAPANESE": "俺たちの笑いがあふれる",
+      "INDONESIAN": "Yu tau nggak apa yang bikin kita semua senyum—",
+      "PORTUGUESE": "Momentos como o de hoje",
+      "SPANISH": "Momentos como el de hoy",
+      "PERSIAN": "شما می دانید چه چیزی باعث می شود همه ما لبخند بزنیم -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유!",
+      "ENGLISH": "Yu!",
+      "CHINESE_SIMPLIFIED": "宥！",
+      "CHINESE_TRADITIONAL": "宥",
+      "JAPANESE": "ユ！",
+      "INDONESIAN": "Jeong!",
+      "PORTUGUESE": "A!",
+      "SPANISH": "¡A!",
+      "PERSIAN": "یو!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유쾌한 이 순간을",
+      "ENGLISH": "Yu(You) are the reason why we celebrate this moment!",
+      "CHINESE_SIMPLIFIED": "有情有义的欢聚此刻",
+      "CHINESE_TRADITIONAL": "有情有義的歡聚時光",
+      "JAPANESE": "愉快なこの瞬間を",
+      "INDONESIAN": "Jeong adalah alasan kenapa kita ngerayain momen ini!",
+      "PORTUGUESE": "Alegria enchendo nossos corações!",
+      "SPANISH": "¡Alegría llenando nuestros corazones!",
+      "PERSIAN": "یو (شما) دلیلی هستید که این لحظه را جشن می گیریم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "만!",
+      "ENGLISH": "Man!",
+      "CHINESE_SIMPLIFIED": "万！",
+      "CHINESE_TRADITIONAL": "萬！",
+      "JAPANESE": "マン！",
+      "INDONESIAN": "Man!",
+      "PORTUGUESE": "N!",
+      "SPANISH": "¡N!",
+      "PERSIAN": "مرد!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "만끽하며 건배합시다!",
+      "ENGLISH": "Man, this let's all cheers!",
+      "CHINESE_SIMPLIFIED": "万事顺遂，共饮此杯！",
+      "CHINESE_TRADITIONAL": "萬事順遂，一同乾杯！",
+      "JAPANESE": "満喫しながら乾杯しましょう！",
+      "INDONESIAN": "Man, yuk kita cheers bareng!",
+      "PORTUGUESE": "Não sei mais o que dizer, mas SAÚDE!",
+      "SPANISH": "No sé que más decir pero ¡SALUD!",
+      "PERSIAN": "مرد، این بیایید همه به سلامتی!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "- 짠!\n- 건배!\n",
+      "ENGLISH": "- Cheers!\n- Cheers!",
+      "CHINESE_SIMPLIFIED": "-干啦！\n-干杯！",
+      "CHINESE_TRADITIONAL": "-乾杯！\n-乾杯～！",
+      "JAPANESE": "- かんぱい！\n- かんぱい〜！",
+      "INDONESIAN": "- Cheers!\n- Cheers!",
+      "PORTUGUESE": "- Saúde!\n- Saúde!",
+      "SPANISH": "- ¡Salud! \n- ¡Salud!",
+      "PERSIAN": "- به سلامتی! - به سلامتی!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "짠!",
+      "ENGLISH": "Cheers!",
+      "CHINESE_SIMPLIFIED": "干杯！",
+      "CHINESE_TRADITIONAL": "乾杯！",
+      "JAPANESE": "かんぱ〜い！",
+      "INDONESIAN": "Cheers!",
+      "PORTUGUESE": "Saúde!",
+      "SPANISH": "¡Salud!",
+      "PERSIAN": "به سلامتی"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유후~!",
+      "ENGLISH": "Woohoo~!",
+      "CHINESE_SIMPLIFIED": "呜呼～！",
+      "CHINESE_TRADITIONAL": "哇呼～！",
+      "JAPANESE": "いぇ〜い！",
+      "INDONESIAN": "Woohoo~!",
+      "PORTUGUESE": "Woohoo~!",
+      "SPANISH": "¡Woohoo~!",
+      "PERSIAN": "وووو ~!"
+    }
+  }
+]

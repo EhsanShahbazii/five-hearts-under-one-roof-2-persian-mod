@@ -1,0 +1,199 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐 일어나볼래요?",
+      "ENGLISH": "Hey, can you stand up for a sec?",
+      "CHINESE_SIMPLIFIED": "能站起来一下吗？",
+      "CHINESE_TRADITIONAL": "可以站起來一下嗎？",
+      "JAPANESE": "ちょっと立ってもらえますか？",
+      "INDONESIAN": "Hei, bisakah kamu berdiri sebentar?",
+      "PORTUGUESE": "Pode se levantar um pouquinho?",
+      "SPANISH": "¿Te puedes levantar un momento?",
+      "PERSIAN": "هی، می تونی یک ثانیه بایستی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "為什麼？",
+      "JAPANESE": "どうしてですか？",
+      "INDONESIAN": "Mengapa?",
+      "PORTUGUESE": "Por quê?",
+      "SPANISH": "¿Por qué?",
+      "PERSIAN": "چرا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어깨에 뭐가 좀 붙었는데?",
+      "ENGLISH": "There’s something on your shoulder.",
+      "CHINESE_SIMPLIFIED": "你肩膀上沾了什么？",
+      "CHINESE_TRADITIONAL": "你肩膀上好像黏了什麼東西？ ",
+      "JAPANESE": "肩に何かついてますよ?",
+      "INDONESIAN": "Ada sesuatu di bahumu.",
+      "PORTUGUESE": "Parece que tem algo grudado no seu ombro.",
+      "SPANISH": "Parece que tienes algo pegado en el hombro.",
+      "PERSIAN": "چیزی روی شانه شماست"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "음?",
+      "ENGLISH": "Hmm?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hmm?",
+      "PORTUGUESE": "Hmm?",
+      "SPANISH": "¿Hmm?",
+      "PERSIAN": "هوم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 이게 뭐지...",
+      "ENGLISH": "What is this...?",
+      "CHINESE_SIMPLIFIED": "呃，这是什么...",
+      "CHINESE_TRADITIONAL": "呃？這是什麼...",
+      "JAPANESE": "あ、これ何だろう…",
+      "INDONESIAN": "Apa ini...?",
+      "PORTUGUESE": "O que é isso...?",
+      "SPANISH": "¿Qué es esto...?",
+      "PERSIAN": "این چیه...؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에잇!",
+      "ENGLISH": "Got it!",
+      "CHINESE_SIMPLIFIED": "哎！",
+      "CHINESE_TRADITIONAL": "哎呀！",
+      "JAPANESE": "えいっ!",
+      "INDONESIAN": "Mengerti!",
+      "PORTUGUESE": "Ha!",
+      "SPANISH": "¡Ja!",
+      "PERSIAN": "متوجه شدم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "ENGLISH": "Hey!!",
+      "CHINESE_SIMPLIFIED": "喂！",
+      "CHINESE_TRADITIONAL": "喂！",
+      "JAPANESE": "おい!",
+      "INDONESIAN": "Hai!!",
+      "PORTUGUESE": "Ei!",
+      "SPANISH": "¡Oye!",
+      "PERSIAN": "سلام!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야라뇨!",
+      "ENGLISH": "“Hey”? Excuse me!",
+      "CHINESE_SIMPLIFIED": "叫谁喂呢！",
+      "CHINESE_TRADITIONAL": "你叫誰「喂」啊！",
+      "JAPANESE": "おいって！",
+      "INDONESIAN": "\"Hei\"? Permisi!",
+      "PORTUGUESE": "Lero-lero!",
+      "SPANISH": "¡Lero lero!",
+      "PERSIAN": "\"سلام\"؟ ببخشید!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "얼른 나와요!",
+      "ENGLISH": "Come on, let’s go!",
+      "CHINESE_SIMPLIFIED": "快出来吧！",
+      "CHINESE_TRADITIONAL": "快點出來吧！",
+      "JAPANESE": "早く出てきてください!",
+      "INDONESIAN": "Ayo, kita berangkat!",
+      "PORTUGUESE": "Sai logo daí!",
+      "SPANISH": "¡Sal de una vez!",
+      "PERSIAN": "بیا برویم"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 이제 나가서 밥 먹어요!",
+      "ENGLISH": "Time to eat!",
+      "CHINESE_SIMPLIFIED": "我们快出去吃饭吧！",
+      "CHINESE_TRADITIONAL": "我們快出去吃飯吧！",
+      "JAPANESE": "もう出てご飯食べましょう!",
+      "INDONESIAN": "Waktunya makan!",
+      "PORTUGUESE": "Vamos comer!",
+      "SPANISH": "¡Vamos a comer!",
+      "PERSIAN": "وقت خوردن است!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너 잡히면 죽는다!",
+      "ENGLISH": "You’re so dead when I catch you!",
+      "CHINESE_SIMPLIFIED": "喂！被我抓到你就死定了！",
+      "CHINESE_TRADITIONAL": "喂！被我抓到你就死定了",
+      "JAPANESE": "おい! 捕まったらヤバいからな!",
+      "INDONESIAN": "Kau akan mati saat aku menangkapmu!",
+      "PORTUGUESE": "Quando eu te pegar, você tá morto!",
+      "SPANISH": "Cuando te atrape, ¡estás muerto!",
+      "PERSIAN": "وقتی میگیرمت خیلی مرده ای!"
+    }
+  }
+]

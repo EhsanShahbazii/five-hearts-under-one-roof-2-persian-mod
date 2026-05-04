@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "손 씻고 휴지 쓰시는 거면",
+      "ENGLISH": "If you wash your hands and use a paper towel,",
+      "CHINESE_SIMPLIFIED": "如果洗完手要用卫生纸的话",
+      "CHINESE_TRADITIONAL": "如果洗完手要用衛生紙的話",
+      "JAPANESE": "手を洗ってティッシュを使ったら",
+      "INDONESIAN": "Kalau udah cuci tangan dan pakai tisu,",
+      "PORTUGUESE": "Se você lavar as mãos e usar papel toalha,",
+      "SPANISH": "Cuando se seque las manos",
+      "PERSIAN": "وقتی دستاتونو شستین و دستمال برداشتین،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "꼭 휴지통에 넣어주세요.",
+      "ENGLISH": "please make sure it goes in the trash—",
+      "CHINESE_SIMPLIFIED": "用完请一定要丢进垃圾桶",
+      "CHINESE_TRADITIONAL": "用完一定要丟到垃圾桶",
+      "JAPANESE": "必ずゴミ箱に捨ててください",
+      "INDONESIAN": "tolong buangnya ke tempat sampah ya.",
+      "PORTUGUESE": "por favor, joga no lixo—",
+      "SPANISH": "bote el papel en el basurero.",
+      "PERSIAN": "لطفاً حتماً بندازینش سطل آشغال..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "바닥에 버리지 마시고.",
+      "ENGLISH": "not on the floor.",
+      "CHINESE_SIMPLIFIED": "不要扔在地上",
+      "CHINESE_TRADITIONAL": "不要丟在地上",
+      "JAPANESE": "床に捨てないでください",
+      "INDONESIAN": "Jangan dibuang ke lantai.",
+      "PORTUGUESE": "não no chão.",
+      "SPANISH": "No lo deje en el suelo.",
+      "PERSIAN": "نه اینکه ولش کنین رو زمین!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네~",
+      "ENGLISH": "Got it~",
+      "CHINESE_SIMPLIFIED": "好~",
+      "CHINESE_TRADITIONAL": "好～",
+      "JAPANESE": "は～い",
+      "INDONESIAN": "Iyaa~",
+      "PORTUGUESE": "Entendido~",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "چشم، حله!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 저기 휴지가 없는데요? ",
+      "ENGLISH": "Uh… wait, there’s no paper towels?",
+      "CHINESE_SIMPLIFIED": "咦，这里没有纸啊？",
+      "CHINESE_TRADITIONAL": "咦，這裡沒有衛生紙了耶？",
+      "JAPANESE": "あ、あの、ティッシュがないんですけど",
+      "INDONESIAN": "Eh, tapi di sini nggak ada tisu?",
+      "PORTUGUESE": "Uh… espera, não tem papel toalha?",
+      "SPANISH": "Pero si no hay papel...",
+      "PERSIAN": "عه...؟ دستمال کاغذی که تموم شده؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저, 저기..",
+      "ENGLISH": "Uh… hey… excuse me?",
+      "CHINESE_SIMPLIFIED": "那个…不好意思…",
+      "CHINESE_TRADITIONAL": "那個…不好意思…",
+      "JAPANESE": "あ、あの…",
+      "INDONESIAN": "U-umm...",
+      "PORTUGUESE": "Uh… ei… com licença?",
+      "SPANISH": "D-disculpe...",
+      "PERSIAN": "ببخشید... کسی اون بیرون نیست؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요!! 휴지가 없어요! 저기요!!!",
+      "ENGLISH": "Excuse me!! There’s no paper towels in here! Hey!!!",
+      "CHINESE_SIMPLIFIED": "喂！没有卫生纸了！！喂！ ！ ！",
+      "CHINESE_TRADITIONAL": "那個！！沒有衛生紙了！喂！！！",
+      "JAPANESE": "すみませーん！！ティッシュがありません！すみませーん！！！",
+      "INDONESIAN": "Permisi!! Di sini nggak ada tisu! Permisiii!!!",
+      "PORTUGUESE": "Com licença!! Não tem papel toalha aqui! Ei!!!",
+      "SPANISH": "¡¿Me oye?!¡¡No hay papel!!",
+      "PERSIAN": "آهای با شمام!! اینجا دستمال نیست! یکی به دادم برسههه!!!"
+    }
+  }
+]

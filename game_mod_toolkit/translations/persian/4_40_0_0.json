@@ -1,0 +1,243 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "맞잖아 너네 둘이 한패인 거. ",
+      "ENGLISH": "I knew it. You are in on this together.",
+      "CHINESE_SIMPLIFIED": "看吧，你们就是一伙的",
+      "CHINESE_TRADITIONAL": "你們是一夥的，對吧",
+      "JAPANESE": "ほら、お前らグルだろ",
+      "INDONESIAN": "Udah kuduga. Kalian pasti komplotan.",
+      "PORTUGUESE": "Claro, vocês dois são cúmplices.",
+      "SPANISH": "Claro, ustedes dos son cómplices.",
+      "PERSIAN": "من اونو می دانستم. شما با هم در این مورد هستید"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 그게 아니라요...",
+      "ENGLISH": "No, it's really not like that…",
+      "CHINESE_SIMPLIFIED": "真的不是那样...",
+      "CHINESE_TRADITIONAL": "真的不是這樣的...",
+      "JAPANESE": "あ、ほんとに違うんです…！",
+      "INDONESIAN": "Nggak, sumpah, ini bukan kayak yang kamu pikir…",
+      "PORTUGUESE": "Já disse que não...!",
+      "SPANISH": "¡Le digo que no...!",
+      "PERSIAN": "نه واقعا اینطوری نیست…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "넌 좀 닥X 이 ㅆ... ",
+      "ENGLISH": "You need to shut the hell up, you son of a—",
+      "CHINESE_SIMPLIFIED": "你这娘们给我闭...",
+      "CHINESE_TRADITIONAL": "給我閉嘴，妳這騙子",
+      "JAPANESE": "黙れ、このクソ女…",
+      "INDONESIAN": "Diam lo ya, dasar brengsek—",
+      "PORTUGUESE": "Cala a boca, desgraçado...",
+      "SPANISH": "Cállate, maldita...",
+      "PERSIAN": "تو باید دهنتو ببندی ای پسر بچه"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 식으로 사람들 등쳐먹어서 푼돈 받아 갔냐?",
+      "ENGLISH": "What, you scam people like this for pocket change?",
+      "CHINESE_SIMPLIFIED": "你们就是用这种手段骗人赚零花钱的？",
+      "CHINESE_TRADITIONAL": "妳都是用這種方式欺騙別人，賺取那點小錢嗎？",
+      "JAPANESE": "こんなやり方で人を騙して小銭稼いでたのか？",
+      "INDONESIAN": "Apa? Kalian nipu orang kayak gini cuma buat uang receh?",
+      "PORTUGUESE": "Você enganava gente assim pra arrancar dinheiro deles?",
+      "SPANISH": "¿Estafan a la gente así para sacar unas monedas?",
+      "PERSIAN": "چیه، اینجوری مردم رو برای تعویض جیب کلاهبرداری میکنی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "정말 그게 아니에요...!",
+      "ENGLISH": "Please, it’s not what you think…!",
+      "CHINESE_SIMPLIFIED": "真的不是那样...！",
+      "CHINESE_TRADITIONAL": "真的不是這樣...!",
+      "JAPANESE": "本当に違うんです…！",
+      "INDONESIAN": "Tolong, ini nggak seperti yang kamu kira…!",
+      "PORTUGUESE": "Não é isso... de verdade!",
+      "SPANISH": "¡De verdad no es así...!",
+      "PERSIAN": "خواهش میکنم اون چیزی که شما فکر میکنید نیست…!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너 내가 이 렌탈여친 사업 자체를 없애야 정신 차리겠다.",
+      "ENGLISH": "You know what? Maybe I need to shut this whole rental girlfriend thing down to knock some sense into you.",
+      "CHINESE_SIMPLIFIED": "看来非得把你们这租赁女友行当整个端掉才行了",
+      "CHINESE_TRADITIONAL": "看來要把這個出租女友這個東西給廢掉才會清醒",
+      "JAPANESE": "お前、このレンタル彼女商売そのものを潰さないと目を覚まさないみたいだな",
+      "INDONESIAN": "Tau nggak? Mungkin emang udah waktunya bisnis pacar sewaan kayak gini ditutup biar kalian sadar diri.",
+      "PORTUGUESE": "Vou acabar com esse seu negócio de “namorada de aluguel”, pra você aprender.",
+      "SPANISH": "Voy a acabar con ese negocio de novias de alquiler tuyo, para que aprendas.",
+      "PERSIAN": "میدونی چیه؟ شاید لازم باشد تمام این موضوع دوست دختر اجاره‌ای را ببندم تا کمی عقل را در شما بیاورم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 우리 사촌 형이 서울지검 검사거든. ",
+      "ENGLISH": "My cousin? He’s a prosecutor in Seoul.",
+      "CHINESE_SIMPLIFIED": "我堂哥是首尔地检的检察官",
+      "CHINESE_TRADITIONAL": "我表哥是首爾地方檢察廳的檢察官",
+      "JAPANESE": "うちのいとこ、ソウル地検の検事なんだぞ",
+      "INDONESIAN": "Sepupuku? Dia jaksa di Seoul.",
+      "PORTUGUESE": "Meu primo é promotor na Promotoria de Seul.",
+      "SPANISH": "Mi primo es fiscal en la Fiscalía de Seúl.",
+      "PERSIAN": "پسر عمویم؟ او یک دادستان در سئول است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너네 잘못 걸렸어 이거.",
+      "ENGLISH": "You messed with the wrong guy.",
+      "CHINESE_SIMPLIFIED": "你们这次是撞枪口上了",
+      "CHINESE_TRADITIONAL": "你們惹錯人了",
+      "JAPANESE": "お前ら、運が悪かったな",
+      "INDONESIAN": "Kamu salah cari masalah, bro.",
+      "PORTUGUESE": "Mexeram com a pessoa errada.",
+      "SPANISH": "Se metieron con la persona equivocada.",
+      "PERSIAN": "با آدم اشتباهی قاطی کردی"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "안 내놔?",
+      "ENGLISH": "Not gonna give it up?",
+      "CHINESE_SIMPLIFIED": "还不还给我？",
+      "CHINESE_TRADITIONAL": "還不還錢？",
+      "JAPANESE": "出さないのか？",
+      "INDONESIAN": "Masih nggak mau ngaku juga?",
+      "PORTUGUESE": "Não vão desistir?",
+      "SPANISH": "¿No se van a rendir?",
+      "PERSIAN": "اونو رها نمی کنید؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 26.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그... 신고는 안 하시면 안 될까요?",
+      "ENGLISH": "C-can we maybe… not report this?",
+      "CHINESE_SIMPLIFIED": "那个...可以别报警吗？",
+      "CHINESE_TRADITIONAL": "那... 可以不要報警嗎？",
+      "JAPANESE": "あの…通報はやめてもらえませんか？",
+      "INDONESIAN": "A-a-apa kita bisa… nggak usah dilaporin?",
+      "PORTUGUESE": "Poderia... por favor, não me denunciar?",
+      "SPANISH": "¿Podrías... no denunciarme, por favor?",
+      "PERSIAN": "ج- ممکنه ما ... اینو گزارش نکنیم؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 30.7
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 물 진짜 거지같네. ",
+      "ENGLISH": "God, even the water here’s garbage.",
+      "CHINESE_SIMPLIFIED": "这地方的水准真是够低啊",
+      "CHINESE_TRADITIONAL": "這裡的水準真的爛透了",
+      "JAPANESE": "本当くそみたいだな",
+      "INDONESIAN": "Ya ampun, air di sini aja rasanya kayak sampah.",
+      "PORTUGUESE": "Que repulsivo.",
+      "SPANISH": "Qué repulsivo.",
+      "PERSIAN": "خدایا حتی آب اینجا آشغال است."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어디서 이딴 게 굴러와 가지고",
+      "ENGLISH": "What kind of trash shows up in a place like this…",
+      "CHINESE_SIMPLIFIED": "从哪儿混进来你这种货色",
+      "CHINESE_TRADITIONAL": "什麼阿貓阿狗都敢混進來",
+      "JAPANESE": "どこであんなやつが転がってきたんだよ",
+      "INDONESIAN": "Tempat beginian isinya juga orang-orang busuk kayak gini…",
+      "PORTUGUESE": "De onde saiu essa escória?",
+      "SPANISH": "¿De dónde salió esta escoria?",
+      "PERSIAN": "چه جور زباله هایی در چنین جایی ظاهر می شوند…"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 38.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨...드럽게...",
+      "ENGLISH": "Shit… this is disgusting…",
+      "CHINESE_SIMPLIFIED": "我靠...都脏了我的手...",
+      "CHINESE_TRADITIONAL": "我去...真是噁心",
+      "JAPANESE": "くそ…汚ねえな…",
+      "INDONESIAN": "Sial… jijik banget deh…",
+      "PORTUGUESE": "Droga... que nojo...",
+      "SPANISH": "¡Maldición... qué asco...",
+      "PERSIAN": "لعنتی… این افتضاح است…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 42.7,
+      "HIDE": 42.7
+    }
+  }
+]

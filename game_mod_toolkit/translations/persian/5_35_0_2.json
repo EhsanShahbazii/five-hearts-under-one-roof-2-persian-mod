@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "전 괜찮아요. 많이 먹어요.",
+      "ENGLISH": "I’m fine, really. You eat more.",
+      "CHINESE_SIMPLIFIED": "不用了，你多吃点吧！",
+      "CHINESE_TRADITIONAL": "我沒關係。你多吃一點吧",
+      "JAPANESE": "俺は大丈夫です たくさん食べてください",
+      "INDONESIAN": "Aku beneran gapapa kok. Kamu aja yang makan lagi.",
+      "PORTUGUESE": "Não, obrigado, pode comer.",
+      "SPANISH": "No gracias, coma no más.",
+      "PERSIAN": "من خوبم واقعا شما بیشتر می خورید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 이미 엄청 먹어서 괜찮아요! 드세요!",
+      "ENGLISH": "I already ate a ton, so I’m good! Go ahead!",
+      "CHINESE_SIMPLIFIED": "我已经吃了很多了，真的没关系！你吃吧！",
+      "CHINESE_TRADITIONAL": "我已經吃很多了，你吃吧！",
+      "JAPANESE": "もうお腹いっぱいなんで どうぞ！",
+      "INDONESIAN": "Aku tadi udah makan banyak banget jadi aku aman! Ayo makan aja!",
+      "PORTUGUESE": "Já comi muitas, não se preocupe. Então pega, por favor.",
+      "SPANISH": "Ya comí muchas, no se preocupe. Así que tómela, por favor.",
+      "PERSIAN": "من قبلا یک تن خوردم، پس خوبم! برو جلو!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 엄~청 괜찮아요.",
+      "ENGLISH": "I’m suuuper good too.",
+      "CHINESE_SIMPLIFIED": "我也真~的不用啦",
+      "CHINESE_TRADITIONAL": "我也真的～吃很多了",
+      "JAPANESE": "俺も全〜然大丈夫です",
+      "INDONESIAN": "Aku juga kenyang bangeeet kok.",
+      "PORTUGUESE": "Não se preocupe, continua comendo.",
+      "SPANISH": "Usted no se preocupe, siga comiendo.",
+      "PERSIAN": "من هم خیلی خوبم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아...네! ",
+      "ENGLISH": "Ah… okay!",
+      "CHINESE_SIMPLIFIED": "啊...好吧！",
+      "CHINESE_TRADITIONAL": "啊...好吧！",
+      "JAPANESE": "あ…はい！",
+      "INDONESIAN": "Ah… oke!",
+      "PORTUGUESE": "Ah... tá bom.",
+      "SPANISH": "Ah... está bien.",
+      "PERSIAN": "آه... باشه!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그러세요 그럼...",
+      "ENGLISH": "Then… go ahead…",
+      "CHINESE_SIMPLIFIED": "那就这样吧...",
+      "CHINESE_TRADITIONAL": "那...就這樣吧",
+      "JAPANESE": "じゃあ そうしてください…",
+      "INDONESIAN": "Kalau gitu… makan aja ya…",
+      "PORTUGUESE": "Bom apetite...",
+      "SPANISH": "Buen provecho...",
+      "PERSIAN": "بعد… ادامه بده…"
+    }
+  }
+]

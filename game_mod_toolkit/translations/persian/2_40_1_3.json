@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 1.2
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님과 나의 조합은",
+      "ENGLISH": "You and I, Min-jung...",
+      "CHINESE_SIMPLIFIED": "敏静和我的组合",
+      "CHINESE_TRADITIONAL": "和敏靜妳在一起",
+      "JAPANESE": "ミンジョンさんと僕の組み合わせは",
+      "INDONESIAN": "Kau dan aku, Min-jung...",
+      "PORTUGUESE": "A combinação entre você e eu",
+      "SPANISH": "La combinación entre tú y yo",
+      "PERSIAN": "من و تو، مین‌جونگ..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "마치 산과 염기의 중화 반응처럼",
+      "ENGLISH": "We’re like an acid-base neutralization reaction—",
+      "CHINESE_SIMPLIFIED": "就像酸和碱的中和反应一样",
+      "CHINESE_TRADITIONAL": "就像酸跟鹼的中和反應一樣",
+      "JAPANESE": "まるで酸と塩基の中和反応みたいに",
+      "INDONESIAN": "Kita seperti reaksi netralisasi asam-basa—",
+      "PORTUGUESE": "é como uma reação de neutralização entre um ácido e uma base:",
+      "SPANISH": "es como una reacción de neutralización entre un ácido y una base:",
+      "PERSIAN": "ما مانند یک واکنش خنثی سازی اسید-باز هستیم-"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "서로를 보완하고 완벽한 균형을 이루는 것 같아요.",
+      "ENGLISH": "perfectly balanced, perfectly complementary.",
+      "CHINESE_SIMPLIFIED": "我们相互补充，形成了完美的平衡",
+      "CHINESE_TRADITIONAL": "彼此互補，達到完美的平衡",
+      "JAPANESE": "お互いを補い合って 完璧なバランスを作ってる気がします",
+      "INDONESIAN": "seimbang sempurna, saling melengkapi sempurna.",
+      "PORTUGUESE": "nos completamos e formamos um equilíbrio perfeito.",
+      "SPANISH": "nos complementamos y formamos un equilibrio perfecto.",
+      "PERSIAN": "کاملا متعادل، کاملا مکمل"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나는 이렇게 말하고 싶어요.",
+      "ENGLISH": "That’s how I see us.",
+      "CHINESE_SIMPLIFIED": "我想这么告诉你！",
+      "CHINESE_TRADITIONAL": "我想說的是—",
+      "JAPANESE": "僕はこう言いたいんです",
+      "INDONESIAN": "Begitulah caraku melihat kita.",
+      "PORTUGUESE": "E o que eu quero dizer é:",
+      "SPANISH": "Y quiero decirlo así:",
+      "PERSIAN": "من ما را اینگونه می بینم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님과 함께 이 특별한! 반응을",
+      "ENGLISH": "And I want to keep this special reaction going...",
+      "CHINESE_SIMPLIFIED": "我想和敏静一起，将这份特别的“反应”",
+      "CHINESE_TRADITIONAL": "我希望可以一直和妳在一起！",
+      "JAPANESE": "ミンジョンさんと一緒に この特別な“反応”を",
+      "INDONESIAN": "Dan saya ingin reaksi spesial ini terus berlanjut...",
+      "PORTUGUESE": "quero continuar mantendo essa reação tão especial",
+      "SPANISH": "que quiero seguir manteniendo esta reacción tan especial",
+      "PERSIAN": "و من می خواهم این واکنش خاص را ادامه دهم ..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로도 계속 이어가고 싶다고.",
+      "ENGLISH": "for a long, long time.",
+      "CHINESE_SIMPLIFIED": "在未来一直延续下去",
+      "CHINESE_TRADITIONAL": "保持這種特別的反應",
+      "JAPANESE": "これからもずっと続けていきたいって",
+      "INDONESIAN": "untuk waktu yang sangat, sangat lama.",
+      "PORTUGUESE": "ao lado de Minjung Park, por muito mais tempo.",
+      "SPANISH": "junto a Minjung Park, por mucho tiempo más.",
+      "PERSIAN": "برای مدت طولانی، طولانی"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 그러니까 ",
+      "ENGLISH": "So... basically,",
+      "CHINESE_SIMPLIFIED": "呃... 所以说",
+      "CHINESE_TRADITIONAL": "嗯…所以",
+      "JAPANESE": "えっと…つまり",
+      "INDONESIAN": "Jadi... pada dasarnya,",
+      "PORTUGUESE": "Ah... quer dizer...",
+      "SPANISH": "Ah… o sea...",
+      "PERSIAN": "بنابراین ... اساسا،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "결론적으로는 많이 보고 싶었단 얘기죠?",
+      "ENGLISH": "you missed me a lot, huh?",
+      "CHINESE_SIMPLIFIED": "结论就是非常想我，对吧？",
+      "CHINESE_TRADITIONAL": "是很想念我的意思吧？",
+      "JAPANESE": "結論としては すごく会いたかったってことですよね?",
+      "INDONESIAN": "kamu sangat merindukanku, ya?",
+      "PORTUGUESE": "em resumo, que sentiu muito a minha falta?",
+      "SPANISH": "¿en resumen, que me extrañaste mucho?",
+      "PERSIAN": "خیلی دلت برای من تنگ شده بود، نه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 바로 그거예요!",
+      "ENGLISH": "Yes! That’s exactly it!",
+      "CHINESE_SIMPLIFIED": "对！就是这个意思！",
+      "CHINESE_TRADITIONAL": "沒錯！就是這個意思！",
+      "JAPANESE": "はい! まさに それです!",
+      "INDONESIAN": "Ya! Tepat sekali!",
+      "PORTUGUESE": "Sim! Exatamente isso!",
+      "SPANISH": "¡Sí! ¡Exactamente eso!",
+      "PERSIAN": "بله! دقیقا همینه!"
+    }
+  }
+]

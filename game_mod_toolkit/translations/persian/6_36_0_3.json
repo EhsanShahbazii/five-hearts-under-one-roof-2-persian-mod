@@ -1,0 +1,343 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 이거 집중이 너무 안 돼요.",
+      "ENGLISH": "Ugh, I just can’t focus.",
+      "CHINESE_SIMPLIFIED": "啊，我根本没法集中注意力",
+      "CHINESE_TRADITIONAL": "啊，我根本沒法集中注意力",
+      "JAPANESE": "あ〜もう集中できないです",
+      "INDONESIAN": "Ugh, aku bener-bener nggak bisa fokus.",
+      "PORTUGUESE": "Ah... eu simplesmente não consigo me concentrar.",
+      "SPANISH": "Ah... no me puedo concentrar.",
+      "PERSIAN": "اوه، من فقط نمی توانم تمرکز کنم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "예? 그렇게 별로였어요?",
+      "ENGLISH": "Huh? Was it really that bad?",
+      "CHINESE_SIMPLIFIED": "诶？我的汇报有那么差吗？",
+      "CHINESE_TRADITIONAL": "誒？我的簡報有這麽差嗎？",
+      "JAPANESE": "え？そんなにダメでした？",
+      "INDONESIAN": "Hah? Emangnya separah itu?",
+      "PORTUGUESE": "Hã? Foi tão ruim assim?",
+      "SPANISH": "¿Eh? ¿Tan malo estuvo?",
+      "PERSIAN": "ها؟ واقعا اینقدر بد بود؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 발표를 들으란 거예요, 말란 거예요?",
+      "ENGLISH": "Are you telling me to listen to the presentation or not?",
+      "CHINESE_SIMPLIFIED": "不是，你到底是让我们听还是不听啊？",
+      "CHINESE_TRADITIONAL": "不是，你到底是讓我們聽還是不聽啊？",
+      "JAPANESE": "いや、発表聞けって言ってるのか、聞くなって言ってるのか分からなくて！",
+      "INDONESIAN": "Jadi kamu nyuruh aku dengerin presentasi atau nggak sih?",
+      "PORTUGUESE": "Quem foi mesmo que me pediu minha opinião?",
+      "SPANISH": "¿Quién fue la que me preguntó mi opinión?",
+      "PERSIAN": "به من می گویید ارائه را گوش کنم یا نه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 나는 그게...",
+      "ENGLISH": "No, what I mean is—",
+      "CHINESE_SIMPLIFIED": "不是...我就是...",
+      "CHINESE_TRADITIONAL": "不...我就是...",
+      "JAPANESE": "だって…",
+      "INDONESIAN": "Bukan, maksud aku tuh—",
+      "PORTUGUESE": "Quer dizer, sim, mas não é isso…",
+      "SPANISH": "Osea sí, pero eso no…",
+      "PERSIAN": "نه، منظور من این است که -"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 예쁘잖아요!!!!",
+      "ENGLISH": "You’re way too pretty!!!!",
+      "CHINESE_SIMPLIFIED": "是因为你太漂亮了啊！！！！",
+      "CHINESE_TRADITIONAL": "是因為你太漂亮了啊！！！！",
+      "JAPANESE": "綺麗すぎるんですよ！！！！",
+      "INDONESIAN": "Kamu cantik banget!!!!",
+      "PORTUGUESE": "Você é linda demais!!!",
+      "SPANISH": "¡Eres demasiado linda!!!",
+      "PERSIAN": "تو خیلی خوشگلی!!!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "…What?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "…Apa?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "... چی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 너무 예뻐서 집중이 안 된다고요 집중이!!",
+      "ENGLISH": "You’re too pretty — I literally can’t concentrate!!",
+      "CHINESE_SIMPLIFIED": "是你漂亮得让我分心啊，完全没法集中！！",
+      "CHINESE_TRADITIONAL": "你漂亮到讓我分心啊，完全沒法集中！！",
+      "JAPANESE": "あの、あまりに綺麗すぎて集中できないんです！集中が！",
+      "INDONESIAN": "Kamu tuh terlalu cantik — aku literally nggak bisa konsen!!",
+      "PORTUGUESE": "Não consigo me concentrar porque você é linda demais!",
+      "SPANISH": "¡No puedo concentrarme porque eres demasiado linda!",
+      "PERSIAN": "تو خیلی خوشگلی - به معنای واقعی کلمه نمیتونم تمرکز کنم!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그렇게 예쁘게 하고 와서 발표를 하면",
+      "ENGLISH": "Like, if you show up looking that gorgeous and give a presentation,",
+      "CHINESE_SIMPLIFIED": "你打扮得这么漂亮来做汇报",
+      "CHINESE_TRADITIONAL": "你打扮得這麽漂亮來做簡報",
+      "JAPANESE": "そんな綺麗な格好で発表されたら",
+      "INDONESIAN": "Kayak, kalau kamu muncul secantik itu terus presentasi,",
+      "PORTUGUESE": "Se fizer uma apresentação assim,",
+      "SPANISH": "¡Si haces una presentación así,",
+      "PERSIAN": "مانند، اگر ظاهر شدید و زیبا به نظر می رسید و ارائه می دهید،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 22.3
+    },
+    "SCRIPT": {
+      "KOREAN": "사람들이 뭐 들리겠어요? 네? ",
+      "ENGLISH": "do you really think people will hear anything? Huh?",
+      "CHINESE_SIMPLIFIED": "谁还听得进去内容啊？嗯？",
+      "CHINESE_TRADITIONAL": "誰還聽得進去內容啊？嗯？",
+      "JAPANESE": "誰が話聞こえます？ね？",
+      "INDONESIAN": "kamu pikir orang-orang bakal dengerin apa yang kamu omongin? Hah?",
+      "PORTUGUESE": "acha que alguém vai ouvir alguma coisa?",
+      "SPANISH": "¿crees que alguien va a escuchar algo?",
+      "PERSIAN": "واقعا فکر می کنید مردم چیزی خواهند شنید؟ ها؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "얼굴만 보고 있지!",
+      "ENGLISH": "They’ll just stare at your face!",
+      "CHINESE_SIMPLIFIED": "光盯着你的脸看了！",
+      "CHINESE_TRADITIONAL": "光盯著你的臉看了！",
+      "JAPANESE": "みんな顔しか見ないですよ！",
+      "INDONESIAN": "Mereka cuma bakal mandangin muka kamu aja!",
+      "PORTUGUESE": "Todo mundo vai ficar olhando pra sua cara!",
+      "SPANISH": "¡Todos estarán mirando tu cara!",
+      "PERSIAN": "اونا فقط به صورت شما خیره خواهند شد!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "깜짝 놀랬잖아요!",
+      "ENGLISH": "I was honestly shocked!!",
+      "CHINESE_SIMPLIFIED": "刚刚吓我一跳啦！",
+      "CHINESE_TRADITIONAL": "我真的嚇一跳啦！",
+      "JAPANESE": "びっくりしたじゃないですか！",
+      "INDONESIAN": "Aku beneran kaget, lho!!",
+      "PORTUGUESE": "Por um segundo eu até me assustei!",
+      "SPANISH": "¡Por un momento me asusté!",
+      "PERSIAN": "راستش شوکه شدم!!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 30.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하 이거 뭐 얼굴을 가릴 수도 없고... 이거",
+      "ENGLISH": "Ugh, it’s not like I can hide your face or anything…",
+      "CHINESE_SIMPLIFIED": "唉，这又没法把脸遮住...",
+      "CHINESE_TRADITIONAL": "這個臉也不能遮起來...",
+      "JAPANESE": "はぁ…顔隠すわけにもいかないし…どうしたものか",
+      "INDONESIAN": "Ugh, bukan berarti aku bisa nutupin muka kamu juga…",
+      "PORTUGUESE": "Ha… também não dá pra cobrir seu rosto…",
+      "SPANISH": "Ha… no puedo taparte la cara tampoco…",
+      "PERSIAN": "اوه، اینطوری نیست که بتوانم صورتت یا هر چیز دیگری را پنهان کنم…"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 31.7
+    },
+    "SCRIPT": {
+      "KOREAN": "방법이 필요하긴 해요",
+      "ENGLISH": "We’re gonna need a solution.",
+      "CHINESE_SIMPLIFIED": "看来真得想个办法了",
+      "CHINESE_TRADITIONAL": "看來真的需要想想辦法",
+      "JAPANESE": "なんか対策考えないと",
+      "INDONESIAN": "Kita harus cari solusi, nih.",
+      "PORTUGUESE": "Precisamos achar uma solução.",
+      "SPANISH": "Necesitamos encontrar una solución.",
+      "PERSIAN": "ما به یک راه حل نیاز خواهیم داشت"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.4,
+      "HIDE": 33.4
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어요~",
+      "ENGLISH": "Alright, alright~",
+      "CHINESE_SIMPLIFIED": "知道啦~",
+      "CHINESE_TRADITIONAL": "知道啦～",
+      "JAPANESE": "分かりました〜",
+      "INDONESIAN": "Oke, oke~",
+      "PORTUGUESE": "Já entendi~",
+      "SPANISH": "Ya entendí~",
+      "PERSIAN": "باشه، باشه~"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 36.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 일단 병원 때문에 먼저 나가보는데",
+      "ENGLISH": "I have to head to the hospital first,",
+      "CHINESE_SIMPLIFIED": "我得先去趟医院",
+      "CHINESE_TRADITIONAL": "我要先去一趟醫院",
+      "JAPANESE": "俺、病院行かなきゃなので先に出ますけど",
+      "INDONESIAN": "Aku harus ke rumah sakit dulu,",
+      "PORTUGUESE": "Eu tenho que ir pro hospital rapidinho,",
+      "SPANISH": "Yo tengo que ir al hospital un momento,",
+      "PERSIAN": "اول باید برم بیمارستان"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 36.6,
+      "HIDE": 38.3
+    },
+    "SCRIPT": {
+      "KOREAN": "방법을 한번 생각해 봐요.",
+      "ENGLISH": "but think of a solution in the meantime.",
+      "CHINESE_SIMPLIFIED": "你想想办法吧",
+      "CHINESE_TRADITIONAL": "你想想辦法吧",
+      "JAPANESE": "その方法、考えてみてくださいね",
+      "INDONESIAN": "tapi selama itu kamu pikirin solusinya ya.",
+      "PORTUGUESE": "mas dá uma olhada nisso.",
+      "SPANISH": "pero checa eso.",
+      "PERSIAN": "اما در این بین به فکر راه حل باشید."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 42.6
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍, 방법이 있을까 싶긴 한데~ ",
+      "ENGLISH": "Tss… if there is even a solution~",
+      "CHINESE_SIMPLIFIED": "嘶～不过这事能有什么办法呢",
+      "CHINESE_TRADITIONAL": "嘶～不過這種事有什麽辦法呢",
+      "JAPANESE": "うーん、そんな方法あるかな〜",
+      "INDONESIAN": "Tss… kalau emang ada solusinya~",
+      "PORTUGUESE": "Pff, não sei se vou conseguir arrumar~",
+      "SPANISH": "Pff, no se si lo pueda arreglar~",
+      "PERSIAN": "فش… اگر حتی راه حلی وجود دارد~"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 45.3
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠어요 좀 이따 집에서 봐요~",
+      "ENGLISH": "Okay, see you at home later~",
+      "CHINESE_SIMPLIFIED": "知道啦，等下家里见~",
+      "CHINESE_TRADITIONAL": "知道啦，等下回家見～",
+      "JAPANESE": "分かりました、また家で会いましょう〜",
+      "INDONESIAN": "Oke, sampai ketemu di rumah nanti~",
+      "PORTUGUESE": "Tudo bem, a gente se vê mais tarde em casa~",
+      "SPANISH": "Está bien, nos vemos más tarde en casa~",
+      "PERSIAN": "باشه بعدا تو خونه میبینمت~"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 45.2,
+      "HIDE": 45.9
+    },
+    "SCRIPT": {
+      "KOREAN": "넹",
+      "ENGLISH": "Yup.",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "はーい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Tá bom~",
+      "SPANISH": "Sip~",
+      "PERSIAN": "بله"
+    }
+  }
+]

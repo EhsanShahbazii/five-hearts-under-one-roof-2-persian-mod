@@ -1,0 +1,120 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨",
+      "ENGLISH": "Yu-jeong…",
+      "CHINESE_SIMPLIFIED": "有情小姐",
+      "CHINESE_TRADITIONAL": "有情小姐",
+      "JAPANESE": "Yu-jeong…",
+      "SPANISH": "Señorita Yujeong...",
+      "PERSIAN": "یو جونگ…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨...!",
+      "ENGLISH": "Yu-jeong…!",
+      "CHINESE_SIMPLIFIED": "有情小姐...！",
+      "CHINESE_TRADITIONAL": "有情小姐...！",
+      "JAPANESE": "Yu-jeong…!",
+      "SPANISH": "¡Yujeong...!",
+      "PERSIAN": "یو جونگ…!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에잇...!",
+      "ENGLISH": "Ugh…!",
+      "CHINESE_SIMPLIFIED": "哎一...！",
+      "CHINESE_TRADITIONAL": "欸...！",
+      "JAPANESE": "Uhhh…!",
+      "SPANISH": "Ay...",
+      "PERSIAN": "اوه…!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 깨워서 미안해요",
+      "ENGLISH": "Ah, sorry for waking you.",
+      "CHINESE_SIMPLIFIED": "啊，吵醒你不好意思",
+      "CHINESE_TRADITIONAL": "啊，對不起靠太近了",
+      "JAPANESE": "Ah, maaf ngebangunin.",
+      "SPANISH": "Ah, perdón por despertarte.",
+      "PERSIAN": "آه، ببخشید که بیدارت کردم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나랑 화장실 가줄 수 있어요?",
+      "ENGLISH": "Could you come to the bathroom with me?",
+      "CHINESE_SIMPLIFIED": "能陪我去趟洗手间吗？",
+      "CHINESE_TRADITIONAL": "你可以陪我去一下廁所嗎？",
+      "JAPANESE": "Boleh temenin aku ke kamar mandi nggak?",
+      "SPANISH": "¿Podrías acompañarme al baño?",
+      "PERSIAN": "میشه با من بیای دستشویی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "화장실이요?",
+      "ENGLISH": "The bathroom?",
+      "CHINESE_SIMPLIFIED": "洗手间？",
+      "CHINESE_TRADITIONAL": "廁所？",
+      "JAPANESE": "Kamar mandi?",
+      "SPANISH": "¿Al baño?",
+      "PERSIAN": "حمام؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 같이가요",
+      "ENGLISH": "Yeah, let’s go together.",
+      "CHINESE_SIMPLIFIED": "嗯，一起去吧",
+      "CHINESE_TRADITIONAL": "好，一起去吧",
+      "JAPANESE": "Iya, ayo bareng aja.",
+      "SPANISH": "Claro, yo lo llevo.",
+      "PERSIAN": "آره بیا با هم بریم"
+    }
+  },
+  {
+    "SCRIPT": {
+      "ENGLISH": "   ",
+      "PERSIAN": ""
+    }
+  }
+]

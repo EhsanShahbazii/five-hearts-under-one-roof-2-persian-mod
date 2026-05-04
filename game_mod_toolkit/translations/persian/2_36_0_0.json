@@ -1,0 +1,171 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아.. 수영도 못 하는데 왜 따라왔지...",
+      "ENGLISH": "Ugh... I can’t even swim, why did I come...?",
+      "CHINESE_SIMPLIFIED": "啊...我连游泳都不会，干嘛跟来了...",
+      "CHINESE_TRADITIONAL": "啊…我根本不會游泳，幹嘛跟來啊…",
+      "JAPANESE": "あ…泳げもしないのに なんでついてきたんだろ…",
+      "INDONESIAN": "Ugh... Aku bahkan tidak bisa berenang, kenapa aku datang...?",
+      "PORTUGUESE": "Ai... nem sei nadar, por que é que eu vim...?",
+      "SPANISH": "Ay... ni siquiera sé nadar, ¿por qué vine...?",
+      "PERSIAN": "اوه ... من حتی نمی توانم شنا کنم ، چرا آمدم ...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨는 아직 안 나온 건가?",
+      "ENGLISH": "Is Yuna not out yet?",
+      "CHINESE_SIMPLIFIED": "有娜还没出来吗？",
+      "CHINESE_TRADITIONAL": "有娜小姐還沒出來嗎？",
+      "JAPANESE": "ユナさん まだ出てきてないのかな?",
+      "INDONESIAN": "Apakah Yuna belum keluar?",
+      "PORTUGUESE": "A Yuna ainda não saiu?",
+      "SPANISH": "¿Yuna todavía no ha salido?",
+      "PERSIAN": "یونا هنوز بیرون نیامده است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万先生！",
+      "CHINESE_TRADITIONAL": "宥萬先生！",
+      "JAPANESE": "ユマンさん!",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yuman!",
+      "SPANISH": "¡Yumán!",
+      "PERSIAN": "یومان!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Oh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Oh?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "اوه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 44.8
+    },
+    "SCRIPT": {
+      "KOREAN": "먼저 나와있었네요? ",
+      "ENGLISH": "You’re already out here?",
+      "CHINESE_SIMPLIFIED": "原来你已经先出来啦?",
+      "CHINESE_TRADITIONAL": "你已經先出來了啊?",
+      "JAPANESE": "もう先に出てたんですね?",
+      "INDONESIAN": "Kamu sudah ada di sini?",
+      "PORTUGUESE": "Ah, você já tava aí fora?",
+      "SPANISH": "Ah, ya estabas afuera?",
+      "PERSIAN": "شما قبلاً اینجا هستید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 46.7
+    },
+    "SCRIPT": {
+      "KOREAN": "수영 배워본 적 있어요?",
+      "ENGLISH": "Have you ever taken swim lessons before?",
+      "CHINESE_SIMPLIFIED": "以前学过游泳吗？",
+      "CHINESE_TRADITIONAL": "你有學過游泳嗎？",
+      "JAPANESE": "水泳 習ったことあります?",
+      "INDONESIAN": "Apakah Anda pernah mengikuti pelajaran berenang sebelumnya?",
+      "PORTUGUESE": "Você já aprendeu a nadar alguma vez?",
+      "SPANISH": "¿Has aprendido a nadar alguna vez?",
+      "PERSIAN": "قبلاً در کلاس های شنا شرکت کرده اید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 46.8,
+      "HIDE": 48.1
+    },
+    "SCRIPT": {
+      "KOREAN": "한번도 없어요 ",
+      "ENGLISH": "Not even once.",
+      "CHINESE_SIMPLIFIED": "从来没学过",
+      "CHINESE_TRADITIONAL": "一次都沒有",
+      "JAPANESE": "一度もないです",
+      "INDONESIAN": "Tidak sekalipun.",
+      "PORTUGUESE": "Nem uma única vez.",
+      "SPANISH": "Ni una sola.",
+      "PERSIAN": "نه حتی یکبار."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 48.2,
+      "HIDE": 50.2
+    },
+    "SCRIPT": {
+      "KOREAN": "음.. 근데 걱정 안 해도 돼요",
+      "ENGLISH": "Hmm... don’t worry about it.",
+      "CHINESE_SIMPLIFIED": "嗯...不过不用担心",
+      "CHINESE_TRADITIONAL": "嗯…不過不用擔心",
+      "JAPANESE": "ふむ…でも心配しなくて大丈夫です",
+      "INDONESIAN": "Hmm... jangan khawatir.",
+      "PORTUGUESE": "Hmm... não se preocupe.",
+      "SPANISH": "Hmm… no te preocupes.",
+      "PERSIAN": "هوم... نگرانش نباش."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 50.2,
+      "HIDE": 52.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 제가 확실히 알려드릴게요. ",
+      "ENGLISH": "I’ll make sure you learn today.",
+      "CHINESE_SIMPLIFIED": "今天我会好好教你的",
+      "CHINESE_TRADITIONAL": "今天我會好好教你的",
+      "JAPANESE": "今日は私がしっかり教えてあげますから",
+      "INDONESIAN": "Saya akan memastikan Anda belajar hari ini.",
+      "PORTUGUESE": "Hoje eu vou te ensinar a nadar passo a passo.",
+      "SPANISH": "Hoy te voy a enseñar paso a paso a nadar.",
+      "PERSIAN": "مطمئن میشم امروز یاد میگیری"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 74.0,
+      "HIDE": 74.5
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 오늘 미모 컨디션 다 최곤데! 표정이 왜 이렇게 안 좋아요.",
+      "ENGLISH": "No way, my looks are on point today! Why do you look so down?",
+      "CHINESE_SIMPLIFIED": "今天明明状态这么好，表情怎么这么差呢",
+      "CHINESE_TRADITIONAL": "今天明明狀態那麼好，為什麼表情這麼差呢？",
+      "JAPANESE": "いや、今日ビジュアルもコンディションも完璧なのに、なんでそんな顔してるんですか？",
+      "INDONESIAN": "Lho hari ini cantiknya udah maksimal banget! Tapi kenapa mukanya kayak nggak happy gitu",
+      "PORTUGUESE": "Não, hoje você tá no seu melhor momento! Por que essa carinha tão séria?",
+      "SPANISH": "¡No, hoy estás en tu mejor momento! ¿Por qué tienes esa cara tan seria?",
+      "PERSIAN": "به هیچ وجه، قیافه‌ام امروز خیلی خوب شده! چرا اینقدر خودتو پایین انداختی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 막 괜찮다가도 무대 올라갈 생각하니깐",
+      "ENGLISH": "Ah, I was fine just now, but thinking about going on stage...",
+      "CHINESE_SIMPLIFIED": "啊，本来还好好的，一想到要上台",
+      "CHINESE_TRADITIONAL": "啊，本來都還好好的，一想到要上台",
+      "JAPANESE": "なんか、平気だったのにステージ上がると思ったら",
+      "INDONESIAN": "Tadi sih oke-oke aja, tapi pas kepikiran mau naik panggung",
+      "PORTUGUESE": "É que eu tava bem, mas quando pensei em subir no palco...",
+      "SPANISH": "Es que estaba bien, pero al pensar en subir al escenario...",
+      "PERSIAN": "آه، الان حالم خوب بود، اما به رفتن روی صحنه فکر می‌کنم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": " 갑자기 너무 떨려서..",
+      "ENGLISH": "Suddenly I'm shaking so much...",
+      "CHINESE_SIMPLIFIED": "突然就特别紧张",
+      "CHINESE_TRADITIONAL": "就突然變得好緊張",
+      "JAPANESE": "急に緊張してきて…",
+      "INDONESIAN": "Tiba-tiba deg-degannya parah banget...",
+      "PORTUGUESE": "de repente fiquei muito nervosa...",
+      "SPANISH": "de pronto me puse muy nerviosa...",
+      "PERSIAN": "ناگهان دلم به شدت لرزید..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "충분히 그럴 수 있죠! ",
+      "ENGLISH": "Totally understandable!",
+      "CHINESE_SIMPLIFIED": "这很正常啊！",
+      "CHINESE_TRADITIONAL": "這很正常的！",
+      "JAPANESE": "それは当然ですよ！",
+      "INDONESIAN": "Ya wajar banget sih!",
+      "PORTUGUESE": "Isso é completamente normal.",
+      "SPANISH": "Es completamente normal.",
+      "PERSIAN": "کاملاً قابل فهم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 긴장을 좀 풀어드려야 될 거 같은데...",
+      "ENGLISH": "Ah, I think I need to help you relax a bit...",
+      "CHINESE_SIMPLIFIED": "看来得帮你放松一下了",
+      "CHINESE_TRADITIONAL": "好吧，看來要幫你放鬆一下了",
+      "JAPANESE": "よし、少しリラックスさせてあげないとですね…",
+      "INDONESIAN": "Kayaknya aku harus bantuin bikin kamu lebih nyantai nih...",
+      "PORTUGUESE": "Ah, acho que eu tenho que te ajudar a relaxar um pouco...",
+      "SPANISH": "Ah, creo que tengo que ayudarte a relajarte un poco...",
+      "PERSIAN": "آه، فکر کنم باید کمکت کنم یه کم آروم بشی..."
+    }
+  }
+]

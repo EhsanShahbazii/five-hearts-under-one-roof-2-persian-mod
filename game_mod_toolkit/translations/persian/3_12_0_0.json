@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 이거 어떡해요..생각보다 빡센데요..?",
+      "ENGLISH": "Ugh, what do we do... This is way more intense than I thought...",
+      "CHINESE_SIMPLIFIED": "这可怎么办啊...比想象中难搞啊...？",
+      "CHINESE_TRADITIONAL": "嗬...怎麼辦...比想像中還要難搞...？",
+      "JAPANESE": "これ、どうします？ 思ったよりヤバいですよ…？",
+      "INDONESIAN": "Ugh, gimana nih... Ini jauh lebih parah dari yang aku kira...",
+      "PORTUGUESE": "Ah... o que vamos fazer...? Isso está mais difícil do que eu pensava...",
+      "SPANISH": "Ah... ¿qué vamos a hacer...? Esto está más difícil de lo que pensaba...",
+      "PERSIAN": "اوه، چیکار کنیم... این خیلی شدیدتر از اون چیزیه که فکر میکردم..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 아무래도 집 밖으로 나가는 건 어려울 거 같아요...",
+      "ENGLISH": "Oppa, I don’t think we’re gonna make it out the front door...",
+      "CHINESE_SIMPLIFIED": "哥哥，看来从正门出去是不太可能了...",
+      "CHINESE_TRADITIONAL": "哥哥，我看要從家裡出去好像很難了...",
+      "JAPANESE": "お兄さん、多分もう外に出るのは無理そうです…",
+      "INDONESIAN": "Oppa, kayaknya kita nggak bakal bisa keluar lewat pintu depan...",
+      "PORTUGUESE": "Oppa, acho que vai ser impossível sair da casa...",
+      "SPANISH": "Oppa, creo que va a ser imposible salir de la casa...",
+      "PERSIAN": "یومان، فکر نمی‌کنم از جلوی در بیرون بیاییم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하...어떡하지...",
+      "ENGLISH": "Ugh... now what...",
+      "CHINESE_SIMPLIFIED": "啊...怎么办才好...",
+      "CHINESE_TRADITIONAL": "唉...怎麼辦...",
+      "JAPANESE": "あぁ…どうしよう…",
+      "INDONESIAN": "Ugh... terus gimana sekarang...",
+      "PORTUGUESE": "Ah... o que eu faço...?",
+      "SPANISH": "Ah... ¿qué hago...?",
+      "PERSIAN": "اوه ... حالا چی ..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하...",
+      "ENGLISH": "sigh",
+      "CHINESE_SIMPLIFIED": "唉...",
+      "CHINESE_TRADITIONAL": "哈...",
+      "JAPANESE": "は…",
+      "INDONESIAN": "hela napas",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "آه"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 아! 아래층에 문이 있으니깐 ",
+      "ENGLISH": "Ah! There’s a door downstairs—",
+      "CHINESE_SIMPLIFIED": "啊！楼下也有后门",
+      "CHINESE_TRADITIONAL": "啊！樓下還有後門",
+      "JAPANESE": "あっ！ 下の階にもドアがあるから",
+      "INDONESIAN": "Ah! Ada pintu di bawah—",
+      "PORTUGUESE": "Ah! Tem uma porta no andar de baixo!",
+      "SPANISH": "¡Ah! ¡Hay una puerta en el piso de abajo!",
+      "PERSIAN": "آه! در طبقه پایین وجود دارد -"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "거기로 나가면 될 거 같아요!",
+      "ENGLISH": "We can go out that way!",
+      "CHINESE_SIMPLIFIED": "从那里出去应该没问题！",
+      "CHINESE_TRADITIONAL": "從那邊出去應該就行了！",
+      "JAPANESE": "そこから出ればいいはず！",
+      "INDONESIAN": "Kita bisa keluar lewat sana!",
+      "PORTUGUESE": "Podemos sair por ali!",
+      "SPANISH": "¡Podemos salir por ahí!",
+      "PERSIAN": "ما می توانیم از این راه بیرون برویم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어~ 아래층에도 문이 있었죠?",
+      "ENGLISH": "Oh, right! There is a door down there!",
+      "CHINESE_SIMPLIFIED": "哦~楼下也有门啊？",
+      "CHINESE_TRADITIONAL": "啊～樓下也有門啊？",
+      "JAPANESE": "あ〜、下の階にもドアありましたよね？",
+      "INDONESIAN": "Oh, iya! Emang ada pintu di bawah!",
+      "PORTUGUESE": "Oh~ Tinha uma porta lá embaixo, né?",
+      "SPANISH": "Oh~ ¿Había una puerta abajo, cierto?",
+      "PERSIAN": "اوه، درست است! اون پایین یه در هست!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 와요!",
+      "ENGLISH": "Come on, hurry!",
+      "CHINESE_SIMPLIFIED": "快过来！",
+      "CHINESE_TRADITIONAL": "快來！",
+      "JAPANESE": "早く来てください！",
+      "INDONESIAN": "Cepet, buruan!",
+      "PORTUGUESE": "Rápido, vem!",
+      "SPANISH": "¡Rápido, ven!",
+      "PERSIAN": "بیا، عجله کن!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "응!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好！",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "باشه!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "헉!",
+      "ENGLISH": "gasp",
+      "CHINESE_SIMPLIFIED": "嗬！",
+      "CHINESE_TRADITIONAL": "嚇！",
+      "JAPANESE": "っ…！",
+      "INDONESIAN": "gasp",
+      "PORTUGUESE": "Ah!",
+      "SPANISH": "¡Ah!",
+      "PERSIAN": "نفس کشیدن"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 어? 박민정이다!\n- 아 들켰다..",
+      "ENGLISH": "— Huh? That’s Park Min-jung!\n— Crap, they saw us...",
+      "CHINESE_SIMPLIFIED": "-诶？是朴敏静！\n-糟了！",
+      "CHINESE_TRADITIONAL": "-欸！是樸敏靜！\n-啊！被發現了...",
+      "JAPANESE": "-あ！パク・ミンジョンだ！\n-あ ばれた…",
+      "INDONESIAN": "— Hah? Itu Park Min-jung!\n— Sial, mereka lihat kita...",
+      "PORTUGUESE": "—Hã? É a Minjung Park!\n—Ah, nos descobriram...",
+      "SPANISH": "—¡Eh? ¡Es Minjung Park!\n—Ah, nos descubrieron…",
+      "PERSIAN": "- ها؟ این پارک مین‌جونگ است! - لعنتی، ما را دیدند..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 26.4
+    },
+    "SCRIPT": {
+      "KOREAN": "- 어? 박민정이다!\n- 빨리 가요!",
+      "ENGLISH": "— Huh? That’s Park Min-jung!\n— Hurry, go!!",
+      "CHINESE_SIMPLIFIED": "-诶？是朴敏静！\n-快跑！",
+      "CHINESE_TRADITIONAL": "-欸！是樸敏靜！\n-快點走！",
+      "JAPANESE": "-あ！パク・ミンジョンだ！\n-早く行きましょう！",
+      "INDONESIAN": "— Hah? Itu Park Min-jung!\n— Cepat, lari!!",
+      "PORTUGUESE": "—Hã? É a Minjung Park!\n—Rápido, vamos embora!",
+      "SPANISH": "—¡Eh? ¡Es Minjung Park!\n—¡Rápido, vámonos!",
+      "PERSIAN": "- ها؟ این پارک مین‌جونگ است! - عجله کن برو!!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "#$@$@!!",
+      "ENGLISH": "#$@$@!!",
+      "CHINESE_SIMPLIFIED": "#$@$@！！",
+      "CHINESE_TRADITIONAL": "#$@$@!!",
+      "JAPANESE": "＃＄＠＄＠！！",
+      "INDONESIAN": "#$@$@!!",
+      "PORTUGUESE": "#$@$@!!",
+      "SPANISH": "#$@$@!!",
+      "PERSIAN": "#$@$@!!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "야!! 박민정!",
+      "ENGLISH": "Hey!! Park Min-jung!!",
+      "CHINESE_SIMPLIFIED": "喂！！朴敏静！",
+      "CHINESE_TRADITIONAL": "喂！樸敏靜",
+      "JAPANESE": "おい！！ パク・ミンジョン！！",
+      "INDONESIAN": "Hey!! Park Min-jung!!",
+      "PORTUGUESE": "Ei!! Minjung Park!",
+      "SPANISH": "¡Hey!! ¡Minjung Park!",
+      "PERSIAN": "سلام!! پارک مین‌جونگ!!"
+    }
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "你没事吧？",
+      "CHINESE_TRADITIONAL": "你沒事吧？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Tá tudo bem?",
+      "SPANISH": "¿Está bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저번 부터 기침 하시는 거 같은데",
+      "ENGLISH": "You’ve been coughing since last time.",
+      "CHINESE_SIMPLIFIED": "之前就听你有点咳嗽",
+      "CHINESE_TRADITIONAL": "從上次開始就好像聽到你在咳嗽",
+      "JAPANESE": "この前から咳してましたけど…",
+      "INDONESIAN": "Dari kemarin-kemarin kamu masih batuk terus.",
+      "PORTUGUESE": "Percebi que faz um tempo que você anda tossindo.",
+      "SPANISH": "He notado que desde hace un tiempo tienes tos.",
+      "PERSIAN": "از دفعه قبل سرفه کردی"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요.",
+      "ENGLISH": "I’m fine.",
+      "CHINESE_SIMPLIFIED": "没事的...",
+      "CHINESE_TRADITIONAL": "我沒事...",
+      "JAPANESE": "大丈夫です",
+      "INDONESIAN": "Aku nggak apa-apa kok.",
+      "PORTUGUESE": "Tô bem.",
+      "SPANISH": "Estoy bien.",
+      "PERSIAN": "من خوبم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 무슨 일 있어요?",
+      "ENGLISH": "…Is something wrong?",
+      "CHINESE_SIMPLIFIED": "是遇到什么事了吗？",
+      "CHINESE_TRADITIONAL": "難道發生了什麼事嗎？",
+      "JAPANESE": "何かあったんですか？",
+      "INDONESIAN": "…Ada yang salah, ya?",
+      "PORTUGUESE": "Aconteceu alguma coisa?",
+      "SPANISH": "¿Pasa algo?",
+      "PERSIAN": "... چیزی اشتباه است؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "별일 아니에요...",
+      "ENGLISH": "It’s nothing serious…",
+      "CHINESE_SIMPLIFIED": "没什么大事...",
+      "CHINESE_TRADITIONAL": "沒什麼大不了的事...",
+      "JAPANESE": "たいしたことじゃないです…",
+      "INDONESIAN": "Nggak serius kok…",
+      "PORTUGUESE": "Não é nada…",
+      "SPANISH": "No es nada…",
+      "PERSIAN": "چیز جدی نیست…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "별일 아닌데 그렇게 울어요?",
+      "ENGLISH": "You’re crying like that, and you call it nothing?",
+      "CHINESE_SIMPLIFIED": "没什么大事你还哭成这样？",
+      "CHINESE_TRADITIONAL": "沒什麼大事你還哭成這樣？",
+      "JAPANESE": "たいしたことないのに、そんなに泣くんですか？",
+      "INDONESIAN": "Kamu nangis kayak gitu dan bilang “nggak serius”?",
+      "PORTUGUESE": "Não acho que você esteja chorando por “nada”…",
+      "SPANISH": "No creo que esté llorando por \"nada\"…",
+      "PERSIAN": "اینطوری گریه میکنی و بهش میگی هیچی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 일인데요. 나한테 얘기하면 좀 편해지지 않을까요?",
+      "ENGLISH": "What is it? If you tell me, maybe it’ll feel a little lighter.",
+      "CHINESE_SIMPLIFIED": "到底怎么了，跟我说说会不会好受点？",
+      "CHINESE_TRADITIONAL": "到底怎麼了呢？跟我說的話，會不會輕鬆一點呢？",
+      "JAPANESE": "何があったんですか。僕に話せば少しは楽になるかもしれませんよ？",
+      "INDONESIAN": "Ceritain deh. Siapa tahu jadi sedikit lebih lega.",
+      "PORTUGUESE": "O que foi? Se me contar, talvez se sinta um pouco melhor.",
+      "SPANISH": "¿Qué ocurre? Si me lo cuenta, quizá se sienta un poco mejor.",
+      "PERSIAN": "چیه؟ اگر به من بگویید، شاید کمی سبک تر شود."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "일 때문에 그래요? 아니면 누가 막 괴롭혀요?",
+      "ENGLISH": "Is it because of work? Or is someone bothering you?",
+      "CHINESE_SIMPLIFIED": "是因为工作吗？还是有人欺负你？",
+      "CHINESE_TRADITIONAL": "是因為工作嗎？還是有人欺負你？",
+      "JAPANESE": "仕事のせいですか？それとも誰かに嫌なこと言われたとか？",
+      "INDONESIAN": "Karena kerjaan? Atau ada yang gangguin kamu?",
+      "PORTUGUESE": "É por causa do trabalho? Ou alguém tá te incomodando?",
+      "SPANISH": "¿Es por el trabajo? ¿O alguien la está molestando?",
+      "PERSIAN": "به خاطر کار است؟ یا کسی شما را اذیت می کند؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 일이 힘들어서요.",
+      "ENGLISH": "It’s just… work has been really hard.",
+      "CHINESE_SIMPLIFIED": "就是工作太累了...",
+      "CHINESE_TRADITIONAL": "就是工作太累了...",
+      "JAPANESE": "ただ、仕事がきつくて…",
+      "INDONESIAN": "Soalnya… kerjaan lagi berat banget.",
+      "PORTUGUESE": "É só que… o trabalho tem sido muito pesado pra mim.",
+      "SPANISH": "Es solo que… el trabajo se me ha hecho muy pesado.",
+      "PERSIAN": "فقط... کار واقعاً سخت بوده است."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 30.9,
+      "HIDE": 33.2
+    },
+    "SCRIPT": {
+      "KOREAN": "버티면 괜찮아 지겠지 했는데 ",
+      "ENGLISH": "I thought if I just held on, it would get better —",
+      "CHINESE_SIMPLIFIED": "本来想着坚持一下总会好的",
+      "CHINESE_TRADITIONAL": "本來想說撐過去就會沒事的",
+      "JAPANESE": "耐えればよくなると思ってたんですけど",
+      "INDONESIAN": "Aku pikir kalau aku tahan aja, lama-lama bakal membaik —",
+      "PORTUGUESE": "Achei que, se eu aguentasse firme, tudo ia melhorar,",
+      "SPANISH": "Pensé que si aguantaba, todo mejoraría,",
+      "PERSIAN": "فکر می‌کردم اگر فقط نگه دارم، بهتر می‌شه -"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 33.9,
+      "HIDE": 36.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그게... 잘 안 되네요...",
+      "ENGLISH": "but… it’s not working out that way…",
+      "CHINESE_SIMPLIFIED": "但好像...不太顺利...",
+      "CHINESE_TRADITIONAL": "但好像...不太順利...",
+      "JAPANESE": "それが…うまくいかなくて…",
+      "INDONESIAN": "tapi… ternyata nggak semudah itu…",
+      "PORTUGUESE": "mas… não tá dando certo.",
+      "SPANISH": "pero… no está resultando.",
+      "PERSIAN": "اما ... اینطوری کار نمی کند ..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 39.9,
+      "HIDE": 42.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 민망하다!",
+      "ENGLISH": "Ah! This is embarrassing!",
+      "CHINESE_SIMPLIFIED": "啊！好丢脸！",
+      "CHINESE_TRADITIONAL": "啊！好丟臉！",
+      "JAPANESE": "あぁ、恥ずかしい…！",
+      "INDONESIAN": "Ah! Malu banget!",
+      "PORTUGUESE": "Ai, que vergonha!",
+      "SPANISH": "¡Ay, qué vergüenza!",
+      "PERSIAN": "آه! این شرم آور است!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 43.4,
+      "HIDE": 45.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우는 모습이나 보여주고",
+      "ENGLISH": "Showing you myself like this, crying…",
+      "CHINESE_SIMPLIFIED": "还让你看到我哭成这样",
+      "CHINESE_TRADITIONAL": "讓你看到我哭成這樣",
+      "JAPANESE": "泣いてるところ見せちゃって…",
+      "INDONESIAN": "Nunjukin sisi aku yang kayak gini ke kamu, sambil nangis…",
+      "PORTUGUESE": "Com essa cara…",
+      "SPANISH": "Yo con esta cara…",
+      "PERSIAN": "خودمو اینجوری بهت نشون میدم گریه میکنم…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 47.3,
+      "HIDE": 49.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 모습 안 보여주고 싶었는데...",
+      "ENGLISH": "I didn’t want you to see me like this…",
+      "CHINESE_SIMPLIFIED": "本来最不想让你看到这种狼狈相的...",
+      "CHINESE_TRADITIONAL": "我本來不想讓你看見我這樣的一面...",
+      "JAPANESE": "こんな姿、見せたくなかったのに…",
+      "INDONESIAN": "Aku nggak pengin kamu liat aku dalam keadaan begini…",
+      "PORTUGUESE": "Eu não queria que você me visse assim…",
+      "SPANISH": "No quería que me viera así…",
+      "PERSIAN": "نمیخواستم منو اینجوری ببینی…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 50.0,
+      "HIDE": 52.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 나한테도 안 보여주면 어떻게 버티려고 그랬어요.",
+      "ENGLISH": "If you don’t even show me, then how were you planning to endure it alone?",
+      "CHINESE_SIMPLIFIED": "你连我都要瞒着的话，一个人怎么扛得住啊",
+      "CHINESE_TRADITIONAL": "你連我都隱瞞著的話，一個人怎麼扛得住呢？",
+      "JAPANESE": "いや、僕にまで見せなかったらどうやって耐えるつもりだったんですか",
+      "INDONESIAN": "Kalau kamu nggak nunjukin ke aku, emangnya kamu niat nahan semua itu sendirian?",
+      "PORTUGUESE": "Mas se eu não tivesse te encontrado, você ia aguentar tudo sozinha?",
+      "SPANISH": "Pero si no la hubiera encontrado, ¿pensaba aguantar sola?",
+      "PERSIAN": "اگر حتی به من نشان نمی‌دهی، پس چگونه می‌خواستی اونو به تنهایی تحمل کنی؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 52.9,
+      "HIDE": 56.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 딱 걸렸으니까 내가 스트레스 제대로 풀어줄게요.",
+      "ENGLISH": "Since I caught you today, I’m going to help you relieve that stress properly.",
+      "CHINESE_SIMPLIFIED": "今天既然被我撞见了，就让我好好帮你解压吧",
+      "CHINESE_TRADITIONAL": "今天既然被我看見了，我就幫妳好好地消除壓力吧",
+      "JAPANESE": "今日はもう見つけちゃったんですから、僕がストレス発散させてあげます",
+      "INDONESIAN": "Karena aku keburu nangkep kamu hari ini, aku bakal bantu kamu ngeluarin semua stres itu.",
+      "PORTUGUESE": "Agora que eu sei, vou te ajudar a se sentir melhor.",
+      "SPANISH": "Ya que me enteré, lavoy a ayudar a sentirse mejor.",
+      "PERSIAN": "از آنجایی که امروز شما را گرفتم، به شما کمک خواهم کرد که این استرس را به درستی از بین ببرید."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 56.7,
+      "HIDE": 60.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이 스트레스는 누르고 있는 것보다 확 터트려야 제맛이거든요?",
+      "ENGLISH": "Stress like this— it feels best when you don’t bottle it up, but explode it out.",
+      "CHINESE_SIMPLIFIED": "压力这种东西，憋着不如彻底发泄出来才痛快，懂吗？",
+      "CHINESE_TRADITIONAL": "壓力這種東西，比起一直壓抑，還不如徹底發洩出來才痛快",
+      "JAPANESE": "ストレスは、押し殺すより思いっきり爆発させた方がスッキリするんですよ？",
+      "INDONESIAN": "Stres yang kayak gini—paling enak dikeluarin, bukan dipendem.",
+      "PORTUGUESE": "Esse tipo de coisa não se guarda, tem que colocar pra fora.",
+      "SPANISH": "Este tipo de cosas no se reprimen, se sueltan.",
+      "PERSIAN": "اینگونه استرس – زمانی که اونو در بطری نگذارید، اما اونو منفجر کنید، بهترین احساس را دارد."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 61.9,
+      "HIDE": 63.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게요?",
+      "ENGLISH": "So… how do you want to do this?",
+      "CHINESE_SIMPLIFIED": "那该怎么办呢？",
+      "CHINESE_TRADITIONAL": "要怎麼做呢？",
+      "JAPANESE": "どうやって？",
+      "INDONESIAN": "Jadi… kamu mau ngelakuinnya gimana?",
+      "PORTUGUESE": "Então… o que você quer fazer?",
+      "SPANISH": "Entonces… ¿qué quiere hacer?",
+      "PERSIAN": "بنابراین ... چگونه می خواهید این کار را انجام دهید؟"
+    }
+  }
+]

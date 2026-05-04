@@ -1,0 +1,253 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "쌤! 고말숙 춤춰요~",
+      "ENGLISH": "Teacher! Go Mal‑sook, dance~",
+      "CHINESE_SIMPLIFIED": "老师！高末淑在跳舞～",
+      "CHINESE_TRADITIONAL": "老師！高末淑在跳舞～",
+      "JAPANESE": "先生！コ・マルスクが踊ってます〜！",
+      "INDONESIAN": "Pak guru! Go Mal-sook, joget dong~",
+      "PORTUGUESE": "Profe! A Malsook tá dançando~!",
+      "SPANISH": "¡Profe! ¡Malsook está bailando~!",
+      "PERSIAN": "معلم! برو مال‌سوک، برقص"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야 우유만이 너 뭔 소릴 하는 겨 어?",
+      "ENGLISH": "Hey, Yuman, what are you even saying?",
+      "CHINESE_SIMPLIFIED": "喂，吴宥万，你在胡说什么呢？",
+      "CHINESE_TRADITIONAL": "喂！吳宥萬你在說什麼？",
+      "JAPANESE": "おい ウ・ユマン お前何言ってんだ？",
+      "INDONESIAN": "Eh, Yuman, kamu ngomong apaan sih?",
+      "PORTUGUESE": "Ei, o que você tá dizendo?",
+      "SPANISH": "Oye, ¿qué estás diciendo?",
+      "PERSIAN": "هی، یومان، اصلاً چه می گویی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã...?",
+      "SPANISH": "¿Eh...?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오케이 이거 맞았어",
+      "ENGLISH": "Okay, got it right.",
+      "CHINESE_SIMPLIFIED": "OK，这题做对了",
+      "CHINESE_TRADITIONAL": "OK，這個答對了",
+      "JAPANESE": "オーケー そうか",
+      "INDONESIAN": "Oke, bener.",
+      "PORTUGUESE": "Bom, tudo bem, isso tá certo.",
+      "SPANISH": "Bueno, está bien, eso está correcto.",
+      "PERSIAN": "باشه درست فهمیدم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 얘 뭐야...",
+      "ENGLISH": "What’s with her…",
+      "CHINESE_SIMPLIFIED": "她搞什么啊...",
+      "CHINESE_TRADITIONAL": "這傢伙搞什麼...",
+      "JAPANESE": "なにこいつ…なんだよ…",
+      "INDONESIAN": "Dia kenapa sih…",
+      "PORTUGUESE": "Mas o que tá acontecendo com você...?",
+      "SPANISH": "¿Pero que le pasa...?",
+      "PERSIAN": "چه ربطی بهش داره…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "야 우리 말숙이 고3 들어가 가지고 맘 잡고 공부 열심히 하고 있는디",
+      "ENGLISH": "Hey, our Mal‑sook just started her senior year and she’s supposed to be focusing and studying hard…",
+      "CHINESE_SIMPLIFIED": "我们末淑上高三了，好不容易静下心来认真学习",
+      "CHINESE_TRADITIONAL": "末淑已經高三，下定決心努力學習呢",
+      "JAPANESE": "おい マルスクは高3になってから心を入れ替えて勉強頑張ってんのに",
+      "INDONESIAN": "Heh Mal-sook kita ini baru mulai kelas 3, harusnya fokus belajar yang bener dong…",
+      "PORTUGUESE": "Ei, Malsook, você já tá no último ano e focada nos estudos...",
+      "SPANISH": "Oye, Malsook ya estás en último año y concentrada estudiando...",
+      "PERSIAN": "هی، مال‌سوک ما به تازگی سال آخرش را شروع کرده و قرار است تمرکز کند و سخت درس بخواند…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 이거 책도 안 가져왔네?",
+      "ENGLISH": "And she didn’t even bring her book?",
+      "CHINESE_SIMPLIFIED": "结果你连书都没带啊？",
+      "CHINESE_TRADITIONAL": "但是末淑連書都沒有帶耶？",
+      "JAPANESE": "お前 教科書も持ってきてないじゃないか？",
+      "INDONESIAN": "Tapi buku aja nggak bawa?",
+      "PORTUGUESE": "Você ao menos trouxe seus livros?",
+      "SPANISH": "¿Tú siquiera trajiste tus libros?",
+      "PERSIAN": "و حتی کتابش را هم نیاورد؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네??",
+      "ENGLISH": "Huh??",
+      "CHINESE_SIMPLIFIED": "什么？？",
+      "CHINESE_TRADITIONAL": "嗯？？",
+      "JAPANESE": "はい？？",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Hã??",
+      "SPANISH": "¿Eh??",
+      "PERSIAN": "ها؟؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨...",
+      "ENGLISH": "Ugh…",
+      "CHINESE_SIMPLIFIED": "阿西...",
+      "CHINESE_TRADITIONAL": "哇靠...",
+      "JAPANESE": "チッ…",
+      "INDONESIAN": "Ugh…",
+      "PORTUGUESE": "Ah, droga...",
+      "SPANISH": "Ah, maldición...",
+      "PERSIAN": "اوه…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야...",
+      "ENGLISH": "What the heck…",
+      "CHINESE_SIMPLIFIED": "搞什么...",
+      "CHINESE_TRADITIONAL": "搞什麼啊...",
+      "JAPANESE": "なんだよ…",
+      "INDONESIAN": "Apaan sih ini…",
+      "PORTUGUESE": "O que é isso...?",
+      "SPANISH": "¿Qué es esto...?",
+      "PERSIAN": "چه لعنتی…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 29.5
+    },
+    "SCRIPT": {
+      "KOREAN": "일루와...일루와...",
+      "ENGLISH": "Come on… come on…",
+      "CHINESE_SIMPLIFIED": "过来...过来...",
+      "CHINESE_TRADITIONAL": "過來...過來...",
+      "JAPANESE": "こっち来い…こっち来い…",
+      "INDONESIAN": "Ayo dong… ayo dong…",
+      "PORTUGUESE": "Vem cá... vem cá...",
+      "SPANISH": "Ven acá... ven acá...",
+      "PERSIAN": "بیا… بیا…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 아주 씨...",
+      "ENGLISH": "This is just… ugh…",
+      "CHINESE_SIMPLIFIED": "这家伙真是...",
+      "CHINESE_TRADITIONAL": "這傢伙真的是...",
+      "JAPANESE": "こいつほんとに…チッ",
+      "INDONESIAN": "Ini tuh… ugh…",
+      "PORTUGUESE": "Seu moleque...",
+      "SPANISH": "Este mocoso...",
+      "PERSIAN": "این فقط… اوه…"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 31.9
+    },
+    "SCRIPT": {
+      "KOREAN": "일루와 일루와",
+      "ENGLISH": "Come on, come on!",
+      "CHINESE_SIMPLIFIED": "过来，过来！",
+      "CHINESE_TRADITIONAL": "過來，你給我過來",
+      "JAPANESE": "こっち来い 早く出てこい",
+      "INDONESIAN": "Ayo dong, cepetan!",
+      "PORTUGUESE": "Vem cá, tô mandando.",
+      "SPANISH": "Ven acá, te digo.",
+      "PERSIAN": "بیا، بیا!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.9,
+      "HIDE": 33.9
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 안나와?",
+      "ENGLISH": "Why isn’t she coming out already?",
+      "CHINESE_SIMPLIFIED": "还不快出来？！",
+      "CHINESE_TRADITIONAL": "還不趕快過來嗎？",
+      "INDONESIAN": "Kenapa sih dia nggak keluar-keluar juga?",
+      "PORTUGUESE": "Não vai sair?!",
+      "SPANISH": "¡¿No vas a salir?!",
+      "PERSIAN": "چرا او قبلاً بیرون نمی آید؟"
+    }
+  }
+]

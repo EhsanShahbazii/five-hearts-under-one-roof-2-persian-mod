@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아!!! 지금 누구 똥개 훈련 시키는 거 아니냐고!",
+      "ENGLISH": "Ah!!! What is this, training a dog or something?!",
+      "CHINESE_SIMPLIFIED": "啊！！你这是把我当狗一样使唤吗！",
+      "CHINESE_TRADITIONAL": "啊！你現在是把我當狗耍嗎！",
+      "JAPANESE": "あーーーっ！！！今俺に、犬のしつけでもしてんのか！？",
+      "INDONESIAN": "Ah!!! Kamu pikir aku lagi dilatih kayak anjing apa gimana sih!?",
+      "PORTUGUESE": "Ah!!! O que é isso, treinamento de cachorro ou algo assim?!",
+      "SPANISH": "¡Aaaah!!! ¿¡Acaso cree que puede darme órdenes!?",
+      "PERSIAN": "آخه مگه سگ تربیت می‌کنین که این اداها رو درمیارین?!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 뭐야?",
+      "ENGLISH": "What the hell is this?",
+      "CHINESE_SIMPLIFIED": "怎么回事...",
+      "CHINESE_TRADITIONAL": "怎麼回事...",
+      "JAPANESE": "何なんだよ！？",
+      "INDONESIAN": "Ini apaan coba!?",
+      "PORTUGUESE": "Que diabos é isso?",
+      "SPANISH": "¿Qué está pasando?",
+      "PERSIAN": "این مسخره‌بازیا چیه دیگه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "주류 구매는 신분증 실물이 필요해요...",
+      "ENGLISH": "We need to see a physical ID for alcohol purchases.",
+      "CHINESE_SIMPLIFIED": "您需要出示身份证原件...",
+      "CHINESE_TRADITIONAL": "請您出示身分證正本...",
+      "JAPANESE": "お酒を購入するには、身分証の現物が必要です…。",
+      "INDONESIAN": "Kalau mau beli minuman beralkohol, harus nunjukin KTP asli ya...",
+      "PORTUGUESE": "A gente precisa ver uma identidade física pra venda de álcool.",
+      "SPANISH": "Para comprar alcohol necesita mostrar su ID…",
+      "PERSIAN": "برای خرید نوشیدنی باید حتماً اصل کارت ملی‌تون همراهتون باشه..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 원래 그냥 줬었다고!",
+      "ENGLISH": "No, you guys never used to ask before!",
+      "CHINESE_SIMPLIFIED": "我不是给过了吗！",
+      "CHINESE_TRADITIONAL": "之前不是給你看過了嗎！",
+      "JAPANESE": "はぁ！？ 前は普通に売ってたじゃんか！",
+      "INDONESIAN": "Lho, biasanya kan langsung dikasih aja!",
+      "PORTUGUESE": "Não, vocês nunca pediam isso antes!",
+      "SPANISH": "¡Pero si antes me lo vendían sin problema!",
+      "PERSIAN": "قبلاً که بدون این قرتی‌بازیا کار راه می‌انداختین!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 아줌마 때문에 민증 가지러 갔다와야겠어? 어!?",
+      "ENGLISH": "Now I gotta run all the way back for my ID because of you, ma’am? Huh?!",
+      "CHINESE_SIMPLIFIED": "我现在因为你还得专门回去拿身份证吗？嗯？？",
+      "CHINESE_TRADITIONAL": "現在因為你，我還要再跑一趟去拿我的身分證嗎？嗯？？",
+      "JAPANESE": "俺がおばさんに見せにわざわざ身分証取りに帰らなきゃなんのか！？ あぁ！？",
+      "INDONESIAN": "Masa aku harus balik lagi cuma gara-gara Ibu ini minta KTP!? Hah!?",
+      "PORTUGUESE": "Agora eu tenho que voltar correndo até em casa pra pegar meu RG por sua causa, senhora? Hein?!",
+      "SPANISH": "¿¡Tengo que volver a casa solo por el maldito ID por culpa de usted!?",
+      "PERSIAN": "الان یعنی من به خاطر شما باید این همه راه بکوبم برم کارت ملی بیارم؟! هان?!"
+    }
+  }
+]

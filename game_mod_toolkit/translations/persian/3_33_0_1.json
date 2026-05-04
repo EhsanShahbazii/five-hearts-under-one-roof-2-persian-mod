@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "참아요!!!",
+      "ENGLISH": "Hang in there!!!",
+      "CHINESE_SIMPLIFIED": "给我忍住!!!",
+      "CHINESE_TRADITIONAL": "忍住！！！",
+      "JAPANESE": "我慢して！！",
+      "INDONESIAN": "Tahan dulu ya!!!",
+      "PORTUGUESE": "Aguenta firme!",
+      "SPANISH": "¡Aguántese!",
+      "PERSIAN": "در آنجا بمانید!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "- 하아..\n- 휴...",
+      "ENGLISH": "— Haa...\n— Phew...",
+      "CHINESE_SIMPLIFIED": "-哈啊...\n-呼...",
+      "CHINESE_TRADITIONAL": "—哈啊…\n—呼…",
+      "JAPANESE": "‐はぁ…\n‐ふぅ…",
+      "INDONESIAN": "— Haa...\n— Huhh...",
+      "PORTUGUESE": "—Haa...\n—Uff...",
+      "SPANISH": "—Haa...\n—Uff...",
+      "PERSIAN": "- هاا... -فو..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "다행이...",
+      "ENGLISH": "Thank goodness...",
+      "CHINESE_SIMPLIFIED": "幸好...",
+      "CHINESE_TRADITIONAL": "還好…",
+      "JAPANESE": "よかっ…",
+      "INDONESIAN": "Syukurlah...",
+      "PORTUGUESE": "Ainda bem...",
+      "SPANISH": "Menos mal...",
+      "PERSIAN": "خداروشکر..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에취!!!!",
+      "ENGLISH": "Achoo!!!",
+      "CHINESE_SIMPLIFIED": "阿嚏！！！",
+      "CHINESE_TRADITIONAL": "哈啾！！！！！",
+      "JAPANESE": "ハックション！！！",
+      "INDONESIAN": "Achoo!!!",
+      "PORTUGUESE": "Aatchim!",
+      "SPANISH": "¡Aachís!",
+      "PERSIAN": "آچو !!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 이게 무슨 상황이죠?",
+      "ENGLISH": "Can someone please explain what’s going on here?",
+      "CHINESE_SIMPLIFIED": "现在这到底是什么情况？",
+      "CHINESE_TRADITIONAL": "現在這是什麼情況？",
+      "JAPANESE": "今これは一体どういう状況ですか？",
+      "INDONESIAN": "Bisa tolong jelasin nggak, ini semua maksudnya apa?",
+      "PORTUGUESE": "Alguém pode me explicar o que tá acontecendo aqui?",
+      "SPANISH": "¿Alguien me explica qué está pasando aquí?",
+      "PERSIAN": "میشه لطفا یکی توضیح بده اینجا چه خبره؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 27.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저를 납득시켜야 할 이유가 있어야 할 겁니다.",
+      "ENGLISH": "I’m gonna need a pretty convincing reason for all of this.",
+      "CHINESE_SIMPLIFIED": "你最好给我个能接受的理由",
+      "CHINESE_TRADITIONAL": "你最好給我一個能說服我的理由",
+      "JAPANESE": "納得できる理由を聞かせてもらわないといけませんね",
+      "INDONESIAN": "Aku butuh alasan yang bener-bener masuk akal buat semua ini.",
+      "PORTUGUESE": "É melhor terem uma boa razão pra me convencer.",
+      "SPANISH": "Más vale que tengan una buena razón para convencerme.",
+      "PERSIAN": "من برای همه اینا به یک دلیل قانع کننده نیاز دارم."
+    }
+  }
+]

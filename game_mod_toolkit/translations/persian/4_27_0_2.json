@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님, 앞에 손을 한번 짚어주시고",
+      "ENGLISH": "Manager, place your hands on the front for support.",
+      "CHINESE_SIMPLIFIED": "科长，请先把双手撑在前面",
+      "CHINESE_TRADITIONAL": "課長，你把手往前撐一下",
+      "JAPANESE": "課長、前に手をついてください",
+      "INDONESIAN": "Manajer, coba tangannya di depan di depan buat penyangga.",
+      "PORTUGUESE": "Chefe, apoie as mãos à frente, por favor.",
+      "SPANISH": "Jefa, apoye las manos al frente, por favor.",
+      "PERSIAN": "مدیر، دست های خود را برای حمایت در جلو قرار دهید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네~",
+      "ENGLISH": "Okay~",
+      "CHINESE_SIMPLIFIED": "好~",
+      "CHINESE_TRADITIONAL": "好～",
+      "JAPANESE": "は〜い",
+      "INDONESIAN": "Oke~",
+      "PORTUGUESE": "Sim~",
+      "SPANISH": "Sí~",
+      "PERSIAN": "باشه~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "엉덩이 근육을 느끼면서 한번 해볼게요",
+      "ENGLISH": "Now, focus on feeling your glute muscles as you do it.",
+      "CHINESE_SIMPLIFIED": "现在感受臀部发力，我们开始做",
+      "CHINESE_TRADITIONAL": "感受一下，用你的臀部肌肉來做這個動作",
+      "JAPANESE": "お尻の筋肉を感じながらいきましょう",
+      "INDONESIAN": "Sekarang, fokusin gerakannya biar otot bokongnya terasa.",
+      "PORTUGUESE": "Agora concentre-se nos músculos dos glúteos e vamos começar.",
+      "SPANISH": "Ahora concéntrese en los músculos de los glúteos y empecemos.",
+      "PERSIAN": "اکنون، در حین انجام این کار، روی احساس عضلات سرینی خود تمرکز کنید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하나~",
+      "ENGLISH": "One~",
+      "CHINESE_SIMPLIFIED": "一~",
+      "CHINESE_TRADITIONAL": "一～ ",
+      "JAPANESE": "いち〜",
+      "INDONESIAN": "Satu~",
+      "PORTUGUESE": "Um~",
+      "SPANISH": "Uno~",
+      "PERSIAN": "یک ~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "둘~",
+      "ENGLISH": "Two~",
+      "CHINESE_SIMPLIFIED": "二~",
+      "CHINESE_TRADITIONAL": "二～ ",
+      "JAPANESE": "に〜",
+      "INDONESIAN": "Dua~",
+      "PORTUGUESE": "Dois~",
+      "SPANISH": "Dos~",
+      "PERSIAN": "دو ~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요~",
+      "ENGLISH": "Perfect~",
+      "CHINESE_SIMPLIFIED": "很好~",
+      "CHINESE_TRADITIONAL": "很棒～",
+      "JAPANESE": "いいですね〜",
+      "INDONESIAN": "Pas banget~",
+      "PORTUGUESE": "Muito bem~",
+      "SPANISH": "Muy bien~",
+      "PERSIAN": "عالی~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 제대로 봐주고 있는 거 맞아?",
+      "ENGLISH": "Yuman, you’re watching closely, right?",
+      "CHINESE_SIMPLIFIED": "吴宥万，你确定有在认真指导我吗？",
+      "CHINESE_TRADITIONAL": "宥萬你真的有好好在教我嗎？",
+      "JAPANESE": "ユマンさんちゃんと見てる？",
+      "INDONESIAN": "Yuman, kamu perhatiin baik-baik, kan?",
+      "PORTUGUESE": "Yuman, tem certeza de que está me ajudando?",
+      "SPANISH": "¿Yumán, seguro que estás ayudándome?",
+      "PERSIAN": "یومان، شما از نزدیک تماشا می کنید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네 맞는데요?",
+      "ENGLISH": "Yes, I am.",
+      "CHINESE_SIMPLIFIED": "是的，当然有啊",
+      "CHINESE_TRADITIONAL": "有啊～？",
+      "JAPANESE": "はい、見てますけど？",
+      "INDONESIAN": "Iya, aku perhatiin.",
+      "PORTUGUESE": "Claro que sim.",
+      "SPANISH": "Claro que sí.",
+      "PERSIAN": "بله، من هستم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 이만할래 가자.",
+      "ENGLISH": "Alright, that’s enough for today. Let’s call it a day.",
+      "CHINESE_SIMPLIFIED": "今天先练到这儿吧，走吧",
+      "CHINESE_TRADITIONAL": "今天就到這裡吧，回去吧",
+      "JAPANESE": "今日はもうここまで  帰ろう",
+      "INDONESIAN": "Oke deh, cukup untuk hari ini. Kita sudahi aja ya.",
+      "PORTUGUESE": "Por hoje acho que já é o suficiente. Vamos.",
+      "SPANISH": "Por hoy creo que ya es suficiente. Vámonos.",
+      "PERSIAN": "خوب، برای امروز کافی است. بگذارید اونو یک روز بنامیم."
+    }
+  }
+]

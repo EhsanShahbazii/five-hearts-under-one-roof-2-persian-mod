@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 1.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 한 번만...",
+      "ENGLISH": "Just one more... please.",
+      "CHINESE_SIMPLIFIED": "啊，就一次嘛...",
+      "CHINESE_TRADITIONAL": "啊～就一下下嘛…",
+      "JAPANESE": "ねえ、もう一回だけ…",
+      "INDONESIAN": "Ah, sekali aja...",
+      "PORTUGUESE": "Ah, só mais uma vez...",
+      "SPANISH": "Ay, solo una vez...",
+      "PERSIAN": "فقط یه دونه دیگه... تو رو خدا."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아까도 한 번만 이러면서 들이밀었잖아... ",
+      "ENGLISH": "You said that last time—",
+      "CHINESE_SIMPLIFIED": "你刚才也说什么就一次，结果又塞过来…",
+      "CHINESE_TRADITIONAL": "剛剛也是說再一次，然後硬塞過來的吧…",
+      "JAPANESE": "さっきも“もう一回だけ”って言って押しつけてきたじゃないか…",
+      "INDONESIAN": "Tadi juga bilang “sekali aja” terus maksa...",
+      "PORTUGUESE": "Você também disse “só mais uma” antes e enfiou de novo...",
+      "SPANISH": "Ya dijiste “solo una vez” hace rato cuando me la acercaste...",
+      "PERSIAN": "دفعه قبلم همینو گفتی چپوندی تو حلقم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "심지어 아까보다 더 커졌잖아. 안 돼.",
+      "ENGLISH": "And now it’s even bigger! No way.",
+      "CHINESE_SIMPLIFIED": "而且现在的比刚才还大，不行！",
+      "CHINESE_TRADITIONAL": "而且現在比剛才還要大耶，不行啦！",
+      "JAPANESE": "しかもさっきより大きくなってるじゃない。ダメよ",
+      "INDONESIAN": "Sekarang malah lebih gede dari tadi. Nggak bisa.",
+      "PORTUGUESE": "E pior, agora está ainda maior. Não dá.",
+      "SPANISH": "¡Y ahora está más grande que antes! No quiero.",
+      "PERSIAN": "تازه این از قبلی هم گنده‌تره! عمراً راه نداره."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭘 안 돼~ 왜~",
+      "ENGLISH": "Aww, come on~",
+      "CHINESE_SIMPLIFIED": "哎呀，为什么啊~",
+      "CHINESE_TRADITIONAL": "啊，有什麼不行～為什麼～",
+      "JAPANESE": "えー、なんでダメなの〜？",
+      "INDONESIAN": "Ah, kenapa sih nggak boleh~ kenapaa~",
+      "PORTUGUESE": "Ah, por quê~",
+      "SPANISH": "¡Ay, por qué no~!",
+      "PERSIAN": "لوس نشو دیگه، مگه چی میشه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "턱 아프단 말이야! ",
+      "ENGLISH": "My jaw’s seriously starting to hurt!",
+      "CHINESE_SIMPLIFIED": "下巴都要酸死了！",
+      "CHINESE_TRADITIONAL": "下巴很痛耶！",
+      "JAPANESE": "あごが痛いの！",
+      "INDONESIAN": "Rahangku sakit, tahu!",
+      "PORTUGUESE": "Minha mandíbula está doendo!",
+      "SPANISH": "¡Me duele la boca!",
+      "PERSIAN": "آخه فکم قفل کرد از درد!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "맛도 좀 이상하고...",
+      "ENGLISH": "And the taste is kinda weird...",
+      "CHINESE_SIMPLIFIED": "味道也怪怪的…",
+      "CHINESE_TRADITIONAL": "味道也怪怪的…",
+      "JAPANESE": "それにちょっと味も変だし…",
+      "INDONESIAN": "Rasanya juga agak aneh...",
+      "PORTUGUESE": "E o gosto também está meio estranho...",
+      "SPANISH": "Y encima el sabor es medio raro...",
+      "PERSIAN": "مزش هم انگار یه جوریه..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 이 사람들이!!",
+      "ENGLISH": "What the heck, you two?!",
+      "CHINESE_SIMPLIFIED": "哎呀你们两个！！",
+      "CHINESE_TRADITIONAL": "啊！你們這些人！！",
+      "JAPANESE": "ああ、まったくこの人たち！！",
+      "INDONESIAN": "Eh, kalian ini!!",
+      "PORTUGUESE": "Ah, mas olha só vocês dois!!",
+      "SPANISH": "¡Pero bueno, esta gente!",
+      "PERSIAN": "خجالت بکشین! وسط بیمارستان این مسخره‌بازیا چیه؟!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "바나나 맛이 뭐가 이상해! 맛있기만 하구만.",
+      "ENGLISH": "Banana flavor isn’t weird—it’s delicious!",
+      "CHINESE_SIMPLIFIED": "香蕉味哪里奇怪啦？明明超好吃的好吧！",
+      "CHINESE_TRADITIONAL": "香蕉口味有什麼奇怪的！明明就很好吃",
+      "JAPANESE": "バナナの味のどこが変だって？美味しいだけじゃないか",
+      "INDONESIAN": "Apa yang aneh dari rasa pisang? Enak banget malah!",
+      "PORTUGUESE": "O que tem de estranho no gosto da banana? Tá deliciosa!",
+      "SPANISH": "¡¿Cómo va saber raro una banana?! ¡Si está muy rica!",
+      "PERSIAN": "کجای مزه موز عجیبه آخه؟! به این خوشمزگی!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 오빠가 먹어. ",
+      "ENGLISH": "Then you eat it all, oppa.",
+      "CHINESE_SIMPLIFIED": "那就哥哥你多吃点吧",
+      "CHINESE_TRADITIONAL": "那哥你自己吃吧",
+      "JAPANESE": "じゃあオッパが食べてよ。",
+      "INDONESIAN": "Kalau gitu, oppa aja yang makan.",
+      "PORTUGUESE": "Então come bastante, você.",
+      "SPANISH": "Entonces cómetela tú.",
+      "PERSIAN": "خب اگه راست میگی خودت همه‌شو قورت بده داداش!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이걸 내가 어떻게 한입에...",
+      "ENGLISH": "How am I supposed to—",
+      "CHINESE_SIMPLIFIED": "这玩意我怎么可能一口吞下去...",
+      "CHINESE_TRADITIONAL": "這麼大一個我怎麼可能一口塞下…",
+      "JAPANESE": "こんなの私がどうやって一口で…",
+      "INDONESIAN": "Aku mana bisa masukin ini satu gigitan...",
+      "PORTUGUESE": "Como é que eu vou conseguir...",
+      "SPANISH": "¿Cómo me voy a comer esto de un bocado...?",
+      "PERSIAN": "آخه چطوری یهویی همه‌شو بکنم توی دهنـ..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐예요?",
+      "ENGLISH": "What the...?",
+      "CHINESE_SIMPLIFIED": "干嘛啊？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "何ですか？",
+      "INDONESIAN": "Ada apa ini?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué quiere?",
+      "PERSIAN": "اینجا چه خبره؟!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 죄송합니다...",
+      "ENGLISH": "I’m so sorry...",
+      "CHINESE_SIMPLIFIED": "啊，对不起…",
+      "CHINESE_TRADITIONAL": "啊，抱歉…",
+      "JAPANESE": "あ、すみませんでした…",
+      "INDONESIAN": "Ah, maaf...",
+      "PORTUGUESE": "Ah, desculpa...",
+      "SPANISH": "Ah, disculpe...",
+      "PERSIAN": "وای ببخشید... سوءتفاهم شد..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 28.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야. 아 빨리 나가세요!",
+      "ENGLISH": "Seriously?! Get out!!",
+      "CHINESE_SIMPLIFIED": "什么嘛，请你出去好吗！",
+      "CHINESE_TRADITIONAL": "搞什麼啊。啊快點出去啦！",
+      "JAPANESE": "なに！早く出て行ってください！",
+      "INDONESIAN": "Apa sih ini... Tolong cepat keluar!",
+      "PORTUGUESE": "Mas o que é isso? Ah, sai daqui!",
+      "SPANISH": "¿Pero qué le pasa? ¡Salga de aquí!",
+      "PERSIAN": "برو بیرون آقا! گمشو بیرون درم ببند!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "앗, 아...",
+      "ENGLISH": "Ack—",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊，等、等一下…",
+      "JAPANESE": "あっ、ああ…",
+      "INDONESIAN": "Ah, eh...",
+      "PORTUGUESE": "Ei, ah...",
+      "SPANISH": "¡Ah…!",
+      "PERSIAN": "آخ! چشم..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 34.1
+    },
+    "SCRIPT": {
+      "KOREAN": "바나나를 던지고 그러세요..",
+      "ENGLISH": "Don’t throw bananas!!",
+      "CHINESE_SIMPLIFIED": "别乱扔香蕉啊你！！",
+      "CHINESE_TRADITIONAL": "你幹嘛亂丟香蕉啦！！",
+      "JAPANESE": "バナナ投げないでくださいよ…",
+      "INDONESIAN": "Jangan main lempar-lempar pisang dong...",
+      "PORTUGUESE": "Não precisa jogar a banana em mim...",
+      "SPANISH": "¿Pero por qué me tira una banana?",
+      "PERSIAN": "موز پرت نکنین وحشیا!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 36.1
+    },
+    "SCRIPT": {
+      "KOREAN": "나가라고! 닫으라구요! 확 증말...",
+      "ENGLISH": "Close the door! Come on!",
+      "CHINESE_SIMPLIFIED": "我让你出去啦！门给我关上！真是的…",
+      "CHINESE_TRADITIONAL": "叫你出去啦！把門關上啦！真是的…",
+      "JAPANESE": "出て行ってください！ちゃんと閉めてください！まったく…",
+      "INDONESIAN": "Tolong tutup pintunya! Ya ampun...",
+      "PORTUGUESE": "Eu disse pra fechar a porta! Poxa...",
+      "SPANISH": "¡Ya le dije que se vaya!",
+      "PERSIAN": "گفتم درو ببند بدو! رو اعصاب راه نرو..."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 38.4
+    },
+    "SCRIPT": {
+      "KOREAN": "닫으라구요.",
+      "ENGLISH": "I said close it!!",
+      "CHINESE_SIMPLIFIED": "关门啦",
+      "CHINESE_TRADITIONAL": "關門啦",
+      "JAPANESE": "閉めてくださいよ",
+      "INDONESIAN": "Aku bilang tutup pintunya.",
+      "PORTUGUESE": "Pra fechar a porta.",
+      "SPANISH": "¡Cierre la cortina!",
+      "PERSIAN": "درو ببند گفتم!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 38.5,
+      "HIDE": 39.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "Sure.",
+      "CHINESE_SIMPLIFIED": "好",
+      "CHINESE_TRADITIONAL": "喔",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Baik.",
+      "PORTUGUESE": "Tá bom.",
+      "SPANISH": "Está bien...",
+      "PERSIAN": "باشه بابا، بستم."
+    }
+  }
+]

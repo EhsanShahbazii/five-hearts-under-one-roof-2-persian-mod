@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "시간이 없는데...",
+      "ENGLISH": "There’s no time…",
+      "CHINESE_SIMPLIFIED": "时间不够了…",
+      "CHINESE_TRADITIONAL": "時間不夠了...",
+      "JAPANESE": "時間がないのに…",
+      "INDONESIAN": "Nggak ada waktu…",
+      "PORTUGUESE": "Não tem tempo...",
+      "SPANISH": "No hay tiempo...",
+      "PERSIAN": "وقت نیست…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 유나 님 회사로 가려면 어디로 가야 되지?",
+      "ENGLISH": "Ah, which way do I go to get to Yu-na’s company?",
+      "CHINESE_SIMPLIFIED": "啊，要去有娜的公司该往哪走？",
+      "CHINESE_TRADITIONAL": "啊，要去有娜的公司往哪裡走呢？",
+      "JAPANESE": "あ、ユナさんの会社に行くには、どこに行けばいいんだ？",
+      "INDONESIAN": "Ah, jalan yang mana ya ke kantornya Yu-na?",
+      "PORTUGUESE": "Ah, onde fica a empresa da Yuna?",
+      "SPANISH": "Ah, ¿Dónde queda la empresa de Yuna?",
+      "PERSIAN": "آه، برای رسیدن به شرکت یونا از کدام راه بروم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어...?",
+      "ENGLISH": "Huh…?",
+      "CHINESE_SIMPLIFIED": "呃…？",
+      "CHINESE_TRADITIONAL": "呃...？",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "Hah…?",
+      "PORTUGUESE": "Hã...?",
+      "SPANISH": "¿Eh...?",
+      "PERSIAN": "ها…؟"
+    }
+  }
+]

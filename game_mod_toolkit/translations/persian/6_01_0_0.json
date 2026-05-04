@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 저희 진짜 여기서 놀아도 되는 거예요?",
+      "ENGLISH": "Wait, are we really allowed to have fun here?",
+      "CHINESE_SIMPLIFIED": "不过，我们真的可以在这里玩吗？",
+      "CHINESE_TRADITIONAL": "不過，我們真的可以在這裡玩嗎？",
+      "JAPANESE": "でも本当にここで遊んでいいんですか？",
+      "INDONESIAN": "Seriusan kita boleh senang-senang di sini?",
+      "PORTUGUESE": "Sério que a gente tem permissão pra estar aqui?",
+      "SPANISH": "¿En serio tenemos permitido estar aquí?",
+      "PERSIAN": "صبر کنید، واقعاً اجازه داریم اینجا خوش بگذرانیم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 재밌겠다 ",
+      "ENGLISH": "This is gonna be so fun!",
+      "CHINESE_SIMPLIFIED": "一定会很好玩的！",
+      "CHINESE_TRADITIONAL": "應該會很有趣吧",
+      "JAPANESE": "めっちゃ楽しそう",
+      "INDONESIAN": "Ini bakal seru banget!",
+      "PORTUGUESE": "Vai ser muito divertido.",
+      "SPANISH": "Va a ser muy divertido.",
+      "PERSIAN": "این خیلی سرگرم کننده می‌شه!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 진짜 예쁜데요?",
+      "ENGLISH": "This place is so pretty.",
+      "CHINESE_SIMPLIFIED": "这里真的好漂亮啊～",
+      "CHINESE_TRADITIONAL": "這裡真的很漂亮耶？",
+      "JAPANESE": "ここ本当にきれいですね",
+      "INDONESIAN": "Tempat ini cantik banget.",
+      "PORTUGUESE": "Esse lugar é lindo.",
+      "SPANISH": "Este lugar es hermoso.",
+      "PERSIAN": "این مکان خیلی زیباست"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "얼른 들어가요!",
+      "ENGLISH": "Come on, let’s go in already!",
+      "CHINESE_SIMPLIFIED": "快进去吧！",
+      "CHINESE_TRADITIONAL": "快點過去吧！",
+      "JAPANESE": "早く中入ろ！",
+      "INDONESIAN": "Ayo dong, masuk yuk!",
+      "PORTUGUESE": "Vamos entrar logo!",
+      "SPANISH": "¡Entremos ya!",
+      "PERSIAN": "بیا، بیایید وارد شویم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "가자!",
+      "ENGLISH": "Let’s go!",
+      "CHINESE_SIMPLIFIED": "走啦！",
+      "CHINESE_TRADITIONAL": "走吧！",
+      "JAPANESE": "行こ！",
+      "INDONESIAN": "Ayo kita masuk!",
+      "PORTUGUESE": "Vamos!",
+      "SPANISH": "¡Vamos!",
+      "PERSIAN": "برویم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하늘도 진짜 너무 이쁘다 ",
+      "ENGLISH": "Even the sky looks amazing today.",
+      "CHINESE_SIMPLIFIED": "天空也太美了吧～",
+      "CHINESE_TRADITIONAL": "天空也太美了吧",
+      "JAPANESE": "空もめっちゃきれい",
+      "INDONESIAN": "Bahkan langitnya aja keliatan keren hari ini.",
+      "PORTUGUESE": "O céu tá tão bonito.",
+      "SPANISH": "El cielo se ve tan bonito.",
+      "PERSIAN": "حتی آسمون امروز شگفت انگیز به نظر می رسد."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 만큼은 편하게 놀까? ",
+      "ENGLISH": "How about we just relax and enjoy the day?",
+      "CHINESE_SIMPLIFIED": "今天就放松玩个痛快吧？",
+      "CHINESE_TRADITIONAL": "今天我們就輕鬆地玩吧？",
+      "JAPANESE": "今日くらいは思いっきり遊ぼっか？",
+      "INDONESIAN": "Gimana kalau kita santai aja dan nikmatin harinya?",
+      "PORTUGUESE": "E se a gente só relaxar hoje?",
+      "SPANISH": "¿Y si hoy simplemente nos relajamos?",
+      "PERSIAN": "چطور در مورد ما فقط استراحت و لذت بردن از روز؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 들어가자 뭐해",
+      "ENGLISH": "What are you doing? Hurry up, let’s go inside!",
+      "CHINESE_SIMPLIFIED": "快点进去啊，磨蹭什么呢",
+      "CHINESE_TRADITIONAL": "在幹嘛？還不快點進去",
+      "JAPANESE": "早く入ろうよ 何してるの",
+      "INDONESIAN": "Kamu ngapain sih? Cepetan, ayo masuk!",
+      "PORTUGUESE": "Entra rápido! O que você tá esperando?",
+      "SPANISH": "¡Entra rápido! ¿qué esperas?",
+      "PERSIAN": "چیکار میکنی؟ عجله کن بریم داخل"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "우와! 저기 봐!",
+      "ENGLISH": "Whoa, look over there!",
+      "CHINESE_SIMPLIFIED": "哇！快看那边！",
+      "CHINESE_TRADITIONAL": "嗚哇！快看那邊！",
+      "JAPANESE": "うわ！あそこ見て！",
+      "INDONESIAN": "Eh, lihat deh ke sana!",
+      "PORTUGUESE": "Uau! Olha isso!",
+      "SPANISH": "¡Wow! ¡Mira eso!",
+      "PERSIAN": "اوه، اونجا رو نگاه کن"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 우와!!\n- 우와!",
+      "ENGLISH": "- Whoa!! \n- Whoa!",
+      "CHINESE_SIMPLIFIED": "-哇！！\n-哇！！",
+      "CHINESE_TRADITIONAL": "-嗚哇！！\n-嗚哇！",
+      "JAPANESE": "‐うわ〜！！\n‐うわ〜！",
+      "INDONESIAN": "- Wah!! \n- Wahh!",
+      "PORTUGUESE": "- Uau!\n- Uau!",
+      "SPANISH": "- ¡Wow!\n- ¡Wow!",
+      "PERSIAN": "- اوه!! - اوه!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 예뻐!",
+      "ENGLISH": "It’s so beautiful!",
+      "CHINESE_SIMPLIFIED": "太美了！",
+      "CHINESE_TRADITIONAL": "太美了吧！",
+      "JAPANESE": "すっごくきれい！",
+      "INDONESIAN": "Indah banget!",
+      "PORTUGUESE": "É maravilhoso!",
+      "SPANISH": "¡Es precioso!",
+      "PERSIAN": "خیلی زیباست"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "좋은데?",
+      "ENGLISH": "This place is nice.",
+      "CHINESE_SIMPLIFIED": "不错呢？",
+      "CHINESE_TRADITIONAL": "不錯耶？",
+      "JAPANESE": "いい感じじゃん？",
+      "INDONESIAN": "Tempat ini enak banget.",
+      "PORTUGUESE": "Eu gosto desse lugar.",
+      "SPANISH": "Me gusta este lugar.",
+      "PERSIAN": "این مکان خوب است."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 32.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠! 토끼인가 봐요! 짱 귀엽다...",
+      "ENGLISH": "Oppa! I think that’s a bunny! It’s so cute...",
+      "CHINESE_SIMPLIFIED": "哥哥！这好像是只兔子！超可爱的...",
+      "CHINESE_TRADITIONAL": "哥哥你看！好像是兔子耶！超級可愛...",
+      "JAPANESE": "先輩！あれウサギですよ！めっちゃ可愛い…",
+      "INDONESIAN": "Oppa! Kayaknya itu kelinci deh! Lucu banget...",
+      "PORTUGUESE": "Ei, oppa! Acho que vi um coelho! Ele era tão fofo!",
+      "SPANISH": "¡Oye, oppa! ¡Creo que vi un conejo! ¡Era muy tierno!",
+      "PERSIAN": "یومان! من فکر می کنم این یک خرگوش است! خیلی نازه..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 36.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 여기 좋다 누가 예약했어?",
+      "ENGLISH": "Oh wow, this place is great. Who booked it?",
+      "CHINESE_SIMPLIFIED": "哦~这里真不错，是谁订的呀？",
+      "CHINESE_TRADITIONAL": "哇～ 這裡超棒，誰訂的啊？",
+      "JAPANESE": "お〜ここいいね 誰が予約したの？",
+      "INDONESIAN": "Wah, tempat ini keren ya. Siapa yang booking?",
+      "PORTUGUESE": "Oh~ esse lugar é incrível. Quem encontrou ele?",
+      "SPANISH": "Oh~ este lugar es genial. ¿Quién lo encontró?",
+      "PERSIAN": "اوه وای، این مکان عالی است. چه کسی اونو رزرو کرده است؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 40.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이따 요리해 줄까? 뭐 좋아해?",
+      "ENGLISH": "Want me to cook for you later? What do you like?",
+      "CHINESE_SIMPLIFIED": "等会儿我来做饭怎么样？你喜欢吃什么？",
+      "CHINESE_TRADITIONAL": "等一下要做飯嗎？喜歡吃什麼？",
+      "JAPANESE": "あとで料理しようか？何食べたい？",
+      "INDONESIAN": "Mau aku masakin nanti? Kamu suka apa?",
+      "PORTUGUESE": "Quer que eu prepare algo pra você comer? Do que você gosta?",
+      "SPANISH": "¿Quieres que te prepare algo de comer? ¿Qué te gusta?",
+      "PERSIAN": "میخوای بعدا برات آشپزی کنم؟ چه چیزی را دوست دارید؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 48.4,
+      "HIDE": 51.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 좀 있다 이거 가지고 놀면 되겠다, 그쵸? ",
+      "ENGLISH": "We can play with this later, right?",
+      "CHINESE_SIMPLIFIED": "我们待会可以拿这个游泳圈来玩呢！对吧？",
+      "CHINESE_TRADITIONAL": "我們等一下可以玩這個，對吧？",
+      "JAPANESE": "これ後で使って遊んだらよさそう？ね？",
+      "INDONESIAN": "Kita bisa mainin ini nanti kan?",
+      "PORTUGUESE": "A gente pode brincar com isso mais tarde, né?",
+      "SPANISH": "Podemos jugar con esto más tarde, ¿verdad?",
+      "PERSIAN": "بعدا می توانیم با این بازی کنیم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 54.4,
+      "HIDE": 58.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 이런 데 진짜 처음이에요. 재밌겠다!",
+      "ENGLISH": "I’ve never been to a place like this. It’s gonna be fun!",
+      "CHINESE_SIMPLIFIED": "我还是第一次来这种地方呢，肯定会很有趣！",
+      "CHINESE_TRADITIONAL": "我第一次來這種地方。一定很有趣！",
+      "JAPANESE": "こういうとこ初めてなんです すごい楽しみ！",
+      "INDONESIAN": "Aku belum pernah ke tempat kayak gini. Pasti seru!",
+      "PORTUGUESE": "É a primeira vez que venho num lugar assim. Que emoção.",
+      "SPANISH": "Es la primera vez que vengo a un sitio así. Qué emoción.",
+      "PERSIAN": "من هرگز به چنین جایی نرفته ام. سرگرم کننده می‌شه!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 62.2,
+      "HIDE": 64.2
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 오늘 여기서 바비큐 파티해요!",
+      "ENGLISH": "Let’s have a BBQ party right here!",
+      "CHINESE_SIMPLIFIED": "我们在这里办烧烤派对吧！",
+      "CHINESE_TRADITIONAL": "我們在這裡開烤肉派對吧！",
+      "JAPANESE": "ここでバーベキューパーティーしましょう！",
+      "INDONESIAN": "Ayo kita bikin pesta BBQ di sini aja!",
+      "PORTUGUESE": "Vamos fazer um churrasco!",
+      "SPANISH": "¡Hagamos una parrillada!",
+      "PERSIAN": "بیایید یک مهمانی باربیکیو درست کنیم!"
+    }
+  }
+]

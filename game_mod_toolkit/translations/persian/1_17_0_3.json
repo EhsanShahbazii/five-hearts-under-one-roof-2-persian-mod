@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우와, 한번 재볼까?",
+      "ENGLISH": "Should I check?",
+      "CHINESE_SIMPLIFIED": "要不来量量体温吧",
+      "CHINESE_TRADITIONAL": "哇，來量量看吧？",
+      "JAPANESE": "おお、ちょっと測ってみるか",
+      "INDONESIAN": "Boleh aku coba cek nggak?",
+      "PORTUGUESE": "Vamos medir uma vez?",
+      "SPANISH": "Guau, ¿será que lo pruebo?",
+      "PERSIAN": "اووف... بذارم ببینم صدای قلبم میاد؟"
+    }
+  }
+]

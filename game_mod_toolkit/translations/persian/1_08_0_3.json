@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "드세요!",
+      "ENGLISH": "Here—eat.",
+      "CHINESE_SIMPLIFIED": "吃吧！",
+      "CHINESE_TRADITIONAL": "吃吧！",
+      "JAPANESE": "食べてください！",
+      "INDONESIAN": "Makan ya!",
+      "PORTUGUESE": "Coma!",
+      "SPANISH": "¡Coma!",
+      "PERSIAN": "بیا، دهنتو وا کن بخور!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "줬다 뺏기 있어요?",
+      "ENGLISH": "Hey! You can’t just give it and take it back!",
+      "CHINESE_SIMPLIFIED": "给我了又要拿回去吗？",
+      "CHINESE_TRADITIONAL": "欸，怎麼還要收回去？",
+      "JAPANESE": "あげといて取り上げるなんてありですか？",
+      "INDONESIAN": "Masa udah dikasih, terus diambil lagi?",
+      "PORTUGUESE": "Vai me dar e depois tirar de volta?",
+      "SPANISH": "¿Está jugando conmigo?",
+      "PERSIAN": "عه! نامردی نکن دیگه، دادی بعد پس می‌گیری؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 먹여드릴게요.",
+      "ENGLISH": "Let me feed you.",
+      "CHINESE_SIMPLIFIED": "我来喂你吧",
+      "CHINESE_TRADITIONAL": "讓我餵你吧",
+      "JAPANESE": "私が食べさせてあげますね",
+      "INDONESIAN": "Biar aku yang nyuapin.",
+      "PORTUGUESE": "Eu alimento você.",
+      "SPANISH": "Yo se la doy.",
+      "PERSIAN": "خودم می‌خوام بذارم دهنت."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저 마사지해주시느라 고생하셨잖아요...",
+      "ENGLISH": "You worked hard giving me that massage...",
+      "CHINESE_SIMPLIFIED": "你刚才按摩那么辛苦…",
+      "CHINESE_TRADITIONAL": "你幫我按摩按得那麼辛苦了嘛…",
+      "JAPANESE": "マッサージしてくれて大変だったでしょう…",
+      "INDONESIAN": "Kamu kan udah capek mijetin aku tadi...",
+      "PORTUGUESE": "Você se esforçou bastante me dando a massagem...",
+      "SPANISH": "Es lo mínimo por el masaje que me dio...",
+      "PERSIAN": "انقدر پای من ماساژ دادی خسته شدی، دستات درد می‌کنه..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 괜찮은데!",
+      "ENGLISH": "Huh? I’m fine though.",
+      "CHINESE_SIMPLIFIED": "嗯？没关系！",
+      "CHINESE_TRADITIONAL": "咦？不用啦！",
+      "JAPANESE": "えっ？大丈夫です！",
+      "INDONESIAN": "Hah? Nggak usah juga nggak apa-apa kok!",
+      "PORTUGUESE": "Hã? Mas eu estou bem!",
+      "SPANISH": "¿Eh? ¡No se preocupe por eso!",
+      "PERSIAN": "چی؟ نه بابا من که خوبم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "쉿. 이것만은 내가 하게 해줘요.",
+      "ENGLISH": "Shh. Just let me do this one thing.",
+      "CHINESE_SIMPLIFIED": "嘘，就让我来吧",
+      "CHINESE_TRADITIONAL": "噓，至少這件事讓我來吧",
+      "JAPANESE": "しっ、これだけは私にやらせてください",
+      "INDONESIAN": "Ssst. Yang ini aja, tolong izinin aku.",
+      "PORTUGUESE": "Shhh. Pelo menos me deixe fazer isso.",
+      "SPANISH": "¡Shh! Déjeme hacer esto por usted.",
+      "PERSIAN": "هیس، بذار حداقل این یه کارو خودم برات انجام بدم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "으음~",
+      "ENGLISH": "Mmm~!",
+      "CHINESE_SIMPLIFIED": "嗯~",
+      "CHINESE_TRADITIONAL": "嗯嗯～",
+      "JAPANESE": "んん〜",
+      "INDONESIAN": "Mmm~",
+      "PORTUGUESE": "Humm~",
+      "SPANISH": "Mmm~",
+      "PERSIAN": "اوممم... چقدر چسبید!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 32.1,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "방 쌤! ~ 콜이요!",
+      "ENGLISH": "Nurse Bang! Call for you!",
+      "CHINESE_SIMPLIFIED": "方护士~叫你啦！",
+      "CHINESE_TRADITIONAL": "方護士～有電話！",
+      "JAPANESE": "バン先生！コールです！",
+      "INDONESIAN": "Perawat Bang! Ada panggilan!",
+      "PORTUGUESE": "Enfermeira Bang! É pra você!",
+      "SPANISH": "¡Enfermera Gyu-ri! ¡La llaman!",
+      "PERSIAN": "خانم بنگ! تلفن کارِت دارن بدو!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 33.9,
+      "HIDE": 34.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Coming!",
+      "CHINESE_SIMPLIFIED": "来了！",
+      "CHINESE_TRADITIONAL": "來了！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Ah, ya!",
+      "PORTUGUESE": "Ah, sim!",
+      "SPANISH": "¡Ya voy!",
+      "PERSIAN": "اومدم!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 38.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만님! 이따 선생님 진료 보셔야 되니까",
+      "ENGLISH": "Yuman, doctor check-up soon!",
+      "CHINESE_SIMPLIFIED": "对了，宥万先生！你等会儿还要看医生",
+      "CHINESE_TRADITIONAL": "啊對了，宥萬先生！等等你還要給醫生檢查",
+      "JAPANESE": "ユマンさん！あとで先生の診察を受けてもらわないといけないので、",
+      "INDONESIAN": "Yuman! Nanti kamu harus periksa sama dokter,",
+      "PORTUGUESE": "Sr. Yuman! Daqui a pouco o senhor tem consulta com o médico,",
+      "SPANISH": "Señor Yumán, como después tiene consulta con la doctora,",
+      "PERSIAN": "یومان! دکتر الان میاد معاینه‌ت کنه،"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 38.9,
+      "HIDE": 40.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 가지 마시고 꼭! 여기 계세요!",
+      "ENGLISH": "Don’t go anywhere, alright?",
+      "CHINESE_SIMPLIFIED": "所以千万别乱跑，要乖乖待在这里哦！",
+      "CHINESE_TRADITIONAL": "所以不要亂跑，一定要待在這裡喔！",
+      "JAPANESE": "どこにも行かずに必ずここにいてくださいね！",
+      "INDONESIAN": "jadi jangan ke mana-mana dan tetap di sini ya!",
+      "PORTUGUESE": "então, por favor, não vá a lugar nenhum e fique aqui!",
+      "SPANISH": "no se vaya a ningún lado y espere aquí.",
+      "PERSIAN": "اصلاً تکون نخور، همین‌جا باشیا!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 43.6,
+      "HIDE": 46.1
+    },
+    "SCRIPT": {
+      "KOREAN": "엄청 바쁘시네...",
+      "ENGLISH": "She’s really running all over today...",
+      "CHINESE_SIMPLIFIED": "真是忙得不可开交呢…",
+      "CHINESE_TRADITIONAL": "看起來真的很忙呢…",
+      "JAPANESE": "本当に忙しそうだな…",
+      "INDONESIAN": "Wah, dia sibuk banget ya...",
+      "PORTUGUESE": "Ela está realmente ocupada...",
+      "SPANISH": "Sí que está ocupada…",
+      "PERSIAN": "ماشالله یه ثانیه هم آروم و قرار نداره..."
+    }
+  }
+]

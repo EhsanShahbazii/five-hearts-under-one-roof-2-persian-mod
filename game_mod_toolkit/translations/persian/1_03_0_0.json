@@ -1,0 +1,314 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 아빠",
+      "ENGLISH": "Yuman’s dad...",
+      "PERSIAN": "پدر یومان..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 올해 출장 일정을 미뤄야 할까 봐.",
+      "ENGLISH": "I think we're going to have to postpone this year’s business trip.",
+      "PERSIAN": "انگار امسال باید سفر کاریتو عقب بندازی."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래야지.",
+      "ENGLISH": "Yeah, you should.",
+      "PERSIAN": "آره، همین کارو می‌کنم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이 녀석 이러고 있는데...",
+      "ENGLISH": "Not with him like this...",
+      "PERSIAN": "نمی‌تونم بچه‌مون رو تو این وضعیت ول کنم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마...",
+      "ENGLISH": "Mom...",
+      "PERSIAN": "مامان..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어머머! 유만아!",
+      "ENGLISH": "Oh my gosh! Yuman!",
+      "PERSIAN": "وای خدای من! یومان!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 아빠! 유만이 일어났어! ",
+      "ENGLISH": "Yuman’s Dad! He’s awake!",
+      "PERSIAN": "بابای یومان! بچه‌مون به هوش اومد!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유만아 엄마 알...알아보겠어? 어?",
+      "ENGLISH": "Yuman, can you... can you recognize me? Huh?",
+      "PERSIAN": "یومان، منو... منو می‌شناسی پسرم؟ ها؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너 다시 잠들면 안 돼!",
+      "ENGLISH": "Don’t fall asleep again, okay?!",
+      "PERSIAN": "نکنه دوباره چشماتو ببندی‌ها!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "- 눈 떠! 눈 떠!!\n- 아아 아..ㅇ..",
+      "ENGLISH": "—Open your eyes! Come on, keep them open!\n—Ahh... ah...",
+      "PERSIAN": "—چشماتو باز کن! زود باش، باز نگهشون دار! —آخ... آخ..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 눈 떠! 눈 떠!!\n- 아아 아..ㅇ..아파..",
+      "ENGLISH": "—Keep your eyes open! Stay with us!\n—Ahh... it... it hurts...",
+      "PERSIAN": "—چشماتو باز نگه دار! با ما بمون! —آخ... خیلی... خیلی درد می‌کنه..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 25.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 애 깨어나자마자 보내려고 그래? ",
+      "ENGLISH": "What, you’re trying to send him off the second he wakes up?",
+      "PERSIAN": "خانم چته، بچه تازه چشماشو باز کرده می‌خوای سکته‌ش بدی؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 27.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 이놈아 어디 정신이 좀 들어?",
+      "ENGLISH": "Hey, you brat, are you finally back with us?",
+      "PERSIAN": "کره‌خر، بالاخره به هوش اومدی؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너 엄마가 얼마나 걱정했는줄 알아?",
+      "ENGLISH": "Do you have any idea how worried your mom was?!",
+      "PERSIAN": "می‌دونی مادرت چقدر نگرانت بود؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "길 건널 때 조심해야 되는 거 알아, 몰라!! 어!!?",
+      "ENGLISH": "You know you’re supposed to be careful crossing the street, right?! Right?!",
+      "PERSIAN": "مگه نمی‌دونی موقع رد شدن از خیابون باید حواست باشه، هان؟! ها؟!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 36.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나 교통사고 당한 거야?",
+      "ENGLISH": "Wait... I was in an accident?",
+      "PERSIAN": "وایسا ببینم... من تصادف کردم؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 38.1
+    },
+    "SCRIPT": {
+      "KOREAN": "다리는 왜 이래?",
+      "ENGLISH": "What’s wrong with my leg...?",
+      "PERSIAN": "پام چرا اینجوری شده...؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 41.6
+    },
+    "SCRIPT": {
+      "KOREAN": "사..사고 때 기억이 전혀 없는데... ",
+      "ENGLISH": "I... I don’t remember anything about the crash...",
+      "PERSIAN": "من... من از تصادف هیچی یادم نمیاد..."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 41.6,
+      "HIDE": 42.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나 얼마나 누워있었어?",
+      "ENGLISH": "How long was I out...?",
+      "PERSIAN": "چند وقته بیهوش افتادم اینجا؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 42.8,
+      "HIDE": 46.1
+    },
+    "SCRIPT": {
+      "KOREAN": "야 이놈아, 너 반년은 꼬박 누워있었어!",
+      "ENGLISH": "You’ve been laid up for half a year, you idiot!",
+      "PERSIAN": "پسر، شش ماه تمام بیهوش افتاده بودی!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 46.1,
+      "HIDE": 47.2
+    },
+    "SCRIPT": {
+      "KOREAN": "반년?!",
+      "ENGLISH": "Half a year?!",
+      "PERSIAN": "شش ماه؟!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 47.2,
+      "HIDE": 49.2
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 반년이나 누워있었다고?",
+      "ENGLISH": "I’ve been in bed for six months?!",
+      "PERSIAN": "من شش ماهه تو کما بودم؟!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 49.2,
+      "HIDE": 52.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 하숙집 그 전단지 돌리러 나간 놈이",
+      "ENGLISH": "One minute you're out handing out flyers for the boarding house,",
+      "PERSIAN": "بچه رفته بود بیرون مثلاً برای پانسیون تراکت پخش کنه،"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 52.0,
+      "HIDE": 54.1
+    },
+    "SCRIPT": {
+      "KOREAN": "병원에서 전화 오니 아빠가 안 놀래?",
+      "ENGLISH": "Next thing I know, the hospital’s calling—think your dad wasn’t freaking out?!",
+      "PERSIAN": "یهو از بیمارستان زنگ زدن... فک کردی پدرت سکته نکرد؟!"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 55.0,
+      "HIDE": 56.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 일어난 게 어디야!",
+      "ENGLISH": "Still... what matters is you're awake.",
+      "PERSIAN": "با این همه، همین که به هوش اومدی خداروشکر."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 57.0,
+      "HIDE": 60.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 아들, 뭐 먹고 싶은 건 없고?",
+      "ENGLISH": "That’s right, son. Anything you feel like eating?",
+      "PERSIAN": "آره پسرم، چیزی دلت نمی‌خواد برات بیارم بخوری؟"
+    }
+  }
+]

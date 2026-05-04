@@ -1,0 +1,524 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.08,
+      "HIDE": 2.08
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요 여러분!",
+      "ENGLISH": "Hello everyone!",
+      "CHINESE_SIMPLIFIED": "大家好！",
+      "CHINESE_TRADITIONAL": "大家好！",
+      "JAPANESE": "皆さん、こんにちは！",
+      "INDONESIAN": "Halo semuanya!",
+      "PORTUGUESE": "Olá, pessoal!",
+      "SPANISH": "¡Hola a todos!",
+      "PERSIAN": "سلام به همه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.08,
+      "HIDE": 7.12
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 하전미1에 이어서 하전미2에도 등장하게 된 동그란 입니다",
+      "ENGLISH": "I’m Dong Geuran, appearing again in Don’t Fool Me, Beauties! 2 after season 1.",
+      "CHINESE_SIMPLIFIED": "我是继《阿西美女1》之后再次出演《阿西美女2》的佟圆圆！",
+      "CHINESE_TRADITIONAL": "我是繼《美女寄宿生1》之後再次出演《美女寄宿生2》的東圜。",
+      "JAPANESE": "『美人下宿生1』に続き、『美人下宿生2』にも登場するドングランです。",
+      "INDONESIAN": "Saya Dong Geuran, kembali muncul di Don’t Fool Me, Beauties! 2 setelah musim pertama.",
+      "PORTUGUESE": "Sou Dong Geuran, retornando em Don’t Fool Me, Beauties! 2 após a primeira temporada.",
+      "SPANISH": "Soy Dong Geuran, regresando en Don’t Fool Me, Beauties! 2 después de la primera temporada.",
+      "PERSIAN": "من دونگ گئوران هستم که دوباره در دان' احمق من, زیبارویان ظاهر می شوم! 2 بعد از فصل 1"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.22,
+      "HIDE": 13.17
+    },
+    "SCRIPT": {
+      "KOREAN": "동그란 과장은 시즌 1에 이어서 시즌 2에서도 계속해서 하숙집에서 생활을 하고 있고",
+      "ENGLISH": "Assistant Manager Dong Geuran continues living in the boarding house this season too,",
+      "CHINESE_SIMPLIFIED": "圆圆科长在第二季里依然继续住在合租公寓",
+      "CHINESE_TRADITIONAL": "東圜科長在第二季中繼續住在寄宿房裡，",
+      "JAPANESE": "ドングラン課長はシーズン2でも引き続き下宿先で生活しており、",
+      "INDONESIAN": "Asisten Manajer Dong Geuran masih tinggal di rumah kos pada musim kedua ini,",
+      "PORTUGUESE": "O gerente assistente Dong Geuran continua morando na pensão nesta nova temporada,",
+      "SPANISH": "El subgerente Dong Geuran sigue viviendo en la casa de huéspedes esta temporada,",
+      "PERSIAN": "دستیار مدیر دونگ گئوران در این فصل نیز به زندگی در پانسیون ادامه می دهد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.08,
+      "HIDE": 17.23
+    },
+    "SCRIPT": {
+      "KOREAN": "시즌 1과는 또 사뭇 다른 새로운 면모와 다양한 모습을",
+      "ENGLISH": "and you’ll see many new sides and different charms",
+      "CHINESE_SIMPLIFIED": "而且会展现出与第一季截然不同的全新面貌和各种多样的魅力",
+      "CHINESE_TRADITIONAL": "並展現出與第一季完全不同的新面貌與多樣魅力，",
+      "JAPANESE": "シーズン1とはまた違った新しい一面や多様な姿を",
+      "INDONESIAN": "dan akan menunjukkan sisi baru dan berbagai pesona yang berbeda,",
+      "PORTUGUESE": "mostrando lados e encantos diferentes do anterior,",
+      "SPANISH": "mostrando nuevos lados y diferentes encantos,",
+      "PERSIAN": "و بسیاری از جنبه های جدید و جذابیت های مختلف را خواهید دید"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.03,
+      "HIDE": 23.17
+    },
+    "SCRIPT": {
+      "KOREAN": "시즌 2에서 만나보실 수 있으니까 재밌게 많이 많이 플레이해 주시면 감사하겠습니다",
+      "ENGLISH": "in season 2, so I hope you enjoy playing a lot!",
+      "CHINESE_SIMPLIFIED": "所以希望大家在第二季也能开心、尽情地游玩！",
+      "CHINESE_TRADITIONAL": "希望大家能盡情享受遊戲！",
+      "JAPANESE": "お見せできると思いますので、ぜひ楽しくプレイしてください！",
+      "INDONESIAN": "jadi semoga kalian menikmati permainan ini!",
+      "PORTUGUESE": "então espero que todos se divirtam muito jogando!",
+      "SPANISH": "así que espero que disfruten mucho jugando.",
+      "PERSIAN": "در فصل 2، بنابراین امیدوارم از بازی کردن بسیار لذت ببرید!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 24.04,
+      "HIDE": 29.13
+    },
+    "SCRIPT": {
+      "KOREAN": "이번 시즌 2를 촬영하면서 가장 인상 깊었던 에피소드라고 한다면",
+      "ENGLISH": "The most memorable episode while filming season 2",
+      "CHINESE_SIMPLIFIED": "要说在拍摄第二季时印象最深刻的桥段",
+      "CHINESE_TRADITIONAL": "拍攝第二季時，最令人印象深刻的一集",
+      "JAPANESE": "シーズン2の撮影で一番印象に残ったエピソードは、",
+      "INDONESIAN": "Episode paling berkesan selama syuting musim kedua",
+      "PORTUGUESE": "O episódio mais marcante durante as filmagens da segunda temporada",
+      "SPANISH": "El episodio más memorable al filmar la segunda temporada",
+      "PERSIAN": "خاطره انگیزترین قسمت در زمان فیلمبرداری فصل 2"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 29.13,
+      "HIDE": 31.14
+    },
+    "SCRIPT": {
+      "KOREAN": "엘리베이터 씬이었는데",
+      "ENGLISH": "was the elevator scene.",
+      "CHINESE_SIMPLIFIED": "那当然是电梯里的戏份啦",
+      "CHINESE_TRADITIONAL": "是電梯場景。",
+      "JAPANESE": "エレベーターのシーンでした。",
+      "INDONESIAN": "adalah adegan lift.",
+      "PORTUGUESE": "foi a cena do elevador.",
+      "SPANISH": "fue la escena del ascensor.",
+      "PERSIAN": "صحنه آسانسور بود"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 31.14,
+      "HIDE": 36.03
+    },
+    "SCRIPT": {
+      "KOREAN": "한정된 공간 안에서 다들 정말 연기와 표정과 대사",
+      "ENGLISH": "In that limited space, everyone had to bring joy through acting, facial expressions, and lines,",
+      "CHINESE_SIMPLIFIED": "在有限的空间里，大家需要通过演技、表情、台词和剧本",
+      "CHINESE_TRADITIONAL": "在有限的空間裡，大家需要透過演技、表情與台詞",
+      "JAPANESE": "限られた空間の中で、みんなが演技や表情、台詞を通して",
+      "INDONESIAN": "Di ruang yang terbatas, semua orang harus menunjukkan akting, ekspresi wajah, dan dialog",
+      "PORTUGUESE": "Em um espaço limitado, todos precisavam transmitir diversão com atuação, expressões e falas,",
+      "SPANISH": "En ese espacio limitado, todos tuvimos que actuar, expresar emociones y decir los diálogos",
+      "PERSIAN": "در اون فضای محدود، همه باید از طریق بازیگری، حالات چهره و خطوط شادی را به ارمغان می آوردند."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 36.03,
+      "HIDE": 40.02
+    },
+    "SCRIPT": {
+      "KOREAN": "각본으로 즐거움을 줘야 되는 상황이었는데",
+      "ENGLISH": "following the script to make it fun.",
+      "CHINESE_SIMPLIFIED": "来营造出欢乐的氛围",
+      "CHINESE_TRADITIONAL": "按照劇本帶來樂趣。",
+      "JAPANESE": "脚本に沿って楽しさを届ける場面でした。",
+      "INDONESIAN": "sesuai naskah untuk menghadirkan kesenangan.",
+      "PORTUGUESE": "seguindo o roteiro.",
+      "SPANISH": "siguiendo el guion para hacerlo divertido.",
+      "PERSIAN": "اسکریپت را دنبال کنید تا اونو سرگرم کننده کنید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 40.02,
+      "HIDE": 42.1
+    },
+    "SCRIPT": {
+      "KOREAN": "전 너무너무 재밌게 촬영을 했었거든요",
+      "ENGLISH": "I really enjoyed filming it.",
+      "CHINESE_SIMPLIFIED": "我自己拍得真的非常非常开心",
+      "CHINESE_TRADITIONAL": "我拍得非常開心。",
+      "JAPANESE": "私は本当に楽しく撮影できました。",
+      "INDONESIAN": "Saya sangat menikmati proses syutingnya.",
+      "PORTUGUESE": "Eu realmente me diverti muito filmando.",
+      "SPANISH": "Realmente disfruté mucho filmar esa parte.",
+      "PERSIAN": "از فیلمبرداریش واقعا لذت بردم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 42.1,
+      "HIDE": 48.12
+    },
+    "SCRIPT": {
+      "KOREAN": "여러분들도 엘리베이터 씬 어떤 장면에서 나오는지 기대하시고 봐주시면 되겠습니다",
+      "ENGLISH": "Please look forward to seeing which scene the elevator appears in!",
+      "CHINESE_SIMPLIFIED": "大家也可以期待一下电梯场景会在什么时候登场！",
+      "CHINESE_TRADITIONAL": "請大家期待電梯出現的那一幕！",
+      "JAPANESE": "皆さんも、エレベーターのシーンがどこで出てくるのか楽しみにしてください！",
+      "INDONESIAN": "Harap nantikan di mana adegan lift itu muncul!",
+      "PORTUGUESE": "Fiquem atentos para ver em qual cena o elevador aparece!",
+      "SPANISH": "¡Esperen con ansias la escena en la que aparece el ascensor!",
+      "PERSIAN": "لطفا منتظر باشید ببینید آسانسور در کدام صحنه ظاهر می شود!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 48.12,
+      "HIDE": 50.06
+    },
+    "SCRIPT": {
+      "KOREAN": "(인기투표 1등인 소감이 어떤지?)",
+      "ENGLISH": "(How does it feel to rank 1st in the popularity poll?)",
+      "CHINESE_SIMPLIFIED": "（对于获得人气投票第一有何感想？）",
+      "CHINESE_TRADITIONAL": "（獲得人氣投票第一名的感想？）",
+      "JAPANESE": "（人気投票で1位になった感想は？）",
+      "INDONESIAN": "(Bagaimana perasaan Anda setelah menempati peringkat pertama dalam voting popularitas?)",
+      "PORTUGUESE": "(Como se sente por ter ficado em primeiro lugar na votação de popularidade?)",
+      "SPANISH": "(¿Cómo se siente al haber obtenido el primer lugar en la votación de popularidad?)",
+      "PERSIAN": "(در نظرسنجی محبوبیت رتبه اول چه حسی دارد؟)"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 50.06,
+      "HIDE": 54.09
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 1위를 달성했다는 게 사실 믿기지가 않았었는데",
+      "ENGLISH": "Honestly, I couldn’t believe that I achieved first place.",
+      "CHINESE_SIMPLIFIED": "首先，能拿到第一名这件事本身就让我难以置信",
+      "CHINESE_TRADITIONAL": "老實說，我一開始真的不敢相信自己拿到了第一名。",
+      "JAPANESE": "正直、1位を取ったことが信じられませんでした。",
+      "INDONESIAN": "Jujur saja, saya tidak percaya bisa meraih peringkat pertama.",
+      "PORTUGUESE": "Sinceramente, eu não conseguia acreditar que tinha conquistado o primeiro lugar.",
+      "SPANISH": "Honestamente, no podía creer que había logrado el primer lugar.",
+      "PERSIAN": "راستش را بخواهید، باورم نمی شد که رتبه اول را کسب کنم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 54.09,
+      "HIDE": 58.01
+    },
+    "SCRIPT": {
+      "KOREAN": "치열했던 경쟁 시스템이었다고 생각을 하고",
+      "ENGLISH": "It was a very competitive system,",
+      "CHINESE_SIMPLIFIED": "我觉得这次的竞争机制真的非常激烈",
+      "CHINESE_TRADITIONAL": "那是一個競爭非常激烈的系統，",
+      "JAPANESE": "とても激しい競争だったと思いますが、",
+      "INDONESIAN": "Sistemnya sangat kompetitif,",
+      "PORTUGUESE": "Foi um sistema de competição muito acirrada,",
+      "SPANISH": "Fue un sistema muy competitivo,",
+      "PERSIAN": "این یک سیستم بسیار رقابتی بود،"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 58.01,
+      "HIDE": 60.05
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼에도 불구하고 1등을 시켜 주셔서",
+      "ENGLISH": "but despite that, you all made me No.1—thank you so much.",
+      "CHINESE_SIMPLIFIED": "但是大家依然让我拿到了第一",
+      "CHINESE_TRADITIONAL": "但即便如此，大家還是讓我成為第一名，真的非常感謝。",
+      "JAPANESE": "それにもかかわらず1位にしてくださって、本当に感謝しています。",
+      "INDONESIAN": "tetapi meskipun begitu, kalian menjadikan saya nomor satu—terima kasih banyak.",
+      "PORTUGUESE": "mas mesmo assim vocês me colocaram em primeiro—muito obrigado.",
+      "SPANISH": "pero aun así me colocaron en el número uno—muchas gracias.",
+      "PERSIAN": "اما با وجود اون، همه شما مرا به شماره 1 تبدیل کردید—خیلی از شما ممنونم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 60.05,
+      "HIDE": 64.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너무너무 감사한 마음에 시즌2에서는 감사한 마음을 보답하려고",
+      "ENGLISH": "In season 2, I wanted to repay that gratitude,",
+      "CHINESE_SIMPLIFIED": "真的超级感动！为了报答这份心意，我在第二季里",
+      "CHINESE_TRADITIONAL": "在第二季中，為了回報這份感謝，",
+      "JAPANESE": "シーズン2ではその感謝の気持ちを込めて、",
+      "INDONESIAN": "Di musim kedua ini, saya ingin membalas rasa terima kasih itu,",
+      "PORTUGUESE": "Na segunda temporada, quis retribuir essa gratidão,",
+      "SPANISH": "En la temporada 2 quise devolver ese agradecimiento,",
+      "PERSIAN": "در فصل 2، من می خواستم این قدردانی را جبران کنم،"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 64.0,
+      "HIDE": 68.13
+    },
+    "SCRIPT": {
+      "KOREAN": "예쁘고 다양한 모습을 많이 연기했으니까 이제 여러분들이 많이 많이",
+      "ENGLISH": "so I acted with even more beauty and variety, and I hope all of you",
+      "CHINESE_SIMPLIFIED": "也努力呈现了更多漂亮且多样的表演",
+      "CHINESE_TRADITIONAL": "我展現了更加多樣與漂亮的表演，希望大家",
+      "JAPANESE": "もっと美しく、いろんな姿を演じましたので、皆さんに",
+      "INDONESIAN": "jadi saya berakting dengan lebih banyak pesona dan variasi, dan semoga kalian",
+      "PORTUGUESE": "atuando com mais beleza e variedade, e espero que todos",
+      "SPANISH": "así que actué con más belleza y variedad, y espero que todos",
+      "PERSIAN": "بنابراین من با زیبایی و تنوع بیشتری عمل کردم و امیدوارم همه شما"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 68.13,
+      "HIDE": 72.23
+    },
+    "SCRIPT": {
+      "KOREAN": "예쁜 모습을 즐겁게 플레이해 주시면 감사하겠습니다",
+      "ENGLISH": "enjoy seeing those lovely moments again.",
+      "CHINESE_SIMPLIFIED": "希望大家能多多欣赏、开心地游玩！",
+      "CHINESE_TRADITIONAL": "能愉快地欣賞這些美麗的瞬間。",
+      "JAPANESE": "その可愛い姿を楽しんでいただけたら嬉しいです。",
+      "INDONESIAN": "menikmati setiap momen cantik yang saya tampilkan.",
+      "PORTUGUESE": "apreciem esses momentos encantadores.",
+      "SPANISH": "disfruten viendo esos momentos encantadores.",
+      "PERSIAN": "از دیدن دوباره اون لحظات دوست داشتنی لذت ببرید"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 72.23,
+      "HIDE": 74.07
+    },
+    "SCRIPT": {
+      "KOREAN": "(이번 시즌은 몇 등?)",
+      "ENGLISH": "(What’s your goal this season?)",
+      "CHINESE_SIMPLIFIED": "（这季打算拿第几名？）",
+      "CHINESE_TRADITIONAL": "（這一季的目標是？）",
+      "JAPANESE": "（今シーズンの目標は？）",
+      "INDONESIAN": "(Berapa target Anda di musim ini?)",
+      "PORTUGUESE": "(Qual é o seu objetivo nesta temporada?)",
+      "SPANISH": "(¿Cuál es su meta esta temporada?)",
+      "PERSIAN": "(هدف شما در این فصل چیه؟)"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 74.07,
+      "HIDE": 77.19
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 이번에도 1등을 할 겁니다",
+      "ENGLISH": "I’ll be No.1 again this time.",
+      "CHINESE_SIMPLIFIED": "那当然是还要稳坐第一呀！",
+      "CHINESE_TRADITIONAL": "這次我也要拿第一！",
+      "JAPANESE": "今回も1位を取ります。",
+      "INDONESIAN": "Saya akan menjadi nomor satu lagi kali ini.",
+      "PORTUGUESE": "Vou ficar em primeiro lugar novamente.",
+      "SPANISH": "Seré el número uno otra vez.",
+      "PERSIAN": "این بار دوباره شماره 1 می‌شم."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 77.19,
+      "HIDE": 80.1
+    },
+    "SCRIPT": {
+      "KOREAN": "(출연자들이)1등 공약까지 하셨다고요?",
+      "ENGLISH": "(I heard you all made first-place promises?)",
+      "CHINESE_SIMPLIFIED": "听说（其他主演）都立了夺冠公约？",
+      "CHINESE_TRADITIONAL": "（聽說出演者們都立了第一的約定？）",
+      "JAPANESE": "（出演者たちが1位の公約をしたそうですね？）",
+      "INDONESIAN": "(Katanya para pemain membuat janji untuk posisi pertama?)",
+      "PORTUGUESE": "(Os participantes fizeram promessas para o primeiro lugar?)",
+      "SPANISH": "(¿Es cierto que los participantes hicieron promesas por el primer lugar?)",
+      "PERSIAN": "(شنیدم که همه شما وعده های اول را داده اید؟)"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 80.1,
+      "HIDE": 83.21
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 1등 공약하면 좋겠지만",
+      "ENGLISH": "I’d love to make a promise for first place too,",
+      "CHINESE_SIMPLIFIED": "虽然我也很期待能实现我的夺冠公约",
+      "CHINESE_TRADITIONAL": "我也想立一個第一的約定，",
+      "JAPANESE": "私も1位の公約をしたいですが、",
+      "INDONESIAN": "Saya juga ingin membuat janji itu,",
+      "PORTUGUESE": "Eu também gostaria de fazer uma promessa dessas,",
+      "SPANISH": "También me gustaría hacer una,",
+      "PERSIAN": "دوست دارم برای رتبه اول هم قولی بدهم،"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 83.21,
+      "HIDE": 88.12
+    },
+    "SCRIPT": {
+      "KOREAN": "또 제 팬분들이 다시 한번 시즌 2에도 이어서",
+      "ENGLISH": "but I believe my fans came back again this season",
+      "CHINESE_SIMPLIFIED": "但我更相信，我的粉丝们为了再次见到我",
+      "CHINESE_TRADITIONAL": "不過我相信我的粉絲們這次也再次",
+      "JAPANESE": "ファンの皆さんが今回もまたこのゲームで",
+      "INDONESIAN": "tetapi saya percaya para penggemar saya kembali lagi di musim kedua ini",
+      "PORTUGUESE": "mas acredito que meus fãs voltaram novamente nesta segunda temporada",
+      "SPANISH": "pero creo que mis fans regresaron nuevamente en esta temporada",
+      "PERSIAN": "اما من معتقدم که هوادارانم در این فصل دوباره برگشتند"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 88.12,
+      "HIDE": 91.16
+    },
+    "SCRIPT": {
+      "KOREAN": "저를 만나러 이 게임에 다시 오셨을 거라고 생각을 해서",
+      "ENGLISH": "to meet me once more through this game,",
+      "CHINESE_SIMPLIFIED": "也一定会继续支持第二季的游戏的",
+      "CHINESE_TRADITIONAL": "為了見我而回到這款遊戲中，",
+      "JAPANESE": "私に会いに来てくれたと思うので、",
+      "INDONESIAN": "untuk bertemu saya melalui game ini,",
+      "PORTUGUESE": "para me encontrar neste jogo,",
+      "SPANISH": "para verme otra vez en este juego,",
+      "PERSIAN": "برای ملاقات با من یک بار دیگر از طریق این بازی،"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 91.16,
+      "HIDE": 94.22
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 이번에도 1등을 다시 가져가 보도록 하겠습니다",
+      "ENGLISH": "so I’ll aim to take first place again!",
+      "CHINESE_SIMPLIFIED": "所以这个第一名我就再次收下啦！",
+      "CHINESE_TRADITIONAL": "所以我會再次把第一名拿回來！",
+      "JAPANESE": "今回も1位を取り戻したいと思います！",
+      "INDONESIAN": "jadi saya akan berusaha merebut posisi pertama lagi!",
+      "PORTUGUESE": "então vou tentar conquistar o primeiro lugar de novo!",
+      "SPANISH": "así que recuperaré el primer lugar.",
+      "PERSIAN": "بنابراین من قصد دارم دوباره مقام اول را بگیرم!"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 94.22,
+      "HIDE": 97.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이번에는 1보다도 더",
+      "ENGLISH": "This time, even more than before,",
+      "CHINESE_SIMPLIFIED": "而且这一季相比前一季",
+      "CHINESE_TRADITIONAL": "這次比之前更豐富、",
+      "JAPANESE": "今回は前よりもっと多彩で、",
+      "INDONESIAN": "Kali ini lebih beragam dari sebelumnya,",
+      "PORTUGUESE": "Desta vez, ainda mais do que antes,",
+      "SPANISH": "Esta vez, aún más que antes,",
+      "PERSIAN": "این بار حتی بیشتر از قبل"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 97.1,
+      "HIDE": 100.23
+    },
+    "SCRIPT": {
+      "KOREAN": "아주 다양한 모습과 스케일도 크고",
+      "ENGLISH": "with much greater variety and scale,",
+      "CHINESE_SIMPLIFIED": "内容更丰富，规模也更大了",
+      "CHINESE_TRADITIONAL": "規模更大，",
+      "JAPANESE": "スケールも大きく、",
+      "INDONESIAN": "dengan skala yang lebih besar,",
+      "PORTUGUESE": "com mais variedade e uma escala maior,",
+      "SPANISH": "con más variedad y una escala mayor,",
+      "PERSIAN": "با تنوع و مقیاس بسیار بیشتر،"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 100.23,
+      "HIDE": 104.1
+    },
+    "SCRIPT": {
+      "KOREAN": "여러분들이 즐길 거리가 너무나 많이 풍성하게 들어",
+      "ENGLISH": "there’s so much fun content packed in",
+      "CHINESE_SIMPLIFIED": "大家可以享受的内容超级多、超级充实",
+      "CHINESE_TRADITIONAL": "有很多讓大家享受的內容，",
+      "JAPANESE": "皆さんが楽しめる要素がたくさん詰まっていますので、",
+      "INDONESIAN": "dan begitu banyak hal seru untuk dinikmati,",
+      "PORTUGUESE": "há tanto conteúdo divertido,",
+      "SPANISH": "hay mucho contenido divertido,",
+      "PERSIAN": "محتوای سرگرم کننده زیادی در اون بسته بندی شده است"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 104.1,
+      "HIDE": 107.19
+    },
+    "SCRIPT": {
+      "KOREAN": "있기 때문에 알차게 즐겨주셨으면 좋겠습니다",
+      "ENGLISH": "that I hope you all enjoy it fully.",
+      "CHINESE_SIMPLIFIED": "保证能让你们玩得过瘾！",
+      "CHINESE_TRADITIONAL": "希望大家能盡情體驗。",
+      "JAPANESE": "ぜひ存分に楽しんでください！",
+      "INDONESIAN": "jadi semoga kalian menikmatinya sepenuhnya!",
+      "PORTUGUESE": "espero que todos aproveitem bastante!",
+      "SPANISH": "¡espero que todos lo disfruten plenamente!",
+      "PERSIAN": "که امیدوارم همه از اون لذت کامل ببرید."
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유정 씨는 수영 안 해요?",
+      "ENGLISH": "Huh? Yu-jeong, you’re not swimming?",
+      "CHINESE_SIMPLIFIED": "呃？有情不去游泳吗？",
+      "CHINESE_TRADITIONAL": "欸？有情不下去游泳嗎？",
+      "JAPANESE": "あれ？ユジョンさん泳がないんですか？",
+      "INDONESIAN": "Hah? Yu-jeong, kamu nggak renang?",
+      "PORTUGUESE": "Yujeong, você não vai nadar?",
+      "SPANISH": "¿Yujeong, no vas a nadar?",
+      "PERSIAN": "ها؟ یو-جئونگ، شما شنا نمی کنید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 제가 사실 수영은 잘 못하거든요 ",
+      "ENGLISH": "Ah~ truth is, I’m not really good at it.",
+      "CHINESE_SIMPLIFIED": "啊~我其实不太会游泳呢",
+      "CHINESE_TRADITIONAL": "啊，我其實不太會游泳",
+      "JAPANESE": "あ〜実は 私あんまり泳げないんです",
+      "INDONESIAN": "Ah~ sebenernya, aku nggak terlalu bisa renang.",
+      "PORTUGUESE": "Ah~ é que eu não sou muito boa em natação.",
+      "SPANISH": "Ah~ es que no soy muy buena nadando.",
+      "PERSIAN": "آه ~ حقیقت این است که من واقعاً در اون خوب نیستم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜요?! 저돈데!",
+      "ENGLISH": "Wait, really?! Same here!",
+      "CHINESE_SIMPLIFIED": "啊真的吗？！我也是诶！",
+      "CHINESE_TRADITIONAL": "真的嗎？我也是耶！",
+      "JAPANESE": "えっほんとですか？！俺もですよ！",
+      "INDONESIAN": "Hah, seriusan?! Sama dong!",
+      "PORTUGUESE": "Sério? Eu também não!",
+      "SPANISH": "¿En serio? ¡Yo tampoco!",
+      "PERSIAN": "صبر کن واقعا؟! اینجا هم همینطور!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "공통점! ",
+      "ENGLISH": "We’ve got something in common!",
+      "CHINESE_SIMPLIFIED": "共同点！",
+      "CHINESE_TRADITIONAL": "共同點！",
+      "JAPANESE": "共通点！",
+      "INDONESIAN": "Kita punya kesamaan nih!",
+      "PORTUGUESE": "Temos algo em comum!",
+      "SPANISH": "¡Tenemos algo en común!",
+      "PERSIAN": "ما یک چیز مشترک داریم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "예~!",
+      "ENGLISH": "Yeah~!",
+      "CHINESE_SIMPLIFIED": "耶~！",
+      "CHINESE_TRADITIONAL": "耶～！",
+      "JAPANESE": "いぇ〜い！",
+      "INDONESIAN": "Iya~!",
+      "PORTUGUESE": "Sim~!",
+      "SPANISH": "¡Sí~!",
+      "PERSIAN": "آره~!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "전 여기서 저만 수영 못하는 줄 알았어요",
+      "ENGLISH": "I thought I was the only one who couldn’t swim.",
+      "CHINESE_SIMPLIFIED": "我还以为这里只有我不会游泳呢",
+      "CHINESE_TRADITIONAL": "我還以為這裡只有我不會游泳呢",
+      "JAPANESE": "ここで泳げないの自分だけかと思ってました",
+      "INDONESIAN": "Aku kira cuma aku doang yang nggak bisa renang.",
+      "PORTUGUESE": "Achei que eu fosse a única que não sabia nadar.",
+      "SPANISH": "Pensé que yo era la única que no sabía nadar.",
+      "PERSIAN": "فکر می‌کردم من تنها کسی هستم که نمی‌تونم شنا کنم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 아, 저 이거 들고 왔는데.",
+      "ENGLISH": "Oh? I brought this with me, actually.",
+      "CHINESE_SIMPLIFIED": "啊，我刚好带了这个来",
+      "CHINESE_TRADITIONAL": "啊～我剛好帶了這個",
+      "JAPANESE": "あ そうだ これ持ってきたんですよ",
+      "INDONESIAN": "Oh? Aku bawa ini, lho.",
+      "PORTUGUESE": "Na verdade, eu trouxe isso comigo.",
+      "SPANISH": "En realidad, traje esto conmigo.",
+      "PERSIAN": "اوه؟ من اینو با خودم آوردم، در واقع."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오? 비눗방울 엄청 오랜만이다!",
+      "ENGLISH": "Whoa, it’s been ages since I’ve seen bubbles!",
+      "CHINESE_SIMPLIFIED": "哦？泡泡水！真是好久没玩了！",
+      "CHINESE_TRADITIONAL": "喔？是泡泡！好久沒玩了",
+      "JAPANESE": "おっ シャボン玉 めっちゃ久しぶり！",
+      "INDONESIAN": "Wah, udah lama banget aku nggak liat gelembung sabun!",
+      "PORTUGUESE": "Oh? Bolhas! Faz tempo que não via umas.",
+      "SPANISH": "¿Oh? ¡Burbujas! Hace mucho no veía unas.",
+      "PERSIAN": "اوه، سال‌هاست که حباب‌ها را ندیده‌ام!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그쵸? 오랜만이죠?",
+      "ENGLISH": "Right? It’s been a while, huh?",
+      "CHINESE_SIMPLIFIED": "对吧？好久没玩了吧？",
+      "CHINESE_TRADITIONAL": "對吧！很久沒玩過了吧？",
+      "JAPANESE": "でしょ？久しぶりですよね？",
+      "INDONESIAN": "Iya kan? Emang udah lama ya?",
+      "PORTUGUESE": "Né?",
+      "SPANISH": "¿Verdad que sí?",
+      "PERSIAN": "درسته؟ مدتی گذشت، نه؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 조금 해봤는데 ",
+      "ENGLISH": "I tried it a bit too…",
+      "CHINESE_SIMPLIFIED": "我刚刚玩了一下",
+      "CHINESE_TRADITIONAL": "我剛剛玩了一下",
+      "JAPANESE": "私もちょっとやってみたんですけど",
+      "INDONESIAN": "Aku tadi nyoba juga sedikit...",
+      "PORTUGUESE": "Testei um pouquinho,",
+      "SPANISH": "Lo probéun rato,",
+      "PERSIAN": "من هم کمی امتحان کردم…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "은근 재밌더라고요.",
+      "ENGLISH": "It’s surprisingly fun.",
+      "CHINESE_SIMPLIFIED": "没想到还挺有意思的",
+      "CHINESE_TRADITIONAL": "沒想到還挺有趣的",
+      "JAPANESE": "意外と楽しいんですよ",
+      "INDONESIAN": "Ternyata seru juga.",
+      "PORTUGUESE": "e é mais divertido do que eu pensei.",
+      "SPANISH": "y es más divertido de lo que pensé.",
+      "PERSIAN": "به طرز شگفت انگیزی سرگرم کننده است."
+    }
+  }
+]

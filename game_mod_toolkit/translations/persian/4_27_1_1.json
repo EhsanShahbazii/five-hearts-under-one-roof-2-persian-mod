@@ -1,0 +1,181 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 어깨는 이렇게 확 내려 주시고",
+      "ENGLISH": "Alright, drop your shoulders.",
+      "CHINESE_SIMPLIFIED": "来，肩膀完全沉下去",
+      "CHINESE_TRADITIONAL": "來，把肩膀整個往下壓",
+      "JAPANESE": "じゃあ肩をしっかり下ろして",
+      "INDONESIAN": "Oke, coba turunin bahunya.",
+      "PORTUGUESE": "Abaixe completamente os ombros",
+      "SPANISH": "Baje los hombros completamente,",
+      "PERSIAN": "خوب، شانه هایت را رها کن"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "바는 제 손등에 닿게 당겨 주시면 돼요.",
+      "ENGLISH": "Pull the bar so it touches the back of my hand.",
+      "CHINESE_SIMPLIFIED": "杠铃杆拉到贴到我手背的位置就行",
+      "CHINESE_TRADITIONAL": "把槓拉到碰到我的手背就可以了",
+      "JAPANESE": "バーを私の手の甲に触れるくらいまで引いてください",
+      "INDONESIAN": "Tarik barnya sampai nyentuh bagian belakang tanganku.",
+      "PORTUGUESE": "e puxe a barra até encostar no dorso da minha mão.",
+      "SPANISH": "y tire de la barra hasta que toque el dorso de mi mano.",
+      "PERSIAN": "میله را بکش تا پشت دستم را لمس کند."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "자 당겨봅시다",
+      "ENGLISH": "Okay, let’s give it a try.",
+      "CHINESE_SIMPLIFIED": "来，我们开始拉",
+      "CHINESE_TRADITIONAL": "來，我們拉一下",
+      "JAPANESE": "さぁ、いきますよ〜",
+      "INDONESIAN": "Oke, yuk kita cobain.",
+      "PORTUGUESE": "Vamos começar.",
+      "SPANISH": "A ver, comencemos.",
+      "PERSIAN": "خوب، بیایید اونو امتحان کنیم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하나, 쭉~ 그렇지.",
+      "ENGLISH": "One, stretch it out~ that’s it.",
+      "CHINESE_SIMPLIFIED": "一，慢慢来~ 对了",
+      "CHINESE_TRADITIONAL": "一，順著拉～ 沒錯",
+      "JAPANESE": "いち、ぐ〜っと そう",
+      "INDONESIAN": "Satu, tarik… nah, gitu.",
+      "PORTUGUESE": "Um, estenda bem~ isso.",
+      "SPANISH": "Uno, estírela bien~ eso es.",
+      "PERSIAN": "یکی، اونو دراز کنید~ همین است."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "한 번 더",
+      "ENGLISH": "One more time.",
+      "CHINESE_SIMPLIFIED": "再一次",
+      "CHINESE_TRADITIONAL": "再來一次",
+      "JAPANESE": "もう一回",
+      "INDONESIAN": "Sekali lagi.",
+      "PORTUGUESE": "Mais uma vez.",
+      "SPANISH": "Una vez más.",
+      "PERSIAN": "یک بار دیگر"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "둘 자 시원하게 그렇죠!",
+      "ENGLISH": "Two, nice and full stretch, right!",
+      "CHINESE_SIMPLIFIED": "二，对，很顺畅！",
+      "CHINESE_TRADITIONAL": "二，來，順順的拉，就是這樣！",
+      "JAPANESE": "に、はい、気持ちよく〜そう！",
+      "INDONESIAN": "Dua, tarik penuh, mantap!",
+      "PORTUGUESE": "Dois, muito bem, assim, com força.",
+      "SPANISH": "Dos, muy bien, así, con fuerza.",
+      "PERSIAN": "دو، کشش خوب و کامل، درست است!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 끝까지 당겨 주시면 돼요.",
+      "ENGLISH": "Just pull it all the way like that.",
+      "CHINESE_SIMPLIFIED": "就这样全程保持发力拉到位就行",
+      "CHINESE_TRADITIONAL": "要像這樣拉到底",
+      "JAPANESE": "この感じで最後まで引けば完璧です",
+      "INDONESIAN": "Tarik aja terus sampai penuh kayak tadi.",
+      "PORTUGUESE": "Só precisa puxar até o final, assim mesmo.",
+      "SPANISH": "Solo tiene que tirar hasta el final, justo así.",
+      "PERSIAN": "فقط اونو تا آخر بکشید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "확실히 유만 씨랑 오니까 운동이 잘 되는 거 같은데?",
+      "ENGLISH": "It really feels like the workout’s more effective with you here, Yuman.",
+      "CHINESE_SIMPLIFIED": "果然和你一起练效果更好了呢",
+      "CHINESE_TRADITIONAL": "感覺跟你一起來，運動效果好像比較好耶？",
+      "JAPANESE": "やっぱりユマンさんと来ると体が動くね",
+      "INDONESIAN": "Rasanya latihan jadi jauh lebih efektif kalau ada kamu, Yuman.",
+      "PORTUGUESE": "Definitivamente, vir treinar com você faz o exercício render mais.",
+      "SPANISH": "Definitivamente, venir a entrenar contigo hace que el ejercicio rinda más.",
+      "PERSIAN": "واقعاً احساس می‌شه که تمرین با شما در اینجا مؤثرتر است، یومان."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "다음에도 같이 오자.",
+      "ENGLISH": "Let’s come together next time too.",
+      "CHINESE_SIMPLIFIED": "下次也一起来吧",
+      "CHINESE_TRADITIONAL": "下次也一起來吧",
+      "JAPANESE": "次も一緒に来よう",
+      "INDONESIAN": "Besok kita latihan barengan lagi ya.",
+      "PORTUGUESE": "Vamos juntos da próxima vez.",
+      "SPANISH": "Vengamos juntos la próxima vez.",
+      "PERSIAN": "دفعه بعد هم بیایید دور هم"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요.",
+      "ENGLISH": "Sounds good.",
+      "CHINESE_SIMPLIFIED": "好啊",
+      "CHINESE_TRADITIONAL": "好啊！",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Oke, siap!",
+      "PORTUGUESE": "Claro.",
+      "SPANISH": "Por supuesto.",
+      "PERSIAN": "به نظر خوب می رسد."
+    }
+  }
+]

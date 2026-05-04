@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "본인 먼저 챙기세요 규리 씨!!",
+      "ENGLISH": "Take care of yourself first, Kyuri!",
+      "CHINESE_SIMPLIFIED": "请您先顾好自己吧方护士！！",
+      "CHINESE_TRADITIONAL": "久梨小姐，請你先顧好自己！",
+      "JAPANESE": "まずは自分のことを心配してください、ギュリさん！！",
+      "INDONESIAN": "Urus diri sendiri dulu dong Gyuri!",
+      "PORTUGUESE": "Pense em você primeiro, Gyuri!",
+      "SPANISH": "¡Piense en usted primero, Gyuri!",
+      "PERSIAN": "اول از همه مراقب خودت باش، کیوری!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 이 상황에도 내 걱정이에요?",
+      "ENGLISH": "Are you worried about me even in this situation?",
+      "CHINESE_SIMPLIFIED": "这种时候还想着我？！",
+      "CHINESE_TRADITIONAL": "這種時候還在擔心我嗎？",
+      "JAPANESE": "こんな状況でも、まだ俺の心配ですか？",
+      "INDONESIAN": "Di situasi kayak gini pun masih mikirin aku?",
+      "PORTUGUESE": "Mesmo nessa situação, ainda tá preocupada comigo?",
+      "SPANISH": "¿Incluso en esta situación está preocupándose por mí?",
+      "PERSIAN": "حتی تو این شرایط هم نگران منی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨 먼저 챙기라고요 ",
+      "ENGLISH": "I said take care of yourself first!",
+      "CHINESE_SIMPLIFIED": "我说让你先照顾好自己！",
+      "CHINESE_TRADITIONAL": "我說過叫你要先照顧好自己",
+      "JAPANESE": "ギュリさんの方を先に気にしてください",
+      "INDONESIAN": "Aku bilang, utamain dirimu dulu.",
+      "PORTUGUESE": "Tô dizendo pra se preocupar com você.",
+      "SPANISH": "Le digo que se preocupe por usted.",
+      "PERSIAN": "گفتم اول مراقب خودت باش!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 그 이상한 간호사에, 어? 감기만 지금 몇 주째예요!",
+      "ENGLISH": "That weird nurse earlier, huh? You've had this cold for weeks now!",
+      "CHINESE_SIMPLIFIED": "除了霸凌你的同事，还有你的感冒，都拖了几周了！",
+      "CHINESE_TRADITIONAL": "剛才那個奇怪的護士，還有，你的感冒都拖多久了，嗯？",
+      "JAPANESE": "あの変な看護師のこともあるし、風邪だって何週間も続いてるじゃないですか！",
+      "INDONESIAN": "Itu perawat aneh tadi tuh terus kamu udah pilek berapa minggu sekarang?",
+      "PORTUGUESE": "Aquela enfermeira de antes, hein? E ainda por cima tá resfriada há semanas!",
+      "SPANISH": "Esa enfermera de antes, ¿eh? ¡Y encima lleva semanas resfriada!",
+      "PERSIAN": "اون پرستار عجیب و غریب قبلی، ها؟ تو الان چند هفته‌ست که این سرماخوردگی رو داری!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야~ 지금 내 걱정해주는 거예요?",
+      "ENGLISH": "What~ Are you actually worried about me now, Yoo-man?",
+      "CHINESE_SIMPLIFIED": "什么嘛~你是在担心我吗？",
+      "CHINESE_TRADITIONAL": "什麼嗎～你現在是在擔心我嗎？",
+      "JAPANESE": "え〜、今、私のこと心配してくれてるんですか？",
+      "INDONESIAN": "Apa sih~ kamu lagi khawatir sama aku, ya?",
+      "PORTUGUESE": "O quê~? Tá se preocupando comigo, é isso?",
+      "SPANISH": "¿Qué~? ¿Acaso se preocupa por mí?",
+      "PERSIAN": "چی~ الان واقعاً نگران منی، یو-مان؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 규리 씨 그게 포인트가 아니잖아요!",
+      "ENGLISH": "Oh, Kyuri, that's not the point!",
+      "CHINESE_SIMPLIFIED": "哎呦久梨，这重点不在这里吧！",
+      "CHINESE_TRADITIONAL": "不是，久梨小姐，那不是重點",
+      "JAPANESE": "いや、ギュリさん今そういうことじゃないくて！",
+      "INDONESIAN": "Bukan itu maksudnya, Gyuri!",
+      "PORTUGUESE": "Não é esse o ponto, Gyuri.",
+      "SPANISH": "Ese no es el punto, Gyuri.",
+      "PERSIAN": "اوه، کیوری، نکته این نیست!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨 건강도 좀 챙기라구요.",
+      "ENGLISH": "I'm telling you to take care of your health too.",
+      "CHINESE_SIMPLIFIED": "你也要多关心自己的健康啊",
+      "CHINESE_TRADITIONAL": "你也要多關心自己的健康啊！",
+      "JAPANESE": "キュリさんもちゃんと体調管理してくださいよ",
+      "INDONESIAN": "Aku cuma bilang, tolong jaga kesehatan juga.",
+      "PORTUGUESE": "Só tô dizendo pra você cuidar da sua saúde também.",
+      "SPANISH": "Solo digo que también cuide su salud.",
+      "PERSIAN": "به شما هم میگم که مراقب سلامتیتون باشید."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠어요~",
+      "ENGLISH": "Okay~",
+      "CHINESE_SIMPLIFIED": "知道啦~",
+      "CHINESE_TRADITIONAL": "知道啦～",
+      "JAPANESE": "は〜い",
+      "INDONESIAN": "Iyaaa, aku ngerti~",
+      "PORTUGUESE": "Tá bom~",
+      "SPANISH": "Está bien~",
+      "PERSIAN": "باشه~"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그래두...",
+      "ENGLISH": "But still...",
+      "CHINESE_SIMPLIFIED": "不过呢...",
+      "CHINESE_TRADITIONAL": "不過...",
+      "JAPANESE": "でもね…",
+      "INDONESIAN": "Tapi tetap aja...",
+      "PORTUGUESE": "Mesmo assim…",
+      "SPANISH": "Aun así…",
+      "PERSIAN": "اما هنوز..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 걱정해주니까 전 너무 좋은데요?",
+      "ENGLISH": "It makes me feel so good that you're worried about me, Yoo-man?",
+      "CHINESE_SIMPLIFIED": "能被你挂在心上，感觉还挺好的呢",
+      "CHINESE_TRADITIONAL": "能被你擔心，我卻感到開心呢",
+      "JAPANESE": "ユマンさんが心配してくれると、なんか嬉しいんですよ？",
+      "INDONESIAN": "Kalau Yuman peduli gini rasanya seneng banget tahu nggak?",
+      "PORTUGUESE": "adoro quando você se preocupa comigo.",
+      "SPANISH": "me encanta que se preocupe por mí.",
+      "PERSIAN": "اینکه نگران من هستی، حس خیلی خوبی بهم میده، یو-مان؟"
+    }
+  }
+]

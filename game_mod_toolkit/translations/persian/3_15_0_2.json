@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 맞아요?",
+      "ENGLISH": "Is this really okay?",
+      "CHINESE_SIMPLIFIED": "这合适吗？",
+      "CHINESE_TRADITIONAL": "這樣可以嗎？",
+      "JAPANESE": "これでいいですか？",
+      "INDONESIAN": "Apakah ini sungguh baik-baik saja?",
+      "PORTUGUESE": "Assim tá bom?",
+      "SPANISH": "¿Así está bien?",
+      "PERSIAN": "این واقعاً اشکالی ندارد؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요? 얼굴도 완전 잘 가려지고 이만한 게 없을 거 같은데",
+      "ENGLISH": "Why not? It covers your face perfectly—I don’t think we’ll find anything better.",
+      "CHINESE_SIMPLIFIED": "怎么了？脸都完全遮住了，感觉没有比这更合适的了",
+      "CHINESE_TRADITIONAL": "怎麼了？臉也完全遮住，應該找不到比這更合適的了吧？",
+      "JAPANESE": "なんで？ 顔もしっかり隠れるし これ以上のものないと思うけど",
+      "INDONESIAN": "Kenapa tidak? Ini menutupi wajahmu dengan sempurna—kurasa kita tidak akan menemukan yang lebih baik.",
+      "PORTUGUESE": "O que foi? Cobre bem o seu rosto, não acho que tenha nada melhor.",
+      "SPANISH": "¿Qué pasa? Si te cubre muy bien la cara. No creo que haya nada mejor.",
+      "PERSIAN": "چرا نه؟ صورت شما را کاملاً می پوشاند - فکر نمی کنم چیز بهتری پیدا کنیم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 그렇긴 한데...",
+      "ENGLISH": "I mean, yeah, but...",
+      "CHINESE_SIMPLIFIED": "话是这么说没错...",
+      "CHINESE_TRADITIONAL": "話是這麼說沒錯…",
+      "JAPANESE": "まぁ それはそうなんですけど…",
+      "INDONESIAN": "Maksudku, ya, tapi...",
+      "PORTUGUESE": "Bom, sim, mas…",
+      "SPANISH": "Bueno, sí, pero…",
+      "PERSIAN": "یعنی آره ولی..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "사람들 도둑으로 오해하면 어떡해요…",
+      "ENGLISH": "What if people think I’m a thief or something...?",
+      "CHINESE_SIMPLIFIED": "但要是被人误会成小偷怎么办啊…",
+      "CHINESE_TRADITIONAL": "但要是被誤會成小偷怎麼辦…",
+      "JAPANESE": "もし人に泥棒と勘違いされたらどうします…？",
+      "INDONESIAN": "Bagaimana jika orang mengira aku pencuri atau semacamnya...?",
+      "PORTUGUESE": "E se as pessoas acharem que eu sou uma ladra…?",
+      "SPANISH": "¿y si la gente piensa que soy una ladrona…?",
+      "PERSIAN": "اگر مردم فکر کنند من یک دزد هستم یا چیز دیگری چه می شود؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 그럴 수도 있겠네요.",
+      "ENGLISH": "Ah~ yeah, I guess that could happen.",
+      "CHINESE_SIMPLIFIED": "啊~这倒也有可能",
+      "CHINESE_TRADITIONAL": "啊～好像真的有可能欸",
+      "JAPANESE": "あ〜 それもありえますね",
+      "INDONESIAN": "Ah~ ya, aku rasa itu bisa terjadi.",
+      "PORTUGUESE": "Ah~ também pode acontecer.",
+      "SPANISH": "Ah~ también podría pasar.",
+      "PERSIAN": "آه ~ آره، حدس می زنم که ممکنه اتفاق بیفتد."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠! 그냥 평범하게 갈까요?",
+      "ENGLISH": "Oppa! Should we just go with something more normal?",
+      "CHINESE_SIMPLIFIED": "哥哥！我们还是走普通一点的路线吧？",
+      "CHINESE_TRADITIONAL": "哥哥！不然換普通一點的打扮呢…？",
+      "JAPANESE": "普通の格好で行きましょうか？",
+      "INDONESIAN": "Oppa! Apa sebaiknya kita coba yang lebih normal saja?",
+      "PORTUGUESE": "Oppa! E se a gente for com algo mais normal?",
+      "SPANISH": "¡Oppa! ¿Y si mejor vamos con algo más normal?",
+      "PERSIAN": "یومان! باید به سراغ چیزهای عادی تر برویم؟"
+    }
+  }
+]

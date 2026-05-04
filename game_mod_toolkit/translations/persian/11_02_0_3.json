@@ -1,0 +1,91 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 오늘 어떻냐고요...?",
+      "ENGLISH": "Ah... How was today...?",
+      "CHINESE_SIMPLIFIED": "啊...你问我觉得怎么样？",
+      "CHINESE_TRADITIONAL": "啊...你問我覺得怎麼樣嗎？",
+      "JAPANESE": "あ…今日どうですか？って？",
+      "INDONESIAN": "Ah... maksudnya penampilanku hari ini...?",
+      "PORTUGUESE": "Ah... como você tá hoje...?",
+      "SPANISH": "Ah... ¿qué cómo te ves hoy...?",
+      "PERSIAN": "آخ... امروز چطور بود...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "对！",
+      "CHINESE_TRADITIONAL": "對！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍... 음~",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嘶——嗯...",
+      "CHINESE_TRADITIONAL": "呃...嗯...",
+      "JAPANESE": "すぅ…ん〜",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Tss... hmm~",
+      "SPANISH": "Tss... mmm~",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히 오늘 좀 전체적으로 과한 거 같아요.",
+      "ENGLISH": "Honestly, today felt a bit over the top overall.",
+      "CHINESE_SIMPLIFIED": "老实说，今天整体上有点太过了",
+      "CHINESE_TRADITIONAL": "老實說，整體上感覺有點太多了",
+      "JAPANESE": "正直、今日は全体的にやりすぎたみたいです",
+      "INDONESIAN": "Jujur ya, hari ini keliatannya agak terlalu heboh sih",
+      "PORTUGUESE": "Sinceramente, acho que hoje tá tudo um pouquinho exagerado.",
+      "SPANISH": "Sinceramente, creo que hoy todo se ve un poco exagerado.",
+      "PERSIAN": "راستش را بخواهید، امروز در مجموع کمی اغراق‌آمیز به نظر می‌رسید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요...?",
+      "ENGLISH": "Really...?",
+      "CHINESE_SIMPLIFIED": "真的？",
+      "CHINESE_TRADITIONAL": "真的...？",
+      "JAPANESE": "ほんとに…？",
+      "INDONESIAN": "Serius...?",
+      "PORTUGUESE": "Sério...?",
+      "SPANISH": "¿De verdad...?",
+      "PERSIAN": "واقعاً...؟"
+    }
+  }
+]

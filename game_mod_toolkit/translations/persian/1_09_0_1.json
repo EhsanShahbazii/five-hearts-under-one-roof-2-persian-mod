@@ -1,0 +1,193 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어이, 우유만이.",
+      "ENGLISH": "Yo, Yuman.",
+      "CHINESE_SIMPLIFIED": "喂，吴宥万",
+      "CHINESE_TRADITIONAL": "喂，吳宥萬",
+      "JAPANESE": "おい、ウ・ユマン",
+      "INDONESIAN": "Hei, Woo Yuman.",
+      "PORTUGUESE": "Ei, Woo Yuman.",
+      "SPANISH": "¿Qué onda, Yumán?",
+      "PERSIAN": "به‌به، اوه یومان گل!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 깜짝이야! 형??",
+      "ENGLISH": "Ah! Jeez—you scared me! Hyung??",
+      "CHINESE_SIMPLIFIED": "啊，吓我一跳！哥？？",
+      "CHINESE_TRADITIONAL": "哇，嚇死我了！哥？？",
+      "JAPANESE": "うわっ、びっくりした！兄貴！？",
+      "INDONESIAN": "Wah, kaget! Kakak??",
+      "PORTUGUESE": "Ah, que susto! Irmão??",
+      "SPANISH": "¡Qué susto! ¿Eres tú, Salchicha?",
+      "PERSIAN": "یا خدا، زهرترکم کردی داداش! تویی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "드디어 일어났구나.",
+      "ENGLISH": "You finally woke up.",
+      "CHINESE_SIMPLIFIED": "你终于醒了啊",
+      "CHINESE_TRADITIONAL": "你終於醒啦",
+      "JAPANESE": "やっと目を覚ましたんだな",
+      "INDONESIAN": "Akhirnya bangun juga ya.",
+      "PORTUGUESE": "Finalmente você acordou.",
+      "SPANISH": "Hasta que despiertas.",
+      "PERSIAN": "بالاخره چشماتو وا کردی مرد!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "맘 같아선 형이 막 꽉 안아주고 싶은데",
+      "ENGLISH": "Honestly, I wanna give you a big hug right now—",
+      "CHINESE_SIMPLIFIED": "说实话我本来想狠狠抱你一下的",
+      "CHINESE_TRADITIONAL": "老實說我本來想狠狠抱你一下",
+      "JAPANESE": "本当は一回ぎゅっと抱きしめてやりたいんだけど",
+      "INDONESIAN": "Kalau boleh, Kakak pengin peluk erat kamu...",
+      "PORTUGUESE": "Se pudesse, eu te daria um abraço bem forte agora,",
+      "SPANISH": "Me gustaría darte un buen abrazo pero…",
+      "PERSIAN": "دلم می‌خواست سفت بغلت کنم و بچلونمت،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "꼴이 이래서 말이야.",
+      "ENGLISH": "But look at the state I’m in.",
+      "CHINESE_SIMPLIFIED": "但我现在这副样子就算了吧",
+      "CHINESE_TRADITIONAL": "但我現在這副德性，就先算了",
+      "JAPANESE": "このありさまでさ",
+      "INDONESIAN": "Tapi lihat kondisi Kakak sekarang, jadi nggak bisa.",
+      "PORTUGUESE": "mas olha só o meu estado...",
+      "SPANISH": "mira el estado en el que estoy.",
+      "PERSIAN": "ولی این ریخت و قیافه‌مو که می‌بینی..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "형 어디 다치셨어요?",
+      "ENGLISH": "Wait... what happened to you?",
+      "CHINESE_SIMPLIFIED": "哥，你受伤了？",
+      "CHINESE_TRADITIONAL": "哥，你受傷了嗎？",
+      "JAPANESE": "兄貴、どこか怪我したんですか？",
+      "INDONESIAN": "Kakak kenapa? Apa ada yang terjadi?",
+      "PORTUGUESE": "Irmão, você também se machucou?",
+      "SPANISH": "¿Qué te pasó, Salchicha?",
+      "PERSIAN": "صبر کن ببینم... تو خودت چت شده چرا این شکلی شدی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그런 게 있다.",
+      "ENGLISH": "Eh, long story.",
+      "CHINESE_SIMPLIFIED": "算是吧",
+      "CHINESE_TRADITIONAL": "就…算是吧",
+      "JAPANESE": "そういうことだ",
+      "INDONESIAN": "Ya, begitulah.",
+      "PORTUGUESE": "Digamos que sim.",
+      "SPANISH": "Sucedió... algo.",
+      "PERSIAN": "داستانش مفصله، بماند..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 25.3
+    },
+    "SCRIPT": {
+      "KOREAN": "다음에 다 나으면 술이나 한잔 하자.",
+      "ENGLISH": "Once I’m better, let’s go grab a drink.",
+      "CHINESE_SIMPLIFIED": "等以后痊愈了，我们一起喝一杯吧",
+      "CHINESE_TRADITIONAL": "等我康復了，改天一起去喝一杯吧",
+      "JAPANESE": "今度治ったら、一杯やろうな",
+      "INDONESIAN": "Kalau nanti udah sembuh semua, kita minum bareng ya.",
+      "PORTUGUESE": "Quando eu melhorar, vamos tomar uma juntos.",
+      "SPANISH": "Cuando esté mejor, vayamos a tomar algo.",
+      "PERSIAN": "حالمون که جا اومد با هم می‌ریم یه دست گلویی تازه می‌کنیم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "SCRIPT": {
+      "ENGLISH": "Aren’t you uncomfortable sitting like that?",
+      "CHINESE_SIMPLIFIED": "不过你这样一直躺着不难受吗？",
+      "CHINESE_TRADITIONAL": "你這樣一直躺著，不累嗎？",
+      "INDONESIAN": "Tapi posisi kayak gitu terus nggak capek?",
+      "PORTUGUESE": "Mas não é difícil ficar assim o tempo todo?",
+      "PERSIAN": "اینجوری نشستی اذیت نمیشی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어 네, 좋아요.",
+      "ENGLISH": "A bit, yeah.",
+      "CHINESE_SIMPLIFIED": "好啊，没问题",
+      "CHINESE_TRADITIONAL": "啊，不會，還好啊",
+      "JAPANESE": "あ、はい、いいですね",
+      "INDONESIAN": "Ah, iya, oke.",
+      "PORTUGUESE": "Ah, sim, claro.",
+      "SPANISH": "Ah, sí… está bien.",
+      "PERSIAN": "یه کم چرا، بدنم کوفته‌ست."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "쉬세요. 그럼.",
+      "ENGLISH": "Okay... let’s hang out later then. Get some rest.",
+      "CHINESE_SIMPLIFIED": "那你先休息，我就不打扰了",
+      "CHINESE_TRADITIONAL": "那你先休息，我就不打擾了",
+      "JAPANESE": "じゃあ、ゆっくり休んでください",
+      "INDONESIAN": "Istirahat ya. Sampai ketemu.",
+      "PORTUGUESE": "Então descanse.",
+      "SPANISH": "Te dejo descansar.",
+      "PERSIAN": "پس استراحت کن فعلاً. بعداً با هم می‌پریم."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 청진기구나...",
+      "ENGLISH": "Whoa, heavier than I thought.",
+      "CHINESE_SIMPLIFIED": "原来这就是听诊器啊…",
+      "CHINESE_TRADITIONAL": "原來這就是聽診器啊…",
+      "JAPANESE": "これが聴診器か…",
+      "INDONESIAN": "Jadi ini yang namanya stetoskop ya...",
+      "PORTUGUESE": "Uau, é mais pesado do que eu pensei.",
+      "SPANISH": "Es un estetoscopio...",
+      "PERSIAN": "پس گوشی پزشکی این شکلیه..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 무겁네.",
+      "ENGLISH": "Does this thing really pick up everything?",
+      "CHINESE_SIMPLIFIED": "还挺重的呢...",
+      "CHINESE_TRADITIONAL": "嗯…還滿重的",
+      "JAPANESE": "ふーん…重いな",
+      "INDONESIAN": "Hmm... lumayan berat juga.",
+      "PORTUGUESE": "Com isso dá pra ouvir mesmo tudo?",
+      "SPANISH": "Ay... Está más pesado de lo que pensé.",
+      "PERSIAN": "هوم... چه سنگینه لامصب."
+    }
+  }
+]

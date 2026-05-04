@@ -1,0 +1,199 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어~~~ 신분증 두고왔나 본데... ",
+      "ENGLISH": "Uh~~~ looks like I forgot my ID…",
+      "CHINESE_SIMPLIFIED": "诶~~~我好像把身份证落家里了…",
+      "CHINESE_TRADITIONAL": "啊～～～我好像把身分證忘在家裡了…",
+      "JAPANESE": "あ〜〜〜、身分証忘れたみたいで…。",
+      "INDONESIAN": "Oh~~~ kayaknya KTP ketinggalan deh...",
+      "PORTUGUESE": "Uh~~~ parece que eu esqueci minha identidade…",
+      "SPANISH": "Ooh~ creo que dejé mi identificación en casa...",
+      "PERSIAN": "امم... مثل اینکه کارت ملیمو جا گذاشتم خونه..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이번만 부탁드릴게요!",
+      "ENGLISH": "Can you let it slide just this once?",
+      "CHINESE_SIMPLIFIED": "这次拜托通融一下，好吗？",
+      "CHINESE_TRADITIONAL": "拜託，就通融這一次！",
+      "JAPANESE": "今回だけお願いできませんか！",
+      "INDONESIAN": "Tolonglah, kali ini aja ya!",
+      "PORTUGUESE": "Não dá pra deixar passar só dessa vez?",
+      "SPANISH": "¡Ayúdeme solo por esta vez!",
+      "PERSIAN": "می‌شه فقط همین یه بارو نادیده بگیرین؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증 주세요.",
+      "ENGLISH": "Please show me your ID.",
+      "CHINESE_SIMPLIFIED": "请出示身份证",
+      "CHINESE_TRADITIONAL": "請出示身分證",
+      "JAPANESE": "身分証をご提示ください",
+      "INDONESIAN": "Silakan tunjukkan KTP.",
+      "PORTUGUESE": "Por favor, mostre sua identidade.",
+      "SPANISH": "Necesito ver su identificación.",
+      "PERSIAN": "کارت ملی‌تونو باید ببینم، قانون مونه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 저 성인 맞아요.",
+      "ENGLISH": "Come on~ I’m definitely over 21.",
+      "CHINESE_SIMPLIFIED": "哎呀～我真的已经成年了啦",
+      "CHINESE_TRADITIONAL": "哎唷～我真的是成年人了啦",
+      "JAPANESE": "えぇ〜、俺ほんとに成人ですよ",
+      "INDONESIAN": "Aduh~ tapi saya beneran udah dewasa kok.",
+      "PORTUGUESE": "Qual é~ eu tenho bem mais de 21.",
+      "SPANISH": "Ándele~ soy mayor de edad.",
+      "PERSIAN": "ای بابا~ سنم از ۲۱ گذشته، قیافه‌م داد می‌زنه!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저 아까 진상한테 구해드렸잖아요...!",
+      "ENGLISH": "I even saved you from that jerk earlier, remember?",
+      "CHINESE_SIMPLIFIED": "我刚刚还帮你解决了那个无理取闹的人…",
+      "CHINESE_TRADITIONAL": "我剛剛還幫你趕走那個找麻煩的人…",
+      "JAPANESE": "さっきだってあのクレーマーから助けてあげたじゃないですか！",
+      "INDONESIAN": "Barusan aja saya nolongin Ibu dari pelanggan rese, lho...!",
+      "PORTUGUESE": "Eu até te salvei daquele idiota antes, lembra?",
+      "SPANISH": "¡Hace rato la salvé del otro cliente…!",
+      "PERSIAN": "تازه همین الان از دست اون پسره قلدر نجاتتون دادم یادتون رفت؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증 없으면 판매가 불가능합니다.",
+      "ENGLISH": "Without an ID, I can’t sell this to you.",
+      "CHINESE_SIMPLIFIED": "没有身份证的话，不能出售相关商品",
+      "CHINESE_TRADITIONAL": "沒有身分證的話，我們無法販售",
+      "JAPANESE": "身分証がない場合は販売できません",
+      "INDONESIAN": "Kalau tanpa KTP, penjualan nggak bisa dilakukan.",
+      "PORTUGUESE": "Sem identidade, eu não posso vender isso pra você.",
+      "SPANISH": "No le puede vender sin identificación.",
+      "PERSIAN": "بدون رؤیت کارت ملی اجازه فروشش رو ندارم متأسفانه."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니~~~",
+      "ENGLISH": "Nooo, seriously~",
+      "CHINESE_SIMPLIFIED": "不是~~",
+      "CHINESE_TRADITIONAL": "不是吧～～～",
+      "JAPANESE": "いやいや〜〜〜",
+      "INDONESIAN": "Aduhh~~~",
+      "PORTUGUESE": "Nããão, sério~",
+      "SPANISH": "¿Es en serio...?",
+      "PERSIAN": "نه آخه خداییش..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "결정적으로 제가 미성년자 얼굴은 아니잖아요? 네?",
+      "ENGLISH": "I mean, do I look underage to you? Right?",
+      "CHINESE_SIMPLIFIED": "最关键是我这张脸怎么看都不像未成年吧？对吧？",
+      "CHINESE_TRADITIONAL": "重點是我這張臉，怎麼看都不像未成年吧？嗯？",
+      "JAPANESE": "だって決定的に、俺どう見ても未成年の顔じゃないでしょ？ね？",
+      "INDONESIAN": "Tapi jelas-jelas muka saya nggak keliatan kayak anak bawah umur, kan? Iya nggak?",
+      "PORTUGUESE": "Quer dizer, eu pareço menor de idade pra você? Né?",
+      "SPANISH": "Si claramente no tengo cara de menor, ¿no cree?",
+      "PERSIAN": "قیافه من آخه به بچه‌مدرسه‌ای‌ها می‌خوره مگه؟ هان؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "얼굴이 그러셔도 판매가 불가능합니다.",
+      "ENGLISH": "Even so, I still can’t sell it without an ID.",
+      "CHINESE_SIMPLIFIED": "就算您长得不像，也不能卖给您",
+      "CHINESE_TRADITIONAL": "即使長得像還是無法販售",
+      "JAPANESE": "お顔がどうであっても、販売はできません",
+      "INDONESIAN": "Meskipun kelihatan begitu, tetap aja nggak bisa dijual tanpa KTP.",
+      "PORTUGUESE": "Mesmo assim, eu não posso vender sem identidade.",
+      "SPANISH": "Aunque se vea mayor, no puedo venderle sin su identificación.",
+      "PERSIAN": "هرجورم باشه، بدون کارت قانوناً نمی‌تونم بهتون بدم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증 들고 다시 방문해주세요.",
+      "ENGLISH": "Please come back with it.",
+      "CHINESE_SIMPLIFIED": "请带好身份证再来吧",
+      "CHINESE_TRADITIONAL": "麻煩您帶著身分證再來一趟",
+      "JAPANESE": "身分証をご持参のうえ、再度ご来店ください",
+      "INDONESIAN": "Tolong bawa KTP dan datang lagi ya.",
+      "PORTUGUESE": "Por favor, volte com ela.",
+      "SPANISH": "Vuelva cuando la tenga, por favor.",
+      "PERSIAN": "لطفاً هروقت کارتتون همراتون بود تشریف بیارین."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠습니다...",
+      "ENGLISH": "…Got it.",
+      "CHINESE_SIMPLIFIED": "好吧我知道了…",
+      "CHINESE_TRADITIONAL": "知道了…",
+      "JAPANESE": "……わかりました",
+      "INDONESIAN": "...Baiklah...",
+      "PORTUGUESE": "…Entendido.",
+      "SPANISH": "...Está bien...",
+      "PERSIAN": "باشه... چشم."
+    }
+  }
+]

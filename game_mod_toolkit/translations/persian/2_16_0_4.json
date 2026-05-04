@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 어...",
+      "ENGLISH": "Huh? Oh…",
+      "CHINESE_SIMPLIFIED": "呃？呃...",
+      "CHINESE_TRADITIONAL": "咦？呃…",
+      "JAPANESE": "あれ? ああ…",
+      "INDONESIAN": "Hah? Oh…",
+      "PORTUGUESE": "Hã? Oh...",
+      "SPANISH": "¿Eh? Oh…",
+      "PERSIAN": "ها؟ اوه…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "수영 좋아하세요?",
+      "ENGLISH": "Do you like swimming?",
+      "CHINESE_SIMPLIFIED": "你喜欢游泳吗？",
+      "CHINESE_TRADITIONAL": "你喜歡游泳嗎？",
+      "JAPANESE": "水泳 好きなんですか?",
+      "INDONESIAN": "Kamu suka renang, ya?",
+      "PORTUGUESE": "Você gosta de nadar?",
+      "SPANISH": "¿Te gusta nadar?",
+      "PERSIAN": "شما شنا را دوست دارید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네! ",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "喜歡！",
+      "JAPANESE": "はい!",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어렸을 때부터 해왔어요.",
+      "ENGLISH": "I’ve been doing it since I was a kid.",
+      "CHINESE_SIMPLIFIED": "从小就开始游了",
+      "CHINESE_TRADITIONAL": "我從小時候就開始游泳了",
+      "JAPANESE": "子どもの頃からやってました",
+      "INDONESIAN": "Aku udah suka renang dari kecil.",
+      "PORTUGUESE": "Faço isso desde que era criança.",
+      "SPANISH": "Lo hago desde que era niña.",
+      "PERSIAN": "من از بچگی این کار را انجام داده ام."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오, 뭔가 운동 잘 할 거 같아요.",
+      "ENGLISH": "Oh wow, you totally seem like you'd be athletic.",
+      "CHINESE_SIMPLIFIED": "哦，看起来就很擅长运动呢",
+      "CHINESE_TRADITIONAL": "哦，感覺你很擅長運動",
+      "JAPANESE": "お〜なんか運動得意そうですね",
+      "INDONESIAN": "Wah, pantesan—keliatan banget kamu atletis.",
+      "PORTUGUESE": "Dá pra ver que você manda bem em esportes.",
+      "SPANISH": "Se nota que se te da bien el deporte.",
+      "PERSIAN": "اوه وای، به نظر می رسد شما کاملاً ورزشکار هستید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저야 뭐, 못 하는 게 없긴 한데",
+      "ENGLISH": "Well, I mean… there’s not much I can’t do.",
+      "CHINESE_SIMPLIFIED": "我嘛，倒是没什么不会的",
+      "CHINESE_TRADITIONAL": "我喔，基本上沒有什麼不會的",
+      "JAPANESE": "まあ私は できないことは特にないですけど",
+      "INDONESIAN": "Hehe, yah… emang nggak banyak hal yang nggak bisa aku lakuin.",
+      "PORTUGUESE": "Bom, na verdade, não tem nada que eu não faça bem...",
+      "SPANISH": "Bueno, yo en realidad no hay nada que no se me dé bien…",
+      "PERSIAN": "خوب، منظورم این است که ... چیز زیادی وجود ندارد که نمی توانم انجام دهم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "다음에 같이 수영하러 가실래요?",
+      "ENGLISH": "Wanna go swimming together sometime?",
+      "CHINESE_SIMPLIFIED": "下次要一起去游泳吗？",
+      "CHINESE_TRADITIONAL": "下次我們一起去游泳好不好？",
+      "JAPANESE": "今度 一緒に泳ぎに行きませんか?",
+      "INDONESIAN": "Mau renang bareng kapan-kapan?",
+      "PORTUGUESE": "Quer ir nadar comigo da próxima vez?",
+      "SPANISH": "¿Quiere que vayamos a nadar juntos la próxima vez?",
+      "PERSIAN": "میخوای یه وقتایی با هم بریم شنا کنیم؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저요?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我吗？",
+      "CHINESE_TRADITIONAL": "我嗎？",
+      "JAPANESE": "えっ 俺が?",
+      "INDONESIAN": "Aku?",
+      "PORTUGUESE": "Comigo?",
+      "SPANISH": "¿Conmigo?",
+      "PERSIAN": "من؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 수영을 잘 못하는데...",
+      "ENGLISH": "I’m not really good at it...",
+      "CHINESE_SIMPLIFIED": "我游泳不太行...",
+      "CHINESE_TRADITIONAL": "我不太會游泳…",
+      "JAPANESE": "俺 水泳あんまり得意じゃないですけど…",
+      "INDONESIAN": "Aku nggak terlalu jago sih…",
+      "PORTUGUESE": "É que eu não sei nadar muito bem...",
+      "SPANISH": "Es que no sé nadar muy bien…",
+      "PERSIAN": "من واقعا در اون خوب نیستم ..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 알려줄게요!",
+      "ENGLISH": "I’ll teach you!",
+      "CHINESE_SIMPLIFIED": "我可以教你！",
+      "CHINESE_TRADITIONAL": "我來教你！",
+      "JAPANESE": "じゃあ私が教えてあげますよ!",
+      "INDONESIAN": "Tenang aja, aku ajarin!",
+      "PORTUGUESE": "Eu te ensino!",
+      "SPANISH": "¡Yo te enseño!",
+      "PERSIAN": "بهت یاد میدم!"
+    }
+  }
+]

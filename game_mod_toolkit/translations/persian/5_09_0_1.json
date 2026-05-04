@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왼쪽이 맞는 거 같아요.",
+      "ENGLISH": "I think it’s this way—on the left.",
+      "CHINESE_SIMPLIFIED": "好像是左边没错...",
+      "CHINESE_TRADITIONAL": "好像往左邊走才對",
+      "JAPANESE": "左の方で合ってるみたいです",
+      "INDONESIAN": "Kayaknya lewat sini deh—ke kiri.",
+      "PORTUGUESE": "Acho que é pra esquerda.",
+      "SPANISH": "Creo que es a la izquierda.",
+      "PERSIAN": "فکر می‌کنم به این صورت است - در سمت چپ."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 복도에 아무것도 없고 조용하네요. ",
+      "ENGLISH": "Yeah… the hallway’s totally empty and quiet.",
+      "CHINESE_SIMPLIFIED": "嗯...走廊里空荡荡的好安静啊",
+      "CHINESE_TRADITIONAL": "嗯...但走廊上什麼也沒有，好安靜",
+      "JAPANESE": "はい…廊下、何もなくて静かですね",
+      "INDONESIAN": "Iya… lorongnya sepi banget, sunyi pula.",
+      "PORTUGUESE": "Aham... não vejo ninguém no corredor e tá tudo em silêncio.",
+      "SPANISH": "Ajá... no veo a nadie en el pasillo y todo está en silencio.",
+      "PERSIAN": "بله... راهرو کاملاً خالی و ساکت است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "역시 그냥 괴담이 맞네에에엑!!",
+      "ENGLISH": "Guess it really was just a ghost story—AAAH!!",
+      "CHINESE_SIMPLIFIED": "果然只是怪谈嘛啊啊啊啊！！",
+      "CHINESE_TRADITIONAL": "看來只是個鬼故事而已吧...啊啊啊！！",
+      "JAPANESE": "やっぱりただの怪談だったみたい──ぎゃあああっ！！",
+      "INDONESIAN": "Kayaknya emang cuma cerita hantu doang—AAAH!!",
+      "PORTUGUESE": "Sabia que essa história de fantasma era ment—aaahhh!",
+      "SPANISH": "Sabía que lo de fantasma no era verd—¡aaahhh!",
+      "PERSIAN": "حدس بزنید واقعاً فقط یک داستان ارواح بود - آاااخ!!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 뭐야! 괜찮아요?? 안 다쳤어요??",
+      "ENGLISH": "Wha—! Are you okay?! You’re not hurt, are you??",
+      "CHINESE_SIMPLIFIED": "呃！什么呀！你没事吧？？没受伤吧？？",
+      "CHINESE_TRADITIONAL": "欸！怎麼了！沒事吧？？沒有受傷吧？？",
+      "JAPANESE": "えっ！なに！？大丈夫ですか！？ケガしてない！？",
+      "INDONESIAN": "Eh—! Kamu nggak apa-apa?! Nggak cedera kan??",
+      "PORTUGUESE": "Oh! O que foi isso? Você tá bem? Não se machucou?",
+      "SPANISH": "¡Oh! ¿Qué fue eso? ¿Estás bien? ¿No te lastimaste?",
+      "PERSIAN": "وای-! حالت خوبه؟! صدمه نخوردی، نه؟؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "으아아... 바닥이 좀 미끄러워서...",
+      "ENGLISH": "Agh… the floor’s just kinda slippery…",
+      "CHINESE_SIMPLIFIED": "呜呜啊...地板有点滑...",
+      "CHINESE_TRADITIONAL": "呃啊...地板有點滑...",
+      "JAPANESE": "うわぁ…床がちょっと滑ってて…",
+      "INDONESIAN": "Agh… lantainya licin banget…",
+      "PORTUGUESE": "O chão tá meio... escorregadio...",
+      "SPANISH": "El piso está un poco... resbaloso...",
+      "PERSIAN": "آه...زمین فقط کمی لیز است…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 바나나 껍질? 이게 왜 여기있지?",
+      "ENGLISH": "Huh? A banana peel? What’s this doing here?",
+      "CHINESE_SIMPLIFIED": "呃？香蕉皮？这怎么在这儿？",
+      "CHINESE_TRADITIONAL": "咦？香蕉皮？這裡怎麼會有香蕉皮？",
+      "JAPANESE": "え？バナナの皮？なんでこんなところに…？",
+      "INDONESIAN": "Hah? Kulit pisang? Ngapain ada di sini?",
+      "PORTUGUESE": "Hã? O que uma casca de banana tá fazendo aqui?",
+      "SPANISH": "¿Eh? ¿Que hace aquí una cáscara de plátano?+",
+      "PERSIAN": "ها؟ پوست موز؟ این اینجا چیکار میکنه"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "누가 먹다 버렸나 봐요...",
+      "ENGLISH": "Someone probably tossed it after eating.",
+      "CHINESE_SIMPLIFIED": "估计是谁吃完扔在这的...",
+      "CHINESE_TRADITIONAL": "看來是誰吃完亂丟的...",
+      "JAPANESE": "誰か食べて捨てたのかも…",
+      "INDONESIAN": "Paling ada yang buang abis makan.",
+      "PORTUGUESE": "Parece que alguém jogou fora depois de comer...",
+      "SPANISH": "Parece que alguien la tiró después de comer...",
+      "PERSIAN": "احتمالاً یکی بعد از غذا خوردن اونو پرت کرده است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 손 좀 잡아줄 수 있어요?",
+      "ENGLISH": "Can you give me a hand?",
+      "CHINESE_SIMPLIFIED": "能拉我一把吗？",
+      "CHINESE_TRADITIONAL": "你能扶我一下嗎？",
+      "JAPANESE": "あの、手ちょっと貸してもらえます？",
+      "INDONESIAN": "Bisa tolong bantuin aku berdiri?",
+      "PORTUGUESE": "Você me ajuda a levantar?",
+      "SPANISH": "¿Me ayudas a levantarme?",
+      "PERSIAN": "میشه یه دستی به من بدی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 32.6
+    },
+    "SCRIPT": {
+      "KOREAN": "으...아휴...",
+      "ENGLISH": "Ugh… thanks…",
+      "CHINESE_SIMPLIFIED": "呃...哎哟...",
+      "CHINESE_TRADITIONAL": "呃...哎唷喂...",
+      "JAPANESE": "うっ…はぁ…",
+      "INDONESIAN": "Ugh… makasih…",
+      "PORTUGUESE": "Ugh... ai...",
+      "SPANISH": "Ugh... ay...",
+      "PERSIAN": "اوه… ممنون…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "(웃음)",
+      "ENGLISH": "(laughs)",
+      "CHINESE_SIMPLIFIED": "（偷笑）",
+      "CHINESE_TRADITIONAL": "（偷笑）",
+      "JAPANESE": "（クスッ）",
+      "INDONESIAN": "(tertawa)",
+      "PORTUGUESE": "(risos)",
+      "SPANISH": "(ríe)",
+      "PERSIAN": "(می خندد)"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.1,
+      "HIDE": 37.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야, 왜 웃어요?",
+      "ENGLISH": "What? Why are you laughing?",
+      "CHINESE_SIMPLIFIED": "什么呀，你笑什么？",
+      "CHINESE_TRADITIONAL": "你笑什麼啦？",
+      "JAPANESE": "なに？なんで笑うんですか？",
+      "INDONESIAN": "Apa? Kenapa ketawa?",
+      "PORTUGUESE": "Hã? Por que você tá rindo?",
+      "SPANISH": "¿Eh? ¿Por qué te ríes?",
+      "PERSIAN": "چی؟ چرا میخندی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 40.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 미안해요, 방금 넘어진 거 생각나서.",
+      "ENGLISH": "Sorry! I just pictured you slipping like that again.",
+      "CHINESE_SIMPLIFIED": "啊，抱歉，刚刚你摔倒的样子有点好笑",
+      "CHINESE_TRADITIONAL": "啊對不起，只是想到你剛才跌倒的樣子",
+      "JAPANESE": "あ、ごめんなさい、今の転んだとこ思い出して",
+      "INDONESIAN": "Maaf! Aku tadi kebayang kamu jatuh kayak gitu lagi.",
+      "PORTUGUESE": "Ah, desculpa, é que lembrei de como você caiu.",
+      "SPANISH": "Ah, perdón, es que recordé cómo te caíste.",
+      "PERSIAN": "متاسفم! من فقط تو را در حال لغزش دوباره تصور کردم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 40.2,
+      "HIDE": 42.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 엉덩이 아파 죽겠구만...!",
+      "ENGLISH": "Ugh, my butt hurts, you know…!",
+      "CHINESE_SIMPLIFIED": "啊，我屁股都痛死了...！",
+      "CHINESE_TRADITIONAL": "啊，屁股痛死了啦...!",
+      "JAPANESE": "お尻めっちゃ痛いんだけど…！",
+      "INDONESIAN": "Ugh, pantatku sakit tau…!",
+      "PORTUGUESE": "Ah, ainda tá doendo meu traseiro...!",
+      "SPANISH": "¡Ah, aún me duele el trasero...!",
+      "PERSIAN": "اوه، باسنم درد می‌کنه، می‌دونی…!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 42.5,
+      "HIDE": 44.8
+    },
+    "SCRIPT": {
+      "KOREAN": "지금부터 진짜 안 웃을게요.",
+      "ENGLISH": "Alright, I swear—no more laughing from now on.",
+      "CHINESE_SIMPLIFIED": "我保证从现在开始真的不笑了",
+      "CHINESE_TRADITIONAL": "從現在開始不會再笑了",
+      "JAPANESE": "今からもう絶対笑いませんって",
+      "INDONESIAN": "Oke deh, sumpah—nggak ketawa lagi sekarang.",
+      "PORTUGUESE": "Tá bom, não vou rir mais, prometo.",
+      "SPANISH": "Ya no me voy a reír, lo prometo.",
+      "PERSIAN": "خوب، قسم می خورم - از این به بعد دیگر نخندید."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 45.9,
+      "HIDE": 48.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 잠깐만요.",
+      "ENGLISH": "Oh! Wait a sec.",
+      "CHINESE_SIMPLIFIED": "呃！等一下",
+      "CHINESE_TRADITIONAL": "啊，等一下",
+      "JAPANESE": "あっ！ちょっと待ってください",
+      "INDONESIAN": "Oh! Tunggu bentar.",
+      "PORTUGUESE": "Oh! Espera um segundo.",
+      "SPANISH": "¡Oh! Espere un segundo.",
+      "PERSIAN": "اوه! یک ثانیه صبر کنید"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 49.1,
+      "HIDE": 51.2
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요? 나 아직 안 웃었는데?",
+      "ENGLISH": "What? I didn’t laugh yet!",
+      "CHINESE_SIMPLIFIED": "怎么了？我还没笑呢？",
+      "CHINESE_TRADITIONAL": "怎麼了？我還沒笑呀？",
+      "JAPANESE": "なんで？まだ笑ってないよ？",
+      "INDONESIAN": "Hah? Aku belum ketawa kok!",
+      "PORTUGUESE": "Mas eu nem tô rindo.",
+      "SPANISH": "Pero no me estoy riendo.",
+      "PERSIAN": "چی؟ من هنوز نخندیدم!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 53.4
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 무슨 소리 들리지 않았어요?",
+      "ENGLISH": "Shh… do you hear that?",
+      "CHINESE_SIMPLIFIED": "你刚刚有听到什么声音吗？",
+      "CHINESE_TRADITIONAL": "噓...! 好像有什麼聲音？",
+      "JAPANESE": "しっ…！今なんか音しません？",
+      "INDONESIAN": "Sst… dengerin deh.",
+      "PORTUGUESE": "Shh...! Não tá ouvindo isso?",
+      "SPANISH": "¡Shh...! ¿No escuchas eso?",
+      "PERSIAN": "هه ... میشنوی؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 53.5,
+      "HIDE": 55.9
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 저희 발소리겠죠.",
+      "ENGLISH": "Eh, it’s probably just our footsteps.",
+      "CHINESE_SIMPLIFIED": "哎呦，肯定是我们的脚步声啦",
+      "CHINESE_TRADITIONAL": "哎唷，應該是我們的腳步聲吧",
+      "JAPANESE": "え〜たぶん私たちの足音ですよ",
+      "INDONESIAN": "Eh, paling juga suara langkah kita sendiri.",
+      "PORTUGUESE": "São só nossos passos.",
+      "SPANISH": "Solo son nuestros pasos.",
+      "PERSIAN": "اوه، احتمالاً این فقط ردپای ماست."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 56.0,
+      "HIDE": 56.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그런가...?",
+      "ENGLISH": "You think so…?",
+      "CHINESE_SIMPLIFIED": "是吗...？",
+      "CHINESE_TRADITIONAL": "是這樣嗎...？",
+      "JAPANESE": "そうかな…？",
+      "INDONESIAN": "Yakin…?",
+      "PORTUGUESE": "Será que é...?!",
+      "SPANISH": "¿Acaso será...?",
+      "PERSIAN": "شما اینطوری فکر میکنید…؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 57.6,
+      "HIDE": 58.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야!!!",
+      "ENGLISH": "What the hell!!!",
+      "CHINESE_SIMPLIFIED": "什么啊！！！",
+      "CHINESE_TRADITIONAL": "什麼東西！！！",
+      "JAPANESE": "なに！！！",
+      "INDONESIAN": "Apaan tuh!!!",
+      "PORTUGUESE": "O que foi isso?!!!",
+      "SPANISH": "¡¿Qué fue eso?!!!",
+      "PERSIAN": "چه جهنمی!!!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 58.1,
+      "HIDE": 59.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야아....!",
+      "ENGLISH": "What is that…?!",
+      "CHINESE_SIMPLIFIED": "什么呀....！",
+      "CHINESE_TRADITIONAL": "什麼什麼東西...！",
+      "JAPANESE": "なにい……！",
+      "INDONESIAN": "Itu apaan…?!",
+      "PORTUGUESE": "Que diabos...?!",
+      "SPANISH": "¡¿Qué demonios...?!",
+      "PERSIAN": "اون چیه…؟!"
+    }
+  }
+]

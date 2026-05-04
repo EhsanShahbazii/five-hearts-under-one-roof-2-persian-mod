@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨 되게 무뚝뚝한 성격인 거 아시죠.",
+      "ENGLISH": "You know you have a pretty blunt personality, right, Yu-jeong?",
+      "CHINESE_SIMPLIFIED": "有情，你知道自己其实挺高冷的吧？",
+      "CHINESE_TRADITIONAL": "有情小姐，你知道自己其實有點木訥吧？",
+      "JAPANESE": "ユジョンさんって、けっこう無口な性格ですよね",
+      "INDONESIAN": "Kamu tahu kan kalau kamu tuh orangnya cukup blak-blakan, Yu-jeong?",
+      "PORTUGUESE": "Você sabe que tem um jeito bem sério, né?",
+      "SPANISH": "Sabes que tienes un carácter bastante serio, ¿verdad?",
+      "PERSIAN": "می دانی که شخصیت بسیار رک داری، درست است، یو-جئونگ؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 제가 좀 소심하기도 해서...",
+      "ENGLISH": "Ah… I’m a bit timid too, so…",
+      "CHINESE_SIMPLIFIED": "啊...我确实有点内向...",
+      "CHINESE_TRADITIONAL": "啊...我也有點內向...",
+      "JAPANESE": "あ、ちょっと小心者なところもあるので…",
+      "INDONESIAN": "Ah… aku juga agak penakut sih, jadi…",
+      "PORTUGUESE": "Ah, é que eu sou um pouco tímida...",
+      "SPANISH": "Ah, es que soy un poco tímida...",
+      "PERSIAN": "آه... من هم کمی ترسو هستم، پس…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 안 좋다는 게 아니에요.",
+      "ENGLISH": "Oh, I don’t mean it in a bad way.",
+      "CHINESE_SIMPLIFIED": "啊，我不是说这样不好！",
+      "CHINESE_TRADITIONAL": "啊，我不是說這樣不好",
+      "JAPANESE": "いや、悪い意味じゃないですよ",
+      "INDONESIAN": "Oh, aku nggak maksud negatif, kok.",
+      "PORTUGUESE": "Ah, não tô dizendo isso como algo ruim.",
+      "SPANISH": "Ah, no lo digo como algo malo.",
+      "PERSIAN": "اوه، منظورم بد نیست."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 가끔씩 유정 씨가 웃을 때면 ",
+      "ENGLISH": "It’s just — whenever you do smile sometimes,",
+      "CHINESE_SIMPLIFIED": "只是啊，你偶尔笑起来的时候",
+      "CHINESE_TRADITIONAL": "只是，你偶爾笑起來的時候",
+      "JAPANESE": "だから、たまにユジョンさんが笑うと",
+      "INDONESIAN": "Soalnya — pas kamu senyum sesekali,",
+      "PORTUGUESE": "Por isso, nas poucas vezes que você sorri,",
+      "SPANISH": "Por eso, las pocas veces que sonríes",
+      "PERSIAN": "فقط - هر وقت گاهی اوقات لبخند می زنید،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 너무 예쁘다고요",
+      "ENGLISH": "it’s so pretty.",
+      "CHINESE_SIMPLIFIED": "真的特别漂亮",
+      "CHINESE_TRADITIONAL": "笑的樣子很太漂亮喔",
+      "JAPANESE": "すごく可愛いなって思うんです",
+      "INDONESIAN": "itu cantik banget.",
+      "PORTUGUESE": "fica muito bonita.",
+      "SPANISH": "te ves muy bonita",
+      "PERSIAN": "خیلی زیباست"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 그게 뭐예요~~",
+      "ENGLISH": "Huh? What do you mean~~",
+      "CHINESE_SIMPLIFIED": "诶？突然说什么呢~~",
+      "CHINESE_TRADITIONAL": "欸？那是什麼意思啊～",
+      "JAPANESE": "え？なんですか〜",
+      "INDONESIAN": "Hah? Maksudnya apa sih~~",
+      "PORTUGUESE": "Hã? Mas o que é que você tá dizendo...?",
+      "SPANISH": "¿Eh? ¿Pero qué cosas dice...?",
+      "PERSIAN": "ها؟ منظورت چیه ~~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 이런 거!",
+      "ENGLISH": "Like this — just like that!",
+      "CHINESE_SIMPLIFIED": "就像这样！",
+      "CHINESE_TRADITIONAL": "沒錯！就像這樣！",
+      "JAPANESE": "そうそう！こういうの！",
+      "INDONESIAN": "Kayak gini — nah, pas kayak gitu!",
+      "PORTUGUESE": "Exato! Essa expressão aí.",
+      "SPANISH": "¡Exacto! Justo esa expresión.",
+      "PERSIAN": "مثل این - همینطور!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 하숙집에 있으면서 많이 웃어줘요!",
+      "ENGLISH": "While you’re staying at the boarding house, I hope you smile a lot more!",
+      "CHINESE_SIMPLIFIED": "以后在公寓也要经常笑哦！",
+      "CHINESE_TRADITIONAL": "以後在公寓裡也要經常笑喔！",
+      "JAPANESE": "これから下宿でもっとたくさん笑ってください！",
+      "INDONESIAN": "Selama kamu tinggal di rumah kos, aku harap kamu bisa lebih sering senyum!",
+      "PORTUGUESE": "Enquanto você estiver na pensão, quero te ver sorrir mais.",
+      "SPANISH": "Mientras sigas en la pensión, quiero verte sonreír más.",
+      "PERSIAN": "در حالی که در پانسیون اقامت دارید، امیدوارم بیشتر لبخند بزنید!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 참고로 강요하는 거 아니에요!",
+      "ENGLISH": "Ah — for the record, I’m not forcing you or anything!",
+      "CHINESE_SIMPLIFIED": "啊对了，这可不是在强迫你！",
+      "CHINESE_TRADITIONAL": "啊，不過，我不是在強迫你！",
+      "JAPANESE": "あ、ちなみに強制じゃないですよ！",
+      "INDONESIAN": "Ah — tapi bukan maksudnya aku maksa atau gimana ya!",
+      "PORTUGUESE": "Ah, mas não tô te obrigando, viu?",
+      "SPANISH": "Ah, pero no te estoy obligando",
+      "PERSIAN": "آه - برای ثبت، من شما را مجبور نمی کنم یا چیزی!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 앞으로 더 많이 웃을게요!",
+      "ENGLISH": "Okay! I’ll smile more from now on!",
+      "CHINESE_SIMPLIFIED": "嗯！以后我会多笑的！",
+      "CHINESE_TRADITIONAL": "嗯！以後我會多笑的！",
+      "JAPANESE": "はい！これからもっと笑うようにします！",
+      "INDONESIAN": "Oke! Mulai sekarang aku bakal lebih sering senyum!",
+      "PORTUGUESE": "Vou sorrir bem mais daqui pra frente.",
+      "SPANISH": "Sonreiré mucho más de ahora en adelante.",
+      "PERSIAN": "باشه! از این به بعد بیشتر لبخند خواهم زد!"
+    }
+  }
+]

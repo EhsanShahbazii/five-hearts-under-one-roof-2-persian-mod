@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나 모델 계약 중이었다고!",
+      "ENGLISH": "I was in the middle of a model contract signing!",
+      "CHINESE_SIMPLIFIED": "我正在谈模特合约呢！",
+      "CHINESE_TRADITIONAL": "我現在正在談模特兒合約！",
+      "JAPANESE": "私、モデル契約の最中だったの！",
+      "INDONESIAN": "Aku tadi lagi proses tanda tangan kontrak model!",
+      "PORTUGUESE": "Eu tava assinando um contrato de modelagem!",
+      "SPANISH": "¡Estaba firmando un contrato de modaje!",
+      "PERSIAN": "من وسط امضای قرارداد نمونه بودم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "엇, 그럼 이 분은...",
+      "ENGLISH": "Oh— then this person is…",
+      "CHINESE_SIMPLIFIED": "呃...那这位是...",
+      "CHINESE_TRADITIONAL": "呃...那這位是...",
+      "JAPANESE": "えっ、じゃあこの方は…",
+      "INDONESIAN": "Oh—jadi orang ini…",
+      "PORTUGUESE": "Hã? Então esse senhor é…",
+      "SPANISH": "¿Eh? Entonces este señor es…",
+      "PERSIAN": "اوه—پس این شخص…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "에이전시 대표님이셔.",
+      "ENGLISH": "She’s the agency director.",
+      "CHINESE_SIMPLIFIED": "是经纪公司的代表",
+      "CHINESE_TRADITIONAL": "是經紀公司的代表",
+      "JAPANESE": "エージェンシーの代表さん",
+      "INDONESIAN": "Dia direktur agensinya.",
+      "PORTUGUESE": "O diretor da agência.",
+      "SPANISH": "El director de la agencia.",
+      "PERSIAN": "او مدیر آژانس است"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 안녕하세요...",
+      "ENGLISH": "Ah, hello…",
+      "CHINESE_SIMPLIFIED": "啊，您好...",
+      "CHINESE_TRADITIONAL": "啊...您好...",
+      "JAPANESE": "あっ、はじめまして…",
+      "INDONESIAN": "Ah, halo…",
+      "PORTUGUESE": "Ah, muito prazer…",
+      "SPANISH": "Ah, mucho gusto…",
+      "PERSIAN": "آه، سلام…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이 사람 누굽니까?",
+      "ENGLISH": "Who is this?",
+      "CHINESE_SIMPLIFIED": "这人是谁啊？",
+      "CHINESE_TRADITIONAL": "這個人是誰？",
+      "JAPANESE": "この人は誰ですか？",
+      "INDONESIAN": "Ini siapa?",
+      "PORTUGUESE": "E esse quem é?",
+      "SPANISH": "¿Y este quién es?",
+      "PERSIAN": "این کیه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "누군데 계약 중에 이렇게 행패를 부려요...!",
+      "ENGLISH": "Who dares cause a scene during a contract meeting…!",
+      "CHINESE_SIMPLIFIED": "为什么在谈合约的时候闹事...！",
+      "CHINESE_TRADITIONAL": "為什麼在簽約的時候鬧事...！",
+      "JAPANESE": "契約中にこんな乱暴なことして…！",
+      "INDONESIAN": "Siapa yang berani bikin ribut pas lagi meeting kontrak…!",
+      "PORTUGUESE": "Quem você pensa que é pra fazer um escândalo desses…?",
+      "SPANISH": "¿Quién se cree para armar semejante escándalo…?",
+      "PERSIAN": "کی جرات داره سر جلسه قرارداد صحنه ساز کنه…!"
+    }
+  }
+]

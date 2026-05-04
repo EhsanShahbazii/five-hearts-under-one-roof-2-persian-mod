@@ -1,0 +1,35 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "SHOW": 5,
+      "HIDE": 6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 쓰레기 뭐야",
+      "PERSIAN": "아이، 쓰레기 뭐야"
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 7,
+      "HIDE": 8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 치우고 가야 되나?",
+      "PERSIAN": "아، 치우고 가야 되나؟"
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 9,
+      "HIDE": 12
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 어떡하지. 시간 없는데…",
+      "PERSIAN": "아، 어떡하지. 시간 없는데…"
+    }
+  }
+]

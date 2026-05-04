@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 1.9
+    },
+    "SCRIPT": {
+      "KOREAN": "라면하면 고말숙이지.",
+      "ENGLISH": "When it comes to ramen, nobody beats Mal-sook.",
+      "CHINESE_SIMPLIFIED": "要说煮泡面还得是高末淑啊",
+      "CHINESE_TRADITIONAL": "說到煮泡麵，還是要靠高末淑啊～",
+      "JAPANESE": "ラーメンといえば、やっぱりコ・マルスクでしょ",
+      "INDONESIAN": "Kalau bicara ramen, tak ada yang mengalahkan Mal-sook.",
+      "PORTUGUESE": "A Malsook é a melhor fazendo ramyeon.",
+      "SPANISH": "Malsook es la mejor haciendo ramyeon.",
+      "PERSIAN": "وقتی صحبت از رامن می شود، هیچ کس مال‌سوک را شکست نمی دهد."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐래~",
+      "ENGLISH": "Oh, stop~",
+      "CHINESE_SIMPLIFIED": "哎呀，胡说什么呢~",
+      "CHINESE_TRADITIONAL": "說什麼啦～",
+      "JAPANESE": "何それ〜",
+      "INDONESIAN": "Oh, berhenti~",
+      "PORTUGUESE": "O que você tá dizendo?",
+      "SPANISH": "¿Pero que dices?",
+      "PERSIAN": "اوه بس کن~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "야 솔직히 라면은 우리 엄마도 너한테 못 비벼",
+      "ENGLISH": "No, for real—even my mom can’t top your ramen.",
+      "CHINESE_SIMPLIFIED": "说实话，煮泡面连我妈都比不过你",
+      "CHINESE_TRADITIONAL": "說實在，連我媽煮的泡麵都比不過你",
+      "JAPANESE": "いや正直さ、ラーメンだけはうちの母さんでもお前には勝てない",
+      "INDONESIAN": "Tidak, serius—bahkan ibuku tak bisa mengalahkan ramenmu.",
+      "PORTUGUESE": "Sinceramente, você cozinha até melhor que minha mãe.",
+      "SPANISH": "Sinceramente, le ganas incluso a mi mamá.",
+      "PERSIAN": "نه، واقعاً - حتی مادرم هم نمی‌تونه رام شما را بالا ببرد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야! 이모님이 들으시면 속상해하시겠다.",
+      "ENGLISH": "Hey! Don’t let my aunt hear that—she’ll be heartbroken.",
+      "CHINESE_SIMPLIFIED": "喂！让阿姨听到该伤心了",
+      "CHINESE_TRADITIONAL": "喂！阿姨聽到會難過的啦",
+      "JAPANESE": "ちょっと！ おばさんが聞いたら悲しむって！",
+      "INDONESIAN": "Hei! Jangan sampai bibiku dengar itu—dia pasti patah hati.",
+      "PORTUGUESE": "Ei! Se a tia te ouve, vai ficar chateada.",
+      "SPANISH": "¡Oye! Si la tía te escucha, se va a sentir mal.",
+      "PERSIAN": "سلام! اجازه نده عمه من اینو بشنود - او دلش خواهد شکست."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 세팅만 좀 해줘 ",
+      "ENGLISH": "Alright, just help set the table. I’ll go make the ramen.",
+      "CHINESE_SIMPLIFIED": "那你帮忙准备一下",
+      "CHINESE_TRADITIONAL": "那你去幫忙拿碗筷",
+      "JAPANESE": "じゃあ、テーブルの準備だけお願い",
+      "INDONESIAN": "Baiklah, bantu siapkan meja saja. Aku akan membuat ramen.",
+      "PORTUGUESE": "Então me ajuda a pôr a mesa,",
+      "SPANISH": "Entonces ayúdame a poner la mesa,",
+      "PERSIAN": "بسیار خوب، فقط کمک کنید تا میز را بچینید. من برم رامن درست کنم"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 라면 끓여와 줄게",
+      "ENGLISH": "I’ll go make the ramyun.",
+      "CHINESE_SIMPLIFIED": "我去煮泡面给你们",
+      "CHINESE_TRADITIONAL": "我去煮麵給你們",
+      "JAPANESE": "ラーメンは俺が作ってくる",
+      "INDONESIAN": "Aku akan membuat ramyun.",
+      "PORTUGUESE": "eu preparo o ramen.",
+      "SPANISH": "yo preparo el ramen.",
+      "PERSIAN": "من برم رامیون درست کنم"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "계란도 넣을까?",
+      "ENGLISH": "Should I add eggs?",
+      "CHINESE_SIMPLIFIED": "要放鸡蛋吗？",
+      "CHINESE_TRADITIONAL": "要加蛋嗎？",
+      "JAPANESE": "卵も入れようか？",
+      "INDONESIAN": "Haruskah saya menambahkan telur?",
+      "PORTUGUESE": "Coloco ovo também?",
+      "SPANISH": "¿Le pongo huevo también?",
+      "PERSIAN": "باید تخم مرغ اضافه کنم؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "계란도 있어?",
+      "ENGLISH": "Wait, we have eggs?",
+      "CHINESE_SIMPLIFIED": "还有鸡蛋？",
+      "CHINESE_TRADITIONAL": "還有蛋嗎？",
+      "JAPANESE": "卵あるの？",
+      "INDONESIAN": "Tunggu, kita punya telur?",
+      "PORTUGUESE": "Tem ovo?",
+      "SPANISH": "¿Hay huevo?",
+      "PERSIAN": "صبر کنید، ما تخم مرغ داریم؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "응 몇 개~",
+      "ENGLISH": "Yeah, a few.",
+      "CHINESE_SIMPLIFIED": "嗯，有几个~",
+      "CHINESE_TRADITIONAL": "嗯，還有幾顆～",
+      "JAPANESE": "うん、何個か〜",
+      "INDONESIAN": "Ya, beberapa.",
+      "PORTUGUESE": "Sim, alguns.",
+      "SPANISH": "Sí, unos cuantos",
+      "PERSIAN": "آره چند تا"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍...세 명이니까, 네 개넣을까?",
+      "ENGLISH": "Hmm... there’s three of us—should I throw in four?",
+      "CHINESE_SIMPLIFIED": "三个人，放四个怎么样？",
+      "CHINESE_TRADITIONAL": "嗯...我們有三個人，那就放四顆？",
+      "JAPANESE": "三人だから、四つ入れようか？",
+      "INDONESIAN": "Hmm... ada tiga orang di antara kita—haruskah saya tambahkan empat?",
+      "PORTUGUESE": "Hmm... Como somos três, que tal quatro?",
+      "SPANISH": "Hmm... Como somos tres, ¿qué tal cuatro?",
+      "PERSIAN": "هوم... ما سه نفر هستیم - باید چهار نفر را وارد کنم؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "에? 그렇게 많이 넣어요?",
+      "ENGLISH": "Four?! Isn’t that a bit much?",
+      "CHINESE_SIMPLIFIED": "啊？放那么多啊？",
+      "CHINESE_TRADITIONAL": "欸？要加這麼多？",
+      "JAPANESE": "えっ、そんなに入れるんですか？",
+      "INDONESIAN": "Empat?! Bukankah itu agak berlebihan?",
+      "PORTUGUESE": "Hã? Tantos assim?",
+      "SPANISH": "¿Eh? ¿Tantos?",
+      "PERSIAN": "چهار؟! این مقدار کمی نیست؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어휴...돼지",
+      "ENGLISH": "Wow... pig.",
+      "CHINESE_SIMPLIFIED": "哎哟...你猪啊",
+      "CHINESE_TRADITIONAL": "哎唷～你豬喔",
+      "JAPANESE": "はぁ…食いしん坊め",
+      "INDONESIAN": "Wah... babi.",
+      "PORTUGUESE": "Ai... que glutão.",
+      "SPANISH": "Ay… que glotón.",
+      "PERSIAN": "عجب... خوک."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "우와~ 언니도 잘하는 게 있네요...",
+      "ENGLISH": "Whoa~ So unnie does have a talent!",
+      "CHINESE_SIMPLIFIED": "哇~原来姐姐也有擅长的事啊...",
+      "CHINESE_TRADITIONAL": "哇～原來姊姊也有拿手菜啊～",
+      "JAPANESE": "うわ〜、お姉さんにも得意なことあったんですね〜",
+      "INDONESIAN": "Wah~ Jadi unnie memang punya bakat!",
+      "PORTUGUESE": "Uau, então tem algo que você realmente sabe fazer, querida.",
+      "SPANISH": "Guau, entonces sí hay algo que sabes hacer, querida.",
+      "PERSIAN": "اوه~ پس اونی استعداد داره!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 30.9,
+      "HIDE": 31.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐라고요?",
+      "ENGLISH": "Excuse me?",
+      "CHINESE_SIMPLIFIED": "你说什么？",
+      "CHINESE_TRADITIONAL": "妳說什麼？",
+      "JAPANESE": "…今なんて？",
+      "INDONESIAN": "Permisi?",
+      "PORTUGUESE": "O que você disse?",
+      "SPANISH": "¿Qué dijiste?",
+      "PERSIAN": "ببخشید؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 32.7
+    },
+    "SCRIPT": {
+      "KOREAN": "칭찬이에요! ",
+      "ENGLISH": "It’s a compliment!",
+      "CHINESE_SIMPLIFIED": "是夸奖啦！",
+      "CHINESE_TRADITIONAL": "她在稱讚妳啦！",
+      "JAPANESE": "褒めたんですよ！",
+      "INDONESIAN": "Itu pujian!",
+      "PORTUGUESE": "Era um elogio!",
+      "SPANISH": "¡Era un cumplido!",
+      "PERSIAN": "این یک تعارف است!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 34.2
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 먹겠습니다.",
+      "ENGLISH": "Thanks for the food~",
+      "CHINESE_SIMPLIFIED": "我开动啦",
+      "CHINESE_TRADITIONAL": "開動～",
+      "JAPANESE": "いただきまーす！",
+      "INDONESIAN": "Terima kasih atas makanannya~",
+      "PORTUGUESE": "Bom apetite.",
+      "SPANISH": "Buen provecho.",
+      "PERSIAN": "ممنون بابت غذا~"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 34.3,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "설거지는 그쪽이 하는 거로!",
+      "ENGLISH": "You’re doing the dishes though!",
+      "CHINESE_SIMPLIFIED": "洗碗就归你啦！",
+      "CHINESE_TRADITIONAL": "洗碗就交給你了",
+      "JAPANESE": "片付けはそっちが担当で！",
+      "INDONESIAN": "Tapi kamu yang mencuci piring!",
+      "PORTUGUESE": "E a louça é contigo.",
+      "SPANISH": "Y los platos, te tocan a ti.",
+      "PERSIAN": "با این حال شما در حال شستن ظرف ها هستید!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 36.3,
+      "HIDE": 38.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 제가 왜요.",
+      "ENGLISH": "Huh? Why me?",
+      "CHINESE_SIMPLIFIED": "嗯？为什么是我？",
+      "CHINESE_TRADITIONAL": "蛤？為什麼是我？",
+      "JAPANESE": "えっ、なんで私が",
+      "INDONESIAN": "Hah? Kenapa aku?",
+      "PORTUGUESE": "Hã? Por que eu?",
+      "SPANISH": "¿Eh? ¿yo por qué?",
+      "PERSIAN": "ها؟ چرا من؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 38.1,
+      "HIDE": 39.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 누가 해.",
+      "ENGLISH": "Then who else?",
+      "CHINESE_SIMPLIFIED": "那谁来洗呢",
+      "CHINESE_TRADITIONAL": "那不然誰要洗？",
+      "JAPANESE": "じゃあ誰がやるの",
+      "INDONESIAN": "Lalu siapa lagi?",
+      "PORTUGUESE": "Quem mais vai fazer?",
+      "SPANISH": "¿Quién más lo va a hacer?",
+      "PERSIAN": "بعد کی دیگه؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 41.8,
+      "HIDE": 43.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가 이렇게 당연한 건데...",
+      "ENGLISH": "Ugh, why is that just automatically my job...",
+      "CHINESE_SIMPLIFIED": "怎么就那么理所当然...",
+      "CHINESE_TRADITIONAL": "幹嘛講得那麼理所當然…",
+      "JAPANESE": "なんでそれが当然みたいな言い方なんだよ…",
+      "INDONESIAN": "Ugh, kenapa itu otomatis jadi tugasku...",
+      "PORTUGUESE": "Mas por que eu tenho que lavar...?",
+      "SPANISH": "Pero porque me toca a mí...",
+      "PERSIAN": "اوه، چرا این به طور خودکار کار من است..."
+    }
+  }
+]

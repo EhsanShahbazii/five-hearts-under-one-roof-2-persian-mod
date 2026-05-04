@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "실례합니다~",
+      "ENGLISH": "Excuse me~",
+      "CHINESE_SIMPLIFIED": "打扰了~",
+      "CHINESE_TRADITIONAL": "打擾了～",
+      "JAPANESE": "失礼しま〜す",
+      "INDONESIAN": "Permisi~",
+      "PORTUGUESE": "Com licença~",
+      "SPANISH": "Con permiso~",
+      "PERSIAN": "ببخشید~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 근데 고양이는 어디 있어요?",
+      "ENGLISH": "Huh? Wait, where’s the cat?",
+      "CHINESE_SIMPLIFIED": "呃？不过猫咪在哪儿呢？",
+      "CHINESE_TRADITIONAL": "妳的貓咪在哪裡呢？",
+      "JAPANESE": "あれ？でも猫はどこにいますか？",
+      "INDONESIAN": "Hah? Eh, kucingnya ke mana?",
+      "PORTUGUESE": "Hã? Mas... cadê o gato?",
+      "SPANISH": "¿Eh? Pero... ¿dónde está el gato?",
+      "PERSIAN": "ها؟ صبر کن، گربه کجاست؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "먘!",
+      "ENGLISH": "Myaa~!",
+      "CHINESE_SIMPLIFIED": "喵！",
+      "CHINESE_TRADITIONAL": "喵！",
+      "JAPANESE": "にゃっ！",
+      "INDONESIAN": "Myaa~!",
+      "PORTUGUESE": "Miau!",
+      "SPANISH": "¡Miau!",
+      "PERSIAN": "میا~!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "...What?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "...Apa?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "... چی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 집 고양이 귀엽죠!",
+      "ENGLISH": "Isn’t my cat adorable?",
+      "CHINESE_SIMPLIFIED": "我们家猫很可爱吧！",
+      "CHINESE_TRADITIONAL": "我們家的貓咪很可愛吧！",
+      "JAPANESE": "うちの猫、可愛いでしょ！",
+      "INDONESIAN": "Imut banget kan kucingku?",
+      "PORTUGUESE": "Meu gatinho é fofo, né?",
+      "SPANISH": "¿Verdad que mi gatito es adorable?",
+      "PERSIAN": "گربه من دوست داشتنی نیست؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아하하...",
+      "ENGLISH": "Ahaha...",
+      "CHINESE_SIMPLIFIED": "啊哈哈...",
+      "CHINESE_TRADITIONAL": "啊哈哈",
+      "JAPANESE": "あはは…",
+      "INDONESIAN": "Ahaha...",
+      "PORTUGUESE": "Hahaha...",
+      "SPANISH": "Jajaja...",
+      "PERSIAN": "آهاها..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 앉아서 다친 데 좀 볼까요?",
+      "ENGLISH": "Alright, let’s sit down and take a look at that injury.",
+      "CHINESE_SIMPLIFIED": "先坐下让我看看伤处好吗？",
+      "CHINESE_TRADITIONAL": "先坐下來，讓我幫妳看看傷口好嗎？",
+      "JAPANESE": "とりあえず座って、怪我したところ見せてください",
+      "INDONESIAN": "Oke deh, duduk dulu yuk, biar aku cek lukanya.",
+      "PORTUGUESE": "Bom, por que você não se senta pra eu ver onde se machucou?",
+      "SPANISH": "Bueno, ¿por qué no se sienta y reviso dónde se lastimó?",
+      "PERSIAN": "خوب، بیایید بنشینیم و به اون آسیب دیدگی نگاه کنیم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 제가 규리 쌤 병간호 제대로 해드릴게요!",
+      "ENGLISH": "Today, I’ll be the one taking care of you, Nurse Gyu-ri!",
+      "CHINESE_SIMPLIFIED": "今天我要好好给方护士做次病号护理！",
+      "CHINESE_TRADITIONAL": "今天就讓我來好好照顧護理師妳吧！",
+      "JAPANESE": "今日は俺がしっかりギュリ先生の看病をします！",
+      "INDONESIAN": "Hari ini, gantian aku yang ngerawat kamu, Suster Gyu-ri!",
+      "PORTUGUESE": "Hoje é minha vez de cuidar de você, Gyuri.",
+      "SPANISH": "Hoy me toca a mí cuidar de usted, Gyuri.",
+      "PERSIAN": "امروز، من کسی هستم که از شما مراقبت می کند، پرستار گیو ری!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 30.3,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好呀！",
+      "CHINESE_TRADITIONAL": "好吧！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "باشه!"
+    }
+  }
+]

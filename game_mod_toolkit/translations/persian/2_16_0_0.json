@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "캐리어 정리만 도와드리면 돼요?",
+      "ENGLISH": "I just need to help unpack the suitcase?",
+      "CHINESE_SIMPLIFIED": "我只要帮你整理行李就行吗？",
+      "CHINESE_TRADITIONAL": "我只需要幫你整理行李嗎？",
+      "JAPANESE": "キャリーの整理だけ手伝えばいいですか?",
+      "INDONESIAN": "Aku cuma perlu bantu bongkar koper aja?",
+      "PORTUGUESE": "Posso te ajudar a desfazer as malas?",
+      "SPANISH": "¿Puedo ayudarte a desempacar?",
+      "PERSIAN": "فقط باید کمک کنم چمدان را باز کنم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "앗 네. 그것만 해주면 돼요.",
+      "ENGLISH": "Oh! Yes, that’s all.",
+      "CHINESE_SIMPLIFIED": "啊，好，只要帮我这个就行啦",
+      "CHINESE_TRADITIONAL": "啊，是的。只需幫我做那個就好",
+      "JAPANESE": "あっ はい それだけやってくれれば大丈夫です",
+      "INDONESIAN": "Oh! Iya, cuma itu kok.",
+      "PORTUGUESE": "Claro. Você pode me ajudar só com isso.",
+      "SPANISH": "Claro. Puedes ayudarme solo con eso.",
+      "PERSIAN": "اوه! بله، همین است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네~",
+      "ENGLISH": "Got it~",
+      "CHINESE_SIMPLIFIED": "好~",
+      "CHINESE_TRADITIONAL": "好～",
+      "JAPANESE": "は〜い",
+      "INDONESIAN": "Siap~",
+      "PORTUGUESE": "Tudo bem.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "فهمیدم~"
+    }
+  }
+]

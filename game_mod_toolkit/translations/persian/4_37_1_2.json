@@ -1,0 +1,217 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아하하하",
+      "ENGLISH": "Hahaha",
+      "CHINESE_SIMPLIFIED": "啊哈哈哈",
+      "CHINESE_TRADITIONAL": "啊哈哈哈",
+      "JAPANESE": "あははは",
+      "INDONESIAN": "Hahaha",
+      "PORTUGUESE": "Hahaha...",
+      "SPANISH": "Jajaja…",
+      "PERSIAN": "هاهاها"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 얘기한다고 아시려나?",
+      "ENGLISH": "Do you think they’d figure it out if we said anything?",
+      "CHINESE_SIMPLIFIED": "就算说了你们也不一定知道啦",
+      "CHINESE_TRADITIONAL": "跟您說了，您也不知道吧？",
+      "JAPANESE": "言ったところで、どうせ知らないだろうけど？",
+      "INDONESIAN": "Menurutmu mereka bakal nyadar kalau kita ngomong yang sebenarnya?",
+      "PORTUGUESE": "Mesmo que eu te dissesse, duvido que entenderia.",
+      "SPANISH": "Aunque te lo dijera, no creo que lo entenderías.",
+      "PERSIAN": "فکر می‌کنین اگر چیزی بگوییم متوجه می‌شن؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그, 진짜 뭐 하시는 분이신데요?",
+      "ENGLISH": "So… what do you actually do?",
+      "CHINESE_SIMPLIFIED": "那、你到底是做什么的啊？",
+      "CHINESE_TRADITIONAL": "所以，您到底是做什麼的呢？",
+      "JAPANESE": "で、あなたは一体何してる人なんですか？",
+      "INDONESIAN": "Jadi… kamu sebenernya kerja apa sih?",
+      "PORTUGUESE": "E... com o que você trabalha exatamente?",
+      "SPANISH": "¿Y… a qué se dedica exactamente?",
+      "PERSIAN": "بنابراین ... شما در واقع چه کار می کنید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "전 국가 소속 대통령 직속 경호 대테러반.",
+      "ENGLISH": "I’m part of the national Presidential Security Anti‑Terror Unit.",
+      "CHINESE_SIMPLIFIED": "我是前国家直属总统麾下警卫反恐分队",
+      "CHINESE_TRADITIONAL": "我是前國家所屬、總統直屬警衛反恐小組",
+      "JAPANESE": "私は国家所属、大統領直属の警護・対テロ部隊",
+      "INDONESIAN": "Aku dari Satuan Anti-Teror Keamanan Presiden Nasional.",
+      "PORTUGUESE": "Sou membro da força nacional, unidade antiterrorismo subordinada diretamente ao gabinete presidencial.",
+      "SPANISH": "Soy miembro del cuerpo nacional, unidad antiterrorista adscrita directamente a la oficina presidencial.",
+      "PERSIAN": "من بخشی از واحد ضد ترور امنیت ملی ریاست جمهوری هستم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "드래곤파이어 62기입니다.",
+      "ENGLISH": "Dragonfire, class 62.",
+      "CHINESE_SIMPLIFIED": "龙焰特勤队，62期出身",
+      "CHINESE_TRADITIONAL": "龍火第 62 期成員",
+      "JAPANESE": "ドラゴンファイア62期です",
+      "INDONESIAN": "Dragonfire, angkatan 62.",
+      "PORTUGUESE": "Turma 62 de Dragon Fire.",
+      "SPANISH": "Clase 62 de Dragon Fire.",
+      "PERSIAN": "آتش اژدها، کلاس 62."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "드,드래곤!",
+      "ENGLISH": "Dr‑Dragon!",
+      "CHINESE_SIMPLIFIED": "龙、龙焰！",
+      "CHINESE_TRADITIONAL": "龍、龍火！",
+      "JAPANESE": "ド、ドラゴン！？",
+      "INDONESIAN": "Dr-Dragon!",
+      "PORTUGUESE": "D-Dragon...?",
+      "SPANISH": "¿D-Dragon...?",
+      "PERSIAN": "دکتر اژدها!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "드래곤파이어 70기!",
+      "ENGLISH": "Dragonfire, class 70!",
+      "CHINESE_SIMPLIFIED": "龙焰特勤队，第70期！",
+      "CHINESE_TRADITIONAL": "龍火第 70 期！",
+      "JAPANESE": "ドラゴンファイア70期！",
+      "INDONESIAN": "Dragonfire, angkatan 70!",
+      "PORTUGUESE": "Dragon Fire, turma 70.",
+      "SPANISH": "Dragon Fire, clase 70.",
+      "PERSIAN": "آتش اژدها، کلاس 70!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "남.승.연 입니다.",
+      "ENGLISH": "Nam. Seung. Yeon.",
+      "CHINESE_SIMPLIFIED": "南、胜、延报到！",
+      "CHINESE_TRADITIONAL": "南、勝、延報到！",
+      "JAPANESE": "ナム、スン、ヨンです！",
+      "INDONESIAN": "Nam. Seung. Yeon.",
+      "PORTUGUESE": "Nam Seung-yeon.",
+      "SPANISH": "Nam Seung-yeon.",
+      "PERSIAN": "نام سونگ. یون."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "쉬어.",
+      "ENGLISH": "Take a break.",
+      "CHINESE_SIMPLIFIED": "稍息",
+      "CHINESE_TRADITIONAL": "稍息",
+      "JAPANESE": "休め！",
+      "INDONESIAN": "Istirahat dulu.",
+      "PORTUGUESE": "Descansar!",
+      "SPANISH": "¡Descanso!",
+      "PERSIAN": "استراحت کنید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "쉬어!",
+      "ENGLISH": "Take a break!",
+      "CHINESE_SIMPLIFIED": "稍息！",
+      "CHINESE_TRADITIONAL": "稍息！",
+      "JAPANESE": "休め！",
+      "INDONESIAN": "Istirahat!",
+      "PORTUGUESE": "Descansar!",
+      "SPANISH": "¡Descanso!",
+      "PERSIAN": "استراحت کن!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그, 진짜 드래곤파이어 출신이에요?",
+      "ENGLISH": "You’re really from Dragonfire?",
+      "CHINESE_SIMPLIFIED": "那个…你真是龙焰出身？",
+      "CHINESE_TRADITIONAL": "那個...你真的是龍火出身的嗎？",
+      "JAPANESE": "ほ、本当にドラゴンファイア出身なんですか？",
+      "INDONESIAN": "Kamu beneran dari Dragonfire?",
+      "PORTUGUESE": "É-é sério que é do Dragon Fire?",
+      "SPANISH": "¿E-en serio eres de Dragon Fire?",
+      "PERSIAN": "شما واقعا اهل آتش اژدها هستید؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "예..뭐..그렇죠?",
+      "ENGLISH": "Yes… well… something like that.",
+      "CHINESE_SIMPLIFIED": "嗯…这个…算是吧？",
+      "CHINESE_TRADITIONAL": "嗯... 這個...算是吧？",
+      "JAPANESE": "えぇ、まぁ…そうですね？",
+      "INDONESIAN": "Iya… yah… semacam itu.",
+      "PORTUGUESE": "Sim... bom... algo assim.",
+      "SPANISH": "Sí… bueno… algo así.",
+      "PERSIAN": "بله ... خوب ... چیزی شبیه به اون."
+    }
+  }
+]

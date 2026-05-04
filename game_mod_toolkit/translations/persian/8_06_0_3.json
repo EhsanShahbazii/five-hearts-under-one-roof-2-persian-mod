@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "전 솔직히 누가 오나 거기서 거기일 줄 알았는데",
+      "ENGLISH": "Honestly, I thought no matter who moved in, it’d all feel the same.",
+      "CHINESE_SIMPLIFIED": "说实话，我还以为谁来都差不多",
+      "CHINESE_TRADITIONAL": "說實話，我原本以為誰來都差不多",
+      "JAPANESE": "正直、誰が来ても同じようなもんだろうって思ってたんですけど",
+      "INDONESIAN": "Jujur aja, awalnya aku pikir siapa pun yang pindah, rasanya bakal sama aja.",
+      "PORTUGUESE": "Pra falar a verdade, achei que quem viesse seria mais do mesmo,",
+      "SPANISH": "La verdad, pensé que quien viniera sería más de lo mismo,",
+      "PERSIAN": "راستش را بخواهید، فکر می‌کردم مهم نیست چه کسی وارد خونه شود، همه چیز یکسان است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 다르더라고요...!!!!",
+      "ENGLISH": "But… it was totally different…!!!!",
+      "CHINESE_SIMPLIFIED": "啊...现在发现完全不一样...！！！！",
+      "CHINESE_TRADITIONAL": "啊...現在發現完全不一樣啊...！！！",
+      "JAPANESE": "でも…違いました…!!!!",
+      "INDONESIAN": "Tapi… ternyata beda banget…!!!!",
+      "PORTUGUESE": "mas… foi totalmente diferente…!",
+      "SPANISH": "pero… ¡fue totalmente distinto…!",
+      "PERSIAN": "اما ... کاملا متفاوت بود ...!!!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭔가 느낌이 완전 달라요 아무튼 너무 좋아요.",
+      "ENGLISH": "The vibe is just completely different — I seriously love it.",
+      "CHINESE_SIMPLIFIED": "整体氛围完全不同，总之就是好",
+      "CHINESE_TRADITIONAL": "總之，整體氛圍感不一樣，非常好！",
+      "JAPANESE": "なんか、雰囲気がまるで違うんです とにかく最高です",
+      "INDONESIAN": "Vibenya tuh beda total — aku beneran suka banget.",
+      "PORTUGUESE": "Não sei, a sensação é completamente diferente, eu adorei.",
+      "SPANISH": "No sé, se siente completamente diferente, me encanta.",
+      "PERSIAN": "حال و هوا کاملاً متفاوت است - من به طور جدی اونو دوست دارم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로는 아예 각 잡고 여자만 받을까 봐요.",
+      "ENGLISH": "I’m thinking maybe I should officially only accept girls from now on.",
+      "CHINESE_SIMPLIFIED": "我在考虑以后干脆只招女住户呢",
+      "CHINESE_TRADITIONAL": "我在考慮以後乾脆只招收女性房客",
+      "JAPANESE": "いっそこれからは、思い切って女性だけ受け入れようかなって",
+      "INDONESIAN": "Aku jadi mikir, gimana kalau ke depannya aku cuma terima penghuni cewek aja.",
+      "PORTUGUESE": "Tô pensando em aceitar só meninas daqui pra frente.",
+      "SPANISH": "Estoy pensando en aceptar solo chicas de ahora en adelante.",
+      "PERSIAN": "به این فکر می کنم که شاید از این به بعد رسما فقط دختران را بپذیرم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 좋니?",
+      "ENGLISH": "You like it that much?",
+      "CHINESE_SIMPLIFIED": "这么满意？",
+      "CHINESE_TRADITIONAL": "有這麼好嗎？",
+      "JAPANESE": "そんなにいいの？",
+      "INDONESIAN": "Kamu sesuka itu, ya?",
+      "PORTUGUESE": "Gosta tanto assim?",
+      "SPANISH": "¿Te gusta tanto así?",
+      "PERSIAN": "اینقدر دوستش داری؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 22.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네 그 이참에 하숙집 전단지도 좀 아기자기하게 가볼까 하는데",
+      "ENGLISH": "Yes — and while I’m at it, I’m considering making the boarding house flyers super cute.",
+      "CHINESE_SIMPLIFIED": "嗯，我想顺便把合租屋宣传单做得精致一点",
+      "CHINESE_TRADITIONAL": "嗯，我想趁這個機會，把合租公寓的宣傳單弄得精緻可愛一點",
+      "JAPANESE": "はい、この機会に下宿のチラシも可愛くしてみようと思ってて",
+      "INDONESIAN": "Iya — sekalian, aku juga kepikiran bikin brosur rumah kosnya jadi super lucu.",
+      "PORTUGUESE": "Sim, e aproveitando isso, eu queria deixar os panfletos da pensão mais bonitos e coloridos.",
+      "SPANISH": "Sí, y aprovechando eso, quería hacer los folletos de la pensión más lindos y coloridos.",
+      "PERSIAN": "بله - و در حالی که من در اون هستم، در نظر دارم که آگهی های پانسیون را فوق العاده زیبا کنم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 과장님이 만들어 주실래요? ",
+      "ENGLISH": "Oh! Manager, would you make them for me?",
+      "CHINESE_SIMPLIFIED": "呃！科长要帮我设计一下吗？",
+      "CHINESE_TRADITIONAL": "啊！課長您願意幫我做做看嗎？",
+      "JAPANESE": "あ、課長、作ってもらえませんか？",
+      "INDONESIAN": "Oh! Manajer, kamu mau buatin buat aku nggak?",
+      "PORTUGUESE": "Ah! Será que você poderia fazer eles, chefa?",
+      "SPANISH": "¡Ah! ¿Podría hacerlos usted, jefa?",
+      "PERSIAN": "اوه! مدیر، اونا رو برای من درست می کنید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 저보다는 과장님이 그런 건 더 잘 만드시니까.",
+      "ENGLISH": "You’re definitely way better at that kind of thing than I am.",
+      "CHINESE_SIMPLIFIED": "毕竟你比我更擅长这种设计",
+      "CHINESE_TRADITIONAL": "畢竟你比我更擅長設計啊",
+      "JAPANESE": "やっぱり俺より課長のほうがそういうの得意じゃないですか",
+      "INDONESIAN": "Kamu jelas lebih jago soal begituan dibanding aku.",
+      "PORTUGUESE": "Tenho certeza de que é bem melhor que eu nessas coisas.",
+      "SPANISH": "Seguro que es mucho mejor que yo en esas cosas.",
+      "PERSIAN": "قطعا تو در این جور کارها خیلی بهتر از من هستی."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너나 만드세요.",
+      "ENGLISH": "You make them.",
+      "CHINESE_SIMPLIFIED": "你自己做啦",
+      "CHINESE_TRADITIONAL": "你自己做吧",
+      "JAPANESE": "自分で作ってください",
+      "INDONESIAN": "Kamu aja yang bikin.",
+      "PORTUGUESE": "Faz você.",
+      "SPANISH": "Hazlos tú.",
+      "PERSIAN": "شما اونا رو می سازید."
+    }
+  }
+]

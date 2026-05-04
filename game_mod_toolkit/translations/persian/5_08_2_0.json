@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "화장실 가려면 어느 쪽으로 가야 돼요?",
+      "ENGLISH": "Where do I have to go to get to the bathroom?",
+      "CHINESE_SIMPLIFIED": "去洗手间该往哪边走呢？",
+      "CHINESE_TRADITIONAL": "廁所該往哪個方向走呢？",
+      "JAPANESE": "でもトイレって、どっちの方に行けばいいんですか？",
+      "INDONESIAN": "Kalau aku mau ke kamar mandi, harus ke mana ya?",
+      "PORTUGUESE": "Mas onde fica o banheiro?",
+      "SPANISH": "¿Pero dónde queda el baño?",
+      "PERSIAN": "برای رفتن به دستشویی کجا باید بروم؟"
+    }
+  }
+]

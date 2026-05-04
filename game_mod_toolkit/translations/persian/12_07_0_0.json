@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하숙집 생활은 좀 어때요?",
+      "ENGLISH": "How's boarding house life?",
+      "CHINESE_SIMPLIFIED": "合租生活还适应吗？",
+      "CHINESE_TRADITIONAL": "合租公寓的生活還習慣嗎？",
+      "JAPANESE": "下宿生活はどうですか？",
+      "INDONESIAN": "Gimana, betah nggak tinggal di rumah indekos?",
+      "PORTUGUESE": "Como tá sendo a vida na casa compartilhada?",
+      "SPANISH": "¿Qué tal la vida en la casa compartida?",
+      "PERSIAN": "زندگی در پانسیون چطوره؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하숙집 들어가고 처음 해보는 것들이 정말 많은 거 같아요.",
+      "ENGLISH": "Moving into a boarding house, I feel like there are so many things I'm experiencing for the first time.",
+      "CHINESE_SIMPLIFIED": "住进合租屋后，好像经历了很多第一次",
+      "CHINESE_TRADITIONAL": "住進來之後，好像經歷過很多第一次",
+      "JAPANESE": "下宿に入ってから、初めてのことが本当に多い気がします。",
+      "INDONESIAN": "Sejak pindah ke sana, rasanya aku banyak banget ngalamin hal baru",
+      "PORTUGUESE": "Sinto que desde que cheguei, fiz muitas coisas pela primeira vez.",
+      "SPANISH": "Siento que desde que llegué, he hecho muchas cosas por primera vez.",
+      "PERSIAN": "با نقل مکان به یک پانسیون، احساس می کنم چیزهای زیادی وجود دارد که برای اولین بار تجربه می کنم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 그래요?",
+      "ENGLISH": "Oh... really?",
+      "CHINESE_SIMPLIFIED": "啊...是吗？",
+      "CHINESE_TRADITIONAL": "喔...是嗎？",
+      "JAPANESE": "あぁ、そうなんですね。",
+      "INDONESIAN": "Oh ya?",
+      "PORTUGUESE": "Ah... é mesmo?",
+      "SPANISH": "Ah... ¿sí?",
+      "PERSIAN": "اوه... واقعا؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 누구랑 이렇게 친해진 것도 처음이고...",
+      "ENGLISH": "Yeah, like getting this close to someone is also a first...",
+      "CHINESE_SIMPLIFIED": "嗯，第一次和别人变得这么亲近...",
+      "CHINESE_TRADITIONAL": "嗯，第一次和別人變得這麼親近",
+      "JAPANESE": "はい、こんなふうに誰かと仲良くなったのも初めてで…",
+      "INDONESIAN": "Iya, ini pertama kalinya aku deket sama orang kayak gini",
+      "PORTUGUESE": "Sim, é a primeira vez que fico tão próxima de alguém…",
+      "SPANISH": "Sí, es la primera vez que me hago tan cercana a alguien…",
+      "PERSIAN": "آره، مثل اینکه اینقدر نزدیک شدن به کسی اولین کاره..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "심지어 같이 사는 건 더 처음이고.",
+      "ENGLISH": "And living together is an even bigger first.",
+      "CHINESE_SIMPLIFIED": "甚至一起生活也是头一回",
+      "CHINESE_TRADITIONAL": "和別人一起生活也是第一次",
+      "JAPANESE": "ましてや一緒に住むなんて、もっと初めてです。",
+      "INDONESIAN": "Dan apalagi tinggal serumah... itu juga pertama kali banget",
+      "PORTUGUESE": "e morar com alguém, então, isso é totalmente novo pra mim.",
+      "SPANISH": "y ni hablar de vivir con alguien, eso sí que es totalmente nuevo.",
+      "PERSIAN": "و زندگی با هم یک قدم بزرگتر است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 그 처음이 좀 괜찮았어요?",
+      "ENGLISH": "So, was that first experience okay?",
+      "CHINESE_SIMPLIFIED": "所以这些初次体验还算愉快吗？",
+      "CHINESE_TRADITIONAL": "所以這些初次的體驗還喜歡嗎？",
+      "JAPANESE": "で、その“初めて”は、どうでした？",
+      "INDONESIAN": "Terus, pengalaman pertama itu... gimana rasanya?",
+      "PORTUGUESE": "E como você se sentiu?",
+      "SPANISH": "¿Y como te sentiste?",
+      "PERSIAN": "بنابراین، اون تجربه اول خوب بود؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 좋아서, 그래서 감사드려요. 유만 님은요?",
+      "ENGLISH": "It was so great, so I'm really grateful. What about you, Yoo Man?",
+      "CHINESE_SIMPLIFIED": "太美好了，所以很感谢你。宥万先生呢？",
+      "CHINESE_TRADITIONAL": "很喜歡，也很感謝。宥萬先生呢？",
+      "JAPANESE": "すごく楽しかったです。だから感謝してます。ユマンさんは？",
+      "INDONESIAN": "Aku seneng banget, makanya aku mau bilang makasih. Kalau kamu sendiri gimana, Yuman?",
+      "PORTUGUESE": "Eu adorei, e por isso tô muito agradecida. E você?",
+      "SPANISH": "Me encantó, y por eso estoy muy agradecida. ¿Y usted?",
+      "PERSIAN": "خیلی عالی بود پس واقعا ممنونم تو چی، یو من؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저요?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我吗？",
+      "CHINESE_TRADITIONAL": "我嗎？",
+      "JAPANESE": "僕ですか？",
+      "INDONESIAN": "Aku?",
+      "PORTUGUESE": "Eu?",
+      "SPANISH": "¿Yo?",
+      "PERSIAN": "من؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 31.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님은... 저 만나서 어땠어요?",
+      "ENGLISH": "Mr. Yoo Man... How was it meeting me?",
+      "CHINESE_SIMPLIFIED": "你...遇见我之后感觉如何？",
+      "CHINESE_TRADITIONAL": "你...遇見我之後感覺如何呢？",
+      "JAPANESE": "ユマンさんは…私に会って、どう思いました？",
+      "INDONESIAN": "Yuman... waktu ketemu aku, gimana rasanya?",
+      "PORTUGUESE": "Sim... como foi pra você me conhecer?",
+      "SPANISH": "Sí... ¿cómo fue para usted conocerme?",
+      "PERSIAN": "آقای یو من... ملاقات با من چطور بود؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저, 어떤 사람인 것 같아요?",
+      "ENGLISH": "What kind of person do you think I am?",
+      "CHINESE_SIMPLIFIED": "你觉得...我是个怎样的人？",
+      "CHINESE_TRADITIONAL": "你覺得...我是個怎麼樣的人呢？",
+      "JAPANESE": "私はどんな人に見えました？",
+      "INDONESIAN": "Menurut kamu... aku orangnya kayak gimana?",
+      "PORTUGUESE": "Que tipo de pessoa acha que eu sou?",
+      "SPANISH": "¿Qué tipo de persona cree que soy?",
+      "PERSIAN": "به نظر شما من چه جور آدمی هستم؟"
+    }
+  }
+]

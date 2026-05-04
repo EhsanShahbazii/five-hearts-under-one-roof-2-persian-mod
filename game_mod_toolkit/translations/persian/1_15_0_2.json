@@ -1,0 +1,249 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "응!?",
+      "ENGLISH": "HUH?!",
+      "CHINESE_SIMPLIFIED": "嗯！？",
+      "CHINESE_TRADITIONAL": "嗯！？",
+      "JAPANESE": "えっ!?",
+      "INDONESIAN": "Huh!?",
+      "SPANISH": "¿Eh!?",
+      "PERSIAN": "عههه?!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "(호다닥)",
+      "ENGLISH": "(Walking fast)",
+      "CHINESE_SIMPLIFIED": "（急忙冲过去）",
+      "CHINESE_TRADITIONAL": "（迅速衝過去）",
+      "JAPANESE": "（サッと駆け寄る）",
+      "INDONESIAN": "(Cepet-cepet lari)",
+      "SPANISH": "*se apresura*",
+      "PERSIAN": "(قدم‌های تند)"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "엇!",
+      "ENGLISH": "OH!",
+      "CHINESE_SIMPLIFIED": "啊！",
+      "CHINESE_TRADITIONAL": "呀！",
+      "JAPANESE": "あっ！",
+      "INDONESIAN": "Eh!",
+      "SPANISH": "¡Ah!",
+      "PERSIAN": "آخ!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요??",
+      "ENGLISH": "Are you okay??",
+      "CHINESE_SIMPLIFIED": "没事吧？？",
+      "CHINESE_TRADITIONAL": "你沒事吧？？",
+      "JAPANESE": "大丈夫ですか？？",
+      "INDONESIAN": "Kamu nggak apa-apa??",
+      "PORTUGUESE": "Você está bem??",
+      "SPANISH": "¿Estás bien?",
+      "PERSIAN": "حالتون خوبه؟! طوری‌تون نشد؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "와 진짜 큰일날 뻔...",
+      "ENGLISH": "That was so close...",
+      "CHINESE_SIMPLIFIED": "哇，刚刚真的太危险了…",
+      "CHINESE_TRADITIONAL": "哇，真的差點出大事了…",
+      "JAPANESE": "わぁ、本当に危なかった…",
+      "INDONESIAN": "Wah, tadi bener-bener hampir celaka...",
+      "PORTUGUESE": "Nossa, você quase caiu de verdade...",
+      "SPANISH": "Estuvo a punto de pasar algo grave…",
+      "PERSIAN": "واقعاً لب به لب بود، به خیر گذشت..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요!",
+      "ENGLISH": "Thanks for saving me...",
+      "CHINESE_SIMPLIFIED": "谢谢你",
+      "CHINESE_TRADITIONAL": "謝謝你",
+      "JAPANESE": "ありがとうございます！",
+      "INDONESIAN": "Makasih ya!",
+      "PORTUGUESE": "Obrigado...",
+      "SPANISH": "¡Gracias!",
+      "PERSIAN": "ممنون که نجاتم دادی..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다음부터는 조심하셔야 해요.",
+      "ENGLISH": "Please be more careful next time.",
+      "CHINESE_SIMPLIFIED": "下次要小心",
+      "CHINESE_TRADITIONAL": "下次小心一點",
+      "JAPANESE": "次からは気をつけてくださいね",
+      "INDONESIAN": "Lain kali harus hati-hati ya.",
+      "PORTUGUESE": "Da próxima vez, tenha mais cuidado.",
+      "SPANISH": "La próxima vez debe tener más cuidado.",
+      "PERSIAN": "دفعه دیگه بیشتر حواستو جمع کن."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 옥상에서는 의자 위로 함부로 올라가지 마시구요.",
+      "ENGLISH": "That railing is super low—it’s actually dangerous.",
+      "CHINESE_SIMPLIFIED": "在这种天台上，可不能随便站到椅子上去",
+      "CHINESE_TRADITIONAL": "在屋頂上，不要隨便爬到椅子上去",
+      "JAPANESE": "こういう屋上では、椅子の上にむやみに乗らないでくださいね",
+      "INDONESIAN": "Jangan naik-naik sembarangan ke atas kursi di rooftop kayak gini.",
+      "PORTUGUESE": "A mureta do terraço é baixa, é realmente perigoso.",
+      "SPANISH": "No suba así a las sillas en la azotea.",
+      "PERSIAN": "این نرده‌ها خیلی کوتاهن، شوخی‌بردار نیست اصلاً."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Y-yeah...",
+      "CHINESE_SIMPLIFIED": "好的！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "A-ah, sim...",
+      "SPANISH": "¡Está bien!",
+      "PERSIAN": "آ... آره..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요!",
+      "ENGLISH": "T-thank you...",
+      "CHINESE_SIMPLIFIED": "谢谢你！",
+      "CHINESE_TRADITIONAL": "謝謝你！",
+      "JAPANESE": "ありがとうございます！",
+      "INDONESIAN": "T-terima kasih!",
+      "PORTUGUESE": "O-obrigado!",
+      "SPANISH": "¡Gracias!",
+      "PERSIAN": "مـ... ممنونم ازت..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "우리도 이만 내려가죠.",
+      "ENGLISH": "Let’s head back down too.",
+      "CHINESE_SIMPLIFIED": "我们也差不多该下去了吧？",
+      "CHINESE_TRADITIONAL": "我們也差不多該下去了",
+      "JAPANESE": "私たちもそろそろ降りましょう",
+      "INDONESIAN": "Yuk, kita juga turun sekarang.",
+      "PORTUGUESE": "Vamos descer também.",
+      "SPANISH": "Será mejor que también bajemos.",
+      "PERSIAN": "ما هم دیگه برگردیم پایین."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah...",
+      "CHINESE_SIMPLIFIED": "好！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "باشه..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "양유정?",
+      "ENGLISH": "Yu-jeong Yang?",
+      "CHINESE_SIMPLIFIED": "梁有情？",
+      "CHINESE_TRADITIONAL": "梁有情？",
+      "JAPANESE": "ヤン・ユジョン？",
+      "INDONESIAN": "Yang Yoo-jung?",
+      "PORTUGUESE": "Yang Yu-jeong?",
+      "SPANISH": "¿Yang Yu-jeong?",
+      "PERSIAN": "یانگ یو-جونگ؟! تو اینجا چیکار می‌کنی؟!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 33.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐지?",
+      "ENGLISH": "What?!",
+      "CHINESE_SIMPLIFIED": "怎么回事？",
+      "CHINESE_TRADITIONAL": "怎麼回事？",
+      "JAPANESE": "どういうこと…？",
+      "INDONESIAN": "Apa iya itu dia...?",
+      "SPANISH": "¿Qué es esto?",
+      "PERSIAN": "چی?!"
+    }
+  }
+]

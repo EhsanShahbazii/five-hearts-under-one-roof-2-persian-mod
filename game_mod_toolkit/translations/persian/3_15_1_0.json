@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 그렇고, 쌤 오늘 근무 쉬는 날 아니신가요?",
+      "ENGLISH": "By the way, isn’t today your day off?",
+      "CHINESE_SIMPLIFIED": "话说回来，护士您今天不是休息日吗？",
+      "CHINESE_TRADITIONAL": "不過護理師你今天不是休假嗎？",
+      "JAPANESE": "それはそうと 先生 今日お休みの日じゃないんですか",
+      "INDONESIAN": "Ngomong-ngomong, bukankah hari ini hari liburmu?",
+      "PORTUGUESE": "Aliás, hoje não era seu dia de folga?",
+      "SPANISH": "Por cierto, ¿hoy no era su día libre?",
+      "PERSIAN": "به هر حال، امروز روز تعطیل شما نیست؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "맞아요! 아~ 오늘은 무조건 늦잠 자야지 했는데 ",
+      "ENGLISH": "It is! I swore I was gonna sleep in today, but",
+      "CHINESE_SIMPLIFIED": "对啊！啊~本来打算今天一定要睡个懒觉的",
+      "CHINESE_TRADITIONAL": "沒錯！原本想說今天一定要睡到飽",
+      "JAPANESE": "そうなんですよ〜 あ〜今日は絶対に寝坊してやるって思ってたのに",
+      "INDONESIAN": "Benar! Aku bersumpah aku akan tidur hari ini, tapi",
+      "PORTUGUESE": "Sim! Ah~ hoje eu ia dormir até tarde, mas",
+      "SPANISH": "¡Sí! Ah~ hoy pensaba dormir hasta tarde, pero",
+      "PERSIAN": "هست! قسم خوردم امروز میخوابم اما"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "생각보다 눈이 일찍 떠지더라고요~",
+      "ENGLISH": "I ended up waking up earlier than I thought~",
+      "CHINESE_SIMPLIFIED": "结果没想到眼睛自己早早睁开了~",
+      "CHINESE_TRADITIONAL": "沒想到還是很早就醒了～",
+      "JAPANESE": "意外と早く目が覚めちゃって〜",
+      "INDONESIAN": "Aku akhirnya bangun lebih awal dari yang kukira~",
+      "PORTUGUESE": "acabei acordando mais cedo do que queria~",
+      "SPANISH": "terminé despertándome más temprano de lo que quería~",
+      "PERSIAN": "من زودتر از چیزی که فکر می کردم بیدار شدم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그러셨구나.",
+      "ENGLISH": "Ah, I see.",
+      "CHINESE_SIMPLIFIED": "啊，原来是这样啊",
+      "CHINESE_TRADITIONAL": "原來如此",
+      "JAPANESE": "あ そうなんですね",
+      "INDONESIAN": "Ah, aku mengerti.",
+      "PORTUGUESE": "Ah, entendi.",
+      "SPANISH": "Ah, ya veo.",
+      "PERSIAN": "آه، می بینم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "병원에서 일하시는 거 보면 진짜 힘들어 보이시더라고요.",
+      "ENGLISH": "Watching you work at the hospital… it always looks so exhausting.",
+      "CHINESE_SIMPLIFIED": "看您在医院工作感觉真的很辛苦呢",
+      "CHINESE_TRADITIONAL": "看妳在醫院工作的樣子就覺得真的很辛苦",
+      "JAPANESE": "病院でのお仕事 大変そうですもんね",
+      "INDONESIAN": "Melihatmu bekerja di rumah sakit… itu selalu terlihat sangat melelahkan.",
+      "PORTUGUESE": "Toda vez que vejo você trabalhando no hospital, parece realmente cansada.",
+      "SPANISH": "Cada vez que la veo trabajando en el hospital, parece realmente agotada.",
+      "PERSIAN": "تماشای کار شما در بیمارستان... همیشه بسیار خسته کننده به نظر می رسد."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 진짜 푹 쉬세요!",
+      "ENGLISH": "Make sure you really take it easy today!",
+      "CHINESE_SIMPLIFIED": "今天请好好休息！",
+      "CHINESE_TRADITIONAL": "今天一定要好好休息喔！",
+      "JAPANESE": "今日はしっかり休んでください！",
+      "INDONESIAN": "Pastikan kamu benar-benar bersantai hari ini!",
+      "PORTUGUESE": "Descanse bastante hoje.",
+      "SPANISH": "Descanse mucho hoy.",
+      "PERSIAN": "مطمئن شوید که امروز واقعاً اونو آسان کرده اید!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네 유만 씨도 무리하지 마시구요...!",
+      "ENGLISH": "You too, Yuman—don’t overdo it, okay?",
+      "CHINESE_SIMPLIFIED": "嗯，宥万先生也别太累着了...！",
+      "CHINESE_TRADITIONAL": "嗯，宥萬先生也不要太勉強自己…！",
+      "JAPANESE": "はい ユマンさんも 無理しないでくださいね",
+      "INDONESIAN": "Kamu juga, Yuman—jangan berlebihan, oke?",
+      "PORTUGUESE": "Obrigada, senhor Yumán, o senhor também não se esforce demais...",
+      "SPANISH": "Gracias, señor Yumán, usted tampoco se esfuerce demasiado...",
+      "PERSIAN": "تو هم یومان- زیاده روی نکن، باشه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Got it.",
+      "CHINESE_SIMPLIFIED": "好的",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Mengerti.",
+      "PORTUGUESE": "Tudo bem.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "متوجه شدم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 유만 씨!",
+      "ENGLISH": "Hey, Yuman!",
+      "CHINESE_SIMPLIFIED": "那个，宥万先生！",
+      "CHINESE_TRADITIONAL": "那個，宥萬先生！",
+      "JAPANESE": "あの ユマンさん！",
+      "INDONESIAN": "Hai, Yuman!",
+      "PORTUGUESE": "Senhor Yumán!",
+      "SPANISH": "¡Señor Yumán!",
+      "PERSIAN": "هی، یومان!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yeah?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Ya?",
+      "PORTUGUESE": "Sim?",
+      "SPANISH": "¿Sí?",
+      "PERSIAN": "آره؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 37.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 일정 없으면 저랑 놀래요?",
+      "ENGLISH": "If you’re free today… wanna hang out with me?",
+      "CHINESE_SIMPLIFIED": "如果您今天没安排的话，要不要跟我一起出去玩？",
+      "CHINESE_TRADITIONAL": "如果你今天沒有其他事情的話，要不要一起出去玩？",
+      "JAPANESE": "今日 予定ないなら 私と遊びません？",
+      "INDONESIAN": "Kalau kamu ada waktu luang hari ini… mau nongkrong bareng aku?",
+      "PORTUGUESE": "Se o senhor não tiver planos hoje... gostaria de passar o dia comigo?",
+      "SPANISH": "Si no tiene planes hoy... ¿le gustaría pasar el día conmigo?",
+      "PERSIAN": "اگر امروز آزاد هستید ... می خواهید با من وقت بگذارید؟"
+    }
+  }
+]

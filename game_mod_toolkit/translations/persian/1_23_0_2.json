@@ -1,0 +1,217 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저 선생님 발 사이즈가 궁금해요.",
+      "ENGLISH": "I was wondering… what size shoes you wear.",
+      "CHINESE_SIMPLIFIED": "我想知道医生的鞋码是多少",
+      "CHINESE_TRADITIONAL": "我想知道醫生的鞋子是穿幾號",
+      "JAPANESE": "先生の足のサイズが気になるんです",
+      "INDONESIAN": "Saya penasaran sama ukuran kaki dokter.",
+      "PORTUGUESE": "Eu estava pensando… qual é o tamanho do seu sapato.",
+      "SPANISH": "Tengo curiosidad por el tamaño de su pie, doctora.",
+      "PERSIAN": "راستش... کنجکاو بودم سایز پای شما چنده."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제 발 사이즈가 왜 궁금하시죠?",
+      "ENGLISH": "My shoe size? Why are you curious about that?",
+      "CHINESE_SIMPLIFIED": "为什么会对我的鞋码感兴趣啊？",
+      "CHINESE_TRADITIONAL": "為什麼會對我的鞋碼感到好奇呢？",
+      "JAPANESE": "私の足のサイズが、どうして気になるんですか？",
+      "INDONESIAN": "Ukuran kakiku? Emangnya kenapa penasaran?",
+      "PORTUGUESE": "Meu número? Por que essa curiosidade?",
+      "SPANISH": "¿Por qué le interesa eso?",
+      "PERSIAN": "سایز پای من؟! چرا باید دونستنش براتون مهم باشه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 선생님 구두 봤거든요. 갑자기 궁금해졌어요.",
+      "ENGLISH": "I noticed your heels earlier, and it just popped into my head.",
+      "CHINESE_SIMPLIFIED": "刚才看到了医生的皮鞋，突然就有点好奇",
+      "CHINESE_TRADITIONAL": "因為我剛才看到醫生的皮鞋了。突然就很好奇",
+      "JAPANESE": "さっき先生の革靴を見て、ふと気になっちゃって",
+      "INDONESIAN": "Tadi aku lihat sepatu dokter, terus jadi kepikiran aja.",
+      "PORTUGUESE": "Notei seus saltos mais cedo e isso me veio à cabeça.",
+      "SPANISH": "Es que hace rato vi sus zapatos... y me dio curiosidad.",
+      "PERSIAN": "آخه کفشاتونو دیدم، یهو زد به سرم بپرسم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 구두?",
+      "ENGLISH": "Ah~ my shoes?",
+      "CHINESE_SIMPLIFIED": "啊~ 我的皮鞋啊？",
+      "CHINESE_TRADITIONAL": "啊~ 我的皮鞋嗎？",
+      "JAPANESE": "ああ〜、靴のことですか？",
+      "INDONESIAN": "Oh~ sepatuku ya?",
+      "PORTUGUESE": "Ah~ meus sapatos?",
+      "SPANISH": "¿Ah~ mis tacones?",
+      "PERSIAN": "آهان... کفشام؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "제 발 사이즈가 좀 작긴해요.",
+      "ENGLISH": "Yeah, my feet are on the smaller side.",
+      "CHINESE_SIMPLIFIED": "我的脚确实有点小",
+      "CHINESE_TRADITIONAL": "我的腳是小了點",
+      "JAPANESE": "私の足のサイズはちょっと小さいんです",
+      "INDONESIAN": "Ukurannya emang agak kecil sih.",
+      "PORTUGUESE": "É, meu pé é mais pro pequeno.",
+      "SPANISH": "Sí, la verdad tengo los pies algo pequeños.",
+      "PERSIAN": "خب آره، پاهای من کلاً یه نمه ظریفه."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이 정도면 몇이에요?",
+      "ENGLISH": "So what size is that?",
+      "CHINESE_SIMPLIFIED": "那大概是多少码呢？",
+      "CHINESE_TRADITIONAL": "這樣的話是幾號呢？",
+      "JAPANESE": "このくらいなら何センチくらいに見えますか？",
+      "INDONESIAN": "Kalau segini kira-kira berapa?",
+      "PORTUGUESE": "E qual o tamanho?",
+      "SPANISH": "¿De qué talla son más o menos?",
+      "PERSIAN": "مثلاً الان این پای کوچولو چند می‌شه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 한 225~230?",
+      "ENGLISH": "About a five, maybe five and a half.",
+      "CHINESE_SIMPLIFIED": "我大概是35码半到36码吧",
+      "CHINESE_TRADITIONAL": "大約22.5到23號吧？",
+      "JAPANESE": "だいたい22.5〜23.0くらいです",
+      "INDONESIAN": "Sekitar 225 sampai 230 milimeter, mungkin?",
+      "PORTUGUESE": "Mais ou menos 35, talvez 35 e meio.",
+      "SPANISH": "Unos 225~230.",
+      "PERSIAN": "حول و حوش سی و پنج، سی و شیش؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "와 여자들은 다 이렇게 발이 작아요?",
+      "ENGLISH": "Wow, are women’s feet always that small?",
+      "CHINESE_SIMPLIFIED": "哇，女生的脚都是这么小吗？",
+      "CHINESE_TRADITIONAL": "哇，女生的腳都這麼小嗎？",
+      "JAPANESE": "わあ、女性ってみんなこんなに足が小さいんですか？",
+      "INDONESIAN": "Wah, cewek-cewek emang kakinya sekecil ini ya?",
+      "PORTUGUESE": "Uau, os pés das mulheres sempre são tão pequenos assim?",
+      "SPANISH": "Guau ¿todas las mujeres tienen los pies así de pequeños?",
+      "PERSIAN": "واو، یعنی پای همه دخترا اینقدر ریزه میزه است؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "확실히 남성분들 보단 작긴 하죠.",
+      "ENGLISH": "Well, definitely smaller than men’s, usually.",
+      "CHINESE_SIMPLIFIED": "嗯，确实比男生小一些",
+      "CHINESE_TRADITIONAL": "確實是比男生的腳要小一些",
+      "JAPANESE": "確かに男性の方よりは小さいですね",
+      "INDONESIAN": "Memang sih, biasanya lebih kecil dari laki-laki.",
+      "PORTUGUESE": "Bom, geralmente menores que os dos homens.",
+      "SPANISH": "Bueno, suelen ser más pequeños que los de los hombres.",
+      "PERSIAN": "خب مسلماً نسبت به پای آقایون خیلی کوچیک‌تره دیگه."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 32.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오 신기하다...",
+      "ENGLISH": "That’s so wild…",
+      "CHINESE_SIMPLIFIED": "哦，好神奇啊…",
+      "CHINESE_TRADITIONAL": "喔，真神奇...",
+      "JAPANESE": "おお、なんだか不思議だ…",
+      "INDONESIAN": "Oh, menarik juga ya...",
+      "PORTUGUESE": "Que loucura…",
+      "SPANISH": "Qué interesante...",
+      "PERSIAN": "عجب... خیلی برام عجیبه..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 35.2
+    },
+    "SCRIPT": {
+      "KOREAN": "됐나요?",
+      "ENGLISH": "Happy now?",
+      "CHINESE_SIMPLIFIED": "好了吗？",
+      "CHINESE_TRADITIONAL": "這樣可以了嗎？",
+      "JAPANESE": "もう大丈夫ですか？",
+      "INDONESIAN": "Udah cukup?",
+      "PORTUGUESE": "Feliz agora?",
+      "SPANISH": "¿Eso es todo?",
+      "PERSIAN": "کنجکاوی‌تون رفع شد؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 35.2,
+      "HIDE": 36.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "是",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره، حله!"
+    }
+  }
+]

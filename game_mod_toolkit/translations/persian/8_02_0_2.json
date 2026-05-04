@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님 혼자 한번 해보세요!",
+      "ENGLISH": "Manager, try it by yourself this time!",
+      "CHINESE_SIMPLIFIED": "科长，你自己来试试吧！",
+      "CHINESE_TRADITIONAL": "課長，你試一次看看吧！",
+      "JAPANESE": "課長、一人で一回打ってみてください！",
+      "INDONESIAN": "Manajer, coba sendiri kali ini!",
+      "PORTUGUESE": "Chefa, tenta sozinha!",
+      "SPANISH": "¡Jefa, inténtelo usted sola!",
+      "PERSIAN": "مدیر، این بار خودتان اونو امتحان کنید!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왜? 나 잡아주면 안 돼?",
+      "ENGLISH": "Why? You’re not gonna hold me?",
+      "CHINESE_SIMPLIFIED": "怎么？不能帮我调整姿势吗？",
+      "CHINESE_TRADITIONAL": "為什麼？不能扶著我打嗎？",
+      "JAPANESE": "なんで？もう少し見ててくれないの？",
+      "INDONESIAN": "Hah? Kamu nggak bantuin aku pegangin?",
+      "PORTUGUESE": "Hã? Você não vai me ajudar?",
+      "SPANISH": "¿Eh? ¿No vas a ayudarme?",
+      "PERSIAN": "چرا؟ تو مرا نگه نمی‌داری؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 잡아주는 거보다 ",
+      "ENGLISH": "Well, more than guiding you —",
+      "CHINESE_SIMPLIFIED": "不是啦，比起别人帮忙",
+      "CHINESE_TRADITIONAL": "不是啦，比起扶著你打",
+      "JAPANESE": "いや、自分で打って感覚つかむほうが大事なんですよ〜",
+      "INDONESIAN": "Yaa, daripada ngebimbing terus —",
+      "PORTUGUESE": "Não, mais do que ajudar,",
+      "SPANISH": "No, más que ayudarla,",
+      "PERSIAN": "خوب، بیشتر از اینکه شما را راهنمایی کنم -"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "스스로 쳐보면서 느끼는 게 더 중요하거든요~",
+      "ENGLISH": "it’s more important that you feel it yourself while swinging~",
+      "CHINESE_SIMPLIFIED": "自己挥杆体会更重要啦~",
+      "CHINESE_TRADITIONAL": "自己試著揮桿體驗更重要啦～",
+      "JAPANESE": "なにそれ…わかった",
+      "INDONESIAN": "lebih penting kamu bisa ngerasain sendiri pas ayunannya~",
+      "PORTUGUESE": "é importante que sinta o movimento por si mesma~",
+      "SPANISH": "es importante que sienta el movimiento por si misma~",
+      "PERSIAN": "مهمتر این است که خودتان اونو در حین تاب خوردن احساس کنید"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야... 알았어.",
+      "ENGLISH": "What… fine.",
+      "CHINESE_SIMPLIFIED": "什么呀...知道了",
+      "CHINESE_TRADITIONAL": "什麼啊...我知道了",
+      "JAPANESE": "お〜課長、ナイスショット〜！",
+      "INDONESIAN": "Huh… yaudah deh.",
+      "PORTUGUESE": "Nossa… tá bom.",
+      "SPANISH": "Vaya… está bien.",
+      "PERSIAN": "چی… خوبه"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 과장님 나이스샷~",
+      "ENGLISH": "Ooh~ nice shot, Manager~",
+      "CHINESE_SIMPLIFIED": "喔~科长打得好~",
+      "CHINESE_TRADITIONAL": "哇嗚～課長～Nice Shot！",
+      "JAPANESE": "ちょっと腰回しすぎたかな…",
+      "INDONESIAN": "Ooh~ nice shot, Manajer~",
+      "PORTUGUESE": "Oh~ chefa, boa tacada!",
+      "SPANISH": "¡Oh~ jefa, buen tiro!",
+      "PERSIAN": "اوه~ شات خوب، مدیر~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 30.3
+    },
+    "SCRIPT": {
+      "KOREAN": "허리가 너무 돌아갔나...",
+      "ENGLISH": "Did my hips twist too much…?",
+      "CHINESE_SIMPLIFIED": "是不是腰转得太过了...",
+      "CHINESE_TRADITIONAL": "腰是不是轉太多了呢...？",
+      "JAPANESE": "腰をひねりすぎたかな…",
+      "INDONESIAN": "Pinggul aku muternya kebanyakan nggak ya…?",
+      "PORTUGUESE": "Acho que girei demais a cintura...",
+      "SPANISH": "Creo que giré demasiado la cintura...",
+      "PERSIAN": "باسنم خیلی پیچ خورد...؟"
+    }
+  }
+]

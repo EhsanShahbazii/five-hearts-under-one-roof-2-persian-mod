@@ -1,0 +1,297 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유정아!",
+      "ENGLISH": "Yujeong-ah!",
+      "CHINESE_SIMPLIFIED": "有情啊！",
+      "CHINESE_TRADITIONAL": "有情啊！",
+      "JAPANESE": "ユジョン！",
+      "INDONESIAN": "Yujeong!",
+      "PORTUGUESE": "Yujeong!",
+      "SPANISH": "¡Yujeong!",
+      "PERSIAN": "یو-جونگ آه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥！",
+      "CHINESE_TRADITIONAL": "哥哥！",
+      "JAPANESE": "お兄ちゃん！",
+      "INDONESIAN": "Oppa!",
+      "PORTUGUESE": "Oppa!",
+      "SPANISH": "¡Oppa!",
+      "PERSIAN": "یومان!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이리 와!",
+      "ENGLISH": "Come here!",
+      "CHINESE_SIMPLIFIED": "过来！",
+      "CHINESE_TRADITIONAL": "過來！",
+      "JAPANESE": "こっち来て！",
+      "INDONESIAN": "Sini deh!",
+      "PORTUGUESE": "Vem aqui!",
+      "SPANISH": "¡Ven aquí!",
+      "PERSIAN": "بیا اینجا!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리!",
+      "ENGLISH": "Hurry up!",
+      "CHINESE_SIMPLIFIED": "快点！",
+      "CHINESE_TRADITIONAL": "快點！",
+      "JAPANESE": "早く！",
+      "INDONESIAN": "Cepetan!",
+      "PORTUGUESE": "Rápido!",
+      "SPANISH": "¡Rápido!",
+      "PERSIAN": "عجله کن"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "으...! 앗 차가!!",
+      "ENGLISH": "Ugh...! Oh no, the car!!",
+      "CHINESE_SIMPLIFIED": "呃...！好凉！！",
+      "CHINESE_TRADITIONAL": "呃...好涼！！",
+      "JAPANESE": "うわっ！冷たっ！！",
+      "INDONESIAN": "Ugh... ih dingin banget!!",
+      "PORTUGUESE": "Ugh...! Ah, que gelada!",
+      "SPANISH": "¡Ugh...! ¡Ah, qué fría está!",
+      "PERSIAN": "اوه...! اوه نه ماشین!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "완전 시원하지?",
+      "ENGLISH": "Isn't it totally refreshing?",
+      "CHINESE_SIMPLIFIED": "是不是超级凉快？",
+      "CHINESE_TRADITIONAL": "是不是超級涼快？",
+      "JAPANESE": "めっちゃ気持ちいいでしょ？",
+      "INDONESIAN": "Seger banget kan?",
+      "PORTUGUESE": "Não tá refrescante?",
+      "SPANISH": "¿No se siente refrescante?",
+      "PERSIAN": "کاملاً طراوت کننده نیست؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네가 먼저 시작했다??",
+      "ENGLISH": "Did you start first??",
+      "CHINESE_SIMPLIFIED": "是你先动手的吧？？",
+      "CHINESE_TRADITIONAL": "是你先動手的吧？？",
+      "JAPANESE": "先に仕掛けたのはそっちでしょ！？",
+      "INDONESIAN": "Kamu yang mulai duluan ya??",
+      "PORTUGUESE": "Você vai ver, foi você quem começou!",
+      "SPANISH": "¡Verás que tú empezaste!",
+      "PERSIAN": "اول شروع کردی؟؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 31.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나 그렇게까지 많이 안 했거든?",
+      "ENGLISH": "I didn't do that much, you know?",
+      "CHINESE_SIMPLIFIED": "我刚刚可没泼那么多呢？",
+      "CHINESE_TRADITIONAL": "我剛剛沒有潑那麼多啊？",
+      "JAPANESE": "そんなにやってないもん！",
+      "INDONESIAN": "Aku nggak nyipratin sebanyak itu, tahu!",
+      "PORTUGUESE": "Nem fiz tanto assim, viu!",
+      "SPANISH": "¡Ni siquiera hice tanto, oye!",
+      "PERSIAN": "من آنقدرها انجام ندادم، می دانید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 50.7,
+      "HIDE": 53.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 이것 봐 봐라?",
+      "ENGLISH": "Oppa, look at this?",
+      "CHINESE_SIMPLIFIED": "哥哥，快看这个～",
+      "CHINESE_TRADITIONAL": "哥哥，你快看這個～",
+      "JAPANESE": "お兄ちゃん、これ見て？",
+      "INDONESIAN": "Oppa, coba lihat deh ini?",
+      "PORTUGUESE": "Oppa, olha isso!",
+      "SPANISH": "Oppa, ¡mira esto!",
+      "PERSIAN": "یومان، به این نگاه کن؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 54.1,
+      "HIDE": 55.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 뭐하는 거야~",
+      "ENGLISH": "Hey, what are you doing~",
+      "CHINESE_SIMPLIFIED": "哎呀你干什么啦~",
+      "CHINESE_TRADITIONAL": "哎呀，幹什麼啦～",
+      "JAPANESE": "ちょ、何してるの〜！",
+      "INDONESIAN": "Eh, kamu ngapain sih~",
+      "PORTUGUESE": "Ai, o que você tá fazendo~?",
+      "SPANISH": "Ay, ¿qué haces~?",
+      "PERSIAN": "هی چیکار میکنی~"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 57.1,
+      "HIDE": 60.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 오빠도 붙었는데?",
+      "ENGLISH": "Huh? You got stuck too?",
+      "CHINESE_SIMPLIFIED": "嗯？哥哥脸上也有呢？",
+      "CHINESE_TRADITIONAL": "嗯？哥哥臉上也有呢？",
+      "JAPANESE": "えっ？お兄ちゃんにもついたよ？",
+      "INDONESIAN": "Hah? Oppa juga kena tuh?",
+      "PORTUGUESE": "Hã? Também caiu em você?",
+      "SPANISH": "¿Eh? ¿También te cayó a ti?",
+      "PERSIAN": "ها؟ تو هم گیر افتادی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 60.4,
+      "HIDE": 60.9
+    },
+    "SCRIPT": {
+      "KOREAN": "내가?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我吗？",
+      "CHINESE_TRADITIONAL": "我嗎？",
+      "JAPANESE": "僕に？",
+      "INDONESIAN": "Aku?",
+      "PORTUGUESE": "Em mim?",
+      "SPANISH": "¿A mí?",
+      "PERSIAN": "من؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 61.0,
+      "HIDE": 61.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 여기",
+      "ENGLISH": "Yeah! Here, here. Here, here.",
+      "CHINESE_SIMPLIFIED": "嗯！这里",
+      "CHINESE_TRADITIONAL": "嗯！這裡",
+      "JAPANESE": "うん！ここ！",
+      "INDONESIAN": "Iya! Di sini",
+      "PORTUGUESE": "Sim! Aqui.",
+      "SPANISH": "¡Sí! Aquí.",
+      "PERSIAN": "آره اینجا، اینجا اینجا، اینجا"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 61.9,
+      "HIDE": 62.2
+    },
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Huh?    ",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Onde?",
+      "SPANISH": "¿Dónde?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 62.3,
+      "HIDE": 62.9
+    },
+    "SCRIPT": {
+      "KOREAN": "여기, 여기, 여기",
+      "ENGLISH": "Here, here. Here, here.",
+      "CHINESE_SIMPLIFIED": "这里，这里，这里",
+      "CHINESE_TRADITIONAL": "這裡、這裡、這裡！",
+      "JAPANESE": "ここ、ここ、ここ！",
+      "INDONESIAN": "Di sini, sini, sini",
+      "PORTUGUESE": "Aqui, aqui, aqui.",
+      "SPANISH": "Aquí, aquí, aquí.",
+      "PERSIAN": "اینجا، اینجا اینجا، اینجا"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 66.4,
+      "HIDE": 68.6
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠, 나도!",
+      "ENGLISH": "Oppa, me too!",
+      "CHINESE_SIMPLIFIED": "哥哥，我也要！",
+      "CHINESE_TRADITIONAL": "哥哥，我也要！",
+      "JAPANESE": "お兄ちゃん、私も",
+      "INDONESIAN": "Oppa, aku juga dong!",
+      "PORTUGUESE": "Oppa... eu também!",
+      "SPANISH": "Oppa... ¡yo también!",
+      "PERSIAN": "یومان، من هم همینطور!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 68.7,
+      "HIDE": 68.8
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "조금 더 일찍 찾아 뵙고 인사 드렸어야 했는데...",
+      "ENGLISH": "I should’ve visited sooner to properly introduce myself…",
+      "CHINESE_SIMPLIFIED": "本来应该早点登门拜访的...",
+      "CHINESE_TRADITIONAL": "本來應該早點登門拜訪...",
+      "JAPANESE": "もっと早くご挨拶に伺うべきでした",
+      "INDONESIAN": "Harusnya aku udah mampir dari dulu buat ngenalin diri dengan baik…",
+      "PORTUGUESE": "Deveria ter vindo me apresentar antes…",
+      "SPANISH": "Debería haber venido a presentarme antes…",
+      "PERSIAN": "باید زودتر می آمدم تا خودم را به درستی معرفی کنم…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 유나 씨랑 만나고 있는 우유만입니다.",
+      "ENGLISH": "I’m Woo Yuman — I’m in a relationship with Yu-na.",
+      "CHINESE_SIMPLIFIED": "我是有娜的男朋友，吴宥万",
+      "CHINESE_TRADITIONAL": "我是有娜的男朋友，吳宥萬",
+      "JAPANESE": "僕はユナさんとお付き合いしているウ・ユマンと申します",
+      "INDONESIAN": "Aku Woo Yuman — aku pacarnya Yu-na.",
+      "PORTUGUESE": "Sou o Yumán Woo, estou saindo com a Yuna.",
+      "SPANISH": "Soy Yumán Woo, estoy saliendo con Yuna.",
+      "PERSIAN": "من وو یومان هستم - من با یو نا در رابطه هستم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "듣기론 직장인이라고 하던데...",
+      "ENGLISH": "I heard you’re an office worker…?",
+      "CHINESE_SIMPLIFIED": "听说你原本是上班族？",
+      "CHINESE_TRADITIONAL": "聽說你原本是上班族？",
+      "JAPANESE": "たしか会社員だったって聞いてるけど…",
+      "INDONESIAN": "Katanya kamu kerja kantoran, ya…?",
+      "PORTUGUESE": "Ouvi dizer que você é um funcionário de escritório…",
+      "SPANISH": "Escuché que eras oficinista…",
+      "PERSIAN": "شنیدم کارمند اداری هستی...؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네 유나 씨에 비하면 평범한 집에서 자랐습니다.",
+      "ENGLISH": "Yes. Compared to Yu-na, I come from a very ordinary background.",
+      "CHINESE_SIMPLIFIED": "是的，相比有娜小姐，我家算很普通",
+      "CHINESE_TRADITIONAL": "是的，和有娜小姐比起來，我是在普通家庭長大",
+      "JAPANESE": "はい、ユナさんに比べたら、普通の家庭で育ちました",
+      "INDONESIAN": "Iya. Kalau dibandingin sama Yu-na, latar belakangku sih biasa banget.",
+      "PORTUGUESE": "Sim, cresci numa família bem normal, nada de especial comparado à Yuna.",
+      "SPANISH": "Sí, crecí en una familia bastante normal, nada especial comparado con Yuna.",
+      "PERSIAN": "بله. در مقایسه با یونا، من از یک پس زمینه بسیار معمولی آمده ام."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 말 좀 그렇지만... 우리 유나 같은 경우는",
+      "ENGLISH": "I hate to say this, but… someone like our Yu-na",
+      "CHINESE_SIMPLIFIED": "这话可能不太中听...但以我们有娜的身份",
+      "CHINESE_TRADITIONAL": "雖然這麼說不太好，我們家有娜的身份在那裡",
+      "JAPANESE": "こういう言い方はあれだけど…うちのユナはね",
+      "INDONESIAN": "Maaf harus ngomong gini, tapi… Yu-na itu",
+      "PORTUGUESE": "Isso pode soar um pouco duro, mas… no caso da minha filha,",
+      "SPANISH": "Esto puede sonar un poco duro, pero… en el caso de mi hija,",
+      "PERSIAN": "من از گفتن این حرف متنفرم، اما... یکی مثل یونا ما"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "가볍게 연애할 수 있는 그런 위치가 아니에요.",
+      "ENGLISH": "isn’t in a position to date casually.",
+      "CHINESE_SIMPLIFIED": "是不能随随便便谈恋爱的",
+      "CHINESE_TRADITIONAL": "不是能隨便談戀愛的",
+      "JAPANESE": "軽い気持ちで恋愛できる立場じゃないのよ",
+      "INDONESIAN": "bukan tipe yang bisa pacaran main-main.",
+      "PORTUGUESE": "ela não está em posição de ter um relacionamento casual.",
+      "SPANISH": "no está en posición de tener una relación casual.",
+      "PERSIAN": "در موقعیتی قرار نگرفته است که به طور اتفاقی قرار باشد."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 엄마!",
+      "ENGLISH": "Mom!",
+      "CHINESE_SIMPLIFIED": "妈！",
+      "CHINESE_TRADITIONAL": "媽媽！",
+      "JAPANESE": "お母さん！",
+      "INDONESIAN": "Mom!",
+      "PORTUGUESE": "Mãe!",
+      "SPANISH": "¡Mamá!",
+      "PERSIAN": "مامان!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 29.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어떤 부분 말씀하시는 건지 알고 있습니다!",
+      "ENGLISH": "I understand what you mean.",
+      "CHINESE_SIMPLIFIED": "我明白您的顾虑！",
+      "CHINESE_TRADITIONAL": "我明白您的顧慮！",
+      "JAPANESE": "おっしゃる意味、わかっています",
+      "INDONESIAN": "Aku ngerti maksud Ibu.",
+      "PORTUGUESE": "Eu entendo perfeitamente o que a senhora quer dizer.",
+      "SPANISH": "Sé perfectamente a qué se refiere.",
+      "PERSIAN": "متوجه منظور شما هستم"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.7
+    },
+    "SCRIPT": {
+      "KOREAN": "하지만 저 유나 씨 진지하게 만나고 있습니다.",
+      "ENGLISH": "But I’m seeing Yu-na with complete seriousness.",
+      "CHINESE_SIMPLIFIED": "但我是真心和有娜交往的",
+      "CHINESE_TRADITIONAL": "但我是真心想和有娜小姐交往",
+      "JAPANESE": "でも僕はユナさんと真剣にお付き合いしています",
+      "INDONESIAN": "Tapi aku serius banget sama Yu-na.",
+      "PORTUGUESE": "Mas estou saindo com a Yuna de verdade.",
+      "SPANISH": "Pero estoy saliendo con Yuna en serio.",
+      "PERSIAN": "اما من یونا را با جدیت کامل می بینم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 33.9
+    },
+    "SCRIPT": {
+      "KOREAN": "교제 정식으로 허락해주시면",
+      "ENGLISH": "If you formally permit our relationship,",
+      "CHINESE_SIMPLIFIED": "如果您能正式同意我们交往",
+      "CHINESE_TRADITIONAL": "如果您能正式允許我們交往",
+      "JAPANESE": "正式にお許しいただけるなら",
+      "INDONESIAN": "Kalau Ibu bisa restuin hubungan kami,",
+      "PORTUGUESE": "Se a senhora nos der sua aprovação,",
+      "SPANISH": "Si nos da su aprobación,",
+      "PERSIAN": "اگر به طور رسمی اجازه رابطه ما را بدهید،"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 34.3,
+      "HIDE": 36.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨 앞으로도 더 행복하게 해주겠습니다.",
+      "ENGLISH": "I promise I’ll make her even happier from now on.",
+      "CHINESE_SIMPLIFIED": "我保证今后会让有娜更加幸福",
+      "CHINESE_TRADITIONAL": "我保證以後會讓有娜小姐更加幸福",
+      "JAPANESE": "これからもユナさんを幸せにします",
+      "INDONESIAN": "aku janji bakal bikin dia lebih bahagia dari sebelumnya.",
+      "PORTUGUESE": "prometo fazê-la feliz daqui pra frente.",
+      "SPANISH": "prometo hacerla feliz de ahora en adelante.",
+      "PERSIAN": "قول می دهم از این به بعد اونو خوشحال تر کنم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 37.9,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "듣던 대로 당차고 좋네요.",
+      "ENGLISH": "…Just as I’ve heard — you’re bold and sincere. I like that.",
+      "CHINESE_SIMPLIFIED": "果然如传闻般干脆利落呢",
+      "CHINESE_TRADITIONAL": "果然，和傳聞般的一樣自信，不錯",
+      "JAPANESE": "噂どおり、しっかりしてていい子ね",
+      "INDONESIAN": "…Sesuai yang kudengar — kamu berani dan tulus. Ibu suka itu.",
+      "PORTUGUESE": "Você é tão decidido quanto diziam. Gosto disso.",
+      "SPANISH": "Eres tan decidido como decían. Me gusta eso.",
+      "PERSIAN": "... همانطور که من شنیده ام - شما جسور و صادق هستید. من اونو دوست دارم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 44.0
+    },
+    "SCRIPT": {
+      "KOREAN": "두 사람 만나는 거 지켜볼게요.",
+      "ENGLISH": "I’ll be watching over your relationship.",
+      "CHINESE_SIMPLIFIED": "那就让我观察看看你们两个人的交往吧",
+      "CHINESE_TRADITIONAL": "那就讓我觀察看看你們兩個人的交往狀況吧",
+      "JAPANESE": "二人の関係、見守らせてもらうよ",
+      "INDONESIAN": "Ibu akan mengamati hubungan kalian.",
+      "PORTUGUESE": "Vou continuar observando como as coisas vão entre vocês dois.",
+      "SPANISH": "Seguiré observando cómo les va a los dos.",
+      "PERSIAN": "من مراقب رابطه شما می‌شم"
+    }
+  }
+]

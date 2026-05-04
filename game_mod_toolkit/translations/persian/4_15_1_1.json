@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유튜브 보고 있네?",
+      "ENGLISH": "You’re watching videos?",
+      "CHINESE_SIMPLIFIED": "在刷YouTube视频呢？",
+      "CHINESE_TRADITIONAL": "在看 YouTube 喔？",
+      "JAPANESE": "YouTube見てるの？",
+      "INDONESIAN": "Lagi nonton youtube yah?",
+      "PORTUGUESE": "Tá assistindo YouTube...",
+      "SPANISH": "Estaba viendo vídeos...",
+      "PERSIAN": "شما در حال تماشای ویدیوها هستید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "(밀크필름 유튜브) \n밀크필름?",
+      "ENGLISH": "(MilkFilm Channel)\nMilk Films?",
+      "CHINESE_SIMPLIFIED": "「Milk Film 官方 油管」\nMilk Film？",
+      "CHINESE_TRADITIONAL": "「Milk Film 官方 YouTube」\nMilk Film？",
+      "JAPANESE": "「ミルクフィルム 公式YouTube」\nミルクフィルム？",
+      "INDONESIAN": "(Channel MilkFilm)\nMilk Films?",
+      "PORTUGUESE": "(Canal da MilkFilm)\nO que é... MilkFilm?",
+      "SPANISH": "(Canal de MilkFilm)\n¿Qué es... MilkFilm?",
+      "PERSIAN": "(کانال فیلم شیر) فیلم های شیر؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우와... 재밌겠는데?",
+      "ENGLISH": "Wow… that looks fun!",
+      "CHINESE_SIMPLIFIED": "哇哦...看起来挺有意思嘛！",
+      "CHINESE_TRADITIONAL": "哇...好像很有趣耶？",
+      "JAPANESE": "うわ〜面白そうじゃん!",
+      "INDONESIAN": "Wah… kayaknya seru banget!",
+      "PORTUGUESE": "Uau... parece divertido.",
+      "SPANISH": "Guau... se ve divertido.",
+      "PERSIAN": "وای... به نظر سرگرم کننده است!"
+    }
+  }
+]

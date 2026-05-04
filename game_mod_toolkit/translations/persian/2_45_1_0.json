@@ -1,0 +1,369 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 유나 씨 얘기 좀 들어봅시다.",
+      "ENGLISH": "Let’s hear about you today, Yuna.",
+      "CHINESE_SIMPLIFIED": "今天来听听有娜小姐的故事吧",
+      "CHINESE_TRADITIONAL": "今天來聽聽有娜小姐的故事吧",
+      "JAPANESE": "今日はユナさんの話を聞かせてください",
+      "INDONESIAN": "Mari kita dengarkan tentangmu hari ini, Yuna.",
+      "PORTUGUESE": "Hoje vamos falar sobre você, Yuna.",
+      "SPANISH": "Hoy hablemos sobre ti, Yuna.",
+      "PERSIAN": "بیا امروز درباره تو بشنویم، یونا."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가 궁금한데요?",
+      "ENGLISH": "What do you wanna know?",
+      "CHINESE_SIMPLIFIED": "你想听什么？",
+      "CHINESE_TRADITIONAL": "想聽什麼呢？",
+      "JAPANESE": "何が気になるんですか？",
+      "INDONESIAN": "Apa yang ingin kamu ketahui?",
+      "PORTUGUESE": "Sobre mim? O que você quer saber?",
+      "SPANISH": "¿De mí? ¿Qué quieres saber?",
+      "PERSIAN": "چی میخوای بدونی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Não sei...",
+      "SPANISH": "No sé…",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게 살아 온 건지 같은 거?",
+      "ENGLISH": "Like how you’ve lived?",
+      "CHINESE_SIMPLIFIED": "比如你是怎么生活过来的？",
+      "CHINESE_TRADITIONAL": "像是妳怎麼一路走來的之類的？",
+      "JAPANESE": "今までどんなふうに生きてきたのかな、とか？",
+      "INDONESIAN": "Seperti cara hidupmu?",
+      "PORTUGUESE": "Como tem sido a sua vida?",
+      "SPANISH": "¿Cómo ha sido tu vida?",
+      "PERSIAN": "مثل اینکه چطور زندگی کردی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥.. 가질 수 있는 건 다 가지면서 살았죠.",
+      "ENGLISH": "Well... I’ve lived getting pretty much everything I wanted.",
+      "CHINESE_SIMPLIFIED": "就...过着想要什么都能得到的生活啊",
+      "CHINESE_TRADITIONAL": "就…過著想要什麼就都能得到的生活啊",
+      "JAPANESE": "そうですね…ほしいものは全部手に入れながら生きてきました",
+      "INDONESIAN": "Baiklah... Aku telah menjalani hidup dengan mendapatkan hampir semua yang aku inginkan.",
+      "PORTUGUESE": "Bom... vivi tendo tudo o que quis.",
+      "SPANISH": "Bueno… he vivido teniendo todo lo que he querido.",
+      "PERSIAN": "خوب... من تقریباً به هر چیزی که می خواستم زندگی کرده ام."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아하는 건 다 가졌어요",
+      "ENGLISH": "Everything I liked, I made mine.",
+      "CHINESE_SIMPLIFIED": "喜欢的东西都得到了",
+      "CHINESE_TRADITIONAL": "喜歡的東西都有了",
+      "JAPANESE": "好きなものは全部",
+      "INDONESIAN": "Apa pun yang aku suka, aku buat milikku.",
+      "PORTUGUESE": "Tudo o que gosto, eu tive.",
+      "SPANISH": "Todo lo que me gusta, lo he tenido.",
+      "PERSIAN": "هرچی دوست داشتم مال خودم ساختم"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.8
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 다 가졌어요?",
+      "ENGLISH": "Everything? Really?",
+      "CHINESE_SIMPLIFIED": "真的全都得到了？",
+      "CHINESE_TRADITIONAL": "真的全部都擁有了嗎？",
+      "JAPANESE": "本当に全部？",
+      "INDONESIAN": "Segalanya? Benarkah?",
+      "PORTUGUESE": "De verdade, tudo?",
+      "SPANISH": "¿De verdad todo?",
+      "PERSIAN": "همه چیز؟ واقعا؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "음...아!",
+      "ENGLISH": "Hmm... oh!",
+      "CHINESE_SIMPLIFIED": "嗯...啊！",
+      "CHINESE_TRADITIONAL": "嗯…啊！",
+      "JAPANESE": "うーん…あっ！",
+      "INDONESIAN": "Hmm... oh!",
+      "PORTUGUESE": "Hmm... ah!",
+      "SPANISH": "Hmm… ¡ah!",
+      "PERSIAN": "هوم... اوه!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하나 못 가졌다",
+      "ENGLISH": "There’s one thing I didn’t get.",
+      "CHINESE_SIMPLIFIED": "有一件没得到",
+      "CHINESE_TRADITIONAL": "有一樣東西沒有",
+      "JAPANESE": "一つだけ、手に入れられなかった",
+      "INDONESIAN": "Ada satu hal yang tidak aku mengerti.",
+      "PORTUGUESE": "Tem uma coisa que eu não tive.",
+      "SPANISH": "Hay una cosa que no he tenido.",
+      "PERSIAN": "یک چیز وجود دارد که من متوجه نشدم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭔데요?",
+      "ENGLISH": "What’s that?",
+      "CHINESE_SIMPLIFIED": "是什么？",
+      "CHINESE_TRADITIONAL": "是什麼？",
+      "JAPANESE": "何ですか？",
+      "INDONESIAN": "Apa itu?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué cosa?",
+      "PERSIAN": "اون چیه؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 유만 씨요!",
+      "ENGLISH": "You, Yuman.",
+      "CHINESE_SIMPLIFIED": "嗯，是宥万先生你啊！",
+      "CHINESE_TRADITIONAL": "嗯，就是宥萬先生你！",
+      "JAPANESE": "うーん、ユマンさんですよ",
+      "INDONESIAN": "Kamu, Yuman.",
+      "PORTUGUESE": "Você, Yuman.",
+      "SPANISH": "A ti, Yumán.",
+      "PERSIAN": "تو، یومان."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 37.2,
+      "HIDE": 39.8
+    },
+    "SCRIPT": {
+      "KOREAN": "전 좋아하는 건 다 가지면서 살았어요",
+      "ENGLISH": "I said I always get what I like...",
+      "CHINESE_SIMPLIFIED": "我确实是过着想要什么都能得到的生活",
+      "CHINESE_TRADITIONAL": "我想要的東西幾乎都有了",
+      "JAPANESE": "私、好きなものは全部手に入れて生きてきました",
+      "INDONESIAN": "Aku bilangkan aku selalu mendapatkan apa yang aku suka...",
+      "PORTUGUESE": "Vivi conseguindo tudo o que eu quis...",
+      "SPANISH": "He vivido consiguiendo todo lo que me gusta…",
+      "PERSIAN": "گفتم من همیشه به چیزی که دوست دارم میرسم..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 44.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 갖고 싶어졌어요.",
+      "ENGLISH": "and I wanted you.",
+      "CHINESE_SIMPLIFIED": "但我还想要宥万先生你呢",
+      "CHINESE_TRADITIONAL": "但我還想要你",
+      "JAPANESE": "でも、ユマンさんだけは ほしくても手に入らなかった",
+      "INDONESIAN": "dan aku menginginkanmu.",
+      "PORTUGUESE": "mas o que eu queria mesmo era ter você.",
+      "SPANISH": "pero yo quería tenerte a ti.",
+      "PERSIAN": "و من تو را می خواستم"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 44.9,
+      "HIDE": 47.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그것두 엄~청",
+      "ENGLISH": "Really... ",
+      "CHINESE_SIMPLIFIED": "而且是非~常想要",
+      "CHINESE_TRADITIONAL": "非常～非常地想要喔",
+      "JAPANESE": "それもすっごく",
+      "INDONESIAN": "Benar-benar... ",
+      "PORTUGUESE": "Queria muuuuito.",
+      "SPANISH": "Lo quería muuuuucho",
+      "PERSIAN": "واقعا..."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 48.3,
+      "HIDE": 51.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨도 나랑 같은 마음이면",
+      "ENGLISH": "Desperately wanted you.",
+      "CHINESE_SIMPLIFIED": "如果宥万先生也和我心意相通",
+      "CHINESE_TRADITIONAL": "如果宥萬先生也和我一樣的話",
+      "JAPANESE": "ユマンさんも同じ気持ちなら",
+      "INDONESIAN": "Sangat menginginkanmu.",
+      "PORTUGUESE": "Se você sente o mesmo por mim,",
+      "SPANISH": "Si sientes lo mismo por mí,",
+      "PERSIAN": "به شدت تو را می خواست"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 63.1,
+      "HIDE": 65.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 마시는 거로",
+      "ENGLISH": "If you feel the same way... drink.",
+      "CHINESE_SIMPLIFIED": "就用喝不喝这杯酒来表示吧",
+      "CHINESE_TRADITIONAL": "就把這杯酒喝了吧",
+      "JAPANESE": "これ、飲んでください",
+      "INDONESIAN": "Jika kamu merasakan hal yang sama... minumlah.",
+      "PORTUGUESE": "aceita esse gole.",
+      "SPANISH": "acéptame este trago.",
+      "PERSIAN": "اگر شما هم همین احساس را دارید... بنوشید."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 66.1,
+      "HIDE": 68.2
+    },
+    "SCRIPT": {
+      "KOREAN": "안 마시면요?",
+      "ENGLISH": "And if I don’t?",
+      "CHINESE_SIMPLIFIED": "要是不喝呢？",
+      "CHINESE_TRADITIONAL": "要是我不喝呢？",
+      "JAPANESE": "飲まなかったら？",
+      "INDONESIAN": "Bagaimana jika aku tidak melakukannya?",
+      "PORTUGUESE": "E se eu não aceitar?",
+      "SPANISH": "¿Y si no lo acepto?",
+      "PERSIAN": "و اگر این کار را نکنم؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 68.5,
+      "HIDE": 71.9
+    },
+    "SCRIPT": {
+      "KOREAN": "음.. 그럼 볼 일 없는 거죠.",
+      "ENGLISH": "Then we never see each other again.",
+      "CHINESE_SIMPLIFIED": "嗯...那就是没缘分了",
+      "CHINESE_TRADITIONAL": "那就…一輩子",
+      "JAPANESE": "ふふ…もう二度と 会うことはないですね",
+      "INDONESIAN": "Lalu, kami tidak pernah bertemu lagi.",
+      "PORTUGUESE": "Hmm... então nunca mais vamos nos ver.",
+      "SPANISH": "Hmm… entonces no volveremos a vernos.",
+      "PERSIAN": "بعدش دیگه هیچوقت همو نمیبینیم"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 72.3,
+      "HIDE": 73.6
+    },
+    "SCRIPT": {
+      "KOREAN": "평생",
+      "ENGLISH": "Ever.",
+      "CHINESE_SIMPLIFIED": "一辈子",
+      "CHINESE_TRADITIONAL": "也不會有交集了吧",
+      "JAPANESE": "一生",
+      "INDONESIAN": "Tidak akan pernah.",
+      "PORTUGUESE": "Nunca mais.",
+      "SPANISH": "Nunca más.",
+      "PERSIAN": "همیشه."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 98.0,
+      "HIDE": 100.0
+    }
+  }
+]

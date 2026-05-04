@@ -1,0 +1,189 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 별명 몰라요? 만년돌",
+      "ENGLISH": "You don’t know Min-jung’s nickname? “Once-in-a-lifetime Idol.”",
+      "CHINESE_SIMPLIFIED": "你不知道敏静的外号吗？“万年爱豆”！",
+      "CHINESE_TRADITIONAL": "你不知道敏靜的外號嗎？是“萬年偶像”",
+      "JAPANESE": "ミンジョンさんのあだ名、知らないんですか？ “万年ドル”！",
+      "INDONESIAN": "Kamu nggak tahu julukannya Min-jung? “Idol sekali seumur hidup.”",
+      "SPANISH": "¿No conoces el apodo de Minjung? “La idol del milenio.”",
+      "PERSIAN": "شما نام مستعار مین‌جونگ را نمی دانید؟ \"بت یک بار در زندگی.\""
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 또 뭔데요.",
+      "ENGLISH": "What even is that supposed to mean?",
+      "CHINESE_SIMPLIFIED": "那又是什么啊？",
+      "CHINESE_TRADITIONAL": "那是什麼意思？",
+      "JAPANESE": "それ、何ですか",
+      "INDONESIAN": "Itu maksudnya apa coba?",
+      "SPANISH": "¿La idol del milenio? ¿Qué es eso?",
+      "PERSIAN": "اصلاً قرار است به چه معنا باشد؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "만 년에 한 번 나올까 말까 한 아이돌이라고요!",
+      "ENGLISH": "Like, an idol so rare you might see one once in a lifetime!",
+      "CHINESE_SIMPLIFIED": "就是万年才出现一个的顶级爱豆啊！",
+      "CHINESE_TRADITIONAL": "就是萬年才會出現一次的傳說級偶像！",
+      "JAPANESE": "“一万年に一度出るか出ないかのアイドル”って意味ですよ！",
+      "INDONESIAN": "Kayak, idol yang saking langkanya, kamu cuma bisa lihat sekali seumur hidup!",
+      "SPANISH": "¡Una idol que nace solo una vez cada mil años!",
+      "PERSIAN": "مثلاً بتی که آنقدر کمیاب است که ممکنه یک بار در زندگی اونو ببینید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "제 주변에 민정 님 얼빠인 애들이 엄청 많아요 ",
+      "ENGLISH": "I know tons of people who are totally obsessed with her looks",
+      "CHINESE_SIMPLIFIED": "我身边有一堆是敏静颜粉的朋友～",
+      "CHINESE_TRADITIONAL": "我身邊有一堆人是敏靜的顏值粉絲",
+      "JAPANESE": "俺の周り、ミンジョンさんの顔ファンだらけなんです",
+      "INDONESIAN": "Aku kenal banyak orang yang bener-bener tergila-gila sama penampilannya",
+      "SPANISH": "Tengo un montón de amigos que son fans de su belleza.",
+      "PERSIAN": "من هزاران نفر را می شناسم که کاملاً به ظاهر او وسواس دارند"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하.. 알았다고요.",
+      "ENGLISH": "Ugh… okay, I get it.",
+      "CHINESE_SIMPLIFIED": "唉...知道啦知道啦",
+      "CHINESE_TRADITIONAL": "哈…知道了",
+      "JAPANESE": "はぁ…わかりましたって",
+      "INDONESIAN": "Ugh... oke, aku ngerti.",
+      "SPANISH": "Ha… ya lo entendí.",
+      "PERSIAN": "اوه... باشه، متوجه شدم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니~ 솔직히 얼굴도 얼굴이지만",
+      "ENGLISH": "No but seriously—yeah, she’s got the looks, but",
+      "CHINESE_SIMPLIFIED": "哎呀~说实话除了神颜",
+      "CHINESE_TRADITIONAL": "不過說真的",
+      "JAPANESE": "いや〜正直、顔ももちろんだけど",
+      "INDONESIAN": "Nggak, serius deh—iya, dia cantik banget, tapi",
+      "SPANISH": "¡Oye~! Pero en serio, no es solo por su cara,",
+      "PERSIAN": "نه، اما به طور جدی - بله، او ظاهری دارد، اما"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "내 최애의 저런 모습, 그런 걸 이렇게 가까이서 보는 거 ",
+      "ENGLISH": "seeing your favorite act like that up close?",
+      "CHINESE_SIMPLIFIED": "能近距离看到本命爱豆私下的模样",
+      "CHINESE_TRADITIONAL": "能這麼近距離看到本命偶像私底下的一面",
+      "JAPANESE": "推しのあんな姿を間近で見られるなんて",
+      "INDONESIAN": "bisa lihat idol favorit dari deket gitu?",
+      "SPANISH": "poder ver de cerca a mi idol favorita, así de natural,",
+      "PERSIAN": "از نزدیک شاهد این کار مورد علاقه خود هستید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이거이거 엄청난 특권 아닙니까?",
+      "ENGLISH": "That’s a huge privilege, don’t you think?",
+      "CHINESE_SIMPLIFIED": "这这这难道不是天大的特权吗？",
+      "CHINESE_TRADITIONAL": "這可是相當難得的特權耶～",
+      "JAPANESE": "これってもう…最高の特権ですよね？",
+      "INDONESIAN": "Itu tuh privilese besar, menurutku!",
+      "SPANISH": "¿no es un privilegio enorme?",
+      "PERSIAN": "این یک امتیاز بزرگ است، فکر نمی کنید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 알겠다구요 그만 좀 얘기해요!",
+      "ENGLISH": "Alright, alright! I said I got it! Enough already!",
+      "CHINESE_SIMPLIFIED": "啊知道啦，别再念叨了！",
+      "CHINESE_TRADITIONAL": "好了，我知道了，別再說了！",
+      "JAPANESE": "あーもう！ わかったから、その話もうやめてください！",
+      "INDONESIAN": "Ya ampun, udah! Aku bilang aku ngerti! Cukup ya!",
+      "SPANISH": "¡Ya dije que entendí, deja de hablar de eso!",
+      "PERSIAN": "باشه، باشه! گفتم فهمیدم! دیگر بس است!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 나 먼저 가서 잘게요 ",
+      "ENGLISH": "Haah, I’m going to bed first",
+      "CHINESE_SIMPLIFIED": "哈，我先回去睡了",
+      "CHINESE_TRADITIONAL": "呼～我先去睡啦",
+      "JAPANESE": "はいはい、私もう寝ます",
+      "INDONESIAN": "Haah, aku duluan deh tidur",
+      "SPANISH": "Ha… me voy a dormir primero.",
+      "PERSIAN": "هاا من اول میرم بخوابم"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.1,
+      "HIDE": 31.9
+    },
+    "SCRIPT": {
+      "KOREAN": " 흥..!",
+      "ENGLISH": "Hmph..!",
+      "CHINESE_SIMPLIFIED": "哼...！",
+      "CHINESE_TRADITIONAL": "哼！",
+      "JAPANESE": "ふんっ！",
+      "INDONESIAN": "Hmph..!",
+      "SPANISH": "¡Hmph..!",
+      "PERSIAN": "همف..!"
+    }
+  }
+]

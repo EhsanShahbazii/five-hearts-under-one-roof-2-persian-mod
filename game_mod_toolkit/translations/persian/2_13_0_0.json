@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요?",
+      "ENGLISH": "So?",
+      "CHINESE_SIMPLIFIED": "怎么样？",
+      "CHINESE_TRADITIONAL": "如何？",
+      "JAPANESE": "どうですか？",
+      "INDONESIAN": "Jadi?",
+      "PORTUGUESE": "E então?",
+      "SPANISH": "¿Entonces?",
+      "PERSIAN": "پس؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 누가 더 세?",
+      "ENGLISH": "Who’s stronger?",
+      "CHINESE_SIMPLIFIED": "所以谁更厉害？",
+      "CHINESE_TRADITIONAL": "誰比較強呢？",
+      "JAPANESE": "それでどっちがもっと強いの？",
+      "INDONESIAN": "Siapa yang lebih kuat?",
+      "PORTUGUESE": "Quem é mais forte?",
+      "SPANISH": "¿Quién es más fuerte?",
+      "PERSIAN": "چه کسی قوی تر است؟"
+    }
+  }
+]

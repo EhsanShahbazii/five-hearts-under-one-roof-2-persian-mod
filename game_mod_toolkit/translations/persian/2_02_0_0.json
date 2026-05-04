@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "설마...",
+      "ENGLISH": "Wait a sec...",
+      "CHINESE_SIMPLIFIED": "该不会...",
+      "CHINESE_TRADITIONAL": "難道…",
+      "JAPANESE": "まさか…",
+      "INDONESIAN": "Tunggu dulu...",
+      "PORTUGUESE": "Por acaso...",
+      "SPANISH": "De casualidad...",
+      "PERSIAN": "یه لحظه صبر کن..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만이 마음에 들어서 온 건 아니죠?",
+      "ENGLISH": "You're not here 'cause you like Yuman, right?",
+      "CHINESE_SIMPLIFIED": "你该不会是看上宥万才来的吧？",
+      "CHINESE_TRADITIONAL": "你該不會是衝著吳宥萬來的吧？",
+      "JAPANESE": "ユマンが気に入って来たんじゃないですよね?",
+      "INDONESIAN": "Kamu ke sini bukan karena suka sama Yuman, kan?",
+      "PORTUGUESE": "Você não veio porque gosta do Yuman?",
+      "SPANISH": "¿No habrás venido porque te gusta Yuman?",
+      "PERSIAN": "تو اینجا نیستی، چون یومان را دوست داری، درست است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음....",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "呃…",
+      "JAPANESE": "んー…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "SPANISH": "Mmm...",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "살짝?",
+      "ENGLISH": "Maybe a little?",
+      "CHINESE_SIMPLIFIED": "有一点点？",
+      "CHINESE_TRADITIONAL": "算是一點點吧？",
+      "JAPANESE": "ちょっと?",
+      "INDONESIAN": "Mungkin dikit?",
+      "PORTUGUESE": "Um pouquinho...",
+      "SPANISH": "Un poquito...",
+      "PERSIAN": "شاید کمی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Apa?!",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하! 취향 특이하시네... ",
+      "ENGLISH": "Ha! You’ve got... unique taste.",
+      "CHINESE_SIMPLIFIED": "哈！你品味挺独特啊...",
+      "CHINESE_TRADITIONAL": "哇！你的品味還真特別...",
+      "JAPANESE": "はっ! 趣味変わってますね…",
+      "INDONESIAN": "Hah! Selera kamu... unik juga ya.",
+      "PORTUGUESE": "Uau! Você tem gostos bem peculiares...",
+      "SPANISH": "¡Guau! Tienes gustos particulares...",
+      "PERSIAN": "ها! شما... طعم بی نظیری دارید."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "얘 제 거거든요? ",
+      "ENGLISH": "FYI, he's mine.",
+      "CHINESE_SIMPLIFIED": "他可是我的人哦？",
+      "CHINESE_TRADITIONAL": "不過宥萬是我的啦",
+      "JAPANESE": "こいつ私のなんで",
+      "INDONESIAN": "FYI, dia punyaku.",
+      "PORTUGUESE": "Ele é meu, entendeu?",
+      "SPANISH": "Él es mío, ¿entendido?",
+      "PERSIAN": "جهت اطلاعت، او مال من است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 우유만 취향 그쪽 아니에요.",
+      "ENGLISH": "And you're not Yuman’s type.",
+      "CHINESE_SIMPLIFIED": "而且吴宥万的审美也不是你这款",
+      "CHINESE_TRADITIONAL": "而且吳宥萬喜歡的也不是你這型",
+      "JAPANESE": "それにユマンのタイプ、そっちじゃないですよ",
+      "INDONESIAN": "Dan kamu bukan tipe ceweknya Yuman.",
+      "PORTUGUESE": "E além disso, você não é o tipo do Yuman.",
+      "SPANISH": "Y además tú no eres el tipo de Yuman.",
+      "PERSIAN": "و شما از نوع یومان نیستید."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "맞지?",
+      "ENGLISH": "Right?",
+      "CHINESE_SIMPLIFIED": "对吧？",
+      "CHINESE_TRADITIONAL": "對吧？",
+      "JAPANESE": "ね?",
+      "INDONESIAN": "Bener, kan?",
+      "PORTUGUESE": "Não é?",
+      "SPANISH": "¿Verdad?",
+      "PERSIAN": "درسته؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐, 글쎄...?",
+      "ENGLISH": "Well... I dunno...?",
+      "CHINESE_SIMPLIFIED": "这个嘛，难说...",
+      "CHINESE_TRADITIONAL": "呃，不好說...？",
+      "JAPANESE": "さあ、どうだろう…?",
+      "INDONESIAN": "Eh... aku juga nggak tahu...?",
+      "PORTUGUESE": "Bem... talvez...",
+      "SPANISH": "Bueno... tal vez...",
+      "PERSIAN": "خب...نمیدونم...؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가 글쎄야!",
+      "ENGLISH": "What do you mean, you don't know?!",
+      "CHINESE_SIMPLIFIED": "什么叫难说啊！",
+      "CHINESE_TRADITIONAL": " 什麼叫不好說！",
+      "JAPANESE": "どうだろうって何よ!",
+      "INDONESIAN": "Maksud kamu apa, nggak tahu?!",
+      "PORTUGUESE": "Como assim “talvez”?!",
+      "SPANISH": "¡¿Cómo que “tal vez”?!",
+      "PERSIAN": "یعنی چی نمیدونی؟!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너 설마 이 여자 맘에 든 거 아니지?",
+      "ENGLISH": "Don’t tell me you actually like her?!",
+      "CHINESE_SIMPLIFIED": "你该不会是喜欢上这女的了吧？",
+      "CHINESE_TRADITIONAL": "你該不會是看上這個女生了吧？",
+      "JAPANESE": "お前まさか、この女に惹かれてるんじゃないだろうね?",
+      "INDONESIAN": "Jangan bilang kamu beneran suka sama dia?!",
+      "PORTUGUESE": "Não me diga que você gosta dessa mulher?",
+      "SPANISH": "¿No me digas que te gusta esta mujer?",
+      "PERSIAN": "به من نگو ​​واقعا دوستش داری؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 뭐라하지 마세요~",
+      "ENGLISH": "Hey, don't be too harsh~",
+      "CHINESE_SIMPLIFIED": "别这么说嘛~",
+      "CHINESE_TRADITIONAL": "別這麼兇嘛～",
+      "JAPANESE": "そんな強く言わないでくださいよ〜",
+      "INDONESIAN": "Eh, jangan galak-galak gitu dong~",
+      "PORTUGUESE": "Mas não se estresse~",
+      "SPANISH": "Pero no te alteres~",
+      "PERSIAN": "هی، خیلی خشن نباش"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "남자가 예쁜 여자 좋아하는 건 당연하잖아요? ",
+      "ENGLISH": "It’s normal for a guy to like a pretty girl, right?",
+      "CHINESE_SIMPLIFIED": "男人喜欢漂亮女生不是天经地义的吗？",
+      "CHINESE_TRADITIONAL": "男生喜歡漂亮的女生很正常啊",
+      "JAPANESE": "男が綺麗な女の人好きなのは当たり前じゃないですか?",
+      "INDONESIAN": "Wajar kali, cowok suka sama cewek cantik.",
+      "PORTUGUESE": "É normal um homem gostar de mulheres bonitas.",
+      "SPANISH": "Es normal que a un hombre le gusten las mujeres bonitas.",
+      "PERSIAN": "طبیعی است که یک پسر از یک دختر زیبا خوشش بیاید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그쵸?",
+      "ENGLISH": "Right?",
+      "CHINESE_SIMPLIFIED": "对吧？",
+      "CHINESE_TRADITIONAL": "不是嗎？",
+      "JAPANESE": "ね?",
+      "INDONESIAN": "Ya nggak?",
+      "PORTUGUESE": "Não é?",
+      "SPANISH": "¿A poco no?",
+      "PERSIAN": "درسته؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 27.8,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 안 되겠다.",
+      "ENGLISH": "Okay, that’s it.",
+      "CHINESE_SIMPLIFIED": "喂，不行",
+      "CHINESE_TRADITIONAL": "喂！不行！",
+      "JAPANESE": "ダメだ",
+      "INDONESIAN": "Oke, udah cukup.",
+      "PORTUGUESE": "Ai ai... não dá mais pra mim.",
+      "SPANISH": "Vaya... ya no puedo con esto.",
+      "PERSIAN": "خوب، همین است."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 28.7,
+      "HIDE": 30.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너 입으로 직접 말해 줘.",
+      "ENGLISH": "Say it out loud.",
+      "CHINESE_SIMPLIFIED": "你给我亲口说清楚",
+      "CHINESE_TRADITIONAL": "你給我說清楚",
+      "JAPANESE": "お前の口で直接言って",
+      "INDONESIAN": "Sekarang jawab.",
+      "PORTUGUESE": "Melhor você dizer.",
+      "SPANISH": "Mejor dilo tú mismo.",
+      "PERSIAN": "با صدای بلند بگو"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 둘 중에 누가 예뻐?",
+      "ENGLISH": "Between the two of us, who's prettier?",
+      "CHINESE_SIMPLIFIED": "我们俩谁更漂亮？",
+      "CHINESE_TRADITIONAL": "我們兩個，你覺得誰比較漂亮？",
+      "JAPANESE": "私たち二人のどっちが綺麗？",
+      "INDONESIAN": "Dari kita berdua, siapa yang lebih cantik?",
+      "PORTUGUESE": "De nós duas, quem é mais bonita?",
+      "SPANISH": "De nosotras dos, ¿quién es más bonita?",
+      "PERSIAN": "بین ما دو نفر، چه کسی زیباتر است؟"
+    }
+  }
+]

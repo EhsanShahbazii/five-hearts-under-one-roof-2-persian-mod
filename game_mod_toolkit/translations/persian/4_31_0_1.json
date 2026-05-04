@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님의 전남친 역사가 궁금해요.",
+      "ENGLISH": "I’m curious about your ex-boyfriend history, Manager.",
+      "CHINESE_SIMPLIFIED": "我有点好奇...科长您的感情史",
+      "CHINESE_TRADITIONAL": "我很好奇課長你的戀愛史",
+      "JAPANESE": "課長の元カレの歴史が気になります",
+      "INDONESIAN": "Aku penasaran sama mantan-mantan pacar Manajer, deh.",
+      "PORTUGUESE": "Quero saber sobre seus ex-namorados.",
+      "SPANISH": "quiero saber sobre sus exnovios.",
+      "PERSIAN": "من در مورد سابقه دوست پسر سابق شما کنجکاو هستم، مدیر."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐??",
+      "ENGLISH": "What??",
+      "CHINESE_SIMPLIFIED": "什么？？",
+      "CHINESE_TRADITIONAL": "什麼？？",
+      "JAPANESE": "え!?",
+      "INDONESIAN": "Apa??",
+      "PORTUGUESE": "O quê!?",
+      "SPANISH": "¿¡Qué!?",
+      "PERSIAN": "چی؟؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "엄청 많이 사귀어봤을 거 아니에요. 예전에 회사까지 찾아온 남자도 있고.",
+      "ENGLISH": "You must’ve dated a lot, right? There were even guys who came to the office before.",
+      "CHINESE_SIMPLIFIED": "您以前不是交过挺多的吗？以前还有找到公司来的男人呢",
+      "CHINESE_TRADITIONAL": "你一定交過非常多男朋友吧。以前不是還有男的找到公司來嗎",
+      "JAPANESE": "たくさん付き合ったんですよね？前に会社まで来た男の人もいたし",
+      "INDONESIAN": "Pasti udah banyak ya? Dulu aja pernah ada cowok yang sampe dateng ke kantor.",
+      "PORTUGUESE": "Aposto que teve vários. Inclusive um deles veio até o escritório atrás de você.",
+      "SPANISH": "Seguro tuvo muchos. Incluso uno de ellos vino hasta la oficina a buscarla.",
+      "PERSIAN": "حتما خیلی قرار گذاشتی، درسته؟ حتی بچه هایی بودند که قبلا به دفتر می آمدند."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 우유만 씨 누가 그런 거 물어보래!",
+      "ENGLISH": "No, Yuman! Who told you to ask that?!",
+      "CHINESE_SIMPLIFIED": "不是，吴宥万，谁让你问这种问题的啦！",
+      "CHINESE_TRADITIONAL": "喂，吳宥萬！誰叫你問那種東西！",
+      "JAPANESE": "ちょ、ウ・ユマンさん！誰がそんなこと聞いてって言ったの!",
+      "INDONESIAN": "Nggak, Yuman! Siapa yang nyuruh kamu nanya kayak gitu?!",
+      "PORTUGUESE": "Ei, Yuman! Quem te deu permissão pra fazer esse tipo de pergunta?",
+      "SPANISH": "¡Oye, Yumán! ¿Quién te dijo que podías preguntar esas cosas?",
+      "PERSIAN": "نه، یومان! کی گفته اینو بپرسی؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요? 바로바로 물어보라면서요.",
+      "ENGLISH": "Why not? You said to ask right away.",
+      "CHINESE_SIMPLIFIED": "怎么啦？不是您说让随时问的嘛",
+      "CHINESE_TRADITIONAL": "為什麼？你不是讓我隨時問的嗎...",
+      "JAPANESE": "なんでですか？すぐに聞いてって言ったじゃないですか",
+      "INDONESIAN": "Kenapa nggak boleh? Tadi katanya boleh nanya langsung.",
+      "PORTUGUESE": "A senhora mesma disse pra eu perguntar.",
+      "SPANISH": "Usted misma dijo que preguntara.",
+      "PERSIAN": "چرا نه؟ گفتی همین الان بپرس"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "말은....",
+      "ENGLISH": "Well…",
+      "CHINESE_SIMPLIFIED": "话是这么说...",
+      "CHINESE_TRADITIONAL": "說是這樣說沒錯啦...",
+      "JAPANESE": "…そういうことじゃなくて…",
+      "INDONESIAN": "Yah…",
+      "PORTUGUESE": "Isso não...",
+      "SPANISH": "Eso no...",
+      "PERSIAN": "خب…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐, 너가 몇 명을 생각하는지는 모르겠지만 너 생각만큼 많진 않아.",
+      "ENGLISH": "I don’t know how many you’re imagining, but it’s not as many as you think.",
+      "CHINESE_SIMPLIFIED": "虽然不知道你以为我交过多少，但其实没你想的那么多",
+      "CHINESE_TRADITIONAL": "雖然不知道你以為我交過多少，但其實沒你想的那麽多",
+      "JAPANESE": "何人予想してるか分からないけど、想像してるほど多くはないよ",
+      "INDONESIAN": "Aku nggak tahu kamu ngebayanginnya berapa, tapi nggak sebanyak yang kamu pikir.",
+      "PORTUGUESE": "Não sei quantos você imagina, mas não foram tantos quanto pensa.",
+      "SPANISH": "No sé cuántos imaginas, pero no fueron tantos como crees.",
+      "PERSIAN": "نمی‌دونم چند نفر را تصور می‌کنین، اما اون‌قدر که فکر می‌کنین نیست."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 저처럼 0명은 아니잖아요.",
+      "ENGLISH": "Still, it’s not zero like me.",
+      "CHINESE_SIMPLIFIED": "那也比我这种交过0个的强吧",
+      "CHINESE_TRADITIONAL": "不過總不會像我一樣是沒有吧",
+      "JAPANESE": "でも俺みたいに“ゼロ”ではないでしょ",
+      "INDONESIAN": "Tapi tetep aja, nggak nol kayak aku.",
+      "PORTUGUESE": "Mas também não é zero. Diferente de mim, por exemplo...",
+      "SPANISH": "Pero tampoco son 0. Como yo, por ejemplo...",
+      "PERSIAN": "با این حال، مثل من صفر نیست."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 유만 씨랑 같니?",
+      "ENGLISH": "Do you think I’m the same as Yuman?",
+      "CHINESE_SIMPLIFIED": "我能和你一样吗？",
+      "CHINESE_TRADITIONAL": "我怎麼會跟你一樣？",
+      "JAPANESE": "私とユマンさんは違うでしょ",
+      "INDONESIAN": "Kamu pikir aku sama kayak kamu, Yuman?",
+      "PORTUGUESE": "Você tá se comparando comigo?",
+      "SPANISH": "¿Acaso soy igual que tú?",
+      "PERSIAN": "به نظر شما من همون یومان هستم؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 28.4
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 짠~",
+      "ENGLISH": "Here, ta-da~",
+      "CHINESE_SIMPLIFIED": "来，干杯～",
+      "CHINESE_TRADITIONAL": "來，乾杯～",
+      "JAPANESE": "じゃ、乾杯〜",
+      "INDONESIAN": "Nih, tada~",
+      "PORTUGUESE": "Bom, saúde~",
+      "SPANISH": "Bueno, salud~",
+      "PERSIAN": "اینجا، تا-دا~"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 37.9,
+      "HIDE": 40.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저 약속 때문에 가봐야 할 거 같아요.",
+      "ENGLISH": "I think I need to head out for an appointment.",
+      "CHINESE_SIMPLIFIED": "我还有约，可能得先走了",
+      "CHINESE_TRADITIONAL": "我還有約，好像得先走了",
+      "JAPANESE": "俺、ちょっと約束があって行かなきゃです",
+      "INDONESIAN": "Kayaknya aku harus pergi sekarang, ada janji.",
+      "PORTUGUESE": "Acho que preciso ir, tenho um compromisso.",
+      "SPANISH": "Creo que debo irme, tengo un compromiso.",
+      "PERSIAN": "فکر کنم باید برم واسه یه قرار"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 41.2,
+      "HIDE": 42.1
+    },
+    "SCRIPT": {
+      "KOREAN": "약속..?",
+      "ENGLISH": "An appointment…?",
+      "CHINESE_SIMPLIFIED": "约会...？",
+      "CHINESE_TRADITIONAL": "有約...？",
+      "JAPANESE": "約束…？",
+      "INDONESIAN": "Janji…?",
+      "PORTUGUESE": "Um compromisso...?",
+      "SPANISH": "¿Un compromiso...?",
+      "PERSIAN": "قرار ملاقات…؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 42.2,
+      "HIDE": 42.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "是的",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 44.1,
+      "HIDE": 45.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 알았어",
+      "ENGLISH": "Alright, got it.",
+      "CHINESE_SIMPLIFIED": "好吧，我知道了",
+      "CHINESE_TRADITIONAL": "好，我知道了",
+      "JAPANESE": "分かった",
+      "INDONESIAN": "Oke, ngerti.",
+      "PORTUGUESE": "Tudo bem, vai lá.",
+      "SPANISH": "Está bien, anda.",
+      "PERSIAN": "باشه فهمیدم"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 46.3,
+      "HIDE": 47.8
+    },
+    "SCRIPT": {
+      "KOREAN": "먼저 일어날게요 ",
+      "ENGLISH": "I’ll leave first.",
+      "CHINESE_SIMPLIFIED": "那我先走啦～",
+      "CHINESE_TRADITIONAL": "那我先離開了",
+      "JAPANESE": "じゃ、先に失礼します",
+      "INDONESIAN": "Aku pamit duluan, ya.",
+      "PORTUGUESE": "Até amanhã.",
+      "SPANISH": "Hasta mañana.",
+      "PERSIAN": "اول میرم"
+    }
+  }
+]

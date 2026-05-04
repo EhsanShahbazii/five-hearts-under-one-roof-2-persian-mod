@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 그건 언제 먹을 거예요?",
+      "ENGLISH": "So... when are you planning to eat that?",
+      "CHINESE_SIMPLIFIED": "所以那个您打算什么时候吃啊？",
+      "CHINESE_TRADITIONAL": "那個你打算要什麼時候吃呢？",
+      "JAPANESE": "それ いつ食べるつもりなんですか？",
+      "INDONESIAN": "Jadi... kapan kamu berencana memakannya?",
+      "PORTUGUESE": "E então, quando vai comer?",
+      "SPANISH": "¿Y entonces cuándo va a comérselo?",
+      "PERSIAN": "پس کی میخوای بخوری؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그 입에 묻힌 크림은 집에 가서 먹을 거예요??",
+      "ENGLISH": "The cream on your lips—were you saving that for later at home or something?",
+      "CHINESE_SIMPLIFIED": "沾到嘴上的奶油要带回家吃吗？？",
+      "CHINESE_TRADITIONAL": "你嘴上沾到的奶油，要回家才吃嗎？？",
+      "JAPANESE": "その 口についたクリーム 家に帰ってから食べるんですか？",
+      "INDONESIAN": "Krim di bibirmu—apakah kamu menyimpannya untuk nanti di rumah atau bagaimana?",
+      "PORTUGUESE": "Vai guardar o creme que tá na boca pra mais tarde??",
+      "SPANISH": "¿Se vas a guardar la crema que tienes en la boca para más tarde??",
+      "PERSIAN": "کرم روی لب‌هایتان - اونو برای بعد در خونه ذخیره می‌کردید یا چیزی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 아! 크림이요?",
+      "ENGLISH": "Ah! The cream??",
+      "CHINESE_SIMPLIFIED": "啊！奶油吗？",
+      "CHINESE_TRADITIONAL": "啊！奶油啊？",
+      "JAPANESE": "あっ クリームのことですか？",
+      "INDONESIAN": "Ah! Krimnya??",
+      "PORTUGUESE": "Ah! O creme?",
+      "SPANISH": "¡Ah! ¿La crema?",
+      "PERSIAN": "آه! کرم؟؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이리 와 봐요.",
+      "ENGLISH": "Come here for a sec.",
+      "CHINESE_SIMPLIFIED": "过来一下",
+      "CHINESE_TRADITIONAL": "你過來一下",
+      "JAPANESE": "ちょっと こっち来てください",
+      "INDONESIAN": "Kemarilah sebentar.",
+      "PORTUGUESE": "Vem cá.",
+      "SPANISH": "Venga acá.",
+      "PERSIAN": "یه لحظه بیا اینجا"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 고마워요.",
+      "ENGLISH": "Ah... thanks.",
+      "CHINESE_SIMPLIFIED": "啊...谢谢你",
+      "CHINESE_TRADITIONAL": "啊…謝謝你",
+      "JAPANESE": "あ… ありがとうございます",
+      "INDONESIAN": "Ah... terima kasih.",
+      "PORTUGUESE": "Ah... obrigado.",
+      "SPANISH": "Ah... gracias.",
+      "PERSIAN": "آه ... ممنون"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 야무지다는 말은 취소할게요.",
+      "ENGLISH": "Okay, I take back what I said about you being all put-together.",
+      "CHINESE_SIMPLIFIED": "啊，\"能干\"这个评价我要收回了",
+      "CHINESE_TRADITIONAL": "呃，剛說你很能幹這句話我收回",
+      "JAPANESE": "あ〜 さっきの「器用にこなしそう」って言葉 取り消しますね",
+      "INDONESIAN": "Baiklah, aku tarik kembali perkataan aku tentang kalian yang sudah siap sedia.",
+      "PORTUGUESE": "Ah, retiro o que eu disse sobre você ser habilidosa.",
+      "SPANISH": "Ah, retiro lo que dije de que eras hábil.",
+      "PERSIAN": "بسیار خوب، آنچه را که در مورد اینکه همه با هم جمع شده اید را پس می گیرم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐예요! 왜 취소해요!",
+      "ENGLISH": "What! Why take it back?!",
+      "CHINESE_SIMPLIFIED": "什么呀！凭什么收回！",
+      "CHINESE_TRADITIONAL": "什麼啊！為什麼要收回！",
+      "JAPANESE": "えっ なんで取り消すんですか！",
+      "INDONESIAN": "Apa! Kenapa harus ditarik kembali?!",
+      "PORTUGUESE": "Ei! Por que tá retirando?",
+      "SPANISH": "¡Oiga! ¿Por qué lo retira?",
+      "PERSIAN": "چی! چرا پس گرفتن؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 이건 몰랐단 말이에요!",
+      "ENGLISH": "I didn’t know it was there, okay!",
+      "CHINESE_SIMPLIFIED": "我又不知道沾上了！",
+      "CHINESE_TRADITIONAL": "這個我是真的不知道嘛！",
+      "JAPANESE": "だって これは想定外でしたから！",
+      "INDONESIAN": "Aku tidak tahu itu ada di sana, oke!",
+      "PORTUGUESE": "Eu nem sabia que tinha sujado a boca!",
+      "SPANISH": "¡No sabía que manchada la boca!",
+      "PERSIAN": "نمیدونستم اونجا هست، باشه!"
+    }
+  }
+]

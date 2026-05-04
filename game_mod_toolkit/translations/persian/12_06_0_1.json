@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 공부 하겠다고 마음 먹었으니까",
+      "ENGLISH": "Since I've decided to study anyway,",
+      "CHINESE_SIMPLIFIED": "不过既然下定决心要高考",
+      "CHINESE_TRADITIONAL": "既然妳已經下定決心要學習了",
+      "JAPANESE": "もちろん大丈夫ですよ！",
+      "INDONESIAN": "Tapi karena kamu udah niat buat belajar",
+      "PORTUGUESE": "Mesmo assim, já que decidiu estudar,",
+      "SPANISH": "Aun así, ya que decidiste estudiar,",
+      "PERSIAN": "چون تصمیم گرفتم به هر حال درس بخونم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "열심히 준비해 봐요!",
+      "ENGLISH": "I'll prepare even harder!",
+      "CHINESE_SIMPLIFIED": "就好好准备吧！",
+      "CHINESE_TRADITIONAL": "就好好準備吧！",
+      "JAPANESE": "勉強するって決めたなら、最後までやり抜きましょう。",
+      "INDONESIAN": "Yuk coba siapin bener-bener",
+      "PORTUGUESE": "se prepare com toda a sua força.",
+      "SPANISH": "prepárate con todas tus fuerzas.",
+      "PERSIAN": "من حتی سخت تر آماده خواهم شد!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "쉽진 않겠지만, 남은 시간 열심히 해 보면 답이 나올 거예요.",
+      "ENGLISH": "It won't be easy, but if I work hard with the time left, I'll find the answer.",
+      "CHINESE_SIMPLIFIED": "虽然不容易，但只要抓紧剩余时间努力，总会找到答案的",
+      "CHINESE_TRADITIONAL": "雖然不容易，但在剩下的時間努力做的話，會找到答案的",
+      "JAPANESE": "簡単じゃないかもしれませんが、残りの時間をしっかり使えば、きっと答えが見えてきます。",
+      "INDONESIAN": "Memang nggak gampang, tapi kalau dimaksimalin sampai waktunya, Pasti ada hasilnya",
+      "PORTUGUESE": "Não vai ser fácil, mas se aproveitar bem o tempo que resta, vai encontrar a resposta.",
+      "SPANISH": "No será fácil, pero si aprovechas bien el tiempo que queda, encontrarás la respuesta.",
+      "PERSIAN": "کار آسانی نخواهد بود، اما اگر با زمان باقی مانده سخت کار کنم، پاسخ را پیدا خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네...! 저 더 열심히 공부해 볼게요!",
+      "ENGLISH": "Yes...! I'll study even harder!",
+      "CHINESE_SIMPLIFIED": "嗯...！我会更用功学习的！",
+      "CHINESE_TRADITIONAL": "嗯...！我會更努力學習的",
+      "JAPANESE": "はい…！もっと頑張ってみます！",
+      "INDONESIAN": "Iya...! Aku bakal belajar lebih giat lagi!",
+      "PORTUGUESE": "Sim...! Vou estudar com ainda mais vontade!",
+      "SPANISH": "¡Sí...! ¡Voy a estudiar con más ganas!",
+      "PERSIAN": "بله...! من حتی سخت تر درس خواهم خواند!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "끝날 때까진 끝난 게 아니니까.",
+      "ENGLISH": "It's not over until it's over.",
+      "CHINESE_SIMPLIFIED": "没结束之前，一切都还没定论",
+      "CHINESE_TRADITIONAL": "到結束之前，都還不算結束！",
+      "JAPANESE": "終わるまでは、終わったわけじゃないですからね。",
+      "INDONESIAN": "Selama belum selesai, artinya belum kalah",
+      "PORTUGUESE": "Ainda não está tudo perdido.",
+      "SPANISH": "Todavía nada está perdido",
+      "PERSIAN": "تا تمام نشود تمام نمی شود."
+    }
+  }
+]

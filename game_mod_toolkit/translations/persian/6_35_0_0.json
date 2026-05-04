@@ -1,0 +1,163 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이상으로 발표를 마치겠습니다.",
+      "ENGLISH": "That wraps up my presentation.",
+      "CHINESE_SIMPLIFIED": "以上就是我的全部汇报！",
+      "CHINESE_TRADITIONAL": "以上就是我的發表！",
+      "JAPANESE": "以上で発表を終わります",
+      "INDONESIAN": "Presentasinya sampai sini dulu.",
+      "PORTUGUESE": "Com isso, encerro minha apresentação.",
+      "SPANISH": "Con esto concluye mi presentación.",
+      "PERSIAN": "این ارائه من را به پایان می رساند."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "피피티 좋다~",
+      "ENGLISH": "Nice slides~",
+      "CHINESE_SIMPLIFIED": "PPT做得不错啊～",
+      "CHINESE_TRADITIONAL": "PPT做得不錯啊～",
+      "JAPANESE": "スライド、いいね〜",
+      "INDONESIAN": "Slide-nya keren~",
+      "PORTUGUESE": "Que bons slides~",
+      "SPANISH": "Que buenas diapositvas~",
+      "PERSIAN": "اسلایدهای زیبا ~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 발표 피드백은 내가 문서로 정리해서 줄게요.",
+      "ENGLISH": "I’ll send you a written summary with feedback later today.",
+      "CHINESE_SIMPLIFIED": "今天的汇报反馈我会整理成word文档发你",
+      "CHINESE_TRADITIONAL": "今天對於你的發表回饋，我會整理成檔案給你",
+      "JAPANESE": "今日の発表のフィードバックは文書でまとめて渡します",
+      "INDONESIAN": "Nanti aku kirim ringkasan tulisan sama feedback-nya hari ini juga.",
+      "PORTUGUESE": "Hoje vou preparar os comentários sobre a apresentação e te entregar em um documento.",
+      "SPANISH": "Hoy prepararé los comentarios sobre la presentación y te los entregaré en un documento.",
+      "PERSIAN": "خلاصه کتبی همراه با بازخورد را بعداً امروز برای شما ارسال خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "넵!",
+      "ENGLISH": "Got it!",
+      "CHINESE_SIMPLIFIED": "好的！",
+      "CHINESE_TRADITIONAL": "好的！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Siap!",
+      "PORTUGUESE": "Claro!",
+      "SPANISH": "¡Claro!",
+      "PERSIAN": "متوجه شدم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "난 다음 회의가 있어서.",
+      "ENGLISH": "I’ve got another meeting coming up, so I’ll head out.",
+      "CHINESE_SIMPLIFIED": "我接下来还有个会议",
+      "CHINESE_TRADITIONAL": "我等一下還有一個會議要開",
+      "JAPANESE": "私、次の会議があるから",
+      "INDONESIAN": "Aku ada meeting lagi, jadi pamit dulu ya.",
+      "PORTUGUESE": "Tenho outra reunião, então vou indo.",
+      "SPANISH": "Tengo otra reunión, así que me retiro.",
+      "PERSIAN": "من یک جلسه دیگر در راه است، بنابراین من می روم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "하 떨려 죽는 줄...",
+      "ENGLISH": "Ugh, I was so nervous—I thought I was gonna die…",
+      "CHINESE_SIMPLIFIED": "哈，刚才紧张死我了...",
+      "CHINESE_TRADITIONAL": "哈，剛剛緊張死了",
+      "JAPANESE": "はぁ…緊張で死ぬかと思った…",
+      "INDONESIAN": "Ugh, aku tadi gugup banget—kirain bakal pingsan…",
+      "PORTUGUESE": "Ufa… eu tava tão nervosa que quase morri…",
+      "SPANISH": "Uf… estaba tan nerviosa que casi muero…",
+      "PERSIAN": "اوه، خیلی عصبی بودم - فکر می کردم دارم می میرم…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 사업하면 저렇게 멋진 커리어 우먼이 될 수 있겠죠?",
+      "ENGLISH": "Do you think if I start my own business, I could be a cool career woman like that too?",
+      "CHINESE_SIMPLIFIED": "等我创业之后，也能变成那么飒的职场女强人吧？",
+      "CHINESE_TRADITIONAL": "我開始創業的話，也能成為那樣帥氣的職業女性吧？",
+      "JAPANESE": "私もいつかビジネス始めたら、あんなかっこいいキャリアウーマンになれるかな？",
+      "INDONESIAN": "Menurut kamu, kalau aku mulai usaha sendiri, aku bisa jadi cewek karier keren juga nggak, ya?",
+      "PORTUGUESE": "Você acha que, se eu tiver meu próprio negócio um dia, vou conseguir ser uma mulher de carreira tão elegante quanto ela?",
+      "SPANISH": "¿Crees que si tengo mi propio negocio algún día podré ser una mujer de carrera tan elegante como ella?",
+      "PERSIAN": "فکر می‌کنین اگر من کسب‌وکار خودم را راه‌اندازی کنم، می‌تونم یک زن حرفه‌ای باحال مثل اون باشم؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍...글쎄요...",
+      "ENGLISH": "Hmm... tough to say...",
+      "CHINESE_SIMPLIFIED": "嗯...这个嘛...",
+      "CHINESE_TRADITIONAL": "嗯...這個嗎...",
+      "JAPANESE": "ん〜…どうでしょう…",
+      "INDONESIAN": "Hmm… susah juga jawabnya…",
+      "PORTUGUESE": "Hmm… não tenho tanta certeza…",
+      "SPANISH": "Hmm… no estoy tan segura…",
+      "PERSIAN": "هوم... گفتنش سخته..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 어땠어요? 사업 구성안??",
+      "ENGLISH": "So, what did you think? The business proposal—was it any good?",
+      "CHINESE_SIMPLIFIED": "所以你觉得怎么样？这份商业计划书？",
+      "CHINESE_TRADITIONAL": "話說回來，你覺得如何呢？這份商業企劃書？",
+      "JAPANESE": "それで、どうでした？企画案",
+      "INDONESIAN": "Jadi gimana? Proposal bisnisnya—lumayan oke nggak?",
+      "PORTUGUESE": "Então, o que achou? O que você pensa do plano de negócios?",
+      "SPANISH": "Entonces, ¿qué te pareció? ¿Qué opinas del plan de negocio?",
+      "PERSIAN": "خب، چی فکر کردی؟ پیشنهاد تجاری - خوب بود؟"
+    }
+  }
+]

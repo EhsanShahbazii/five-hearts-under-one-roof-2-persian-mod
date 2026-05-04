@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저녁은 좀 어려울 것 같은데요.",
+      "ENGLISH": "I don’t think I can make it for dinner.",
+      "CHINESE_SIMPLIFIED": "今晚可能有点难耶...",
+      "CHINESE_TRADITIONAL": "晚餐可能有點不方便",
+      "JAPANESE": "夕飯はちょっと無理かもしれません",
+      "INDONESIAN": "Kayaknya aku nggak bisa ikut makan malam bareng deh.",
+      "PORTUGUESE": "Acho que hoje não dá.",
+      "SPANISH": "Creo que no puedo hoy.",
+      "PERSIAN": "فکر نمی کنم بتوانم برای شام درست کنم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저 뒤에 약속이 있어서...",
+      "ENGLISH": "I’ve got plans later…",
+      "CHINESE_SIMPLIFIED": "我后面有约了...",
+      "CHINESE_TRADITIONAL": "我等一下有約了...",
+      "JAPANESE": "後ろに予定があって…",
+      "INDONESIAN": "Aku ada janji nanti…",
+      "PORTUGUESE": "Tenho um compromisso mais tarde...",
+      "SPANISH": "Tengo un compromiso más tarde...",
+      "PERSIAN": "بعدا برنامه هایی دارم…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "약속...?",
+      "ENGLISH": "Plans…?",
+      "CHINESE_SIMPLIFIED": "有约了...？",
+      "CHINESE_TRADITIONAL": "有約？",
+      "JAPANESE": "予定…？",
+      "INDONESIAN": "Janji…?",
+      "PORTUGUESE": "Um compromisso...?",
+      "SPANISH": "¿Un compromiso...?",
+      "PERSIAN": "برنامه ها…؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 꼭 가봐야 할 거 같은데요?",
+      "ENGLISH": "Yeah… I really have to go.",
+      "CHINESE_SIMPLIFIED": "嗯...是必须要去的那种",
+      "CHINESE_TRADITIONAL": "是的... 而且好像是個必須要去的約會",
+      "JAPANESE": "はい…席を外せなさそうで",
+      "INDONESIAN": "Iya… aku beneran harus pergi.",
+      "PORTUGUESE": "Sim... não posso faltar.",
+      "SPANISH": "Sí... no puedo faltar.",
+      "PERSIAN": "آره... من واقعا باید برم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래... 어쩔 수 없지... ",
+      "ENGLISH": "I see… well, can’t be helped.",
+      "CHINESE_SIMPLIFIED": "这样啊...那就没办法了...",
+      "CHINESE_TRADITIONAL": "好吧... 那沒辦法了...",
+      "JAPANESE": "そっか…仕方ないね…",
+      "INDONESIAN": "Gitu ya… ya udah, mau gimana lagi.",
+      "PORTUGUESE": "Entendi... então deixa pra lá.",
+      "SPANISH": "Ya veo... entonces nada.",
+      "PERSIAN": "من می بینم ... خوب، نمی توان کمک کرد."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "가 봐.",
+      "ENGLISH": "Alright, go ahead.",
+      "CHINESE_SIMPLIFIED": "去吧",
+      "CHINESE_TRADITIONAL": "你去吧",
+      "JAPANESE": "行っていいよ",
+      "INDONESIAN": "Oke, kalau gitu, silakan.",
+      "PORTUGUESE": "Vamos.",
+      "SPANISH": "Anda.",
+      "PERSIAN": "باشه برو جلو"
+    }
+  }
+]

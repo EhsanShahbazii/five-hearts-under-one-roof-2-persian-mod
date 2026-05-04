@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "과일은 역시 키위죠",
+      "ENGLISH": "When it comes to fruit, kiwi’s the best—say ",
+      "CHINESE_SIMPLIFIED": "水果里当然是猕猴桃最好吃~来，",
+      "CHINESE_TRADITIONAL": "果然還是奇異果最棒，",
+      "JAPANESE": "フルーツといえばキウイでしょ ",
+      "INDONESIAN": "Kalau soal buah, kiwi tuh paling juara—nih ",
+      "PORTUGUESE": "A melhor fruta é o kiwi! ",
+      "SPANISH": "¡La mejor fruta es el kiwi! Di",
+      "PERSIAN": "وقتی نوبت به میوه می‌رسد، کیوی بهترین است"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "aaah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~~",
+      "ENGLISH": "Ahhh~",
+      "CHINESE_SIMPLIFIED": "啊~~",
+      "CHINESE_TRADITIONAL": "啊～～",
+      "JAPANESE": "あ〜〜",
+      "INDONESIAN": "Ahhh~",
+      "PORTUGUESE": "Aaah~~",
+      "SPANISH": "Aaah~~",
+      "PERSIAN": "آهان~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음~ 맛있다.",
+      "ENGLISH": "Mmm~ that’s good.",
+      "CHINESE_SIMPLIFIED": "嗯~好吃",
+      "CHINESE_TRADITIONAL": "嗯～ 好吃",
+      "JAPANESE": "ん〜おいしい",
+      "INDONESIAN": "Mmm~ enak banget.",
+      "PORTUGUESE": "Mmm~ que delícia.",
+      "SPANISH": "Mmm~ qué rico.",
+      "PERSIAN": "ممم ~ خوبه"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 과일 되게 잘 깎으시네요.",
+      "ENGLISH": "By the way, you’re really good at cutting fruit.",
+      "CHINESE_SIMPLIFIED": "不过你削水果的手艺真不错呢",
+      "CHINESE_TRADITIONAL": "不過你水果切得真好呢",
+      "JAPANESE": "でもフルーツむくのすごく上手ですね",
+      "INDONESIAN": "Eh iya, kamu jago banget motong buah ya.",
+      "PORTUGUESE": "Ei, você descasca a fruta muito bem.",
+      "SPANISH": "Oye, pelas la fruta muy bien.",
+      "PERSIAN": "به هر حال، شما واقعاً در بریدن میوه مهارت دارید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "신부 수업은 어렸을 때부터 받으니까요. 또 줄까요?",
+      "ENGLISH": "Well, I have been training to be a perfect bride since I was little. Want more?",
+      "CHINESE_SIMPLIFIED": "因为我从小就开始上“新娘修养课”嘛。再来一块吗？",
+      "CHINESE_TRADITIONAL": "我從小就開始上新娘課程了嘛，你還要吃嗎？",
+      "JAPANESE": "花嫁修行は子供のころからしてるので また食べます？",
+      "INDONESIAN": "Yah, soalnya dari kecil udah dilatih buat jadi calon istri idaman. Mau lagi?",
+      "PORTUGUESE": "É que eu tive “treinamento pra ser uma boa esposa” desde pequena. Quer mais?",
+      "SPANISH": "Es que recibí “entrenamiento para ser buena esposa” desde pequeña. ¿Quieres más?",
+      "PERSIAN": "خب من از بچگی آموزش دیدم که عروس کامل باشم. بیشتر می خواهید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네 또 주세요!",
+      "ENGLISH": "Yes, please!",
+      "CHINESE_SIMPLIFIED": "好，再给我一块！",
+      "CHINESE_TRADITIONAL": "好，我還要！",
+      "JAPANESE": "はい、もっとください！",
+      "INDONESIAN": "Iya dong, mau!",
+      "PORTUGUESE": "Sim, quero mais!",
+      "SPANISH": "¡Sí, quiero más!",
+      "PERSIAN": "بله، لطفا!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  }
+]

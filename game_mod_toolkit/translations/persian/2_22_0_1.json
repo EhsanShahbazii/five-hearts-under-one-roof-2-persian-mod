@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "선생님 부채질로 되겠어요?  ",
+      "ENGLISH": "Think that little fan’s gonna help?",
+      "CHINESE_SIMPLIFIED": "方护士，光靠扇风能有用吗？",
+      "CHINESE_TRADITIONAL": "醫生，光搧風這樣行得通嗎？",
+      "JAPANESE": "先生 うちわで大丈夫ですか?",
+      "INDONESIAN": "Kipas kecil gitu emang bakal nolong?",
+      "PORTUGUESE": "Quer que eu te abane um pouco?",
+      "SPANISH": "¿Quiere que la ventile un poco?",
+      "PERSIAN": "فکر می کنید اون طرفدار کوچک کمک می کند؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "조금만 가까이 와보세요.",
+      "ENGLISH": "Come a little closer.",
+      "CHINESE_SIMPLIFIED": "你稍微靠近一点试试",
+      "CHINESE_TRADITIONAL": "請靠近一點",
+      "JAPANESE": "ちょっとこっちに近づいてみてください",
+      "INDONESIAN": "Sini deh, agak deketan.",
+      "PORTUGUESE": "Chegue um pouquinho mais perto.",
+      "SPANISH": "Acérquese un poco más.",
+      "PERSIAN": "کمی نزدیکتر بیا"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 이 정도요?",
+      "ENGLISH": "Huh? Like this?",
+      "CHINESE_SIMPLIFIED": "嗯？这样吗？",
+      "CHINESE_TRADITIONAL": "呃？到這個距離嗎？",
+      "JAPANESE": "え? このくらいですか?",
+      "INDONESIAN": "Hah? Gini?",
+      "PORTUGUESE": "Hã? Assim tá bom?",
+      "SPANISH": "¿Eh? ¿Así está bien?",
+      "PERSIAN": "ها؟ اینجوری؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "조금 더 가까이요.",
+      "ENGLISH": "A bit closer.",
+      "CHINESE_SIMPLIFIED": "再近一点",
+      "CHINESE_TRADITIONAL": "再靠近一點",
+      "JAPANESE": "もうちょっと近くです",
+      "INDONESIAN": "Sedikit lagi.",
+      "PORTUGUESE": "Um pouco mais perto.",
+      "SPANISH": "Un poco más cerca.",
+      "PERSIAN": "کمی نزدیک تر"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "여기서 더요?",
+      "ENGLISH": "Closer than this...?",
+      "CHINESE_SIMPLIFIED": "比这里还要近吗？",
+      "CHINESE_TRADITIONAL": "比這裡還要近？",
+      "JAPANESE": "ここからもっとですか?",
+      "INDONESIAN": "Lebih deket dari ini...?",
+      "PORTUGUESE": "Mais perto?",
+      "SPANISH": "¿Más cerca?",
+      "PERSIAN": "نزدیکتر از این...؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아이~ 유만 씨 여기 병원이긴한데...",
+      "ENGLISH": "Yuman, I know this is a hospital...",
+      "CHINESE_SIMPLIFIED": "哎呀~宥万先生，这里可是医院...",
+      "CHINESE_TRADITIONAL": "欸唷～宥萬先生，這裡可是醫院耶…",
+      "JAPANESE": "ちょっと〜 ユマンさん ここ病院なんですけど…",
+      "INDONESIAN": "Yuman, aku tau ini rumah sakit tapi...",
+      "PORTUGUESE": "Ai~ Senhor Yuman, lembre-se de que ainda estamos num hospital...",
+      "SPANISH": "Ay~ Señor Yumán, recuerde que seguimos en un hospital…",
+      "PERSIAN": "یومان، میدونم اینجا بیمارستانه..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 뭐 드셨어요?",
+      "ENGLISH": "By the way, did you eat something?",
+      "CHINESE_SIMPLIFIED": "宥万先生，您吃了什么吗？",
+      "CHINESE_TRADITIONAL": "宥萬先生，您吃了什麼嗎？",
+      "JAPANESE": "ユマンさん 何か食べました?",
+      "INDONESIAN": "Ngomong-ngomong, kamu udah makan belum?",
+      "PORTUGUESE": "Senhor Yuman, o que o senhor comeu hoje?",
+      "SPANISH": "Señor Yumán, ¿que comió hoy?",
+      "PERSIAN": "راستی چیزی خوردی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 아무것도 안 먹었는데...",
+      "ENGLISH": "Me? I haven’t eaten anything...",
+      "CHINESE_SIMPLIFIED": "我什么都没吃啊...",
+      "CHINESE_TRADITIONAL": "我什麼都沒吃啊…",
+      "JAPANESE": "俺 何も食べてないですけど…",
+      "INDONESIAN": "Aku? Belum makan apa-apa...",
+      "PORTUGUESE": "Ainda não comi nada...",
+      "SPANISH": "No he comido nada todavía…",
+      "PERSIAN": "من؟ من چیزی نخوردم..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 37.6
+    },
+    "SCRIPT": {
+      "KOREAN": "짐 챙겨서 진료실로 이동하실게요.",
+      "ENGLISH": "Please gather your things—we’ll move to the treatment room.",
+      "CHINESE_SIMPLIFIED": "请您收拾好东西，准备转移到诊疗室吧",
+      "CHINESE_TRADITIONAL": "請您收拾一下，我們要移動到診間了",
+      "JAPANESE": "荷物まとめて 診察室に移動しましょうか",
+      "INDONESIAN": "Tolong ambil barang-barangnya ya—kita pindah ke ruang perawatan.",
+      "PORTUGUESE": "Pegue suas coisas e vamos pra sala de tratamento.",
+      "SPANISH": "Recoja sus cosas y vamos a la sala de tratamiento.",
+      "PERSIAN": "لطفا وسایلتان را جمع کنید - ما به اتاق درمان می رویم."
+    }
+  }
+]

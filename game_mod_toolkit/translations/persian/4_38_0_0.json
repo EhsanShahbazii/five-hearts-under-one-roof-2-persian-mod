@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너 뭐 하는 건데!",
+      "ENGLISH": "What are you doing!",
+      "CHINESE_SIMPLIFIED": "你这是在干什么！",
+      "CHINESE_TRADITIONAL": "妳在搞什麼鬼！",
+      "JAPANESE": "お前、何やってんだよ！",
+      "INDONESIAN": "Kamu ngapain sih!",
+      "PORTUGUESE": "O que acha que está fazendo?!",
+      "SPANISH": "¡¿Qué crees que estás haciendo?!",
+      "PERSIAN": "چیکار میکنی!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "너는 왜 여기 있는데",
+      "ENGLISH": "Why are you even here?",
+      "CHINESE_SIMPLIFIED": "你怎么会在？",
+      "CHINESE_TRADITIONAL": "你又為什麼會在這裡！",
+      "JAPANESE": "なんでここにいるんだよ",
+      "INDONESIAN": "Ngapain juga kamu ada di sini?!",
+      "PORTUGUESE": "E você, o que faz aqui?",
+      "SPANISH": "¿Y tú qué haces aquí?",
+      "PERSIAN": "اصلا چرا اینجایی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "내 말에나 대답해 ",
+      "ENGLISH": "Answer me!",
+      "CHINESE_SIMPLIFIED": "先回答我的问题",
+      "CHINESE_TRADITIONAL": "先回答我的問題！",
+      "JAPANESE": "俺の答えに返事しろ",
+      "INDONESIAN": "Jawab aku!",
+      "PORTUGUESE": "Responde!",
+      "SPANISH": "¡Contéstame!",
+      "PERSIAN": "جواب منو بده!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너 요즘 남자 계속 바꿔가면서 도대체 뭐 하는 건데!",
+      "ENGLISH": "What the hell have you been doing, changing guys all the time lately?!",
+      "CHINESE_SIMPLIFIED": "你最近不停地换男人到底是想怎样！",
+      "CHINESE_TRADITIONAL": "妳最近一直換男人，到底在搞什麼！",
+      "JAPANESE": "お前、最近男を変えながら一体何してるんだよ！",
+      "INDONESIAN": "Kamu akhir-akhir ini ganti-ganti cowok terus, maksudnya apa coba?!",
+      "PORTUGUESE": "Ultimamente você troca de homem o tempo todo, o que diabos está fazendo?",
+      "SPANISH": "Últimamente cambias de hombre cada rato, ¿qué demonios estás haciendo?",
+      "PERSIAN": "لعنتی این اواخر چیکار میکردی که مدام پسرها رو عوض میکردی؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네가 그걸 어떻게 알아?",
+      "ENGLISH": "How do you even know that?",
+      "CHINESE_SIMPLIFIED": "你怎么会知道？",
+      "CHINESE_TRADITIONAL": "你怎麼知道的？",
+      "JAPANESE": "それ、どうして知ってるの？",
+      "INDONESIAN": "Kamu tahu dari mana?!",
+      "PORTUGUESE": "E como você sabe disso?",
+      "SPANISH": "¿Y tú cómo sabes eso?",
+      "PERSIAN": "اصلا از کجا میدونی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그, 그게...",
+      "ENGLISH": "W‑well…",
+      "CHINESE_SIMPLIFIED": "那、那个...",
+      "CHINESE_TRADITIONAL": "那、那個...",
+      "JAPANESE": "そ、それは…",
+      "INDONESIAN": "A-aku…",
+      "PORTUGUESE": "E-isso é porque...",
+      "SPANISH": "E-eso es porque…",
+      "PERSIAN": "خب…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너 나 미행했어?",
+      "ENGLISH": "Did you follow me?",
+      "CHINESE_SIMPLIFIED": "你跟踪我了？",
+      "CHINESE_TRADITIONAL": "你跟蹤我？",
+      "JAPANESE": "まさか私のこと尾行したの？",
+      "INDONESIAN": "Kamu ngikutin aku?",
+      "PORTUGUESE": "Você tá me seguindo?",
+      "SPANISH": "¿Me estuviste siguiendo?",
+      "PERSIAN": "دنبالم کردی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 지금 그게 중요해?",
+      "ENGLISH": "No, is that really important right now?",
+      "CHINESE_SIMPLIFIED": "不是，现在重点是这个吗？",
+      "CHINESE_TRADITIONAL": "怎麼知道的重要嗎？",
+      "JAPANESE": "ち、違う、今それ関係ある？",
+      "INDONESIAN": "Nggak, emangnya itu penting sekarang?",
+      "PORTUGUESE": "Não, mas isso importa agora?",
+      "SPANISH": "No, ¿pero eso importa ahora?",
+      "PERSIAN": "نه، این واقعاً در حال حاضر مهم است؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어!! 중요해!!! ",
+      "ENGLISH": "Yes!! It’s important!!!",
+      "CHINESE_SIMPLIFIED": "对！！很重要！！！",
+      "CHINESE_TRADITIONAL": "對！！很重要！！！",
+      "JAPANESE": "ある！！めっちゃ重要！！",
+      "INDONESIAN": "Iya!! Itu penting!!!",
+      "PORTUGUESE": "Claro que importa!",
+      "SPANISH": "¡Claro que importa!",
+      "PERSIAN": "بله!! مهم است!!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 지금 너 때문에 지금 50만 원 날렸잖아!!",
+      "ENGLISH": "Ah, because of you, I just lost 500 dollar!!",
+      "CHINESE_SIMPLIFIED": "啊，我现在因为你白白损失了五十万韩元（人民币约2,500元）！！",
+      "CHINESE_TRADITIONAL": "因為你，我的50萬泡湯了啦！！",
+      "JAPANESE": "あぁ、もう！あんたのせいで今50万ウォン飛んじゃったじゃん！！",
+      "INDONESIAN": "Aduh, gara-gara kamu, aku baru aja rugi 500 dolar!!",
+      "PORTUGUESE": "Ah, por sua culpa acabei de perder quinhentos mil won!",
+      "SPANISH": "¡Ah, por tu culpa acabo de perder quinientos mil wones!",
+      "PERSIAN": "آخه بخاطر تو من فقط 500 دلار از دست دادم!!"
+    }
+  }
+]

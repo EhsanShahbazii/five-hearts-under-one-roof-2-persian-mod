@@ -1,0 +1,108 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 제 얼굴이 어떻게 박민정 남친이에요!",
+      "ENGLISH": "Come on… look at me. How could I be Park Min-jung’s boyfriend?",
+      "CHINESE_SIMPLIFIED": "啊...我这长相哪配当朴敏静男朋友啊！",
+      "CHINESE_TRADITIONAL": "啊哈…我長這樣怎麼可能是樸敏靜的男朋友啦！",
+      "JAPANESE": "あはは…俺の顔をどう見たらパク・ミンジョンの彼氏なんですか！",
+      "INDONESIAN": "Ayolah… lihat aku deh. Mana mungkin aku bisa jadi pacarnya Park Min-jung?",
+      "PORTUGUESE": "Ah… por favor! Como é que eu poderia ser o namorado da Park Minjung?",
+      "SPANISH": "Ah… ¡por favor! ¿Cómo podría yo ser el novio de Park Minjung?",
+      "PERSIAN": "بیا... به من نگاه کن. چگونه می توانم دوست پسر پارک مین‌جونگ باشم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 말이 안 되지~ ",
+      "ENGLISH": "Yeah, no way—that doesn’t even make sense~",
+      "CHINESE_SIMPLIFIED": "哎呦，太不像话啦~",
+      "CHINESE_TRADITIONAL": "欸，太誇張了啦～",
+      "JAPANESE": "いやいや、そんなのありえないでしょ〜",
+      "INDONESIAN": "Iya sih, nggak masuk akal juga~",
+      "PORTUGUESE": "Ah, para de falar bobagem~",
+      "SPANISH": "Ay, no digas tonterías~",
+      "PERSIAN": "بله، به هیچ وجه - این حتی معنی ندارد"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "박민정 급이 있지~",
+      "ENGLISH": "You’d need someone on her level.",
+      "CHINESE_SIMPLIFIED": "得有朴敏静级别的颜值才行啊~",
+      "CHINESE_TRADITIONAL": "至少也要跟樸敏靜同等級才對啊～",
+      "JAPANESE": "パク・ミンジョン級の人ですよ？",
+      "INDONESIAN": "Dia butuh seseorang yang selevel sama dia.",
+      "PORTUGUESE": "Como eu poderia estar no nível dela?",
+      "SPANISH": "¿Como podría estar a su nivel?",
+      "PERSIAN": "شما به کسی در سطح او نیاز دارید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어...맞아요!",
+      "ENGLISH": "Yeah... you’re right!",
+      "CHINESE_SIMPLIFIED": "呃...没错！",
+      "CHINESE_TRADITIONAL": "呃…也對啦！",
+      "JAPANESE": "あ…そ、そうですね！",
+      "INDONESIAN": "Iya... kamu bener!",
+      "PORTUGUESE": "Ah… é, claro...",
+      "SPANISH": "Ah… sí, claro...",
+      "PERSIAN": "آره... حق با شماست!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아하하하...",
+      "ENGLISH": "Ahaha...",
+      "CHINESE_SIMPLIFIED": "啊哈哈...",
+      "CHINESE_TRADITIONAL": "啊哈哈哈哈...",
+      "JAPANESE": "あははは…",
+      "INDONESIAN": "Ahaha...",
+      "PORTUGUESE": "Hahaha...",
+      "SPANISH": "Jajaja...",
+      "PERSIAN": "آهاها..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍....흠...",
+      "ENGLISH": "tsk... hmm...",
+      "CHINESE_SIMPLIFIED": "嘶...嗯....",
+      "INDONESIAN": "Tsk... hmm...",
+      "PORTUGUESE": "suspiro... hmm...",
+      "SPANISH": "suspiro... hmm...",
+      "PERSIAN": "تسک... هوم..."
+    }
+  }
+]

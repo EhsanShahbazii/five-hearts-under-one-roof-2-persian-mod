@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "역시 과장님이 입으니까 느낌이 딱 오는데요? ",
+      "ENGLISH": "As expected, seeing you wear it, Manager, really brings out the whole vibe!",
+      "CHINESE_SIMPLIFIED": "果然科长一穿感觉就出来了呢？",
+      "CHINESE_TRADITIONAL": "果然課長穿上後，感覺馬上就出來了？",
+      "JAPANESE": "確かに課長が着ると雰囲気がピタッと決まりますね",
+      "INDONESIAN": "Seperti yang diduga, pas Manajer yang pakai, auranya langsung keluar semua!",
+      "PORTUGUESE": "Quando a senhora veste as roupas, elas ficam completamente diferentes.",
+      "SPANISH": "Cuando usted lleva la ropa, se ve completamente distinta.",
+      "PERSIAN": "همانطور که انتظار می رفت، دیدن شما اونو می پوشید، مدیر، واقعاً تمام حال و هوا را به ارمغان می آورد!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.71,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 이번 제품들도 완전 대박 날 거 같습니다!",
+      "ENGLISH": "I really think these new products are going to be a huge hit!",
+      "CHINESE_SIMPLIFIED": "这次的产品绝对会大火！",
+      "CHINESE_TRADITIONAL": "這次的產品一定也會大賣！",
+      "JAPANESE": "今回の新作も大ヒットしそうです！",
+      "INDONESIAN": "Aku yakin banget produk-produk baru ini bakal terkenal banget!",
+      "PORTUGUESE": "Acho que essa nova coleção vai ser um sucesso total!",
+      "SPANISH": "¡Creo que esta nueva colección va a ser un éxito total!",
+      "PERSIAN": "من واقعا فکر می کنم این محصولات جدید موفقیت بزرگی خواهند داشت!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래? 유만 씨 생각은 어때?",
+      "ENGLISH": "Is that so? Yuman, what do you think?",
+      "CHINESE_SIMPLIFIED": "是吗？吴宥万，你觉得呢？",
+      "CHINESE_TRADITIONAL": "是嗎？宥萬你覺得呢？",
+      "JAPANESE": "そう？ユマンさんはどう思う？",
+      "INDONESIAN": "Gitu ya? Yuman, menurutmu gimana?",
+      "PORTUGUESE": "Ah, é? E você, o que acha, Yuman?",
+      "SPANISH": "¿Ah, sí? ¿Y tú qué piensas, Yumán?",
+      "PERSIAN": "اینطوری است؟ یومان، نظرت چیه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "씁... 음... 사실 전 조금 아쉬운 부분이 있었던 것 같습니다.",
+      "ENGLISH": "Hmm… well… honestly, I think there were a few minor points that could be improved.",
+      "CHINESE_SIMPLIFIED": "嗯...这个...其实我觉得有些部分可能稍显不足",
+      "CHINESE_TRADITIONAL": "嗯...嗯...我覺得有幾個比較可惜的地方",
+      "JAPANESE": "うーん…正直俺は少し惜しい部分もあると思いました",
+      "INDONESIAN": "Hmm… yah… jujur aja, menurutku masih ada beberapa detail kecil yang bisa diperbaiki.",
+      "PORTUGUESE": "Tch... hmm... na verdade, acho que tem alguns detalhes que poderiam ser melhorados.",
+      "SPANISH": "Tch... mmm... la verdad, creo que hay algunos detalles que podrían mejorarse.",
+      "PERSIAN": "هوم... خب... راستش، من فکر می کنم چند نکته جزئی وجود داشت که می شد بهبود بخشید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "전체적인 핏감도 그렇고 옷 감의 색감이 좀 안 묻는 느낌?",
+      "ENGLISH": "The overall fit, and the color of the fabric doesn’t quite pop, you know?",
+      "CHINESE_SIMPLIFIED": "整体剪裁和面料显色度似乎有点没撑起来？",
+      "CHINESE_TRADITIONAL": "整體版型不錯，但布料的顏色感覺有點不搭",
+      "JAPANESE": "全体的なシルエットもそうですし 生地の色味が少し映えない感じ？",
+      "INDONESIAN": "Dari segi fitting keseluruhan, terus warna kainnya juga kurang “nendang”, gitu.",
+      "PORTUGUESE": "O caimento geral e a cor do tecido não estão combinando muito bem.",
+      "SPANISH": "El ajuste general y el color de la tela no se ve del todo bien.",
+      "PERSIAN": "تناسب کلی، و رنگ پارچه کاملاً پاپ نیست، می دانید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 전반적인 컨셉은 과장님이 많이 고심한 티가 나는 것 같습니다!",
+      "ENGLISH": "Still, the overall concept really shows how much thought you put into it, Manager!",
+      "CHINESE_SIMPLIFIED": "不过整体概念能看出科长费了很多心思！",
+      "CHINESE_TRADITIONAL": "不過整體概念看得出來課長花了很多心思！",
+      "JAPANESE": "でも全体のコンセプトには課長のこだわりがしっかり感じられます！",
+      "INDONESIAN": "Tapi konsep besarnya jelas banget kalau ini hasil pemikiran matang dari Manajer!",
+      "PORTUGUESE": "Mesmo assim, dá pra ver que a senhora se esforçou bastante no conceito geral.",
+      "SPANISH": "Aun así, se nota que trabajó mucho en el concepto general.",
+      "PERSIAN": "با این حال، مفهوم کلی واقعاً نشان می دهد که چقدر برای اون فکر کرده اید، مدیر!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨는 끝나고 나 좀 보죠.",
+      "ENGLISH": "Yuman, check in with me after we’re done.",
+      "CHINESE_SIMPLIFIED": "吴宥万，结束后我们单独聊一下",
+      "CHINESE_TRADITIONAL": "宥萬，結束後來找我一下",
+      "JAPANESE": "ユマンさん、あとでちょっと話しましょう",
+      "INDONESIAN": "Yuman, temui aku setelah semuanya selesai ya.",
+      "PORTUGUESE": "Quando terminarmos, quero falar com você um momento, Yuman.",
+      "SPANISH": "Cuando terminemos, quiero hablar contigo un momento, Yumán.",
+      "PERSIAN": "یومان، بعد از اتمام کار با من تماس بگیرید."
+    }
+  }
+]

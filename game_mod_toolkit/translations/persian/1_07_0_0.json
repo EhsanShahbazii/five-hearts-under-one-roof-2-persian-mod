@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 어때요?",
+      "ENGLISH": "So, how do you feel?",
+      "CHINESE_SIMPLIFIED": "感觉怎么样？",
+      "CHINESE_TRADITIONAL": "感覺怎麼樣？",
+      "JAPANESE": "それで、どうですか？",
+      "INDONESIAN": "Jadi, gimana rasanya?",
+      "PORTUGUESE": "Então, como se sente?",
+      "SPANISH": "Entonces, ¿cómo se siente?",
+      "PERSIAN": "خب، چه حسی داری الان؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "6개월 만에 일어나니까?",
+      "ENGLISH": "Waking up after six months?",
+      "CHINESE_SIMPLIFIED": "半年没站起来过了吧？",
+      "CHINESE_TRADITIONAL": "是半年後第一次站起來嗎？",
+      "JAPANESE": "半年ぶりに目を覚ました気分は",
+      "INDONESIAN": "Bangun lagi setelah enam bulan?",
+      "PORTUGUESE": "Depois de acordar após 6 meses?",
+      "SPANISH": "¿Despertar después de seis meses?",
+      "PERSIAN": "اینکه بعد از شش ماه تازه چشماتو وا کردی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "얼떨떨해요.",
+      "ENGLISH": "Kinda out of it.",
+      "CHINESE_SIMPLIFIED": "有点恍惚",
+      "CHINESE_TRADITIONAL": "有點暈暈的",
+      "JAPANESE": "なんだかぼんやりします",
+      "INDONESIAN": "Rasanya masih agak bingung.",
+      "PORTUGUESE": "Estou meio atordoado.",
+      "SPANISH": "Un poco confundido.",
+      "PERSIAN": "هنوز تو شُکم، باورم نمیشه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 깨어 있는 유만 님 보니까 너무 좋아요.",
+      "ENGLISH": "Still, seeing you awake like this… it makes me really happy.",
+      "CHINESE_SIMPLIFIED": "看到清醒的宥万先生真是太好了",
+      "CHINESE_TRADITIONAL": "看到清醒的宥萬先生，真的很開心",
+      "JAPANESE": "こうして目を覚ましているユマンさんを見られて、本当にうれしいです",
+      "INDONESIAN": "Senang banget bisa lihat Yuman udah bangun kayak gini.",
+      "PORTUGUESE": "Ver você acordado assim, Yooman, me deixa muito feliz.",
+      "SPANISH": "Me alegra tanto verlo despierto, señor Yumán.",
+      "PERSIAN": "ولی اینطوری هوشیار و بیدار می‌بینمت... خیلی خوشحالم میکنه."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "사실 제가 유만 님 누워 계실 때 매번...",
+      "ENGLISH": "While you were unconscious, I actually…",
+      "CHINESE_SIMPLIFIED": "其实你昏迷的这段时间，我每次...",
+      "CHINESE_TRADITIONAL": "其實你昏迷的這段時間，我每次...",
+      "JAPANESE": "実はユマンさんが寝ていらっしゃる間、毎回…",
+      "INDONESIAN": "Sebenarnya, waktu Yuman masih terbaring, aku yang selalu...",
+      "PORTUGUESE": "Na verdade, enquanto você estava deitado, eu sempre...",
+      "SPANISH": "La verdad… mientras estuvo inconsciente, yo…",
+      "PERSIAN": "راستش اون موقع‌هایی که بیهوش افتاده بودی، همش..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "와서 살펴드리고,",
+      "ENGLISH": "took care of you. ",
+      "CHINESE_SIMPLIFIED": "都会来看你，",
+      "CHINESE_TRADITIONAL": "都會來看你，",
+      "JAPANESE": "様子を見に来て、",
+      "INDONESIAN": "Ngerawat,",
+      "PORTUGUESE": "cuidava de você,",
+      "SPANISH": "me encargué de cuidarlo ",
+      "PERSIAN": "میومدم بهت سر می‌زدم و حواسم بهت بود،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "몸도 닦아드리고 했... (꼬르륵)",
+      "ENGLISH": "Cleaned you up and everything... (Growl)",
+      "CHINESE_SIMPLIFIED": "帮你擦身、照顾你... (咕噜咕噜)",
+      "CHINESE_TRADITIONAL": "幫你擦身體、照顧你... (咕噜咕噜)",
+      "JAPANESE": "体も拭いてあげてたんです... (ぐぅ〜)",
+      "INDONESIAN": " bersihin badan juga... (Kruuk)",
+      "PORTUGUESE": "limpava seu corpo e tudo mais... (Ronc)",
+      "SPANISH": "y lavarle el cuerpo... (Gruuup)",
+      "PERSIAN": "حتی خودم تَنِتو تمیز می‌کردم و... (قار و قور شکم)"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 22.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 꼬르륵 소리 때문에 못 들었어요.",
+      "ENGLISH": "Sorry, I missed that cause the stomach growl.",
+      "CHINESE_SIMPLIFIED": "你说什么？刚刚肚子咕噜声太响，我没听清",
+      "CHINESE_TRADITIONAL": "嗯？剛剛肚子咕嚕咕嚕叫，沒聽清楚你剛剛說什麼",
+      "JAPANESE": "えっ？お腹のグーって音で聞こえなかったですが",
+      "INDONESIAN": "Hah? Maaf, tadi perutku bunyi jadi nggak kedengeran apa-apa.",
+      "PORTUGUESE": "Hã? Não ouvi nada por causa do ronco da minha barriga.",
+      "SPANISH": "¿Qué dijo? No le escuché por el ruido de su estómago.",
+      "PERSIAN": "چی گفتی؟ صدای قاروقور شکمت نذاشت بشنوم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 아, 별 얘기 아니에요!",
+      "ENGLISH": "Oh! It’s nothing!",
+      "CHINESE_SIMPLIFIED": "啊，没什么！",
+      "CHINESE_TRADITIONAL": "喔？啊，沒什麼",
+      "JAPANESE": "え？あっ、たいしたことじゃないです！",
+      "INDONESIAN": "Ah, nggak kok, bukan hal penting!",
+      "PORTUGUESE": "Ah, não era nada importante!",
+      "SPANISH": "¿Ah? ¡No era nada importante!",
+      "PERSIAN": "ها؟ وای نه، حرف خاصی نبود بیخیال!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "배고프세요?",
+      "ENGLISH": "Are you hungry?",
+      "CHINESE_SIMPLIFIED": "饿了吗？",
+      "CHINESE_TRADITIONAL": "肚子餓嗎？",
+      "JAPANESE": "お腹すいてますか？",
+      "INDONESIAN": "Kamu lapar ya?",
+      "PORTUGUESE": "Você está com fome?",
+      "SPANISH": "¿Tiene hambre?",
+      "PERSIAN": "گرسنته مگه نه؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 34.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐, 아까 식사를 못 챙겨 먹긴 했는데...",
+      "ENGLISH": "I mean, I didn’t get to eat earlier...",
+      "CHINESE_SIMPLIFIED": "嗯，刚才没能好好吃饭…",
+      "CHINESE_TRADITIONAL": "嗯，剛才沒辦法好好吃飯…",
+      "JAPANESE": "まあ、さっき食事取れてはなかったけど…",
+      "INDONESIAN": "Yah, tadi emang belum sempat makan sih...",
+      "PORTUGUESE": "Bom, eu acabei não conseguindo comer antes...",
+      "SPANISH": "Bueno… es que aún no he podido comer…",
+      "PERSIAN": "خب راستش نرسیدم ناهار بخورم، اما..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 42.1,
+      "HIDE": 59.0
+    },
+    "SCRIPT": {
+      "KOREAN": "귤 좋아하세요? 드실래요?",
+      "ENGLISH": "Do you like mandarins? Want one?",
+      "CHINESE_SIMPLIFIED": "喜欢橘子吗？想吃吗？",
+      "CHINESE_TRADITIONAL": "喜歡橘子嗎？要吃嗎？",
+      "JAPANESE": "みかん好きですか？ 食べます？",
+      "INDONESIAN": "Kamu suka jeruk? Mau coba?",
+      "PORTUGUESE": "Você gosta de tangerinas? Quer uma?",
+      "SPANISH": "¿Le gustan las mandarinas? ¿Quiere una?",
+      "PERSIAN": "نارنگی دوست داری؟ برات پوست بکنم؟"
+    }
+  }
+]

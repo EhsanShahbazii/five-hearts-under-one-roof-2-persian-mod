@@ -1,0 +1,542 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.01,
+      "HIDE": 0.21
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요",
+      "ENGLISH": "Hello.",
+      "CHINESE_SIMPLIFIED": "大家好！",
+      "CHINESE_TRADITIONAL": "大家好。",
+      "JAPANESE": "こんにちは。",
+      "INDONESIAN": "Halo.",
+      "PORTUGUESE": "Olá.",
+      "SPANISH": "Hola.",
+      "PERSIAN": "سلام."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 0.21,
+      "HIDE": 4.01
+    },
+    "SCRIPT": {
+      "KOREAN": "하전미2 새롭게 참여하게 된",
+      "ENGLISH": "Newly joining Hajeonmi 2,",
+      "CHINESE_SIMPLIFIED": "我是在《阿西美女2》中全新登场",
+      "CHINESE_TRADITIONAL": "新加入《美女寄宿生2》，",
+      "JAPANESE": "『美人下宿生2』に新たに参加し、",
+      "INDONESIAN": "Baru bergabung di Beauties at the Boarding House 2,",
+      "PORTUGUESE": "Recém-chegando a Belezas da Pensão 2,",
+      "SPANISH": "Recién incorporada a Bellezas de la Pensión 2,",
+      "PERSIAN": "به تازگی به هاجون‌می 2 ملحق شده است،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.01,
+      "HIDE": 8.02
+    },
+    "SCRIPT": {
+      "KOREAN": "간호사 역할 방규리로 나오는 김빵귤입니다",
+      "ENGLISH": "I’m Kim Ppanggyul, appearing as Nurse Bang Gyuri.",
+      "CHINESE_SIMPLIFIED": "饰演护士方久梨的金橘~",
+      "CHINESE_TRADITIONAL": "我是飾演護士方圭莉的金胖橘。",
+      "JAPANESE": "看護師パン・ギュリを演じるキム・パンギュルです。",
+      "INDONESIAN": "saya Kim Ppanggyul sebagai perawat Bang Gyuri.",
+      "PORTUGUESE": "sou Kim Ppanggyul, no papel da enfermeira Bang Gyuri.",
+      "SPANISH": "soy Kim Ppanggyul, en el papel de la enfermera Bang Gyuri.",
+      "PERSIAN": "من کیم پانگگیول هستم که در نقش پرستار بنگ گیوری ظاهر می شوم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.02,
+      "HIDE": 14.05
+    },
+    "SCRIPT": {
+      "KOREAN": "유만이가 병원으로 실려오는데 거기서 만나는 신입 간호사 병아리 간호사에요",
+      "ENGLISH": "Yuman is brought to the hospital, where he meets a rookie, “chick” nurse.",
+      "CHINESE_SIMPLIFIED": "宥万被送到医院后，遇到的就是我这个新人小护士，“菜鸟护士”～",
+      "CHINESE_TRADITIONAL": "有滿被送到醫院，在那裡遇見了新人「小雛」護士。",
+      "JAPANESE": "ユマンが病院に運ばれ、そこで新人の「ひよこ」ナースと出会います。",
+      "INDONESIAN": "Yuman dibawa ke rumah sakit dan di sana bertemu perawat pemula “anak ayam”.",
+      "PORTUGUESE": "Yuman é levado ao hospital e lá encontra uma enfermeira novata, “pintinho”.",
+      "SPANISH": "Yuman es llevado al hospital y allí conoce a una enfermera novata, una “pollita”.",
+      "PERSIAN": "یومان به بیمارستان آورده می شود و در آنجا با یک پرستار تازه کار \"جوجه\" آشنا می شود."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.05,
+      "HIDE": 19.02
+    },
+    "SCRIPT": {
+      "KOREAN": "완전 열정 가득한 병아리 간호사라고 보시면 됩니다",
+      "ENGLISH": "You can think of her as a super-passionate chick nurse.",
+      "CHINESE_SIMPLIFIED": "大家可以把她看作充满热情的萌新护士",
+      "CHINESE_TRADITIONAL": "可以把她當作超有熱情的小雛護士。",
+      "JAPANESE": "彼女は情熱たっぷりのひよこナースだと思ってください。",
+      "INDONESIAN": "Anggap saja dia perawat pemula yang super bersemangat.",
+      "PORTUGUESE": "Pensem nela como uma novata super apaixonada.",
+      "SPANISH": "Piensen en ella como una novata súper apasionada.",
+      "PERSIAN": "شما می توانید اونو به عنوان یک پرستار جوجه فوق العاده پرشور در نظر بگیرید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.02,
+      "HIDE": 22.01
+    },
+    "SCRIPT": {
+      "KOREAN": "신입 간호사의 정말 열정 귀여움",
+      "ENGLISH": "A new nurse who’s truly full of passion and cuteness.",
+      "CHINESE_SIMPLIFIED": "既有新人护士特有的热情可爱",
+      "CHINESE_TRADITIONAL": "真正充滿熱情又可愛的新手護士。",
+      "JAPANESE": "本当に情熱と可愛さにあふれる新米ナースです。",
+      "INDONESIAN": "Seorang perawat baru yang benar-benar penuh semangat dan imut.",
+      "PORTUGUESE": "Uma nova enfermeira realmente cheia de paixão e fofura.",
+      "SPANISH": "Una nueva enfermera realmente llena de pasión y ternura.",
+      "PERSIAN": "یک پرستار جدید که واقعاً پر از شور و ناز است."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.01,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하지만 그 귀여움 속에 숨겨진 또 다른 느낌?이라고 해야 되나요?",
+      "ENGLISH": "But would you say there’s another vibe hidden behind that cuteness?",
+      "CHINESE_SIMPLIFIED": "但在那份可爱背后还隐藏着另一面...该这么说吗？",
+      "CHINESE_TRADITIONAL": "但那份可愛背後，好像還藏著另一種感覺，對吧？",
+      "JAPANESE": "でもその可愛さの奥に、もう一つの雰囲気が隠れていると言うべきでしょうか。",
+      "INDONESIAN": "Tapi di balik keimutan itu, ada nuansa lain yang tersembunyi, kan?",
+      "PORTUGUESE": "Mas por trás dessa fofura há outra vibração escondida, não é?",
+      "SPANISH": "Pero detrás de esa ternura hay otra vibra oculta, ¿no?",
+      "PERSIAN": "اما می گویید که فضای دیگری در پس این جذابیت پنهان است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 30.16
+    },
+    "SCRIPT": {
+      "KOREAN": "촬영하면서 재미있었던 에피소드",
+      "ENGLISH": "A fun episode while filming.",
+      "CHINESE_SIMPLIFIED": "拍摄过程中有趣的插曲",
+      "CHINESE_TRADITIONAL": "拍攝時有趣的橋段。",
+      "JAPANESE": "撮影中の楽しかったエピソード。",
+      "INDONESIAN": "Episode seru saat syuting.",
+      "PORTUGUESE": "Um episódio divertido das filmagens.",
+      "SPANISH": "Un episodio divertido durante el rodaje.",
+      "PERSIAN": "یک قسمت سرگرم کننده در حین فیلمبرداری."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 30.16,
+      "HIDE": 36.01
+    },
+    "SCRIPT": {
+      "KOREAN": "하숙생 멤버들과 함께 여기저기 많이 돌아다니면서 같이 찍게 되는 거?",
+      "ENGLISH": "Going all over with the lodgers and shooting together?",
+      "CHINESE_SIMPLIFIED": "就是和合租屋成员们一起到处奔波取景",
+      "CHINESE_TRADITIONAL": "和下宿成員一起到處跑著拍嗎？",
+      "JAPANESE": "下宿メンバーと一緒にあちこち回って撮ること？",
+      "INDONESIAN": "Jalan ke banyak tempat bersama para penghuni dan syuting bareng?",
+      "PORTUGUESE": "Sair por aí com os inquilinos e gravar juntos?",
+      "SPANISH": "Ir por muchos lugares con los inquilinos y grabar juntos.",
+      "PERSIAN": "با اقامت گاه ها سرتاسر می رویم و با هم تیراندازی می کنیم؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 36.01,
+      "HIDE": 41.18
+    },
+    "SCRIPT": {
+      "KOREAN": "그것도 되게 여행이라고 생각하고 되게 재밌게 찍었던 거 같아요",
+      "ENGLISH": "I felt like it was a trip, and it was really fun to shoot.",
+      "CHINESE_SIMPLIFIED": "这个过程就像旅行一样，我们都拍得特别开心",
+      "CHINESE_TRADITIONAL": "我覺得就像在旅行，拍得非常開心。",
+      "JAPANESE": "まるで旅行のようで、とても楽しく撮影できました。",
+      "INDONESIAN": "Rasanya seperti liburan, dan syutingnya sangat menyenangkan.",
+      "PORTUGUESE": "Pareceu uma viagem, e foi muito divertido filmar.",
+      "SPANISH": "Se sintió como un viaje y fue muy divertido filmar.",
+      "PERSIAN": "احساس می کردم این یک سفر است و عکاسی واقعاً سرگرم کننده بود."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 41.18,
+      "HIDE": 46.05
+    },
+    "SCRIPT": {
+      "KOREAN": "조금 힘들었던 거 라면 사진 촬영이 다 같이 찍잖아요",
+      "ENGLISH": "Something a bit hard was the group photo session.",
+      "CHINESE_SIMPLIFIED": "要说稍微辛苦的地方嘛，就是集体合影的时候",
+      "CHINESE_TRADITIONAL": "稍微困難的是大合照。",
+      "JAPANESE": "少し大変だったのは集合写真です。",
+      "INDONESIAN": "Yang agak sulit adalah sesi foto bersama.",
+      "PORTUGUESE": "Um ponto um pouco difícil foi a foto em grupo.",
+      "SPANISH": "Algo un poco difícil fue la sesión de fotos en grupo.",
+      "PERSIAN": "جلسه عکس گروهی کمی سخت بود."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 46.05,
+      "HIDE": 48.09
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 키가 아마 거기서 제일 작아요",
+      "ENGLISH": "I’m probably the shortest there.",
+      "CHINESE_SIMPLIFIED": "我应该是里面个子最矮的",
+      "CHINESE_TRADITIONAL": "我大概是那裡最矮的。",
+      "JAPANESE": "たぶん私がいちばん背が低いんです。",
+      "INDONESIAN": "Sepertinya aku yang paling pendek di sana.",
+      "PORTUGUESE": "Acho que sou a mais baixa lá.",
+      "SPANISH": "Creo que soy la más bajita allí.",
+      "PERSIAN": "من احتمالاً در آنجا کوتاه ترین هستم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 48.09,
+      "HIDE": 52.08
+    },
+    "SCRIPT": {
+      "KOREAN": "하필 제가 꼭 옆에 안 계셨으면",
+      "ENGLISH": "Of all things, the person I really didn’t want",
+      "CHINESE_SIMPLIFIED": "偏偏我最希望",
+      "CHINESE_TRADITIONAL": "偏偏我最不想",
+      "JAPANESE": "そのうえ、私ができれば隣に立ってほしくない",
+      "INDONESIAN": "Kebetulan orang yang paling",
+      "PORTUGUESE": "E justamente a pessoa que eu",
+      "SPANISH": "Y justamente la persona que",
+      "PERSIAN": "از همه چیز، شخصی که واقعاً نمی خواستم"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 52.08,
+      "HIDE": 57.01
+    },
+    "SCRIPT": {
+      "KOREAN": "좋겠다고 생각하는 멤버 중 한 분이 말숙 님인데",
+      "ENGLISH": "to stand right next to me was Mal-sook.",
+      "CHINESE_SIMPLIFIED": "能不站在旁边的就是末淑前辈",
+      "CHINESE_TRADITIONAL": "站在身邊的人是馬淑。",
+      "JAPANESE": "メンバーの一人がマルスクさんで、",
+      "INDONESIAN": "tidak ingin berdiri tepat di sampingku itu Mal-sook.",
+      "PORTUGUESE": "menos queria ao meu lado era a Mal-sook.",
+      "SPANISH": "menos quería a mi lado era Mal-sook.",
+      "PERSIAN": "مال‌سوک که درست در کنار من ایستاده بود."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 57.01,
+      "HIDE": 60.01
+    },
+    "SCRIPT": {
+      "KOREAN": "키 차이가 되게 많이 난단 말이죠",
+      "ENGLISH": "Our height difference is pretty big.",
+      "CHINESE_SIMPLIFIED": "因为我们身高差实在太大了",
+      "CHINESE_TRADITIONAL": "身高差真的很大。",
+      "JAPANESE": "身長差がすごく大きいんです。",
+      "INDONESIAN": "Selisih tinggi kami cukup besar.",
+      "PORTUGUESE": "A diferença de altura é bem grande.",
+      "SPANISH": "La diferencia de estatura es bastante grande.",
+      "PERSIAN": "اختلاف قدمون خیلی زیاده"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 60.01,
+      "HIDE": 63.16
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙 님을 찍으면 제가 안 보이고",
+      "ENGLISH": "If you frame Mal-sook, I vanish,",
+      "CHINESE_SIMPLIFIED": "拍到她的时候就看不见我",
+      "CHINESE_TRADITIONAL": "拍馬淑的話，我就不見了，",
+      "JAPANESE": "マルスクさんを撮ると私は映らず、",
+      "INDONESIAN": "Kalau mengambil Mal-sook, aku hilang dari frame,",
+      "PORTUGUESE": "Se enquadram a Mal-sook, eu sumo do quadro,",
+      "SPANISH": "Si encuadran a Mal-sook, yo desaparezco,",
+      "PERSIAN": "اگر مال‌سوک را قاب کنی، ناپدید می شوم،"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 63.16,
+      "HIDE": 67.12
+    },
+    "SCRIPT": {
+      "KOREAN": "저를 찍으면 말숙 님이 안 보이는 그런",
+      "ENGLISH": "and if you frame me, Mal-sook vanishes—",
+      "CHINESE_SIMPLIFIED": "拍到我的时候又看不见她",
+      "CHINESE_TRADITIONAL": "拍我的話，馬淑又不見了——",
+      "JAPANESE": "私を撮るとマルスクさんが映らない——",
+      "INDONESIAN": "kalau mengambil aku, Mal-sook yang hilang—",
+      "PORTUGUESE": "se me enquadram, a Mal-sook é quem some—",
+      "SPANISH": "si me encuadran a mí, desaparece Mal-sook—",
+      "PERSIAN": "و اگر مرا قاب کنی، مال‌سوک ناپدید می شود-"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 67.12,
+      "HIDE": 70.05
+    },
+    "SCRIPT": {
+      "KOREAN": "약간 좀 해프닝이 좀 있었다",
+      "ENGLISH": "there was a little mishap like that.",
+      "CHINESE_SIMPLIFIED": "闹出不少这样的小插曲",
+      "CHINESE_TRADITIONAL": "有過這樣的小插曲。",
+      "JAPANESE": "そんなちょっとしたハプニングがありました。",
+      "INDONESIAN": "sempat ada insiden kecil seperti itu.",
+      "PORTUGUESE": "houve um pequeno incidente assim.",
+      "SPANISH": "hubo una pequeña anécdota así.",
+      "PERSIAN": "یک بدبختی کوچک مانند اون وجود داشت."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 70.05,
+      "HIDE": 74.13
+    },
+    "SCRIPT": {
+      "KOREAN": "예 그런 거 말고는 진짜 그것조차도 재미있었습니다",
+      "ENGLISH": "Yes, aside from that, even that was fun for me.",
+      "CHINESE_SIMPLIFIED": "不过就连这些小插曲也都很有趣呢",
+      "CHINESE_TRADITIONAL": "是的，除此之外，連那件事都覺得有趣。",
+      "JAPANESE": "でもそれすら本当に楽しかったです。",
+      "INDONESIAN": "Ya, selain itu, bahkan itu pun terasa menyenangkan.",
+      "PORTUGUESE": "Sim, tirando isso, até isso foi divertido.",
+      "SPANISH": "Sí, aparte de eso, hasta eso me pareció divertido.",
+      "PERSIAN": "بله، جدا از اون، حتی اون هم برای من سرگرم کننده بود."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 74.13,
+      "HIDE": 74.14
+    },
+    "SCRIPT": {
+      "KOREAN": "(인기투표 순위는?)",
+      "ENGLISH": "(Popularity ranking?)",
+      "CHINESE_SIMPLIFIED": "（关于人气投票排名？）",
+      "CHINESE_TRADITIONAL": "（人氣投票名次？）",
+      "JAPANESE": "（人気投票の順位は？）",
+      "INDONESIAN": "(Peringkat popularitas?)",
+      "PORTUGUESE": "(Colocação no ranking de popularidade?)",
+      "SPANISH": "(¿Ranking de popularidad?)",
+      "PERSIAN": "(رتبه بندی محبوبیت؟)"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 74.14,
+      "HIDE": 75.19
+    },
+    "SCRIPT": {
+      "KOREAN": "(인기투표 순위는?)",
+      "ENGLISH": "(Popularity ranking?)",
+      "CHINESE_SIMPLIFIED": "（关于人气投票排名？）",
+      "CHINESE_TRADITIONAL": "（人氣投票名次？）",
+      "JAPANESE": "（人気投票の順位は？）",
+      "INDONESIAN": "(Peringkat popularitas?)",
+      "PORTUGUESE": "(Colocação no ranking de popularidade?)",
+      "SPANISH": "(¿Ranking de popularidad?)",
+      "PERSIAN": "(رتبه بندی محبوبیت؟)"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 75.19,
+      "HIDE": 78.14
+    },
+    "SCRIPT": {
+      "KOREAN": "아마 전에 멤버분들",
+      "ENGLISH": "Maybe the previous members",
+      "CHINESE_SIMPLIFIED": "上一季的前辈们",
+      "CHINESE_TRADITIONAL": "也許前成員",
+      "JAPANESE": "たぶん以前からのメンバーが",
+      "INDONESIAN": "Mungkin para member sebelumnya",
+      "PORTUGUESE": "Acho que os membros anteriores",
+      "SPANISH": "Quizá las miembros anteriores",
+      "PERSIAN": "شاید اعضای قبلی"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 78.14,
+      "HIDE": 82.11
+    },
+    "SCRIPT": {
+      "KOREAN": "이 계속 1 2 3등이지 않을까요?",
+      "ENGLISH": "will keep holding 1st, 2nd, and 3rd?",
+      "CHINESE_SIMPLIFIED": "应该会继续包揽前三名吧？",
+      "CHINESE_TRADITIONAL": "還是會包辦一、二、三名吧？",
+      "JAPANESE": "1位・2位・3位を占めるんじゃないでしょうか。",
+      "INDONESIAN": "masih akan menempati peringkat 1, 2, 3?",
+      "PORTUGUESE": "continuarão com 1º, 2º e 3º lugares?",
+      "SPANISH": "sigan ocupando 1.º, 2.º y 3.º.",
+      "PERSIAN": "1، 2، و 3 را نگه می دارد؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 82.14,
+      "HIDE": 82.11
+    },
+    "SCRIPT": {
+      "KOREAN": "하지만 그 뒤에 제가 조금",
+      "ENGLISH": "But after them, I’d like to",
+      "CHINESE_SIMPLIFIED": "不过我希望",
+      "CHINESE_TRADITIONAL": "不過在她們之後，我想",
+      "JAPANESE": "でもそのあとに、私は",
+      "INDONESIAN": "Tapi setelah mereka, aku ingin",
+      "PORTUGUESE": "Mas depois deles, eu gostaria",
+      "SPANISH": "Pero después de ellas, me gustaría",
+      "PERSIAN": "اما بعد از اونا، من می خواهم"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 82.22,
+      "HIDE": 85.15
+    },
+    "SCRIPT": {
+      "KOREAN": "먼저 들어갔으면 좋겠습니다",
+      "ENGLISH": "slip in a bit ahead.",
+      "CHINESE_SIMPLIFIED": "我能够紧随其后",
+      "CHINESE_TRADITIONAL": "稍微往前擠一點。",
+      "JAPANESE": "少しでも早く食い込みたいです。",
+      "INDONESIAN": "menyelinap sedikit ke depan.",
+      "PORTUGUESE": "de entrar um pouco antes.",
+      "SPANISH": "colarme un poquito antes.",
+      "PERSIAN": "کمی جلوتر بلغزید"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 86.17,
+      "HIDE": 89.17
+    },
+    "SCRIPT": {
+      "KOREAN": "뉴 멤버 중에는 1등을 하고 싶습니다",
+      "ENGLISH": "Among the new members, I want to be 1st.",
+      "CHINESE_SIMPLIFIED": "在新人角色中拿下第一名！",
+      "CHINESE_TRADITIONAL": "在新成員裡我想拿第一。",
+      "JAPANESE": "新メンバーの中では1位になりたいです。",
+      "INDONESIAN": "Di antara member baru aku mau jadi nomor satu.",
+      "PORTUGUESE": "Entre os novos membros, quero ser a 1ª.",
+      "SPANISH": "Entre las nuevas, quiero ser la 1.ª.",
+      "PERSIAN": "در بین اعضای جدید، من می خواهم اول باشم."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 90.17,
+      "HIDE": 92.17
+    },
+    "SCRIPT": {
+      "KOREAN": "방규리에 대해서는 여러분들이 보시지 못한 게",
+      "ENGLISH": "There’s so much about Bang Gyuri you haven’t seen,",
+      "CHINESE_SIMPLIFIED": "关于方久梨这个角色，还有很多大家未曾了解的一面",
+      "CHINESE_TRADITIONAL": "關於方圭莉還有很多你們沒看過的，",
+      "JAPANESE": "パン・ギュリにはまだ皆さんの知らない面がたくさんあるので、",
+      "INDONESIAN": "Masih banyak sisi Bang Gyuri yang belum kalian lihat,",
+      "PORTUGUESE": "Ainda há muito da Bang Gyuri que vocês não viram,",
+      "SPANISH": "Aún hay mucho de Bang Gyuri que no han visto,",
+      "PERSIAN": "چیزهای زیادی در مورد بنگ گیوری وجود دارد که ندیده اید،"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 93.08,
+      "HIDE": 93.16
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 많기 때문에 많이 기대해 주시고",
+      "ENGLISH": "so please look forward to it a lot,",
+      "CHINESE_SIMPLIFIED": "所以请多多期待",
+      "CHINESE_TRADITIONAL": "所以請多多期待，",
+      "JAPANESE": "ぜひご期待ください。",
+      "INDONESIAN": "jadi tolong nantikan,",
+      "PORTUGUESE": "então aguardem com expectativa,",
+      "SPANISH": "así que espérenlo con ganas,",
+      "PERSIAN": "پس لطفا خیلی منتظرش باشید"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 94.17,
+      "HIDE": 98.11
+    },
+    "SCRIPT": {
+      "KOREAN": "내 나름대로 또 방규리의 매력을 통통 살려서",
+      "ENGLISH": "and I tried to pack Gyuri’s charm full and lively,",
+      "CHINESE_SIMPLIFIED": "我也通过自己的理解、把自己的魅力都注入到了这个角色中",
+      "CHINESE_TRADITIONAL": "我也把圭莉的魅力鼓鼓滿滿地呈現，",
+      "JAPANESE": "私なりにギュリの魅力をたっぷり詰め込みましたし、",
+      "INDONESIAN": "aku pun mengisi penuh pesona Gyuri dengan ceria,",
+      "PORTUGUESE": "eu também enchi de forma vivaz o charme da Gyuri,",
+      "SPANISH": "también llené a tope el encanto de Gyuri,",
+      "PERSIAN": "و سعی کردم جذابیت گیوری را کامل و سرزنده جمع کنم،"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 98.11,
+      "HIDE": 101.12
+    },
+    "SCRIPT": {
+      "KOREAN": "열심히 찍었기 때문에 많이 사랑해 주시고 많이 플레이해 주시면 감사하겠습니다",
+      "ENGLISH": "so please love her a lot and play a lot—thank you.",
+      "CHINESE_SIMPLIFIED": "还请大家多多喜爱，多多体验游戏哦！",
+      "CHINESE_TRADITIONAL": "請多多喜愛、多多遊玩，謝謝。",
+      "JAPANESE": "どうぞたくさん愛して、たくさんプレイしてください。",
+      "INDONESIAN": "mohon banyak cinta dan sering mainkan gamenya.",
+      "PORTUGUESE": "por favor, deem muito amor e joguem bastante.",
+      "SPANISH": "por favor den mucho cariño y jueguen mucho.",
+      "PERSIAN": "پس لطفاً اونو خیلی دوست داشته باشید و زیاد بازی کنید - ممنونم."
+    }
+  }
+]

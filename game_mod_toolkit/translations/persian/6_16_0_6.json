@@ -1,0 +1,307 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠가 그랬듯이, 저도 항상 오빠 편이 되어 줄게요. ",
+      "ENGLISH": "Just like you’ve always been on my side… I’ll always be on yours too.",
+      "CHINESE_SIMPLIFIED": "就像哥哥保护我那样，我也会永远站在哥哥这边的",
+      "CHINESE_TRADITIONAL": "就像哥哥保護我那樣，我也會永遠站在哥哥這邊的",
+      "JAPANESE": "兄さんがそうしたように、私もいつも兄さんの味方でいますね",
+      "INDONESIAN": "Sama kayak kamu yang selalu ada di sisiku… aku juga bakal selalu ada di sisimu.",
+      "PORTUGUESE": "Você sempre esteve ao meu lado, então eu quero fazer o mesmo por você.",
+      "SPANISH": "Tú siempre estuviste a mi lado, así que yo quiero hacer lo mismo por ti.",
+      "PERSIAN": "همانطور که تو همیشه در کنار من بودی... من هم همیشه در کنار تو می‌شم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 생일 축하해요.",
+      "ENGLISH": "Happy birthday, oppa.",
+      "CHINESE_SIMPLIFIED": "哥哥生日快乐",
+      "CHINESE_TRADITIONAL": "哥哥生日快樂",
+      "JAPANESE": "お兄さん、お誕生日おめでとう",
+      "INDONESIAN": "Selamat ulang tahun, oppa.",
+      "PORTUGUESE": "Feliz aniversário, oppa.",
+      "SPANISH": "Feliz cumpleaños, oppa.",
+      "PERSIAN": "تولدت مبارک یومان"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요....",
+      "ENGLISH": "Thank you...",
+      "CHINESE_SIMPLIFIED": "谢谢你...",
+      "CHINESE_TRADITIONAL": "謝謝你...",
+      "JAPANESE": "ありがとう…",
+      "INDONESIAN": "Makasih...",
+      "PORTUGUESE": "Obrigado…",
+      "SPANISH": "Gracias…",
+      "PERSIAN": "ممنونم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 서로 1호 팬이에요!",
+      "ENGLISH": "Let’s be each other’s number one fan!",
+      "CHINESE_SIMPLIFIED": "我们互相做彼此的头号粉丝吧！",
+      "CHINESE_TRADITIONAL": "我們互相做彼此的頭號粉絲吧！",
+      "JAPANESE": "お互いの一番のファンになりましょう！",
+      "INDONESIAN": "Yuk jadi fans nomor satu satu sama lain!",
+      "PORTUGUESE": "Eu também vou ser sua fã número um!",
+      "SPANISH": "¡Yo también seré tu fan número!",
+      "PERSIAN": "بیایید طرفدار شماره یک یکدیگر باشیم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 당연하죠...!!",
+      "ENGLISH": "Of course…!!",
+      "CHINESE_SIMPLIFIED": "啊当然啦...！！",
+      "CHINESE_TRADITIONAL": "當然啦...！！",
+      "JAPANESE": "もちろんです…！！",
+      "INDONESIAN": "Pastinya…!!",
+      "PORTUGUESE": "Ah, e eu o seu…!!",
+      "SPANISH": "Ah, y yo el tuyo…!!",
+      "PERSIAN": "البته…!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "얍!",
+      "ENGLISH": "Yap!",
+      "CHINESE_SIMPLIFIED": "咿呀！",
+      "CHINESE_TRADITIONAL": "呀！",
+      "JAPANESE": "やっ！",
+      "INDONESIAN": "Yap!",
+      "PORTUGUESE": "Yap!",
+      "SPANISH": "¡Yap!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "1호팬 인증한 거예요~",
+      "ENGLISH": "That was me making it official~",
+      "CHINESE_SIMPLIFIED": "这是头号粉丝认证哦~",
+      "CHINESE_TRADITIONAL": "這是頭號粉絲認證哦~",
+      "JAPANESE": "一番のファン認定です〜",
+      "INDONESIAN": "Itu tadi tanda resminya dariku~",
+      "PORTUGUESE": "E assim eu me certifico como sua fã número um~",
+      "SPANISH": "Y así me certifico como tu fan número uno~",
+      "PERSIAN": "این من بودم که اونو رسمی کردم"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야~",
+      "ENGLISH": "C'mon~",
+      "CHINESE_SIMPLIFIED": "什么呀~",
+      "CHINESE_TRADITIONAL": "什麽呀~",
+      "JAPANESE": "なにそれ〜",
+      "INDONESIAN": "Aduh~",
+      "PORTUGUESE": "O que você tá fazendo~?",
+      "SPANISH": "¿Qué haces~?",
+      "PERSIAN": "بیا~"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 나도 인증~",
+      "ENGLISH": "Then I’m making it official too~",
+      "CHINESE_SIMPLIFIED": "那我也要认证~",
+      "CHINESE_TRADITIONAL": "那我也要認證~",
+      "JAPANESE": "じゃあ俺も認定〜",
+      "INDONESIAN": "Kalau gitu aku juga resmiin sekarang~",
+      "PORTUGUESE": "Então eu também me certifico~",
+      "SPANISH": "Entonces yo también me certifico~",
+      "PERSIAN": "بعد من هم رسمیش میکنم~"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 민정 님 진짜 유치해~",
+      "ENGLISH": "Min-jung, you’re seriously so childish~",
+      "CHINESE_SIMPLIFIED": "啊，敏静真幼稚~",
+      "CHINESE_TRADITIONAL": "啊，敏靜真幼稚~",
+      "JAPANESE": "ミンジョンさん、ほんと子どもみたい〜",
+      "INDONESIAN": "Min-jung, kamu kekanak-kanakan banget sih~",
+      "PORTUGUESE": "Ai, Minjung, como você é infantil~",
+      "SPANISH": "Ay, Minjung, qué infantil eres~",
+      "PERSIAN": "مین‌جونگ، تو خیلی بچه گانه ای"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠가 더 유치해요.",
+      "ENGLISH": "You’re even more childish.",
+      "CHINESE_SIMPLIFIED": "哥哥更幼稚啦",
+      "CHINESE_TRADITIONAL": "哥哥更幼稚啦",
+      "JAPANESE": "お兄さんのほうが子どもですよ",
+      "INDONESIAN": "Kamu malah lebih kekanak-kanakan.",
+      "PORTUGUESE": "Você é mais infantil, oppa.",
+      "SPANISH": "Tú eres más infantil, oppa.",
+      "PERSIAN": "تو حتی بچه گانه تر هستی"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님이 두 배 유치해요.",
+      "ENGLISH": "Min-jung, you’re twice as childish.",
+      "CHINESE_SIMPLIFIED": "敏静比我还幼稚两倍",
+      "CHINESE_TRADITIONAL": "敏靜比我還幼稚兩倍",
+      "JAPANESE": "ミンジョンさんが二倍子どもです",
+      "INDONESIAN": "Min-jung, kamu dua kali lebih kekanak-kanakan.",
+      "PORTUGUESE": "Você é o dobro.",
+      "SPANISH": "Tú el doble.",
+      "PERSIAN": "مین‌جونگ، تو دو برابر بچه تر هستی."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠가 세 배 유치해요.",
+      "ENGLISH": "You’re three times more childish.",
+      "CHINESE_SIMPLIFIED": "哥哥是三倍！",
+      "CHINESE_TRADITIONAL": "哥哥是三倍！",
+      "JAPANESE": "お兄さんが三倍！",
+      "INDONESIAN": "Kamu tiga kali lebih kekanak-kanakan.",
+      "PORTUGUESE": "Você é o triplo.",
+      "SPANISH": "Tú el triple.",
+      "PERSIAN": "تو سه برابر بچه تر هستی"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 28.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네 배.",
+      "ENGLISH": "Four times.",
+      "CHINESE_SIMPLIFIED": "四倍！",
+      "CHINESE_TRADITIONAL": "四倍！",
+      "JAPANESE": "四倍",
+      "INDONESIAN": "Empat kali.",
+      "PORTUGUESE": "Quádruplo.",
+      "SPANISH": "Cuádruple.",
+      "PERSIAN": "چهار بار"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 28.7,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "다섯 배.",
+      "ENGLISH": "Five times.",
+      "CHINESE_SIMPLIFIED": "五倍！",
+      "CHINESE_TRADITIONAL": "五倍！",
+      "JAPANESE": "五倍",
+      "INDONESIAN": "Lima kali.",
+      "PORTUGUESE": "Quíntuplo.",
+      "SPANISH": "Quíntuple.",
+      "PERSIAN": "پنج بار"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "칫...",
+      "ENGLISH": "Tch...",
+      "CHINESE_SIMPLIFIED": "切...",
+      "CHINESE_TRADITIONAL": "切...",
+      "JAPANESE": "チッ…",
+      "INDONESIAN": "Tch...",
+      "PORTUGUESE": "Tsk…",
+      "SPANISH": "Tsk…",
+      "PERSIAN": "تچ..."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 31.9
+    },
+    "SCRIPT": {
+      "KOREAN": "흥.",
+      "ENGLISH": "Hmph",
+      "CHINESE_SIMPLIFIED": "哼",
+      "CHINESE_TRADITIONAL": "哼",
+      "JAPANESE": "ふんっ",
+      "INDONESIAN": "Hmph.",
+      "PORTUGUESE": "Hmph.",
+      "SPANISH": "Hmph.",
+      "PERSIAN": "هومف"
+    }
+  }
+]

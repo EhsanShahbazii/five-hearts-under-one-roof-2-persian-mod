@@ -1,0 +1,386 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "휴, 병실에 있으니까 답답하네. ",
+      "ENGLISH": "Ugh, being stuck in a hospital room’s so suffocating.",
+      "CHINESE_SIMPLIFIED": "唉，在病房里真是闷啊",
+      "CHINESE_TRADITIONAL": "唉，在病房裡真的好悶",
+      "JAPANESE": "ふう、病室にいるとなんだか息が詰まるな",
+      "INDONESIAN": "Ugh, di ruang rawat tuh rasanya pengap banget.",
+      "PORTUGUESE": "Uff, ficar no quarto do hospital é sufocante.",
+      "SPANISH": "Uf, estar en esta cama me asfixia.",
+      "PERSIAN": "هوف، حبس شدن توی این اتاق بیمارستان دلگیرم کرد."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "喔？",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Eh?",
+      "PORTUGUESE": "Quando será que a mamãe e o papai vão chegar?",
+      "SPANISH": "¿Cuándo vendrán mamá y papá?",
+      "PERSIAN": "عه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 11.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 진짜 일어났네요??",
+      "ENGLISH": "You’re really awake now, huh?",
+      "CHINESE_SIMPLIFIED": "你真的醒了？？",
+      "CHINESE_TRADITIONAL": "你真的醒了啊？？",
+      "JAPANESE": "あっ、本当に起きたんですね？？",
+      "INDONESIAN": "Eh? Kamu beneran udah bangun??",
+      "PORTUGUESE": "Você realmente acordou??",
+      "SPANISH": "¿De verdad despertaste?",
+      "PERSIAN": "وا، جدی جدی به هوش اومدی؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 누구세요?",
+      "ENGLISH": "Who... who are you?",
+      "CHINESE_SIMPLIFIED": "你谁…谁啊？",
+      "CHINESE_TRADITIONAL": "呃？你是哪一位？",
+      "JAPANESE": "えっ？どなたですか？",
+      "INDONESIAN": "Eh? Kamu siapa, ya?",
+      "PORTUGUESE": "“Q-quem... quem é você?”",
+      "SPANISH": "¿Qui… quién eres tú?",
+      "PERSIAN": "شما... شما کی هستین؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저 기억 안 나요? ",
+      "ENGLISH": "You don’t remember me?",
+      "CHINESE_SIMPLIFIED": "不记得我了吗？",
+      "CHINESE_TRADITIONAL": "不記得我了嗎？",
+      "JAPANESE": "私のこと覚えてないんですか？",
+      "INDONESIAN": "Kamu nggak inget aku?",
+      "PORTUGUESE": "Não se lembra de mim?",
+      "SPANISH": "¿No te acuerdas de mí?",
+      "PERSIAN": "منو یادت نمیاد واقعاً؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 그렇게 쉽게 잊혀질 얼굴이 아닐 텐데.",
+      "ENGLISH": "I mean, come on—I'm not exactly forgettable.",
+      "CHINESE_SIMPLIFIED": "我的脸可没那么容易让人忘掉吧",
+      "CHINESE_TRADITIONAL": "我可不是那麼容易被忘掉的臉吧？",
+      "JAPANESE": "そう簡単に忘れられる顔じゃないと思うんですけど",
+      "INDONESIAN": "Aku tuh bukan orang yang gampang dilupain, lho.",
+      "PORTUGUESE": "Não sou alguém que possa ser esquecido tão facilmente.",
+      "SPANISH": "Mi cara no es tan fácil de olvidar, ¿sabes?",
+      "PERSIAN": "قیافهٔ من چیزی نیست که بشه به این راحتیا فراموشش کرد!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 사고를 좀 당했는데 기억이 잘 안 나요..",
+      "ENGLISH": "I was in an accident, so my memory’s fuzzy...",
+      "CHINESE_SIMPLIFIED": "我出了点意外，所以不太清楚…",
+      "CHINESE_TRADITIONAL": "我出了點意外，不太記得了...",
+      "JAPANESE": "俺、ちょっと事故にあって記憶があまりないんです…",
+      "INDONESIAN": "Aku habis kecelakaan… jadi ingatanku agak kacau...",
+      "PORTUGUESE": "Eu sofri um acidente, então não me lembro de muita coisa...",
+      "SPANISH": "Tuve un accidente, así que no recuerdo mucho...",
+      "PERSIAN": "آخه تصادف سنگینی کردم، حافظه‌م بدجور قاطی پاتی شده..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "기억이 잘 안 난다고요?",
+      "ENGLISH": "Your memory’s fuzzy?",
+      "CHINESE_SIMPLIFIED": "你说你记不清了？",
+      "CHINESE_TRADITIONAL": "你說你不太記得了？",
+      "JAPANESE": "記憶があまりないっていうんですか？",
+      "INDONESIAN": "Maksudnya kamu nggak ingat apa-apa?",
+      "PORTUGUESE": "Não consegue se lembrar mesmo?",
+      "SPANISH": "¿Que no recuerdas dices?",
+      "PERSIAN": "حافظه‌ت قاطی کرده؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네. 누구신데요?",
+      "ENGLISH": "Right... Who are you?",
+      "CHINESE_SIMPLIFIED": "是的，那你是…？",
+      "CHINESE_TRADITIONAL": "嗯…你是誰呢？",
+      "JAPANESE": "はい。あなたはどなたですか？",
+      "INDONESIAN": "Iya. Kamu siapa, ya?",
+      "PORTUGUESE": "É... Mas quem é você?",
+      "SPANISH": "No. Pero… ¿quién eres?",
+      "PERSIAN": "آره خب... شما کی هستین اصلاً؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 32.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 정유나고.",
+      "ENGLISH": "Well, I’m Yu-na Jeong.",
+      "CHINESE_SIMPLIFIED": "我是郑有娜",
+      "CHINESE_TRADITIONAL": "我是鄭有娜",
+      "JAPANESE": "私はチョン・ユナです。",
+      "INDONESIAN": "Aku Jung Yu-na.",
+      "PORTUGUESE": "Eu sou Jung Yuna.",
+      "SPANISH": "Soy Yu-na Jung.",
+      "PERSIAN": "من جونگ یونا هستم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 37.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨한테 약간 미안한 게 있는 사람이랄까?",
+      "ENGLISH": "Let’s say… I might owe you an apology.",
+      "CHINESE_SIMPLIFIED": "算是…对宥万先生有点亏欠的人吧？",
+      "CHINESE_TRADITIONAL": "算是…對你有點愧疚的人吧？",
+      "JAPANESE": "ユマンさんにちょっと申し訳ないことがある人…ってところかな？",
+      "INDONESIAN": "Orang yang… agak punya rasa bersalah sama kamu, mungkin?",
+      "PORTUGUESE": "Digamos que sou alguém que tem uma pequena dívida de desculpas com você, Yooman.",
+      "SPANISH": "Digamos que… tenemos una pequeña deuda.",
+      "PERSIAN": "یه جورایی... حس می‌کنم یه عذرخواهیِ درست و حسابی بهت بدهکارم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 37.8,
+      "HIDE": 43.3
+    },
+    "SCRIPT": {
+      "KOREAN": "미안한 거라면...혹시...그..",
+      "ENGLISH": "Wait, are you…",
+      "CHINESE_SIMPLIFIED": "亏欠的话…该不会是…",
+      "CHINESE_TRADITIONAL": "愧疚的話…或許…是",
+      "JAPANESE": "申し訳ないことって…もしかして…その…",
+      "INDONESIAN": "Rasa bersalah… maksudnya, jangan-jangan…",
+      "PORTUGUESE": "Ah, será que...",
+      "SPANISH": "Ah, ¿acaso…?",
+      "PERSIAN": "بدهکاری...؟ نکنه شما همونی هستین که..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 43.9,
+      "HIDE": 47.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 나한테 돈 빌렸죠!",
+      "ENGLISH": "Oh! You're borrowing money from me, right?",
+      "CHINESE_SIMPLIFIED": "啊，你之前跟我借过钱吧！",
+      "CHINESE_TRADITIONAL": "啊～你跟我借錢了對吧！",
+      "JAPANESE": "あ〜俺からお金借りたでしょ！",
+      "INDONESIAN": "Ah! Kamu minjem uang dari aku ya?!",
+      "PORTUGUESE": "Ah, você me emprestou dinheiro, não foi?",
+      "SPANISH": "¡Me prestaste dinero!",
+      "PERSIAN": "آها! نکنه از من پول قرض گرفته بودین؟!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 47.3,
+      "HIDE": 50.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 제가 돈을 빌렸냐구요? ",
+      "ENGLISH": "Wait, I lent you some money, right? You owe me, aren't you?",
+      "CHINESE_SIMPLIFIED": "什么？我跟你借钱了？",
+      "CHINESE_TRADITIONAL": "咦？我有跟你借過錢嗎？",
+      "JAPANESE": "えっ？私がお金を借りたって言うんですか？",
+      "INDONESIAN": "Hah? Aku minjem uang?",
+      "PORTUGUESE": "Hã? Eu que te emprestei dinheiro?",
+      "SPANISH": "¿Eh? ¿Qué yo te presté dinero?",
+      "PERSIAN": "چی؟! من از تو پول قرض گرفتم؟! بدهکارم بهت مثلاً؟!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 50.6,
+      "HIDE": 53.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 진짜 기억이 안 나나 봐.",
+      "ENGLISH": "Seriously? I really don’t remember.",
+      "CHINESE_SIMPLIFIED": "看来是真的一点都不记得了啊...",
+      "CHINESE_TRADITIONAL": "不會真的什麼都不記得了吧…",
+      "JAPANESE": "本当に覚えてないみたいですね",
+      "INDONESIAN": "Wah… kayaknya kamu beneran lupa ya.",
+      "PORTUGUESE": "Parece que você realmente não lembra.",
+      "SPANISH": "En serio recuerda nada.",
+      "PERSIAN": "نه بابا، انگار واقعاً کلاً مغزت پاک شده!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 54.7,
+      "HIDE": 57.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 저한테 미안할 게 뭐예요?",
+      "ENGLISH": "Then why are you sorry?",
+      "CHINESE_SIMPLIFIED": "那你说你亏欠我是什么意思？",
+      "CHINESE_TRADITIONAL": "那為什麼要對我愧疚啊？",
+      "JAPANESE": "じゃあ、俺に対して申し訳ないことって何なんですか？",
+      "INDONESIAN": "Kalau gitu, kamu ngerasa bersalah karena apa?",
+      "PORTUGUESE": "Então, pelo que é exatamente que você se sente culpada comigo?",
+      "SPANISH": "Entonces, ¿por qué dices que tenemos una deuda?",
+      "PERSIAN": "پس واسه چی عذرخواهی می‌کردی؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 57.1,
+      "HIDE": 60.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 나중에... 얘기해줄게요! 나중에",
+      "ENGLISH": "That’s... something I’ll explain later.",
+      "CHINESE_SIMPLIFIED": "那个…之后再告诉你吧！之后再说",
+      "CHINESE_TRADITIONAL": "那個…晚點再跟你說！晚點再說",
+      "JAPANESE": "それは…また後で話します！後で",
+      "INDONESIAN": "Itu… nanti aku ceritain. Nanti aja ya!",
+      "PORTUGUESE": "Isso eu te conto... mais tarde!",
+      "SPANISH": "Eso… te lo cuento luego.",
+      "PERSIAN": "اونو... بعداً سر فرصت برات توضیح میدم! بعداً."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 60.9,
+      "HIDE": 64.7
+    },
+    "SCRIPT": {
+      "KOREAN": "암튼 유만 씨 다 나을 때까지 제가 다 책임질 테니까!",
+      "ENGLISH": "Anyway, I’ll take care of you till you’re fully recovered.",
+      "CHINESE_SIMPLIFIED": "总之，在你康复之前，我会负责照顾你！",
+      "CHINESE_TRADITIONAL": "在你康復之前，我會負責照顧你！",
+      "JAPANESE": "とにかく、ユマンさんが完全に治るまで私が全部責任を持ちますから！",
+      "INDONESIAN": "Pokoknya sampai kamu sembuh total, aku yang bakal jagain kamu!",
+      "PORTUGUESE": "De qualquer forma, até você se recuperar totalmente, eu vou cuidar de tudo!",
+      "SPANISH": "Porque yo me haré cargo de todo hasta que te recuperes.",
+      "PERSIAN": "به هر حال، تا وقتی که کامل حالت خوب بشه خودم همه‌جوره هواتو دارم!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 64.7,
+      "HIDE": 66.0
+    },
+    "SCRIPT": {
+      "KOREAN": "필요한 거 있으면 말해요!",
+      "ENGLISH": "Whatever you need— just say the word!",
+      "CHINESE_SIMPLIFIED": "有什么需要尽管说！",
+      "CHINESE_TRADITIONAL": "有需要就儘管開口喔！",
+      "JAPANESE": "必要なものがあったら言ってくださいね！",
+      "INDONESIAN": "Kalau ada yang kamu butuhin, bilang aja!",
+      "PORTUGUESE": "Se precisar de algo, é só falar!",
+      "SPANISH": "¡Dime cualquier cosa que necesites!",
+      "PERSIAN": "هر چی لازم داشتی، فقط لب تر کن!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 66.1,
+      "HIDE": 69.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어 저 그럼 바람 좀 쐬고 싶은데..",
+      "ENGLISH": "Actually… I’d love to get some fresh air.",
+      "CHINESE_SIMPLIFIED": "啊，我想出去透透气…",
+      "CHINESE_TRADITIONAL": "那個…我想出去吹吹風…",
+      "JAPANESE": "あ、じゃあちょっと外の空気を吸いたいんですが…",
+      "INDONESIAN": "Hmm… aku pengen keluar sebentar, nyari angin.",
+      "PORTUGUESE": "Ah, eu queria tomar um pouco de ar...",
+      "SPANISH": "Bueno… quiero salir a tomar un poco de aire.",
+      "PERSIAN": "راستش... الان بدجور دلم یه هوای تازه می‌خواد."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 69.2,
+      "HIDE": 71.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래요? 어디가고 싶어요?",
+      "ENGLISH": "Where do you wanna go?",
+      "CHINESE_SIMPLIFIED": "是吗？你想去哪儿？",
+      "CHINESE_TRADITIONAL": "這樣啊？想去哪裡呢？",
+      "JAPANESE": "そうですか？どこに行きたいんですか？",
+      "INDONESIAN": "Keluar? Mau ke mana?",
+      "PORTUGUESE": "É mesmo? Onde você gostaria de ir?",
+      "SPANISH": "¿Sí? ¿Y a dónde te gustaría ir?",
+      "PERSIAN": "جدی؟ دلت می‌خواد کجا بریم؟"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어때 회사가 좀 달라졌지?",
+      "ENGLISH": "So, how’s the company? Noticed any changes?",
+      "CHINESE_SIMPLIFIED": "怎么样，公司变化挺大吧？",
+      "CHINESE_TRADITIONAL": "怎麼樣？公司是不是有點不一樣了？",
+      "JAPANESE": "どう？会社、少し変わったでしょ？",
+      "INDONESIAN": "Jadi, gimana kondisi kantor sekarang? Ada yang berubah nggak?",
+      "PORTUGUESE": "A empresa mudou um pouco, né?",
+      "SPANISH": "La empresa cambió un poco, ¿no?",
+      "PERSIAN": "خب، شرکت چطوره؟ متوجه تغییراتی شده اید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네. 근데 과장님 자리는 여전히 각이 다 잡혀있네요.",
+      "ENGLISH": "Yeah. But Manager’s seat is still perfectly arranged.",
+      "CHINESE_SIMPLIFIED": "是啊，不过科长的座位还是收拾得整整齐齐的呢",
+      "CHINESE_TRADITIONAL": "是的。不過課長您的座位還是一樣井井有條",
+      "JAPANESE": "はい でも課長のデスクは相変わらずきっちり整ってますね",
+      "INDONESIAN": "Ada sih. Tapi kursi Manajer masih tertata rapi seperti biasa.",
+      "PORTUGUESE": "Sim. Embora a mesa da chefe continue perfeitamente alinhada como sempre.",
+      "SPANISH": "Sí. Aunque su escritorio sigue tan ordenado como siempre.",
+      "PERSIAN": "آره اما صندلی مدیر هنوز کاملا مرتب است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 일하기 좋으니까.",
+      "ENGLISH": "That’s because it’s better for working that way.",
+      "CHINESE_SIMPLIFIED": "这样工作起来才顺手啊",
+      "CHINESE_TRADITIONAL": "這樣工作起來比較方便",
+      "JAPANESE": "その方が仕事しやすいから",
+      "INDONESIAN": "Itu karena posisi begitu paling enak buat kerja.",
+      "PORTUGUESE": "Assim eu trabalho melhor.",
+      "SPANISH": "Así trabajo mejor.",
+      "PERSIAN": "به خاطر همین است که برای این کار بهتر است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "자료 좀 볼래?",
+      "ENGLISH": "Want to look at some documents?",
+      "CHINESE_SIMPLIFIED": "要看下资料吗？",
+      "CHINESE_TRADITIONAL": "要不要看一下資料？",
+      "JAPANESE": "資料、ちょっと見てみる？",
+      "INDONESIAN": "Mau lihat beberapa dokumen nggak?",
+      "PORTUGUESE": "Quer revisar esses documentos?",
+      "SPANISH": "¿Quieres revisar estos documentos?",
+      "PERSIAN": "می خواهید به برخی از اسناد نگاه کنید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 지금 바로요?",
+      "ENGLISH": "Huh? Right now?",
+      "CHINESE_SIMPLIFIED": "嗯？现在马上？",
+      "CHINESE_TRADITIONAL": "嗯？現在馬上嗎？",
+      "JAPANESE": "え？今すぐですか？",
+      "INDONESIAN": "Hah? Sekarang?",
+      "PORTUGUESE": "Hã? Agora mesmo?",
+      "SPANISH": "¿Eh? ¿Ahora mismo?",
+      "PERSIAN": "ها؟ همین الان؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 본다고 뭘 알까요?",
+      "ENGLISH": "What’s the point if I’m just looking?",
+      "CHINESE_SIMPLIFIED": "我就算看了能看懂什么呀...",
+      "CHINESE_TRADITIONAL": "我就算看了，能看懂什麼嗎？",
+      "JAPANESE": "俺が見てもわかることあるかな…",
+      "INDONESIAN": "Liat doang juga buat apa?",
+      "PORTUGUESE": "Ajudaria se eu revisasse?",
+      "SPANISH": "¿Sería de ayuda si los reviso?",
+      "PERSIAN": "اگر من فقط نگاه کنم چه فایده ای دارد؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 좀... 봐.",
+      "ENGLISH": "Just… take a quick look.",
+      "CHINESE_SIMPLIFIED": "就...随便看看而已",
+      "CHINESE_TRADITIONAL": "你就...隨便看看",
+      "JAPANESE": "いいから、ちょっと見てみて",
+      "INDONESIAN": "Ya udah… lihat aja sebentar.",
+      "PORTUGUESE": "Só... dá uma olhada.",
+      "SPANISH": "Solo… échales un vistazo.",
+      "PERSIAN": "فقط... نگاهی گذرا بیندازید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Okay…",
+      "CHINESE_SIMPLIFIED": "好吧...",
+      "CHINESE_TRADITIONAL": "喔好...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Oke…",
+      "PORTUGUESE": "Certo...",
+      "SPANISH": "De acuerdo…",
+      "PERSIAN": "باشه…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 27.4,
+      "HIDE": 29.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 초콜렛...?",
+      "ENGLISH": "Huh? Chocolate…?",
+      "CHINESE_SIMPLIFIED": "呃？巧克力...？",
+      "CHINESE_TRADITIONAL": "欸？巧克力...？",
+      "JAPANESE": "あ、チョコレート…？",
+      "INDONESIAN": "Hah? Cokelat…?",
+      "PORTUGUESE": "Hã? Chocolate...?",
+      "SPANISH": "¿Eh? ¿Chocolate...?",
+      "PERSIAN": "ها؟ شکلات…؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.3
+    },
+    "SCRIPT": {
+      "KOREAN": "쉿...!",
+      "ENGLISH": "Shh…!",
+      "CHINESE_SIMPLIFIED": "嘘...！",
+      "CHINESE_TRADITIONAL": "噓...！",
+      "JAPANESE": "しーっ…！",
+      "INDONESIAN": "Ssst…!",
+      "PORTUGUESE": "Shh...",
+      "SPANISH": "Shh...",
+      "PERSIAN": "هه…!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 34.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 너무 긴장하는 거 같길래. ",
+      "ENGLISH": "You just seemed really tense.",
+      "CHINESE_SIMPLIFIED": "看你太紧张了",
+      "CHINESE_TRADITIONAL": "覺得你好像太緊張了",
+      "JAPANESE": "なんかすごく緊張してるみたいだったから",
+      "INDONESIAN": "Kamu kelihatan tegang banget.",
+      "PORTUGUESE": "É que você parece tenso.",
+      "SPANISH": "Es que te ves muy tenso.",
+      "PERSIAN": "به نظر می رسید واقعاً پرتنش هستید."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 35.2,
+      "HIDE": 38.7
+    },
+    "SCRIPT": {
+      "KOREAN": "단 거 먹으면 좀... 괜찮아질까 해서.",
+      "ENGLISH": "I thought maybe some sweets would help you feel better.",
+      "CHINESE_SIMPLIFIED": "想着吃点甜的...会不会好点",
+      "CHINESE_TRADITIONAL": "想說吃點甜的會不會比較... 好一點",
+      "JAPANESE": "甘いもの食べたら…少し落ち着くかなと思って",
+      "INDONESIAN": "Kupikir cemilan manis bisa bikin kamu agak nyantai.",
+      "PORTUGUESE": "Achei que algo doce podia te ajudar a relaxar um pouco.",
+      "SPANISH": "Pensé que algo dulce podría ayudar a relajarte un poco.",
+      "PERSIAN": "فکر کردم شاید مقداری شیرینی به شما کمک کند احساس بهتری داشته باشید."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 39.5,
+      "HIDE": 40.8
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님....",
+      "ENGLISH": "Manager…",
+      "CHINESE_SIMPLIFIED": "科长...",
+      "CHINESE_TRADITIONAL": "課長...",
+      "JAPANESE": "課長…",
+      "INDONESIAN": "Manajer…",
+      "PORTUGUESE": "Chefe...",
+      "SPANISH": "Jefa...",
+      "PERSIAN": "مدیر…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 41.8,
+      "HIDE": 44.7
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 자리로 가서 일해요~ 우유만 씨",
+      "ENGLISH": "Go back to your desk and get to work, Yuman!",
+      "CHINESE_SIMPLIFIED": "快回工位干活吧~吴宥万先生",
+      "CHINESE_TRADITIONAL": "快點回座位工作啦～ 吳宥萬先生",
+      "JAPANESE": "早く自分の席に戻って仕事しなさい～ウ・ユマンさん",
+      "INDONESIAN": "Balik ke meja kamu dan mulai kerja lagi, Yuman!",
+      "PORTUGUESE": "Anda, vai pro seu posto e comece a trabalhar.",
+      "SPANISH": "Anda, ve a tu puesto y ponte a trabajar.",
+      "PERSIAN": "به پشت میزت برگرد و دست به کار شو، یومان!"
+    }
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨... 29세, 맞으시죠? ",
+      "ENGLISH": "Mr. Yuman… you’re 29, right?",
+      "CHINESE_SIMPLIFIED": "吴宥万先生...今年29岁，对吧？",
+      "CHINESE_TRADITIONAL": "吳宥萬先生...今年29歲，對嗎？",
+      "JAPANESE": "ウ・ユマンさん…29歳で間違いないですね？",
+      "INDONESIAN": "Pak Yuman... usia 29 tahun, benar ya?",
+      "PORTUGUESE": "Sr. Yuman… você tem 29 anos, certo?",
+      "SPANISH": "Señor Yumán... tiene 29 años, ¿cierto?",
+      "PERSIAN": "آقای وو یومان... ۲۹ سالتونه، درسته؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "체온 먼저 체크 할게요.",
+      "ENGLISH": "Let’s check your temperature first.",
+      "CHINESE_SIMPLIFIED": "我们先来量一下体温",
+      "CHINESE_TRADITIONAL": "我先量一下體溫",
+      "JAPANESE": "まず体温を測りますね",
+      "INDONESIAN": "Saya cek suhu tubuh dulu ya.",
+      "PORTUGUESE": "Vamos medir sua temperatura primeiro.",
+      "SPANISH": "Primero voy a tomarle la temperatura.",
+      "PERSIAN": "اول تب‌تون رو اندازه بگیریم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "음 열은 없으시고.",
+      "ENGLISH": "Hmm, no fever.",
+      "CHINESE_SIMPLIFIED": "嗯，没有发烧",
+      "CHINESE_TRADITIONAL": "嗯，沒有發燒",
+      "JAPANESE": "うん、熱はないですね",
+      "INDONESIAN": "Hmm, nggak ada demam.",
+      "PORTUGUESE": "Hmm, sem febre.",
+      "SPANISH": "Veamos... no tiene fiebre.",
+      "PERSIAN": "هوم، تبی دیده نمی‌شه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "소리도 한번 들어볼게요",
+      "ENGLISH": "Now let’s listen to your chest.",
+      "CHINESE_SIMPLIFIED": "接下来我来听一下您的胸口",
+      "CHINESE_TRADITIONAL": "接下來我來聽一下您的胸口",
+      "JAPANESE": "では、音も一度聞いてみますね",
+      "INDONESIAN": "Sekarang saya mau dengar suaranya dulu.",
+      "PORTUGUESE": "Agora vamos ouvir seu peito.",
+      "SPANISH": "Voy a revisar su corazón.",
+      "PERSIAN": "حالا یه صدای ریه و قلبتونم گوش بدم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "들이마시고~",
+      "ENGLISH": "Deep breath in~",
+      "CHINESE_SIMPLIFIED": "吸气——",
+      "CHINESE_TRADITIONAL": "吸氣～",
+      "JAPANESE": "吸って〜",
+      "INDONESIAN": "Tarik napas~",
+      "PORTUGUESE": "Respire fundo~",
+      "SPANISH": "Inhale.",
+      "PERSIAN": "نفس عمیق بکشین..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "내쉬고~",
+      "ENGLISH": "And out~",
+      "CHINESE_SIMPLIFIED": "呼气——",
+      "CHINESE_TRADITIONAL": "吐氣～",
+      "JAPANESE": "吐いて〜",
+      "INDONESIAN": "Buang napas~",
+      "PORTUGUESE": "E solte~",
+      "SPANISH": "Exhale.",
+      "PERSIAN": "بدین بیرون..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "들이마시고~?",
+      "ENGLISH": "Inhale~",
+      "CHINESE_SIMPLIFIED": "再吸气——？",
+      "CHINESE_TRADITIONAL": "吸氣～？",
+      "JAPANESE": "吸って〜？",
+      "INDONESIAN": "Tarik napas lagi~?",
+      "PORTUGUESE": "Inspire~",
+      "SPANISH": "Inhale.",
+      "PERSIAN": "دوباره دم..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "내쉬고...?",
+      "ENGLISH": "…Exhale~",
+      "CHINESE_SIMPLIFIED": "呼气——？",
+      "CHINESE_TRADITIONAL": "吐氣...？",
+      "JAPANESE": "吐いて…？",
+      "INDONESIAN": "Buang napas...?",
+      "PORTUGUESE": "…Expire~",
+      "SPANISH": "¿Exhale…?",
+      "PERSIAN": "بازدم..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 어디가 안 좋은가요?",
+      "ENGLISH": "Doctor, is something wrong?",
+      "CHINESE_SIMPLIFIED": "我有哪里不对劲吗？",
+      "CHINESE_TRADITIONAL": "我有哪裡不對勁嗎？",
+      "JAPANESE": "俺、どこか悪いんでしょうか？",
+      "INDONESIAN": "Ada yang salah, ya?",
+      "PORTUGUESE": "Doutor, tem algo errado?",
+      "SPANISH": "¿Hay algo mal?",
+      "PERSIAN": "خانم دکتر، چیزی شده؟ مشکلی هست؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만요.",
+      "ENGLISH": "Hold on a moment.",
+      "CHINESE_SIMPLIFIED": "请稍等",
+      "CHINESE_TRADITIONAL": "等一下",
+      "JAPANESE": "ちょっと待ってください。",
+      "INDONESIAN": "Tunggu sebentar.",
+      "PORTUGUESE": "Espere um momento.",
+      "SPANISH": "Un momento...",
+      "PERSIAN": "یه لحظه صبر کنین."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 소리가 안 들리지?",
+      "ENGLISH": "Why can’t I hear anything?",
+      "CHINESE_SIMPLIFIED": "怎么听不到声音？",
+      "CHINESE_TRADITIONAL": "為什麼沒有聲音？",
+      "JAPANESE": "どうして音が聞こえないんだろう…？",
+      "INDONESIAN": "Kenapa nggak ada suaranya, ya?",
+      "PORTUGUESE": "Por que não estou ouvindo nada?",
+      "SPANISH": "¿Por qué no se oye nada?",
+      "PERSIAN": "چرا هیچی صدا نمیاد؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "소리가 안 들린다고요?",
+      "ENGLISH": "You… can’t hear anything?",
+      "CHINESE_SIMPLIFIED": "您说听不到声音吗？",
+      "CHINESE_TRADITIONAL": "聽不到聲音嗎？",
+      "JAPANESE": "音が聞こえないって？",
+      "INDONESIAN": "Nggak ada suara?",
+      "PORTUGUESE": "Você… não está ouvindo nada?",
+      "SPANISH": "¿No se oye nada?",
+      "PERSIAN": "صدا... صدایی نمی‌شنوین؟! یعنی چی؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 35.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 갑자기 왜 이러지?",
+      "ENGLISH": "Yeah… why is this happening all of a sudden?",
+      "CHINESE_SIMPLIFIED": "是的…怎么会突然这样？",
+      "CHINESE_TRADITIONAL": "是...怎麼突然這樣？",
+      "JAPANESE": "はい…急にどうしたんだろう…",
+      "INDONESIAN": "Iya... kenapa tiba-tiba begini, ya?",
+      "PORTUGUESE": "É… por que isso está acontecendo de repente?",
+      "SPANISH": "No... Que extraño.",
+      "PERSIAN": "بله... یهو چش شد آخه؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 37.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저... 죄송한데",
+      "ENGLISH": "Um, sorry, but… ",
+      "CHINESE_SIMPLIFIED": "那个…不好意思",
+      "CHINESE_TRADITIONAL": "那個…不好意思",
+      "JAPANESE": "あの…すみませんが",
+      "INDONESIAN": "Maaf,",
+      "PORTUGUESE": "Ahm, desculpe, mas…",
+      "SPANISH": "Disculpe…",
+      "PERSIAN": "امم... ببخشید البته،"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 37.8,
+      "HIDE": 41.0
+    },
+    "SCRIPT": {
+      "KOREAN": "청진기 확인하는 것 좀 도와주시겠어요?",
+      "ENGLISH": "Could you help me check if the stethoscope is working?",
+      "CHINESE_SIMPLIFIED": "可以请你帮我确认一下听诊器吗？",
+      "CHINESE_TRADITIONAL": "能麻煩你幫我確認一下聽診器嗎？",
+      "JAPANESE": "聴診器の確認を手伝っていただけますか？",
+      "INDONESIAN": "boleh minta tolong bantu cek stetoskopnya sebentar?",
+      "PORTUGUESE": "Poderia me ajudar a verificar se o estetoscópio está funcionando?",
+      "SPANISH": "¿Podría ayudarme a revisar el estetoscopio?",
+      "PERSIAN": "می‌تونین کمکم کنین ببینم این گوشی سالمه یا نه؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 41.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제가요?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "你说我吗？",
+      "CHINESE_TRADITIONAL": "我嗎？",
+      "JAPANESE": "俺がですか？",
+      "INDONESIAN": "Saya?",
+      "PORTUGUESE": "Eu?",
+      "SPANISH": "¿Yo?",
+      "PERSIAN": "من؟! کمکتون کنم؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 41.9,
+      "HIDE": 44.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 오늘 예약환자가 많은 날이라",
+      "ENGLISH": "Yes. We’ve got a lot of patients scheduled today,",
+      "CHINESE_SIMPLIFIED": "啊，今天有特别多预约的病人",
+      "CHINESE_TRADITIONAL": "對，聽說今天預約的病人很多",
+      "JAPANESE": "はい、今日は予約患者さんが多い日なので",
+      "INDONESIAN": "Iya, soalnya hari ini banyak pasien yang udah booking,",
+      "PORTUGUESE": "Sim. Temos muitos pacientes agendados hoje,",
+      "SPANISH": "Sí, hoy tenemos muchos pacientes agendados,",
+      "PERSIAN": "بله، امروز کلی مریض تو نوبت دارم،"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 44.3,
+      "HIDE": 45.9
+    },
+    "SCRIPT": {
+      "KOREAN": "고장 나면 큰일이거든요.",
+      "ENGLISH": "so if it’s broken, that’d be a big problem.",
+      "CHINESE_SIMPLIFIED": "如果设备坏了会很麻烦的",
+      "CHINESE_TRADITIONAL": "它要是壞掉就慘了",
+      "JAPANESE": "壊れたら大変なんです",
+      "INDONESIAN": "kalau rusak bisa repot banget.",
+      "PORTUGUESE": "então, se estiver quebrado, seria um grande problema.",
+      "SPANISH": "y si se descompone sería un problema.",
+      "PERSIAN": "اگه خراب شده باشه کارم زاره."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 45.9,
+      "HIDE": 48.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아아, 어떻게 도와드리면 될까요?",
+      "ENGLISH": "Ah… okay, what should I do?",
+      "CHINESE_SIMPLIFIED": "哦哦好，那我该怎么帮您呢？",
+      "CHINESE_TRADITIONAL": "喔喔，要怎麼幫你呢？",
+      "JAPANESE": "ああ、どうやってお手伝いすればいいですか？",
+      "INDONESIAN": "Ah, oke… saya harus bantu gimana?",
+      "PORTUGUESE": "Ah… certo, o que devo fazer?",
+      "SPANISH": "Claro ¿Cómo le ayudo?",
+      "PERSIAN": "آهان... خب چیکار باید بکنم؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 48.0,
+      "HIDE": 50.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만 실례할게요.",
+      "ENGLISH": "Excuse me for a moment.",
+      "CHINESE_SIMPLIFIED": "抱歉，稍等一下",
+      "CHINESE_TRADITIONAL": "失禮一下",
+      "JAPANESE": "少し失礼しますね",
+      "INDONESIAN": "Permisi sebentar ya.",
+      "PORTUGUESE": "Com licença um instante.",
+      "SPANISH": "Deme un segundo.",
+      "PERSIAN": "یه لحظه به من ببخشید."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 57.0,
+      "HIDE": 60.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 소리 좀 확인해 주겠어요?",
+      "ENGLISH": "Mr. Yuman, could you test the sound for me?",
+      "CHINESE_SIMPLIFIED": "宥万先生，可以帮我听一下这边有没有声音吗？",
+      "CHINESE_TRADITIONAL": "宥萬先生，能幫我確認一下聲音嗎？",
+      "JAPANESE": "ユマンさん、音の確認をしていただけますか？",
+      "INDONESIAN": "Yuman, bisa bantu dengerin suaranya sebentar?",
+      "PORTUGUESE": "Sr. Yuman, poderia testar o som para mim?",
+      "SPANISH": "¿Podría verificar si se oye algo, señor Yumán?",
+      "PERSIAN": "آقای یومان، می‌شه خودتون صدارو تست کنین؟"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 규리 씨!",
+      "ENGLISH": "Ah, Gyuri!",
+      "CHINESE_SIMPLIFIED": "哎呀，久梨！",
+      "CHINESE_TRADITIONAL": "啊，久梨護理師！",
+      "JAPANESE": "あの、ギュリさん！",
+      "INDONESIAN": "Ah, Gyuri",
+      "PORTUGUESE": "Gyuri!",
+      "SPANISH": "¡Gyuri!",
+      "PERSIAN": "آه، گیوری!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "怎麼了？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Ya?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 그런 소리를 해요",
+      "ENGLISH": "Why are you saying things like that?",
+      "CHINESE_SIMPLIFIED": "为什么说这种话",
+      "CHINESE_TRADITIONAL": "為什麼說這種話呢？",
+      "JAPANESE": "なんでそんなこと言うんですか",
+      "INDONESIAN": "Kenapa kamu ngomong kayak gitu",
+      "PORTUGUESE": "Por que você fala uma coisa dessas?",
+      "SPANISH": "¿Por qué dice algo así?",
+      "PERSIAN": "چرا همچین حرفایی میزنی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "가뜩이나 병원 온 것도 힘 빠지는데",
+      "ENGLISH": "It's already exhausting enough just being in the hospital.",
+      "CHINESE_SIMPLIFIED": "本来来医院就够让人疲惫了",
+      "CHINESE_TRADITIONAL": "原本來醫院就已經很累了",
+      "JAPANESE": "ただでさえ病院に来るだけでも気が滅入るのに…",
+      "INDONESIAN": "Dateng ke rumah sakit aja udah bikin capek",
+      "PORTUGUESE": "Já é difícil pra mim vir ao hospital, e ouvir isso me deixa ainda mais desanimado.",
+      "SPANISH": "Ya me cuesta venir al hospital, y eso me desanima más.",
+      "PERSIAN": "همین که توی بیمارستان هستی به اندازه کافی خسته کننده هست."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 미안해요",
+      "ENGLISH": "Ah, I'm sorry.",
+      "CHINESE_SIMPLIFIED": "啊，对不起",
+      "CHINESE_TRADITIONAL": "啊，對不起",
+      "JAPANESE": "あっ、ごめんなさい",
+      "INDONESIAN": "Ah, maaf",
+      "PORTUGUESE": "Ah, desculpa…",
+      "SPANISH": "Ah, lo siento…",
+      "PERSIAN": "آه، متاسفم. (آهان, من ببخشید)"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "난 그냥 진짜 만약에 궁금해서요.",
+      "ENGLISH": "I was just genuinely curious, you know.",
+      "CHINESE_SIMPLIFIED": "我只是好奇，假设是真的话你会怎样",
+      "CHINESE_TRADITIONAL": "我只是好奇，萬一是真的話，你會怎麼樣",
+      "JAPANESE": "ただ、もしもの話が気になって…",
+      "INDONESIAN": "Aku cuma benar-benar penasaran aja, kalau misalnya begitu",
+      "PORTUGUESE": "Eu só tava curiosa...",
+      "SPANISH": "Solo tenía curiosidad...",
+      "PERSIAN": "من فقط واقعاً کنجکاو بودم، می‌دونی."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "흠... 알았어요, 만약인 거죠?",
+      "ENGLISH": "Hmm... Okay, it's just hypothetical, right?",
+      "CHINESE_SIMPLIFIED": "哼...知道了，只是假设对吧？",
+      "CHINESE_TRADITIONAL": "嗯...知道了，只是假設對吧？",
+      "JAPANESE": "ふむ…もしもの話なんですね？",
+      "INDONESIAN": "Hmm... baiklah, cuma kalau itu cuma andaian ya",
+      "PORTUGUESE": "Hmm… tudo bem, é só um “e se”, né?",
+      "SPANISH": "Hmm… está bien, es solo un “que pasaría si”, ¿verdad?",
+      "PERSIAN": "هوم... باشه، این فقط یه فرضیه، درسته؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면... 전 그냥 혼자 있다 죽을래요.",
+      "ENGLISH": "Then... I'd rather just die alone.",
+      "CHINESE_SIMPLIFIED": "那样的话...我想一个人安静离开",
+      "CHINESE_TRADITIONAL": "那樣的話...我想要一個人安靜地離開",
+      "JAPANESE": "だったら…私は一人で死にます",
+      "INDONESIAN": "Kalau begitu... aku lebih pilih mati sendirian",
+      "PORTUGUESE": "Eu... preferiria morrer sozinha.",
+      "SPANISH": "Yo... preferiría morir sola.",
+      "PERSIAN": "بعدش... ترجیح میدم تنها بمیرم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 왜요?",
+      "ENGLISH": "Huh? Why?",
+      "CHINESE_SIMPLIFIED": "嗯？为什么？",
+      "CHINESE_TRADITIONAL": "嗯？為什麼呢？",
+      "JAPANESE": "えっ？なんでですか？",
+      "INDONESIAN": "Apa? Kenapa?",
+      "PORTUGUESE": "Hã? Por quê?",
+      "SPANISH": "¿Eh? ¿Por qué?",
+      "PERSIAN": "ها؟ چرا؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "곧 죽을 사람이 조용히 사라져주는 게 낫지 않을까요?",
+      "ENGLISH": "Wouldn't it be better for someone who's about to die to just quietly disappear?",
+      "CHINESE_SIMPLIFIED": "将死之人安静消失不是更好吗？",
+      "CHINESE_TRADITIONAL": "馬上就要離開的人，安靜消失不是更好嗎？",
+      "JAPANESE": "もうすぐ死ぬ人は、静かに消える方がいいと思いません？",
+      "INDONESIAN": "Bukankah lebih baik orang yang akan mati pergi dengan tenang aja?",
+      "PORTUGUESE": "Acho que seria melhor se alguém que vai morrer logo fosse embora em silêncio, não acha?",
+      "SPANISH": "Creo que sería mejor que alguien que va a morir pronto se fuera en silencio, ¿no cree?",
+      "PERSIAN": "بهتر نیست کسی که در شرف مرگ است، بی‌سروصدا ناپدید شود؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "주변 사람들이 나 때문에 슬퍼하는 걸 보고 싶지 않아요",
+      "ENGLISH": "I don't want to see the people around me sad because of me.",
+      "CHINESE_SIMPLIFIED": "我不想看到身边的人因我而悲伤",
+      "CHINESE_TRADITIONAL": "我不想看到身邊的人，因為我而悲傷",
+      "JAPANESE": "自分のせいで誰かが悲しむのは見たくないんです",
+      "INDONESIAN": "Aku nggak mau lihat orang-orang di sekitarku sedih karena aku",
+      "PORTUGUESE": "Não quero ver as pessoas tristes por minha causa.",
+      "SPANISH": "No quiero ver a la gente triste por mi culpa.",
+      "PERSIAN": "دلم نمی‌خواد اطرافیانم رو به خاطر خودم ناراحت ببینم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 30.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그건 왜요?",
+      "ENGLISH": "But why is that?",
+      "CHINESE_SIMPLIFIED": "但你为什么会这么问呢？",
+      "CHINESE_TRADITIONAL": "不過，你為什麼會這麼問呢？",
+      "JAPANESE": "でも、どうしてそんなふうに？",
+      "INDONESIAN": "Tapi kenapa begitu?",
+      "PORTUGUESE": "Mas por que você pensa assim?",
+      "SPANISH": "¿Pero por qué piensa así?",
+      "PERSIAN": "اما چرا اینطوری است؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 33.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그냥요",
+      "ENGLISH": "Ah, just...",
+      "CHINESE_SIMPLIFIED": "啊，没什么...",
+      "CHINESE_TRADITIONAL": "啊，沒什麼...",
+      "JAPANESE": "ただ…そう思っただけです",
+      "INDONESIAN": "Ah, nggak apa-apa",
+      "PORTUGUESE": "Ah, nada.",
+      "SPANISH": "Ah, nada.",
+      "PERSIAN": "آه، فقط..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 35.7
+    },
+    "SCRIPT": {
+      "KOREAN": "전 유만 씨 생각이 궁금해서요 ",
+      "ENGLISH": "I was wondering about what Mr. Yoo Man thinks.",
+      "CHINESE_SIMPLIFIED": "我只是好奇你的想法是什么",
+      "CHINESE_TRADITIONAL": "只是好奇宥萬先生你的想法而已",
+      "JAPANESE": "ユマンさんはどう思うのかなって",
+      "INDONESIAN": "Aku cuma penasaran sama pikiranmu, Yuman",
+      "PORTUGUESE": "Só fiquei curiosa pra saber o que você pensava.",
+      "SPANISH": "Solo tenía curiosidad por saber qué pensaba usted.",
+      "PERSIAN": "داشتم فکر می‌کردم آقای یومان چه فکری می‌کنه."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.6,
+      "HIDE": 38.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이만 가 볼게요...",
+      "ENGLISH": "I'll be going now...",
+      "CHINESE_SIMPLIFIED": "我先走了...",
+      "CHINESE_TRADITIONAL": "我先走了喔...",
+      "JAPANESE": "じゃあ、私はもう行きますね",
+      "INDONESIAN": "Aku pergi dulu...",
+      "PORTUGUESE": "Já vou indo…",
+      "SPANISH": "Ya me voy…",
+      "PERSIAN": "الان دیگه میرم..."
+    }
+  }
+]

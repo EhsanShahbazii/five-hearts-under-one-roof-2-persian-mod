@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "워!",
+      "ENGLISH": "Whoa!",
+      "CHINESE_SIMPLIFIED": "哇！",
+      "CHINESE_TRADITIONAL": "哇！",
+      "JAPANESE": "うわっ！",
+      "INDONESIAN": "Wah!",
+      "PORTUGUESE": "BU!",
+      "SPANISH": "¡BOO!",
+      "PERSIAN": "وای"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 깜짝이야.",
+      "ENGLISH": "Ah, you scared me.",
+      "CHINESE_SIMPLIFIED": "呃，吓我一跳",
+      "CHINESE_TRADITIONAL": "啊！嚇我一跳",
+      "JAPANESE": "あ、びっくりした…",
+      "INDONESIAN": "Ah, kamu ngagetin aku.",
+      "PORTUGUESE": "Ah, que susto.",
+      "SPANISH": "Ah, qué susto.",
+      "PERSIAN": "آه، تو منو ترسوندی"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요. 뭐 하고 있었어요?",
+      "ENGLISH": "Sorry! What were you doing?",
+      "CHINESE_SIMPLIFIED": "抱歉，你在做什么呢？",
+      "CHINESE_TRADITIONAL": "抱歉，你在做什麼啊",
+      "JAPANESE": "ごめんなさい、何してたんですか？",
+      "INDONESIAN": "Maaf! Kamu lagi ngapain tadi?",
+      "PORTUGUESE": "Desculpa, o que você tava fazendo?",
+      "SPANISH": "Perdón, ¿qué estabas haciendo?",
+      "PERSIAN": "متاسفم! داشتی چیکار میکردی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저~ 오랜만에 수영복 입어서 사진 좀 찍고 있었어요.",
+      "ENGLISH": "Oh~ I haven’t worn a swimsuit in so long, so I was taking a few pictures.",
+      "CHINESE_SIMPLIFIED": "我~好久没穿泳衣了，正在拍照呢",
+      "CHINESE_TRADITIONAL": "喔～我好久沒穿泳衣了，正在拍照",
+      "JAPANESE": "えっと〜久しぶりに水着着たから、写真ちょっと撮ってたんです",
+      "INDONESIAN": "Oh~ udah lama aku nggak pake baju renang, jadi aku lagi foto-foto dikit.",
+      "PORTUGUESE": "Eu… como fazia muito tempo que não usava maiô, tava tirando umas fotos.",
+      "SPANISH": "Yo… como hace mucho no usaba traje de baño, estaba tomándome fotos.",
+      "PERSIAN": "اوه~ من خیلی وقته مایو نپوشیده بودم، پس داشتم چندتا عکس میگرفتم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 그럼, 제가 좀 찍어줄까요?",
+      "ENGLISH": "Want me to take some for you?",
+      "CHINESE_SIMPLIFIED": "呃？那，要我帮你拍吗？",
+      "CHINESE_TRADITIONAL": "呃？那，要我幫你拍嗎？",
+      "JAPANESE": "え？じゃあ、俺が撮ってあげましょうか？",
+      "INDONESIAN": "Mau aku fotoin juga?",
+      "PORTUGUESE": "Entendi. Quer que eu te ajude?",
+      "SPANISH": "Ya veo. ¿quieres que te ayude?",
+      "PERSIAN": "میخوای برات بگیرم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "헉, 진짜요?",
+      "ENGLISH": "Wait, really?",
+      "CHINESE_SIMPLIFIED": "哇，真的吗？",
+      "CHINESE_TRADITIONAL": "哇！真的嗎？",
+      "JAPANESE": "えっ、ほんとですか？",
+      "INDONESIAN": "Hah, serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "صبر کن واقعا؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "예쁘게 찍어줘야 돼요~",
+      "ENGLISH": "You have to make them look good, okay~",
+      "CHINESE_SIMPLIFIED": "要帮我拍得漂亮点哦~",
+      "CHINESE_TRADITIONAL": "那要把我拍的漂亮一點喔～",
+      "JAPANESE": "可愛く撮ってくださいよ〜",
+      "INDONESIAN": "Harus bagus hasilnya ya~",
+      "PORTUGUESE": "Tem que sair bonita, hein?",
+      "SPANISH": "Tienes que salir bonitas, ¿eh?",
+      "PERSIAN": "شما باید اونا رو خوب جلوه دهید، باشه~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 걱정마요.",
+      "ENGLISH": "Come on~ don’t worry.",
+      "CHINESE_SIMPLIFIED": "哎呦~放心啦",
+      "CHINESE_TRADITIONAL": "哎～放心啦",
+      "JAPANESE": "大丈夫です〜任せてください〜",
+      "INDONESIAN": "Tenang aja~ jangan khawatir.",
+      "PORTUGUESE": "Ei~ não se preocupa.",
+      "SPANISH": "Eh~ no te preocupes.",
+      "PERSIAN": "بیا ~ نگران نباش"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 가볼게요~",
+      "ENGLISH": "Alright, here we go~",
+      "CHINESE_SIMPLIFIED": "来，要拍啦~",
+      "CHINESE_TRADITIONAL": "來～要拍了喔～",
+      "JAPANESE": "じゃあ、いきますね〜",
+      "INDONESIAN": "Oke, siap ya~",
+      "PORTUGUESE": "Tá bom, vamos lá~",
+      "SPANISH": "Bueno, vamos allá~",
+      "PERSIAN": "خیلی خب، ما بریم~"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하나 둘 셋!",
+      "ENGLISH": "One, two, three!",
+      "CHINESE_SIMPLIFIED": "一、二、三！",
+      "CHINESE_TRADITIONAL": "一、二、三！",
+      "JAPANESE": "いち、に、さん！",
+      "INDONESIAN": "Satu, dua, tiga!",
+      "PORTUGUESE": "Uma, duas, três!",
+      "SPANISH": "¡Una, dos, tres!",
+      "PERSIAN": "یک، دو، سه!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하나~ 둘 셋!",
+      "ENGLISH": "One~ two, three!",
+      "CHINESE_SIMPLIFIED": "一～二、三！",
+      "CHINESE_TRADITIONAL": "一～二、三！",
+      "JAPANESE": "い〜ち、に、さん！",
+      "INDONESIAN": "Satu~ dua, tiga!",
+      "PORTUGUESE": "Uma~ duas, três!",
+      "SPANISH": "¡Una~ dos, tres!",
+      "PERSIAN": "یک ~ دو، سه!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 30.7
+    },
+    "SCRIPT": {
+      "KOREAN": "두울 둘 셋!",
+      "ENGLISH": "Twooo, two, three!",
+      "CHINESE_SIMPLIFIED": "二～二、三！",
+      "CHINESE_TRADITIONAL": "二～二、三！",
+      "JAPANESE": "に〜い、に、さん！",
+      "INDONESIAN": "Duaa~ dua, tiga!",
+      "PORTUGUESE": "Duas~ duas, três!",
+      "SPANISH": "¡Dos~ dos, tres!",
+      "PERSIAN": "دوو، دو، سه!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 32.6,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오오, 잘 나왔다!",
+      "ENGLISH": "Oh wow, these turned out great!",
+      "CHINESE_SIMPLIFIED": "哦哦，拍得很好看！",
+      "CHINESE_TRADITIONAL": "哇，拍得很好看耶！",
+      "JAPANESE": "おぉ、いい感じに撮れましたよ！",
+      "INDONESIAN": "Wah, hasilnya bagus-bagus banget!",
+      "PORTUGUESE": "Oh, ficaram ótimas!",
+      "SPANISH": "¡Oh, quedaron geniales!",
+      "PERSIAN": "اوه وای، اینا عالی شدند!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 34.6
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜?",
+      "ENGLISH": "Hehe, really?",
+      "CHINESE_SIMPLIFIED": "真的？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんと？",
+      "INDONESIAN": "Hehe, beneran?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "هه، واقعا؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 35.8,
+      "HIDE": 36.7
+    },
+    "SCRIPT": {
+      "KOREAN": "봐 봐요.",
+      "ENGLISH": "Take a look.",
+      "CHINESE_SIMPLIFIED": "你看看",
+      "CHINESE_TRADITIONAL": "你看看",
+      "JAPANESE": "見せてください",
+      "INDONESIAN": "Lihat deh.",
+      "PORTUGUESE": "Olha.",
+      "SPANISH": "Mira.",
+      "PERSIAN": "نگاهی بیندازید."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 39.8,
+      "HIDE": 41.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이게... 맞아요?",
+      "ENGLISH": "Wait... is this what I actually look like?",
+      "CHINESE_SIMPLIFIED": "这...真的好看吗？",
+      "CHINESE_TRADITIONAL": "這...真的是好看嗎？",
+      "JAPANESE": "これ…合ってます？",
+      "INDONESIAN": "Eh... ini beneran aku?",
+      "PORTUGUESE": "Isso… sou eu mesmo assim?",
+      "SPANISH": "¿Esto… así me veo?",
+      "PERSIAN": "صبر کن... من واقعاً شبیه این هستم؟"
+    }
+  }
+]

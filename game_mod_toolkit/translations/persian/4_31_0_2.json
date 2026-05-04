@@ -1,0 +1,360 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.9
+    },
+    "SCRIPT": {
+      "KOREAN": "우선 님 어떻게 생각하세요?",
+      "ENGLISH": "About Assistant Choi Woo‑sun?",
+      "CHINESE_SIMPLIFIED": "您觉得优先怎么样？",
+      "CHINESE_TRADITIONAL": "你覺得崔宇善這個人怎麼樣？",
+      "JAPANESE": "ウソンさんのこと、どう思います？",
+      "INDONESIAN": "Tentang Asisten Choi Woo‑sun?",
+      "PORTUGUESE": "O que acha do senhor Woo-seon?",
+      "SPANISH": "¿Qué piensa del señor Woo-seon?",
+      "PERSIAN": "درباره دستیار چوی وو سان؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "최우선? 갑자기?",
+      "ENGLISH": "Choi Woo‑sun? Out of nowhere?",
+      "CHINESE_SIMPLIFIED": "崔优先？突然问这个？",
+      "CHINESE_TRADITIONAL": "崔宇善？怎麼突然問這個？",
+      "JAPANESE": "チェ・ウソン？いきなり何？",
+      "INDONESIAN": "Choi Woo‑sun? Tiba-tiba banget nih?",
+      "PORTUGUESE": "Woo-seon Choi? Do nada?",
+      "SPANISH": "¿Woo-seon Choi? ¿De la nada?",
+      "PERSIAN": "چوی وو سان؟ از هیچ جا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그냥 궁금해서요.",
+      "ENGLISH": "I was just curious.",
+      "CHINESE_SIMPLIFIED": "啊，就是有点好奇",
+      "CHINESE_TRADITIONAL": "沒有，就只是好奇",
+      "JAPANESE": "ただ気になって",
+      "INDONESIAN": "Aku cuma penasaran aja.",
+      "PORTUGUESE": "Só fiquei curioso.",
+      "SPANISH": "Solo tenía curiosidad.",
+      "PERSIAN": "فقط کنجکاو بودم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 우선 씨 괜찮지.",
+      "ENGLISH": "Hmm… Woo‑sun’s good.",
+      "CHINESE_SIMPLIFIED": "嗯...优先人不错",
+      "CHINESE_TRADITIONAL": "嗯... 宇善這個人不錯啊",
+      "JAPANESE": "うーん、悪くない人よ",
+      "INDONESIAN": "Hmm… Woo‑sun itu oke sih.",
+      "PORTUGUESE": "Hmm... Woo-seon é bom.",
+      "SPANISH": "Mmm… Woo-seon está bien.",
+      "PERSIAN": "هوم... وو سان خوب است."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "일 잘하고 성실하고 센스있고",
+      "ENGLISH": "Works well, sincere, has good sense —",
+      "CHINESE_SIMPLIFIED": "工作能力强，认真踏实，也很有眼力见",
+      "CHINESE_TRADITIONAL": "工作能力好、又老實，而且很有Sense",
+      "JAPANESE": "仕事できるし、真面目でセンスもある",
+      "INDONESIAN": "Kerjanya oke, tulus, punya insting yang bagus—",
+      "PORTUGUESE": "Trabalha bem, é responsável e perspicaz.",
+      "SPANISH": "Trabaja bien, es responsable y es perspicaz.",
+      "PERSIAN": "خوب کار می کند، صمیمانه، حس خوبی دارد -"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭔가 키워보고 싶다는 생각이 든달까?",
+      "ENGLISH": "makes me think he has potential to mentor and grow.",
+      "CHINESE_SIMPLIFIED": "甚至让人有种想好好培养他的想法？",
+      "CHINESE_TRADITIONAL": "...會想好好栽培他吧？",
+      "JAPANESE": "なんか、育ててみたいって思うタイプ？",
+      "INDONESIAN": "kayaknya punya potensi buat jadi mentor dan berkembang lebih jauh.",
+      "PORTUGUESE": "Diria que é alguém com muito potencial.",
+      "SPANISH": "Diría que es alguien con mucho potencial.",
+      "PERSIAN": "باعث می شود فکر کنم او پتانسیلی برای مربیگری و رشد دارد."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "일 말고는요?",
+      "ENGLISH": "I mean outside of work.",
+      "CHINESE_SIMPLIFIED": "工作之外呢？",
+      "CHINESE_TRADITIONAL": "工作方面以外呢？",
+      "JAPANESE": "仕事以外では？",
+      "INDONESIAN": "Maksudku di luar kerjaan.",
+      "PORTUGUESE": "E fora do trabalho?",
+      "SPANISH": "¿Y fuera del trabajo?",
+      "PERSIAN": "منظورم خارج از کار است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "일 말고?",
+      "ENGLISH": "Outside of work?",
+      "CHINESE_SIMPLIFIED": "工作之外？",
+      "CHINESE_TRADITIONAL": "工作以外？",
+      "JAPANESE": "仕事以外？",
+      "INDONESIAN": "Di luar kerjaan?",
+      "PORTUGUESE": "Fora do trabalho?",
+      "SPANISH": "¿Fuera del trabajo?",
+      "PERSIAN": "خارج از کار؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 부하직원으로 말고 그냥 인간 최우선이요.",
+      "ENGLISH": "Yeah — not as a subordinate. Just human Choi Woo‑sun.",
+      "CHINESE_SIMPLIFIED": "嗯，不是作为下属，而是作为男人来看",
+      "CHINESE_TRADITIONAL": "對，不是以同事身分，而是以崔宇善這個人來看的話",
+      "JAPANESE": "はい、部下としてじゃなくて、人間チェ・ウソンとして",
+      "INDONESIAN": "Iya, bukan sebagai bawahan. Tapi sebagai manusia, Choi Woo‑sun.",
+      "PORTUGUESE": "Não como subordinado, mas como pessoa.",
+      "SPANISH": "No como subordinado, sino como persona.",
+      "PERSIAN": "بله - نه به عنوان یک زیردست. فقط انسان چوی وو سان."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Hmm…",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm…",
+      "PORTUGUESE": "Hmm...",
+      "SPANISH": "Mmm…",
+      "PERSIAN": "هوم…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저한테는 솔직하셨으면 좋겠어요. ",
+      "ENGLISH": "I’d like him to be honest with me.",
+      "CHINESE_SIMPLIFIED": "我希望您能对我实话实说",
+      "CHINESE_TRADITIONAL": "我希望聽到你真實想法",
+      "JAPANESE": "俺には正直で言ってほしいです",
+      "INDONESIAN": "Aku pengen dia jujur sama aku.",
+      "PORTUGUESE": "Gostaria que fosse honesta comigo.",
+      "SPANISH": "Me gustaría que fuera honesta conmigo.",
+      "PERSIAN": "من دوست دارم که او با من صادق باشد."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 33.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 지켜보는 중.",
+      "ENGLISH": "For now, I’m just watching.",
+      "CHINESE_SIMPLIFIED": "还在观察中",
+      "CHINESE_TRADITIONAL": "怎麼說呢... 觀察中",
+      "JAPANESE": "今は見守ってる最中",
+      "INDONESIAN": "Untuk sekarang, aku masih mengamati aja.",
+      "PORTUGUESE": "Por enquanto, só estou observando.",
+      "SPANISH": "Por ahora, solo lo estoy observando.",
+      "PERSIAN": "فعلا فقط دارم نگاه میکنم"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 35.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Como é?",
+      "SPANISH": "¿Perdón?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 37.6
+    },
+    "SCRIPT": {
+      "KOREAN": "지켜보는 중이라고",
+      "ENGLISH": "Watching. You and Woo‑sun both.",
+      "CHINESE_SIMPLIFIED": "我说还在观察中",
+      "CHINESE_TRADITIONAL": "我說，觀察中",
+      "JAPANESE": "ただ見守ってる最中だって",
+      "INDONESIAN": "Mengamati. Kamu dan Woo‑sun, dua-duanya.",
+      "PORTUGUESE": "Disse que estou observando vocês.",
+      "SPANISH": "Dije que los estoy observando.",
+      "PERSIAN": "تماشا کردن. تو و وو سان هر دو."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.9,
+      "HIDE": 40.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너나 최우선이나.",
+      "CHINESE_SIMPLIFIED": "你也是，崔优先也是",
+      "CHINESE_TRADITIONAL": "不管是你還是崔宇善",
+      "JAPANESE": "あなたも、ウソンも",
+      "PORTUGUESE": "Você e o Woo-seon.",
+      "SPANISH": "A ti y a Woo-seon.",
+      "PERSIAN": "너나 최우선이나."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 46.6,
+      "HIDE": 49.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 약속 때문에 가봐야 할 거 같아요.",
+      "ENGLISH": "…I really need to head to my appointment now.",
+      "CHINESE_SIMPLIFIED": "我该去赴约了",
+      "CHINESE_TRADITIONAL": "我還有約，好像得先走了",
+      "JAPANESE": "俺、ちょっと約束があって行かなきゃです",
+      "INDONESIAN": "…Aku kayaknya beneran harus otw ke tempat janjian aku sekarang deh.",
+      "PORTUGUESE": "Acho que preciso ir, tenho um compromisso.",
+      "SPANISH": "Creo que tengo que irme, tengo un compromiso.",
+      "PERSIAN": "... من واقعاً باید اکنون به قرار ملاقاتم بروم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 49.9,
+      "HIDE": 50.8
+    },
+    "SCRIPT": {
+      "KOREAN": "약속..?",
+      "ENGLISH": "An appointment…?",
+      "CHINESE_SIMPLIFIED": "约会..？",
+      "CHINESE_TRADITIONAL": "有約...？",
+      "JAPANESE": "約束…？",
+      "INDONESIAN": "Janji…?",
+      "PORTUGUESE": "Um compromisso...?",
+      "SPANISH": "¿Un compromiso...?",
+      "PERSIAN": "قرار ملاقات…؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 50.9,
+      "HIDE": 51.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "是的",
+      "JAPANESE": "そっか",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 52.7,
+      "HIDE": 54.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 알았어",
+      "ENGLISH": "Alright then.",
+      "CHINESE_SIMPLIFIED": "好吧知道了",
+      "CHINESE_TRADITIONAL": "好，我知道了",
+      "JAPANESE": "分かった",
+      "INDONESIAN": "Ya udah kalau gitu.",
+      "PORTUGUESE": "Tudo bem, vai lá.",
+      "SPANISH": "Está bien, ve.",
+      "PERSIAN": "باشه پس"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 55.1,
+      "HIDE": 56.3
+    },
+    "SCRIPT": {
+      "KOREAN": "먼저 일어날게요 ",
+      "ENGLISH": "I’ll get going first.",
+      "CHINESE_SIMPLIFIED": "我先走了",
+      "CHINESE_TRADITIONAL": "那我先離開了",
+      "JAPANESE": "先に失礼します",
+      "INDONESIAN": "Aku duluan ya.",
+      "PORTUGUESE": "Até amanhã.",
+      "SPANISH": "Hasta mañana.",
+      "PERSIAN": "من اول میرم"
+    }
+  }
+]

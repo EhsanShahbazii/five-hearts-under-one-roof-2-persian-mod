@@ -1,0 +1,308 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하하하하하하!!",
+      "ENGLISH": "Hahahahahahaha!!",
+      "CHINESE_SIMPLIFIED": "哈哈哈哈哈哈！！",
+      "CHINESE_TRADITIONAL": "哈哈哈哈哈哈！！",
+      "JAPANESE": "ははははは！！",
+      "INDONESIAN": "Hahahahahahaha!!",
+      "PORTUGUESE": "Hahahahaha!",
+      "SPANISH": "¡Jajajajaja!",
+      "PERSIAN": "خخخخخخخ!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐예요?",
+      "ENGLISH": "What’s that about?",
+      "CHINESE_SIMPLIFIED": "这是什么呀？",
+      "CHINESE_TRADITIONAL": "這是什麼？",
+      "JAPANESE": "なんですか？",
+      "INDONESIAN": "Itu kenapa tuh?",
+      "PORTUGUESE": "O que foi?",
+      "SPANISH": "¿Qué le pasa?",
+      "PERSIAN": "این در مورد چیه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 가짜 웃음이어도, 진짜 웃는 거로 뇌를 속이는 거거든요.",
+      "ENGLISH": "Even if it’s fake laughter, your brain processes it like real happiness.",
+      "CHINESE_SIMPLIFIED": "就算是假笑，也能骗过大脑让它以为是真的在笑",
+      "CHINESE_TRADITIONAL": "就算是假笑，也能騙過大腦，讓他已經是真的在笑",
+      "JAPANESE": "これ、たとえ作り笑いでも、脳は本当に笑ってるって錯覚するんです",
+      "INDONESIAN": "Katanya, walaupun ketawanya pura-pura, otak tetap nganggap itu sebagai kebahagiaan beneran.",
+      "PORTUGUESE": "Mesmo que seja uma risada falsa, o cérebro é enganado e sente como se fosse real.",
+      "SPANISH": "Aunque sea una risa falsa, el cerebro se engaña y la siente como real.",
+      "PERSIAN": "حتی اگر خنده ساختگی باشد، مغز شما اونو مانند شادی واقعی پردازش می کند."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "한번 웃어봐요",
+      "ENGLISH": "Try laughing.",
+      "CHINESE_SIMPLIFIED": "你也试试看嘛",
+      "CHINESE_TRADITIONAL": "你也試試看",
+      "JAPANESE": "試してみましょう　笑ってみてください",
+      "INDONESIAN": "Coba deh ketawa.",
+      "PORTUGUESE": "Vamos, tenta.",
+      "SPANISH": "Vamos, inténtelo.",
+      "PERSIAN": "سعی کن بخندی"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하하하...",
+      "ENGLISH": "…hahaha…",
+      "CHINESE_SIMPLIFIED": "哈哈...",
+      "CHINESE_TRADITIONAL": "哈哈哈哈...",
+      "JAPANESE": "ははは…",
+      "INDONESIAN": "…hahaha…",
+      "PORTUGUESE": "Ha… ha… ha…",
+      "SPANISH": "Ja… ja… ja…",
+      "PERSIAN": "…هاهاها…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 그건 너무 가짜잖아요. 진짜처럼!",
+      "ENGLISH": "Hey, that’s way too fake. Like you mean it!",
+      "CHINESE_SIMPLIFIED": "哎呀，这也太假了吧！要像真的一样！",
+      "CHINESE_TRADITIONAL": "欸，這樣也太假了吧！要像真的一樣！",
+      "JAPANESE": "いや、それじゃあ作りすぎですよ　本当みたいに！",
+      "INDONESIAN": "Eh, itu terlalu palsu. Kayak yang beneran dong!",
+      "PORTUGUESE": "Ai, tá soando muito falso. Faz como se fosse de verdade!",
+      "SPANISH": "Ay, suena demasiado falso. ¡Hágalo como si fuera real!",
+      "PERSIAN": "هی، این خیلی جعلی است. مثل اینکه منظورت اینه!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하하하하!",
+      "ENGLISH": "HAHAHAHA!",
+      "CHINESE_SIMPLIFIED": "哈哈哈哈！",
+      "CHINESE_TRADITIONAL": "哈哈哈哈！",
+      "JAPANESE": "はははは！",
+      "INDONESIAN": "HAHAHAHA!",
+      "PORTUGUESE": "Hahahaha!",
+      "SPANISH": "¡Jajajaja!",
+      "PERSIAN": "هاهاهاها!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "- 하하하\n- 하하하",
+      "ENGLISH": "— Hahaha\n— Hahaha",
+      "CHINESE_SIMPLIFIED": "-哈哈哈\n-哈哈哈\n-感觉怎么样？",
+      "CHINESE_TRADITIONAL": "-哈哈哈\n-哈哈哈",
+      "JAPANESE": "‐ ははは\n‐ ははは",
+      "INDONESIAN": "— Hahaha\n— Hahaha",
+      "PORTUGUESE": "- Hahaha!\n- Hahaha!",
+      "SPANISH": "- ¡Jajaja!\n- ¡Jajaja!",
+      "PERSIAN": "- هاهاها - هاهاها"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요?",
+      "ENGLISH": "How is it?",
+      "CHINESE_SIMPLIFIED": "感觉怎么样？",
+      "CHINESE_TRADITIONAL": "感覺怎麼樣？",
+      "JAPANESE": "どうです？",
+      "INDONESIAN": "Gimana rasanya?",
+      "PORTUGUESE": "E agora, que tal?",
+      "SPANISH": " ¿Y ahora qué tal?",
+      "PERSIAN": "چطوره؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 많이 나아졌어요.",
+      "ENGLISH": "I really do feel a lot better.",
+      "CHINESE_SIMPLIFIED": "真的感觉好多了",
+      "CHINESE_TRADITIONAL": "真的感覺好多了",
+      "JAPANESE": "すっごく楽になりました",
+      "INDONESIAN": "Aku beneran ngerasa jauh lebih lega.",
+      "PORTUGUESE": "Tô me sentindo muito melhor, pra ser sincera.",
+      "SPANISH": "Me siento mucho mejor, la verdad.",
+      "PERSIAN": "من واقعاً احساس خیلی بهتری دارم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하하하...",
+      "ENGLISH": "Hahaha…",
+      "CHINESE_SIMPLIFIED": "哈哈哈...",
+      "CHINESE_TRADITIONAL": "哈哈哈...",
+      "JAPANESE": "ははは…",
+      "INDONESIAN": "Hahaha…",
+      "PORTUGUESE": "Ha… ha… ha…",
+      "SPANISH": "Ja… ja… ja…",
+      "PERSIAN": "هاهاها…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 33.2
+    },
+    "SCRIPT": {
+      "KOREAN": "거봐요 웃으니까 좋잖아요!",
+      "ENGLISH": "See? Laughing feels good, doesn’t it?",
+      "CHINESE_SIMPLIFIED": "你看吧，笑一笑是不是就好多了！",
+      "CHINESE_TRADITIONAL": "你看吧，笑一笑是不是就好多了！",
+      "JAPANESE": "ほら、笑うと気持ちいいでしょ！",
+      "INDONESIAN": "Tuh, enak kan rasanya ketawa?",
+      "PORTUGUESE": "Viu? Rir faz bem.",
+      "SPANISH": "¿Ve? Reírse se siente bien.",
+      "PERSIAN": "ببینید؟ خندیدن حس خوبی دارد، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 37.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 규리 씨 요 보조개! ",
+      "ENGLISH": "Personally — I love seeing that little dimple",
+      "CHINESE_SIMPLIFIED": "我最喜欢看久梨的酒窝了！",
+      "CHINESE_TRADITIONAL": "我最喜歡看久梨小姐的酒窩了！",
+      "JAPANESE": "僕はね、ギュリさんのそのえくぼ！",
+      "INDONESIAN": "Kalau aku sih — paling suka liat lesung pipi kecil itu",
+      "PORTUGUESE": "Eu adoro as covinhas que aparecem",
+      "SPANISH": "A mí me encantan los hoyuelos que le salen",
+      "PERSIAN": "شخصا - من عاشق دیدن اون گودی کوچک هستم"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 39.8
+    },
+    "SCRIPT": {
+      "KOREAN": "보조개 보는 게 좋더라고요.",
+      "ENGLISH": "when you smile, Gyu-ri.",
+      "CHINESE_SIMPLIFIED": "看着你的酒窝心情就会变好呢",
+      "CHINESE_TRADITIONAL": "看著你的酒窩心情就會變好喔",
+      "JAPANESE": "えくぼ見るのが好きなんです",
+      "INDONESIAN": "pas kamu senyum, Gyu-ri.",
+      "PORTUGUESE": "toda vez que você sorri.",
+      "SPANISH": "cada vez que sonríe.",
+      "PERSIAN": "وقتی لبخند میزنی، گیو ری."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 40.4,
+      "HIDE": 43.5
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로도 스트레스 쌓이면 나한테 웃으면서 풀어요.",
+      "ENGLISH": "So when you’re stressed, let’s laugh it out together from now on.",
+      "CHINESE_SIMPLIFIED": "以后要是再有压力，就跟我一起笑着解压吧",
+      "CHINESE_TRADITIONAL": "以後要是還有壓力的話，就跟我一起笑著消除它吧！",
+      "JAPANESE": "これからもストレス溜まったら、僕と一緒に笑って発散しましょう",
+      "INDONESIAN": "Jadi mulai sekarang, kalau kamu stres, kita ketawa bareng aja, ya.",
+      "PORTUGUESE": "Então, da próxima vez que estiver estressada, vamos rir juntos.",
+      "SPANISH": "Así que, la próxima vez que tengas estrés, riámonos juntos.",
+      "PERSIAN": "پس وقتی استرس دارید، از این به بعد با هم بخندیم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 45.2,
+      "HIDE": 46.2
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요!",
+      "ENGLISH": "I’d like that!",
+      "CHINESE_SIMPLIFIED": "好啊！",
+      "CHINESE_TRADITIONAL": "好啊！",
+      "JAPANESE": "いいですね！",
+      "INDONESIAN": "Aku mau banget!",
+      "PORTUGUESE": "Combinado!",
+      "SPANISH": "¡De acuerdo!",
+      "PERSIAN": "من اونو دوست دارم!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 48.9,
+      "HIDE": 50.7
+    },
+    "SCRIPT": {
+      "KOREAN": "거봐요 웃으니까 좋잖아요",
+      "ENGLISH": "See? Laughing feels good, right?",
+      "CHINESE_SIMPLIFIED": "你看吧，笑一笑是不是就好多了！",
+      "CHINESE_TRADITIONAL": "你看吧～笑一笑是不是就好多了！",
+      "JAPANESE": "ほら、笑うと気持ちいいでしょ",
+      "INDONESIAN": "Tuh kan? Enak kan rasanya ketawa?",
+      "PORTUGUESE": "Viu? Sorrir faz bem.",
+      "SPANISH": "¿Ves? Sonreír se siente bien.",
+      "PERSIAN": "ببینید؟ خندیدن حس خوبی دارد، درست است؟"
+    }
+  }
+]

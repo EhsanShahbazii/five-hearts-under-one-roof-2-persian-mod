@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "여기는 빈방이에요.",
+      "ENGLISH": "This one's empty.",
+      "CHINESE_SIMPLIFIED": "这里是空房间",
+      "CHINESE_TRADITIONAL": "這裡是空房間",
+      "JAPANESE": "ここは空き部屋です",
+      "INDONESIAN": "Yang ini kosong.",
+      "PORTUGUESE": "Este quarto está livre.",
+      "SPANISH": "Este cuarto está libre.",
+      "PERSIAN": "این یکی خالیه"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 진짜요?",
+      "ENGLISH": "Oh, really?",
+      "CHINESE_SIMPLIFIED": "啊~真的吗？",
+      "CHINESE_TRADITIONAL": "啊～真的嗎？",
+      "JAPANESE": "あ〜ほんとですか?",
+      "INDONESIAN": "Oh, gitu?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿En serio?",
+      "PERSIAN": "اوه، واقعا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오 나쁘지 않은데요?",
+      "ENGLISH": "Ooh, not bad!",
+      "CHINESE_SIMPLIFIED": "挺不错的嘛？",
+      "CHINESE_TRADITIONAL": "喔，還不錯耶？",
+      "JAPANESE": "おっ 悪くないですね?",
+      "INDONESIAN": "Ooh, lumayan juga!",
+      "PORTUGUESE": "Oh, não tá nada mal.",
+      "SPANISH": "Oh, no está nada mal.",
+      "PERSIAN": "اوه، بد نیست!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여기는 웬만하면 쓰지 마시죠.",
+      "ENGLISH": "Let's not use this room.",
+      "CHINESE_SIMPLIFIED": "这里尽量别用吧？",
+      "CHINESE_TRADITIONAL": "這個房間盡量別用好了？",
+      "JAPANESE": "ここはできれば使わない方がいいですよ",
+      "INDONESIAN": "Jangan pake kamar ini, deh.",
+      "PORTUGUESE": "Melhor não usar esse quarto.",
+      "SPANISH": "Mejor no use este cuarto.",
+      "PERSIAN": "از این اتاق استفاده نکنیم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "으스스하고 좀 그렇지 않나요?",
+      "ENGLISH": "Doesn’t it feel kinda... creepy?",
+      "CHINESE_SIMPLIFIED": "不觉得有点阴森森的吗？",
+      "CHINESE_TRADITIONAL": "不覺得有點陰森森的嗎？",
+      "JAPANESE": "ちょっと薄気味悪くないですか?",
+      "INDONESIAN": "Nggak kerasa... serem gitu ya?",
+      "PORTUGUESE": "Dá arrepios e tem uma sensação estranha.",
+      "SPANISH": "Da escalofríos y se siente raro.",
+      "PERSIAN": "یه جورایی... ترسناک به نظر نمیاد؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "막 귀신 나올 거 같고...",
+      "ENGLISH": "Like a ghost could pop out or something.",
+      "CHINESE_SIMPLIFIED": "感觉会有鬼出来",
+      "CHINESE_TRADITIONAL": "好像會有鬼出現一樣…",
+      "JAPANESE": "幽霊とか出そうだし",
+      "INDONESIAN": "Kayak hantu bisa nongol tiba-tiba.",
+      "PORTUGUESE": "Como se tivesse fantasmas.",
+      "SPANISH": "Como si hubiera fantasmas.",
+      "PERSIAN": "مثل اینکه یک روح می تواند بیرون بیاید یا چیز دیگری."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 그럼 안 되는데?",
+      "ENGLISH": "Gasp... that’s not good...",
+      "CHINESE_SIMPLIFIED": "呃...那可不行...",
+      "CHINESE_TRADITIONAL": "這樣的話可不行啊…",
+      "JAPANESE": "えっ…それはマズいね…",
+      "INDONESIAN": "Hii... serem banget...",
+      "PORTUGUESE": "Ui, isso não devia acontecer...",
+      "SPANISH": "Uy, eso no debería pasar…",
+      "PERSIAN": "نفس... خوب نیست..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜야?",
+      "ENGLISH": "Wait... are you serious?",
+      "CHINESE_SIMPLIFIED": "真的吗...？",
+      "CHINESE_TRADITIONAL": "真的假的…？",
+      "JAPANESE": "本当なんですか…?",
+      "INDONESIAN": "Eh... kamu serius nih?",
+      "PORTUGUESE": "De verdade...?",
+      "SPANISH": "¿De verdad…?",
+      "PERSIAN": "صبر کن... جدی میگی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼 여기 쓰지 마시고",
+      "ENGLISH": "Anyway, just pick a different room, okay?",
+      "CHINESE_SIMPLIFIED": "总之别用这间",
+      "CHINESE_TRADITIONAL": "總之，這裡不行",
+      "JAPANESE": "とにかく ここは使わないで 他の部屋にしてください",
+      "INDONESIAN": "Ya udah, pilih kamar lain aja ya?",
+      "PORTUGUESE": "Enfim, não use esse quarto, escolha outro.",
+      "SPANISH": "En fin, no use este cuarto, elija otro.",
+      "PERSIAN": "به هر حال، فقط اتاق دیگری را انتخاب کنید، خوب؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "다른 방 쓰세요.",
+      "ENGLISH": "You can pick another room.",
+      "CHINESE_SIMPLIFIED": "去用其他房间吧",
+      "CHINESE_TRADITIONAL": "用別的房間吧",
+      "JAPANESE": "他の部屋にしてください",
+      "INDONESIAN": "Kamu bisa pilih kamar lain, kok.",
+      "PORTUGUESE": "Escolhe outro.",
+      "SPANISH": "Escoge otro.",
+      "PERSIAN": "می توانید اتاق دیگری را انتخاب کنید."
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오케이 여기요.",
+      "ENGLISH": "Okay, here you go.",
+      "CHINESE_SIMPLIFIED": "好，给你！",
+      "CHINESE_TRADITIONAL": "OK，給你！",
+      "JAPANESE": "オーケー、これどうぞ",
+      "INDONESIAN": "Oke, nih kaus kakinya.",
+      "PORTUGUESE": "Aqui está!",
+      "SPANISH": "¡Aquí tienes!",
+      "PERSIAN": "خوب، شما بروید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요 오빠!",
+      "ENGLISH": "Thanks, oppa!",
+      "CHINESE_SIMPLIFIED": "谢谢哥哥！",
+      "CHINESE_TRADITIONAL": "謝謝哥哥！",
+      "JAPANESE": "ありがとう お兄ちゃん！",
+      "INDONESIAN": "Makasih, oppa!",
+      "PORTUGUESE": "Obrigada, oppa.",
+      "SPANISH": "Gracias, oppa.",
+      "PERSIAN": "ممنون، یومان!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 저 오늘 회사 가요!",
+      "ENGLISH": "Yuman! I’m going to the office today!",
+      "CHINESE_SIMPLIFIED": "宥万，我今天要去你公司！",
+      "CHINESE_TRADITIONAL": "宥萬，我今天要去你公司！",
+      "JAPANESE": "ユマンさん、今日会社行くんですか！",
+      "INDONESIAN": "Yuman! Hari ini aku ke kantor, ya!",
+      "PORTUGUESE": "Hoje eu também vou pro escritório!",
+      "SPANISH": "¡Hoy voy a ir a la oficina también!",
+      "PERSIAN": "یومان! امروز میرم دفتر!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "오 진짜요? 왜요?",
+      "ENGLISH": "Whoa, really? How come?",
+      "CHINESE_SIMPLIFIED": "真的吗？为什么呀？",
+      "CHINESE_TRADITIONAL": "欸～真的嗎？為什麽呀？",
+      "JAPANESE": "本当ですか？なんで？",
+      "INDONESIAN": "Hah, serius? Kenapa emang?",
+      "PORTUGUESE": "Como assim? Por quê?",
+      "SPANISH": "¿Cómo así?¿Por qué?",
+      "PERSIAN": "وای، واقعا؟ چطور؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나 사업안 짜 놓은 거 그란 님이 봐 주신대요.",
+      "ENGLISH": "Miss Gran said she’d take a look at the business plan I’ve been working on.",
+      "CHINESE_SIMPLIFIED": "我写的商业计划书，圆圆姐说愿意帮我看看呢",
+      "CHINESE_TRADITIONAL": "我寫的商業企劃書，圓圓姐說願意幫我看看",
+      "JAPANESE": "前に作った事業計画をグランさんが見てくれるって",
+      "INDONESIAN": "Miss Gran bilang dia mau lihat rencana bisnis yang lagi aku kerjain.",
+      "PORTUGUESE": "A Gran disse que vai dar uma olhada no meu plano de negócios.",
+      "SPANISH": "Gran dijo que echaría un vistazo a mi plan de negocios.",
+      "PERSIAN": "خانم گرن گفت که او به طرح تجاری که من روی اون کار کرده ام نگاهی خواهد انداخت."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜요?",
+      "ENGLISH": "Seriously? That’s awesome!",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "本当ですか？",
+      "INDONESIAN": "Seriusan? Keren banget!",
+      "PORTUGUESE": "Ah, sério?",
+      "SPANISH": "¿Ah, en serio?",
+      "PERSIAN": "جدی؟ این عالی است!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그란 님! 오늘 오후에 회사로 갈게요!",
+      "ENGLISH": "Miss Gran! I’ll swing by the office this afternoon!",
+      "CHINESE_SIMPLIFIED": "圆圆姐！我下午去公司找你！",
+      "CHINESE_TRADITIONAL": "圓圓姐！我下午去公司找你！",
+      "JAPANESE": "グランさん！今日の午後、会社に伺います！",
+      "INDONESIAN": "Miss Gran! Nanti sore aku mampir ke kantor ya!",
+      "PORTUGUESE": "Gran, vou pro escritório à tarde.",
+      "SPANISH": "Gran, voy a ir a la oficina en la tarde.",
+      "PERSIAN": "خانم گرن! امروز بعدازظهر کنار دفتر می روم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 해요!",
+      "ENGLISH": "Sounds good!",
+      "CHINESE_SIMPLIFIED": "就这么定了！",
+      "CHINESE_TRADITIONAL": "就這麽定了！",
+      "JAPANESE": "そうしてください！",
+      "INDONESIAN": "Oke, ditunggu!",
+      "PORTUGUESE": "Parece ótimo.",
+      "SPANISH": "Suena bien.",
+      "PERSIAN": "خوب به نظر می رسد!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "가자 우유만.",
+      "ENGLISH": "Let’s go, Yuman!",
+      "CHINESE_SIMPLIFIED": "我们走吧，吴宥万",
+      "CHINESE_TRADITIONAL": "我們走吧，吳宥萬",
+      "JAPANESE": "行こう、ウ・ユマン",
+      "INDONESIAN": "Ayo, Yuman!",
+      "PORTUGUESE": "Vamos, Yumán.",
+      "SPANISH": "Vamos, Yumán.",
+      "PERSIAN": "بیا بریم، یومان!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네!!",
+      "ENGLISH": "Yeah!!",
+      "CHINESE_SIMPLIFIED": "好！！",
+      "CHINESE_TRADITIONAL": "好！！",
+      "JAPANESE": "はい！！",
+      "INDONESIAN": "Yuk!!",
+      "PORTUGUESE": "Tô indo!",
+      "SPANISH": "¡Voy!",
+      "PERSIAN": "آره!!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그란 님 잠깐만",
+      "ENGLISH": "Wait, Miss Gran—",
+      "CHINESE_SIMPLIFIED": "圆圆，等一下",
+      "CHINESE_TRADITIONAL": "圓圓，等一下",
+      "JAPANESE": "グランさん、ちょっと待って",
+      "INDONESIAN": "Eh, Miss Gran—",
+      "PORTUGUESE": "Espere, Gran.",
+      "SPANISH": "Espere, Gran.",
+      "PERSIAN": "صبر کن خانم گرن-"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 먹으면서 가요!",
+      "ENGLISH": "Take this with you on the way!",
+      "CHINESE_SIMPLIFIED": "这个带着路上吃！",
+      "CHINESE_TRADITIONAL": "這個帶著路上吃！",
+      "JAPANESE": "これ食べながら行ってください！",
+      "INDONESIAN": "Bawa ini sekalian, ya!",
+      "PORTUGUESE": "Vai comendo isso.",
+      "SPANISH": "Vaya comiendo esto.",
+      "PERSIAN": "اینو در راه با خود ببرید!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙 씨 땡큐~",
+      "ENGLISH": "Thanks, Malsook~",
+      "CHINESE_SIMPLIFIED": "末淑，谢谢你啦~",
+      "CHINESE_TRADITIONAL": "末淑，謝謝你啦～",
+      "JAPANESE": "マルスクさん、ありがと〜",
+      "INDONESIAN": "Makasih, Mal-sook~",
+      "PORTUGUESE": "Obrigada, Malsook!",
+      "SPANISH": "¡Gracias, Malsook!",
+      "PERSIAN": "ممنون، مال‌سوک"
+    }
+  }
+]

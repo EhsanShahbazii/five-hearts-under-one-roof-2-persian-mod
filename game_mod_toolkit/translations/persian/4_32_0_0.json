@@ -1,0 +1,434 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "왔어요?",
+      "ENGLISH": "You’re here?",
+      "CHINESE_SIMPLIFIED": "来了？",
+      "CHINESE_TRADITIONAL": "你來啦？",
+      "JAPANESE": "来ましたね",
+      "INDONESIAN": "Kamu datang juga akhirnya?",
+      "PORTUGUESE": "Já chegou?",
+      "SPANISH": "¿Ya llegaste?",
+      "PERSIAN": "شما اینجا هستید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 네...",
+      "ENGLISH": "Uh… yeah…",
+      "CHINESE_SIMPLIFIED": "呃...嗯...",
+      "CHINESE_TRADITIONAL": "呃... 是...",
+      "JAPANESE": "あ、はい…",
+      "INDONESIAN": "Uh… iya…",
+      "PORTUGUESE": "Ah... sim...",
+      "SPANISH": "Ah... sí...",
+      "PERSIAN": "اوه… آره…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 이러고 온 거예요?",
+      "ENGLISH": "Huh? You came like this?",
+      "CHINESE_SIMPLIFIED": "呃？你就这样来的啊？",
+      "CHINESE_TRADITIONAL": "咦？你就穿這樣就來了？",
+      "JAPANESE": "え？その格好で？",
+      "INDONESIAN": "Hah? Kamu datang pakai baju begini?",
+      "PORTUGUESE": "Por que veio vestido assim?",
+      "SPANISH": "¿Por qué viniste así vestido?",
+      "PERSIAN": "ها؟ اینجوری اومدی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "퇴근하고 바로 온 거라... 이런 곳인 줄 몰랐어요. ",
+      "ENGLISH": "I came straight after work… I didn’t realize it’d be a place like this.",
+      "CHINESE_SIMPLIFIED": "下班直接过来的...不知道是这种场合",
+      "CHINESE_TRADITIONAL": "我下班後直接過來的... 不知道是這種場合",
+      "JAPANESE": "仕事終わってすぐ来たんで…こんな場所だとは思わなかったです",
+      "INDONESIAN": "Aku langsung ke sini habis kerja… nggak nyangka tempatnya bakal kayak gini.",
+      "PORTUGUESE": "Saí direto do trabalho... não sabia que era um lugar desse tipo.",
+      "SPANISH": "Salí directo del trabajo... no sabía que era un lugar así.",
+      "PERSIAN": "من بلافاصله بعد از کار آمدم ... نمی دانستم که چنین جایی می شود."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 상관없어요~ 뭐, 나름 여기랑 잘 어울리기도 같기도 하고",
+      "ENGLISH": "Hmm, it’s fine~ Actually, it kinda suits the vibe here.",
+      "CHINESE_SIMPLIFIED": "嗯，没关系啦~其实还挺配这里氛围的",
+      "CHINESE_TRADITIONAL": "嗯，沒關係啦～你這樣其實跟這裡也滿搭的",
+      "JAPANESE": "うーん、まあ別にいいですよ〜 意外とここと合ってますし",
+      "INDONESIAN": "Hmm, nggak apa-apa kok~ Cocok sama suasananya malah.",
+      "PORTUGUESE": "Hmm, não tem problema~ na verdade, você até combina bem com o ambiente.",
+      "SPANISH": "Mmm, no importa~ de hecho, te ves bastante bien para el lugar.",
+      "PERSIAN": "هوم، خوب است~ در واقع، تا حدودی با حال و هوای اینجا سازگار است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "여기는 뭐 하는 곳이에요?",
+      "ENGLISH": "What kind of place is this?",
+      "CHINESE_SIMPLIFIED": "这里是干嘛的地方啊？",
+      "CHINESE_TRADITIONAL": "這裡是做什麼的地方啊？",
+      "JAPANESE": "ここってどんなところなんですか？",
+      "INDONESIAN": "Tempat apa sih ini sebenarnya?",
+      "PORTUGUESE": "E que tipo de lugar é esse?",
+      "SPANISH": "¿Y qué tipo de sitio es este?",
+      "PERSIAN": "این چه جور جایی است؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 23.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저기 저 사람들 보여요?",
+      "ENGLISH": "Do you see those people over there?",
+      "CHINESE_SIMPLIFIED": "看到那边那些人了吗？",
+      "CHINESE_TRADITIONAL": "看到那邊那些人了嗎？",
+      "JAPANESE": "ほら、あそこ見えますか？",
+      "INDONESIAN": "Lihat orang-orang di sana?",
+      "PORTUGUESE": "Tá vendo aquelas pessoas ali?",
+      "SPANISH": "¿Ves a esas personas allá?",
+      "PERSIAN": "اون مردم را آنجا می بینی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 29.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저기 왼쪽에 있는 사람이 국회의원 아들 남승연",
+      "ENGLISH": "The person on the left is Nam Seung‑yeon, the son of a congressman.",
+      "CHINESE_SIMPLIFIED": "左边那个是国会议员的儿子南胜延",
+      "CHINESE_TRADITIONAL": "左邊那個人是國會議員的兒子，南勝延",
+      "JAPANESE": "左にいるのが国会議員の息子、ナム・スンヨン",
+      "INDONESIAN": "Yang di kiri itu Nam Seung‑yeon, anak anggota dewan.",
+      "PORTUGUESE": "O da esquerda é Nam Seung-yeon, filho de um congressista.",
+      "SPANISH": "El de la izquierda es Nam Seung-yeon, hijo de un congresista.",
+      "PERSIAN": "فرد سمت چپ نام سونگ یون، پسر یک نماینده کنگره است."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 가운데 있는 여자가 조은진.",
+      "ENGLISH": "And the woman in the middle is Jo Eun‑ji.",
+      "CHINESE_SIMPLIFIED": "中间那个女生是赵恩智",
+      "CHINESE_TRADITIONAL": "中間那個女生是趙恩智",
+      "JAPANESE": "真ん中の女の子は財閥の娘、チョ・ウンジ",
+      "INDONESIAN": "Yang di tengah itu Jo Eun‑ji.",
+      "PORTUGUESE": "A mulher no centro é Jo Eun-ji,",
+      "SPANISH": "La mujer del centro es Jo Eun-ji,",
+      "PERSIAN": "و زن وسط جو یون جی است."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 33.4,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아빠가 반도체 회사 부회장.",
+      "ENGLISH": "Her dad is a semiconductor company VP.",
+      "CHINESE_SIMPLIFIED": "她爸爸是半导体公司的副会长",
+      "CHINESE_TRADITIONAL": "她爸是半導體公司的副會長",
+      "JAPANESE": "父親が半導体会社の副会長",
+      "INDONESIAN": "Ayahnya wakil presdir perusahaan semikonduktor.",
+      "PORTUGUESE": "o pai dela é vice-presidente de uma empresa de semicondutores.",
+      "SPANISH": "su padre es vicepresidente de una empresa de semiconductores.",
+      "PERSIAN": "پدرش معاون شرکت نیمه هادی است."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 38.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 오른쪽에 있는 사람은",
+      "ENGLISH": "And the one on the right is—",
+      "CHINESE_SIMPLIFIED": "右边那个人",
+      "CHINESE_TRADITIONAL": "右邊那個人",
+      "JAPANESE": "右側にいるのが",
+      "INDONESIAN": "Dan yang di kanan—",
+      "PORTUGUESE": "E o homem à direita",
+      "SPANISH": "Y el hombre de la derecha",
+      "PERSIAN": "و یکی در سمت راست است -"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 38.8,
+      "HIDE": 41.1
+    },
+    "SCRIPT": {
+      "KOREAN": "바로, 오늘 이 파티의 주인공",
+      "ENGLISH": "today’s party host—",
+      "CHINESE_SIMPLIFIED": "就是今天派对的主角",
+      "CHINESE_TRADITIONAL": "就是今天派對的主角",
+      "JAPANESE": "今日の主役",
+      "INDONESIAN": "itu tuan rumah acaranya hari ini—",
+      "PORTUGUESE": "é o anfitrião da festa:",
+      "SPANISH": "es el protagonista de la fiesta:",
+      "PERSIAN": "میزبان مهمانی امروز -"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 42.0,
+      "HIDE": 45.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제약 회사의 최연소 임원이 된 이종호 씨예요.",
+      "ENGLISH": "Lee Jong‑ho, the youngest executive ever at a pharmaceutical company.",
+      "CHINESE_SIMPLIFIED": "制药公司最年轻的理事李宗浩",
+      "CHINESE_TRADITIONAL": "製藥公司最年輕的董事，李宗浩先生",
+      "JAPANESE": "製薬会社で最年少役員になったイ・ジョンホ氏",
+      "INDONESIAN": "Lee Jong‑ho, eksekutif termuda di perusahaan farmasi.",
+      "PORTUGUESE": "Lee Jong-ho, o diretor mais jovem de uma farmacêutica.",
+      "SPANISH": "Lee Jong-ho, el directivo más joven de una farmacéutica.",
+      "PERSIAN": "لی جونگ هو، جوانترین مدیر اجرایی یک شرکت داروسازی."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 46.2,
+      "HIDE": 48.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 저기 봐봐요!",
+      "ENGLISH": "Ah! Look over there!",
+      "CHINESE_SIMPLIFIED": "啊！快看那边！",
+      "CHINESE_TRADITIONAL": "啊！快看那邊！",
+      "JAPANESE": "あ！あそこ見てください！",
+      "INDONESIAN": "Ah! Lihat deh ke sana!",
+      "PORTUGUESE": "Ah! Olha lá!",
+      "SPANISH": "¡Ah! ¡Mira allá!",
+      "PERSIAN": "آه! اونجا رو نگاه کن"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 48.9,
+      "HIDE": 51.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어어!!! 뉴스에서 본 거 같아요!!",
+      "ENGLISH": "Whoa!!! I think I’ve seen them on the news!!",
+      "CHINESE_SIMPLIFIED": "呃呃！！！好像在新闻里见过！！",
+      "CHINESE_TRADITIONAL": "欸欸！！！我好像在新聞上看過他！！",
+      "JAPANESE": "えっ！ニュースで見たことあります！",
+      "INDONESIAN": "Whoa!!! Kayaknya aku pernah lihat mereka di berita!!",
+      "PORTUGUESE": "Oh! Acho que vi ele nas notícias!",
+      "SPANISH": "¡Oh! ¡Creo que lo vi en las noticias!",
+      "PERSIAN": "وای!!! فکر می کنم اونا رو در اخبار دیده ام!!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 52.2,
+      "HIDE": 54.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이야 여긴 이런 사람들만 있는 거예요?",
+      "ENGLISH": "Wow… it’s only people like this here?",
+      "CHINESE_SIMPLIFIED": "天啊，这里都是上流人士吗？",
+      "CHINESE_TRADITIONAL": "哇，這裡就只有這種高級人士嗎？",
+      "JAPANESE": "わぁ、ここそんな人ばっかりなんですね？",
+      "INDONESIAN": "Wow… isinya orang-orang elit semua ya?",
+      "PORTUGUESE": "Nossa, esse lugar tá cheio de gente assim?",
+      "SPANISH": "Vaya, ¿este lugar está lleno de gente así?",
+      "PERSIAN": "وای... اینجا فقط اینجور آدما هستن؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 55.0,
+      "HIDE": 57.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 이런 사람들이라고 해봤자 ",
+      "ENGLISH": "Well, people like this are basically just",
+      "CHINESE_SIMPLIFIED": "也没什么啦",
+      "CHINESE_TRADITIONAL": "這些人說穿了",
+      "JAPANESE": "そんな人たちって言っても",
+      "INDONESIAN": "Ya, orang-orang kayak gini tuh intinya",
+      "PORTUGUESE": "Bem, o que todas essas pessoas têm em comum",
+      "SPANISH": "Bueno, lo que tienen en común todas estas personas",
+      "PERSIAN": "خب، چنین افرادی اساساً عادل هستند"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 57.1,
+      "HIDE": 59.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다 돈 많고 시간 많은 애들이죠 뭐.",
+      "ENGLISH": "rich folks with lots of free time.",
+      "CHINESE_SIMPLIFIED": "说白了就是一群有钱又有闲的人罢了",
+      "CHINESE_TRADITIONAL": "不過就是有錢、時間又多的傢伙們",
+      "JAPANESE": "結局みんな金と暇があり余ってるだけ",
+      "INDONESIAN": "cuma orang kaya yang gabut.",
+      "PORTUGUESE": "é que têm muito dinheiro e tempo de sobra.",
+      "SPANISH": "es que tienen mucho dinero y demasiado tiempo libre.",
+      "PERSIAN": "افراد ثروتمند با زمان آزاد زیاد"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 60.4,
+      "HIDE": 62.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 여기서는 이렇게.",
+      "ENGLISH": "Ah, here, you can do it like this.",
+      "CHINESE_SIMPLIFIED": "啊，在这里要这样做才行",
+      "CHINESE_TRADITIONAL": "啊，在這裡要這樣",
+      "JAPANESE": "で、ここではね、こうして",
+      "INDONESIAN": "Ah, nih, kamu bisa begini.",
+      "PORTUGUESE": "Ah, e aqui é costume fazer isso.",
+      "SPANISH": "Ah, y aquí se acostumbra hacer esto.",
+      "PERSIAN": "آه، اینجا، شما می توانید این کار را انجام دهید."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 64.2,
+      "HIDE": 65.6
+    },
+    "SCRIPT": {
+      "KOREAN": "엇,어어...",
+      "ENGLISH": "Uh… uh…",
+      "CHINESE_SIMPLIFIED": "呃，呃...",
+      "CHINESE_TRADITIONAL": "欸，喔喔...",
+      "JAPANESE": "えっ、あっ…",
+      "INDONESIAN": "Uh… uh…",
+      "PORTUGUESE": "Eh, eeh...",
+      "SPANISH": "Eh, eeh...",
+      "PERSIAN": "اوه… اوه…"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 65.7,
+      "HIDE": 68.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제 허리에 손 올리고 있으면 돼요.",
+      "ENGLISH": "You can place your hand on my waist.",
+      "CHINESE_SIMPLIFIED": "把手搭在我腰上就行",
+      "CHINESE_TRADITIONAL": "你把手搭在我腰上就可以了",
+      "JAPANESE": "私の腰に手を回しておけばいいんです",
+      "INDONESIAN": "Kamu boleh taruh tanganmu di pinggangku.",
+      "PORTUGUESE": "Coloca a mão na minha cintura.",
+      "SPANISH": "Pon tu mano en mi cintura.",
+      "PERSIAN": "میتونی دستت رو روی کمرم بذاری"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 70.1,
+      "HIDE": 71.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오 유나~",
+      "ENGLISH": "Oh, Yu-na~",
+      "CHINESE_SIMPLIFIED": "Oh~Yuna~",
+      "CHINESE_TRADITIONAL": "嗨～有娜～",
+      "JAPANESE": "お、ユナ〜！",
+      "INDONESIAN": "Oh, Yu-na~",
+      "PORTUGUESE": "Oh, Yuna~",
+      "SPANISH": "Oh, Yuna~",
+      "PERSIAN": "اوه، یو-نا~"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 71.6,
+      "HIDE": 72.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하이 Joe~",
+      "ENGLISH": "Hi Joe~",
+      "CHINESE_SIMPLIFIED": "Hi, Joe~",
+      "CHINESE_TRADITIONAL": "Hi Joe～",
+      "JAPANESE": "ヘイ, Joe〜",
+      "INDONESIAN": "Hi Joe~",
+      "PORTUGUESE": "Hi, Joe~",
+      "SPANISH": "Hi, Joe~",
+      "PERSIAN": "سلام جو ~"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 73.2,
+      "HIDE": 75.5
+    },
+    "SCRIPT": {
+      "KOREAN": "Hey what’s up. How are you??",
+      "ENGLISH": "Hey, what’s up? How are you??",
+      "CHINESE_SIMPLIFIED": "Hey, what's up. How are you??",
+      "CHINESE_TRADITIONAL": "Hey what’s up. How are you??",
+      "JAPANESE": "Hey, what’s up. How are you??",
+      "INDONESIAN": "Hey, apa kabar? Gimana nih?",
+      "PORTUGUESE": "(em inglês) How are you? How’s everything?",
+      "SPANISH": "(en inglés) ¿Qué tal? ¿Cómo va todo?",
+      "PERSIAN": "هی، چه خبر؟ چطوری؟؟"
+    }
+  }
+]

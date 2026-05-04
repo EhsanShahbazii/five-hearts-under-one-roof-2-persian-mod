@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 봐. 앞에 안 봐?",
+      "ENGLISH": "What’re you looking at? Eyes forward.",
+      "CHINESE_SIMPLIFIED": "看什么看？还不转回去！",
+      "CHINESE_TRADITIONAL": "看什麽看？還不轉回去！",
+      "JAPANESE": "何見てるんだ 前見ろよ！",
+      "INDONESIAN": "Ngapain ngeliatin? Liat ke depan, sana.",
+      "PORTUGUESE": "O que foi? Olhem pra frente!",
+      "SPANISH": "¿Qué me ven? ¡Ojos al frente!",
+      "PERSIAN": "به چه چیزی نگاه می کنی؟ چشم به جلو."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "방귀 뀐 사람 처음 봐!",
+      "ENGLISH": "Never seen someone fart before?!",
+      "CHINESE_SIMPLIFIED": "没见过放屁的人啊？",
+      "CHINESE_TRADITIONAL": "沒見過放屁的人啊？",
+      "JAPANESE": "おならした人 初めて見るのか！？",
+      "INDONESIAN": "Belum pernah liat orang kentut, apa?!",
+      "PORTUGUESE": "Nunca viram alguém soltar um pum?!",
+      "SPANISH": "¡¿Nunca han visto a nadie tirarse un gas?!",
+      "PERSIAN": "تا حالا ندیدی کسی گوز بزنه؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하! 방귀 뀐 놈이 성낸다더니 뭐야 진짜;;",
+      "ENGLISH": "Wow. Classic—guy farts and gets mad about it? Unreal.",
+      "CHINESE_SIMPLIFIED": "哈！放屁的人反而先发火是吧！搞什么...",
+      "CHINESE_TRADITIONAL": "哈！放屁的人反而先發火是吧！搞什麽...",
+      "JAPANESE": "はっ！おならした奴が逆ギレするってこのことね、ったく！",
+      "INDONESIAN": "Wah. Klasik—udah kentut, malah marah? Nggak masuk akal.",
+      "PORTUGUESE": "Os homens vivem fazendo essas coisas, e olha só como reagem. Incrível...",
+      "SPANISH": "Los hombres siempre hacen esas cosas, y mira como reaccionan. Increíble...",
+      "PERSIAN": "عجب کلاسیک - مرد گوز می زند و بابت اون عصبانی می شود؟ غیر واقعی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 당신들 방귀 뀌는지 안 뀌는지",
+      "ENGLISH": "You want me to start—",
+      "CHINESE_SIMPLIFIED": "要不要我每天专门盯着你们这些人",
+      "CHINESE_TRADITIONAL": "要不要我每天專門盯著你們這些人",
+      "JAPANESE": "じゃあ、あなたたちがおならしてるかどうか",
+      "INDONESIAN": "Mau aku mulai…",
+      "PORTUGUESE": "Querem que eu comece a verificar",
+      "SPANISH": "¡¿Quieren que me ponga a verificar",
+      "PERSIAN": "شما می خواهید من شروع کنم -"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하루 종일 체크 해 볼까? 어?",
+      "ENGLISH": " ....tracking your farts all day? Huh?!",
+      "CHINESE_SIMPLIFIED": "看看你们放不放屁？啊？",
+      "CHINESE_TRADITIONAL": "看看你們放不放屁？啊？",
+      "JAPANESE": "一日中チェックしてみましょうか！？お！？",
+      "INDONESIAN": "...ngitungin semua kentut kamu seharian? Hah?!",
+      "PORTUGUESE": "quantos puns são soltados por dia?!",
+      "SPANISH": "cuantos gases se tiran al día?!",
+      "PERSIAN": "....تمام روز گوزهای خود را ردیابی می کنید؟ ها؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "안 그쳐!!!",
+      "ENGLISH": "Can we not?!",
+      "CHINESE_SIMPLIFIED": "还不给我停！！！",
+      "CHINESE_TRADITIONAL": "不要再說了！",
+      "JAPANESE": "やめてくださいってば！！！",
+      "INDONESIAN": "Bisa nggak sih jangan dibahas?!",
+      "PORTUGUESE": "É isso que querem?!",
+      "SPANISH": "¡¿Eso quieren?!",
+      "PERSIAN": "نمی توانیم؟!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨...",
+      "ENGLISH": "Yuman...",
+      "CHINESE_SIMPLIFIED": "宥万...",
+      "CHINESE_TRADITIONAL": "宥萬...",
+      "JAPANESE": "ユマンさん…",
+      "INDONESIAN": "Yuman...",
+      "PORTUGUESE": "Yumán...",
+      "SPANISH": "Yumán...",
+      "PERSIAN": "یومان..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요!!",
+      "ENGLISH": "What?!",
+      "CHINESE_SIMPLIFIED": "干嘛！！",
+      "CHINESE_TRADITIONAL": "幹嘛！！",
+      "JAPANESE": "なんですか！！",
+      "INDONESIAN": "Apa?!",
+      "PORTUGUESE": "O quê?!",
+      "SPANISH": "¡¿Qué?!",
+      "PERSIAN": "چی؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "깜짝이야.",
+      "ENGLISH": "Ah! You scared me.",
+      "CHINESE_SIMPLIFIED": "啊，吓我一跳",
+      "CHINESE_TRADITIONAL": "啊，嚇我一跳",
+      "JAPANESE": "うわっ、びっくりした…",
+      "INDONESIAN": "Aduh! Kaget aku!",
+      "PORTUGUESE": "Ah, desculpa.",
+      "SPANISH": "Ay, perdón.",
+      "PERSIAN": "آه! تو منو ترسوندی"
+    }
+  }
+]

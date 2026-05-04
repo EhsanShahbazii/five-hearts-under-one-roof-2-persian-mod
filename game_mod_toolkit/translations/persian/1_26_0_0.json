@@ -1,0 +1,91 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아들! 엄마 아빠 병원비 계산하고 올게.",
+      "ENGLISH": "Sweetie! Mom and Dad are gonna go take care of the hospital bill.",
+      "CHINESE_SIMPLIFIED": "儿子，妈妈和爸爸去结一下住院费",
+      "CHINESE_TRADITIONAL": "兒子！媽媽和爸爸去結帳後馬上回來",
+      "JAPANESE": "ユマン！お母さんとお父さんが入院費を精算してくるから",
+      "INDONESIAN": "Nak! Ibu sama Ayah mau bayar biaya rumah sakit dulu ya.",
+      "PORTUGUESE": "Querido! A mamãe e o papai vão cuidar da conta do hospital.",
+      "SPANISH": "¡Cariño! Vamos a ir a pagar la cuenta del hospital.",
+      "PERSIAN": "پسرم! ما بریم کارای تسویه‌حساب و صندوق بیمارستان رو بکنیم برگردیم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그 여기서 잠깐 기다리고 있어.",
+      "ENGLISH": "Stay here and wait for us, okay?",
+      "CHINESE_SIMPLIFIED": "你就在这里稍微等一下哦",
+      "CHINESE_TRADITIONAL": "你在這裡等一下",
+      "JAPANESE": "ここでちょっと待っててね",
+      "INDONESIAN": "Kamu tunggu di sini sebentar.",
+      "PORTUGUESE": "Fica aqui e espera a gente, tá?",
+      "SPANISH": "Quédate aquí y espéranos.",
+      "PERSIAN": "همین‌جا بشین تا ما بیایم، خب؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "막, 그러고 돌아다니고 그러지 말고. 엉?",
+      "ENGLISH": "Don’t go wandering around, got it?",
+      "CHINESE_SIMPLIFIED": "在这里等，不要乱跑，知道吗？",
+      "CHINESE_TRADITIONAL": "在這裡等，不要亂跑，知道嗎？",
+      "JAPANESE": "あんまりうろうろしたりしないでよ、いい？",
+      "INDONESIAN": "Jangan keluyuran ke mana-mana ya? Oke?",
+      "PORTUGUESE": "Não vai ficar andando por aí, entendeu?",
+      "SPANISH": "No te vayas por ahí, ¿entendido?",
+      "PERSIAN": "سرخود پا نشی اینور و اونور تلو تلو بخوری ها! فهمیدی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어어 알았어!",
+      "ENGLISH": "Yeah, okay!",
+      "CHINESE_SIMPLIFIED": "好好，知道啦！",
+      "CHINESE_TRADITIONAL": "好好，知道了！",
+      "JAPANESE": "うんうん、わかった！",
+      "INDONESIAN": "Iya, iya! Oke!",
+      "PORTUGUESE": "É, tá bom!",
+      "SPANISH": "¡Sí, está bien!",
+      "PERSIAN": "باشه حواسم هست، شما برین!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万先生！",
+      "CHINESE_TRADITIONAL": "宥萬先生！",
+      "JAPANESE": "ユマンさん！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yuman!",
+      "SPANISH": "¡Señor Yumán!",
+      "PERSIAN": "آقای یومان!"
+    }
+  }
+]

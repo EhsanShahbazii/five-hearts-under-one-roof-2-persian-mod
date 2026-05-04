@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "전 고양이보다 강아지를 더 좋아해요 ",
+      "ENGLISH": "I actually like dogs more than cats.",
+      "CHINESE_SIMPLIFIED": "我比起猫还是更喜欢狗狗",
+      "CHINESE_TRADITIONAL": "比起貓，我更喜歡狗狗",
+      "JAPANESE": "僕は猫より犬の方が好きなんですよ。",
+      "INDONESIAN": "Sebenarnya saya lebih menyukai anjing daripada kucing.",
+      "PORTUGUESE": "Eu gosto mais de cachorros.",
+      "SPANISH": "A mí me gustan más los perros.",
+      "PERSIAN": "من در واقع سگ را بیشتر از گربه دوست دارم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あぁ…。",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah…",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "강아지가 애교도 더 많고 귀엽지 않아요?",
+      "ENGLISH": "Aren’t dogs more affectionate and playful?",
+      "CHINESE_SIMPLIFIED": "狗狗不是更爱撒娇更可爱嘛？",
+      "CHINESE_TRADITIONAL": "狗狗不是更愛撒嬌、更可愛嗎？",
+      "JAPANESE": "犬って、人懐っこくて可愛いじゃないですか？",
+      "INDONESIAN": "Bukankah anjing lebih penyayang dan suka bermain?",
+      "PORTUGUESE": "Os cachorrinhos são mais carinhosos e adoráveis, não acha?",
+      "SPANISH": "Los perritos son más cariñosos y adorables, ¿no cree?",
+      "PERSIAN": "سگ ها مهربان تر و بازیگوش نیستند؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 11.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아저씨는 강아지를 더 좋아하시는구나.",
+      "ENGLISH": "So you’re more of a dog person, huh?",
+      "CHINESE_SIMPLIFIED": "原来大叔更喜欢狗狗啊",
+      "CHINESE_TRADITIONAL": "大叔你比較喜歡狗啊",
+      "JAPANESE": "おじさんは犬派なんですね。",
+      "INDONESIAN": "Jadi kamu lebih suka anjing ya?",
+      "PORTUGUESE": "Então você gosta mais de cachorros.",
+      "SPANISH": "Así que a usted le gustan más los perros.",
+      "PERSIAN": "پس شما بیشتر یک سگ هستید، نه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨는 고양이를 더 좋아해요?",
+      "ENGLISH": "Do you prefer cats, Yoo-jung?",
+      "CHINESE_SIMPLIFIED": "有情小姐是更喜欢猫吗？",
+      "CHINESE_TRADITIONAL": "有情小姐是比較喜歡貓嗎？",
+      "JAPANESE": "ユジョンさんは猫の方が好きなんですか？",
+      "INDONESIAN": "Apakah kamu lebih suka kucing, Yoo-jung?",
+      "PORTUGUESE": "E você gosta mais de gatos?",
+      "SPANISH": "¿Y a usted le gustan más los gatos?",
+      "PERSIAN": "یو جونگ گربه ها را ترجیح می دهی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 조용한 게 저랑 닮았거든요 ",
+      "ENGLISH": "Yeah... they're quiet—kind of like me.",
+      "CHINESE_SIMPLIFIED": "嗯...因为安静的性子跟我比较像",
+      "CHINESE_TRADITIONAL": "是的... 因為牠們安靜這點跟我很像",
+      "JAPANESE": "はい…静かなところが、私に似てるから。",
+      "INDONESIAN": "Ya... mereka pendiam—seperti aku.",
+      "PORTUGUESE": "Sim... são tranquilos, como eu.",
+      "SPANISH": "Sí… son tranquilos, como yo.",
+      "PERSIAN": "آره... اونا ساکتن- یه جورایی مثل من."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 고양이를 더 좋아해요",
+      "ENGLISH": "That’s why I like them more.",
+      "CHINESE_SIMPLIFIED": "所以我更喜欢猫",
+      "CHINESE_TRADITIONAL": "所以我更喜歡貓",
+      "JAPANESE": "だから猫の方が好きなんです。",
+      "INDONESIAN": "Itulah mengapa aku lebih menyukai mereka.",
+      "PORTUGUESE": "Por isso gosto mais dos gatos.",
+      "SPANISH": "Por eso me gustan más los gatos.",
+      "PERSIAN": "به همین دلیل من اونا رو بیشتر دوست دارم."
+    }
+  }
+]

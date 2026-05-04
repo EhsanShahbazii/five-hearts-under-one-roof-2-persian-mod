@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그거 완전 거짓말이잖아요! 괜찮아질 거예요!",
+      "ENGLISH": "That article is total nonsense! You’re gonna be okay.",
+      "CHINESE_SIMPLIFIED": "那根本就是假新闻呀！会好起来的！",
+      "CHINESE_TRADITIONAL": "那根本是假新聞！會沒事的！",
+      "JAPANESE": "あんなの全部デマですよ！ 大丈夫ですよ！",
+      "INDONESIAN": "Artikel itu ngaco banget! Kamu bakal baik-baik aja.",
+      "PORTUGUESE": "Mas tudo isso é uma completa mentira! Vai ficar tudo bem!",
+      "SPANISH": "¡Pero si todo eso es una completa mentira! ¡Vas a estar bien!",
+      "PERSIAN": "اون مقاله کاملاً مزخرف است! تو خوب میشی"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "금방 사그라들 테니깐, 너무 그렇게 생각하지 마요.",
+      "ENGLISH": "This’ll blow over soon, so try not to let it get to you too much.",
+      "CHINESE_SIMPLIFIED": "风头很快就会过去的，别太往心里去",
+      "CHINESE_TRADITIONAL": "事情很快就會平息下去的，不要想太多",
+      "JAPANESE": "きっとすぐ落ち着きますって、だからそんなに気にしすぎないでください",
+      "INDONESIAN": "Ini bakal cepat reda, jadi coba jangan terlalu dipikirin, ya.",
+      "PORTUGUESE": "Em pouco tempo tudo vai se acalmar, então não pensa tanto nisso.",
+      "SPANISH": "En poco tiempo todo se va a calmar, así que no pienses tanto en eso.",
+      "PERSIAN": "این به زودی از بین می رود، بنابراین سعی کنید اجازه ندهید که خیلی به شما برسد."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이번 솔로 활동 이렇게 끝낼 수 없잖아요!",
+      "ENGLISH": "You can’t let your solo comeback end like this, right?",
+      "CHINESE_SIMPLIFIED": "你这次的solo活动总不能这样草草收场吧！",
+      "CHINESE_TRADITIONAL": "你這次的個人活動，總不能就這樣結束！",
+      "JAPANESE": "今回のソロ活動、こんな形で終わらせるわけにいかないでしょ！",
+      "INDONESIAN": "Kamu nggak boleh biarin comeback solomu berakhir kayak gini, kan?",
+      "PORTUGUESE": "Você não pode deixar sua carreira solo acabar desse jeito, né?",
+      "SPANISH": "No puedes dejar que tu carrera como solista termine así, ¿verdad?",
+      "PERSIAN": "شما نمی توانید اجازه دهید بازگشت انفرادی شما به این شکل تمام شود، درست است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yeah…",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "……はい。",
+      "INDONESIAN": "Iya...",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "آره…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그니까 일단 감기 걸리지 않게 옷부터 갈아입을까요?",
+      "ENGLISH": "So first things first—let’s get you out of those wet clothes before you catch a cold, okay?",
+      "CHINESE_SIMPLIFIED": "所以先换上衣服吧，别感冒了",
+      "CHINESE_TRADITIONAL": "所以先換個衣服吧，不要感冒了，嗯？",
+      "JAPANESE": "じゃあまず、風邪ひかないように服、着替えましょうか",
+      "INDONESIAN": "Jadi yang pertama—ayo ganti baju basahmu dulu biar nggak masuk angin, ya?",
+      "PORTUGUESE": "Então, por enquanto, por que não troca de roupa pra não pegar um resfriado?",
+      "SPANISH": "Entonces, por ahora, ¿por qué no te cambia de ropa para que no te resfríes?",
+      "PERSIAN": "بنابراین اول از همه - بیایید قبل از سرماخوردگی شما را از اون لباس های خیس بیرون بیاوریم، خوب؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": " 네 오빠...",
+      "ENGLISH": "Okay, Oppa…",
+      "CHINESE_SIMPLIFIED": "好的，哥哥...",
+      "CHINESE_TRADITIONAL": "好的，哥哥...",
+      "JAPANESE": "はい…お兄さん…",
+      "INDONESIAN": "Oke, Oppa...",
+      "PORTUGUESE": "Sim, oppa...",
+      "SPANISH": "Sí, oppa...",
+      "PERSIAN": "باشه یومان…"
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님..",
+      "ENGLISH": "Min-jung…",
+      "CHINESE_SIMPLIFIED": "敏静..",
+      "CHINESE_TRADITIONAL": "敏靜...",
+      "JAPANESE": "ミンジョンさん…",
+      "INDONESIAN": "Min-jung…",
+      "PORTUGUESE": "Minjung...",
+      "SPANISH": "Minjung...",
+      "PERSIAN": "مین‌جونگ…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님...!",
+      "ENGLISH": "Min-jung…!",
+      "CHINESE_SIMPLIFIED": "敏静...！",
+      "CHINESE_TRADITIONAL": "敏靜...！",
+      "JAPANESE": "ミンジョンさん…！",
+      "INDONESIAN": "Min-jung…!",
+      "PORTUGUESE": "Minjung...!",
+      "SPANISH": "¡Minjung...!",
+      "PERSIAN": "مین‌جونگ…!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네 오빠...",
+      "ENGLISH": "Yeah, oppa…?",
+      "CHINESE_SIMPLIFIED": "嗯，哥哥...",
+      "CHINESE_TRADITIONAL": "是的，哥哥...",
+      "JAPANESE": "はい、お兄さん…",
+      "INDONESIAN": "Iya, oppa…?",
+      "PORTUGUESE": "O que foi, oppa?",
+      "SPANISH": "¿Qué pasa, oppa?",
+      "PERSIAN": "آره یومان…؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 미안해요... ",
+      "ENGLISH": "I’m sorry, Min-jung…",
+      "CHINESE_SIMPLIFIED": "敏静，对不起...",
+      "CHINESE_TRADITIONAL": "敏靜，抱歉",
+      "JAPANESE": "ミンジョンさん、ごめんなさい…",
+      "INDONESIAN": "Maaf ya, Min-jung…",
+      "PORTUGUESE": "Minjung, desculpa, mas...",
+      "SPANISH": "Minjung, discúlpame pero...",
+      "PERSIAN": "متاسفم مین‌جونگ…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "나랑 화장실 가줄 수 있어요?",
+      "ENGLISH": "Could you… maybe come with me to the bathroom?",
+      "CHINESE_SIMPLIFIED": "能陪我去趟洗手间吗？",
+      "CHINESE_TRADITIONAL": "可以陪我去一下廁所嗎？",
+      "JAPANESE": "一緒にトイレ行ってもらえますか？",
+      "INDONESIAN": "Bisa nggak… temenin aku ke kamar mandi?",
+      "PORTUGUESE": "Você pode me acompanhar até o banheiro?",
+      "SPANISH": "¿Podrías acompañarme al baño?",
+      "PERSIAN": "می توانی... شاید با من به حمام بیایی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "화장실이요?",
+      "ENGLISH": "The bathroom?",
+      "CHINESE_SIMPLIFIED": "洗手间？",
+      "CHINESE_TRADITIONAL": "廁所嗎？",
+      "JAPANESE": "トイレですか？",
+      "INDONESIAN": "Ke kamar mandi?",
+      "PORTUGUESE": "Pro banheiro?",
+      "SPANISH": "¿Al baño?",
+      "PERSIAN": "حمام؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 몇 시지?",
+      "ENGLISH": "What time is it?",
+      "CHINESE_SIMPLIFIED": "现在几点了？",
+      "CHINESE_TRADITIONAL": "現在幾點了？",
+      "JAPANESE": "今、何時ですか？",
+      "INDONESIAN": "Sekarang jam berapa?",
+      "PORTUGUESE": "Que horas são?",
+      "SPANISH": "¿Qué hora es?",
+      "PERSIAN": "ساعت چند است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "지금, 새벽 1시 좀 넘었어요.",
+      "ENGLISH": "A little after 1 a.m.",
+      "CHINESE_SIMPLIFIED": "现在...刚过凌晨1点...",
+      "CHINESE_TRADITIONAL": "現在...凌晨一點多...",
+      "JAPANESE": "今…夜中の1時過ぎです",
+      "INDONESIAN": "jam 1 pagi lewat dikit.",
+      "PORTUGUESE": "Um pouco depois da 1:00 da manhã.",
+      "SPANISH": "Un poco más de la 1:00 a.m.",
+      "PERSIAN": "کمی بعد از ساعت 1 بامداد"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "1시요?",
+      "ENGLISH": "1 a.m.?",
+      "CHINESE_SIMPLIFIED": "1点？",
+      "CHINESE_TRADITIONAL": "凌晨一點嗎？",
+      "JAPANESE": "1時！？",
+      "INDONESIAN": "Jam 1 pagi?!",
+      "PORTUGUESE": "Uma da manhã...?",
+      "SPANISH": "¿La 1:00 a.m...?",
+      "PERSIAN": "1 بامداد؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 갈까요?",
+      "ENGLISH": "…Alright, let’s go.",
+      "CHINESE_SIMPLIFIED": "那我们先去吧？",
+      "CHINESE_TRADITIONAL": "那我們先去吧？",
+      "JAPANESE": "とりあえず行きましょうか？",
+      "INDONESIAN": "…Ya udah, ayo.",
+      "PORTUGUESE": "Tá bom, vamos.",
+      "SPANISH": "Bueno, vamos.",
+      "PERSIAN": "... باشه، بریم."
+    }
+  }
+]

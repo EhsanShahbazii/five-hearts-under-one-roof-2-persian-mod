@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨, 승!",
+      "ENGLISH": "Yu-na wins!",
+      "CHINESE_SIMPLIFIED": "有娜小姐胜！",
+      "CHINESE_TRADITIONAL": "有娜小姐，勝利",
+      "JAPANESE": "ユナさんの勝ち!",
+      "INDONESIAN": "Yu-na menang!",
+      "PORTUGUESE": "Vitória para a Yu-na!",
+      "SPANISH": "¡Victoria para Yuna!",
+      "PERSIAN": "یو-نا برنده شد!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "앗싸!",
+      "ENGLISH": "Yes!!",
+      "CHINESE_SIMPLIFIED": "太好啦！",
+      "CHINESE_TRADITIONAL": "耶呼！",
+      "JAPANESE": "やったー!",
+      "INDONESIAN": "Yes!!",
+      "PORTUGUESE": "Isso aí!",
+      "SPANISH": "¡Eso es!",
+      "PERSIAN": "بله!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 제대로 한 거 맞아?",
+      "ENGLISH": "Wait, did you even do it properly?",
+      "CHINESE_SIMPLIFIED": "喂，你确定是认真比的吗？",
+      "CHINESE_TRADITIONAL": "欸，你剛剛有認真比嗎？",
+      "JAPANESE": "おい ちゃんとやったんだよな?",
+      "INDONESIAN": "Eh, kamu tadi beneran ngelakuinnya bener nggak sih?",
+      "PORTUGUESE": "Tem certeza de que mediu direito?",
+      "SPANISH": "¿Seguro que lo hiciste bien?",
+      "PERSIAN": "صبر کن، اونو به درستی انجام دادی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이 힘으로 누를 사람 많지 않은데..",
+      "ENGLISH": "Not many people can beat Mal-sook in strength...",
+      "CHINESE_SIMPLIFIED": "能用力气压倒末淑的人可不多啊...",
+      "CHINESE_TRADITIONAL": "末淑的力氣，不是誰都能壓得住的耶…",
+      "JAPANESE": "マルスクの力を押さえられる人なんてそういないのに…",
+      "INDONESIAN": "Nggak banyak yang bisa ngalahin Mal-sook soal kekuatan...",
+      "PORTUGUESE": "Não tem muita gente que consegue me vencer em força...",
+      "SPANISH": "No hay mucha gente que me pueda ganar en fuerza...",
+      "PERSIAN": "افراد زیادی نمی توانند مال‌سوک را در قدرت شکست دهند..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 뭐, 생활 근육?",
+      "ENGLISH": "What was it “everyday strength”?",
+      "CHINESE_SIMPLIFIED": "刚才说什么“生活肌肉”？",
+      "CHINESE_TRADITIONAL": "剛剛還說什麼生活肌肉？",
+      "JAPANESE": "さっきの 生活筋肉?",
+      "INDONESIAN": "Apa tadi katanya? “Kekuatan sehari-hari”?",
+      "PORTUGUESE": "E cadê aquele papo de “treino de rua”?",
+      "SPANISH": "¿Dónde quedó \"el entrenamiento de la calle\"?",
+      "PERSIAN": "\"قدرت روزمره\" چه بود؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그것도 뭐 별 거 아니네요?",
+      "ENGLISH": "Yeah, turns out that’s not much either.",
+      "CHINESE_SIMPLIFIED": "看来也不怎么样嘛？",
+      "CHINESE_TRADITIONAL": "好像也沒什麼了不起嘛？",
+      "JAPANESE": "あれも大したことないですね?",
+      "INDONESIAN": "Ternyata nggak seberapa juga tuh.",
+      "PORTUGUESE": "Também não é grande coisa.",
+      "SPANISH": "Tampoco es la gran cosa.",
+      "PERSIAN": "بله، معلوم است که این هم زیاد نیست."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 오늘은 컨디션이 안 좋아서 그런 거거든요?",
+      "ENGLISH": "Hey, my condition’s just off today, okay?",
+      "CHINESE_SIMPLIFIED": "今天是因为我状态不好才这样的！",
+      "CHINESE_TRADITIONAL": "今天只是我狀態不好而已",
+      "JAPANESE": "今日ちょっとコンディション悪かっただけですから!",
+      "INDONESIAN": "Eh, aku lagi nggak fit aja hari ini, oke?",
+      "PORTUGUESE": "Hoje eu não tava na minha melhor forma, ok?",
+      "SPANISH": "Hoy no estaba en mi mejor condición, ¿ok?",
+      "PERSIAN": "سلام، وضعیت من امروز خراب است، خوب؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 저 이긴 건 맞으니까 인정해줄게요.",
+      "ENGLISH": "Still, a win’s a win! So I’ll give you that.",
+      "CHINESE_SIMPLIFIED": "不过既然我输了还是会认的",
+      "CHINESE_TRADITIONAL": "不過，我承認妳贏了",
+      "JAPANESE": "まあ それでも私が勝ったのは事実なんで 認めてあげますよ",
+      "INDONESIAN": "Tapi tetep aja, menang ya menang! Jadi aku akuin deh.",
+      "PORTUGUESE": "Mas admito que você ganhou.",
+      "SPANISH": "Pero igual admito que me ganaste.",
+      "PERSIAN": "با این حال، یک برد یک برد است! پس من اونو به شما می دهم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "무튼 우리 집에 온 걸 환영해요.",
+      "ENGLISH": "Anyway, welcome to the house.",
+      "CHINESE_SIMPLIFIED": "总之，欢迎你来我们家",
+      "CHINESE_TRADITIONAL": "總之，歡迎妳來我家",
+      "JAPANESE": "とにかく うちに来たのは歓迎しますね",
+      "INDONESIAN": "Ngomong-ngomong, selamat datang di rumah ini.",
+      "PORTUGUESE": "Enfim, bem-vinda à nossa casa.",
+      "SPANISH": "En fin, bienvenida a nuestra casa.",
+      "PERSIAN": "به هر حال به خونه خوش اومدی"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 집이 왜 너네 집이야...",
+      "ENGLISH": "Why is it your house now...",
+      "CHINESE_SIMPLIFIED": "凭什么变成你家了啊...",
+      "CHINESE_TRADITIONAL": "為什麼我們家變你家了…",
+      "JAPANESE": "なんで俺んちがお前んちになるんだよ…",
+      "INDONESIAN": "Kenapa tiba-tiba jadi rumah kamu...",
+      "PORTUGUESE": "Nossa casa? Mas essa nem é a sua casa...",
+      "SPANISH": "¿Nuestra casa? Si esta no es tu casa…",
+      "PERSIAN": "چرا الان خونه توست..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 저 여기서 지내도 되는 거죠?",
+      "ENGLISH": "So I can stay here, right?",
+      "CHINESE_SIMPLIFIED": "所以我可以住在这里了对吧？",
+      "CHINESE_TRADITIONAL": "那我可以在這裡住下來了，對吧？",
+      "JAPANESE": "じゃあ 私ここで暮らしていいんですよね?",
+      "INDONESIAN": "Jadi aku boleh tinggal di sini, kan?",
+      "PORTUGUESE": "Então quer dizer que eu posso ficar aqui, né?",
+      "SPANISH": "Entonces, ¿puedo quedarme aquí, verdad?",
+      "PERSIAN": "پس من می توانم اینجا بمانم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "방은 제가 골라도 돼요?",
+      "ENGLISH": "Can I pick my own room?",
+      "CHINESE_SIMPLIFIED": "房间可以让我自己选吗？",
+      "CHINESE_TRADITIONAL": "房間可以讓我自己挑嗎？",
+      "JAPANESE": "部屋は私が選んでいいですか?",
+      "INDONESIAN": "Boleh pilih kamar sendiri nggak?",
+      "PORTUGUESE": "Posso escolher meu quarto?",
+      "SPANISH": "¿Puedo escoger mi habitación?",
+      "PERSIAN": "می توانم اتاق خود را انتخاب کنم؟"
+    }
+  }
+]

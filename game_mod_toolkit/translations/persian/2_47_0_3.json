@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨, 라면 끓여본 적 있어요?",
+      "ENGLISH": "Yuna, have you ever made ramyun before?",
+      "CHINESE_SIMPLIFIED": "有娜小姐，你煮过泡面吗？",
+      "CHINESE_TRADITIONAL": "有娜小姐，妳有煮過泡麵嗎？",
+      "JAPANESE": "ユナさん、ラーメン作ったことあります？",
+      "INDONESIAN": "Yuna, apakah kamu pernah membuat ramyun sebelumnya?",
+      "PORTUGUESE": "Yuna, você já cozinhou ramen?",
+      "SPANISH": "Yuna ¿alguna vez has cocinado ramen?",
+      "PERSIAN": "یونا تا حالا رامیون درست کردی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "없는데 해볼게요!",
+      "ENGLISH": "Nope, but I’ll give it a shot!",
+      "CHINESE_SIMPLIFIED": "没煮过但我可以试试！",
+      "CHINESE_TRADITIONAL": "雖然沒有，不過我可以試試看！",
+      "JAPANESE": "ないですけど、やってみます！",
+      "INDONESIAN": "Tidak, tapi saya akan mencobanya!",
+      "PORTUGUESE": "Não, mas posso tentar.",
+      "SPANISH": "No, pero puedo intentarlo.",
+      "PERSIAN": "نه، اما من به اون ضربه می زنم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 망할 거 같은데...",
+      "ENGLISH": "Oh boy... this is gonna be a disaster.",
+      "CHINESE_SIMPLIFIED": "啊，感觉会搞砸呢...",
+      "CHINESE_TRADITIONAL": "啊，感覺會失敗…",
+      "JAPANESE": "あー、絶対失敗しそう…",
+      "INDONESIAN": "Wah... ini akan menjadi bencana.",
+      "PORTUGUESE": "Isso vai dar errado…",
+      "SPANISH": "Esto va a salir mal…",
+      "PERSIAN": "اوه پسر... این یک فاجعه می‌شه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 내가 할게.",
+      "ENGLISH": "Come on, it’s just following a recipe, right?",
+      "CHINESE_SIMPLIFIED": "还是我来吧",
+      "CHINESE_TRADITIONAL": "還是我來煮吧",
+      "JAPANESE": "もう私がやる",
+      "INDONESIAN": "Ayolah, ini hanya mengikuti resep, kan?",
+      "PORTUGUESE": "É melhor eu mesmo fazer isso.",
+      "SPANISH": "Mejor lo hago yo.",
+      "PERSIAN": "بیا، این فقط از یک دستور العمل پیروی می کند، درست است؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그냥 레시피 대로 하면 되는 거 아니에요?",
+      "ENGLISH": "I mean... technically, yeah.",
+      "CHINESE_SIMPLIFIED": "照着说明煮不就行了吗？",
+      "CHINESE_TRADITIONAL": "不是照食譜做就好嗎？",
+      "JAPANESE": "え〜、レシピ通りに作ればいいだけでしょ？",
+      "INDONESIAN": "Maksudku... secara teknis, ya.",
+      "PORTUGUESE": "Ah, é só seguir a receita, certo?",
+      "SPANISH": "Ay, solo hay que seguir la receta, ¿no?",
+      "PERSIAN": "یعنی... از نظر فنی، بله."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "맞긴 해.",
+      "ENGLISH": "You two stay put—I’ll bring it over!",
+      "CHINESE_SIMPLIFIED": "话是这么说没错",
+      "CHINESE_TRADITIONAL": "話是這麼說沒錯啦",
+      "JAPANESE": "まぁ、理屈ではね",
+      "INDONESIAN": "Kalian berdua tetap di sini—aku akan membawanya!",
+      "PORTUGUESE": "Em teoria, sim.",
+      "SPANISH": "En teoría, sí.",
+      "PERSIAN": "شما دو نفر بمانید - من اونو می آورم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "두 분 여기 계시고 제가 끓여 올게요!",
+      "ENGLISH": "And don’t have too much fun without me!",
+      "CHINESE_SIMPLIFIED": "你们俩在这里等着，我去煮好端来！",
+      "CHINESE_TRADITIONAL": "那你們在這等，我煮好端過來！",
+      "JAPANESE": "じゃあ二人はここで待っててください！ 私が作ってきます！",
+      "INDONESIAN": "Dan jangan bersenang-senang tanpaku!",
+      "PORTUGUESE": "Fiquem todos aqui enquanto eu preparo.",
+      "SPANISH": "Ustedes quédense aquí mientras yo lo preparo.",
+      "PERSIAN": "و بدون من زیاد لذت نبر!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 너무 재밌게 놀지 마세요.",
+      "ENGLISH": "(later)",
+      "CHINESE_SIMPLIFIED": "啊！你们别玩得太开心啊",
+      "CHINESE_TRADITIONAL": "啊！你們不要玩太開心喔～",
+      "JAPANESE": "あ、あんまり盛り上がらないでくださいね〜！",
+      "INDONESIAN": "(Nanti)",
+      "PORTUGUESE": "Mas não se divirtam muito sem mim.",
+      "SPANISH": "Pero no se diviertan demasiado sin mí.",
+      "PERSIAN": "(بعدا)"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "면이 물에 잠겨서 보이지도 않네",
+      "ENGLISH": "Uh... the noodles are completely underwater. I can’t even see ’em.",
+      "CHINESE_SIMPLIFIED": "面条都被水淹没了，根本看不见嘛",
+      "CHINESE_TRADITIONAL": "麵完全沉下去，都看不見了",
+      "JAPANESE": "…麺、完全に沈んで見えないし",
+      "INDONESIAN": "Eh... mi-nya terendam seluruhnya. Aku bahkan nggak bisa lihat.",
+      "PORTUGUESE": "Isso tem mais água do que macarrão...",
+      "SPANISH": "Esto es más agua que fideos...",
+      "PERSIAN": "اوه ... رشته ها کاملا زیر آب هستند. من حتی نمی توانم اونا رو ببینم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 심지어 익지도 않았네?",
+      "ENGLISH": "And... they’re still raw?",
+      "CHINESE_SIMPLIFIED": "啊，而且居然还没熟",
+      "CHINESE_TRADITIONAL": "啊，而且居然沒熟…",
+      "JAPANESE": "あ、しかもまだ全然火通ってない",
+      "INDONESIAN": "Dan...masih mentah.",
+      "PORTUGUESE": "E além disso, são crus.",
+      "SPANISH": "Y encima están crudos.",
+      "PERSIAN": "و... هنوز خام هستند؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "먹어 보고 말하시죠?",
+      "ENGLISH": "You haven’t even tried it yet!",
+      "CHINESE_SIMPLIFIED": "你先尝尝再说？",
+      "CHINESE_TRADITIONAL": "你先吃吃看再說吧？",
+      "JAPANESE": "食べてみてから言ってください！",
+      "INDONESIAN": "Anda bahkan belum mencobanya!",
+      "PORTUGUESE": "Experimente antes de dizer qualquer coisa.",
+      "SPANISH": "Pruébenlo antes de decir nada.",
+      "PERSIAN": "شما هنوز اونو امتحان نکرده اید!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 32.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하..안 먹어봐도 뻔하죠.",
+      "ENGLISH": "I don’t have to. I know.",
+      "CHINESE_SIMPLIFIED": "哎...不尝也知道结果吧",
+      "CHINESE_TRADITIONAL": "哈…不用吃也猜得到啊",
+      "JAPANESE": "食べなくても結果見えてますけど…",
+      "INDONESIAN": "Aku tidak harus melakukannya. Aku tahu.",
+      "PORTUGUESE": "Você não precisa experimentar para saber.",
+      "SPANISH": "No hace falta probarlo para saber.",
+      "PERSIAN": "من مجبور نیستم من می دانم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 32.4,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "레시피대로 한 거란 말이에요",
+      "ENGLISH": "I followed the recipe!",
+      "CHINESE_SIMPLIFIED": "我可是按着说明煮的啊",
+      "CHINESE_TRADITIONAL": "我明明是照食譜煮的啊！",
+      "JAPANESE": "レシピ通りに作ったんですよ！",
+      "INDONESIAN": "Saya mengikuti resepnya!",
+      "PORTUGUESE": "Mas eu fiz exatamente como dizia a receita!",
+      "SPANISH": "¡Pero lo hice como decía la receta!",
+      "PERSIAN": "من دستور غذا را دنبال کردم!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 42.5
+    },
+    "SCRIPT": {
+      "KOREAN": "라면 맛이 왜 이래요..?",
+      "ENGLISH": "Why does it taste like this...?",
+      "CHINESE_SIMPLIFIED": "这泡面味道怎么怪怪的...？",
+      "CHINESE_TRADITIONAL": "這泡麵的味道怎麼會這樣...？",
+      "JAPANESE": "なんでラーメンの味こんな変なんですか？",
+      "INDONESIAN": "Mengapa rasanya seperti ini...?",
+      "PORTUGUESE": "Por que tem um gosto tão estranho…?",
+      "SPANISH": "¿Por qué sabe tan raro…?",
+      "PERSIAN": "چرا اینجوری مزه میده...؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 42.9,
+      "HIDE": 44.5
+    },
+    "SCRIPT": {
+      "KOREAN": "라면 상한 거 아니에요?",
+      "ENGLISH": "Is the ramyun... spoiled or something?",
+      "CHINESE_SIMPLIFIED": "这泡面是不是变质了？",
+      "CHINESE_TRADITIONAL": "該不會壞掉了吧？",
+      "JAPANESE": "ラーメン、腐ってません？",
+      "INDONESIAN": "Apakah ramyunnya... basi atau bagaimana?",
+      "PORTUGUESE": "Estragou?",
+      "SPANISH": "¿Acaso se echó a perder?",
+      "PERSIAN": "رامیون ... خراب شده یا چیزی؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 48.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 그렇게 쉽게 상하는 음식이 아니에요.",
+      "ENGLISH": "It’s literally instant ramyun. That stuff doesn’t go bad that easy!",
+      "CHINESE_SIMPLIFIED": "泡面可不是那么容易变质的东西啊",
+      "CHINESE_TRADITIONAL": "泡麵才沒那麼容易壞啦",
+      "JAPANESE": "そんな簡単に腐る食べ物じゃないです",
+      "INDONESIAN": "Ini benar-benar ramyun instan. Ramyun itu tidak mudah rusak!",
+      "PORTUGUESE": "Mas o Ramyeon não estraga tão facilmente...",
+      "SPANISH": "Pero el ramyeon no se echa perder tan fácil...",
+      "PERSIAN": "این به معنای واقعی کلمه رامیون فوری است. این چیزها به همین راحتی بد نمی شود!"
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "죄송해요",
+      "ENGLISH": "I’m sorry.",
+      "CHINESE_SIMPLIFIED": "对不起",
+      "CHINESE_TRADITIONAL": "抱歉",
+      "JAPANESE": "すみません",
+      "INDONESIAN": "Maaf…",
+      "PORTUGUESE": "Desculpa.",
+      "SPANISH": "Perdón.",
+      "PERSIAN": "متاسفم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "사실 태어나서 처음 쳐보는데",
+      "ENGLISH": "Truth is… this is my first time ever playing.",
+      "CHINESE_SIMPLIFIED": "其实这是我人生第一次打高尔夫",
+      "CHINESE_TRADITIONAL": "其實這是我人生第一次打高爾夫球",
+      "JAPANESE": "実は生まれて初めて打つんですけど",
+      "INDONESIAN": "Sebenernya… ini pertama kalinya aku main.",
+      "PORTUGUESE": "Pra ser sincero, é a primeira vez na vida que eu tento.",
+      "SPANISH": "La verdad es que es la primera vez en mi vida que lo intento.",
+      "PERSIAN": "حقیقت این است که این اولین بار است که بازی می کنم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "골프 잘 친다고 해야, 과장님이 저를 좀 남자로 볼 거 같아서요...",
+      "ENGLISH": "I said I was good because I thought you might see me more as a man if I did…",
+      "CHINESE_SIMPLIFIED": "因为我觉得要说自己很会打，科长才会把我当男人看...",
+      "CHINESE_TRADITIONAL": "因為我覺得要說自己很會打，課長才會把我當男人看...",
+      "JAPANESE": "ゴルフ上手って言えば、課長が俺を男扱いしてくれるかなと思って…",
+      "INDONESIAN": "Aku bilang aku jago karena kupikir kamu bakal lebih ngeliat aku sebagai cowok kalau aku keliatan bisa…",
+      "PORTUGUESE": "É que se eu dissesse que jogo bem golfe, achei que você me acharia mais masculino...",
+      "SPANISH": "Es que si decía que juego bien al golf, pensé que usted vería más varoníl...",
+      "PERSIAN": "گفتم خوبم چون فکر می‌کردم اگر این کار را بکنم ممکنه مرا بیشتر به عنوان یک مرد ببینی…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야~",
+      "ENGLISH": "Oh, come on~",
+      "CHINESE_SIMPLIFIED": "什么呀~",
+      "CHINESE_TRADITIONAL": "什麽啊～",
+      "JAPANESE": "なにそれ〜",
+      "INDONESIAN": "Aduh, ayolah~",
+      "PORTUGUESE": "O quê~?",
+      "SPANISH": "¿Qué~?",
+      "PERSIAN": "اوه، بیا~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 유만 씨 골프 잘 쳐서 좋아하는 줄 알아?",
+      "ENGLISH": "You think I like you because you play golf well?",
+      "CHINESE_SIMPLIFIED": "你以为我喜欢你是因为你高尔夫打得好吗？",
+      "CHINESE_TRADITIONAL": "你以為我喜歡你是因為你高爾夫球打得好嗎？",
+      "JAPANESE": "私がユマンさんのゴルフが上手だから好きだって思ってたの？",
+      "INDONESIAN": "Kamu kira aku suka kamu gara-gara kamu jago main golf?",
+      "PORTUGUESE": "Você acha que eu gosto de você só porque joga bem golfe?",
+      "SPANISH": "¿Crees que te quiero solo porque juegas bien al golf?",
+      "PERSIAN": "فکر می کنی من تو را دوست دارم چون خوب گلف بازی می کنی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 오늘은 그냥 나 치는 거 봐줘.",
+      "ENGLISH": "Then just watch me play today.",
+      "CHINESE_SIMPLIFIED": "那今天就先看我打吧",
+      "CHINESE_TRADITIONAL": "那今天就先看我打吧",
+      "JAPANESE": "じゃあ今日は、私の打つところ見てて",
+      "INDONESIAN": "Kalau gitu, hari ini cukup liat aku main aja, ya.",
+      "PORTUGUESE": "Então hoje, apenas me observa jogar.",
+      "SPANISH": "Entonces hoy, solo mírame jugar.",
+      "PERSIAN": "پس فقط امروز بازی من را تماشا کن."
+    }
+  }
+]

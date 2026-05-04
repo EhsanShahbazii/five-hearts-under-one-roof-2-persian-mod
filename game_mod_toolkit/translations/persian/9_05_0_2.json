@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어? ",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "咦？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "여기...",
+      "ENGLISH": "This is…",
+      "CHINESE_SIMPLIFIED": "这不是...",
+      "CHINESE_TRADITIONAL": "這不是...",
+      "JAPANESE": "ここ…",
+      "INDONESIAN": "Ini…",
+      "PORTUGUESE": "Esse caminho...",
+      "SPANISH": "Este camino...",
+      "PERSIAN": "این…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "처음에 왔던 길이잖아...!!",
+      "ENGLISH": "the path I came from at the beginning…!!",
+      "CHINESE_SIMPLIFIED": "一开始来的那条路吗？！",
+      "CHINESE_TRADITIONAL": "一開始來的那條路嗎？",
+      "JAPANESE": "最初に来た道じゃないか…！！",
+      "INDONESIAN": "jalan yang aku lewatin di awal…!!",
+      "PORTUGUESE": "É o mesmo por onde eu vim no começo!",
+      "SPANISH": "¡Es el mismo por donde vine al principio!",
+      "PERSIAN": "راهی که من از اول اومدم…!!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "처음부터 다시 가야겠네...",
+      "ENGLISH": "I have to start all over again…",
+      "CHINESE_SIMPLIFIED": "看来得重新走一遍了...",
+      "CHINESE_TRADITIONAL": "看來又要重新走一遍了...",
+      "JAPANESE": "また最初から行かないと…",
+      "INDONESIAN": "Aku harus mulai dari awal lagi…",
+      "PORTUGUESE": "Vou ter que começar de novo...",
+      "SPANISH": "Tendré que empezar de nuevo...",
+      "PERSIAN": "باید از نو شروع کنم…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah…",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "ああ…",
+      "INDONESIAN": "Ah…",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "آه…"
+    }
+  }
+]

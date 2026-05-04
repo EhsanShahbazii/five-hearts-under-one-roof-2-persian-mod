@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나머지 분들도 다 나오셨네요?",
+      "ENGLISH": "Looks like everyone’s out now, huh?",
+      "CHINESE_SIMPLIFIED": "其他几位也都出来了吗？",
+      "CHINESE_TRADITIONAL": "剩下的人都出來了嗎？",
+      "JAPANESE": "他の人たちもみんな出てきたみたいですね？",
+      "INDONESIAN": "Kayaknya semuanya udah keluar ya?",
+      "PORTUGUESE": "Parece que as outras também saíram.",
+      "SPANISH": "Parece que las demás también salieron.",
+      "PERSIAN": "به نظر می رسد الان همه بیرون هستند، نه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "기왕 이렇게 된 거",
+      "ENGLISH": "Well, since we’re all here,",
+      "CHINESE_SIMPLIFIED": "既然都这样了",
+      "CHINESE_TRADITIONAL": "既然這樣",
+      "JAPANESE": "せっかくだし",
+      "INDONESIAN": "Ya udah, mumpung kita udah ngumpul,",
+      "PORTUGUESE": "Nesse caso,",
+      "SPANISH": "En ese caso,",
+      "PERSIAN": "خوب، از آنجایی که ما همه اینجا هستیم،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 다 같이 움직일까요?",
+      "ENGLISH": "why don’t we just move together?",
+      "CHINESE_SIMPLIFIED": "我们要不要一起行动？",
+      "CHINESE_TRADITIONAL": "不如大家一起走吧？",
+      "JAPANESE": "みんなで一緒に動きますか？",
+      "INDONESIAN": "gimana kalau kita jalan bareng aja?",
+      "PORTUGUESE": "por que a gente não vai junto?",
+      "SPANISH": "¿por qué no nos movemos juntos?",
+      "PERSIAN": "چرا ما فقط با هم حرکت نمی کنیم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요, 갑시다",
+      "ENGLISH": "Sounds good—let’s go!",
+      "CHINESE_SIMPLIFIED": "好啊，走吧！",
+      "CHINESE_TRADITIONAL": "好啊～走吧！",
+      "JAPANESE": "いいですね、行きましょう",
+      "INDONESIAN": "Oke juga—ayo!",
+      "PORTUGUESE": "Boa ideia, vamos.",
+      "SPANISH": "Buena idea, vamos.",
+      "PERSIAN": "خوب به نظر می رسد - برویم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "레츠고!",
+      "ENGLISH": "Let’s do this!",
+      "CHINESE_SIMPLIFIED": "走起！",
+      "CHINESE_TRADITIONAL": "Let's go! ",
+      "JAPANESE": "レッツゴー！",
+      "INDONESIAN": "Gas yuk!",
+      "PORTUGUESE": "Let's go!",
+      "SPANISH": "¡Let's go!",
+      "PERSIAN": "بیایید این کار را انجام دهیم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "고고!",
+      "ENGLISH": "Go go!",
+      "CHINESE_SIMPLIFIED": "冲鸭！",
+      "CHINESE_TRADITIONAL": "Go go!",
+      "JAPANESE": "ゴーゴー！",
+      "INDONESIAN": "Ayo ayo!",
+      "PORTUGUESE": "Go go!",
+      "SPANISH": "¡Go go!",
+      "PERSIAN": "برو برو!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유만 씨.",
+      "ENGLISH": "Huh? Yuman,",
+      "CHINESE_SIMPLIFIED": "呃？宥万",
+      "CHINESE_TRADITIONAL": "欸？宥萬先生",
+      "JAPANESE": "あれ？ユマンさん",
+      "INDONESIAN": "Hah? Yuman,",
+      "PORTUGUESE": "Hã? Yuman,",
+      "SPANISH": "¿Eh? Yuman,",
+      "PERSIAN": "ها؟ یومان،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 뒤에서 오는 거 아니에요?",
+      "ENGLISH": "aren’t you walking a little too far behind?",
+      "CHINESE_SIMPLIFIED": "你是不是走得太靠后了点？",
+      "CHINESE_TRADITIONAL": "你走得也太後面了吧？",
+      "JAPANESE": "ちょっと後ろすぎません？",
+      "INDONESIAN": "kok kamu jalannya agak jauh di belakang sih?",
+      "PORTUGUESE": "você não tá andando meio pra trás?",
+      "SPANISH": "¿no estás caminando muy atrás?",
+      "PERSIAN": "کمی عقب تر راه نمی روی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뒤에 어떤 위험이 도사릴지 모른다고요!",
+      "ENGLISH": "You never know what kind of danger might be lurking back there!",
+      "CHINESE_SIMPLIFIED": "谁知道后面会藏着什么危险啊！",
+      "CHINESE_TRADITIONAL": "誰知道後面會藏著什麼危險！",
+      "JAPANESE": "後ろには何が潜んでるかわからないですよ！",
+      "INDONESIAN": "Nggak ada yang tau bahaya apa yang ngumpet di belakang sana!",
+      "PORTUGUESE": "Nunca se sabe o que pode estar espreitando!",
+      "SPANISH": "¡Nunca se sabe qué puede estar acechando!",
+      "PERSIAN": "شما هرگز نمی دانید چه نوع خطری ممکنه در آنجا در کمین باشد!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 29.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 무슨 화장실이 이렇게 숨겨져 있어요?",
+      "ENGLISH": "Seriously, why is the bathroom so hidden in this place??",
+      "CHINESE_SIMPLIFIED": "话说，哪有洗手间藏得这么隐蔽的？",
+      "CHINESE_TRADITIONAL": "不是吧，這什麼廁所，藏得也太隱密了吧？",
+      "JAPANESE": "てか、トイレがなんでこんな隠れてるんですか！？",
+      "INDONESIAN": "Serius deh, kenapa sih kamar mandinya ngumpet banget di tempat kayak gini??",
+      "PORTUGUESE": "Mas por que o banheiro fica tão escondido assim?",
+      "SPANISH": "¿Pero por qué el baño está tan escondido?",
+      "PERSIAN": "جدی چرا حمام اینقدر در این مکان پنهان شده است؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 이제 우리 어디로 가요?",
+      "ENGLISH": "But uh… where do we go now?",
+      "CHINESE_SIMPLIFIED": "不过我们现在该往哪走？",
+      "CHINESE_TRADITIONAL": "我們接下來要去哪裡？",
+      "JAPANESE": "で、これからどこに行くんですか？",
+      "INDONESIAN": "Tapi eh… sekarang kita harus ke mana ya?",
+      "PORTUGUESE": "E agora… pra onde a gente vai?",
+      "SPANISH": "Y ahora… ¿a dónde vamos?",
+      "PERSIAN": "اما اوه... حالا کجا بریم؟"
+    }
+  }
+]

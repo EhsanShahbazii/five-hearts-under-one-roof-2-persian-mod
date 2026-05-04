@@ -1,0 +1,308 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아 네가 민정님 안내해 드려",
+      "ENGLISH": "Mal-sook, can you show Min-jung around?",
+      "CHINESE_SIMPLIFIED": "末淑啊，你带敏静去看看吧",
+      "CHINESE_TRADITIONAL": "末淑啊，妳帶敏靜上去看看吧",
+      "JAPANESE": "マルスク、ミンジョンさんを案内してあげて",
+      "INDONESIAN": "Mal-sook, bisa tunjukin rumahnya ke Min-jung?",
+      "PORTUGUESE": "Malsook, acompanha a Minjung, por favor.",
+      "SPANISH": "Malsook, acompaña a Minjung, por favor.",
+      "PERSIAN": "مال‌سوک، می تونی مین‌جونگ رو به اطراف نشون بدی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 왜~",
+      "ENGLISH": "Why me~",
+      "CHINESE_SIMPLIFIED": "为什么是我~",
+      "CHINESE_TRADITIONAL": "為什麼是我～",
+      "JAPANESE": "なんで私が？",
+      "INDONESIAN": "Kenapa harus aku~",
+      "PORTUGUESE": "Eu? Por quê?",
+      "SPANISH": "¿Yo por qué?",
+      "PERSIAN": "چرا من ~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "언제는 여기가 너네 집이라며",
+      "ENGLISH": "Didn’t you say this was your house?",
+      "CHINESE_SIMPLIFIED": "不是总说这儿早晚都是你家吗",
+      "CHINESE_TRADITIONAL": "妳之前還說這裡是妳家呢",
+      "JAPANESE": "いつも“ここは私の家だ〜”って言ってたじゃん",
+      "INDONESIAN": "Katanya ini rumah kamu?",
+      "PORTUGUESE": "Você não dizia que essa também era sua casa?",
+      "SPANISH": "¿No decías que esta también era tu casa?",
+      "PERSIAN": "مگه نگفتی اینجا خونه توست؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하.. 맞긴 한데..",
+      "ENGLISH": "Ugh... well, that’s true...",
+      "CHINESE_SIMPLIFIED": "哎...话是没错...",
+      "CHINESE_TRADITIONAL": "欸…話是沒錯啦…",
+      "JAPANESE": "はぁ…まぁ、そうだけど…",
+      "INDONESIAN": "Ugh... ya sih, bener juga...",
+      "PORTUGUESE": "Ha… bom, sim, mas mesmo assim…",
+      "SPANISH": "Ha… bueno, sí, pero igual…",
+      "PERSIAN": "اوه ... خب این درسته ..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "올라와요",
+      "ENGLISH": "Come on up.",
+      "CHINESE_SIMPLIFIED": "请上来吧",
+      "CHINESE_TRADITIONAL": "上來吧",
+      "JAPANESE": "上に行きましょう",
+      "INDONESIAN": "Ayo naik.",
+      "PORTUGUESE": "Sobe, Minjung.",
+      "SPANISH": "Sube, Minjung.",
+      "PERSIAN": "بیا بالا"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네..",
+      "ENGLISH": "Okay...",
+      "CHINESE_SIMPLIFIED": "好的...",
+      "CHINESE_TRADITIONAL": "好的…",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Oke...",
+      "PORTUGUESE": "Sim…",
+      "SPANISH": "Sí…",
+      "PERSIAN": "باشه..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 안 올라갔어요?",
+      "ENGLISH": "Why didn’t you go up?",
+      "CHINESE_SIMPLIFIED": "你怎么没上去？",
+      "CHINESE_TRADITIONAL": "你不上去嗎？",
+      "JAPANESE": "なんで行かなかったんですか？",
+      "INDONESIAN": "Kok kamu nggak ikut naik?",
+      "PORTUGUESE": "Por que você não subiu?",
+      "SPANISH": "¿Por qué no subiste?",
+      "PERSIAN": "چرا بالا نرفتی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "음.. 저 올라가면 여기 유나 씨 혼자 있잖아요 ",
+      "ENGLISH": "Hmm... if I go, Yuna will be alone.",
+      "CHINESE_SIMPLIFIED": "嗯...我上去的话，就得留有娜一个人在这了",
+      "CHINESE_TRADITIONAL": "嗯…如果我上去的話，有娜小姐不就一個人了嗎？",
+      "JAPANESE": "んー…私が行ったら、ユナさん一人になっちゃうじゃないですか",
+      "INDONESIAN": "Hmm... soalnya kalau aku ikut, Yuna bakal sendirian.",
+      "PORTUGUESE": "Hmm… se eu subisse, você ia ficar sozinha.",
+      "SPANISH": "Hmm… si subo, te quedarías sola.",
+      "PERSIAN": "هوم...اگه برم یونا تنها میشه."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 24.8
+    },
+    "SCRIPT": {
+      "KOREAN": "응? 왜요?",
+      "ENGLISH": "Huh? So what?",
+      "CHINESE_SIMPLIFIED": "嗯？怎么了吗？",
+      "CHINESE_TRADITIONAL": "嗯？所以呢？",
+      "JAPANESE": "え？ だから？",
+      "INDONESIAN": "Hah? Terus kenapa?",
+      "PORTUGUESE": "E? O que tem isso?",
+      "SPANISH": "¿Y? ¿Qué pasa con eso?",
+      "PERSIAN": "ها؟ پس چی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "혼자 두는 게 왜요..?",
+      "ENGLISH": "What about leaving her alone...?",
+      "CHINESE_SIMPLIFIED": "为什么不能留我一个人...",
+      "CHINESE_TRADITIONAL": "留我一個人怎麼了嗎…？",
+      "JAPANESE": "一人にしちゃいけないんですか？",
+      "INDONESIAN": "Emang kenapa kalau dia sendirian...?",
+      "PORTUGUESE": "E se eu ficasse sozinha…?",
+      "SPANISH": "¿Y qué si la dejo sola…?",
+      "PERSIAN": "تنها گذاشتنش چی میشه...؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.3
+    },
+    "SCRIPT": {
+      "KOREAN": "신경 쓰여요..?",
+      "ENGLISH": "Are you worried...?",
+      "CHINESE_SIMPLIFIED": "你很在意我吗...？",
+      "CHINESE_TRADITIONAL": "你很在意我嗎…？",
+      "JAPANESE": "気になるんですか？",
+      "INDONESIAN": "Kamu khawatir...?",
+      "PORTUGUESE": "Tá preocupado?",
+      "SPANISH": "¿Te preocupa?",
+      "PERSIAN": "نگران هستی...؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 30.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니..뭐 그냥요",
+      "ENGLISH": "No... it’s just...",
+      "CHINESE_SIMPLIFIED": "没有...没什么啦，哈哈",
+      "CHINESE_TRADITIONAL": "沒有…隨便說說啦，呵呵 ",
+      "JAPANESE": "いや、まぁ…別に、ちょっとね",
+      "INDONESIAN": "Nggak... cuma...",
+      "PORTUGUESE": "Não… quer dizer, não sei…",
+      "SPANISH": "No… bueno, no sé…",
+      "PERSIAN": "نه...فقط..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 32.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥? 그냥 왜요?",
+      "ENGLISH": "Just? Just what?",
+      "CHINESE_SIMPLIFIED": "没什么？什么没什么？",
+      "CHINESE_TRADITIONAL": "隨便說說？為什麼隨便說說呢？",
+      "JAPANESE": "ちょっと？ ちょっとって何〜？",
+      "INDONESIAN": "Cuma? Cuma apa?",
+      "PORTUGUESE": "Não sabe? Por quê?",
+      "SPANISH": "¿No sabes? ¿Por qué?",
+      "PERSIAN": "فقط؟ فقط چی؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 34.9
+    },
+    "SCRIPT": {
+      "KOREAN": "혼자 두면 막 불안한가~?",
+      "ENGLISH": "Do you get all uneasy when she’s by herself~?",
+      "CHINESE_SIMPLIFIED": "留我一个人会让你不放心吗~",
+      "CHINESE_TRADITIONAL": "該不會你不放心一個人吧～？",
+      "JAPANESE": "一人にすると不安になるとか〜？",
+      "INDONESIAN": "Kamu jadi nggak tenang gitu ya kalau dia sendirian~?",
+      "PORTUGUESE": "Fica nervoso de me deixar sozinha?",
+      "SPANISH": "¿Te pone nervioso dejarla sola?",
+      "PERSIAN": "وقتی او تنهاست ناراحت می شوید؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 35.4,
+      "HIDE": 37.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자꾸 막 옆에 두고 싶고 그런가?",
+      "ENGLISH": "Like, you want to keep her nearby all the time or something?",
+      "CHINESE_SIMPLIFIED": "是不是老想让我待在你身边？",
+      "CHINESE_TRADITIONAL": "是不是想把我留在身邊？",
+      "JAPANESE": "つい隣に置いておきたくなるとか？",
+      "INDONESIAN": "Kayak, pengen dia terus ada deket kamu gitu?",
+      "PORTUGUESE": "Dá vontade de me ter sempre por perto, hmm~?",
+      "SPANISH": "¿Te dan ganas de tenerme siempre cerca, hmm~?",
+      "PERSIAN": "مثلاً می‌خواین اونو همیشه در نزدیکی خود نگه دارید یا چیزی؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 38.3,
+      "HIDE": 40.3
+    },
+    "SCRIPT": {
+      "KOREAN": "응? 왜요~",
+      "ENGLISH": "Hmm? Why’s that~",
+      "CHINESE_SIMPLIFIED": "嗯？为什么呀~",
+      "CHINESE_TRADITIONAL": "嗯？為什麼啊～",
+      "JAPANESE": "ん？ なに〜？",
+      "INDONESIAN": "Hmm? Kenapa tuh~",
+      "PORTUGUESE": "Hã? Por quê?",
+      "SPANISH": "¿Eh? ¿Por qué?",
+      "PERSIAN": "هوم؟ چرا اینطوره~"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 40.7,
+      "HIDE": 41.0
+    },
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Hmm?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hmm?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "هوم؟"
+    }
+  }
+]

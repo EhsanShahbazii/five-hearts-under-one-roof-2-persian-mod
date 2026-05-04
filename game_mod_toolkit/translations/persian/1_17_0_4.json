@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이수지... ",
+      "ENGLISH": "Lee Suji...",
+      "CHINESE_SIMPLIFIED": "李秀智…",
+      "CHINESE_TRADITIONAL": "李秀智...",
+      "JAPANESE": "イ・スジ…",
+      "INDONESIAN": "Lee Soo-ji...",
+      "PORTUGUESE": "Lee Su-ji...",
+      "SPANISH": "Lee Su-ji...",
+      "PERSIAN": "لی سوجی..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "담당 선생님이 이분이셨구나...",
+      "ENGLISH": "So she’s the one in charge of me...",
+      "CHINESE_SIMPLIFIED": "原来我的主治医生就是她啊…",
+      "CHINESE_TRADITIONAL": "原來這位就是我的主治醫師啊…",
+      "JAPANESE": "担当の先生って、この人だったのか…",
+      "INDONESIAN": "Jadi dia dokternya yang menangani aku...",
+      "PORTUGUESE": "Então essa era a minha médica responsável...",
+      "SPANISH": "Así que esta es mi doctora...",
+      "PERSIAN": "پس پزشک معالج من ایشونه..."
+    }
+  }
+]

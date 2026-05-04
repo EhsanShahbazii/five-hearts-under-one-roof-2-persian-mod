@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼 궁금한 게 있으면 나한테 바로바로 물어 봐.",
+      "ENGLISH": "Anyway, if you’re curious about anything, just ask me right away.",
+      "CHINESE_SIMPLIFIED": "反正有不明白的随时可以来问我",
+      "CHINESE_TRADITIONAL": "總之，有什麼好奇的就直接問吧",
+      "JAPANESE": "とにかく、何か気になることがあったら、私にすぐ聞いてください",
+      "INDONESIAN": "Pokoknya, kalau ada yang pengen kamu tahu, langsung aja tanya ke aku, ya.",
+      "PORTUGUESE": "Bom, se quiser saber alguma coisa, pode perguntar agora.",
+      "SPANISH": "Bueno, si quieres saber algo, puedes preguntarlo ahora.",
+      "PERSIAN": "به هر حال، اگر در مورد چیزی کنجکاو هستید، فوراً از من بپرسید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저, 그러면...",
+      "ENGLISH": "Then…",
+      "CHINESE_SIMPLIFIED": "那既然这样...",
+      "CHINESE_TRADITIONAL": "既然這樣...",
+      "JAPANESE": "俺、じゃあ…",
+      "INDONESIAN": "Kalau gitu…",
+      "PORTUGUESE": "Bem, eu...",
+      "SPANISH": "Bueno, yo...",
+      "PERSIAN": "سپس…"
+    }
+  }
+]

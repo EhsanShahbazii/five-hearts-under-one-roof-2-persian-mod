@@ -1,0 +1,199 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "생일 축하해요!",
+      "ENGLISH": "Happy birthday!",
+      "CHINESE_SIMPLIFIED": "生日快乐！",
+      "CHINESE_TRADITIONAL": "生日快樂！",
+      "JAPANESE": "お誕生日おめでとうございます！",
+      "INDONESIAN": "Selamat ulang tahun!",
+      "PORTUGUESE": "Feliz aniversário!",
+      "SPANISH": "¡Feliz cumpleaños!",
+      "PERSIAN": "تولدت مبارک!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 내가 선물",
+      "ENGLISH": "Today… I’m your present.",
+      "CHINESE_SIMPLIFIED": "今天我就是你的礼物",
+      "CHINESE_TRADITIONAL": "今天我就是你的禮物",
+      "JAPANESE": "今日は私がプレゼントです〜",
+      "INDONESIAN": "Hari ini… aku adalah hadiahmu.",
+      "PORTUGUESE": "Hoje, eu sou o seu presente.",
+      "SPANISH": "Hoy, yo soy tu regalo.",
+      "PERSIAN": "امروز… من هدیه شما هستم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요... 유나 씨...",
+      "ENGLISH": "Thank you… Yuna.",
+      "CHINESE_SIMPLIFIED": "谢谢你...有娜...",
+      "CHINESE_TRADITIONAL": "謝謝你...有娜..",
+      "JAPANESE": "ありがとう…ユナさん…",
+      "INDONESIAN": "Makasih… Yuna.",
+      "PORTUGUESE": "Obrigado… Yuna…",
+      "SPANISH": "Gracias… Yuna…",
+      "PERSIAN": "ممنون… یونا."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나로 뭘 할지 한번 생각해 봐요~",
+      "ENGLISH": "Go ahead and think about what you want to do with me~",
+      "CHINESE_SIMPLIFIED": "想想看可以拿我来做些什么吧～",
+      "CHINESE_TRADITIONAL": "想想看可以拿我來做些什麽吧～",
+      "JAPANESE": "私で何をするか、考えてみてくださいね〜",
+      "INDONESIAN": "Silakan pikirin deh, kamu mau ngapain sama aku~",
+      "PORTUGUESE": "Pensa bem no que vai fazer comigo~",
+      "SPANISH": "Piensa bien lo qué vas a hacer conmigo~",
+      "PERSIAN": "برو و به این فکر کن که می خواهی با من چه کار کنی~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면, 음...",
+      "ENGLISH": "Well then, hmm…",
+      "CHINESE_SIMPLIFIED": "那，嗯...",
+      "CHINESE_TRADITIONAL": "那，嗯...",
+      "JAPANESE": "じゃあ、うーん…",
+      "INDONESIAN": "Kalau gitu, hmm…",
+      "PORTUGUESE": "Então, hmm…",
+      "SPANISH": "Entonces, hmm…",
+      "PERSIAN": "خب پس هوم…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "얍!",
+      "ENGLISH": "Yap!",
+      "CHINESE_SIMPLIFIED": "咿呀！",
+      "CHINESE_TRADITIONAL": "哎呀！",
+      "JAPANESE": "やっ！",
+      "INDONESIAN": "Yap!",
+      "PORTUGUESE": "Yap!",
+      "SPANISH": "¡Yap!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 이게 뭐예요!",
+      "ENGLISH": "Ah—what was that?!",
+      "CHINESE_SIMPLIFIED": "啊这是什么啊！",
+      "CHINESE_TRADITIONAL": "啊這是什麽啊！",
+      "JAPANESE": "あ、これ何ですか！",
+      "INDONESIAN": "Ah—apa tuh barusan?!",
+      "PORTUGUESE": "O que é isso?",
+      "SPANISH": "¿Qué es esto?",
+      "PERSIAN": "آه-این چی بود؟!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "헤헤헤 성공이다",
+      "ENGLISH": "Hehehe, success!",
+      "CHINESE_SIMPLIFIED": "嘿嘿嘿成功啦",
+      "CHINESE_TRADITIONAL": "嘿嘿嘿成功啦",
+      "JAPANESE": "へへへ 成功〜",
+      "INDONESIAN": "Hehehe, sukses!",
+      "PORTUGUESE": "Hehehe, funcionou.",
+      "SPANISH": "Jejeje, funcionó.",
+      "PERSIAN": "هههه موفق باش"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요~ 선물 맘대로 하라면서요~",
+      "ENGLISH": "Why? You said I could be your present~",
+      "CHINESE_SIMPLIFIED": "怎么啦～不是说了礼物随我处置嘛～",
+      "CHINESE_TRADITIONAL": "怎麽啦～不是說了禮物隨我處置嘛～",
+      "JAPANESE": "なんですか〜！好きにしていいって言ったじゃないですか〜",
+      "INDONESIAN": "Kenapa? Kamu sendiri yang bilang aku boleh jadi hadiahmu~",
+      "PORTUGUESE": "O que foi~? Você disse que eu podia fazer o que quisesse com você~",
+      "SPANISH": "¿Qué pasa~? Dijiste que podía hacerte lo que qusiera~",
+      "PERSIAN": "چرا؟ گفتی من میتونم هدیه تو باشم"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 말한 건 이게 아닌데...",
+      "ENGLISH": "That’s… not what I meant.",
+      "CHINESE_SIMPLIFIED": "我说的不是这个意思...",
+      "CHINESE_TRADITIONAL": "我說的不是這個意思...",
+      "JAPANESE": "私の言ったのはそういう意味じゃ…",
+      "INDONESIAN": "Itu tuh… bukan maksudku gitu.",
+      "PORTUGUESE": "Eu não me referia a isso…",
+      "SPANISH": "No me refería a eso…",
+      "PERSIAN": "این ... منظور من نبود."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래요?",
+      "ENGLISH": "Oh yeah?",
+      "CHINESE_SIMPLIFIED": "是吗？",
+      "CHINESE_TRADITIONAL": "是嗎？",
+      "JAPANESE": "そうですか？",
+      "INDONESIAN": "Oh ya?",
+      "PORTUGUESE": "Ah, não?",
+      "SPANISH": "¿Ah, no?",
+      "PERSIAN": "اوه بله؟"
+    }
+  }
+]

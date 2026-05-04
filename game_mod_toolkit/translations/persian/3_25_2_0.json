@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "쌤 어때요? 저 이제 잘 걷죠!",
+      "ENGLISH": "So, how do I look, Doc? I’m walking pretty well now, right?",
+      "CHINESE_SIMPLIFIED": "方护士你看，我现在走路很稳了吧！",
+      "CHINESE_TRADITIONAL": "久梨護理師，你覺得怎麼樣？我現在走得不錯吧！",
+      "JAPANESE": "先生、どうですか？ もうちゃんと歩けるでしょ？",
+      "INDONESIAN": "Jadi, gimana penampilanku, Dok? Jalanku udah lumayan oke kan sekarang?",
+      "PORTUGUESE": "O que acha? Já tô andando direitinho, né!",
+      "SPANISH": "¿Qué le parece? ¡Ya camino bien, verdad!",
+      "PERSIAN": "خب، من چطور به نظر بیایم، دکتر؟ الان خیلی خوب راه می‌رم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 걷는 모습 보니까 진짜 너무 뿌듯한데요?",
+      "ENGLISH": "Seeing you walk like that... honestly, it makes me so proud.",
+      "CHINESE_SIMPLIFIED": "看到你这样走路的样子，真的觉得超有成就感的！",
+      "CHINESE_TRADITIONAL": "看到你恢復的樣子，覺得很欣慰",
+      "JAPANESE": "こんなふうに歩いてる姿を見ると、本当に嬉しくなっちゃいますね",
+      "INDONESIAN": "Lihat kamu jalan kayak gitu... jujur aja, aku bangga banget.",
+      "PORTUGUESE": "Ver você andando assim me enche de orgulho, de verdade.",
+      "SPANISH": "Verlo caminar así me llena de orgullo, de verdad.",
+      "PERSIAN": "دیدنت که اونجوری راه میری...راستش خیلی باعث افتخارم میشه."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 저 누워있을 때 쌤이 신경 써주신 덕분이죠.",
+      "ENGLISH": "Come on, it’s all thanks to how much you looked after me when I was stuck in bed.",
+      "CHINESE_SIMPLIFIED": "哎呦，这多亏我躺着的时候方护士一直细心照顾啊",
+      "CHINESE_TRADITIONAL": "欸～多虧你在我養病的時候那麼照顧我",
+      "JAPANESE": "いや〜、寝てたときに先生がいろいろ気を使ってくれたおかげですよ",
+      "INDONESIAN": "Ayolah, itu semua gara-gara kamu rajin ngurusin aku waktu aku cuma bisa tiduran.",
+      "PORTUGUESE": "Ah, foi graças a você, que cuidou tão bem de mim quando eu tava de cama.",
+      "SPANISH": "Ay, fue gracias a usted, que me cuidó tanto cuando estaba en cama.",
+      "PERSIAN": "بیا، همه اینا به لطف این است که وقتی در رختخواب گیر کرده بودم چقدر از من مراقبت کردی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아니에요, 회복하는 건 오로지 환자의 몫이라구요. ",
+      "ENGLISH": "Not at all—recovery’s all on the patient.",
+      "CHINESE_SIMPLIFIED": "不是的，康复全靠患者自己的努力",
+      "CHINESE_TRADITIONAL": "才不是，能恢復全靠病人自己努力啊",
+      "JAPANESE": "違いますよ、回復するのは患者さん自身の力なんです",
+      "INDONESIAN": "Nggak juga—proses pemulihan itu tergantung pasiennya sendiri.",
+      "PORTUGUESE": "Não diga isso, se recuperar é mérito do paciente.",
+      "SPANISH": "No diga eso, recuperarse es mérito del paciente.",
+      "PERSIAN": "به هیچ وجه - بهبودی همه بر عهده بیمار است."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오히려 제가 유만 씨 덕에 병원 일 버텼는 걸요?",
+      "ENGLISH": "Honestly, it was me who got through the hospital grind thanks to you, Yuman.",
+      "CHINESE_SIMPLIFIED": "反倒是我能坚持医院工作，都是托了宥万先生的福呢？",
+      "CHINESE_TRADITIONAL": "反而是我多虧有宥萬先生，才能撐過醫院的工作呢",
+      "JAPANESE": "むしろ私のほうがユマンさんのおかげで病院の仕事を頑張れたんですから",
+      "INDONESIAN": "Jujur aja, aku yang bisa bertahan kerja di rumah sakit juga gara-gara kamu, Yuman.",
+      "PORTUGUESE": "De qualquer forma, eu que consegui aguentar o trabalho no hospital graças a você.",
+      "SPANISH": "En todo caso, yo fui la que pudo soportar el trabajo en el hospital gracias a usted.",
+      "PERSIAN": "راستش، این من بودم که به لطف تو، یومان، از مشکلات بیمارستان عبور کردم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 버티다니요?",
+      "ENGLISH": "What? What do you mean “got through it”?",
+      "CHINESE_SIMPLIFIED": "嗯？这是什么意思？",
+      "CHINESE_TRADITIONAL": "咦？撐過是什麼意思？",
+      "JAPANESE": "え？ 頑張れたってどういう意味ですか？",
+      "INDONESIAN": "Hah? Maksud kamu “bertahan” gimana?",
+      "PORTUGUESE": "Hã? Aguentar? O que quer dizer com isso?",
+      "SPANISH": "¿Eh? ¿Soportar? ¿A qué se refiere?",
+      "PERSIAN": "چی؟ منظور شما از \"گذر از اون\" چیه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아… 그냥 병원 일 쉽지 않은데",
+      "ENGLISH": "I mean... working at the hospital isn’t easy.",
+      "CHINESE_SIMPLIFIED": "啊...就是医院工作本来就不容易",
+      "CHINESE_TRADITIONAL": "啊…就是醫院的工作很不輕鬆",
+      "JAPANESE": "あぁ……病院の仕事って結構きついんですけど",
+      "INDONESIAN": "Maksudku... kerja di rumah sakit itu nggak gampang.",
+      "PORTUGUESE": "Ah… é que o trabalho no hospital não é fácil,",
+      "SPANISH": "Ah… es que el trabajo en el hospital no es fácil,",
+      "PERSIAN": "منظورم این است که ... کار در بیمارستان آسان نیست."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이상하게 유만 씨 보는 게 힘이 되더라고요",
+      "ENGLISH": "But for some reason, seeing you around—it really gave me strength.",
+      "CHINESE_SIMPLIFIED": "但奇怪的是，看到宥万先生就特别有干劲",
+      "CHINESE_TRADITIONAL": "但很奇怪，每次看到宥萬先生就覺得又有力氣了",
+      "JAPANESE": "不思議とユマンさんを見ると元気が出たんですよ",
+      "INDONESIAN": "Tapi entah kenapa, tiap lihat kamu, rasanya aku dapet semangat lagi.",
+      "PORTUGUESE": "mas te ver me dava muita força, não sei por quê.",
+      "SPANISH": "pero verlo me daba mucha fuerza, no sé por qué.",
+      "PERSIAN": "اما به دلایلی، دیدن شما در اطراف - واقعاً به من قدرت داد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 이제 병원에 유만 씨도 없고, 무슨 낙으로 살아가나",
+      "ENGLISH": "Now that you’re not there anymore, I’m like… what do I even look forward to?",
+      "CHINESE_SIMPLIFIED": "不过现在医院里没有宥万先生了，我该靠什么支撑下去啊",
+      "CHINESE_TRADITIONAL": "現在醫院沒有你，我以後要靠什麼活下去...",
+      "JAPANESE": "でももう病院にユマンさんがいないから、これから何を楽しみに生きようかな〜",
+      "INDONESIAN": "Sekarang kamu udah nggak di sana, aku jadi mikir… sekarang aku semangat karena apa, ya?",
+      "PORTUGUESE": "E agora que você não tá mais lá, que motivação eu vou ter...?",
+      "SPANISH": "Y ahora que ya no está ahí, ¿qué motivación voy a tener...?",
+      "PERSIAN": "حالا که دیگر آنجا نیستی، من فکر می‌کنم... اصلاً منتظر چه چیزی هستم؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 35.6
+    },
+    "SCRIPT": {
+      "KOREAN": "으악!!!",
+      "ENGLISH": "Ahhh!!",
+      "CHINESE_SIMPLIFIED": "啊！！！",
+      "CHINESE_TRADITIONAL": "呃啊！！！",
+      "JAPANESE": "うわっ！！！",
+      "INDONESIAN": "Ahhh!!",
+      "PORTUGUESE": "Ahhh!",
+      "SPANISH": "¡Ahhh!",
+      "PERSIAN": "آهان!!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 37.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 괜찮아요?",
+      "ENGLISH": "What?! Are you okay??",
+      "CHINESE_SIMPLIFIED": "呃？没事吧？",
+      "CHINESE_TRADITIONAL": "欸？你沒事吧？",
+      "JAPANESE": "えっ？ 大丈夫ですか！？",
+      "INDONESIAN": "Apa?! Kamu nggak apa-apa??",
+      "PORTUGUESE": "Hã? Tá tudo bem?",
+      "SPANISH": "¿Eh? ¿Estás bien?",
+      "PERSIAN": "چی؟! حالت خوبه؟؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 38.5,
+      "HIDE": 39.7
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요...",
+      "ENGLISH": "I’m fine...",
+      "CHINESE_SIMPLIFIED": "没事...",
+      "CHINESE_TRADITIONAL": "我沒事…",
+      "JAPANESE": "だ、大丈夫です……",
+      "INDONESIAN": "Aku nggak papa...",
+      "PORTUGUESE": "Sim, tô bem…",
+      "SPANISH": "Sí, estoy bien…",
+      "PERSIAN": "من خوبم..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 39.8,
+      "HIDE": 41.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨...좀 봐봐요!",
+      "ENGLISH": "Come on, let me see!",
+      "CHINESE_SIMPLIFIED": "哎哟...我看看！",
+      "CHINESE_TRADITIONAL": "讓我看一下！",
+      "JAPANESE": "ちょっと！ ちゃんと見せてくださいってば！",
+      "INDONESIAN": "Aduh, sini aku lihat!",
+      "PORTUGUESE": "Ah, por favor, deixa eu ver!",
+      "SPANISH": "¡Ay, por favor, déjeme ver!",
+      "PERSIAN": "بیا ببینم"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 41.8,
+      "HIDE": 43.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 괜찮아요 진짜...",
+      "ENGLISH": "I said I’m fine, seriously...",
+      "CHINESE_SIMPLIFIED": "真的没事...",
+      "CHINESE_TRADITIONAL": "我真的沒事啦…",
+      "JAPANESE": "だから大丈夫だってば……！",
+      "INDONESIAN": "Aku bilang aku nggak papa, serius...",
+      "PORTUGUESE": "De verdade, tô bem...",
+      "SPANISH": "De verdad, estoy bien...",
+      "PERSIAN": "گفتم خوبم جدی..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 43.6,
+      "HIDE": 46.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 얼마나 아프면 그런 소리를 내요... 봐봐요.",
+      "ENGLISH": "You let out a sound like that and expect me to believe it doesn’t hurt? Let me check.",
+      "CHINESE_SIMPLIFIED": "都疼得叫出声了还说没事...让我看看",
+      "CHINESE_TRADITIONAL": "發出那種聲音，怎麼可能會沒事…讓我看看",
+      "JAPANESE": "そんな声出すくらい痛いんでしょ？ 見せてください",
+      "INDONESIAN": "Kamu teriak gitu tapi mau aku percaya nggak sakit? Biar aku cek.",
+      "PORTUGUESE": "Mas você gritou de dor, deixa eu ver!",
+      "SPANISH": "Pero si gritaste del dolor, ¡déjeme ver!",
+      "PERSIAN": "شما چنین صدایی را بیرون می دهید و از من انتظار دارید که باور کنم ضرری ندارد؟ بذار چک کنم"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 46.7,
+      "HIDE": 50.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 창피하니까 좀 그만 물어봐요! 괜찮다니깐요!",
+      "ENGLISH": "Ugh, it’s embarrassing! Stop asking! I said I’m okay!",
+      "CHINESE_SIMPLIFIED": "啊太丢人了别问啦！说了没事！",
+      "CHINESE_TRADITIONAL": "啊～好丟臉，不要問了啦！我說我沒事了啦！",
+      "JAPANESE": "恥ずかしいからやめてくださいよ！本当に平気ですってば！",
+      "INDONESIAN": "Ugh, malu tau! Udah deh, aku bilang aku nggak apa-apa!",
+      "PORTUGUESE": "Ai, que vergonha, para de perguntar! Tô dizendo que tô bem!",
+      "SPANISH": "¡Ay, qué vergüenza, deje de preguntar! ¡Le digo que estoy bien!",
+      "PERSIAN": "اوه، خجالت آور است! از سوال کردن دست بردارید! گفتم خوبم!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 52.3,
+      "HIDE": 53.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아..씁...",
+      "ENGLISH": "Ah... damn...",
+      "CHINESE_SIMPLIFIED": "啊..嘶...",
+      "CHINESE_TRADITIONAL": "啊…痛...",
+      "JAPANESE": "あ……",
+      "INDONESIAN": "Ah... sial...",
+      "PORTUGUESE": "Ah... tsc...",
+      "SPANISH": "Ah... tch...",
+      "PERSIAN": "آه... لعنتی..."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 53.5,
+      "HIDE": 54.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아..이거 봐!",
+      "ENGLISH": "See?!",
+      "CHINESE_SIMPLIFIED": "啊...你看吧！",
+      "CHINESE_TRADITIONAL": "你看吧！",
+      "JAPANESE": "ほら、やっぱり！",
+      "INDONESIAN": "Tuh kan?!",
+      "PORTUGUESE": "Ah, tá vendo!",
+      "SPANISH": "¡Ah, lo ve!",
+      "PERSIAN": "ببین؟!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 55.2,
+      "HIDE": 56.5
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 집에 데려다 줄게요.",
+      "ENGLISH": "Alright, I’m taking you home.",
+      "CHINESE_SIMPLIFIED": "我送你回家吧",
+      "CHINESE_TRADITIONAL": "我送你回家",
+      "JAPANESE": "僕が家まで送ります",
+      "INDONESIAN": "Oke, aku anterin kamu pulang.",
+      "PORTUGUESE": "Vou te levar pra casa.",
+      "SPANISH": "Voy a llevarla a casa.",
+      "PERSIAN": "باشه میبرمت خونه"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 56.6,
+      "HIDE": 57.4
+    },
+    "SCRIPT": {
+      "KOREAN": "일어나요!",
+      "ENGLISH": "Come on—get up.",
+      "CHINESE_SIMPLIFIED": "起来吧！",
+      "CHINESE_TRADITIONAL": "起來吧！",
+      "JAPANESE": "行きましょう！",
+      "INDONESIAN": "Ayo—bangun.",
+      "PORTUGUESE": "Levanta!",
+      "SPANISH": "¡Levántese!",
+      "PERSIAN": "بیا - برخیز."
+    }
+  }
+]

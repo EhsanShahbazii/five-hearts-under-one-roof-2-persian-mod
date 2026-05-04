@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 다리가 좀 뻐근한 거 같아요",
+      "ENGLISH": "My leg’s feeling kind of stiff.",
+      "CHINESE_SIMPLIFIED": "我觉得我的腿有点酸",
+      "CHINESE_TRADITIONAL": "我覺得我的腿有點酸",
+      "JAPANESE": "足がちょっとこわばっているみたいです",
+      "INDONESIAN": "Sepertinya kakiku agak pegal.",
+      "PORTUGUESE": "Acho que minha perna está meio pesada.",
+      "SPANISH": "Creo que tengo la pierna un poco entumida.",
+      "PERSIAN": "پاهام بدجور خشک شده و گرفته."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다리요? 잠시만요!",
+      "ENGLISH": "Your leg? One sec—",
+      "CHINESE_SIMPLIFIED": "腿吗？等一下！",
+      "CHINESE_TRADITIONAL": "腿嗎？等一下！",
+      "JAPANESE": "足ですか？ 少々お待ちください！",
+      "INDONESIAN": "Kaki? Sebentar ya!",
+      "PORTUGUESE": "Sua perna? Só um instante!",
+      "SPANISH": "¿La pierna? ¡Un momento!",
+      "PERSIAN": "پاهاتون؟ یه لحظه اجازه بدین!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "세상에 털이...",
+      "ENGLISH": "Whoa... so much hair...",
+      "CHINESE_SIMPLIFIED": "天啊，这毛也太…",
+      "CHINESE_TRADITIONAL": "天啊，毛好多…",
+      "JAPANESE": "あら、毛が…",
+      "INDONESIAN": "Ya ampun, bulunya...",
+      "PORTUGUESE": "Nossa, que tanto de pelos...",
+      "SPANISH": "Dios mío, cuánto pelo...",
+      "PERSIAN": "وای خدا... پشمام چقدر مو داره..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چیزی گفتین؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아무것도 아니에요.",
+      "ENGLISH": "Oh! N-nothing!",
+      "CHINESE_SIMPLIFIED": "啊，没什么",
+      "CHINESE_TRADITIONAL": "啊，沒事",
+      "JAPANESE": "あ、なんでもありません",
+      "INDONESIAN": "Ah, nggak, nggak ada apa-apa.",
+      "PORTUGUESE": "Ah, nada não.",
+      "SPANISH": "Ah, no, nada.",
+      "PERSIAN": "ها؟ نـ... نه، هیچی!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "마사지 해드릴게요! ",
+      "ENGLISH": "Let me massage that for you.",
+      "CHINESE_SIMPLIFIED": "我来帮您按摩吧！",
+      "CHINESE_TRADITIONAL": "我幫您按摩一下吧！",
+      "JAPANESE": "マッサージしてあげますね！",
+      "INDONESIAN": "Saya pijitin ya!",
+      "PORTUGUESE": "Vou fazer uma massagem em você!",
+      "SPANISH": "¡Le haré un masaje!",
+      "PERSIAN": "بذارین براتون ماساژش بدم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "지금은 어떠세요? ",
+      "ENGLISH": "How does that feel?",
+      "CHINESE_SIMPLIFIED": "现在感觉怎么样？",
+      "CHINESE_TRADITIONAL": "現在感覺怎麼樣呢？",
+      "JAPANESE": "今はどうですか？",
+      "INDONESIAN": "Sekarang gimana rasanya?",
+      "PORTUGUESE": "E agora, como está?",
+      "SPANISH": "¿Cómo se siente ahora?",
+      "PERSIAN": "الان چطوره؟ حسش چیه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아까보단 좀 괜찮아지셨나요?",
+      "ENGLISH": "Any better than earlier?",
+      "CHINESE_SIMPLIFIED": "有比刚才好一些吗？",
+      "CHINESE_TRADITIONAL": "有比剛才好一些嗎？",
+      "JAPANESE": "さっきより少し楽になりましたか？",
+      "INDONESIAN": "Sudah mendingan dibanding tadi?",
+      "PORTUGUESE": "Melhorou em relação a antes?",
+      "SPANISH": "¿Está mejor que antes?",
+      "PERSIAN": "نسبت به قبل بهتر نشد؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네 훨씬 좋아졌어요.",
+      "ENGLISH": "Yeah, feels a lot better.",
+      "CHINESE_SIMPLIFIED": "是的，好很多了",
+      "CHINESE_TRADITIONAL": "是的，好很多了",
+      "JAPANESE": "はい、ずっと良くなりました。",
+      "INDONESIAN": "Iya, jauh lebih enakan.",
+      "PORTUGUESE": "Sim, está bem melhor.",
+      "SPANISH": "Sí, muchísimo mejor.",
+      "PERSIAN": "آره خدایی، خیلی بهتر شد."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 다행이에요!",
+      "ENGLISH": "Good to hear!",
+      "CHINESE_SIMPLIFIED": "那就好！",
+      "CHINESE_TRADITIONAL": "那就好！",
+      "JAPANESE": "よかったです！",
+      "INDONESIAN": "Syukurlah!",
+      "PORTUGUESE": "Ah, que bom!",
+      "SPANISH": "¡Qué bueno!",
+      "PERSIAN": "خدا رو شکر، خیالم راحت شد!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저..뭐 하세요?",
+      "ENGLISH": "Wait—what are you…?",
+      "CHINESE_SIMPLIFIED": "呃，你在干嘛？",
+      "CHINESE_TRADITIONAL": "那個...你在做什麼？",
+      "JAPANESE": "あの…何してるんですか？",
+      "INDONESIAN": "Eh, kamu ngapain...?",
+      "PORTUGUESE": "Ei, o que você está fazendo?",
+      "SPANISH": "Eh... ¿qué está haciendo?",
+      "PERSIAN": "ببخشید... الان دارین چیکار می‌کنین؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 죄송해요!",
+      "ENGLISH": "Ah! Sorry!",
+      "CHINESE_SIMPLIFIED": "啊，对不起对不起！",
+      "CHINESE_TRADITIONAL": "啊，對不起對不起！",
+      "JAPANESE": "あっ、ごめんなさい！",
+      "INDONESIAN": "Ah, maaf ya!",
+      "PORTUGUESE": "Ah, desculpa!",
+      "SPANISH": "¡Ah, perdón!",
+      "PERSIAN": "وای، ببخشید تو رو خدا!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 35.7
+    },
+    "SCRIPT": {
+      "KOREAN": "털이 수북한 게 고양이 같아서 그만...",
+      "ENGLISH": "You’ve got so much leg hair, I thought you were a cat for a second...",
+      "CHINESE_SIMPLIFIED": "我看毛太多了，看起来有点像猫，就…",
+      "CHINESE_TRADITIONAL": "因為毛有點多，看起來像隻貓…不小心就…",
+      "JAPANESE": "毛がふさふさしてて、つい猫みたいだなって…",
+      "INDONESIAN": "Soalnya bulunya lebat banget, jadi aku refleks... kayak lihat kucing...",
+      "PORTUGUESE": "É que com tantos pelos, parecia até um gato...",
+      "SPANISH": "Es que... con tanto vello, parecía un gato y pues...",
+      "PERSIAN": "انقدر موهای پاتون زیاد و نرم بود، یه لحظه حس کردم گربه‌ست نازش کردم..."
+    }
+  }
+]

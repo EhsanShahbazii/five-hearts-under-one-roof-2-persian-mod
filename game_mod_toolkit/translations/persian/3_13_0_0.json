@@ -1,0 +1,344 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님...!",
+      "ENGLISH": "Min-jung...!",
+      "CHINESE_SIMPLIFIED": "敏静...！",
+      "CHINESE_TRADITIONAL": "敏靜…！",
+      "JAPANESE": "ミンジョンさん…！",
+      "INDONESIAN": "Min-jung...!",
+      "PORTUGUESE": "Minjung...!",
+      "SPANISH": "¡Minjung...!",
+      "PERSIAN": "مین‌جونگ...!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah?",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Ya?",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 생각을 그렇게 해요?",
+      "ENGLISH": "What’s got you so deep in thought?",
+      "CHINESE_SIMPLIFIED": "你在想什么呢？",
+      "CHINESE_TRADITIONAL": "妳在想什麼呢？",
+      "JAPANESE": "何をそんなに考えてるんですか？",
+      "INDONESIAN": "Kamu lagi mikirin apa sih, sampai bengong gitu?",
+      "PORTUGUESE": "Em que você está pensando assim?",
+      "SPANISH": "¿En qué estás pensando así?",
+      "PERSIAN": "چه چیزی شما را اینقدر در فکر فرو برده است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 아까 집 앞에 그분들, 옛날부터 팬이었던 것 같은데.",
+      "ENGLISH": "Well… those people outside the house earlier… I think some of them have been fans for a long time.",
+      "CHINESE_SIMPLIFIED": "不是，刚才房子外面那些人，好像是从前就喜欢我的粉丝",
+      "CHINESE_TRADITIONAL": "剛剛在家門口看到的那些人，好像從以前就是我的粉絲",
+      "JAPANESE": "さっき家の前にいた人たち、昔からのファンだったみたいで…",
+      "INDONESIAN": "Hmm… orang-orang yang tadi di luar rumah itu… kayaknya beberapa dari mereka udah lama banget jadi fans aku.",
+      "PORTUGUESE": "É que aquelas pessoas que estavam na frente da casa antes parecem ser fãs de longa data.",
+      "SPANISH": "Es que, esas personas que estaban afuera de la casa antes, parecen haber sido fans desde hace tiempo.",
+      "PERSIAN": "خب... اون افراد زودتر بیرون از خونه... فکر می‌کنم برخی از اونا برای مدت طولانی طرفدار بوده‌اند."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 실망시켜 드린 거 같아서요.",
+      "ENGLISH": "I just feel like I really let them down.",
+      "CHINESE_SIMPLIFIED": "我觉得，好像让他们太失望了",
+      "CHINESE_TRADITIONAL": "我好像讓他們太失望了…",
+      "JAPANESE": "すごく失望させちゃった気がして…",
+      "INDONESIAN": "Aku ngerasa kayak... udah ngecewain mereka.",
+      "PORTUGUESE": "Sinto que as decepcionei muito.",
+      "SPANISH": "Siento que los he decepcionado mucho.",
+      "PERSIAN": "من فقط احساس می کنم واقعا اونا رو ناامید کرده ام."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에이  실망은 무슨 실망이에요!",
+      "ENGLISH": "Oh come on, you didn’t let anyone down!",
+      "CHINESE_SIMPLIFIED": "哎呀，什么失望不失望的呀！",
+      "CHINESE_TRADITIONAL": "唉，哪有什麼失望啦！",
+      "JAPANESE": "え〜、失望だなんて！",
+      "INDONESIAN": "Oh, ayolah, kamu nggak ngecewain siapa-siapa kok!",
+      "PORTUGUESE": "Ai, de que decepção você fala!",
+      "SPANISH": "¡Ay, de qué decepción hablas!",
+      "PERSIAN": "اوه، شما کسی را ناامید نکردید!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님이 진짜 갑질한 것도 아닌데",
+      "ENGLISH": "It’s not like you actually did anything wrong.",
+      "CHINESE_SIMPLIFIED": "敏静又不是真的做了报道里那种霸凌的事",
+      "CHINESE_TRADITIONAL": "敏靜又不是哪種真的會霸凌別人的人",
+      "JAPANESE": "ミンジョンさん、本当にあんなことしたわけじゃないじゃないですか",
+      "INDONESIAN": "Lagian kamu juga nggak ngelakuin hal yang salah.",
+      "PORTUGUESE": "Se você não fez nada daquilo de que te acusam, né?",
+      "SPANISH": "Si no hiciste nada de lo que te acusan, ¿verdad?",
+      "PERSIAN": "اینطوری نیست که شما واقعاً کار اشتباهی انجام داده باشید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇겠죠? ",
+      "ENGLISH": "You think so?",
+      "CHINESE_SIMPLIFIED": "是吧？",
+      "CHINESE_TRADITIONAL": "是吧？",
+      "JAPANESE": "ですよね…？ ",
+      "INDONESIAN": "Kamu pikir gitu?",
+      "PORTUGUESE": "Certo?",
+      "SPANISH": "¿Verdad?",
+      "PERSIAN": "شما اینطوری فکر می کنید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 저희 뭐부터 하면 될까요?",
+      "ENGLISH": "Of course! So… what should we do first?",
+      "CHINESE_SIMPLIFIED": "那我们现在该先做什么呢？",
+      "CHINESE_TRADITIONAL": "那我們接下來要先做什麼？",
+      "JAPANESE": "じゃあ、これから何をすればいいと思います？",
+      "INDONESIAN": "Ya iyalah! Jadi... kita mulai dari mana, nih?",
+      "PORTUGUESE": "Então, por onde começamos?",
+      "SPANISH": "Entonces, ¿por dónde empezamos?",
+      "PERSIAN": "البته! خب... اول چیکار کنیم؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Hmm…",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm…",
+      "PORTUGUESE": "Mmm...",
+      "SPANISH": "Mmm...",
+      "PERSIAN": "هوم…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 그때 그 돼지탈 그분을 찾아보는 게 어때요?",
+      "ENGLISH": "Ah! What if we track down that person in the pig costume from before?",
+      "CHINESE_SIMPLIFIED": "啊！要不我们试着找找当时那位戴猪头套的小姐？",
+      "CHINESE_TRADITIONAL": "啊！要不然先去找那個戴豬頭面具的人？",
+      "JAPANESE": "あっ！ あの時のブタの着ぐるみの人、探してみません？",
+      "INDONESIAN": "Ah! Gimana kalau kita cari orang yang pakai kostum babi waktu itu?",
+      "PORTUGUESE": "Ah! E se procurarmos aquela pessoa com a fantasia de porco daquela vez?",
+      "SPANISH": "¡Ah! ¿Y si buscamos a esa persona con el traje de cerdo de aquella vez?",
+      "PERSIAN": "آه! اگر اون شخص را در لباس خوک از قبل ردیابی کنیم چه؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그때 상황이 기사처럼 그런 게 아니라고 해명해 주면 되지 않을까요?",
+      "ENGLISH": "If they could explain what really happened, maybe that could clear things up.",
+      "CHINESE_SIMPLIFIED": "如果她能帮忙解释当时的情况，其实跟新闻写的不一样，不就能澄清了吗？",
+      "CHINESE_TRADITIONAL": "只要她能幫忙澄清，當時的情況根本跟新聞講得不一樣，不就好了嗎？",
+      "JAPANESE": "あの人が記事とは違うって証明してくれたらいいんじゃないですか？",
+      "INDONESIAN": "Kalau dia bisa jelasin kejadian sebenernya, mungkin semuanya bisa jadi jelas.",
+      "PORTUGUESE": "Não poderíamos esclarecer que aquilo não foi como os artigos pintaram?",
+      "SPANISH": "¿No podríamos aclarar que lo de esa ocasión no fue como lo pintaron los artículos?",
+      "PERSIAN": "اگر اونا می توانستند توضیح دهند که واقعاً چی شده مگه، شاید می توانست همه چیز را روشن کند."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.8,
+      "HIDE": 40.4
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 좋아요 그분 어디 가면 만날 수 있어요?",
+      "ENGLISH": "Hmm, good idea. Do you know where we could find them?",
+      "CHINESE_SIMPLIFIED": "嗯，好主意。要去哪里才能见到她呢？",
+      "CHINESE_TRADITIONAL": "嗯，好主意，要去哪裡才能遇到他？",
+      "JAPANESE": "うん、いいですね。 その人、どこに行けば会えそうですか？",
+      "INDONESIAN": "Hmm, ide bagus. Kamu tahu dia bisa ditemukan di mana?",
+      "PORTUGUESE": "Mmm, parece-me bem. Onde poderíamos encontrá-la?",
+      "SPANISH": "Mmm, me parece bien. ¿Dónde podríamos encontrarla?",
+      "PERSIAN": "هوم، ایده خوبی است. می دانید کجا می توانیم اونا رو پیدا کنیم؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 40.2,
+      "HIDE": 43.3
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 유정 씨 일하는 거 본 게 ",
+      "ENGLISH": "Well… I’ve seen Yu-jeong working at ",
+      "CHINESE_SIMPLIFIED": "嗯...印象里见到有情工作的地方",
+      "CHINESE_TRADITIONAL": "嗯…有情小姐工作的地方",
+      "JAPANESE": "えっと…ユジョンさんが働いてるのみたのが",
+      "INDONESIAN": "Hmm… aku pernah lihat Yu-jeong kerja ",
+      "PORTUGUESE": "Mmm... eu a vi trabalhando no",
+      "SPANISH": "Mmm... la vi trabajando en",
+      "PERSIAN": "خب... من یو-جئونگ را دیده ام که در اون کار می کند"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 44.3,
+      "HIDE": 48.6
+    },
+    "SCRIPT": {
+      "KOREAN": "콘서트장, 병원, 편의점인데...",
+      "ENGLISH": "a concert venue, a hospital, and a convenience store...",
+      "CHINESE_SIMPLIFIED": "有演唱会现场、医院、便利店...",
+      "CHINESE_TRADITIONAL": "有演唱會、醫院、還有便利商店…",
+      "JAPANESE": "コンサート会場、病院、コンビニですけど…",
+      "INDONESIAN": "di tempat konser, rumah sakit, sama minimarket...",
+      "PORTUGUESE": "estádio de shows, em um hospital e em uma loja de conveniência...",
+      "SPANISH": "el estadio de conciertos, en un hospital y en una tienda de conveniencia...",
+      "PERSIAN": "یک سالن کنسرت، یک بیمارستان و یک فروشگاه رفاهی..."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 48.7,
+      "HIDE": 51.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 일을 그렇게나 많이 하세요? ",
+      "ENGLISH": "Wait, she works that many jobs?",
+      "CHINESE_SIMPLIFIED": "哦？她打这么多份工吗？",
+      "CHINESE_TRADITIONAL": "欸，她的工作也太多了吧？",
+      "JAPANESE": "えっ、そんなに仕事してるんですか？",
+      "INDONESIAN": "Tunggu, dia kerja sebanyak itu?",
+      "PORTUGUESE": "Ah, trabalha em tantos lugares?",
+      "SPANISH": "¿Ah, trabaja en tantos lugares?",
+      "PERSIAN": "صبر کن، او این همه کار می کند؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 51.6,
+      "HIDE": 54.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 만나기가 쉽지 않겠는데요...",
+      "ENGLISH": "Yeah, it’s not gonna be easy to track her down...",
+      "CHINESE_SIMPLIFIED": "哎，看来不太容易见到啊...",
+      "CHINESE_TRADITIONAL": "哈，要見到她可不容易啊…",
+      "JAPANESE": "はぁ…会うの、簡単じゃなさそうですね…",
+      "INDONESIAN": "Iya, jadi nyari dia pasti nggak gampang...",
+      "PORTUGUESE": "Uf, não vai ser fácil encontrá-la...",
+      "SPANISH": "Uf, no va a ser fácil encontrarla...",
+      "PERSIAN": "آره، ردیابی او کار آسانی نیست..."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 54.5,
+      "HIDE": 56.6
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그 전에 먼저 할 게 있어요.",
+      "ENGLISH": "But—there’s something we need to do first.",
+      "CHINESE_SIMPLIFIED": "不过在那之前还有件事要先做",
+      "CHINESE_TRADITIONAL": "不過在那之前有件事要先做",
+      "JAPANESE": "でも、その前にやることがあります",
+      "INDONESIAN": "Tapi—ada satu hal yang harus kita lakuin dulu.",
+      "PORTUGUESE": "Mas antes há algo que devemos fazer.",
+      "SPANISH": "Pero antes hay algo que debemos hacer.",
+      "PERSIAN": "اما - یک کاری وجود دارد که باید ابتدا انجام دهیم."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 56.8,
+      "HIDE": 58.1
+    },
+    "SCRIPT": {
+      "KOREAN": "할 게 있다고요?",
+      "ENGLISH": "Something we need to do?",
+      "CHINESE_SIMPLIFIED": "还有事要先做？",
+      "CHINESE_TRADITIONAL": "有事要先做？",
+      "JAPANESE": "やること、ですか？",
+      "INDONESIAN": "Hal yang harus kita lakuin dulu?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué cosa?",
+      "PERSIAN": "کاری که باید انجام دهیم؟"
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 고양이!\n- 강아지!",
+      "ENGLISH": "- Cat! \n- Dog!",
+      "CHINESE_SIMPLIFIED": "-小猫！\n-小狗！",
+      "CHINESE_TRADITIONAL": "-小貓\n-小狗",
+      "JAPANESE": "‐ 猫！\n‐ 犬！",
+      "INDONESIAN": "- Kucing! \n- Anjing!",
+      "PORTUGUESE": "- Gato!\n- Cachorro!",
+      "SPANISH": "- ¡Gato!\n- ¡Perro!",
+      "PERSIAN": "- گربه! - سگ!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어머 우선 씨 그걸 어떻게 알았어?",
+      "ENGLISH": "Oh my gosh, Wuseon—how did you know?",
+      "CHINESE_SIMPLIFIED": "天啊优先，你怎么会知道？",
+      "CHINESE_TRADITIONAL": "天啊，宇善，你怎麼會知道？",
+      "JAPANESE": "あら ウソンさん どうしてわかったの？",
+      "INDONESIAN": "Ya ampun, Wuseon—kok kamu bisa tahu?",
+      "PORTUGUESE": "Oh, Wooseon! Como você soube?",
+      "SPANISH": "¡Oh, Wooseon! ¿Cómo supiste?",
+      "PERSIAN": "اوه خدای من، ووسئون-از کجا فهمیدی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 전에 과장님께서 고양이 얘기 하신 적 있잖아요!",
+      "ENGLISH": "Well, you mentioned cats once before, remember?",
+      "CHINESE_SIMPLIFIED": "哎哟，之前科长不是聊过养猫的事嘛！",
+      "CHINESE_TRADITIONAL": "哎，之前課長您不是曾經提起過貓咪的事嗎！",
+      "JAPANESE": "前に課長が猫の話してたじゃないですか！",
+      "INDONESIAN": "Kamu pernah nyebut kucing sebelumnya, inget nggak?",
+      "PORTUGUESE": "Ah, uma vez você comentou algo sobre gatos, chefe.",
+      "SPANISH": "Ah, una vez usted mencionó algo sobre los gatos, jefa.",
+      "PERSIAN": "خوب، قبلاً یک بار به گربه ها اشاره کردید، یادتان هست؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그걸 다 기억하고 있었어?",
+      "ENGLISH": "You remembered that?",
+      "CHINESE_SIMPLIFIED": "连这种细节都记得？",
+      "CHINESE_TRADITIONAL": "連這種細節都記得？",
+      "JAPANESE": "それ覚えてたの？",
+      "INDONESIAN": "Kamu inget itu?",
+      "PORTUGUESE": "E você lembrou disso?",
+      "SPANISH": "¿Y te acordaste de eso?",
+      "PERSIAN": "یادت رفت؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "별거 아닌데요 뭐~",
+      "ENGLISH": "It wasn’t a big deal~",
+      "CHINESE_SIMPLIFIED": "这没什么大不了的啦~",
+      "CHINESE_TRADITIONAL": "沒什麼大不了的啦～",
+      "JAPANESE": "たいしたことじゃないですよ〜",
+      "INDONESIAN": "Itu bukan hal besar, kok~",
+      "PORTUGUESE": "Não é nada demais~",
+      "SPANISH": "No es nada del otro mundo~",
+      "PERSIAN": "چیز مهمی نبود~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 무엇보다 과장님께서 고양이 상이잖아요. ",
+      "ENGLISH": "And more than anything… you kinda look like a cat, Chief.",
+      "CHINESE_SIMPLIFIED": "而且最主要的是，科长明明是标准的小猫相呢",
+      "CHINESE_TRADITIONAL": "最重要的是，課長就是標準的小貓相啊",
+      "JAPANESE": "それに何より課長って猫っぽい顔してますし",
+      "INDONESIAN": "Dan yang paling utama… Chief tuh emang mirip kucing, gitu.",
+      "PORTUGUESE": "Além disso, você tem cara de gato.",
+      "SPANISH": "Además, usted tiene cara de gato.",
+      "PERSIAN": "و بیش از هر چیز... شما به نوعی شبیه یک گربه هستید، رئیس."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야옹~!",
+      "ENGLISH": "Meow~!",
+      "CHINESE_SIMPLIFIED": "喵呜~！",
+      "CHINESE_TRADITIONAL": "喵嗚～！",
+      "JAPANESE": "にゃ〜ん！",
+      "INDONESIAN": "Meong~!",
+      "PORTUGUESE": "Miau~!",
+      "SPANISH": "Miau~!",
+      "PERSIAN": "میو ~!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "- 야옹~\n- 야옹~",
+      "ENGLISH": "- Meow~ \n- Meow~",
+      "CHINESE_SIMPLIFIED": "-喵呜~\n-喵呜~",
+      "CHINESE_TRADITIONAL": "-喵嗚～\n-喵嗚～",
+      "JAPANESE": "‐ にゃ〜ん！\n‐ にゃ〜ん！",
+      "INDONESIAN": "— Meong~ \n— Meong~",
+      "PORTUGUESE": "- Miau~!\n- Miau~!",
+      "SPANISH": "- ¡Miau~!\n¡Miau~!",
+      "PERSIAN": "- میو ~ - میو ~"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저렇게 큰 고양이가 어딨다고...",
+      "ENGLISH": "Where in the world have you seen a cat that big…",
+      "CHINESE_SIMPLIFIED": "哪有那么大只的猫...",
+      "CHINESE_TRADITIONAL": "哪有這麼大隻的貓...",
+      "JAPANESE": "そんな大きい猫いるわけないでしょ…",
+      "INDONESIAN": "Emangnya di mana pernah liat kucing segede itu…",
+      "PORTUGUESE": "Desde quando existem gatos tão grandes…?",
+      "SPANISH": "¿Desde cuándo hay gatos tan grandes…?",
+      "PERSIAN": "کجای دنیا گربه ای به این بزرگی دیده اید…"
+    }
+  }
+]

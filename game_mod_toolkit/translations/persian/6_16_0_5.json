@@ -1,0 +1,253 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님! 생일 축하드려요!",
+      "ENGLISH": "Yuman! Happy birthday!",
+      "CHINESE_SIMPLIFIED": "宥万先生！祝你生日快乐！",
+      "CHINESE_TRADITIONAL": "宥萬先生！祝你生日快樂！",
+      "JAPANESE": "ユマンさん！お誕生日おめでとうございます！",
+      "INDONESIAN": "Yuman! Selamat ulang tahun!",
+      "PORTUGUESE": "Feliz aniversário, senhor Yumán!",
+      "SPANISH": "¡Feliz cumpleaños, señor Yumán!",
+      "PERSIAN": "یومان! تولدت مبارک!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요 유정 씨...",
+      "ENGLISH": "Thank you, Yu-jeong...",
+      "CHINESE_SIMPLIFIED": "谢谢你，有情...",
+      "CHINESE_TRADITIONAL": "謝謝你，有情...",
+      "JAPANESE": "ありがとう ユジョンさん…",
+      "INDONESIAN": "Makasih, Yu-jeong...",
+      "PORTUGUESE": "Obrigado, Yujeong…",
+      "SPANISH": "Gracias, Yujeong…",
+      "PERSIAN": "ممنون یو جونگ..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 초 불 때 소원은 빌으셨어요?",
+      "ENGLISH": "Oh? Did you make a wish when you blew out the candles?",
+      "CHINESE_SIMPLIFIED": "咦？吹蜡烛的时候许愿了吗？",
+      "CHINESE_TRADITIONAL": "咦？吹蠟燭的時候許願了嗎？",
+      "JAPANESE": "あ、ロウソク吹くときお願い事しました？",
+      "INDONESIAN": "Oh? Kamu sempet make a wish pas tiup lilin nggak?",
+      "PORTUGUESE": "Hã? Você fez um pedido quando soprou as velas?",
+      "SPANISH": "¿Eh? ¿Pidió un deseo cuando sopló las velas?",
+      "PERSIAN": "اوه؟ وقتی شمع ها را فوت کردی آرزویی کردی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 아뇨...",
+      "ENGLISH": "Huh? No, I didn’t…",
+      "CHINESE_SIMPLIFIED": "啊？还没...",
+      "CHINESE_TRADITIONAL": "啊？還沒...",
+      "JAPANESE": "え？ いえ…",
+      "INDONESIAN": "Hah? Nggak, belum…",
+      "PORTUGUESE": "Ah? Esqueci…",
+      "SPANISH": "¿Ah? Lo olvidé…",
+      "PERSIAN": "ها؟ نه، نداشتم…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "헉, 지금이라도 빨리 빌어요!",
+      "ENGLISH": "Gasp—then hurry and make one now!",
+      "CHINESE_SIMPLIFIED": "天呐，现在赶紧许一个吧！",
+      "CHINESE_TRADITIONAL": "天啊，那趕快許願吧！",
+      "JAPANESE": "えっ 今からでも早くお願いしてください！",
+      "INDONESIAN": "Hah—kalau gitu cepet make sekarang!",
+      "PORTUGUESE": "Faz um rápido, ainda dá tempo!",
+      "SPANISH": "¡Pida uno rápido, aún hay tiempo!",
+      "PERSIAN": "نفس نفس زدن - پس عجله کنید و همین الان یکی بسازید!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 제 소원은 ",
+      "ENGLISH": "Hmm… my wish is…",
+      "CHINESE_SIMPLIFIED": "嗯，我的愿望是",
+      "CHINESE_TRADITIONAL": "嗯，我的願望是",
+      "JAPANESE": "うーん、俺のお願いは…",
+      "INDONESIAN": "Hmm… harapanku adalah…",
+      "PORTUGUESE": "Mmm, desejo…",
+      "SPANISH": "Mmm, deseo…",
+      "PERSIAN": "هوم… آرزوی من این است…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm…",
+      "PORTUGUESE": "Mmm…",
+      "SPANISH": "Mmm…",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "얍!",
+      "ENGLISH": "Yap!",
+      "CHINESE_SIMPLIFIED": "咿呀！",
+      "CHINESE_TRADITIONAL": "呀！",
+      "JAPANESE": "やっ！",
+      "INDONESIAN": "Yap!",
+      "PORTUGUESE": "Yap!",
+      "SPANISH": "¡Yap!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨가 웃는 거 예~",
+      "ENGLISH": "To see Yu-jeong smile like this~",
+      "CHINESE_SIMPLIFIED": "是想看到有情开心的样子，耶~",
+      "CHINESE_TRADITIONAL": "是想看到有情開心的樣子，耶~",
+      "JAPANESE": "ユジョンさんの笑顔を見たい〜",
+      "INDONESIAN": "Bisa liat senyum Yu-jeong kayak gini terus~",
+      "PORTUGUESE": "Que a Yujeong sorria assim pra sempre~!",
+      "SPANISH": "¡Que Yujeong sonría así siempre~!",
+      "PERSIAN": "برای دیدن لبخند یو-جئونگ اینطوری~"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "음식 가지고 장난치면 안 되는데...",
+      "ENGLISH": "You’re not supposed to play with food, you know…",
+      "CHINESE_SIMPLIFIED": "不能随便浪费食物的...",
+      "CHINESE_TRADITIONAL": "不能隨便浪費食物...",
+      "JAPANESE": "食べ物で遊んじゃダメですよ…",
+      "INDONESIAN": "Nggak boleh main-mainin makanan, tau…",
+      "PORTUGUESE": "Não devia brincar com a comida...",
+      "SPANISH": "No debería jugar con la comida...",
+      "PERSIAN": "قرار نیست با غذا بازی کنید، می دانید…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 저는 재밌을 줄 알고...",
+      "ENGLISH": "I thought it’d be funny...",
+      "CHINESE_SIMPLIFIED": "啊，我以为会很好玩...",
+      "CHINESE_TRADITIONAL": "啊，我以為會很好玩...",
+      "JAPANESE": "あ、楽しくなるかなって…",
+      "INDONESIAN": "Kupikir bakal lucu...",
+      "PORTUGUESE": "Ah, eu achei que ia ser divertido…",
+      "SPANISH": "Ah, pensé que sería divertido…",
+      "PERSIAN": "فکر کردم خنده داره..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.4
+    },
+    "SCRIPT": {
+      "KOREAN": "장난이었어요 ",
+      "ENGLISH": "It was just a joke.",
+      "CHINESE_SIMPLIFIED": "我开玩笑的啦",
+      "CHINESE_TRADITIONAL": "我開玩笑的啦",
+      "JAPANESE": "冗談です",
+      "INDONESIAN": "Itu cuma bercandaan kok.",
+      "PORTUGUESE": "Era só uma brincadeira.",
+      "SPANISH": "Solo era una broma.",
+      "PERSIAN": "این فقط یک شوخی بود."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐야 이런 장난도 할 줄 알아요?",
+      "ENGLISH": "What? You know how to joke around like that?",
+      "CHINESE_SIMPLIFIED": "什么嘛，原来你还会开这种玩笑呢",
+      "CHINESE_TRADITIONAL": "什麽嘛，原來你還會開這種玩笑呢",
+      "JAPANESE": "あれ？そういう冗談も言えるんですね？",
+      "INDONESIAN": "Apa? Kamu bisa juga ya becanda kayak gitu?",
+      "PORTUGUESE": "Então você sabe fazer esse tipo de piada, hein.",
+      "SPANISH": "Así que sabe como hacer este tipo de bromas",
+      "PERSIAN": "چی؟ میدونی چطوری با هم شوخی کنی؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "생일 축하해줘서 고마워요.",
+      "ENGLISH": "Thanks for celebrating with me.",
+      "CHINESE_SIMPLIFIED": "谢谢你为我庆祝生日",
+      "CHINESE_TRADITIONAL": "謝謝你為我慶祝生日",
+      "JAPANESE": "祝ってくれてありがとうございます",
+      "INDONESIAN": "Makasih udah ngerayain bareng aku.",
+      "PORTUGUESE": "Obrigado por comemorar meu aniversário.",
+      "SPANISH": "Gracias por celebrarme mi cumpleaños.",
+      "PERSIAN": "ممنون که با من جشن گرفتی"
+    }
+  }
+]

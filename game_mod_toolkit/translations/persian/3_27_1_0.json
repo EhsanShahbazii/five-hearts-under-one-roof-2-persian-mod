@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어 뭐야?",
+      "ENGLISH": "Whoa, what’s going on here?",
+      "CHINESE_SIMPLIFIED": "喂，什么情况啊？",
+      "CHINESE_TRADITIONAL": "欸？這是什麼情況！",
+      "JAPANESE": "え、なんだ？",
+      "INDONESIAN": "Wah, ada apa nih?!",
+      "PORTUGUESE": "O que é isso?",
+      "SPANISH": "¿Qué es esto?",
+      "PERSIAN": "اوه، اینجا چه خبره؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "둘이 뭐 해!",
+      "ENGLISH": "What are you two up to?!",
+      "CHINESE_SIMPLIFIED": "他们俩在干嘛！",
+      "CHINESE_TRADITIONAL": "這兩個人在幹嘛！",
+      "JAPANESE": "二人で何してるんだ！",
+      "INDONESIAN": "Kalian berdua lagi ngapain?!",
+      "PORTUGUESE": "O que vocês tão fazendo?!",
+      "SPANISH": "¡¿Qué están haciendo?!",
+      "PERSIAN": "شما دوتا چیکار میکنید؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "둘이 뽀뽀라도 하겠다는 거야?? ",
+      "ENGLISH": "Are you about to kiss or something??",
+      "CHINESE_SIMPLIFIED": "俩人难道还想亲嘴吗？？",
+      "CHINESE_TRADITIONAL": "該不會要親下去了吧！？",
+      "JAPANESE": "二人でキスでもするつもりか？？",
+      "INDONESIAN": "Mau ciuman atau gimana tuh??",
+      "PORTUGUESE": "Pelo menos vão se beijar?",
+      "SPANISH": "¿Por lo menos se van a besar?",
+      "PERSIAN": "میخوای ببوسی یا چیزی؟؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어???",
+      "ENGLISH": "Huh??",
+      "CHINESE_SIMPLIFIED": "呃？？？",
+      "CHINESE_TRADITIONAL": "欸？真的嗎！？",
+      "JAPANESE": "は？？？",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Hã??",
+      "SPANISH": "¿¿Eh??",
+      "PERSIAN": "ها؟؟"
+    }
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.17
+    },
+    "SCRIPT": {
+      "KOREAN": "아 배부르다고..!!",
+      "ENGLISH": "I said I’m full!!",
+      "CHINESE_SIMPLIFIED": "都说我吃饱了啦！！",
+      "CHINESE_TRADITIONAL": "我都說吃飽了啊...！！",
+      "JAPANESE": "もうお腹いっぱいだって！！",
+      "INDONESIAN": "Aku pokoknya udah kenyang!!",
+      "PORTUGUESE": "Eu disse que já tô cheio!",
+      "SPANISH": "¡Dije que ya estoy lleno!",
+      "PERSIAN": "گفتم سیر شدم!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.18,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 이모가 학교 갈 때 먹으라고",
+      "ENGLISH": "Ugh, your aunt goes out of her way to pack you all this food for school—",
+      "CHINESE_SIMPLIFIED": "哎呀，阿姨都特地给你准备那么多了",
+      "CHINESE_TRADITIONAL": "欸，阿姨特地準備這麼多",
+      "JAPANESE": "あ、おばさんが学校行く前に食べてって",
+      "INDONESIAN": "Ugh, tante kamu udah repot-repot buatin bekel sekolah buat kamu—",
+      "PORTUGUESE": "Sua mãe prepara tudo isso pra você,",
+      "SPANISH": "Tu mamá empaca todo esto para ti",
+      "PERSIAN": "اوه، خاله تو تمام این غذاها را برای مدرسه برایت بسته بندی می کند-"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.01,
+      "HIDE": 6.04
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 잘 챙겨주시는데 좀 열심히 좀 먹어라!",
+      "ENGLISH": "The least you can do is actually eat it!",
+      "CHINESE_SIMPLIFIED": "让你上学吃的，多吃点！",
+      "CHINESE_TRADITIONAL": "讓妳上學前要吃一點，妳就多吃一點嘛！",
+      "JAPANESE": "こんなにちゃんと用意してくれてるのに、もうちょっと食べなよ！",
+      "INDONESIAN": "Minimal dimakan dong!",
+      "PORTUGUESE": "o mínimo que pode fazer é comer!",
+      "SPANISH": "¡Lo minimo que puedes hacer es comerlo!",
+      "PERSIAN": "حداقل کاری که می توانید انجام دهید این است که در واقع اونو بخورید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.27,
+      "HIDE": 7.28
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어...",
+      "ENGLISH": "Fiiine…",
+      "CHINESE_SIMPLIFIED": "知道了啦...",
+      "CHINESE_TRADITIONAL": "知道了...",
+      "JAPANESE": "わかったよ…",
+      "INDONESIAN": "Ya udaaah…",
+      "PORTUGUESE": "Tá bom...",
+      "SPANISH": "Está bien...",
+      "PERSIAN": "فییینه…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.02,
+      "HIDE": 12.02
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 자꾸 나 빼놓고 가~!!!",
+      "ENGLISH": "Why do you guys always leave without me~?!",
+      "CHINESE_SIMPLIFIED": "你们为什么老是丢下我一个人走啊～！！！",
+      "CHINESE_TRADITIONAL": "為什麼又不帶我一起去啦～！！！",
+      "JAPANESE": "なんでいつも私抜きで行くの〜！！！",
+      "INDONESIAN": "Kenapa sih kalian selalu ninggalin aku~?!",
+      "PORTUGUESE": "Ei, por que vocês sempre saem sem mim?!",
+      "SPANISH": "¡Oigan, ¿por qué siempre salen sin mí?!",
+      "PERSIAN": "بچه ها چرا همیشه بدون من میری ؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.01,
+      "HIDE": 14.06
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 고은비",
+      "ENGLISH": "Huh? Go Eun-bi?",
+      "CHINESE_SIMPLIFIED": "咦？高恩妃？",
+      "CHINESE_TRADITIONAL": "咦？高恩妃？",
+      "JAPANESE": "え？コ・ウンビ？",
+      "INDONESIAN": "Hah? Go Eun-bi?",
+      "PORTUGUESE": "Hã? Eunbi.",
+      "SPANISH": "¿Eh? Eunbi.",
+      "PERSIAN": "ها؟ برو یون بی؟"
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저한테 귤 주셨잖아요!",
+      "ENGLISH": "You gave me a tangerine!",
+      "CHINESE_SIMPLIFIED": "你当时给了我橘子呢！",
+      "CHINESE_TRADITIONAL": "當時你給了我橘子！",
+      "JAPANESE": "僕にみかんくれたじゃないですか！",
+      "INDONESIAN": "Kamu ngasih aku jeruk nggak sih waktu itu",
+      "PORTUGUESE": "Você me deu uma mexerica!",
+      "SPANISH": "¡Me dio una mandarina!",
+      "PERSIAN": "تو به من نارنگی دادی!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "땡~",
+      "ENGLISH": "Ding~",
+      "CHINESE_SIMPLIFIED": "错~",
+      "CHINESE_TRADITIONAL": "不對～",
+      "JAPANESE": "ぶっぶー。",
+      "INDONESIAN": "Salah~",
+      "PORTUGUESE": "Errado!",
+      "SPANISH": "¡Error!",
+      "PERSIAN": "دینگ~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "귤은 제가 받은 거 잖아요.",
+      "ENGLISH": "But I got the tangerine.",
+      "CHINESE_SIMPLIFIED": "橘子是我收到的才对",
+      "CHINESE_TRADITIONAL": "橘子是我收到的啊～",
+      "JAPANESE": "みかんは、私がもらいました",
+      "INDONESIAN": "Jeruk beneran deh perasaan",
+      "PORTUGUESE": "A mexerica foi a que eu recebi.",
+      "SPANISH": "La mandarina fue la que yo recibí.",
+      "PERSIAN": "اما من نارنگی را گرفتم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다... 헷갈렸다 미안해요.",
+      "ENGLISH": "Oh, right... I got confused. Sorry.",
+      "CHINESE_SIMPLIFIED": "啊对哦...我搞混了，对不起",
+      "CHINESE_TRADITIONAL": "啊對喔...我搞混了，抱歉",
+      "JAPANESE": "あ、そっか…勘違いしました、ごめんなさい",
+      "INDONESIAN": "Ah iya... aku salah inget maaf ya",
+      "PORTUGUESE": "Ah, é mesmo… me confundi, desculpa.",
+      "SPANISH": "Ah, cierto… me confundí, lo siento.",
+      "PERSIAN": "اوه، درسته... من گیج شدم. ببخشید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저 섭섭해요 진짜.",
+      "ENGLISH": "I'm really hurt.",
+      "CHINESE_SIMPLIFIED": "什么啊，真让人失望",
+      "CHINESE_TRADITIONAL": "什麼啊...真讓人失望",
+      "JAPANESE": "もう〜本当にひどいです",
+      "INDONESIAN": "Aku jadi sedih beneran nih",
+      "PORTUGUESE": "Tô realmente decepcionada.",
+      "SPANISH": "De verdad me siento decepcionada.",
+      "PERSIAN": "من واقعاً آسیب دیده‌ام."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 진짜~ 미안해요...",
+      "ENGLISH": "Oh, really~ I'm sorry...",
+      "CHINESE_SIMPLIFIED": "啊，真的对不起...",
+      "CHINESE_TRADITIONAL": "啊，真的很對不起...",
+      "JAPANESE": "ああ、本当にごめんなさい…",
+      "INDONESIAN": "Ah ya ampun... maaf ya...",
+      "PORTUGUESE": "Ai, sério~ desculpa…",
+      "SPANISH": "Ay, en serio~ perdón…",
+      "PERSIAN": "اوه، واقعاً~ متاسفم..."
+    }
+  }
+]

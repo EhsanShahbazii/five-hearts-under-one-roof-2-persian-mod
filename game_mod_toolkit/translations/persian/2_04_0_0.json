@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 외모는 그렇다 치고, 힘은 좀 써요?",
+      "ENGLISH": "Okay, fine! You win on looks. But are you even strong?",
+      "CHINESE_SIMPLIFIED": "外貌话题先放一边吧，你力气大吗？",
+      "CHINESE_TRADITIONAL": "算了，先不說外貌，你的力氣大嗎？",
+      "JAPANESE": "まあ外見は置いといて 力はどうなの?",
+      "INDONESIAN": "Oke deh! Kamu menang soal penampilan. Tapi kamu kuat nggak sih?",
+      "PORTUGUESE": "Bom, deixando isso de lado. Quanta força você tem?",
+      "SPANISH": "Bueno, dejando eso de lado. ¿Cuánta fuerza tienes?",
+      "PERSIAN": "باشه، خوب! شما در ظاهر برنده هستید. اما شما حتی قوی هستید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "힘은 내가 더 셀 거 같은데.",
+      "ENGLISH": "Pretty sure I’m stronger than you.",
+      "CHINESE_SIMPLIFIED": "力气嘛，我可能更胜一筹",
+      "CHINESE_TRADITIONAL": "我覺得我應該比較強",
+      "JAPANESE": "力なら私の方が強い気がするけど",
+      "INDONESIAN": "Aku yakin aku lebih kuat dari kamu.",
+      "PORTUGUESE": "Acho que sou mais forte.",
+      "SPANISH": "Siento que soy más fuerte.",
+      "PERSIAN": "مطمئنم من از تو قوی ترم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "글쎄요?",
+      "ENGLISH": "Hmm... are you?",
+      "CHINESE_SIMPLIFIED": "是吗？",
+      "CHINESE_TRADITIONAL": "會嗎？",
+      "JAPANESE": "さあどうでしょう?",
+      "INDONESIAN": "Hmm... yakin?",
+      "PORTUGUESE": "Ah, é mesmo?",
+      "SPANISH": "¿Ah, sí?",
+      "PERSIAN": "هوم... تو هستی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하는 운동은 있어요?",
+      "ENGLISH": "Do you even work out?",
+      "CHINESE_SIMPLIFIED": "你平时有运动吗？",
+      "CHINESE_TRADITIONAL": "妳平常有在運動嗎？",
+      "JAPANESE": "何か運動してるんですか?",
+      "INDONESIAN": "Kamu olahraga nggak sih?",
+      "PORTUGUESE": "Você pratica algum esporte?",
+      "SPANISH": "¿Practicas algún deporte?",
+      "PERSIAN": "اصلا ورزش می کنی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 안 하진 않아요! ",
+      "ENGLISH": "Well… I do a little!",
+      "CHINESE_SIMPLIFIED": "嗯...也不是完全不运动！",
+      "CHINESE_TRADITIONAL": "嗯…不能說沒有在做啦！",
+      "JAPANESE": "んー…やってないわけじゃないですよ!",
+      "INDONESIAN": "Yah… sedikit sih!",
+      "PORTUGUESE": "Hmm... eu me mantenho ativa!",
+      "SPANISH": "Hmm… ¡Me mantengo activa!",
+      "PERSIAN": "خوب ... من کمی انجام می دهم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "수영도 하고, 승마도 좀 하고.",
+      "ENGLISH": "I swim, and I’ve done some horseback riding.",
+      "CHINESE_SIMPLIFIED": "我会游泳，也稍微会一点马术",
+      "CHINESE_TRADITIONAL": "我有在游泳，也會騎馬",
+      "JAPANESE": "水泳もするし 乗馬もちょっとやります",
+      "INDONESIAN": "Aku renang, trus pernah belajar naik kuda juga.",
+      "PORTUGUESE": "Faço natação e um pouco de equitação.",
+      "SPANISH": "Practico natación y un poco de equitación.",
+      "PERSIAN": "من شنا می کنم و کمی اسب سواری انجام داده ام."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그런 고상한 운동으로 생기는 근육보다",
+      "ENGLISH": "Yeah, but those classy sports don’t build real muscle.",
+      "CHINESE_SIMPLIFIED": "但比起那种高雅运动练出来的肌肉",
+      "CHINESE_TRADITIONAL": "比起那種高尚運動練出來的肌肉",
+      "JAPANESE": "そんな上品な運動でつく筋肉より",
+      "INDONESIAN": "Iya, tapi olahraga elegan gitu nggak bikin otot beneran.",
+      "PORTUGUESE": "Mas esses esportes elegantes não te deixam forte.",
+      "SPANISH": "Pero esos deportes elegantes no te fortalecen.",
+      "PERSIAN": "بله، اما اون ورزش های درجه یک عضله واقعی نمی سازند."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "생활 근육이 더 대단하거든요.",
+      "ENGLISH": "Everyday strength is what really counts.",
+      "CHINESE_SIMPLIFIED": "生活肌肉才更厉害呢",
+      "CHINESE_TRADITIONAL": "在生活之中訓練出來的才更厲害呢",
+      "JAPANESE": "生活でつく筋肉の方がすごいんだから",
+      "INDONESIAN": "Kekuatan sehari-hari tuh yang penting.",
+      "PORTUGUESE": "O treino de rua é o que conta.",
+      "SPANISH": "El entrenamiento de la calle es lo que cuenta.",
+      "PERSIAN": "قدرت روزمره چیزی است که واقعاً اهمیت دارد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 고상한 근육을 잘 모르시잖아요?",
+      "ENGLISH": "Mmm… sounds like you wouldn’t know “classy” muscle if you saw it.",
+      "CHINESE_SIMPLIFIED": "呃，你根本就不了解什么叫“高雅肌肉”吧？",
+      "CHINESE_TRADITIONAL": "嗯，你根本不懂靠運動訓練出來的肌肉吧？",
+      "JAPANESE": "ふん 上品な筋肉なんてよくわかってないでしょ?",
+      "INDONESIAN": "Mmm… kayaknya kamu nggak bakal bisa bedain otot “elegan” walau liat langsung.",
+      "PORTUGUESE": "É que você não entende desses “esportes elegantes”.",
+      "SPANISH": "Es que usted no sabe sobre esos \"deportes elegantes\".",
+      "PERSIAN": "ممم... به نظر می رسد که اگر اونو می دیدی، عضله «باکلاس» را نمی شناختی."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "생활 근육이라고 해봤자",
+      "ENGLISH": "And I don’t see much “everyday strength”",
+      "CHINESE_SIMPLIFIED": "至于“生活肌肉”嘛...",
+      "CHINESE_TRADITIONAL": "只是靠生活中訓練出來",
+      "JAPANESE": "生活筋肉とか言っても",
+      "INDONESIAN": "Dan aku juga nggak liat ada ",
+      "PORTUGUESE": "E já que falou de treino...",
+      "SPANISH": "Y ya que hablas del entrenamiento...",
+      "PERSIAN": "و من \"قدرت روزمره\" زیادی نمی بینم"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 별로 없는 것 같은데?",
+      "ENGLISH": "on you either.",
+      "CHINESE_SIMPLIFIED": "看着也没多少啊？",
+      "CHINESE_TRADITIONAL": "說穿了也沒多了不起嘛？",
+      "JAPANESE": "大したことないんじゃないの?",
+      "INDONESIAN": "“kekuatan berguna di real life” di kamu.",
+      "PORTUGUESE": "não te vejo assim tão forte, viu?",
+      "SPANISH": "yo no te veo muy fuerte que digamos.",
+      "PERSIAN": "بر شما یا"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 진짜 대단해요!",
+      "ENGLISH": "Excuse you! I’m seriously strong!",
+      "CHINESE_SIMPLIFIED": "我超厉害的好吗！",
+      "CHINESE_TRADITIONAL": "我是真的很厲害的！",
+      "JAPANESE": "私ほんとすごいんだから!",
+      "INDONESIAN": "Maaf nih! Aku tuh beneran kuat!",
+      "PORTUGUESE": "Eu sou muito forte!",
+      "SPANISH": "¡Yo tengo mucha fuerza!",
+      "PERSIAN": "ببخشید! من به طور جدی قوی هستم!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 26.7,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "팔굽혀 펴기 몇 개 해요?",
+      "ENGLISH": "How many push-ups can you do?",
+      "CHINESE_SIMPLIFIED": "你能做几个俯卧撑？",
+      "CHINESE_TRADITIONAL": "妳伏地挺身能做幾下？",
+      "JAPANESE": "腕立て伏せ 何回できます?",
+      "INDONESIAN": "Kamu bisa push-up berapa kali?",
+      "PORTUGUESE": "Quantas flexões você consegue fazer?",
+      "SPANISH": "¿Cuántas lagartijas puedes hacer?",
+      "PERSIAN": "چند تا فشار می توانید انجام دهید؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 29.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 3개나 해요.",
+      "ENGLISH": "Three!",
+      "CHINESE_SIMPLIFIED": "我能做 3 个呢！",
+      "CHINESE_TRADITIONAL": "我可以做 3 下！",
+      "JAPANESE": "私 3回もできますよ",
+      "INDONESIAN": "Tiga!",
+      "PORTUGUESE": "Eu faço três.",
+      "SPANISH": "Yo hago tres.",
+      "PERSIAN": "سه!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "전 5개!",
+      "ENGLISH": "I can do five!",
+      "CHINESE_SIMPLIFIED": "我能做 5 个！",
+      "CHINESE_TRADITIONAL": "我能做 5 下！",
+      "JAPANESE": "私は5回!",
+      "INDONESIAN": "Aku bisa lima!",
+      "PORTUGUESE": "Pois eu faço cinco!",
+      "SPANISH": "¡Pues yo hago cinco!",
+      "PERSIAN": "من می توانم پنج کار کنم!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 33.5
+    },
+    "SCRIPT": {
+      "KOREAN": "스쿼트는 몇 개 하는데요? ",
+      "ENGLISH": "How about squats?",
+      "CHINESE_SIMPLIFIED": "那深蹲能做几个？",
+      "CHINESE_TRADITIONAL": "那深蹲能做幾個？",
+      "JAPANESE": "スクワットは何回?",
+      "INDONESIAN": "Kalau squat?",
+      "PORTUGUESE": "E agachamentos?",
+      "SPANISH": "¿Y sentadillas?",
+      "PERSIAN": "اسکات چطور؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "전 20개 해요.",
+      "ENGLISH": "I can do twenty.",
+      "CHINESE_SIMPLIFIED": "我能做 20 个！",
+      "CHINESE_TRADITIONAL": "我可以做 20 下",
+      "JAPANESE": "私 20回できます",
+      "INDONESIAN": "Aku bisa dua puluh.",
+      "PORTUGUESE": "Chego a vinte.",
+      "SPANISH": "Llego hasta veinte.",
+      "PERSIAN": "من می توانم بیست."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저희 집은 아예 헬스를 운영을 해요.",
+      "ENGLISH": "My family literally owns a gym.",
+      "CHINESE_SIMPLIFIED": "我家可是直接开了家健身房呢",
+      "CHINESE_TRADITIONAL": "我們家根本就是開健身房的",
+      "JAPANESE": "うちの家なんてジム経営してるんですから",
+      "INDONESIAN": "Keluargaku literally punya gym, tau!",
+      "PORTUGUESE": "Pois a minha família tem uma academia.",
+      "SPANISH": "Pues mi familia tiene un gimnasio.",
+      "PERSIAN": "خانواده من به معنای واقعی کلمه صاحب یک باشگاه ورزشی هستند."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 37.9,
+      "HIDE": 41.2
+    },
+    "SCRIPT": {
+      "KOREAN": "허, 아예 그냥 허벅지 씨름으로 대결을 해보죠.",
+      "ENGLISH": "Ugh, let’s just settle this with a thigh wrestling match.",
+      "CHINESE_SIMPLIFIED": "嚯，哎呀，那干脆来场掰大腿比赛吧",
+      "CHINESE_TRADITIONAL": "哼，乾脆來比一場下肢摔跤好了",
+      "JAPANESE": "ふん じゃあもう太もも相撲で勝負しよ",
+      "INDONESIAN": "Ugh, ya udah, kita selesain aja lewat adu paha.",
+      "PORTUGUESE": "Melhor a gente comparar a força das pernas.",
+      "SPANISH": "Mejor comparemos la fuerza en nuestras piernas.",
+      "PERSIAN": "اوه، بیایید این موضوع را با یک مسابقه کشتی ران حل کنیم."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 41.6,
+      "HIDE": 43.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 너가 측정해 봐. ",
+      "ENGLISH": "Yuman, you be the judge.",
+      "CHINESE_SIMPLIFIED": "宥万你来当裁判",
+      "CHINESE_TRADITIONAL": "宥萬，你來當裁判",
+      "JAPANESE": "ユマン あんたが測ってよ",
+      "INDONESIAN": "Yuman, kamu jadi juri ya.",
+      "PORTUGUESE": "Yuman, você mede pra gente.",
+      "SPANISH": "Yumán, tú nos mides.",
+      "PERSIAN": "یومان، تو قاضی باش"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 44.4
+    },
+    "SCRIPT": {
+      "KOREAN": "누구부터 할래?",
+      "ENGLISH": "Who’s going first?",
+      "CHINESE_SIMPLIFIED": "谁先来？",
+      "CHINESE_TRADITIONAL": "誰先來？",
+      "JAPANESE": "誰からやる?",
+      "INDONESIAN": "Siapa duluan?",
+      "PORTUGUESE": "Quem começa?",
+      "SPANISH": "¿Quién empieza?",
+      "PERSIAN": "چه کسی اول می رود؟"
+    }
+  }
+]

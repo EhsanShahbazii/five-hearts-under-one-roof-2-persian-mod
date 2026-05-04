@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜, 진짜 만약에 만약에, 어쩔 수 없이...",
+      "ENGLISH": "But like really, really — if one day I absolutely had no choice",
+      "CHINESE_SIMPLIFIED": "假如，我是说假如啊",
+      "CHINESE_TRADITIONAL": "假如，我是說假如喔",
+      "JAPANESE": "本当の、本当にもしどうしようもなく…",
+      "INDONESIAN": "Tapi serius deh — kalau suatu hari aku bener-bener nggak punya pilihan,",
+      "PORTUGUESE": "De verdade, mas de verdade mesmo, se por algum motivo…",
+      "SPANISH": "De verdad, pero de verdad, si por alguna razón…",
+      "PERSIAN": "اما واقعاً، واقعاً - اگر روزی مطلقاً چاره‌ای نداشتم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그런 옷을 입어야 하는 상황이 오면?",
+      "ENGLISH": "and I had to wear something like that?",
+      "CHINESE_SIMPLIFIED": "真到了非穿那种衣服不可的时候呢？",
+      "CHINESE_TRADITIONAL": "假如出現必須要穿那種衣服的情況呢？",
+      "JAPANESE": "そういう衣装を着なきゃいけない状況になったら？",
+      "INDONESIAN": "dan aku harus pakai baju yang terbuka gitu?",
+      "PORTUGUESE": "eu não tivesse outra opção além de usar esse tipo de roupa, e aí?",
+      "SPANISH": "no me quedara otra opción más que ponerme ese tipo de ropa, ¿entonces qué?",
+      "PERSIAN": "و من مجبور شدم چنین چیزی بپوشم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 그런 가정을 왜 하는 건데.",
+      "ENGLISH": "Why are you even imagining that kind of situation.",
+      "CHINESE_SIMPLIFIED": "哎呦，干嘛做这种假设啦！",
+      "CHINESE_TRADITIONAL": "幹嘛要提出那種假設啊！",
+      "JAPANESE": "なんでそんな仮定をするんだよ",
+      "INDONESIAN": "Kenapa juga kamu ngebayangin situasi kayak gitu.",
+      "PORTUGUESE": "Ai, por que você levanta essas coisas?",
+      "SPANISH": "Ay, ¿por qué planteas esas cosas?",
+      "PERSIAN": "چرا اصلاً چنین موقعیتی را تصور می کنید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 정말 만약에라는 거잖아.",
+      "ENGLISH": "It’s just a what if, that’s all.",
+      "CHINESE_SIMPLIFIED": "就是说假如嘛，假如！",
+      "CHINESE_TRADITIONAL": "就說假如了嘛，萬一出現的話",
+      "JAPANESE": "ただ、もしものってことがあるじゃん",
+      "INDONESIAN": "Kan cuma “gimana kalau” doang.",
+      "PORTUGUESE": "Só num caso hipotético, nada mais.",
+      "SPANISH": "Solo en caso hipotético, nada más.",
+      "PERSIAN": "این فقط یک اتفاق است اگر، همین."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 만약에?",
+      "ENGLISH": "A real what if?",
+      "CHINESE_SIMPLIFIED": "真要只是假如？",
+      "CHINESE_TRADITIONAL": "真的只是假設？",
+      "JAPANESE": "本当にもしも？",
+      "INDONESIAN": "“Gimana kalau” yang beneran, nih?",
+      "PORTUGUESE": "Num caso hipotético?",
+      "SPANISH": "¿En caso hipotético?",
+      "PERSIAN": "واقعی اگر؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "응, 정말 만약에 그런 옷을 입어야 하는 상황이 오면",
+      "ENGLISH": "Yeah — if I seriously had no choice but to wear a revealing outfit,",
+      "CHINESE_SIMPLIFIED": "嗯，万一真遇到必须穿那种衣服的情况...",
+      "CHINESE_TRADITIONAL": "嗯，萬一真的必須要穿那種衣服的話",
+      "JAPANESE": "うん、本当にもしも、そんな衣装を着る状況になったら",
+      "INDONESIAN": "Iya — kalau aku bener-bener harus pakai baju terbuka,",
+      "PORTUGUESE": "Aham. Se chegasse o momento em que eu tivesse que usar algo assim…",
+      "SPANISH": "Ajá. Si llegara el momento en que tuviera que ponerme algo así…",
+      "PERSIAN": "آره - اگر من به طور جدی چاره ای جز پوشیدن لباس آشکار نداشتم،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "난 어디 강조하는 게 좋겠어?",
+      "ENGLISH": "which part do you think I should emphasize?",
+      "CHINESE_SIMPLIFIED": "我该重点突出哪个部位比较好？",
+      "CHINESE_TRADITIONAL": "那我該重點展現出哪個部位比較好呢？",
+      "JAPANESE": "私はどこを強調したほうがいい？",
+      "INDONESIAN": "menurut kamu, bagian mana yang paling cocok aku tonjolkan?",
+      "PORTUGUESE": "que parte você acha que eu deveria destacar mais?",
+      "SPANISH": "¿qué parte crees que debería resaltar más?",
+      "PERSIAN": "به نظر شما روی کدام قسمت تاکید کنم؟"
+    }
+  }
+]

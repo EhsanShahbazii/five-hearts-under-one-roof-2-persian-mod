@@ -1,0 +1,757 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 0.19
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요",
+      "ENGLISH": "Hello.",
+      "CHINESE_SIMPLIFIED": "大家好！",
+      "CHINESE_TRADITIONAL": "大家好。",
+      "JAPANESE": "こんにちは。",
+      "INDONESIAN": "Halo.",
+      "PORTUGUESE": "Olá.",
+      "SPANISH": "Hola.",
+      "PERSIAN": "سلام."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 0.19,
+      "HIDE": 4.19
+    },
+    "SCRIPT": {
+      "KOREAN": "하전미2에서 유나역을 맡게 된 정유나입니다",
+      "ENGLISH": "I’m Jung Yuna, playing the role of Yuna in Don’t Fool Me, Beauties! 2.",
+      "CHINESE_SIMPLIFIED": "我是在《阿西美女2》中饰演有娜的郑有娜",
+      "CHINESE_TRADITIONAL": "我是鄭有娜，在《美女寄宿生2》中飾演「有娜」。",
+      "JAPANESE": "『美人下宿生2』でユナ役を演じるチョン・ユナです。",
+      "INDONESIAN": "Saya Jung Yuna, memerankan Yuna di Don’t Fool Me, Beauties! 2.",
+      "PORTUGUESE": "Sou Jung Yuna, interpreto Yuna em Don’t Fool Me, Beauties! 2.",
+      "SPANISH": "Soy Jung Yuna, interpreto a Yuna en Don’t Fool Me, Beauties! 2.",
+      "PERSIAN": "من جونگ یونا هستم که در نقش یونا در فیلم منو گول نزن، زیبایی ها بازی می کنم! 2."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.07,
+      "HIDE": 6.12
+    },
+    "SCRIPT": {
+      "KOREAN": "반갑습니다",
+      "ENGLISH": "Nice to meet you.",
+      "CHINESE_SIMPLIFIED": "请多关照~",
+      "CHINESE_TRADITIONAL": "很高興見到大家。",
+      "JAPANESE": "よろしくお願いします。",
+      "INDONESIAN": "Senang bertemu.",
+      "PORTUGUESE": "Prazer em conhecer.",
+      "SPANISH": "Encantada de conocerte.",
+      "PERSIAN": "از آشنایی با شما خوشحالم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.12,
+      "HIDE": 8.17
+    },
+    "SCRIPT": {
+      "KOREAN": "유나는 부잣집 딸이고요",
+      "ENGLISH": "Yuna is a rich girl.",
+      "CHINESE_SIMPLIFIED": "有娜是个富家千金",
+      "CHINESE_TRADITIONAL": "有娜是個富家千金。",
+      "JAPANESE": "ユナはお金持ちの娘です。",
+      "INDONESIAN": "Yuna adalah gadis kaya.",
+      "PORTUGUESE": "Yuna é uma garota rica.",
+      "SPANISH": "Yuna es una chica rica.",
+      "PERSIAN": "یونا دختر پولداری است."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.17,
+      "HIDE": 13.01
+    },
+    "SCRIPT": {
+      "KOREAN": "밝고 애교도 많고 자유분방한 그런 캐릭터입니다",
+      "ENGLISH": "She’s bright, cute, and free-spirited.",
+      "CHINESE_SIMPLIFIED": "是个活泼开朗、撒娇满分、自由奔放的角色",
+      "CHINESE_TRADITIONAL": "性格開朗、可愛又自由奔放。",
+      "JAPANESE": "明るくて可愛く、自由奔放なキャラクターです。",
+      "INDONESIAN": "Dia ceria, manis, dan bebas.",
+      "PORTUGUESE": "Ela é alegre, fofa e livre.",
+      "SPANISH": "Es alegre, linda y libre.",
+      "PERSIAN": "او روشن، بامزه و آزاده است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.01,
+      "HIDE": 14.17
+    },
+    "SCRIPT": {
+      "KOREAN": "(본인이랑 싱크로율은 좀 맞아요?)",
+      "ENGLISH": "(Do you think the character matches you well?)",
+      "CHINESE_SIMPLIFIED": "（和本人契合度高吗？）",
+      "CHINESE_TRADITIONAL": "（和本人契合度高嗎？）",
+      "JAPANESE": "（ご自身と似ていますか？）",
+      "INDONESIAN": "(Apakah karakternya mirip dengan Anda?)",
+      "PORTUGUESE": "(Você acha que se parece com o personagem?)",
+      "SPANISH": "(¿Crees que se parece a ti?)",
+      "PERSIAN": "(فکر می کنید شخصیت با شما مطابقت دارد؟)"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.17,
+      "HIDE": 15.06
+    },
+    "SCRIPT": {
+      "KOREAN": "저요?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我吗？",
+      "CHINESE_TRADITIONAL": "我嗎？",
+      "JAPANESE": "私ですか？",
+      "INDONESIAN": "Saya?",
+      "PORTUGUESE": "Eu?",
+      "SPANISH": "¿Yo?",
+      "PERSIAN": "من؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.06,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 완전 부잣집 딸은 아니지만",
+      "ENGLISH": "I’m not exactly from a rich family,",
+      "CHINESE_SIMPLIFIED": "虽然不完全是富家女",
+      "CHINESE_TRADITIONAL": "雖然我不是完全的富家女，",
+      "JAPANESE": "完全なお嬢様ではありませんが、",
+      "INDONESIAN": "Saya bukan anak orang kaya sebenarnya,",
+      "PORTUGUESE": "Não sou exatamente de família rica,",
+      "SPANISH": "No soy exactamente una chica rica,",
+      "PERSIAN": "من دقیقا از یک خانواده ثروتمند نیستم،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 20.13
+    },
+    "SCRIPT": {
+      "KOREAN": "성향은 비슷한 것 같아요",
+      "ENGLISH": "but I think our personalities are similar.",
+      "CHINESE_SIMPLIFIED": "但性格还挺相似的",
+      "CHINESE_TRADITIONAL": "但性格方面還挺像的。",
+      "JAPANESE": "性格は似ていると思います。",
+      "INDONESIAN": "tapi kepribadiannya cukup mirip.",
+      "PORTUGUESE": "mas acho que temos personalidades parecidas.",
+      "SPANISH": "pero creo que tenemos personalidades parecidas.",
+      "PERSIAN": "اما من فکر می کنم شخصیت ما شبیه به هم است."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.13,
+      "HIDE": 21.17
+    },
+    "SCRIPT": {
+      "KOREAN": "(촬영 하면서)어려운 점은",
+      "ENGLISH": "(The hardest part during filming?)",
+      "CHINESE_SIMPLIFIED": "（拍摄时最困难的地方？）",
+      "CHINESE_TRADITIONAL": "（拍攝時最困難的地方？）",
+      "JAPANESE": "（撮影で大変だったことは？）",
+      "INDONESIAN": "(Kesulitan selama syuting?)",
+      "PORTUGUESE": "(O que foi mais difícil nas filmagens?)",
+      "SPANISH": "(¿Qué fue lo más difícil al grabar?)",
+      "PERSIAN": "(سخت ترین قسمت در طول فیلمبرداری؟)"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.17,
+      "HIDE": 22.14
+    },
+    "SCRIPT": {
+      "KOREAN": "살 빼는 거?",
+      "ENGLISH": "Losing weight?",
+      "CHINESE_SIMPLIFIED": "减肥算吗？",
+      "CHINESE_TRADITIONAL": "減肥？",
+      "JAPANESE": "ダイエット？",
+      "INDONESIAN": "Menurunkan berat badan?",
+      "PORTUGUESE": "Perder peso?",
+      "SPANISH": "¿Bajar de peso?",
+      "PERSIAN": "کاهش وزن؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.05,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "수영장씬 때문에 살 뺀 거 빼고는",
+      "ENGLISH": "Other than losing weight for the pool scene,",
+      "CHINESE_SIMPLIFIED": "除了为泳池戏份减肥之外",
+      "CHINESE_TRADITIONAL": "除了因為泳池戲減肥之外，",
+      "JAPANESE": "プールのシーンのために痩せたこと以外は、",
+      "INDONESIAN": "Selain diet karena adegan kolam renang,",
+      "PORTUGUESE": "Além de emagrecer para a cena da piscina,",
+      "SPANISH": "Aparte de adelgazar para la escena de la piscina,",
+      "PERSIAN": "به غیر از کاهش وزن برای صحنه استخر،"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 33.18
+    },
+    "SCRIPT": {
+      "KOREAN": "대사나 이런 거는 그냥 완전 입에 찰떡이었어요",
+      "ENGLISH": "the lines and everything fit me perfectly.",
+      "CHINESE_SIMPLIFIED": "台词什么的根本就是为我量身定做的！",
+      "CHINESE_TRADITIONAL": "台詞和一切都非常貼合我。",
+      "JAPANESE": "セリフもすべて自然に合っていました。",
+      "INDONESIAN": "dialog dan semuanya terasa pas sekali.",
+      "PORTUGUESE": "as falas e tudo se encaixaram perfeitamente.",
+      "SPANISH": "las líneas y todo me salieron naturales.",
+      "PERSIAN": "خطوط و همه چیز برای من کاملاً مناسب است."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 33.18,
+      "HIDE": 35.15
+    },
+    "SCRIPT": {
+      "KOREAN": "(이전에 출연한 FMV 게임과 하전미2의 다른 점은?)",
+      "ENGLISH": "(What’s different from the previous FMV game you appeared in?)",
+      "CHINESE_SIMPLIFIED": "（《阿西美女》与之前出演的互动影游有什么不同？）",
+      "CHINESE_TRADITIONAL": "（與之前出演的FMV遊戲有什麼不同？）",
+      "JAPANESE": "（以前のFMVゲームと違う点は？）",
+      "INDONESIAN": "(Apa bedanya dengan game FMV sebelumnya?)",
+      "PORTUGUESE": "(Em que difere dos FMV anteriores?)",
+      "SPANISH": "(¿Qué diferencia hay con los juegos FMV anteriores?)",
+      "PERSIAN": "(چه تفاوتی با بازی قبلی فیلم تعاملی که در اون حضور داشتید چیه؟)"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 35.15,
+      "HIDE": 39.1
+    },
+    "SCRIPT": {
+      "KOREAN": "일단은 되게 길게 촬영하는 게 많았던 것 같아요",
+      "ENGLISH": "First of all, I think there were a lot of long takes.",
+      "CHINESE_SIMPLIFIED": "首先，这次拍摄时长明显增加了不少",
+      "CHINESE_TRADITIONAL": "首先，這次有很多長鏡頭。",
+      "JAPANESE": "まず、今回は長いテイクが多かったです。",
+      "INDONESIAN": "Kali ini banyak pengambilan panjang.",
+      "PORTUGUESE": "Desta vez houve muitas cenas longas.",
+      "SPANISH": "Esta vez hubo muchas tomas largas.",
+      "PERSIAN": "اول از همه، من فکر می کنم که زمان های طولانی زیادی وجود داشت."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 39.1,
+      "HIDE": 43.0
+    },
+    "SCRIPT": {
+      "KOREAN": "예전에는 대사를 되게 짧게 짧게 끊어서 갔었는데",
+      "ENGLISH": "Before, I used to do short cuts of dialogue,",
+      "CHINESE_SIMPLIFIED": "以前都是很简短的片段式拍摄",
+      "CHINESE_TRADITIONAL": "以前都是短短地拍台詞，",
+      "JAPANESE": "以前は短いセリフを分けて撮りましたが、",
+      "INDONESIAN": "Dulu, dialog diambil potongan pendek,",
+      "PORTUGUESE": "Antes eram diálogos curtos,",
+      "SPANISH": "Antes las líneas eran cortas,",
+      "PERSIAN": "پیش از این، گفتگوهای کوتاهی انجام می دادم،"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 45.1
+    },
+    "SCRIPT": {
+      "KOREAN": "여기서는 한 번에 찍는 게 많다 보니까",
+      "ENGLISH": "but here, there were many one-take scenes,",
+      "CHINESE_SIMPLIFIED": "这次经常要一口气完成大段戏份",
+      "CHINESE_TRADITIONAL": "這次有很多一鏡到底的場景，",
+      "JAPANESE": "今回は一発撮りのシーンが多く、",
+      "INDONESIAN": "tapi di sini banyak adegan sekali ambil,",
+      "PORTUGUESE": "mas agora há muitas tomadas únicas,",
+      "SPANISH": "pero ahora hubo muchas tomas de una sola vez,",
+      "PERSIAN": "اما در اینجا، صحنه های تک برداشتی زیادی وجود داشت،"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 45.1,
+      "HIDE": 46.18
+    },
+    "SCRIPT": {
+      "KOREAN": "대사를 좀 더",
+      "ENGLISH": "so I think I memorized the lines",
+      "CHINESE_SIMPLIFIED": "所以背台词得更拼命更高效才行",
+      "CHINESE_TRADITIONAL": "所以我背台詞的速度更快，",
+      "JAPANESE": "セリフを早く覚えて、",
+      "INDONESIAN": "jadi saya hafal dialog",
+      "PORTUGUESE": "então decorei as falas",
+      "SPANISH": "así que memoricé las líneas",
+      "PERSIAN": "بنابراین فکر می کنم خطوط را حفظ کردم"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 46.18,
+      "HIDE": 49.22
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 외우고 더 열심히 외워서 갔던 것 같아요",
+      "ENGLISH": "faster and worked harder.",
+      "CHINESE_SIMPLIFIED": "也更努力了。",
+      "CHINESE_TRADITIONAL": "也更努力了。",
+      "JAPANESE": "もっと頑張りました。",
+      "INDONESIAN": "lebih cepat dan lebih keras berlatih.",
+      "PORTUGUESE": "mais rápido e com mais esforço.",
+      "SPANISH": "más rápido y con más esfuerzo.",
+      "PERSIAN": "سریع تر و سخت تر کار کرد"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 49.22,
+      "HIDE": 51.0
+    },
+    "SCRIPT": {
+      "KOREAN": "(하전미 투표 시스템을 알고 있나요?)",
+      "ENGLISH": "(Do you know about the Don’t Fool Me, Beauties! voting system?)",
+      "CHINESE_SIMPLIFIED": "（知道游戏里的人气投票系统吗？）",
+      "CHINESE_TRADITIONAL": "（知道《美女寄宿生》的投票系統嗎？）",
+      "JAPANESE": "（『美人下宿生』の投票システムを知っていますか？）",
+      "INDONESIAN": "(Apakah tahu sistem voting Don’t Fool Me, Beauties!?)",
+      "PORTUGUESE": "(Você conhece o sistema de votos de Don’t Fool Me, Beauties!?)",
+      "SPANISH": "(¿Conoces el sistema de votación de Don’t Fool Me, Beauties!?)",
+      "PERSIAN": "(در مورد سیستم رأی دهی، زیباروها، مرا گول نزنید، می دانید؟)"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 52.23
+    },
+    "SCRIPT": {
+      "KOREAN": "알고 있긴 해요",
+      "ENGLISH": "I do know about it.",
+      "CHINESE_SIMPLIFIED": "当然知道啦~",
+      "CHINESE_TRADITIONAL": "我知道。",
+      "JAPANESE": "知っています。",
+      "INDONESIAN": "Saya tahu.",
+      "PORTUGUESE": "Sim, conheço.",
+      "SPANISH": "Sí, lo conozco.",
+      "PERSIAN": "من در مورد اون می دانم."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 52.23,
+      "HIDE": 55.09
+    },
+    "SCRIPT": {
+      "KOREAN": "(시즌 2에서는 몇 등 할 거 같나요?)",
+      "ENGLISH": "(What rank do you think you’ll get in Season 2?)",
+      "CHINESE_SIMPLIFIED": "（觉得自己在第二季能排第几名？）",
+      "CHINESE_TRADITIONAL": "（第二季你覺得會排第幾？）",
+      "JAPANESE": "（シーズン2では何位になると思いますか？）",
+      "INDONESIAN": "(Menurut Anda, peringkat berapa di musim 2?)",
+      "PORTUGUESE": "(Em que posição acha que ficará na 2ª temporada?)",
+      "SPANISH": "(¿Qué puesto crees que tendrás en la temporada 2?)",
+      "PERSIAN": "(فکر می کنید در فصل 2 چه رتبه ای کسب کنید؟)"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 55.09,
+      "HIDE": 55.21
+    },
+    "SCRIPT": {
+      "KOREAN": "저요?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我吗？",
+      "CHINESE_TRADITIONAL": "我嗎？",
+      "JAPANESE": "私ですか？",
+      "INDONESIAN": "Saya?",
+      "PORTUGUESE": "Eu?",
+      "SPANISH": "¿Yo?",
+      "PERSIAN": "من؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 55.21,
+      "HIDE": 57.06
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히 말해도 돼요?",
+      "ENGLISH": "Can I be honest?",
+      "CHINESE_SIMPLIFIED": "说实话可以吗？",
+      "CHINESE_TRADITIONAL": "可以坦白說嗎？",
+      "JAPANESE": "正直に言っていいですか？",
+      "INDONESIAN": "Boleh jujur?",
+      "PORTUGUESE": "Posso ser sincera?",
+      "SPANISH": "¿Puedo ser honesta?",
+      "PERSIAN": "می توانم صادق باشم؟"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 57.06,
+      "HIDE": 58.07
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히 4등?",
+      "ENGLISH": "Honestly, 4th place?",
+      "CHINESE_SIMPLIFIED": "老实说...第四名？",
+      "CHINESE_TRADITIONAL": "老實說，第四？",
+      "JAPANESE": "正直…4位？",
+      "INDONESIAN": "Jujur, peringkat 4?",
+      "PORTUGUESE": "Sinceramente, 4º lugar?",
+      "SPANISH": "Honestamente, ¿cuarto lugar?",
+      "PERSIAN": "راستش رتبه 4؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 58.07,
+      "HIDE": 59.2
+    },
+    "SCRIPT": {
+      "KOREAN": "(4등 위에는)말숙님이랑",
+      "ENGLISH": "(Above 4th are) Mal-sook,",
+      "CHINESE_SIMPLIFIED": "（因为前面有）末淑、",
+      "CHINESE_TRADITIONAL": "（第四名之上是）馬淑、",
+      "JAPANESE": "（4位の上は）マルスクさん、",
+      "INDONESIAN": "(Di atas peringkat 4 ada) Mal-sook,",
+      "PORTUGUESE": "(Acima do 4º estão) Mal-sook,",
+      "SPANISH": "(Por encima del 4 están) Mal-sook,",
+      "PERSIAN": "(بالاتر از 4) مال‌سوک،"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 59.2,
+      "HIDE": 60.19
+    },
+    "SCRIPT": {
+      "KOREAN": "민정님이랑",
+      "ENGLISH": "Min-jung,",
+      "CHINESE_SIMPLIFIED": "敏静、",
+      "CHINESE_TRADITIONAL": "敏靜、",
+      "JAPANESE": "ミンジョンさん、",
+      "INDONESIAN": "Min-jung,",
+      "PORTUGUESE": "Min-jung,",
+      "SPANISH": "Min-jung,",
+      "PERSIAN": "مین‌جونگ،"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 60.19,
+      "HIDE": 61.16
+    },
+    "SCRIPT": {
+      "KOREAN": "그란님",
+      "ENGLISH": "and Gran.",
+      "CHINESE_SIMPLIFIED": "还有圆圆",
+      "CHINESE_TRADITIONAL": "還有格蘭。",
+      "JAPANESE": "そしてグランさん。",
+      "INDONESIAN": "dan Gran.",
+      "PORTUGUESE": "e Gran.",
+      "SPANISH": "y Gran.",
+      "PERSIAN": "و گرن"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 61.16,
+      "HIDE": 63.02
+    },
+    "SCRIPT": {
+      "KOREAN": "왜냐하면 일단",
+      "ENGLISH": "Because they all appeared",
+      "CHINESE_SIMPLIFIED": "毕竟她们都是",
+      "CHINESE_TRADITIONAL": "因為她們都出現在",
+      "JAPANESE": "彼女たちは",
+      "INDONESIAN": "Karena mereka semua muncul",
+      "PORTUGUESE": "Porque todas apareceram",
+      "SPANISH": "Porque todas aparecieron",
+      "PERSIAN": "چون همه ظاهر شدند"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 63.14,
+      "HIDE": 65.05
+    },
+    "SCRIPT": {
+      "KOREAN": "첫 시즌에 나오셨잖아요",
+      "ENGLISH": "in the first season,",
+      "CHINESE_SIMPLIFIED": "第一季就登场的前辈",
+      "CHINESE_TRADITIONAL": "第一季裡，",
+      "JAPANESE": "シーズン1に出ていたので、",
+      "INDONESIAN": "di musim pertama,",
+      "PORTUGUESE": "na primeira temporada,",
+      "SPANISH": "en la primera temporada,",
+      "PERSIAN": "در فصل اول،"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 65.03,
+      "HIDE": 68.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 조금 세실 것 같습니다",
+      "ENGLISH": "so I think they’ll be strong.",
+      "CHINESE_SIMPLIFIED": "实力应该都很强嘛",
+      "CHINESE_TRADITIONAL": "所以我覺得她們會很強。",
+      "JAPANESE": "強いと思います。",
+      "INDONESIAN": "jadi saya pikir mereka kuat.",
+      "PORTUGUESE": "então acho que serão fortes.",
+      "SPANISH": "así que creo que serán fuertes.",
+      "PERSIAN": "بنابراین من فکر می کنم اونا قوی خواهند بود."
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 68.2,
+      "HIDE": 71.07
+    },
+    "SCRIPT": {
+      "KOREAN": "(그럼 뉴 멤버 중에는 1등이다?)",
+      "ENGLISH": "(Then among the new members, you’re first?)",
+      "CHINESE_SIMPLIFIED": "（那在新人里是第一？）",
+      "CHINESE_TRADITIONAL": "（那新成員中你是第一？）",
+      "JAPANESE": "（では新メンバーの中では1位？）",
+      "INDONESIAN": "(Jadi di antara anggota baru, Anda pertama?)",
+      "PORTUGUESE": "(Então entre as novas você é a 1ª?)",
+      "SPANISH": "(Entonces entre las nuevas eres la primera?)",
+      "PERSIAN": "(پس در میون اعضای جدید، شما اولین هستید؟)"
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 71.07,
+      "HIDE": 73.05
+    },
+    "SCRIPT": {
+      "KOREAN": "당연하죠",
+      "ENGLISH": "Of course.",
+      "CHINESE_SIMPLIFIED": "那当然啦！",
+      "CHINESE_TRADITIONAL": "當然。",
+      "JAPANESE": "もちろんです。",
+      "INDONESIAN": "Tentu saja.",
+      "PORTUGUESE": "Claro.",
+      "SPANISH": "Por supuesto.",
+      "PERSIAN": "البته."
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 73.05,
+      "HIDE": 76.23
+    },
+    "SCRIPT": {
+      "KOREAN": "1등 하면 좋죠",
+      "ENGLISH": "It would be great to be first.",
+      "CHINESE_SIMPLIFIED": "能拿第一当然最好咯~",
+      "CHINESE_TRADITIONAL": "能拿第一就太好了。",
+      "JAPANESE": "1位になれたら嬉しいです。",
+      "INDONESIAN": "Akan menyenangkan jadi nomor satu.",
+      "PORTUGUESE": "Seria ótimo ser a primeira.",
+      "SPANISH": "Sería genial ser la número uno.",
+      "PERSIAN": "خیلی خوبه که اول بشی"
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 76.19,
+      "HIDE": 78.03
+    },
+    "SCRIPT": {
+      "KOREAN": "1등 하면 공약이요?",
+      "ENGLISH": "If I get first, a promise?",
+      "CHINESE_SIMPLIFIED": "夺冠公约？",
+      "CHINESE_TRADITIONAL": "如果我拿第一，約定？",
+      "JAPANESE": "もし1位を取ったら、公約？",
+      "INDONESIAN": "Kalau menang, janji?",
+      "PORTUGUESE": "Se eu ganhar, promessa?",
+      "SPANISH": "Si gano, ¿una promesa?",
+      "PERSIAN": "اگر اول بگیرم، یک قول؟"
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 78.03,
+      "HIDE": 80.1
+    },
+    "SCRIPT": {
+      "KOREAN": "한 번",
+      "ENGLISH": "Once,",
+      "CHINESE_SIMPLIFIED": "要不...",
+      "CHINESE_TRADITIONAL": "一次，",
+      "JAPANESE": "一度、",
+      "INDONESIAN": "Sekali,",
+      "PORTUGUESE": "Uma vez,",
+      "SPANISH": "Una vez,",
+      "PERSIAN": "یک بار،"
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "TIME": {
+      "SHOW": 80.1,
+      "HIDE": 81.14
+    },
+    "SCRIPT": {
+      "KOREAN": "만나서 브이로그?",
+      "ENGLISH": "a vlog meetup?",
+      "CHINESE_SIMPLIFIED": "见面拍vlog？",
+      "CHINESE_TRADITIONAL": "拍個Vlog見面？",
+      "JAPANESE": "Vlogで会う？",
+      "INDONESIAN": "vlog bertemu?",
+      "PORTUGUESE": "um encontro em vlog?",
+      "SPANISH": "¿un vlog de encuentro?",
+      "PERSIAN": "یک جلسه ویدیویی؟"
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "TIME": {
+      "SHOW": 81.14,
+      "HIDE": 84.06
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 출연진분들 섭외해서 브이로그",
+      "ENGLISH": "I’ll invite the cast members for a vlog.",
+      "CHINESE_SIMPLIFIED": "我来邀请其他演员一起拍！",
+      "CHINESE_TRADITIONAL": "我會邀請演員們一起拍Vlog。",
+      "JAPANESE": "出演者を招いてVlogを撮ります。",
+      "INDONESIAN": "Saya akan undang para pemain untuk vlog.",
+      "PORTUGUESE": "Vou convidar o elenco para gravar um vlog.",
+      "SPANISH": "Invitaré al elenco para grabar un vlog.",
+      "PERSIAN": "من اعضای بازیگران را برای یک وبلاگ دعوت خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "TIME": {
+      "SHOW": 84.06,
+      "HIDE": 86.06
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 안된다면 어쩔 수 없기는 해요",
+      "ENGLISH": "But if it’s not possible, it can’t be helped.",
+      "CHINESE_SIMPLIFIED": "不过要是行不通就没办法啦~",
+      "CHINESE_TRADITIONAL": "但如果不行，也沒辦法。",
+      "JAPANESE": "でも無理なら仕方ないです。",
+      "INDONESIAN": "Tapi kalau tidak bisa, tidak apa-apa.",
+      "PORTUGUESE": "Mas se não der, tudo bem.",
+      "SPANISH": "Pero si no se puede, no pasa nada.",
+      "PERSIAN": "اما اگر امکان پذیر نباشد، نمی توان به اون کمک کرد."
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "TIME": {
+      "SHOW": 86.06,
+      "HIDE": 88.24
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 재밌게 플레이해 주시고",
+      "ENGLISH": "Please enjoy playing, everyone,",
+      "CHINESE_SIMPLIFIED": "希望大家玩得开心",
+      "CHINESE_TRADITIONAL": "請大家盡情享受遊戲，",
+      "JAPANESE": "皆さんぜひゲームを楽しんで、",
+      "INDONESIAN": "Nikmati gamenya,",
+      "PORTUGUESE": "Divirtam-se jogando,",
+      "SPANISH": "Disfruten del juego,",
+      "PERSIAN": "لطفا از بازی کردن لذت ببرید، همه،"
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "TIME": {
+      "SHOW": 88.07,
+      "HIDE": 91.24
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 제 결말 꼭 보셨으면 좋겠습니다",
+      "ENGLISH": "and I hope you watch my ending.",
+      "CHINESE_SIMPLIFIED": "一定要来看看我的结局路线哦",
+      "CHINESE_TRADITIONAL": "也請一定看我的結局。",
+      "JAPANESE": "私のエンディングを見てください。",
+      "INDONESIAN": "dan jangan lupa lihat ending saya.",
+      "PORTUGUESE": "e assistam ao meu final.",
+      "SPANISH": "y vean mi final.",
+      "PERSIAN": "و امیدوارم پایان من را تماشا کنید"
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "TIME": {
+      "SHOW": 91.24,
+      "HIDE": 94.17
+    },
+    "SCRIPT": {
+      "KOREAN": "저 꼭 택해주세요",
+      "ENGLISH": "Please choose me.",
+      "CHINESE_SIMPLIFIED": "请一定要选我呀！",
+      "CHINESE_TRADITIONAL": "一定要選我。",
+      "JAPANESE": "私を選んでね。",
+      "INDONESIAN": "Pilih saya.",
+      "PORTUGUESE": "Escolham-me.",
+      "SPANISH": "Elíjanme.",
+      "PERSIAN": "لطفا من را انتخاب کنید"
+    }
+  }
+]

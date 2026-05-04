@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "자..자 됐다!",
+      "ENGLISH": "A-Alright, all done!",
+      "CHINESE_SIMPLIFIED": "好了...搞定！",
+      "CHINESE_TRADITIONAL": "好了...弄好了！",
+      "JAPANESE": "よ、よし…できた！",
+      "INDONESIAN": "Baiklah, semuanya selesai!",
+      "PORTUGUESE": "Vamos ver... pronto!",
+      "SPANISH": "A ver… ¡ya está!",
+      "PERSIAN": "الف-خوب، همه چیز تمام شد!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 너무 꽉한 거 아니야?",
+      "ENGLISH": "Ugh, isn’t this too tight?",
+      "CHINESE_SIMPLIFIED": "啊，会不会太紧了？",
+      "CHINESE_TRADITIONAL": "欸，會不會太緊啊？",
+      "JAPANESE": "ちょっと締めすぎじゃない？",
+      "INDONESIAN": "Ugh, bukankah ini terlalu ketat?",
+      "PORTUGUESE": "Você não apertou demais?",
+      "SPANISH": "¿No lo apretaste demasiado?",
+      "PERSIAN": "اوه، این خیلی تنگ نیست؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "확실히 너가 고등학교 때보다 찌긴 쪘네.",
+      "ENGLISH": "Well, yeah... you’ve definitely put on some weight since high school.",
+      "CHINESE_SIMPLIFIED": "确实比你高中那会胖了不少呢",
+      "CHINESE_TRADITIONAL": "你比高中時候胖了不少吧",
+      "JAPANESE": "確かに、高校の頃よりちょっと太ったな",
+      "INDONESIAN": "Ya, tentu saja... berat badanmu pasti bertambah sejak SMA.",
+      "PORTUGUESE": "Definitivamente, engordou desde o colegial.",
+      "SPANISH": "Definitivamente haz engordado desde la preparatoria.",
+      "PERSIAN": "خب، بله... شما قطعاً از دوران دبیرستان وزن اضافه کرده اید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "What?!",
+      "CHINESE_SIMPLIFIED": "哈？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "は？",
+      "INDONESIAN": "Apa?!",
+      "PORTUGUESE": "O que você disse?",
+      "SPANISH": "¿Qué dijiste?",
+      "PERSIAN": "چی؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 예전에는",
+      "ENGLISH": "I mean, back then,",
+      "CHINESE_SIMPLIFIED": "不是，以前",
+      "CHINESE_TRADITIONAL": "不是啊，你以前",
+      "JAPANESE": "いやいや、前はこれ",
+      "INDONESIAN": "Maksudku, saat itu,",
+      "PORTUGUESE": "É que antes",
+      "SPANISH": "Es que antes",
+      "PERSIAN": "یعنی اون موقع"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 차도 헐렁헐렁 했어.",
+      "ENGLISH": "this used to fit you loose.",
+      "CHINESE_SIMPLIFIED": "你戴这个还松松垮垮的呢",
+      "CHINESE_TRADITIONAL": "戴這個都鬆鬆的嘛",
+      "JAPANESE": "もっとブカブカだったんだって",
+      "INDONESIAN": "ini dulunya cocok untuk kamu.",
+      "PORTUGUESE": "isso ficava folgado, até com o cinto.",
+      "SPANISH": "esto te quedaba flojito. Incluso con el cinturón puesto.",
+      "PERSIAN": "این برای شما شل بود."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이씨...",
+      "ENGLISH": "Ugh, seriously...",
+      "CHINESE_SIMPLIFIED": "去你的...",
+      "CHINESE_TRADITIONAL": "閉嘴...",
+      "JAPANESE": "このっ…！",
+      "INDONESIAN": "Ih, serius deh...",
+      "PORTUGUESE": "Tch...",
+      "SPANISH": "Tch…",
+      "PERSIAN": "اوه، جدی..."
+    }
+  }
+]

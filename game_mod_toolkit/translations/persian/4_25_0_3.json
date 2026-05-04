@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님 이것만 제대로 타도",
+      "ENGLISH": "Manager, just doing this properly ",
+      "CHINESE_SIMPLIFIED": "科长只要把这个动作做到位",
+      "CHINESE_TRADITIONAL": "課長，只要正確地做這個動作",
+      "JAPANESE": "課長、これをちゃんと乗りこなすだけでも",
+      "INDONESIAN": "Manajer, cuma dengan gerakan ini aja,",
+      "PORTUGUESE": "Se conseguir usar bem essa máquina,",
+      "SPANISH": "Si logra usar bien esta máquina",
+      "PERSIAN": "مدیر، فقط این کار را به درستی انجام دهید"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "살이 아주 쫙쫙 빠질 거에요.",
+      "ENGLISH": "will really help burn a lot of fat.",
+      "CHINESE_SIMPLIFIED": "保证赘肉唰唰往下掉",
+      "CHINESE_TRADITIONAL": "就會瘦得很快喔",
+      "JAPANESE": "すっごくスリムになりますよ",
+      "INDONESIAN": "kalau dilakuin dengan benar, bisa bantu bakar lemak banyak lho.",
+      "PORTUGUESE": "vai perder peso bem rápido.",
+      "SPANISH": "bajará de peso muy rápido.",
+      "PERSIAN": "واقعا به سوزاندن مقدار زیادی چربی کمک خواهد کرد."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래? 쉬워 보이는데",
+      "ENGLISH": "Really? It looks pretty easy.",
+      "CHINESE_SIMPLIFIED": "真的？看着不难啊",
+      "CHINESE_TRADITIONAL": "是嗎？看起來挺簡單的",
+      "JAPANESE": "そう？簡単そうだけど",
+      "INDONESIAN": "Serius? Padahal kelihatannya gampang banget.",
+      "PORTUGUESE": "Sério? Parece fácil.",
+      "SPANISH": "¿En serio? Parece fácil.",
+      "PERSIAN": "واقعا؟ به نظر می رسد بسیار آسان است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "한번 타보세요",
+      "ENGLISH": "Then, try riding it once.",
+      "CHINESE_SIMPLIFIED": "那，您骑/坐着试一下吧",
+      "CHINESE_TRADITIONAL": "那，您騎/坐著試一下吧",
+      "JAPANESE": "じゃあ、一度乗ってみてください",
+      "INDONESIAN": "Kalau begitu, coba naik sekali",
+      "PORTUGUESE": "Então, tente subir/andar uma vez.",
+      "SPANISH": "Entonces, intente subirse/montar una vez.",
+      "PERSIAN": "سپس، یک بار سوار اون شوید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 하는 거 맞나?",
+      "ENGLISH": "Am I doing it right like this?",
+      "CHINESE_SIMPLIFIED": "我这样做得对吗？",
+      "CHINESE_TRADITIONAL": "這樣做對嗎？",
+      "JAPANESE": "これで合ってるかな？",
+      "INDONESIAN": "Aku udah bener belum gerakannya kayak gini?",
+      "PORTUGUESE": "Assim tá certo?",
+      "SPANISH": "¿Está bien así?",
+      "PERSIAN": "این کار را درست انجام می دهم؟"
+    }
+  }
+]

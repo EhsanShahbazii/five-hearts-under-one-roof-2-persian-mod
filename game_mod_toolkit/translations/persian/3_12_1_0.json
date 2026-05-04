@@ -1,0 +1,342 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 그냥 집에 있어야 될 거 같아요 ",
+      "ENGLISH": "I think we should just stay in today.",
+      "CHINESE_SIMPLIFIED": "今天还是待在家里比较好",
+      "CHINESE_TRADITIONAL": "看來今天只能待在家了",
+      "INDONESIAN": "Kayaknya hari ini kita mending diem di rumah aja.",
+      "PORTUGUESE": "Acho que hoje é melhor a gente ficar em casa.",
+      "SPANISH": "Creo que hoy será mejor quedarnos en casa.",
+      "PERSIAN": "من فکر می کنم ما باید فقط همین امروز بمانیم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네 그럴게요.",
+      "ENGLISH": "Yeah, that sounds like a good idea.",
+      "CHINESE_SIMPLIFIED": "嗯 ，也只能这样了",
+      "CHINESE_TRADITIONAL": "也只能這樣了",
+      "INDONESIAN": "Iya, kedengarannya bagus tuh.",
+      "PORTUGUESE": "Sim, é melhor.",
+      "SPANISH": "Sí, es mejor.",
+      "PERSIAN": "آره، این ایده خوبی به نظر می رسد."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨~? 밖에 있어요?",
+      "ENGLISH": "Yuman~? Are you out there?",
+      "CHINESE_SIMPLIFIED": "宥万~？你在外面吗？",
+      "CHINESE_TRADITIONAL": "宥萬先生～？你在外面嗎？",
+      "INDONESIAN": "Yuman~? Kamu di luar?",
+      "PORTUGUESE": "Yumán? Você tá aí fora?",
+      "SPANISH": "¿Yumán? ¿Estás afuera?",
+      "PERSIAN": "یومان ~؟ شما آنجا هستید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유나 씨?",
+      "ENGLISH": "Yuna?",
+      "CHINESE_SIMPLIFIED": "有娜？",
+      "CHINESE_TRADITIONAL": "有娜小姐？",
+      "INDONESIAN": "Yuna?",
+      "PORTUGUESE": "Yuna?",
+      "SPANISH": "¿Eh? ¿Yuna?",
+      "PERSIAN": "یونا؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 있구나~ 잠깐 화장실 쪽으로 와줄래요?",
+      "ENGLISH": "Oh, you are there! Can you come over by the bathroom for a sec?",
+      "CHINESE_SIMPLIFIED": "啊，你在啊~能来卫生间这边一下吗？",
+      "CHINESE_TRADITIONAL": "啊，你在啊～能稍微來一下廁所這邊嗎？",
+      "INDONESIAN": "Oh, kamu di situ! Bisa ke sini sebentar nggak, ke deket kamar mandi?",
+      "PORTUGUESE": "Ah, aí está~ você pode vir um momento aqui no banheiro?",
+      "SPANISH": "Ah, ahí estás~ ¿Podrías venir un momento al baño?",
+      "PERSIAN": "اوه، شما آنجا هستید! می توانید برای یک ثانیه از کنار حمام بیایید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아...잠시만요...!",
+      "ENGLISH": "Uh… just a minute…!",
+      "CHINESE_SIMPLIFIED": "啊...稍等...！",
+      "CHINESE_TRADITIONAL": "啊...等一下...! ",
+      "INDONESIAN": "Uh… bentar ya…!",
+      "PORTUGUESE": "Ah... um segundo...!",
+      "SPANISH": "Ah... ¡un segundo...!",
+      "PERSIAN": "اوه ... فقط یک دقیقه ...!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저 들어갈게요?",
+      "ENGLISH": "I’m coming in, okay?",
+      "CHINESE_SIMPLIFIED": "我进来了？",
+      "CHINESE_TRADITIONAL": "我要進去了喔？",
+      "INDONESIAN": "Aku masuk ya?",
+      "PORTUGUESE": "Posso entrar?",
+      "SPANISH": "¿Puedo entrar?",
+      "PERSIAN": "من میام داخل، باشه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.6
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 잠깐!!! 들어오지 마요!!!",
+      "ENGLISH": "W-Wait!!! Don’t come in!!!",
+      "CHINESE_SIMPLIFIED": "等、等一下！！！别进来！！！",
+      "CHINESE_TRADITIONAL": "等、等等！！不要進來！！！",
+      "INDONESIAN": "T-Tunggu!!! Jangan masuk!!!",
+      "PORTUGUESE": "E-espera!!! Não entra!!!",
+      "SPANISH": "¡E-espera!!! ¡No entres!!!",
+      "PERSIAN": "و-صبر کن!!! وارد نشو!!!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 나 휴지 좀 사다 줄래요?",
+      "ENGLISH": "Can you maybe… get me some toilet paper?",
+      "CHINESE_SIMPLIFIED": "不是，能帮我买点卫生纸吗？",
+      "CHINESE_TRADITIONAL": "那個，你能幫我買點衛生紙嗎？",
+      "INDONESIAN": "Kamu bisa... ambilin tisu toilet nggak?",
+      "PORTUGUESE": "Ei, pode ir comprar papel higiênico?",
+      "SPANISH": "Oye, ¿puedes ir a comprar papel higiénico?",
+      "PERSIAN": "ممکنه ... برای من کاغذ توالت بیاورید؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.4,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 휴지 여유분 넣어놨을 텐데. 벌써 다 썼어요?",
+      "ENGLISH": "What? I thought I stocked extra. You used it all already?",
+      "CHINESE_SIMPLIFIED": "呃？应该放了备用的啊。这么快就用完了？",
+      "CHINESE_TRADITIONAL": "欸？我有放備用的衛生紙啊？這麼快就用完了嗎？",
+      "INDONESIAN": "Apa? Bukannya aku udah naro stok lebih deh. Kamu udah habisin semua?",
+      "PORTUGUESE": "Hã? Mas eu deixei um rolo extra aí. Você já acabou com ele também?",
+      "SPANISH": "¿Ah? Pero dejé un rollo extra ahí. ¿También te lo acabaste?",
+      "PERSIAN": "چی؟ فکر کردم انبار اضافی دارم. قبلا از همه استفاده کردی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나 그렇게 똥쟁이 아니거든요?",
+      "ENGLISH": "Hey! I’m not some kind of poop machine, okay?!",
+      "CHINESE_SIMPLIFIED": "我没有那么能拉好吧？",
+      "CHINESE_TRADITIONAL": "我才不是那種天天跑廁所的人喔？",
+      "INDONESIAN": "Hey! Aku bukan mesin pup, oke?!",
+      "PORTUGUESE": "O que você tá insinuando?!",
+      "SPANISH": "¡¿Qué estás insinuando?!",
+      "PERSIAN": "سلام! من نوعی دستگاه مدفوع نیستم، باشه؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 33.9,
+      "HIDE": 35.6
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 지금 사람이 몇 명인데...",
+      "ENGLISH": "There’s a bunch of people here right now...",
+      "CHINESE_SIMPLIFIED": "现在这里住着这么多人...",
+      "CHINESE_TRADITIONAL": "你也不想想這裡現在住多少人...",
+      "INDONESIAN": "Sekarang banyak orang di rumah...",
+      "PORTUGUESE": "Tem muita gente morando aqui...",
+      "SPANISH": "Aquí viven muchas personas ...",
+      "PERSIAN": "الان یه سری آدم اینجا هستن..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 37.8
+    },
+    "SCRIPT": {
+      "KOREAN": "휴지 금방 떨어지죠",
+      "ENGLISH": "TP runs out fast.",
+      "CHINESE_SIMPLIFIED": "卫生纸很快就用完了",
+      "CHINESE_TRADITIONAL": "衛生紙很快就用光了",
+      "INDONESIAN": "Tisu cepet banget abis.",
+      "PORTUGUESE": "É normal acabar rápido.",
+      "SPANISH": "Es normal que se acabe rápido.",
+      "PERSIAN": "دستمال به سرعت تمام می شود."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.2,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아하이... 알겠어요.",
+      "ENGLISH": "Ugh… alright, fine.",
+      "CHINESE_SIMPLIFIED": "啊哈...知道啦",
+      "CHINESE_TRADITIONAL": "啊哈...我知道了",
+      "INDONESIAN": "Ugh… ya udah deh.",
+      "PORTUGUESE": "Ah... tá bom.",
+      "SPANISH": "Ah... está bien.",
+      "PERSIAN": "اوه... باشه، خوب."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 40.1,
+      "HIDE": 42.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그 너무 오래 앉아 있으면 안 좋아요...!",
+      "ENGLISH": "Also, it’s not good to sit there too long…!",
+      "CHINESE_SIMPLIFIED": "还有别坐太久，对身体不好...！",
+      "CHINESE_TRADITIONAL": "不過坐太久對身體不好喔...!",
+      "INDONESIAN": "Terus, jangan kelamaan duduk di situ juga...!",
+      "PORTUGUESE": "Mas não fica sentada aí por tanto tempo, não é bom pra...",
+      "SPANISH": "Pero no te quedes sentada tanto tiempo, no es bueno para...",
+      "PERSIAN": "همچنین، نشستن زیاد در آنجا خوب نیست…!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 42.9,
+      "HIDE": 45.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 알겠으니까 빨리 갔다 와요!!",
+      "ENGLISH": "Okay okay, just hurry!!",
+      "CHINESE_SIMPLIFIED": "啊知道啦，你快点去买回来！！",
+      "CHINESE_TRADITIONAL": "啊！我知道了啦，所以快去快回啦！！",
+      "INDONESIAN": "Oke oke, cepetan aja!!",
+      "PORTUGUESE": "Sim, já entendi, só vai logo!!",
+      "SPANISH": "¡Sí, ya entendí, solo ve rápido!!",
+      "PERSIAN": "باشه باشه فقط عجله کن!!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 45.3,
+      "HIDE": 46.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Got it.",
+      "CHINESE_SIMPLIFIED": "好的",
+      "CHINESE_TRADITIONAL": "好的",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Ok.",
+      "SPANISH": "Ok.",
+      "PERSIAN": "متوجه شدم."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 48.3,
+      "HIDE": 50.3
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 빨리 갔다 와야 돼요!!!",
+      "ENGLISH": "Like, seriously hurry!!!",
+      "CHINESE_SIMPLIFIED": "真的要快去快回！！！",
+      "CHINESE_TRADITIONAL": "真的要快點去快點回來啊！！！",
+      "INDONESIAN": "Beneran, buru banget!!!",
+      "PORTUGUESE": "De verdade, volta rápido!!!",
+      "SPANISH": "¡De verdad, vuelve rápido!!!",
+      "PERSIAN": "لایک جدی عجله کن!!!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 50.6,
+      "HIDE": 52.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 알겠어요...",
+      "ENGLISH": "Yeah yeah, I’m going!",
+      "CHINESE_SIMPLIFIED": "啊，知道啦...",
+      "CHINESE_TRADITIONAL": "好，知道了...",
+      "INDONESIAN": "Iya iya, lagi jalan nih!",
+      "PORTUGUESE": "Tá bom...",
+      "SPANISH": "Ah, está bien...",
+      "PERSIAN": "آره آره من میرم!"
+    }
+  }
+]

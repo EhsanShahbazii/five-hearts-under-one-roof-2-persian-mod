@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 제가 발목 마사지 좀 해 드릴게요.",
+      "ENGLISH": "Then let me massage your ankle a bit.",
+      "CHINESE_SIMPLIFIED": "那我帮你按摩一下脚踝吧",
+      "CHINESE_TRADITIONAL": "我來幫你按一下腳踝吧",
+      "JAPANESE": "じゃあ、足首のマッサージしてあげますね",
+      "INDONESIAN": "Kalau gitu, aku pijetin pergelangan kakimu sedikit, ya.",
+      "PORTUGUESE": "Então vou massagear seu tornozelo.",
+      "SPANISH": "Entonces le haré un masaje en el tobillo.",
+      "PERSIAN": "سپس اجازه دهید کمی مچ پای شما را ماساژ دهم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만요.",
+      "ENGLISH": "Just a second...",
+      "CHINESE_SIMPLIFIED": "稍等一下",
+      "CHINESE_TRADITIONAL": "等一下",
+      "JAPANESE": "ちょっと失礼します",
+      "INDONESIAN": "Bentar aja...",
+      "PORTUGUESE": "Um momento...",
+      "SPANISH": "Un momento...",
+      "PERSIAN": "فقط یک ثانیه..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요?",
+      "ENGLISH": "How’s that?",
+      "CHINESE_SIMPLIFIED": "怎么样？",
+      "CHINESE_TRADITIONAL": "怎麼了？",
+      "JAPANESE": "どうですか？",
+      "INDONESIAN": "Gimana?",
+      "PORTUGUESE": "Que tal assim?",
+      "SPANISH": "¿Qué tal así?",
+      "PERSIAN": "چطوره؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮은 거 같은데...",
+      "ENGLISH": "That actually feels pretty okay...",
+      "CHINESE_SIMPLIFIED": "好像还可以...",
+      "CHINESE_TRADITIONAL": "好像又沒事了",
+      "JAPANESE": "大丈夫そうです…",
+      "INDONESIAN": "Lumayan enak juga, sih...",
+      "PORTUGUESE": "Acho que tá bem...",
+      "SPANISH": "Creo que está bien...",
+      "PERSIAN": "این در واقع خیلی خوب به نظر می رسد ..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 이렇게 하면요?",
+      "ENGLISH": "And what about if I press here?",
+      "CHINESE_SIMPLIFIED": "那这样呢？",
+      "CHINESE_TRADITIONAL": "那這樣按呢？",
+      "JAPANESE": "じゃあ、こうしたら？",
+      "INDONESIAN": "Kalau aku tekan di sini gimana?",
+      "PORTUGUESE": "E se eu fizer assim?",
+      "SPANISH": "¿Y si lo hago así?",
+      "PERSIAN": "و اگر اینجا را فشار دهم چطور؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아!",
+      "ENGLISH": "Ah!",
+      "CHINESE_SIMPLIFIED": "啊！",
+      "CHINESE_TRADITIONAL": "啊啊！",
+      "JAPANESE": "あっ！",
+      "INDONESIAN": "Ah!",
+      "PORTUGUESE": "Ah!",
+      "SPANISH": "¡Ah!",
+      "PERSIAN": "آه!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 이렇게 하면 아파요?",
+      "ENGLISH": "Oh—does that hurt?",
+      "CHINESE_SIMPLIFIED": "呃？这样会痛吗？",
+      "CHINESE_TRADITIONAL": "嗯？這樣按的話會痛嗎？",
+      "JAPANESE": "痛いですか？",
+      "INDONESIAN": "Oh—sakit ya?",
+      "PORTUGUESE": "Hã? Dói desse jeito?",
+      "SPANISH": "¿Eh? ¿Así te duele?",
+      "PERSIAN": "اوه - درد داره؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yeah... it does.",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "對...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya... sakit.",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "آره... داره."
+    }
+  }
+]

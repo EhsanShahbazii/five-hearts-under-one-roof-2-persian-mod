@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "최우선 대리?",
+      "ENGLISH": "Assistant Choi Woo-sun?",
+      "CHINESE_SIMPLIFIED": "崔优先代理？",
+      "CHINESE_TRADITIONAL": "崔宇善代理？",
+      "JAPANESE": "チェ・ウソン代理？",
+      "INDONESIAN": "Asisten Choi Woo-sun?",
+      "PORTUGUESE": "Assistente Woo-sun Choi?",
+      "SPANISH": "¿Asistente  Woo-sun Choi?",
+      "PERSIAN": "دستیار چوی وو سان؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "(밀크 코퍼레이션 보고서) \n제품제작공정 혁신 방안 보고서?",
+      "ENGLISH": "(Milk Corporation Report)\nReport on Product Manufacturing Process Innovation?",
+      "CHINESE_SIMPLIFIED": "「优乳科技报告书」\n产品制造流程创新方案报告书？",
+      "CHINESE_TRADITIONAL": "「優乳科技報告書」\n產品製造流程創新方案報告書？",
+      "JAPANESE": "「ミルク・コーポレーション 報告書」\n製品製造工程の革新方案報告書？",
+      "INDONESIAN": "(Laporan Milk Corporation)\nLaporan Inovasi Proses Produksi?",
+      "PORTUGUESE": "(Relatório da \"Corporação Milk\")\nRelatório de inovação no processo de manufatura de produtos?",
+      "SPANISH": "(Reporte de \"Corporación Milk\")\n¿Reporte de inovación en el proceso de manufacturación de productos?",
+      "PERSIAN": "(گزارش شرکت شیر) گزارشی در مورد نوآوری فرآیند تولید محصول؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이 사람은 누구지...?",
+      "ENGLISH": "Who is this person…?",
+      "CHINESE_SIMPLIFIED": "这人是谁啊...？",
+      "CHINESE_TRADITIONAL": "這個人是誰啊...?",
+      "JAPANESE": "この人、誰だ…？",
+      "INDONESIAN": "Ini siapa ya orangnya…?",
+      "PORTUGUESE": "Quem é essa pessoa?",
+      "SPANISH": "¿Quién es esta persona?",
+      "PERSIAN": "این شخص کیه…؟"
+    }
+  }
+]

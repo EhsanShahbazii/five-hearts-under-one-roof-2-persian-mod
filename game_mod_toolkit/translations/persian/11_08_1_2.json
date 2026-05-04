@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하아... 민정 님 자꾸 긴장된다고만 하면",
+      "ENGLISH": "Sigh... No, Min-jung, if you keep saying you're nervous,",
+      "CHINESE_SIMPLIFIED": "唉...敏静，你老是说紧张",
+      "CHINESE_TRADITIONAL": "唉...敏靜，你一直說很緊張",
+      "JAPANESE": "はぁ…もう、ミンジョンさん、緊張するとばかり言われても",
+      "INDONESIAN": "Haa... Min-jung, kalau kamu terus bilang gugup",
+      "PORTUGUESE": "Ha... mas se você continuar dizendo que tá nervosa,",
+      "SPANISH": "Ha... pero si sigues diciendo que estás nerviosa,",
+      "PERSIAN": "آه... نه، مین‌جونگ، اگر مدام بگویی عصبی هستی،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 더 해줄 수 있는 게 없잖아요.",
+      "ENGLISH": "there's nothing more I can do for you.",
+      "CHINESE_SIMPLIFIED": "那我也帮不了你什么啊",
+      "CHINESE_TRADITIONAL": "但我也幫不上什麼忙",
+      "JAPANESE": "僕ができることなくなっちゃうじゃないですか。",
+      "INDONESIAN": "Aku jadi ngerasa nggak bisa ngelakuin apa-apa buat bantu",
+      "PORTUGUESE": "não tem mais nada que eu possa fazer por você.",
+      "SPANISH": "no hay nada más que pueda hacer por ti.",
+      "PERSIAN": "دیگر کاری نمی توانم برایت انجام دهم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 난 그냥...",
+      "ENGLISH": "No, I just...",
+      "CHINESE_SIMPLIFIED": "不是，我只是...",
+      "CHINESE_TRADITIONAL": "不是，我只是...",
+      "JAPANESE": "いや、ただ…",
+      "INDONESIAN": "Bukan gitu...",
+      "PORTUGUESE": "Não, é só que...",
+      "SPANISH": "No, es solo que...",
+      "PERSIAN": "نه من فقط..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "사람들 보는 게 무서워서...",
+      "ENGLISH": "I'm just so scared of people watching me,",
+      "CHINESE_SIMPLIFIED": "害怕面对这么多人",
+      "CHINESE_TRADITIONAL": "害怕面對這麼多人",
+      "JAPANESE": "人に見られるのが怖くて…。",
+      "INDONESIAN": "Aku cuma... takut diliatin banyak orang...",
+      "PORTUGUESE": "me assusta ver tanta gente...",
+      "SPANISH": "me asusta ver a tanta gente...",
+      "PERSIAN": "من فقط از این که مردم مرا تماشا کنند می ترسم،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "긴장돼서 그러는 건데...",
+      "ENGLISH": "that's why I get nervous...",
+      "CHINESE_SIMPLIFIED": "因为紧张才这样的...",
+      "CHINESE_TRADITIONAL": "因為緊張才這樣的...",
+      "JAPANESE": "緊張してるだけなんです…。",
+      "INDONESIAN": "Makanya jadi tegang",
+      "PORTUGUESE": "e por isso eu fico nervosa...",
+      "SPANISH": "y por eso me pongo nerviosa...",
+      "PERSIAN": "واسه همین عصبی میشم..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 정 그렇게 긴장되고 무서운 거면 하지마요.",
+      "ENGLISH": "If you're really that nervous and scared, then don't do it.",
+      "CHINESE_SIMPLIFIED": "唉，要是这么害怕紧张，干脆别上去好了",
+      "CHINESE_TRADITIONAL": "唉，如果妳真的這麼害怕，還是不要上台好了",
+      "JAPANESE": "もう、そんなに怖いならやめましょうよ。",
+      "INDONESIAN": "Yah, kalau emang segitu takut dan tegangnya, Mending nggak usah naik panggung sekalian",
+      "PORTUGUESE": "Ah, se isso realmente te assusta tanto e te deixa assim, então não faz.",
+      "SPANISH": "Ay, si de verdad te da tanto miedo y te pone tan nerviosa, no lo hagas.",
+      "PERSIAN": "اگر واقعاً آنقدر عصبی و می ترسید، پس این کار را نکنید."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "복귀 무대란 답시고 올라갔다가 무대를 망치느니",
+      "ENGLISH": "Rather than going up for a comeback stage and messing it up,",
+      "CHINESE_SIMPLIFIED": "比起打着“复出舞台”的名号又搞砸",
+      "CHINESE_TRADITIONAL": "與其以「回歸舞台」的名義上去，然後把舞台搞砸",
+      "JAPANESE": "復帰ステージとか言って上がって、台無しにするより、",
+      "INDONESIAN": "Daripada maksain naik demi “panggung comeback” terus malah jadi berantakan",
+      "PORTUGUESE": "Em vez de subir e estragar o palco com esse papo de “meu grande retorno”,",
+      "SPANISH": "En lugar de subir y arruinar el escenario con eso de “mi gran regreso”,",
+      "PERSIAN": "به جای اینکه برای یک مرحله بازگشت بالا برویم و اونو به هم بزنیم،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 불참으로 끝내는 게 낫지 않겠어요?",
+      "ENGLISH": "wouldn't it be better to just not participate?",
+      "CHINESE_SIMPLIFIED": "不如干脆不上台",
+      "CHINESE_TRADITIONAL": "就以缺席收場，會不會比較好？",
+      "JAPANESE": "出ない方がマシですよ。",
+      "INDONESIAN": "Bukankah lebih baik nggak tampil sama sekali?",
+      "PORTUGUESE": "não seria melhor simplesmente não se apresentar?",
+      "SPANISH": "¿no sería mejor simplemente no presentarte?",
+      "PERSIAN": "بهتر نیست فقط شرکت نکنیم؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 스탠바이요!",
+      "ENGLISH": "Min-jung, standby!",
+      "CHINESE_SIMPLIFIED": "“敏静小姐，候场准备！”",
+      "CHINESE_TRADITIONAL": "敏靜小姐，準備上場！",
+      "JAPANESE": "ミンジョンさん、スタンバイお願いします！",
+      "INDONESIAN": "Min-jung, standby ya!",
+      "PORTUGUESE": "Minjung, em posição!",
+      "SPANISH": "¡Minjung, a posición!",
+      "PERSIAN": "مین‌جونگ، آماده باش!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 29.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다녀올게요..",
+      "ENGLISH": "I'll be right back...",
+      "CHINESE_SIMPLIFIED": "我先走了...",
+      "CHINESE_TRADITIONAL": "我先走了...",
+      "JAPANESE": "行ってきます…。",
+      "INDONESIAN": "Aku berangkat ya...",
+      "PORTUGUESE": "Já volto...",
+      "SPANISH": "Ya regreso...",
+      "PERSIAN": "من همین الان برمیگردم..."
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "기억나지~",
+      "ENGLISH": "I remember~",
+      "CHINESE_SIMPLIFIED": "记得啊～",
+      "CHINESE_TRADITIONAL": "我記得啊",
+      "JAPANESE": "覚えてるさ〜",
+      "INDONESIAN": "Aku inget kok.",
+      "PORTUGUESE": "Eu lembro~",
+      "SPANISH": "Claro que me acuerdo.",
+      "PERSIAN": "معلومه که یادمه~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너 검은색 수영복 입었었잖아.",
+      "ENGLISH": "You were wearing a black swimsuit.",
+      "CHINESE_SIMPLIFIED": "你那天穿的是黑色泳衣吧？",
+      "CHINESE_TRADITIONAL": "你穿黑色的泳衣啊",
+      "JAPANESE": "黒い水着着てただろ？",
+      "INDONESIAN": "Kamu pakai baju renang warna hitam, kan.",
+      "PORTUGUESE": "Você tava de maiô preto.",
+      "SPANISH": "Llevabas uno negro.",
+      "PERSIAN": "مایوی مشکی تنت بود!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "확실해?",
+      "ENGLISH": "You sure?",
+      "CHINESE_SIMPLIFIED": "确定吗？",
+      "CHINESE_TRADITIONAL": "確定嗎？",
+      "JAPANESE": "覚えてるの？ほんとに？",
+      "INDONESIAN": "Yakin?",
+      "PORTUGUESE": "Tem certeza?",
+      "SPANISH": "¿Estás seguro?",
+      "PERSIAN": "مطمئنی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "완전.",
+      "ENGLISH": "Absolutely.",
+      "CHINESE_SIMPLIFIED": "嗯，非常确定",
+      "CHINESE_TRADITIONAL": "非常確定",
+      "JAPANESE": "当たり前",
+      "INDONESIAN": "Iya, yakin banget.",
+      "PORTUGUESE": "Com certeza.",
+      "SPANISH": "Sí, segurísimo.",
+      "PERSIAN": "صد در صد!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 너 생각보다 나한테 관심이 많다?",
+      "ENGLISH": "Wow, so you’ve been paying more attention to me than I thought.",
+      "CHINESE_SIMPLIFIED": "什么嘛，你比我想象的还关心我呢？",
+      "CHINESE_TRADITIONAL": "什麼嘛，你比我想像中還關心我？",
+      "JAPANESE": "なにそれ…思ったより私のこと見てたんだ？",
+      "INDONESIAN": "Wah, kamu ternyata perhatian juga ya sama aku?",
+      "PORTUGUESE": "Uau, então você prestou mais atenção em mim do que eu pensei.",
+      "SPANISH": "Vaya, tienes más interés en mí del que pensaba.",
+      "PERSIAN": "اووه... پس فکر می‌کردم حواست بهم نیست، ولی انگار خوب منو می‌پایی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너가 생각하는 것보다",
+      "ENGLISH": "Actually… I’ve been paying more attention",
+      "CHINESE_SIMPLIFIED": "我对你的关心",
+      "CHINESE_TRADITIONAL": "我對你的關心",
+      "JAPANESE": "おまえが思ってる以上に",
+      "INDONESIAN": "Lebih dari yang kamu kira,",
+      "PORTUGUESE": "Na verdade… eu prestei mais atenção",
+      "SPANISH": "Te pongo más atención",
+      "PERSIAN": "اتفاقاً برعکس اون چیزی که فکر می‌کنی،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 너한테 관심이 많거든.",
+      "ENGLISH": "to you than you think.",
+      "CHINESE_SIMPLIFIED": "比你想象的多多了",
+      "CHINESE_TRADITIONAL": "比你想像的還要多",
+      "JAPANESE": "俺はおまえのこと気にしてたんだよ",
+      "INDONESIAN": "aku emang perhatian banget sama kamu.",
+      "PORTUGUESE": "em você do que você imagina.",
+      "SPANISH": "de lo que piensas.",
+      "PERSIAN": "خیلی بیشتر از این حرفا حواسم بهت هست!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어...?",
+      "ENGLISH": "Huh…?",
+      "CHINESE_SIMPLIFIED": "嗯...？",
+      "CHINESE_TRADITIONAL": "嗯...？",
+      "JAPANESE": "……はぁ？",
+      "INDONESIAN": "Eh...?",
+      "PORTUGUESE": "Hã…?",
+      "SPANISH": "¿Eh…?",
+      "PERSIAN": "عه...؟ واقعاً؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너 그날 수영복 입고 ",
+      "ENGLISH": "I even remember ",
+      "CHINESE_SIMPLIFIED": "我还记得那天你穿着泳衣",
+      "CHINESE_TRADITIONAL": "我甚至記得你那天穿著泳衣",
+      "JAPANESE": "それに、その日水着着て",
+      "INDONESIAN": "Aku juga masih inget waktu kamu pakai baju renang itu,",
+      "PORTUGUESE": "Eu até lembro",
+      "SPANISH": "También recuerdo que ese día te dio pena,",
+      "PERSIAN": "حتی یادمه اون روز وقتی مایوتو پوشیدی،"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "괜히 창피해서 이상하게 뛰는 것도 기억나는데?",
+      "ENGLISH": "how you got all embarrassed in that swimsuit and ran around weirdly.",
+      "CHINESE_SIMPLIFIED": "因为害羞还用很奇怪的姿势跑步",
+      "CHINESE_TRADITIONAL": "因為害羞還用很奇怪的姿勢跑步",
+      "JAPANESE": "恥ずかしそうに変な走り方してたのも覚えてる",
+      "INDONESIAN": "terus malu sendiri sampe lari-lari aneh gitu.",
+      "PORTUGUESE": "de como você ficou toda envergonhada com aquele maiô e saiu correndo esquisito.",
+      "SPANISH": "llevar puesto ese traje de baño y empezaste a correr raro.",
+      "PERSIAN": "از خجالت هول شدی و عین اردک لنگ می‌دویدی!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "학생 때부터 너가 뛰는 건 좀 젬병이긴 했어.",
+      "ENGLISH": "To be fair, you’ve always been terrible at running—even back in school.",
+      "CHINESE_SIMPLIFIED": "你从小跑步就挺不行的",
+      "CHINESE_TRADITIONAL": "你從學生時代開始，跑步就很遜",
+      "JAPANESE": "学生の頃から走るの下手だったよな",
+      "INDONESIAN": "Dari zaman sekolah juga, kamu tuh emang nggak jago lari.",
+      "PORTUGUESE": "Pra ser justa, você sempre foi péssima em correr—até na época da escola.",
+      "SPANISH": "Desde la escuela eras malísima corriendo.",
+      "PERSIAN": "راستش از همون دوران مدرسه دویدنت افتضاح و شبیه شترمرغ بود!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "약간 고라니 느낌?",
+      "ENGLISH": "Kinda like a clumsy deer.",
+      "CHINESE_SIMPLIFIED": "有点像獐子？",
+      "CHINESE_TRADITIONAL": "有點像獐子的感覺？",
+      "JAPANESE": "なんか小鹿みたいでさ",
+      "INDONESIAN": "Kayak... rusa kecil yang panik?",
+      "PORTUGUESE": "Meio como um cervo desengonçado.",
+      "SPANISH": "Pareces un venadito asustado",
+      "PERSIAN": "یه جورایی شبیه یه آهوی دست و پا چلفتی بودی!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 25.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그런 건 잊어!",
+      "ENGLISH": "Ugh, forget about that!",
+      "CHINESE_SIMPLIFIED": "啊！那种事给我忘了！",
+      "CHINESE_TRADITIONAL": "立刻給我忘了",
+      "JAPANESE": "ちょ、やめてよ！そういうのはもう忘れて！",
+      "INDONESIAN": "Aduh! Lupakan itu!",
+      "PORTUGUESE": "Ugh, esquece isso!",
+      "SPANISH": "¡Ya olvida eso!",
+      "PERSIAN": "آخ! اون مسخره‌بازی‌ها رو فراموش کن زود باش!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "당장 잊으라고!!!",
+      "ENGLISH": "I said forget it!!!",
+      "CHINESE_SIMPLIFIED": "立刻给我忘掉！！！",
+      "CHINESE_TRADITIONAL": "立刻忘掉！！！",
+      "JAPANESE": "今すぐ忘れて！！！",
+      "INDONESIAN": "Lupain sekarang juga!!!",
+      "PORTUGUESE": "Eu disse pra esquecer!!!",
+      "SPANISH": "¡Te dije que lo olvides!",
+      "PERSIAN": "می‌گم همین الان از تو کله‌ت پاکش کننن!!!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 30.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아악! 그만해! 나 환자야!",
+      "ENGLISH": "Ahhh! Stop! I’m the patient here!",
+      "CHINESE_SIMPLIFIED": "啊啊啊！别说啦！我可是病人耶！",
+      "CHINESE_TRADITIONAL": "啊啊啊！住手！我是病人啊！",
+      "JAPANESE": "あー！やめろ！俺は病人だ！",
+      "INDONESIAN": "Aaaah! Udahan dong! Aku kan masih pasien!",
+      "PORTUGUESE": "Ahhh! Para! Eu sou o paciente aqui!",
+      "SPANISH": "¡Aah! ¡Para! ¡Aún no me recupero!",
+      "PERSIAN": "آیییی! نزن وحشی! من هنوز مریضم ولم کن!"
+    }
+  }
+]

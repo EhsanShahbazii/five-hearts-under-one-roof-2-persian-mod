@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 스트레스 받게 하는 것들은 우리가 팰 순 없으니까",
+      "ENGLISH": "Okay — since we can’t go around punching the things that stress us out,",
+      "CHINESE_SIMPLIFIED": "既然没法直接揍那些让你压力大的家伙",
+      "CHINESE_TRADITIONAL": "既然沒辦法直接揍那些給你壓力的傢伙們",
+      "JAPANESE": "じゃあ、ストレスの原因をぶん殴ることはできないから",
+      "INDONESIAN": "Oke — karena kita nggak bisa sembarangan mukulin hal-hal yang bikin stres,",
+      "PORTUGUESE": "Vamos lá, já que não podemos socar os problemas,",
+      "SPANISH": "A ver, como no podemos golpear los problemas,",
+      "PERSIAN": "بسیار خوب - از آنجایی که ما نمی توانیم به چیزهایی که ما را تحت فشار قرار می دهند مشت بزنیم،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이 허공에 주먹을 날리는 거예요.",
+      "ENGLISH": "we’re just gonna punch the air.",
+      "CHINESE_SIMPLIFIED": "那就朝空气挥拳！",
+      "CHINESE_TRADITIONAL": "那就朝空氣揮拳吧！",
+      "JAPANESE": "この空にパンチを打ちましょう",
+      "INDONESIAN": "kita mukulin udara aja.",
+      "PORTUGUESE": "vamos socar o ar.",
+      "SPANISH": "vamos a golpear el aire.",
+      "PERSIAN": "ما فقط هوا را میکوبیم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "허공에요?",
+      "ENGLISH": "Punch the air?",
+      "CHINESE_SIMPLIFIED": "空气？",
+      "CHINESE_TRADITIONAL": "空氣？",
+      "JAPANESE": "空に？",
+      "INDONESIAN": "Mukulin udara?",
+      "PORTUGUESE": "O ar?",
+      "SPANISH": "¿El aire?",
+      "PERSIAN": "هوا را مشت کنم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "응, 막 이렇게 막 이렇게! 휘두르면 되거든요 하! 흐핫!",
+      "ENGLISH": "Yep! Like this, like this! Just swing! Hah! Hah!",
+      "CHINESE_SIMPLIFIED": "对，就像这样！这样！使劲挥出去就行！哈！嚯哈！",
+      "CHINESE_TRADITIONAL": "對！就像這樣！這樣！用力揮出去就可以了！哈！嚇哈！",
+      "JAPANESE": "そう、こうやって！こうやって！ブンッ！ハッハ！",
+      "INDONESIAN": "Iya! Gini lho, gini! Ayun aja! Hah! Hah!",
+      "PORTUGUESE": "Sim, isso mesmo! Só mexe os braços com força! Já! Jájá!",
+      "SPANISH": "Sí, ¡así mismo! ¡Solo muévelos con fuerza! ¡Ja! ¡Jajá!",
+      "PERSIAN": "بله! اینجوری، اینجوری! فقط تاب بخور! هه! هه!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤은 제 손바닥에 주먹 한번 날려봐요.",
+      "ENGLISH": "Gyu-ri, try punching into my palm.",
+      "CHINESE_SIMPLIFIED": "方护士，来，朝我手心打一拳试试",
+      "CHINESE_TRADITIONAL": "久梨護理師，來！朝我手心打一拳試試看",
+      "JAPANESE": "ギュリ先生、僕の手のひらにパンチしてみてください！",
+      "INDONESIAN": "Gyu-ri, coba pukul ke telapak tangan aku.",
+      "PORTUGUESE": "Enfermeira Gyuri, dá um soco aqui.",
+      "SPANISH": "Enfermera Gyuri, lancé un golpe aquí.",
+      "PERSIAN": "گیو ری، سعی کن به کف دستم بکوبی."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게요?",
+      "ENGLISH": "Like this?",
+      "CHINESE_SIMPLIFIED": "像这样？",
+      "CHINESE_TRADITIONAL": "像這樣嗎？",
+      "JAPANESE": "こうですか？",
+      "INDONESIAN": "Gini?",
+      "PORTUGUESE": "Assim?",
+      "SPANISH": "¿Así?",
+      "PERSIAN": "اینجوری؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 그렇게 해서 스트레스가 풀리겠어요?",
+      "ENGLISH": "Come on~ how’s that supposed to relieve stress?",
+      "CHINESE_SIMPLIFIED": "哎~这样轻飘飘的能解压吗？",
+      "CHINESE_TRADITIONAL": "哎～這樣輕輕的能消除壓力嗎？",
+      "JAPANESE": "え〜、それじゃあストレス抜けないですよ！",
+      "INDONESIAN": "Ayolah~ gitu mana bisa ngilangin stres?",
+      "PORTUGUESE": "Ai~ é só isso de força que tem?",
+      "SPANISH": "Ay~ ¿tan poca fuerza tiene?",
+      "PERSIAN": "بیا ~ چگونه قرار است استرس را از بین ببرد؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "훨씬 더 세게!",
+      "ENGLISH": "Way harder!",
+      "CHINESE_SIMPLIFIED": "得更用力才行！",
+      "CHINESE_TRADITIONAL": "要更用力才可以！",
+      "JAPANESE": "もっと強く！",
+      "INDONESIAN": "Lebih kenceng dong!",
+      "PORTUGUESE": "Mais forte!",
+      "SPANISH": "¡Mucho más fuerte!",
+      "PERSIAN": "خیلی سخت تر!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 자 그만 그만 그만!!",
+      "ENGLISH": "Okay, okay — stop, stop, stop!!",
+      "CHINESE_SIMPLIFIED": "好了好了，停停停！！",
+      "CHINESE_TRADITIONAL": "來，來！ 停、停、停！！",
+      "JAPANESE": "よし、よし、ストップ！ストップ！！",
+      "INDONESIAN": "Oke, oke — stop, stop, stop!!",
+      "PORTUGUESE": "Tá, tá, tá, chega, chega, chega!",
+      "SPANISH": "¡Ya, ya, ya, basta, basta, basta!",
+      "PERSIAN": "باشه، باشه - بس کن، بس کن، بس کن!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 35.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 됐다! 후~~ 스트레스 풀렸죠!",
+      "ENGLISH": "Alright! Hoo~~ Stress gone, right?",
+      "CHINESE_SIMPLIFIED": "啊够了！呼~~这下解压了吧？",
+      "CHINESE_TRADITIONAL": "好了！呼～～壓力消除了吧！",
+      "JAPANESE": "はい、できた！ふぅ〜スッキリしましたね！",
+      "INDONESIAN": "Nah! Hoo~~ Stresnya hilang, kan?",
+      "PORTUGUESE": "Pronto! Haa~ agora o estresse já passou, né?!",
+      "SPANISH": "¡Ah, listo! ¡Haa~ ya se le fue el estrés, ¿verdad?!",
+      "PERSIAN": "باشه هوو~~ استرس از بین رفت، درسته؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 38.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니요, 조금만 더 해보면 안 돼요?",
+      "ENGLISH": "No… can I do just a little more?",
+      "CHINESE_SIMPLIFIED": "不要嘛，不能再多打会儿吗？",
+      "CHINESE_TRADITIONAL": "還沒啦，可以再打一下下嗎？",
+      "JAPANESE": "いえ、もう少しだけやってもいいですか？",
+      "INDONESIAN": "Belum… boleh nambah dikit lagi nggak?",
+      "PORTUGUESE": "Não, posso fazer só mais um pouquinho?",
+      "SPANISH": "No, ¿puedo hacerlo un poquito más?",
+      "PERSIAN": "نه... می توانم کمی بیشتر انجام دهم؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 38.9,
+      "HIDE": 40.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아냐, 아냐,아냐, 아냐, 아냐!! 충분해",
+      "ENGLISH": "Nope! Nope nope nope nope!! That’s enough.",
+      "CHINESE_SIMPLIFIED": "不行不行不行！！足够了",
+      "CHINESE_TRADITIONAL": "不行，不行，不行，不行，不行！！足夠了！",
+      "JAPANESE": "だめだめだめ！もう十分！",
+      "INDONESIAN": "Nggak boleh! Nggak nggak nggak!! Udah cukup.",
+      "PORTUGUESE": "Não, não, não, não, não! Já chega!",
+      "SPANISH": "¡No, no, no, no, no! ¡Ya fue suficiente!",
+      "PERSIAN": "نه! نه نه نه نه نه !! همین کافی است."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 40.8,
+      "HIDE": 43.0
+    },
+    "SCRIPT": {
+      "KOREAN": "충분히 풀렸어요. 내가 봤어요.",
+      "ENGLISH": "You’ve relieved plenty. I saw it.",
+      "CHINESE_SIMPLIFIED": "你已经充分发泄啦，我看得出来",
+      "CHINESE_TRADITIONAL": "我看得出來你已經充分地釋放了",
+      "JAPANESE": "もう完全にスッキリしました　僕が見てましたから！",
+      "INDONESIAN": "Stres kamu udah keluar banyak. Aku liat sendiri.",
+      "PORTUGUESE": "Você já colocou tudo pra fora, eu vi com meus próprios olhos.",
+      "SPANISH": "Ya lo soltaste todo, lo vi con mis propios ojos.",
+      "PERSIAN": "خیلی راحت شدی من اونو دیدم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 43.9,
+      "HIDE": 45.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아으~~아쉽다... ",
+      "ENGLISH": "Awww~~ shame…",
+      "CHINESE_SIMPLIFIED": "啊呜~~好可惜...",
+      "CHINESE_TRADITIONAL": "哎嗚～～好可惜...",
+      "JAPANESE": "あ〜惜しいなぁ…",
+      "INDONESIAN": "Awww~~ sayang banget…",
+      "PORTUGUESE": "Aaah~ eu tava me divertindo…",
+      "SPANISH": "Aay~ me estaba diviertiendo…",
+      "PERSIAN": "وای شرمنده…"
+    }
+  }
+]

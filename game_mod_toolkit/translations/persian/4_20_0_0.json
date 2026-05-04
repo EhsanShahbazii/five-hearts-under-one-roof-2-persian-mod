@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이번 S/S의상 샘플 테스트 해 볼 건데",
+      "ENGLISH": "We’re going to test the S/S outfit samples,",
+      "CHINESE_SIMPLIFIED": "这里有一批春夏季的服装样品需要试穿",
+      "CHINESE_TRADITIONAL": "這次春夏季服裝要進行樣品測試",
+      "JAPANESE": "確認しましょう",
+      "INDONESIAN": "Kita bakal tes sampel outfit S/S,",
+      "PORTUGUESE": "Vamos fazer um teste com as amostras de figurino da coleção S/S,",
+      "SPANISH": "Vamos a hacer una prueba con la colección de la temporada S/S,",
+      "PERSIAN": "ما قصد داریم نمونه های لباس / را آزمایش کنیم،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨랑 최우선 씨는 같이 확인 좀 해줘",
+      "ENGLISH": "Yuman and Choi Woo-sun, please check them together.",
+      "CHINESE_SIMPLIFIED": "吴宥万先生和崔优先先生请一起过来确认下",
+      "CHINESE_TRADITIONAL": "請吳宥萬先生和崔宇善先生一起協助確認",
+      "JAPANESE": "ウ・ユマンさんとチェ・ウソンさん、一緒に確認してください",
+      "INDONESIAN": "Yuman dan Choi Woo-sun, tolong cek bareng, ya.",
+      "PORTUGUESE": "então vocês dois, analisem juntos, por favor.",
+      "SPANISH": "así que ustedes dos, revísenlas por favor.",
+      "PERSIAN": "یومان و چوی وو سان، لطفاً اونا رو با هم بررسی کنید."
+    }
+  }
+]

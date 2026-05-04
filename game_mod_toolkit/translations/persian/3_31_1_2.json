@@ -1,0 +1,138 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "확실하게 풀어드리려면 이 주먹이 답이죠.",
+      "ENGLISH": "If you really want it loosened up, my fist is the answer.",
+      "CHINESE_SIMPLIFIED": "要想彻底放松果然还是得靠这拳头",
+      "CHINESE_TRADITIONAL": "要確實放鬆的話，還是得靠拳頭",
+      "JAPANESE": "しっかりほぐすなら、やっぱりこの拳が一番です",
+      "INDONESIAN": "Kalau kamu bener-bener mau ototnya lemes, tinjuku jawabannya.",
+      "PORTUGUESE": "Se eu quiser relaxar bem o músculo, o punho é a melhor opção.",
+      "SPANISH": "Si quiero relajar bien el músculo, el puño es la mejor opción.",
+      "PERSIAN": "اگر واقعاً می خواهید اونو شل کنید، جواب مشت من است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자~",
+      "PERSIAN": "자~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요 풀리죠?",
+      "ENGLISH": "See? Doesn’t that feel better?",
+      "CHINESE_SIMPLIFIED": "怎么样，放松了吧？",
+      "CHINESE_TRADITIONAL": "怎麼樣？有放鬆一點了吧？",
+      "JAPANESE": "どうです？ ほぐれてきましたよね？",
+      "INDONESIAN": "Tuh kan? Terasa lebih enak, kan?",
+      "PORTUGUESE": "E aí, tá soltando?",
+      "SPANISH": "¿Qué tal, se está soltando?",
+      "PERSIAN": "ببینید؟ این احساس بهتری ندارد؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아아아!! 쓰읍...",
+      "ENGLISH": "AAAH!! Tssssk...",
+      "CHINESE_SIMPLIFIED": "啊啊啊！！嘶...",
+      "CHINESE_TRADITIONAL": "啊啊啊！！痛…！",
+      "JAPANESE": "あああ！！ 痛いです…！",
+      "INDONESIAN": "AAAH!! Tssssk...",
+      "PORTUGUESE": "Aaah!! tsc...",
+      "SPANISH": "¡Aaah!! tch...",
+      "PERSIAN": "آاااخ!! تسسسک..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨... 아파요!",
+      "ENGLISH": "Oww... that hurts!",
+      "CHINESE_SIMPLIFIED": "哎呀...好痛！",
+      "CHINESE_TRADITIONAL": "該死...好痛啊！",
+      "INDONESIAN": "Aduhh... sakit tau!",
+      "PORTUGUESE": "Ai, caramba... tá doendo!",
+      "SPANISH": "¡Ay, caramba... duele!",
+      "PERSIAN": "اوه... درد داره!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 너무 세잖아요.",
+      "ENGLISH": "Yuman, you’re going way too hard.",
+      "CHINESE_SIMPLIFIED": "宥万先生，你力道太重了啊",
+      "CHINESE_TRADITIONAL": "宥萬先生，你太用力了啦",
+      "JAPANESE": "ユマンさん、強すぎますって",
+      "INDONESIAN": "Yuman, kamu keras banget mijetnya.",
+      "PORTUGUESE": "Yumán, você tá apertando forte demais.",
+      "SPANISH": "Yumán, estás apretando demasiado.",
+      "PERSIAN": "یومان، تو خیلی سخت پیش می روی."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 뭐 잘못했어요?",
+      "ENGLISH": "Did I do something to upset you or what?!",
+      "CHINESE_SIMPLIFIED": "我是不是做错什么了？",
+      "CHINESE_TRADITIONAL": "我是不是哪裡做錯了嗎？",
+      "JAPANESE": "私、何か悪いことしましたか？",
+      "INDONESIAN": "Aku ada salah apa sih sampe kamu giniin?!",
+      "PORTUGUESE": "Tá me castigando?",
+      "SPANISH": "¿Me está castigando?",
+      "PERSIAN": "کاری کردم ناراحتت کنم یا چی؟!"
+    }
+  }
+]

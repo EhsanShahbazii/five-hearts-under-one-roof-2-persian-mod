@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 왜...! 다들 나 재능있다고 하는데!",
+      "ENGLISH": "Why~! Everyone says I have talent!",
+      "CHINESE_SIMPLIFIED": "为什么！大家都说我很有天赋的啊！",
+      "CHINESE_TRADITIONAL": "為什麼！大家都說我很有天賦啊！",
+      "JAPANESE": "なんでよ…！みんな才能あるって言ってるのに！",
+      "INDONESIAN": "Kenapaa~! Semua orang bilang aku punya bakat, lho!",
+      "PORTUGUESE": "Ai, por quê…! Todo mundo diz que eu tenho talento!",
+      "SPANISH": "¡Ay, por qué…! ¡Todos dicen que tengo talento!",
+      "PERSIAN": "چرا ~! همه می گویند من استعداد دارم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아 정신차려! ",
+      "ENGLISH": "Mal-sook, get a grip!",
+      "CHINESE_SIMPLIFIED": "末淑，清醒一点！",
+      "CHINESE_TRADITIONAL": "末淑！清醒一點",
+      "JAPANESE": "マルスク、しっかりしろ！",
+      "INDONESIAN": "Mal-sook, sadar dong!",
+      "PORTUGUESE": "Malsook, acorda!",
+      "SPANISH": "¡Malsook, despierta!",
+      "PERSIAN": "مال‌سوک، چنگ بزن!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그런 사람들을 멀리 해야 되는 거야!",
+      "ENGLISH": "Those are exactly the kind of people you need to stay away from!",
+      "CHINESE_SIMPLIFIED": "那种人就该离他们远点！",
+      "CHINESE_TRADITIONAL": "你應該要遠離那些人！",
+      "JAPANESE": "そういうこと言う人たちは離れた方がいいんだよ！",
+      "INDONESIAN": "Justru orang-orang kayak gitu yang harus kamu jauhin!",
+      "PORTUGUESE": "Você tem que se afastar desse pessoal!",
+      "SPANISH": "¡Tienes que alejarte de esa gente!",
+      "PERSIAN": "دقیقاً از اون دسته افرادی هستند که باید از اونا دوری کنید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 널 위한다면 진실을 얘기해 줘야지 나처럼!",
+      "ENGLISH": "If they really cared about you, they’d tell you the truth — like I do!",
+      "CHINESE_SIMPLIFIED": "要是真为你好，就得像我这样说实话！",
+      "CHINESE_TRADITIONAL": "如果真的為妳好，就應該像我一樣跟妳說實話",
+      "JAPANESE": "本当にお前のことを思うなら、こうやって本当のことを言ってくれるはずだろ、俺みたいに！",
+      "INDONESIAN": "Kalau mereka beneran peduli, mereka bakal jujur — kayak aku ini!",
+      "PORTUGUESE": "Se realmente gostam de você, deveriam te dizer a verdade, como eu!",
+      "SPANISH": "Si de verdad te quieren, deberían decirte la verdad, ¡como yo!",
+      "PERSIAN": "اگر واقعاً به شما اهمیت می دادند، حقیقت را به شما می گفتند - مثل من!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너 정말 진심으로 이 말 하는 거야?",
+      "ENGLISH": "Are you seriously saying this from your heart?",
+      "CHINESE_SIMPLIFIED": "你这话是认真的吗？",
+      "CHINESE_TRADITIONAL": "你是認真的嗎？",
+      "JAPANESE": "今本気で、言ってるの？",
+      "INDONESIAN": "Kamu serius ngomong gini dari hati?",
+      "PORTUGUESE": "Você tá falando sério…? Tá mesmo falando sério?",
+      "SPANISH": "¿Hablas en serio…? ¿De verdad lo dices en serio?",
+      "PERSIAN": "اینو جدی از ته دل می گویی؟"
+    }
+  }
+]

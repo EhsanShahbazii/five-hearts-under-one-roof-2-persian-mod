@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 과장님!! 이러다 사람 죽겠어요!!",
+      "ENGLISH": "Ah... Manager!! You’re gonna kill someone at this rate!!",
+      "CHINESE_SIMPLIFIED": "啊...佟科长！！再这样下去要出人命了！！",
+      "CHINESE_TRADITIONAL": "啊...課長！！這樣下去會出人命的！！",
+      "JAPANESE": "あっ…課長!! このままじゃ人が死にますよ!!",
+      "INDONESIAN": "Ah... Manajer!! Kalau kayak gini, nanti kamu bisa bener-bener ngebunuh orang!!",
+      "PORTUGUESE": "Ah... chefa, por favor! Assim a senhora vai matá-lo!",
+      "SPANISH": "¡Ah… jefa, por favor! ¡Así lo va a matar!",
+      "PERSIAN": "آه... مدیر!! با این سرعت یکی رو میکشی!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그런가?",
+      "ENGLISH": "Oh... really?",
+      "CHINESE_SIMPLIFIED": "啊，是吗？",
+      "CHINESE_TRADITIONAL": "喔，是嗎？",
+      "JAPANESE": "あ、そうかな？",
+      "INDONESIAN": "Oh... gitu ya?",
+      "PORTUGUESE": "Ah, sim?",
+      "SPANISH": "¿Ah, sí?",
+      "PERSIAN": "اوه... واقعا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "일어나세요.",
+      "ENGLISH": "Come on, get up.",
+      "CHINESE_SIMPLIFIED": "快起来吧",
+      "CHINESE_TRADITIONAL": "起來！",
+      "JAPANESE": "起きてください",
+      "INDONESIAN": "Ayo, bangun.",
+      "PORTUGUESE": "Vamos, levante-se.",
+      "SPANISH": "Vamos, levántese.",
+      "PERSIAN": "بیا بلند شو"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 경찰에 신고를 하던가 해야지",
+      "ENGLISH": "Ugh... someone should call the cops or something...",
+      "CHINESE_SIMPLIFIED": "唉...该报警处理才对",
+      "CHINESE_TRADITIONAL": "啊…這種情況應該報警才對",
+      "JAPANESE": "ああ…警察に通報するか、本当に…",
+      "INDONESIAN": "Ugh... ada yang harusnya nelpon polisi, deh...",
+      "PORTUGUESE": "Ah... deveríamos chamar a polícia ou algo assim.",
+      "SPANISH": "Ah… deberíamos llamar a la policía o algo.",
+      "PERSIAN": "اوه ... یکی باید به پلیس زنگ بزنه یا چیزی ..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 하는 놈이야?",
+      "ENGLISH": "Who is this guy, anyway?",
+      "CHINESE_SIMPLIFIED": "这混蛋是谁啊？",
+      "CHINESE_TRADITIONAL": "這個人是幹什麼的？",
+      "JAPANESE": "何なんだ？",
+      "INDONESIAN": "Siapa sih orang ini, emangnya?",
+      "PORTUGUESE": "E esse cara, quem é?",
+      "SPANISH": "¿Y este tipo quién es?",
+      "PERSIAN": "اصلاً این پسر کیه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 민정 님 사생팬인데 별로 신경 안 쓰셔도 돼요",
+      "ENGLISH": "Ah, just a sasaeng fan of Min-jung’s. You don’t have to worry too much.",
+      "CHINESE_SIMPLIFIED": "啊，是敏静的私生饭，你不用太在意",
+      "CHINESE_TRADITIONAL": "啊，他敏靜小姐的私生飯，不過也不用太在意",
+      "JAPANESE": "私生活をつけ回してるファンです、あまり気にしなくて大丈夫です",
+      "INDONESIAN": "Ah, cuma sasaeng-nya Min-jung. Kamu nggak usah terlalu khawatir.",
+      "PORTUGUESE": "Ah, é um fã obsessivo da Minjung, não se preocupe tanto.",
+      "SPANISH": "Ah, es un fan obsesivo de Minjung, no se preocupe demasiado.",
+      "PERSIAN": "آه، فقط یک طرفدار ساسانگ مین‌جونگ. شما نباید زیاد نگران باشید."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "민정? 하숙집 다시 돌아온 거야?",
+      "ENGLISH": "Min-jung? She’s back at the guesthouse?",
+      "CHINESE_SIMPLIFIED": "敏静？她又回到合租公寓了？",
+      "CHINESE_TRADITIONAL": "敏靜？他又回合宿公寓住了？",
+      "JAPANESE": "ミンジョン？ 下宿に戻ってきたの？",
+      "INDONESIAN": "Min-jung? Dia balik ke guesthouse?",
+      "PORTUGUESE": "Minjung? Voltou pra pensão?",
+      "SPANISH": "¿Minjung? ¿Volvió a la pensión?",
+      "PERSIAN": "مین‌جونگ؟ او به مهمانخانه برگشته است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "是的",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 과장님 일단 들어오세요.",
+      "ENGLISH": "Alright, sir—why don’t you come inside first.",
+      "CHINESE_SIMPLIFIED": "呃，科长您先进来吧",
+      "CHINESE_TRADITIONAL": "課長你先進來吧",
+      "JAPANESE": "課長 とりあえず中に入りましょう",
+      "INDONESIAN": "Oke, Pak—mending masuk dulu aja ke dalam.",
+      "PORTUGUESE": "Ah, entendi... chefa, por favor, entre primeiro.",
+      "SPANISH": "Ah, entiendo… jefa, por favor, entre primero.",
+      "PERSIAN": "بسیار خوب، قربان—چرا اول وارد نمی شوید."
+    }
+  }
+]

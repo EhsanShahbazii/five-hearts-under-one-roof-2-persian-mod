@@ -1,0 +1,409 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저 왔어요",
+      "ENGLISH": "I'm here.",
+      "CHINESE_SIMPLIFIED": "我来了",
+      "CHINESE_TRADITIONAL": "我來了～",
+      "JAPANESE": "ただいま",
+      "INDONESIAN": "Aku udah nyampe",
+      "PORTUGUESE": "Oi, Gyuri.",
+      "SPANISH": "Hola, Gyuri.",
+      "PERSIAN": "من اینجام."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 규리 씨가 좋아하는",
+      "ENGLISH": "Today I bought some bread and tangerines",
+      "CHINESE_SIMPLIFIED": "今天买了你喜欢的",
+      "CHINESE_TRADITIONAL": "今天買了你喜歡吃的",
+      "JAPANESE": "今日はギュリさんの好きな",
+      "INDONESIAN": "Hari ini aku bawain roti dan jeruk,",
+      "PORTUGUESE": "Hoje eu trouxe pão e mexericas.",
+      "SPANISH": "Hoy traje pan y mandarinas.",
+      "PERSIAN": "امروز مقداری نون و نارنگی خریدم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "빵이랑 귤 좀 사왔어요",
+      "ENGLISH": "that you like, Kyuri.",
+      "CHINESE_SIMPLIFIED": "面包和橘子",
+      "CHINESE_TRADITIONAL": "麵包和橘子～",
+      "JAPANESE": "パンとみかん、買ってきました",
+      "INDONESIAN": " yang Gyuri suka",
+      "PORTUGUESE": "São as coisas que você mais gosta.",
+      "SPANISH": "Son lo que más le gustan.",
+      "PERSIAN": "که تو دوست داری، کیوری."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "먹지도 못 할거 왜 사왔어요",
+      "ENGLISH": "Why did you buy them when you can't even eat them?",
+      "CHINESE_SIMPLIFIED": "你买这些干嘛，我又吃不了",
+      "CHINESE_TRADITIONAL": "你買這些幹嘛～我又不能吃",
+      "JAPANESE": "食べられないのに、どうして買ってきたんですか",
+      "INDONESIAN": "Kenapa beli makanan yang aku aja nggak bisa makan",
+      "PORTUGUESE": "Por que traz coisas que eu nem consigo comer?",
+      "SPANISH": "¿Por qué trae cosas que ni siquiera puedo comer?",
+      "PERSIAN": "چرا خریدیشون وقتی حتی نمیتونی بخوریشون؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨...",
+      "ENGLISH": "Kyuri...",
+      "CHINESE_SIMPLIFIED": "久梨..",
+      "CHINESE_TRADITIONAL": "久梨護理師...",
+      "JAPANESE": "ギュリさん…",
+      "INDONESIAN": "Gyuri...",
+      "PORTUGUESE": "Gyuri…",
+      "SPANISH": "Gyuri…",
+      "PERSIAN": "کیوری..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 오지 말라 그랬죠",
+      "ENGLISH": "I told you not to come.",
+      "CHINESE_SIMPLIFIED": "我不是说过别再来了吗？",
+      "CHINESE_TRADITIONAL": "我不是說過不要再來了嗎？",
+      "JAPANESE": "来ないでって言ったじゃないですか",
+      "INDONESIAN": "Aku kan udah bilang jangan datang lagi",
+      "PORTUGUESE": "Eu disse pra você não vir.",
+      "SPANISH": "Le dije que no viniera.",
+      "PERSIAN": "مگه نگفتم پاتو اینجا نذار؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 자꾸 사람 비참하게 만들어요?",
+      "ENGLISH": "Why do you keep making me miserable?",
+      "CHINESE_SIMPLIFIED": "为什么总要让人这么难堪",
+      "CHINESE_TRADITIONAL": "為什麼總是要為難我？",
+      "JAPANESE": "なんでそんなに人を惨めにさせるんですか？",
+      "INDONESIAN": "Kenapa sih kamu terus bikin aku merasa menyedihkan",
+      "PORTUGUESE": "Por que insiste em me fazer sentir tão miserável?",
+      "SPANISH": "¿Por qué insiste en hacerme sentir tan miserable?",
+      "PERSIAN": "چرا مدام منو بدبخت میکنی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 25.1
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨 저는",
+      "ENGLISH": "Kyuri, I...",
+      "CHINESE_SIMPLIFIED": "久梨，我",
+      "CHINESE_TRADITIONAL": "久梨...我...",
+      "JAPANESE": "ギュリさん、僕は…",
+      "INDONESIAN": "Gyuri, aku cuma...",
+      "PORTUGUESE": "Gyuri, eu…",
+      "SPANISH": "Gyuri, yo…",
+      "PERSIAN": "کیوری، من..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나 혼자 있고 싶다구요",
+      "ENGLISH": "I want to be alone.",
+      "CHINESE_SIMPLIFIED": "我想一个人待着",
+      "CHINESE_TRADITIONAL": "我想一個人待著",
+      "JAPANESE": "ひとりになりたいんです",
+      "INDONESIAN": "Aku pengin sendiri",
+      "PORTUGUESE": "Quero ficar sozinha.",
+      "SPANISH": "Quiero estar sola.",
+      "PERSIAN": "می‌خوام تنها باشم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 33.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그니깐 제발 좀 가라구요!",
+      "ENGLISH": "So please, just leave!",
+      "CHINESE_SIMPLIFIED": "拜托你，快走吧！",
+      "CHINESE_TRADITIONAL": "拜託你，快走吧！",
+      "JAPANESE": "だからお願い、帰ってください！",
+      "INDONESIAN": "Tolong, pergilah...!",
+      "PORTUGUESE": "Então, por favor, vá embora!",
+      "SPANISH": "¡Así que por favor, váyase!",
+      "PERSIAN": "پس لطفا، فقط برو!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 37.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 여자예요",
+      "ENGLISH": "I'm a woman too.",
+      "CHINESE_SIMPLIFIED": "我也是女人啊",
+      "CHINESE_TRADITIONAL": "我也是女人啊",
+      "JAPANESE": "私だって女なんです",
+      "INDONESIAN": "Aku juga perempuan",
+      "PORTUGUESE": "Eu também sou uma mulher.",
+      "SPANISH": "También soy una mujer.",
+      "PERSIAN": "من هم یک زنم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 39.3,
+      "HIDE": 40.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 유만 씨한테",
+      "ENGLISH": "I don't want Mr. Yoo to remember me",
+      "CHINESE_SIMPLIFIED": "我也不想让你",
+      "CHINESE_TRADITIONAL": "我不想讓你",
+      "JAPANESE": "ユマンさんには",
+      "INDONESIAN": "Aku nggak mau diingat sama Yuman",
+      "PORTUGUESE": "E não quero que você me lembre assim,",
+      "SPANISH": "Y no quiero que me recuerde así",
+      "PERSIAN": "نمی‌خوام آقای یو منو یادش بره"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 41.4,
+      "HIDE": 44.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 모습으로 기억 되고 싶지 않아요",
+      "ENGLISH": "like this either.",
+      "CHINESE_SIMPLIFIED": "记住我现在这副样子",
+      "CHINESE_TRADITIONAL": "記住我這副模樣",
+      "JAPANESE": "こんな姿、覚えておいてほしくないんです…",
+      "INDONESIAN": "dalam keadaan kayak gini",
+      "PORTUGUESE": "desse jeito.",
+      "SPANISH": "en este estado.",
+      "PERSIAN": "مثل این یا."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 45.6,
+      "HIDE": 48.1
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어요. 가볼게요..",
+      "ENGLISH": "Alright. I'll go...",
+      "CHINESE_SIMPLIFIED": "知道了，我走就是了..",
+      "CHINESE_TRADITIONAL": "知道了，我走就是了...",
+      "JAPANESE": "わかりました。帰ります…",
+      "INDONESIAN": "...Baiklah, aku pergi sekarang",
+      "PORTUGUESE": "Tá bem… já tô indo.",
+      "SPANISH": "Está bien… ya me voy.",
+      "PERSIAN": "باشه. من میرم..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 55.2,
+      "HIDE": 56.4
+    },
+    "SCRIPT": {
+      "KOREAN": "코드 블루 코드 블루",
+      "ENGLISH": "Code Blue, Code Blue.",
+      "CHINESE_SIMPLIFIED": "紧急呼叫，紧急呼叫",
+      "CHINESE_TRADITIONAL": "緊急呼叫，緊急呼叫",
+      "JAPANESE": "コード・ブルー、コード・ブルー！",
+      "INDONESIAN": "Code blue, code blue",
+      "PORTUGUESE": "Código azul, código azul!",
+      "SPANISH": "¡Código azul, código azul!",
+      "PERSIAN": "کد آبی، کد آبی."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 56.5,
+      "HIDE": 56.9
+    },
+    "SCRIPT": {
+      "KOREAN": "- 코드 블루 코드 블루\n- 빨리 빨리",
+      "ENGLISH": "- Code Blue, Code Blue.\n- Hurry, hurry.",
+      "CHINESE_SIMPLIFIED": "-紧急呼叫，紧急呼叫\n-快，快",
+      "CHINESE_TRADITIONAL": "-緊急呼叫，緊急呼叫\n-快、快啊！",
+      "JAPANESE": "‐ コード・ブルー、コード・ブルー！\n‐ 早く早く",
+      "INDONESIAN": "- Code blue, code blue\n- Cepat, cepat!",
+      "PORTUGUESE": "\"—Código azul, código azul!",
+      "SPANISH": "—¡Código azul, código azul!\n—¡Rápido, rápido!",
+      "PERSIAN": "- کد آبی، کد آبی. - زود باش، زود باش."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 57.0,
+      "HIDE": 58.4
+    },
+    "SCRIPT": {
+      "KOREAN": "본관 3층 302호입니다",
+      "ENGLISH": "Main building, 3rd floor, Room 302.",
+      "CHINESE_SIMPLIFIED": "主楼3层302号",
+      "CHINESE_TRADITIONAL": "本館3樓302號病房",
+      "JAPANESE": "本館3階、302号室です",
+      "INDONESIAN": "Gedung utama lantai 3, kamar 302",
+      "PORTUGUESE": "—Rápido, rápido!\"",
+      "SPANISH": "Edificio principal, tercer piso, habitación 302.",
+      "PERSIAN": "ساختمان اصلی، طبقه سوم، اتاق ۳۰۲."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 59.0,
+      "HIDE": 62.7
+    },
+    "SCRIPT": {
+      "KOREAN": "코드 블루 코드 블루 본관 3층 302호 입니다",
+      "ENGLISH": "Code Blue, Code Blue. Main building, 3rd floor, Room 302.",
+      "CHINESE_SIMPLIFIED": "紧急呼叫，紧急呼叫，主楼3层302号病房",
+      "CHINESE_TRADITIONAL": "緊急呼叫，緊急呼叫，本館3樓302號病房",
+      "JAPANESE": "コード・ブルー、コード・ブルー！本館3階、302号室！",
+      "INDONESIAN": "Code blue, code blue, gedung utama lantai 3, kamar 302",
+      "PORTUGUESE": "Prédio principal, terceiro andar, quarto 302.",
+      "SPANISH": "¡Código azul, código azul! Edificio principal, tercer piso, habitación 302.",
+      "PERSIAN": "کد آبی، کد آبی. ساختمان اصلی، طبقه سوم، اتاق ۳۰۲."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 67.7,
+      "HIDE": 68.7
+    },
+    "SCRIPT": {
+      "KOREAN": "바인탈 사인 체크하고",
+      "ENGLISH": "Check for vital signs",
+      "CHINESE_SIMPLIFIED": "检查生命体征",
+      "CHINESE_TRADITIONAL": "檢查生命跡象！",
+      "JAPANESE": "バイタルサイン確認して",
+      "INDONESIAN": "Cek tanda-tanda vitalnya",
+      "PORTUGUESE": "Código azul, código azul! Prédio principal, terceiro andar, quarto 302.",
+      "SPANISH": "Revise los signos vitales.",
+      "PERSIAN": "علائم حیاتی را بررسی کنید"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 68.8,
+      "HIDE": 69.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네 ",
+      "ENGLISH": "yes",
+      "CHINESE_SIMPLIFIED": "是",
+      "CHINESE_TRADITIONAL": "是！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Baik",
+      "PORTUGUESE": "Verifique os sinais vitais.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "بله"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 69.2,
+      "HIDE": 70.2
+    },
+    "SCRIPT": {
+      "KOREAN": "수지 쌤 불러주세요",
+      "ENGLISH": "call Dr. Su-ji.",
+      "CHINESE_SIMPLIFIED": "马上叫秀智医生来",
+      "CHINESE_TRADITIONAL": "馬上叫秀智醫生過來",
+      "JAPANESE": "スジ先生呼んでください",
+      "INDONESIAN": "Panggil perawat Suji",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Llame a la enfermera Suji.",
+      "PERSIAN": "به دکتر سو-جی زنگ بزن."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 70.3,
+      "HIDE": 71.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네 알겠습니다",
+      "ENGLISH": "yes, understood.",
+      "CHINESE_SIMPLIFIED": "好，明白",
+      "CHINESE_TRADITIONAL": "好的，明白了",
+      "JAPANESE": "はい、わかりました",
+      "INDONESIAN": "Baik, segera",
+      "PORTUGUESE": "Chame a enfermeira Suji.",
+      "SPANISH": "Sí, entendido.",
+      "PERSIAN": "بله، فهمیدم."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 73.0,
+      "HIDE": 73.1
+    },
+    "SCRIPT": {
+      "PORTUGUESE": "Sim, entendido.",
+      "PERSIAN": ""
+    }
+  }
+]

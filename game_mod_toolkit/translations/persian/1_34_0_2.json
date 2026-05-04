@@ -1,0 +1,217 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하얀색?",
+      "ENGLISH": "White?",
+      "CHINESE_SIMPLIFIED": "白色？",
+      "CHINESE_TRADITIONAL": "白色的？",
+      "JAPANESE": "白？",
+      "INDONESIAN": "Putih?",
+      "PORTUGUESE": "Branca?",
+      "SPANISH": "¿Blanca?",
+      "PERSIAN": "سفید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 완전 틀렸는데? ",
+      "ENGLISH": "Oh~ way off.",
+      "CHINESE_SIMPLIFIED": "哦～完全错了呢！",
+      "CHINESE_TRADITIONAL": "噢～完全猜錯了！",
+      "JAPANESE": "お〜全然ハズレ〜",
+      "INDONESIAN": "Oh~ salah total tuh!",
+      "PORTUGUESE": "Oh~ errou feio.",
+      "SPANISH": "¡Uuuh~ ni cerca!",
+      "PERSIAN": "اووه~ کاملاً پرت گفتی!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "칫..보긴 뭘 봐.",
+      "ENGLISH": "Tch… you didn’t see anything.",
+      "CHINESE_SIMPLIFIED": "切，还说什么看到了",
+      "CHINESE_TRADITIONAL": "哼…看什麼看",
+      "JAPANESE": "ちっ…見てないくせに",
+      "INDONESIAN": "Cih... liat apaan sih.",
+      "PORTUGUESE": "Tch… você não viu nada.",
+      "SPANISH": "No viste nada.",
+      "PERSIAN": "ایشش... هیچی ندیدی خالی می‌بستی!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 봤는데 분명히?",
+      "ENGLISH": "No, I definitely did!",
+      "CHINESE_SIMPLIFIED": "不是，我确实看到了啊",
+      "CHINESE_TRADITIONAL": "不對啊，我明明就看到了",
+      "JAPANESE": "いや、見たって！絶対白だったし！",
+      "INDONESIAN": "Aku jelas-jelas liat kok.",
+      "PORTUGUESE": "Não, eu vi sim!",
+      "SPANISH": "¿Cómo que no? ¡Si la vi clarito!",
+      "PERSIAN": "نه به جون خودم قشنگ دیدم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너 괜히 민망해서 거짓말하는 거지.",
+      "ENGLISH": "You’re just embarrassed, so you’re lying.",
+      "CHINESE_SIMPLIFIED": "你只是因为害羞才撒谎吧",
+      "CHINESE_TRADITIONAL": "你只是不好意思，所以才說謊吧",
+      "JAPANESE": "どうせ恥ずかしくて嘘ついてんだろ",
+      "INDONESIAN": "Kamu pasti malu makanya bohong kan.",
+      "PORTUGUESE": "Você só tá com vergonha, por isso tá mentindo.",
+      "SPANISH": "Estás diciendo eso porque te da pena, ¿verdad?",
+      "PERSIAN": "از خجالتت داری دروغ سر هم می‌کنی ضایع نشی!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야! 내가 그거 가지고 거짓말해서 뭐 해!",
+      "ENGLISH": "Hey! Why would I lie about something like that?",
+      "CHINESE_SIMPLIFIED": "哎！我撒谎干嘛啊！",
+      "CHINESE_TRADITIONAL": "欸！我幹嘛為了那個說謊",
+      "JAPANESE": "ちょっと！そんなことで嘘つくわけないだろ！",
+      "INDONESIAN": "Hei! Aku bohong soal itu buat apa coba!",
+      "PORTUGUESE": "Ei! Por que eu mentiria sobre algo assim?",
+      "SPANISH": "¡¿Qué ganaría mintiendo?!",
+      "PERSIAN": "هووی! من مگه مریضم سر این چیزا بهت دروغ بگم؟!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그럼 확인 시켜줘 봐.",
+      "ENGLISH": "Then prove it. Show me.",
+      "CHINESE_SIMPLIFIED": "那你证明给我看啊",
+      "CHINESE_TRADITIONAL": "那你證明給我看啊",
+      "JAPANESE": "じゃあ確認させろよ",
+      "INDONESIAN": "Kalau gitu buktiin aja deh.",
+      "PORTUGUESE": "Então prova. Mostra pra mim.",
+      "SPANISH": "Entonces demuéstralo.",
+      "PERSIAN": "خب اگه راست می‌گی نشونم بده ثابت شه!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 얘가 완전 변태가 돼서 왔네..",
+      "ENGLISH": "Ha, you came back a total perv, huh…",
+      "CHINESE_SIMPLIFIED": "你是出院之后直接变态了吧…？",
+      "CHINESE_TRADITIONAL": "哈，你這傢伙出院之後，簡直變態了…",
+      "JAPANESE": "はぁ？あんた、完全に変態になって帰ってきたじゃん…",
+      "INDONESIAN": "Hah, kamu pulang-pulang jadi mesum gini ya...",
+      "PORTUGUESE": "Ha, você voltou um completo tarado, hein…",
+      "SPANISH": "Ha... volviste hecho un completo pervertido, ¿eh..?",
+      "PERSIAN": "هه، نگاش کن! رفتی بیمارستان یه پا منحرف کامل شدی برگشتی..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 난 분명 봤다니까 하얀색?",
+      "ENGLISH": "I’m telling you, I saw it—white!",
+      "CHINESE_SIMPLIFIED": "不是，我明明看到就是白色的啊？",
+      "CHINESE_TRADITIONAL": "不是啊，我明明看到就是白色？",
+      "JAPANESE": "いやいや、俺ほんとに見たから！白だったって！",
+      "INDONESIAN": "Aku beneran liat, sumpah, putih!",
+      "PORTUGUESE": "Tô dizendo que eu vi—branca!",
+      "SPANISH": "¡Te digo que la vi! ¡Era blanca!",
+      "PERSIAN": "بابا دارم می‌گم مطمئنم رنگش سفید بود!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 25.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아니라니까? 진짜 볼래? 하얀색 아니거든!",
+      "ENGLISH": "I said it’s not! Want me to prove it? It’s not white!",
+      "CHINESE_SIMPLIFIED": "就说了不是！真的要看吗？才不是白色的！",
+      "CHINESE_TRADITIONAL": "就說了不是！真的要看嗎？才不是白色的！",
+      "JAPANESE": "違うってば！ほんとに見る？白じゃないんだから！",
+      "INDONESIAN": "Dibilang bukan! Serius mau liat? Itu bukan putih!",
+      "PORTUGUESE": "Eu disse que não é! Quer que eu prove? Não é branca!",
+      "SPANISH": "¡Que no era blanca! ¿Quieres ver? ¿Quieres ver?",
+      "PERSIAN": "نبود آقا، نبود! واقعاً می‌خوای ببینی؟! به جون خودم سفید نیست!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 27.1
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 볼래? 진짜 보여준다?",
+      "ENGLISH": "You seriously wanna see? I’ll show you for real.",
+      "CHINESE_SIMPLIFIED": "真的要看吗？我真的要给你看咯？",
+      "CHINESE_TRADITIONAL": "真的要看嗎？我真的要給你看囉？",
+      "JAPANESE": "ほんとに見る？ほんとに見せるよ？",
+      "INDONESIAN": "Mau beneran liat? Aku tunjukin ya?",
+      "PORTUGUESE": "Você quer mesmo ver? Eu mostro de verdade.",
+      "SPANISH": "¿De verdad?¿Te la enseño?",
+      "PERSIAN": "واقعاً روت می‌شه ببینی؟ نشونت بدما!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아들~ 얘들아~ 내려와 봐~",
+      "ENGLISH": "Kids~ come here!",
+      "CHINESE_SIMPLIFIED": "儿子～孩子们～下来一下～",
+      "CHINESE_TRADITIONAL": "兒子～孩子們～下來一下～",
+      "JAPANESE": "お～い！あんたたち！ちょっと降りてきなさい！",
+      "INDONESIAN": "Aduh... Nak~ anak-anak~ turun dulu sebentar~",
+      "PORTUGUESE": "Crianças~ venham aqui!",
+      "SPANISH": "Hijo~ chicos~ ¡bajen un momento~!",
+      "PERSIAN": "بچه‌ها~ بیاین پایین کارتون دارم~"
+    }
+  }
+]

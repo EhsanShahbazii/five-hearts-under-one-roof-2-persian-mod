@@ -1,0 +1,344 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "와~ 여기 진짜 오랜만이다...",
+      "ENGLISH": "Wow~ it’s been ages since I’ve been here...",
+      "CHINESE_SIMPLIFIED": "哇~这里真是好久没来了...",
+      "CHINESE_TRADITIONAL": "哇～真的好久沒來這裡了…",
+      "JAPANESE": "わ〜、ここ本当に久しぶりだな…",
+      "INDONESIAN": "Wah~ sudah lama sekali sejak terakhir kali aku ke sini...",
+      "PORTUGUESE": "Uau! Faz muito tempo que eu não vinha por aqui...",
+      "SPANISH": "¡Guau! hace muchísimo que no venía por aquí…",
+      "PERSIAN": "وای ~ سالهاست که اینجا نبودم..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 어렸을 때 용돈만 받으면",
+      "ENGLISH": "Back when we were kids, ",
+      "CHINESE_SIMPLIFIED": "我们小时候一拿到零花钱",
+      "CHINESE_TRADITIONAL": "還記得小時候拿到零用錢的話",
+      "JAPANESE": "子どもの頃、お小遣いもらうと",
+      "INDONESIAN": "Dulu ketika kita masih anak-anak,",
+      "PORTUGUESE": "A gente costumava vir sempre que ganhava um dinheirinho,",
+      "SPANISH": "Solíamos venir aquí cada vez que nos daban dinero,",
+      "PERSIAN": "زمانی که ما بچه بودیم،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 와서 밥 먹고 막 그랬었는데",
+      "ENGLISH": "we’d come here every time we got allowance.",
+      "CHINESE_SIMPLIFIED": "就会跑来这里吃饭来着",
+      "CHINESE_TRADITIONAL": "就會跑來這裡吃飯",
+      "JAPANESE": "いつもここに来てご飯食べたりしてたよね",
+      "INDONESIAN": "kami akan datang ke sini setiap kali kami mendapat uang saku.",
+      "PORTUGUESE": "quando éramos crianças. Lembra?",
+      "SPANISH": "cuando éramos niños. ¿Te acuerdas?",
+      "PERSIAN": "هر بار که کمک هزینه می گرفتیم اینجا می آمدیم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 너 요즘 왜 이렇게 꾸미고 다니냐?",
+      "ENGLISH": "But hey, why are you so dressed up these days?",
+      "CHINESE_SIMPLIFIED": "不过你最近怎么打扮得这么漂亮？",
+      "CHINESE_TRADITIONAL": "不過，你最近怎麼這麼愛打扮啊？",
+      "JAPANESE": "でもさ、最近なんかおしゃれしてるけど？",
+      "INDONESIAN": "Tapi hei, kenapa kamu berpakaian begitu rapi akhir-akhir ini?",
+      "PORTUGUESE": "Mas por que você anda se arrumando tanto ultimamente?",
+      "SPANISH": "¿Pero por qué te arreglas tanto últimamente?",
+      "PERSIAN": "اما هی، چرا این روزها اینقدر لباس پوشیده ای؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너 혹시...남친 생겼냐?",
+      "ENGLISH": "Don’t tell me... you got a boyfriend?",
+      "CHINESE_SIMPLIFIED": "你该不会...交男朋友了吧？",
+      "CHINESE_TRADITIONAL": "該不會是…交男朋友了吧？",
+      "JAPANESE": "まさか…彼氏できた？",
+      "INDONESIAN": "Jangan bilang padaku...kamu punya pacar?",
+      "PORTUGUESE": "Não me diga que... você tá namorando?",
+      "SPANISH": "No me digas que… ¿tienes novio?",
+      "PERSIAN": "به من نگو... دوست پسر داری؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐래~",
+      "ENGLISH": "Ugh, what are you talking about~",
+      "CHINESE_SIMPLIFIED": "哎呀，胡说什么呢~",
+      "CHINESE_TRADITIONAL": "啊，在說什麼啦～",
+      "JAPANESE": "なに言ってんの〜",
+      "INDONESIAN": "Ugh, apa yang kamu bicarakan~",
+      "PORTUGUESE": "O que é isso...?",
+      "SPANISH": "¿Qué dices...?",
+      "PERSIAN": "اوه، در مورد چی حرف میزنی ~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 이게 누구야... 응?",
+      "ENGLISH": "Well, well, look who it is... huh?",
+      "CHINESE_SIMPLIFIED": "哎呀，这是谁啊...嗯？",
+      "CHINESE_TRADITIONAL": "哎呀，這是誰啊…嗯？",
+      "JAPANESE": "あれ？この顔は……ん？",
+      "INDONESIAN": "Wah, wah, lihat siapa itu... hah?",
+      "PORTUGUESE": "Olha só quem apareceu...",
+      "SPANISH": "Miren nada más quiénes son…",
+      "PERSIAN": "خوب، خوب، ببین کیه... ها؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만하고 말숙이 아니야!",
+      "ENGLISH": "Isn’t that Yuman and Mal-sook!",
+      "CHINESE_SIMPLIFIED": "这不是宥万和末淑嘛！",
+      "CHINESE_TRADITIONAL": "是宥萬和末淑吧！",
+      "JAPANESE": "ウ・ユマンとマルスクじゃないんの！",
+      "INDONESIAN": "Bukankah itu Yuman dan Mal-sook!",
+      "PORTUGUESE": "Se não são o Yuman e a Malsook!",
+      "SPANISH": "¡Si no son Yumán y Malsook!",
+      "PERSIAN": "این یومان و مال‌سوک نیست!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "- 안녕하세요!\n- 안녕하세요..",
+      "ENGLISH": "–Hello!\n–Hi...",
+      "CHINESE_SIMPLIFIED": "- 您好！\n-您好...",
+      "CHINESE_TRADITIONAL": "- 您好！\n- 您好…",
+      "JAPANESE": "‐こんにちは！\n‐こんにちは…",
+      "INDONESIAN": "–Halo!\n–Hai...",
+      "PORTUGUESE": "—Boa tarde!\n—Boa tarde.",
+      "SPANISH": "—¡Buenas tardes!\n—Buenas tardes.",
+      "PERSIAN": "-سلام! -سلام..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어 그래~",
+      "ENGLISH": "Oh, hey~",
+      "CHINESE_SIMPLIFIED": "你们好啊~",
+      "CHINESE_TRADITIONAL": "好久沒看到你們啦～",
+      "JAPANESE": "あらまぁ〜",
+      "INDONESIAN": "Oh, hai~",
+      "PORTUGUESE": "O que vão querer?",
+      "SPANISH": "¿Qué les doy?",
+      "PERSIAN": "اوه، هی~"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 25.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저희 떡튀순 3인분이요.",
+      "ENGLISH": "We’ll have three orders of tteokbokki, tempura, and sundae, please.",
+      "CHINESE_SIMPLIFIED": "我们要三人份的辣炒年糕、炸物和米肠拼盘",
+      "CHINESE_TRADITIONAL": "我們要辣炒年糕炸物米腸，3人份",
+      "JAPANESE": "トッポッキ・天ぷら・スンデ3人前で",
+      "INDONESIAN": "Kami pesan tiga pesanan tteokbokki, tempura, dan sundae, ya.",
+      "PORTUGUESE": "Três porções de tteokbokki com tempurá e macarrão, por favor.",
+      "SPANISH": "Tres porciones de tteokbokki con tempura y fideos, por favor.",
+      "PERSIAN": "لطفاً سه سفارش دوکبوکی، تمپورا و سوندائه خواهیم داشت."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "3인분?",
+      "ENGLISH": "Three orders?",
+      "CHINESE_SIMPLIFIED": "三人份？",
+      "CHINESE_TRADITIONAL": "3人份？",
+      "JAPANESE": "3人前？",
+      "INDONESIAN": "Tiga pesanan?",
+      "PORTUGUESE": "Três?",
+      "SPANISH": "¿Tres?",
+      "PERSIAN": "سه سفارش؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 말숙인 더 예뻐졌다? 어?",
+      "ENGLISH": "Mal-sook, you’ve gotten even prettier, haven’t you?",
+      "CHINESE_SIMPLIFIED": "不过末淑是不是更漂亮了？是吧？",
+      "CHINESE_TRADITIONAL": "不過，末淑又變漂亮了耶？",
+      "JAPANESE": "でもマルスク、さらに綺麗になったんじゃない？え？",
+      "INDONESIAN": "Mal-sook, kamu jadi makin cantik ya?",
+      "PORTUGUESE": "Ei, Malsook, você ficou mais bonita.",
+      "SPANISH": "Oye, Malsook, te has puesto más bonita.",
+      "PERSIAN": "مال‌سوک، تو حتی زیباتر شدی، نه؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 36.3
+    },
+    "SCRIPT": {
+      "KOREAN": "둘이 결국 결혼한 거야?",
+      "ENGLISH": "So... you two finally got married?",
+      "CHINESE_SIMPLIFIED": "你俩是结婚了吗？",
+      "CHINESE_TRADITIONAL": "你們該不會是結婚了吧？",
+      "JAPANESE": "二人結局結婚したの？",
+      "INDONESIAN": "Jadi... kalian berdua akhirnya menikah?",
+      "PORTUGUESE": "No fim, vocês dois se casaram?",
+      "SPANISH": "¿Al final se casaron ustedes dos?",
+      "PERSIAN": "خب... بالاخره شما دوتا ازدواج کردید؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.3,
+      "HIDE": 37.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?!",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "蛤？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?!",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 37.2,
+      "HIDE": 40.9
+    },
+    "SCRIPT": {
+      "KOREAN": "으이구, 그렇게 싫다고 노래를 부르더니",
+      "ENGLISH": "You used to complain like crazy!",
+      "CHINESE_SIMPLIFIED": "哎呦，当初还嚷嚷着不愿意",
+      "CHINESE_TRADITIONAL": "哎呦喂，之前還一直喊著討厭對方",
+      "JAPANESE": "あらまぁ〜、あんなにイヤだって騒いでたのに",
+      "INDONESIAN": "Dulu kamu suka sekali mengeluh seperti orang gila!",
+      "PORTUGUESE": "Sempre diziam que não se suportavam...",
+      "SPANISH": "Siempre decían que no podían ni verse…",
+      "PERSIAN": "دیوونه وار شکایت میکردی!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 40.9,
+      "HIDE": 44.1
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 아줌마는 그때도 알고 있었어!",
+      "ENGLISH": "but I knew it’d happen!",
+      "CHINESE_SIMPLIFIED": "不过阿姨早就看出来啦！",
+      "CHINESE_TRADITIONAL": "阿姨那早就知道了！",
+      "JAPANESE": "でもね、私はその頃からわかってたのよ〜！",
+      "INDONESIAN": "tapi aku tahu itu akan terjadi!",
+      "PORTUGUESE": "Mas eu já sabia desde então.",
+      "SPANISH": "Pero yo ya lo sabía desde entonces.",
+      "PERSIAN": "اما من می دانستم که این اتفاق می افتد!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 44.1,
+      "HIDE": 47.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이 나이가 들면 보이는 게 있거든.",
+      "ENGLISH": "At my age, you just know these things.",
+      "CHINESE_SIMPLIFIED": "到了这个年纪自然就懂这些啦",
+      "CHINESE_TRADITIONAL": "這把年紀了，有些事是看得出來的",
+      "JAPANESE": "歳を取るとね、見えるの",
+      "INDONESIAN": "Di usiaku, kamu pasti tahu hal-hal ini.",
+      "PORTUGUESE": "Com a idade, a gente aprende a notar essas coisas.",
+      "SPANISH": "Con la edad, una aprende a ver esas cosas.",
+      "PERSIAN": "در سن من، شما فقط این چیزها را می دانید."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 48.0,
+      "HIDE": 51.0
+    },
+    "SCRIPT": {
+      "KOREAN": "둘이 결혼한 거지. 응?",
+      "ENGLISH": "You’re married now, right? Hm?",
+      "CHINESE_SIMPLIFIED": "你们俩是结婚了吧？嗯？",
+      "CHINESE_TRADITIONAL": "你們是結婚了，對吧？",
+      "JAPANESE": "二人、結婚したんでしょ？ ね？",
+      "INDONESIAN": "Kamu sudah menikah sekarang, kan? Hm?",
+      "PORTUGUESE": "Vocês se casaram, né?",
+      "SPANISH": "Sí que se casaron, ¿verdad?",
+      "PERSIAN": "الان متاهل هستی، درسته؟ هوم؟"
+    }
+  }
+]

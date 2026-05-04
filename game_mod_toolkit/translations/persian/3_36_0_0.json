@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "밖에 찾아오는 아이들은 어떻게 하지...",
+      "ENGLISH": "What should we do about those kids who keep showing up outside...?",
+      "CHINESE_SIMPLIFIED": "外面那些总找上门的人该怎么办啊...",
+      "CHINESE_TRADITIONAL": "外面一直有人來找我，該怎麼辦呢…",
+      "JAPANESE": "外まで押しかけてくる人たち、どうしたらいいんだろう……",
+      "INDONESIAN": "Terus kita harus gimana soal anak-anak yang terus nongol di luar itu...?",
+      "PORTUGUESE": "O que faremos com aqueles caras que não param de vir nos procurar lá fora...?",
+      "SPANISH": "¿Qué haremos con esos chicos que no paran de venir a buscarnos afuera...?",
+      "PERSIAN": "با اون بچه هایی که مدام بیرون ظاهر می شوند، چه کنیم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까요.. ",
+      "ENGLISH": "Yeah...",
+      "CHINESE_SIMPLIFIED": "就是说啊..",
+      "CHINESE_TRADITIONAL": "就是說啊…",
+      "JAPANESE": "そうですよね……",
+      "INDONESIAN": "Iya...",
+      "PORTUGUESE": "Exato...",
+      "SPANISH": "Exacto...",
+      "PERSIAN": "آره..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 저를 오랫동안 좋아해 주셨던 팬분들이라, 어떻게 해야 할지 모르겠어요.",
+      "ENGLISH": "They’ve been fans of mine for a long time, and I just… don’t know what to do.",
+      "CHINESE_SIMPLIFIED": "他们都是喜欢我很久的粉丝，我不知道该怎么处理才好",
+      "CHINESE_TRADITIONAL": "他們都是長久以來支持我的粉絲，我也不知道該怎麼處理",
+      "JAPANESE": "私をずっと応援してくれているファンの方たちだから、強くも言えなくて……",
+      "INDONESIAN": "Mereka udah jadi fans aku sejak lama, dan aku... nggak tahu harus gimana.",
+      "PORTUGUESE": "São fãs que me cobiçam há muito tempo, não sei o que fazer.",
+      "SPANISH": "Son fans que me han querido por mucho tiempo, no sé qué hacer.",
+      "PERSIAN": "اونا برای مدت طولانی طرفدار من بودند و من فقط... نمی دانم چه کار کنم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 그래도 집까지 찾아오는 건 범죄 아니에요?",
+      "ENGLISH": "Still, showing up at your house? Isn’t that basically stalking?",
+      "CHINESE_SIMPLIFIED": "不是，但找到家里来已经算犯罪了吧？",
+      "CHINESE_TRADITIONAL": "不管怎樣，跑到人家家門口來是犯罪了吧？",
+      "JAPANESE": "いや、それでも家まで来るのはもう犯罪ですよ？",
+      "INDONESIAN": "Tapi tetap aja, dateng ke rumahmu gitu? Itu kan udah kayak nge-stalk?",
+      "PORTUGUESE": "Isso não é ir longe demais, não seria crime irem até a casa?",
+      "SPANISH": "¿No es eso ir demasiado lejos, no sería un delito ir hasta la casa?",
+      "PERSIAN": "هنوز در خونه خود ظاهر می شوید؟ این اساسا تعقیب نیست؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그런가?",
+      "ENGLISH": "You think so...?",
+      "CHINESE_SIMPLIFIED": "是这样吗？",
+      "CHINESE_TRADITIONAL": "是這樣嗎…？",
+      "JAPANESE": "そうかな……",
+      "INDONESIAN": "Menurutmu gitu ya...?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿En serio?",
+      "PERSIAN": "تو اینطوری فکر میکنی...؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 그래도 일단 내일까지 한번 지켜보고..",
+      "ENGLISH": "Let’s just wait and see until tomorrow—",
+      "CHINESE_SIMPLIFIED": "哎，不过还是先观察到明天再说...",
+      "CHINESE_TRADITIONAL": "唉，觀察到明天為止吧…",
+      "JAPANESE": "うーん、でももう一晩だけ様子を見てから……",
+      "INDONESIAN": "Kita tunggu sampe besok aja dulu—",
+      "PORTUGUESE": "Bah, então a gente espera até amanhã e vê...",
+      "SPANISH": "Bah, igual esperemos hasta mañana y veamos...",
+      "PERSIAN": "تا فردا صبر کنیم و ببینیم -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "으악!",
+      "ENGLISH": "Aah!",
+      "CHINESE_SIMPLIFIED": "呃啊！",
+      "CHINESE_TRADITIONAL": "呃啊！",
+      "JAPANESE": "うわっ！",
+      "INDONESIAN": "Aah!",
+      "PORTUGUESE": "Aaah!",
+      "SPANISH": "¡Aaah!",
+      "PERSIAN": "آه!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐예요, 이 소리?",
+      "ENGLISH": "What was that?!",
+      "CHINESE_SIMPLIFIED": "什么声音？",
+      "CHINESE_TRADITIONAL": "那是什麼聲音？",
+      "JAPANESE": "え、何ですか今の音!?",
+      "INDONESIAN": "Itu suara apa tadi?!",
+      "PORTUGUESE": "O que foi esse barulho?",
+      "SPANISH": "¿Qué fue ese ruido?",
+      "PERSIAN": "اون چی بود؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "걔네들 또 찾아온 거 아니에요?",
+      "ENGLISH": "Was that them again??",
+      "CHINESE_SIMPLIFIED": "难道是他们又找来了？",
+      "CHINESE_TRADITIONAL": "不會又是他們來了吧？",
+      "JAPANESE": "またあの人たちが来たんじゃないですか!?",
+      "INDONESIAN": "Mereka lagi, ya??",
+      "PORTUGUESE": "Não são eles que vieram de novo?",
+      "SPANISH": "¿No son ellos los que vinieron otra vez?",
+      "PERSIAN": "باز اونا بودند؟؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그런가..?",
+      "ENGLISH": "Could be...",
+      "CHINESE_SIMPLIFIED": "啊，是吗...？",
+      "CHINESE_TRADITIONAL": "啊，真的嗎…？",
+      "JAPANESE": "えっ、そうなのかな……？",
+      "INDONESIAN": "Mungkin aja...",
+      "PORTUGUESE": "Ah, será...?",
+      "SPANISH": "¿Ah, será...?",
+      "PERSIAN": "ممکنه ..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 30.3
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 여기 있어봐요",
+      "ENGLISH": "Everyone, stay here.",
+      "CHINESE_SIMPLIFIED": "大家都待在这里别动",
+      "CHINESE_TRADITIONAL": "大家先待在這裡",
+      "JAPANESE": "みんなここにいて",
+      "INDONESIAN": "Semuanya, tetap di sini.",
+      "PORTUGUESE": "Todo mundo, fiquem aqui!",
+      "SPANISH": "¡Todos, quédense aquí!",
+      "PERSIAN": "همه اینجا بمانید"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.8,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": "너 어디 가 네 싸움도 못 하잖아",
+      "ENGLISH": "Where are you going? You can’t even fight!",
+      "CHINESE_SIMPLIFIED": "你去哪里？你又不会打架",
+      "CHINESE_TRADITIONAL": "你要去哪？你連打架都不會耶",
+      "JAPANESE": "喧嘩もできないくせに！",
+      "INDONESIAN": "Kamu mau ke mana? Kamu aja nggak bisa berantem!",
+      "PORTUGUESE": "Você, o quê? Se nem sabe brigar...",
+      "SPANISH": "Tú, ¿qué? Si ni siquiera sabes pelear...",
+      "PERSIAN": "کجا میری؟ شما حتی نمی توانید دعوا کنید!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 32.9,
+      "HIDE": 34.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 여기 있어.",
+      "ENGLISH": "Just stay put.",
+      "CHINESE_SIMPLIFIED": "就待在这儿",
+      "CHINESE_TRADITIONAL": "在這裡等我",
+      "JAPANESE": "じっとしてて",
+      "INDONESIAN": "Tetap di tempat.",
+      "PORTUGUESE": "Fica aqui.",
+      "SPANISH": "Quédate aquí.",
+      "PERSIAN": "فقط سر جای خود بمان"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 있어 봐 내가 해결할게.",
+      "ENGLISH": "I’ve got this. I’ll handle it.",
+      "CHINESE_SIMPLIFIED": "你先别动，我去解决",
+      "CHINESE_TRADITIONAL": "你先別動，我來處理！",
+      "JAPANESE": "いいから、俺が見てくる",
+      "INDONESIAN": "Biar aku yang urus. Aku bisa handle ini.",
+      "PORTUGUESE": "Não se mexa, eu me encarrego.",
+      "SPANISH": "No te muevas, yo me encargo.",
+      "PERSIAN": "من اینو دارم من اونو اداره می کنم."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 38.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 가지마요!",
+      "ENGLISH": "Oppa, don’t go!!",
+      "CHINESE_SIMPLIFIED": "哥哥，别去！",
+      "CHINESE_TRADITIONAL": "哥哥，不要去！",
+      "JAPANESE": "お兄さん、行かないでください！",
+      "INDONESIAN": "Oppa, jangan pergi!!",
+      "PORTUGUESE": "Oppa, não vá!",
+      "SPANISH": "¡oppa, no te vayas!",
+      "PERSIAN": "یومان نرو!!"
+    }
+  }
+]

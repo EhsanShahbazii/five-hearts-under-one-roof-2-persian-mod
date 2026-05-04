@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다 유만아 너한테 할 말 있었는데.",
+      "ENGLISH": "Ah right, Yuman, I had something to tell you.",
+      "CHINESE_SIMPLIFIED": "啊对了宥万，有件事要跟你说",
+      "CHINESE_TRADITIONAL": "啊對了，宥萬，我有件事情要跟你說",
+      "JAPANESE": "あ、そうだ  ユマン、話したいことがあったんだけど",
+      "INDONESIAN": "Ah iya, Yuman, aku ada yang mau aku omongin.",
+      "PORTUGUESE": "Ah, é mesmo, Yumán, eu tinha algo pra te contar.",
+      "SPANISH": "Ah, cierto, Yumán, tenía algo que decirte.",
+      "PERSIAN": "آه، درست، یومان، من چیزی برای گفتن به شما داشتم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뭔데?",
+      "ENGLISH": "What is it?",
+      "CHINESE_SIMPLIFIED": "什么事？",
+      "CHINESE_TRADITIONAL": "什麼事？",
+      "JAPANESE": "なんだ？",
+      "INDONESIAN": "Apa tuh?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué cosa?",
+      "PERSIAN": "چیه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나 에이전시에서 이제 숙소로 들어오라고 해서",
+      "ENGLISH": "The agency told me I might have to move into their dorm soon,",
+      "CHINESE_SIMPLIFIED": "经纪公司让我搬去宿舍住",
+      "CHINESE_TRADITIONAL": "經紀公司讓我搬去宿舍住",
+      "JAPANESE": "事務所から、もう宿舎に入ってくれって言われてて",
+      "INDONESIAN": "Dari agensi katanya aku mungkin harus pindah ke asrama mereka,",
+      "PORTUGUESE": "A agência me disse que eu tenho que me mudar pro alojamento deles,",
+      "SPANISH": "La agencia me dijo que tengo que mudarme a su alojamiento,",
+      "PERSIAN": "آژانس به من گفت که ممکنه به زودی مجبور شوم به خوابگاه اونا نقل مکان کنم،"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": " 하숙집 정리해야 할 수도 있을 거 같아.",
+      "ENGLISH": "so I might have to leave the boarding house.",
+      "CHINESE_SIMPLIFIED": "可能得从合租公寓搬出去了",
+      "CHINESE_TRADITIONAL": "可能要從合租公寓搬出去了",
+      "JAPANESE": "もしかしたら下宿を出なきゃいけないかもしれないの",
+      "INDONESIAN": "jadi mungkin aku harus ninggalin rumah kos.",
+      "PORTUGUESE": "então talvez eu tenha que deixar a pensão.",
+      "SPANISH": "así que tal vez tenga que dejar la pensión.",
+      "PERSIAN": "بنابراین ممکنه مجبور باشم پانسیون را ترک کنم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜로?",
+      "ENGLISH": "Seriously?",
+      "CHINESE_SIMPLIFIED": "啊，真的吗？",
+      "CHINESE_TRADITIONAL": "啊，真的嗎？",
+      "JAPANESE": "まじか",
+      "INDONESIAN": "Seriusan?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿En serio?",
+      "PERSIAN": "جدی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "응. 근데 내 의견도 중요하다고 하시니까... ",
+      "ENGLISH": "Yeah. But they said my opinion matters too, so…",
+      "CHINESE_SIMPLIFIED": "嗯。不过他们说也会尊重我的意见...",
+      "CHINESE_TRADITIONAL": "嗯，不過他們說也會尊重我的意見...",
+      "JAPANESE": "うん、でも私の意見も大事って言ってくれたから…",
+      "INDONESIAN": "Iya. Tapi mereka juga bilang pendapat aku penting, jadi…",
+      "PORTUGUESE": "Sim. Mas me disseram que também levam em conta a minha opinião…",
+      "SPANISH": "Sí. Pero me dijeron que también toman en cuenta mi opinión…",
+      "PERSIAN": "آره اما گفتند نظر من هم مهم است، پس…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나 어떡할까? 가지 말까?",
+      "ENGLISH": "What should I do? Should I not go?",
+      "CHINESE_SIMPLIFIED": "我该怎么办？要不不去了？",
+      "CHINESE_TRADITIONAL": "該怎麼辦呢？還是我不要搬去呢？",
+      "JAPANESE": "私どうしよう？行かないほうがいいかな？",
+      "INDONESIAN": "Gimana ya? Harusnya aku nggak usah pergi?",
+      "PORTUGUESE": "O que eu faço? Devo ir?",
+      "SPANISH": "¿Qué hago? ¿Debería ir?",
+      "PERSIAN": "چه کار کنم؟ من نباید برم؟"
+    }
+  }
+]

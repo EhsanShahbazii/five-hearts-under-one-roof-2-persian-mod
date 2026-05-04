@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮으세요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "你没事吧？",
+      "CHINESE_TRADITIONAL": "你沒事吧？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Tá tudo bem?",
+      "SPANISH": "¿Está bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 발을 헛디뎌서 바보같이 넘어졌어요",
+      "ENGLISH": "Ah, I tripped and stupidly fell.",
+      "CHINESE_SIMPLIFIED": "啊，刚刚脚一滑，笨笨地摔了一跤",
+      "CHINESE_TRADITIONAL": "啊，剛剛滑了一跤，像個笨蛋一樣摔倒",
+      "JAPANESE": "あ、足を踏み外して、ドジしちゃって…",
+      "INDONESIAN": "Ah, aku kepleset terus jatoh bego gitu.",
+      "PORTUGUESE": "Ah, tropecei e caí que nem uma boba.",
+      "SPANISH": "Ah, tropecé y caí como una tonta.",
+      "PERSIAN": "آه، من زمین خوردم و احمقانه زمین خوردم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 바보같다니요",
+      "ENGLISH": "Hey, don’t call yourself stupid.",
+      "CHINESE_SIMPLIFIED": "哎呀，别说自己笨啦",
+      "CHINESE_TRADITIONAL": "哎呀，別說自己笨啦",
+      "JAPANESE": "あはは、ドジだなんて",
+      "INDONESIAN": "Eh, jangan bilang dirimu bego dong.",
+      "PORTUGUESE": "Ah, não fala assim.",
+      "SPANISH": "Ay, no diga eso.",
+      "PERSIAN": "هی، خودت را احمق خطاب نکن."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "바로 이 나쁜 땅이 잘못이죠",
+      "ENGLISH": "It’s this bad ground that’s at fault.",
+      "CHINESE_SIMPLIFIED": "分明是这破地的错",
+      "CHINESE_TRADITIONAL": "分明是這塊破地板的錯",
+      "JAPANESE": "悪いのはこの地面ですよ",
+      "INDONESIAN": "Ini salah tanahnya yang jelek.",
+      "PORTUGUESE": "A culpa foi do chão.",
+      "SPANISH": "La culpa fue del suelo.",
+      "PERSIAN": "این زمین بد مقصر است."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "에잇 이 나쁜 땅!",
+      "ENGLISH": "Take that, bad ground!",
+      "CHINESE_SIMPLIFIED": "这破地！哼！",
+      "CHINESE_TRADITIONAL": "這破地板！哼",
+      "JAPANESE": "この悪い地面めっ！",
+      "INDONESIAN": "Rasain tuh, tanah jahat!",
+      "PORTUGUESE": "Ei, chão malvado!",
+      "SPANISH": "¡Eh, suelo malo!",
+      "PERSIAN": "اونو بگیر، زمین بد!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "위로해주셔서 감사해요",
+      "ENGLISH": "Thank you for comforting me.",
+      "CHINESE_SIMPLIFIED": "谢谢你安慰我",
+      "CHINESE_TRADITIONAL": "謝謝你安慰我",
+      "JAPANESE": "慰めてくれてありがとう",
+      "INDONESIAN": "Makasih udah hibur aku.",
+      "PORTUGUESE": "Obrigada por me animar.",
+      "SPANISH": "Gracias por animarme.",
+      "PERSIAN": "ممنون که به من آرامش دادی"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 발목이 좀 아파보이는데",
+      "ENGLISH": "But your ankle looks a bit hurt —",
+      "CHINESE_SIMPLIFIED": "不过你看起来有点痛",
+      "CHINESE_TRADITIONAL": "不過你的腳踝看起來有點痛",
+      "JAPANESE": "でも、足首ちょっと痛そうですね",
+      "INDONESIAN": "Tapi pergelangan kakimu kayaknya agak kenapa gitu —",
+      "PORTUGUESE": "Mas parece que seu tornozelo tá doendo...",
+      "SPANISH": "Pero parece que te duele el tobillo…",
+      "PERSIAN": "اما به نظر می رسد که مچ پای شما کمی آسیب دیده است -"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 좀 봐드릴게요!",
+      "ENGLISH": "let me take a look!",
+      "CHINESE_SIMPLIFIED": "我帮你看看脚踝吧！",
+      "CHINESE_TRADITIONAL": "我來幫你看看吧！",
+      "JAPANESE": "見せてもらっていいですか？",
+      "INDONESIAN": "biar aku liat, ya!",
+      "PORTUGUESE": "Deixa eu dar uma olhada.",
+      "SPANISH": "Déjame revisarlo.",
+      "PERSIAN": "اجازه بدهید نگاهی بیندازم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 23.6
+    },
+    "SCRIPT": {
+      "KOREAN": "호~ 호~",
+      "ENGLISH": "Huff~ huff~ (blowing on it)",
+      "CHINESE_SIMPLIFIED": "呼~呼~",
+      "CHINESE_TRADITIONAL": "呼～呼～",
+      "JAPANESE": "ふ〜、ふ〜",
+      "INDONESIAN": "Huff~ huff~ (ditiupin)",
+      "PORTUGUESE": "(assopra o tornozelo dela)",
+      "SPANISH": "(sopla su tobillo)",
+      "PERSIAN": "هوف~ هوف~ (دمیدن روی اون)"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요",
+      "ENGLISH": "Thank you,",
+      "CHINESE_SIMPLIFIED": "谢谢你...",
+      "CHINESE_TRADITIONAL": "謝謝你",
+      "JAPANESE": "ありがとう…",
+      "INDONESIAN": "Makasih,",
+      "PORTUGUESE": "Obrigada…",
+      "SPANISH": "Gracias…",
+      "PERSIAN": "ممنونم"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠",
+      "ENGLISH": "oppa.",
+      "CHINESE_SIMPLIFIED": "哥哥...",
+      "CHINESE_TRADITIONAL": "哥哥...",
+      "JAPANESE": "お兄さん",
+      "INDONESIAN": "oppa.",
+      "PORTUGUESE": "Oppa.",
+      "SPANISH": "Oppa.",
+      "PERSIAN": "یومان"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "헿헿 헤헤헤",
+      "ENGLISH": "Hehehe hehe~",
+      "CHINESE_SIMPLIFIED": "嘿嘿...嘿嘿嘿嘿",
+      "CHINESE_TRADITIONAL": "嘿嘿，哈哈哈",
+      "JAPANESE": "へへっ、えへへへ。",
+      "INDONESIAN": "Hehehe hehe~",
+      "PORTUGUESE": "Hehehe hehehe.",
+      "SPANISH": "Jejeje jejeje.",
+      "PERSIAN": "هههههه~"
+    }
+  }
+]

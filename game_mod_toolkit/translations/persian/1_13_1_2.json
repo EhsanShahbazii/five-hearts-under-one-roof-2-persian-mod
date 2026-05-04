@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아가씨 천천히 드시죠.",
+      "ENGLISH": "Miss, take your time.",
+      "CHINESE_SIMPLIFIED": "大小姐，慢慢喝…",
+      "CHINESE_TRADITIONAL": "大小姐，慢慢喝…",
+      "JAPANESE": "お嬢さん、ゆっくり召し上がってください",
+      "INDONESIAN": "Nona, pelan-pelan makannya.",
+      "PORTUGUESE": "Moça, tem que beber devagar...",
+      "SPANISH": "Tome despacio, señorita.",
+      "PERSIAN": "آروم بخور، نپره تو گلوت."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 내 건데...",
+      "ENGLISH": "Huh? But that was mine…",
+      "CHINESE_SIMPLIFIED": "哎？那个是我的也...",
+      "CHINESE_TRADITIONAL": "哎？那個是我的耶...",
+      "JAPANESE": "えっ？それ、俺のなんですけど…",
+      "INDONESIAN": "Eh? Itu punyaku…",
+      "PORTUGUESE": "Oh? Isso era meu...",
+      "SPANISH": "¿Oh? Eso era mío...",
+      "PERSIAN": "عه؟ ولی این مال من بود که..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 살았다.",
+      "ENGLISH": "Ha… I can finally breathe again.",
+      "CHINESE_SIMPLIFIED": "呼…总算得救了",
+      "CHINESE_TRADITIONAL": "啊…得救了",
+      "JAPANESE": "はあ…助かった",
+      "INDONESIAN": "Ha... rasanya kayak hidup lagi.",
+      "PORTUGUESE": "Uff... que alívio.",
+      "SPANISH": "Uff... Qué alivio.",
+      "PERSIAN": "هاااه... بالاخره زنده شدم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다음에는 우유를 꼭 사야겠어요.",
+      "ENGLISH": "Next time, I’m definitely buying milk.",
+      "CHINESE_SIMPLIFIED": "我下次也得买牛奶了…",
+      "CHINESE_TRADITIONAL": "下次一定要買牛奶才行",
+      "JAPANESE": "次は牛乳を必ず買わないといけませんね",
+      "INDONESIAN": "Lain kali aku harus beli susu deh.",
+      "PORTUGUESE": "Meu leite...",
+      "SPANISH": "La próxima yo también debo comprar leche",
+      "PERSIAN": "دفعه دیگه محاله بدون شیر لب به این چیزا بزنم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 먹었어요.",
+      "ENGLISH": "Thanks for the food.",
+      "CHINESE_SIMPLIFIED": "我吃饱了，谢谢",
+      "CHINESE_TRADITIONAL": "我吃飽了，謝謝",
+      "JAPANESE": "ごちそうさまでした",
+      "INDONESIAN": "Makasih, enak banget.",
+      "PORTUGUESE": "Acho que da próxima vez também vou ter que comprar leite...",
+      "SPANISH": "¡Estuvo buena!",
+      "PERSIAN": "دستت درد نکنه، چسبید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아...내 우유...",
+      "ENGLISH": "Ah… my milk…",
+      "CHINESE_SIMPLIFIED": "啊…我的牛奶…",
+      "CHINESE_TRADITIONAL": "啊…我的牛奶…",
+      "JAPANESE": "ああ…俺の牛乳が…",
+      "INDONESIAN": "Ah… susuku…",
+      "PORTUGUESE": "Estava bom?",
+      "SPANISH": "Era mi leche...",
+      "PERSIAN": "آخ... شیر نازنینم پر کشید..."
+    }
+  }
+]

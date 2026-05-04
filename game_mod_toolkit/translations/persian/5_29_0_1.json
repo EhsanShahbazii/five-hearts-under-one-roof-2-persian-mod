@@ -1,0 +1,216 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "쌤~ 우유만 춤춰요!!",
+      "ENGLISH": "Teacher~ Yuman, dance!!",
+      "CHINESE_SIMPLIFIED": "老师~吴宥万在跳舞！！",
+      "CHINESE_TRADITIONAL": "老師～吳宥萬在跳舞！！",
+      "JAPANESE": "先生〜！ウ・ユマンが踊ってます！！",
+      "INDONESIAN": "Pak guru~ Yuman, joget dong!!",
+      "PORTUGUESE": "Profe~ o Yumán tá dançando!!",
+      "SPANISH": "¡Profe~ Yumán está bailando!!",
+      "PERSIAN": "معلم ~ یومان برقص!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만이.",
+      "ENGLISH": "Yuman.",
+      "CHINESE_SIMPLIFIED": "吴宥万",
+      "CHINESE_TRADITIONAL": "吳宥萬",
+      "JAPANESE": "ウ・ユマン",
+      "INDONESIAN": "Yuman.",
+      "PORTUGUESE": "Yumán.",
+      "SPANISH": "Yumán.",
+      "PERSIAN": "یومان."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yes?",
+      "CHINESE_SIMPLIFIED": "到？",
+      "CHINESE_TRADITIONAL": "是？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Ya?",
+      "PORTUGUESE": "Sim...?",
+      "SPANISH": "¿Sí...?",
+      "PERSIAN": "بله؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "고대로 나와.",
+      "ENGLISH": "Just like that.",
+      "CHINESE_SIMPLIFIED": "给我马上出来",
+      "CHINESE_TRADITIONAL": "你給我出來",
+      "JAPANESE": "そのまま出てこい",
+      "INDONESIAN": "Kayak gitu tuh.",
+      "PORTUGUESE": "Sai daí.",
+      "SPANISH": "Sal de ahí.",
+      "PERSIAN": "همینطور."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 고말숙... 쌤 저 그런 게 아니고요!",
+      "ENGLISH": "“Ah, Go Mal‑sook… teacher, it’s not like that!”",
+      "CHINESE_SIMPLIFIED": "啊，高末淑...老师不是您想的那样！",
+      "CHINESE_TRADITIONAL": "喂！高末淑...老師，不是你想的那樣！",
+      "JAPANESE": "あ、コ・マルスク！先生、俺そんなつもりじゃ…！",
+      "INDONESIAN": "“Ah, Go Mal-sook… Pak guru, bukan gitu maksudnya!”",
+      "PORTUGUESE": "É que a Malsook me... profe, não é o que parece!",
+      "SPANISH": "Es que Malsook me... profe, ¡no es lo que parece!",
+      "PERSIAN": "\"آه، برو مال‌سوک... معلم، اینطوری نیست!\""
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍...쯧",
+      "CHINESE_SIMPLIFIED": "嘶...啧",
+      "CHINESE_TRADITIONAL": "嗯哼...",
+      "JAPANESE": "チッ…チッチッ",
+      "PORTUGUESE": "Tsk... tch...",
+      "SPANISH": "Tsk... tch...",
+      "PERSIAN": "بنویسید... tsk"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그려? 그러면 문제 풀면 봐 줄거여.",
+      "ENGLISH": "Really? Then if you solve the problem, I’ll let it slide.",
+      "CHINESE_SIMPLIFIED": "是吗？那解出这道题，我就放过你",
+      "CHINESE_TRADITIONAL": "是嗎？那樣的話，把問題解出來就放過你",
+      "JAPANESE": "そうか？じゃあ問題解けたら許してやる",
+      "INDONESIAN": "Masa sih? Kalau gitu, coba jawab soal ini, nanti aku maafin.",
+      "PORTUGUESE": "Ah, é? Então, se resolver um problema, eu te perdôo.",
+      "SPANISH": "¿Ah, sí? Entonces, si resuelves un problema, te perdono.",
+      "PERSIAN": "واقعا؟ سپس اگر مشکل را حل کردید، اجازه می‌دهم از بین برود."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 26.7
+    },
+    "SCRIPT": {
+      "KOREAN": "5초 줄테니께. 빨리 나와.",
+      "ENGLISH": "I’ll give you 5 seconds. Come out quickly.",
+      "CHINESE_SIMPLIFIED": "给你五秒钟，快出来",
+      "CHINESE_TRADITIONAL": "給你 5 秒鐘。快給我出來",
+      "JAPANESE": "5秒やるから 早く出てこい",
+      "INDONESIAN": "Kamu punya waktu 5 detik. Cepetan keluar.",
+      "PORTUGUESE": "Te dou cinco segundos, rápido, sai.",
+      "SPANISH": "Te doy cinco segundos, rápido, sal.",
+      "PERSIAN": "من به شما 5 ثانیه فرصت می دهم. سریع بیا بیرون"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 고말숙 진짜...",
+      "ENGLISH": "Ah, Go Mal‑sook, seriously…",
+      "CHINESE_SIMPLIFIED": "啊，高末淑你真是...",
+      "CHINESE_TRADITIONAL": "啊，高末淑你真的是...",
+      "JAPANESE": "あ〜コ・マルスクまじで…",
+      "INDONESIAN": "Ah, Go Mal-sook, yang bener aja…",
+      "PORTUGUESE": "Ah, Malsook, de verdade...",
+      "SPANISH": "Ah, Malsook, en serio...",
+      "PERSIAN": "آه، برو مال‌سوک، جدی…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 안 나오지?",
+      "ENGLISH": "Not coming out quickly, huh?",
+      "CHINESE_SIMPLIFIED": "还不快点出来？",
+      "CHINESE_TRADITIONAL": "還不快出來嗎？",
+      "JAPANESE": "まだ出てこない？",
+      "INDONESIAN": "Masih nggak mau keluar juga?",
+      "PORTUGUESE": "Não vai sair?",
+      "SPANISH": "¿No vas a salir?",
+      "PERSIAN": "سریع بیرون نمیاد، ها؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 아주...쯧",
+      "ENGLISH": "This is just…",
+      "CHINESE_SIMPLIFIED": "你这家伙...啧——",
+      "CHINESE_TRADITIONAL": "你這傢伙真是...嘖",
+      "JAPANESE": "こいつほんとに…チッ",
+      "INDONESIAN": "Ini tuh cuma… ",
+      "PORTUGUESE": "Esse garoto... tsk...",
+      "SPANISH": "Este chico... tsk...",
+      "PERSIAN": "این فقط…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하...",
+      "ENGLISH": "tsk.",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "はぁ…",
+      "INDONESIAN": "ck.",
+      "PORTUGUESE": "Ha...",
+      "SPANISH": "Ha...",
+      "PERSIAN": "تف"
+    }
+  }
+]

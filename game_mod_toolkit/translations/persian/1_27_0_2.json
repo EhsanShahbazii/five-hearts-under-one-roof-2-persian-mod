@@ -1,0 +1,271 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!",
+      "ENGLISH": "Mr. Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万先生！",
+      "CHINESE_TRADITIONAL": "宥萬先生！",
+      "JAPANESE": "ユマンさん！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Sr. Yuman!",
+      "SPANISH": "¡Señor Yuman!",
+      "PERSIAN": "آقای یومان!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 방 간호사님?",
+      "ENGLISH": "Oh, Nurse Bang?",
+      "CHINESE_SIMPLIFIED": "方护士？",
+      "CHINESE_TRADITIONAL": "咦，方護士？",
+      "JAPANESE": "あっ、バン看護師さん？",
+      "INDONESIAN": "Oh, Perawat Bang?",
+      "PORTUGUESE": "Enfermeira Bang?",
+      "SPANISH": "¿Oh, enfermera Gyuri?",
+      "PERSIAN": "عه، پرستار بنگ؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 불렀는데... 못 들으셨어요?",
+      "ENGLISH": "I called you earlier… didn’t you hear me?",
+      "CHINESE_SIMPLIFIED": "刚才叫您…没听到吗？",
+      "CHINESE_TRADITIONAL": "剛才叫您...沒聽到嗎？",
+      "JAPANESE": "さっき呼んだんですけど…聞こえませんでしたか？",
+      "INDONESIAN": "Tadi aku manggil, tapi... kamu nggak denger ya?",
+      "PORTUGUESE": "Eu chamei você antes...",
+      "SPANISH": "Lo llamé hace un rato… ¿no me escuchó?",
+      "PERSIAN": "چند بار صداتون زدم... نشنیدین؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 네... ",
+      "ENGLISH": "Ah, no… I didn’t.",
+      "CHINESE_SIMPLIFIED": "啊，不好意思...",
+      "CHINESE_TRADITIONAL": "啊，不好意思...",
+      "JAPANESE": "あ、はい…",
+      "INDONESIAN": "Ah, iya...",
+      "PORTUGUESE": "Ah, sim...",
+      "SPANISH": "Ah, sí…",
+      "PERSIAN": "نه والا... حواسم پرت بود انگار."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 왜요?",
+      "ENGLISH": "But… why?",
+      "CHINESE_SIMPLIFIED": "不过有什么事吗？",
+      "CHINESE_TRADITIONAL": "有什麼事嗎？",
+      "JAPANESE": "でも、どうしてですか？",
+      "INDONESIAN": "Tapi, kenapa ya?",
+      "PORTUGUESE": "Mas, por quê?",
+      "SPANISH": "¿Qué pasó?",
+      "PERSIAN": "چیزی شده؟ با من کاری داشتین؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저... 퇴원 기념으로 뭐든 드리고 싶었는데..",
+      "ENGLISH": "I wanted to give you something to celebrate your discharge,",
+      "CHINESE_SIMPLIFIED": "我…想借退院的机会送您点什么",
+      "CHINESE_TRADITIONAL": "我…想趁你出院前送你點東西",
+      "JAPANESE": "あの…退院のお祝いに何か差し上げたくて…",
+      "INDONESIAN": "Aku... pengin kasih sesuatu buat ngerayain kamu pulang,",
+      "PORTUGUESE": "Eu... queria te dar algo como lembrança da alta,",
+      "SPANISH": "Yo... quería darle algo para celebrar su alta,",
+      "PERSIAN": "راستش... می‌خواستم به مناسبت مرخص شدنتون یه یادگاری کوچیک بدم،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "마땅한 게 없어서요! ",
+      "ENGLISH": "but I couldn’t think of anything, ",
+      "CHINESE_SIMPLIFIED": "可是没什么合适的…",
+      "CHINESE_TRADITIONAL": "可是找不到合適的",
+      "JAPANESE": "ちょうどいいものがなくて…！",
+      "INDONESIAN": "tapi nggak nemu yang pas!",
+      "PORTUGUESE": "mas não encontrei nada apropriado!",
+      "SPANISH": "pero no encontré nada apropiado…",
+      "PERSIAN": "ولی چون هول‌هولکی شد چیزی پیدا نکردم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이거라도..",
+      "ENGLISH": "so… at least take this.",
+      "CHINESE_SIMPLIFIED": "这个…就当作一点小心意吧…",
+      "CHINESE_TRADITIONAL": "這個…就當作一點小心意吧…",
+      "JAPANESE": "…これ、よかったら",
+      "INDONESIAN": "Jadi setidaknya... ini...",
+      "PORTUGUESE": "Então, pelo menos isto...",
+      "SPANISH": "Así que, tome esto aunque sea.",
+      "PERSIAN": "دست خالی نباشه، حداقل اینو داشته باشین..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "전 괜찮은데...",
+      "ENGLISH": "Oh, that’s not necessary…",
+      "CHINESE_SIMPLIFIED": "我真的没关系的...",
+      "CHINESE_TRADITIONAL": "我真的沒關係啦…",
+      "JAPANESE": "僕は大丈夫なんですけど…",
+      "INDONESIAN": "Aku nggak apa-apa kok...",
+      "PORTUGUESE": "Eu realmente não precisava...",
+      "SPANISH": "No tiene que hacerlo…",
+      "PERSIAN": "نه بابا این چه حرفیه، راضی به زحمت نبودم..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "받아줘요! ",
+      "ENGLISH": "Please, just accept it!",
+      "CHINESE_SIMPLIFIED": "就收下吧！",
+      "CHINESE_TRADITIONAL": "請收下吧！",
+      "JAPANESE": "受け取ってください！",
+      "INDONESIAN": "Terima aja ya!",
+      "PORTUGUESE": "Aceite, por favor!",
+      "SPANISH": "¡Acéptelo, por favor!",
+      "PERSIAN": "خواهش می‌کنم، روی منو زمین نندازین!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다.",
+      "ENGLISH": "Thank you.",
+      "CHINESE_SIMPLIFIED": "谢谢你",
+      "CHINESE_TRADITIONAL": "謝謝你",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Terima kasih.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "خیلی لطف کردین، دستتون درد نکنه."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "퇴원 축하해요, 유만 씨!",
+      "ENGLISH": "Congratulations on your discharge, Yuman!",
+      "CHINESE_SIMPLIFIED": "恭喜你出院，宥万先生！",
+      "CHINESE_TRADITIONAL": "恭喜你出院，宥萬先生！",
+      "JAPANESE": "退院おめでとうございます、ユマンさん！",
+      "INDONESIAN": "Selamat atas kepulangannya, Yuman!",
+      "PORTUGUESE": "Parabéns pela alta, Sr. Yuman!",
+      "SPANISH": "¡Felicidades por el alta, señor Yumán!",
+      "PERSIAN": "ترخیص‌تون مبارک باشه آقای یومان!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요. ",
+      "ENGLISH": "Thanks.",
+      "CHINESE_SIMPLIFIED": "谢谢",
+      "CHINESE_TRADITIONAL": "謝謝",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Makasih.",
+      "PORTUGUESE": "Obrigado.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "ممنونم ازتون."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 그럼 가 볼게요.",
+      "ENGLISH": "Well then, I should get going.",
+      "CHINESE_SIMPLIFIED": "那我就先走了",
+      "CHINESE_TRADITIONAL": "那我就先走了",
+      "JAPANESE": "じゃあ、これで失礼しますね",
+      "INDONESIAN": "Kalau gitu, aku pamit dulu.",
+      "PORTUGUESE": "Então, eu vou indo.",
+      "SPANISH": "Entonces, me voy.",
+      "PERSIAN": "خب دیگه، منم برم سر بقیه مریضام."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 33.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 조심히 가세요!",
+      "ENGLISH": "Yes, take care on your way.",
+      "CHINESE_SIMPLIFIED": "嗯！一路小心！",
+      "CHINESE_TRADITIONAL": "好！一路小心！",
+      "JAPANESE": "はい！気をつけてお帰りください！",
+      "INDONESIAN": "Iya! Hati-hati di jalan ya!",
+      "PORTUGUESE": "Sim! Vá com cuidado!",
+      "SPANISH": "¡Cuídese mucho!",
+      "PERSIAN": "باشه، خسته نباشین! خدا به همراهتون!"
+    }
+  }
+]

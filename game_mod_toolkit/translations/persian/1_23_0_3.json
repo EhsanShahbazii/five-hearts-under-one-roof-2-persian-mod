@@ -1,0 +1,152 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "선생님 혹시 끝나고 뭐 하세요?",
+      "ENGLISH": "Doctor, what are you doing after your shift?",
+      "CHINESE_SIMPLIFIED": "医生，您等会儿结束后有什么安排吗？",
+      "CHINESE_TRADITIONAL": "醫生，等等結束後有什麼安排嗎？",
+      "JAPANESE": "先生、終わったあとって何されるんですか？",
+      "INDONESIAN": "Dokter, nanti habis ini ada acara?",
+      "PORTUGUESE": "Doutora, o que vai fazer depois do expediente?",
+      "SPANISH": "Doctora, ¿qué hace hoy después del trabajo?",
+      "PERSIAN": "خانم دکتر، امشب بعد شیفت کاری‌تون برنامه‌ای دارین؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 룸메이트랑 저녁 먹을 거 같은데요.",
+      "ENGLISH": "Probably grabbing dinner with my roommate.",
+      "CHINESE_SIMPLIFIED": "我应该会跟室友去吃晚饭吧",
+      "CHINESE_TRADITIONAL": "可能會跟我室友吃晚餐吧",
+      "JAPANESE": "ルームメイトと夕食を食べると思いますけど",
+      "INDONESIAN": "Sepertinya mau makan malam sama teman sekamar.",
+      "PORTUGUESE": "Acho que vou jantar com meu colega de quarto.",
+      "SPANISH": "Creo que voy a cenar con mi roomie.",
+      "PERSIAN": "فکر کنم با هم‌اتاقیم برم یه چیزی بخورم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 그 룸메이트가 남자일까요?",
+      "ENGLISH": "Roommate… would that happen to be a guy?",
+      "CHINESE_SIMPLIFIED": "那个室友是男生吗？",
+      "CHINESE_TRADITIONAL": "那個室友是男生嗎？",
+      "JAPANESE": "そのルームメイトって、もしかして男の方ですか？",
+      "INDONESIAN": "Apa teman sekamarnya itu cowok?",
+      "PORTUGUESE": "Esse colega de quarto, por acaso, é homem?",
+      "SPANISH": "¿Y ese roomie... es hombre?",
+      "PERSIAN": "هم‌اتاقی... اون وقت پسره یا دختر؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "궁금한 게 뭔데요?",
+      "ENGLISH": "What exactly are you asking?",
+      "CHINESE_SIMPLIFIED": "你到底想问什么啊？",
+      "CHINESE_TRADITIONAL": "你到底想問什麼呢？",
+      "JAPANESE": "何が気になるんですか？",
+      "INDONESIAN": "Sebenarnya Anda mau nanya apa?",
+      "PORTUGUESE": "E por que essa curiosidade?",
+      "SPANISH": "¿Qué es lo que quiere saber?",
+      "PERSIAN": "دقیقاً دنبال چی هستین؟ منظورتون چیه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "선생님, 만나는 사람 있으세요?",
+      "ENGLISH": "Are you seeing anyone?",
+      "CHINESE_SIMPLIFIED": "医生，你现在有在交往的人吗？",
+      "CHINESE_TRADITIONAL": "醫生，你現在有在交往的人嗎？",
+      "JAPANESE": "先生、お付き合いしている方はいらっしゃいますか？",
+      "INDONESIAN": "Dokter lagi deket sama seseorang nggak?",
+      "PORTUGUESE": "Você está saindo com alguém?",
+      "SPANISH": "¿Tiene novio, doctora?",
+      "PERSIAN": "خانم دکتر... کسی تو زندگی‌تون هست؟ با کسی هستین؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Excuse me?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "بله؟! چی فرمودین؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "만나는 분 없다면 나 어때요?",
+      "ENGLISH": "If not… What do you think about me?",
+      "CHINESE_SIMPLIFIED": "如果没有的话，我怎么样？",
+      "CHINESE_TRADITIONAL": "如果沒有的話，我怎麼樣呢？",
+      "JAPANESE": "もし相手がいないなら、僕じゃダメですか？",
+      "INDONESIAN": "Kalau nggak ada, gimana kalau sama aku?",
+      "PORTUGUESE": "Se não estiver, o que acha de mim?",
+      "SPANISH": "Si la respuesta es no... ¿saldría conmigo?",
+      "PERSIAN": "اگه کسی نیست... من چطورم؟ شانس دارم؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "쌤이 어떤 사람인지 저 알고 싶어요.",
+      "ENGLISH": "I want to get to know you.",
+      "CHINESE_SIMPLIFIED": "我想更了解你，想知道你是怎样的人",
+      "CHINESE_TRADITIONAL": "我想更了解你，想知道你是怎樣的人",
+      "JAPANESE": "先生がどんな人なのか、知りたいんです",
+      "INDONESIAN": "Aku pengin tahu lebih banyak tentang dokter.",
+      "PORTUGUESE": "Quero conhecer melhor quem você é.",
+      "SPANISH": "Quiero conocerla mejor, doctora.",
+      "PERSIAN": "دوست دارم بیشتر باهاتون آشنا بشم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 22.5
+    }
+  }
+]

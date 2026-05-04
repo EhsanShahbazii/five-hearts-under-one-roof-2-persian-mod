@@ -1,0 +1,542 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저 잠시 귀 좀...",
+      "ENGLISH": "Um... can you come closer...",
+      "CHINESE_SIMPLIFIED": "那个...耳朵稍微靠近一点可以吗",
+      "CHINESE_TRADITIONAL": "那個……耳朵稍微靠近一點可以嗎",
+      "JAPANESE": "ちょっと耳を…",
+      "INDONESIAN": "Sebentar, telingaku agak...",
+      "PORTUGUESE": "Posso pedir uma coisinha... minha orelha...",
+      "SPANISH": "¿Podría acercarse un poco…?",
+      "PERSIAN": "یه لحظه میاین نزدیک‌تر بی زحمت..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 거기가 불편해요.",
+      "ENGLISH": "Actually, something’s bothering me.",
+      "CHINESE_SIMPLIFIED": "我那里有点不舒服",
+      "CHINESE_TRADITIONAL": "這裡感覺不太舒服",
+      "JAPANESE": "そこが不快なんです。",
+      "INDONESIAN": "Aku ngerasa nggak nyaman di situ.",
+      "PORTUGUESE": "Estou com um incômodo ali.",
+      "SPANISH": "Siento molestia... ahí.",
+      "PERSIAN": "راستش... اونجام بدجور اذیتم می‌کنه."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 거기요?",
+      "ENGLISH": "Where exactly?",
+      "CHINESE_SIMPLIFIED": "嗯？哪里？",
+      "CHINESE_TRADITIONAL": "嗯？哪裡？",
+      "JAPANESE": "えっ？そこですか？",
+      "INDONESIAN": "Hah? Di situ?",
+      "PORTUGUESE": "Hã? Ali onde?",
+      "SPANISH": "¿Eh? ¿Ahí?",
+      "PERSIAN": "کجا دقیقاً؟! منظورتون چیه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 거기 있잖아요. 거기...",
+      "ENGLISH": "You know… there. Right there.",
+      "CHINESE_SIMPLIFIED": "嗯，就那里啊，那里…",
+      "CHINESE_TRADITIONAL": "就是那裡啊…那裡…",
+      "JAPANESE": "ええ、そこですよ。そこ…",
+      "INDONESIAN": "Iya, kamu tahu kan... di situ...",
+      "PORTUGUESE": "Sim, ali... você sabe... ali...",
+      "SPANISH": "Sí, ahí... ya sabe. Ahí...",
+      "PERSIAN": "خب دیگه... همون‌جا... همون قسمت..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "거기?",
+      "ENGLISH": "There?",
+      "CHINESE_SIMPLIFIED": "那里？",
+      "CHINESE_TRADITIONAL": "這裡？",
+      "JAPANESE": "そこ？",
+      "INDONESIAN": "Situ?",
+      "PORTUGUESE": "Ali?",
+      "SPANISH": "¿Ahí...?",
+      "PERSIAN": "اونجا؟! یعنی دقیقاً همونجا؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그래요 거기!",
+      "ENGLISH": "Yup, right there!",
+      "CHINESE_SIMPLIFIED": "对，就是那里！",
+      "CHINESE_TRADITIONAL": "對，就是那裡！",
+      "JAPANESE": "そうです、そこ！",
+      "INDONESIAN": "Iya, situ!",
+      "PORTUGUESE": "Isso mesmo, ali!",
+      "SPANISH": "¡Sí, ahí!",
+      "PERSIAN": "آره دیگه، همون!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 거기...?",
+      "ENGLISH": "Ahhh… that's there.",
+      "CHINESE_SIMPLIFIED": "啊~那儿啊…？",
+      "CHINESE_TRADITIONAL": "啊～這裡…？",
+      "JAPANESE": "あ〜そこですか…？",
+      "INDONESIAN": "Ah~ situ...?",
+      "PORTUGUESE": "Ah~ ali...?",
+      "SPANISH": "Ah~ ¿ahí...?",
+      "PERSIAN": "آهان... پس منظورتون اونجاست..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "바로 캐치하셨네! ",
+      "ENGLISH": "You caught on quick!",
+      "CHINESE_SIMPLIFIED": "一下就明白了嘛！",
+      "CHINESE_TRADITIONAL": "馬上就抓到重點了！",
+      "JAPANESE": "すぐに分かってくれましたね！",
+      "INDONESIAN": "Langsung paham, ya!",
+      "PORTUGUESE": "Pegou na hora!",
+      "SPANISH": "¡Me entendió rápido!",
+      "PERSIAN": "ایول، چه سریع گرفتین!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 바로 봐 주실 수 있죠?",
+      "ENGLISH": "Can you take care of it now?",
+      "CHINESE_SIMPLIFIED": "现在可以帮我看看吗？",
+      "CHINESE_TRADITIONAL": "現在可以幫我看看嗎？",
+      "JAPANESE": "今すぐ診てもらえますよね？",
+      "INDONESIAN": "Bisa dicek sekarang juga, kan?",
+      "PORTUGUESE": "Pode ver pra mim agora?",
+      "SPANISH": "¿Podría revisar que esté todo bien?",
+      "PERSIAN": "میشه همین الان یه نگاهی بهش بندازین؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "지금이요?",
+      "ENGLISH": "Right now?",
+      "CHINESE_SIMPLIFIED": "现在吗？",
+      "CHINESE_TRADITIONAL": "現在？",
+      "JAPANESE": "い、今ですか？",
+      "INDONESIAN": "Sekarang?",
+      "PORTUGUESE": "Agora?",
+      "SPANISH": "¿Ahora?",
+      "PERSIAN": "الان؟! همین لحظه؟!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "무..물론이죠!",
+      "ENGLISH": "Of course!",
+      "CHINESE_SIMPLIFIED": "当然可以！",
+      "CHINESE_TRADITIONAL": "當…當然！",
+      "JAPANESE": "も…もちろんですよ！",
+      "INDONESIAN": "Tentu aja!",
+      "PORTUGUESE": "Claro!",
+      "SPANISH": "¡Cla-claro!",
+      "PERSIAN": "الـ... البته که میشه!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐, 가능하죠. ",
+      "ENGLISH": "Why not?",
+      "CHINESE_SIMPLIFIED": "嗯，没问题",
+      "CHINESE_TRADITIONAL": "沒問題的",
+      "JAPANESE": "まあ、できますよ",
+      "INDONESIAN": "Ya, bisa kok.",
+      "PORTUGUESE": "Bom, é possível.",
+      "SPANISH": "Claro que sí.",
+      "PERSIAN": "خب، وظیفه‌مه دیگه، چرا نشه؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 간호사고, 유만 씨는 환자니까.",
+      "ENGLISH": "I’m a nurse, you’re a patient—",
+      "CHINESE_SIMPLIFIED": "我是护士，宥万先生是病人",
+      "CHINESE_TRADITIONAL": "我是護士，你是病人嘛",
+      "JAPANESE": "私は看護師ですし、ユマンさんは患者さんなんですから",
+      "INDONESIAN": "Aku ini perawat, dan kamu pasien, Yuman.",
+      "PORTUGUESE": "Eu sou enfermeira e você é paciente, então...",
+      "SPANISH": "Yo soy la enfermera, y usted el paciente.",
+      "PERSIAN": "من پرستارم و شما هم بیماری..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 36.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하..할 수 있어요 할 수 있어요 할게요!",
+      "ENGLISH": "I can do this! I will!",
+      "CHINESE_SIMPLIFIED": "我可以的！我来！",
+      "CHINESE_TRADITIONAL": "我…我可以的！我來做！",
+      "JAPANESE": "で…できます！やります！",
+      "INDONESIAN": "Bisa kok! Aku lakuin!",
+      "PORTUGUESE": "Eu posso fazer isso! Vou fazer!",
+      "SPANISH": "¡P-por supuesto! ¡Ahorita lo reviso!",
+      "PERSIAN": "میتونم، من از پسش برمیام، انجامش میدم!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.1,
+      "HIDE": 36.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله، بفرمایید!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 44.2,
+      "HIDE": 45.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 하세요?",
+      "ENGLISH": "Wait—what are you doing?",
+      "CHINESE_SIMPLIFIED": "你在干嘛？",
+      "CHINESE_TRADITIONAL": "你在幹嘛？",
+      "JAPANESE": "何してるんですか？",
+      "INDONESIAN": "Eh, kamu ngapain?",
+      "PORTUGUESE": "O que você está fazendo?",
+      "SPANISH": "¿Qué está haciendo?",
+      "PERSIAN": "صبر کن ببینم... دارین چیکار می‌کنین دقیقا؟!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 45.9,
+      "HIDE": 48.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 아까 거기라고...",
+      "ENGLISH": "Huh? You said “there”…",
+      "CHINESE_SIMPLIFIED": "嗯？刚才说的那里…",
+      "CHINESE_TRADITIONAL": "嗯？剛才說的那裡…",
+      "JAPANESE": "えっ？さっき“そこ”って…",
+      "INDONESIAN": "Hah? Kan tadi kamu bilang \"situ\"...",
+      "PORTUGUESE": "Hã? Você disse “ali”...",
+      "SPANISH": "¿Eh? Usted dijo que “ahí”…",
+      "PERSIAN": "ها؟ خودتون گفتین اونجام دیگه..."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 49.2,
+      "HIDE": 50.1
+    },
+    "SCRIPT": {
+      "KOREAN": "거기...",
+      "ENGLISH": "There...",
+      "CHINESE_SIMPLIFIED": "那里…",
+      "CHINESE_TRADITIONAL": "那裡…",
+      "JAPANESE": "そこ…",
+      "INDONESIAN": "Situ...",
+      "PORTUGUESE": "Ali...",
+      "SPANISH": "“Ahí”…",
+      "PERSIAN": "همونجا..."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 50.4,
+      "HIDE": 52.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 무슨 소리하시는 거예요! ",
+      "ENGLISH": "What are you talking about?!",
+      "CHINESE_SIMPLIFIED": "啊，你在说什么啊！",
+      "CHINESE_TRADITIONAL": "啊，你在說什麼啦！",
+      "JAPANESE": "え、何言ってるんですか！",
+      "INDONESIAN": "Ah, kamu ngomong apa sih?!",
+      "PORTUGUESE": "Ah, o que você está pensando?!",
+      "SPANISH": "¡¿Pero de que está hablando?!",
+      "PERSIAN": "نه بابا، چی دارین با خودتون فکر می‌کنین؟!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 52.2,
+      "HIDE": 55.4
+    },
+    "SCRIPT": {
+      "KOREAN": "발이요 발! 간지러워 미치겠다구요.",
+      "ENGLISH": "My foot! My foot! It's tickling!",
+      "CHINESE_SIMPLIFIED": "脚啊，脚！脚！",
+      "CHINESE_TRADITIONAL": "是腳啦，腳！癢得我快瘋了！",
+      "JAPANESE": "足です、足！くすぐったくてたまらないんですよ",
+      "INDONESIAN": "Kaki aku! KAKI!! Gatel banget udah ga tahan!",
+      "PORTUGUESE": "O pé! É o pé, o pé! Eu não faço ideia nenhuma.",
+      "SPANISH": "¡Hablo del pie! ¡El pie! Me pica como no tiene idea.",
+      "PERSIAN": "کف پامو می‌گم! پام داره از خارش نصف میشه!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 55.5,
+      "HIDE": 59.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 발~ 오해할뻔 했네요.",
+      "ENGLISH": "Oh—your foot! I almost misunderstood!",
+      "CHINESE_SIMPLIFIED": "啊，脚啊~差点误会了",
+      "CHINESE_TRADITIONAL": "啊，腳～差點誤會了",
+      "JAPANESE": "あっ、足のことか〜誤解するところでした",
+      "INDONESIAN": "Ah kaki~ Hampir aja salah paham.",
+      "PORTUGUESE": "Ah, o pé~ quase entendi errado.",
+      "SPANISH": "Ah, ¡el pie! Creo que lo entendí mal.",
+      "PERSIAN": "آهااا کف پاتون! وای نزدیک بود فکر بد بکنم!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 61.1,
+      "HIDE": 63.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그, 긁을 만한 게 어디 있더라?",
+      "ENGLISH": "Let’s see… what can I use to scratch it?",
+      "CHINESE_SIMPLIFIED": "挠痒痒的东西去哪了？",
+      "CHINESE_TRADITIONAL": "嗯…哪裡可以抓抓呢？",
+      "JAPANESE": "か、かいたりできるものはどこかな？",
+      "INDONESIAN": "Hmm, mana ya yang bisa buat garukin...",
+      "PORTUGUESE": "Deixa eu ver... onde está algo pra coçar...?",
+      "SPANISH": "A ver… ¿dónde hay algo para rascar?",
+      "PERSIAN": "ببینم... چی داریم باهاش بخارونم براتون؟"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 65.9,
+      "HIDE": 68.8
+    },
+    "SCRIPT": {
+      "KOREAN": "여깄다! 긁을게요.",
+      "ENGLISH": "Here we go—scratching now.",
+      "CHINESE_SIMPLIFIED": "在这里！我来挠",
+      "CHINESE_TRADITIONAL": "找到了！我來抓抓",
+      "JAPANESE": "あ、ありました！かいてあげますね。",
+      "INDONESIAN": "Ini dia! Aku garukin ya.",
+      "PORTUGUESE": "Aqui! Vou coçar.",
+      "SPANISH": "¡Acá está! A ver...",
+      "PERSIAN": "پیداش کردم! اومدم که بخارونم."
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 73.8,
+      "HIDE": 74.8
+    },
+    "SCRIPT": {
+      "KOREAN": "으윽...",
+      "ENGLISH": "Ahhh...",
+      "CHINESE_SIMPLIFIED": "呃…",
+      "CHINESE_TRADITIONAL": "嗯呃…",
+      "JAPANESE": "うっ…",
+      "INDONESIAN": "Uugh...",
+      "PORTUGUESE": "Ugh...",
+      "SPANISH": "Ugh…",
+      "PERSIAN": "آاااخیش..."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 81.2,
+      "HIDE": 82.4
+    },
+    "SCRIPT": {
+      "KOREAN": "지금은 어떠세요? ",
+      "ENGLISH": "How’s that?",
+      "CHINESE_SIMPLIFIED": "现在感觉怎么样？",
+      "CHINESE_TRADITIONAL": "現在感覺怎麼樣？",
+      "JAPANESE": "今はどうですか？",
+      "INDONESIAN": "Sekarang gimana?",
+      "PORTUGUESE": "E agora, como está?",
+      "SPANISH": "¿Y ahora cómo se siente?",
+      "PERSIAN": "الان چطوره؟ بهتر شد؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 84.6,
+      "HIDE": 86.0
+    },
+    "SCRIPT": {
+      "KOREAN": "좀 아까보단 괜찮으세요?",
+      "ENGLISH": "Feeling better?",
+      "CHINESE_SIMPLIFIED": "比刚才好一些了吗？",
+      "CHINESE_TRADITIONAL": "比剛才好一些嗎？",
+      "JAPANESE": "さっきより少しましになりましたか？",
+      "INDONESIAN": "Udah agak mendingan dibanding tadi?",
+      "PORTUGUESE": "Melhor do que antes?",
+      "SPANISH": "¿Está un poco mejor que antes?",
+      "PERSIAN": "نسبت به قبل آروم‌تر شد؟"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 86.4,
+      "HIDE": 89.0
+    },
+    "SCRIPT": {
+      "KOREAN": "조금만 더 안쪽으로 깊숙이",
+      "ENGLISH": "Could you go a little deeper",
+      "CHINESE_SIMPLIFIED": "能往更里面一点吗",
+      "CHINESE_TRADITIONAL": "再往裡面一點",
+      "JAPANESE": "もう少し内側、奥の方を…",
+      "INDONESIAN": "Kalau bisa agak lebih dalam...",
+      "PORTUGUESE": "Pode coçar um pouco mais fundo,",
+      "SPANISH": "¿Podría rascar un poco más adentro…",
+      "PERSIAN": "یه کم برین گودتر، عمیق‌تر..."
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 89.0,
+      "HIDE": 90.7
+    },
+    "SCRIPT": {
+      "KOREAN": "새끼 발가락 쪽으로  안 될까요?",
+      "ENGLISH": "Like down to the pinky toe?",
+      "CHINESE_SIMPLIFIED": "可以帮我挠挠小脚趾那里吗？",
+      "CHINESE_TRADITIONAL": "往小腳趾的方向，可以嗎？",
+      "JAPANESE": "小指のあたりはできませんか？",
+      "INDONESIAN": "Boleh nggak sekalian garukin sampai jari kelingkingku?",
+      "PORTUGUESE": "até o dedo mindinho do pé, por favor?",
+      "SPANISH": "hasta el dedo chiquito?",
+      "PERSIAN": "سمت انگشت کوچیکه رو هم میگیرین بی زحمت؟"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 92.1,
+      "HIDE": 94.0
+    },
+    "SCRIPT": {
+      "KOREAN": "더 긁으면 수술하셔야 돼요.",
+      "ENGLISH": "If I scratch any more, you’re gonna need surgery.",
+      "CHINESE_SIMPLIFIED": "再挠的话就要动手术了",
+      "CHINESE_TRADITIONAL": "再抓的話，您就得動手術了",
+      "JAPANESE": "それ以上かいたら手術になりますよ",
+      "INDONESIAN": "Kalau digaruk lebih jauh, kamu harus operasi.",
+      "PORTUGUESE": "Se eu coçar mais, vai precisar de cirurgia.",
+      "SPANISH": "Para rascarlo más va a necesitar cirugía.",
+      "PERSIAN": "بیشتر از این بخارونم باید ببرمت اتاق عمل پیوند پوست بزنی!"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 95.4,
+      "HIDE": 95.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "...Got it.",
+      "CHINESE_SIMPLIFIED": "啊，好的",
+      "CHINESE_TRADITIONAL": "喔",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Ah, oke..",
+      "PORTUGUESE": "Ah, entendi.",
+      "SPANISH": "Ah… entiendo.",
+      "PERSIAN": "باشه، تسلیم..."
+    }
+  }
+]

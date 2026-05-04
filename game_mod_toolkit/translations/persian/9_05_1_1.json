@@ -1,0 +1,578 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 누군가는 해야지... 후딱하고 가면...",
+      "ENGLISH": "Well… somebody’s gotta do it. If I clean this up quick and then—",
+      "CHINESE_SIMPLIFIED": "哎呀总得有人收拾嘛...快点收拾完就走...",
+      "CHINESE_TRADITIONAL": "唉，總得有人要來清理，快點清完走人吧...",
+      "JAPANESE": "えぇ、誰かがやらないとだしな…さっさと片付けて行こう…",
+      "INDONESIAN": "Yah… harus ada yang beresin. Kalau aku cepet-cepet bersihin ini terus—",
+      "PORTUGUESE": "Ai, alguém tem que fazer isso… se eu me apressar…",
+      "SPANISH": "Ay, alguien tiene que hacerlo… si me apuro…",
+      "PERSIAN": "خب… یکی باید این کار را انجام دهد. اگر سریع اینو پاک کنم و سپس-"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "얼음!!!!!",
+      "ENGLISH": "FREEZE!!!!!",
+      "CHINESE_SIMPLIFIED": "冻结！！",
+      "CHINESE_TRADITIONAL": "給我站住！！！！",
+      "JAPANESE": "氷！！！",
+      "INDONESIAN": "BERHENTIIII!!!",
+      "PORTUGUESE": "Gelo!",
+      "SPANISH": "¡Hielo!",
+      "PERSIAN": "یخ زدن!!!!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "…Yes??",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "…Iya??",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "…بله؟؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이리 와봐.",
+      "ENGLISH": "Come here.",
+      "CHINESE_SIMPLIFIED": "过来一下",
+      "CHINESE_TRADITIONAL": "過來一下",
+      "JAPANESE": "ちょっと来い。",
+      "INDONESIAN": "Sini kamu.",
+      "PORTUGUESE": "Vem cá.",
+      "SPANISH": "Ven acá.",
+      "PERSIAN": "بیا اینجا"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "Uh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Eh?",
+      "PORTUGUESE": "Ah?",
+      "SPANISH": "¿Ah?",
+      "PERSIAN": "اوه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너냐?",
+      "ENGLISH": "Was it you?",
+      "CHINESE_SIMPLIFIED": "是你吗？",
+      "CHINESE_TRADITIONAL": "是你嗎？",
+      "JAPANESE": "お前か？",
+      "INDONESIAN": "Kamu ya?",
+      "PORTUGUESE": "Foi você?",
+      "SPANISH": "¿Fuiste tú?",
+      "PERSIAN": "تو بودی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네...?",
+      "ENGLISH": "…Sorry?",
+      "CHINESE_SIMPLIFIED": "我...？",
+      "CHINESE_TRADITIONAL": "我...？",
+      "JAPANESE": "はい…？",
+      "INDONESIAN": "…Maaf?",
+      "PORTUGUESE": "O q-quê…?",
+      "SPANISH": "¿Q-qué…?",
+      "PERSIAN": "...ببخشید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너냐고...!",
+      "ENGLISH": "Was it YOU??",
+      "CHINESE_SIMPLIFIED": "我问你，是你干的吧？！",
+      "CHINESE_TRADITIONAL": "我問你，是你這個傢伙做的吧？！",
+      "JAPANESE": "お前なのかって聞いてるんだ！",
+      "INDONESIAN": "KAMU YA??",
+      "PORTUGUESE": "Tô perguntando se foi você!",
+      "SPANISH": "¡Te estoy preguntando si fuiste tú!",
+      "PERSIAN": "تو بودی؟؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 맨날 쓰레기 버리고 도망 가는 놈이",
+      "ENGLISH": "The one who keeps dumping trash here and running off!!",
+      "CHINESE_SIMPLIFIED": "就是你这家伙天天在这儿乱扔垃圾就跑",
+      "CHINESE_TRADITIONAL": "你就是那個每天在這裡亂丟垃圾跑掉的傢伙吧",
+      "JAPANESE": "ここにいつもゴミ捨てて逃げるやつだ！",
+      "INDONESIAN": "Yang suka buang sampah sembarangan terus kabur!!",
+      "PORTUGUESE": "O que sempre joga lixo aqui e foge.",
+      "SPANISH": "El que siempre tira basura aquí y se escapa.",
+      "PERSIAN": "اونی که مدام آشغال میریزه اینجا و فرار میکنه!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨 저 여기 처음 오는데요?",
+      "ENGLISH": "No— this is my first time here??",
+      "CHINESE_SIMPLIFIED": "不是啊，我第一次来这儿啊？",
+      "CHINESE_TRADITIONAL": "不是，我第一次來這裡",
+      "JAPANESE": "ち、違います！俺、ここ初めて来たんですけど",
+      "INDONESIAN": "Bukan— ini pertama kalinya aku ke sini??",
+      "PORTUGUESE": "Não, é a primeira vez que passo por aqui!",
+      "SPANISH": "No, ¡es la primera vez que paso por aquí!",
+      "PERSIAN": "نه - این اولین بار است که اینجا هستم؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 전 그냥 어디 가는 길이었는데",
+      "ENGLISH": "I swear, I was just passing by and saw trash so… ",
+      "CHINESE_SIMPLIFIED": "不是，我真的只是路过",
+      "CHINESE_TRADITIONAL": "不是，我真的是路過而已",
+      "JAPANESE": "いや、本当に、通りがかったら",
+      "INDONESIAN": "Sumpah deh, aku cuma lagi lewat dan lihat ada sampah, jadi…",
+      "PORTUGUESE": "Sério, eu só tava indo pra outro lugar,",
+      "SPANISH": "En serio, solo iba de camino a otro lugar,",
+      "PERSIAN": "قسم می خورم، همین الان داشتم رد می شدم و سطل آشغال را دیدم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰레기가 보이길래... 저 치우려고 했다고요",
+      "ENGLISH": "I was going to clean it up.",
+      "CHINESE_SIMPLIFIED": "看到垃圾...想帮忙捡起来而已",
+      "CHINESE_TRADITIONAL": "看到垃圾...我正打算清理一下",
+      "JAPANESE": "ゴミが見えて…片付けようとしただけです",
+      "INDONESIAN": "aku mau bersihin.",
+      "PORTUGUESE": "vi o lixo e pensei em recolher.",
+      "SPANISH": "vi la basura y pensé en recogerla.",
+      "PERSIAN": "قرار بود تمیزش کنم"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 난 또 여기 맨날 쓰레기 버리는 그놈인 줄 알고",
+      "ENGLISH": "Ah, I thought you were the jerk who keeps littering every day.",
+      "CHINESE_SIMPLIFIED": "哎呦，我还以为是天天乱扔垃圾的那混蛋呢",
+      "CHINESE_TRADITIONAL": "啊，我還以為是那個每天亂丟垃圾的傢伙",
+      "JAPANESE": "ああ、なんだ、てっきりいつものやつかと思った",
+      "INDONESIAN": "Ah, kupikir kamu si brengsek yang tiap hari buang sampah di sini.",
+      "PORTUGUESE": "Ah, entendi… achei que fosse o cara que sempre joga lixo aqui.",
+      "SPANISH": "Ah, ya veo… pensé que eras el que siempre tira basura.",
+      "PERSIAN": "آه، من فکر می کردم تو همون مردی هستی که هر روز زباله می ریزد."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 33.3
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 미안하네 내가 오해했네",
+      "ENGLISH": "My mistake — totally my mistake.",
+      "CHINESE_SIMPLIFIED": "是我误会了，真对不起",
+      "CHINESE_TRADITIONAL": "對不起，是我誤會了",
+      "JAPANESE": "悪かったな、誤解した",
+      "INDONESIAN": "Salah paham — bener-bener salah paham.",
+      "PORTUGUESE": "Desculpa, foi um mal-entendido, de verdade.",
+      "SPANISH": "Perdón, fue un malentendido, de verdad.",
+      "PERSIAN": "اشتباه من - کاملاً اشتباه من."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 33.4,
+      "HIDE": 34.6
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해, 미안해, 미안해 ",
+      "ENGLISH": "Sorry, sorry, sorry.",
+      "CHINESE_SIMPLIFIED": "抱歉抱歉抱歉",
+      "CHINESE_TRADITIONAL": "抱歉抱歉",
+      "JAPANESE": "悪かった悪かった！",
+      "INDONESIAN": "Maaf, maaf, maaf.",
+      "PORTUGUESE": "Desculpa, desculpa, desculpa.",
+      "SPANISH": "Perdón, perdón, perdón.",
+      "PERSIAN": "متاسفم، متاسفم، متاسفم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 35.3,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그럼 우리 같이 치울까?",
+      "ENGLISH": "Well then — shall we clean this together?",
+      "CHINESE_SIMPLIFIED": "那我们一起收拾？",
+      "CHINESE_TRADITIONAL": "那我們一起清理，好嗎？",
+      "JAPANESE": "あ、じゃあ一緒に片付けるか？",
+      "INDONESIAN": "Kalau gitu — kita bersihin bareng, yuk?",
+      "PORTUGUESE": "Bom, então vamos limpar juntos?",
+      "SPANISH": "Bueno, ¿limpiamos juntos entonces?",
+      "PERSIAN": "خوب پس - اینو با هم تمیز کنیم؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 37.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 네, 네, 네!",
+      "ENGLISH": "O-oh! Yes, yes, yes!",
+      "CHINESE_SIMPLIFIED": "啊！好好好！",
+      "CHINESE_TRADITIONAL": "喔！好，好，好！",
+      "JAPANESE": "あ、はい！はい！",
+      "INDONESIAN": "O-oh! Iya, iya, iya!",
+      "PORTUGUESE": "Ah, sim, sim, claro!",
+      "SPANISH": "¡Ah, sí, sí, claro!",
+      "PERSIAN": "اوه اوه! بله، بله، بله!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 43.3,
+      "HIDE": 47.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이야 여길 드디어 다 치웠네, 고마워요",
+      "ENGLISH": "Wow, we finally cleaned all of this up. Thank you.",
+      "CHINESE_SIMPLIFIED": "哎呀，这儿终于收拾干净了，谢谢你啊",
+      "CHINESE_TRADITIONAL": "唉，這裡終於都清理乾淨了",
+      "JAPANESE": "いや〜ついに全部片付いたな、ありがとう！",
+      "INDONESIAN": "Wah, akhirnya kelar juga bersihin semuanya. Makasih ya.",
+      "PORTUGUESE": "Nossa, finalmente terminamos de limpar tudo isso, obrigado.",
+      "SPANISH": "Vaya, al fin terminamos de limpiar todo esto, gracias.",
+      "PERSIAN": "وای، بالاخره همه اینا رو پاک کردیم. ممنونم."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 47.6,
+      "HIDE": 48.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 네...",
+      "ENGLISH": "Ah, yeah…",
+      "CHINESE_SIMPLIFIED": "啊没事...",
+      "CHINESE_TRADITIONAL": "啊，是的...",
+      "JAPANESE": "あ、いえ…",
+      "INDONESIAN": "Ah, iya…",
+      "PORTUGUESE": "Ah, sim…",
+      "SPANISH": "Ah, sí…",
+      "PERSIAN": "آه، آره…"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 48.9,
+      "HIDE": 51.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다! 저 급한 일 있어서 먼저 가 볼게요!",
+      "ENGLISH": "Oh right! I actually have something urgent, so I’ll get going first!",
+      "CHINESE_SIMPLIFIED": "啊对了！我有急事得先走了！",
+      "CHINESE_TRADITIONAL": "啊對了！我有急事要先走了！",
+      "JAPANESE": "あっ、そうだ！ちょっと急ぎの用事があるんで、もう行きますね！",
+      "INDONESIAN": "Oh iya! Aku sebenernya lagi buru-buru, jadi aku jalan duluan ya!",
+      "PORTUGUESE": "Ah, certo, tenho algo urgente, então preciso ir.",
+      "SPANISH": "Ah, cierto, tengo algo urgente, así que debo irme.",
+      "PERSIAN": "اوه درسته! من واقعاً یک چیز فوری دارم، بنابراین اول شروع می کنم!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 51.7,
+      "HIDE": 52.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어...! 잠깐 잠깐!!",
+      "ENGLISH": "Wait…! Hold on, hold on!!",
+      "CHINESE_SIMPLIFIED": "呃...！等等，等等！！",
+      "CHINESE_TRADITIONAL": "喔...! 等一下，等一下！！",
+      "JAPANESE": "おい、ちょっと待った！！",
+      "INDONESIAN": "Tunggu…! Tunggu dulu!!",
+      "PORTUGUESE": "Ei, espera, espera!",
+      "SPANISH": "¡Eh, espera, espera!",
+      "PERSIAN": "صبر کن…! صبر کن صبر کن!!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 53.0,
+      "HIDE": 53.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네..?",
+      "ENGLISH": "Hmm?",
+      "CHINESE_SIMPLIFIED": "怎么了...？",
+      "CHINESE_TRADITIONAL": "怎麼了嗎...？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hmm?",
+      "PORTUGUESE": "Sim…?",
+      "SPANISH": "¿Sí…?",
+      "PERSIAN": "هوم؟"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 53.8,
+      "HIDE": 55.7
+    },
+    "SCRIPT": {
+      "KOREAN": "급한 일 있으면 저거 타고 가",
+      "ENGLISH": "If it’s urgent — take that!",
+      "CHINESE_SIMPLIFIED": "有急事的话骑这个去吧",
+      "CHINESE_TRADITIONAL": "如果有急事，就坐那個走吧",
+      "JAPANESE": "急ぎの用事なら、あれ乗って行け！",
+      "INDONESIAN": "Kalau kamu buru-buru — ambil ini!",
+      "PORTUGUESE": "Se tá com pressa, usa isso.",
+      "SPANISH": "Si tienes prisa, úsalo.",
+      "PERSIAN": "اگر فوری است - اونو بگیرید!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 55.8,
+      "HIDE": 56.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저거요?",
+      "ENGLISH": "…That?",
+      "CHINESE_SIMPLIFIED": "这个电驴吗？",
+      "CHINESE_TRADITIONAL": "那個嗎？",
+      "JAPANESE": "あれですか？",
+      "INDONESIAN": "…Itu?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿En serio?",
+      "PERSIAN": "... اون؟"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 56.5,
+      "HIDE": 57.5
+    },
+    "SCRIPT": {
+      "KOREAN": "응",
+      "ENGLISH": "Mm-hm.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "そう",
+      "INDONESIAN": "Mm-hm.",
+      "PORTUGUESE": "Aham.",
+      "SPANISH": "Ajá.",
+      "PERSIAN": "مم-هم."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 57.4,
+      "HIDE": 58.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "…Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "…Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "… ها؟"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 58.2,
+      "HIDE": 60.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아이~ 당신은 그럴 자격이 있어 ",
+      "ENGLISH": "You’ve earned the right to ride it!",
+      "CHINESE_SIMPLIFIED": "哎~你值得拥有",
+      "CHINESE_TRADITIONAL": "沒錯～！你有那個資格！",
+      "JAPANESE": "ははっ〜！君にはその資格がある！",
+      "INDONESIAN": "Kamu layak naik itu!",
+      "PORTUGUESE": "Ah~ você merece.",
+      "SPANISH": "Ay~ te lo mereces.",
+      "PERSIAN": "شما حق سوار شدن به اونو به دست آورده اید!"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 60.5,
+      "HIDE": 61.6
+    },
+    "SCRIPT": {
+      "KOREAN": "으하하하하",
+      "ENGLISH": "Bwahahahahaha!!",
+      "CHINESE_SIMPLIFIED": "唔哈哈哈哈",
+      "CHINESE_TRADITIONAL": "唔哈哈哈哈",
+      "JAPANESE": "うははははは！",
+      "INDONESIAN": "Bwahahahahaha!!",
+      "PORTUGUESE": "Hahaha!",
+      "SPANISH": "¡Jajaja!",
+      "PERSIAN": "بوهاهاهاهاها!!"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 61.7,
+      "HIDE": 62.4
+    },
+    "SCRIPT": {
+      "KOREAN": "얼른 타고 가!",
+      "ENGLISH": "Go on, hop on!!",
+      "CHINESE_SIMPLIFIED": "快骑上走！",
+      "CHINESE_TRADITIONAL": "趕快坐上那個走吧！",
+      "JAPANESE": "さぁ、早く乗って行け！",
+      "INDONESIAN": "Ayo, naik!!",
+      "PORTUGUESE": "Vamos, sobe logo!",
+      "SPANISH": "¡Vamos, súbete ya!",
+      "PERSIAN": "برو، بپر!!"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 62.5,
+      "HIDE": 64.1
+    },
+    "SCRIPT": {
+      "KOREAN": "감, 감사합니다!",
+      "ENGLISH": "Th— thank you!",
+      "CHINESE_SIMPLIFIED": "感，感谢！",
+      "CHINESE_TRADITIONAL": "謝、謝謝！",
+      "JAPANESE": "あ、ありがとうございます！",
+      "INDONESIAN": "T-t-terima kasih!",
+      "PORTUGUESE": "O-obrigado!",
+      "SPANISH": "¡G-gracias!",
+      "PERSIAN": "این- ممنونم!"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 69.0,
+      "HIDE": 69.5
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다!",
+      "ENGLISH": "Thank you!!",
+      "CHINESE_SIMPLIFIED": "谢谢您！",
+      "CHINESE_TRADITIONAL": "謝謝你！",
+      "JAPANESE": "ありがとうございます！！",
+      "INDONESIAN": "Makasih ya!!",
+      "PORTUGUESE": "Muito obrigado!",
+      "SPANISH": "¡Muchas gracias!",
+      "PERSIAN": "ممنونم!!"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 69.6,
+      "HIDE": 70.6
+    },
+    "SCRIPT": {
+      "KOREAN": "얼른 가!",
+      "ENGLISH": "Go! Hurry!",
+      "CHINESE_SIMPLIFIED": "快走吧！",
+      "CHINESE_TRADITIONAL": "快走吧！",
+      "JAPANESE": "急いで行きます！",
+      "INDONESIAN": "Pergi sana! Cepet!",
+      "PORTUGUESE": "Vai lá, anda!",
+      "SPANISH": "¡Anda, vete!",
+      "PERSIAN": "برو! عجله کن"
+    }
+  }
+]

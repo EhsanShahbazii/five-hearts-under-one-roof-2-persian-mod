@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 안 되네?",
+      "ENGLISH": "Ugh, it’s not working...",
+      "CHINESE_SIMPLIFIED": "不太好弄呢？",
+      "CHINESE_TRADITIONAL": "不好弄嗎？",
+      "JAPANESE": "うまくいかないな…",
+      "INDONESIAN": "Ugh, itu tidak berhasil...",
+      "PORTUGUESE": "Não consegue?",
+      "SPANISH": "¿No puedes?",
+      "PERSIAN": "اوه کار نمیکنه..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어떡하징...",
+      "ENGLISH": "What do I do...?",
+      "CHINESE_SIMPLIFIED": "怎么办呀...",
+      "CHINESE_TRADITIONAL": "怎麼辦呢...",
+      "JAPANESE": "どうしよん…",
+      "INDONESIAN": "Apa yang harus saya lakukan...?",
+      "PORTUGUESE": "Não sei como...",
+      "SPANISH": "No sé como...",
+      "PERSIAN": "چیکار کنم...؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "휴...",
+      "ENGLISH": "Sigh...",
+      "CHINESE_SIMPLIFIED": "唉...",
+      "CHINESE_TRADITIONAL": "唉...",
+      "JAPANESE": "ふぅ…",
+      "INDONESIAN": "Menghela napas...",
+      "PORTUGUESE": "Aff...",
+      "SPANISH": "Uy...",
+      "PERSIAN": "آه..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "줘봐요.",
+      "ENGLISH": "Here, give it to me.",
+      "CHINESE_SIMPLIFIED": "签子给我吧",
+      "CHINESE_TRADITIONAL": "給我吧",
+      "JAPANESE": "貸してください",
+      "INDONESIAN": "Sini, berikan padaku.",
+      "PORTUGUESE": "Me dá aqui.",
+      "SPANISH": "Dámelo.",
+      "PERSIAN": "اینجا، اونو به من بدهید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하루종일 걸리겠네.",
+      "ENGLISH": "This would take you all day.",
+      "CHINESE_SIMPLIFIED": "你怕是得花上一整天",
+      "CHINESE_TRADITIONAL": "不然要弄一整天了",
+      "JAPANESE": "これじゃ一日中かかりそうだな",
+      "INDONESIAN": "Ini akan memakan waktu seharian.",
+      "PORTUGUESE": "Você vai demorar uma eternidade.",
+      "SPANISH": "Te vas a tardar una eternidad.",
+      "PERSIAN": "این کار شما را تمام روز می برد."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "자!",
+      "ENGLISH": "Done!",
+      "CHINESE_SIMPLIFIED": "来！",
+      "CHINESE_TRADITIONAL": "來！",
+      "JAPANESE": "ほら！",
+      "INDONESIAN": "Selesai!",
+      "PORTUGUESE": "Pronto!",
+      "SPANISH": "¡Listo!",
+      "PERSIAN": "انجام شد!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요!",
+      "ENGLISH": "Thanks!",
+      "CHINESE_SIMPLIFIED": "谢啦！",
+      "CHINESE_TRADITIONAL": "謝謝！",
+      "JAPANESE": "ありがとうございます!",
+      "INDONESIAN": "Terima kasih!",
+      "PORTUGUESE": "Obrigada!",
+      "SPANISH": "¡Gracias!",
+      "PERSIAN": "با تشکر"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "음!",
+      "ENGLISH": "Mmm!",
+      "CHINESE_SIMPLIFIED": "嗯！～",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "うーん！",
+      "INDONESIAN": "Hmm!",
+      "PORTUGUESE": "Ok.",
+      "SPANISH": "Ok.",
+      "PERSIAN": "ممم!"
+    }
+  }
+]

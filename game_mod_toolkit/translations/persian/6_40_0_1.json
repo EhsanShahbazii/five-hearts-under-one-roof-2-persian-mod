@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "喂！",
+      "CHINESE_TRADITIONAL": "喂！",
+      "JAPANESE": "おい！！",
+      "INDONESIAN": "Hei!",
+      "PORTUGUESE": "Ei!",
+      "SPANISH": "¡Oye!",
+      "PERSIAN": "سلام!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이건 못 돌려줍니다.",
+      "ENGLISH": "I’m not giving this back.",
+      "CHINESE_SIMPLIFIED": "这个我不能还给你",
+      "CHINESE_TRADITIONAL": "這個我不能還給你",
+      "JAPANESE": "これは返せません！！",
+      "INDONESIAN": "Ini nggak bakal aku balikin.",
+      "PORTUGUESE": "Isso aqui eu não vou te devolver!",
+      "SPANISH": "¡Esto no te lo voy a devolver!",
+      "PERSIAN": "من اینو پس نمی دهم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 이게 뭐 하는 겁니까!!",
+      "ENGLISH": "What do you think you’re doing right now!!",
+      "CHINESE_SIMPLIFIED": "你现在这是在干什么？！",
+      "CHINESE_TRADITIONAL": "你現在是在幹嘛？！",
+      "JAPANESE": "ちょっと、今なにしてるんですか！！",
+      "INDONESIAN": "Kamu tuh lagi ngapain sih sekarang!!",
+      "PORTUGUESE": "O que você acha que tá fazendo?!",
+      "SPANISH": "¡¿Qué se supone que está haciendo?!",
+      "PERSIAN": "فکر میکنی الان داری چیکار میکنی!!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "몇 살이시죠?",
+      "ENGLISH": "How old are you?",
+      "CHINESE_SIMPLIFIED": "你多大年纪了？",
+      "CHINESE_TRADITIONAL": "你都幾歲了？",
+      "JAPANESE": "あなた、いくつなんですか！？",
+      "INDONESIAN": "Umur kamu berapa, hah?",
+      "PORTUGUESE": "Quantos anos você tem?",
+      "SPANISH": "¿Cuántos años tiene?",
+      "PERSIAN": "چند سالته؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐요?",
+      "ENGLISH": "…What?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "は？",
+      "INDONESIAN": "…Apa?",
+      "PORTUGUESE": "Como é que é?",
+      "SPANISH": "¿Perdón?",
+      "PERSIAN": "... چی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나이도 있으신 분이 이러면 안 되는 거 아닙니까?",
+      "ENGLISH": "At your age, shouldn’t you know better than to act like this?",
+      "CHINESE_SIMPLIFIED": "你这年纪的人不该做这种事吧？",
+      "CHINESE_TRADITIONAL": "你都這把年紀了，這樣做是不對的吧？",
+      "JAPANESE": "それなりの年齢なんだから、こんなことしちゃダメじゃないですか？",
+      "INDONESIAN": "Di umur segitu, harusnya kamu udah tahu dong jangan kelakuan kayak gini?",
+      "PORTUGUESE": "Não tem vergonha de agir assim nessa idade?",
+      "SPANISH": "¿No le da vergüenza comportarse así a su edad?",
+      "PERSIAN": "در سن شما، بهتر از این که اینگونه رفتار کنید، نباید بدانید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "야 너 미쳤어?",
+      "ENGLISH": "Hey — are you out of your mind?",
+      "CHINESE_SIMPLIFIED": "喂，你疯了吗？",
+      "CHINESE_TRADITIONAL": "喂！你瘋了嗎？",
+      "JAPANESE": "あんた、正気！？",
+      "INDONESIAN": "Hei — kamu waras nggak sih?",
+      "PORTUGUESE": "Ei, você tá louco?",
+      "SPANISH": "¿Oye, estás loco?",
+      "PERSIAN": "هی - شما از ذهن خود خارج شده اید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 나 미쳤다!!",
+      "ENGLISH": "Yeah, I’m crazy!!",
+      "CHINESE_SIMPLIFIED": "对我是疯了！",
+      "CHINESE_TRADITIONAL": "對！我就是瘋了！",
+      "JAPANESE": "ああ、正気じゃないよ！！",
+      "INDONESIAN": "Iya, aku gila!!",
+      "PORTUGUESE": "Sim, eu tô louco!",
+      "SPANISH": "¡Sí, estoy loco!",
+      "PERSIAN": "آره من دیوونم!!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이번에도 한 오십 받고 이러냐?",
+      "ENGLISH": "What is it this time, fifty grand again for this stunt?",
+      "CHINESE_SIMPLIFIED": "这次又是收了两千块钱才干的吗？",
+      "CHINESE_TRADITIONAL": "這次也是收了錢就做這種事嗎？",
+      "JAPANESE": "今回もまた、五十くらいもらってやってんのか？",
+      "INDONESIAN": "Kali ini apa lagi? Lima puluh ribu lagi buat drama begini?",
+      "PORTUGUESE": "Quanto vão te pagar dessa vez pra fazer isso?",
+      "SPANISH": "¿Cuánto te quieren pagar esta vez por hacerlo?",
+      "PERSIAN": "این بار چه چیزی است، دوباره پنجاه گراند برای این شیرین کاری؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이 사람이 진짜",
+      "ENGLISH": "Watch your mouth.",
+      "CHINESE_SIMPLIFIED": "你这人...",
+      "CHINESE_TRADITIONAL": "你這傢伙真的是...",
+      "JAPANESE": "この人が本当に…",
+      "INDONESIAN": "Jaga omongan kamu.",
+      "PORTUGUESE": "Mas o que há de errado com esse cara…",
+      "SPANISH": "Pero qué le pasa a este tipo…",
+      "PERSIAN": "مراقب دهانت باش"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 24.8
+    },
+    "SCRIPT": {
+      "KOREAN": "모델 계약서?",
+      "ENGLISH": "A model contract?",
+      "CHINESE_SIMPLIFIED": "模特合约？",
+      "CHINESE_TRADITIONAL": "模特兒合約？",
+      "JAPANESE": "モデル契約書？",
+      "INDONESIAN": "Kontrak model?",
+      "PORTUGUESE": "Um contrato de modelo?",
+      "SPANISH": "¿Un contrato de modelo?",
+      "PERSIAN": "یک قرارداد نمونه؟"
+    }
+  }
+]

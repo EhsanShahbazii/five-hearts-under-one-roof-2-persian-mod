@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 보고 싶었어요!",
+      "ENGLISH": "Oppa, I missed you!",
+      "CHINESE_SIMPLIFIED": "哥哥人家想死你啦！",
+      "CHINESE_TRADITIONAL": "哥哥我好想你啊！",
+      "JAPANESE": "お兄さん会いたかったです!",
+      "INDONESIAN": "Oppa, aku merindukanmu!",
+      "PORTUGUESE": "Oppa, senti tanta saudade!",
+      "SPANISH": "¡Oppa, te extrañé mucho!",
+      "PERSIAN": "یومان دلم برات تنگ شده بود"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "누가 보면 어쩌려고요!",
+      "ENGLISH": "What if someone sees?!",
+      "CHINESE_SIMPLIFIED": "被人看到像什么样子！",
+      "CHINESE_TRADITIONAL": "被其他人看到怎麼辦！",
+      "JAPANESE": "誰かに見られたらどうするんですか!",
+      "INDONESIAN": "Bagaimana jika ada yang melihat?!",
+      "PORTUGUESE": "Se alguém vir a gente, o que vai pensar?!",
+      "SPANISH": "¡Si alguien nos ve, qué van a pensar!",
+      "PERSIAN": "اگه یکی ببینه چی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": " 뭐 어때요!",
+      "ENGLISH": "So what!",
+      "CHINESE_SIMPLIFIED": "有什么关系嘛！",
+      "CHINESE_TRADITIONAL": "又沒有關係！",
+      "JAPANESE": "いいじゃないですか!",
+      "INDONESIAN": "Jadi apa!",
+      "PORTUGUESE": "Ah, que importa!",
+      "SPANISH": "¡Ay, qué importa!",
+      "PERSIAN": "پس چی!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "몸은 이제 괜찮아요? ",
+      "ENGLISH": "Are you feeling better now?",
+      "CHINESE_SIMPLIFIED": "身体现在没事了吗？",
+      "CHINESE_TRADITIONAL": "身體現在沒事了嗎？",
+      "JAPANESE": "体はもう大丈夫ですか?",
+      "INDONESIAN": "Apakah kamu merasa lebih baik sekarang?",
+      "PORTUGUESE": "Como você tá se sentindo?",
+      "SPANISH": "¿Cómo te sientes?",
+      "PERSIAN": "الان احساس بهتری داری؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네 괜찮아요 많이 좋아졌어요 ",
+      "ENGLISH": "Yeah, much better.",
+      "CHINESE_SIMPLIFIED": "嗯没事了，已经好多了",
+      "CHINESE_TRADITIONAL": "嗯，沒事了，已經好多了",
+      "JAPANESE": "はい 元気になりました だいぶ良くなりました",
+      "INDONESIAN": "Ya, jauh lebih baik.",
+      "PORTUGUESE": "Bem melhor, já tô quase novo em folha.",
+      "SPANISH": "Mucho mejor, ya casi estoy como nuevo.",
+      "PERSIAN": "آره خیلی بهتره"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 다시 보니깐 너무 좋네요 ",
+      "ENGLISH": "It’s really nice seeing you again.",
+      "CHINESE_SIMPLIFIED": "能这样再见到你真好",
+      "CHINESE_TRADITIONAL": "能再見到你真好～",
+      "JAPANESE": "こうしてまた会えて嬉しいです",
+      "INDONESIAN": "Senang sekali bertemu denganmu lagi.",
+      "PORTUGUESE": "Fico muito feliz em te ver assim de novo.",
+      "SPANISH": "Me alegra mucho volver a verte así.",
+      "PERSIAN": "واقعاً خوشحالم که دوباره شما را می بینم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "本当に?",
+      "INDONESIAN": "Benar-benar?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "얼만큼 보고 싶었는데요?",
+      "ENGLISH": "How much did you miss me?",
+      "CHINESE_SIMPLIFIED": "有多想人家嘛？",
+      "CHINESE_TRADITIONAL": "有多想我呢？",
+      "JAPANESE": "どれくらい会いたかったんですか?",
+      "INDONESIAN": "Seberapa besar kamu merindukanku?",
+      "PORTUGUESE": "Quanto você sentiu saudade de mim?",
+      "SPANISH": "¿Cuánto me extrañaste?",
+      "PERSIAN": "چقدر دلت برام تنگ شده بود"
+    }
+  }
+]

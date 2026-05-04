@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "반갑습니다....",
+      "ENGLISH": "Nice to meet you…",
+      "CHINESE_SIMPLIFIED": "幸会幸会...",
+      "CHINESE_TRADITIONAL": "你好，很高興認識你...",
+      "JAPANESE": "はじめまして……",
+      "INDONESIAN": "Salam kenal…",
+      "PORTUGUESE": "Muito prazer…",
+      "SPANISH": "Mucho gusto…",
+      "PERSIAN": "از آشنایی با شما خوشحالم…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 모르는 게 있으면 편~하게 물어봐요! 편~하게!",
+      "ENGLISH": "Yeah, if there’s anything you don’t know, feel free to ask! Really, feel free!",
+      "CHINESE_SIMPLIFIED": "嗯，有什么不懂的尽管~问我！尽管~问！",
+      "CHINESE_TRADITIONAL": "好，有什麼不懂的就儘管～放～心～的～問吧！不用擔心～",
+      "JAPANESE": "はい、何か分からないことがあったら遠慮なく聞いてくださいね！気軽～に！",
+      "INDONESIAN": "Iya, kalau ada yang nggak kamu ngerti, tanya aja ya! Serius, jangan sungkan!",
+      "PORTUGUESE": "Qualquer coisa que você não souber, pode me perguntar sem medo, tá bem?",
+      "SPANISH": "Cualquier cosa que no sepas, pregúntame con toda confianza, ¿de acuerdp?",
+      "PERSIAN": "بله، اگر چیزی وجود دارد که نمی دانید، در صورت تمایل بپرسید! واقعاً خیالت راحت!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 여러모로 공통점이 있는 거 같으니까.",
+      "ENGLISH": "It seems like we have a lot in common.",
+      "CHINESE_SIMPLIFIED": "我们各方面好像都有共同点呢",
+      "CHINESE_TRADITIONAL": "畢竟我們在很多地方好像都有共同點呢",
+      "JAPANESE": "僕たち、いろいろ共通点があるみたいですし",
+      "INDONESIAN": "Kayaknya kita punya banyak kesamaan.",
+      "PORTUGUESE": "Parece que temos bastante coisa em comum, não acha?",
+      "SPANISH": "Parece que tenemos muchas cosas en común, ¿no crees?",
+      "PERSIAN": "به نظر می رسد که ما نقاط مشترک زیادی داریم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아씨...민정 님 사생이 내 사수라니...",
+      "ENGLISH": "Ugh… Min-jung’s sasaeng fan is my mentor…",
+      "CHINESE_SIMPLIFIED": "我靠...敏静的私生饭居然是我直属上司...",
+      "CHINESE_TRADITIONAL": "可惡... 敏靜的私生飯竟然是我的直屬上司",
+      "JAPANESE": "くそっ…ミンジョンさんの私生活を追うファンが俺の教育係だなんて…",
+      "INDONESIAN": "Ugh… mentorku ternyata fans obsesifnya Min-jung juga…",
+      "PORTUGUESE": "Não pode ser… o stalker da Minjung é o meu supervisor...",
+      "SPANISH": "No puede ser… el stalker de Minjung es mi supervisor...",
+      "PERSIAN": "اوه… طرفدار ساسانگ مین‌جونگ مربی من است…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "내 사수라니...!",
+      "ENGLISH": "My mentor…?!",
+      "CHINESE_SIMPLIFIED": "居然是我上司...！",
+      "CHINESE_TRADITIONAL": "怎麼會是我的直屬上司啊...!",
+      "JAPANESE": "俺の…教育係だなんて…！",
+      "INDONESIAN": "Mentorku…?!",
+      "PORTUGUESE": "Meu supervisor...",
+      "SPANISH": "Mi supervisor...",
+      "PERSIAN": "مربی من…؟!"
+    }
+  }
+]

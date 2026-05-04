@@ -1,0 +1,315 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐 사야하더라",
+      "ENGLISH": "Hmm, what was I supposed to buy…",
+      "CHINESE_SIMPLIFIED": "啊，我要买什么来着？",
+      "CHINESE_TRADITIONAL": "喔...我要買什麼啊？",
+      "JAPANESE": "えっと、何買うんだっけ",
+      "INDONESIAN": "Hmm, tadi aku harus beli apa ya…",
+      "PORTUGUESE": "Vamos ver… o que eu tinha que comprar mesmo?",
+      "SPANISH": "A ver… ¿qué tenía que comprar?",
+      "PERSIAN": "هوم، قرار بود چی بخرم…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "휴지랑, 세제랑, 소시지랑 ",
+      "ENGLISH": "Toilet paper, detergent, sausages…",
+      "CHINESE_SIMPLIFIED": "纸巾、洗衣液、香肠...",
+      "CHINESE_TRADITIONAL": "衛生紙、洗衣精、香腸，還有...",
+      "JAPANESE": "ティッシュに、洗剤に、ソーセージに…",
+      "INDONESIAN": "Tisu toilet, deterjen, sosis…",
+      "PORTUGUESE": "Papel, detergente e salsichas…",
+      "SPANISH": "Papel, detergente y salchichas…",
+      "PERSIAN": "دستمال توالت، مواد شوینده، سوسیس و …"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Oh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "あっ？",
+      "INDONESIAN": "Oh?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "اوه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 오늘 바빠요?",
+      "ENGLISH": "Yuman — are you busy today?",
+      "CHINESE_SIMPLIFIED": "宥万，今天忙吗？",
+      "CHINESE_TRADITIONAL": "宥萬，今天忙嗎？",
+      "JAPANESE": "ユマンさん、今日忙しい？",
+      "INDONESIAN": "Yuman — kamu sibuk nggak hari ini?",
+      "PORTUGUESE": "Yumán, você tá ocupado hoje?",
+      "SPANISH": "¿Yumán, estás ocupado hoy?",
+      "PERSIAN": "یومان - امروز سرت شلوغ است؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨!",
+      "ENGLISH": "Yu-na!",
+      "CHINESE_SIMPLIFIED": "有娜！",
+      "CHINESE_TRADITIONAL": "有娜！",
+      "JAPANESE": "ユナさん！",
+      "INDONESIAN": "Yu-na!",
+      "PORTUGUESE": "Yuna!",
+      "SPANISH": "¡Yuna!",
+      "PERSIAN": "یونا!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 저 뭐 사러 가는 길이긴 한데.",
+      "ENGLISH": "Ah, I’m actually on my way to buy a few things.",
+      "CHINESE_SIMPLIFIED": "啊，我正好在买东西的路上",
+      "CHINESE_TRADITIONAL": "啊，我正好在去買東西的路上",
+      "JAPANESE": "あ、ちょうど買い物に行くところなんですけど",
+      "INDONESIAN": "Ah, aku lagi mau belanja beberapa barang sih.",
+      "PORTUGUESE": "Ah, eu só ia comprar umas coisinhas.",
+      "SPANISH": "Ah, iba justo a comprar unas cosas.",
+      "PERSIAN": "آه، من واقعاً در راه هستم تا چند چیز بخرم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 나랑 데이트 어때요?",
+      "ENGLISH": "How about a date with me today?",
+      "CHINESE_SIMPLIFIED": "今天跟我约会怎么样？",
+      "CHINESE_TRADITIONAL": "今天跟我去約會如何？",
+      "JAPANESE": "今日、私とデートしませんか？",
+      "INDONESIAN": "Gimana kalau kencan sama aku hari ini?",
+      "PORTUGUESE": "Que tal se a gente sair pra um encontro hoje?",
+      "SPANISH": "¿Qué te parece si hoy salimos en una cita?",
+      "PERSIAN": "امروز با من قرار گذاشتن چطور؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 88.3,
+      "HIDE": 89.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나 여기 누구랑 같이 온 거 ",
+      "ENGLISH": "You’re the first person",
+      "CHINESE_SIMPLIFIED": "这里我还是第一次",
+      "CHINESE_TRADITIONAL": "這裡我還是第一次",
+      "JAPANESE": "ここに誰かと来たの",
+      "INDONESIAN": "Kamu orang pertama",
+      "PORTUGUESE": "Você é a primeira pessoa",
+      "SPANISH": "Eres la primera persona",
+      "PERSIAN": "شما اولین نفر هستید"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 89.9,
+      "HIDE": 91.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 처음이에요!",
+      "ENGLISH": "I’ve ever come here with, Yuman.",
+      "CHINESE_SIMPLIFIED": "带别人一起来呢！",
+      "CHINESE_TRADITIONAL": "帶別人一起來呢！",
+      "JAPANESE": "ユマンさんが初めてなんです！",
+      "INDONESIAN": "yang pernah aku ajak ke sini, Yuman.",
+      "PORTUGUESE": "com quem eu venho aqui.",
+      "SPANISH": "con la que vengo aquí.",
+      "PERSIAN": "من تا به حال با یومان به اینجا آمده ام."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 91.7,
+      "HIDE": 92.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんとですか？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 93.0,
+      "HIDE": 94.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니깐 영광인 줄 알아요.",
+      "ENGLISH": "So consider it an honor.",
+      "CHINESE_SIMPLIFIED": "所以要知道这是你的荣幸哦",
+      "CHINESE_TRADITIONAL": "要知道這是你的榮幸喔",
+      "JAPANESE": "だから、光栄に思ってくださいね",
+      "INDONESIAN": "Jadi anggap aja itu kehormatan.",
+      "PORTUGUESE": "Então se considera sortudo.",
+      "SPANISH": "Así que considérate afortunado.",
+      "PERSIAN": "پس اونو افتخار بدانید."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 95.4,
+      "HIDE": 96.3
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요 ",
+      "ENGLISH": "Thank you.",
+      "CHINESE_SIMPLIFIED": "谢谢你",
+      "CHINESE_TRADITIONAL": "謝謝你",
+      "JAPANESE": "ありがとう",
+      "INDONESIAN": "Makasih.",
+      "PORTUGUESE": "Obrigado.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "ممنونم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 96.5,
+      "HIDE": 97.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 유나 씨 덕에",
+      "ENGLISH": "Thanks to you today, Yu-na —",
+      "CHINESE_SIMPLIFIED": "今天托有娜的福",
+      "CHINESE_TRADITIONAL": "今天托你的福",
+      "JAPANESE": "今日ユナさんのおかげで",
+      "INDONESIAN": "Berkat kamu hari ini, Yu-na —",
+      "PORTUGUESE": "Hoje, graças a você,",
+      "SPANISH": "Hoy, gracias a ti,",
+      "PERSIAN": "امروز با تشکر از شما، یو نا -"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 97.5,
+      "HIDE": 99.4
+    },
+    "SCRIPT": {
+      "KOREAN": "벚꽃도 보고 드라이브도 하고.",
+      "ENGLISH": "I got to see cherry blossoms and go on a drive.",
+      "CHINESE_SIMPLIFIED": "既赏了樱花又兜了风",
+      "CHINESE_TRADITIONAL": "不但兜風，還看了櫻花",
+      "JAPANESE": "桜も見れたしドライブもできたし",
+      "INDONESIAN": "aku bisa lihat bunga sakura dan jalan-jalan bareng.",
+      "PORTUGUESE": "pude ver as cerejeiras e aproveitar o passeio de carro.",
+      "SPANISH": "pude ver los cerezos y disfrutar del paseo en auto.",
+      "PERSIAN": "باید شکوفه های گیلاس را ببینم و به رانندگی بروم."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 99.7,
+      "HIDE": 100.5
+    },
+    "SCRIPT": {
+      "KOREAN": "말로만?",
+      "ENGLISH": "Just saying that with words?",
+      "CHINESE_SIMPLIFIED": "光用嘴说感谢吗？",
+      "CHINESE_TRADITIONAL": "只是嘴巴上說謝謝嗎？",
+      "JAPANESE": "言葉だけ？",
+      "INDONESIAN": "Cuma ngomong doang gitu?",
+      "PORTUGUESE": "E como vai me agradecer por isso?",
+      "SPANISH": "¿Y como me lo vas a agradecer?",
+      "PERSIAN": "فقط با کلمات گفتن؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 101.4,
+      "HIDE": 101.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "诶？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 110.6,
+      "HIDE": 113.1
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 나랑만 쭉 데이트 해줄 거예요?",
+      "ENGLISH": "From now on… will you go on dates only with me?",
+      "CHINESE_SIMPLIFIED": "以后要一直只和我约会哦？",
+      "CHINESE_TRADITIONAL": "以後要一直和我約會嗎？",
+      "JAPANESE": "これからは、ずっと私とだけデートしてくれますよね？",
+      "INDONESIAN": "Mulai sekarang… kamu cuma mau kencan sama aku, kan?",
+      "PORTUGUESE": "A partir de agora… quer namorar comigo?",
+      "SPANISH": "A partir de ahora... ¿quieres salir conmigo?",
+      "PERSIAN": "از این به بعد... فقط با من قرار می گذاری؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 113.5,
+      "HIDE": 113.7
+    }
+  }
+]

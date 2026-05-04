@@ -1,0 +1,109 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 선생님 손 사이즈가 궁금해요.",
+      "ENGLISH": "I was wondering about your hand size.",
+      "CHINESE_SIMPLIFIED": "我想知道医生的手有多大",
+      "CHINESE_TRADITIONAL": "我想知道醫生的手有多大",
+      "JAPANESE": "先生の手のサイズが気になるんです",
+      "INDONESIAN": "Saya penasaran sama ukuran tangan dokter.",
+      "PORTUGUESE": "Eu estava pensando no tamanho da sua mão.",
+      "SPANISH": "Tengo curiosidad por el tamaño de su mano.",
+      "PERSIAN": "من راستش درباره سایز دست‌تون کنجکاو بودم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "제 손 사이즈요? ",
+      "ENGLISH": "My hands?",
+      "CHINESE_SIMPLIFIED": "我的手吗？",
+      "CHINESE_TRADITIONAL": "我的手嗎？",
+      "JAPANESE": "私の手のサイズですか？",
+      "INDONESIAN": "Ukuran tanganku?",
+      "PORTUGUESE": "Minhas mãos?",
+      "SPANISH": "¿El tamaño de mi mano?",
+      "PERSIAN": "سایز دستم؟! چرا اونوقت؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 왜 궁금하시죠?",
+      "ENGLISH": "And why’s that?",
+      "CHINESE_SIMPLIFIED": "为什么会好奇这个呢？",
+      "CHINESE_TRADITIONAL": "為什麼會好奇那個？",
+      "JAPANESE": "それ、どうして気になるんですか？",
+      "INDONESIAN": "Kenapa kamu penasaran soal itu?",
+      "PORTUGUESE": "Por quê?",
+      "SPANISH": "¿Por qué le da curiosidad?",
+      "PERSIAN": "چرا اصلاً باید براتون جالب باشه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오... 엄청 작으시네요.",
+      "ENGLISH": "They’re tiny.",
+      "CHINESE_SIMPLIFIED": "因为你的手真的好小啊",
+      "CHINESE_TRADITIONAL": "因為你的手真的好小一隻",
+      "JAPANESE": "おお…すごく小さいですね",
+      "INDONESIAN": "Oh... kecil banget, ya.",
+      "PORTUGUESE": "São pequenas.",
+      "SPANISH": "Oh... son muy pequeñas.",
+      "PERSIAN": "واو... واقعاً چقدر کوچولوئه."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 쥐면 선생님 손 다 덮을 수 있을 거 같아요.",
+      "ENGLISH": "If I hold them like this, I could cover your whole hand.",
+      "CHINESE_SIMPLIFIED": "这样握的话，好像能把医生的手完全包住",
+      "CHINESE_TRADITIONAL": "這樣握起來，好像可以把你的手完全包住",
+      "JAPANESE": "こうやって握ったら、先生の手が全部隠れそうです",
+      "INDONESIAN": "Kayaknya kalau aku genggam gini, tangan dokter bisa ketutupan semua.",
+      "PORTUGUESE": "Se eu segurar assim, consigo cobrir sua mão inteira.",
+      "SPANISH": "Si cierro así la mano, creo que podría cubrir por completo la suya.",
+      "PERSIAN": "اگه اینطوری دستتونو بگیرم، قشنگ کل دستتون زیر دستم گم می‌شه."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아.. 유, 유만 씨 손이 크신 거예요.",
+      "ENGLISH": "Oh, that's because your hands are big, Mr. Yuman",
+      "CHINESE_SIMPLIFIED": "啊…那、那是因为宥万先生的手比较大啦",
+      "CHINESE_TRADITIONAL": "啊…那、那是宥萬先生的手太大了啦",
+      "JAPANESE": "あ…ユ、ユマンさんの手が大きいんですよ",
+      "INDONESIAN": "Ah... i-i-itu karena tangan Pak Yuman yang besar deh.",
+      "PORTUGUESE": "Sr. Yuman, suas mãos é que são grandes.",
+      "SPANISH": "A-ah... lo-lo que pasa es que tiene manos grandes, señor Yumán.",
+      "PERSIAN": "آ... آقای یـ... یومان، دستای خودتون زیادی بزرگه خب..."
+    }
+  }
+]

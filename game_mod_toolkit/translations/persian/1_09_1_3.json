@@ -1,0 +1,55 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 이게 뭐야..?",
+      "ENGLISH": "Huh? What’s this…?",
+      "CHINESE_SIMPLIFIED": "咦？这是什么…？",
+      "CHINESE_TRADITIONAL": "欸？這是什麼…？",
+      "JAPANESE": "えっ？これ何だ…？",
+      "INDONESIAN": "Eh? Ini apaan...?",
+      "PORTUGUESE": "Hã? O que é isso…?",
+      "SPANISH": "¿Eh? ¿Qué es esto…?",
+      "PERSIAN": "عه؟ این چیه دیگه این وسط...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "팬티..?",
+      "ENGLISH": "Underwear…?",
+      "CHINESE_SIMPLIFIED": "内、内裤…？",
+      "CHINESE_TRADITIONAL": "內、內褲…？",
+      "JAPANESE": "パンツ…？",
+      "INDONESIAN": "Celana dalam...?",
+      "PORTUGUESE": "Roupa íntima…?",
+      "SPANISH": "¿Ropa interior…?",
+      "PERSIAN": "لباس زیر زنونه...؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 이런 게 왜 여기 있어?",
+      "ENGLISH": "Why the hell is something like this here?",
+      "CHINESE_SIMPLIFIED": "不是吧，这东西怎么会在这儿？",
+      "CHINESE_TRADITIONAL": "不是吧，這種東西怎麼會在這裡？",
+      "JAPANESE": "いや、なんでこんなものがここにあるんだ？",
+      "INDONESIAN": "Kenapa bisa ada ini di sini?",
+      "PORTUGUESE": "Por que diabos algo assim tá aqui?",
+      "SPANISH": "¿Qué demonios hace esto aquí?",
+      "PERSIAN": "آخه این خراب‌شده چرا باید شورت زنونه بیفته زمین؟!"
+    }
+  }
+]

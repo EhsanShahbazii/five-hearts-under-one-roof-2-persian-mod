@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.9
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 물이요.",
+      "ENGLISH": "Here’s some water.",
+      "CHINESE_SIMPLIFIED": "给你水",
+      "CHINESE_TRADITIONAL": "水在這邊",
+      "JAPANESE": "はい お水です",
+      "INDONESIAN": "Ini airnya.",
+      "PORTUGUESE": "Toma, é água.",
+      "SPANISH": "Toma , es agua.",
+      "PERSIAN": "اینم مقداری آب"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "수영 알려줘서 고마워요.",
+      "ENGLISH": "Thanks for teaching me how to swim.",
+      "CHINESE_SIMPLIFIED": "谢谢你教我游泳",
+      "CHINESE_TRADITIONAL": "謝謝你教我游泳",
+      "JAPANESE": "水泳教えてくれてありがとう",
+      "INDONESIAN": "Terima kasih telah mengajariku berenang.",
+      "PORTUGUESE": "Obrigada por me ensinar a nadar.",
+      "SPANISH": "Gracias por enseñarme a nadar.",
+      "PERSIAN": "ممنون که به من یاد دادی چگونه شنا کنم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네~",
+      "ENGLISH": "No problem~",
+      "CHINESE_SIMPLIFIED": "嗯~",
+      "CHINESE_TRADITIONAL": "不會～",
+      "JAPANESE": "は〜い",
+      "INDONESIAN": "Tidak masalah~",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "مشکلی نیست~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 수영도 했겠다.",
+      "ENGLISH": "Well, now that we’ve swum...",
+      "CHINESE_SIMPLIFIED": "那现在泳也游得差不多了",
+      "CHINESE_TRADITIONAL": "那我們游完泳了",
+      "JAPANESE": "じゃあ泳いだことだし",
+      "INDONESIAN": "Baiklah, sekarang setelah kita berenang...",
+      "PORTUGUESE": "Agora que já nadamos,",
+      "SPANISH": "Ahora que ya nadamos",
+      "PERSIAN": "خب حالا که شنا کردیم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "밥 먹으러 갈까요?",
+      "ENGLISH": "Shall we grab some food?",
+      "CHINESE_SIMPLIFIED": "去吃饭吗？",
+      "CHINESE_TRADITIONAL": "去吃飯吧？",
+      "JAPANESE": "ご飯食べに行きますか?",
+      "INDONESIAN": "Bagaimana kalau kita ambil makanan?",
+      "PORTUGUESE": "quer ir comer alguma coisa?",
+      "SPANISH": "¿quieres ir a comer?",
+      "PERSIAN": "غذا بگیریم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 밥은 제가 쏠게요!",
+      "ENGLISH": "Then it’s on me!",
+      "CHINESE_SIMPLIFIED": "那这顿饭我请了！",
+      "CHINESE_TRADITIONAL": "我來請客！",
+      "JAPANESE": "じゃあ ご飯は俺がおごります!",
+      "INDONESIAN": "Kalau begitu, terserah aku!",
+      "PORTUGUESE": "Eu pago!",
+      "SPANISH": "¡Yo invito!",
+      "PERSIAN": "سپس اونو به من!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "굳!",
+      "ENGLISH": "Nice!",
+      "CHINESE_SIMPLIFIED": "好耶！",
+      "CHINESE_TRADITIONAL": "沒問題！",
+      "JAPANESE": "グット！",
+      "INDONESIAN": "Bagus!",
+      "PORTUGUESE": "Good!",
+      "SPANISH": "¡Good!",
+      "PERSIAN": "خوب!"
+    }
+  }
+]

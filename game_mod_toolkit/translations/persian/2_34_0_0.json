@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐 입고 나가지??",
+      "ENGLISH": "Ugh, what should I wear...?",
+      "CHINESE_SIMPLIFIED": "该穿什么出去呢？",
+      "CHINESE_TRADITIONAL": "嗯，我要穿什麼出門啊？",
+      "JAPANESE": "あー 何着て行こうかな??",
+      "INDONESIAN": "Ugh, apa yang harus aku pakai...?",
+      "PORTUGUESE": "O que eu visto pra sair...?",
+      "SPANISH": "¿Qué me pongo para salir…?",
+      "PERSIAN": "اوه چی بپوشم..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "검은색은 너무 화려한가 아...너무 꾸미나?",
+      "ENGLISH": "Is black too flashy? Am I trying too hard...?",
+      "CHINESE_SIMPLIFIED": "黑色会不会太花哨了啊...还是太刻意打扮了？",
+      "CHINESE_TRADITIONAL": "黑色會不會太花俏？看起來會太刻意了嗎？",
+      "JAPANESE": "黒はちょっと派手すぎるか…いや飾りすぎかな?",
+      "INDONESIAN": "Apakah hitam terlalu mencolok? Apakah aku berusaha terlalu keras...?",
+      "PORTUGUESE": "O preto? Não, muito elegante... será que tô me arrumando demais?",
+      "SPANISH": "¿El negro? No, muy elegante… ¿será que me estoy arreglando demasiado?",
+      "PERSIAN": "مشکی خیلی زرق و برق دار است؟ خیلی تلاش میکنم...؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "야 우유만~",
+      "ENGLISH": "Hey, Yuman~",
+      "CHINESE_SIMPLIFIED": "喂，吴宥万~",
+      "CHINESE_TRADITIONAL": "喂，吳宥萬～",
+      "JAPANESE": "お～い ユマン〜",
+      "INDONESIAN": "Hai, Yuman~",
+      "PORTUGUESE": "Ei, Yuman~!",
+      "SPANISH": "¡Oye, Yumán~!",
+      "PERSIAN": "هی، یومان~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 깜짝이야! 아..노크는 좀 하고 들어와야지!",
+      "ENGLISH": "Whoa! You scared me! Ever heard of knocking?!",
+      "CHINESE_SIMPLIFIED": "啊吓死我了！啊..进来之前好歹敲个门啊！",
+      "CHINESE_TRADITIONAL": "啊，嚇我一跳！拜託…敲個門再進來好嗎！",
+      "JAPANESE": "うわっ! 驚いた…ノックくらいして入ってこいよ!",
+      "INDONESIAN": "Wah! Kamu bikin aku takut! Pernah dengar istilah mengetuk?!",
+      "PORTUGUESE": "Ah, que susto! Bate na porta antes de entrar!",
+      "SPANISH": "¡Ah, me asustaste! ¡Toca la puerta antes de entrar!",
+      "PERSIAN": "وای تو منو ترسوندی! تا به حال در مورد در زدن شنیده اید؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오 뭐야 깁스 풀었네?? 근데 뭐 약속 있어?",
+      "ENGLISH": "Whoa, look at that—cast is off! Got plans or something?",
+      "CHINESE_SIMPLIFIED": "哦，什么呀，石膏拆掉了？不过你是有约了吗？",
+      "CHINESE_TRADITIONAL": "咦？搞什麼，你去拆石膏了？不過你今天有約嗎？",
+      "JAPANESE": "あっ 何だ ギプス外したんだ? でも用事でもあるの?",
+      "INDONESIAN": "Wah, lihat itu—gipsnya dilepas! Ada rencana atau apa?",
+      "PORTUGUESE": "Oh, já tiraram o gesso. Tem algum plano ou o quê?",
+      "SPANISH": "Oh, ya te quitaron el yeso. ¿Tienes algún plan o qué?",
+      "PERSIAN": "اوه، به اون نگاه کن - بازیگران خاموش است! برنامه هایی دارید یا چیزی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어 나 민정 님 콘서트 간다~",
+      "ENGLISH": "Yeah, I’m going to Min-jung’s concert!",
+      "CHINESE_SIMPLIFIED": "嗯，我要去看敏静的演唱会~",
+      "CHINESE_TRADITIONAL": "哦，我要去看敏靜的演唱會",
+      "JAPANESE": "ああ 俺 ミンジョンさんのコンサート行くんだ〜",
+      "INDONESIAN": "Ya, aku akan pergi ke konser Min-jung!",
+      "PORTUGUESE": "Sim, vou ao show da Minjung.",
+      "SPANISH": "Sí, voy al concierto de Minjung.",
+      "PERSIAN": "بله، من به کنسرت مین‌جونگ می روم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "엥? 갑자기? 거기 가지 말고 나랑 놀아~ ",
+      "ENGLISH": "Huh? Out of nowhere? Skip that and hang out with me instead!",
+      "CHINESE_SIMPLIFIED": "诶？突然要去？别去那儿了陪我玩嘛~",
+      "CHINESE_TRADITIONAL": "欸～？不要去，跟我玩啦～",
+      "JAPANESE": "え? 急に? そこ行かないで私と遊ぼうよ〜",
+      "INDONESIAN": "Hah? Tiba-tiba? Lewati saja dan nongkrong bareng aku saja!",
+      "PORTUGUESE": "Hã? Assim, do nada? Não vai, não. Vamos sair juntos.",
+      "SPANISH": "¿Eh? ¿Así de repente? No vayas, mejor salgamos.",
+      "PERSIAN": "ها؟ از هیچ جا؟ از اون بگذر و در عوض با من معاشرت کن!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 24.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오랜만에 학교 앞 분식집 떡볶이도 먹자 ",
+      "ENGLISH": "Let’s get tteokbokki at that snack place by school—been forever!",
+      "CHINESE_SIMPLIFIED": "好久没去吃学校门口的那家辣炒年糕了",
+      "CHINESE_TRADITIONAL": "我們去吃好久沒吃的學校門口那家辣炒年糕吧！",
+      "JAPANESE": "久しぶりに学校前の屋台でトッポッキでも食べようよ",
+      "INDONESIAN": "Yuk, makan tteokbokki di tempat jajanan dekat sekolah—sudah lama banget!",
+      "PORTUGUESE": "Faz tempo que a gente não come tteokbokki em frente à escola.",
+      "SPANISH": "Hace mucho que no comemos el tteokbokki en frente de la escuela.",
+      "PERSIAN": "بیایید در اون مکان میون‌وعده با مدرسه تئوک‌بوکی بگیریم - برای همیشه!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨! 바빠요?",
+      "ENGLISH": "Yuman! You busy?",
+      "CHINESE_SIMPLIFIED": "宥万先生！你在忙吗？",
+      "CHINESE_TRADITIONAL": "宥萬先生，你在忙嗎？",
+      "JAPANESE": "ユマンさん! 忙しいですか?",
+      "INDONESIAN": "Yuman! Kamu sibuk?",
+      "PORTUGUESE": "Yuman! Tá ocupado?",
+      "SPANISH": "¡Yumán! ¿Estás ocupado?",
+      "PERSIAN": "یومان! مشغولی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 왜요?",
+      "ENGLISH": "Huh? Why?",
+      "CHINESE_SIMPLIFIED": "嗯？怎么了？",
+      "CHINESE_TRADITIONAL": "怎麼了嗎？",
+      "JAPANESE": "え? なんでですか?",
+      "INDONESIAN": "Hah? Kenapa?",
+      "PORTUGUESE": "Hã? Por quê?",
+      "SPANISH": "¿Eh? ¿Por qué?",
+      "PERSIAN": "ها؟ چرا؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 나랑 놀아요!",
+      "ENGLISH": "Hang out with me today!",
+      "CHINESE_SIMPLIFIED": "今天陪我玩吧！",
+      "CHINESE_TRADITIONAL": "今天跟我出去玩吧！",
+      "JAPANESE": "今日 私と遊びましょう!",
+      "INDONESIAN": "Nongkrong bareng aku hari ini!",
+      "PORTUGUESE": "Sai comigo hoje!",
+      "SPANISH": "¡Sal conmigo hoy!",
+      "PERSIAN": "امروز با من بگذر!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 32.9
+    },
+    "SCRIPT": {
+      "KOREAN": "허, 저 안 보여요? 제가 이야기 중이잖아요",
+      "ENGLISH": "Uh, excuse me? Can’t you see we’re talking here?",
+      "CHINESE_SIMPLIFIED": "喂，看不见我吗？我正说着话呢",
+      "CHINESE_TRADITIONAL": "呵，妳沒看到我嗎？我正在跟他說話耶",
+      "JAPANESE": "はぁ? 私が喋ってるの見えないんですか?",
+      "INDONESIAN": "Eh, permisi? Kamu nggak lihat kita lagi ngobrol di sini?",
+      "PORTUGUESE": "Você não tá vendo que estamos no meio de uma conversa?",
+      "SPANISH": "¿Acaso no ve que estamos en medio de una conversación?",
+      "PERSIAN": "اوه، ببخشید؟ نمیبینی اینجا داریم حرف میزنیم؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 32.9,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 나랑 놀아",
+      "ENGLISH": "Yuman~ hang out with me!",
+      "CHINESE_SIMPLIFIED": "吴宥万，陪我玩！",
+      "CHINESE_TRADITIONAL": "吳宥萬，陪我玩！",
+      "JAPANESE": "ユマン 私と遊びましょう",
+      "INDONESIAN": "Yuman~ nongkrong bareng aku!",
+      "PORTUGUESE": "Yuman, sai comigo!",
+      "SPANISH": "¡Yumán, sal conmigo!",
+      "PERSIAN": "یومان ~ با من معاشرت کن!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 38.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어제 늦~게 들어오시더니 바쁘지 않으세요? ",
+      "ENGLISH": "Didn’t you come home super late last night? And now you’re not busy?",
+      "CHINESE_SIMPLIFIED": "昨天这~么晚才回来，不是很忙吗？",
+      "CHINESE_TRADITIONAL": "昨天那麼～晚才回來，你不會累嗎？",
+      "JAPANESE": "昨日 遅～く帰ってきて忙しくないんですか?",
+      "INDONESIAN": "Bukankah kamu pulang larut malam tadi? Dan sekarang kamu tidak sibuk?",
+      "PORTUGUESE": "Você não tá ocupada? Chegou supertarde ontem à noite...",
+      "SPANISH": "¿Usted no está ocupada? Con lo tarde que llegó anoche...",
+      "PERSIAN": "دیشب خیلی دیر به خونه نیامدی؟ و الان مشغول نیستی؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.2,
+      "HIDE": 40.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 나랑 놀아요!",
+      "ENGLISH": "Yuman! Come hang out with me!",
+      "CHINESE_SIMPLIFIED": "宥万先生，陪我玩嘛！",
+      "CHINESE_TRADITIONAL": "宥萬先生，陪我玩啦！",
+      "JAPANESE": "ユマンさん 私と遊びましょう!",
+      "INDONESIAN": "Yuman! Ayo nongkrong bareng aku!",
+      "PORTUGUESE": "Yuman, sai comigo!",
+      "SPANISH": "¡Yumán, sal conmigo!",
+      "PERSIAN": "یومان! بیا با من معاشرت کن!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 41.2,
+      "HIDE": 44.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 나 민정 님 콘서트 가야 되는데, 어떡하지?",
+      "ENGLISH": "Ahh... but I have Min-jung’s concert... what do I do...?",
+      "CHINESE_SIMPLIFIED": "啊...我得去敏静的演唱会啊，这可怎么办...",
+      "CHINESE_TRADITIONAL": "呃…我要去敏靜的演唱會耶，怎麼辦…",
+      "JAPANESE": "ああ…俺 ミンジョンさんのコンサート行かなきゃなんだけど どうしよう…",
+      "INDONESIAN": "Ahh... tapi aku ada konser Min-jung... apa yang harus kulakukan...?",
+      "PORTUGUESE": "Ah... mas eu tenho que ir ao show da Minjung. E agora, o que eu faço?",
+      "SPANISH": "Ah… pero tengo que ir al concierto de Minjung. ¿Qué hago ahora?",
+      "PERSIAN": "آهان... اما کنسرت مین‌جونگ را دارم... چیکار کنم...؟"
+    }
+  }
+]

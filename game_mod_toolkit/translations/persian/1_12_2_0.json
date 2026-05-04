@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "크흠.. 그래도 힘내요.",
+      "ENGLISH": "Hmm… still, hang in there.",
+      "CHINESE_SIMPLIFIED": "哎，别灰心嘛！\t",
+      "CHINESE_TRADITIONAL": "嗯。不過還是加油吧",
+      "JAPANESE": "うーん、でも元気を出してください",
+      "INDONESIAN": "Hmm. Tapi tetap semangat, ya.",
+      "PORTUGUESE": "Tsc... Mas sério, isso é mesmo pra comer?",
+      "SPANISH": "¡No te desanimes!",
+      "PERSIAN": "هوم... با این حال، قوی باش و کم نیار."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 옆에서 도와주면",
+      "ENGLISH": "If I stay by your side…",
+      "CHINESE_SIMPLIFIED": "如果我一直陪在你身边的话...\t",
+      "CHINESE_TRADITIONAL": "如果在旁邊幫助你的話",
+      "JAPANESE": "私がそばで助ければ",
+      "INDONESIAN": "Kalau aku ada di samping kamu,",
+      "PORTUGUESE": "Tá tão apimentado assim?",
+      "SPANISH": "Si estoy contigo...",
+      "PERSIAN": "منم کنارت می‌مونم و کمکت می‌کنم،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 이 슬픔을 둘이 나눠 가질 수 있지 않을까요?",
+      "ENGLISH": "Maybe we can share this sadness between us.",
+      "CHINESE_SIMPLIFIED": "是不是就可以一起分担这份悲伤了呢？        ",
+      "CHINESE_TRADITIONAL": "是不是就可以一起分擔這份悲傷了呢？",
+      "JAPANESE": "この悲しみを二人で分かち合えるんじゃないでしょうか？",
+      "INDONESIAN": "bukannya kita bisa bagi rasa sedih ini berdua?",
+      "PORTUGUESE": "Haha, por isso eu comprei leite junto.",
+      "SPANISH": "la tristeza de divide entre los dos. ¿No crees?",
+      "PERSIAN": "شاید اگه کنارت باشم، این غصه‌ای که داری بین دوتامون تقسیم بشه و سبک‌تر بشی."
+    }
+  }
+]

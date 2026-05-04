@@ -1,0 +1,470 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그 50만 원이 뭔데 이런 짓을 해!",
+      "ENGLISH": "What the hell is that 500 dollar for—doing stuff like this?!",
+      "CHINESE_SIMPLIFIED": "你就为了那两千块钱，做出这种事？",
+      "CHINESE_TRADITIONAL": "50萬算什麼，妳竟為了錢做這種事！",
+      "JAPANESE": "その50万ウォンがなんだってこんなことしてるんだ！",
+      "INDONESIAN": "Uang 500 dolar itu buat apaan sih...buat hal beginian?!",
+      "PORTUGUESE": "O que você acha que tá fazendo por 500.000 won?!",
+      "SPANISH": "¡¿Qué clase de cosas estás haciendo por 500,000 wones?!",
+      "PERSIAN": "این 500 دلار برای چیه که اینجوری کار میکنی؟!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이상한 옷이나 입고 있고!!",
+      "ENGLISH": "Wearing weird clothes and all!!",
+      "CHINESE_SIMPLIFIED": "还穿着奇怪的衣服！！",
+      "CHINESE_TRADITIONAL": "還穿著奇怪的衣服！！",
+      "JAPANESE": "変な服まで着て！！",
+      "INDONESIAN": "Pake baju aneh-aneh pula!!",
+      "PORTUGUESE": "Usando essas roupas estranhas e tudo mais!",
+      "SPANISH": "¡Poniéndote ropa extraña y todo!",
+      "PERSIAN": "پوشیدن لباس های عجیب و غریب و همه چیز!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 이 옷이 뭐 어때서!!!",
+      "ENGLISH": "Hey, what’s wrong with this outfit?!",
+      "CHINESE_SIMPLIFIED": "啊，这衣服怎么了嘛！！！",
+      "CHINESE_TRADITIONAL": "這衣服是哪裡奇怪了！！！",
+      "JAPANESE": "ちょっと この服がなんだっていうの！！！",
+      "INDONESIAN": "Hey, emangnya kenapa sama outfit ini?!",
+      "PORTUGUESE": "E o que tem de errado com a roupa?!",
+      "SPANISH": "¡¿Qué tiene de malo la ropa?!",
+      "PERSIAN": "هی، این لباس چه اشکالی دارد؟!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "안 어울려! 이상해!",
+      "ENGLISH": "It doesn’t suit you! It’s weird!",
+      "CHINESE_SIMPLIFIED": "不合适！很奇怪！",
+      "CHINESE_TRADITIONAL": "不適合你！很奇怪！",
+      "JAPANESE": "似合ってない！変だ！",
+      "INDONESIAN": "Nggak cocok di kamu! Aneh!",
+      "PORTUGUESE": "Não fica bem em você. Tá esquisito!",
+      "SPANISH": "No te queda bien. ¡Se ve raro!",
+      "PERSIAN": "به شما نمی خورد! عجیب است!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 네가 이렇게 나 붙잡고 화내는 게 더 이상하거든?",
+      "ENGLISH": "No, you grabbing me and yelling is weirder, okay?",
+      "CHINESE_SIMPLIFIED": "喂，你抓着我吼才更奇怪吧？",
+      "CHINESE_TRADITIONAL": "你對我發脾氣才更奇怪吧？",
+      "JAPANESE": "あんたがわたしを引き留めて怒る方がよっぽど変だよ",
+      "INDONESIAN": "Nggak, yang lebih aneh tuh kamu narik-narik aku dan teriak-teriak!",
+      "PORTUGUESE": "Não é mais esquisito você me agarrar pelo braço e gritar comigo?!",
+      "SPANISH": "¡¿No es más raro que me agarres del brazo y me grites?!",
+      "PERSIAN": "نه، تو مرا می گیری و فریاد می زنی عجیب تر است، خوب؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 아무것도 모르면서 말 이상하게 하지 마.",
+      "ENGLISH": "Don’t say weird stuff when you don’t even know what’s going on.",
+      "CHINESE_SIMPLIFIED": "什么都不知道就别乱说话",
+      "CHINESE_TRADITIONAL": "你什麼都不知道，不要隨便亂講話",
+      "JAPANESE": "何も知らないくせに変なこと言わないで",
+      "INDONESIAN": "Jangan ngomong aneh kalau kamu aja nggak ngerti apa yang sebenarnya terjadi.",
+      "PORTUGUESE": "Não fala besteira sem saber de nada.",
+      "SPANISH": "No digas tonterías si no sabes nada.",
+      "PERSIAN": "وقتی حتی نمی دانید چه خبره، چیزهای عجیب و غریب نگویید."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 네가 이 상황을 납득시켜 보든가!!",
+      "ENGLISH": "Then you try to make sense of this situation!",
+      "CHINESE_SIMPLIFIED": "那你说服我理解这情况啊！！",
+      "CHINESE_TRADITIONAL": "那妳就解釋清楚，這是什麼情況！！",
+      "JAPANESE": "じゃあお前がこの状況を納得させてみろよ！！",
+      "INDONESIAN": "Kalau gitu, coba kamu jelasin situasi ini!",
+      "PORTUGUESE": "Então me explica o que é essa situação!",
+      "SPANISH": "¡Entonces explícame que es esta situación!",
+      "PERSIAN": "سپس سعی می کنید این وضعیت را درک کنید!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 소리 지르지 마!",
+      "ENGLISH": "Ah, don’t shout!",
+      "CHINESE_SIMPLIFIED": "别大声嚷嚷！",
+      "CHINESE_TRADITIONAL": "拜託，不要大吼大叫！",
+      "JAPANESE": "叫ばないでよ！",
+      "INDONESIAN": "Ah, jangan teriak-teriak dong!",
+      "PORTUGUESE": "Não grita comigo!",
+      "SPANISH": "¡No me grites!",
+      "PERSIAN": "آه، فریاد نزن!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너나 소리 지르지 마! ",
+      "ENGLISH": "Don’t you shout either!",
+      "CHINESE_SIMPLIFIED": "你才别嚷嚷！",
+      "CHINESE_TRADITIONAL": "妳自己才不要吼叫！",
+      "JAPANESE": "お前こそ叫ぶな！",
+      "INDONESIAN": "Kamu juga jangan teriak!",
+      "PORTUGUESE": "Você também tá gritando!",
+      "SPANISH": "¡Tú tampoco me grites!",
+      "PERSIAN": "تو هم فریاد نزن!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너 이거 이모도 아셔??",
+      "ENGLISH": "Are you going to tell Aunt about this?",
+      "CHINESE_SIMPLIFIED": "这事你妈知道吗？？",
+      "CHINESE_TRADITIONAL": "妳媽知道這件事嗎？",
+      "JAPANESE": "これお前のおばさんも知ってるのか？？",
+      "INDONESIAN": "Kamu mau bilang ke Tante soal ini ya?",
+      "PORTUGUESE": "Sua mãe sabe disso?",
+      "SPANISH": "¿Tu madre sabe de esto?",
+      "PERSIAN": "اینو به عمه میگی؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 갑자기 우리 엄마 얘기가 왜 나와.",
+      "ENGLISH": "Why are you bringing up my mom all of a sudden?",
+      "CHINESE_SIMPLIFIED": "怎么突然扯到我妈了？",
+      "CHINESE_TRADITIONAL": "喂，幹嘛突然扯到我媽",
+      "JAPANESE": "いきなり母さんの話どうして出るの",
+      "INDONESIAN": "Kenapa tiba-tiba bawa-bawa mamaku sih?",
+      "PORTUGUESE": "Ah, por que você tá trazendo minha mãe do nada?!",
+      "SPANISH": "Ah, ¿por qué metes a mi mamá de repente?",
+      "PERSIAN": "چرا یکدفعه مامانم رو بزرگ میکنی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너 내가 이모한테 다 이를 거야.",
+      "ENGLISH": "I’m going to tell my aunt everything.",
+      "CHINESE_SIMPLIFIED": "我要去告诉伯母",
+      "CHINESE_TRADITIONAL": "我會把所有事情都告訴阿姨的！",
+      "JAPANESE": "お前 俺が全部おばさんに言いつけてやるからな",
+      "INDONESIAN": "Aku bakal bilang semuanya ke Tante.",
+      "PORTUGUESE": "Vou contar tudo pra ela.",
+      "SPANISH": "Se lo voy a contar todo a tu mamá.",
+      "PERSIAN": "من همه چیز را به عمه ام می گویم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 31.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 말할게! 그니까 좀 들어...",
+      "ENGLISH": "Fine—say it then! Just listen...",
+      "CHINESE_SIMPLIFIED": "我说！你听我说...",
+      "CHINESE_TRADITIONAL": "好好好，我說！你給我聽清楚...",
+      "JAPANESE": "あ 言うから だからちょっと聞いて…",
+      "INDONESIAN": "Ya udah, bilang aja! Tapi dengerin dulu…",
+      "PORTUGUESE": "Ah, eu vou te contar! Mas me escuta primeiro...",
+      "SPANISH": "¡Ya, te voy a contar! Pero escúchame...",
+      "PERSIAN": "خوب - پس بگو! فقط گوش کن..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 33.2
+    },
+    "SCRIPT": {
+      "KOREAN": "후... 뭔데.",
+      "ENGLISH": "...what is it.",
+      "CHINESE_SIMPLIFIED": "呼...怎么回事",
+      "CHINESE_TRADITIONAL": "所以...到底是什麼",
+      "JAPANESE": "はあ…何",
+      "INDONESIAN": "...apa?",
+      "PORTUGUESE": "Me diz, o que é tudo isso?",
+      "SPANISH": "Dime, ¿qué es todo esto?",
+      "PERSIAN": "... چیه"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 35.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아... ",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Uh…",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 40.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 은비... 은비 유학비가 좀 부족해...!",
+      "ENGLISH": "Eun‑bi’s tuition money is a bit short...!",
+      "CHINESE_SIMPLIFIED": "恩妃的留学费不够了...！",
+      "CHINESE_TRADITIONAL": "恩妃留學的費用不夠...！",
+      "JAPANESE": "あ ウンビの留学費がちょっと足りないの…",
+      "INDONESIAN": "Uang kuliahnya Eun-bi kurang…!",
+      "PORTUGUESE": "Ah, é que... eu preciso de dinheiro pra faculdade da Eunbi...!",
+      "SPANISH": "Es que...necesito dinero para la universidad de Eunbi...",
+      "PERSIAN": "پول شهریه یون بی کمی کم است...!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 44.6
+    },
+    "SCRIPT": {
+      "KOREAN": "얼마나 부족한데? 그래서 그걸 네가 다 댈 수 있어?",
+      "ENGLISH": "How short? Are you really planning to cover all of that?",
+      "CHINESE_SIMPLIFIED": "差多少？你就能全填上吗？",
+      "CHINESE_TRADITIONAL": "還差多少？那筆錢是妳負擔得起的嗎？",
+      "JAPANESE": "どれだけ足りないんだよ それをお前が全部出せるのか？",
+      "INDONESIAN": "Kurang berapa? Kamu serius mau nanggung semuanya?",
+      "PORTUGUESE": "Quanto falta? Vai pagar tudo sozinha?",
+      "SPANISH": "¿Cuánto falta? ¿Planeas pagar todo eso tú sola?",
+      "PERSIAN": "چقدر کوتاه واقعاً قصد دارید همه اینا رو پوشش دهید؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 45.1,
+      "HIDE": 47.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그러니까 지금 렌탈 여친 하고 있는 거 아니야?!",
+      "ENGLISH": "So that means you’re doing this “rental girlfriend” stuff now?!",
+      "CHINESE_SIMPLIFIED": "所以我才会来做“租借女友”啊？！",
+      "CHINESE_TRADITIONAL": "所以我現在不就是正在做出租女友嗎？！ ",
+      "JAPANESE": "あ、だから今レンタル彼女やってるの！",
+      "INDONESIAN": "Jadi itu alasan kamu ngelakuin kerjaan “sewaan pacar” ini sekarang?!",
+      "PORTUGUESE": "É por isso que eu trabalho como namorada de aluguel.",
+      "SPANISH": "Es por eso que trabajo como novia de alquiler",
+      "PERSIAN": "پس این بدان معناست که شما اکنون این کار \"دوست دختر اجاره ای\" را انجام می دهید؟!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 48.2,
+      "HIDE": 50.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그냥 여친인 척만 좀 해주면 되는 거라고!",
+      "ENGLISH": "No, I’m just pretending to be a girlfriend for a little while!",
+      "CHINESE_SIMPLIFIED": "就只是假装一下女友而已！",
+      "CHINESE_TRADITIONAL": "就只是假裝一下女朋友而已！",
+      "JAPANESE": "ただ彼女のふりを少ししてくれればいいだけなんだって",
+      "INDONESIAN": "Nggak, aku cuma pura-pura jadi pacar untuk sementara!",
+      "PORTUGUESE": "Só finjo ser a namorada dele por um tempo!",
+      "SPANISH": "¡Solo finjo ser su novia por un rato!",
+      "PERSIAN": "نه، من فقط برای مدت کوتاهی وانمود می کنم که دوست دختر هستم!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 51.9,
+      "HIDE": 53.8
+    },
+    "SCRIPT": {
+      "KOREAN": "너 그거 그만 둬.",
+      "ENGLISH": "Stop that.",
+      "CHINESE_SIMPLIFIED": "你别干了",
+      "CHINESE_TRADITIONAL": "妳給我停手",
+      "JAPANESE": "お前それやめろ",
+      "INDONESIAN": "Berhenti deh.",
+      "PORTUGUESE": "Para com isso.",
+      "SPANISH": "Déjate de eso.",
+      "PERSIAN": "بس کن"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 54.2,
+      "HIDE": 55.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 해서 번 돈인 거 알면",
+      "ENGLISH": "If Aunt finds out that’s how you made the money,",
+      "CHINESE_SIMPLIFIED": "要是让恩妃和你妈知道这钱是这么来的",
+      "CHINESE_TRADITIONAL": "要是知道這錢是怎麼賺來的",
+      "JAPANESE": "そんなことして稼いだ金だって知ったら",
+      "INDONESIAN": "Kalau Tante tahu kamu dapat uangnya dari cara kayak gitu,",
+      "PORTUGUESE": "Se descobrirem como você conseguiu esse dinheiro,",
+      "SPANISH": "Si se enteran como obtuviste el dinero",
+      "PERSIAN": "اگر عمه بفهمد شما از این طریق پول در آورده اید،"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 55.9,
+      "HIDE": 58.5
+    },
+    "SCRIPT": {
+      "KOREAN": "은비는 이모는 좋아하실 거 같아?",
+      "ENGLISH": "do you think she’d be happy?",
+      "CHINESE_SIMPLIFIED": "她们会高兴吗？",
+      "CHINESE_TRADITIONAL": "你覺得恩妃和妳媽會高興嗎？",
+      "JAPANESE": "ウンビはおばさんは喜ぶと思うか？",
+      "INDONESIAN": "kamu pikir dia bakal seneng?",
+      "PORTUGUESE": "acha que a Eunbi ou sua mãe vão ficar felizes?",
+      "SPANISH": "¿crees que Eunbi o tu mamá van a estar contentas?",
+      "PERSIAN": "به نظر شما او خوشحال می شود؟"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 58.9,
+      "HIDE": 61.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그거 계속할 거면 나 볼 생각 하지 마.",
+      "ENGLISH": "If you keep doing that, don’t expect me to see you again.",
+      "CHINESE_SIMPLIFIED": "要继续做这种事就别想着见我了",
+      "CHINESE_TRADITIONAL": "如果你還要繼續，我們就不要再見面了",
+      "JAPANESE": "それ続けるなら俺に会おうとするな",
+      "INDONESIAN": "Kalau kamu terus kayak gini, jangan harap aku mau ketemu kamu lagi.",
+      "PORTUGUESE": "Se for continuar com isso, esquece de mim.",
+      "SPANISH": "Si vas a seguir con eso, olvídate de mí.",
+      "PERSIAN": "اگر به این کار ادامه می دهید، انتظار نداشته باشید که دوباره شما را ببینم."
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 62.7,
+      "HIDE": 63.6
+    },
+    "SCRIPT": {
+      "KOREAN": "야...!!",
+      "ENGLISH": "Hey...!!",
+      "CHINESE_SIMPLIFIED": "喂...！！",
+      "CHINESE_TRADITIONAL": "喂...！！",
+      "JAPANESE": "ねぇ…！！",
+      "INDONESIAN": "Hey…!!",
+      "PORTUGUESE": "Ei...!!",
+      "SPANISH": "¡Oye...!!",
+      "PERSIAN": "سلام...!!"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 65.8,
+      "HIDE": 68.4
+    },
+    "SCRIPT": {
+      "KOREAN": "찾았다. 이 사기꾼 새X들. ",
+      "ENGLISH": "Got you—those con artists.",
+      "CHINESE_SIMPLIFIED": "找到了，你们这两个骗子",
+      "CHINESE_TRADITIONAL": "找到了。這兩個騙子",
+      "JAPANESE": "見つけた この詐欺師どもめ",
+      "INDONESIAN": "Ketangkep juga—penipu kalian.",
+      "PORTUGUESE": "Achei vocês, malditos golpistas.",
+      "SPANISH": "Los encontré, malditos estafadores.",
+      "PERSIAN": "متوجه شدم، اون هنرمندان کلاهبردار."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 69.1,
+      "HIDE": 70.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너네 둘이 한패지?",
+      "ENGLISH": "You two are in cahoots, aren’t you?",
+      "CHINESE_SIMPLIFIED": "你们俩是一伙的吧？",
+      "CHINESE_TRADITIONAL": "你們兩個是一夥的，對吧？",
+      "JAPANESE": "お前ら二人 グルだろ",
+      "INDONESIAN": "Kalian berdua satu komplotan, kan?",
+      "PORTUGUESE": "Vocês dois são cúmplices, não são?",
+      "SPANISH": "¿Ustedes dos son cómplices, verdad?",
+      "PERSIAN": "شما دو نفر در جمع هستید، اینطوری نیست؟"
+    }
+  }
+]

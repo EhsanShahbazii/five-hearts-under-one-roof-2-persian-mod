@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 해.",
+      "ENGLISH": "Say ah~",
+      "CHINESE_SIMPLIFIED": "来，张嘴~",
+      "CHINESE_TRADITIONAL": "來，嘴巴張開，啊～",
+      "JAPANESE": "あ〜んして",
+      "INDONESIAN": "Katakan ah~",
+      "PORTUGUESE": "A ver, diga ah~",
+      "SPANISH": "A ver, di ah~",
+      "PERSIAN": "بگو آه~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 제대로 하라니깐...",
+      "ENGLISH": "Come on, do it properly...",
+      "CHINESE_SIMPLIFIED": "啊都说了要好好喂...",
+      "CHINESE_TRADITIONAL": "不是叫你張嘴嗎…",
+      "JAPANESE": "ちゃんとやれってば…",
+      "INDONESIAN": "Ayo, lakukan dengan benar...",
+      "PORTUGUESE": "Você ainda come como um bebê...",
+      "SPANISH": "Sigues comiendo como bebé...",
+      "PERSIAN": "بیا درست انجامش بده..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 떡 줬어?",
+      "ENGLISH": "Why’d you give me rice cake?",
+      "CHINESE_SIMPLIFIED": "干嘛给我年糕？",
+      "CHINESE_TRADITIONAL": "幹嘛給我年糕？",
+      "JAPANESE": "なんでトッポッキくれたの?",
+      "INDONESIAN": "Kenapa kamu memberiku kue beras?",
+      "PORTUGUESE": "Por que me deu bolo de arroz?",
+      "SPANISH": "¿Por qué me diste pastel de arroz?",
+      "PERSIAN": "چرا کیک برنجی به من دادی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 왜야...",
+      "ENGLISH": "What do you mean why?",
+      "CHINESE_SIMPLIFIED": "什么干嘛...",
+      "CHINESE_TRADITIONAL": "什麼幹嘛啦…",
+      "JAPANESE": "なんでって…",
+      "INDONESIAN": "Apa maksudmu mengapa?",
+      "PORTUGUESE": "Como assim por quê?",
+      "SPANISH": "¿Cómo que por qué?",
+      "PERSIAN": "منظورت چیه چرا؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너 옛날부터 오뎅보다 떡만 골라 먹었잖아.",
+      "ENGLISH": "You’ve always picked the rice cakes over fish cake.",
+      "CHINESE_SIMPLIFIED": "你从小不就只挑年糕不吃鱼糕嘛",
+      "CHINESE_TRADITIONAL": "你不是從小就只吃年糕，不要魚板",
+      "JAPANESE": "あなた 昔からおでんよりトッポッキばっかり選んで食べてたじゃん",
+      "INDONESIAN": "Kamu selalu memilih kue beras dibanding fish cake.",
+      "PORTUGUESE": "Desde sempre você come mais bolo de arroz do que peixe.",
+      "SPANISH": "Desde siempre comes más pastel de arroz que de pescado.",
+      "PERSIAN": "شما همیشه کیک برنجی را به جای کیک ماهی انتخاب کرده اید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 그랬나...?",
+      "ENGLISH": "Did I...?",
+      "CHINESE_SIMPLIFIED": "我有那样吗...？",
+      "CHINESE_TRADITIONAL": "我有這樣過嗎…？",
+      "JAPANESE": "私 そうだったっけ…?",
+      "INDONESIAN": "Apakah saya...?",
+      "PORTUGUESE": "Eu faço isso?",
+      "SPANISH": "¿Yo hago eso?",
+      "PERSIAN": "من...؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다른 것도 식기 전에 얼른 먹어.",
+      "ENGLISH": "Hurry and eat the rest before it gets cold.",
+      "CHINESE_SIMPLIFIED": "其他的也趁热赶紧吃",
+      "CHINESE_TRADITIONAL": "趁其他的冷掉以前趕快吃啦",
+      "JAPANESE": "他のものも冷めないうちに早く食べて",
+      "INDONESIAN": "Cepatlah makan sisanya sebelum dingin.",
+      "PORTUGUESE": "Come o resto antes que esfrie.",
+      "SPANISH": "Como de lo demás antes que se enfríe.",
+      "PERSIAN": "عجله کنید و بقیه را قبل از سرد شدن بخورید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어~",
+      "ENGLISH": "Okay~",
+      "CHINESE_SIMPLIFIED": "知道啦~",
+      "CHINESE_TRADITIONAL": "好啦～",
+      "JAPANESE": "うん",
+      "INDONESIAN": "Oke~",
+      "PORTUGUESE": "Tá bom.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "باشه~"
+    }
+  }
+]

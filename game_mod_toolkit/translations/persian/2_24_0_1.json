@@ -1,0 +1,261 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "기름진거 드시지 마시고",
+      "ENGLISH": "Avoid greasy foods.",
+      "CHINESE_SIMPLIFIED": "请不要吃油腻的食物",
+      "CHINESE_TRADITIONAL": "請不要吃油膩的食物",
+      "JAPANESE": "脂っこいものは食べないようにしてください",
+      "INDONESIAN": "Hindari makanan berminyak.",
+      "PORTUGUESE": "Evite comer coisas muito gordurosas...",
+      "SPANISH": "Evite comer cosas muy grasosas...",
+      "PERSIAN": "از غذاهای چرب خودداری کنید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Okay.",
+      "CHINESE_SIMPLIFIED": "好的",
+      "CHINESE_TRADITIONAL": "好的",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "باشه"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "장 활동이 예전 같지 않으실 거예요.",
+      "ENGLISH": "Your digestion won’t be quite the same as before.",
+      "CHINESE_SIMPLIFIED": "您的肠胃功能可能不如从前了",
+      "CHINESE_TRADITIONAL": "您現在腸胃的蠕動沒有以前那麼好",
+      "JAPANESE": "腸の働きが前と同じじゃないはずですから",
+      "INDONESIAN": "Pencernaan Anda tidak akan sama seperti sebelumnya.",
+      "PORTUGUESE": "Porque seu sistema digestivo não vai ser o mesmo de antes.",
+      "SPANISH": "Porque su sistema digestivo no será igual que antes.",
+      "PERSIAN": "هضم شما مثل قبل نخواهد بود."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네~",
+      "ENGLISH": "Got it~",
+      "CHINESE_SIMPLIFIED": "好~",
+      "CHINESE_TRADITIONAL": "好～",
+      "JAPANESE": "は〜い",
+      "INDONESIAN": "Mengerti~",
+      "PORTUGUESE": "Entendido~",
+      "SPANISH": "Entiendo~",
+      "PERSIAN": "فهمیدم~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "물 많이 드시고, 아시겠죠.",
+      "ENGLISH": "And drink plenty of water, alright?",
+      "CHINESE_SIMPLIFIED": "要多喝水，记住了吗？",
+      "CHINESE_TRADITIONAL": "請多喝水，知道嗎？",
+      "JAPANESE": "水をたくさん飲んでくださいね わかりましたね",
+      "INDONESIAN": "Dan minum banyak air, oke?",
+      "PORTUGUESE": "Beba bastante água, tudo bem?",
+      "SPANISH": "Tome mucha agua, ¿entendido?",
+      "PERSIAN": "و مقدار زیادی آب بنوشید، خوب؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Will do!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい!",
+      "INDONESIAN": "Akan kulakukan!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "انجام خواهد داد!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 유만 씨 지금 뭐 하시는 거에요",
+      "ENGLISH": "Wait—Yuman, what are you doing??",
+      "CHINESE_SIMPLIFIED": "不是，宥万先生您现在在干什么呀？",
+      "CHINESE_TRADITIONAL": "宥萬先生，您現在在做什麼？",
+      "JAPANESE": "ちょっと ユマンさん 今何してるんですか",
+      "INDONESIAN": "Tunggu—Yuman, apa yang kamu lakukan??",
+      "PORTUGUESE": "Senhor Yuman, o que está fazendo?",
+      "SPANISH": "Señor Yumán, ¿qué está haciendo?",
+      "PERSIAN": "صبر کن - یومان، چه کار می کنی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 병원이에요!",
+      "ENGLISH": "This is a hospital!",
+      "CHINESE_SIMPLIFIED": "这里可是医院！",
+      "CHINESE_TRADITIONAL": "這裡是醫院！",
+      "JAPANESE": "ここ病院ですよ!",
+      "INDONESIAN": "Ini rumah sakit!",
+      "PORTUGUESE": "Isto é um hospital!",
+      "SPANISH": "¡Esto es un hospital!",
+      "PERSIAN": "اینجا بیمارستانه!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "诶？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 밖에 사람들도 있는데 어떻게 여기서..",
+      "ENGLISH": "There are people outside—how could you do that here?!",
+      "CHINESE_SIMPLIFIED": "外面还有别人呢，怎么能在这里...",
+      "CHINESE_TRADITIONAL": "不是，外面還有別人，您怎麼能在這裡…",
+      "JAPANESE": "外にも人がいるのに どうしてここで…",
+      "INDONESIAN": "Ada orang di luar—bagaimana Anda bisa melakukan itu di sini?!",
+      "PORTUGUESE": "Tem gente lá fora, como é que o senhor pensa em fazer algo assim aqui...?",
+      "SPANISH": "Hay gente afuera, ¿cómo se le ocurre hacer eso aquí…?",
+      "PERSIAN": "افرادی در بیرون هستند - چطور می توانید این کار را اینجا انجام دهید؟!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 아 저는 이거...",
+      "ENGLISH": "Oh—this?",
+      "CHINESE_SIMPLIFIED": "啊，我这是...",
+      "CHINESE_TRADITIONAL": "啊，我只是想…",
+      "JAPANESE": "あ 俺これ…",
+      "INDONESIAN": "Oh—ini?",
+      "PORTUGUESE": "Ah, eu só...",
+      "SPANISH": "Ah, yo solo…",
+      "PERSIAN": "اوه - این؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.7,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "먼지 떼 주려고 그런 건데요.",
+      "ENGLISH": "I was just... trying to brush off some dust.",
+      "CHINESE_SIMPLIFIED": "是想帮您拍掉灰尘来着..",
+      "CHINESE_TRADITIONAL": "幫你把灰塵拍掉啦…",
+      "JAPANESE": "ホコリ取ってあげようと思ってたんですけど…",
+      "INDONESIAN": "Aku hanya... mencoba membersihkan debu.",
+      "PORTUGUESE": "ia tirar algo que você tinha no cabelo, só isso.",
+      "SPANISH": "iba a quitarle algo que tenía en la cabeza, nada más.",
+      "PERSIAN": "من فقط... سعی می کردم کمی گرد و غبار را پاک کنم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 37.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아.. 아, 먼지! ",
+      "ENGLISH": "Ah... dust!",
+      "CHINESE_SIMPLIFIED": "啊..啊，灰尘啊！",
+      "CHINESE_TRADITIONAL": "啊…喔，灰塵！",
+      "JAPANESE": "あ…ああ ホコリ!",
+      "INDONESIAN": "Ah... debu!",
+      "PORTUGUESE": "Ah... era isso?",
+      "SPANISH": "Ah… ¿era eso?",
+      "PERSIAN": "آه ... خاک!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음.. 네, 감사합니다.",
+      "ENGLISH": "Mmm... right. Thanks.",
+      "CHINESE_SIMPLIFIED": "嗯..好，谢谢",
+      "CHINESE_TRADITIONAL": "嗯…好，謝謝",
+      "JAPANESE": "ええ…ありがとうございます",
+      "INDONESIAN": "Mmm... benar. Terima kasih.",
+      "PORTUGUESE": "Hmm... entendi. Obrigada.",
+      "SPANISH": "Hmm… ya veo. Gracias.",
+      "PERSIAN": "ممم... درسته با تشکر"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.0
+    }
+  }
+]

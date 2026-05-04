@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 봐. 괜찮은 거야? ",
+      "ENGLISH": "Let me see. Are you really okay?",
+      "CHINESE_SIMPLIFIED": "让我看看，真的没事吗？",
+      "CHINESE_TRADITIONAL": "讓我看看。你還好嗎？",
+      "JAPANESE": "どれ、見せて 大丈夫？",
+      "INDONESIAN": "Coba sini deh. Kamu beneran nggak apa‑apa?",
+      "PORTUGUESE": "Deixa eu ver... você tá bem?",
+      "SPANISH": "Déjame ver… ¿estás bien?",
+      "PERSIAN": "بذار ببینم واقعا حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 퇴원해도 되는 거야?",
+      "ENGLISH": "Is it safe for you to be discharged like this?",
+      "CHINESE_SIMPLIFIED": "这样出院真的可以吗？",
+      "CHINESE_TRADITIONAL": "你這樣就能出院了嗎？",
+      "JAPANESE": "こんな状態で退院していいの？",
+      "INDONESIAN": "Emang aman kamu dipulangin secepat ini?",
+      "PORTUGUESE": "Será que foi mesmo uma boa ideia ter tido alta tão cedo?",
+      "SPANISH": "¿De verdad era buena idea darte de alta tan pronto?",
+      "PERSIAN": "اینطوری ترخیص شدن برای شما بی خطر است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "다리가 제일 많이 다쳤다고 들었는데",
+      "ENGLISH": "I heard your leg was the most seriously injured—",
+      "CHINESE_SIMPLIFIED": "听说你的腿受伤最严重啊",
+      "CHINESE_TRADITIONAL": "我聽說你腳傷最嚴重",
+      "JAPANESE": "一番ひどく怪我したのは足だったって聞いたけど",
+      "INDONESIAN": "Katanya kaki kamu yang paling parah, ya kan...",
+      "PORTUGUESE": "Ouvi dizer que a perna foi o que mais se machucou,",
+      "SPANISH": "Escuché que la pierna fue lo que más se dañó,",
+      "PERSIAN": "من شنیدم که پای تو شدیدترین آسیب را داشته است-"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 이렇게 걸어도 되는 거야?",
+      "ENGLISH": "Are you sure it’s alright to just walk like this?",
+      "CHINESE_SIMPLIFIED": "就这样走路能行吗？",
+      "CHINESE_TRADITIONAL": "這樣走路沒問題嗎？",
+      "JAPANESE": "本当に普通に歩いて大丈夫なの？",
+      "INDONESIAN": "Beneran nggak apa‑apa kamu jalan begini aja?",
+      "PORTUGUESE": "tem certeza de que pode andar assim sem problema?",
+      "SPANISH": "¿estás seguro de que puedes caminar así sin problema?",
+      "PERSIAN": "مطمئن هستید که اینجوری راه رفتن اشکالی ندارد؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 과장님! 진정해요! 저 이제 괜찮아요!",
+      "ENGLISH": "Ah, Manager! Calm down! I’m fine now!",
+      "CHINESE_SIMPLIFIED": "啊，科长！别担心！我已经好了！",
+      "CHINESE_TRADITIONAL": "課長！冷靜一點！我已經沒事了啦！",
+      "JAPANESE": "あ、課長！落ち着いてください！もう大丈夫ですよ！",
+      "INDONESIAN": "Ah, Manajer! Tenang aja! Aku udah sembuh, kok!",
+      "PORTUGUESE": "Ah, chefe Gran! Fique tranquila, já tô ótimo.",
+      "SPANISH": "Ah, ¡jefa Gran! Tranquila, ya estoy bien.",
+      "PERSIAN": "آه، مدیر! آرام باش! الان خوبم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "자 , 팔다리! 다 멀쩡하고! 깁스도 푼 지 좀 됐어요!",
+      "ENGLISH": "Look—arms and legs! Everything’s fine! The cast’s been off for a while!",
+      "CHINESE_SIMPLIFIED": "你看，胳膊腿都好好的！石膏也拆了有些日子了！",
+      "CHINESE_TRADITIONAL": "你看，手跟腳！全都好好的！石膏也拆一陣子了！",
+      "JAPANESE": "ほら、手も足も！全部ちゃんと動きますし！ギプスももう外してしばらく経ってます！",
+      "INDONESIAN": "Tuh liat—tangan, kaki! Semua aman! Gipsnya juga udah dilepas dari kemarin!",
+      "PORTUGUESE": "Olha só — braços, pernas... tudo em ordem! Já faz um tempo que tiraram o gesso.",
+      "SPANISH": "Mire, brazos, piernas… ¡todo en orden! Hace rato que me quitaron el yeso.",
+      "PERSIAN": "نگاه کنید - دست و پا! همه چیز خوب است! گروه بازیگران مدتی است که از کار افتاده اند!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "정말 괜찮은 거지?",
+      "ENGLISH": "Really, it’s totally okay?",
+      "CHINESE_SIMPLIFIED": "真的没事了？",
+      "CHINESE_TRADITIONAL": "真的沒事？",
+      "JAPANESE": "本当に平気？",
+      "INDONESIAN": "Seriusan udah oke?",
+      "PORTUGUESE": "Tem certeza de que tá bem?",
+      "SPANISH": "¿De verdad estás bien?",
+      "PERSIAN": "واقعاً، کاملاً خوب است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇다니까요~",
+      "ENGLISH": "I told you it is~",
+      "CHINESE_SIMPLIFIED": "真的啦~",
+      "CHINESE_TRADITIONAL": "沒事啦～",
+      "JAPANESE": "ほんとですよ〜！",
+      "INDONESIAN": "Udah aku bilang juga, iya~",
+      "PORTUGUESE": "Sim~!",
+      "SPANISH": "¡Que sí~!",
+      "PERSIAN": "من به شما گفتم این است"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.49,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 다행이고...",
+      "ENGLISH": "Well, that’s a relief...",
+      "CHINESE_SIMPLIFIED": "那就好...",
+      "CHINESE_TRADITIONAL": "沒事就好",
+      "JAPANESE": "それならよかったけど…",
+      "INDONESIAN": "Wah, syukurlah…",
+      "PORTUGUESE": "Ainda bem, então...",
+      "SPANISH": "Bueno, menos mal…",
+      "PERSIAN": "خوب، این یک آرامش است ..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "동 과장님 제가 그렇게 걱정됐어요?",
+      "ENGLISH": "Manager Dong, you were really worried about me?",
+      "CHINESE_SIMPLIFIED": "佟科长，你就这么担心我啊？",
+      "CHINESE_TRADITIONAL": "課長，你這麼擔心我啊？",
+      "JAPANESE": "トン課長、そんなに俺のこと心配してくれてたんですか？",
+      "INDONESIAN": "Manajer Dong, kamu segitunya khawatir sama aku?",
+      "PORTUGUESE": "A senhora tá preocupada comigo?",
+      "SPANISH": "¿Usted está preocupada por mí?",
+      "PERSIAN": "مدیر دونگ، تو واقعا نگران من بودی؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "당연하지! 네가 다쳤다는데!",
+      "ENGLISH": "Of course! You got hurt!",
+      "CHINESE_SIMPLIFIED": "当然啊！因为你受伤了！",
+      "CHINESE_TRADITIONAL": "廢話！聽說你受傷了耶！",
+      "JAPANESE": "当たり前でしょ！お前が怪我したって聞いたから！",
+      "INDONESIAN": "Ya jelas! Kamu kan sempet cedera!",
+      "PORTUGUESE": "Claro que sim! Disseram que você tinha se machucado!",
+      "SPANISH": "¡Por supuesto! ¡Dijeron que te habías lastimado!",
+      "PERSIAN": "البته! صدمه دیدی!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 진짜 괜찮아요...!",
+      "ENGLISH": "I’m really fine...!",
+      "CHINESE_SIMPLIFIED": "我真的没事了...！",
+      "CHINESE_TRADITIONAL": "我真的沒事啦...！",
+      "JAPANESE": "ほんとにもう大丈夫ですって…！",
+      "INDONESIAN": "Aku beneran udah nggak papa...!",
+      "PORTUGUESE": "Sério, tô bem...",
+      "SPANISH": "De verdad, estoy bien...",
+      "PERSIAN": "من واقعا خوبم...!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.3,
+      "HIDE": 35.1
+    },
+    "SCRIPT": {
+      "KOREAN": "안겨.",
+      "ENGLISH": "Come here, get in my arms.",
+      "CHINESE_SIMPLIFIED": "抱一下",
+      "CHINESE_TRADITIONAL": "抱著…",
+      "JAPANESE": "抱いてあげる",
+      "INDONESIAN": "Sini, peluk aku.",
+      "PORTUGUESE": "Vem cá.",
+      "SPANISH": "Ven acá.",
+      "PERSIAN": "بیا اینجا تو بغلم بگیر"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.6,
+      "HIDE": 36.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네??",
+      "ENGLISH": "Huh??",
+      "CHINESE_SIMPLIFIED": "啊？？",
+      "CHINESE_TRADITIONAL": "蛤？？",
+      "JAPANESE": "はいっ？？",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 37.08,
+      "HIDE": 40.2
+    },
+    "SCRIPT": {
+      "KOREAN": "사고로 고생 많이 했잖아, 안기라구.",
+      "ENGLISH": "You went through a lot with that accident, so get in my arms.",
+      "CHINESE_SIMPLIFIED": "你因为车祸受了那么多苦，抱一下",
+      "CHINESE_TRADITIONAL": "你因為那個事故受了很多苦吧，叫你抱著啦",
+      "JAPANESE": "事故で大変だったでしょ、抱いてあげる",
+      "INDONESIAN": "Kamu udah ngelewatin banyak hal gara‑gara kecelakaan itu, jadi sini… peluk aku.",
+      "PORTUGUESE": "Você passou por muita coisa com o acidente... vem cá, vou te dar um abraço.",
+      "SPANISH": "Pasaste por mucho con el accidente… te dije que vengas, te voy a dar un abrazo.",
+      "PERSIAN": "تو با اون تصادف خیلی چیزا رو پشت سر گذاشتی، پس در آغوش من باش."
+    }
+  }
+]

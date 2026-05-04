@@ -1,0 +1,163 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 무서울 때 쓰는 필살기 하나 알려드려요?",
+      "ENGLISH": "Wanna know my secret move for when I get scared?",
+      "CHINESE_SIMPLIFIED": "要不要告诉你一个我害怕时用的绝招？",
+      "CHINESE_TRADITIONAL": "我跟你說一個我害怕的時候會用的絕招吧？",
+      "JAPANESE": "怖いときに使える、必殺技ひとつ教えてあげましょうか？",
+      "INDONESIAN": "Mau tau jurus rahasiaku pas lagi takut?",
+      "PORTUGUESE": "Quer que eu te mostre o que eu faço quando tô com medo?",
+      "SPANISH": "¿Quiere que te enseñe que hago cuando tengo miedo?",
+      "PERSIAN": "می خواهید حرکت مخفیانه ام را برای زمانی که می ترسم بدانید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 뭔데요?",
+      "ENGLISH": "What is it?",
+      "CHINESE_SIMPLIFIED": "是什么啊？",
+      "CHINESE_TRADITIONAL": "是什麼？",
+      "JAPANESE": "それなんですか？",
+      "INDONESIAN": "Apa tuh?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué cosa?",
+      "PERSIAN": "چیه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야한 생각하기!",
+      "ENGLISH": "Think about something dirty!",
+      "CHINESE_SIMPLIFIED": "想点色色的事情！",
+      "CHINESE_TRADITIONAL": "想一些色色的事情！",
+      "JAPANESE": "エッチなこと考えるの！",
+      "INDONESIAN": "Pikirin hal-hal yang mesum!",
+      "PORTUGUESE": "Pensar em coisas pervertidas!",
+      "SPANISH": "¡Pensar en cosas pervertidas!",
+      "PERSIAN": "به چیزی کثیف فکر کنید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "…What?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "蛤？",
+      "JAPANESE": "は？",
+      "INDONESIAN": "…Apa?",
+      "PORTUGUESE": "...O quê?",
+      "SPANISH": "¿...Qué?",
+      "PERSIAN": "... چی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜예요.",
+      "ENGLISH": "I’m serious.",
+      "CHINESE_SIMPLIFIED": "真的啦",
+      "CHINESE_TRADITIONAL": "是真的",
+      "JAPANESE": "本当ですよ",
+      "INDONESIAN": "Serius lho.",
+      "PORTUGUESE": "Tô falando sério.",
+      "SPANISH": "Lo digo en serio.",
+      "PERSIAN": "من جدی هستم"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "야한 생각하면 귀신들도 알아서 다 도망간다구요.",
+      "ENGLISH": "If you do, even ghosts run away.",
+      "CHINESE_SIMPLIFIED": "只要一想色色的事，鬼都会自己跑光的",
+      "CHINESE_TRADITIONAL": "如果你一直想色色的事情，鬼也會識相地跑走喔",
+      "JAPANESE": "そういうこと考えると、幽霊も恥ずかしくなって逃げちゃうんだって",
+      "INDONESIAN": "Kalau gitu, hantunya juga kabur.",
+      "PORTUGUESE": "Se você pensa nessas coisas, os fantasmas vão embora sozinhos.",
+      "SPANISH": "Si piensas ese tipo de cosas, los fantasmas se van solitos.",
+      "PERSIAN": "اگر این کار را بکنید، حتی ارواح هم فرار می کنند."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "꺄악!",
+      "ENGLISH": "KYAAAH!!",
+      "CHINESE_SIMPLIFIED": "呀啊！",
+      "CHINESE_TRADITIONAL": "嘰咿——",
+      "JAPANESE": "きゃあっ！",
+      "INDONESIAN": "KYAAAH!!",
+      "PORTUGUESE": "Kyaaa!",
+      "SPANISH": "¡Kyaaa!",
+      "PERSIAN": "کیاااه!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "방금 이 소리 들었어요?",
+      "ENGLISH": "Did… did you hear that just now??",
+      "CHINESE_SIMPLIFIED": "刚刚那声音你听到了吗？",
+      "CHINESE_TRADITIONAL": "你剛剛...有聽到什麼聲音嗎？",
+      "JAPANESE": "今の音、聞こえました！？",
+      "INDONESIAN": "Kamu… kamu denger suara barusan nggak??",
+      "PORTUGUESE": "Você ouviu isso?",
+      "SPANISH": "¿Oíste eso?",
+      "PERSIAN": "آیا... همین الان شنیدی؟؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 마취총?",
+      "ENGLISH": "Huh? A tranquilizer gun...?",
+      "CHINESE_SIMPLIFIED": "咦？麻醉枪？",
+      "CHINESE_TRADITIONAL": "咦？ 麻醉槍？",
+      "JAPANESE": "え？麻酔銃？",
+      "INDONESIAN": "Hah? Pistol bius...?",
+      "PORTUGUESE": "Hã? Um dardo tranquilizante...?",
+      "SPANISH": "¿Eh? ¿Un dardo tranquilizante...?",
+      "PERSIAN": "ها؟ تفنگ آرام بخش...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래, 이건 신이 주신 기회야.",
+      "ENGLISH": "Yeah... this is a sign from above.",
+      "CHINESE_SIMPLIFIED": "好，这可是老天爷给的好机会",
+      "CHINESE_TRADITIONAL": "沒錯，這可是老天爺給的好機會",
+      "JAPANESE": "そうだ、これは神が与えたチャンスだ",
+      "INDONESIAN": "Iya... ini pertanda dari langit.",
+      "PORTUGUESE": "Sim... essa é uma oportunidade enviada pelos deuses.",
+      "SPANISH": "Sí... esta es una oportunidad enviada por los dioses.",
+      "PERSIAN": "آره... این یک نشانه از بالاست."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "밖에서 뽀뽀나 하고 말이야.",
+      "ENGLISH": "Out there kissing in broad daylight...",
+      "CHINESE_SIMPLIFIED": "居然在外面给我搂搂抱抱",
+      "CHINESE_TRADITIONAL": "還敢在外面親親我我？",
+      "JAPANESE": "外でイチャイチャなんかして…",
+      "INDONESIAN": "Ciuman terang-terangan gitu di siang bolong...",
+      "PORTUGUESE": "Lá fora, se beijando e tudo...",
+      "SPANISH": "Ahí afuera, besándose y todo...",
+      "PERSIAN": "در روز روشن در حال بوسیدن..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "간다..",
+      "ENGLISH": "Alright. I'm doing it.",
+      "CHINESE_SIMPLIFIED": "看我的...",
+      "CHINESE_TRADITIONAL": "我要上了…",
+      "JAPANESE": "行くぞ…",
+      "INDONESIAN": "Udah, gue tembak aja.",
+      "PORTUGUESE": "Aí vou eu...",
+      "SPANISH": "Allá voy...",
+      "PERSIAN": "باشه دارم انجامش میدم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 말숙 씨..!",
+      "ENGLISH": "Huh? Mal-sook..!",
+      "CHINESE_SIMPLIFIED": "呃？末淑小姐..！",
+      "CHINESE_TRADITIONAL": "咦？ 末淑小姐！",
+      "JAPANESE": "あっ、マルスクさん…！",
+      "INDONESIAN": "Hah? Mal-sook..!",
+      "PORTUGUESE": "Hã? Malsook...!",
+      "SPANISH": "¿Eh? ¡Malsook...!",
+      "PERSIAN": "ها؟ مال‌سوک..!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.9
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요? 말숙 씨..!",
+      "ENGLISH": "Are you okay?? Mal-sook!!",
+      "CHINESE_SIMPLIFIED": "你没事吧？末淑小姐...！",
+      "CHINESE_TRADITIONAL": "你沒事吧？ 末淑小姐…！",
+      "JAPANESE": "大丈夫ですか？マルスクさん！",
+      "INDONESIAN": "Kamu nggak apa-apa?? Mal-sook!!",
+      "PORTUGUESE": "Você tá bem? Malsook!",
+      "SPANISH": "¿Estás bien? ¡Malsook!",
+      "PERSIAN": "حالت خوبه؟؟ مال‌سوک!!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아!",
+      "ENGLISH": "Mal-sook!",
+      "CHINESE_SIMPLIFIED": "末淑啊！",
+      "CHINESE_TRADITIONAL": "末淑！",
+      "JAPANESE": "マルスク！",
+      "INDONESIAN": "Mal-sook!",
+      "PORTUGUESE": "Malsook!",
+      "SPANISH": "¡Malsook!",
+      "PERSIAN": "مال‌سوک!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 25.1
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아!!",
+      "ENGLISH": "Mal-sook!",
+      "CHINESE_SIMPLIFIED": "末淑啊！！",
+      "CHINESE_TRADITIONAL": "末淑！！",
+      "JAPANESE": "マルスク！！",
+      "INDONESIAN": "Mal-sook!",
+      "PORTUGUESE": "Malsook!",
+      "SPANISH": "¡Malsook!",
+      "PERSIAN": "مال‌سوک!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 26.9
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아, 일어나!!!",
+      "ENGLISH": "Mal-sook, wake up!!!",
+      "CHINESE_SIMPLIFIED": "末淑啊，快醒醒！！！",
+      "CHINESE_TRADITIONAL": "末淑，快醒來！！！",
+      "JAPANESE": "マルスク、起きて！！",
+      "INDONESIAN": "Mal-sook, bangun!!!",
+      "PORTUGUESE": "Malsook, acorda!",
+      "SPANISH": "¡Malsook, despierta!",
+      "PERSIAN": "مال‌سوک بیدار شو!!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아!!!!",
+      "ENGLISH": "Mal-sook!!!!",
+      "CHINESE_SIMPLIFIED": "末淑啊！！！！",
+      "CHINESE_TRADITIONAL": "末淑！！！",
+      "JAPANESE": "マルスク！！！",
+      "INDONESIAN": "Mal-sook!!!!",
+      "PORTUGUESE": "Malsook!!!",
+      "SPANISH": "¡Malsook!!!",
+      "PERSIAN": "مال‌سوک!!!!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.1,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아!!!!!",
+      "ENGLISH": "Mal-sook!!!!!!",
+      "CHINESE_SIMPLIFIED": "末淑啊！！！！！",
+      "CHINESE_TRADITIONAL": "末淑！！！！！",
+      "JAPANESE": "マルスク！！！！",
+      "INDONESIAN": "Mal-sook!!!!!!",
+      "PORTUGUESE": "Malsook!!!!!",
+      "SPANISH": "¡Malsook!!!!!",
+      "PERSIAN": "مال‌سوک!!!!!!"
+    }
+  }
+]

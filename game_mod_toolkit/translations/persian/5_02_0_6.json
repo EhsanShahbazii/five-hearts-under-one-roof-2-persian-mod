@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨 물 좀 주세요...",
+      "ENGLISH": "Yu-na… can I get some water…?",
+      "CHINESE_SIMPLIFIED": "有娜小姐，能给我点水吗...",
+      "CHINESE_TRADITIONAL": "有娜小姐，請給我一點水...",
+      "JAPANESE": "ユナさん、水ください…",
+      "INDONESIAN": "Yu-na… boleh minta air nggak…?",
+      "PORTUGUESE": "Yuna... me traz água, por favor.",
+      "SPANISH": "Yuna... tráeme aga, por favor.",
+      "PERSIAN": "یو-نا...میتونم کمی آب بیارم...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "크흠, 네~ 잠깐만요!",
+      "ENGLISH": "Ahem, sure~ Just a sec!",
+      "CHINESE_SIMPLIFIED": "咳咳，好~稍等一下！",
+      "CHINESE_TRADITIONAL": "咳，好～ 等一下！",
+      "JAPANESE": "んんっ、はい〜ちょっと待ってくださいね！",
+      "INDONESIAN": "Ehem, tentu~ Tunggu sebentar ya!",
+      "PORTUGUESE": "Ai! Claro, um momento.",
+      "SPANISH": "¡Ay! Claro, un momento.",
+      "PERSIAN": "آها، مطمئنا ~ فقط یک ثانیه!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "(쪽) ",
+      "ENGLISH": "smooch",
+      "CHINESE_SIMPLIFIED": "（啵）",
+      "CHINESE_TRADITIONAL": "(啵)",
+      "JAPANESE": "（チュッ）",
+      "INDONESIAN": "*cium pipi*",
+      "PORTUGUESE": "(Muak)",
+      "SPANISH": "(Muak)",
+      "PERSIAN": "صاف کردن"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다....",
+      "ENGLISH": "Thank you…",
+      "CHINESE_SIMPLIFIED": "谢啦...",
+      "CHINESE_TRADITIONAL": "謝謝你...",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Makasih…",
+      "PORTUGUESE": "Muito obrigado...",
+      "SPANISH": "Muchas gracias...",
+      "PERSIAN": "ممنون…"
+    }
+  }
+]

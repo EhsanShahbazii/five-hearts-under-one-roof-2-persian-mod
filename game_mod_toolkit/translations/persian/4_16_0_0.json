@@ -1,0 +1,344 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘부터 다시 정신 바짝 차리고 해보는 거야.",
+      "ENGLISH": "Starting today, I’m going to focus and really get back on track.",
+      "CHINESE_SIMPLIFIED": "从今天开始要重新打起精神好好干了",
+      "CHINESE_TRADITIONAL": "從今天開始，要打起精神好好做！",
+      "JAPANESE": "今日からまた気を引き締めて頑張るんだ",
+      "INDONESIAN": "Mulai hari ini aku harus fokus lagi dan kerja dengan serius.",
+      "PORTUGUESE": "A partir de hoje, vou me concentrar e dar o meu melhor.",
+      "SPANISH": "A partir de hoy, voy a concentrarme y dar lo mejor de mí.",
+      "PERSIAN": "از امروز، من تمرکز می کنم و واقعاً به مسیر اصلی باز می گردم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 음료 사 오는 걸 깜빡했네..",
+      "ENGLISH": "Ah, I forgot to buy drinks…",
+      "CHINESE_SIMPLIFIED": "啊，忘记买饮料了...",
+      "CHINESE_TRADITIONAL": "啊，我竟然忘了去買飲料...",
+      "JAPANESE": "あ、飲み物買ってくるの忘れた…",
+      "INDONESIAN": "Alah, aku lupa beli minuman…",
+      "PORTUGUESE": "Ah, esqueci de comprar uma bebida...",
+      "SPANISH": "Ah, olvidé comprar algo de tomar...",
+      "PERSIAN": "آه، یادم رفت نوشیدنی بخرم…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "앗, 제가 지금 사 올까요?",
+      "ENGLISH": "Oh, should I go grab some now?",
+      "CHINESE_SIMPLIFIED": "啊，我现在去买吧？",
+      "CHINESE_TRADITIONAL": "啊，我現在去買好嗎？",
+      "JAPANESE": "あっ、俺が今買ってきましょうか？",
+      "INDONESIAN": "Waduh apa aku aja yang beli sekarang ya?",
+      "PORTUGUESE": "Ah! Quer que eu vá comprar?",
+      "SPANISH": "¡Ah! ¿Quiere que vaya a comprarla?",
+      "PERSIAN": "اوه، الان برم یه کم بگیرم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 줄래요?",
+      "ENGLISH": "Would you?",
+      "CHINESE_SIMPLIFIED": "可以吗？",
+      "CHINESE_TRADITIONAL": "可以嗎？",
+      "JAPANESE": "そうしてくれる？",
+      "INDONESIAN": "Mau ya?",
+      "PORTUGUESE": "Poderia?",
+      "SPANISH": "¿Podrías?",
+      "PERSIAN": "شما؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "넵!",
+      "ENGLISH": "Yes, sir!",
+      "CHINESE_SIMPLIFIED": "好的！",
+      "CHINESE_TRADITIONAL": "沒問題！",
+      "JAPANESE": "はいっ！",
+      "INDONESIAN": "Siap!",
+      "PORTUGUESE": "Claro!",
+      "SPANISH": "¡Claro!",
+      "PERSIAN": "بله قربان!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "동 과장님.",
+      "ENGLISH": "Manager Dong!",
+      "CHINESE_SIMPLIFIED": "佟科长",
+      "CHINESE_TRADITIONAL": "佟課長",
+      "JAPANESE": "ドン課長",
+      "INDONESIAN": "Manajer Dong!",
+      "PORTUGUESE": "Chefe Gran.",
+      "SPANISH": "Jefa Gran.",
+      "PERSIAN": "مدیر دونگ!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 우선 씨",
+      "ENGLISH": "Oh, Woo-seon!",
+      "CHINESE_SIMPLIFIED": "哦，优先啊",
+      "CHINESE_TRADITIONAL": "喔，宇善啊",
+      "JAPANESE": "ああ、ウソンさん",
+      "INDONESIAN": "Oh, Woo-seon!",
+      "PORTUGUESE": "Diga.",
+      "SPANISH": "Dime.",
+      "PERSIAN": "اوه، ووسون!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어 저 사람은...? 민정 님 사생팬?",
+      "ENGLISH": "Eh? Who’s that…? A stalker fan of Min-jung?",
+      "CHINESE_SIMPLIFIED": "呃，他不是...？敏静的私生饭吗？",
+      "CHINESE_TRADITIONAL": "咦，那個人...？他不是敏靜的私生飯嗎？",
+      "JAPANESE": "あの人は…？ミンジョンさんの私生活を追い回すファン？",
+      "INDONESIAN": "Eh, itu siapa ya…? Fans obsesifnya Min-jung?",
+      "PORTUGUESE": "Essa pessoa...? Não é um stalker da Minjung?",
+      "SPANISH": "¿Esa persona...? ¿No es el stalker de Minjung?",
+      "PERSIAN": "آه؟ اون کیه…؟ یک طرفدار استالکر مین‌جونگ؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 토마토 주스요.",
+      "ENGLISH": "Here’s the tomato juice.",
+      "CHINESE_SIMPLIFIED": "您的番茄汁",
+      "CHINESE_TRADITIONAL": "這是番茄汁",
+      "JAPANESE": "これトマトジュースです",
+      "INDONESIAN": "Ini jus tomatnya.",
+      "PORTUGUESE": "Aqui está seu suco de tomate.",
+      "SPANISH": "Aquí tiene su jugo de tomate.",
+      "PERSIAN": "اینم آب گوجه فرنگی"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 19.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어 뭐야 때마침 음료 사러 나갈까 했는데.",
+      "ENGLISH": "Whoa, seriously? I was just about to go out for drinks too.",
+      "CHINESE_SIMPLIFIED": "什么嘛，我正好想出去买饮料呢~",
+      "CHINESE_TRADITIONAL": "什麼嘛～我正好想說要不要去買飲料",
+      "JAPANESE": "なに、ちょうど飲み物買いに行こうと思ってたのに",
+      "INDONESIAN": "Eh, serius? Aku juga tadi kepikiran mau keluar beli minuman.",
+      "PORTUGUESE": "Ora, justo agora eu tava pensando em sair pra comprar algo pra beber.",
+      "SPANISH": "Vaya, justo estaba pensando en salir a comprar algo de beber.",
+      "PERSIAN": "اوه، جدی؟ من هم می خواستم برای نوشیدنی بیرون بروم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 왠지 뭔가 사고 싶더라고요~",
+      "ENGLISH": "I don’t know why, but I really wanted to buy something today~",
+      "CHINESE_SIMPLIFIED": "今天不知怎么的特别想买点什么呢~",
+      "CHINESE_TRADITIONAL": "總覺得今天特別想買點什麼～",
+      "JAPANESE": "なんか今日は無性に買いたくなったんですよ〜",
+      "INDONESIAN": "Entah kenapa hari ini aku pengen jajan aja~",
+      "PORTUGUESE": "Hoje mesmo me deu vontade de comprar.",
+      "SPANISH": "Justo hoy me dieron ganas de comprarlo.",
+      "PERSIAN": "نمی‌دونم چرا، اما واقعاً می‌خواستم امروز چیزی بخرم"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜? 통했네?",
+      "ENGLISH": "Really? We’re totally in sync!",
+      "CHINESE_SIMPLIFIED": "啊真的？这么巧？",
+      "CHINESE_TRADITIONAL": "啊，真的嗎？心有靈犀耶？",
+      "JAPANESE": "ほんと？気が合うね？",
+      "INDONESIAN": "Ah, beneran? Wah, nyambung banget ya?",
+      "PORTUGUESE": "Sério? Que coincidência!",
+      "SPANISH": "¿De verdad? ¡Qué coincidencia!",
+      "PERSIAN": "واقعا؟ ما کاملاً هماهنگ هستیم!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우리가 찡~ 하고 통하네요!! 히히힣",
+      "ENGLISH": "We totally get each other!! Hehehe",
+      "CHINESE_SIMPLIFIED": "我们真是心有灵犀啊！！嘿嘿嘿",
+      "CHINESE_TRADITIONAL": "心意有相通喔！！嘻嘻",
+      "JAPANESE": "私たち、通じ合いましたね！！えへへっ",
+      "INDONESIAN": "Kita bener-bener klik!! Hihihi",
+      "PORTUGUESE": "Parece que estamos na mesma sintonia! Hehehe!",
+      "SPANISH": "¡Parece que estamos en la misma sintonía! ¡Jejeje!",
+      "PERSIAN": "ما کاملاً همدیگر را درک می کنیم!! هههه"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "역시...",
+      "ENGLISH": "Of course…",
+      "CHINESE_SIMPLIFIED": "果然...",
+      "CHINESE_TRADITIONAL": "果然...",
+      "JAPANESE": "やっぱり…",
+      "INDONESIAN": "Emang ya…",
+      "PORTUGUESE": "Como era de se esperar...",
+      "SPANISH": "Como era de esperarse...",
+      "PERSIAN": "البته…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 우선 씨 이쪽은 우유만 씨. 사고나서 휴직했다가 오늘 복귀했어.",
+      "ENGLISH": "Oh, Woo-seon, this is Yu-man. He was on leave after an accident and just came back today.",
+      "CHINESE_SIMPLIFIED": "优先啊，这位是吴宥万，出车祸后休息了一阵，今天复职",
+      "CHINESE_TRADITIONAL": "對了，宇善，這位是吳宥萬。他之前因為出車禍請假，今天復職了",
+      "JAPANESE": "あ、ウソンさん、こちらはウ・ユマンさん。事故で休職してたけど、今日から復帰したの",
+      "INDONESIAN": "Oh iya, Woo-seon, ini Yu-man. Dia sempat cuti karena kecelakaan, dan baru masuk lagi hari ini.",
+      "PORTUGUESE": "Ah, Woo-seon, este é o Yuman Woo. Ele estava de licença médica depois de um acidente e hoje voltou ao trabalho.",
+      "SPANISH": "Ah, Woo-seon, él es Yumán Woo. Estuvo de licencia médica después d un accidente, y hoy regresó al trabajo.",
+      "PERSIAN": "اوه، ووسون، این یومن است. بعد از تصادف به مرخصی رفته بود و امروز برگشت."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 33.4,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요.",
+      "ENGLISH": "Hello, nice to meet you.",
+      "CHINESE_SIMPLIFIED": "您好",
+      "CHINESE_TRADITIONAL": "你好",
+      "JAPANESE": "はじめまして",
+      "INDONESIAN": "Halo, salam kenal.",
+      "PORTUGUESE": "Muito prazer.",
+      "SPANISH": "Mucho gusto.",
+      "PERSIAN": "سلام از آشنایی با شما خوشحالم"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 35.1,
+      "HIDE": 37.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 이쪽은 새 직원. 최우선 대리.",
+      "ENGLISH": "And this is the new employee, Assistant Manager Choi Woo-seon.",
+      "CHINESE_SIMPLIFIED": "这位是新同事，崔优先代理",
+      "CHINESE_TRADITIONAL": "這位是新人，崔宇善代理",
+      "JAPANESE": "そしてこちらは新しい社員、チェ・ウソン代理",
+      "INDONESIAN": "Dan ini pegawai baru, Asisten Manajer Choi Woo-seon.",
+      "PORTUGUESE": "E este é o novo funcionário, o subdiretor Choi Woo-seon.",
+      "SPANISH": "Y él es el nuevo empleado, el subdirector Choi Woo-seon.",
+      "PERSIAN": "و این کارمند جدید، دستیار مدیر چوی وو-سون است."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 38.2,
+      "HIDE": 41.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 사수니까 업무 인수인계 받도록 해요.",
+      "ENGLISH": "Since you’re his senior, Yu-man, make sure to show him the ropes.",
+      "CHINESE_SIMPLIFIED": "他是你的直属上司，你们记得好好交接工作",
+      "CHINESE_TRADITIONAL": "他是吳宥萬你的直屬上司，你們交接一下",
+      "JAPANESE": "ユマンさんの教育担当だから、業務の引き継ぎを受けてください",
+      "INDONESIAN": "Karena dia bawahannya Yu-man, tolong ajarkan pekerjaanmu ke dia ya.",
+      "PORTUGUESE": "Ele será seu supervisor direto, então aprenda bastante com ele.",
+      "SPANISH": "Será tu supervisor directo, así que aprende bien de él.",
+      "PERSIAN": "از آنجایی که شما بزرگتر او هستید، یو-مان، حتما طناب ها را به او نشان دهید."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 42.19,
+      "HIDE": 47.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아...우.유.만. 씨! 말씀 많이 들었습니다!",
+      "ENGLISH": "Ah… Yu… Yu-man! I’ve heard so much about you!",
+      "CHINESE_SIMPLIFIED": "啊...吴.宥.万.先生！久仰大名了！",
+      "CHINESE_TRADITIONAL": "好的... 吳、宥、萬、先生！久仰大名了呢！",
+      "JAPANESE": "あ…ウ・ユ・マンさん！お話よく伺ってます！",
+      "INDONESIAN": "Ah… Yu… Yu-man! Aku sering banget denger soal kamu!",
+      "PORTUGUESE": "Ah... Yuman Woo! Já ouvi muito falar de você.",
+      "SPANISH": "Ah... ¡Yumán Woo! He oído mucho sobre usted.",
+      "PERSIAN": "آه ... یو ... یومان! من خیلی چیزها در مورد شما شنیده ام!"
+    }
+  }
+]

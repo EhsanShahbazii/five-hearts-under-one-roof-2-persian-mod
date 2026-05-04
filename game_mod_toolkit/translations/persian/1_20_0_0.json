@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 다리 깁스는 다음 진료 때 풀면 될 것 같아요. ",
+      "ENGLISH": "Mr. Yuman, I think we can remove your leg cast at your next appointment.",
+      "CHINESE_SIMPLIFIED": "宥万先生，腿上的石膏下次复诊的时候就可以拆掉了",
+      "CHINESE_TRADITIONAL": "宥萬先生，腿上的石膏下次看診時，應該就可以拆掉了",
+      "JAPANESE": "ユマンさん、足のギプスは次の診察のときに外しても大丈夫そうです",
+      "INDONESIAN": "Pak Yuman, gips di kaki sepertinya bisa dilepas waktu kontrol berikutnya.",
+      "PORTUGUESE": "Sr. Yuman, acho que podemos retirar o gesso da sua perna na próxima consulta.",
+      "SPANISH": "Señor Yumán, creo que podremos quitarle el yeso de la pierna en su próxima cita.",
+      "PERSIAN": "آقای یومان، فکر کنم جلسه ویزیت بعدی بتونیم گچ پاتون رو باز کنیم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로는 통원 치료로 전환합시다.",
+      "ENGLISH": "From now on, we’ll switch you to outpatient treatment.",
+      "CHINESE_SIMPLIFIED": "以后我们改为门诊治疗吧",
+      "CHINESE_TRADITIONAL": "接下來就轉為門診治療吧",
+      "JAPANESE": "これからは通院治療に切り替えましょう",
+      "INDONESIAN": "Mulai sekarang kita lanjutkan dengan rawat jalan aja.",
+      "PORTUGUESE": "De agora em diante, vamos continuar com tratamento ambulatorial.",
+      "SPANISH": "De ahora en adelante, vamos a pasar a tratamiento ambulatorio.",
+      "PERSIAN": "از این به بعد دیگه درمانتون سرپایی می‌شه و می‌تونین مرخص شین."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 더 궁금한 거 있으세요?",
+      "ENGLISH": "Any other questions?",
+      "CHINESE_SIMPLIFIED": "还有什么想问的吗？",
+      "CHINESE_TRADITIONAL": "還有其他問題想問嗎？",
+      "JAPANESE": "ほかに何かご不明な点はありますか？",
+      "INDONESIAN": "Ada hal lain yang ingin ditanyakan?",
+      "PORTUGUESE": "Você tem mais alguma dúvida?",
+      "SPANISH": "¿Tiene alguna pregunta?",
+      "PERSIAN": "سؤال دیگه‌ای ندارین؟"
+    }
+  }
+]

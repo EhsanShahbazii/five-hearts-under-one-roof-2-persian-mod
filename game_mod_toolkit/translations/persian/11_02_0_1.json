@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "와 그거 언제 물어보나 기다리고 있었어요.",
+      "ENGLISH": "Wow, I was waiting to ask you that.",
+      "CHINESE_SIMPLIFIED": "哇，我还在等你什么时候问这句呢",
+      "CHINESE_TRADITIONAL": "哇，我一直在等你什麼時候要問呢",
+      "JAPANESE": "うわ、それ聞かれるの待ってましたよ",
+      "INDONESIAN": "Wah aku udah nunggu kapan kamu nanya itu",
+      "PORTUGUESE": "Uau, tava esperando você perguntar isso.",
+      "SPANISH": "Wow, estaba esperando a que preguntaras eso.",
+      "PERSIAN": "وای، منتظر بودم همینو ازت بپرسم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 태어나서 본 생물 중에 제일 예쁘고",
+      "ENGLISH": "You're seriously the most beautiful creature I've ever seen in my life,",
+      "CHINESE_SIMPLIFIED": "真的，我这辈子见过的人类里你最漂亮",
+      "CHINESE_TRADITIONAL": "你真的是我出生以來看過最漂亮的人了",
+      "JAPANESE": "本当に、生まれてから見た生き物の中で一番綺麗です",
+      "INDONESIAN": "Serius deh, kamu makhluk paling cantik yang pernah aku lihat",
+      "PORTUGUESE": "De verdade, você é a coisa mais linda que já vi na minha vida.",
+      "SPANISH": "De verdad, eres lo más hermoso que he visto en mi vida.",
+      "PERSIAN": "تو واقعاً زیباترین موجودی هستی که تا حالا تو عمرم دیدم،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 진짜 천사같아요...",
+      "ENGLISH": "and today you look like an angel...",
+      "CHINESE_SIMPLIFIED": "今天真的跟天使下凡似的...",
+      "CHINESE_TRADITIONAL": "今天特別跟天使下凡一樣...",
+      "JAPANESE": "今日、ほんと天使みたいですよ…",
+      "INDONESIAN": "Hari ini bener-bener kayak malaikat",
+      "PORTUGUESE": "Hoje parece um anjo...",
+      "SPANISH": "Hoy pareces un ángel...",
+      "PERSIAN": "و امروز تو مثل یک فرشته ای..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요??",
+      "ENGLISH": "Really??",
+      "CHINESE_SIMPLIFIED": "真的吗？？",
+      "CHINESE_TRADITIONAL": "真的嗎？！",
+      "JAPANESE": "ほんとですか？？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "떨어질 때 안 아팠어요??",
+      "ENGLISH": "Didn't it hurt when you fell??",
+      "CHINESE_SIMPLIFIED": "掉下来的时候不疼吗？？",
+      "CHINESE_TRADITIONAL": "掉下來的時候不痛嗎？？",
+      "JAPANESE": "落ちてくるとき、痛くなかったですか？",
+      "INDONESIAN": "Pas jatuh dari langit sakit nggak?",
+      "PORTUGUESE": "Não doeu quando você caiu do céu?",
+      "SPANISH": "¿No te dolió cuando caíste del cielo?",
+      "PERSIAN": "وقتی زمین خوردی دردت نگرفت؟؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "날개 어딨어요! ",
+      "ENGLISH": "Where are your wings!",
+      "CHINESE_SIMPLIFIED": "翅膀藏哪儿啦！",
+      "CHINESE_TRADITIONAL": "翅膀藏在哪裡啦！",
+      "JAPANESE": "羽はどこですか！",
+      "INDONESIAN": "Sayapnya ke mana?",
+      "PORTUGUESE": "Onde estão suas asas?",
+      "SPANISH": "¿Dónde están tus alas?",
+      "PERSIAN": "بال‌هایت کجا هستند!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 그게 뭐예요",
+      "ENGLISH": "Oppa, what's that?",
+      "CHINESE_SIMPLIFIED": "哥哥，什么啦～",
+      "CHINESE_TRADITIONAL": "哥哥，胡說什麼啦～",
+      "JAPANESE": "もう、何それ〜",
+      "INDONESIAN": "Aduh, itu apaan sih",
+      "PORTUGUESE": "Oppa, o que você tá dizendo...?",
+      "SPANISH": "Oppa, ¿qué dices...?",
+      "PERSIAN": "یومان، اون چیه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 진짜 최고예요.",
+      "ENGLISH": "Today is truly the best.",
+      "CHINESE_SIMPLIFIED": "你今天真的是最美的",
+      "CHINESE_TRADITIONAL": "你今天真的超級美！",
+      "JAPANESE": "今日ほんと最高です",
+      "INDONESIAN": "Tapi hari ini kamu beneran luar biasa",
+      "PORTUGUESE": "Hoje você tá incrível.",
+      "SPANISH": "Hoy estás increíble.",
+      "PERSIAN": "امروز واقعاً بهترینه."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "느낌 좋은데요?",
+      "ENGLISH": "Feels good, huh?",
+      "CHINESE_SIMPLIFIED": "我现在的感觉很好～",
+      "CHINESE_TRADITIONAL": "我現在感覺很好～",
+      "JAPANESE": "なんかいい感じですね？",
+      "INDONESIAN": "Aku punya firasat bagus nih",
+      "PORTUGUESE": "Você me faz sentir bem.",
+      "SPANISH": "Me haces sentir bien.",
+      "PERSIAN": "حس خوبی داره، ها؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요! 칭찬해 줘서.",
+      "ENGLISH": "Thanks! For the compliment.",
+      "CHINESE_SIMPLIFIED": "谢谢你夸我！",
+      "CHINESE_TRADITIONAL": "謝謝你的稱讚！",
+      "JAPANESE": "ありがとう、褒めてくれて",
+      "INDONESIAN": "Makasih ya udah muji",
+      "PORTUGUESE": "Obrigada! Pelo elogio.",
+      "SPANISH": "¡Gracias! Por el cumplido.",
+      "PERSIAN": "ممنون! از تعریفت."
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그쪽이 뀐 거죠.",
+      "ENGLISH": "That was you, wasn’t it?",
+      "CHINESE_SIMPLIFIED": "是你放的吧",
+      "CHINESE_TRADITIONAL": "是你放的吧",
+      "JAPANESE": "そっちがおならしたんですよね？",
+      "INDONESIAN": "Itu kamu, ya?",
+      "PORTUGUESE": "Foi você quem soltou.",
+      "SPANISH": "Fuiste usted la que se lo tiró.",
+      "PERSIAN": "اون تو بودی، نه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아니에요! ",
+      "ENGLISH": "N-No! It was this chicken sound!",
+      "CHINESE_SIMPLIFIED": "啊，不是的！",
+      "CHINESE_TRADITIONAL": "啊，不是的！",
+      "JAPANESE": "ち、違います！",
+      "INDONESIAN": "N—nggak! Itu suara ayam, kok!",
+      "PORTUGUESE": "N-não, não fui eu!",
+      "SPANISH": "¡N-no, no fui yo!",
+      "PERSIAN": "ن-نه! این صدای مرغ بود!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이 닭소리에요!",
+      "ENGLISH": "This—this thing right here!",
+      "CHINESE_SIMPLIFIED": "是这只鸡的声音啦！",
+      "CHINESE_TRADITIONAL": "是這只雞的聲音啦！",
+      "JAPANESE": "これ、ニワトリの鳴き声です！",
+      "INDONESIAN": "Ini nih—barang yang satu ini!",
+      "PORTUGUESE": "Foi esse frango!",
+      "SPANISH": "¡Fue este pollo!",
+      "PERSIAN": "این - این چیز در اینجا!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그거였어요?",
+      "ENGLISH": "Oh… that’s what it was?",
+      "CHINESE_SIMPLIFIED": "啊，原来是这个啊？",
+      "CHINESE_TRADITIONAL": "啊，原來是這個啊？",
+      "JAPANESE": "あ、それだったんですか？",
+      "INDONESIAN": "Oh… jadi itu ya suaranya?",
+      "PORTUGUESE": "Ah, era isso?",
+      "SPANISH": "¿Ah, era eso?",
+      "PERSIAN": "اوه... همین بود؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 방귀 아닙니다...!",
+      "ENGLISH": "yep! Totally not a fart!",
+      "CHINESE_SIMPLIFIED": "对！不是放屁...！",
+      "CHINESE_TRADITIONAL": "對！不是放屁...！",
+      "JAPANESE": "はい！おならじゃないです！",
+      "INDONESIAN": "iya! Sama sekali bukan kentut!",
+      "PORTUGUESE": "sim! Não foi um pum!",
+      "SPANISH": "sí! ¡No fue un gas!",
+      "PERSIAN": "بله کلا گوز نیست!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 저딴걸 들고 출근을 하냐",
+      "ENGLISH": "Who the hell brings something like that to work…",
+      "CHINESE_SIMPLIFIED": "上班还带这种东西来，真是的",
+      "CHINESE_TRADITIONAL": "上班還帶這種東西來，真是的",
+      "JAPANESE": "なんでそんなの持って出勤するんだ…",
+      "INDONESIAN": "Siapa juga yang bawa beginian ke kantor sih…",
+      "PORTUGUESE": "E por que você trouxe uma coisa dessas pro trabalho?",
+      "SPANISH": "¿Y por qué traes algo así al trabajo?",
+      "PERSIAN": "چه کسی چنین چیزی را سر کار آورده است…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "죄송합니다...",
+      "ENGLISH": "I’m sorry…",
+      "CHINESE_SIMPLIFIED": "对不起...",
+      "CHINESE_TRADITIONAL": "對不起...",
+      "JAPANESE": "すみません…",
+      "INDONESIAN": "Maaf…",
+      "PORTUGUESE": "Desculpa...",
+      "SPANISH": "Lo siento...",
+      "PERSIAN": "متاسفم…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.3
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워 유만 씨.",
+      "ENGLISH": "Thanks, Yuman.",
+      "CHINESE_SIMPLIFIED": "谢谢你，吴宥万",
+      "CHINESE_TRADITIONAL": "謝謝你，吳宥萬",
+      "JAPANESE": "ありがとう、ユマンさん",
+      "INDONESIAN": "Makasih ya, Yuman.",
+      "PORTUGUESE": "Obrigada, Yumán.",
+      "SPANISH": "Gracias, Yumán.",
+      "PERSIAN": "ممنون، یومان."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.1
+    },
+    "SCRIPT": {
+      "KOREAN": "덕분에 잘 넘어갔어.",
+      "ENGLISH": "You really saved me back there.",
+      "CHINESE_SIMPLIFIED": "多亏你才混过去了",
+      "CHINESE_TRADITIONAL": "多虧你才混過去了",
+      "JAPANESE": "おかげで助かったよ",
+      "INDONESIAN": "Kamu bener-bener nyelametin aku tadi.",
+      "PORTUGUESE": "Você me salvou dessa vez.",
+      "SPANISH": "Me salvaste esta vez.",
+      "PERSIAN": "تو واقعا منو نجات دادی اونجا"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 다음에도 방구 뀌고 싶으시면 저한테 말씀 해주세요!",
+      "ENGLISH": "Anytime! Just give me a heads-up next time before you let one rip!",
+      "CHINESE_SIMPLIFIED": "嗯！您下次放屁之前跟我说一声就行！",
+      "CHINESE_TRADITIONAL": "嗯！您下次放屁之前跟我說一聲就行！",
+      "JAPANESE": "はい！今度もしおならする前は、ちゃんと一言だけ言ってくださいね！",
+      "INDONESIAN": "Kapan aja! Tapi lain kali, kasih kode dulu sebelum kamu ngelepas gas!",
+      "PORTUGUESE": "De nada! Mas da próxima vez, me avisa antes.",
+      "SPANISH": "¡De nada! Pero la próxima vez, avíseme antes.",
+      "PERSIAN": "هر زمان! فقط دفعه بعد قبل از اینکه اجازه بدی یکی پاره کنه به من یه سر بزن!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그럴 일 없거든? 빨리와.",
+      "ENGLISH": "That’s not gonna happen, alright? Now hurry up.",
+      "CHINESE_SIMPLIFIED": "不会有下次了！快走啦",
+      "CHINESE_TRADITIONAL": "不會有下次了！快走啦",
+      "JAPANESE": "そんなことないから！ 早く来て",
+      "INDONESIAN": "Itu nggak bakal kejadian lagi, oke? Sekarang cepetan.",
+      "PORTUGUESE": "Não vai ter próxima! Vamos logo!",
+      "SPANISH": "¡No hay próxima! ¡Vamos ya!",
+      "PERSIAN": "این اتفاق نمی افتد، خوب؟ حالا عجله کن"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes, ma’am!",
+      "CHINESE_SIMPLIFIED": "好！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Siap, Bu!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله خانم!"
+    }
+  }
+]

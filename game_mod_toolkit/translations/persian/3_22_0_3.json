@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤 저 갑자기 급한 볼일이 생각나서요! ",
+      "ENGLISH": "Nurse Gyu-ri, I just remembered something urgent—",
+      "CHINESE_SIMPLIFIED": "方护士！我突然想起有件急事要处理！",
+      "CHINESE_TRADITIONAL": "久梨護理師！我臨時有急事要先走了！",
+      "JAPANESE": "ギュリ先生！ ちょっと急な用事を思い出したんで！",
+      "INDONESIAN": "Perawat Gyu-ri, aku baru saja teringat sesuatu yang mendesak—",
+      "PORTUGUESE": "Enfermeira Gyuri! Lembrei que tenho uma coisa urgente pra fazer!",
+      "SPANISH": "¡Enfermera Gyuri! ¡Recordé que tengo algo urgente que hacer!",
+      "PERSIAN": "پرستار گیو-ری، من فقط یک چیز فوری به یاد آوردم-"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "먼저 가볼게요!",
+      "ENGLISH": "I’ve gotta go!",
+      "CHINESE_SIMPLIFIED": "我先走啦！",
+      "CHINESE_TRADITIONAL": "我先走一步了！",
+      "JAPANESE": "先に行きますね！",
+      "INDONESIAN": "Aku harus pergi!",
+      "PORTUGUESE": "Preciso ir agora!",
+      "SPANISH": "¡Tengo que irme!",
+      "PERSIAN": "من باید بروم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네 지금요?",
+      "ENGLISH": "Right now?",
+      "CHINESE_SIMPLIFIED": "啊？现在吗？",
+      "CHINESE_TRADITIONAL": "啊？現在嗎？",
+      "JAPANESE": "えっ 今ですか？",
+      "INDONESIAN": "Sekarang?",
+      "PORTUGUESE": "Agora mesmo?",
+      "SPANISH": "¿Ahora mismo?",
+      "PERSIAN": "همین الان؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요!!! 병원에서 봐요!!!",
+      "ENGLISH": "I’m really sorry!!! I’ll see you at the hospital!!!",
+      "CHINESE_SIMPLIFIED": "对不起！！！医院再见！！！",
+      "CHINESE_TRADITIONAL": "抱歉！！！我們在醫院見吧！！！",
+      "JAPANESE": "ごめんなさい！！！ 病院で会いましょう！！！",
+      "INDONESIAN": "Aku benar-benar minta maaf!!! Sampai jumpa di rumah sakit!!!",
+      "PORTUGUESE": "Desculpa! A gente se vê no hospital!!!",
+      "SPANISH": "¡Perdón! ¡Nos vemos en el hospital!!!",
+      "PERSIAN": "واقعا متاسفم!!! تو بیمارستان میبینمت!!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 유만 씨!!",
+      "ENGLISH": "Ah... Yuman!!",
+      "CHINESE_SIMPLIFIED": "啊...宥万先生！！",
+      "CHINESE_TRADITIONAL": "啊...宥萬先生！！",
+      "JAPANESE": "あ… ユマンさん！！",
+      "INDONESIAN": "Ah... Yuman!!",
+      "PORTUGUESE": "Ah... Yumán!",
+      "SPANISH": "Ah... ¡Yumán!",
+      "PERSIAN": "آه... یومان!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!!",
+      "ENGLISH": "Yuman!!",
+      "CHINESE_SIMPLIFIED": "宥万先生！！",
+      "CHINESE_TRADITIONAL": "宥萬先生！！",
+      "JAPANESE": "ユマンさん！！",
+      "INDONESIAN": "Yuman!!",
+      "PORTUGUESE": "Yumán!!",
+      "SPANISH": "¡Yumán!!",
+      "PERSIAN": "یومان!!"
+    }
+  }
+]

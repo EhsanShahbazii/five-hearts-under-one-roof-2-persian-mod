@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 일단 저 하는 거 한번 보시겠어요?",
+      "ENGLISH": "Ah— first, do you want to watch me do it?",
+      "CHINESE_SIMPLIFIED": "你先看我示范一下吧？",
+      "CHINESE_TRADITIONAL": "你先看我示範一下吧？",
+      "JAPANESE": "あの、まず俺がやるところ見てください",
+      "INDONESIAN": "Ah—mau lihat aku duluan nggak?",
+      "PORTUGUESE": "Ah, quer ver como eu faço primeiro?",
+      "SPANISH": "Ah, ¿puede ver cómo lo hago primero?",
+      "PERSIAN": "آه- اول، می‌خوای این کار را تماشا کنم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 유만 씨 그렇게 잘 쳐?",
+      "ENGLISH": "Oh~ Yuman, you hit that well?",
+      "CHINESE_SIMPLIFIED": "喔～你这么会打的吗？",
+      "CHINESE_TRADITIONAL": "喔～你這麽會打嗎？",
+      "JAPANESE": "お〜 ユマンさんそんなに上手く打てるの？",
+      "INDONESIAN": "Oh~ Yuman, kamu jago juga mukulnya ya?",
+      "PORTUGUESE": "Oh~ Yumán, você joga tão bem assim?",
+      "SPANISH": "Oh~ Yumán, ¿juegas así de bien?",
+      "PERSIAN": "اوه ~ یومان، آنقدر خوب زدی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 하지 말까?",
+      "ENGLISH": "Ah, should I not do it?",
+      "CHINESE_SIMPLIFIED": "啊，要不还是算了？",
+      "CHINESE_TRADITIONAL": "啊，不然還是算了？",
+      "JAPANESE": "あ、やめようかな？",
+      "INDONESIAN": "Ah, jangan-jangan aku nggak usah mukul?",
+      "PORTUGUESE": "Ah, não devia fazer isso?",
+      "SPANISH": "Ah, ¿no debería hacerlo?",
+      "PERSIAN": "آه، نباید این کار را انجام دهم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么？",
+      "CHINESE_TRADITIONAL": "為什麽？",
+      "JAPANESE": "どうして？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "SPANISH": "¿Por qué?",
+      "PERSIAN": "چرا؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 너무 잘해서 과장님 기 죽을 거 같은데.",
+      "ENGLISH": "I might be so good it makes the Manager feel bad.",
+      "CHINESE_SIMPLIFIED": "我怕我打得太好了会让科长不高兴",
+      "CHINESE_TRADITIONAL": "我怕我打得太好了會讓課長不高興",
+      "JAPANESE": "俺が上手すぎて課長が気おされちゃうかもって思って",
+      "INDONESIAN": "Takutnya aku terlalu jago, jadi bikin Manajer minder.",
+      "PORTUGUESE": "Acho que sou tão bom que você vai acabar se sentindo intimidada.",
+      "SPANISH": "Creo que soy tan bueno que usted se va a sentir intimidada.",
+      "PERSIAN": "من ممکنه آنقدر خوب باشم که باعث شود مدیر احساس بدی کند."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 기 죽는다고? ",
+      "ENGLISH": "Make you feel bad?",
+      "CHINESE_SIMPLIFIED": "我会不高兴？",
+      "CHINESE_TRADITIONAL": "我會不高興？",
+      "JAPANESE": "私が気おされるって？",
+      "INDONESIAN": "Minder, katanya?",
+      "PORTUGUESE": "Que eu vou me sentir intimidada?",
+      "SPANISH": "¿Que yo me voy a sentir intimidada?",
+      "PERSIAN": "حال شما را بد می کند؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그런 걱정은 하지 마.",
+      "ENGLISH": "Don’t worry about that.",
+      "CHINESE_SIMPLIFIED": "这种担心完全多余了～",
+      "CHINESE_TRADITIONAL": "不用擔心這種事情",
+      "JAPANESE": "そんな心配しなくていいよ",
+      "INDONESIAN": "Nggak usah mikirin itu.",
+      "PORTUGUESE": "Não se preocupa com isso.",
+      "SPANISH": "No te preocupes por eso.",
+      "PERSIAN": "نگران این نباش"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 한번 보여드릴게요.",
+      "ENGLISH": "Okay, then I’ll show you.",
+      "CHINESE_SIMPLIFIED": "那我就来示范一下吧",
+      "CHINESE_TRADITIONAL": "那我就來示範一下吧",
+      "JAPANESE": "じゃあ一回見せますね",
+      "INDONESIAN": "Oke deh, kalau gitu aku tunjukin.",
+      "PORTUGUESE": "Então, deixa eu te mostrar.",
+      "SPANISH": "Entonces, déjeme mostrarle.",
+      "PERSIAN": "باشه پس بهت نشون میدم"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "자 발바닥 위치랑, 허리랑, 다리랑",
+      "ENGLISH": "So—watch my foot placement, hips, and legs closely.",
+      "CHINESE_SIMPLIFIED": "注意脚底位置、腰部和腿部",
+      "CHINESE_TRADITIONAL": "注意腳底位置、腰部和腿部",
+      "JAPANESE": "ほら、足の裏の位置と腰と脚と",
+      "INDONESIAN": "Jadi—liatin posisi kaki aku, pinggul, sama gerakan kakinya ya.",
+      "PORTUGUESE": "Certo, a posição das solas dos pés, da cintura e das pernas…",
+      "SPANISH": "Bien, la posición de las plantas de los pies, la cintura y las piernas",
+      "PERSIAN": "بنابراین - به محل قرارگیری پا، باسن و پاهای من دقت کنید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 보셔야 돼요.",
+      "ENGLISH": "Make sure you watch carefully.",
+      "CHINESE_SIMPLIFIED": "要仔细看好哦",
+      "CHINESE_TRADITIONAL": "要仔細看好哦",
+      "JAPANESE": "よく見ててください",
+      "INDONESIAN": "Harus diperhatiin baik-baik.",
+      "PORTUGUESE": "Tem que prestar bastante atenção.",
+      "SPANISH": "Tiene que fijarse bien.",
+      "PERSIAN": "حتما با دقت تماشا کنید."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "알았으니까 빨리 쳐봐.",
+      "ENGLISH": "Alright, so just swing already.",
+      "CHINESE_SIMPLIFIED": "知道了，快打吧",
+      "CHINESE_TRADITIONAL": "知道了，快打吧",
+      "JAPANESE": "わかったから早く打ってみて",
+      "INDONESIAN": "Oke, oke—ayun aja, buruan.",
+      "PORTUGUESE": "Tá, tá. Poupa o discurso e acerta logo.",
+      "SPANISH": "Ya, ya. Ahórratelo y golpea.",
+      "PERSIAN": "خوب، پس فقط از قبل تاب بخورید."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "자 갑니다...",
+      "ENGLISH": "Here I go...",
+      "CHINESE_SIMPLIFIED": "看好了...",
+      "CHINESE_TRADITIONAL": "看好了...",
+      "JAPANESE": "じゃあ行きます…",
+      "INDONESIAN": "Oke, siap ya...",
+      "PORTUGUESE": "Pronto, lá vou eu...",
+      "SPANISH": "Listo, aquí voy...",
+      "PERSIAN": "اینجا من برم..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 32.7,
+      "HIDE": 35.4
+    },
+    "SCRIPT": {
+      "KOREAN": "메가스톰 스윙~~!",
+      "ENGLISH": "Mega-Storm Swing~~!",
+      "CHINESE_SIMPLIFIED": "无敌暴风挥杆~~！",
+      "CHINESE_TRADITIONAL": "無敵暴風揮桿~~！",
+      "JAPANESE": "メガストームスイング〜〜！",
+      "INDONESIAN": "Mega-Storm Swing~~!",
+      "PORTUGUESE": "Mega Storm Swing~~!",
+      "SPANISH": "¡Mega Storm Swing~~!",
+      "PERSIAN": "نوسان طوفان بزرگ~~!"
+    }
+  }
+]

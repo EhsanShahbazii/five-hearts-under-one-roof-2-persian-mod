@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 아이스크림 어디서 났어요?",
+      "ENGLISH": "Huh? Where did you get the ice cream?",
+      "CHINESE_SIMPLIFIED": "咦？这冰淇淋哪来的？",
+      "CHINESE_TRADITIONAL": "咦？這是哪裡來的冰淇淋？",
+      "JAPANESE": "あれ？アイスどこで買ったんですか？",
+      "INDONESIAN": "Hah? Es krim itu dari mana?",
+      "PORTUGUESE": "Hã? De onde você tirou esse sorvete?",
+      "SPANISH": "¿Eh? ¿De dónde sacaste ese helado?",
+      "PERSIAN": "ها؟ بستنی رو از کجا گرفتی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 아까 장 볼 때 슬쩍 담아놨어요! ",
+      "ENGLISH": "Oh! I slipped it into the cart earlier when we were shopping.",
+      "CHINESE_SIMPLIFIED": "啊！刚才买东西的时候顺手拿了一个！",
+      "CHINESE_TRADITIONAL": "啊！剛才買東西的時候順手拿了一個！",
+      "JAPANESE": "あ！さっき買い出しのときにこっそりカゴに入れときました！",
+      "INDONESIAN": "Oh! Aku masukin ke keranjang diam-diam pas kita belanja tadi.",
+      "PORTUGUESE": "Ah! Coloquei no carrinho quando a gente foi às compras.",
+      "SPANISH": "¡Ah! Lo metí en el carrito cuando fuimos a comprar.",
+      "PERSIAN": "اوه! من قبل از خرید، اونو در سبد خرید انداختم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "한 입 하실래요?",
+      "ENGLISH": "Wanna try a bite?",
+      "CHINESE_SIMPLIFIED": "要尝一口吗？",
+      "CHINESE_TRADITIONAL": "要吃一口嗎？",
+      "JAPANESE": "一口食べます？",
+      "INDONESIAN": "Mau coba sedikit?",
+      "PORTUGUESE": "Quer provar?",
+      "SPANISH": "¿Quieres probar?",
+      "PERSIAN": "می خواهید یک لقمه را امتحان کنید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저 그럼 한 입만 먹을게요! ",
+      "ENGLISH": "Then… just a little bite, okay?",
+      "CHINESE_SIMPLIFIED": "那我就尝一口好了！",
+      "CHINESE_TRADITIONAL": "那我吃一口看看！",
+      "JAPANESE": "じゃあ一口だけ",
+      "INDONESIAN": "Tapi… sedikit aja ya?",
+      "PORTUGUESE": "Só uma provadinha.",
+      "SPANISH": "Solo una probadita.",
+      "PERSIAN": "سپس... فقط یک گاز کوچک، باشه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 한 입 하세요.",
+      "ENGLISH": "Go ahead—have a bite.",
+      "CHINESE_SIMPLIFIED": "好啊！尝一口吧",
+      "CHINESE_TRADITIONAL": "好啊！吃一口",
+      "JAPANESE": "はい！一口どうぞ",
+      "INDONESIAN": "Ayo, cobain deh.",
+      "PORTUGUESE": "Sim! Toma.",
+      "SPANISH": "¡Sí! Toma.",
+      "PERSIAN": "برو - یک گاز بخور."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이걸 다 먹으면 어떡해요!!",
+      "ENGLISH": "Hey! You weren’t supposed to eat the whole thing!!",
+      "CHINESE_SIMPLIFIED": "你怎么能都吃完啦！！",
+      "CHINESE_TRADITIONAL": "你全部吃完的話怎麼辦啊！！",
+      "JAPANESE": "これ全部食べたらどうするんですか！！",
+      "INDONESIAN": "Eh! Bukan dimakan semuanya juga!!",
+      "PORTUGUESE": "Ei! Você tá comendo tudo!",
+      "SPANISH": "¡Oye! ¡Te lo estás comiendo todo!",
+      "PERSIAN": "سلام! قرار نبود کل غذا رو بخوری!!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.3
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요 장난친 건데 ",
+      "ENGLISH": "Sorry! I was just messing with you.",
+      "CHINESE_SIMPLIFIED": "对不起啦，我只是开个玩笑～",
+      "CHINESE_TRADITIONAL": "對不起，我只是開玩笑啦",
+      "JAPANESE": "ごめん 冗談のつもりだったのに",
+      "INDONESIAN": "Maaf! Aku cuma iseng doang kok.",
+      "PORTUGUESE": "Desculpa, eu só queria te pregar uma peça…",
+      "SPANISH": "Perdón, solo estaba jugando…",
+      "PERSIAN": "متاسفم! فقط داشتم باهات حرف میزدم"
+    }
+  }
+]

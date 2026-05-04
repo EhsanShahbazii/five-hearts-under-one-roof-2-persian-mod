@@ -1,0 +1,675 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 오늘 과장님한테 끝나고 저녁 먹자고 할까?",
+      "ENGLISH": "Hmm, should I ask the Manager to have dinner with me after work today?",
+      "CHINESE_SIMPLIFIED": "啊，今天下班后要不要约科长一起吃晚饭？",
+      "CHINESE_TRADITIONAL": "啊，今天要不要約課長下班後一起吃晚餐？",
+      "JAPANESE": "あ、今日仕事終わったら課長に夕飯誘おうかな？",
+      "INDONESIAN": "Hmm, ajak Manajer makan malam bareng habis kerja nggak ya hari ini?",
+      "PORTUGUESE": "Ah, será que eu devia convidar a Gran pra jantar depois do trabalho?",
+      "SPANISH": "Ah, ¿debería invitar a Gran a cenar después del trabajo?",
+      "PERSIAN": "هوم، باید از مدیر بخواهم که امروز بعد از کار با من شام بخورد؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": " 아~ 뭐 먹지?",
+      "ENGLISH": "Ah~ what should we eat?",
+      "CHINESE_SIMPLIFIED": "啊~吃什么好呢？",
+      "CHINESE_TRADITIONAL": "啊～要吃什麼好呢？",
+      "JAPANESE": "あ〜何食べよう",
+      "INDONESIAN": "Ah~ enaknya makan apa ya?",
+      "PORTUGUESE": "Ah~ o que a gente poderia comer?",
+      "SPANISH": "Ah~ ¿qué podríamos comer?",
+      "PERSIAN": "آه ~ چی بخوریم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "자! 자! 자! 업무 하던 것들 잠깐 멈추시고!",
+      "ENGLISH": "Alright! Alright! Everyone, pause what you’re working on for a moment!",
+      "CHINESE_SIMPLIFIED": "来！来！来！先把手头工作都放一下！",
+      "CHINESE_TRADITIONAL": "各位！各位！各位！先暫時停一下手邊的工作！",
+      "JAPANESE": "はい！はい！はい！みなさん、ちょっと手を止めて〜！",
+      "INDONESIAN": "Oke! Oke! Semuanya, berhenti kerja sebentar dulu ya!",
+      "PORTUGUESE": "Atenção, atenção! Parem o que estão fazendo um instante!",
+      "SPANISH": "¡Atención, atención! ¡Dejen lo que están haciendo un momento!",
+      "PERSIAN": "باشه باشه همه، کاری را که روی اون کار می کنید، یک لحظه مکث کنید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 우리 회사에 아주 깜~찍한 소식이 생겼어요~ 그란 씨",
+      "ENGLISH": "We have adorable news in the company today — Gran-nim!",
+      "CHINESE_SIMPLIFIED": "今天我们公司有个超~有爱的消息要宣布~圆圆！",
+      "CHINESE_TRADITIONAL": "今天我們公司有一件非常～有愛～的消息要宣布～圓圓！",
+      "JAPANESE": "今日はうちの会社に、とってもキュートなニュースがあります〜！グランさん！",
+      "INDONESIAN": "Hari ini ada kabar menggemaskan di kantor — dari Gran-nim!",
+      "PORTUGUESE": "Hoje temos uma notícia super fofa na empresa~! Senhora Gran.",
+      "SPANISH": "¡Hoy tenemos una noticia súper adorable en la empresa~! Señora Gran.",
+      "PERSIAN": "ما امروز خبرهای شایان ستایشی در شرکت داریم - گران-آقا!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그동안 눈치채셨을지도 모르겠지만 ",
+      "ENGLISH": "Some of you might’ve already noticed…",
+      "CHINESE_SIMPLIFIED": "虽然大家可能早就察觉到了",
+      "CHINESE_TRADITIONAL": "雖然大家可能早就察覺到了",
+      "JAPANESE": "もう気づいてるかもしれませんが",
+      "INDONESIAN": "Mungkin beberapa dari kalian udah curiga…",
+      "PORTUGUESE": "Talvez alguns já tenham percebido,",
+      "SPANISH": "Puede que algunos ya lo hayan notado,",
+      "PERSIAN": "ممکنه برخی از شما قبلاً متوجه شده باشید…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저한테 소중한 사람이 생겼어요.",
+      "ENGLISH": "but I’ve found someone very precious to me.",
+      "CHINESE_SIMPLIFIED": "但我遇到了对我来说非常珍贵的人",
+      "CHINESE_TRADITIONAL": "我身邊出現了一個對我來說很珍貴的人",
+      "JAPANESE": "実は私に大切な人ができました",
+      "INDONESIAN": "tapi aku udah nemuin seseorang yang sangat berarti buat aku.",
+      "PORTUGUESE": "mas… tem alguém muito especial pra mim.",
+      "SPANISH": "pero… hay alguien muy especial para mí.",
+      "PERSIAN": "اما من کسی را پیدا کردم که برایم بسیار ارزشمند است."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 과장님... 사람도 많은데...",
+      "ENGLISH": "Ah, Manager… there are a lot of people here…",
+      "CHINESE_SIMPLIFIED": "哎呀，科长...这么多人看着呢...",
+      "CHINESE_TRADITIONAL": "哎呀，課長...這裡這麼多人",
+      "JAPANESE": "あっ、課長…人も多いのに…",
+      "INDONESIAN": "Ah, Manajer… di sini banyak orang lho…",
+      "PORTUGUESE": "Ai, chefa… tem muita gente aqui…",
+      "SPANISH": "Ay, jefa… hay mucha gente aquí…",
+      "PERSIAN": "آه، مدیر… افراد زیادی اینجا هستند…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "자기야, 자기가 얘기해.",
+      "ENGLISH": "Babe, you say it.",
+      "CHINESE_SIMPLIFIED": "亲爱的，来，你自己说吧",
+      "CHINESE_TRADITIONAL": "親愛的，你來說吧",
+      "JAPANESE": "ねぇ、ダーリン、ダーリンが言って",
+      "INDONESIAN": "Sayang, kamu yang ngomong, deh.",
+      "PORTUGUESE": "Amor, diz você.",
+      "SPANISH": "Cariño, dilo tú.",
+      "PERSIAN": "عزیزم تو بگو"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "- 어?\n- 아이...",
+      "ENGLISH": "-Huh?\n- Uh…",
+      "CHINESE_SIMPLIFIED": "-嗯？\n-哎呀...",
+      "CHINESE_TRADITIONAL": "-嗯？\n-哎呀...",
+      "JAPANESE": "‐えっ？\n‐ちょっ…",
+      "INDONESIAN": "—Hah?\n— Uh…",
+      "PORTUGUESE": "– Hã?\n– Ai…",
+      "SPANISH": "- ¿Eh?\n– Ay…",
+      "PERSIAN": "-ها؟ - اوه…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "최우선! 최우선! 최우선!",
+      "ENGLISH": "Highest priority! Highest priority! Highest priority!",
+      "CHINESE_SIMPLIFIED": "崔优先！崔优先！崔优先！",
+      "CHINESE_TRADITIONAL": "崔宇善！崔宇善！崔宇善",
+      "JAPANESE": "チェ・ウソン！ チェ・ウソン！ チェ・ウソン！",
+      "INDONESIAN": "Prioritas tertinggi! Prioritas tertinggi! Prioritas tertinggi!",
+      "PORTUGUESE": " Choi Wooseon! Choi Wooseon! Choi Wooseon!",
+      "SPANISH": "¡Choi Wooseon! ¡Choi Wooseon! ¡Choi Wooseon!",
+      "PERSIAN": "بالاترین اولویت! بالاترین اولویت! بالاترین اولویت!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 34.1
+    },
+    "SCRIPT": {
+      "KOREAN": "- 최우선! 최우선! 최우선!\n- 앗...\n",
+      "ENGLISH": "—  Choi Wooseon! Choi Wooseon!\n— Ah…",
+      "CHINESE_SIMPLIFIED": "-崔优先！崔优先！崔优先！\n-啊...",
+      "CHINESE_TRADITIONAL": "-崔宇善！崔宇善！崔宇善\n-啊...",
+      "JAPANESE": "‐チェ・ウソン！ チェ・ウソン！ チェ・ウソン！\n‐あっ…",
+      "INDONESIAN": "— Choi Wooseon! Choi Wooseon!\n— Ah…",
+      "PORTUGUESE": "– Choi Wooseon! Choi Wooseon! Choi Wooseon!\n– Ah...",
+      "SPANISH": "- ¡Choi Wooseon! ¡Choi Wooseon! ¡Choi Wooseon!\n- Ah...",
+      "PERSIAN": "- چوی ووسون! چوی ووسون! - آه…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 34.9
+    },
+    "SCRIPT": {
+      "KOREAN": "최우선! 최우선! 최우선!",
+      "ENGLISH": "Highest priority! Highest priority! Highest priority!",
+      "CHINESE_SIMPLIFIED": "崔优先！崔优先！崔优先！",
+      "CHINESE_TRADITIONAL": "崔宇善！崔宇善！崔宇善",
+      "JAPANESE": "チェ・ウソン！ チェ・ウソン！ チェ・ウソン！",
+      "INDONESIAN": "Prioritas tertinggi! Prioritas tertinggi! Prioritas tertinggi!",
+      "PORTUGUESE": "Choi Wooseon! Choi Wooseon! Choi Wooseon!",
+      "SPANISH": "¡Choi Wooseon! ¡Choi Wooseon! ¡Choi Wooseon!",
+      "PERSIAN": "بالاترین اولویت! بالاترین اولویت! بالاترین اولویت!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 35.6
+    },
+    "SCRIPT": {
+      "KOREAN": "\"- 최우선! 최우선! 최우선!\n- 아, 진짜!",
+      "ENGLISH": "—  Choi Wooseon! Choi Wooseon!\n— For real?!",
+      "CHINESE_SIMPLIFIED": "-崔优先！崔优先！崔优先！\n-啊，真是的！",
+      "CHINESE_TRADITIONAL": "-崔宇善！崔宇善！崔宇善\n-啊，真是的！",
+      "JAPANESE": "‐チェ・ウソン！ チェ・ウソン！ チェ・ウソン！\n‐いや、ほんとに",
+      "INDONESIAN": "— Choi Wooseon! Choi Wooseon!\n— Seriusan?!",
+      "PORTUGUESE": "– Choi Wooseon! Choi Wooseon! Choi Wooseon!\n– Sério...?!!",
+      "SPANISH": "- ¡Choi Wooseon! ¡Choi Wooseon! ¡Choi Wooseon!\n- ¿¡En serio...?!!",
+      "PERSIAN": "- چوی ووسون! چوی ووسون! -واقعا؟!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 36.7
+    },
+    "SCRIPT": {
+      "KOREAN": "최우선! 최우선! 최우선!",
+      "ENGLISH": "Highest priority! Highest priority! Highest priority!",
+      "CHINESE_SIMPLIFIED": "崔优先！崔优先！崔优先！",
+      "CHINESE_TRADITIONAL": "崔宇善！崔宇善！崔宇善",
+      "JAPANESE": "チェ・ウソン！ チェ・ウソン！ チェ・ウソン！",
+      "INDONESIAN": "Prioritas tertinggi! Prioritas tertinggi! Prioritas tertinggi!",
+      "PORTUGUESE": "Choi Wooseon! Choi Wooseon! Choi Wooseon!",
+      "SPANISH": "¡Choi Wooseon! ¡Choi Wooseon! ¡Choi Wooseon!",
+      "PERSIAN": "بالاترین اولویت! بالاترین اولویت! بالاترین اولویت!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 39.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 다들 진짜 쑥스럽게 왜 그러세요!",
+      "ENGLISH": "Oh come on, why is everyone getting so shy now!",
+      "CHINESE_SIMPLIFIED": "哎呀，大家干嘛这么起哄啊，让人怪害羞的！",
+      "CHINESE_TRADITIONAL": "啊，大家真的別這樣，讓人怪害羞的！",
+      "JAPANESE": "あ、みなさ照れるじゃないですか！",
+      "INDONESIAN": "Eh, ayolah, kenapa sekarang jadi pada malu sih!",
+      "PORTUGUESE": "Ai, pelo amor de Deus, que vergonha!",
+      "SPANISH": "Ay, ¡por favor, qué vergüenza!",
+      "PERSIAN": "بیا چرا الان همه خجالتی شدن!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 39.3,
+      "HIDE": 42.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아주 그냥 둘이 일만 척척 맞는 줄 알았더니만~",
+      "ENGLISH": "We all thought you two only worked well together~",
+      "CHINESE_SIMPLIFIED": "还以为你俩只是工作搭档特别默契呢~",
+      "CHINESE_TRADITIONAL": "我還以為你們兩人只有在工作上配合得天衣無縫",
+      "JAPANESE": "ふたりは仕事の息だけ合ってると思ってたのに～",
+      "INDONESIAN": "Kita semua pikir kalian cuma cocok kerja bareng~",
+      "PORTUGUESE": "E eu que achava que vocês só faziam uma boa dupla de trabalho~",
+      "SPANISH": "Y yo que pensaba que solo hacían buen equipo de trabajo~",
+      "PERSIAN": "همه ما فکر می کردیم که شما دو نفر فقط با هم خوب کار می کنید"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 42.9,
+      "HIDE": 44.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 아니었나 봐? 응?",
+      "ENGLISH": "But I guess that wasn’t all, huh? Right?",
+      "CHINESE_SIMPLIFIED": "没想到不是那回事啊，是吧？",
+      "CHINESE_TRADITIONAL": "看來不是只有這樣啊，是吧？",
+      "JAPANESE": "そうじゃなかったみたいね？ な？",
+      "INDONESIAN": "Tapi ternyata nggak cuma itu ya? Bener nggak?",
+      "PORTUGUESE": "Parece que não era só isso, hein?",
+      "SPANISH": "Parece que no era solo eso, ¿eh?",
+      "PERSIAN": "اما حدس می‌زنم این همه ماجرا نبود، نه؟ درسته؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 47.5
+    },
+    "SCRIPT": {
+      "KOREAN": "맞습니다! 저희 다음 달에 결혼합니다!",
+      "ENGLISH": "That’s correct! We’re getting married next month!",
+      "CHINESE_SIMPLIFIED": "没错！我们下个月就要结婚了！",
+      "CHINESE_TRADITIONAL": "沒錯！我們下個月就要結婚了！",
+      "JAPANESE": "はい！ 俺たち、来月結婚します！",
+      "INDONESIAN": "Bener banget! Kita bakal nikah bulan depan!",
+      "PORTUGUESE": "Isso mesmo! Vamos nos casar no mês que vem!",
+      "SPANISH": "¡Así es! ¡Nos casamos el próximo mes!",
+      "PERSIAN": "درست است! ماه آینده ازدواج می کنیم!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 53.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저희 연애의 산 증인들이시니까 ",
+      "ENGLISH": "You’re practically the living witnesses of our entire relationship,",
+      "CHINESE_SIMPLIFIED": "你们可是我们恋爱的“见证人”",
+      "CHINESE_TRADITIONAL": "大家幾乎都是我們戀愛的見證人",
+      "JAPANESE": "みなさんは俺たちの恋愛の証人ですから",
+      "INDONESIAN": "Kalian semua udah kayak saksi hidup hubungan kita,",
+      "PORTUGUESE": "Vocês acompanharam quase todo o nosso relacionamento,",
+      "SPANISH": "Ustedes han sido testigos de casi toda nuestra relación,",
+      "PERSIAN": "شما عملا شاهدان زنده کل رابطه ما هستید،"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 53.4,
+      "HIDE": 55.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다음 달 결혼식에 꼭 와주세요!",
+      "ENGLISH": "so please — we’d be honored ",
+      "CHINESE_SIMPLIFIED": "所以下个月婚礼一定要来哦！",
+      "CHINESE_TRADITIONAL": "所以下個月的婚禮一定要來喔！",
+      "JAPANESE": "ぜひ来月の結婚式に来てください！",
+      "INDONESIAN": "jadi tolong — bakal jadi kehormatan banget",
+      "PORTUGUESE": "então esperamos todos vocês no casamento.",
+      "SPANISH": "así que los esperamos en la boda.",
+      "PERSIAN": "پس لطفا - ما افتخار می کنیم"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 55.4,
+      "HIDE": 57.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 와주시면 감사하겠습니다. 예",
+      "ENGLISH": "if you could come to the wedding!",
+      "CHINESE_SIMPLIFIED": "能来我们会非常感激的，谢谢！",
+      "CHINESE_TRADITIONAL": "如果大家能來的話，我會很感激的",
+      "JAPANESE": "来てくださると本当にうれしいです はい",
+      "INDONESIAN": "kalau kalian bisa datang ke pernikahannya!",
+      "PORTUGUESE": "De verdade, seria uma honra que viessem.",
+      "SPANISH": "De verdad, sería un honor que vinieran.",
+      "PERSIAN": "اگه تونستی بیای عروسی"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 57.6,
+      "HIDE": 59.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저기 다음 달에 꼭 와주세요!",
+      "ENGLISH": "Yes, please come next month!",
+      "CHINESE_SIMPLIFIED": "拜托大家，下个月一定要来哦！",
+      "CHINESE_TRADITIONAL": "請大家下個月務必到場喔！",
+      "JAPANESE": "あの、来月ぜひ来てください！",
+      "INDONESIAN": "Iya, tolong datang bulan depan ya!",
+      "PORTUGUESE": "Estão todos convidados!",
+      "SPANISH": "¡Están todos invitados!",
+      "PERSIAN": "بله، لطفا ماه آینده بیایید!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 59.6,
+      "HIDE": 61.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오오오 남자다 남자!!!!",
+      "ENGLISH": "Ooooh, a real man!! A real man!!!!",
+      "CHINESE_SIMPLIFIED": "哇哦哦~真男人啊！！！",
+      "CHINESE_TRADITIONAL": "喔喔喔～真男人喔！！",
+      "JAPANESE": "おお～男だ！ 男だ！",
+      "INDONESIAN": "Ooooh, cowok sejati!! Cowok sejati!!!!",
+      "PORTUGUESE": "Ooooh, isso sim é ser um homem de verdade!",
+      "SPANISH": "¡Ooooh, eso sí es ser todo un hombre!",
+      "PERSIAN": "اوووه، یک مرد واقعی!! یک مرد واقعی!!!!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 63.3,
+      "HIDE": 65.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨도 와줄 거죠?",
+      "ENGLISH": "You’ll come too, right, Yuman?",
+      "CHINESE_SIMPLIFIED": "吴宥万，你也会来吧？",
+      "CHINESE_TRADITIONAL": "吳宥萬，你也會來吧？",
+      "JAPANESE": "ウ・ユマンさんも来てくれますよね？",
+      "INDONESIAN": "Kamu juga datang kan, Yuman?",
+      "PORTUGUESE": "Você vai também, Yumán?",
+      "SPANISH": "¿Vendrás también, Yumán?",
+      "PERSIAN": "تو هم میای، درسته، یومان؟"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 65.4,
+      "HIDE": 65.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はいっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 67.0,
+      "HIDE": 68.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뽀뽀해! 뽀뽀해! 뽀뽀해!",
+      "ENGLISH": "Kiss! Kiss! Kiss!",
+      "CHINESE_SIMPLIFIED": "亲一个！亲一个！亲一个！",
+      "CHINESE_TRADITIONAL": "親一個！親一個！親一個！",
+      "JAPANESE": "チューしろ！ チューしろ！ チューしろ！",
+      "INDONESIAN": "Cium! Cium! Cium!",
+      "PORTUGUESE": "Beijo! Beijo! Beijo!",
+      "SPANISH": "¡Beso! ¡Beso! ¡Beso!",
+      "PERSIAN": "ببوس! ببوس! ببوس!"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 68.5,
+      "HIDE": 69.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 뽀뽀해! 뽀뽀해! 뽀뽀해!\n- 뭐야",
+      "ENGLISH": "— Kiss! Kiss! Kiss!\n— What the—",
+      "CHINESE_SIMPLIFIED": "-亲一个！亲一个！亲一个！\n-什么呀",
+      "CHINESE_TRADITIONAL": "-親一個！親一個！親一個！\n-什麼啊",
+      "JAPANESE": "‐チューしろ！ チューしろ！ チューしろ！\n‐え",
+      "INDONESIAN": "— Cium! Cium! Cium!\n— Apa-apaan sih—",
+      "PORTUGUESE": "– Beijo! Beijo! Beijo!\n– O que é isso…?",
+      "SPANISH": "- ¡Beso! ¡Beso! ¡Beso!\n– ¿Qué es esto…?",
+      "PERSIAN": "- ببوس! ببوس! ببوس! - چی -"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 69.3,
+      "HIDE": 70.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뽀뽀해! 뽀뽀해! 뽀뽀해!",
+      "ENGLISH": "Kiss! Kiss! Kiss!",
+      "CHINESE_SIMPLIFIED": "亲一个！亲一个！亲一个！",
+      "CHINESE_TRADITIONAL": "親一個！親一個！親一個！",
+      "JAPANESE": "チューしろ！ チューしろ！ チューしろ！",
+      "INDONESIAN": "Cium! Cium! Cium!",
+      "PORTUGUESE": "Beijo! Beijo! Beijo!",
+      "SPANISH": "¡Beso! ¡Beso! ¡Beso!",
+      "PERSIAN": "ببوس! ببوس! ببوس!"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 70.6,
+      "HIDE": 71.9
+    },
+    "SCRIPT": {
+      "KOREAN": "- 뽀뽀해! 뽀뽀해! 뽀뽀해!\n- 아, 아진짜~!",
+      "ENGLISH": "— Kiss! Kiss! Kiss!\n— Ah, seriously~!",
+      "CHINESE_SIMPLIFIED": "-亲一个！亲一个！亲一个！\n-啊，啊真是的~！",
+      "CHINESE_TRADITIONAL": "-親一個！親一個！親一個！\n-啊，啊...真是的～！",
+      "JAPANESE": "‐チューしろ！ チューしろ！ チューしろ！\n‐あ、もう～！",
+      "INDONESIAN": "— Cium! Cium! Cium!\n— Ya ampun, bener-bener~!",
+      "PORTUGUESE": "– Beijo! Beijo! Beijo!\n– Ah, sério~!",
+      "SPANISH": "- ¡Beso! ¡Beso! ¡Beso!\n– Ah, en serio~!",
+      "PERSIAN": "- ببوس! ببوس! ببوس! - آه، جدی!"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 72.0,
+      "HIDE": 72.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뽀뽀해! 뽀뽀해! 뽀뽀해!",
+      "ENGLISH": "Kiss! Kiss! Kiss!",
+      "CHINESE_SIMPLIFIED": "亲一个！亲一个！亲一个！",
+      "CHINESE_TRADITIONAL": "親一個！親一個！親一個！",
+      "JAPANESE": "‐チューしろ！ チューしろ！ チューしろ！",
+      "INDONESIAN": "Cium! Cium! Cium!",
+      "PORTUGUESE": "Beijo! Beijo! Beijo!",
+      "SPANISH": "¡Beso! ¡Beso! ¡Beso!",
+      "PERSIAN": "ببوس! ببوس! ببوس!"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 73.0,
+      "HIDE": 74.6
+    },
+    "SCRIPT": {
+      "KOREAN": "- 뽀뽀해! 뽀뽀해! 뽀뽀해!\n- 다들 왜 그러세요!! 진짜~!!",
+      "ENGLISH": "— Kiss! Kiss! Kiss!\n— Why are you all like this!! Seriously!!",
+      "CHINESE_SIMPLIFIED": "-亲一个！亲一个！亲一个！\n-你们都干嘛呀！！真是的~！！",
+      "CHINESE_TRADITIONAL": "-親一個！親一個！親一個！\n-你們大家怎麼都這樣啦！！真是的～！！",
+      "JAPANESE": "‐チューしろ！ チューしろ！ チューしろ！\n‐みなさん、なんですか！ ほんとに～！！",
+      "INDONESIAN": "— Cium! Cium! Cium!\n— Kenapa sih kalian semua kayak gini!! Serius!!",
+      "PORTUGUESE": "– Beijo! Beijo! Beijo!\n– Ai, por que vocês são assim?",
+      "SPANISH": "- ¡Beso! ¡Beso! ¡Beso!\n– Ay, ¿por qué son así?",
+      "PERSIAN": "- ببوس! ببوس! ببوس! -چرا همه اینطورین!! جدی!!"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 74.7,
+      "HIDE": 77.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 저 ‘동 과장’인 거 잊은 거 아니죠?",
+      "ENGLISH": "You all haven’t forgotten I’m still Manager Gran, right?",
+      "CHINESE_SIMPLIFIED": "大家是不是忘了我是“佟科长”了？",
+      "CHINESE_TRADITIONAL": "大家沒忘記我是佟課長吧？",
+      "JAPANESE": "みなさん、私が“ドン課長”だって忘れてませんよね？",
+      "INDONESIAN": "Kalian belum lupa kan kalau aku masih Manajer Gran?!",
+      "PORTUGUESE": "Não se esqueçam de que eu ainda sou a chefe de vocês, hein?",
+      "SPANISH": "No se olviden de que sigo siendo su jefa, ¿eh?",
+      "PERSIAN": "همه شما فراموش نکرده اید که من هنوز مدیر گرن هستم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 77.6,
+      "HIDE": 79.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우선 씨! 우선 씨가 남자답게 ",
+      "ENGLISH": "Wooseon! Be a man!",
+      "CHINESE_SIMPLIFIED": "优先啊！优先你应该拿出男子气概来！",
+      "CHINESE_TRADITIONAL": "宇善啊！拿出你的男子氣概來！",
+      "JAPANESE": "ウソンさん！ ウソンさんが男らしく",
+      "INDONESIAN": "Wooseon! Tunjukin dong, jadi cowok sejati!",
+      "PORTUGUESE": "Wooseon! Wooseon, faz como um homem de verdade!",
+      "SPANISH": "¡Wooseon! ¡Wooseon, hazlo como todo un hombre!",
+      "PERSIAN": "ووسون! مرد باش!"
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 81.2,
+      "HIDE": 82.4
+    },
+    "SCRIPT": {
+      "KOREAN": "응? 해야지!!!",
+      "ENGLISH": "Huh? I will!",
+      "CHINESE_SIMPLIFIED": "嗯？表示一下啊！！！",
+      "CHINESE_TRADITIONAL": "嗯？表示一下啊！！！",
+      "JAPANESE": "ほら？ やっちゃいな！！！",
+      "INDONESIAN": "Hah? Oke!",
+      "PORTUGUESE": "Hã? Eu vou fazer!",
+      "SPANISH": "¿Eh? ¡Lo haré!",
+      "PERSIAN": "ها؟ من خواهم کرد!"
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 82.5,
+      "HIDE": 83.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇지!",
+      "ENGLISH": "Right!!!",
+      "CHINESE_SIMPLIFIED": "就是啊！",
+      "CHINESE_TRADITIONAL": "就是啊！",
+      "JAPANESE": "そうだそうだ！",
+      "INDONESIAN": "Gitu dong!!!",
+      "PORTUGUESE": "Isso aí!!",
+      "SPANISH": "¡¡Eso es!!",
+      "PERSIAN": "درسته!!!"
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 83.8,
+      "HIDE": 84.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에이...!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "哎...！",
+      "CHINESE_TRADITIONAL": "欸...！",
+      "JAPANESE": "えぇ…！",
+      "INDONESIAN": "Ish!",
+      "PORTUGUESE": "Ai…",
+      "SPANISH": "Ay…",
+      "PERSIAN": "سلام!"
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "TIME": {
+      "SHOW": 84.6,
+      "HIDE": 85.4
+    },
+    "SCRIPT": {
+      "KOREAN": "에라잇!!",
+      "ENGLISH": "Cmon!",
+      "CHINESE_SIMPLIFIED": "好嘞！！",
+      "CHINESE_TRADITIONAL": "好啊！！",
+      "JAPANESE": "ええいっ！！",
+      "INDONESIAN": "Bodo!",
+      "PORTUGUESE": "Lá vou eu!",
+      "SPANISH": "¡Allá voy!",
+      "PERSIAN": "بیا!"
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "TIME": {
+      "SHOW": 85.5,
+      "HIDE": 85.6
+    }
+  }
+]

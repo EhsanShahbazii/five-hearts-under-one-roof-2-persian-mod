@@ -1,0 +1,315 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이야... 말숙이 진짜 성공했네... ",
+      "ENGLISH": "Wow… Mal-sook really made it big, huh…",
+      "CHINESE_SIMPLIFIED": "哇...末淑真的成功了啊...",
+      "CHINESE_TRADITIONAL": "哇...末淑珍的成功了啊...",
+      "JAPANESE": "いや〜マルスク、ほんとに成功したな…",
+      "INDONESIAN": "Wah… Mal-sook bener-bener sukses sekarang, ya…",
+      "PORTUGUESE": "Nossa… Malsook, você realmente conseguiu…",
+      "SPANISH": "Vaya… Malsook, sí que triunfaste…",
+      "PERSIAN": "وای… مال‌سوک واقعاً اونو بزرگ کرد، خخ…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 데에도 다 걸리고...",
+      "ENGLISH": "Even showing up at places like this…",
+      "CHINESE_SIMPLIFIED": "都上大屏幕了...",
+      "CHINESE_TRADITIONAL": "都上大螢幕了...",
+      "JAPANESE": "モニターにもバッチリ映ってるし",
+      "INDONESIAN": "Sampai bisa foto di tempat beginian juga…",
+      "PORTUGUESE": "Você aparece em todas as telas…",
+      "SPANISH": "Apareces en todas las pantallas…",
+      "PERSIAN": "حتی حضور در مکان هایی مانند این…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "많이 기다렸어?",
+      "ENGLISH": "Have you been waiting long?",
+      "CHINESE_SIMPLIFIED": "等很久了吗？",
+      "CHINESE_TRADITIONAL": "等很久了嗎？",
+      "JAPANESE": "待たせた？",
+      "INDONESIAN": "Udah nunggu lama?",
+      "PORTUGUESE": "Esperou muito?",
+      "SPANISH": "¿Esperaste mucho?",
+      "PERSIAN": "مدت زیادی منتظر بودید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Hm?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "هوم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐야~ 보고 싶어 죽는 줄 알았잖아.",
+      "ENGLISH": "Oh come on~ I missed you like crazy, you know.",
+      "CHINESE_SIMPLIFIED": "哎呀～我都快想死你了",
+      "CHINESE_TRADITIONAL": "哎唷～我都快想死你了！",
+      "JAPANESE": "も〜、会いたくて仕方なかったんだよ",
+      "INDONESIAN": "Aduh, ya ampun~ Aku kangen banget sampe rasanya mau gila.",
+      "PORTUGUESE": "Ah, vamos~ eu tava morrendo de vontade de te ver.",
+      "SPANISH": "Ay, vamos~ me moría de ganas de verte.",
+      "PERSIAN": "اوه بیا ~ دیوونه وار دلم برات تنگ شده بود میدونی."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해 촬영이 너무 길어져가지고...",
+      "ENGLISH": "Sorry, the shoot ran way longer than expected…",
+      "CHINESE_SIMPLIFIED": "对不起，拍摄拖太久了...",
+      "CHINESE_TRADITIONAL": "對不起，拍攝拖太久了..",
+      "JAPANESE": "ごめん、撮影が長引いちゃって…",
+      "INDONESIAN": "Maaf ya, syutingnya kelamaan…",
+      "PORTUGUESE": "Desculpa, a sessão se alongou um monte…",
+      "SPANISH": "Perdón, la sesión se alargó un montón…",
+      "PERSIAN": "با عرض پوزش، تصویربرداری بیش از حد انتظار طول کشید…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오는데 알아보는 사람은 없었어?",
+      "ENGLISH": "Did anyone recognize you on the way here?",
+      "CHINESE_SIMPLIFIED": "来的路上没人认出你吧？",
+      "CHINESE_TRADITIONAL": "來的路上，沒有人認出你吧？",
+      "JAPANESE": "来るとき、誰かにバレなかった？",
+      "INDONESIAN": "Tadi pas ke sini ada yang ngenalin kamu nggak?",
+      "PORTUGUESE": "Ninguém te reconheceu no caminho?",
+      "SPANISH": "¿No te reconoció nadie de camino?",
+      "PERSIAN": "کسی شما را در راه اینجا شناخت؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "응 모자 계속 쓰고 다녔더니 ",
+      "ENGLISH": "Nope, I kept my cap on the whole time,",
+      "CHINESE_SIMPLIFIED": "嗯，我一直戴着帽子",
+      "CHINESE_TRADITIONAL": "嗯，因為一直戴著帽子",
+      "JAPANESE": "うん、帽子かぶってたから",
+      "INDONESIAN": "aku kan pake topi terus,",
+      "PORTUGUESE": "Não, eu tava com o boné o tempo todo,",
+      "SPANISH": "No, llevaba la gorra todo el tiempo,",
+      "PERSIAN": "نه، من کلاه خودم را تمام مدت نگه داشتم،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아무도 못 알아 보던데?",
+      "ENGLISH": "No one even noticed.",
+      "CHINESE_SIMPLIFIED": "根本没人认出来呢",
+      "CHINESE_TRADITIONAL": "沒有被認出來",
+      "JAPANESE": "誰にも気づかれなかった",
+      "INDONESIAN": "jadi nggak ada yang ngenalin.",
+      "PORTUGUESE": "então ninguém me reconheceu.",
+      "SPANISH": "así que nadie me reconoció.",
+      "PERSIAN": "هیچکس حتی متوجه نشد."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다행이다",
+      "ENGLISH": "Phew, that’s a relief.",
+      "CHINESE_SIMPLIFIED": "那就好",
+      "CHINESE_TRADITIONAL": "那就好",
+      "JAPANESE": "よかった",
+      "INDONESIAN": "Syukurlah.",
+      "PORTUGUESE": "Que alívio.",
+      "SPANISH": "Qué alivio.",
+      "PERSIAN": "فوو، این یک آرامش است."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 26.7
+    },
+    "SCRIPT": {
+      "KOREAN": "고생했어~",
+      "ENGLISH": "You must’ve had a tough day~",
+      "CHINESE_SIMPLIFIED": "辛苦啦~",
+      "CHINESE_TRADITIONAL": "辛苦啦～",
+      "JAPANESE": "お疲れさま〜",
+      "INDONESIAN": "Kamu pasti capek banget ya~",
+      "PORTUGUESE": "Você deve estar cansada~",
+      "SPANISH": "Debes estar cansada~",
+      "PERSIAN": "حتما روز سختی رو گذروندی~"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 나 너무 배고파",
+      "ENGLISH": "But I’m so hungry right now…",
+      "CHINESE_SIMPLIFIED": "不过我快饿扁了",
+      "CHINESE_TRADITIONAL": "不過我快餓死了",
+      "JAPANESE": "でももうお腹ペコペコ",
+      "INDONESIAN": "Tapi aku laper banget sekarang…",
+      "PORTUGUESE": "Mas eu tô morrendo de fome.",
+      "SPANISH": "Pero tengo muchísima hambre.",
+      "PERSIAN": "اما من الان خیلی گرسنه ام…"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 뭐 먹으러 가면 안 돼?",
+      "ENGLISH": "Can we go grab something to eat?",
+      "CHINESE_SIMPLIFIED": "我们去吃点什么好不好？",
+      "CHINESE_TRADITIONAL": "我們去吃點東西好嗎？",
+      "JAPANESE": "なにか食べに行かない？",
+      "INDONESIAN": "Kita boleh makan dulu, nggak?",
+      "PORTUGUESE": "Vamos comer alguma coisa?",
+      "SPANISH": "¿Vamos a comer algo?",
+      "PERSIAN": "میشه بریم یه چیزی بخوریم؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "응? 그럴까?",
+      "ENGLISH": "Hm? Shall we?",
+      "CHINESE_SIMPLIFIED": "嗯？走吧？",
+      "CHINESE_TRADITIONAL": "嗯？走吧～",
+      "JAPANESE": "ん？行こっか",
+      "INDONESIAN": "Hmm? Mau ya?",
+      "PORTUGUESE": "Será?",
+      "SPANISH": "¿Será?",
+      "PERSIAN": "هوم؟ ما؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 31.1,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 맛있는 거 사줄게 ",
+      "ENGLISH": "My treat—I'll get us something really good.",
+      "CHINESE_SIMPLIFIED": "我请你吃好吃的！",
+      "CHINESE_TRADITIONAL": "我請你吃好吃的！",
+      "JAPANESE": "俺がおいしいものご馳走する",
+      "INDONESIAN": "Aku traktir yang enak, deh!",
+      "PORTUGUESE": "Eu pago.",
+      "SPANISH": "Yo te invito.",
+      "PERSIAN": "غذای من - من یک چیز خیلی خوب برای ما می‌آورم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 32.4,
+      "HIDE": 34.1
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 좋아 얼른 가자!",
+      "ENGLISH": "I’m super excited! Let’s go already!",
+      "CHINESE_SIMPLIFIED": "太好了，赶紧去吧！",
+      "CHINESE_TRADITIONAL": "太好了！快點走吧！",
+      "JAPANESE": "ほんと？やった！早く行こ！",
+      "INDONESIAN": "Serius, aku seneng banget. Yuk cepetan!",
+      "PORTUGUESE": "Sério? Que ótimo, vamos agora!",
+      "SPANISH": "¡En serio? ¡Genial, vamos ya!",
+      "PERSIAN": "من فوق العاده هیجان زده هستم! بیا از قبل برویم!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 35.5
+    },
+    "SCRIPT": {
+      "KOREAN": "넘 배고파...",
+      "ENGLISH": "I'm starving…",
+      "CHINESE_SIMPLIFIED": "我真的好饿啊...",
+      "CHINESE_TRADITIONAL": "我真的好餓啊～",
+      "JAPANESE": "お腹空いた〜",
+      "INDONESIAN": "Laper banget nih…",
+      "PORTUGUESE": "Tô morrendo de fome...",
+      "SPANISH": "Estoy que me muero de hambre...",
+      "PERSIAN": "دارم از گرسنگی میمیرم…"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 36.5
+    }
+  }
+]

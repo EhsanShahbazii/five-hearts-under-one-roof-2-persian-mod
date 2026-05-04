@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.99,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요? 무슨 일이에요?",
+      "ENGLISH": "Are you okay? What happened?",
+      "CHINESE_SIMPLIFIED": "没事吧？出什么事了？",
+      "CHINESE_TRADITIONAL": "沒事吧？發生什麼事了嗎？",
+      "JAPANESE": "大丈夫ですか？何があったんですか？",
+      "INDONESIAN": "Kamu nggak apa-apa? Tadi kenapa?",
+      "PORTUGUESE": "Você tá bem? O que aconteceu?",
+      "SPANISH": "¿Estás bien? ¿Qué pasó?",
+      "PERSIAN": "حالت خوبه؟ چه اتفاقی افتاد؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요!",
+      "ENGLISH": "I’m fine!",
+      "CHINESE_SIMPLIFIED": "没事！",
+      "CHINESE_TRADITIONAL": "沒事！",
+      "JAPANESE": "大丈夫です！",
+      "INDONESIAN": "Aku nggak papa!",
+      "PORTUGUESE": "Tô bem!",
+      "SPANISH": "¡Estoy bien!",
+      "PERSIAN": "من خوبم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저, 들어가 봐도 돼요?",
+      "ENGLISH": "Um… can I come in?",
+      "CHINESE_SIMPLIFIED": "那个...我可以进来吗？",
+      "CHINESE_TRADITIONAL": "我可以進去嗎？",
+      "JAPANESE": "あの…入ってもいいですか？",
+      "INDONESIAN": "Umm… boleh aku masuk?",
+      "PORTUGUESE": "Posso entrar?",
+      "SPANISH": "¿Puedo entrar?",
+      "PERSIAN": "اوم... میتونم بیام داخل؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아...네...!",
+      "ENGLISH": "Ah… yes…!",
+      "CHINESE_SIMPLIFIED": "啊...好的...！",
+      "CHINESE_TRADITIONAL": "啊...好的...!",
+      "JAPANESE": "あ…はい…！",
+      "INDONESIAN": "Ah… iya…!",
+      "PORTUGUESE": "Ah… s-sim…",
+      "SPANISH": "Ah… s-sí…",
+      "PERSIAN": "آه… بله…!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 제가 먼저 들어가 볼게요!",
+      "ENGLISH": "Oppa, I’ll go in first!",
+      "CHINESE_SIMPLIFIED": "哥哥，我先进去看看！",
+      "CHINESE_TRADITIONAL": "哥哥，我先進去看看喔！",
+      "JAPANESE": "お兄さん、私が先に入ってみますね！",
+      "INDONESIAN": "Oppa, aku masuk duluan ya!",
+      "PORTUGUESE": "Oppa, melhor eu entrar primeiro.",
+      "SPANISH": "Oppa, mejor entro yo primero.",
+      "PERSIAN": "یومان، من اول وارد می شوم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요? 나 안 필요해요?",
+      "ENGLISH": "Are you sure? You don’t need me?",
+      "CHINESE_SIMPLIFIED": "真的没事吗？不用我帮忙？",
+      "CHINESE_TRADITIONAL": "妳沒事吧？需要幫忙嗎？",
+      "JAPANESE": "大丈夫？いなくても平気ですか？",
+      "INDONESIAN": "Yakin? Kamu nggak butuh bantuan?",
+      "PORTUGUESE": "Você tá bem? Não precisam de ajuda?",
+      "SPANISH": "¿Estás bien? ¿No me necesitan?",
+      "PERSIAN": "مطمئنی؟ تو به من نیاز نداری؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "옷이 다 젖었네...! 옷 안으로 살이 다 비쳐!",
+      "ENGLISH": "Your clothes are completely soaked…! I can see your skin through them!",
+      "CHINESE_SIMPLIFIED": "衣服全湿透了...！皮肤都透出来了！",
+      "CHINESE_TRADITIONAL": "你的衣服全濕了呢...! 衣服裡面都透出來了！",
+      "JAPANESE": "服が全部濡れちゃった…！中まで透けてる！",
+      "INDONESIAN": "Bajumu basah banget…! Sampai kelihatan tau!",
+      "PORTUGUESE": "Sua roupa tá toda molhada! Dá pra ver tudo!",
+      "SPANISH": "¡Tu ropa está toda mojada! ¡Se te ve todo!",
+      "PERSIAN": "لباست کاملا خیس شده…! من می توانم پوست شما را از طریق اونا ببینم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네..? 비, 비친다고??",
+      "ENGLISH": "Huh..? You… can see through them??",
+      "CHINESE_SIMPLIFIED": "啊...？透、透出来了？？",
+      "CHINESE_TRADITIONAL": "啊...？透、透出來嗎？？",
+      "JAPANESE": "えっ…？透けてる？？",
+      "INDONESIAN": "Hah..? Kelihatan…??",
+      "PORTUGUESE": "Hã...? Dá... dá pra ver tudo...?",
+      "SPANISH": "¿Eh...? ¿Se... se ve todo?",
+      "PERSIAN": "ها..؟ شما… می توانید از طریق اونا ببینید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.5
+    },
+    "SCRIPT": {
+      "KOREAN": "옷 벗어야겠는데요",
+      "ENGLISH": "Looks like you need to change.",
+      "CHINESE_SIMPLIFIED": "得把湿衣服脱下来才行",
+      "CHINESE_TRADITIONAL": "妳要把衣服換了才行",
+      "JAPANESE": "服、脱がなきゃダメですね",
+      "INDONESIAN": "Kayaknya kamu harus ganti baju.",
+      "PORTUGUESE": "Sim, devia tirar essa roupa.",
+      "SPANISH": "Sí, deberías quitarte esa ropa.",
+      "PERSIAN": "به نظر می رسد باید تغییر کنی"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네!? 벗어요??",
+      "ENGLISH": "What!? Change??",
+      "CHINESE_SIMPLIFIED": "嗯！？要脱掉？？",
+      "CHINESE_TRADITIONAL": "欸！？要脫掉嗎？",
+      "JAPANESE": "脱ぐんですか！？",
+      "INDONESIAN": "Apa!? Ganti baju??",
+      "PORTUGUESE": "O- o quê...? T-tirar a roupa??",
+      "SPANISH": "¿Q-qué...? ¿Q-quitarme la ropa??",
+      "PERSIAN": "چی!؟ تغییر؟؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 수건이 어딨지...",
+      "ENGLISH": "Ah… where’s a towel…",
+      "CHINESE_SIMPLIFIED": "啊...毛巾放哪儿了...",
+      "CHINESE_TRADITIONAL": "嗯... 毛巾在哪裡呢...",
+      "JAPANESE": "あ…タオルどこだっけ…",
+      "INDONESIAN": "Ah… handuknya di mana ya…",
+      "PORTUGUESE": "Ah… onde tá a toalha...?",
+      "SPANISH": "Ah… ¿dónde está la toalla...?",
+      "PERSIAN": "آه ... حوله کجاست ..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 34.9,
+      "HIDE": 36.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 아, 수건이라면 제가!\n- 아! 찾았다!",
+      "ENGLISH": "— If it’s a towel, I’ve got one!\n— Ah! Found it!",
+      "CHINESE_SIMPLIFIED": "-啊，毛巾的话我有！\n-啊！找到了！",
+      "CHINESE_TRADITIONAL": "— 啊，毛巾的話我這裡有！\n— 啊！找到了！",
+      "JAPANESE": "‐ あ、タオルなら！\n‐ あっ、見つけた！",
+      "INDONESIAN": "— Kalau handuk, aku bawa!\n— Ah! Ketemu!",
+      "PORTUGUESE": "—Ah, eu posso pegar uma toalha!\n—Ah! Achei!",
+      "SPANISH": "—Ah, ¡yo puedo traer una toalla!\n—¡Ah! ¡La encontré!",
+      "PERSIAN": "- اگر حوله است، من یکی دارم! - آه! پیداش کرد!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 38.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 벌써 재빠르시네요",
+      "ENGLISH": "Wow, you’re fast.",
+      "CHINESE_SIMPLIFIED": "动作可真快啊",
+      "CHINESE_TRADITIONAL": "你的動作真快",
+      "JAPANESE": "あ、もう見つけたんですね",
+      "INDONESIAN": "Wah, cepet banget deh kamu.",
+      "PORTUGUESE": "Nossa, como é rápida.",
+      "SPANISH": "Vaya, qué rápida es.",
+      "PERSIAN": "وای تو سریع هستی"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 40.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 민정 님 아니에요?",
+      "ENGLISH": "Huh? Min-jung?",
+      "CHINESE_SIMPLIFIED": "呃？您不是敏静小姐吗？",
+      "CHINESE_TRADITIONAL": "咦？妳不是敏敏靜小姐嗎？ ",
+      "JAPANESE": "えっ？ミンジョンさんじゃないですか？",
+      "INDONESIAN": "Hah? Min-jung?",
+      "PORTUGUESE": "Hã? Você não é a Park Minjung?",
+      "SPANISH": "¿Eh? ¿No es usted Park Minjung?",
+      "PERSIAN": "ها؟ مین‌جونگ؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 40.4,
+      "HIDE": 42.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게 여기 계세요?",
+      "ENGLISH": "How are you here?",
+      "CHINESE_SIMPLIFIED": "您怎么会在这里？",
+      "CHINESE_TRADITIONAL": "妳怎麼會在這裡？",
+      "JAPANESE": "どうしてここに？",
+      "INDONESIAN": "Kok kamu bisa ada di sini?",
+      "PORTUGUESE": "O que tá fazendo aqui?",
+      "SPANISH": "¿Qué hace aquí?",
+      "PERSIAN": "اینجا چطوری؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 42.2,
+      "HIDE": 46.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그 설명은 나중에! 얼른 옷 갈아입어요, 내가 옷 빌려 줄게요.",
+      "ENGLISH": "I’ll explain later! Just change your clothes quickly—I’ll lend you some.",
+      "CHINESE_SIMPLIFIED": "待会再解释！快把衣服换下来，我借衣服给你换",
+      "CHINESE_TRADITIONAL": "等等再解釋！妳先去換衣服，我的衣服借你穿",
+      "JAPANESE": "その説明はあとで！早く着替えてください、私が服を貸します",
+      "INDONESIAN": "Nanti aku jelasin! Sekarang cepet ganti baju aja dulu! Aku pinjemin ya.",
+      "PORTUGUESE": "As explicações depois. Você precisa se trocar agora, vou te emprestar algo!",
+      "SPANISH": "Las explicaciones después. ¡Debes cambiarte ya, te prestaré algo!",
+      "PERSIAN": "بعدا توضیح میدم! فقط سریع لباساتو عوض کن - من بهت قرض میدم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 48.1,
+      "HIDE": 48.9
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "没事吧？",
+      "CHINESE_TRADITIONAL": "沒關係嗎？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu nggak papa?",
+      "PORTUGUESE": "Tá tudo bem aí?",
+      "SPANISH": "¿Están bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 52.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠, 일단 올라가 볼게요.",
+      "ENGLISH": "Oppa, I’ll go upstairs first.",
+      "CHINESE_SIMPLIFIED": "哥哥，我先上去了",
+      "CHINESE_TRADITIONAL": "哥哥，那我先上樓了",
+      "JAPANESE": "お兄さん、じゃあ私は先に上に行ってますね",
+      "INDONESIAN": "Oppa, aku ke atas duluan ya.",
+      "PORTUGUESE": "Oppa, vou subir um instante.",
+      "SPANISH": "Oppa, voy a subir un momento.",
+      "PERSIAN": "یومان، من اول می روم طبقه بالا."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 53.3,
+      "HIDE": 54.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 네...",
+      "ENGLISH": "Ah, okay…",
+      "CHINESE_SIMPLIFIED": "啊，好的...",
+      "CHINESE_TRADITIONAL": "啊，好... ",
+      "JAPANESE": "あ、はい…",
+      "INDONESIAN": "Ah, oke…",
+      "PORTUGUESE": "Ah, sim...",
+      "SPANISH": "Ah, sí...",
+      "PERSIAN": "آه، باشه…"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 54.7,
+      "HIDE": 56.6
+    },
+    "SCRIPT": {
+      "KOREAN": "금방 다 해결하셨구나.",
+      "ENGLISH": "Looks like you got everything sorted out quickly.",
+      "CHINESE_SIMPLIFIED": "这么快就都解决了啊",
+      "CHINESE_TRADITIONAL": "這麼快就解決了啊",
+      "JAPANESE": "もう全部解決したんですね",
+      "INDONESIAN": "Wah, kelihatannya semuanya langsung rapih ya.",
+      "PORTUGUESE": "Parece que já resolveram.",
+      "SPANISH": "Parece que ya lo solucionaron.",
+      "PERSIAN": "به نظر می رسد شما همه چیز را به سرعت حل کردید."
+    }
+  }
+]

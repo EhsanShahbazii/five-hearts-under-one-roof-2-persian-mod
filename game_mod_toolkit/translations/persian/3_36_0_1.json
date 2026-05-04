@@ -1,0 +1,81 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.6
+    },
+    "SCRIPT": {
+      "KOREAN": "일어났어요?",
+      "ENGLISH": "You're awake?",
+      "CHINESE_SIMPLIFIED": "睡醒啦？",
+      "CHINESE_TRADITIONAL": "醒了嗎？",
+      "JAPANESE": "起きましたか？",
+      "INDONESIAN": "Kamu udah bangun?",
+      "PORTUGUESE": "Já acordou?",
+      "SPANISH": "¿Ya despertaste?",
+      "PERSIAN": "شما بیدار هستید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "눈꼽",
+      "ENGLISH": "You’ve got a little eye gunk—",
+      "CHINESE_SIMPLIFIED": "你眼角还有眼屎～",
+      "CHINESE_TRADITIONAL": "眼角還有眼屎",
+      "JAPANESE": "目ヤニ",
+      "INDONESIAN": "Ada sedikit belek tuh di matamu—",
+      "PORTUGUESE": "Tem uma remelinha aí.",
+      "SPANISH": "Tienes una legañita.",
+      "PERSIAN": "شما کمی ضایعات چشم دارید-"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "원하는 거 있으면 말만 해요.",
+      "ENGLISH": "If there’s anything you want, just say the word.",
+      "CHINESE_SIMPLIFIED": "想要什么尽管说",
+      "CHINESE_TRADITIONAL": "你有什麼想要的東西就儘管說吧",
+      "JAPANESE": "欲しいものがあったら何でも言ってくださいね",
+      "INDONESIAN": "Kalau kamu butuh apa-apa, tinggal bilang aja.",
+      "PORTUGUESE": "Se quiser alguma coisa, é só pedir.",
+      "SPANISH": "Si quieres algo, solo dilo.",
+      "PERSIAN": "اگر چیزی می خواهید، فقط کلمه را بگویید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "우린 유만 씨만의 메이드니까.",
+      "ENGLISH": "We’re your personal maids now, Yuman.",
+      "CHINESE_SIMPLIFIED": "我们可是宥万先生的专属女仆哦",
+      "CHINESE_TRADITIONAL": "我們是專屬於宥萬先生你的女僕喔",
+      "JAPANESE": "私たちはユマンさん専属のメイドですから",
+      "INDONESIAN": "Sekarang kami ini pelayan pribadimu, Yuman.",
+      "PORTUGUESE": "Somos suas criadas pessoais, Yumán.",
+      "SPANISH": "Somos tus sirvientas personales, Yumán.",
+      "PERSIAN": "ما اکنون خدمتکاران شخصی شما هستیم، یومان."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 17.2
+    }
+  }
+]

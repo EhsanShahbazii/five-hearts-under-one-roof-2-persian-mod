@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 동 과장님이랑 얘기 좀 하러 먼저 내려갈게요.",
+      "ENGLISH": "I’m going to head downstairs to talk with Manager Dong first.",
+      "CHINESE_SIMPLIFIED": "我先下去和佟科长谈点事情",
+      "CHINESE_TRADITIONAL": "我下樓去跟佟課長聊一下",
+      "JAPANESE": "俺、トン課長と話しがあるんで先に行ってます",
+      "INDONESIAN": "Aku mau turun dulu, ngobrol sama Manajer Dong.",
+      "PORTUGUESE": "Vou descer primeiro pra falar com minha chefe.",
+      "SPANISH": "Voy a bajar primero a hablar con mi jefa.",
+      "PERSIAN": "من به طبقه پایین می روم تا ابتدا با مدیر دونگ صحبت کنم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저 빼고 드세요 ",
+      "ENGLISH": "You guys go ahead without me.",
+      "CHINESE_SIMPLIFIED": "你们先吃，不用管我",
+      "CHINESE_TRADITIONAL": "你們就不用管我了，自己吃吧",
+      "JAPANESE": "俺抜きで食べててください",
+      "INDONESIAN": "Kalian lanjut aja duluan.",
+      "PORTUGUESE": "Comam sem mim.",
+      "SPANISH": "Coman sin mí.",
+      "PERSIAN": "شما بچه ها بدون من پیش بروید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 진짜 서운하게!",
+      "ENGLISH": "Ah~ that’s so disappointing!",
+      "CHINESE_SIMPLIFIED": "啊~真让人伤心！",
+      "CHINESE_TRADITIONAL": "啊～ 你這樣說好讓人難過喔！",
+      "JAPANESE": "あ〜もう、つれないですね！",
+      "INDONESIAN": "Aduh~ sayang banget!",
+      "PORTUGUESE": "Ah~ que frio você é!",
+      "SPANISH": "¡Ah~ qué frío eres!",
+      "PERSIAN": "آه ~ این خیلی ناامید کننده است!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 내일 저녁은 꼭 시간 내줘요.",
+      "ENGLISH": "Then make sure you free up time for tomorrow evening.",
+      "CHINESE_SIMPLIFIED": "那明天晚上一定要空出时间给我",
+      "CHINESE_TRADITIONAL": "那... 明天晚上一定要把時間空下來喔",
+      "JAPANESE": "じゃあ明日の夜は時間くださいね",
+      "INDONESIAN": "Kalau gitu, pastiin kamu luangin waktu buat besok malam, ya.",
+      "PORTUGUESE": "Então me promete que amanhã à noite vai arrumar um tempinho.",
+      "SPANISH": "Entonces prométeme que mañana en la noche sí sacas tiempo.",
+      "PERSIAN": "سپس مطمئن شوید که برای فردا عصر وقت آزاد کرده اید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 알겠어요.",
+      "ENGLISH": "Yeah, got it.",
+      "CHINESE_SIMPLIFIED": "知道啦，没问题",
+      "CHINESE_TRADITIONAL": "好，我知道了",
+      "JAPANESE": "はい、わかりました",
+      "INDONESIAN": "Iya, ngerti kok.",
+      "PORTUGUESE": "Sim, tá bom.",
+      "SPANISH": "Sí, está bien.",
+      "PERSIAN": "آره فهمیدم"
+    }
+  }
+]

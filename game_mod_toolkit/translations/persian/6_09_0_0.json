@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 다들 여기 옥탑뷰 봤어요?",
+      "ENGLISH": "Ah! Did everyone check out the rooftop view?",
+      "CHINESE_SIMPLIFIED": "啊！大家看过这栋楼的天台景色了吗？",
+      "CHINESE_TRADITIONAL": "啊！大家看過頂樓的風景了嗎？",
+      "JAPANESE": "あ！みんな屋上の景色見た？",
+      "INDONESIAN": "Ah! Kalian semua udah liat pemandangan dari rooftop belum?",
+      "PORTUGUESE": "Ah! Vocês já viram a vista lá no terraço?",
+      "SPANISH": "¡Ah! ¿Ya vieron la vista en la azotea?",
+      "PERSIAN": "آه! همه نمای پشت بام را بررسی کردند؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "헐, 여기 옥탑이 있었어요?",
+      "ENGLISH": "Wait—there’s a rooftop view?!",
+      "CHINESE_SIMPLIFIED": "哇，这里还有天台啊？",
+      "CHINESE_TRADITIONAL": "欸，這裡還有頂樓啊？",
+      "JAPANESE": "えっ ここ屋上あったんですか？",
+      "INDONESIAN": "Hah—emang ada rooftop view?!",
+      "PORTUGUESE": "Hã? Tinha um terraço?",
+      "SPANISH": "¿Eh? ¿Había azotea?",
+      "PERSIAN": "صبر کنید - منظره ای از پشت بام وجود دارد؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "헉, 나 볼래요!",
+      "ENGLISH": "Whoa, I wanna see!",
+      "CHINESE_SIMPLIFIED": "哇，我要去看看！",
+      "CHINESE_TRADITIONAL": "哇，我要去看！",
+      "JAPANESE": "うわっ 私見たい！",
+      "INDONESIAN": "Wah, aku mau liat!",
+      "PORTUGUESE": "Eu quero ver!",
+      "SPANISH": "¡Yo quiero ver!",
+      "PERSIAN": "اوه، من می خواهم ببینم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "보러 갈 사람!",
+      "ENGLISH": "Who’s coming with me?",
+      "CHINESE_SIMPLIFIED": "谁要一起去？",
+      "CHINESE_TRADITIONAL": "誰要一起去！",
+      "JAPANESE": "見に行く人！",
+      "INDONESIAN": "Siapa yang mau ikut?",
+      "PORTUGUESE": "Quem quer ir?",
+      "SPANISH": "¿Quién quiere ir?",
+      "PERSIAN": "کی با من میاد؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 갈래요!",
+      "ENGLISH": "I’m in!",
+      "CHINESE_SIMPLIFIED": "我也去！",
+      "CHINESE_TRADITIONAL": "我也要去",
+      "JAPANESE": "私も行く！",
+      "INDONESIAN": "Aku ikut!",
+      "PORTUGUESE": "Eu também vou!",
+      "SPANISH": "¡Yo también voy!",
+      "PERSIAN": "من داخل هستم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "같이 가요!",
+      "ENGLISH": "Let’s go together!",
+      "CHINESE_SIMPLIFIED": "一起吧！",
+      "CHINESE_TRADITIONAL": "一起吧！",
+      "JAPANESE": "一緒に行こう！",
+      "INDONESIAN": "Yuk bareng-bareng!",
+      "PORTUGUESE": "Vamos juntos!",
+      "SPANISH": "¡Vamos juntos!",
+      "PERSIAN": "بیا با هم بریم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 다들 어디가는 거야",
+      "ENGLISH": "Hey, where’s everyone going?",
+      "CHINESE_SIMPLIFIED": "哎，大家都去哪儿啊？",
+      "CHINESE_TRADITIONAL": "欸，大家都要去哪裡啊？",
+      "JAPANESE": "あ〜みんなどこ行くんだよ",
+      "INDONESIAN": "Eh, kalian semua mau ke mana sih?",
+      "PORTUGUESE": "Ai, pra onde todo mundo tá indo?",
+      "SPANISH": "Ay, ¿a dónde van todos?",
+      "PERSIAN": "هی، همه کجا می روند؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 컨셉이 단합인데!",
+      "ENGLISH": "Today was supposed to be about team bonding!",
+      "CHINESE_SIMPLIFIED": "今天的主题是团结啊！",
+      "CHINESE_TRADITIONAL": "今天的主題是團結耶！",
+      "JAPANESE": "今日のテーマは団結なのに！",
+      "INDONESIAN": "Hari ini kan buat bonding tim!",
+      "PORTUGUESE": "A gente não veio pra se divertir em grupo?",
+      "SPANISH": "¿No vinimos a divertirnos en grupo?",
+      "PERSIAN": "امروز قرار بود در مورد پیوند تیم باشد!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 그냥 저 사람들 놔두고",
+      "ENGLISH": "Pfft, just leave those guys—",
+      "CHINESE_SIMPLIFIED": "哎，别管他们了",
+      "CHINESE_TRADITIONAL": "算了，讓他們去吧",
+      "JAPANESE": "もう あの人たちは放っといて",
+      "INDONESIAN": "Pfft, biarin aja mereka—",
+      "PORTUGUESE": "Bah, deixa eles irem,",
+      "SPANISH": "Bah, dejemos que se vayan,",
+      "PERSIAN": "پف، فقط اون بچه ها را رها کن-"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "우리끼리 고기 먹죠",
+      "ENGLISH": "Let’s just grill some meat ourselves.",
+      "CHINESE_SIMPLIFIED": "就我们几个吃肉吧",
+      "CHINESE_TRADITIONAL": "我們自己吃肉",
+      "JAPANESE": "私たちでお肉食べましょ",
+      "INDONESIAN": "Kita bakar daging sendiri aja yuk.",
+      "PORTUGUESE": "é melhor a gente ficar aqui assando carne.",
+      "SPANISH": "mejor quedémonos aquí asando carne.",
+      "PERSIAN": "بیایید خودمان کمی گوشت کبابی کنیم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 쌈 싸줄게요!",
+      "ENGLISH": "I’ll wrap one up for you!",
+      "CHINESE_SIMPLIFIED": "我来帮大家包肉！",
+      "CHINESE_TRADITIONAL": "我來幫忙包肉！",
+      "JAPANESE": "私がおいしく包んであげますね！",
+      "INDONESIAN": "Aku bungkusin satu buat kamu!",
+      "PORTUGUESE": "Vou fazer um taco de alface pra você!",
+      "SPANISH": "¡Te haré un taco de lechuga!",
+      "PERSIAN": "من یکی را برای شما جمع بندی می کنم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 이미 싸고 있었는데요?",
+      "ENGLISH": "I already made one, though.",
+      "CHINESE_SIMPLIFIED": "我已经在包了好吗？",
+      "CHINESE_TRADITIONAL": "我已經在包了啊？",
+      "JAPANESE": "俺もう包んでたんですけど？",
+      "INDONESIAN": "Padahal aku udah bikin satu, lho.",
+      "PORTUGUESE": "Mas eu já tava preparando um.",
+      "SPANISH": "Pero ya estaba preparando uno.",
+      "PERSIAN": "هرچند قبلا یکی درست کردم"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 저도요",
+      "ENGLISH": "Huh? Me too.",
+      "CHINESE_SIMPLIFIED": "嗯？我也是",
+      "CHINESE_TRADITIONAL": "呃...我也是",
+      "JAPANESE": "え？私もです",
+      "INDONESIAN": "Hah? Aku juga.",
+      "PORTUGUESE": "Hã? Eu também.",
+      "SPANISH": "¿Ah? Yo también.",
+      "PERSIAN": "ها؟ منم همینطور"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘... 넣으면 그렇게 커져요?",
+      "ENGLISH": "What… did you put in there to make it that huge?",
+      "CHINESE_SIMPLIFIED": "这到底...是包了什么才这么大个？",
+      "CHINESE_TRADITIONAL": "到底... 包了什麼會變得這麼大？",
+      "JAPANESE": "なに入れたらそんなにでかくなるんですか？",
+      "INDONESIAN": "Itu… kamu masukin apa sih sampe segede itu?",
+      "PORTUGUESE": "Como o seu ficou tão grande?",
+      "SPANISH": "¿Cómo te quedó tan grande?",
+      "PERSIAN": "چه چیزی را در آنجا گذاشتید تا اونو به این بزرگی تبدیل کنید؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저거 먹으면 죽겠는데?",
+      "ENGLISH": "I’d die if I ate that!",
+      "CHINESE_SIMPLIFIED": "一口吃下去会不会噎死啊？",
+      "CHINESE_TRADITIONAL": "一口吃的話會不會噎死？",
+      "JAPANESE": "それ食べたら死ぬんじゃない？",
+      "INDONESIAN": "Aku bisa tewas kalo makan segitu banyak!",
+      "PORTUGUESE": "Se eu comer tudo isso, eu morro.",
+      "SPANISH": "Si me como todo eso, me muero.",
+      "PERSIAN": "اگر اونو بخورم میمیرم!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 32.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨! 여기서 뭐 먹을래요?",
+      "ENGLISH": "Yuman, what do you want to eat over here?",
+      "CHINESE_SIMPLIFIED": "吴宥万！你想吃哪个？",
+      "CHINESE_TRADITIONAL": "吳宥萬！你想吃哪一個？",
+      "JAPANESE": "ユマンさん！この中で何食べます？",
+      "INDONESIAN": "Yuman, kamu mau makan apa dari sini?",
+      "PORTUGUESE": "Yumán! Qual deles você vai comer?",
+      "SPANISH": "¡Yumán! ¿Cuál te vas a comer?",
+      "PERSIAN": "یومان، اینجا چی میخوای بخوری؟"
+    }
+  }
+]

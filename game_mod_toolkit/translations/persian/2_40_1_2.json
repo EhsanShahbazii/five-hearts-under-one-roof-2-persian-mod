@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "손톱만큼요!",
+      "ENGLISH": "Just a fingernail’s worth!",
+      "CHINESE_SIMPLIFIED": "就像指甲盖那么大！",
+      "CHINESE_TRADITIONAL": "跟指甲一樣大！",
+      "JAPANESE": "爪の先くらいですよ!",
+      "INDONESIAN": "Hanya seukuran kuku jari!",
+      "PORTUGUESE": "Mais ou menos do tamanho de uma unha.",
+      "SPANISH": "Como del tamaño de una uña.",
+      "PERSIAN": "فقط یک ناخن ارزش دارد!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "엥? 그렇게 조금요?",
+      "ENGLISH": "Huh? That little?!",
+      "CHINESE_SIMPLIFIED": "啊？就这么一丁点啊？",
+      "CHINESE_TRADITIONAL": "啊？就這麽一點點？",
+      "JAPANESE": "えっ? そんな少しだけ?",
+      "INDONESIAN": "Hah? Sekecil itu?!",
+      "PORTUGUESE": "Hã? Tão pouquinho?",
+      "SPANISH": "¿Eh? ¿Tan poquito?",
+      "PERSIAN": "ها؟ اون کوچولو؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "보고 싶은 마음이 깎아도 깎아도 계속 자라나요.",
+      "ENGLISH": "But just like nails, even if you trim it, it keeps growing.",
+      "CHINESE_SIMPLIFIED": "因为对你的想念，就算剪了又剪也还是不停地长出来呢～",
+      "CHINESE_TRADITIONAL": "指甲就算剪掉了還是會繼續長出來",
+      "JAPANESE": "会いたい気持ちは 削っても削ってもまた伸びてくるんです",
+      "INDONESIAN": "Namun seperti halnya kuku, meskipun dipotong, ia akan tetap tumbuh.",
+      "PORTUGUESE": "Não importa o quanto eu corte, continua crescendo e crescendo.",
+      "SPANISH": "Qué no importe cuanto la corte, sigue y sigue creciendo.",
+      "PERSIAN": "اما درست مانند ناخن، حتی اگر اونو کوتاه کنید، به رشد خود ادامه می دهد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님을 그만큼 많이 보고 싶었어요.",
+      "ENGLISH": "That’s how much I missed Min-jung.",
+      "CHINESE_SIMPLIFIED": "我就是这样，非常非常想见到敏静",
+      "CHINESE_TRADITIONAL": "這就是我想念敏靜的心情啊",
+      "JAPANESE": "それくらい ミンジョンさんに会いたかったんですよ",
+      "INDONESIAN": "Begitulah rindunya aku pada Min-jung.",
+      "PORTUGUESE": "Foi assim que senti sua falta, Minjung.",
+      "SPANISH": "Así de mucho te extrañé, Minjung.",
+      "PERSIAN": "این چقدر دلم برای مین‌جونگ تنگ شده بود."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐예요~",
+      "ENGLISH": "Oh, come on~",
+      "CHINESE_SIMPLIFIED": "什么呀~",
+      "CHINESE_TRADITIONAL": "討厭啦～",
+      "JAPANESE": "何それ〜",
+      "INDONESIAN": "Oh, ayolah~",
+      "PORTUGUESE": "Ah, você exagera~~",
+      "SPANISH": "Te pasas~~",
+      "PERSIAN": "اوه، بیا~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼, 나도 손톱만큼 보고 싶었어요!",
+      "ENGLISH": "Well then, I missed you... a fingernail’s worth too!",
+      "CHINESE_SIMPLIFIED": "那我想你的程度也是像指甲盖一样！",
+      "CHINESE_TRADITIONAL": "那我也只有和指甲差不多大小的想你啦！",
+      "JAPANESE": "じゃあ 私も爪の先くらい会いたかったです!",
+      "INDONESIAN": "Baiklah, aku merindukanmu... bahkan sedalam kuku!",
+      "PORTUGUESE": "Então eu também senti sua falta do tamanho de uma unha!",
+      "SPANISH": "¡Entonces yo también te extrañé como una uña!",
+      "PERSIAN": "خب پس دلم برات تنگ شده بود... یه بند انگشت هم ارزش داره!"
+    }
+  }
+]

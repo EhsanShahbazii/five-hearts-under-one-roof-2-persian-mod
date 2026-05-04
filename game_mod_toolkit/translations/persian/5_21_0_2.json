@@ -1,0 +1,308 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 시X 적당히 해!!",
+      "ENGLISH": "Hey, what the fuck, chill out!!",
+      "CHINESE_SIMPLIFIED": "阿西八！适可而止吧你！！",
+      "CHINESE_TRADITIONAL": "喂！你這傢伙，夠了喔！！",
+      "JAPANESE": "あ、この野郎いい加減にしろ！！",
+      "INDONESIAN": "Eh, apaan sih, santai dong!!",
+      "PORTUGUESE": "Ah, droga, já chega!!",
+      "SPANISH": "¡Ah, maldita sea, ya basta!!",
+      "PERSIAN": "هی، چه لعنتی، آرام باش!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야 박수!",
+      "ENGLISH": "Yo, give it up for this guy!",
+      "CHINESE_SIMPLIFIED": "哇！大家鼓掌！",
+      "CHINESE_TRADITIONAL": "哇！拍手！",
+      "JAPANESE": "おい、拍手！",
+      "INDONESIAN": "Yooo, kasih tepuk tangan buat nih orang!",
+      "PORTUGUESE": "Uau, me surpreende!",
+      "SPANISH": "¡Vaya, me sorprendes!",
+      "PERSIAN": "اوه، اونو به خاطر این مرد ول کن!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이 새X 성량 X되네! 네가 파바로티냐?",
+      "ENGLISH": "This bastard’s got some serious lungs! You think you’re freakin’ Pavarotti?!",
+      "CHINESE_SIMPLIFIED": "这混蛋嗓门真TM大！你以为你是帕瓦罗蒂吗？",
+      "CHINESE_TRADITIONAL": "聲音有夠大，你以為你是帕華洛帝嗎？",
+      "JAPANESE": "この野郎声量限やべぇな！お前パヴァロッティかよ！？",
+      "INDONESIAN": "Napasnya gila sih! Lo pikir lo tuh Pavarotti?!",
+      "PORTUGUESE": "Esse idiota tem um bom pulmão! É o Pavarotti agora ou o quê?",
+      "SPANISH": "¡Este imbécil tiene buenos pulmones! ¿Eres Pavarotti o qué?",
+      "PERSIAN": "این حرومزاده ریه های جدی دارد! فکر میکنی داری دیوونه پاواروتی هستی؟!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 인정?",
+      "ENGLISH": "Right?",
+      "CHINESE_SIMPLIFIED": "你说对吧？",
+      "CHINESE_TRADITIONAL": "是嗎？",
+      "JAPANESE": "それな！？",
+      "INDONESIAN": "Iya kan?",
+      "PORTUGUESE": "Pois é, né?",
+      "SPANISH": "¿Verdad que sí?",
+      "PERSIAN": "درسته؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "인정~~~~",
+      "ENGLISH": "Riiight~~~",
+      "CHINESE_SIMPLIFIED": "没~~错~~~",
+      "CHINESE_TRADITIONAL": "沒錯～～～",
+      "JAPANESE": "それな〜〜〜",
+      "INDONESIAN": "Iyaaa~~~",
+      "PORTUGUESE": "Boa essa!",
+      "SPANISH": "¡Buena esa!",
+      "PERSIAN": "آره جون خودت~~~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어어... 내가 복식호흡을 좀 할 줄 알거든... 흡! 하면...",
+      "ENGLISH": "Well, I do know how to do a bit of diaphragmatic breathing… like—inhale!",
+      "CHINESE_SIMPLIFIED": "呃呃...我可是会用腹式呼吸的，像这样——吸！",
+      "CHINESE_TRADITIONAL": "呃...我會一點腹式呼吸啦... 叫我吸氣！的話...",
+      "JAPANESE": "おお…俺、腹式呼吸ちょっとできるんだよ…吸って、ふっ！って…",
+      "INDONESIAN": "Ya, aku sih emang bisa dikit teknik napas dari dada… kayak gini—tarik napas!",
+      "PORTUGUESE": "Bom... é que eu sei respirar com o diafragma. É assim: primeiro você inspira...",
+      "SPANISH": "Bueno... es que sé respirar con el diafragma. Es así: primer inhalas...",
+      "PERSIAN": "خوب، من می دانم که چگونه می توانم کمی تنفس دیافراگمی انجام دهم ... مانند - دم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 시X 유만아! ",
+      "ENGLISH": "Oh for f—Yuman!!",
+      "CHINESE_SIMPLIFIED": "啊，西八，吴宥万啊！",
+      "CHINESE_TRADITIONAL": "靠，宥萬啊！",
+      "JAPANESE": "あークソ、ユマン！",
+      "INDONESIAN": "Astaga—Yuman!!",
+      "PORTUGUESE": "Droga, Yumán!",
+      "SPANISH": "¡Maldición, Yumán!",
+      "PERSIAN": "اوه برای —یومان!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "에바쎄바 떨지 말고!",
+      "ENGLISH": "Stop shaking like a damn leaf!",
+      "CHINESE_SIMPLIFIED": "别TM给我嘚瑟了！",
+      "CHINESE_TRADITIONAL": "別抖成那樣，沒那麼誇張吧！",
+      "JAPANESE": "やめろおおお、ビビるなって！",
+      "INDONESIAN": "Berhenti gemeteran kayak daun ditiup angin gitu dong!",
+      "PORTUGUESE": "Para de tremer!",
+      "SPANISH": "¡Ya deja de temblar!",
+      "PERSIAN": "دست از لرزیدن مثل برگ لعنتی بردار!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이 한테 얘기는 했어?",
+      "ENGLISH": "Did you talk to Mal-sook yet?",
+      "CHINESE_SIMPLIFIED": "跟末淑说了没？",
+      "CHINESE_TRADITIONAL": "你和末淑說了嗎？",
+      "JAPANESE": "マルスクのことは言ったか？",
+      "INDONESIAN": "Kamu udah ngobrol sama Mal-sook belum?",
+      "PORTUGUESE": "Você contou pra Malsook o que eu pedi?",
+      "SPANISH": "¿Le dijiste a Malsook lo que te pedí?",
+      "PERSIAN": "هنوز با مال‌سوک صحبت کردی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아직...",
+      "ENGLISH": "Uh… not yet…",
+      "CHINESE_SIMPLIFIED": "啊，还没...",
+      "CHINESE_TRADITIONAL": "啊...還沒...",
+      "JAPANESE": "あ、まだ…",
+      "INDONESIAN": "Uhh… belum…",
+      "PORTUGUESE": "Ah, ainda não...",
+      "SPANISH": "Ah, todavía no...",
+      "PERSIAN": "اوه… هنوز نه…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 내가 뭐 어려운 거 시켰냐? 그냥 다리만 좀 놔달라니까?",
+      "ENGLISH": "I’m not asking for a miracle, dude. Just help me talk to her.",
+      "CHINESE_SIMPLIFIED": "哈，我让你做什么难事了吗？只是帮我牵牵线而已啊？",
+      "CHINESE_TRADITIONAL": "這不是什麼困難的事吧，不是讓你牽個線而已？",
+      "JAPANESE": "難しいこと頼んだか？紹介しろってだけだろ？",
+      "INDONESIAN": "Gue nggak minta apa-apa, bro. Cuma bantuin gue deketin dia dong.",
+      "PORTUGUESE": "Te pedi algo difícil, foi? Só pedi pra me ajudar a chegar perto dela, só isso.",
+      "SPANISH": "¿Acaso te pedí algo difíci? Solo que me ayudes a acercarme a ella, nada más.",
+      "PERSIAN": "من معجزه نمی‌خوام، رفیق. فقط کمکم کن باهاش ​​حرف بزنم"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.7,
+      "HIDE": 33.4
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이 싫어해...",
+      "ENGLISH": "Mal-sook doesn’t like that kinda stuff…",
+      "CHINESE_SIMPLIFIED": "但末淑不喜欢...",
+      "CHINESE_TRADITIONAL": "但末淑不喜歡…",
+      "JAPANESE": "マルスクは嫌がるって…",
+      "INDONESIAN": "Mal-sook nggak suka yang gitu-gituan…",
+      "PORTUGUESE": "A Malsook não gosta dessas coisas...",
+      "SPANISH": "A Malsook no le gustan esas cosas...",
+      "PERSIAN": "مال‌سوک این چیزها را دوست ندارد…"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 33.9
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 뭐?",
+      "ENGLISH": "Yo, what?",
+      "CHINESE_SIMPLIFIED": "喂，你说什么？",
+      "CHINESE_TRADITIONAL": "喂，你說什麼？",
+      "JAPANESE": "なに言ってんだ？",
+      "INDONESIAN": "Hah, apa?!",
+      "PORTUGUESE": "Hã, o que você disse?",
+      "SPANISH": "¿Eh, qué dijiste?",
+      "PERSIAN": "یو، چی؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.1,
+      "HIDE": 37.5
+    },
+    "SCRIPT": {
+      "KOREAN": "마, 말숙이 너처럼 못생긴 애 싫어한다고!!!!",
+      "ENGLISH": "M-Mal-sook said she doesn’t like guys who look like you, okay?!",
+      "CHINESE_SIMPLIFIED": "末、末淑说她讨厌你这种丑八怪！！！",
+      "CHINESE_TRADITIONAL": "末、末淑說她不喜歡像你一樣醜的人！！！！",
+      "JAPANESE": "おい、マルスクはお前みたいなブサイク嫌いだって言ってんだよ！！",
+      "INDONESIAN": "M-Mal-sook bilang dia nggak suka cowok yang tampilannya kayak kamu, oke?!",
+      "PORTUGUESE": "Q-que a Malsook não gosta de caras tão feios quanto você!",
+      "SPANISH": "¡Q-que a Malsook no le gustan los tipos tan feos como tú!",
+      "PERSIAN": "ام-مال‌سوک گفت از پسرهایی که شبیه تو هستند خوشش نمی آید، باشه؟!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 38.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 이 씨X새X가...!!!",
+      "ENGLISH": "You little SHIT—!!!",
+      "CHINESE_SIMPLIFIED": "你这混账东西...！！！",
+      "CHINESE_TRADITIONAL": "你這該死的傢伙...！！",
+      "JAPANESE": "でもこのクソ野郎が…！！！",
+      "INDONESIAN": "Anj*rr kamu—!!!",
+      "PORTUGUESE": "Seu maldito filho da...!",
+      "SPANISH": "¡Este maldito hijo de...!",
+      "PERSIAN": "ای شیت کوچولو-!!!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 38.5,
+      "HIDE": 39.9
+    },
+    "SCRIPT": {
+      "KOREAN": "고말숙 떴다!!!",
+      "ENGLISH": "Mal-sook’s coming!!!",
+      "CHINESE_SIMPLIFIED": "高末淑来了！！！",
+      "CHINESE_TRADITIONAL": "高末淑來了！！！",
+      "JAPANESE": "コ・マルスク現れた！！！",
+      "INDONESIAN": "Mal-sook datang!!!",
+      "PORTUGUESE": "A Malsook tá aqui!!!",
+      "SPANISH": "¡Malsook está aquí!!!",
+      "PERSIAN": "مال‌سوک می آید!!!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 42.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어!?",
+      "ENGLISH": "Huh!?",
+      "CHINESE_SIMPLIFIED": "呃！？",
+      "CHINESE_TRADITIONAL": "欸！？",
+      "JAPANESE": "えっ！？",
+      "INDONESIAN": "Hah!?!",
+      "PORTUGUESE": "Hã!?",
+      "SPANISH": "¿¡Eh!?",
+      "PERSIAN": "ها!؟"
+    }
+  }
+]

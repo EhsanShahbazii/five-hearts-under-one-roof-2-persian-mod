@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 장 선배...!",
+      "ENGLISH": "Oh, Senior Jang…!",
+      "CHINESE_SIMPLIFIED": "张前辈...！",
+      "CHINESE_TRADITIONAL": "張前輩...! 您好...!",
+      "JAPANESE": "あ、チャン先輩…！",
+      "INDONESIAN": "Oh, Senior Jang…!",
+      "PORTUGUESE": "Ah, In Seo...!",
+      "SPANISH": "Ah, In Seo…!",
+      "PERSIAN": "اوه، جانگ ارشد…!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요...!",
+      "ENGLISH": "Hello…!",
+      "CHINESE_SIMPLIFIED": "您好...！",
+      "CHINESE_TRADITIONAL": "嗯好...！",
+      "JAPANESE": "こんにちは…！",
+      "INDONESIAN": "Halo…!",
+      "PORTUGUESE": "Bom dia!",
+      "SPANISH": "¡Buenas días!",
+      "PERSIAN": "سلام…!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 오랜만이네요. 몸은 좀 괜찮아요?",
+      "ENGLISH": "Ah, it’s been a while. Are you feeling okay?",
+      "CHINESE_SIMPLIFIED": "啊，真是好久不见了。身体还好吗？",
+      "CHINESE_TRADITIONAL": "啊，好久不見。身體還好嗎？",
+      "JAPANESE": "ああ、久しぶりです 体の方はもう大丈夫ですか？",
+      "INDONESIAN": "Ah, udah lama nggak ketemu. Kamu udah sehat?",
+      "PORTUGUESE": "Fazia tempo que não te via. Já está melhor?",
+      "SPANISH": "Cuánto tiempo sin verte. ¿Ya estás mejor?",
+      "PERSIAN": "آه، مدتی است. شما احساس خوبی دارید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "예, 걱정하신 덕분에 완쾌했습니다.",
+      "ENGLISH": "Yes, thanks to your concern, I’ve fully recovered.",
+      "CHINESE_SIMPLIFIED": "是的，托您的福已经完全康复了",
+      "CHINESE_TRADITIONAL": "是的，託您的福，我已經完全康復了",
+      "JAPANESE": "はい、心配してくださったおかげで完治しました",
+      "INDONESIAN": "Iya, berkat perhatian kalian, aku udah pulih total.",
+      "PORTUGUESE": "Sim, obrigada por se preocupar. Estou bem melhor.",
+      "SPANISH": "Sí, gracias por preocuparse. Ya estoy mucho mejor.",
+      "PERSIAN": "بله، به لطف نگرانی شما، من به طور کامل بهبود یافته ام."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "예 축하해요.",
+      "ENGLISH": "Congrats!",
+      "CHINESE_SIMPLIFIED": "嗯，恭喜你啊",
+      "CHINESE_TRADITIONAL": "嗯，恭喜你",
+      "JAPANESE": "はい、よかったですね",
+      "INDONESIAN": "Selamat ya!",
+      "PORTUGUESE": "Que bom ouvir isso.",
+      "SPANISH": "Me alegra oírlo.",
+      "PERSIAN": "تبریک میگم"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 근데 어쩐지 좀 피곤해 보이시는데요. ",
+      "ENGLISH": "Ah, but you do look a little tired.",
+      "CHINESE_SIMPLIFIED": "啊，不过您看起来有点疲惫呢",
+      "CHINESE_TRADITIONAL": "啊，不過您看起來似乎有點疲憊呢",
+      "JAPANESE": "でもなんだか少し疲れてるように見えますけど",
+      "INDONESIAN": "Ah, tapi kamu kelihatan agak capek, deh.",
+      "PORTUGUESE": "Mas... você parece um pouco cansada.",
+      "SPANISH": "Aunque… se ve un poco cansada.",
+      "PERSIAN": "آه، اما شما کمی خسته به نظر می رسید."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 잘 보셨네요.",
+      "ENGLISH": "sigh… you noticed.",
+      "CHINESE_SIMPLIFIED": "唉...你眼睛真尖啊",
+      "CHINESE_TRADITIONAL": "哈...你發現了啊",
+      "JAPANESE": "はぁ…気づきましたか",
+      "INDONESIAN": "sigh… ketahuan juga.",
+      "PORTUGUESE": "Ha... percebeu.",
+      "SPANISH": "Ah… lo notaste.",
+      "PERSIAN": "آه… متوجه شدید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 그동안 유만 씨 없어서",
+      "ENGLISH": "I’ve been handling backups alone since Yuman wasn’t around,",
+      "CHINESE_SIMPLIFIED": "这段时间因为吴宥万先生不在",
+      "CHINESE_TRADITIONAL": "這段時間因為你不在",
+      "JAPANESE": "ユマンさんがいなかった間",
+      "INDONESIAN": "Sejak Yuman nggak ada, aku yang ngurus backup sendirian,",
+      "PORTUGUESE": "É que enquanto você estava fora,",
+      "SPANISH": "Es que mientras tú no estabas,",
+      "PERSIAN": "از زمانی که یومان آنجا نبود، من به تنهایی پشتیبان‌گیری می‌کردم،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "혼자 백업하느라 집에 잘 못 갔거든요.",
+      "ENGLISH": "so I haven’t really been able to go home properly.",
+      "CHINESE_SIMPLIFIED": "我一个人做备份工作，都没怎么回过家",
+      "CHINESE_TRADITIONAL": "只有我一個人負責支援，都沒辦法好好回家",
+      "JAPANESE": "一人でバックアップ作業してて、家にほとんど帰れなかったんです",
+      "INDONESIAN": "jadi belum bisa pulang dengan tenang akhir-akhir ini.",
+      "PORTUGUESE": "tive que fazer todos os backups sozinha e quase não ia pra casa.",
+      "SPANISH": "tuve que hacer los respaldos sola y no pude dormir.",
+      "PERSIAN": "بنابراین من واقعاً نتوانستم به درستی به خونه بروم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 감사합니다. ",
+      "ENGLISH": "Ah… thank you.",
+      "CHINESE_SIMPLIFIED": "啊...辛苦了",
+      "CHINESE_TRADITIONAL": "啊... 謝謝您",
+      "JAPANESE": "あ…ありがとうございます",
+      "INDONESIAN": "Ah… makasih banyak ya.",
+      "PORTUGUESE": "Ah... muito obrigado.",
+      "SPANISH": "Ah… muchas gracias.",
+      "PERSIAN": "آه… ممنونم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘부터 다시 열심히 일하겠습니다!",
+      "ENGLISH": "I’ll work hard again starting today!",
+      "CHINESE_SIMPLIFIED": "从今天起我会重新加油工作的！",
+      "CHINESE_TRADITIONAL": "從今天開始我會努力工作的！",
+      "JAPANESE": "今日からまた一生懸命働きます！",
+      "INDONESIAN": "Mulai hari ini, aku bakal kerja keras lagi!",
+      "PORTUGUESE": "A partir de hoje, vou voltar a trabalhar com empenho.",
+      "SPANISH": "A partir de hoy volveré a trabajar arduamente.",
+      "PERSIAN": "از امروز دوباره سخت کار خواهم کرد!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "Yes.",
+      "CHINESE_SIMPLIFIED": "好的",
+      "CHINESE_TRADITIONAL": "好的",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Que bom.",
+      "SPANISH": "Qué bueno.",
+      "PERSIAN": "بله."
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님, 이거 한번 해 보실래요?",
+      "ENGLISH": "Hey, want to try this, Manager?",
+      "CHINESE_SIMPLIFIED": "科长，要不要试试这个？",
+      "CHINESE_TRADITIONAL": "課長，你要試試這個動作嗎？",
+      "JAPANESE": "課長、これ一回見てみますか？",
+      "INDONESIAN": "Manajer, kalau mau posturnya tetep bagus,",
+      "PORTUGUESE": "Chefe, pra manter uma boa postura,",
+      "SPANISH": "Jefa, para mantener una buena postura,",
+      "PERSIAN": "هی، می خواهید اینو امتحان کنید، مدیر؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다리 라인 잡아주는덴 이거 만한 게 없대요.",
+      "ENGLISH": "They say nothing beats this for shaping your legs.",
+      "CHINESE_SIMPLIFIED": "据说这个是塑造腿部线条最有效的器材",
+      "CHINESE_TRADITIONAL": "雕塑腿部線條，沒有比這個更有效的了",
+      "JAPANESE": "脚のラインをきれいにさせるには、これが一番なんです",
+      "INDONESIAN": "otot punggung itu penting banget. Manajer udah tahu kan?",
+      "PORTUGUESE": "os músculos das costas são fundamentais, sabia?",
+      "SPANISH": "los músculos de la espalda son fundamentales, ¿sabía?",
+      "PERSIAN": "اونا می گویند هیچ چیز برای شکل دادن به پاهای شما بهتر از این نیست."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "다리 라인 중요하지",
+      "ENGLISH": "Legs are important.",
+      "CHINESE_SIMPLIFIED": "腿部线条确实很重要",
+      "CHINESE_TRADITIONAL": "腿部線條的確很重要",
+      "JAPANESE": "脚のライン重要ですよね",
+      "INDONESIAN": "Mau coba sekarang?",
+      "PORTUGUESE": "Começamos?",
+      "SPANISH": "¿Comenzamos?",
+      "PERSIAN": "پاها مهم هستند."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아.",
+      "ENGLISH": "Alright.",
+      "CHINESE_SIMPLIFIED": "好啊",
+      "CHINESE_TRADITIONAL": "好啊",
+      "JAPANESE": "いいね",
+      "INDONESIAN": "Boleh, ayo kita coba.",
+      "PORTUGUESE": "Claro, vamos começar.",
+      "SPANISH": "Claro, empecemos.",
+      "PERSIAN": "باشه"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자극이 제대로 오는 게 맞나...?",
+      "ENGLISH": "...Am I supposed to feel it this much?",
+      "CHINESE_SIMPLIFIED": "感觉没什么酸痛感呢...",
+      "CHINESE_TRADITIONAL": "這痠痛感真的是對的嗎...？",
+      "JAPANESE": "刺激がちゃんときてるのかな…？",
+      "INDONESIAN": "Hmm… bahuku terlalu keangkat nggak ya…?",
+      "PORTUGUESE": "Será que estou levantando demais os ombros...?",
+      "SPANISH": "¿Estoy trabajando el músculo correcto?",
+      "PERSIAN": "... قراره اینقدر حسش کنم؟"
+    }
+  }
+]

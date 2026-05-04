@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "으어아아아~",
+      "ENGLISH": "Ughhhh…",
+      "CHINESE_SIMPLIFIED": "呃啊啊啊~",
+      "CHINESE_TRADITIONAL": "呃啊啊啊啊～",
+      "JAPANESE": "うわああ〜っ",
+      "INDONESIAN": "Ughhhh…",
+      "PORTUGUESE": "Ughhh~",
+      "SPANISH": "Ughhh~",
+      "PERSIAN": "اوه هه…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "으어~ 조금 누워있었더니",
+      "ENGLISH": "Man, just lying down for a bit",
+      "CHINESE_SIMPLIFIED": "呃~就稍微躺了一会儿",
+      "CHINESE_TRADITIONAL": "欸，稍微躺了一下",
+      "JAPANESE": "う〜ん、ちょっと横になってたら",
+      "INDONESIAN": "Yaelah baru rebahan aja sebentar",
+      "PORTUGUESE": "Emm~ só queria deitar um pouquinho,",
+      "SPANISH": "Emm~ solo quería recostarme un rato",
+      "PERSIAN": "مرد، فقط برای کمی دراز کشیده است"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어깨가 뻐근하네?",
+      "ENGLISH": "and now my shoulders are all stiff…",
+      "CHINESE_SIMPLIFIED": "肩膀就有点僵了呢？",
+      "CHINESE_TRADITIONAL": "覺得肩膀有點酸痛？",
+      "JAPANESE": "肩がこっちゃいました",
+      "INDONESIAN": "eh sekarang pundakku pegel banget…",
+      "PORTUGUESE": "mas agora meu ombro tá doendo.",
+      "SPANISH": "pero ahora me duele el hombro.",
+      "PERSIAN": "و الان همه شانه هایم سفت شده اند…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 밟으셨나봐요.",
+      "ENGLISH": "Looks like you stepped on this.",
+      "CHINESE_SIMPLIFIED": "你好像踩到这个了",
+      "CHINESE_TRADITIONAL": "你好像踩到這個了",
+      "JAPANESE": "これ、踏んじゃったみたいですよ",
+      "INDONESIAN": "Kayaknya kamu nginjek ini deh.",
+      "PORTUGUESE": "Acho que você pisou nisso.",
+      "SPANISH": "Creo que pisó esto.",
+      "PERSIAN": "به نظر می رسد که شما در این مورد قدم گذاشته اید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "닭인형이요",
+      "ENGLISH": "The chicken plushie.",
+      "CHINESE_SIMPLIFIED": "是只玩具鸡",
+      "CHINESE_TRADITIONAL": "公雞玩偶耶",
+      "JAPANESE": "チキンの人形です",
+      "INDONESIAN": "Boneka ayam ini.",
+      "PORTUGUESE": "Uma galinha de brinquedo.",
+      "SPANISH": "Un pollo de juguete.",
+      "PERSIAN": "فلاش مرغ."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이거라고요?",
+      "ENGLISH": "This thing?",
+      "CHINESE_SIMPLIFIED": "你是说这个吗？",
+      "CHINESE_TRADITIONAL": "你是說這個嗎？",
+      "JAPANESE": "これですか？",
+      "INDONESIAN": "Ini nih?",
+      "PORTUGUESE": "Isso...?",
+      "SPANISH": "¿Esto...?",
+      "PERSIAN": "این چیز؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 왜 여기있지?",
+      "ENGLISH": "What’s it even doing here?",
+      "CHINESE_SIMPLIFIED": "这玩意儿怎么会出现在这里？",
+      "CHINESE_TRADITIONAL": "怎麼會在這裡？",
+      "JAPANESE": "なんでここにあるんだろう？",
+      "INDONESIAN": "Kenapa sih bisa ada di sini?",
+      "PORTUGUESE": "O que isso tá fazendo aqui...?",
+      "SPANISH": "¿Qué hace esto aquí...?",
+      "PERSIAN": "اصلا اینجا چیکار میکنه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "으어!",
+      "ENGLISH": "Agh!!",
+      "CHINESE_SIMPLIFIED": "呃啊！",
+      "CHINESE_TRADITIONAL": "嗚喔！",
+      "JAPANESE": "うわっ！",
+      "INDONESIAN": "Agh!!",
+      "PORTUGUESE": "Ah!",
+      "SPANISH": "¡Ah!",
+      "PERSIAN": "آخ!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 가요?!",
+      "ENGLISH": "Where are you going?!",
+      "CHINESE_SIMPLIFIED": "要去哪儿？！",
+      "CHINESE_TRADITIONAL": "你要去哪裡？！",
+      "JAPANESE": "どこ行くんですか！？",
+      "INDONESIAN": "Kamu mau ke mana?!",
+      "PORTUGUESE": "Pra onde você vai?!",
+      "SPANISH": "¿A dónde va?!",
+      "PERSIAN": "کجا میری؟!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 유만님!!",
+      "ENGLISH": "Yuman!! Wait!!",
+      "CHINESE_SIMPLIFIED": "啊，宥万先生！！",
+      "CHINESE_TRADITIONAL": "等等，宥萬先生！！",
+      "JAPANESE": "あっ、ユマンさん！！",
+      "INDONESIAN": "Yuman!! Tunggu!!",
+      "PORTUGUESE": "Senhor Yumán!!",
+      "SPANISH": "¡Señor Yumán!!",
+      "PERSIAN": "یومان!! صبر کن!!"
+    }
+  }
+]

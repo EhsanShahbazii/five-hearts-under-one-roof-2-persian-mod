@@ -1,0 +1,163 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 또! 또! 아는 척하신다 또.",
+      "ENGLISH": "Oh come on— there you go acting like you know again.",
+      "CHINESE_SIMPLIFIED": "哎呦又来了！又开始不懂装懂了是吧？",
+      "CHINESE_TRADITIONAL": "哎呀，又來了！又開始不懂裝懂了是吧？",
+      "JAPANESE": "あーまったく！また！また！知ったかぶり",
+      "INDONESIAN": "Oh ayolah—tuh kan, kamu sok tahu lagi.",
+      "PORTUGUESE": "Ai, de novo~ sempre fingindo que sabe.",
+      "SPANISH": "Ay, otra vez~ siempre fingiendo que sabe.",
+      "PERSIAN": "اوه، بیا، انگار دوباره می‌دونی رفتار می‌کنی."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 골프장 말고 실제 필드 나가면",
+      "ENGLISH": "On a real golf course, not a place like this,",
+      "CHINESE_SIMPLIFIED": "这种练习场就算了吧，要是上真正的球场打",
+      "CHINESE_TRADITIONAL": "在練習場就算了，要是去真正的球場的話",
+      "JAPANESE": "こんな練習場じゃなくて実際のコースに出たら",
+      "INDONESIAN": "Di lapangan golf beneran, bukan tempat kayak gini,",
+      "PORTUGUESE": "Num jogo de verdade, e não num lugar como esse,",
+      "SPANISH": "En un partido de verdad y no a un lugar como este,",
+      "PERSIAN": "در یک زمین گلف واقعی، نه جایی مثل این،"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 얼마나 효과적인데. 모르시죠?",
+      "ENGLISH": "you have no idea how effective this swing is. You don’t, do you?",
+      "CHINESE_SIMPLIFIED": "你就看我这挥杆有多牛吧",
+      "CHINESE_TRADITIONAL": "你根本不知道這個揮桿有多有效",
+      "JAPANESE": "どれだけ効果的か分かんないですよね？",
+      "INDONESIAN": "kamu nggak tahu seefektif apa ayunan ini. Kamu nggak tahu, kan?",
+      "PORTUGUESE": "você vai ver como esse movimento é útil.",
+      "SPANISH": "verá lo útil que es este movimiento.",
+      "PERSIAN": "شما نمی دانید این چرخش چقدر موثر است. شما اینطوری نیستید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 공도 얼마 가지도 않...",
+      "ENGLISH": "The ball didn’t even go that far—",
+      "CHINESE_SIMPLIFIED": "不是，你这球根本就没飞多远...",
+      "CHINESE_TRADITIONAL": "不是，你這一球根本沒打那麼遠...",
+      "JAPANESE": "だってボールも全然飛ばないし…",
+      "INDONESIAN": "Bolanya aja nggak jauh-jauh amat—",
+      "PORTUGUESE": "Mas a bola nem caiu tão longe...",
+      "SPANISH": "Pero la bola ni siquiera cayó muy lejos..",
+      "PERSIAN": "توپ حتی تا این حد هم نرفت -"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 토 달지 말고~",
+      "ENGLISH": "Hey, don’t argue~",
+      "CHINESE_SIMPLIFIED": "哎呦别啰嗦了~",
+      "CHINESE_TRADITIONAL": "喂，不要囉唆了～",
+      "JAPANESE": "またまた、難癖つけないでくださいよ〜",
+      "INDONESIAN": "Eh, jangan debat dong~",
+      "PORTUGUESE": "Ai, não discute comigo~",
+      "SPANISH": "Ay, no me discuta~",
+      "PERSIAN": "هی، بحث نکن~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아우! 이렇게 쳐봤어요? 안 쳐봤죠!",
+      "ENGLISH": "Ugh! Have you even tried swinging like this before? You haven’t, right!",
+      "CHINESE_SIMPLIFIED": "你试过我这样的挥杆吗？肯定没试过吧！",
+      "CHINESE_TRADITIONAL": "啊嗚！你以前有試過這樣揮桿嗎？肯定沒有，對吧！",
+      "JAPANESE": "こんなふうに打ってみたことありますか？ないでしょ！",
+      "INDONESIAN": "Ugh! Kamu sendiri pernah coba ayunan kayak gini belum? Belum, kan!",
+      "PORTUGUESE": "Agh! Já acertou alguma vez assim? Não, né?",
+      "SPANISH": "¡Agh! ¿Ha golpeado alguna vez así? No, ¿verdad?",
+      "PERSIAN": "اوه تا به حال حتی تاب خوردن را امتحان کرده اید؟ نداشتی، درسته!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "안 쳐봤으면 말을 마세요.",
+      "ENGLISH": "If you haven’t, then don’t comment.",
+      "CHINESE_SIMPLIFIED": "没打过就别多指手画脚",
+      "CHINESE_TRADITIONAL": "如果沒有的話，就不要對別人評頭論足",
+      "JAPANESE": "打ったことないならじっとしててください",
+      "INDONESIAN": "Kalau belum, ya jangan komentar.",
+      "PORTUGUESE": "Se não sabe, não fala.",
+      "SPANISH": "Si no sabe, no hable.",
+      "PERSIAN": "اگر ندارید، پس نظر ندهید."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "너 많이 치세요 그럼.",
+      "ENGLISH": "Fine, then go ahead and swing all you want.",
+      "CHINESE_SIMPLIFIED": "那你多打点吧",
+      "CHINESE_TRADITIONAL": "那你多打一點吧",
+      "JAPANESE": "じゃあ一人でたくさん打ってください",
+      "INDONESIAN": "Ya udah, sana—ayun sepuasnya.",
+      "PORTUGUESE": "Então continua jogando, vai.",
+      "SPANISH": "Entonces sigue jugando, anda.",
+      "PERSIAN": "خوب، سپس ادامه دهید و هر چه می خواهید بچرخانید."
+    }
+  }
+]

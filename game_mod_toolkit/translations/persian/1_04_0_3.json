@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마 펜 있어?",
+      "ENGLISH": "Mom, do you have something to write with?",
+      "PERSIAN": "مامان، چیزی دم دستت هست باهاش بنویسی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "펜? 잠깐만 있어 봐!",
+      "ENGLISH": "Something to write with? Uh, hang on!",
+      "PERSIAN": "چیزی برای نوشتن؟ یه لحظه وایسا!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 들어, 내 유언이야.",
+      "ENGLISH": "Okay, listen carefully—this is your son’s dying wish!",
+      "PERSIAN": "خیلی خب، خوب گوش بده— این وصیت پسرت قبل از مرگه!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "카페에 가서 주문해 줘.",
+      "ENGLISH": "Go to a café. Then order...",
+      "PERSIAN": "میری کافی‌شاپ، بعد سفارش میدی..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "자바칩 프라푸치노.",
+      "ENGLISH": "A Java Chip Frappuccino.",
+      "PERSIAN": "یه دونه جاوا چیپ فراپوچینو."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "여기서부터 중요해.",
+      "ENGLISH": "This part’s super important.",
+      "PERSIAN": "این تیکه‌ش خیلی مهمه."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "모카 시럽, 헤이즐넛 시럽 추가하고",
+      "ENGLISH": "With mocha syrup, hazelnut syrup,",
+      "PERSIAN": "با سیروپ موکا و سیروپ فندق،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "자바칩 반반에 에스프레소 휘핑",
+      "ENGLISH": "long java chips, chunky java chips,",
+      "PERSIAN": "شکلات چیپسی فراوون و درشت،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 26.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 마지막에 초코 쿠키 추가.",
+      "ENGLISH": "whipped cream on top— And don’t forget the chocolate cookie at the end...",
+      "PERSIAN": "خامه زده‌شده روش— راستی کوکی شکلاتی آخرشم یادت نره..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 그거 마실 거야?",
+      "ENGLISH": "You’re really gonna drink that?",
+      "PERSIAN": "جدی‌جدی می‌خوای اونو بخوری؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 32.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 아니면 아들 죽을지도 몰라...",
+      "ENGLISH": "If it’s not exactly this recipe, your son might not make it...",
+      "PERSIAN": "اگه دقیقاً با همین رسپی نباشه، پسرتون زنده نمی‌مونه..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 35.8
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어 아들! 엄마가 금방 사 올게! 가자 여보.",
+      "ENGLISH": "Alright, sweetie! Mom’s on it! Let’s go.",
+      "PERSIAN": "باشه قربونت برم! مامان رفت! زود باش بریم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.3,
+      "HIDE": 39.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너.. 너! 다 마시는지 볼 거야.",
+      "ENGLISH": "You... you! I better see you actually drink it.",
+      "PERSIAN": "پسرک پررو... خودم میام می‌بینم تا تهش خوردی یا نه."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 41.6
+    },
+    "SCRIPT": {
+      "KOREAN": "지켜볼 거야.",
+      "ENGLISH": "I’m watching you.",
+      "PERSIAN": "حواسم بهت هست."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 43.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저.. 엄마!",
+      "ENGLISH": "Hey, Mom!",
+      "PERSIAN": "راستی مامان!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 44.4,
+      "HIDE": 47.0
+    },
+    "SCRIPT": {
+      "KOREAN": "만화책도 좀 사다 줘...",
+      "ENGLISH": "Grab some comics while you’re out!",
+      "PERSIAN": "سر راهت چند تا کمیک هم برام بگیر!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 49.3,
+      "HIDE": 50.8
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마! 만화책!!",
+      "ENGLISH": "Mom!! My comics!!",
+      "PERSIAN": "ماماننن! کمیک‌هام!!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 53.6,
+      "HIDE": 55.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어..어?! 으아악!",
+      "ENGLISH": "Huh?! Aaah—aghhh!!",
+      "PERSIAN": "ها؟! واااای—آاااخ!!"
+    }
+  }
+]

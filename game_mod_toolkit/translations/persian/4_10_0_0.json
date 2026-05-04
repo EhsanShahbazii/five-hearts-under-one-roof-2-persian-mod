@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 그 사람 화장실 안에 있다는 거죠? ",
+      "ENGLISH": "So that person is in the bathroom right now?",
+      "CHINESE_SIMPLIFIED": "所以那人现在就在卫生间里？",
+      "CHINESE_TRADITIONAL": "所以那個人現在就在廁所裡面是嗎？",
+      "JAPANESE": "今、その人はトイレの中にいるんですよね？",
+      "INDONESIAN": "Jadi tu orang lagi ada di kamar mandi sekarang?",
+      "PORTUGUESE": "Então essa garota tá no banheiro agora?",
+      "SPANISH": "¿Entonces esa chica está ahora mismo en el baño?",
+      "PERSIAN": "یعنی اون شخص الان تو حمومه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게 이렇게 만나지?",
+      "ENGLISH": "How did we even run into them like this?",
+      "CHINESE_SIMPLIFIED": "怎么这都能遇上？",
+      "CHINESE_TRADITIONAL": "怎麼會這樣遇到啊？",
+      "JAPANESE": "どうしてこんなタイミングで会うんだろう",
+      "INDONESIAN": "Gimana bisa kita ketemu dia tiba-tiba gini sih?",
+      "PORTUGUESE": "Como isso é possível?",
+      "SPANISH": "¿Cómo es esto posible?",
+      "PERSIAN": "چطور ما حتی اینطوری با اونا برخورد کردیم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까요... 근데 얘기해보니까 ",
+      "ENGLISH": "Exactly… but after talking, ",
+      "CHINESE_SIMPLIFIED": "就是说啊...不过聊下来发现",
+      "CHINESE_TRADITIONAL": "就是說... 不過跟她聊了之後發現",
+      "JAPANESE": "本当ですね…でも話を聞いてみたら",
+      "INDONESIAN": "Itu dia… tapi pas diajak ngobrol,",
+      "PORTUGUESE": "Não faço ideia... mas ao conversar com ela,",
+      "SPANISH": "No tengo idea… pero al hablar con ella,",
+      "PERSIAN": "دقیقا... اما بعد از صحبت،"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 18.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그날의 일이 어떻게 부풀려졌는지 전혀 모르고 있어요. 인터넷을 안 한대요...",
+      "ENGLISH": "it turns out they have no idea how much that day’s events got blown out of proportion. They don’t even check the internet…",
+      "CHINESE_SIMPLIFIED": "她完全不知道那天的事被夸大渲染了。她说自己不上网...",
+      "CHINESE_TRADITIONAL": "她完全不知道那天的事情變成了什麼樣子。她說她不怎麼上網...",
+      "JAPANESE": "あの日の出来事がどう誇張されてるのか、全然知らないみたいなんです　ネットを見てないって",
+      "INDONESIAN": "ternyata dia sama sekali nggak tahu kalau kejadian hari itu sampai seheboh itu. Dia bahkan nggak pernah buka internet…",
+      "PORTUGUESE": "percebi que ela não tem noção de como tudo se distorceu. Disse que nem entra na internet...",
+      "SPANISH": "me di cuenta de que no tiene idea de cómo se distorsionó todo aquel asunto. Dice que ni siquiera entra a internet…",
+      "PERSIAN": "معلوم می شود که اونا نمی دانند که چقدر رویدادهای اون روز نامتناسب شده است. حتی اینترنت رو هم چک نمیکنن…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요? 이거 어떻게 말하지?",
+      "ENGLISH": "Really? How am I supposed to tell them?",
+      "CHINESE_SIMPLIFIED": "真的吗？这该怎么开口啊？",
+      "CHINESE_TRADITIONAL": "真的嗎？ 那要怎麼跟她說啊？",
+      "JAPANESE": "本当ですか？これ、どう説明すればいいんだろう",
+      "INDONESIAN": "Serius? Terus aku harus kasih tahunya gimana dong?",
+      "PORTUGUESE": "Sério? E agora, como contamos pra ela?",
+      "SPANISH": "¿En serio? ¿Y ahora cómo se lo decimos?",
+      "PERSIAN": "واقعا؟ چطوری باید بهشون بگم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 28.59
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 자초지종을 잘 설명하고 해명하는 것 좀 도와달라고 얘기를 하는 게...",
+      "ENGLISH": "Just explain the whole situation clearly and ask them to help set the record straight…",
+      "CHINESE_SIMPLIFIED": "就直接把来龙去脉好好说明，请她帮忙澄清...",
+      "CHINESE_TRADITIONAL": "就直接把來龍去脈跟他好好說明，請他幫忙澄清一下",
+      "JAPANESE": "事情をちゃんと話して、誤解を解くのを手伝ってもらえるように言うしか…",
+      "INDONESIAN": "Jelasin aja semuanya sampe jelas, terus minta bantuannya buat lurusin keadaan…",
+      "PORTUGUESE": "Talvez o melhor seja explicar tudo com calma.",
+      "SPANISH": "Tal vez lo mejor sea explicarle todo con calma",
+      "PERSIAN": "فقط کل وضعیت را به طور واضح توضیح دهید و از اونا بخواهید که به درست کردن کار کمک کنند…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 그냥 자초지종을 잘 설명하고 해명하는 것 좀 도와달라고 얘기를 하는 게...\n- 꺅!!",
+      "ENGLISH": "— Just explain the whole situation clearly and ask them to help set the record straight…\n—  Eek!!",
+      "CHINESE_SIMPLIFIED": "-就直接把来龙去脉好好说明，请她帮忙澄清...\n-呀！！",
+      "CHINESE_TRADITIONAL": "-就直接把來龍去脈跟他好好說明，請他幫忙澄清一下\n-呀！！",
+      "JAPANESE": "‐…事情をちゃんと説明して、誤解を解くのを手伝ってほしいって話すのが一番じゃ…\n‐きゃっ！！",
+      "INDONESIAN": "— Jelasin aja semuanya sampe jelas, terus minta bantuannya buat lurusin keadaan…\n— Aaaak!!",
+      "PORTUGUESE": "— Talvez você só devesse contar a situação e pedir pra ela te ajudar a esclarecer...\n— AAAHHHHH!!",
+      "SPANISH": "— Tal vez solo deberías explicarle la situación y pedirle que te ayude a aclararlo…\n—¡¡AHHHHH!!",
+      "PERSIAN": "- فقط کل وضعیت را به طور واضح توضیح دهید و از اونا بخواهید که به درست کردن کار کمک کنند… - ایک!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  }
+]

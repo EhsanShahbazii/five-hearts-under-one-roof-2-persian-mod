@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 여긴 수영하기 좀 좁죠?",
+      "ENGLISH": "This place feels a bit cramped for swimming, doesn’t it?",
+      "CHINESE_SIMPLIFIED": "这里好像有点太小，不太适合游泳吧？",
+      "CHINESE_TRADITIONAL": "這裡好像太小了，不適合游泳吧？",
+      "JAPANESE": "ここ ちょっと泳ぐには狭いですよね？",
+      "INDONESIAN": "Tempat ini agak sempit buat renang, ya?",
+      "PORTUGUESE": "Não acha que é um pouco pequeno pra nadar?",
+      "SPANISH": "No te parece que espoco pequeño para nadar?",
+      "PERSIAN": "این مکان برای شنا کمی تنگ است، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "음? 괜찮아요.",
+      "ENGLISH": "Hmm? I’m fine with it.",
+      "CHINESE_SIMPLIFIED": "嗯？没关系啦",
+      "CHINESE_TRADITIONAL": "嗯？沒關係啦",
+      "JAPANESE": "ん？大丈夫です",
+      "INDONESIAN": "Hmm? Aku sih nggak masalah.",
+      "PORTUGUESE": "Hmm? Eu acho que tá bom.",
+      "SPANISH": "¿Hmm? Yo lo veo bien.",
+      "PERSIAN": "هوم؟ من باهاش ​​خوبم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 지금 뭐해요?",
+      "ENGLISH": "But… what are you doing right now?",
+      "CHINESE_SIMPLIFIED": "不过你现在在做什么？",
+      "CHINESE_TRADITIONAL": "不過你現在在做什麼",
+      "JAPANESE": "でも今 何してるんですか？",
+      "INDONESIAN": "Tapi… kamu lagi ngapain sih sekarang?",
+      "PORTUGUESE": "O que você tá fazendo?",
+      "SPANISH": "¿Qué estás haciendo?",
+      "PERSIAN": "اما ... شما در حال حاضر چه کار می کنید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "펜션에 오면 또 이런 거 발라줘야죠.",
+      "ENGLISH": "You’ve gotta put this on when you come to a place like this.",
+      "CHINESE_SIMPLIFIED": "来度假别墅当然得涂指甲油啦～",
+      "CHINESE_TRADITIONAL": "來到度假別墅，當然要塗這個啊～",
+      "JAPANESE": "ペンション来たらこういうの塗らなきゃで",
+      "INDONESIAN": "Kalau ke tempat kayak gini, kamu harus pake ini.",
+      "PORTUGUESE": "Quando a gente vem num lugar assim, tem que usar isso.",
+      "SPANISH": "Cuando vienes a un lugar así, hay que ponerse esto.",
+      "PERSIAN": "وقتی به چنین مکانی می‌آیید، باید اینو بپوشید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 한번 해볼래요?",
+      "ENGLISH": "Wanna give it a try, Yuman?",
+      "CHINESE_SIMPLIFIED": "你要不要来帮我涂涂看？",
+      "CHINESE_TRADITIONAL": "你要幫我塗看看嗎？",
+      "JAPANESE": "ユマンさんもやってみます？",
+      "INDONESIAN": "Mau coba, Yuman?",
+      "PORTUGUESE": "Quer tentar?",
+      "SPANISH": "¿Quieres probar?",
+      "PERSIAN": "میخوای امتحانش کنی یومان؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 제가요?",
+      "ENGLISH": "Huh? Me?",
+      "CHINESE_SIMPLIFIED": "啊？我来吗？",
+      "CHINESE_TRADITIONAL": "啊？我嗎？",
+      "JAPANESE": "え？俺がですか？",
+      "INDONESIAN": "Hah? Aku?",
+      "PORTUGUESE": "Hã? Eu?",
+      "SPANISH": "¿Eh? ¿Yo?",
+      "PERSIAN": "ها؟ من؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "전 해 본 적이 없는데.",
+      "ENGLISH": "I’ve never done it before, though.",
+      "CHINESE_SIMPLIFIED": "我还从来没给人涂过呢",
+      "CHINESE_TRADITIONAL": "我從來沒有幫人家塗過耶",
+      "JAPANESE": "やったことないですけど…",
+      "INDONESIAN": "Tapi aku belum pernah nyoba sebelumnya.",
+      "PORTUGUESE": "Nunca tentei antes.",
+      "SPANISH": "Nunca lo he intentado.",
+      "PERSIAN": "با این حال، هرگز اونو انجام نداده بودم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어렵지 않아요.",
+      "ENGLISH": "It’s not hard.",
+      "CHINESE_SIMPLIFIED": "不难的",
+      "CHINESE_TRADITIONAL": "不難啦",
+      "JAPANESE": "難しくないですよ",
+      "INDONESIAN": "Gampang kok.",
+      "PORTUGUESE": "Não é difícil.",
+      "SPANISH": "No es difícil.",
+      "PERSIAN": "سخت نیست"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "망쳐도 되니깐 한번 해봐요",
+      "ENGLISH": "Even if you mess it up, it’s fine—just try it.",
+      "CHINESE_SIMPLIFIED": "搞砸也没关系，试试看嘛",
+      "CHINESE_TRADITIONAL": "就算搞砸也沒關係，試一次看看吧",
+      "JAPANESE": "できなくても大丈夫だから一回やってみてください",
+      "INDONESIAN": "Kalau salah juga nggak apa-apa—coba aja dulu.",
+      "PORTUGUESE": "Tenta, não tem problema se não der certo.",
+      "SPANISH": "Inténtalo, no importa si no te sale.",
+      "PERSIAN": "حتی اگر اونو خراب کنید، خوب است - فقط اونو امتحان کنید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Okay.",
+      "CHINESE_SIMPLIFIED": "好吧",
+      "CHINESE_TRADITIONAL": "好吧",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Oke deh.",
+      "PORTUGUESE": "Tá bom.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "باشه"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 하는 게 맞아요?",
+      "ENGLISH": "Is… is this how I’m supposed to do it?",
+      "CHINESE_SIMPLIFIED": "是这样涂的吗？",
+      "CHINESE_TRADITIONAL": "這樣做對嗎？",
+      "JAPANESE": "こんな感じでいいですか？",
+      "INDONESIAN": "Ini… begini caranya?",
+      "PORTUGUESE": "Assim tá certo?",
+      "SPANISH": "¿Así está bien?",
+      "PERSIAN": "آیا... من باید این کار را انجام دهم؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮은데요?",
+      "ENGLISH": "Actually, it feels pretty good.",
+      "CHINESE_SIMPLIFIED": "挺好的呀？",
+      "CHINESE_TRADITIONAL": "做得不錯啊？",
+      "JAPANESE": "いい感じですよ",
+      "INDONESIAN": "Eh, rasanya enak juga, ya.",
+      "PORTUGUESE": "Sim, tá ótimo.",
+      "SPANISH": "Sí, se ve bien.",
+      "PERSIAN": "در واقع، احساس بسیار خوبی دارد."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんとに？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.1,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "응! 잘했어요 ",
+      "ENGLISH": "Yeah! You did great.",
+      "CHINESE_SIMPLIFIED": "嗯！做得很好",
+      "CHINESE_TRADITIONAL": "嗯！做得很好",
+      "JAPANESE": "うん！上手です",
+      "INDONESIAN": "Iya! Kamu hebat.",
+      "PORTUGUESE": "Aham! Você fez direitinho.",
+      "SPANISH": "¡Ajá! Lo hiciste bien.",
+      "PERSIAN": "آره عالی کار کردی"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오~",
+      "ENGLISH": "Oh~",
+      "CHINESE_SIMPLIFIED": "喔~",
+      "CHINESE_TRADITIONAL": "喔～",
+      "JAPANESE": "お〜",
+      "INDONESIAN": "Oh~",
+      "PORTUGUESE": "Oh~",
+      "SPANISH": "Oh~",
+      "PERSIAN": "اوه~"
+    }
+  }
+]

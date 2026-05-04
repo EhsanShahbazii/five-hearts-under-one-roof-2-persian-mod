@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하~ 다리가 시원하다! ",
+      "ENGLISH": "Ah~ my leg feels so much better!",
+      "CHINESE_SIMPLIFIED": "哇塞！腿好轻松啊！",
+      "CHINESE_TRADITIONAL": "哈～腳真舒服喔！",
+      "JAPANESE": "はぁ〜 足すっきりした!",
+      "INDONESIAN": "Ah~ kakiku terasa jauh lebih baik!",
+      "PORTUGUESE": "Uff... finalmente tiraram o gesso!",
+      "SPANISH": "Uff... ¡por fin me quitaron el yeso!",
+      "PERSIAN": "آه ~ پای من خیلی بهتر است!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이 골목도 오랜만이네.",
+      "ENGLISH": "Haven’t been down this street in a while.",
+      "CHINESE_SIMPLIFIED": "真是好久没来这条巷子了",
+      "CHINESE_TRADITIONAL": "這條巷子也好久沒來了",
+      "JAPANESE": "この路地もほんと久しぶりだな",
+      "INDONESIAN": "Sudah lama aku tidak melewati jalan ini.",
+      "PORTUGUESE": "Faz tempo que não passo por este beco.",
+      "SPANISH": "Hace tiempo no paso por este callejón.",
+      "PERSIAN": "مدتی است که در این خیابان نرفته‌ام."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "咦？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "ん?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Oh?",
+      "SPANISH": "¿Oh?",
+      "PERSIAN": "ها؟"
+    }
+  }
+]

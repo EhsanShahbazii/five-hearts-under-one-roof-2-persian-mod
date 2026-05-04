@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저 휴지 가져 올까요...",
+      "ENGLISH": "Should I grab some tissues…",
+      "CHINESE_SIMPLIFIED": "我去拿纸巾...",
+      "CHINESE_TRADITIONAL": "我要去拿衛生紙嗎...",
+      "JAPANESE": "ティッシュ持ってきましょうか……",
+      "INDONESIAN": "Aku ambilin tisu aja, ya…",
+      "PORTUGUESE": "Quer que eu traga um pouco de papel...?",
+      "SPANISH": "¿Le traigo un poco de...?",
+      "PERSIAN": "باید دستمال کاغذی بگیرم…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 제가 워드 파일로 드린다는데",
+      "ENGLISH": "I told you I’d send it as a Word file,",
+      "CHINESE_SIMPLIFIED": "啊，我说了会用 Word 文档发您",
+      "CHINESE_TRADITIONAL": "我說要用 Word 檔案給您了",
+      "JAPANESE": "俺がワードファイルで渡すって言ったのに",
+      "INDONESIAN": "Udah aku bilang mau kirim file Word,",
+      "PORTUGUESE": "Ah, eu disse que ia mandar por e-mail,",
+      "SPANISH": "Ah, le dije que se lo pasaría por mail,",
+      "PERSIAN": "من به شما گفتم که اونو به عنوان یک فایل کلمه ارسال می کنم،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 자꾸 종이를 고집해가지고 왜 사람을 걱정하게 만들어요.",
+      "ENGLISH": "but you just had to insist on paper and make me worry like this.",
+      "CHINESE_SIMPLIFIED": "您非要坚持用纸质版，害我还得担心",
+      "CHINESE_TRADITIONAL": "您一直堅持要用紙本，為什麼要讓人擔心",
+      "JAPANESE": "紙にこだわるからこんなことになるんですよ",
+      "INDONESIAN": "tapi kamu maksa cetak kertas, terus bikin aku khawatir begini.",
+      "PORTUGUESE": "mas por que insiste tanto em querer em papel e ainda me deixa preocupado?",
+      "SPANISH": "pero por qué  insiste con el papel y hace que me preocupe?",
+      "PERSIAN": "اما تو فقط باید روی کاغذ پافشاری می کردی و من را اینگونه نگران می کردی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "연고를 가져올까요...",
+      "ENGLISH": "Should I get some ointment…",
+      "CHINESE_SIMPLIFIED": "要拿药膏吗...",
+      "CHINESE_TRADITIONAL": "我要去拿藥膏嗎...",
+      "JAPANESE": "軟膏持ってきましょうか……",
+      "INDONESIAN": "Ambilin salep juga, nggak…",
+      "PORTUGUESE": "Quer que eu traga uma pomada...?",
+      "SPANISH": "¿Le traigo una pomada...?",
+      "PERSIAN": "باید پماد بخورم…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 난 종이로 보는 게 편하단 말이야...",
+      "ENGLISH": "I’m just more comfortable reading from paper…",
+      "CHINESE_SIMPLIFIED": "我看纸质版更顺眼...",
+      "CHINESE_TRADITIONAL": "我看紙本比較習慣嘛...",
+      "JAPANESE": "紙で見るほうが見やすいから……",
+      "INDONESIAN": "Aku emang lebih nyaman baca dari kertas sih…",
+      "PORTUGUESE": "Já disse que prefiro ler em papel...",
+      "SPANISH": "Ya le dije que prefiero leer en papel…",
+      "PERSIAN": "من راحت تر از روی کاغذ می خوانم…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "손 괜찮으세요?",
+      "ENGLISH": "Manager, is your hand okay?",
+      "CHINESE_SIMPLIFIED": "科长您手没事吧？",
+      "CHINESE_TRADITIONAL": "課長，您的手還好嗎？",
+      "JAPANESE": "課長、手は大丈夫ですか？",
+      "INDONESIAN": "Manajer, tanganmu nggak apa-apa?",
+      "PORTUGUESE": "Como tá sua mão, chefe?",
+      "SPANISH": "¿Cómo está su mano, jefa?",
+      "PERSIAN": "مدیر، دستت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 피는 멎은 거 같고 제가 호호 불어드릴게요.",
+      "ENGLISH": "Looks like the bleeding stopped. I’ll blow on it for you.",
+      "CHINESE_SIMPLIFIED": "现在血好像止住了，我给您呼呼~",
+      "CHINESE_TRADITIONAL": "現在血好像止住了，我幫您呼呼吹一下",
+      "JAPANESE": "血は止まったみたいですし、フーッてしてあげますね",
+      "INDONESIAN": "Kayaknya pendarahannya udah berhenti. Sini, aku tiupin.",
+      "PORTUGUESE": "Parece que já parou de sangrar, vou assoprar um pouquinho.",
+      "SPANISH": "Parece que ya dejó de sangrar, voy a soplarla un poquito.",
+      "PERSIAN": "به نظر می رسد خونریزی متوقف شده است. من اونو برای شما باد می کنم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 무슨 애야?",
+      "ENGLISH": "Do I look like a child to you?",
+      "CHINESE_SIMPLIFIED": "你当我是小孩吗？",
+      "CHINESE_TRADITIONAL": "是小孩子嗎？",
+      "JAPANESE": "私、子どもじゃないんだから",
+      "INDONESIAN": "Aku kelihatan kayak bocil gitu, ya?",
+      "PORTUGUESE": "Por acaso sou uma criança?",
+      "SPANISH": "¿Acaso soy una niña?",
+      "PERSIAN": "من به نظر شما یک کودک هستم؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "칠칠맞게 다쳤는데 애지. 그럼 어른입니까?",
+      "ENGLISH": "If you get hurt this clumsily, that’s exactly what a child does. Does that make you an adult?",
+      "CHINESE_SIMPLIFIED": "这么不小心受伤就是小孩。那还算大人吗？",
+      "CHINESE_TRADITIONAL": "笨手笨腳地受了傷，那還算什麼大人啊？",
+      "JAPANESE": "ドジしてケガしたら子どもですよ　大人ですか？",
+      "INDONESIAN": "Kalau kamu sampai luka segini karena ceroboh, ya itu kelakuan bocil. Masih ngaku orang dewasa?",
+      "PORTUGUESE": "Se se machuca de um jeito tão bobo, sim. Uma adulta faria isso?",
+      "SPANISH": "Si se lastima de manera tan torpe, pues sí. ¿Una adulta se lastimaría así?",
+      "PERSIAN": "اگر شما به طرز ناشیانه ای صدمه دیدید، این دقیقاً همون کاری است که یک کودک انجام می دهد. این شما را بالغ می کند؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "... 큼 아니거든?",
+      "ENGLISH": "… ahem, I am not.",
+      "CHINESE_SIMPLIFIED": "...哼，才不是呢？",
+      "CHINESE_TRADITIONAL": "... 咳，才不是！",
+      "JAPANESE": "……こほん、違うよ？",
+      "INDONESIAN": "… ehem, aku bukan anak kecil.",
+      "PORTUGUESE": "... Ehm, claro que não.",
+      "SPANISH": "… Ejem, claro que no.",
+      "PERSIAN": "... آه، من نیستم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "애예요. 호호 붑니다.",
+      "ENGLISH": "Yes you are. I’m gonna blow on it.",
+      "CHINESE_SIMPLIFIED": "就是小朋友，我给您呼呼~",
+      "CHINESE_TRADITIONAL": "那就是小孩了，我幫您呼呼吹一下吧",
+      "JAPANESE": "子どもです　フーッてしてあげますね",
+      "INDONESIAN": "Iya, kamu tuh anak kecil. Aku tiupin ya.",
+      "PORTUGUESE": "Então é uma criança. Então deixa eu assoprar.",
+      "SPANISH": "Sí es un niña. Así que déjeme soplarle.",
+      "PERSIAN": "بله شمایین. من بر اون باد می کنم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요?",
+      "ENGLISH": "Excuse me??",
+      "CHINESE_SIMPLIFIED": "喂？",
+      "CHINESE_TRADITIONAL": "喂？",
+      "JAPANESE": "ちょっと……？",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Com licença...?",
+      "SPANISH": "¿Disculpe...?",
+      "PERSIAN": "ببخشید؟؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에이씨..",
+      "ENGLISH": "Tch…",
+      "CHINESE_SIMPLIFIED": "我X...",
+      "CHINESE_TRADITIONAL": "唉... ",
+      "JAPANESE": "はぁ……",
+      "INDONESIAN": "Tch…",
+      "PORTUGUESE": "Droga...",
+      "SPANISH": "Diablos...",
+      "PERSIAN": "ایشش…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 37.7
+    },
+    "SCRIPT": {
+      "KOREAN": "안 아프죠?",
+      "ENGLISH": "Doesn’t hurt anymore, right?",
+      "CHINESE_SIMPLIFIED": "不痛了吧？",
+      "CHINESE_TRADITIONAL": "這樣就不痛了吧？",
+      "JAPANESE": "もう痛くないでしょ？",
+      "INDONESIAN": "Udah nggak sakit lagi, kan?",
+      "PORTUGUESE": "Já não dói mais, né?",
+      "SPANISH": "¿Ya no duele, verdad?",
+      "PERSIAN": "دیگه درد نداره درسته؟"
+    }
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐지...",
+      "ENGLISH": "Ah, what’s this…",
+      "CHINESE_SIMPLIFIED": "啊，这是啥...",
+      "CHINESE_TRADITIONAL": "這到底是...",
+      "JAPANESE": "なんだこれ…",
+      "INDONESIAN": "Ah, apaan sih nih…",
+      "PORTUGUESE": "Me ajuda...",
+      "SPANISH": "Ayúdame...",
+      "PERSIAN": "آخ این چیه…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍...아...",
+      "CHINESE_SIMPLIFIED": "嘶...啊...",
+      "CHINESE_TRADITIONAL": "呃...啊...",
+      "JAPANESE": "チッ…あ…",
+      "PORTUGUESE": "Tsk... ah...",
+      "SPANISH": "Tsk... ah...",
+      "PERSIAN": "بنویس...آه..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "0이야, 0",
+      "ENGLISH": "It's that young, young vibe.",
+      "CHINESE_SIMPLIFIED": "是零，零",
+      "CHINESE_TRADITIONAL": "零嗎，零！",
+      "JAPANESE": "ゼロだよ ゼロ",
+      "INDONESIAN": "Masih muda-muda ya.",
+      "PORTUGUESE": "Zero, é zero.",
+      "SPANISH": "Cero, es cero.",
+      "PERSIAN": "این حال و هوای جوان و جوان است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "ENGLISH": "Young.",
+      "CHINESE_SIMPLIFIED": "零",
+      "CHINESE_TRADITIONAL": "答案是零",
+      "JAPANESE": "ゼロ",
+      "INDONESIAN": "Muda.",
+      "PORTUGUESE": "Zero.",
+      "SPANISH": "Cero.",
+      "PERSIAN": "جوان"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 오케오케이",
+      "ENGLISH": "Ah, okay, okay.",
+      "CHINESE_SIMPLIFIED": "啊，哦哦，好好",
+      "CHINESE_TRADITIONAL": "OK!OK",
+      "JAPANESE": "あ、オーケーオーケー！",
+      "INDONESIAN": "Ah, oke, oke.",
+      "PORTUGUESE": "Ah, ok, ok.",
+      "SPANISH": "Ah, ok, ok.",
+      "PERSIAN": "آه، باشه، باشه"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "쌤 저 다 풀었습니다!",
+      "ENGLISH": "Teacher, I’ve solved everything!",
+      "CHINESE_SIMPLIFIED": "老师，我全都解完了！",
+      "CHINESE_TRADITIONAL": "老師，我全部都解出來了！",
+      "JAPANESE": "先生！全部解きました！",
+      "INDONESIAN": "Pak guru, aku udah selesai ngerjain semuanya!",
+      "PORTUGUESE": "Profe, já terminei!",
+      "SPANISH": "¡Profe, ya terminé!",
+      "PERSIAN": "استاد، من همه چیز را حل کردم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그려?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "是吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "そうか？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sim?",
+      "SPANISH": "¿Sí?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "잘하네~",
+      "ENGLISH": "Good job~",
+      "CHINESE_SIMPLIFIED": "真行啊~",
+      "CHINESE_TRADITIONAL": "做得好～",
+      "JAPANESE": "よくできたな〜",
+      "INDONESIAN": "Hebat~",
+      "PORTUGUESE": "Muito bem~",
+      "SPANISH": "Muy bien~",
+      "PERSIAN": "کار خوب ~"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잘~하는 짓이다 아주! 어? ",
+      "ENGLISH": "You’re really doing it right!",
+      "CHINESE_SIMPLIFIED": "真是~干得漂亮啊！嗯？",
+      "CHINESE_TRADITIONAL": "真是做得好啊～嗯？",
+      "JAPANESE": "ほんと〜えらい目に合いたいみたいだな お？",
+      "INDONESIAN": "Kamu bener-bener ngerjainnya udah bener ya!",
+      "PORTUGUESE": "Mas olha como você resolveu bem, excelente!",
+      "SPANISH": "¡Pero mira que bien lo resolviste, excelente!",
+      "PERSIAN": "شما واقعاً این کار را درست انجام می دهید!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 손 내밀어",
+      "ENGLISH": "Hold out your hand.",
+      "CHINESE_SIMPLIFIED": "把手伸出来",
+      "CHINESE_TRADITIONAL": "手伸出來！",
+      "JAPANESE": "手出せ",
+      "INDONESIAN": "Coba kasih tangan kamu.",
+      "PORTUGUESE": "Estenda a mão.",
+      "SPANISH": "Extiende la mano.",
+      "PERSIAN": "دستت را دراز کن"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 31.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네...? 이, 이거 아니에요?",
+      "ENGLISH": "Huh…? Th‑this isn’t it, is it?",
+      "CHINESE_SIMPLIFIED": "诶...？这、这不对吗？",
+      "CHINESE_TRADITIONAL": "欸...？答案不是這個嗎？",
+      "JAPANESE": "え…？ち、違いますこれ！",
+      "INDONESIAN": "Huh…? I-ini bukan dipukul lagi kan?",
+      "PORTUGUESE": "Hã? Não era assim?",
+      "SPANISH": "¿Eh? ¿Así no era?",
+      "PERSIAN": "ها…؟ - این نیست، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이거는 아주 선도부라는 놈이",
+      "ENGLISH": "And to think this is someone from the student council…",
+      "CHINESE_SIMPLIFIED": "你这小子顶着纪律委员的名号...",
+      "CHINESE_TRADITIONAL": "你這個當糾察隊的",
+      "JAPANESE": "こいつ風紀委員ってやつが",
+      "INDONESIAN": "Dan ini anak OSIS lagi…",
+      "PORTUGUESE": "E pensar que você é do comitê de disciplina.",
+      "SPANISH": "Y pensar que eres del comité de disciplina.",
+      "PERSIAN": "و فکر کنید این یکی از اعضای شورای دانش آموزی است…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 35.1
+    },
+    "SCRIPT": {
+      "KOREAN": " 쓰읍, 쫙 펴 손 부라져",
+      "ENGLISH": "Tsk, spread your hand flat.",
+      "CHINESE_SIMPLIFIED": "嘶，把手掌摊平",
+      "CHINESE_TRADITIONAL": "哼，還不快把手攤開",
+      "JAPANESE": "おい 手しっかり伸ばせ 折れるぞ",
+      "INDONESIAN": "Ck, ayo coba buka tangan kamu yang rata.",
+      "PORTUGUESE": "Tsk... abre bem a mão, esticada.",
+      "SPANISH": "Tsk... abre bien la mano, recta.",
+      "PERSIAN": "تسک، دستت را صاف باز کن."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 35.2,
+      "HIDE": 39.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야,  세게 1대 맞을랴 약하게 10대 맞을랴",
+      "ENGLISH": "So, one hard hit or ten light hits?",
+      "CHINESE_SIMPLIFIED": "喂，是挨一下重的还是十下轻的",
+      "CHINESE_TRADITIONAL": "你是想要被用力打一下，還是輕輕的打十下",
+      "JAPANESE": "強く1発叩かれるか 弱く10発叩かれるかどっちだ",
+      "INDONESIAN": "Jadi, sekali pukul keras atau sepuluh kali pukul pelan?",
+      "PORTUGUESE": "Quer um golpe forte ou dez fracos?",
+      "SPANISH": "¿Quieres un golpe fuerte o diez suaves?",
+      "PERSIAN": "پس یک ضربه سخت یا ده ضربه سبک؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 39.5,
+      "HIDE": 40.9
+    },
+    "SCRIPT": {
+      "KOREAN": "세게 1대 맞겠습니다.",
+      "ENGLISH": "I’ll take one hard hit.",
+      "CHINESE_SIMPLIFIED": "我选挨一下重的",
+      "CHINESE_TRADITIONAL": "我選被用力打一下",
+      "JAPANESE": "強く1発でお願いします",
+      "INDONESIAN": "Sekali keras aja.",
+      "PORTUGUESE": "Um forte, por favor.",
+      "SPANISH": "Uno fuerte, por favor.",
+      "PERSIAN": "من یک ضربه سخت خواهم خورد"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 42.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그 말 왜 안 하나 했다. 어?",
+      "ENGLISH": "I wondered why you didn’t say that. Huh?",
+      "CHINESE_SIMPLIFIED": "你怎么不早点说这话啊？嗯？",
+      "CHINESE_TRADITIONAL": "我就知道你會這麼說，嗯？",
+      "JAPANESE": "思ったとおりの回答だな",
+      "INDONESIAN": "Aku heran kenapa kamu tadi nggak jawab itu. Hah?",
+      "PORTUGUESE": "Por que não coloquei essa opção?",
+      "SPANISH": "¿Por qué no puse esa opción?",
+      "PERSIAN": "تعجب کردم که چرا اینو نگفتی ها؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 43.7
+    },
+    "SCRIPT": {
+      "KOREAN": "세게 10대여",
+      "ENGLISH": "Ten hard hits.",
+      "CHINESE_SIMPLIFIED": "那就重重的十下吧",
+      "CHINESE_TRADITIONAL": "那我就用力地打十下吧",
+      "JAPANESE": "強く10発だ",
+      "INDONESIAN": "Sepuluh kali keras.",
+      "PORTUGUESE": "Que sejam 10 fortes.",
+      "SPANISH": "Que sean 10 fuertes.",
+      "PERSIAN": "ده ضربه سخت"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 46.7,
+      "HIDE": 47.1
+    },
+    "SCRIPT": {
+      "KOREAN": "들어가!",
+      "ENGLISH": "Go in!",
+      "CHINESE_SIMPLIFIED": "回去！",
+      "CHINESE_TRADITIONAL": "回去位置上！",
+      "JAPANESE": "戻れ！",
+      "INDONESIAN": "Masuk sana!",
+      "PORTUGUESE": "Agora vai embora.",
+      "SPANISH": "Ya vete.",
+      "PERSIAN": "برو داخل"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 47.8,
+      "HIDE": 48.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yes…",
+      "CHINESE_SIMPLIFIED": "是...",
+      "CHINESE_TRADITIONAL": "是...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya…",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "بله…"
+    }
+  }
+]

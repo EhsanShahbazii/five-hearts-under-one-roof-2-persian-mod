@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 농담~ 농담~",
+      "ENGLISH": "Kidding~ I’m kidding~",
+      "CHINESE_SIMPLIFIED": "哎呀，开玩笑啦～开玩笑的～",
+      "CHINESE_TRADITIONAL": "哎呀，開玩笑～開玩笑的～",
+      "JAPANESE": "あ、冗談！冗談〜！",
+      "INDONESIAN": "Becanda~ Aku becanda~",
+      "PORTUGUESE": "Ai, era brincadeira, brincadeira~",
+      "SPANISH": "Ay, era broma, broma~",
+      "PERSIAN": "شوخی کردم~ شوخی کردم~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 기분 풀어~ 너 너무 얼어있는 거 같아서 농담한 거야",
+      "ENGLISH": "Hey, cheer up — you just seemed so tense, I was joking.",
+      "CHINESE_SIMPLIFIED": "别生气嘛～我是看你整个人太紧绷了才逗你的",
+      "CHINESE_TRADITIONAL": "不要生氣嘛～我看你好像太緊張了，所以開個玩笑，讓你放輕鬆一點",
+      "JAPANESE": "ほら、そんなに気を悪くするなよ ちょっと緊張してるみたいだったから、冗談言っただけ",
+      "INDONESIAN": "Eh, semangat dong — kamu keliatan tegang banget, makanya aku bercanda.",
+      "PORTUGUESE": "Vamos, anima~ eu só tava zoando porque te vi muito tensa.",
+      "SPANISH": "Vamos, anímate~ solo estaba bromeando porque te noté muy tensa.",
+      "PERSIAN": "هی، شاد باش - تو خیلی تنش به نظر می رسید، شوخی کردم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇지?",
+      "ENGLISH": "Right?",
+      "CHINESE_SIMPLIFIED": "是吗？",
+      "CHINESE_TRADITIONAL": "是嗎？",
+      "JAPANESE": "そうでしょ？",
+      "INDONESIAN": "Iya kan?",
+      "PORTUGUESE": "É mesmo?",
+      "SPANISH": "¿Verdad?",
+      "PERSIAN": "درسته؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 그렇다니까~",
+      "ENGLISH": "I’m telling you, I was~",
+      "CHINESE_SIMPLIFIED": "哎呦当然啦~",
+      "CHINESE_TRADITIONAL": "當然啊～",
+      "JAPANESE": "そうそう〜",
+      "INDONESIAN": "Aku sumpah, beneran cuma becanda~",
+      "PORTUGUESE": "Tô te dizendo que sim~",
+      "SPANISH": "Te digo que sí~",
+      "PERSIAN": "من به شما می گویم، من بودم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너가 이제야 ‘진짜’ 진로를 찾은 거 같아서 ",
+      "ENGLISH": "It just feels like you finally found your real path now,",
+      "CHINESE_SIMPLIFIED": "看你终于找到了真正想走的路",
+      "CHINESE_TRADITIONAL": "看你終於找到“真正”想走的路",
+      "JAPANESE": "お前がようやく本当の進む道を見つけたみたいで",
+      "INDONESIAN": "Soalnya aku ngerasa kamu akhirnya nemuin jalan kamu yang sebenernya,",
+      "PORTUGUESE": "Agora sim parece que você finalmente encontrou sua verdadeira vocação,",
+      "SPANISH": "Ahora sí parece que por fin encontraste tu verdadera vocación,",
+      "PERSIAN": "فقط به نظر می رسد که شما بالاخره مسیر واقعی خود را اکنون پیدا کردید،"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 다 뿌듯하다!",
+      "ENGLISH": "and I’m honestly proud of you!",
+      "CHINESE_SIMPLIFIED": "我都替你开心！",
+      "CHINESE_TRADITIONAL": "我真的替你感到開心",
+      "JAPANESE": "俺、なんか誇らしいよ！",
+      "INDONESIAN": "dan aku jujur bangga banget sama kamu!",
+      "PORTUGUESE": "e eu tô orgulhoso!",
+      "SPANISH": "¡y me siento orgulloso!",
+      "PERSIAN": "و من صادقانه به شما افتخار می کنم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 진작 그렇게 얘기를 하지~",
+      "ENGLISH": "Ah, if that’s how you felt, you should’ve said so sooner~",
+      "CHINESE_SIMPLIFIED": "早这么说不就完了～",
+      "CHINESE_TRADITIONAL": "早點這樣說不就好了～",
+      "JAPANESE": "はぁ〜、最初からそう言ってくれればいいのに〜",
+      "INDONESIAN": "Ah, kalau kamu ngerasa gitu, harusnya bilang dari tadi dong~",
+      "PORTUGUESE": "Ah, devia ter falado assim desde o começo~",
+      "SPANISH": "Ay, debiste decirlo así desde el principio~",
+      "PERSIAN": "آه، اگر این احساس شما بود، باید زودتر می گفتید"
+    }
+  }
+]

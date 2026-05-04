@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여기는 빈방이에요.",
+      "ENGLISH": "This room is available.",
+      "CHINESE_SIMPLIFIED": "这里是空房间哦",
+      "CHINESE_TRADITIONAL": "這裡是空房間",
+      "JAPANESE": "ここは空き部屋です",
+      "INDONESIAN": "Kamar ini kosong.",
+      "PORTUGUESE": "Esse quarto tá vazio.",
+      "SPANISH": "Esta habitación está vacía.",
+      "PERSIAN": "این اتاق موجود است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "음~ 전 여기 좋은데요?",
+      "ENGLISH": "Mm~ I like it here!",
+      "CHINESE_SIMPLIFIED": "嗯~我觉得这儿挺好的呀？",
+      "CHINESE_TRADITIONAL": "嗯～我覺得這裡滿好的啊？",
+      "JAPANESE": "う〜ん私はここ、気に入りましたよ？",
+      "INDONESIAN": "Mm~ aku suka di sini!",
+      "PORTUGUESE": "Hmm... gostei!",
+      "SPANISH": "Mmm... ¡Me gusta!",
+      "PERSIAN": "هوم~ من اینجا را دوست دارم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜요..?",
+      "ENGLISH": "Really...?",
+      "CHINESE_SIMPLIFIED": "真的吗...？",
+      "CHINESE_TRADITIONAL": "真的嗎...？",
+      "JAPANESE": "ほんとに…？",
+      "INDONESIAN": "Serius...?",
+      "PORTUGUESE": "Sério...?",
+      "SPANISH": "¿En serio...?",
+      "PERSIAN": "واقعا...؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "응!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "SCRIPT": {
+      "KOREAN": "( 받는다 ) ( 받지 않는다 ) ( 까서 달라고 한다 )",
+      "ENGLISH": "(Accept it) (Don’t accept it) (Ask them to peel it)",
+      "CHINESE_SIMPLIFIED": "（收下）（拒绝）（让她剥了喂）",
+      "CHINESE_TRADITIONAL": "（收下）（不收）（叫對方打開再給）",
+      "JAPANESE": "（受け取る）（受け取らない）（むいてほしいと言う）",
+      "INDONESIAN": "(Menerima) (Tidak menerima) (Asks them to peel it)",
+      "PORTUGUESE": "(Aceitar) (Recusar) (Pedir pra ela descascar)",
+      "SPANISH": "(Recibir) (Rechazar) (Pedir que lo pele)",
+      "PERSIAN": "(بپذیرید) (اونو قبول نکنید) (از اونا بخواهید پوست اونو بکنند)"
+    }
+  }
+]

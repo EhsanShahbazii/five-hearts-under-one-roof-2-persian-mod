@@ -1,0 +1,235 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 왜~ ",
+      "ENGLISH": "Ugh, seriously~",
+      "CHINESE_SIMPLIFIED": "啊，干嘛呀~",
+      "CHINESE_TRADITIONAL": "蛤～到底幹嘛啦～",
+      "JAPANESE": "なんだよ〜",
+      "INDONESIAN": "Ugh, ya ampun~",
+      "PORTUGUESE": "O que foi~?",
+      "SPANISH": "¿Qué pasa~?",
+      "PERSIAN": "اوه، جدی ~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 운전도 내가 해, 고기도 내가 구워.",
+      "ENGLISH": "Hey! I’m the one driving, I’m the one grilling the meat.",
+      "CHINESE_SIMPLIFIED": "喂！车也是我开，肉也是我烤",
+      "CHINESE_TRADITIONAL": "今天車是我開，肉也是我烤的",
+      "JAPANESE": "ほら！運転も俺がして、肉も俺が焼いて",
+      "INDONESIAN": "Hey! Aku yang nyetir, aku juga yang bakar daging.",
+      "PORTUGUESE": "Ei! Já tive que dirigir e fazer a carne…",
+      "SPANISH": "¡Oye! Ya me tocó conducir y hacer la carne…",
+      "PERSIAN": "سلام! من راننده هستم، من گوشت را کباب می کنم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "또 얼마나 부려 먹으려고 그러는 건데, 어!",
+      "ENGLISH": "How much more are you gonna make me do, huh?!",
+      "CHINESE_SIMPLIFIED": "还想使唤我到什么地步啊，真是！",
+      "CHINESE_TRADITIONAL": "又想使喚我什麼啊，真是！",
+      "JAPANESE": "まだどれだけこき使うつもりなんだ！？",
+      "INDONESIAN": "Kamu mau nyuruh aku ngapain lagi sih, hah?!",
+      "PORTUGUESE": "O que mais vão me fazer fazer?",
+      "SPANISH": "¿Qué más me van a poner a hacer?",
+      "PERSIAN": "چقدر دیگه میخوای منو مجبور کنی این کارو بکنم، هان؟!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 짠~ \n- 아 깜짝이야!",
+      "ENGLISH": "- Ta-da~ \n- Whoa! You scared me!",
+      "CHINESE_SIMPLIFIED": "-锵~\n-啊吓我一跳！",
+      "CHINESE_TRADITIONAL": "-鏘～\n-啊！嚇我一跳！",
+      "JAPANESE": "‐ かんぱ〜い！\n‐ うわびっくりした！\n",
+      "INDONESIAN": "- Ta-da~\n- Anj*r! Kaget!",
+      "PORTUGUESE": "- Tcharam~!\n- Ai, que susto!",
+      "SPANISH": "- ¡Tarán~!\n- ¡Ay, qué susto!",
+      "PERSIAN": "- تا-دا~ - اوه! تو منو ترسوندی!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "- 생일 축하해\n- 생일 축하해요",
+      "ENGLISH": "- Happy birthday! \n- Happy birthday!",
+      "CHINESE_SIMPLIFIED": "-生日快乐！\n-生日快乐！",
+      "CHINESE_TRADITIONAL": "- 生日快樂 \n- 生日快樂",
+      "JAPANESE": "‐ 誕生日おめでとう〜\n‐ お誕生日おめでとうございます！",
+      "INDONESIAN": "- Selamat ulang tahun!\n- Selamat ulang tahun!",
+      "PORTUGUESE": "- Feliz aniversário!\n- Feliz aniversário!",
+      "SPANISH": "- ¡Feliz cumpleaños!\n- ¡Feliz cumpleaños!",
+      "PERSIAN": "- تولدت مبارک! - تولدت مبارک!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "생일 축하합니다~",
+      "ENGLISH": "Happy birthday!",
+      "CHINESE_SIMPLIFIED": "祝你生日快乐~",
+      "CHINESE_TRADITIONAL": "祝你生日快樂～",
+      "JAPANESE": "ハッピーバースデー トゥーユー",
+      "INDONESIAN": "Selamat ulang tahun!",
+      "PORTUGUESE": "Parabéns pra você~",
+      "SPANISH": "Cumpleaños feliz~",
+      "PERSIAN": "تولدت مبارک!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "생일 축하합니다~",
+      "ENGLISH": "Happy birthday!",
+      "CHINESE_SIMPLIFIED": "祝你生日快乐~",
+      "CHINESE_TRADITIONAL": "祝你生日快樂～",
+      "JAPANESE": "ハッピーバースデー トゥーユー",
+      "INDONESIAN": "Selamat ulang tahun!",
+      "PORTUGUESE": "Parabéns pra você~",
+      "SPANISH": "Cumpleaños feliz~",
+      "PERSIAN": "تولدت مبارک!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "- 사랑하는 유만 씨~\n- 사랑하는 유만오빠~",
+      "ENGLISH": "- Happy birthday dear Yuman~\n- Happy birthday to you~",
+      "CHINESE_SIMPLIFIED": "-亲爱的宥万先生~\n-亲爱的宥万哥哥~",
+      "CHINESE_TRADITIONAL": "-親愛的宥萬先生～\n-親愛的宥萬哥哥～",
+      "JAPANESE": "‐ ハッピーバースデーディアユマンさん〜\n‐ ハッピーバースデーディアユマンお兄さん〜",
+      "INDONESIAN": "- Selamat ulang tahun Yuman tercinta~\n- Selamat ulang tahun untukmu~",
+      "PORTUGUESE": "- Parabéns pra você, Yumán~\n- Parabéns pra você, Yumán oppa~",
+      "SPANISH": "- Qué los cumplas Yumán~\n- Qué los cumplas Yumán oppa~",
+      "PERSIAN": "- تولدت مبارک یومان عزیز - تولدت مبارک ~"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 21.9
+    },
+    "SCRIPT": {
+      "KOREAN": "생일 축하합니다~",
+      "ENGLISH": "Happy birthday!",
+      "CHINESE_SIMPLIFIED": "祝你生日快乐~",
+      "CHINESE_TRADITIONAL": "祝你生日快樂～",
+      "JAPANESE": "ハッピーバースデー トゥーユー",
+      "INDONESIAN": "Selamat ulang tahun!",
+      "PORTUGUESE": "Parabéns pra você~",
+      "SPANISH": "Cumpleaños feliz~",
+      "PERSIAN": "تولدت مبارک!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.8,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "얼른 초 불어요 오빠 ",
+      "ENGLISH": "Blow out the candles, oppa!",
+      "CHINESE_SIMPLIFIED": "快吹蜡烛吧，哥哥",
+      "CHINESE_TRADITIONAL": "快吹蠟燭吧，哥哥！",
+      "JAPANESE": "早くロウソク吹き消して お兄さん！",
+      "INDONESIAN": "Tiup lilinnya, oppa!",
+      "PORTUGUESE": "Apaga as velas, oppa!",
+      "SPANISH": "¡Apaga las velas, oppa!",
+      "PERSIAN": "شمع ها را فوت کن، یومان!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 33.3,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "난 이런 줄도 모르고 엄청 투덜거렸는데",
+      "ENGLISH": "Man, I was complaining so much without knowing anything...",
+      "CHINESE_SIMPLIFIED": "我完全不知情呢，还发了那么多牢骚",
+      "CHINESE_TRADITIONAL": "我完全不知道是這樣，還一直在抱怨",
+      "JAPANESE": "こんなサプライズとは知らずに めっちゃ文句言ってたのに…",
+      "INDONESIAN": "Aduh, tadi aku ngeluh terus padahal nggak tahu apa-apa...",
+      "PORTUGUESE": "E eu aqui reclamando sem saber de nada disso…",
+      "SPANISH": "Y yo estuve quejándome sin saber nada de esto…",
+      "PERSIAN": "آقا من بدون اینکه چیزی بدونم خیلی شاکی بودم..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 38.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 고마워요",
+      "ENGLISH": "Thanks, everyone.",
+      "CHINESE_SIMPLIFIED": "真的很感谢大家",
+      "CHINESE_TRADITIONAL": "謝謝大家",
+      "JAPANESE": "みんなありがとう",
+      "INDONESIAN": "Makasih ya, semuanya.",
+      "PORTUGUESE": "Obrigado, gente.",
+      "SPANISH": "Gracias a todos.",
+      "PERSIAN": "با تشکر از همه"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 41.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나 진짜 이렇게 많은 사람들한테 축하받는 거 처음이에요",
+      "ENGLISH": "It’s honestly my first time getting a birthday celebration like this with so many people.",
+      "CHINESE_SIMPLIFIED": "我还是第一次被这么多人庆祝生日呢",
+      "CHINESE_TRADITIONAL": "這還是第一次有這麼多人幫我慶祝生日",
+      "JAPANESE": "俺 こんなにたくさんの人にお祝いしてもらうの 初めてです",
+      "INDONESIAN": "Jujur, ini pertama kalinya aku dirayain ulang tahun sama banyak orang kayak gini.",
+      "PORTUGUESE": "É a primeira vez que tanta gente comemora meu aniversário.",
+      "SPANISH": "Es la primera vez que tanta gente me celebra un cumpleaños.",
+      "PERSIAN": "راستش این اولین بار است که جشن تولدی به این شکل با افراد زیادی برگزار می کنم."
+    }
+  }
+]

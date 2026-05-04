@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님 평소에 좋은 자세를 유지하려면",
+      "ENGLISH": "Manager, if you want to keep good posture on a daily basis,",
+      "CHINESE_SIMPLIFIED": "科长，平时想保持良好体态的话",
+      "CHINESE_TRADITIONAL": "課長，平時保持正確姿勢很重要",
+      "JAPANESE": "課長、普段から良い姿勢を保つには",
+      "INDONESIAN": "Manajer, kalau mau jaga postur tetap bagus sehari-hari,",
+      "PORTUGUESE": "Chefe, pra manter uma boa postura,",
+      "SPANISH": "Jefa, para mantener una buena postura,",
+      "PERSIAN": "مدیر، اگر می خواهید وضعیت بدنی خوبی داشته باشید،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "등 근육이 진짜 중요하거든요. 아시죠?",
+      "ENGLISH": "your back muscles are really important. You know that, right?",
+      "CHINESE_SIMPLIFIED": "背肌真的很重要，您知道的吧？",
+      "CHINESE_TRADITIONAL": "背部肌肉真的很關鍵，你知道吧？",
+      "JAPANESE": "背中の筋肉が本当に重要なんですよ 知ってますか？",
+      "INDONESIAN": "otot punggung itu penting banget. Manajer sendiri tahu kan?",
+      "PORTUGUESE": "os músculos das costas são fundamentais, sabia?",
+      "SPANISH": "los músculos de la espalda son fundamentales, ¿sabía?",
+      "PERSIAN": "عضلات پشت شما واقعا مهم هستند. شما اینو می دانید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "한번 해볼까요?",
+      "ENGLISH": "Shall we give it a try?",
+      "CHINESE_SIMPLIFIED": "要试试看吗？",
+      "CHINESE_TRADITIONAL": "要試試看嗎？",
+      "JAPANESE": "うん、やってみましょうか",
+      "INDONESIAN": "Mau kita coba latihan sedikit?",
+      "PORTUGUESE": "Começamos?",
+      "SPANISH": "¿Comenzamos?",
+      "PERSIAN": "اونو امتحان کنیم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 좋아.",
+      "ENGLISH": "Sure, sounds good.",
+      "CHINESE_SIMPLIFIED": "好啊，来吧",
+      "CHINESE_TRADITIONAL": "好，來吧。",
+      "JAPANESE": "いいね",
+      "INDONESIAN": "Boleh, kedengarannya bagus.",
+      "PORTUGUESE": "Claro, vamos começar.",
+      "SPANISH": "Claro, empecemos.",
+      "PERSIAN": "مطمئناً به نظر خوب می رسد."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어깨가 너무 올라가나..?",
+      "ENGLISH": "Hmm… are my shoulders raised too much…?",
+      "CHINESE_SIMPLIFIED": "肩膀是不是有点抬得太高了...？",
+      "CHINESE_TRADITIONAL": "肩膀會不會抬太高了呢...？",
+      "JAPANESE": "ちょっと肩が上がりすぎてるかな…？",
+      "INDONESIAN": "Hmm… bahuku terlalu naik nggak, ya…?",
+      "PORTUGUESE": "Será que estou levantando demais os ombros...?",
+      "SPANISH": "¿Estaré levantando demasiado los hombros...?",
+      "PERSIAN": "هوم... شانه هایم خیلی بالا رفته...؟"
+    }
+  }
+]

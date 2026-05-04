@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 나 자세 좀 잡아줄래?",
+      "ENGLISH": "Yuman, can you help me keep my balance?",
+      "CHINESE_SIMPLIFIED": "吴宥万，你能帮我调整下姿势吗？",
+      "CHINESE_TRADITIONAL": "宥萬，你幫我調整一下姿勢好嗎？",
+      "JAPANESE": "ユマンさん、ちょっと支えてくれる？",
+      "INDONESIAN": "Yuman, bisa bantu jaga keseimbangan aku nggak?",
+      "PORTUGUESE": "Yuman, pode me segurar um instante?",
+      "SPANISH": "Yumán, ¿me puedes sotener un momento?",
+      "PERSIAN": "یومان، می‌تونی به من کمک کنی تعادلم را حفظ کنم؟"
+    }
+  }
+]

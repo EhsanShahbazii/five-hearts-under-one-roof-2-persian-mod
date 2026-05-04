@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠...",
+      "ENGLISH": "Oppa…",
+      "CHINESE_SIMPLIFIED": "哥哥...",
+      "CHINESE_TRADITIONAL": "哥哥...",
+      "JAPANESE": "お兄さん…",
+      "INDONESIAN": "Oppa…",
+      "PORTUGUESE": "Oppa...",
+      "SPANISH": "Oppa...",
+      "PERSIAN": "یومان…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "쉿...!",
+      "ENGLISH": "Shh…!",
+      "CHINESE_SIMPLIFIED": "嘘…！",
+      "CHINESE_TRADITIONAL": "噓...！",
+      "JAPANESE": "しっ…！",
+      "INDONESIAN": "Sst…!",
+      "PORTUGUESE": "¡Shhh...!",
+      "SPANISH": "¡Shhh...!",
+      "PERSIAN": "هه…!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "방규리...?",
+      "ENGLISH": "Bang Gyu-ri…?",
+      "CHINESE_SIMPLIFIED": "方久梨...？",
+      "CHINESE_TRADITIONAL": "方久梨...？",
+      "JAPANESE": "バン・ギュリ…？",
+      "INDONESIAN": "Bang Gyu-ri…?",
+      "PORTUGUESE": "¿Gyuri…?",
+      "SPANISH": "¿Gyuri...?",
+      "PERSIAN": "بنگ گیو ری…؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤인데요?",
+      "ENGLISH": "That’s Nurse Gyu-ri, isn’t it?",
+      "CHINESE_SIMPLIFIED": "是方护士啊？",
+      "CHINESE_TRADITIONAL": "是久梨護理師嗎？",
+      "JAPANESE": "ギュリ先生のことですか？",
+      "INDONESIAN": "Itu kan Suster Gyu-ri?",
+      "PORTUGUESE": "¿Esa no es la enfermera Gyuri?",
+      "SPANISH": "¿Esa no es la enferma Gyuri?",
+      "PERSIAN": "این پرستار گیو ری است، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 간호사 쌤이라고요?",
+      "ENGLISH": "Wait, that’s the nurse??",
+      "CHINESE_SIMPLIFIED": "嗯？是那位护士吗？",
+      "CHINESE_TRADITIONAL": "欸？你說是護理師嗎？",
+      "JAPANESE": "え？看護師さんですよ？",
+      "INDONESIAN": "Hah, itu suster?!",
+      "PORTUGUESE": "¿Qué? ¿La enfermera?",
+      "SPANISH": "¿Qué?¿La enfermera?",
+      "PERSIAN": "صبر کن اون پرستاره؟؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤...!",
+      "ENGLISH": "Gyu-ri…!",
+      "CHINESE_SIMPLIFIED": "方护士...！",
+      "CHINESE_TRADITIONAL": "久梨護理師...！",
+      "JAPANESE": "ギュリ先生…！",
+      "INDONESIAN": "Gyu-ri…!",
+      "PORTUGUESE": "¡Gyuri...!",
+      "SPANISH": "¡Gyuri...!",
+      "PERSIAN": "گیو ری…!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤!",
+      "ENGLISH": "Gyu-ri!!",
+      "CHINESE_SIMPLIFIED": "方护士...！",
+      "CHINESE_TRADITIONAL": "久梨護理師！",
+      "JAPANESE": "ギュリ先生！",
+      "INDONESIAN": "Gyu-ri!!",
+      "PORTUGUESE": "¡Enfermera Gyuri!",
+      "SPANISH": "¡Enfermera Gyuri!",
+      "PERSIAN": "گیو ری!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 31.2,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "- 아아아아악!!!!\n- 으아아아아!!!!",
+      "ENGLISH": "— AAAAAAHHHH!!!\n— WAAAAAAHHHHH!!!",
+      "CHINESE_SIMPLIFIED": "-啊啊啊啊啊！！！！\n-呃啊啊啊啊！！！！",
+      "CHINESE_TRADITIONAL": "-啊啊啊啊啊！！！！\n-呃啊啊啊啊！！！！",
+      "JAPANESE": "‐うわあああああっ！！！\n‐うあああああっ！！！",
+      "INDONESIAN": "— AAAAAAHHHH!!!\n— WAAAAAAHHHHH!!!",
+      "PORTUGUESE": "— AAAAAAHHHH!!!\n— AAAAAAHHHHH!!!",
+      "SPANISH": "— ¡¡¡AAAAAAHHHH!!!\n— ¡¡¡AAAAAAHHHHH!!!",
+      "PERSIAN": "- واااای!!! - وااااااااااااااااااااااااااااااااااااااااااا!!!"
+    }
+  }
+]

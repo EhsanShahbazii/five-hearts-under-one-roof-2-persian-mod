@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 어떻게 해야되지?",
+      "ENGLISH": "Uh… what should I do?",
+      "CHINESE_SIMPLIFIED": "呃…该怎么做来着？",
+      "CHINESE_TRADITIONAL": "呃…要怎麼做呢？",
+      "JAPANESE": "えっと…どうすればいいんだろう？",
+      "INDONESIAN": "Uh... gimana ya caranya?",
+      "PORTUGUESE": "Ahm… o que eu faço?",
+      "SPANISH": "¿Cómo hago esto...?",
+      "PERSIAN": "امم... الان دقیقاً چیکار کنم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만요~",
+      "ENGLISH": "Hold on a sec~",
+      "CHINESE_SIMPLIFIED": "稍等一下哦～",
+      "CHINESE_TRADITIONAL": "等一下～",
+      "JAPANESE": "ちょっと待ってくださいね〜",
+      "INDONESIAN": "Tunggu bentar~",
+      "PORTUGUESE": "Espera um pouquinho~",
+      "SPANISH": "A ver...",
+      "PERSIAN": "یه لحظه اجازه بدین..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요?",
+      "ENGLISH": "How about now?",
+      "CHINESE_SIMPLIFIED": "怎么样？",
+      "CHINESE_TRADITIONAL": "怎麼樣？",
+      "JAPANESE": "どうですか？",
+      "INDONESIAN": "Gimana?",
+      "PORTUGUESE": "E agora?",
+      "SPANISH": "¿Escucha algo?",
+      "PERSIAN": "الان چطوره؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오...! 들려요!",
+      "ENGLISH": "Oh—! I hear it!",
+      "CHINESE_SIMPLIFIED": "哦…！听得见了！",
+      "CHINESE_TRADITIONAL": "喔…！聽到了！",
+      "JAPANESE": "おお…！聞こえます！",
+      "INDONESIAN": "Oh...! Kedengeran!",
+      "PORTUGUESE": "Ah—! Eu ouvi!",
+      "SPANISH": "¡Sí! ¡Se escucha!",
+      "PERSIAN": "اووه...! می‌شنوم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "심장이 콩닥콩닥!",
+      "ENGLISH": "Your heart’s racing!",
+      "CHINESE_SIMPLIFIED": "心跳扑通扑通的！",
+      "CHINESE_TRADITIONAL": "心臟怦怦跳！",
+      "JAPANESE": "心臓がドキドキしてる！",
+      "INDONESIAN": "Jantungnya deg-degan banget!",
+      "PORTUGUESE": "Seu coração tá acelerado!",
+      "SPANISH": "¡Su corazón late fuerte!",
+      "PERSIAN": "قلبت داره مثل گنجشک می‌زنه!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 어...? 어!",
+      "ENGLISH": "Uh… wha—? Huh?!",
+      "CHINESE_SIMPLIFIED": "呃…呃？啊…！",
+      "CHINESE_TRADITIONAL": "嗯…嗯…？喔！",
+      "JAPANESE": "えっ…あれ？ あっ！",
+      "INDONESIAN": "Uh... uhh...? Uh!",
+      "PORTUGUESE": "Ah… o quê—? Hã?!",
+      "SPANISH": "¿Oh... eh...? ¡Oh!",
+      "PERSIAN": "عه... چی...؟! من؟!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어!!!",
+      "ENGLISH": "Whoa!!!",
+      "CHINESE_SIMPLIFIED": "啊！！！",
+      "CHINESE_TRADITIONAL": "喔！！！",
+      "JAPANESE": "あっ！！！",
+      "INDONESIAN": "Uh!!!",
+      "PORTUGUESE": "Uaaah!!!",
+      "SPANISH": "¡¡Sí!!",
+      "PERSIAN": "یا ابلفضل!!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "지금은 잘 들리나보다.",
+      "ENGLISH": "Guess it’s working fine now.",
+      "CHINESE_SIMPLIFIED": "看来现在是听得到声音了",
+      "CHINESE_TRADITIONAL": "看來現在是聽得到聲音了",
+      "JAPANESE": "今はちゃんと聞こえてるみたいですね",
+      "INDONESIAN": "Sekarang kayaknya udah kedengeran normal.",
+      "PORTUGUESE": "Parece que está funcionando bem agora.",
+      "SPANISH": "Creo que ya está funcionando.",
+      "PERSIAN": "خب، به نظر میاد دستگاهم سالمه سالمه!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "확인 고마워요. 하하",
+      "ENGLISH": "Thanks for checking, haha.",
+      "CHINESE_SIMPLIFIED": "谢谢您的配合，哈哈",
+      "CHINESE_TRADITIONAL": "謝謝你幫忙確認。哈哈",
+      "JAPANESE": "確認ありがとうございます、はは",
+      "INDONESIAN": "Terima kasih ya udah bantu cek. Haha",
+      "PORTUGUESE": "Valeu por conferir, haha.",
+      "SPANISH": "Gracias por su ayuda...",
+      "PERSIAN": "ممنون از تستی که کردی، هه‌هه."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 29.6
+    },
+    "SCRIPT": {
+      "KOREAN": "되게 빨리 뛴 거 같은데...",
+      "ENGLISH": "Sounded like it was beating really fast though…",
+      "CHINESE_SIMPLIFIED": "感觉…心跳跳得特别快呢…",
+      "CHINESE_TRADITIONAL": "感覺跳得很快…",
+      "JAPANESE": "すごく早く打ってた気がしますけど…",
+      "INDONESIAN": "Kayaknya degupnya cepet banget tadi...",
+      "PORTUGUESE": "Mas parecia que estava batendo bem rápido…",
+      "SPANISH": "En serio latía muy rápido...",
+      "PERSIAN": "ولی عجب ریتم تندی داشت قلبتا..."
+    }
+  }
+]

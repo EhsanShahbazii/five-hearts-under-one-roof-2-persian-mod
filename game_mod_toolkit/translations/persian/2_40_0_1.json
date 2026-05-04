@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 먹을 줄 모르시네...",
+      "ENGLISH": "Wow, you really don’t know how to eat this...",
+      "CHINESE_SIMPLIFIED": "哎呀，真是不懂吃呢...",
+      "CHINESE_TRADITIONAL": "唉，你太不懂得吃了啦",
+      "JAPANESE": "あ〜ほんと食べ方下手ですね…",
+      "INDONESIAN": "Wah, kamu benar-benar tidak tahu cara memakannya...",
+      "PORTUGUESE": "Você realmente não sabe como comer isso...",
+      "SPANISH": "De verdad no sabes cómo comer esto…",
+      "PERSIAN": "وای واقعا بلد نیستی اینو بخوری..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 이래 봬도",
+      "ENGLISH": "I’ll have you know—",
+      "CHINESE_SIMPLIFIED": "别看我这样",
+      "CHINESE_TRADITIONAL": "不要看我這樣",
+      "JAPANESE": "私こう見えても",
+      "INDONESIAN": "Aku ingin kau tahu—",
+      "PORTUGUESE": "Mas, por mais que não pareça,",
+      "SPANISH": "Aunque no parezca",
+      "PERSIAN": "می خواهم بدانی -"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하나를 가르쳐 주면 열을 알... 걸요?",
+      "ENGLISH": "If you teach me one thing, I’ll learn ten... maybe?",
+      "CHINESE_SIMPLIFIED": "我可是能举一反十...的料吧？",
+      "CHINESE_TRADITIONAL": "學過後我可是很會舉一反十...大概吧？",
+      "JAPANESE": "一を聞いて十を知るタイプ…ですよ?",
+      "INDONESIAN": "Jika kamu mengajariku satu hal, aku akan belajar sepuluh hal... mungkin?",
+      "PORTUGUESE": "se me ensinam uma coisa, eu aprendo dez.",
+      "SPANISH": "si me enseñan una cosa, yo... aprendo diez.",
+      "PERSIAN": "اگه یه چیز بهم یاد بدی ده تا یاد بگیرم...شاید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 이거 어떻게 먹어요!",
+      "ENGLISH": "Ugh, how do you even eat this?!",
+      "CHINESE_SIMPLIFIED": "啊，这个到底要怎么吃嘛！",
+      "CHINESE_TRADITIONAL": "喂，這到底要怎麼吃啦！",
+      "JAPANESE": "あ これどうやって食べるんですか!",
+      "INDONESIAN": "Ugh, bagaimana kamu memakannya?!",
+      "PORTUGUESE": "Ah, mas como é que se come isso?!",
+      "SPANISH": "¡Ah, pero cómo se come esto!",
+      "PERSIAN": "اوه اینو چطوری میخوری؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "줘 봐요.",
+      "ENGLISH": "Here, give it to me.",
+      "CHINESE_SIMPLIFIED": "给我吧",
+      "CHINESE_TRADITIONAL": "拿來",
+      "JAPANESE": "貸してみてください",
+      "INDONESIAN": "Sini, berikan padaku.",
+      "PORTUGUESE": "Deixa eu te mostrar.",
+      "SPANISH": "A ver, permíteme.",
+      "PERSIAN": "اینجا، اونو به من بدهید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 23.1
+    },
+    "SCRIPT": {
+      "KOREAN": "자 이제 먹기 편해졌죠.",
+      "ENGLISH": "Okay, now it’s easier to eat, right?",
+      "CHINESE_SIMPLIFIED": "看，现在好入口多了吧",
+      "CHINESE_TRADITIONAL": "這樣比較方便吃了吧？",
+      "JAPANESE": "ほら これでもう食べやすくなったでしょ",
+      "INDONESIAN": "Oke, sekarang lebih mudah untuk makan, kan?",
+      "PORTUGUESE": "Pronto, agora vai ser mais fácil comer.",
+      "SPANISH": "Listo, ahora será más fácil de comer.",
+      "PERSIAN": "خوب، حالا غذا خوردن راحت تر است، درست است؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오! 다음에도 유만 씨가 해줘요.",
+      "ENGLISH": "Ooh! Next time, you’re doing it for me again!",
+      "CHINESE_SIMPLIFIED": "喔！下次也要宥万先生来帮我",
+      "CHINESE_TRADITIONAL": "哇！下次也要宥萬先生幫我弄！",
+      "JAPANESE": "おっ! 次もユマンさんがやってくださいね",
+      "INDONESIAN": "Wah! Lain kali, kamu melakukannya lagi untukku!",
+      "PORTUGUESE": "Oh! Vai ter que me ajudar assim daqui pra frente.",
+      "SPANISH": "¡Oh! Me tienes que ayudar así de ahora en adelante.",
+      "PERSIAN": "اوه دفعه بعد، دوباره این کار را برای من انجام می دهید!"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 잘 치는 거 맞아?",
+      "ENGLISH": "Yuman, are you sure you’re actually good at this?",
+      "CHINESE_SIMPLIFIED": "你确定你真的会打吗？",
+      "CHINESE_TRADITIONAL": "你確定你真的會打嗎？",
+      "JAPANESE": "ユマンさん本当に上手なの？",
+      "INDONESIAN": "Yuman, kamu yakin kamu beneran jago main ini?",
+      "PORTUGUESE": "Tem certeza de que sabe jogar?",
+      "SPANISH": "¿Seguro que sabes jugar?",
+      "PERSIAN": "یومان، مطمئنی که واقعاً در این کار خوب هستی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": " 아닌 거 같은데.",
+      "ENGLISH": "’Cause it really doesn’t look like it.",
+      "CHINESE_SIMPLIFIED": "感觉不太像呢",
+      "CHINESE_TRADITIONAL": "感覺不太像耶",
+      "JAPANESE": "うーん、そうは思えないけど",
+      "INDONESIAN": "Soalnya kelihatannya sih… nggak gitu, ya.",
+      "PORTUGUESE": "Porque não parece.",
+      "SPANISH": "Porque no parece.",
+      "PERSIAN": "چون واقعاً شبیه اون نیست."
+    }
+  }
+]

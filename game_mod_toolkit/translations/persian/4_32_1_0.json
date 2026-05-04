@@ -1,0 +1,459 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "남자가 너무 능숙해 보이는 것도  싫을 거 같은데",
+      "ENGLISH": "Even if a guy acted too smooth… I think I’d hate that.",
+      "CHINESE_SIMPLIFIED": "男人要是显得太游刃有余也会让人讨厌吧",
+      "CHINESE_TRADITIONAL": "我覺得男生看起來太過厲害也不太好",
+      "JAPANESE": "男があんまり手慣れてるのも、なんかイヤだけどね",
+      "INDONESIAN": "Kalau ada cowok yang terlalu genit… kayaknya aku bakal ilfeel deh.",
+      "PORTUGUESE": "Não gostaria de um homem que parecesse confiante demais em si mesmo.",
+      "SPANISH": "No me gustaría un hombre que se vea demasiado confiado en sí mismo.",
+      "PERSIAN": "حتی اگر یک مرد خیلی نرم عمل کند... فکر می کنم از اون متنفرم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 왜요?",
+      "ENGLISH": "Huh? Why?",
+      "CHINESE_SIMPLIFIED": "嗯？为什么？",
+      "CHINESE_TRADITIONAL": "嗯？為什麼？",
+      "JAPANESE": "え？なんでですか？",
+      "INDONESIAN": "Hah? Kenapa?",
+      "PORTUGUESE": "Hã? Por quê?",
+      "SPANISH": "¿Eh? ¿Por qué no?",
+      "PERSIAN": "ها؟ چرا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥, 경험이 너무 많아 보이잖아.",
+      "ENGLISH": "Because it just makes him look like he’s had way too much experience.",
+      "CHINESE_SIMPLIFIED": "就是会让人觉得是老手了啊",
+      "CHINESE_TRADITIONAL": "會覺得好像經驗太豐富了",
+      "JAPANESE": "んか、経験多そうに見えるじゃん",
+      "INDONESIAN": "Soalnya kesannya dia udah terlalu berpengalaman.",
+      "PORTUGUESE": "Não sei, parece alguém com experiência demais.",
+      "SPANISH": "No sé, parece como si tuviera demasiada experiencia.",
+      "PERSIAN": "زیرا این باعث می شود که به نظر برسد که تجربه بسیار زیادی داشته است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "생각보다 꽤 보수적이시네요...",
+      "ENGLISH": "Wow… you’re more conservative than I expected.",
+      "CHINESE_SIMPLIFIED": "没想到您还挺保守的...",
+      "CHINESE_TRADITIONAL": "你比我想像中還要保守耶...",
+      "JAPANESE": "思ったより保守的なんですね",
+      "INDONESIAN": "Wow… kamu ternyata lebih konservatif dari yang aku kira.",
+      "PORTUGUESE": "É mais conservadora do que eu pensava...",
+      "SPANISH": "Es más conservadora de lo que pensé...",
+      "PERSIAN": "وای... شما محافظه کارتر از اون چیزی هستید که من انتظار داشتم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "생각보다? 나 되게 보수적이야",
+      "ENGLISH": "“Than you expected”? I’m very conservative.",
+      "CHINESE_SIMPLIFIED": "没想到？我本来就很保守",
+      "CHINESE_TRADITIONAL": "比想像中？我超保守的啊",
+      "JAPANESE": "思ったよりじゃなくて、かなり保守的だよ",
+      "INDONESIAN": "“Dari yang kamu kira”? Aku emang konservatif.",
+      "PORTUGUESE": "“Mais do que pensava”? Eu sou bem conservadora.",
+      "SPANISH": "¿“De lo qué pense”? Soy muy conservadora.",
+      "PERSIAN": "\"از آنچه انتظار داشتید\"؟ من خیلی محافظه کارم"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 내 전남친들 하나 같이 다 그것만 바래서 싫어.",
+      "ENGLISH": "Though every one of my exes only seemed to want that, and I hated it.",
+      "CHINESE_SIMPLIFIED": "而且我前男友们个个都只想着那件事，烦死了",
+      "CHINESE_TRADITIONAL": "不過我那些前男友，每個都只想要「那個」，讓我很討厭",
+      "JAPANESE": "元カレたち、みんなそればっかり求めてきて嫌になったの",
+      "INDONESIAN": "Padahal mantan-mantanku dulu cuma pengennya gitu mulu, dan aku sebel banget.",
+      "PORTUGUESE": "Embora meus ex-namorados... todos parecessem querer só aquilo, e por isso me cansei.",
+      "SPANISH": "Aunque mis exnovios... todos parecían querer solo eso, y por eso me cansé.",
+      "PERSIAN": "اگرچه به نظر می رسید که هر یک از افراد سابق من فقط اینو می خواست و من از اون متنفر بودم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "‘그거’요?",
+      "ENGLISH": "“That”…?",
+      "CHINESE_SIMPLIFIED": "“那件事”？",
+      "CHINESE_TRADITIONAL": "「那個」？",
+      "JAPANESE": "それって、“あれ”のことですか？",
+      "INDONESIAN": "“Itu”…?",
+      "PORTUGUESE": "“Aquilo”?",
+      "SPANISH": "¿“Eso”?",
+      "PERSIAN": "\"اون\"…؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 22.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 ‘그거’.",
+      "ENGLISH": "Yeah — that.",
+      "CHINESE_SIMPLIFIED": "对 “那件事”",
+      "CHINESE_TRADITIONAL": "對啊，「那個」",
+      "JAPANESE": "そう、“あれ”",
+      "INDONESIAN": "Iya... itu.",
+      "PORTUGUESE": "Sim, aquilo.",
+      "SPANISH": "Sí, eso.",
+      "PERSIAN": "آره - اون"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 24.1
+    },
+    "SCRIPT": {
+      "KOREAN": "‘그거’?",
+      "ENGLISH": "“That”?",
+      "CHINESE_SIMPLIFIED": "“那件事”？",
+      "CHINESE_TRADITIONAL": "「那個」是？",
+      "JAPANESE": "“あれ”…？",
+      "INDONESIAN": "“Anu”?",
+      "PORTUGUESE": "Aquilo...?",
+      "SPANISH": "¿Eso...?",
+      "PERSIAN": "\"اون\"؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나... ‘혼전순결’ 주의자거든.",
+      "ENGLISH": "I’m… actually the “no sex before marriage” type.",
+      "CHINESE_SIMPLIFIED": "我…其实是“婚前守贞”主义者",
+      "CHINESE_TRADITIONAL": "我是...婚前純潔主義者",
+      "JAPANESE": "私ね、“婚前純潔主義”なの",
+      "INDONESIAN": "Aku… sebenarnya tipe yang “nggak mau sebelum nikah.”",
+      "PORTUGUESE": "Eu... acredito na castidade até o casamento.",
+      "SPANISH": "Yo... creo en la castidad hasta matrimonio.",
+      "PERSIAN": "من ... در واقع از نوع \"بدون رابطه جنسی قبل از ازدواج\" هستم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜요??",
+      "ENGLISH": "Seriously??",
+      "CHINESE_SIMPLIFIED": "真的吗？？",
+      "CHINESE_TRADITIONAL": "真的假的？？",
+      "JAPANESE": "ほんとですか!?",
+      "INDONESIAN": "Serius??",
+      "PORTUGUESE": "Sério??",
+      "SPANISH": "¿En serio??",
+      "PERSIAN": "جدی؟؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 그렇게 놀래? ",
+      "ENGLISH": "Why do you look so shocked?",
+      "CHINESE_SIMPLIFIED": "干嘛这么惊讶？",
+      "CHINESE_TRADITIONAL": "有什麼好這麼驚訝的？",
+      "JAPANESE": "なんでそんなに驚くの？",
+      "INDONESIAN": "Kenapa kamu kaget banget sih?",
+      "PORTUGUESE": "Por que tá tão surpreso?",
+      "SPANISH": "¿Y por qué te sorprendes tanto?",
+      "PERSIAN": "چرا اینقدر شوکه به نظر میای؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 가서 얘기하면 죽는다. ",
+      "ENGLISH": "If you tell anyone, you’re dead.",
+      "CHINESE_SIMPLIFIED": "敢说出去你就死定了",
+      "CHINESE_TRADITIONAL": "要是你敢在外面亂說，我就殺了你",
+      "JAPANESE": "他の人に言ったら殺すから",
+      "INDONESIAN": "Kalau kamu bocorin ke siapa pun… kelar kamu.",
+      "PORTUGUESE": "Se você contar pra alguém, eu te mato.",
+      "SPANISH": "Si vas y se lo cuentas a alguien, te mato.",
+      "PERSIAN": "اگر به کسی بگویی مرده ای"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.1,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 내가 진짜로 좋아하는 남자가 나타나면 또 모르지?",
+      "ENGLISH": "…But if someone I really love shows up — who knows?",
+      "CHINESE_SIMPLIFIED": "不过要是遇到真正喜欢的男人，可能也会改变主意？",
+      "CHINESE_TRADITIONAL": "不過，如果出現一個我真正喜歡的男人，那可能又說不定了？",
+      "JAPANESE": "でも、本気で好きな人が現れたら…どうなるか分かんないけどね",
+      "INDONESIAN": "…Tapi kalau suatu saat ada orang yang bener-bener aku cintai, ya siapa tahu?",
+      "PORTUGUESE": "Mas... se algum dia aparecer alguém que eu realmente goste, quem sabe.",
+      "SPANISH": "Pero... si algún día aparece alguien que me guste de verdad, quién sabe.",
+      "PERSIAN": "... اما اگر کسی که واقعاً دوستش دارم ظاهر شود - چه کسی می داند؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 41.3,
+      "HIDE": 44.7
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜로 좋아하는 남자는 어떤 사람일 거 같은데요?",
+      "ENGLISH": "What kind of person would that be, someone you “really love”?",
+      "CHINESE_SIMPLIFIED": "您觉得真正喜欢的男人会是什么样呢？",
+      "CHINESE_TRADITIONAL": "那... 真正喜歡的男人，會是什麼樣的人呢？",
+      "JAPANESE": "本気で好きになる人って、どんな人だと思います？",
+      "INDONESIAN": "Orang kayak gimana tuh, yang “bener-bener dicintai”?",
+      "PORTUGUESE": "E como seria esse homem que você realmente gostasse?",
+      "SPANISH": "¿Y cómo sería ese hombre que le guste de verdad?",
+      "PERSIAN": "این چه جور آدمی است، کسی که «واقعاً دوستش دارید»؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 48.3
+    },
+    "SCRIPT": {
+      "KOREAN": "글쎄... 우유만 씨 같은 사람?",
+      "ENGLISH": "Hmm… maybe someone like you, Yuman?",
+      "CHINESE_SIMPLIFIED": "这个嘛…像你这样的人？",
+      "CHINESE_TRADITIONAL": "這個嘛... 大概就像你一樣的人？",
+      "JAPANESE": "そうね…ウ・ユマンさんみたいな人？",
+      "INDONESIAN": "Hmm… mungkin kayak kamu, Yuman?",
+      "PORTUGUESE": "Hmm... alguém como você, Yuman?",
+      "SPANISH": "Mmm... ¿alguien como tú, Yumán?",
+      "PERSIAN": "هوم... شاید یکی مثل تو، یومان؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 49.0,
+      "HIDE": 51.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그 말 진심이에요?",
+      "ENGLISH": "Are you serious?",
+      "CHINESE_SIMPLIFIED": "这话是认真的吗？",
+      "CHINESE_TRADITIONAL": "這句話是認真的嗎？",
+      "JAPANESE": "それ、本気ですか？",
+      "INDONESIAN": "Serius kamu?",
+      "PORTUGUESE": "Tá falando sério?",
+      "SPANISH": "¿Lo dice en serio?",
+      "PERSIAN": "جدی میگی؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 51.6,
+      "HIDE": 52.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇다면?",
+      "ENGLISH": "And if I am?",
+      "CHINESE_SIMPLIFIED": "如果是呢？",
+      "CHINESE_TRADITIONAL": "如果我是認真的呢？",
+      "JAPANESE": "もし本気だったら？",
+      "INDONESIAN": "Kalau iya, kenapa?",
+      "PORTUGUESE": "E se eu estiver?",
+      "SPANISH": "¿Y si así fuera?",
+      "PERSIAN": "و اگر هستم؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 53.8,
+      "HIDE": 57.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 과장님 그거 제가 해도 돼요?",
+      "ENGLISH": "Then… can I do it?",
+      "CHINESE_SIMPLIFIED": "那科长，那件事和我做也可以吗？",
+      "CHINESE_TRADITIONAL": "那... 課長，我可以要那個嗎？",
+      "JAPANESE": "じゃあ、課長　それ、俺がしてもいいですか？",
+      "INDONESIAN": "Kalau gitu… boleh nggak aku…?",
+      "PORTUGUESE": "Então, chefe... posso ser eu quem faça isso?",
+      "SPANISH": "Entonces, jefa... ¿puedo ser yo él que lo haga?",
+      "PERSIAN": "سپس… می توانم اونو انجام دهم؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 57.7,
+      "HIDE": 58.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그거? ",
+      "ENGLISH": "“Do it”?",
+      "CHINESE_SIMPLIFIED": "那件事？",
+      "CHINESE_TRADITIONAL": "那個？",
+      "JAPANESE": "“あれ”",
+      "INDONESIAN": "“Nganu?",
+      "PORTUGUESE": "Fazer o quê...?",
+      "SPANISH": "¿Hacer qué...?",
+      "PERSIAN": "\"اونو انجام دهم\"؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 59.8,
+      "HIDE": 61.1
+    },
+    "SCRIPT": {
+      "KOREAN": "설마 그거?",
+      "ENGLISH": "You don’t mean that, right?",
+      "CHINESE_SIMPLIFIED": "难道是说那件事？",
+      "CHINESE_TRADITIONAL": "該不會是「那個」吧？",
+      "JAPANESE": "それって？まさかあれ？",
+      "INDONESIAN": "Kamu bercanda, kan?",
+      "PORTUGUESE": "Não vai estar falando de...?",
+      "SPANISH": "¿No estarás hablando de...?",
+      "PERSIAN": "منظورت این نیست، درسته؟"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 61.6,
+      "HIDE": 64.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네 그거요. 그거 맞아요.",
+      "ENGLISH": "I do. I mean that.",
+      "CHINESE_SIMPLIFIED": "对就是那件事，没错",
+      "CHINESE_TRADITIONAL": "對，就是那個。就是「那個」沒錯",
+      "JAPANESE": "はい、あれです　間違いなくそれ",
+      "INDONESIAN": "Aku serius. Aku maksud itu.",
+      "PORTUGUESE": "Sim, exatamente.",
+      "SPANISH": "Sí, exactamente.",
+      "PERSIAN": "من انجام می دهم. منظورم همینه"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 65.5,
+      "HIDE": 66.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "…Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "額？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "…Hah?",
+      "PORTUGUESE": "Hã...?",
+      "SPANISH": "¿Eh...?",
+      "PERSIAN": "… ها؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 67.0,
+      "HIDE": 70.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그란 님 처음 제가 갖고 싶어요. 지금.",
+      "ENGLISH": "I want to be the first to have you. Right now.",
+      "CHINESE_SIMPLIFIED": "圆圆，我想拥有你的“第一次”，就是现在",
+      "CHINESE_TRADITIONAL": "圓圓，我想擁有你的第一次。現在",
+      "JAPANESE": "課長の初めて俺が欲しいんです　今",
+      "INDONESIAN": "Aku pengen jadi yang pertama buat kamu. Sekarang.",
+      "PORTUGUESE": "Chefe Gran... quero ser o primeiro. Agora mesmo.",
+      "SPANISH": "Jefa Gran... quiero ser el primero. Justo ahora.",
+      "PERSIAN": "من می خواهم اولین کسی باشم که تو را دارم. همین الان"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 73.9,
+      "HIDE": 79.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그래, 유만 씨가 가져 내 처음",
+      "ENGLISH": "…Alright then. Take it — take my first, Yuman.",
+      "CHINESE_SIMPLIFIED": "好啊，把我的第一次...拿走吧",
+      "CHINESE_TRADITIONAL": "好...我也想把我的第一次給宥萬你",
+      "JAPANESE": "いいよ 私の初めてはユマンさんの",
+      "INDONESIAN": "…Kalau gitu, ambil aj, ambil yang pertama dari aku, Yuman.",
+      "PORTUGUESE": "Tudo bem, Yuman. Leve a minha primeira vez.",
+      "SPANISH": "Está bien, Yumán. Llévate mi primera vez.",
+      "PERSIAN": "... باشه پس. بگیر - اولین من را بگیر، یومان."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 80.0,
+      "HIDE": 81.0
+    }
+  }
+]

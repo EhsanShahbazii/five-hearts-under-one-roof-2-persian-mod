@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "참아요!!!!!",
+      "ENGLISH": "Hang in there!!!!!",
+      "CHINESE_SIMPLIFIED": "忍住啊！！！！",
+      "CHINESE_TRADITIONAL": "忍住！！！！",
+      "JAPANESE": "我慢して！！！",
+      "INDONESIAN": "Tahan duluuuuu!!!!",
+      "PORTUGUESE": "Aguenta firme!",
+      "SPANISH": "¡Aguántese!",
+      "PERSIAN": "صبر کن!!!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "할 수 있어요. 당신이라면 참아낼 수 있어요..!",
+      "ENGLISH": "You can do this. If it’s you—I know you can hold it in...!",
+      "CHINESE_SIMPLIFIED": "你能做到的！以你的毅力，一定能忍住...！",
+      "CHINESE_TRADITIONAL": "你可以的。只要是你，一定能忍得住…！",
+      "JAPANESE": "できますよ　あなたならきっと耐えられます…！",
+      "INDONESIAN": "Kamu pasti bisa. Kalau kamu... aku tahu kamu bisa nahan ini...!",
+      "PORTUGUESE": "Você consegue. Consegue aguentar...",
+      "SPANISH": "Usted puede hacerlo. Puede resistirlo...",
+      "PERSIAN": "شما می توانید این کار را انجام دهید. اگر تو هستی - می دانم که می توانی اونو نگه داری...!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "제발!!",
+      "ENGLISH": "Please...!!",
+      "CHINESE_SIMPLIFIED": "求你了！！",
+      "CHINESE_TRADITIONAL": "拜託了！！！",
+      "JAPANESE": "お願いだから！！",
+      "INDONESIAN": "Tolong...!!",
+      "PORTUGUESE": "Eu te imploro...!!",
+      "SPANISH": "¡Se lo ruego...!!",
+      "PERSIAN": "لطفا...!!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에취!!!",
+      "ENGLISH": "Achoo!!!",
+      "CHINESE_SIMPLIFIED": "阿嚏！！！",
+      "CHINESE_TRADITIONAL": "哈啾！！！",
+      "JAPANESE": "ハックション！！！",
+      "INDONESIAN": "Achoo!!!",
+      "PORTUGUESE": "Aatchim!",
+      "SPANISH": "¡Aachís!",
+      "PERSIAN": "آچو !!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "- 헉!\n- 어?",
+      "ENGLISH": "— Gasp!\n— Huh...?",
+      "CHINESE_SIMPLIFIED": "-呃！\n-嗯？",
+      "CHINESE_TRADITIONAL": "—嚇！\n—欸？",
+      "JAPANESE": "‐はっ！\n‐え？",
+      "INDONESIAN": "— Gasp!\n— Hah...?!",
+      "PORTUGUESE": "—Ah!\n—Hã?",
+      "SPANISH": "—¡Ah!\n—¿Eh?",
+      "PERSIAN": "- نفس نفس زدن! - ها...؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 이게 무슨 상황이죠?",
+      "ENGLISH": "Can someone please tell me what exactly is going on here?",
+      "CHINESE_SIMPLIFIED": "现在这到底是什么情况？",
+      "CHINESE_TRADITIONAL": "現在這是什麼情況？",
+      "JAPANESE": "今これは一体どういう状況ですか？",
+      "INDONESIAN": "Bisa tolong jelasin sebenernya ini semua apa, ya?",
+      "PORTUGUESE": "Alguém pode me explicar o que tá acontecendo aqui?",
+      "SPANISH": "¿Alguien me puede explicar qué está pasando aquí?",
+      "PERSIAN": "میشه لطفا یکی بگه اینجا دقیقا چه خبره؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저를 납득시킬 만한 이유가 있어야 할 겁니다.",
+      "ENGLISH": "You’d better have a very good explanation.",
+      "CHINESE_SIMPLIFIED": "你最好给我个能接受的理由",
+      "CHINESE_TRADITIONAL": "你最好給我一個能說服我的理由",
+      "JAPANESE": "私を納得させる理由が必要だと思います",
+      "INDONESIAN": "Kalian harus kasih penjelasan yang bener-bener masuk akal.",
+      "PORTUGUESE": "É melhor terem uma razão muito boa pra me convencer.",
+      "SPANISH": "Más vale que tengan una muy buena razón para convencerme.",
+      "PERSIAN": "بهتره یه توضیح خیلی خوب بدی"
+    }
+  }
+]

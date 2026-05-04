@@ -1,0 +1,884 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.08,
+      "HIDE": 1.08
+    },
+    "SCRIPT": {
+      "KOREAN": "굉장히 많네요",
+      "ENGLISH": "Wow, there are so many!",
+      "CHINESE_SIMPLIFIED": "问题真的好多啊",
+      "CHINESE_TRADITIONAL": "哇，題目好多啊～",
+      "JAPANESE": "すごく多いですね",
+      "INDONESIAN": "Wah ini banyak juga ya.",
+      "PORTUGUESE": "Uau, tem muitas!",
+      "SPANISH": "¡Wow, hay muchas!",
+      "PERSIAN": "وای خیلی زیادن!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.08,
+      "HIDE": 4.23
+    },
+    "SCRIPT": {
+      "KOREAN": "빨강 색깔은 뽑으면 좀 위험한 질문들이 나올 것 같아",
+      "ENGLISH": "The red ones look kinda dangerous...",
+      "CHINESE_SIMPLIFIED": "红色感觉会是些很危险的问题",
+      "CHINESE_TRADITIONAL": "紅色的好像會抽到比較危險的問題",
+      "JAPANESE": "赤は引いたらヤバい質問が出そう",
+      "INDONESIAN": "Kalau yang warna merah... kayaknya agak bahaya deh.",
+      "PORTUGUESE": "Acho que as vermelhas são perguntas perigosas.",
+      "SPANISH": "Creo que las rojas son preguntas peligrosas.",
+      "PERSIAN": "قرمزها خیلی خطرناک به نظر می رسند..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.23,
+      "HIDE": 6.18
+    },
+    "SCRIPT": {
+      "KOREAN": "파랑 색깔을 뽑도록 하겠습니다",
+      "ENGLISH": "so I’m gonna go with a blue one.",
+      "CHINESE_SIMPLIFIED": "我还是抽蓝色的吧",
+      "CHINESE_TRADITIONAL": "那我選藍色的好了",
+      "JAPANESE": "青を引きたいと思います",
+      "INDONESIAN": "Jadi aku pilih yang warna biru aja deh.",
+      "PORTUGUESE": "Então vou escolher uma azul.",
+      "SPANISH": "Así que voy a escoger una azul.",
+      "PERSIAN": "بنابراین من با یک آبی می روم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.15,
+      "HIDE": 12.14
+    },
+    "SCRIPT": {
+      "KOREAN": "더 최악인 건 “잠수 이별 vs 환승 이별”",
+      "ENGLISH": "Which is worse: being ghosted vs. being dumped for someone else?",
+      "CHINESE_SIMPLIFIED": "哪一个更糟糕？“冷暴力分手 vs 被无缝衔接分手”",
+      "CHINESE_TRADITIONAL": "更糟糕的是...“毫無預警的分手” vs ”無縫接軌的分手“",
+      "JAPANESE": "もっと最悪なのは “音信不通で別れる vs 乗り換えで別れる”",
+      "INDONESIAN": "“Dighosting vs. diputusin buat orang ketiga?”",
+      "PORTUGUESE": "Prefere que terminem te dando gosteio ou que ele fique com outra logo depois do término?",
+      "SPANISH": "Prefieres que \"te terminen gosteándote\" o \"que esté con otra apenas terminan”",
+      "PERSIAN": "کدام بدتر است: ارواح شدن در مقابل رها شدن برای شخص دیگری؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.14,
+      "HIDE": 16.02
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 환승 이별이 조금 더 최악인 거 같아요",
+      "ENGLISH": "For me, being dumped for someone else is way worse.",
+      "CHINESE_SIMPLIFIED": "我觉得被无缝衔接分手更糟糕",
+      "CHINESE_TRADITIONAL": "我覺得無縫接軌的分手比較糟糕",
+      "JAPANESE": "私は乗り換え別れの方が最悪だと思います",
+      "INDONESIAN": "Menurut aku, yang paling parah tuh yang diputusin buat orang ketiga.",
+      "PORTUGUESE": "Acho que a segunda é um pouco pior.",
+      "SPANISH": "Creo que la segunda es un poco peor.",
+      "PERSIAN": "برای من، این که به خاطر دیگری کنار گذاشته شدن، خیلی بدتر است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.02,
+      "HIDE": 17.11
+    },
+    "SCRIPT": {
+      "KOREAN": "왜냐면 이제",
+      "ENGLISH": "Becausse...",
+      "CHINESE_SIMPLIFIED": "因为呢",
+      "CHINESE_TRADITIONAL": "我其實很擅長",
+      "JAPANESE": "なぜかというと",
+      "INDONESIAN": "Soalnya gini—",
+      "PORTUGUESE": "Porque…",
+      "SPANISH": "Porque, bueno…",
+      "PERSIAN": "چون..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.02,
+      "HIDE": 23.24
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 연애 고민 상담을 굉장히 잘해주는 편인데 친구들한테",
+      "ENGLISH": "I’m the type who gives really good dating advice to friends.",
+      "CHINESE_SIMPLIFIED": "我平时很擅长给朋友做恋爱咨询的",
+      "CHINESE_TRADITIONAL": "幫朋友做戀愛諮詢",
+      "JAPANESE": "私 友達の恋愛相談けっこう乗るんですけど",
+      "INDONESIAN": "Aku tuh biasanya suka banget ngasih saran soal hubungan ke temen-temenku.",
+      "PORTUGUESE": "eu sou do tipo que dá ótimos conselhos amorosos para minhas amigas.",
+      "SPANISH": "yo soy del tipo que da muy buenos consejos amorosos a mis amigas.",
+      "PERSIAN": "من از اون دسته ای هستم که توصیه های بسیار خوبی برای دوستیابی به دوستان می دهم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.11,
+      "HIDE": 26.18
+    },
+    "SCRIPT": {
+      "KOREAN": "잠수 이별은 솔직히 제가 이유를 몰라요",
+      "ENGLISH": "And honestly, with ghosting, I might never know why they left me.",
+      "CHINESE_SIMPLIFIED": "冷暴力分手的话，我至少不知道原因",
+      "CHINESE_TRADITIONAL": "但毫無預警分手的話，根本不知道原因",
+      "JAPANESE": "音信不通で別れるのは 正直理由を知らないままじゃないですか",
+      "INDONESIAN": "Dan kalau ghosting itu ya... aku bisa nerima karena nggak tahu alesan aslinya.",
+      "PORTUGUESE": "Se me dão gosteio, eu não consigo saber o motivo.",
+      "SPANISH": "Si me gostean, no puedo saber el motivo.",
+      "PERSIAN": "و صادقانه بگویم، با استفاده از شبح، شاید هرگز نفهمم چرا اونا مرا ترک کردند."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.24,
+      "HIDE": 29.17
+    },
+    "SCRIPT": {
+      "KOREAN": "얘가 왜 나한테 헤어지자고 하는지 이유를 모르기 때문에",
+      "ENGLISH": "But at least I can live without knowing.",
+      "CHINESE_SIMPLIFIED": "不知道对方为什么要和我分手",
+      "CHINESE_TRADITIONAL": "完全不知道對方為什麼要分手",
+      "JAPANESE": "相手がなんで別れようと思ったのか分からないので",
+      "INDONESIAN": "At least aku nggak penasaran.",
+      "PORTUGUESE": "Não sei por que a pessoa terminou comigo",
+      "SPANISH": "No sé por qué esa persona rompió conmigo",
+      "PERSIAN": "اما حداقل می توانم بدون اینکه بدانم زندگی کنم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.18,
+      "HIDE": 32.02
+    },
+    "SCRIPT": {
+      "KOREAN": "모르는 채로 살아갈 수 있어",
+      "ENGLISH": "It’s not ideal, but whatever.",
+      "CHINESE_SIMPLIFIED": "我可以就这样不明不白地活下去",
+      "CHINESE_TRADITIONAL": "可以選擇不去想，然後慢慢放下",
+      "JAPANESE": "分からないまま生きていける",
+      "INDONESIAN": "Mungkin ane sih tapi yaudahlah.",
+      "PORTUGUESE": "e posso viver sem saber.",
+      "SPANISH": "y puedo vivir sin saberlo.",
+      "PERSIAN": "ایده آل نیست، اما هر چه باشد."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.17,
+      "HIDE": 33.13
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 환승 이별은",
+      "ENGLISH": "But being dumped for someone else?",
+      "CHINESE_SIMPLIFIED": "但是被无缝衔接的话",
+      "CHINESE_TRADITIONAL": "不過，無縫接軌的狀況就不一樣了",
+      "JAPANESE": "でも乗り換えで別れるのは",
+      "INDONESIAN": "Tapi kalo dia putus sama aku karena udah ada orang ketiga?",
+      "PORTUGUESE": "Mas se ele termina e vai ficar com outra…",
+      "SPANISH": "Pero si me deja y se va con otra…",
+      "PERSIAN": "اما برای شخص دیگری انداخته شدن؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.02,
+      "HIDE": 37.09
+    },
+    "SCRIPT": {
+      "KOREAN": "얘가 나랑 사귀었을 때 다른 사람이랑 연락을 하고 있었네",
+      "ENGLISH": "That means... they were texting someone else while dating me??",
+      "CHINESE_SIMPLIFIED": "会知道“原来他和我在一起时就和别人有联络了啊”",
+      "CHINESE_TRADITIONAL": "對方跟我交往的時候，其實已經有其他聯絡對象",
+      "JAPANESE": "私と付き合ってる間に他の人と連絡してたんだ",
+      "INDONESIAN": "Artinya... Dia udah deketin orang lain pas masih sama aku?!",
+      "PORTUGUESE": "significa que estava falando com ela enquanto saía comigo.",
+      "SPANISH": "significa que estaba hablando con ella mientras salía conmigo.",
+      "PERSIAN": "یعنی وقتی با من قرار میگرفتن به یکی دیگه پیام میدادن؟؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 33.13,
+      "HIDE": 38.13
+    },
+    "SCRIPT": {
+      "KOREAN": "이것도 알게 되고",
+      "ENGLISH": "And then",
+      "CHINESE_SIMPLIFIED": "连这个都会发现",
+      "CHINESE_TRADITIONAL": "這時候就可能會想",
+      "JAPANESE": "っていうのも分かっちゃうし",
+      "INDONESIAN": "Terus...",
+      "PORTUGUESE": "Então eu pensaria:",
+      "SPANISH": "Entonces pensaría:",
+      "PERSIAN": "و سپس"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 37.09,
+      "HIDE": 41.12
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 나랑 헤어지고 나서 다른 사람을 또 만나?",
+      "ENGLISH": "They break up with me and start seeing that person?",
+      "CHINESE_SIMPLIFIED": "咦？和我分手后马上就和别人交往了？",
+      "CHINESE_TRADITIONAL": "哦？跟我分手之後馬上又跟別人交往？",
+      "JAPANESE": "私と別れてすぐ他の人と会ってるの？",
+      "INDONESIAN": "kalo langsung jadian sama orang baru abis mutusin aku?",
+      "PORTUGUESE": "“Hã? Terminou comigo e já está com outra?”",
+      "SPANISH": "¿Eh? ¿Terminó conmigo y ya está saliendo con otra?",
+      "PERSIAN": "اونا از من جدا می شوند و شروع به دیدن اون شخص می کنند؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.13,
+      "HIDE": 43.05
+    },
+    "SCRIPT": {
+      "KOREAN": "어떤 년이야 그년 예뻐?",
+      "ENGLISH": "Who is she? Is she pretty??",
+      "CHINESE_SIMPLIFIED": "那女的是谁？她比我漂亮吗？",
+      "CHINESE_TRADITIONAL": "那個女的是誰？她漂亮嗎？",
+      "JAPANESE": "どこの女？その女可愛いの？",
+      "INDONESIAN": "Tuh cewek siapa sih?? Secantik apa sih??",
+      "PORTUGUESE": "“Quem é essa garota? Ela é bonita?”",
+      "SPANISH": "¿Quién es esa tipa? ¿Es bonita?",
+      "PERSIAN": "او کیه؟ خوشگله؟؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 41.12,
+      "HIDE": 47.18
+    },
+    "SCRIPT": {
+      "KOREAN": "약간 요렇게 되기 때문에 저는 환승 이별이 더 최악인 것 같습니다",
+      "ENGLISH": "Like, seriously?? Yeah. That one’s worse.",
+      "CHINESE_SIMPLIFIED": "会忍不住这样比较，所以我觉得被无缝衔接更糟糕",
+      "CHINESE_TRADITIONAL": "所以對我來說，無縫接軌的分手更糟糕",
+      "JAPANESE": "みたいに色々考えちゃうから私は乗り換え別れの方が断然最悪だと思います",
+      "INDONESIAN": "Ugh, pokoknya itu sih... lebih nyakitin sih.",
+      "PORTUGUESE": "Por coisas assim, acho que esse tipo de término é pior.",
+      "SPANISH": "Por cosas así creo que esa ruptura es peor.",
+      "PERSIAN": "مثلا جدی؟؟ آره اون یکی بدتره"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 43.05,
+      "HIDE": 49.04
+    },
+    "SCRIPT": {
+      "KOREAN": "최악이에요 싫어요",
+      "ENGLISH": "I hate it. Zero stars.",
+      "CHINESE_SIMPLIFIED": "太恶心了，这种行为！！",
+      "CHINESE_TRADITIONAL": "真的是最最最差勁",
+      "JAPANESE": "最悪です 嫌いです",
+      "INDONESIAN": "Sebel banget parah.",
+      "PORTUGUESE": "Término muito ruim.",
+      "SPANISH": "Muy mala ruptura.",
+      "PERSIAN": "من از اون متنفرم. صفر ستاره"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 47.18,
+      "HIDE": 49.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 거",
+      "ENGLISH": "Like",
+      "CHINESE_SIMPLIFIED": "太讨厌了",
+      "CHINESE_TRADITIONAL": "完全不想要",
+      "JAPANESE": "こういうの",
+      "INDONESIAN": "Fix.",
+      "PORTUGUESE": "Zero estrelas.",
+      "SPANISH": "0 estrellas.",
+      "PERSIAN": "مانند"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 49.04,
+      "HIDE": 49.2
+    },
+    "SCRIPT": {
+      "KOREAN": "더 최악인 건",
+      "ENGLISH": "The worst worst.",
+      "CHINESE_SIMPLIFIED": "哪一个更糟糕？",
+      "CHINESE_TRADITIONAL": "更糟糕的是——",
+      "JAPANESE": "もっと最悪なのは",
+      "INDONESIAN": "Benci banget tipe yang kayak gitu.",
+      "PORTUGUESE": "O que prefere…",
+      "SPANISH": "Qué prefieres...",
+      "PERSIAN": "بدترین بدترین."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 49.2,
+      "HIDE": 50.24
+    },
+    "SCRIPT": {
+      "KOREAN": "“엄마 앞에서 애인이랑 키스 vs 애인 앞에서 이성친구랑 뽀뽀”",
+      "ENGLISH": "Which is worse: kissing in front of mom vs. pecking a friend before your partner?",
+      "CHINESE_SIMPLIFIED": "“在妈妈面前和恋人接吻 vs 在恋人面前和异性朋友亲亲”",
+      "CHINESE_TRADITIONAL": "“在媽媽面前跟戀人接吻” vs “在戀人面前跟異性朋友親親”",
+      "JAPANESE": "“お母さんの前で恋人とキス vs 恋人の前で異性の友達とチュー”",
+      "INDONESIAN": "“Ciuman sama pacar di depan mama vs. ciuman sama temen cowok di depan pacar.”",
+      "PORTUGUESE": "“Beijar seu namorado na frente da sua mãe” ou “Beijar um amigo do sexo oposto na frente do seu namorado”?",
+      "SPANISH": "\"Besar a tu pareja frente a tu mamá\" o \"Besar a un amigo del sexo opuesto frente a tu novio\".",
+      "PERSIAN": "کدام بدتر است: بوسیدن جلوی مادر در مقابل نوک زدن یک دوست قبل از همسرتان؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 50.24,
+      "HIDE": 52.04
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 키스랑 뽀뽀랑 다르잖아요 여러분들",
+      "ENGLISH": "Okay but, a kiss and a peck are not the same thing.",
+      "CHINESE_SIMPLIFIED": "大家要注意，接吻和亲亲是不一样的",
+      "CHINESE_TRADITIONAL": "接吻跟親親是不同的吧，各位",
+      "JAPANESE": "キスとチューって違うじゃないですか みなさん",
+      "INDONESIAN": "Guys... ciuman sama nempelin bibir doang tuh beda ya.",
+      "PORTUGUESE": "Há muita diferença entre um beijo e um selinho.",
+      "SPANISH": "Hay mucha diferencia entre un beso y un piquito.",
+      "PERSIAN": "خوب، اما، یک بوسه و نوک زدن یک چیز نیستند."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 52.04,
+      "HIDE": 58.1
+    },
+    "SCRIPT": {
+      "KOREAN": "키스랑 뽀뽀랑 다른데",
+      "ENGLISH": "It's different!",
+      "CHINESE_SIMPLIFIED": "接吻和亲亲有区别",
+      "CHINESE_TRADITIONAL": "接吻跟親親是不一樣的喔",
+      "JAPANESE": "キスとチューって違うんだけど",
+      "INDONESIAN": "Beda banget.",
+      "PORTUGUESE": "Então, se for só um selinho…",
+      "SPANISH": "Entonces si es un piquito...",
+      "PERSIAN": "فرق می کند!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 58.1,
+      "HIDE": 60.22
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 애인 앞에서 이성친구랑 뽀뽀를 하는 거는",
+      "ENGLISH": "But kissing a guy friend in front of my boyfriend??",
+      "CHINESE_SIMPLIFIED": "但是在恋人面前和异性朋友亲亲",
+      "CHINESE_TRADITIONAL": "但在男朋友面前跟異性朋友親親",
+      "JAPANESE": "でも恋人の前で異性の友達とチューするのは",
+      "INDONESIAN": "Tapi kalo aku ciuman sama temen cowok di depan pacarku?",
+      "PORTUGUESE": "Não, mesmo assim, com um amigo do sexo oposto",
+      "SPANISH": "No, aún siendo así, con un amigo del sexo opuesto",
+      "PERSIAN": "اما بوسیدن یک دوست پسر جلوی دوست پسرم؟؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 60.22,
+      "HIDE": 62.13
+    },
+    "SCRIPT": {
+      "KOREAN": "상도덕에 어긋나지 않나?",
+      "ENGLISH": "That’s just crossing a line.",
+      "CHINESE_SIMPLIFIED": "这根本就是有违道德吧？",
+      "CHINESE_TRADITIONAL": "這不是有點違背戀愛倫理嗎？",
+      "JAPANESE": "倫理的にアウトじゃない？",
+      "INDONESIAN": "Itu udah kelewatan sih.",
+      "PORTUGUESE": "não vai contra a decência básica?",
+      "SPANISH": "¿no va contra la decencia básica?",
+      "PERSIAN": "این فقط عبور از یک خط است."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 62.13,
+      "HIDE": 65.05
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 엄마 앞에서 애인이랑 뽀뽀도 아닌 키스...",
+      "ENGLISH": "Still, kissing my boyfriend in front of my mom??",
+      "CHINESE_SIMPLIFIED": "但是在妈妈面前接吻，不是亲一下...",
+      "CHINESE_TRADITIONAL": "在媽媽面前跟戀人接吻...不是親親...",
+      "JAPANESE": "でもお母さんの前で恋人とキスって",
+      "INDONESIAN": "Tapi juga... kalo aku ciuman sama pacarku di depan mama?!",
+      "PORTUGUESE": "Mas beijar seu namorado na frente da sua mãe… e não um selinho, um beijo de verdade!",
+      "SPANISH": "Pero besar a tu pareja frente a tu mamá… y no un piquito, ¡un beso de verdad!",
+      "PERSIAN": "هنوز هم دوست پسرم را جلوی مادرم می بوسید؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 65.05,
+      "HIDE": 67.16
+    },
+    "SCRIPT": {
+      "KOREAN": "이 혀가",
+      "ENGLISH": "A kiss is like....",
+      "CHINESE_SIMPLIFIED": "那个舌头",
+      "CHINESE_TRADITIONAL": "是舌頭",
+      "JAPANESE": "舌が",
+      "INDONESIAN": "Ciuman tuh kayak...",
+      "PORTUGUESE": "Com língua…",
+      "SPANISH": "Con lengua...",
+      "PERSIAN": "بوسه مثل ...."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 67.16,
+      "HIDE": 70.03
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게",
+      "ENGLISH": "with tongue. Like this.",
+      "CHINESE_SIMPLIFIED": "像这样",
+      "CHINESE_TRADITIONAL": "這樣...",
+      "JAPANESE": "こう…",
+      "INDONESIAN": "harus pake lidah gitu..kayak gini..",
+      "PORTUGUESE": "Tipo assim…",
+      "SPANISH": "Tipo así...",
+      "PERSIAN": "با زبان مثل این."
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 70.03,
+      "HIDE": 71.12
+    },
+    "SCRIPT": {
+      "KOREAN": "“애인 앞에서 이성친구랑 뽀뽀”를 선택하도록 하겠습니다",
+      "ENGLISH": "But kissing a guy friend in front of my boyfriend??",
+      "CHINESE_SIMPLIFIED": "我选“在恋人面前和异性朋友亲亲”",
+      "CHINESE_TRADITIONAL": "我還是選“在戀人面前跟異性朋友親親”",
+      "JAPANESE": "私は “恋人の前で異性の友達とチュー” を選びます",
+      "INDONESIAN": "Tapi kalo aku ciuman sama temen cowok di depan pacarku?",
+      "PORTUGUESE": "Acho que “beijar um amigo do sexo oposto na frente do meu namorado” é pior.",
+      "SPANISH": "Creo que “besar a un amigo del sexo opuesto frente a mi pareja” es peor.",
+      "PERSIAN": "اما بوسیدن یک دوست پسر جلوی دوست پسرم؟؟"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 71.12,
+      "HIDE": 72.16
+    },
+    "SCRIPT": {
+      "KOREAN": "절대 있어서는 안 되는 일이에요",
+      "ENGLISH": "That’s just crossing a line.",
+      "CHINESE_SIMPLIFIED": "这绝对是不应该发生的事情",
+      "CHINESE_TRADITIONAL": "這是絕對不能發生的事！",
+      "JAPANESE": "絶対あってはいけないことです",
+      "INDONESIAN": "Itu udah kelewatan sih.",
+      "PORTUGUESE": "É algo que nunca deveria acontecer.",
+      "SPANISH": "Es algo que jamás debería pasar.",
+      "PERSIAN": "این فقط عبور از یک خط است."
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 72.16,
+      "HIDE": 76.0
+    },
+    "SCRIPT": {
+      "KOREAN": "“엄마 앞에서 애인이랑 키스”",
+      "ENGLISH": "Still, kissing my boyfriend in front of my mom??",
+      "CHINESE_SIMPLIFIED": "至于“在妈妈面前和恋人接吻”",
+      "CHINESE_TRADITIONAL": "“在媽媽面前跟戀人接吻”",
+      "JAPANESE": "“お母さんの前で恋人とキス” は",
+      "INDONESIAN": "Tapi kalo aku ciuman sama pacarku di depan mama?!",
+      "PORTUGUESE": "“Beijar seu namorado na frente da sua mãe.”",
+      "SPANISH": "“Besar a tu pareja frente a tu mamá”",
+      "PERSIAN": "هنوز هم دوست پسرم را جلوی مادرم می بوسید؟"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 76.0,
+      "HIDE": 78.09
+    },
+    "SCRIPT": {
+      "KOREAN": "어차피 결혼하면 되잖아요",
+      "ENGLISH": "I mean, if we’re gonna get married anyway...",
+      "CHINESE_SIMPLIFIED": "反正最后结婚不就好了",
+      "CHINESE_TRADITIONAL": "反正結婚之後也會接吻啊",
+      "JAPANESE": "まあ結婚すればいいし",
+      "INDONESIAN": "Ya nanti kan kita bakal nikah juga...",
+      "PORTUGUESE": "No fim das contas, vocês vão se casar, né?",
+      "SPANISH": "Al fin y al cabo, luego te casas, ¿no?",
+      "PERSIAN": "منظورم اینه که اگه قراره ازدواج کنیم..."
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 78.09,
+      "HIDE": 79.24
+    },
+    "SCRIPT": {
+      "KOREAN": "결혼하면은 결혼식장에서 남편이랑 뽀뽀하지 않나?",
+      "ENGLISH": "Don’t people kiss at weddings too?",
+      "CHINESE_SIMPLIFIED": "结婚的话在婚礼上不是要和丈夫亲亲吗？",
+      "CHINESE_TRADITIONAL": "結婚的話，在婚禮上不是會跟老公親親嗎？",
+      "JAPANESE": "結婚式でも新郎とチューしません？",
+      "INDONESIAN": "bakal ciuman di pelaminan juga gak sih?",
+      "PORTUGUESE": "No casamento também se beijam.",
+      "SPANISH": "En la boda también te besas con tu esposo.",
+      "PERSIAN": "مردم در عروسی هم نمی بوسند؟"
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 79.24,
+      "HIDE": 81.09
+    },
+    "SCRIPT": {
+      "KOREAN": "키스도 하지 않나요?",
+      "ENGLISH": "Like, actual kisses?",
+      "CHINESE_SIMPLIFIED": "也会接吻不是吗？",
+      "CHINESE_TRADITIONAL": "也會接吻吧？",
+      "JAPANESE": "キスもしますよね？",
+      "INDONESIAN": "Kayak beneran ciuman?",
+      "PORTUGUESE": "Não é um beijo bem longo?",
+      "SPANISH": "¿No se besa por largo rato?",
+      "PERSIAN": "مثل بوسه های واقعی؟"
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 81.09,
+      "HIDE": 84.21
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 모르겠어요",
+      "ENGLISH": "I don’t know, honestly.",
+      "CHINESE_SIMPLIFIED": "不太确定呢",
+      "CHINESE_TRADITIONAL": "我不太確定",
+      "JAPANESE": "よく分からないけど",
+      "INDONESIAN": "Aku juga nggak yakin sih...",
+      "PORTUGUESE": "Não tenho ideia.",
+      "SPANISH": "No tengo idea.",
+      "PERSIAN": "من نمی دانم، صادقانه."
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 84.21,
+      "HIDE": 86.07
+    },
+    "SCRIPT": {
+      "KOREAN": "더 최악인 건",
+      "ENGLISH": "Which is worse",
+      "CHINESE_SIMPLIFIED": "哪一个更糟糕？",
+      "CHINESE_TRADITIONAL": "更糟糕的是——",
+      "JAPANESE": "もっと最悪なのは",
+      "INDONESIAN": "Yang paling parah yang mana...",
+      "PORTUGUESE": "O que prefere…",
+      "SPANISH": "Qué prefieres…",
+      "PERSIAN": "که بدتره"
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 86.07,
+      "HIDE": 87.16
+    },
+    "SCRIPT": {
+      "KOREAN": "“남친이 전 여친과 1박2일”vs“남친이 여사친과 1박2일”",
+      "ENGLISH": "your boyfriend spending the night with his ex vs. with a female friend?",
+      "CHINESE_SIMPLIFIED": "“男友和前女友过夜旅行 vs 男友和女闺蜜过夜旅行”",
+      "CHINESE_TRADITIONAL": "“男友和前女友一起過兩天一夜” vs ”男友和女性朋友一起過兩天一夜“",
+      "JAPANESE": "“彼氏が元カノと1泊2日 vs 彼氏が女友達と1泊2日”",
+      "INDONESIAN": "“Pacar nginep bareng mantan vs. “Pacar nginep bareng temen cewek.”",
+      "PORTUGUESE": "“Que seu namorado passe uma noite com a ex” ou “que seu namorado passe uma noite com a amiga”?",
+      "SPANISH": "\"Que tu novio pase una noche con su ex novia\" o \"Que tu novio pasa una noche con su amiga\".",
+      "PERSIAN": "دوست پسر شما شب را با سابقش در مقابل یک دوست زن می گذراند؟"
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "TIME": {
+      "SHOW": 87.16,
+      "HIDE": 89.02
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 이거는 답이 정해져 있어요",
+      "ENGLISH": "Oh come on—this one’s obvious.",
+      "CHINESE_SIMPLIFIED": "不过这个答案很明确",
+      "CHINESE_TRADITIONAL": "但這個是有標準答案的",
+      "JAPANESE": "これは答え決まってます",
+      "INDONESIAN": "Jujur, yang ini jawabannya udah jelas banget.",
+      "PORTUGUESE": "Mas aqui a resposta é clara.",
+      "SPANISH": "Pero aquí la respuesta está clara.",
+      "PERSIAN": "اوه بیا - این یکی واضح است."
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "TIME": {
+      "SHOW": 89.02,
+      "HIDE": 90.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여사친 전 여친",
+      "ENGLISH": "The ex or the girl friend?",
+      "CHINESE_SIMPLIFIED": "女闺蜜，前女友",
+      "CHINESE_TRADITIONAL": "前女友和女性朋友",
+      "JAPANESE": "女友達 元カノ",
+      "INDONESIAN": "Temen cewek atau mantan...",
+      "PORTUGUESE": "Amiga ou ex-namorada.",
+      "SPANISH": "Amiga o ex novia.",
+      "PERSIAN": "دوست سابق یا دختر؟"
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "TIME": {
+      "SHOW": 90.0,
+      "HIDE": 96.11
+    },
+    "SCRIPT": {
+      "KOREAN": "내 남친한테 위험한 인물이 누굴까?",
+      "ENGLISH": "Who’s more dangerous to your boyfriend?",
+      "CHINESE_SIMPLIFIED": "想想哪个对我男友来说更危险？",
+      "CHINESE_TRADITIONAL": "對我男朋友來說，誰才是危險人物？",
+      "JAPANESE": "彼氏にとって危険なのはどっち？",
+      "INDONESIAN": "Siapa yang lebih bahaya buat pacarku?",
+      "PORTUGUESE": "Quem é mais perigosa para o meu namorado?",
+      "SPANISH": "¿Quién es más peligrosa para mi novio?",
+      "PERSIAN": "چه کسی برای دوست پسر شما خطرناک تر است؟"
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "TIME": {
+      "SHOW": 96.11,
+      "HIDE": 99.02
+    },
+    "SCRIPT": {
+      "KOREAN": "당연히 여사친이 위험합니다",
+      "ENGLISH": "Definitely the girl friend.",
+      "CHINESE_SIMPLIFIED": "当然是女闺蜜更危险",
+      "CHINESE_TRADITIONAL": "當然是女性朋友更危險啊！",
+      "JAPANESE": "当然 女友達です",
+      "INDONESIAN": "Menurut aku sih... temen cewek tuh lebih bahaya.",
+      "PORTUGUESE": "Claro que a amiga é mais perigosa.",
+      "SPANISH": "Por supuesto, la amiga es más peligrosa.",
+      "PERSIAN": "حتما دوست دختره"
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "TIME": {
+      "SHOW": 99.02,
+      "HIDE": 100.22
+    },
+    "SCRIPT": {
+      "KOREAN": "왜냐?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么？",
+      "CHINESE_TRADITIONAL": "為什麼呢？",
+      "JAPANESE": "なぜかと言うと",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "SPANISH": "¿Por qué?",
+      "PERSIAN": "چرا؟"
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "TIME": {
+      "SHOW": 100.22,
+      "HIDE": 103.13
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 전 여친이랑은 이미",
+      "ENGLISH": "Because with the ex, ",
+      "CHINESE_SIMPLIFIED": "因为和前女友的话",
+      "CHINESE_TRADITIONAL": "因為和前女友的話",
+      "JAPANESE": "もう元カノとは",
+      "INDONESIAN": "Soalnya sama mantan tuh biasanya udah...",
+      "PORTUGUESE": "Com a ex-namorada ele já…",
+      "SPANISH": "Con la ex novia ya…",
+      "PERSIAN": "زیرا با سابق،"
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "TIME": {
+      "SHOW": 103.13,
+      "HIDE": 106.08
+    },
+    "SCRIPT": {
+      "KOREAN": "전 여친이랑 이미 다",
+      "ENGLISH": "it’s all been done already.",
+      "CHINESE_SIMPLIFIED": "该发生的不是都已经发生过了吗？",
+      "CHINESE_TRADITIONAL": "該做什麼的",
+      "JAPANESE": "元カノとはすでに",
+      "INDONESIAN": "udah pernah ngelewatin semuanya lah.",
+      "PORTUGUESE": "Com a ex eles já fizeram de tudo,",
+      "SPANISH": "Con la ex novia ya hicieron de todo,",
+      "PERSIAN": "این همه قبلا انجام شده است"
+    }
+  },
+  {
+    "INDEX": 44.0,
+    "TIME": {
+      "SHOW": 106.08,
+      "HIDE": 106.22
+    },
+    "SCRIPT": {
+      "KOREAN": "지지고 볶고 다 했지 않았을까요?",
+      "ENGLISH": "They’ve argued, made up, broken up.",
+      "CHINESE_SIMPLIFIED": "不是早就什么都经历过了吗？",
+      "CHINESE_TRADITIONAL": "不是早就已經都發生過了嗎？",
+      "JAPANESE": "もう散々あれこれやった仲じゃないですか",
+      "INDONESIAN": "Udah ribut, udah drama, udah move on juga mungkin.",
+      "PORTUGUESE": "brigaram, terminaram, voltaram, aquela coisa toda, né?",
+      "SPANISH": "discutieron, rompieron, volvieron, todo eso, ¿no?",
+      "PERSIAN": "اونا دعوا کرده اند، سر و سامان داده اند، از هم جدا شده اند."
+    }
+  },
+  {
+    "INDEX": 45.0,
+    "TIME": {
+      "SHOW": 106.22,
+      "HIDE": 109.13
+    },
+    "SCRIPT": {
+      "KOREAN": "남자들의 이상형은 항상 새로운 여자",
+      "ENGLISH": "And let’s be real, guys are always into someone fresh,",
+      "CHINESE_SIMPLIFIED": "不是说男人的理想型永远是新的女人",
+      "CHINESE_TRADITIONAL": "男生的理想型通常都是",
+      "JAPANESE": "男の理想っていつも新しい女 、",
+      "INDONESIAN": "Tapi cowok tuh...selalu tertarik sama cewek yang baru.",
+      "PORTUGUESE": "Os homens sempre vão atrás de algo novo,",
+      "SPANISH": "Los hombres siempre van en busca de algo nuevo,",
+      "PERSIAN": "و بیایید واقعی باشیم، بچه ها همیشه به یک نفر تازه وارد هستند،"
+    }
+  },
+  {
+    "INDEX": 46.0,
+    "TIME": {
+      "SHOW": 109.13,
+      "HIDE": 112.05
+    },
+    "SCRIPT": {
+      "KOREAN": "예쁜 여자라고 했습니다",
+      "ENGLISH": "someone pretty.",
+      "CHINESE_SIMPLIFIED": "漂亮的女人吗？",
+      "CHINESE_TRADITIONAL": "新的女生、漂亮的女生",
+      "JAPANESE": "綺麗な女だと聞きました",
+      "INDONESIAN": "Cewek cantik.",
+      "PORTUGUESE": "uma mulher bonita.",
+      "SPANISH": "una mujer bonita.",
+      "PERSIAN": "کسی زیبا"
+    }
+  },
+  {
+    "INDEX": 47.0,
+    "TIME": {
+      "SHOW": 109.13,
+      "HIDE": 114.07
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇기 때문에 여사친이 더 위험하지 않을까",
+      "ENGLISH": "So yeah. That makes her way more dangerous.",
+      "CHINESE_SIMPLIFIED": "所以女闺蜜不是更危险吗",
+      "CHINESE_TRADITIONAL": "所以女性朋友更有風險不是嗎？",
+      "JAPANESE": "だから女友達の方が危険じゃないかな",
+      "INDONESIAN": "Makanya temen cewek tuh malah lebih bahaya menurutku.\n",
+      "PORTUGUESE": "Por isso acho que a amiga é mais perigosa.",
+      "SPANISH": "Por eso creo que la amiga es más peligrosa.",
+      "PERSIAN": "پس آره این راه اونو خطرناک تر می کند."
+    }
+  },
+  {
+    "INDEX": 48.0,
+    "TIME": {
+      "SHOW": 112.05,
+      "HIDE": 116.21
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 저는",
+      "ENGLISH": "I’m going with",
+      "CHINESE_SIMPLIFIED": "因此我选择",
+      "CHINESE_TRADITIONAL": "既然這樣，我選的是",
+      "JAPANESE": "なので私は",
+      "INDONESIAN": "Jadi aku pilih,",
+      "PORTUGUESE": "Então, é pior que",
+      "SPANISH": "Es peor que",
+      "PERSIAN": "من میرم با"
+    }
+  },
+  {
+    "INDEX": 49.0,
+    "TIME": {
+      "SHOW": 114.07,
+      "HIDE": 118.2
+    },
+    "SCRIPT": {
+      "KOREAN": "“남친이 여사친과 1박 2일”을 선택하도록 하겠습니다",
+      "ENGLISH": "‘My boyfriend spending a night with a female friend’ is the worst.",
+      "CHINESE_SIMPLIFIED": "男友和女闺蜜过夜旅行",
+      "CHINESE_TRADITIONAL": "”男友和女性朋友一起過兩天一夜“",
+      "JAPANESE": "“彼氏が女友達と1泊2日” を選びたいと思います",
+      "INDONESIAN": "“Pacar nginep bareng temen cewek\"",
+      "PORTUGUESE": "“meu namorado passe uma noite com a amiga”.",
+      "SPANISH": "\"mi novio pasa una noche con su amiga\".",
+      "PERSIAN": "\"دوست پسر من که یک شب را با یک دوست زن سپری می کند\" بدترین است."
+    }
+  }
+]

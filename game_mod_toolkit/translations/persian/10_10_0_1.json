@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그만둬요 규리 씨.",
+      "ENGLISH": "Stop it, Gyuri.",
+      "CHINESE_SIMPLIFIED": "那就辞职吧，久梨",
+      "CHINESE_TRADITIONAL": "不然就離職呢？",
+      "JAPANESE": "辞めましょう、ギュリさん",
+      "INDONESIAN": "Berhenti aja, Gyuri",
+      "PORTUGUESE": "Peça demissão, Gyuri.",
+      "SPANISH": "Renuncie, Gyuri.",
+      "PERSIAN": "بس کن، گیوری."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "세상에 직업이 이거 하나만 있는 것도 아니고,",
+      "ENGLISH": "There's more than just this one job in the world,",
+      "CHINESE_SIMPLIFIED": "世界上又不是只有这一个职业",
+      "CHINESE_TRADITIONAL": "世界上又不是只有一種職業",
+      "JAPANESE": "世の中、仕事はこれだけじゃないですし",
+      "INDONESIAN": "Di dunia ini kan bukan cuma ada pekerjaan itu aja",
+      "PORTUGUESE": "Não é como se esse fosse o único trabalho que existisse no mundo.",
+      "SPANISH": "No es como si este fuera el único trabajo que existiera en el mundo.",
+      "PERSIAN": "تو دنیا بیشتر از این یه شغل هست،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 힘들면서까지 계속할 이유는",
+      "ENGLISH": "and I don't think there's any reason",
+      "CHINESE_SIMPLIFIED": "我觉得没必要",
+      "CHINESE_TRADITIONAL": "如果真的很痛苦的話",
+      "JAPANESE": "そんなに辛い思いをしてまで続ける理由",
+      "INDONESIAN": "Kalau sampai harus terus capek kayak gitu",
+      "PORTUGUESE": "Se for pesado demais,",
+      "SPANISH": "Si es demasiado duro,",
+      "PERSIAN": "و فکر نمی‌کنم دلیلی وجود داشته باشد"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "없다고 생각해요.",
+      "ENGLISH": "to keep going when it's this hard.",
+      "CHINESE_SIMPLIFIED": "在如此痛苦的情况下硬撑",
+      "CHINESE_TRADITIONAL": "我覺得不需要一直硬撐",
+      "JAPANESE": "ないと思います",
+      "INDONESIAN": "Menurutku nggak ada alasan buat dipertahankan",
+      "PORTUGUESE": "não vejo razão pra continuar fazendo.",
+      "SPANISH": "no veo razón para seguir haciéndolo.",
+      "PERSIAN": "که وقتی اینقدر سخته، ادامه بدم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럴까요?",
+      "ENGLISH": "Is that right?",
+      "CHINESE_SIMPLIFIED": "是吗...",
+      "CHINESE_TRADITIONAL": "是嗎...",
+      "JAPANESE": "そうですか？",
+      "INDONESIAN": "Gitu ya",
+      "PORTUGUESE": "Você acha mesmo isso?",
+      "SPANISH": "¿Cree eso?",
+      "PERSIAN": "این درست است؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 규리 씨가 좋아하고,",
+      "ENGLISH": "I just wish you could do something you like,",
+      "CHINESE_SIMPLIFIED": "我希望你能去做自己喜欢的、能让你更幸福的工作",
+      "CHINESE_TRADITIONAL": "我希望你能做自己喜歡，讓自己感到幸福的工作",
+      "JAPANESE": "ギュリさんが好きで",
+      "INDONESIAN": "Aku cuma pengin kamu ngelakuin hal yang kamu suka",
+      "PORTUGUESE": "Sim, só faça algo que goste",
+      "SPANISH": "Sí, solo haga algo que le guste",
+      "PERSIAN": "کاش می‌توانستی کاری را که دوست داری انجام دهی،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "더 행복할 수 있는 그런 일을 하면 좋겠어요.",
+      "ENGLISH": "something that could make you happier.",
+      "CHINESE_SIMPLIFIED": "我会帮你的！",
+      "CHINESE_TRADITIONAL": "我會幫你的！",
+      "JAPANESE": "幸せを感じられる仕事が一番です",
+      "INDONESIAN": "Yang bisa bikin kamu lebih bahagia",
+      "PORTUGUESE": "e que te deixe mais feliz.",
+      "SPANISH": "y que la haga más feliz.",
+      "PERSIAN": "چیزی که می‌تونه شما را خوشحال‌تر کند."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 도와줄게요!",
+      "ENGLISH": "I'll help you!",
+      "CHINESE_SIMPLIFIED": "谢谢你！",
+      "CHINESE_TRADITIONAL": "謝謝你！",
+      "JAPANESE": "僕、応援します！",
+      "INDONESIAN": "Aku bakal bantu kamu",
+      "PORTUGUESE": "Eu vou te ajudar!",
+      "SPANISH": "¡Yo la ayudaré!",
+      "PERSIAN": "من کمکت می‌کنم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요! 다음에 제가 하고 싶은 일이 생기면 ",
+      "ENGLISH": "Thanks! Next time I find something I want to do,",
+      "CHINESE_SIMPLIFIED": "等我找到真正想做的事",
+      "CHINESE_TRADITIONAL": "等我找到真正想做的事情",
+      "JAPANESE": "ありがとう 今度、やりたいことが見つかったら",
+      "INDONESIAN": "Makasih ya! Kalau nanti aku nemu pekerjaan yang aku pengen",
+      "PORTUGUESE": "Obrigada. Quando eu encontrar algo que eu realmente queira fazer,",
+      "SPANISH": "Gracias. Cuando encuentre algo que realmente quiera hacer,",
+      "PERSIAN": "ممنون! دفعه‌ی بعد که کاری پیدا کردم که بخواهم انجام بدهم،"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨한테 제일 먼저 얘기해줄게요.",
+      "ENGLISH": "I'll tell you first, Yuman.",
+      "CHINESE_SIMPLIFIED": "我会第一个告诉你",
+      "CHINESE_TRADITIONAL": "我一定會第一個馬上跟你說",
+      "JAPANESE": "一番にユマンさんに話しますね",
+      "INDONESIAN": "Aku bakal kasih tahu kamu pertama kali",
+      "PORTUGUESE": "vai ser pra você que eu vou contar primeiro.",
+      "SPANISH": "será a usted a quien se lo diga primero.",
+      "PERSIAN": "اول بهت میگم، یومان."
+    }
+  }
+]

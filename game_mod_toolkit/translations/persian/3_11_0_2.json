@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이야씨! 나쁜 기지배",
+      "ENGLISH": "Are you freaking kidding me?! That little witch",
+      "CHINESE_SIMPLIFIED": "阿西！你这坏女人",
+      "CHINESE_TRADITIONAL": "可惡！你這壞女人！",
+      "JAPANESE": "このっ…！ 最低な女めっ！",
+      "INDONESIAN": "Seriusan nih?! Penyihir kecil itu—",
+      "PORTUGUESE": "Droga! Maldita mulher!",
+      "SPANISH": "¡Maldita sea! ¡Maldita tipa!",
+      "PERSIAN": "داری با من شوخی میکنی؟! اون جادوگر کوچولو"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "박민정!",
+      "ENGLISH": "Park Min-jung!",
+      "CHINESE_SIMPLIFIED": "朴敏静！",
+      "CHINESE_TRADITIONAL": "樸敏靜！",
+      "JAPANESE": "パク・ミンジョン！",
+      "INDONESIAN": "Park Min-jung!",
+      "PORTUGUESE": "Minjung Park!",
+      "SPANISH": "¡Minjung Park!",
+      "PERSIAN": "پارک مین‌جونگ!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저 사람들 진짜 막 던지는데 어떡하죠?",
+      "ENGLISH": "They’re actually throwing stuff! What do we do?!",
+      "CHINESE_SIMPLIFIED": "他们真的在乱扔东西，怎么办啊？",
+      "CHINESE_TRADITIONAL": "他們真的亂丟東西，我們怎麼辦…？",
+      "JAPANESE": "あの人たち、本当に投げてきてますよ!?",
+      "INDONESIAN": "Mereka beneran lempar-lempar segala! Terus kita gimana sekarang?!",
+      "PORTUGUESE": "Esse pessoal tá jogando coisas, o que a gente faz?",
+      "SPANISH": "Esa gente está lanzando cosas, ¿qué hacemos?",
+      "PERSIAN": "اونا در واقع چیزهایی را پرتاب می کنند! چیکار کنیم؟!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어떡하죠..?",
+      "ENGLISH": "What do we do...?",
+      "CHINESE_SIMPLIFIED": "怎么办...？",
+      "CHINESE_TRADITIONAL": "怎麼辦呢…？",
+      "JAPANESE": "どうすればいいですか…!?",
+      "INDONESIAN": "Gimana...?!",
+      "PORTUGUESE": "O que a gente faz…?",
+      "SPANISH": "¿Qué hacemos…?",
+      "PERSIAN": "چیکار کنیم...؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 안 되겠다",
+      "ENGLISH": "Ugh, this isn’t gonna work.",
+      "CHINESE_SIMPLIFIED": "哈，这样不行",
+      "CHINESE_TRADITIONAL": "哈，這樣不行！",
+      "JAPANESE": "はぁ… もうダメだ",
+      "INDONESIAN": "Ugh, ini nggak bakal berhasil.",
+      "PORTUGUESE": "Ah, não tem outro jeito.",
+      "SPANISH": "Ah, no hay otra opción.",
+      "PERSIAN": "اوه، این کار نمی کند."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "얼른 들어가요",
+      "ENGLISH": "Get inside, now!",
+      "CHINESE_SIMPLIFIED": "快进去",
+      "CHINESE_TRADITIONAL": "快點進去裡面！",
+      "JAPANESE": "早く中に入ってください！",
+      "INDONESIAN": "Masuk ke dalam, sekarang!",
+      "PORTUGUESE": "Vamos pra dentro, rápido.",
+      "SPANISH": "Vamos adentro, rápido.",
+      "PERSIAN": "حالا برو داخل"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 들어가..!!",
+      "ENGLISH": "What do you mean, get inside—?!",
+      "CHINESE_SIMPLIFIED": "进哪里...！！",
+      "CHINESE_TRADITIONAL": "進去哪裡……！！",
+      "JAPANESE": "どこに入るんですかっ…！",
+      "INDONESIAN": "Maksudmu masuk—?!",
+      "PORTUGUESE": "Pra onde você acha que vai entrar…!!",
+      "SPANISH": "¿A dónde quieres entrar…!!",
+      "PERSIAN": "منظورت چیه برو داخل؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "들어간다..!",
+      "ENGLISH": "I’m going in!",
+      "CHINESE_SIMPLIFIED": "敢进去！",
+      "CHINESE_TRADITIONAL": "先進去…！",
+      "JAPANESE": "入りますよ…！",
+      "INDONESIAN": "Aku masuk duluan!",
+      "PORTUGUESE": "Eu vou entrar…!",
+      "SPANISH": "Voy a entrar…!",
+      "PERSIAN": "من میرم داخل!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "야!!",
+      "ENGLISH": "Hey!!",
+      "CHINESE_SIMPLIFIED": "喂！！",
+      "CHINESE_TRADITIONAL": "喂！！",
+      "JAPANESE": "おいっ！！",
+      "INDONESIAN": "Hey!!",
+      "PORTUGUESE": "Ei!!",
+      "SPANISH": "¡Oye!!",
+      "PERSIAN": "سلام!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어딜 들어가..!",
+      "ENGLISH": "Where do you think you’re going?!",
+      "CHINESE_SIMPLIFIED": "往哪进...！",
+      "CHINESE_TRADITIONAL": "你要進哪裡去…！！",
+      "JAPANESE": "どこに入るっ！！",
+      "INDONESIAN": "Mau ke mana kamu, hah?!",
+      "PORTUGUESE": "Pra onde você pensa que tá indo…!",
+      "SPANISH": "¡A dónde crees que vas…!",
+      "PERSIAN": "فکر میکنی کجا داری میری؟!"
+    }
+  }
+]

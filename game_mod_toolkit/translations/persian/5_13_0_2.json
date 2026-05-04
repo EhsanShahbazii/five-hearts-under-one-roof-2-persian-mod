@@ -1,0 +1,108 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "와아... 왼쪽이면 이쪽 근처에 화장실이 있었던 것 같은데.",
+      "ENGLISH": "Wooow… if we went left, then I think the bathroom should be around here somewhere…",
+      "CHINESE_SIMPLIFIED": "哇啊...往左走的话，这附近好像是有洗手间的",
+      "CHINESE_TRADITIONAL": "哇啊…如果在左邊的話，附近應該有廁所才對",
+      "JAPANESE": "わぁ…左なら、この辺にトイレあった気がするんだけど",
+      "INDONESIAN": "Woooow… kalau kita belok kiri tadi, kayaknya kamar mandinya ada di sekitar sini deh…",
+      "PORTUGUESE": "Uau... Se a gente foi pra direita, o banheiro deve estar por aqui perto.",
+      "SPANISH": "Guau... Si fuimos a la derecha, el baño debería estar por aquí cerca.",
+      "PERSIAN": "وای...اگه به سمت چپ رفتیم، پس فکر می کنم حمام باید اینجا جایی باشه..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어?! 저기 화장실이에요!",
+      "ENGLISH": "Oh?! That’s it! That’s the bathroom!",
+      "CHINESE_SIMPLIFIED": "呃？！那边就是洗手间！",
+      "CHINESE_TRADITIONAL": "欸？！那邊就是廁所！",
+      "JAPANESE": "あっ！？あそこトイレじゃないですか！",
+      "INDONESIAN": "Oh?! Itu dia! Itu kamar mandinya!",
+      "PORTUGUESE": "Oh? Ali tá o banheiro.",
+      "SPANISH": "¿Oh? Ahí está el baño.",
+      "PERSIAN": "اوه؟! همین! این حمام است!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 그러네요.",
+      "ENGLISH": "Huh? You’re right!",
+      "CHINESE_SIMPLIFIED": "呃？还真是",
+      "CHINESE_TRADITIONAL": "咦？真的耶",
+      "JAPANESE": "え？ほんとだ",
+      "INDONESIAN": "Hah? Iya ya, bener juga!",
+      "PORTUGUESE": "Oh? É mesmo.",
+      "SPANISH": "¿Oh? Es verdad.",
+      "PERSIAN": "ها؟ حق با شماست!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저 그럼... 다녀오겠습니다!",
+      "ENGLISH": "Alright then… I’ll be right back!",
+      "CHINESE_SIMPLIFIED": "那我...去去就回哦！",
+      "CHINESE_TRADITIONAL": "那我…去一下喔！",
+      "JAPANESE": "じゃあ…行ってきます！",
+      "INDONESIAN": "Oke deh… aku balik lagi sebentar ya!",
+      "PORTUGUESE": "Então... já volto!",
+      "SPANISH": "Entonces.... ¡voy y vuelvo!",
+      "PERSIAN": "خوب پس... من بلافاصله برمی گردم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "(박수)",
+      "ENGLISH": "(Claps)",
+      "CHINESE_SIMPLIFIED": "（鼓掌）",
+      "CHINESE_TRADITIONAL": "（鼓掌）",
+      "JAPANESE": "（パチパチ）",
+      "INDONESIAN": "(Tepuk tangan)",
+      "PORTUGUESE": "(palmas)",
+      "SPANISH": "(Aplausos)",
+      "PERSIAN": "(کف زدن)"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "으... 살았다...",
+      "CHINESE_SIMPLIFIED": "呜...得救了...",
+      "CHINESE_TRADITIONAL": "嗚…終於得救了…",
+      "JAPANESE": "はぁ…助かった…",
+      "PORTUGUESE": "Ah... finalmente...",
+      "SPANISH": "Ah.... por fin...",
+      "PERSIAN": "اوه ... من زندگی کردم ..."
+    }
+  }
+]

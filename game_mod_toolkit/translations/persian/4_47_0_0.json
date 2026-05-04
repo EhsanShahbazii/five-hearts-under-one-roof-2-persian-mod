@@ -1,0 +1,225 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 기절했나...",
+      "ENGLISH": "Ah… did I pass out…?",
+      "CHINESE_SIMPLIFIED": "啊，我刚是昏过去了吗...",
+      "CHINESE_TRADITIONAL": "啊，我剛才是昏倒了嗎...",
+      "JAPANESE": "あ、気絶したか…",
+      "INDONESIAN": "Ah… aku pingsan ya…?",
+      "PORTUGUESE": "Ah... eu desmaiei?",
+      "SPANISH": "Ah... ¿me desmayé?",
+      "PERSIAN": "آه... از حال رفتم...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "여기가 어디지?",
+      "ENGLISH": "Where is this?",
+      "CHINESE_SIMPLIFIED": "这里是哪儿？",
+      "CHINESE_TRADITIONAL": "這裡是哪裡？",
+      "JAPANESE": "ここ、どこだ？",
+      "INDONESIAN": "Ini di mana…?",
+      "PORTUGUESE": "Onde estamos...?",
+      "SPANISH": "¿Dónde estamos...?",
+      "PERSIAN": "اینجا کجاست؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": " 깼어요?",
+      "ENGLISH": "You’re awake?",
+      "CHINESE_SIMPLIFIED": "醒了吗？",
+      "CHINESE_TRADITIONAL": "你醒了？",
+      "JAPANESE": "目が覚めました？",
+      "INDONESIAN": "Kamu udah sadar?",
+      "PORTUGUESE": "Acordou?",
+      "SPANISH": "¿Despertaste?",
+      "PERSIAN": "شما بیدار هستید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.61,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유나 씨?",
+      "ENGLISH": "Huh? Yuni?",
+      "CHINESE_SIMPLIFIED": "呃？有娜？",
+      "CHINESE_TRADITIONAL": "喂？有娜？",
+      "JAPANESE": "え？ユナさん？",
+      "INDONESIAN": "Hah? Yuni?",
+      "PORTUGUESE": "Hã? Yuna?",
+      "SPANISH": "¿Eh? ¿Yuna?",
+      "PERSIAN": "ها؟ یونی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 그놈들은요?",
+      "ENGLISH": "What about those guys from before?",
+      "CHINESE_SIMPLIFIED": "刚才那几个家伙呢？",
+      "CHINESE_TRADITIONAL": "剛才那些傢伙呢？",
+      "JAPANESE": "さっきの奴らは？",
+      "INDONESIAN": "Terus… orang-orang tadi gimana?",
+      "PORTUGUESE": "E aqueles caras de antes?",
+      "SPANISH": "¿Y los tipos de antes?",
+      "PERSIAN": "در مورد اون بچه های قبلی چطور؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "걔네들도 여기까지 못 올 거예요.",
+      "ENGLISH": "They won’t be able to follow us here.",
+      "CHINESE_SIMPLIFIED": "他们到不了这里的",
+      "CHINESE_TRADITIONAL": "他們到不了這裡的",
+      "JAPANESE": "あの人たちは、もうここまでは来られないです",
+      "INDONESIAN": "Mereka nggak bakal bisa nyusul kita ke sini.",
+      "PORTUGUESE": "Eles não vão conseguir nos seguir até aqui.",
+      "SPANISH": "No podrán seguirnos hasta aquí.",
+      "PERSIAN": "اونا نمی توانند ما را در اینجا دنبال کنند."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 다행이다.",
+      "ENGLISH": "Ah… thank god.",
+      "CHINESE_SIMPLIFIED": "啊...太好了",
+      "CHINESE_TRADITIONAL": "啊... 太好了",
+      "JAPANESE": "ああ…よかった…",
+      "INDONESIAN": "Ah… syukurlah.",
+      "PORTUGUESE": "Ah... que alívio.",
+      "SPANISH": "Ah... qué alivio.",
+      "PERSIAN": "آه ... خدا را شکر"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "정말... 다행일까요?",
+      "ENGLISH": "…Are you sure that’s a good thing?",
+      "CHINESE_SIMPLIFIED": "真的...是好事吗？",
+      "CHINESE_TRADITIONAL": "真的... 是好事嗎？",
+      "JAPANESE": "本当に…よかったのかな？",
+      "INDONESIAN": "…Kamu yakin itu hal yang bagus?",
+      "PORTUGUESE": "Será mesmo... um alívio?",
+      "SPANISH": "¿De verdad... es un alivio?",
+      "PERSIAN": "... مطمئنی که این چیز خوبی است؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 22.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그동안 수고 많았어요 ",
+      "ENGLISH": "You’ve worked hard enough.",
+      "CHINESE_SIMPLIFIED": "这段时间辛苦你了",
+      "CHINESE_TRADITIONAL": "妳這段時間辛苦了",
+      "JAPANESE": "今までお疲れさま",
+      "INDONESIAN": "Kamu udah berjuang cukup lama.",
+      "PORTUGUESE": "Você se esforçou muito esse tempo todo.",
+      "SPANISH": "Te esforzaste mucho todo este tiempo.",
+      "PERSIAN": "شما به اندازه کافی سخت کار کرده اید."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 푹 쉬어요.",
+      "ENGLISH": "Now you can rest.",
+      "CHINESE_SIMPLIFIED": "现在好好休息吧",
+      "CHINESE_TRADITIONAL": "現在好好休息吧",
+      "JAPANESE": "もうゆっくり休んで",
+      "INDONESIAN": "Sekarang kamu bisa istirahat.",
+      "PORTUGUESE": "Agora... descanse.",
+      "SPANISH": "Ahora descansa.",
+      "PERSIAN": "حالا میتونی استراحت کنی"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 35.4
+    },
+    "SCRIPT": {
+      "KOREAN": "영원히.",
+      "ENGLISH": "Forever.",
+      "CHINESE_SIMPLIFIED": "永远地",
+      "CHINESE_TRADITIONAL": "永遠地",
+      "JAPANESE": "永遠に",
+      "INDONESIAN": "Untuk selamanya.",
+      "PORTUGUESE": "Pra sempre.",
+      "SPANISH": "Para siempre.",
+      "PERSIAN": "برای همیشه."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 36.1
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 쓰레기 뭐야",
+      "ENGLISH": "Ugh, what’s with this trash.",
+      "CHINESE_SIMPLIFIED": "哎，这地上的垃圾是怎么回事",
+      "CHINESE_TRADITIONAL": "唉，這地上的垃圾是怎麼回事",
+      "JAPANESE": "うわ、このゴミなんだ",
+      "INDONESIAN": "Ugh, ini sampah apaan sih.",
+      "PORTUGUESE": "Ai, que lixo é esse?",
+      "SPANISH": "Ay, ¿qué es esta basura?",
+      "PERSIAN": "اوه، این سطل زباله چه خبره."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 치우고 가야 되나?",
+      "ENGLISH": "Should I… clean it up first?",
+      "CHINESE_SIMPLIFIED": "要不要清理一下？",
+      "CHINESE_TRADITIONAL": "要不要清理一下？",
+      "JAPANESE": "片付けてから行ったほうがいいか？",
+      "INDONESIAN": "Harusnya… aku beresin dulu nggak, ya?",
+      "PORTUGUESE": "Será que eu devia juntar antes de continuar?",
+      "SPANISH": "¿Debería recogerla antes de seguir?",
+      "PERSIAN": "باید... ابتدا اونو تمیز کنم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 어떡하지. 시간 없는데…",
+      "ENGLISH": "Ah, what do I do — I don’t have time…",
+      "CHINESE_SIMPLIFIED": "可时间不够了...怎么办...",
+      "CHINESE_TRADITIONAL": "但...時間不夠了...怎麼辦啊",
+      "JAPANESE": "でも時間が…どうしよう…",
+      "INDONESIAN": "Aduh, gimana dong — waktuku nggak cukup…",
+      "PORTUGUESE": "Ah, o que eu faço? Não tenho tempo…",
+      "SPANISH": "Ah, ¿qué hago? No tengo tiempo…",
+      "PERSIAN": "آه، چه کار کنم - وقت ندارم…"
+    }
+  }
+]

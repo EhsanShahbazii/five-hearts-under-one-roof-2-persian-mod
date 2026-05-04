@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 근데 너무 나가라고 등 떠미시는 거 아니에요?",
+      "ENGLISH": "Whoa—okay, aren’t you kinda pushing me out the door here?",
+      "CHINESE_SIMPLIFIED": "不是，但您这样直接赶我走也太无情了吧？",
+      "CHINESE_TRADITIONAL": "不過你這樣趕我走，會不會太過份了？",
+      "JAPANESE": "いや、でも先生、そんなに強引に追い出そうとしなくてもいいじゃないですか？",
+      "INDONESIAN": "Whoa—oke, kamu kayaknya maksa aku pulang banget, ya?",
+      "PORTUGUESE": "Ei, não acha que tá me mandando embora rápido demais?",
+      "SPANISH": "Oiga, ¿no cree que me está echando demasiado rápido?",
+      "PERSIAN": "اوه-باشه، به نوعی مرا از در بیرون هل نمی‌دهی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What...?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "蛤？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa...?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی...؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히 제가 못 올 곳 왔습니까?",
+      "ENGLISH": "I mean, seriously—did I come somewhere I wasn’t supposed to?",
+      "CHINESE_SIMPLIFIED": "我来这里，难道有什么不妥吗？",
+      "CHINESE_TRADITIONAL": "說真的，難道我是來錯地方了嗎？",
+      "JAPANESE": "正直、俺、来ちゃいけない場所に来たわけじゃないですよね？",
+      "INDONESIAN": "Maksudku, serius deh—aku salah datang ke tempat yang nggak seharusnya, gitu?",
+      "PORTUGUESE": "Por acaso eu vim pra um lugar onde não devia estar?",
+      "SPANISH": "¿Acaso vine a un lugar donde no debería estar?",
+      "PERSIAN": "منظورم این است که جدی-من جایی آمده ام که قرار نبود؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 지금 뭐 하세요?",
+      "ENGLISH": "What do you think you’re doing right now?",
+      "CHINESE_SIMPLIFIED": "哈，您现在这是在干嘛？",
+      "CHINESE_TRADITIONAL": "哈，你現在在做什麼？",
+      "JAPANESE": "今、何してるんですか？",
+      "INDONESIAN": "Kamu sadar nggak sih kamu lagi ngapain sekarang?",
+      "PORTUGUESE": "Ha... e agora o que você tá fazendo?",
+      "SPANISH": "Ha... ¿y ahora qué está haciendo?",
+      "PERSIAN": "فکر می کنید در حال حاضر چه کار می کنید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 사람이 다쳐서 잠깐 들린 거라고 했잖아요~",
+      "ENGLISH": "I told you—we just stopped by because someone got hurt!",
+      "CHINESE_SIMPLIFIED": "不是说了是因为有人受伤才顺路过来看看嘛~",
+      "CHINESE_TRADITIONAL": "我不是說了嘛，我只是順路來看看受傷的人而已——",
+      "JAPANESE": "いや、人が怪我をしてちょっと立ち寄っただけって言ったじゃないですか〜！",
+      "INDONESIAN": "Aku udah bilang—kita cuma mampir karena ada yang cedera!",
+      "PORTUGUESE": "Só disse que passei um momento porque alguém se machucou~",
+      "SPANISH": "Solo dije que vine un momento porque alguien se lastimó~",
+      "PERSIAN": "من به شما گفتم - ما فقط به خاطر همین که یک نفر صدمه دیده بود ایستادیم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨...!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万先生...！",
+      "CHINESE_TRADITIONAL": "宥萬先生…！",
+      "JAPANESE": "ユマンさん……！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yumán...",
+      "SPANISH": "Yumán...",
+      "PERSIAN": "یومان!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 답답해서 그래요 답답해서!",
+      "ENGLISH": "No, I’m just frustrated, that’s all!",
+      "CHINESE_SIMPLIFIED": "不是，我这是着急！看着都憋屈！",
+      "CHINESE_TRADITIONAL": "不是啦，我是太委屈了啦！太委屈了才這樣！",
+      "JAPANESE": "いや、もどかしくて言ってるんです！",
+      "INDONESIAN": "Nggak, aku cuma kesal aja, itu doang!",
+      "PORTUGUESE": "É que você me deixa desesperado, de verdade!",
+      "SPANISH": "¡Es que me desespera, de verdad!",
+      "PERSIAN": "نه، من فقط ناامید هستم، همین!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저는요 선생님이 다쳤어도 똑같이 했을 거예요.",
+      "ENGLISH": "If you had gotten hurt, I would’ve done the exact same thing.",
+      "CHINESE_SIMPLIFIED": "换作是医生你受伤，我也会这么做的",
+      "CHINESE_TRADITIONAL": "如果是醫生你受傷，我也會做一樣的事啦",
+      "JAPANESE": "俺なら、先生が怪我してても同じようにしたと思いますよ",
+      "INDONESIAN": "Kalau kamu yang cedera, aku juga bakal lakuin hal yang sama.",
+      "PORTUGUESE": "Se fosse você quem tivesse se machucado, eu teria feito exatamente a mesma coisa.",
+      "SPANISH": "Si hubiera sido usted quien se lastimó, yo habría hecho exactamente lo mismo.",
+      "PERSIAN": "اگر صدمه دیده بودی، من دقیقا همین کار را می کردم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래요, 조심히 들어가세요 그럼",
+      "ENGLISH": "Fine. Then get home safe.",
+      "CHINESE_SIMPLIFIED": "好吧，那您路上小心注意安全",
+      "CHINESE_TRADITIONAL": "是嗎…那就注意安全回家吧",
+      "JAPANESE": "……そうですか　じゃあ、お気をつけてお帰りください",
+      "INDONESIAN": "Ya udah. Pulang hati-hati, ya.",
+      "PORTUGUESE": "Tá bom, então vai com cuidado.",
+      "SPANISH": "Muy bien, entonces váyase con cuidado.",
+      "PERSIAN": "خوب سپس سالم به خونه برگرد."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 31.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아!",
+      "ENGLISH": "Ah—",
+      "CHINESE_SIMPLIFIED": "啊！",
+      "CHINESE_TRADITIONAL": "啊！",
+      "JAPANESE": "あっ！",
+      "INDONESIAN": "Ah—",
+      "PORTUGUESE": "Ah!",
+      "SPANISH": "¡Ah!",
+      "PERSIAN": "آه -"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 33.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어...! 쌤! 괜찮아요?",
+      "ENGLISH": "Wait...! Nurse Gyu-ri, are you okay?!",
+      "CHINESE_SIMPLIFIED": "呃...！医生！您没事吧？",
+      "CHINESE_TRADITIONAL": "咦... 久梨護理師！ 你沒事吧？",
+      "JAPANESE": "あ……！先生！大丈夫ですか!?",
+      "INDONESIAN": "Tunggu...! Suster Gyu-ri, kamu nggak apa-apa?!",
+      "PORTUGUESE": "Oh...! Gyuri! Tá tudo bem?",
+      "SPANISH": "¡Oh...! ¡Gyuri! ¿Está bien?",
+      "PERSIAN": "صبر کن...! پرستار گیوری، حالت خوبه؟!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 33.9,
+      "HIDE": 37.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 어!! 어떡해, 피 나는 거 아니에요?",
+      "ENGLISH": "Oh no—you're bleeding, aren't you?!",
+      "CHINESE_SIMPLIFIED": "啊！天啊！怎么办，不会流血了吧？",
+      "CHINESE_TRADITIONAL": "咦！咦！！ 怎麼辦，你沒有流血吧？",
+      "JAPANESE": "え!? どうしよう、血が出てません!?",
+      "INDONESIAN": "Aduh, kamu berdarah, ya?!",
+      "PORTUGUESE": "Ah! Ah!! Não tá sangrando?",
+      "SPANISH": "¡Ah! ¡Ah!! ¿No está sangrando?",
+      "PERSIAN": "اوه نه - داری خونریزی می کنی، نه؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 38.5,
+      "HIDE": 42.5
+    },
+    "SCRIPT": {
+      "KOREAN": "씁… 어휴… 둘 다 정말 피곤하네.",
+      "ENGLISH": "Tsk... sigh... you two are seriously exhausting.",
+      "CHINESE_SIMPLIFIED": "唉...真是...你们两位都挺够呛的啊",
+      "CHINESE_TRADITIONAL": "嘶…唉…你們兩個都真的好累啊",
+      "JAPANESE": "っ……はぁ……二人とも、ほんとに疲れる",
+      "INDONESIAN": "Tsk... hela napas... kalian berdua bener-bener nguras tenaga deh.",
+      "PORTUGUESE": "Tsc... ai... sério, vocês dois ainda vão me deixar maluca.",
+      "SPANISH": "Tch... ay... de verdad, los dos me van a volver loca.",
+      "PERSIAN": "تسک... آه... شما دوتا جدی خسته شدید."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 44.1,
+      "HIDE": 44.8
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아...",
+      "ENGLISH": "I’m fine...",
+      "CHINESE_SIMPLIFIED": "没事...",
+      "CHINESE_TRADITIONAL": "沒關係…",
+      "JAPANESE": "大丈夫……",
+      "INDONESIAN": "Aku nggak papa...",
+      "PORTUGUESE": "Tô bem...",
+      "SPANISH": "Estoy bien...",
+      "PERSIAN": "من خوبم..."
+    }
+  }
+]

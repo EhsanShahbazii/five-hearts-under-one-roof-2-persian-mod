@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 땀 냄새...",
+      "ENGLISH": "Ugh, the sweat smell…",
+      "CHINESE_SIMPLIFIED": "啊，好重的汗味...",
+      "CHINESE_TRADITIONAL": "啊...好濃的汗味...",
+      "JAPANESE": "うわ 汗のにおい…",
+      "INDONESIAN": "Aduh bau keringetnya…",
+      "PORTUGUESE": "Ugh, tá cheirando a suor...",
+      "SPANISH": "Ugh, huele a sudor...",
+      "PERSIAN": "اوه، بوی عرق…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "땀 냄새가 좀 심하긴 하다. 그치.",
+      "ENGLISH": "Yeah, it’s kinda strong.",
+      "CHINESE_SIMPLIFIED": "确实，汗味有点浓",
+      "CHINESE_TRADITIONAL": "汗味確實有點嚴重...",
+      "JAPANESE": "ちょっとキツいな だろ？",
+      "INDONESIAN": "Iya, nyengat banget sih.",
+      "PORTUGUESE": "O cheiro tá bem forte dessa vez.",
+      "SPANISH": "Está fuerte el olor esta vez.",
+      "PERSIAN": "آره، یه جورایی قویه"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "넌 땀 흘리지 마, 알았지?",
+      "ENGLISH": "You don’t sweat, got it?",
+      "CHINESE_SIMPLIFIED": "你别出汗啊，知道不？",
+      "CHINESE_TRADITIONAL": "你可別流汗喔，知道嗎？",
+      "JAPANESE": "お前は汗かくなよ わかった？",
+      "INDONESIAN": "Kamu jangan sampe keringetan, ya?",
+      "PORTUGUESE": "Você não vai suar, né?",
+      "SPANISH": "Tú no vayas a sudar ¿ok?",
+      "PERSIAN": "عرق نمی کنی، فهمیدی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 내 맘대로 되냐...",
+      "ENGLISH": "Like I can control that…",
+      "CHINESE_SIMPLIFIED": "这我能控制得了吗...",
+      "CHINESE_TRADITIONAL": "這哪是我可以控制的啊...",
+      "JAPANESE": "そんなの自分でコントロールできないって…",
+      "INDONESIAN": "Emangnya bisa dikontrol…",
+      "PORTUGUESE": "Eu não controlo isso...",
+      "SPANISH": "Yo no controlo eso...",
+      "PERSIAN": "مثل اینکه میتونم کنترلش کنم…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 아저씨 운전 좀 살살해요!",
+      "ENGLISH": "Ah, mister, could you please drive a little smoother?!",
+      "CHINESE_SIMPLIFIED": "哎，大叔，您开车慢点啊！",
+      "CHINESE_TRADITIONAL": "啊，大叔，車可以開慢一點嗎！",
+      "JAPANESE": "あっ 運転手さん もうちょっとゆっくり運転してください！",
+      "INDONESIAN": "Pak bisa nyetirnya agak lebih halus nggak sih?!",
+      "PORTUGUESE": "O senhor não pode dirigir melhor, não?!",
+      "SPANISH": "¡¿No puede conducir mejor?!",
+      "PERSIAN": "آه، آقا، لطفاً می توانید کمی نرم تر رانندگی کنید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아?",
+      "ENGLISH": "You okay?",
+      "CHINESE_SIMPLIFIED": "你没事吧？",
+      "CHINESE_TRADITIONAL": "還好嗎？",
+      "JAPANESE": "大丈夫？",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Você tá bem?",
+      "SPANISH": "¿Estás bien?",
+      "PERSIAN": "شما خوبی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "응...",
+      "ENGLISH": "Yeah…",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "Iya…",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "آره…"
+    }
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "눈뜨고 병원 처음 돌아다니는 거겠어요?",
+      "ENGLISH": "This your first time walking around the hospital since you woke up?",
+      "CHINESE_SIMPLIFIED": "这是你睁眼后第一次在医院里走动吧？",
+      "CHINESE_TRADITIONAL": "這是宥萬先生醒來之後，第一次在醫院走動吧？",
+      "JAPANESE": "目を覚ましてから病院を歩き回るのは初めてですよね？",
+      "INDONESIAN": "Pertama kali keliling rumah sakit setelah sadar, ya?",
+      "PORTUGUESE": "Você vai mesmo atender todos os meus pedidos?",
+      "SPANISH": "¿Es la primera vez que caminas por el hospital desde que despertaste?",
+      "PERSIAN": "از وقتی به هوش اومدی اولین باره داری توی بیمارستان قدم می‌زنی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네 맞아요.",
+      "ENGLISH": "Yeah, that’s right.",
+      "CHINESE_SIMPLIFIED": "嗯，对的",
+      "CHINESE_TRADITIONAL": "對啊",
+      "JAPANESE": "はい、そうです",
+      "INDONESIAN": "Iya, bener.",
+      "PORTUGUESE": "Claro que sim!",
+      "SPANISH": "Así es.",
+      "PERSIAN": "آره، دقیقاً."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 유만 씨.",
+      "ENGLISH": "Oh, hey, Yuman.",
+      "CHINESE_SIMPLIFIED": "啊，宥万先生",
+      "CHINESE_TRADITIONAL": "啊，宥萬先生",
+      "JAPANESE": "あ、ユマンさん",
+      "INDONESIAN": "Ah, Yuman!",
+      "PORTUGUESE": "Então... eu estou apertado para ir ao banheiro desde antes,",
+      "SPANISH": "Oye, Yuman.",
+      "PERSIAN": "راستی یومان..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": " 테이블 위에 있는 전단지...그거 뭐예요?",
+      "ENGLISH": "That flyer on the table… what’s that?",
+      "CHINESE_SIMPLIFIED": "桌子上的那张传单…是什么啊？",
+      "CHINESE_TRADITIONAL": "桌上那張傳單…是什麼呢？",
+      "JAPANESE": "テーブルの上にあるチラシ…あれは何ですか？",
+      "INDONESIAN": "Itu selebaran yang di atas meja... apa ya?",
+      "PORTUGUESE": "pode me acompanhar?",
+      "SPANISH": "Ese folleto en la mesa... ¿qué es?",
+      "PERSIAN": "اون تراکت روی میز... قضیه‌ش چیه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 제가 운영하는 하숙집 전단지예요.",
+      "ENGLISH": "Oh— it’s for the boarding house I run.",
+      "CHINESE_SIMPLIFIED": "啊～那是我经营的合租公寓的传单",
+      "CHINESE_TRADITIONAL": "啊～那是我經營的合宿公寓傳單",
+      "JAPANESE": "ああ〜、俺が経営している下宿のチラシです",
+      "INDONESIAN": "Oh~ itu brosur rumah kos yang aku kelola.",
+      "PORTUGUESE": "Está me pedindo para ir junto ao banheiro masculino agora?",
+      "SPANISH": "Ah~ es un volante de mi pensión.",
+      "PERSIAN": "آها، اون برای پانسیونیه که خودم می‌گردونمش."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "음~",
+      "ENGLISH": "Hmm…",
+      "CHINESE_SIMPLIFIED": "哦～",
+      "CHINESE_TRADITIONAL": "喔～",
+      "JAPANESE": "ふむ〜",
+      "INDONESIAN": "Hmm~",
+      "PORTUGUESE": "Que falta de jeito.",
+      "SPANISH": "Ya veo...",
+      "PERSIAN": "هممم..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그거 돌리다가 사고났대요.",
+      "ENGLISH": "But didn’t you get into the accident while handing those out?",
+      "CHINESE_SIMPLIFIED": "结果就是在发传单的时候出了事故...",
+      "CHINESE_TRADITIONAL": "不過我聽說，你是因為發那個才出了意外",
+      "JAPANESE": "でも、それを配っていて事故にあったそうですね",
+      "INDONESIAN": "Tapi katanya kamu kecelakaan pas lagi bagi-bagi itu, ya.",
+      "PORTUGUESE": "Vamos lá! Bora, banheiro.",
+      "SPANISH": "Me dijeron que tuvo el accidente mientras los repartía.",
+      "PERSIAN": "ولی مگه سر پخش کردن همون تراکت‌ها نبوده که تصادف کردی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 음~",
+      "ENGLISH": "Yeah… pretty much.",
+      "CHINESE_SIMPLIFIED": "啊~嗯...",
+      "CHINESE_TRADITIONAL": "啊～嗯～",
+      "JAPANESE": "ああ〜、う〜ん",
+      "INDONESIAN": "Ah~ Iya, begitu deh~",
+      "PORTUGUESE": "Coloquem logo o Woo Yuman na cadeira de rodas.",
+      "SPANISH": "Ajá...",
+      "PERSIAN": "آره خب... دقیقاً همون شد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어 여기서는 제가 알아서 들어갈게요",
+      "ENGLISH": "I’ll head in from here.",
+      "CHINESE_SIMPLIFIED": "这边我就自己进去就好",
+      "CHINESE_TRADITIONAL": "額，從這裡開始我自己進去就行了",
+      "JAPANESE": "あ、ここからは私ひとりで入りますね",
+      "INDONESIAN": "Oh, aku masuk sendiri aja dari sini ya.",
+      "PORTUGUESE": "Vai ser a primeira vez que ele anda pelo hospital de olhos abertos!",
+      "SPANISH": "Desde aquí puedo ir solo.",
+      "PERSIAN": "از اینجا به بعدشو دیگه خودم میرم تو."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 그러는 게 좋겠죠?",
+      "ENGLISH": "Yeah, that’s probably best.",
+      "CHINESE_SIMPLIFIED": "也是，一个人去比较好",
+      "CHINESE_TRADITIONAL": "畢竟這樣比較好吧？",
+      "JAPANESE": "その方がよさそうですね",
+      "INDONESIAN": "Kayaknya emang lebih baik gitu, kan?",
+      "PORTUGUESE": "Sim, é verdade.",
+      "SPANISH": "Creo que es mejor así.",
+      "PERSIAN": "آره، اینجوری فکر کنم خیلی بهتر باشه."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "가서 확인해.",
+      "ENGLISH": "Go check it out.",
+      "CHINESE_SIMPLIFIED": "去确认一下",
+      "CHINESE_TRADITIONAL": "我去確認一下",
+      "JAPANESE": "行って確かめて",
+      "INDONESIAN": "Pergi dan cek sendiri aja.",
+      "PORTUGUESE": "Sr. Yuman, mas você faz bico?",
+      "SPANISH": "Ve a revisar.",
+      "PERSIAN": "برو تو چک کن ببین چه خبره."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 27.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 아가씨.",
+      "ENGLISH": "Yes, miss.",
+      "CHINESE_SIMPLIFIED": "好的，小姐",
+      "CHINESE_TRADITIONAL": "好的，小姐",
+      "JAPANESE": "はい、お嬢",
+      "INDONESIAN": "Baik.",
+      "PORTUGUESE": "Vi uns panfletos em cima da mesa...",
+      "SPANISH": "Sí, señorita.",
+      "PERSIAN": "چشم خانوم کوچولو."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 31.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 형!",
+      "ENGLISH": "Huh? Bro!",
+      "CHINESE_SIMPLIFIED": "咦？哥！",
+      "CHINESE_TRADITIONAL": "咦？哥！",
+      "JAPANESE": "あっ？兄貴！",
+      "INDONESIAN": "Eh? Kakak!",
+      "PORTUGUESE": "Não é bico, eu administro uma pensão. Aquilo era o panfleto.",
+      "SPANISH": "¿Eh? ¡Salchicha!",
+      "PERSIAN": "عه؟ داداش!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 33.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어 우유만이.",
+      "ENGLISH": "Oh, Yuman.",
+      "CHINESE_SIMPLIFIED": "哎~吴宥万",
+      "CHINESE_TRADITIONAL": "喔，是吳宥萬",
+      "JAPANESE": "おお、ウ・ユマン。",
+      "INDONESIAN": "Oh, Yuman!",
+      "PORTUGUESE": "Mas com o acidente, mal tive tempo de distribuir e acabou.",
+      "SPANISH": "Oh, eres tú Yuman.",
+      "PERSIAN": "به، یومان خودمون."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "비켜주시죠",
+      "ENGLISH": "Move.",
+      "CHINESE_SIMPLIFIED": "请你让一让",
+      "CHINESE_TRADITIONAL": "請你讓開一下",
+      "JAPANESE": "少しどいてください",
+      "INDONESIAN": "Minggir dulu, dong.",
+      "PORTUGUESE": "Ah, entendi...",
+      "SPANISH": "Hágase a un lado.",
+      "PERSIAN": "میشه بکشین کنار؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 37.6
+    },
+    "SCRIPT": {
+      "KOREAN": "알아서 지나가시던가.",
+      "ENGLISH": "Or you could just walk past me.",
+      "CHINESE_SIMPLIFIED": "你自己绕过去不就行了",
+      "CHINESE_TRADITIONAL": "啊，你自己過去就行了",
+      "JAPANESE": "ああ、自分で通っていってくださいよ",
+      "INDONESIAN": "Kamu lewat aja sendiri.",
+      "PORTUGUESE": "Daqui eu consigo sozinho!",
+      "SPANISH": "¿Por qué no pasas por ahí?",
+      "PERSIAN": "خودت راه داری از بغل رد شو."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 46.5,
+      "HIDE": 48.7
+    },
+    "SCRIPT": {
+      "KOREAN": "갔다 와요, 여기서 기다릴게요.",
+      "ENGLISH": "Go on ahead, I’ll wait here.",
+      "CHINESE_SIMPLIFIED": "那你快去吧，我在这儿等你",
+      "CHINESE_TRADITIONAL": "去吧，我在這裡等你",
+      "JAPANESE": "行ってきなさい、ここで待ってますから",
+      "INDONESIAN": "Pergi sana, aku tunggu di sini.",
+      "PORTUGUESE": "Vai mesmo? Então verifique primeiro.",
+      "SPANISH": "Anda, yo te espero aquí.",
+      "PERSIAN": "تو برو کارت رو برس، من همین‌جا منتظرت می‌مونم."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 49.0,
+      "HIDE": 51.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Hã? Irmão!",
+      "SPANISH": "¡Está bien!",
+      "PERSIAN": "باشه، حله!"
+    }
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유나 씨!",
+      "ENGLISH": "Oh? Yu-na!",
+      "CHINESE_SIMPLIFIED": "咦？有娜！",
+      "CHINESE_TRADITIONAL": "欸？有娜！",
+      "JAPANESE": "あっ、ユナさん！",
+      "INDONESIAN": "Oh? Yu-na!",
+      "PORTUGUESE": "Hã? Yuna!",
+      "SPANISH": "¿Eh? ¡Yuna!",
+      "PERSIAN": "اوه؟ یونا!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yes?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Ya?",
+      "PORTUGUESE": "Oi?",
+      "SPANISH": "¿Sí?",
+      "PERSIAN": "بله؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "발표 잘할 수 있어요?",
+      "ENGLISH": "You think you can pull off the presentation?",
+      "CHINESE_SIMPLIFIED": "对你的汇报有信心吗，可以做好吧？",
+      "CHINESE_TRADITIONAL": "可以好好的簡報嗎？",
+      "JAPANESE": "発表うまくできそうですか？",
+      "INDONESIAN": "Kamu yakin bisa bawain presentasinya?",
+      "PORTUGUESE": "Você vai conseguir fazer bem a apresentação?",
+      "SPANISH": "¿Podrás hacer bien la presentación?",
+      "PERSIAN": "فکر می کنید می توانید ارائه را به پایان برسانید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어후, 잘할 수 있겠죠?",
+      "ENGLISH": "Ugh, I better be able to.",
+      "CHINESE_SIMPLIFIED": "唉，大概能吧？",
+      "CHINESE_TRADITIONAL": "嗯...大概還可以吧？",
+      "JAPANESE": "ふぅ…うまくいきますよね？",
+      "INDONESIAN": "Ugh, harusnya sih bisa.",
+      "PORTUGUESE": "Uff, acho que sim.",
+      "SPANISH": "Uff, supongo que sí",
+      "PERSIAN": "اوه، بهتره بتونم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 그럼요!",
+      "ENGLISH": "Of course you will!",
+      "CHINESE_SIMPLIFIED": "哎呀，当然可以啊！",
+      "CHINESE_TRADITIONAL": "哎，當然是可以的啦",
+      "JAPANESE": "もちろんですよ！",
+      "INDONESIAN": "Tentu aja bisa!",
+      "PORTUGUESE": "Claro que sim!",
+      "SPANISH": "¡Claro que sí!",
+      "PERSIAN": "البته که شما این کار را خواهید کرد!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 먹어요. 비타민이에요!",
+      "ENGLISH": "Here — take this. It’s a vitamin!",
+      "CHINESE_SIMPLIFIED": "来，吃这个，是维他命！",
+      "CHINESE_TRADITIONAL": "吃一個。這是維他命",
+      "JAPANESE": "これどうぞ、ビタミンです！",
+      "INDONESIAN": "Nih — minum ini, vitamin!",
+      "PORTUGUESE": "Toma, são vitaminas.",
+      "SPANISH": "Toma esto, son vitaminas.",
+      "PERSIAN": "اینجا - اینو بگیرید. این یک ویتامین است!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아~!",
+      "ENGLISH": "Ah~!",
+      "CHINESE_SIMPLIFIED": "啊~！",
+      "CHINESE_TRADITIONAL": "啊～！",
+      "JAPANESE": "あ〜ん！",
+      "INDONESIAN": "Ah~!",
+      "PORTUGUESE": "Ah~!",
+      "SPANISH": "¡Ah~!",
+      "PERSIAN": "آه~!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 아주 무시하던 놈들한테 본때를 보여주자고요!",
+      "ENGLISH": "Let’s show those people who’ve been underestimating us what we’re made of today!",
+      "CHINESE_SIMPLIFIED": "今天就让那些瞧不起你的家伙见识见识你的厉害！",
+      "CHINESE_TRADITIONAL": "今天就讓那些一直瞧不起你的傢伙們，見識一下妳的厲害",
+      "JAPANESE": "今日は今まで無視してた奴らに、思い知らせてやりましょう！",
+      "INDONESIAN": "Hari ini kita tunjukin ke orang-orang yang ngeremehin kita, siapa kita sebenarnya!",
+      "PORTUGUESE": "Hoje vamos mostrar praqueles que te subestimaram do que você é capaz!",
+      "SPANISH": "¡Hoy vamos a demostrarle a esos que te subestimaron de lo que eres capaz!",
+      "PERSIAN": "بیایید به افرادی که ما را دست کم گرفته اند نشان دهیم که امروز از چه چیزی ساخته شده ایم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요! 그럼 저 갔다 올게요!",
+      "ENGLISH": "Sounds good! I’ll head out then!",
+      "CHINESE_SIMPLIFIED": "好！那我出发啦！",
+      "CHINESE_TRADITIONAL": "好！那我出發啦！",
+      "JAPANESE": "そうですね！じゃあ行ってきます！",
+      "INDONESIAN": "Setuju! Aku berangkat dulu, ya!",
+      "PORTUGUESE": "Gostei de ouvir isso! Então, tô indo.",
+      "SPANISH": "¡Me gusta cómo suena eso! Entonces, me voy.",
+      "PERSIAN": "خوب به نظر می رسد! اونوقت میرم بیرون!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "باشه!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "화이팅...!",
+      "ENGLISH": "Fighting…!",
+      "CHINESE_SIMPLIFIED": "加油…！",
+      "CHINESE_TRADITIONAL": "加油...！",
+      "JAPANESE": "ファイト…！",
+      "INDONESIAN": "Semangat…!",
+      "PORTUGUESE": "Força...!",
+      "SPANISH": "¡Ánimo...!",
+      "PERSIAN": "دعوا…!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "화이팅...!",
+      "ENGLISH": "Fighting…!",
+      "CHINESE_SIMPLIFIED": "加油…！",
+      "CHINESE_TRADITIONAL": "加油...！",
+      "JAPANESE": "ファイト…！",
+      "INDONESIAN": "Semangat…!",
+      "PORTUGUESE": "Você consegue...!",
+      "SPANISH": "¡Tú puedes...!",
+      "PERSIAN": "دعوا…!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "화이팅!!",
+      "ENGLISH": "Fighting!!",
+      "CHINESE_SIMPLIFIED": "加油！！",
+      "CHINESE_TRADITIONAL": "加油！！",
+      "JAPANESE": "ファイト！！",
+      "INDONESIAN": "SEMANGAT!!",
+      "PORTUGUESE": "Você consegue!!",
+      "SPANISH": "¡¡Tú puedes!!",
+      "PERSIAN": "دعوا!!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 30.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 올 때 맛있는 거라도 해드려야겠다...",
+      "ENGLISH": "Ha… I should make her something good when she gets back…",
+      "CHINESE_SIMPLIFIED": "哈，回来得给她带点好吃的才行…",
+      "CHINESE_TRADITIONAL": "啊...回來的時候，給他弄點什麼好吃的才行...",
+      "JAPANESE": "はぁ、帰ってきたら美味しいものでも作ってあげよう…",
+      "INDONESIAN": "Hah… nanti pas dia pulang aku bikinin makanan enak, deh…",
+      "PORTUGUESE": "Ha… vou preparar algo gostoso pra ela quando voltar...",
+      "SPANISH": "Ha… le prepararé algo rico cuando vuelva...",
+      "PERSIAN": "ها... وقتی برگشت باید یه چیز خوب براش درست کنم..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 31.1,
+      "HIDE": 32.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 이게 뭐지",
+      "ENGLISH": "Huh? What’s this?",
+      "CHINESE_SIMPLIFIED": "咦？这是什么",
+      "CHINESE_TRADITIONAL": "咦？這是什麼",
+      "JAPANESE": "あれ？これなんだ？",
+      "INDONESIAN": "Hah? Ini apa?",
+      "PORTUGUESE": "Hã? O que é isso?",
+      "SPANISH": "¿Eh? ¿Qué es esto?",
+      "PERSIAN": "ها؟ این چیه"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.3,
+      "HIDE": 35.4
+    },
+    "SCRIPT": {
+      "KOREAN": "자GO싶다?",
+      "ENGLISH": "“LET’S GO DIE”?",
+      "CHINESE_SIMPLIFIED": "“睡个GO”？",
+      "CHINESE_TRADITIONAL": "「睡個GO」？",
+      "JAPANESE": "「寝たい？」",
+      "INDONESIAN": "“TULISAN ‘LET’S GO DIE’”?",
+      "PORTUGUESE": "“QUERO DORM-IR”?",
+      "SPANISH": "¿“QUIERO DORM-IR”?",
+      "PERSIAN": "\"بیا بریم بمیریم\"؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 37.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어디서 본 거 같은데",
+      "ENGLISH": "I feel like I’ve seen this somewhere…",
+      "CHINESE_SIMPLIFIED": "好像在哪见过…",
+      "CHINESE_TRADITIONAL": "好像在哪裡看過...",
+      "JAPANESE": "どこかで見たような…",
+      "INDONESIAN": "Kayaknya aku pernah lihat ini di suatu tempat…",
+      "PORTUGUESE": "Acho que já tinha visto isso em algum lugar...",
+      "SPANISH": "Creo que ya lo había visto en alguna parte...",
+      "PERSIAN": "احساس می کنم اینو در جایی دیده ام…"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 37.8,
+      "HIDE": 39.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어?! 설마...",
+      "ENGLISH": "Wait— no way…",
+      "CHINESE_SIMPLIFIED": "呃？！难道…",
+      "CHINESE_TRADITIONAL": "呃？！難道...",
+      "JAPANESE": "あっ！まさか…！",
+      "INDONESIAN": "Tunggu—nggak mungkin…",
+      "PORTUGUESE": "Hã?! Não pode ser…",
+      "SPANISH": "¿Eh?! No puede ser…",
+      "PERSIAN": "صبر کن - به هیچ وجه…"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 39.3,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨!!",
+      "ENGLISH": "Oh shit!!",
+      "CHINESE_SIMPLIFIED": "阿西！！",
+      "CHINESE_TRADITIONAL": "啊靠！！",
+      "JAPANESE": "くそっ！！",
+      "INDONESIAN": "Sial!!",
+      "PORTUGUESE": "Droga!!",
+      "SPANISH": "¡Maldición!!",
+      "PERSIAN": "اوه لعنتی!!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 40.1,
+      "HIDE": 42.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨!!!!!!! 유나 씨!!!!!!! ",
+      "ENGLISH": "Yu-na!!!! Yu-na!!!!!!!",
+      "CHINESE_SIMPLIFIED": "有娜！！！！！！！有娜！！！！！！！",
+      "CHINESE_TRADITIONAL": "有娜！！！！！有娜！！！！！",
+      "JAPANESE": "ユナさん！！！！ユナさん！！！！",
+      "INDONESIAN": "Yu-na!!!! Yu-na!!!!!!!",
+      "PORTUGUESE": "Yuna!!!! Yuna!!!!",
+      "SPANISH": "¡¡¡¡Yuna!!!! ¡¡¡¡Yuna!!!!",
+      "PERSIAN": "یونا!!!! یونا!!!!!!!"
+    }
+  }
+]

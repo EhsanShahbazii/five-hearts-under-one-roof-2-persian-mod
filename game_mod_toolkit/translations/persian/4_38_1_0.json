@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "신경 끄지? 유만 씨 가요.",
+      "ENGLISH": "Stay out of it, okay? Yuman, let’s go.",
+      "CHINESE_SIMPLIFIED": "别多管闲事了，宥万，走吧",
+      "CHINESE_TRADITIONAL": "你最好少管閒事！宥萬，我們走",
+      "JAPANESE": "気にしないで！ ユマンさん、行きましょう",
+      "INDONESIAN": "Jangan ikut campur, ya? Yuman, ayo pergi.",
+      "PORTUGUESE": "Não se meta. Yuman, vamos embora.",
+      "SPANISH": "No te metas. Yumán, vámonos.",
+      "PERSIAN": "از اون دوری کن، باشه؟ یومان، بیا بریم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "야 어떻게 또 그냥 신경을 안 써,",
+      "ENGLISH": "Hey, how am I supposed to just stay out of it,",
+      "CHINESE_SIMPLIFIED": "喂，我怎么可能就这样不管啊？",
+      "CHINESE_TRADITIONAL": "喂，怎麼可能就這樣不管呢",
+      "JAPANESE": "おい、 どうやって気にしないんだよ",
+      "INDONESIAN": "Hey, mana bisa aku diem aja,",
+      "PORTUGUESE": "Como quer que eu não me meta?",
+      "SPANISH": "¿Cómo quieres que no me meta?",
+      "PERSIAN": "هی، چطور باید از اون دوری کنم،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 우리가 한때 약혼 얘기 나오던 사인데~",
+      "ENGLISH": "when we were this close to getting engaged once—",
+      "CHINESE_SIMPLIFIED": "好歹我们当初还差点订婚了呢～",
+      "CHINESE_TRADITIONAL": "好歹我們也曾經是論及婚嫁的關係啊～",
+      "JAPANESE": "それでも俺たち、昔婚約の話まで出た仲なのに〜",
+      "INDONESIAN": "kita dulu hampir tunangan, lho—",
+      "PORTUGUESE": "Afinal, quase ficamos noivos~",
+      "SPANISH": "Después de todo, casi nos comprometemos~",
+      "PERSIAN": "وقتی یک بار به نامزدی نزدیک بودیم-"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "못생긴 게 이거 안 놔?",
+      "ENGLISH": "Take your ugly hand off me.",
+      "CHINESE_SIMPLIFIED": "丑八怪，你手不放开是吧？",
+      "CHINESE_TRADITIONAL": "醜八怪，你還不放手嗎？",
+      "JAPANESE": "ブサイクのくせに、これ離して",
+      "INDONESIAN": "Lepasin tangan jelek kamu dari aku.",
+      "PORTUGUESE": "Tira essa mão imunda de mim.",
+      "SPANISH": "Quítame tu sucia mano de encima.",
+      "PERSIAN": "دست زشتت را از سرم بردار"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 이게 간만에 말 좀 섞어주니까 지 주제도 모르고...",
+      "ENGLISH": "Wow… talk to you for the first time in ages and you forget your place real fast, huh?",
+      "CHINESE_SIMPLIFIED": "哈，难得跟你说两句你就不掂量自己几斤几两了是吧",
+      "CHINESE_TRADITIONAL": "呵，我不過是久違地跟你說幾句，你就拿翹了嗎...",
+      "JAPANESE": "は？久しぶりにちょっと話してやったら、自分の立場も知らずに…",
+      "INDONESIAN": "Wah… baru ngobrol lagi setelah sekian lama, udah lupa diri ya sekarang?",
+      "PORTUGUESE": "Depois de tanto tempo sem me ver, já esqueceu seu lugar...",
+      "SPANISH": "Después de tanto tiempo sin vernos ya se te olvidó tu lugar...",
+      "PERSIAN": "وای... برای اولین بار بعد از گذشت چند سال با شما صحبت می کنم و خیلی سریع مکان خود را فراموش می کنید، ها؟"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 알겠어!!",
+      "ENGLISH": "Alright, alright!!",
+      "CHINESE_SIMPLIFIED": "好了，知道啦！",
+      "CHINESE_TRADITIONAL": "啊，知道了！",
+      "JAPANESE": "あ、分かったよ！！",
+      "INDONESIAN": "Oh, oke!",
+      "PORTUGUESE": "Já tô indo!!",
+      "SPANISH": "¡¡Ya voy!!",
+      "PERSIAN": "باشه، باشه!!"
+    }
+  }
+]

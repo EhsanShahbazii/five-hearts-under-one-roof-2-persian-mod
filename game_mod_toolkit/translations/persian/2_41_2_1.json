@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "자 됐다!",
+      "ENGLISH": "Alright, all set!",
+      "CHINESE_SIMPLIFIED": "搞定！",
+      "CHINESE_TRADITIONAL": "搞定！",
+      "JAPANESE": "よし、できた！",
+      "INDONESIAN": "Baiklah, semuanya siap!",
+      "PORTUGUESE": "Prontinho!",
+      "SPANISH": "¡Ya está listo!",
+      "PERSIAN": "خوب، همه چیز آماده است!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 나 여기가 좀 불편한 거 같은데?",
+      "ENGLISH": "But... I think this part feels uncomfortable.",
+      "CHINESE_SIMPLIFIED": "不过我感觉这儿好像不太舒服？",
+      "CHINESE_TRADITIONAL": "可是我這裡好像還是不太舒服耶？",
+      "JAPANESE": "でも、なんかここちょっと違和感あるかも…",
+      "INDONESIAN": "Tapi... menurutku bagian ini terasa tidak nyaman.",
+      "PORTUGUESE": "Acho que tá me incomodando um pouco desse lado.",
+      "SPANISH": "Creo que me molesta un poco de este lado.",
+      "PERSIAN": "اما ... فکر می کنم این قسمت احساس ناراحتی می کند."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어디, 여기?",
+      "ENGLISH": "Here? This spot?",
+      "CHINESE_SIMPLIFIED": "是这儿吗？",
+      "CHINESE_TRADITIONAL": "哪裡？是這裡嗎？",
+      "JAPANESE": "どこ？ ここ？",
+      "INDONESIAN": "Di sini? Tempat ini?",
+      "PORTUGUESE": "Onde? Aqui?",
+      "SPANISH": "¿Dónde?¿Aquí?",
+      "PERSIAN": "اینجا؟ این نقطه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "자 됐다!",
+      "ENGLISH": "Okay, fixed!",
+      "CHINESE_SIMPLIFIED": "这下好了！",
+      "CHINESE_TRADITIONAL": "好了，搞定！",
+      "JAPANESE": "はい、できた！",
+      "INDONESIAN": "Oke fix!",
+      "PORTUGUESE": "Agora sim!",
+      "SPANISH": "¡Ahora sí!",
+      "PERSIAN": "باشه، درست شد!"
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마.. 나 우유 먹고 싶어...",
+      "ENGLISH": "Mom... I want some milk...",
+      "PERSIAN": "مامان... من شیر می‌خوام..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "우유? 웬일로 우유를 다 찾는데..",
+      "ENGLISH": "Milk? You never ask for milk...",
+      "PERSIAN": "شیر؟ تو که هیچ‌وقت شیر نمی‌خواستی..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어!",
+      "ENGLISH": "Alright!",
+      "PERSIAN": "باشه عزیزم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마 아빠가 금방 사 올게.",
+      "ENGLISH": "Dad and I will run out and grab some real quick.",
+      "PERSIAN": "من و بابات سریع می‌پریم بیرون می‌گیریم برات."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 11.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 가지 말고 얌전히 누워있어. 알겠지?",
+      "ENGLISH": "Just stay put and don’t move, okay?",
+      "PERSIAN": "همین‌جا بمون و اصلاً تکون نخور، باشه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저.. 엄마! 만화책도 좀 갖다 줘...",
+      "ENGLISH": "Hey—Mom, can you bring my comics too?",
+      "PERSIAN": "مامان— راستی کمیک‌هامم میاری؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마! 만화책!!",
+      "ENGLISH": "Mom! My comics!!",
+      "PERSIAN": "مامان! کمیک‌هامم بیارین!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어..어?! 으아악!",
+      "ENGLISH": "Huh?! Aaaah—aghhh!!",
+      "PERSIAN": "ها؟! واااای—آاااخ!!"
+    }
+  }
+]

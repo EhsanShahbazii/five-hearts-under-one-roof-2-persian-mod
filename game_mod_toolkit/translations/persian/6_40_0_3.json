@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너 진짜 나 화나게 할래?",
+      "ENGLISH": "Are you seriously trying to make me angry?",
+      "CHINESE_SIMPLIFIED": "你真要惹我发火吗？",
+      "CHINESE_TRADITIONAL": "你真的想讓我生氣嗎？",
+      "JAPANESE": "お前、ほんとに俺を怒らせたいのか？",
+      "INDONESIAN": "Kamu beneran pengin bikin aku marah?",
+      "PORTUGUESE": "Você quer mesmo me deixar com raiva?",
+      "SPANISH": "¿De verdad quieres hacerme enojar?",
+      "PERSIAN": "شما به طور جدی سعی می کنید من را عصبانی کنید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 놔.",
+      "ENGLISH": "Let go of me.",
+      "CHINESE_SIMPLIFIED": "快放手",
+      "CHINESE_TRADITIONAL": "快放手",
+      "JAPANESE": "これ離して",
+      "INDONESIAN": "Lepasin aku.",
+      "PORTUGUESE": "Me solta.",
+      "SPANISH": "Suéltame.",
+      "PERSIAN": "ولم کن"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "가자고.",
+      "ENGLISH": "I said let’s go.",
+      "CHINESE_SIMPLIFIED": "我们走",
+      "CHINESE_TRADITIONAL": "我們走",
+      "JAPANESE": "行くぞ",
+      "INDONESIAN": "Aku bilang, ayo pergi.",
+      "PORTUGUESE": "Vamos embora.",
+      "SPANISH": "Vámonos.",
+      "PERSIAN": "گفتم بریم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 이거 놓으라고!",
+      "ENGLISH": "I said LET GO!",
+      "CHINESE_SIMPLIFIED": "我叫你放手！",
+      "CHINESE_TRADITIONAL": "我叫你放手！",
+      "JAPANESE": "だから離してってば！",
+      "INDONESIAN": "Aku bilang LEPASIN!",
+      "PORTUGUESE": "Eu disse pra me soltar!",
+      "SPANISH": "¡Te dije que me sueltes!",
+      "PERSIAN": "گفتم ولش کن!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너라면 놓겠냐?",
+      "ENGLISH": "Would you let go if it were you?",
+      "CHINESE_SIMPLIFIED": "我不会放手的！",
+      "CHINESE_TRADITIONAL": "如果換作是你，你會放嗎？",
+      "JAPANESE": "お前なら離すか？",
+      "INDONESIAN": "Kalau kamu di posisiku, kamu bakal ngelepasin?",
+      "PORTUGUESE": "Você acha que eu vou soltar?",
+      "SPANISH": "¿Tú crees que lo voy a soltar?",
+      "PERSIAN": "اگر جای تو بودی رها می کردی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 놓으라고 했지 내가!!!!",
+      "ENGLISH": "I told you to LET GO!!!",
+      "CHINESE_SIMPLIFIED": "我叫你放手！！！",
+      "CHINESE_TRADITIONAL": "我不是說了放開嗎！！！！",
+      "JAPANESE": "離せって言ってるだろ！！！",
+      "INDONESIAN": "Aku bilang LEPASIN!!!",
+      "PORTUGUESE": "Eu disse pra me soltar, AGORA!!!",
+      "SPANISH": "¡¡¡Te dije que me sueltes, AHORA!!!!",
+      "PERSIAN": "گفتم ولش کن!!!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아아!! 쓰읍, 아!!!",
+      "ENGLISH": "Ah—!! tss ah!!!",
+      "CHINESE_SIMPLIFIED": "啊！！嘶，啊！！！",
+      "CHINESE_TRADITIONAL": "啊啊！！嘶，啊！！！",
+      "JAPANESE": "ああっ！！ くっ…あっ！！",
+      "INDONESIAN": "Ah—!! Tss ah!!!",
+      "PORTUGUESE": "Aaah!! Ah!!!",
+      "SPANISH": "¡Aaah!! ¡ah!!!",
+      "PERSIAN": "آه -!! فش آه!!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙 님 괜찮아요?",
+      "ENGLISH": "Mal-sook, are you okay?",
+      "CHINESE_SIMPLIFIED": "末淑小姐，没事吗？",
+      "CHINESE_TRADITIONAL": "末淑小姐，你沒事吧？",
+      "JAPANESE": "マルスクさん、大丈夫ですか！？",
+      "INDONESIAN": "Mal-sook, kamu nggak apa-apa?",
+      "PORTUGUESE": "Malsook, você tá bem?",
+      "SPANISH": "¿Malsook, estás bien?",
+      "PERSIAN": "مال‌سوک، حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 좀 괜찮아요 ",
+      "ENGLISH": "Yes… I’m okay.",
+      "CHINESE_SIMPLIFIED": "嗯，还好...",
+      "CHINESE_TRADITIONAL": "嗯，還好...",
+      "JAPANESE": "ええ、もう大丈夫です…",
+      "INDONESIAN": "Iya… aku nggak apa-apa.",
+      "PORTUGUESE": "Sim, eu tô bem.",
+      "SPANISH": "Sí, estoy bien.",
+      "PERSIAN": "بله… من خوبم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자 네가 네 눈으로 봐.",
+      "ENGLISH": "Here — see with your own eyes.",
+      "CHINESE_SIMPLIFIED": "来，你自己亲眼看看",
+      "CHINESE_TRADITIONAL": "來，你自己用你的眼睛看",
+      "JAPANESE": "ほら、自分の目で見てみな",
+      "INDONESIAN": "Nih — liat sendiri pakai mata kamu.",
+      "PORTUGUESE": "Agora olha com seus próprios olhos.",
+      "SPANISH": "Ahora mira con tus propios ojos.",
+      "PERSIAN": "در اینجا - با چشمان خود ببینید."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "모델 계약서...?",
+      "ENGLISH": "A model contract…?",
+      "CHINESE_SIMPLIFIED": "模特合约...？",
+      "CHINESE_TRADITIONAL": "模特兒合約...？",
+      "JAPANESE": "モデル契約書…？",
+      "INDONESIAN": "Kontrak model…?",
+      "PORTUGUESE": "Um contrato de modelo...?",
+      "SPANISH": "¿Un contrato de modelo...?",
+      "PERSIAN": "یک قرارداد نمونه…؟"
+    }
+  }
+]

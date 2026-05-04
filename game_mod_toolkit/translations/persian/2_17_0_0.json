@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어디 가?",
+      "ENGLISH": "Where are you going?",
+      "CHINESE_SIMPLIFIED": "去哪儿啊？",
+      "CHINESE_TRADITIONAL": "你要去哪裡？",
+      "JAPANESE": "どこ行くの?",
+      "INDONESIAN": "Kamu mau ke mana?",
+      "PORTUGUESE": "Pra onde você vai?",
+      "SPANISH": "¿A dónde vas?",
+      "PERSIAN": "کجا میری؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아..나",
+      "ENGLISH": "Oh… I, uh—",
+      "CHINESE_SIMPLIFIED": "啊...我",
+      "CHINESE_TRADITIONAL": "啊…我",
+      "JAPANESE": "あ…俺",
+      "INDONESIAN": "Oh… aku, eh—",
+      "PORTUGUESE": "Ah, eu...",
+      "SPANISH": "Ah, yo...",
+      "PERSIAN": "اوه... من، اوه-"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "당분간은 진료받으러 병원 왔다 갔다 해야 돼.",
+      "ENGLISH": "I’ve gotta keep going back and forth to the hospital for treatment for a while.",
+      "CHINESE_SIMPLIFIED": "这段时间得定期去医院复诊",
+      "CHINESE_TRADITIONAL": "最近會比較頻繁去醫院接受治療",
+      "JAPANESE": "当分は診療受けに病院行ったり来たりしないといけなくて",
+      "INDONESIAN": "Aku harus bolak-balik ke rumah sakit buat pengobatan dulu.",
+      "PORTUGUESE": "Tenho que ir ao hospital pras minhas consultas.",
+      "SPANISH": "Tengo que ir al hospital para mis citas de médicas.",
+      "PERSIAN": "من باید برای مدتی به بیمارستان بروم و برگردم تا مداوا کنم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래? 그럼 같이 가.",
+      "ENGLISH": "Really? Then I’ll come with you.",
+      "CHINESE_SIMPLIFIED": "是吗？那我陪你一起去",
+      "CHINESE_TRADITIONAL": "是嗎？那我們一起去",
+      "JAPANESE": "そう? じゃあ一緒に行くよ",
+      "INDONESIAN": "Serius? Kalau gitu aku ikut.",
+      "PORTUGUESE": "Ah, é? Então eu vou com você.",
+      "SPANISH": "¿Ah sí? Entonces voy contigo.",
+      "PERSIAN": "واقعا؟ بعد من با تو میام"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 지금 병원 가요? ",
+      "ENGLISH": "Yuman, are you headed to the hospital now?",
+      "CHINESE_SIMPLIFIED": "宥万先生现在要去医院吗？",
+      "CHINESE_TRADITIONAL": "宥萬先生，你現在要去醫院嗎？",
+      "JAPANESE": "ユマンさん 今から病院行くんですか?",
+      "INDONESIAN": "Yuman, kamu mau ke rumah sakit sekarang?",
+      "PORTUGUESE": "Yuman, você vai pro hospital agora?",
+      "SPANISH": "¿Yumán, vas al hospital ahora?",
+      "PERSIAN": "یومان، الان به بیمارستان می روی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "같이 가요.",
+      "ENGLISH": "Let’s go together.",
+      "CHINESE_SIMPLIFIED": "我们一起去吧",
+      "CHINESE_TRADITIONAL": "我們一起去吧",
+      "JAPANESE": "一緒に行きましょう",
+      "INDONESIAN": "Ayo bareng.",
+      "PORTUGUESE": "Vou com você.",
+      "SPANISH": "Voy contigo.",
+      "PERSIAN": "بیا با هم بریم"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저랑 갈 건데요?",
+      "ENGLISH": "He'll go with me, tho?",
+      "CHINESE_SIMPLIFIED": "他是要跟我一起去的？",
+      "CHINESE_TRADITIONAL": "你說要陪我一起去？",
+      "JAPANESE": "私と行くんですけど?",
+      "INDONESIAN": "Aku ikut dia.",
+      "PORTUGUESE": "Ele ia comigo.",
+      "SPANISH": "Iba a ir conmigo.",
+      "PERSIAN": "او با من خواهد رفت، نه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "전 유만 씨 도와주러 온 걸요?",
+      "ENGLISH": "I came to help Yuman, remember?",
+      "CHINESE_SIMPLIFIED": "我可是专门来帮忙照顾宥万先生的！",
+      "CHINESE_TRADITIONAL": "我是為了幫宥萬先生才來的啊？",
+      "JAPANESE": "私 ユマンさん助けに来たんですよ?",
+      "INDONESIAN": "Aku ke sini buat bantuin Yuman, inget nggak?",
+      "PORTUGUESE": "Eu vim justamente pra ajudar ele nessas coisas.",
+      "SPANISH": "Yo vine precisamente para ayudarlo en esas cosas.",
+      "PERSIAN": "اومدم به یومان کمک کنم، یادته؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 가요!",
+      "ENGLISH": "Yuman, come on, let’s go!",
+      "CHINESE_SIMPLIFIED": "宥万先生，我们走！",
+      "CHINESE_TRADITIONAL": "宥萬先生，走吧！",
+      "JAPANESE": "ユマンさん 行きましょう!",
+      "INDONESIAN": "Yuman, ayo dong, kita pergi!",
+      "PORTUGUESE": "Vamos, Yuman!",
+      "SPANISH": "¡Vamos Yumán!",
+      "PERSIAN": "یومان، بیا، بیا بریم!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그놈의 빚이 뭔지 모르겠지만",
+      "ENGLISH": "I don’t know what this whole debt thing is about,",
+      "CHINESE_SIMPLIFIED": "虽然不知道你欠的人情到底是什么",
+      "CHINESE_TRADITIONAL": "我不知道那個人情債是什麼",
+      "JAPANESE": "その借りがなんなのかは知らないけど",
+      "INDONESIAN": "Aku nggak ngerti soal utang-utang ini,",
+      "PORTUGUESE": "Não sei que dívida é essa,",
+      "SPANISH": "No sé qué deuda sea esa,",
+      "PERSIAN": "من نمی دانم این کل بدهی برای چیه،"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 저랑 갈 거니까 신경 끄시죠?",
+      "ENGLISH": "but Yuman’s going with me—so mind your own business.",
+      "CHINESE_SIMPLIFIED": "但宥万会跟我去的，您就别操心了吧？",
+      "CHINESE_TRADITIONAL": "吳宥萬是要跟我去，你別管了吧？",
+      "JAPANESE": "ウ・ユマンは私と行くんだから あなたは口出ししないでください",
+      "INDONESIAN": "tapi Yuman ikut aku—jadi jangan ikut campur.",
+      "PORTUGUESE": "mas o Yuman vai comigo, então não se meta.",
+      "SPANISH": "pero Yumán viene conmigo, así que no se meta.",
+      "PERSIAN": "اما یومان با من همراه است - پس به کار خودت فکر کن."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.8,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나 혼자 가면 안 될까?",
+      "ENGLISH": "Can’t I just go alone?",
+      "CHINESE_SIMPLIFIED": "我就不能自己去吗？",
+      "CHINESE_TRADITIONAL": "我一個人去不行嗎？",
+      "JAPANESE": "俺 一人で行っちゃダメかな…?",
+      "INDONESIAN": "Nggak bisa aku pergi sendiri aja?",
+      "PORTUGUESE": "Não posso ir sozinho?",
+      "SPANISH": "¿No puedo ir solo?",
+      "PERSIAN": "نمیتونم تنها برم؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "-아픈데 혼자 가긴 뭘 가!\n-아픈데 혼자 가긴 뭘 가요!",
+      "ENGLISH": "- What? You’re sick!\n- You can’t go by yourself!",
+      "CHINESE_SIMPLIFIED": "-生病了怎么能一个人去！\n-生病了怎么能一个人去呢！",
+      "CHINESE_TRADITIONAL": "—身體不舒服，一個人去什麼去！\n—身體不舒服，你一個人去不好吧！",
+      "JAPANESE": "─ 病気なのに一人で行くとか何言ってんの!\n─ 病気なのに一人で行くとか何言ってるんですか!",
+      "INDONESIAN": "- Apa? Kamu sakit!\n- Kamu nggak boleh pergi sendirian!",
+      "PORTUGUESE": "—Você tá doente, é claro que não!\n—Você tá doente, é claro que não!",
+      "SPANISH": "—¡Estás enfermo, claro que no!\n—¡Estás enfermo, claro que no!",
+      "PERSIAN": "- چی؟ شما مریض هستید! - خودت نمی تونی بری!"
+    }
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊～",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آهان... پس اینطوری."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊～",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آهان... پس اینطوری."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어때 맛있어?",
+      "ENGLISH": "How's it taste?",
+      "CHINESE_SIMPLIFIED": "怎么样，好吃吗？",
+      "CHINESE_TRADITIONAL": "怎麼樣，好吃嗎？",
+      "JAPANESE": "どう？美味しい？",
+      "INDONESIAN": "Gimana, enak nggak?",
+      "PORTUGUESE": "E aí? Tá gostoso?",
+      "SPANISH": "¿Qué tal? ¿Está rico?",
+      "PERSIAN": "مزه‌اش چطوره؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "너~무 맛있다!",
+      "ENGLISH": "It's sooo good!",
+      "CHINESE_SIMPLIFIED": "太好吃了！",
+      "CHINESE_TRADITIONAL": "太好吃了！",
+      "JAPANESE": "すっごく美味しい！",
+      "INDONESIAN": "Enak~ banget!",
+      "PORTUGUESE": "Tá deli~cioso!",
+      "SPANISH": "¡Está deli~cioso!",
+      "PERSIAN": "خیلی خوبه!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 일찍 가봐야 되는 거 아니야?",
+      "ENGLISH": "But shouldn't we head out soon?",
+      "CHINESE_SIMPLIFIED": "不过你不该早点走吗？",
+      "CHINESE_TRADITIONAL": "不過你不該早點走嗎？",
+      "JAPANESE": "でももう行かなくて大丈夫？",
+      "INDONESIAN": "Tapi kamu nggak harus cepat-cepat pergi?",
+      "PORTUGUESE": "Mas, você não devia ir logo?",
+      "SPANISH": "Pero, ¿no deberías irte pronto?",
+      "PERSIAN": "اما بهتر نیست زودتر بریم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아, 아직 10분은 더 있어도 돼.",
+      "ENGLISH": "It's fine, we can stay at least another 10 minutes.",
+      "CHINESE_SIMPLIFIED": "没关系，再待十分钟也行",
+      "CHINESE_TRADITIONAL": "沒關係，再十分鐘也行",
+      "JAPANESE": "大丈夫、あと10分はいるよ。",
+      "INDONESIAN": "Nggak apa-apa, aku masih bisa di sini 10 menit lagi",
+      "PORTUGUESE": "Tudo bem, ainda posso ficar mais dez minutinhos.",
+      "SPANISH": "Está bien, aún puedo quedarme diez minutos más.",
+      "PERSIAN": "اشکالی نداره، می‌تونیم حداقل ده دقیقه دیگه بمونیم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠, 나 빨리 보내려는 거 아니지?",
+      "ENGLISH": "Oppa, you're not trying to rush me out, are you?",
+      "CHINESE_SIMPLIFIED": "哥哥，你不是想赶我走吧？",
+      "CHINESE_TRADITIONAL": "哥哥，你不是想趕我走吧？",
+      "JAPANESE": "お兄さん、私を早く帰そうとしてないよね？",
+      "INDONESIAN": "Oppa, kamu nggak lagi pengen nyuruh aku pulang cepet kan?",
+      "PORTUGUESE": "Oppa, você não tá querendo me mandar embora rápido, né?",
+      "SPANISH": "Oppa, ¿no me estás queriendo echar rápido, verdad?",
+      "PERSIAN": "یومان، تو که نمی‌خوای منو مجبور به رفتن کنی، نه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 아니라 저기 뒤에...",
+      "ENGLISH": "No, it's not that... it's just over there behind us...",
+      "CHINESE_SIMPLIFIED": "不是啦，是后面那些人...",
+      "CHINESE_TRADITIONAL": "不是啦，是後面那些人...",
+      "JAPANESE": "違うって、ほら後ろに…",
+      "INDONESIAN": "Bukan gitu, itu lho di belakang...",
+      "PORTUGUESE": "Não, é que ali atrás...",
+      "SPANISH": "No, es que allá atrás...",
+      "PERSIAN": "نه، اینطوری نیست... فقط اونجا پشت سر ماست..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아! 우리 응원해 주시는 건데 뭐.",
+      "ENGLISH": "It's okay! They're cheering for us.",
+      "CHINESE_SIMPLIFIED": "没事！都是支持我们的人嘛",
+      "CHINESE_TRADITIONAL": "沒事！都是支持我們的人嘛",
+      "JAPANESE": "いいの！応援してくれてるだけだもん。",
+      "INDONESIAN": "Gak apa-apa! Mereka juga lagi dukung kita kok",
+      "PORTUGUESE": "Tá tudo bem, eles só tão torcendo por nós, não tá vendo?",
+      "SPANISH": "Está bien, solo nos están apoyando, ¿no ves?",
+      "PERSIAN": "اشکالی نداره! دارن ما رو تشویق می کنن."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 30.9
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕~",
+      "ENGLISH": "Bye~",
+      "CHINESE_SIMPLIFIED": "大家好~",
+      "CHINESE_TRADITIONAL": "大家好～",
+      "JAPANESE": "じゃあね〜。",
+      "INDONESIAN": "Daaah~",
+      "PORTUGUESE": "Tchau~!",
+      "SPANISH": "¡Adiós~!",
+      "PERSIAN": "فعلاً، خدافظ~"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 32.1
+    }
+  }
+]

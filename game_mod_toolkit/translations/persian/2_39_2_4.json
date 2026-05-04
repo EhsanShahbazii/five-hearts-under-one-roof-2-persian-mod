@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 아~ 해.",
+      "ENGLISH": "Here, say ah~",
+      "CHINESE_SIMPLIFIED": "喂，张嘴~",
+      "CHINESE_TRADITIONAL": "來，嘴巴張開～",
+      "JAPANESE": "はい あ〜んして",
+      "INDONESIAN": "Di sini, katakan ah~",
+      "PORTUGUESE": "A ver, diga ah~",
+      "SPANISH": "A ver, di ah~",
+      "PERSIAN": "اینجا، بگو آه~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이이잉...",
+      "ENGLISH": "Eeeeehhh...",
+      "CHINESE_SIMPLIFIED": "咦咦——...",
+      "CHINESE_TRADITIONAL": "咿咿咿…",
+      "JAPANESE": "いーーっ…",
+      "INDONESIAN": "Eeeeehhh...",
+      "PORTUGUESE": "Aiñ...",
+      "SPANISH": "Ayñ...",
+      "PERSIAN": "ایههههه..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨...",
+      "ENGLISH": "Ugh...",
+      "CHINESE_SIMPLIFIED": "哎...",
+      "CHINESE_TRADITIONAL": "哼..",
+      "JAPANESE": "えいっ…",
+      "INDONESIAN": "Aduh...",
+      "PORTUGUESE": "Aish...",
+      "SPANISH": "Aish...",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "자! 아~",
+      "ENGLISH": "Come on! Say ah~",
+      "CHINESE_SIMPLIFIED": "来！张嘴~",
+      "CHINESE_TRADITIONAL": "來！張嘴～",
+      "JAPANESE": "ほら! あ〜ん",
+      "INDONESIAN": "Ayo! Katakan ah~",
+      "PORTUGUESE": "Anda, ah~",
+      "SPANISH": "A ver! Ah~",
+      "PERSIAN": "بیا! بگو آه~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이이잉....",
+      "ENGLISH": "Eeeehhh...",
+      "CHINESE_SIMPLIFIED": "咦咦——....",
+      "CHINESE_TRADITIONAL": "嚶嚶嚶…",
+      "JAPANESE": "いーーーっ…",
+      "INDONESIAN": "Eeeehhh...",
+      "PORTUGUESE": "Ai...",
+      "SPANISH": "Ay...",
+      "PERSIAN": "ایهههه..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아휴...",
+      "ENGLISH": "Sigh...",
+      "CHINESE_SIMPLIFIED": "哎...",
+      "CHINESE_TRADITIONAL": "這個也不要？",
+      "JAPANESE": "これもダメ?",
+      "INDONESIAN": "Menghela napas...",
+      "PORTUGUESE": "Nossa...",
+      "SPANISH": "Vaya...",
+      "PERSIAN": "آه..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 아~",
+      "ENGLISH": "Alright, ah~",
+      "CHINESE_SIMPLIFIED": "来！张嘴~",
+      "CHINESE_TRADITIONAL": "來～張嘴～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Baiklah, ah~",
+      "PORTUGUESE": "Vai, ah~",
+      "SPANISH": "A ver! Ah~",
+      "PERSIAN": "باشه، آه~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이이이이이이잉...",
+      "ENGLISH": "Eeeeeeeeehhhhh...",
+      "CHINESE_SIMPLIFIED": "咦咦咦咦咦——...",
+      "CHINESE_TRADITIONAL": "咿咿咿咿… ",
+      "JAPANESE": "いぃぃぃぃぃーっ…",
+      "INDONESIAN": "Eeeeeeeehhhhh...",
+      "PORTUGUESE": "Aaaai...",
+      "SPANISH": "Aaaaay...",
+      "PERSIAN": "ههههههههههه..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아휴... 진짜...",
+      "ENGLISH": "Seriously...",
+      "CHINESE_SIMPLIFIED": "哎...真是够了...",
+      "CHINESE_TRADITIONAL": "呼...真的是...",
+      "JAPANESE": "もう…本当に…",
+      "INDONESIAN": "Dengan serius...",
+      "PORTUGUESE": "Meu Deus... sério isso...",
+      "SPANISH": "Dios... es en serio...",
+      "PERSIAN": "جدی..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 33.2,
+      "HIDE": 35.2
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 먹어",
+      "ENGLISH": "Here, eat it.",
+      "CHINESE_SIMPLIFIED": "你吃吧",
+      "CHINESE_TRADITIONAL": "來，吃吧",
+      "JAPANESE": "ほら、食べて",
+      "INDONESIAN": "Ini, makanlah.",
+      "PORTUGUESE": "Vai, come.",
+      "SPANISH": "Dale, come.",
+      "PERSIAN": "اینجا بخور"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 36.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어...",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "呃呃...",
+      "CHINESE_TRADITIONAL": "呃...",
+      "JAPANESE": "ああ…",
+      "INDONESIAN": "Eh...",
+      "PORTUGUESE": "Oh...",
+      "SPANISH": "Oh...",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 37.2
+    },
+    "SCRIPT": {
+      "KOREAN": "먹어어!",
+      "ENGLISH": "Eat iiiit!",
+      "CHINESE_SIMPLIFIED": "吃啊！",
+      "CHINESE_TRADITIONAL": "快吃！",
+      "JAPANESE": "食べてえ！",
+      "INDONESIAN": "Makanlah!",
+      "PORTUGUESE": "Come logo!",
+      "SPANISH": "¡Qué comas!",
+      "PERSIAN": "بخورید!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 38.3,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워...",
+      "ENGLISH": "...Thanks.",
+      "CHINESE_SIMPLIFIED": "谢谢...",
+      "CHINESE_TRADITIONAL": "謝謝...",
+      "JAPANESE": "ありがとう…",
+      "INDONESIAN": "...Terima kasih.",
+      "PORTUGUESE": "Valeu...",
+      "SPANISH": "Gracias...",
+      "PERSIAN": "... ممنونم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 47.4,
+      "HIDE": 48.5
+    },
+    "SCRIPT": {
+      "KOREAN": "맛있어?",
+      "ENGLISH": "Is it good?",
+      "CHINESE_SIMPLIFIED": "好吃吗？",
+      "CHINESE_TRADITIONAL": "好吃嗎？",
+      "JAPANESE": "美味しい？",
+      "INDONESIAN": "Apakah itu bagus?",
+      "PORTUGUESE": "Tá gostoso?",
+      "SPANISH": "¿Está rico?",
+      "PERSIAN": "خوبه؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 49.4,
+      "HIDE": 50.9
+    },
+    "SCRIPT": {
+      "KOREAN": "맛있어...",
+      "ENGLISH": "Yeah... it’s good.",
+      "CHINESE_SIMPLIFIED": "好吃...",
+      "CHINESE_TRADITIONAL": "好吃...",
+      "JAPANESE": "おいしい…",
+      "INDONESIAN": "Ya... itu bagus.",
+      "PORTUGUESE": "Tá gostoso...",
+      "SPANISH": "Está rico...",
+      "PERSIAN": "آره...خوبه"
+    }
+  }
+]

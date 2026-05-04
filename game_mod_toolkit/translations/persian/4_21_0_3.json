@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 61.1,
+      "HIDE": 63.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이번 트렌드는 이 컬러라고 하는데 어때?",
+      "ENGLISH": "Is this the trend color for next season?",
+      "CHINESE_SIMPLIFIED": "听说这季主打这个颜色，你觉得怎么样？",
+      "CHINESE_TRADITIONAL": "聽說今年的流行趨勢是這個顏色，你覺得呢？",
+      "JAPANESE": "今年のトレンドカラーみたいなんでけどどう？",
+      "INDONESIAN": "Ini warna yang ngetren buat musim  tahun depan, ya?",
+      "PORTUGUESE": "Dizem que essa é a cor tendência — o que acha?",
+      "SPANISH": "Dicen que este es el color en tendencia, ¿qué tal?",
+      "PERSIAN": "این رنگ ترند فصل آینده است؟"
+    }
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.6
+    },
+    "SCRIPT": {
+      "KOREAN": "준비되셨어요?",
+      "ENGLISH": "Are you ready?",
+      "CHINESE_SIMPLIFIED": "准备好了吗？",
+      "CHINESE_TRADITIONAL": "準備好了嗎？",
+      "JAPANESE": "準備できましたか？",
+      "INDONESIAN": "Apakah kamu siap?",
+      "PORTUGUESE": "Prontos?",
+      "SPANISH": "¿Listos?",
+      "PERSIAN": "شما آماده اید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "好了！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Ya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "준비되셨어요?",
+      "ENGLISH": "Ready to go?",
+      "CHINESE_SIMPLIFIED": "都准备好了吗？",
+      "CHINESE_TRADITIONAL": "準備好了嗎？",
+      "JAPANESE": "準備できました？",
+      "INDONESIAN": "Siap berangkat?",
+      "PORTUGUESE": "Prontos?",
+      "SPANISH": "¿Listos?",
+      "PERSIAN": "آماده رفتن؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "넵!",
+      "ENGLISH": "Yup!",
+      "CHINESE_SIMPLIFIED": "好啦！",
+      "CHINESE_TRADITIONAL": "好了！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Benar!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "방법은 굉장히 간단해요 ",
+      "ENGLISH": "Alright, the game’s super simple—",
+      "CHINESE_SIMPLIFIED": "方法其实非常简单",
+      "CHINESE_TRADITIONAL": "方法非常簡單",
+      "JAPANESE": "やり方はすごく簡単です",
+      "INDONESIAN": "Baiklah, permainannya sangat sederhana—",
+      "PORTUGUESE": "O método é bem simples.",
+      "SPANISH": "El método es muy sencillo.",
+      "PERSIAN": "خوب، بازی فوق العاده ساده است-"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 검정색 카드 2장 빨간색 카드 1장을 가져왔거든요 ",
+      "ENGLISH": "I’ve got two black cards and one red card.",
+      "CHINESE_SIMPLIFIED": "我这里有两张黑色牌和一张红色牌",
+      "CHINESE_TRADITIONAL": "我有兩張黑色牌和一張紅色牌",
+      "JAPANESE": "僕が黒いカード2枚と 赤いカード1枚を持ってきました",
+      "INDONESIAN": "Aku punya dua kartu hitam dan satu kartu merah.",
+      "PORTUGUESE": "Tenho duas cartas pretas e uma carta vermelha.",
+      "SPANISH": "Tengo dos cartas negras y una carta roja.",
+      "PERSIAN": "من دو کارت سیاه و یک کارت قرمز دارم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 섞을테니깐",
+      "ENGLISH": "I’ll shuffle them,",
+      "CHINESE_SIMPLIFIED": "现在我来洗牌",
+      "CHINESE_TRADITIONAL": "我會先洗牌",
+      "JAPANESE": "今から混ぜるので",
+      "INDONESIAN": "Aku akan mengocoknya,",
+      "PORTUGUESE": "Vou embaralhar,",
+      "SPANISH": "Voy a mezclarlas,",
+      "PERSIAN": "اونا رو به هم می زنم،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "빨간색 카드가 어디 있는지 맞혀 주면 되는거예요.",
+      "ENGLISH": "and all you have to do is guess where the red card ends up.",
+      "CHINESE_SIMPLIFIED": "你们只需要找出红色牌在哪里就行",
+      "CHINESE_TRADITIONAL": "你們只要猜紅色牌在哪裡就行了",
+      "JAPANESE": "赤いカードがどこにあるか当ててもらえばいいんです",
+      "INDONESIAN": "dan yang perlu kamu lakukan hanyalah menebak di mana kartu merah berakhir.",
+      "PORTUGUESE": "e vocês só precisam adivinhar onde está a carta vermelha.",
+      "SPANISH": "y solo tienen que adivinar dónde está la carta roja.",
+      "PERSIAN": "و تنها کاری که باید انجام دهید این است که حدس بزنید کارت قرمز به کجا ختم می شود."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "한번 섞어볼게요 ",
+      "ENGLISH": "Let’s try it once.",
+      "CHINESE_SIMPLIFIED": "我来洗牌咯",
+      "CHINESE_TRADITIONAL": "我先洗一次牌",
+      "JAPANESE": "じゃあ混ぜますね",
+      "INDONESIAN": "Mari kita coba sekali.",
+      "PORTUGUESE": "Vamos embaralhar...",
+      "SPANISH": "Vamos a mezclar...",
+      "PERSIAN": "یکبار امتحانش کنیم"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 지금 빨간색 카드 어디 있어요?",
+      "ENGLISH": "Okay—where’s the red card?",
+      "CHINESE_SIMPLIFIED": "好了，红色牌在哪里呢？",
+      "CHINESE_TRADITIONAL": "好了，紅色牌在哪裡呢？",
+      "JAPANESE": "さぁ 赤いカードはどこでしょう？",
+      "INDONESIAN": "Oke—di mana kartu merahnya?",
+      "PORTUGUESE": "Certo, onde está a carta vermelha?",
+      "SPANISH": "Bien, ¿dónde está la carta roja?",
+      "PERSIAN": "خوب - کارت قرمز کجاست؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 여기요!",
+      "ENGLISH": "Hmm… right here!",
+      "CHINESE_SIMPLIFIED": "嗯...这里！",
+      "CHINESE_TRADITIONAL": "嗯…在這裡！",
+      "JAPANESE": "うーん…ここ！",
+      "INDONESIAN": "Hmm… di sini!",
+      "PORTUGUESE": "Hã... aqui!",
+      "SPANISH": "Mmm... ¡aquí!",
+      "PERSIAN": "هوم... همینجا!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 굉장히 잘 맞히셨어요.",
+      "ENGLISH": "Ooh~ nice! You got it!",
+      "CHINESE_SIMPLIFIED": "哦~猜得非常准呢",
+      "CHINESE_TRADITIONAL": "喔～你猜得非常準呢",
+      "JAPANESE": "お〜 すごい！ よく当てましたね",
+      "INDONESIAN": "Wah~ Keren! Kamu berhasil!",
+      "PORTUGUESE": "Oh~ muito bem! Acertaram.",
+      "SPANISH": "¡Oh~ muy bien! Acertaron.",
+      "PERSIAN": "اوه~ خوب! فهمیدی!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 하는 거예요.",
+      "ENGLISH": "That’s how it works.",
+      "CHINESE_SIMPLIFIED": "就是这样玩的",
+      "CHINESE_TRADITIONAL": "就是這樣玩的",
+      "JAPANESE": "こういう感じです",
+      "INDONESIAN": "Begitulah cara kerjanya.",
+      "PORTUGUESE": "É assim que se faz.",
+      "SPANISH": "Así es como se hace.",
+      "PERSIAN": "اینطوری کار میکنه"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 그러면 본격적으로 한번 섞어 보도록 하겠습니다.",
+      "ENGLISH": "Now let’s do the real thing.",
+      "CHINESE_SIMPLIFIED": "那么现在正式开始洗牌了",
+      "CHINESE_TRADITIONAL": "接下來我要正式開始洗牌了",
+      "JAPANESE": "では 本番いきましょう",
+      "INDONESIAN": "Sekarang mari kita lakukan hal yang nyata.",
+      "PORTUGUESE": "Agora sim, vamos fazer pra valer.",
+      "SPANISH": "Ahora sí, vamos a hacerlo en serio.",
+      "PERSIAN": "حالا بیایید کار واقعی را انجام دهیم."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "좌우측에는 검정색이고요, 가운데는 빨간색입니다.",
+      "ENGLISH": "Black card on the right, red card in the middle.",
+      "CHINESE_SIMPLIFIED": "左右两边是黑色，中间是红色",
+      "CHINESE_TRADITIONAL": "右邊是黑色牌，中間是紅色牌",
+      "JAPANESE": "右が黒 真ん中が赤です",
+      "INDONESIAN": "Kartu hitam di kanan, kartu merah di tengah.",
+      "PORTUGUESE": "À direita tem uma carta preta, no meio a vermelha.",
+      "SPANISH": "A la derecha está una carta negra, en el centro la roja.",
+      "PERSIAN": "کارت سیاه در سمت راست، کارت قرمز در وسط."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 35.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이제부터 여러분들은 빨간색 카드를 찾으시면 됩니다.",
+      "ENGLISH": "From now on, your job is to follow the red card.",
+      "CHINESE_SIMPLIFIED": "接下来请大家找出红色牌的位置",
+      "CHINESE_TRADITIONAL": "現在開始，你們只要找出紅色牌就行了",
+      "JAPANESE": "今から皆さんには 赤いカードを見つけてもらいます",
+      "INDONESIAN": "Mulai sekarang, tugas kamu adalah mengikuti kartu merah.",
+      "PORTUGUESE": "A partir de agora, é só seguir a carta vermelha.",
+      "SPANISH": "A partir de ahora, solo tienen que seguir la carta roja.",
+      "PERSIAN": "از این به بعد وظیفه شما پیروی از کارت قرمز است."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 35.6,
+      "HIDE": 37.9
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 굉장히 빠르게",
+      "ENGLISH": "Here we go—",
+      "CHINESE_SIMPLIFIED": "现在我会用非常快",
+      "CHINESE_TRADITIONAL": "那麼，我用非常快速",
+      "JAPANESE": "さぁ すごく早く",
+      "INDONESIAN": "Ini dia-",
+      "PORTUGUESE": "Muito bem, vou embaralhar rápido,",
+      "SPANISH": "Muy bien, la voy a mezclar rápido,",
+      "PERSIAN": "اینجا می رویم -"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 41.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아주, 아주 빠른 손놀림으로 섞었습니다.",
+      "ENGLISH": "Quick hands, very quick shuffle...",
+      "CHINESE_SIMPLIFIED": "非常非常快速的手法洗牌",
+      "CHINESE_TRADITIONAL": "非常非常快的手法洗牌",
+      "JAPANESE": "ものすごく早い手さばきで混ぜました",
+      "INDONESIAN": "Tangan cepat, kocokan sangat cepat...",
+      "PORTUGUESE": "bem, bem rápido, com movimentos ágeis.",
+      "SPANISH": "muy, muy rápido, con movimientos ágiles.",
+      "PERSIAN": "دست های سریع، جابجایی بسیار سریع..."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 41.9,
+      "HIDE": 43.0
+    },
+    "SCRIPT": {
+      "KOREAN": "한 번 더 섞을게요.",
+      "ENGLISH": "And one more time!",
+      "CHINESE_SIMPLIFIED": "接着再洗一次",
+      "CHINESE_TRADITIONAL": "接著再洗一次",
+      "JAPANESE": "もう一度混ぜますね",
+      "INDONESIAN": "Dan sekali lagi!",
+      "PORTUGUESE": "Mais uma vez...",
+      "SPANISH": "Una vez más...",
+      "PERSIAN": "و یک بار دیگر!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 43.6,
+      "HIDE": 45.9
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 1번, 2번, 3번.",
+      "ENGLISH": "Alright—card 1, card 2, card 3.",
+      "CHINESE_SIMPLIFIED": "好，1号、2号、3号",
+      "CHINESE_TRADITIONAL": "1號、2號、3號",
+      "JAPANESE": "1番 2番 3番",
+      "INDONESIAN": "Baiklah—kartu 1, kartu 2, kartu 3.",
+      "PORTUGUESE": "Certo, posições: 1, 2 ou 3.",
+      "SPANISH": "Bien, posiciones: 1, 2 o 3.",
+      "PERSIAN": "بسیار خوب - کارت 1، کارت 2، کارت 3."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 46.7,
+      "HIDE": 48.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어디에 있을까요?",
+      "ENGLISH": "Where do you think the red card is?",
+      "CHINESE_SIMPLIFIED": "红色牌会在哪里呢？",
+      "CHINESE_TRADITIONAL": "紅色牌會在哪裡呢？",
+      "JAPANESE": "さて どこにあるでしょう？",
+      "INDONESIAN": "Menurut kamu di mana kartu merahnya?",
+      "PORTUGUESE": "Onde acham que está?",
+      "SPANISH": "¿Dónde creen que está?",
+      "PERSIAN": "به نظر شما کارت قرمز کجاست؟"
+    }
+  }
+]

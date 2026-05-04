@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.4
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕 조!",
+      "ENGLISH": "Hey, Joe!",
+      "CHINESE_SIMPLIFIED": "你好，Joe！",
+      "CHINESE_TRADITIONAL": "哈囉，Joe！",
+      "JAPANESE": "ジョー、こんにちは！",
+      "INDONESIAN": "Hai, Joe!",
+      "PORTUGUESE": "Oi, Joe!",
+      "SPANISH": "¡Hola, Joe!",
+      "PERSIAN": "هی، جو!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": " 얘. 나. 친구. 우리도. 친구!",
+      "ENGLISH": "Hey. Me. Friend. We’re friends too!",
+      "CHINESE_SIMPLIFIED": "这位、我、朋友！我们也是、朋友！",
+      "CHINESE_TRADITIONAL": "這個，我，朋友，我們也，朋友！？",
+      "JAPANESE": "こっち、俺、友達、俺たちも、友だち！",
+      "INDONESIAN": "Hai. Aku. Temen kamu. Kita juga temenan!",
+      "PORTUGUESE": "Eu… amigo. Nós… também amigos.",
+      "SPANISH": "Yo… amigo. Nosotros… también amigos.",
+      "PERSIAN": "سلام. من دوست ما هم دوستیم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 파티! 나 처음이야! 너는??",
+      "ENGLISH": "Uh… party! It’s my first time! What about you??",
+      "CHINESE_SIMPLIFIED": "呃...派对！我第一次来！你呢？？",
+      "CHINESE_TRADITIONAL": "呃...Party！我第一次！你呢？？",
+      "JAPANESE": "あ…パーティー！俺、初めて！君は？",
+      "INDONESIAN": "Uh… pesta! Ini pertama kalinya aku nih! Kamu gimana??",
+      "PORTUGUESE": "Eh… festa! É minha primeira vez! E você?",
+      "SPANISH": "Eh… ¡fiesta! ¡Es mi primera vez! ¿Y tú?",
+      "PERSIAN": "اوه... مهمانی! اولین بارمه! تو چی؟؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "は？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "여보세요?",
+      "ENGLISH": "Hello?",
+      "CHINESE_SIMPLIFIED": "喂？",
+      "CHINESE_TRADITIONAL": "喂？",
+      "JAPANESE": "もしもし？",
+      "INDONESIAN": "Halo?",
+      "PORTUGUESE": "Oi?",
+      "SPANISH": "¿Hola?",
+      "PERSIAN": "سلام؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어 아니 유나 파트너 데려왔는데",
+      "ENGLISH": "Oh, no, Yu‑na brought a partner.",
+      "CHINESE_SIMPLIFIED": "不是啊，有娜带了个搭档来",
+      "CHINESE_TRADITIONAL": "喔，不是啦，是有娜帶了個伴來",
+      "JAPANESE": "あー、ユナがパートナー連れてきたんだけど",
+      "INDONESIAN": "Aduh, Yu-na bawa pasangan rupanya.",
+      "PORTUGUESE": "Não, escuta — a Yuna trouxe o acompanhante,",
+      "SPANISH": "No, oye, Yuna trajo a su acompañante,",
+      "PERSIAN": "اوه، نه، یونا شریکی آورد."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "얘 한국말 존X 못 해! 무슨 나보다 못 해! ",
+      "ENGLISH": "He barely speaks Korean! He’s even worse than me!",
+      "CHINESE_SIMPLIFIED": "但是他韩语烂透了！说得比我还烂！",
+      "CHINESE_TRADITIONAL": "但他韓文爛透了！竟然比我還爛！",
+      "JAPANESE": "こいつ韓国語クソ下手！俺より下手！",
+      "INDONESIAN": "Koreanya aja nyaris nggak bisa! Lebih parah dari aku!",
+      "PORTUGUESE": "mas esse cara não sabe nada de coreano! Fala pior que eu!",
+      "SPANISH": "¡pero este tipo no sabe nada de coreano! ¡Habla peor que yo!",
+      "PERSIAN": "او به سختی کره ای صحبت می کند! او از من هم بدتر است!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너 도착했어?",
+      "ENGLISH": "Did you get here yet?",
+      "CHINESE_SIMPLIFIED": "你到了吗？",
+      "CHINESE_TRADITIONAL": "你到了嗎？",
+      "JAPANESE": "お前、着いた?",
+      "INDONESIAN": "Kamu udah nyampe belum?",
+      "PORTUGUESE": "Já chegou?",
+      "SPANISH": "¿Ya llegaste?",
+      "PERSIAN": "هنوز به اینجا رسیدی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 29.4
+    },
+    "SCRIPT": {
+      "KOREAN": "...조가 한양 조씨였어?",
+      "ENGLISH": "…Joe’s from the Hanyang Jo clan??",
+      "CHINESE_SIMPLIFIED": "...Joe祖上是汉阳赵氏？",
+      "CHINESE_TRADITIONAL": "... Joe是指漢陽趙氏嗎？",
+      "JAPANESE": "...ジョーって、漢陽ジョ氏だったの？",
+      "INDONESIAN": "…Joe itu beneran dari marga Jo Hanyang??",
+      "PORTUGUESE": "...Joe é do clã Han-yang Jo?",
+      "SPANISH": "…¿Joe es del clan Han-yang Jo?",
+      "PERSIAN": "... جو از قبیله هانیانگ جو؟"
+    }
+  }
+]

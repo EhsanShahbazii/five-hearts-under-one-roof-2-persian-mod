@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 후회할 거 같아요?",
+      "ENGLISH": "Do you think I’ll regret this?",
+      "CHINESE_SIMPLIFIED": "你觉得我会后悔吗？",
+      "CHINESE_TRADITIONAL": "你覺得我會後悔嗎？",
+      "JAPANESE": "俺が後悔してるように見えます？",
+      "INDONESIAN": "Kamu pikir aku bakal nyesel?",
+      "PORTUGUESE": "Você acha que eu me arrependeria?",
+      "SPANISH": "¿Crees que me arrepentiría?",
+      "PERSIAN": "به نظر شما پشیمان خواهم شد؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그걸 잘 모르겠어요.",
+      "ENGLISH": "I’m… not really sure.",
+      "CHINESE_SIMPLIFIED": "这个...我不太确定...",
+      "CHINESE_TRADITIONAL": "這個...我也不太確定...",
+      "JAPANESE": "それがよくわからないです",
+      "INDONESIAN": "Aku… nggak yakin juga.",
+      "PORTUGUESE": "Não sei.",
+      "SPANISH": "No lo sé.",
+      "PERSIAN": "من ... واقعا مطمئن نیستم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 후회 안 해요.",
+      "ENGLISH": "I won’t regret it.",
+      "CHINESE_SIMPLIFIED": "我一点也不后悔",
+      "CHINESE_TRADITIONAL": "我沒有後悔",
+      "JAPANESE": "俺は後悔してませんよ",
+      "INDONESIAN": "Aku nggak bakal nyesel.",
+      "PORTUGUESE": "Pois eu não me arrependo.",
+      "SPANISH": "Pues no me arrepiento.",
+      "PERSIAN": "پشیمان نخواهم شد"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 유정 씨가 여기 지내면서 자주 행복하면 좋겠어요.",
+      "ENGLISH": "I just hope that while you stay here, Yu-jeong… you’ll be happy often.",
+      "CHINESE_SIMPLIFIED": "只是希望你住在这里时，能常常感到幸福",
+      "CHINESE_TRADITIONAL": "我希望有情你住在這邊的時候，能常常感到幸福",
+      "JAPANESE": "ただ、ユジョンさんがここで楽しく過ごしてくれたらいいなって思ってます",
+      "INDONESIAN": "Aku cuma berharap selama kamu tinggal di sini, Yu-jeong… kamu bisa sering bahagia.",
+      "PORTUGUESE": "Só quero que você seja feliz morando aqui.",
+      "SPANISH": "Solo quiero que seas feliz viviendo aquí.",
+      "PERSIAN": "فقط امیدوارم تا زمانی که اینجا می مانی، یو-جئونگ... اغلب خوشحال باشی."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨가 행복해야, 나도 행복할 것 같으니까.",
+      "ENGLISH": "Because if you’re happy, then I think I’ll be happy too.",
+      "CHINESE_SIMPLIFIED": "因为你幸福的话，我也会跟着幸福",
+      "CHINESE_TRADITIONAL": "因為你幸福的話，我也會跟著幸福",
+      "JAPANESE": "ユジョンさんが幸せなら、俺も幸せですから",
+      "INDONESIAN": "Soalnya kalau kamu bahagia, aku juga bakal ikut bahagia.",
+      "PORTUGUESE": "Porque se você for feliz, eu também vou ser.",
+      "SPANISH": "Porque si tú eres feliz, yo también lo seré.",
+      "PERSIAN": "زیرا اگر شما خوشحال باشید، پس فکر می کنم من هم خوشحال خواهم شد."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저도... 저도! 유만 씨가 행복해져야 저도 행복해요..",
+      "ENGLISH": "Me too… me too! If Yuman is happy, then I’m happy…",
+      "CHINESE_SIMPLIFIED": "我也...我也是！只要宥万先生幸福，我也会幸福...",
+      "CHINESE_TRADITIONAL": "我也...我也是！只要宥萬先生幸福，我也會幸福...",
+      "JAPANESE": "私…私もです！ユマンさんが幸せじゃないと、私も幸せじゃないです…",
+      "INDONESIAN": "Aku juga… aku juga! Kalau Yuman bahagia, aku juga ikut bahagia…",
+      "PORTUGUESE": "Eu também… me sinto igual.",
+      "SPANISH": "Yo también… me siento igual.",
+      "PERSIAN": "منم همینطور...منم همینطور! اگر یومان خوشحال است، پس من خوشحالم…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 우리 같이 행복해지면 되겠다 그쵸?",
+      "ENGLISH": "Then we just have to be happy together, right?",
+      "CHINESE_SIMPLIFIED": "那我们就一起变得幸福吧，好吗？",
+      "CHINESE_TRADITIONAL": "那我們就一起變得幸福吧，好嗎？",
+      "JAPANESE": "じゃあ、一緒に幸せになればいいですね、ね？",
+      "INDONESIAN": "Kalau gitu kita tinggal bahagia bareng, kan?",
+      "PORTUGUESE": "Se o senhor for feliz, eu também sou.",
+      "SPANISH": "Si usted es feliz, yo también lo soy.",
+      "PERSIAN": "بعد فقط باید با هم خوش باشیم، درسته؟"
+    }
+  },
+  {
+    "SCRIPT": {
+      "PORTUGUESE": "Então… a gente só precisa ser feliz juntos, né?",
+      "SPANISH": "Entonces… solo tenemos que ser felices juntos, ¿verdad?",
+      "PERSIAN": ""
+    }
+  }
+]

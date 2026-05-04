@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 이거",
+      "ENGLISH": "Uh, here…",
+      "CHINESE_SIMPLIFIED": "对了，这个...",
+      "CHINESE_TRADITIONAL": "對了，這個…",
+      "JAPANESE": "あ、これ",
+      "INDONESIAN": "Oh, ini dia.",
+      "PORTUGUESE": "Uh, aqui…",
+      "SPANISH": "¡Ah, cierto!",
+      "PERSIAN": "عه، ایناشا!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어..어... 한참 찾았는데...",
+      "ENGLISH": "Uh… uh… I looked everywhere for this…",
+      "CHINESE_SIMPLIFIED": "呃、呃…我找了好一阵子呢…",
+      "CHINESE_TRADITIONAL": "啊…我…我找了好一陣子…",
+      "JAPANESE": "え、えっと…ずっと探してたんですけど…",
+      "INDONESIAN": "Uh... aku udah nyari-nyari lama banget...",
+      "PORTUGUESE": "Uh… uh… procurei isso em todo lugar…",
+      "SPANISH": "E-eh... estuve buscándola por todas partes...",
+      "PERSIAN": "آخیش... کلی دنبالش گشتم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다.",
+      "ENGLISH": "Thank you.",
+      "CHINESE_SIMPLIFIED": "谢谢你",
+      "CHINESE_TRADITIONAL": "謝謝",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Terima kasih.",
+      "PORTUGUESE": "Obrigada.",
+      "SPANISH": "Muchas gracias.",
+      "PERSIAN": "خیلی ممنون ازتون."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "다행이네요.",
+      "ENGLISH": "Glad you found it.",
+      "CHINESE_SIMPLIFIED": "还好有找到",
+      "CHINESE_TRADITIONAL": "真是太好了",
+      "JAPANESE": "よかったですね",
+      "INDONESIAN": "Syukurlah.",
+      "PORTUGUESE": "Que bom que encontrou.",
+      "SPANISH": "Qué alivio.",
+      "PERSIAN": "خداروشکر پیدا شد."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "마저 계산해드릴게요.",
+      "ENGLISH": "Let’s finish your checkout.",
+      "CHINESE_SIMPLIFIED": "我来继续帮您结账吧",
+      "CHINESE_TRADITIONAL": "那我繼續幫你結帳",
+      "JAPANESE": "じゃあ続き、お会計しますね",
+      "INDONESIAN": "Saya lanjut hitung belanjaannya ya.",
+      "PORTUGUESE": "Vamos terminar sua compra.",
+      "SPANISH": "Voy a terminar de cobrarle.",
+      "PERSIAN": "بقیه حساب‌تونو انجام بدم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증 부탁드립니다.",
+      "ENGLISH": "I’ll need to see your ID.",
+      "CHINESE_SIMPLIFIED": "请出示一下身份证",
+      "CHINESE_TRADITIONAL": "麻煩出示身分證",
+      "JAPANESE": "身分証お願いします",
+      "INDONESIAN": "Tolong tunjukkan KTP.",
+      "PORTUGUESE": "Vou precisar ver sua identidade.",
+      "SPANISH": "¿Me permite su identificación, por favor?",
+      "PERSIAN": "کارت ملی‌تونو لطف می‌کنین؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아..그게 제가 신분증을 두고 와가지고...",
+      "ENGLISH": "Ah… the thing is, I left my ID at home…",
+      "CHINESE_SIMPLIFIED": "那个…我没带身份证...",
+      "CHINESE_TRADITIONAL": "啊…那個，我把身分證忘在家裡了…",
+      "JAPANESE": "あ…それが、身分証を置いてきて…",
+      "INDONESIAN": "Itu... soalnya KTP-nya ketinggalan...",
+      "PORTUGUESE": "Ah… é que eu deixei minha identidade em casa…",
+      "SPANISH": "Es que… no la traje…",
+      "PERSIAN": "راستش... متأسفانه کارتمو جا گذاشتم خونه..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "한 번만 봐주시면 안될까요!?",
+      "ENGLISH": "Can’t you let it slide just this once!?",
+      "CHINESE_SIMPLIFIED": "可以这一次就通融一下吗！？",
+      "CHINESE_TRADITIONAL": "能通融這一次嗎！？",
+      "JAPANESE": "今回だけ見逃してもらえませんか！？",
+      "INDONESIAN": "Nggak bisa dilonggarin sekali aja?",
+      "PORTUGUESE": "Não dá pra deixar passar só dessa vez!?",
+      "SPANISH": "¿No podría ayudarme solo esta vez, por favor?",
+      "PERSIAN": "می‌شه فقط همین یه بارو به روم نیارین؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 내일 들고 올게요! 네?",
+      "ENGLISH": "I promise I’ll bring it tomorrow, okay?",
+      "CHINESE_SIMPLIFIED": "我明天一定带来！真的！",
+      "CHINESE_TRADITIONAL": "我明天會帶來的！好嗎？",
+      "JAPANESE": "明日ちゃんと持ってきますから！ねっ？",
+      "INDONESIAN": "Besok aku janji bawa, ya? Iya?",
+      "PORTUGUESE": "Eu prometo que trago amanhã, tá?",
+      "SPANISH": "¡Se la traigo mañana, lo prometo! ¿Sí?",
+      "PERSIAN": "قول می‌دم فردا حتماً براتون بیارم نشون بدم! قبول؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "사실... 병원 베드에 적힌 나이를 봤어서...",
+      "ENGLISH": "Actually… I saw the age written on your hospital bed tag…",
+      "CHINESE_SIMPLIFIED": "其实…我刚才有看到你病床上的年龄信息…",
+      "CHINESE_TRADITIONAL": "其實…我看到你病床上寫的年齡了…",
+      "JAPANESE": "実は…病院のベッドに書かれてた年齢、見ちゃったんですよね…",
+      "INDONESIAN": "Sebenarnya... aku udah sempet liat umur kamu di data rumah sakit...",
+      "PORTUGUESE": "Na verdade… eu vi a idade anotada na sua pulseira do hospital…",
+      "SPANISH": "La verdad… vi su edad escrita en su camilla de hospital...",
+      "PERSIAN": "راستش... اون موقع که بستری بودین سن‌تون روی کارت مشخصات تخت رو دیده بودم..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 32.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이번 딱 한 번만 넘어가드릴게요.",
+      "ENGLISH": "So just this one time, I’ll let it pass.",
+      "CHINESE_SIMPLIFIED": "这次就通融你一次吧",
+      "CHINESE_TRADITIONAL": "只有通融這一次喔",
+      "JAPANESE": "だから今回だけは特別に見逃します",
+      "INDONESIAN": "Jadi kali ini aja aku izinin.",
+      "PORTUGUESE": "Então só dessa vez, eu deixo passar.",
+      "SPANISH": "Así que solo por esta vez lo dejaré pasar.",
+      "PERSIAN": "واسه همین فقط همین یه دفعه رو چشم‌پوشی می‌کنم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.7,
+      "HIDE": 34.8
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜요!? 와!! 감사합니다!",
+      "ENGLISH": "Really!? Wow!! Thank you!",
+      "CHINESE_SIMPLIFIED": "真的可以吗！？哇！！谢谢你！！",
+      "CHINESE_TRADITIONAL": "真的嗎！？哇！！太感謝了！",
+      "JAPANESE": "ほんとに！？ わぁ！！ありがとうございます！",
+      "INDONESIAN": "Serius!? Wah!! Makasih banyak!",
+      "PORTUGUESE": "Sério!? Uau!! Obrigado!",
+      "SPANISH": "¿En serio? ¡Muchas gracias!",
+      "PERSIAN": "واقعاً راست می‌گین؟! ایوللل!! دمتون گرم!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 38.0
+    },
+    "SCRIPT": {
+      "KOREAN": "앗싸! 다행이다. 훠우!",
+      "ENGLISH": "Yes! What a relief—woo!",
+      "CHINESE_SIMPLIFIED": "太好了！真是太幸运啦～呼～！",
+      "CHINESE_TRADITIONAL": "耶！太好了。喔耶！",
+      "JAPANESE": "やった！助かった〜！ふぅ〜！",
+      "INDONESIAN": "Yes! Syukurlah. Fiuhh!",
+      "PORTUGUESE": "Sim! Que alívio—woo!",
+      "SPANISH": "¡Yesss! ¡Qué buena suerte!",
+      "PERSIAN": "یسسس! به خیر گذشت! ایولا!"
+    }
+  }
+]

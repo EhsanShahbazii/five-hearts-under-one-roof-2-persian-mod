@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "(싸움의 기술)\n음?",
+      "ENGLISH": "(The Art of Fighting)\nHm?",
+      "CHINESE_SIMPLIFIED": "（《格斗的技巧》）\n嗯？",
+      "CHINESE_TRADITIONAL": "（吵架的技巧）嗯？",
+      "JAPANESE": "「ケンカの技術」\nん？",
+      "INDONESIAN": "(Teknik Bertarung)\nHm?",
+      "PORTUGUESE": "(A Arte de Lutar)\nHm?",
+      "SPANISH": "(Técnicas de pelea)\n¿Eh?",
+      "PERSIAN": "(اصول مبارزه و دعوا) هوم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "(싸움의 기술)\n이런 게 왜 여기 있지?",
+      "ENGLISH": "(The Art of Fighting)\nWhy’s this here?",
+      "CHINESE_SIMPLIFIED": "（《格斗的技巧》）\n她怎么会有这种书？",
+      "CHINESE_TRADITIONAL": "（吵架的技巧）這種東西怎麼會在這裡？",
+      "JAPANESE": "「ケンカの技術」\nなんでこんなのがここにあるんだ？",
+      "INDONESIAN": "(Teknik Bertarung)\nKok buku beginian ada di sini ya?",
+      "PORTUGUESE": "(A Arte de Lutar)\nPor que isso tá aqui?",
+      "SPANISH": "(Técnicas de pelea)\n¿Por qué hay algo así aquí?",
+      "PERSIAN": "(اصول مبارزه و دعوا) این دیگه چرا اینجاست؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "신기하네.",
+      "ENGLISH": "That’s odd…",
+      "CHINESE_SIMPLIFIED": "真奇怪",
+      "CHINESE_TRADITIONAL": "真奇怪",
+      "JAPANESE": "不思議だな",
+      "INDONESIAN": "Aneh juga.",
+      "PORTUGUESE": "Que estranho…",
+      "SPANISH": "Qué curioso.",
+      "PERSIAN": "عجیبه واقعاً..."
+    }
+  }
+]

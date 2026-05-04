@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "출장 다녀오시면 되죠!",
+      "ENGLISH": "You can just go on the business trip and come back!",
+      "CHINESE_SIMPLIFIED": "等你出差回来就行啦！",
+      "CHINESE_TRADITIONAL": "等你出差回來就好啦！",
+      "JAPANESE": "出張から帰ってくればいいじゃないですか！",
+      "INDONESIAN": "Manajer!",
+      "PORTUGUESE": "Só vai na sua viagem e volta!",
+      "SPANISH": "¡Solo vaya a su viaje y regrese!",
+      "PERSIAN": "شما فقط می توانید به سفر کاری بروید و برگردید!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그치만 내가 그렇게 자주 집 비우게 돼서...",
+      "ENGLISH": "Yeah, but if I keep being away like that,",
+      "CHINESE_SIMPLIFIED": "可我要是经常不在",
+      "CHINESE_TRADITIONAL": "話是這麼說，但如果我經常不在的話，房子就空著了",
+      "JAPANESE": "でも、私がそんなに頻繁に家を空けたら…",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "Sim, mas se eu for ficar fora com tanta frequência…",
+      "SPANISH": "Sí, pero si voy a estar fuera tan seguido…",
+      "PERSIAN": "آره، اما اگر به همین شکل دور باشم،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하숙집에 노는 방 생기면 그거 다 낭비 아니야?",
+      "ENGLISH": "wouldn’t it be a waste to leave an empty room in the boarding house?",
+      "CHINESE_SIMPLIFIED": "合租屋空出个房间，不也挺浪费的吗？",
+      "CHINESE_TRADITIONAL": "公寓裡出現空房間的話，不是挺浪費的嗎？",
+      "JAPANESE": "下宿に空き部屋ができるでしょ、それは無駄じゃない？",
+      "INDONESIAN": "Kita ke sini buat kerja, kan?",
+      "PORTUGUESE": "não seria um desperdício deixar um quarto vazio na pensão?",
+      "SPANISH": "¿no sería un desperdicio tener una habitación vacía en la pensión?",
+      "PERSIAN": "ترک یک اتاق خالی در پانسیون ضایع نخواهد بود؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 낭비면 어때요, 어차피 다 과장님을 위한 방인데.",
+      "ENGLISH": "Even if it’s a “waste,” so what? That room is for you anyway.",
+      "CHINESE_SIMPLIFIED": "哎~浪费又怎样，那本来就是为科长准备的房间",
+      "CHINESE_TRADITIONAL": "哎～浪費又怎麼樣？反正那本來也是為了課長準備的房間",
+      "JAPANESE": "え〜、無駄でもいいじゃないですか。どうせ全部、課長のための部屋なんですし。",
+      "INDONESIAN": "Yuman, kita ke sini buat tes lini baju renang terbaru perusahaan.",
+      "PORTUGUESE": "Ai~ que que tem isso? No fim das contas, aquele quarto é seu, Gran.",
+      "SPANISH": "Ay~ ¿eso que importa? Al final, esa habitación es suya, Gran.",
+      "PERSIAN": "حتی اگر \"هدر دادن\" باشد، پس چه؟ به هر حال اون اتاق برای شماست."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "낭비가 되건 안 되건.",
+      "ENGLISH": "Whether it’s wasted or not —",
+      "CHINESE_SIMPLIFIED": "不管算不算浪费",
+      "CHINESE_TRADITIONAL": "不管浪費不浪費",
+      "JAPANESE": "無駄でも無駄じゃなくても",
+      "INDONESIAN": "Dan aku udah bilang, kalau di luar panggil nama aku.",
+      "PORTUGUESE": "Sendo desperdício ou não,",
+      "SPANISH": "Sea o no un desperdicio,",
+      "PERSIAN": "خواه هدر رفته باشد یا نه -"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "난 그냥 과장님만 기다릴 거예요.",
+      "ENGLISH": "I’m just going to wait for you, Manager.",
+      "CHINESE_SIMPLIFIED": "我都会等着科长回来的",
+      "CHINESE_TRADITIONAL": "我都會等著課長回來的",
+      "JAPANESE": "俺はただ、課長を待ってます",
+      "INDONESIAN": "Ah, iya… Gran…",
+      "PORTUGUESE": "eu vou te esperar do mesmo jeito.",
+      "SPANISH": "yo igual la voy a esperar.",
+      "PERSIAN": "من فقط منتظر شما هستم، مدیر."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "출장 다녀와서 보면 더 반가울지도 모르잖아요?",
+      "ENGLISH": "Maybe I’ll be even happier when you come back.",
+      "CHINESE_SIMPLIFIED": "也许你出差回来，看到我会更开心呢？",
+      "CHINESE_TRADITIONAL": "也許你出差回來後，看到我會更開心呢？",
+      "JAPANESE": "出張から帰ってきて会ったら、もっと嬉しいかもしれないですよ？",
+      "INDONESIAN": "Maksudnya, ini kan emang perjalanan dinas — tapi mumpung di sini, boleh dong sedikit dinikmatin?",
+      "PORTUGUESE": "Quando você voltar da viagem, talvez fique ainda mais feliz de me ver, não acha?",
+      "SPANISH": "Cuando vuelva del viaje, quizá se alegre aún más de verme, ¿no cree?",
+      "PERSIAN": "شاید وقتی برگردی خوشحال تر باشم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 말인지 알겠어 유만 씨",
+      "ENGLISH": "…I understand what you mean, Yuman.",
+      "CHINESE_SIMPLIFIED": "我懂你的意思了，宥万",
+      "CHINESE_TRADITIONAL": "我懂你的意思了～宥萬",
+      "JAPANESE": "言いたいことはわかったよ、ユマンさん",
+      "INDONESIAN": "Hah? Nikmatin gimana maksudnya?",
+      "PORTUGUESE": "Entendo o que você quer dizer, Yumán.",
+      "SPANISH": "Entiendo lo que quieres decir, Yumán.",
+      "PERSIAN": "... منظورت را می فهمم، یومان."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "다음번 출장도 나 잘 기다려주면",
+      "ENGLISH": "If you wait for me nicely on the next trip too,",
+      "CHINESE_SIMPLIFIED": "那下次出差，如果你乖乖等我",
+      "CHINESE_TRADITIONAL": "那下次出差，如果你乖乖等我的話",
+      "JAPANESE": "次の出張のときも、ちゃんと待っててくれたら",
+      "INDONESIAN": "Yuman, sini deh.",
+      "PORTUGUESE": "Se me esperar na próxima viagem,",
+      "SPANISH": "Si me esperas en mi próximo viaje,",
+      "PERSIAN": "اگر در سفر بعدی هم به خوبی منتظر من باشید،"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그땐 내가 상 줄게.",
+      "ENGLISH": "then I’ll give you a reward.",
+      "CHINESE_SIMPLIFIED": "我就给你奖励",
+      "CHINESE_TRADITIONAL": "我就給你獎勵",
+      "JAPANESE": "そのときは私がご褒美をあげる",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "vou te dar uma recompensa.",
+      "SPANISH": "te daré una recompensa.",
+      "PERSIAN": "سپس به شما جایزه می دهم"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "상이요...?",
+      "ENGLISH": "A reward...?",
+      "CHINESE_SIMPLIFIED": "奖励...？",
+      "CHINESE_TRADITIONAL": "獎勵...？",
+      "JAPANESE": "ご褒美…ですか？",
+      "INDONESIAN": "Rasanya beda ya dibanding ngelakuin ini di rumah?",
+      "PORTUGUESE": "Uma… recompensa?",
+      "SPANISH": "¿Una… recompensa?",
+      "PERSIAN": "جایزه...؟"
+    }
+  }
+]

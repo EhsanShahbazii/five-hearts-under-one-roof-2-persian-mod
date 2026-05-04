@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "간만에 몸 푸니까 개운하다.",
+      "ENGLISH": "Feels great to stretch out after a while.",
+      "CHINESE_SIMPLIFIED": "好久没活动筋骨了，真舒服",
+      "CHINESE_TRADITIONAL": "好久沒有這樣動一動身體，感覺真舒服",
+      "JAPANESE": "久しぶりに体を動かしたらスッキリした",
+      "INDONESIAN": "Enak banget deh rasanya bisa stretching lagi setelah sekian lama.",
+      "PORTUGUESE": "É bom movimentar o corpo depois de tanto tempo.",
+      "SPANISH": "Se siente bien mover el cuerpo después de tanto tiempo.",
+      "PERSIAN": "بعد از مدتی دراز شدن احساس خوبی دارد."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "고생했어, 유만 씨",
+      "ENGLISH": "Good job, Yuman.",
+      "CHINESE_SIMPLIFIED": "辛苦啦，宥万",
+      "CHINESE_TRADITIONAL": "辛苦你了，宥萬",
+      "JAPANESE": "お疲れさま、ユマンさん",
+      "INDONESIAN": "Kerja bagus, Yuman.",
+      "PORTUGUESE": "Bom trabalho, Yuman.",
+      "SPANISH": "Buen trabajo, Yumán.",
+      "PERSIAN": "کار خوب، یومان."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 그럼 저희 퇴근해 볼까요?",
+      "ENGLISH": "Yes! Shall we call it a day then?",
+      "CHINESE_SIMPLIFIED": "没事！那我们现在下班吗？",
+      "CHINESE_TRADITIONAL": "沒事！那我們就這樣下班了嗎？",
+      "JAPANESE": "はい！じゃあそろそろ帰りましょうか？",
+      "INDONESIAN": "Iya! Gimana, kita udahan aja sekarang?",
+      "PORTUGUESE": "Obrigado! Já vamos embora?",
+      "SPANISH": "¡Gracias! ¿nos vamos ya?",
+      "PERSIAN": "بله! اونو یک روز بنامیم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 유만 씨",
+      "ENGLISH": "Wait, Yuman—",
+      "CHINESE_SIMPLIFIED": "等等，宥万",
+      "CHINESE_TRADITIONAL": "等等，宥萬",
+      "JAPANESE": "ねぇユマンさん",
+      "INDONESIAN": "Tunggu, Yuman...",
+      "PORTUGUESE": "Ainda não...",
+      "SPANISH": "No todavía...",
+      "PERSIAN": "صبر کن یومان-"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나랑 맥주 한잔하고 들어갈래?",
+      "ENGLISH": "Do you want to grab a beer with me before we head out?",
+      "CHINESE_SIMPLIFIED": "要和我去喝杯啤酒再回去吗？",
+      "CHINESE_TRADITIONAL": "要不要一起去喝一杯啤酒再回去？",
+      "JAPANESE": "一緒にビール一杯してから帰らない？",
+      "INDONESIAN": "Mau nongkrong minum bir dulu bareng aku sebelum pulang?",
+      "PORTUGUESE": "Que tal uma cerveja antes de ir?",
+      "SPANISH": "¿Tomamos una cerveza antes de irnos?",
+      "PERSIAN": "میخوای قبل از اینکه بریم بیرون با من آبجو بخوری؟"
+    }
+  }
+]

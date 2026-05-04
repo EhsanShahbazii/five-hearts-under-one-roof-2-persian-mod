@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "더 알아가고 싶은 사람?",
+      "ENGLISH": "Someone I want to get to know better?",
+      "CHINESE_SIMPLIFIED": "是让人想更深入了解的人？",
+      "CHINESE_TRADITIONAL": "想進一步了解的人？",
+      "JAPANESE": "もっと知りたい人、ですかね？",
+      "INDONESIAN": "Orang yang pengin aku kenal lebih jauh?",
+      "PORTUGUESE": "Alguém que eu quero conhecer melhor?",
+      "SPANISH": "¿Alguien que quiero conocer más?",
+      "PERSIAN": "کسی هست که بخوام بیشتر باهاش ​​آشنا بشم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "알아가고 싶다구요?",
+      "ENGLISH": "You want to get to know me?",
+      "CHINESE_SIMPLIFIED": "想了解更多？",
+      "CHINESE_TRADITIONAL": "想了解更多？",
+      "JAPANESE": "知りたい…ですか？",
+      "INDONESIAN": "Iya, aku pengin kenal kamu lebih dekat",
+      "PORTUGUESE": "Quer me conhecer mais?",
+      "SPANISH": "¿Quiere conocerme más?",
+      "PERSIAN": "میخوای با من آشنا بشی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "병원에서도 보고, 편의점에서도 보고",
+      "ENGLISH": "I've seen you at the hospital, and now here at the convenience store too.",
+      "CHINESE_SIMPLIFIED": "在医院见过，在便利店也见过",
+      "CHINESE_TRADITIONAL": "在醫院見過，在超商也像這樣見過面",
+      "JAPANESE": "病院でも、コンビニでも、",
+      "INDONESIAN": "Aku sering lihat kamu di rumah sakit, di minimarket kayak sekarang juga",
+      "PORTUGUESE": "Já te vi no hospital, aqui na loja,",
+      "SPANISH": "Te he visto en el hospital, aquí en la tienda,",
+      "PERSIAN": "من شما را در بیمارستان دیدم، و اکنون اینجا در فروشگاه رفاه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이곳저곳에서 유정 씨를 봤는데",
+      "ENGLISH": "I've seen you here and there, Yujeong.",
+      "CHINESE_SIMPLIFIED": "在各个地方都遇见过你",
+      "CHINESE_TRADITIONAL": "在各種地方都遇到過你",
+      "JAPANESE": "いろんなところでユジョンさんを見てきたけど、",
+      "INDONESIAN": "Tapi aku pengin tahu",
+      "PORTUGUESE": "e em vários outros lugares...",
+      "SPANISH": "y en distintos lugares…",
+      "PERSIAN": "من تو را اینجا و آنجا دیده ام، یو-جونگ."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "일하는 모습이 아니라 그냥 인간 유정은 어떤 사람인지 더 알고 싶어요",
+      "ENGLISH": "I want to know more about the person Yujeong, not just the working version.",
+      "CHINESE_SIMPLIFIED": "但我更想了解的不是工作时的你，而是真实的你",
+      "CHINESE_TRADITIONAL": "我不只是想看妳工作的樣子，更想看到作為有情這個人是什麼樣子",
+      "JAPANESE": "仕事中の顔じゃなくて、“人としてのユジョン”をもっと知りたいんです。",
+      "INDONESIAN": "bukan Yujeong yang lagi kerja, tapi Yujeong sebagai manusia",
+      "PORTUGUESE": "mas quero conhecer mais do que só a Yujeong que trabalha.",
+      "SPANISH": "pero quiero conocer más que solo la Yujeon que trabaja,",
+      "PERSIAN": "من می خواهم در مورد شخص یو-جونگ بیشتر بدانم، نه فقط نسخه کار."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "지금까지의 전 어떤데요...?",
+      "ENGLISH": "What have I been like so far...?",
+      "CHINESE_SIMPLIFIED": "那到目前为止，我在你眼里是怎样的人？",
+      "CHINESE_TRADITIONAL": "那到目前為止，我在你眼中是什麼樣的人呢...?",
+      "JAPANESE": "今までの私はどうですか…？",
+      "INDONESIAN": "Selama ini, menurut kamu aku gimana...?",
+      "PORTUGUESE": "E qual é a sua impressão até agora..?",
+      "SPANISH": "¿Y cuál es su impresión hasta ahora..?",
+      "PERSIAN": "من تا الان چطور بودم...؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "여린데 강단 있고, 소심한 거 같은데 대범하고.",
+      "ENGLISH": "You're delicate yet strong. You seem timid but are bold.",
+      "CHINESE_SIMPLIFIED": "看起来柔弱却又有毅力，看似内向其实大胆",
+      "CHINESE_TRADITIONAL": "既柔弱又堅強，看起來膽小又大膽",
+      "JAPANESE": "優しいけど芯があって、控えめなようで大胆。",
+      "INDONESIAN": "Kelihatan lembut, tapi sebenernya tegas. Kelihatan pemalu, tapi bisa juga berani",
+      "PORTUGUESE": "Você é delicada, mas decidida, parece tímida, mas é corajosa.",
+      "SPANISH": "Eres delicada pero decidida, parece tímida pero eres valiente.",
+      "PERSIAN": "شما ظریف و در عین حال قوی هستید شما ترسو به نظر می رسید اما جسور هستید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 알다가도 모르겠어요",
+      "ENGLISH": "I really can't figure you out.",
+      "CHINESE_SIMPLIFIED": "真是让人捉摸不透呢",
+      "CHINESE_TRADITIONAL": "讓人捉模不透呢",
+      "JAPANESE": "ほんと、知れば知るほどわからない人です。",
+      "INDONESIAN": "Jujur aja... aku nggak bisa nebak kamu",
+      "PORTUGUESE": "De verdade... é difícil te entender completamente.",
+      "SPANISH": "De verdad... es difícil de comprenderte por completo.",
+      "PERSIAN": "من واقعا نمی توانم شما را بفهمم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.7,
+      "HIDE": 27.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래요...?",
+      "ENGLISH": "Is that so...?",
+      "CHINESE_SIMPLIFIED": "这样啊...？",
+      "CHINESE_TRADITIONAL": "這樣啊...？",
+      "JAPANESE": "そう…ですか？",
+      "INDONESIAN": "Gitu ya...?",
+      "PORTUGUESE": "Sério...?",
+      "SPANISH": "¿En serio...?",
+      "PERSIAN": "همینطوره...؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네~ 그래서 자꾸 눈길이 가요.",
+      "ENGLISH": "Yeah~ That's why I keep noticing you.",
+      "CHINESE_SIMPLIFIED": "没错~所以目光总会不自觉追随你",
+      "CHINESE_TRADITIONAL": "是啊～所以我的目光總是不自覺地追隨著你",
+      "JAPANESE": "ええ、だから目が離せないんです。",
+      "INDONESIAN": "Iya~ makanya aku terus ngelirik kamu",
+      "PORTUGUESE": "Sim~ por isso não consigo parar de te olhar.",
+      "SPANISH": "Sí~ por eso no puedo dejar de mirarte.",
+      "PERSIAN": "آره ~ به همین دلیل است که من مدام به شما توجه می کنم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.1,
+      "HIDE": 33.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨를 더 알아가고 싶어요.",
+      "ENGLISH": "I want to get to know you better.",
+      "CHINESE_SIMPLIFIED": "我想更了解你",
+      "CHINESE_TRADITIONAL": "我想更了解你",
+      "JAPANESE": "ユジョンさんのこと、もっと知りたいです。",
+      "INDONESIAN": "Aku pengin kenal kamu lebih dalam",
+      "PORTUGUESE": "Quero te conhecer mais, Yujeong.",
+      "SPANISH": "Quiero conocerte más, Yujeong.",
+      "PERSIAN": "من می خواهم شما را بهتر بشناسم."
+    }
+  }
+]

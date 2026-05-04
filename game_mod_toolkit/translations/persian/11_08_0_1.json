@@ -1,0 +1,98 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "哦？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "あ！",
+      "INDONESIAN": "Eh?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 어때요?",
+      "ENGLISH": "How about this?",
+      "CHINESE_SIMPLIFIED": "用这个怎么样？",
+      "CHINESE_TRADITIONAL": "用這麼怎麼樣？",
+      "JAPANESE": "これ、どうです？",
+      "INDONESIAN": "Gimana kalau yang ini?",
+      "PORTUGUESE": "O que acha disso?",
+      "SPANISH": "¿Qué te parece esto?",
+      "PERSIAN": "در مورد این چطور؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요!",
+      "ENGLISH": "Great!",
+      "CHINESE_SIMPLIFIED": "好啊！",
+      "CHINESE_TRADITIONAL": "好啊！",
+      "JAPANESE": "いいですね！",
+      "INDONESIAN": "Bagus!",
+      "PORTUGUESE": "Tá perfeita!",
+      "SPANISH": "¡Es perfecta!",
+      "PERSIAN": "عالیه!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 스탠바이요!",
+      "ENGLISH": "Minjeong, stand by!",
+      "CHINESE_SIMPLIFIED": "“敏静小姐，候场准备！”",
+      "CHINESE_TRADITIONAL": "敏靜小姐，準備上場！",
+      "JAPANESE": "ミンジョンさん、スタンバイお願いします！",
+      "INDONESIAN": "Min-jung, standby ya!",
+      "PORTUGUESE": "Minjung, em posição!",
+      "SPANISH": "¡Minjung, a posición!",
+      "PERSIAN": "مین‌جونگ، منتظر باش!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 저 다녀올게요!",
+      "ENGLISH": "Oppa, I'll be right back!",
+      "CHINESE_SIMPLIFIED": "哥哥，我先去了！",
+      "CHINESE_TRADITIONAL": "哥哥，我先去了！",
+      "JAPANESE": "お兄さん、行ってきますね！",
+      "INDONESIAN": "Oppa aku berangkat dulu ya!",
+      "PORTUGUESE": "Oppa, já volto!",
+      "SPANISH": "¡Oppa, ya vuelvo!",
+      "PERSIAN": "یومان، الان برمی‌گردم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 10.5
+    }
+  }
+]

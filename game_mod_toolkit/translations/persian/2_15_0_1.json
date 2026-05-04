@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "여기가 제 방이에요.",
+      "ENGLISH": "This is my room.",
+      "CHINESE_SIMPLIFIED": "这里就是我的房间了",
+      "CHINESE_TRADITIONAL": "這裡是我的房間",
+      "JAPANESE": "ここが私の部屋です",
+      "INDONESIAN": "Ini kamarku.",
+      "PORTUGUESE": "Este é o meu quarto.",
+      "SPANISH": "Esta es mi habitación.",
+      "PERSIAN": "این اتاق من است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 생각보다 깔끔하네요?",
+      "ENGLISH": "Hmm... it's cleaner than I expected.",
+      "CHINESE_SIMPLIFIED": "嗯...比想象中整洁嘛？",
+      "CHINESE_TRADITIONAL": "哇…比想像中還乾淨呢？",
+      "JAPANESE": "んー…思ったより綺麗ですね?",
+      "INDONESIAN": "Hmm... lebih bersih dari yang aku pikir.",
+      "PORTUGUESE": "Tá... mais limpo do que eu esperava.",
+      "SPANISH": "Está... más limpia de lo que esperaba.",
+      "PERSIAN": "هوم... تمیزتر از چیزی است که انتظار داشتم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저 병원에 있는 동안",
+      "ENGLISH": "Mal-sook cleaned it up",
+      "CHINESE_SIMPLIFIED": "因为我在医院的时候",
+      "CHINESE_TRADITIONAL": "末淑在我住院的期間",
+      "JAPANESE": "マルスクが俺が病院にいる間に",
+      "INDONESIAN": "waktu aku masih di rumah sakit.",
+      "PORTUGUESE": "É porque a Malsook ficou limpando",
+      "SPANISH": "Es porque Malsook la estuvo limpiando",
+      "PERSIAN": "مال‌سوک اونو تمیز کرد"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이가 치워줘서 그래요.",
+      "ENGLISH": "while I was in the hospital.",
+      "CHINESE_SIMPLIFIED": "末淑都帮我收拾好了",
+      "CHINESE_TRADITIONAL": "全部都幫我打掃好了",
+      "JAPANESE": "片付けてくれたからですよ",
+      "INDONESIAN": "Mal-sook yang bersihin",
+      "PORTUGUESE": "enquanto eu tava internado.",
+      "SPANISH": "mientras yo estaba hospitalizado.",
+      "PERSIAN": "در حالی که در بیمارستان بودم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 아까 그 분?",
+      "ENGLISH": "Oh~ that girl we just met?",
+      "CHINESE_SIMPLIFIED": "啊~是刚才那位？",
+      "CHINESE_TRADITIONAL": "啊～是剛才那位嗎？",
+      "JAPANESE": "あ〜さっきの人?",
+      "INDONESIAN": "Oh~ cewek yang baru kita temuin tadi ya?",
+      "PORTUGUESE": "Ah... a garota de antes?",
+      "SPANISH": "Ah... ¿la chica de hace rato?",
+      "PERSIAN": "اوه ~ اون دختری که تازه با هم آشنا شدیم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "칫!",
+      "ENGLISH": "Tch!",
+      "CHINESE_SIMPLIFIED": "嗤！",
+      "CHINESE_TRADITIONAL": "哈啾！",
+      "JAPANESE": "ちっ!",
+      "INDONESIAN": "Tch!",
+      "PORTUGUESE": "Ei!",
+      "SPANISH": "¡Hey!",
+      "PERSIAN": "ایشش!"
+    }
+  }
+]

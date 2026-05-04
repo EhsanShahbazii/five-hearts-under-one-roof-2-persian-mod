@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님!!!!!!!!!!",
+      "ENGLISH": "Manager!!!!!!!!!!",
+      "CHINESE_SIMPLIFIED": "科长！！！！！！",
+      "CHINESE_TRADITIONAL": "課長！！！！！！",
+      "JAPANESE": "課長！！！！！！",
+      "INDONESIAN": "Manajer!!!!!!!!!!",
+      "PORTUGUESE": "Gerente!",
+      "SPANISH": "¡JEFAAAA!",
+      "PERSIAN": "مدیر!!!!!!!!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "비키세요!",
+      "ENGLISH": "Step aside!",
+      "CHINESE_SIMPLIFIED": "让开一点！",
+      "CHINESE_TRADITIONAL": "快讓開！",
+      "JAPANESE": "どいてください！！",
+      "INDONESIAN": "Minggir dulu!",
+      "PORTUGUESE": "Afaste-se!",
+      "SPANISH": "¡Apártese!",
+      "PERSIAN": "کنار برو!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "자칫하다간 과다출혈로 쇼크가 올 수 있다고요!!!!",
+      "ENGLISH": "If we don’t act quickly, the excessive bleeding could cause shock!!!",
+      "CHINESE_SIMPLIFIED": "稍有不慎可能会因失血过多引发休克！！！",
+      "CHINESE_TRADITIONAL": "一個不小心可能會因為失血過多導致休克啊！！！",
+      "JAPANESE": "このままだと出血多量でショックを起こすかもしれません！！！",
+      "INDONESIAN": "Kalau kita nggak cepat, pendarahannya bisa bikin dia syok!!!",
+      "PORTUGUESE": "Se não tomarmos cuidado, ela pode entrar em choque pela perda de sangue!",
+      "SPANISH": "¡Si no tenemos cuidado, puede entrar en shock por la pérdida de sangre!",
+      "PERSIAN": "اگر سریع اقدام نکنیم، خونریزی بیش از حد ممکنه باعث شوک شود!!!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": " 과장님 쓰러지시면 그땐 어떻게 책임지실 겁니까!!! ",
+      "ENGLISH": "If you collapse, how are you planning to take responsibility for that?!",
+      "CHINESE_SIMPLIFIED": "要是科长有什么三长两短你要怎么负责！！！",
+      "CHINESE_TRADITIONAL": "如果課長倒下了，到時候誰要負責！！！",
+      "JAPANESE": "課長が倒れたら、どう責任取るつもりなんですか！！！",
+      "INDONESIAN": "Kalau sampai dia tumbang, kamu mau tanggung jawab gimana?!",
+      "PORTUGUESE": "Se a chefe desmaiar, quem vai se responsabilizar?!",
+      "SPANISH": "¡Si la jefa colapsa, ¿quién se hará responsable?!",
+      "PERSIAN": "اگر سقوط کردید، چگونه می خواهید مسئولیت اونو به عهده بگیرید؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "젠장!!!! 상처가 너무 깊어!!!!",
+      "ENGLISH": "Damn it!!!! The wound is so deep!!!!",
+      "CHINESE_SIMPLIFIED": "该死！！！伤口太深了！！！！",
+      "CHINESE_TRADITIONAL": "該死！！！！ 傷口也太深了！！！！",
+      "JAPANESE": "くそっ！！傷が深すぎる！！",
+      "INDONESIAN": "Sial!!!! Luka ini dalam banget!!!!",
+      "PORTUGUESE": "Droga! O ferimento é muito profundo!",
+      "SPANISH": "¡Maldita sea! ¡La herida es demasiado profunda!",
+      "PERSIAN": "لعنتی!!!! زخم خیلی عمیقه!!!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 나 그 정도 아닌 거 같은데...",
+      "ENGLISH": "Yuman, I don’t think it’s that bad…",
+      "CHINESE_SIMPLIFIED": "吴宥万，我觉得没那么严重吧...",
+      "CHINESE_TRADITIONAL": "宥萬，我覺得沒有到那麼誇張的程度啦...",
+      "JAPANESE": "ユマンさん、そんな大げさじゃ……",
+      "INDONESIAN": "Yuman, kayaknya nggak separah itu deh…",
+      "PORTUGUESE": "Yuman, acho que não é pra tanto...",
+      "SPANISH": "Yumán, creo que no es para tanto…",
+      "PERSIAN": "یومان، فکر نمی کنم آنقدرها هم بد باشد…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아...그럼 뭐부터 해야 해요?",
+      "ENGLISH": "Ah… then what should we do first?",
+      "CHINESE_SIMPLIFIED": "啊...那该先做什么？",
+      "CHINESE_TRADITIONAL": "那我現在該先做什麼...",
+      "JAPANESE": "あ…じゃあ何からしますか？",
+      "INDONESIAN": "Ah… terus, kita harus ngapain dulu?",
+      "PORTUGUESE": "Ah... então, o que faço primeiro?",
+      "SPANISH": "Ah… entonces, ¿qué hago primero?",
+      "PERSIAN": "آه... پس اول باید چیکار کنیم؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "소독 먼저 이뤄져야 합니다. ",
+      "ENGLISH": "We need to disinfect it first.",
+      "CHINESE_SIMPLIFIED": "得先消毒才行",
+      "CHINESE_TRADITIONAL": "必須先進行消毒",
+      "JAPANESE": "まずは消毒が必要です！",
+      "INDONESIAN": "Harus dibersihin dulu lukanya.",
+      "PORTUGUESE": "Precisamos desinfetar o ferimento.",
+      "SPANISH": "Hay que desinfectar la herida primero.",
+      "PERSIAN": "ابتدا باید ضدعفونی کنیم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "소독약!!!! 소독약을 주세요!!!",
+      "ENGLISH": "Disinfectant!!!! Give me the disinfectant!!!",
+      "CHINESE_SIMPLIFIED": "消毒药！！！！快给我消毒药！！！",
+      "CHINESE_TRADITIONAL": "消毒水！！！！ 拿消毒水來！！！",
+      "JAPANESE": "消毒薬をください！！！",
+      "INDONESIAN": "Antiseptik!!!! Mana antiseptiknya!!!",
+      "PORTUGUESE": "O desinfetante! Tragam o desinfetante!",
+      "SPANISH": "¡El desinfectante! ¡Tráiganme el desinfectante!",
+      "PERSIAN": "ضد عفونی کننده!!!! ضدعفونی کننده را به من بدهید!!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 알겠어요!",
+      "ENGLISH": "Ah, got it!",
+      "CHINESE_SIMPLIFIED": "啊，知道了！",
+      "CHINESE_TRADITIONAL": "啊是...!",
+      "JAPANESE": "あ、はい……！",
+      "INDONESIAN": "Ah, siap!",
+      "PORTUGUESE": "Ah, entendido!",
+      "SPANISH": "Ah, ¡entendido!",
+      "PERSIAN": "آه، فهمیدم!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 이렇게 잽싼 줄은 처음 알았네?",
+      "ENGLISH": "I didn’t know Yuman could move this fast!",
+      "CHINESE_SIMPLIFIED": "没想到你身手这么敏捷啊？",
+      "CHINESE_TRADITIONAL": "我還是第一次知道宥萬你動作這麼快？",
+      "JAPANESE": "ユマンさんって、こんなに機敏な人だったんですね？",
+      "INDONESIAN": "Nggak nyangka Yuman bisa gerak secepat ini!",
+      "PORTUGUESE": "Não sabia que o Yuman podia se mover tão rápido.",
+      "SPANISH": "No sabía que reaccionabas tan rápido.",
+      "PERSIAN": "نمی دانستم یومان می تواند به این سرعت حرکت کند!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 다른 사람도 아니고 과장님이 다쳤잖아요!",
+      "ENGLISH": "It’s not just anyone—Manager got hurt!",
+      "CHINESE_SIMPLIFIED": "那当然了！受伤的人可是科长您啊！",
+      "CHINESE_TRADITIONAL": "又不是別人，是課長您受傷了啊！",
+      "JAPANESE": "他でもなく課長がケガしたんですよ！",
+      "INDONESIAN": "Ini bukan orang sembarangan yang luka...yang luka tuh Manajer!",
+      "PORTUGUESE": "Claro! A senhora é quem tá ferida!",
+      "SPANISH": "¡Claro! ¡No es cualquier persona, es usted la que está herida!",
+      "PERSIAN": "این فقط هر کسی نیست - مدیر آسیب دیده است!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠으니까 좀 조용히 해.",
+      "ENGLISH": "I know, so calm down a bit.",
+      "CHINESE_SIMPLIFIED": "知道了，你安静点",
+      "CHINESE_TRADITIONAL": "我知道了，但是你可以安靜一點嗎",
+      "JAPANESE": "わかったから、ちょっと静かにして",
+      "INDONESIAN": "Tau kok, makanya tenang dulu dong.",
+      "PORTUGUESE": "Tá bom, já entendi — abaixe a voz.",
+      "SPANISH": "Ya entendí, así que baja la voz.",
+      "PERSIAN": "میدونم پس کمی آروم باش"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 35.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그럴까요?",
+      "ENGLISH": "Alright…?",
+      "CHINESE_SIMPLIFIED": "那我...安静点？",
+      "CHINESE_TRADITIONAL": "這樣嗎？",
+      "JAPANESE": "そうしましょうか？",
+      "INDONESIAN": "Oke…?",
+      "PORTUGUESE": "Eu tava gritando...?",
+      "SPANISH": "¿Estaba gritando...?",
+      "PERSIAN": "باشه…؟"
+    }
+  }
+]

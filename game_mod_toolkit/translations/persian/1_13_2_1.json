@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 그냥 슬픈 사람이 둘로 늘어나는 거 아니예요?",
+      "ENGLISH": "Isn’t that just doubling the number of sad people?",
+      "CHINESE_SIMPLIFIED": "那不就是变成两个人都在难过吗？",
+      "CHINESE_TRADITIONAL": "那不就讓悲傷的人變成兩個了嗎？",
+      "JAPANESE": "それって、ただ悲しい人が二人に増えるだけじゃないですか？",
+      "INDONESIAN": "Bukannya itu malah bikin yang sedih jadi dua orang?",
+      "PORTUGUESE": "Isso não é só dobrar o número de pessoas tristes?",
+      "SPANISH": "¿Eso no duplica la cantidad de gente con problemas?",
+      "PERSIAN": "اینجوری که فقط تعداد آدمای غمگین دو برابر می‌شه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "난 좀 반대인데.",
+      "ENGLISH": "I don’t really agree with that.",
+      "CHINESE_SIMPLIFIED": "我反对呢",
+      "CHINESE_TRADITIONAL": "我有點反對",
+      "JAPANESE": "私はちょっと反対です",
+      "INDONESIAN": "Aku sih kurang setuju.",
+      "PORTUGUESE": "Eu não concordo muito com isso.",
+      "SPANISH": "No suena muy bien.",
+      "PERSIAN": "من اصلاً با این حرف موافق نیستم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 아니죠.",
+      "ENGLISH": "Huh? No, that’s not it.",
+      "CHINESE_SIMPLIFIED": "诶？不是啊！",
+      "CHINESE_TRADITIONAL": "哎？不是吧",
+      "JAPANESE": "えっ？違いますよ",
+      "INDONESIAN": "Hah? Nggak gitu maksudnya.",
+      "PORTUGUESE": "Hã? Não, não é isso.",
+      "SPANISH": "¿Eh? ¡Claro que no!",
+      "PERSIAN": "چی؟ نه، اصلاً منظورم این نبود."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니라고요?",
+      "ENGLISH": "It’s not?",
+      "CHINESE_SIMPLIFIED": "不是吗？",
+      "CHINESE_TRADITIONAL": "不是嗎？",
+      "JAPANESE": "違うんですか？",
+      "INDONESIAN": "Nggak gitu?",
+      "PORTUGUESE": "Não é?",
+      "SPANISH": "¿Cómo que no?",
+      "PERSIAN": "نبود؟ پس چی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "혼자 슬퍼하면 되는 거 둘로 늘어나는 거 아니예요?",
+      "ENGLISH": "Why not just be sad alone instead of dragging someone else into it?",
+      "CHINESE_SIMPLIFIED": "一个人难过就好了，为什么非要让两个人一起难过呢？",
+      "CHINESE_TRADITIONAL": "明明一個人難過就好，這樣不就變兩個人一起難過嗎？",
+      "JAPANESE": "一人で悲しめばいいのに、それが二人に増えるだけじゃないですか？",
+      "INDONESIAN": "Kalau sedihnya bisa ditanggung sendiri, kenapa harus dibagi dua?",
+      "PORTUGUESE": "Por que não ficar triste sozinho em vez de arrastar outra pessoa junto?",
+      "SPANISH": "Si uno está triste solo, y luego son dos, ¿no es lo mismo que duplicarlo?",
+      "PERSIAN": "خب آدم تنهایی غصه‌شو بخوره بهتر از اینه که پای یکی دیگه رو هم بکشه وسط!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "차라리 해결책을 주던가.",
+      "ENGLISH": "Then at least give me a solution.",
+      "CHINESE_SIMPLIFIED": "还不如直接给一个解决办法",
+      "CHINESE_TRADITIONAL": "還不如直接給一個解決辦法",
+      "JAPANESE": "むしろ解決策をくれたほうがいいですよ",
+      "INDONESIAN": "Mendingan kasih solusi sekalian.",
+      "PORTUGUESE": "Então pelo menos me dá uma solução.",
+      "SPANISH": "Prefiero que me den una solución...",
+      "PERSIAN": "حداقل یه راه‌حلی جلو پای آدم بذاره خب!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그게 아니라",
+      "ENGLISH": "That’s not what I mean.",
+      "CHINESE_SIMPLIFIED": "不是那个意思啦",
+      "CHINESE_TRADITIONAL": "不是，不是那樣啦",
+      "JAPANESE": "いや、そういうことじゃなくて…",
+      "INDONESIAN": "Bukan begitu…",
+      "PORTUGUESE": "Não é isso que eu quis dizer.",
+      "SPANISH": "Pero ese no era el propósito…",
+      "PERSIAN": "منظورم این نبود..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐...위로, 공감 그런 거 몰라요?",
+      "ENGLISH": "It’s more like… comfort, empathy, you know?",
+      "CHINESE_SIMPLIFIED": "什么是“安慰”和“共鸣”，这些你不懂吗？",
+      "CHINESE_TRADITIONAL": "就是…安慰、同理心那種東西你懂不懂啊？",
+      "JAPANESE": "まあ…慰めとか、共感とか、そういうの分からないんですか？",
+      "INDONESIAN": "Kamu nggak ngerti yang namanya penghiburan? Atau empati?",
+      "PORTUGUESE": "É mais tipo… conforto, empatia, sabe?",
+      "SPANISH": "¿No conoces lo que es consolar, empatizar y esas cosas?",
+      "PERSIAN": "حرفم سر دلداری و همدردی بود... می‌دونی چی می‌گم؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 그거한다고 슬픔이 없어지나요?",
+      "ENGLISH": "Oh, come on~ that doesn’t actually make the sadness go away.",
+      "CHINESE_SIMPLIFIED": "唉～可是这样就能让悲伤消失吗？",
+      "CHINESE_TRADITIONAL": "哎喲～那樣做悲傷就會消失嗎？",
+      "JAPANESE": "ええ〜それで悲しみが消えるとでも？",
+      "INDONESIAN": "Ehh~ emang kalau gitu doang, sedihnya bisa hilang?",
+      "PORTUGUESE": "Ah, qual é~ isso não faz a tristeza realmente sumir.",
+      "SPANISH": "¿Acaso con eso se va la tristeza?",
+      "PERSIAN": "ای بابا، با دلداری دادن که درد و غم آدم دود نمی‌شه بره هوا!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "휴..",
+      "ENGLISH": "sigh…",
+      "CHINESE_SIMPLIFIED": "唉…",
+      "CHINESE_TRADITIONAL": "唉…",
+      "JAPANESE": "はあ…",
+      "INDONESIAN": "Haa…",
+      "PORTUGUESE": "suspiro…",
+      "SPANISH": "Wow...",
+      "PERSIAN": "هوووف..."
+    }
+  }
+]

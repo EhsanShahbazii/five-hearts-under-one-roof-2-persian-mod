@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨!",
+      "ENGLISH": "Yu-na!",
+      "CHINESE_SIMPLIFIED": "有娜！",
+      "CHINESE_TRADITIONAL": "有娜！",
+      "JAPANESE": "ユナさん！",
+      "INDONESIAN": "Yu-na!",
+      "PORTUGUESE": "Yuna!",
+      "SPANISH": "¡Yuna!",
+      "PERSIAN": "یونا!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 유만 씨!",
+      "ENGLISH": "Oh! Yuman!",
+      "CHINESE_SIMPLIFIED": "啊！宥万！",
+      "CHINESE_TRADITIONAL": "啊！宥萬！",
+      "JAPANESE": "あっ、ユマンさん！",
+      "INDONESIAN": "Oh! Yuman!",
+      "PORTUGUESE": "Ah! Yumán!",
+      "SPANISH": "¡Ah! ¡Yumán!",
+      "PERSIAN": "اوه! یومان!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "헉, 땀 봐... 뛰어왔어요?",
+      "ENGLISH": "Whoa— look at you sweating… did you run here?",
+      "CHINESE_SIMPLIFIED": "天啊，怎么满头汗...是跑来的吗？",
+      "CHINESE_TRADITIONAL": "天啊！你怎麼滿頭是汗...是跑來的嗎？",
+      "JAPANESE": "はぁっ…その汗、もしかして走ってきたんですか？",
+      "INDONESIAN": "Wah— kamu sampe keringetan gitu… kamu lari ke sini, ya?",
+      "PORTUGUESE": "Uff, olha pra você, tá suando… correu até aqui?",
+      "SPANISH": "Uf, mírate, estás sudando… ¿corriste hasta aquí?",
+      "PERSIAN": "اوه- ببین عرق داری... اینجا دویدی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "당연하죠 ",
+      "ENGLISH": "Of course I did.",
+      "CHINESE_SIMPLIFIED": "当然啊",
+      "CHINESE_TRADITIONAL": "當然啊",
+      "JAPANESE": "もちろんです",
+      "INDONESIAN": "Tentu aja.",
+      "PORTUGUESE": "Claro que sim.",
+      "SPANISH": "Por supuesto.",
+      "PERSIAN": "البته انجام دادم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요, 이거 없으면 안 되잖아요.",
+      "ENGLISH": "Here — you can’t start without this, right?",
+      "CHINESE_SIMPLIFIED": "给，这个不能忘",
+      "CHINESE_TRADITIONAL": "給你，這個可不能忘記耶",
+      "JAPANESE": "これです、これがないとダメでしょう？",
+      "INDONESIAN": "Nih — kamu nggak bisa mulai tanpa ini, kan?",
+      "PORTUGUESE": "Toma, sem isso você não podia começar, né?",
+      "SPANISH": "Toma, sin esto no podías empezar, ¿verdad?",
+      "PERSIAN": "در اینجا - بدون این نمی توانید شروع کنید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요 저 진짜 발표 시작도 전에 망치는 줄 알았어요",
+      "ENGLISH": "Thank you… I thought I’d ruin everything before the presentation even started.",
+      "CHINESE_SIMPLIFIED": "谢谢你，我刚还以为汇报还没开始就要搞砸了",
+      "CHINESE_TRADITIONAL": "謝謝你，我差點以為簡報還沒有發表就要搞砸了",
+      "JAPANESE": "ありがとう、発表前からもう終わったかと思いました",
+      "INDONESIAN": "Makasih… aku kira semuanya bakal kacau bahkan sebelum presentasinya mulai.",
+      "PORTUGUESE": "Obrigada, achei que tudo tinha desandado antes mesmo de começar.",
+      "SPANISH": "Gracias, pensé que todo se había arruinado antes de siquiera empezar.",
+      "PERSIAN": "ممنونم... من فکر می کردم قبل از شروع ارائه همه چیز را خراب می کنم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 제가 있잖아요!",
+      "ENGLISH": "Hey — I’m here, aren’t I?",
+      "CHINESE_SIMPLIFIED": "不是有我在嘛！",
+      "CHINESE_TRADITIONAL": "哎，不是還有我在嘛！",
+      "JAPANESE": "俺がいるじゃないですか！",
+      "INDONESIAN": "Hei — aku kan udah di sini.",
+      "PORTUGUESE": "Ah, pra isso que eu tô aqui.",
+      "SPANISH": "Ay, para eso estoy  yo.",
+      "PERSIAN": "هی - من اینجام، نه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 26.4
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 보고 있을 테니까 긴장하지 말고 평소처럼!",
+      "ENGLISH": "I’ll be watching too, so don’t get nervous — just be yourself like always.",
+      "CHINESE_SIMPLIFIED": "我也会看着的，别紧张，像平时一样就好！",
+      "CHINESE_TRADITIONAL": "我也會看著，你不要緊張，像平時一樣就好",
+      "JAPANESE": "俺もちゃんと見てますから、緊張せずいつも通りに！",
+      "INDONESIAN": "Aku juga bakal nonton, jadi jangan gugup — jadi diri kamu aja, kayak biasa.",
+      "PORTUGUESE": "Eu vou ficar assistindo, então não fica nervosa e faz como sempre.",
+      "SPANISH": "Yo estaré mirando, así que no te pongas nerviosa y hazlo como siempre.",
+      "PERSIAN": "من هم تماشا خواهم کرد، پس عصبی نشوید - مثل همیشه خودتان باشید."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠죠?",
+      "ENGLISH": "Okay?",
+      "CHINESE_SIMPLIFIED": "知道吗？",
+      "CHINESE_TRADITIONAL": "知道嗎？",
+      "JAPANESE": "いいですね？",
+      "INDONESIAN": "Oke?",
+      "PORTUGUESE": "Tudo bem?",
+      "SPANISH": "¿Está bien?",
+      "PERSIAN": "باشه؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 잘하고 올게요!",
+      "ENGLISH": "Yes! I’ll do my best!",
+      "CHINESE_SIMPLIFIED": "嗯！我会加油的！",
+      "CHINESE_TRADITIONAL": "嗯！我會加油的！",
+      "JAPANESE": "はい！頑張ってきます！",
+      "INDONESIAN": "Iya! Aku bakal kasih yang terbaik!",
+      "PORTUGUESE": "Sim! Vou dar o meu melhor!",
+      "SPANISH": "¡Sí! ¡Lo haré bien!",
+      "PERSIAN": "بله! من تمام تلاشم را خواهم کرد!"
+    }
+  }
+]

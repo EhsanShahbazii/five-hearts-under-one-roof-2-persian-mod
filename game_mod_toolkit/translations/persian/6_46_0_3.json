@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 잘 봐요",
+      "ENGLISH": "Okay, watch closely.",
+      "CHINESE_SIMPLIFIED": "来，看好啦",
+      "CHINESE_TRADITIONAL": "來，看好啦",
+      "JAPANESE": "さぁ、見てください",
+      "INDONESIAN": "Oke, liat baik-baik.",
+      "PORTUGUESE": "Olha, é assim que se faz:",
+      "SPANISH": "Mira, así se hace:",
+      "PERSIAN": "باشه با دقت تماشا کن"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야이 씨XXX아, 이 개XX들아, 다 X져라!",
+      "ENGLISH": "You freaking assh*, you basts — go to hell!!",
+      "CHINESE_SIMPLIFIED": "阿西！这群狗XX的！全都给老子滚蛋！！",
+      "CHINESE_TRADITIONAL": "靠！這群狗崽子，全部給老子滾一邊去！！",
+      "JAPANESE": "このやろー！くそったれー！全部くたばれー！！",
+      "INDONESIAN": "Dasar brengsk kalian, bajingn semua — mampus sana!!",
+      "PORTUGUESE": "Ei, &@$#/°! Vocês, &@$#/°! Que tudo vá pro &@$#/°!",
+      "SPANISH": "¡Oigan, &@$#/°! ¡Ustedes, &@$#/°! ¡Que todo se &@$#/°!",
+      "PERSIAN": "ای آشغال های عجیب و غریب*، ای لات ها - برو به جهنم!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "후~ 어때요?",
+      "ENGLISH": "Hoo~ How was that?",
+      "CHINESE_SIMPLIFIED": "呼~怎么样？",
+      "CHINESE_TRADITIONAL": "呼～如何？",
+      "JAPANESE": "ふぅ〜どうです？",
+      "INDONESIAN": "Hoo~ Gimana tuh?",
+      "PORTUGUESE": "Haa~ E aí, que tal?",
+      "SPANISH": "Haa~ ¿Qué tal?",
+      "PERSIAN": "هو ~ چطور بود؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 되게 되게 상스러우시네요...",
+      "ENGLISH": "…Yuman, that was… surprisingly filthy.",
+      "CHINESE_SIMPLIFIED": "宥万先生，你...你这也太粗俗了...",
+      "CHINESE_TRADITIONAL": "宥萬先生，這樣...也太粗俗了...",
+      "JAPANESE": "ユマンさん、すっごく下品ですね…",
+      "INDONESIAN": "…Yuman, itu… jorok banget sih, tapi...",
+      "PORTUGUESE": "Yumán, isso foi muito vulgar…",
+      "SPANISH": "Yumán, eso fue muy vulgar…",
+      "PERSIAN": "... یومان، این ... به طرز شگفت انگیزی کثیف بود."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 이렇게 해야 스트레스가 풀리거든요.",
+      "ENGLISH": "But that’s how you relieve stress.",
+      "CHINESE_SIMPLIFIED": "但只有这样压力才能释放出去呀",
+      "CHINESE_TRADITIONAL": "但這樣壓力才能釋放出來啊",
+      "JAPANESE": "でも、こうやらないとストレスって抜けないんですよ",
+      "INDONESIAN": "Justru gitu caranya ngilangin stres.",
+      "PORTUGUESE": "Mas é assim que se libera o estresse de verdade.",
+      "SPANISH": "Pero así es como de verdad se libera el estrés.",
+      "PERSIAN": "اما اینطوری استرس را از بین می برید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이 예쁘고 좋은 말로는 스트레스가 해결이 안 돼요.",
+      "ENGLISH": "Pretty, polite words don’t solve stress.",
+      "CHINESE_SIMPLIFIED": "光靠那些漂亮话是解决不了压力的",
+      "CHINESE_TRADITIONAL": "光靠漂亮話是解決不了壓力的",
+      "JAPANESE": "優しい言葉なんかじゃストレスは消えません",
+      "INDONESIAN": "Kata-kata manis dan sopan tuh nggak bisa ngusir stres.",
+      "PORTUGUESE": "Com palavras bonitinhas não se resolve nada.",
+      "SPANISH": "Con palabras bonitas no se resuelve nada.",
+      "PERSIAN": "کلمات زیبا و مودبانه استرس را حل نمی کنند."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 저 욕해본 적 없는데 괜찮을까요??",
+      "ENGLISH": "But I’ve never cursed before — is it okay if I try??",
+      "CHINESE_SIMPLIFIED": "但我从来没骂过脏话...真的可以吗？",
+      "CHINESE_TRADITIONAL": "可是我沒罵過髒話...真的可以嗎？？",
+      "JAPANESE": "でも私、悪口とか言ったことないんですけど大丈夫ですか…？",
+      "INDONESIAN": "Tapi aku belum pernah ngomel-ngomel gitu — boleh aku coba??",
+      "PORTUGUESE": "Mas eu nunca falei palavrão…",
+      "SPANISH": "Pero yo nunca he dicho groserías…",
+      "PERSIAN": "اما من قبلا هرگز فحش نداده ام - اگر تلاش کنم اشکالی ندارد؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐... 아는 욕이라도 하나 꺼내봐요!",
+      "ENGLISH": "Well… just say any curse word you know! Anything!",
+      "CHINESE_SIMPLIFIED": "这个...就把你知道的脏话随便喊出来！",
+      "CHINESE_TRADITIONAL": "什麼... 那就把妳知道的髒話罵出來吧，隨便說一個",
+      "JAPANESE": "うーん…知ってる悪口でも何か出してみましょう！",
+      "INDONESIAN": "Yaudah… keluarin aja semua kata kasar yang kamu tahu! Apa aja!",
+      "PORTUGUESE": "Vamos, diz pelo menos um, o que você souber. Solta tudo!",
+      "SPANISH": "Vamos, di aunque sea una, la que conozcas. ¡Sácalo todo!",
+      "PERSIAN": "خوب ... فقط هر کلمه نفرینی که می دانید بگویید! هر چیزی!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "야이 똥 멍청이들아!",
+      "ENGLISH": "Y-you stupid poop-heads!!!",
+      "CHINESE_SIMPLIFIED": "呀！你们这些大笨蛋！",
+      "CHINESE_TRADITIONAL": "呀！你們這群蠢蛋！",
+      "JAPANESE": "このバカたれどもー！",
+      "INDONESIAN": "K-kalian semua… bodoh kayak tai!!!",
+      "PORTUGUESE": "Idiotas cabeças-ocas!",
+      "SPANISH": "¡Tontos cabezas huecas!",
+      "PERSIAN": "ای ادمای احمق!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 32.9
+    },
+    "SCRIPT": {
+      "KOREAN": "약해. 다시",
+      "ENGLISH": "Too weak. Again.",
+      "CHINESE_SIMPLIFIED": "太弱了，再来",
+      "CHINESE_TRADITIONAL": "太弱了，再來",
+      "JAPANESE": "弱い　もう一回！",
+      "INDONESIAN": "Terlalu lemah. Lagi.",
+      "PORTUGUESE": "Muito fraco. De novo.",
+      "SPANISH": "Muy suave. Otra vez.",
+      "PERSIAN": "خیلی ضعیفه دوباره"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 37.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너만 힘드냐 이 바보들아!",
+      "ENGLISH": "You think you’re the only ones suffering, you idiots?!",
+      "CHINESE_SIMPLIFIED": "你以为只有你辛苦啊！这群傻X！",
+      "CHINESE_TRADITIONAL": "只有你們辛苦嗎！你們這些笨蛋",
+      "JAPANESE": "自分だけが大変だと思うな、このアホどもー！",
+      "INDONESIAN": "Kalian pikir cuma kalian doang yang susah, hah, dasar toll?!",
+      "PORTUGUESE": "Acham que são os únicos que sofrem, &@$#/°?!",
+      "SPANISH": "¡¿Creen que son los únicos que sufren, &@$#/°?!",
+      "PERSIAN": "فکر میکنی تنها خودت رنج میکشی ای احمق؟!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 38.3,
+      "HIDE": 41.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 지금 그 꽉 막혀있는 걸 토해내야 되는데",
+      "ENGLISH": "Ah… you need to spit out everything that’s been pent up inside.",
+      "CHINESE_SIMPLIFIED": "啊...现在需要把堵在心里的那口恶气吐出来",
+      "CHINESE_TRADITIONAL": "現在要把那些堵在心裡的東西吐出來才行",
+      "JAPANESE": "あ…今のをもっと喉の奥から吐き出す感じで",
+      "INDONESIAN": "Nah… kamu harus keluarin semua yang kamu pendam selama ini.",
+      "PORTUGUESE": "Ah… você precisa colocar pra fora tudo isso que tá preso,",
+      "SPANISH": "Ah… tienes que sacar todo eso que llevas atorado,",
+      "PERSIAN": "آه ... شما باید همه چیزهایی را که در داخل حبس شده است تف کنید."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 41.7,
+      "HIDE": 44.2
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤이 그러기엔 사람이 너무 착해가지고...",
+      "ENGLISH": "But Gyu-ri is such a good person, it’s hard for her to do that…",
+      "CHINESE_SIMPLIFIED": "但方护士人实在太好了，可能做不到...",
+      "CHINESE_TRADITIONAL": "但久梨護理師你太善良了...",
+      "JAPANESE": "ギュリ先生、優しすぎて言い切れないタイプですよね…",
+      "INDONESIAN": "Tapi Gyu-ri tuh orangnya terlalu baik, jadi susah deh ngeluarinnya…",
+      "PORTUGUESE": "mas é boa demais, enfermeira Gyuri…",
+      "SPANISH": "pero eres demasiado buena persona, doctora Gyuri…",
+      "PERSIAN": "اما گیوری خیلی آدم خوبی است، انجام این کار برای او سخت است…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 45.1,
+      "HIDE": 48.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야이 개XXXX아 니들 때문에 내가 병원을 나가는 거야 ",
+      "ENGLISH": "You fing basts — I had to leave the hospital because of you!",
+      "CHINESE_SIMPLIFIED": "狗X的！你们这些混账XX！就是因为你们老娘才要走的！",
+      "CHINESE_TRADITIONAL": "喂你們這些X X X X X 啊，就是因為你們我才要去醫院的",
+      "JAPANESE": "このクソったれどもー！お前らのせいで私が病院辞めるんだよ！",
+      "INDONESIAN": "Dasar brengsk semua — gara-gara kalian aku sampai keluar dari rumah sakit!",
+      "PORTUGUESE": "Vocês, &@$#/°! Por culpa de vocês eu tenho que sair do hospital!",
+      "SPANISH": "¡Ustedes, &@$#/°! ¡Por su culpa tengo que dejar el hospital!",
+      "PERSIAN": "شما به خاطر شما مجبور شدم بیمارستان را ترک کنم!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 48.6,
+      "HIDE": 52.2
+    },
+    "SCRIPT": {
+      "KOREAN": "개 XX 같은 XX들아 그러니깐 XX 그냥 XX 오래 살아라",
+      "ENGLISH": "You shy sons of— may you all just rot forever, ",
+      "CHINESE_SIMPLIFIED": "该死的傻X们！希望你们全家都XX！",
+      "CHINESE_TRADITIONAL": "像 X X 一樣的 X X 們，所以 X X 就 X X 好好活著吧",
+      "JAPANESE": "くそみたいな奴ら、せいぜい長生きしろこのやろー！",
+      "INDONESIAN": "Dasar pengecut sialan—semoga kalian semua busuk selamanya,",
+      "PORTUGUESE": "&@$#/° malditos &@$#/°! Tomara que se &@$#/° vivos!",
+      "SPANISH": "¡&@$#/° malditos &@$#/°! ¡Ojalá se &@$#/° vivos!",
+      "PERSIAN": "شما پسران خجالتی - باشد که همه شما برای همیشه بپوسید،"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 52.3,
+      "HIDE": 53.8
+    },
+    "SCRIPT": {
+      "KOREAN": "개X은 XX들아",
+      "ENGLISH": "you miserable trash!",
+      "CHINESE_SIMPLIFIED": "操蛋的XX玩意",
+      "CHINESE_TRADITIONAL": "X X 的 X X 們！",
+      "JAPANESE": "くそみたいな奴らども",
+      "INDONESIAN": "sampah-sampah menyedihkan!!",
+      "PORTUGUESE": "Filhos de &@$#/°!",
+      "SPANISH": "¡Hijos de &@$#/°!",
+      "PERSIAN": "ای زباله های بدبخت!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 54.4,
+      "HIDE": 56.4
+    },
+    "SCRIPT": {
+      "KOREAN": "후...음~",
+      "ENGLISH": "Hoo… mmm~",
+      "CHINESE_SIMPLIFIED": "呼...嗯~",
+      "CHINESE_TRADITIONAL": "呼...嗯～",
+      "JAPANESE": "ふぅ…ん〜",
+      "INDONESIAN": "Hoo… mmm~",
+      "PORTUGUESE": "Haa… hmm~",
+      "SPANISH": "Haa… hmm~",
+      "PERSIAN": "هوو… هومم~"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 56.5,
+      "HIDE": 57.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우와...",
+      "ENGLISH": "…Wow.",
+      "CHINESE_SIMPLIFIED": "哇啊...",
+      "CHINESE_TRADITIONAL": "哇...",
+      "JAPANESE": "わぁ…",
+      "INDONESIAN": "…Wow.",
+      "PORTUGUESE": "Uau…",
+      "SPANISH": "Wow…",
+      "PERSIAN": "…وای."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 58.1,
+      "HIDE": 59.8
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요, 유만 씨!",
+      "ENGLISH": "Thank you, Yuman!",
+      "CHINESE_SIMPLIFIED": "谢谢你，宥万！",
+      "CHINESE_TRADITIONAL": "謝謝您，宥萬先生！",
+      "JAPANESE": "ありがとう、ユマンさん！",
+      "INDONESIAN": "Makasih ya, Yuman!",
+      "PORTUGUESE": "Obrigada, Yumán.",
+      "SPANISH": "Gracias, Yumán.",
+      "PERSIAN": "ممنونم، یومان!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 60.2,
+      "HIDE": 62.5
+    },
+    "SCRIPT": {
+      "KOREAN": "기분이 너무 나아졌어요!",
+      "ENGLISH": "I feel so much better now!",
+      "CHINESE_SIMPLIFIED": "感觉好多啦！",
+      "CHINESE_TRADITIONAL": "心情好多了",
+      "JAPANESE": "すっごくスッキリしました！",
+      "INDONESIAN": "Aku ngerasa jauh lebih lega sekarang!",
+      "PORTUGUESE": "Tô me sentindo muito melhor.",
+      "SPANISH": "Me siento mucho mejor.",
+      "PERSIAN": "الان احساس خیلی بهتری دارم!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 63.2,
+      "HIDE": 65.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그랬다면 다행이죠... 헤헤헤....",
+      "ENGLISH": "Then I’m glad… hehe…",
+      "CHINESE_SIMPLIFIED": "那就好...嘿嘿嘿....",
+      "CHINESE_TRADITIONAL": "那就好...呵呵呵....",
+      "JAPANESE": "そうならよかったです… へへへ…",
+      "INDONESIAN": "Kalau gitu aku seneng deh… hehe…",
+      "PORTUGUESE": "Se for assim, fico feliz… hehehe…",
+      "SPANISH": "Si es así, me alegra… jejeje…",
+      "PERSIAN": "پس خوشحالم… هه…"
+    }
+  }
+]

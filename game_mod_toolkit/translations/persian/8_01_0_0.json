@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이제야 좀 시간이 생겼네~?",
+      "ENGLISH": "Finally got a bit of free time now, huh~?",
+      "CHINESE_SIMPLIFIED": "总算有点空闲时间了~？",
+      "CHINESE_TRADITIONAL": "現在總算有點時間了～？",
+      "JAPANESE": "やっと少し時間ができた〜",
+      "INDONESIAN": "Akhirnya punya waktu luang juga ya~?",
+      "PORTUGUESE": "Finalmente tenho um tempinho livre~",
+      "SPANISH": "Por fin tengo un poco de tiempo libre~",
+      "PERSIAN": "بالاخره الان کمی وقت آزاد پیدا کردم، نه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어휴 어깨 뭉친 것 좀 봐...",
+      "ENGLISH": "Jeez, look at how tense your shoulders are…",
+      "CHINESE_SIMPLIFIED": "哎呦看看这肩膀僵的...",
+      "CHINESE_TRADITIONAL": "唉唷，看看我這個肩膀硬的跟什麼樣...",
+      "JAPANESE": "はぁ、肩がカチカチ…",
+      "INDONESIAN": "Ya ampun, liat deh pundak kamu tegang banget…",
+      "PORTUGUESE": "Ai, meus ombros estão super tensos…",
+      "SPANISH": "Ay, tengo los hombros muy tensos…",
+      "PERSIAN": "عزیزم ببین چقد شونه هات فشرده شده…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 잘 마무리 돼서 다행이에요!",
+      "ENGLISH": "Still, I’m glad everything wrapped up well!",
+      "CHINESE_SIMPLIFIED": "不过工作圆满收尾了，真是万幸啊！",
+      "CHINESE_TRADITIONAL": "不過工作能順利結束，真的太好了！",
+      "JAPANESE": "でも、無事に終わってほんとによかったです！",
+      "INDONESIAN": "Tapi aku seneng banget semua akhirnya beres juga!",
+      "PORTUGUESE": "Mesmo assim, fico feliz que tudo tenha dado certo.",
+      "SPANISH": "Aun así, me alegra que todo haya salido bien.",
+      "PERSIAN": "با این حال، خوشحالم که همه چیز به خوبی تمام شد!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨랑 해서 의미 있었어.",
+      "ENGLISH": "It meant a lot doing it with you, Yuman.",
+      "CHINESE_SIMPLIFIED": "能和宥万一起完成，才更有意义呢",
+      "CHINESE_TRADITIONAL": "和宥萬一起完成，更有意義呢！",
+      "JAPANESE": "ユマンさんと一緒にできて、意味があったの",
+      "INDONESIAN": "Bisa ngelewatin semuanya bareng kamu tuh berarti banget, Yuman.",
+      "PORTUGUESE": "Trabalhar com você, Yumán, fez tudo ter mais sentido.",
+      "SPANISH": "Trabajar contigo, Yumán, hizo que todo tuviera más sentido.",
+      "PERSIAN": "انجام این کار با تو معنی زیادی داشت، یومان."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 유만 씨 골프 좀 쳐? ",
+      "ENGLISH": "Oh! Yuman, do you play golf?",
+      "CHINESE_SIMPLIFIED": "啊！宥万，你会打高尔夫吗？",
+      "CHINESE_TRADITIONAL": "啊！宥萬，你會打高爾夫球嗎？",
+      "JAPANESE": "あ、そうだ！ユマンさん、ゴルフってやる？",
+      "INDONESIAN": "Oh! Yuman, kamu bisa main golf nggak?",
+      "PORTUGUESE": "Ah! Você joga golfe?",
+      "SPANISH": "¡Ah! ¿Juegas al golf?",
+      "PERSIAN": "اوه! یومان، گلف بازی می کنی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나 자세 좀 잡아줄래?",
+      "ENGLISH": "Can you help me with my stance?",
+      "CHINESE_SIMPLIFIED": "能帮我调整下姿势吗？",
+      "CHINESE_TRADITIONAL": "能幫我調整一下姿勢嗎？",
+      "JAPANESE": "ちょっとフォーム見てもらってもいい？",
+      "INDONESIAN": "Bisa bantuin aku soal posisi badannya nggak?",
+      "PORTUGUESE": "Será que pode me ajudar a corrigir minha postura?",
+      "SPANISH": "¿Podrías ayudarme a corregir mi postura?",
+      "PERSIAN": "می توانید در مورد موضع من به من کمک کنید؟"
+    }
+  }
+]

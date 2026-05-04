@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하이 조...!",
+      "ENGLISH": "Hi, Joe…!",
+      "CHINESE_SIMPLIFIED": "Hi, Joe...!",
+      "CHINESE_TRADITIONAL": "Hi Joe...！",
+      "JAPANESE": "ハイ ジョー…！",
+      "INDONESIAN": "Hi, Joe…!",
+      "PORTUGUESE": "(em inglês) Hello, Joe...?",
+      "SPANISH": "(en inglés) ¿Hello, Joe...?",
+      "PERSIAN": "سلام جو…!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": " 어얾... 아임... 유만... ",
+      "ENGLISH": "Uh— I’m… Yuman…",
+      "CHINESE_SIMPLIFIED": "呃...I'm...Yuman...",
+      "CHINESE_TRADITIONAL": "Um... I'm... You Man...",
+      "JAPANESE": "えっと…アイム…ユマン…",
+      "INDONESIAN": "Uhh..aku… Yuman…",
+      "PORTUGUESE": "Ah, um… I’m… Yuman…",
+      "SPANISH": "Ah, um… I’m… Yuman…",
+      "PERSIAN": "اوه- من… یومان…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아임...투웬티 나인...",
+      "ENGLISH": "I’m… twenty‑nine…",
+      "CHINESE_SIMPLIFIED": "I'm...twenty-nine...",
+      "CHINESE_TRADITIONAL": "I'm... twenty-nine...",
+      "JAPANESE": "アイム…トゥエンティーナイン…",
+      "INDONESIAN": "Aku… dua puluh sembilan tahun…",
+      "PORTUGUESE": "I’m… twenty-nine…",
+      "SPANISH": "I’m… twenty-nine…",
+      "PERSIAN": "من… بیست و نه هستم…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "What?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "What?",
+      "CHINESE_TRADITIONAL": "What?",
+      "JAPANESE": "What?",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "What?",
+      "SPANISH": "What?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "얾 아임 호스트...앤...",
+      "ENGLISH": "Uh— I’m… host… and…",
+      "CHINESE_SIMPLIFIED": "呃 I'm host...and...",
+      "CHINESE_TRADITIONAL": "Um... I'm host...man",
+      "JAPANESE": "えっと アイム ホスト…アンド…",
+      "INDONESIAN": "Uh...aku… cowo host… dan…",
+      "PORTUGUESE": "Uh, I’m a host… and…",
+      "SPANISH": "Uh, I’m a host… and…",
+      "PERSIAN": "اوه- من… میزبان… و…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "は？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "여보세요?",
+      "ENGLISH": "Hello?",
+      "CHINESE_SIMPLIFIED": "喂？",
+      "CHINESE_TRADITIONAL": "喂？",
+      "JAPANESE": "もしもし？",
+      "INDONESIAN": "Halo?",
+      "PORTUGUESE": "Oi?",
+      "SPANISH": "¿Hola?",
+      "PERSIAN": "سلام؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐라고? 시끄러워서 안 들려",
+      "ENGLISH": "What? I can’t hear you, it’s too loud.",
+      "CHINESE_SIMPLIFIED": "说什么？太吵了听不清！",
+      "CHINESE_TRADITIONAL": "你說什麼？太吵了聽不見！",
+      "JAPANESE": "なんだって？うるさくて聞こえない！",
+      "INDONESIAN": "Apa? Aku nggak bisa denger, berisik banget di sini.",
+      "PORTUGUESE": "O quê? Não tô te ouvindo, tá muito barulho.",
+      "SPANISH": "¿Qué? No te oigo, hay demasiado ruido.",
+      "PERSIAN": "چی؟ صدایت را نمی شنوم، خیلی بلند است."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "야 빨리 와, 여기 사람 존X 많아!!",
+      "ENGLISH": "Hurry up and get here, there’s a ton of people here!!",
+      "CHINESE_SIMPLIFIED": "快过来，这里人他X的超多！！",
+      "CHINESE_TRADITIONAL": "快點過來，這裡人超多的啦",
+      "JAPANESE": "早く来い！ここ人めっちゃ多い！！",
+      "INDONESIAN": "Cepet ke sini dong, rame banget!!",
+      "PORTUGUESE": "Anda logo e vem, tem um monte de gente aqui!",
+      "SPANISH": "¡Apúrate y ven, hay un montón de gente aquí!",
+      "PERSIAN": "عجله کنید و به اینجا برسید، تعداد زیادی از مردم اینجا هستند!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "...조가 한양 조씨였어?",
+      "ENGLISH": "…Joe’s from the Hanyang Jo clan??",
+      "CHINESE_SIMPLIFIED": "...Joe难道是汉阳赵氏？",
+      "CHINESE_TRADITIONAL": "... Joe是漢陽趙氏嗎",
+      "JAPANESE": "…ジョーって、漢陽チョ氏だったの？",
+      "INDONESIAN": "…Joe dari marga Jo Hanyang itu??",
+      "PORTUGUESE": "...Joe é do clã Han-yang Jo?",
+      "SPANISH": "…¿Joe es del clan Han-yang Jo?",
+      "PERSIAN": "... جو از قبیله هانیانگ جو؟"
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 저 수영을 잘 못해서 안들어갈래요.",
+      "ENGLISH": "Ah, I’m not really good at swimming, so I’ll skip for now.",
+      "CHINESE_SIMPLIFIED": "啊，我其实不太会游泳，就不下去了",
+      "CHINESE_TRADITIONAL": "啊，我不太會游泳，就不下去了",
+      "JAPANESE": "あ、俺あんまり泳げないから 入るのやめときます",
+      "INDONESIAN": "Ah, aku nggak terlalu jago renang, jadi aku skip dulu deh.",
+      "PORTUGUESE": "Ah, melhor não. Eu não sei nadar muito bem.",
+      "SPANISH": "Ah, mejor no. No sé nada nadar muy bien.",
+      "PERSIAN": "آه، من واقعاً در شنا خوب نیستم، بنابراین فعلاً از اون صرف نظر می کنم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 안 들어올 거예요?",
+      "ENGLISH": "You’re really not coming in?",
+      "CHINESE_SIMPLIFIED": "你真的不下水吗？",
+      "CHINESE_TRADITIONAL": "你真的不下水嗎？",
+      "JAPANESE": "ほんとに入んないんですか？",
+      "INDONESIAN": "Kamu beneran nggak mau nyebur?",
+      "PORTUGUESE": "Vai me deixar sozinha aqui?",
+      "SPANISH": "¿Me vas a dejar sola aquí?",
+      "PERSIAN": "شما واقعا وارد نمی شوید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 이따 들어갈게요. 이따가.",
+      "ENGLISH": "Mm… I’ll join later. Just… later.",
+      "CHINESE_SIMPLIFIED": "嗯...待会儿再下，待会儿",
+      "CHINESE_TRADITIONAL": "嗯...等一下吧，等一下",
+      "JAPANESE": "うん…あとで入ります あとで",
+      "INDONESIAN": "Mm… nanti aja deh. Cuma… nanti.",
+      "PORTUGUESE": "Mmm… eu entro depois. Mais tarde.",
+      "SPANISH": "Mmm… luego entro. Más tarde.",
+      "PERSIAN": "مام… بعداً می‌پیوندم. فقط… بعد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이따가 언제요!",
+      "ENGLISH": "Later when, exactly?!",
+      "CHINESE_SIMPLIFIED": "“待会儿”是什么时候啊！",
+      "CHINESE_TRADITIONAL": "等一下又是要等到什麼時候！",
+      "JAPANESE": "あとでっていつ？",
+      "INDONESIAN": "Nanti itu kapan, emangnya?!",
+      "PORTUGUESE": "Mais tarde quando?!",
+      "SPANISH": "¡¿Más tarde cuándo?!",
+      "PERSIAN": "بعدا کی دقیقا؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오! 깜짝이야",
+      "ENGLISH": "Whoa—don’t scare me like that.",
+      "CHINESE_SIMPLIFIED": "哇！吓我一跳——",
+      "CHINESE_TRADITIONAL": "哇！嚇我一跳——",
+      "JAPANESE": "おっ！びっくりした",
+      "INDONESIAN": "Wah—jangan nakutin gitu dong.",
+      "PORTUGUESE": "Ah! Que susto.",
+      "SPANISH": "¡Oh! Qué susto.",
+      "PERSIAN": "وای-من را اینطوری نترسان."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 언제 와 있었어요?",
+      "ENGLISH": "When did you all get here?",
+      "CHINESE_SIMPLIFIED": "你们什么时候都来了？",
+      "CHINESE_TRADITIONAL": "你們什麼時候來的？",
+      "JAPANESE": "みんな いつの間に来てたんですか？",
+      "INDONESIAN": "Sejak kapan kalian di sini?",
+      "PORTUGUESE": "Quando vocês chegaram?",
+      "SPANISH": "¿Cuándo llegaron?",
+      "PERSIAN": "کی همه به اینجا رسیدید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "주머니에 핸드폰없지?",
+      "ENGLISH": "You don’t have your phone in your pocket, right?",
+      "CHINESE_SIMPLIFIED": "口袋里没放手机吧？",
+      "CHINESE_TRADITIONAL": "口袋裡面沒有手機吧？",
+      "JAPANESE": "ポケットにスマホ入ってないよね？",
+      "INDONESIAN": "Kamu nggak naro HP di kantong, kan?",
+      "PORTUGUESE": "Você não tá com o celular, né?",
+      "SPANISH": "No llevas tu celular, ¿verdad?",
+      "PERSIAN": "شما گوشی خود را در جیب ندارید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "없는데 왜요?",
+      "ENGLISH": "No, why?",
+      "CHINESE_SIMPLIFIED": "没有啊，怎么了？",
+      "CHINESE_TRADITIONAL": "沒有啊，怎麼了？",
+      "JAPANESE": "ないけど なんでですか？",
+      "INDONESIAN": "Enggak, emang kenapa?",
+      "PORTUGUESE": "Não, por quê?",
+      "SPANISH": "No, ¿por qué?",
+      "PERSIAN": "نه، چرا؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 빠져.",
+      "ENGLISH": "Then in you go.",
+      "CHINESE_SIMPLIFIED": "那就下去吧！",
+      "CHINESE_TRADITIONAL": "那就下水吧！",
+      "JAPANESE": "じゃあ 落とせ",
+      "INDONESIAN": "Kalau gitu, nyebur deh.",
+      "PORTUGUESE": "Então, pra água!",
+      "SPANISH": "Entonces, al agua.",
+      "PERSIAN": "سپس در تو برو."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "악! 으악!!",
+      "ENGLISH": "ACKKK!!!!",
+      "CHINESE_SIMPLIFIED": "哎呀！啊啊！！",
+      "CHINESE_TRADITIONAL": "嗚啊！啊啊！！",
+      "JAPANESE": "うわっ！うあ！！",
+      "INDONESIAN": "ACKKK!!!!",
+      "PORTUGUESE": "Ah! Aaah!",
+      "SPANISH": "¡Ah! ¡Aaah!",
+      "PERSIAN": "آاااخ!!!!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 24.8
+    },
+    "SCRIPT": {
+      "KOREAN": "으아아... 다 젖었잖아.",
+      "ENGLISH": "Ahhh—now I’m soaked!",
+      "CHINESE_SIMPLIFIED": "哎呀——全都湿透了啦！",
+      "CHINESE_TRADITIONAL": "哎呀——全都濕了啦！",
+      "JAPANESE": "ああ…びしょびしょ…",
+      "INDONESIAN": "Ahhh—jadi basah kuyup nih!",
+      "PORTUGUESE": "Aaaah… agora tô todo encharcado…",
+      "SPANISH": "Aaaah… ahora estoy todo empapado…",
+      "PERSIAN": "آهان-حالا من خیس شدم!"
+    }
+  }
+]

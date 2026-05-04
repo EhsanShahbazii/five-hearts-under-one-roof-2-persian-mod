@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 저는",
+      "ENGLISH": "Hmm… I think",
+      "CHINESE_SIMPLIFIED": "嗯...我嘛",
+      "CHINESE_TRADITIONAL": "嗯...我",
+      "JAPANESE": "うーん…俺は",
+      "INDONESIAN": "Hmm… kayaknya",
+      "PORTUGUESE": "Hmm... eu...",
+      "SPANISH": "Estem... yo...",
+      "PERSIAN": "هوم... فکر کنم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 먹을게요!",
+      "ENGLISH": "I’ll go with this one!",
+      "CHINESE_SIMPLIFIED": "就吃这个啦！",
+      "CHINESE_TRADITIONAL": "我吃這個",
+      "JAPANESE": "これ食べます！",
+      "INDONESIAN": "Aku pilih yang ini aja!",
+      "PORTUGUESE": "vou comer este!",
+      "SPANISH": "¡me comeré este!",
+      "PERSIAN": "من با این یکی می روم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나 누구 이렇게 쌈 싸준 적 처음이에요.",
+      "ENGLISH": "You know, this is actually my first time making a wrap for someone.",
+      "CHINESE_SIMPLIFIED": "我还是第一次给别人包肉呢",
+      "CHINESE_TRADITIONAL": "我還是第一次給包肉呢",
+      "JAPANESE": "こんなふうに誰かに包んであげるの初めてですよ",
+      "INDONESIAN": "Tau nggak, ini pertama kalinya aku bikinin wrap buat orang lain, lho.",
+      "PORTUGUESE": "É a primeira vez que eu faço um taco pra alguém.",
+      "SPANISH": "Es la primera vez que hago un taco para alguien más.",
+      "PERSIAN": "می دانید، در واقع این اولین بار است که من برای کسی یک روکش درست می کنم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "영광인 줄 알아요!",
+      "ENGLISH": "You better feel honored!",
+      "CHINESE_SIMPLIFIED": "要知道这是你的荣幸哦！",
+      "CHINESE_TRADITIONAL": "你要感到榮幸喔！",
+      "JAPANESE": "光栄に思ってください！",
+      "INDONESIAN": "Harusnya kamu ngerasa terhormat!",
+      "PORTUGUESE": "Sinta-se honrado!",
+      "SPANISH": "¡Siéntete honrado!",
+      "PERSIAN": "شما بهتر است احساس افتخار کنید!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 처음이시구나.",
+      "ENGLISH": "Ah~ your first time, huh.",
+      "CHINESE_SIMPLIFIED": "啊~原来是第一次啊",
+      "CHINESE_TRADITIONAL": "啊～原來是第一次啊",
+      "JAPANESE": "あ〜初めてなんですね",
+      "INDONESIAN": "Ah~ pertama kali ya.",
+      "PORTUGUESE": "Ah~ então é sua primeira vez.",
+      "SPANISH": "Ah~ así que es tu primera vez.",
+      "PERSIAN": "آه ~ اولین بار تو، ها."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 넣은 건 맞는 거죠?",
+      "ENGLISH": "You did put something in there, right?",
+      "CHINESE_SIMPLIFIED": "里面真的包了肉对吗？",
+      "CHINESE_TRADITIONAL": "裡面真的有包到食物吧？",
+      "JAPANESE": "ちゃんと中身入ってます？",
+      "INDONESIAN": "Kamu beneran masukin isinya, kan?",
+      "PORTUGUESE": "Tem certeza de que colocou algo dentro?",
+      "SPANISH": "¿Seguro que le pusiste algo dentro?",
+      "PERSIAN": "شما چیزی در آنجا گذاشتید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 이렇게 먹어야 깔끔하게 먹죠",
+      "ENGLISH": "Hey, this is how you eat it cleanly!",
+      "CHINESE_SIMPLIFIED": "哎哟，这样吃才干净嘛",
+      "CHINESE_TRADITIONAL": "要這樣吃才乾淨嘛",
+      "JAPANESE": "もう こうやって食べるのが一番きれいなんですよ",
+      "INDONESIAN": "Hey, gini lho cara makan yang bersih!",
+      "PORTUGUESE": "Ah, assim você não se suja na hora de comer.",
+      "SPANISH": "Ay, así no te ensucias al comer.",
+      "PERSIAN": "هی اینجوری تمیز میخوری!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 작은 거 같은데",
+      "ENGLISH": "It looks kinda tiny though…",
+      "CHINESE_SIMPLIFIED": "不过好像有点太小了？",
+      "CHINESE_TRADITIONAL": "不過好像有點太小了？",
+      "JAPANESE": "でもちょっと小さくない？",
+      "INDONESIAN": "Tapi keliatannya kecil banget, deh…",
+      "PORTUGUESE": "Acho que ficou um pouquinho pequeno.",
+      "SPANISH": "Creo que quedó un poco pequeño.",
+      "PERSIAN": "هر چند کمی کوچک به نظر می رسد…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "신부 수업에서는 이런 거 안 가르쳐 준단 말이에요.",
+      "ENGLISH": "They never taught us this in bride training school, you know.",
+      "CHINESE_SIMPLIFIED": "“新娘修养课”里可没教过这个呢",
+      "CHINESE_TRADITIONAL": "新娘課程裡面沒有教這個內容啊",
+      "JAPANESE": "お嫁さん修行じゃ こういうの教えてくれないんですよね",
+      "INDONESIAN": "Di sekolah calon pengantin nggak pernah diajarin ginian, tau.",
+      "PORTUGUESE": "Ninguém me ensinou como fazer isso.",
+      "SPANISH": "Nadie me enseñó como hacer esto",
+      "PERSIAN": "اونا هرگز اینو در مدرسه آموزش عروس به ما یاد ندادند، می دانید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "자!",
+      "ENGLISH": "Here!",
+      "CHINESE_SIMPLIFIED": "来！",
+      "CHINESE_TRADITIONAL": "來！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Nih!",
+      "PORTUGUESE": "Deixa eu ver!",
+      "SPANISH": "¡A ver!",
+      "PERSIAN": "اینجا!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "- 아~\n- 아~",
+      "ENGLISH": "- Ah~ \n- Ah~",
+      "CHINESE_SIMPLIFIED": "-啊~\n-啊~",
+      "CHINESE_TRADITIONAL": "-啊～\n-啊～",
+      "JAPANESE": "‐ あ〜ん\n‐ あ〜ん",
+      "INDONESIAN": "- Ah~\n- Ah~",
+      "PORTUGUESE": "- Ah~\n- Ah~",
+      "SPANISH": "- Ah~\n- Ah~",
+      "PERSIAN": "- آه~ - آه~"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 28.4
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 맛있다",
+      "ENGLISH": "Mmm, that’s good.",
+      "CHINESE_SIMPLIFIED": "嗯，好吃！",
+      "CHINESE_TRADITIONAL": "嗯，好吃！",
+      "JAPANESE": "ん、美味しい",
+      "INDONESIAN": "Mmm, enak juga.",
+      "PORTUGUESE": "Mmm, tá gostoso.",
+      "SPANISH": "Mmm, está rico.",
+      "PERSIAN": "ممم، این خوب است."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.3,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍, 하",
+      "ENGLISH": "Ssshh… haah.",
+      "CHINESE_SIMPLIFIED": "吸溜，哈——",
+      "CHINESE_TRADITIONAL": "哈～呼～",
+      "JAPANESE": "はぁ…ふぅ…",
+      "INDONESIAN": "Ssshh… haah.",
+      "PORTUGUESE": "suspiro",
+      "SPANISH": "*suspira*",
+      "PERSIAN": "سسش... هه."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 좀 괜찮네요.",
+      "ENGLISH": "Alright, now I’m feeling better.",
+      "CHINESE_SIMPLIFIED": "这才对嘛",
+      "CHINESE_TRADITIONAL": "現在好一點了",
+      "JAPANESE": "やっと落ち着いた",
+      "INDONESIAN": "Oke deh, sekarang aku jadi lebih enakan.",
+      "PORTUGUESE": "Agora me sinto melhor.",
+      "SPANISH": "Ahora me siento mejor.",
+      "PERSIAN": "باشه الان حالم بهتره"
+    }
+  }
+]

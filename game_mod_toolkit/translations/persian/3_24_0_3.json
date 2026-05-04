@@ -1,0 +1,180 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "짠!",
+      "ENGLISH": "Ta-da!",
+      "CHINESE_SIMPLIFIED": "锵！",
+      "CHINESE_TRADITIONAL": "將～",
+      "JAPANESE": "じゃーん！",
+      "INDONESIAN": "Ta-da!",
+      "PORTUGUESE": "Tcharã!",
+      "SPANISH": "¡Tarán!",
+      "PERSIAN": "تا-دا!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐예요 이게",
+      "ENGLISH": "What’s this?",
+      "CHINESE_SIMPLIFIED": "这是什么呀",
+      "CHINESE_TRADITIONAL": "這是什麼啊？",
+      "JAPANESE": "わぁ！なんですか急に！",
+      "INDONESIAN": "Apa ini?",
+      "PORTUGUESE": "O que é isso?",
+      "SPANISH": "¿Qué es esto?",
+      "PERSIAN": "این چیه"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "받아요!",
+      "ENGLISH": "Just take it!",
+      "CHINESE_SIMPLIFIED": "快收下！",
+      "CHINESE_TRADITIONAL": "收下吧！",
+      "JAPANESE": "受け取ってください！",
+      "INDONESIAN": "Ambil saja!",
+      "PORTUGUESE": "Toma!",
+      "SPANISH": "¡Tómalo!",
+      "PERSIAN": "فقط اونو بگیرید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 몰라...",
+      "ENGLISH": "You’re too much...",
+      "CHINESE_SIMPLIFIED": "真的没想到呢...",
+      "CHINESE_TRADITIONAL": "我真的沒想到...",
+      "JAPANESE": "なにこれ〜 いつの間に準備したんですか〜",
+      "INDONESIAN": "Kamu terlalu banyak...",
+      "PORTUGUESE": "Ah, não sei...",
+      "SPANISH": "Ay, no lo sé...",
+      "PERSIAN": "تو خیلی زیاد..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 언제 준비 했어요?",
+      "ENGLISH": "When did you even have time to prepare this?",
+      "CHINESE_SIMPLIFIED": "你什么时候准备的啊？",
+      "CHINESE_TRADITIONAL": "你什麼時候準備這個啊？",
+      "INDONESIAN": "Kapan kamu punya waktu untuk mempersiapkan ini?",
+      "PORTUGUESE": "E quando você preparou isso?",
+      "SPANISH": "¿Y cuándo preparaste esto?",
+      "PERSIAN": "اصلا کی وقت داشتی اینو تهیه کنی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 계속 표정이 안 좋길래... 제가 해드릴 수 있는 게 이런 거 밖에 없네요.",
+      "ENGLISH": "Well... you just seemed kinda down, and this was the only thing I could think to do.",
+      "CHINESE_SIMPLIFIED": "不是，看你一直情绪低落...我能做的也就只有这个了",
+      "CHINESE_TRADITIONAL": "也沒有，想說看你臉色不太好...我能做的就只有這個",
+      "JAPANESE": "ずっと表情が暗かったから… 俺にできることはこれくらいしかなくて",
+      "INDONESIAN": "Baiklah... kamu kelihatannya sedang lesu, dan itu satu-satunya hal yang terpikir olehku untuk kulakukan.",
+      "PORTUGUESE": "É que eu te via com uma cara ruim o tempo todo… e isso era a única coisa que eu podia fazer por você.",
+      "SPANISH": "Es que te veía con mala cara todo el tiempo… y esto era lo único que podía hacer por ti.",
+      "PERSIAN": "خوب... تو کمی ضعیف به نظر می رسید، و این تنها کاری بود که می توانستم انجام دهم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 거 밖에라뇨...!!",
+      "ENGLISH": "The only thing? Come on...",
+      "CHINESE_SIMPLIFIED": "怎么能说“只有这个”呢...！！",
+      "CHINESE_TRADITIONAL": "什麼叫只有這個…！！",
+      "JAPANESE": "これくらいって…!!",
+      "INDONESIAN": "Satu-satunya hal? Ayo...",
+      "PORTUGUESE": "A única coisa...? Ah, por favor!",
+      "SPANISH": "¿Lo único...? ¡Por favor!",
+      "PERSIAN": "تنها چیزی که؟ بیا..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 때문에 지금 웃으면 안 되는 상황인데도 자꾸 웃음이 나잖아요...",
+      "ENGLISH": "Because of you, I’m smiling when I’m not supposed to be smiling right now.",
+      "CHINESE_SIMPLIFIED": "哥哥害得我现在明明不该笑的，却总是忍不住笑出来...",
+      "CHINESE_TRADITIONAL": "明明現在是不該笑的情況，但是因為哥哥我一直笑出來...",
+      "JAPANESE": "それならサプライズは大成功ですよ！ふふ",
+      "INDONESIAN": "Karenamu, aku tersenyum saat aku seharusnya tidak tersenyum saat ini.",
+      "PORTUGUESE": "Por sua culpa, mesmo que eu não devesse estar sorrindo agora, não consigo evitar...",
+      "SPANISH": "Por tu culpa, aunque no debería estar sonriendo ahora, no puedo evitar hacerlo...",
+      "PERSIAN": "به خاطر تو، من دارم لبخند می زنم در حالی که قرار نیست الان لبخند بزنم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그러다면 서프라이즈~! 완전 성공이죠 ",
+      "ENGLISH": "Which means—surprise mission: totally accomplished!",
+      "CHINESE_SIMPLIFIED": "那说明惊喜~！大成功啦",
+      "CHINESE_TRADITIONAL": "不過這樣驚喜算是成功了～！",
+      "INDONESIAN": "Yang artinya—misi kejutan: berhasil dicapai!",
+      "PORTUGUESE": "Então isso quer dizer que o “surpresa~!” foi um sucesso total.",
+      "SPANISH": "Entonces significa que el “¡sorpresa~!” fue un éxito total.",
+      "PERSIAN": "به این معنی - ماموریت غافلگیر کننده: کاملاً انجام شد!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 26.7
+    },
+    "SCRIPT": {
+      "KOREAN": " 고마워요 진짜...",
+      "ENGLISH": "Thank you... really.",
+      "CHINESE_SIMPLIFIED": "谢谢你，真的...",
+      "CHINESE_TRADITIONAL": "真的很謝謝你…",
+      "JAPANESE": "本当にありがとう…",
+      "INDONESIAN": "Terima kasih...sungguh.",
+      "PORTUGUESE": "De verdade… obrigado.",
+      "SPANISH": "De verdad… gracias.",
+      "PERSIAN": "ممنون ... واقعا"
+    }
+  }
+]

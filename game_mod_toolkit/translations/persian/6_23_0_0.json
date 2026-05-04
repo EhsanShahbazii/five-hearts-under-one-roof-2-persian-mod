@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "확실히 과장님이랑 출근하면",
+      "ENGLISH": "One thing’s for sure—commuting with you—",
+      "CHINESE_SIMPLIFIED": "果然跟科长一起上班",
+      "CHINESE_TRADITIONAL": "果然跟課長一起上班",
+      "JAPANESE": "やっぱり課長と出勤すると",
+      "INDONESIAN": "Satu hal yang pasti—kalau berangkat bareng kamu—",
+      "PORTUGUESE": "Definitivamente, quando eu vou pro trabalho com você,",
+      "SPANISH": "Definitivamente, cuando voy al trabajo con usted,",
+      "PERSIAN": "یک چیز مطمئن است - رفت و آمد با شما -"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": " 지각 걱정은 없어서 좋네요 ",
+      "ENGLISH": "means no risk of being late.",
+      "CHINESE_SIMPLIFIED": "就不用担心迟到了，真好",
+      "CHINESE_TRADITIONAL": "就不用擔心遲到了，真好",
+      "JAPANESE": "遅刻の心配なくていいですね",
+      "INDONESIAN": "nggak mungkin telat.",
+      "PORTUGUESE": "não preciso me preocupar em chegar atrasado.",
+      "SPANISH": "no tengo que preocuparme por llegar tarde.",
+      "PERSIAN": "یعنی خطر دیر رسیدن وجود ندارد"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨, 지각 쌓이면 면담인 거 알지?",
+      "ENGLISH": "Yuman, you do know that too many late arrivals mean a sit-down, right?",
+      "CHINESE_SIMPLIFIED": "吴宥万，你知道迟到多了会被谈话吧？",
+      "CHINESE_TRADITIONAL": "吳宥萬，你知道遲到累積不少的話是要面談的吧？",
+      "JAPANESE": "ウ・ユマンさん、遅刻が続いたら面談なの知ってるよね？",
+      "INDONESIAN": "Yuman, kamu tahu kan kalau sering telat bisa-bisa dipanggil ngobrol serius?",
+      "PORTUGUESE": "Yumán, você sabe que se continuar se atrasando, vão te chamar a atenção, né?",
+      "SPANISH": "Yumán, sabes que si acumulas tardanzas, te van a llamar la atención, ¿verdad?",
+      "PERSIAN": "یومان، می‌دونی که دیر رسیدن زیاد به معنای نشستن است، درست است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네~",
+      "ENGLISH": "Yes, ma’am~",
+      "CHINESE_SIMPLIFIED": "知道啦~",
+      "CHINESE_TRADITIONAL": "知道啦～",
+      "JAPANESE": "はい〜",
+      "INDONESIAN": "Siap, Bu~",
+      "PORTUGUESE": "Sim~",
+      "SPANISH": "Sí~",
+      "PERSIAN": "بله خانم~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 28.3
+    },
+    "SCRIPT": {
+      "KOREAN": "와... 오늘 아침 일찍부터 사람이 엄청 많네요.",
+      "ENGLISH": "Whoa… there are so many people out this early.",
+      "CHINESE_SIMPLIFIED": "哇...今天一大早人也太多了吧",
+      "CHINESE_TRADITIONAL": "哇...今天一大早人也太多了吧",
+      "JAPANESE": "わぁ…今日朝からすごい人ですね",
+      "INDONESIAN": "Wah… rame juga ya orang-orang sepagi ini.",
+      "PORTUGUESE": "Uau… por que tem tanta gente tão cedo?",
+      "SPANISH": "Wow… ¿por qué hay tanta gente tan temprano?",
+      "PERSIAN": "اوه ... خیلی از مردم این اوایل بیرون هستند."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님 왜...",
+      "ENGLISH": "Chief, what’s—",
+      "CHINESE_SIMPLIFIED": "科长，你怎么了...",
+      "CHINESE_TRADITIONAL": "課長，你怎麽了...",
+      "JAPANESE": "課長、どうし…",
+      "INDONESIAN": "Chief, ada apa—",
+      "PORTUGUESE": "Chefe, você sabe...",
+      "SPANISH": "Jefa, ¿usted sabe...",
+      "PERSIAN": "رئیس، چیه -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 31.7,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "귀 좀...",
+      "ENGLISH": "Come closer…",
+      "CHINESE_SIMPLIFIED": "你过来一下...",
+      "CHINESE_TRADITIONAL": "你過來一下...",
+      "JAPANESE": "耳、ちょっと…",
+      "INDONESIAN": "Mendekat deh…",
+      "PORTUGUESE": "Vem cá...",
+      "SPANISH": "Ven acá...",
+      "PERSIAN": "نزدیکتر بیا…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 36.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나 방귀 나올 거 같아 ",
+      "ENGLISH": "I think I’m about to fart.",
+      "CHINESE_SIMPLIFIED": "我好像要憋不住屁了",
+      "CHINESE_TRADITIONAL": "我好像忍不住要放屁了",
+      "JAPANESE": "私、今おなら出そう",
+      "INDONESIAN": "Kayaknya aku mau kentut.",
+      "PORTUGUESE": "Acho que... eu vou soltar um pum.",
+      "SPANISH": "Creo que… me voy a tirar un gas.",
+      "PERSIAN": "فکر می کنم در حال گوز زدن هستم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 38.29
+    },
+    "SCRIPT": {
+      "KOREAN": "예!? 방귀요?",
+      "ENGLISH": "What?! A fart?!",
+      "CHINESE_SIMPLIFIED": "嗯！？要放屁？",
+      "CHINESE_TRADITIONAL": "嗯！？要放屁？",
+      "JAPANESE": "えっ！？おならですか！？",
+      "INDONESIAN": "Apa?! Kentut?!",
+      "PORTUGUESE": "O quê!? Um... pum!?",
+      "SPANISH": "¿¡Eh!? ¿Un… gas!?",
+      "PERSIAN": "چی؟! گوز؟!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 38.3,
+      "HIDE": 39.2
+    },
+    "SCRIPT": {
+      "KOREAN": "헉, 조용히 해...!",
+      "ENGLISH": "Shhh! Keep it down…!",
+      "CHINESE_SIMPLIFIED": "天呐，小点声...！",
+      "CHINESE_TRADITIONAL": "咳，小聲點...！",
+      "JAPANESE": "しっ、静かに…！",
+      "INDONESIAN": "Ssst! Jangan keras-keras…!",
+      "PORTUGUESE": "Shh, quieto...!",
+      "SPANISH": "¡Shh, cállate…!",
+      "PERSIAN": "خسس! پایین نگه دار…!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 39.9,
+      "HIDE": 43.7
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 하나, 둘, 셋 하면 대신 소리 좀 질러줘.",
+      "ENGLISH": "When I count to three, scream or something to cover the sound, okay?",
+      "CHINESE_SIMPLIFIED": "我数一二三，你帮我喊一声盖过去",
+      "CHINESE_TRADITIONAL": "我數一二三，你幫我喊一聲蓋過去",
+      "JAPANESE": "私がいち、に、さん」って言ったら代わりに叫んで",
+      "INDONESIAN": "Nanti pas aku hitung sampai tiga, teriak atau apalah buat nutupin suaranya, ya?",
+      "PORTUGUESE": "Quando eu contar até três, grita pra abafar o barulho.",
+      "SPANISH": "Cuando cuente hasta tres, grita para cubrir el ruido.",
+      "PERSIAN": "وقتی تا سه بشمارم، جیغ یا چیزی برای پوشاندن صدا، باشه؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 44.3,
+      "HIDE": 45.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하나...",
+      "ENGLISH": "One...",
+      "CHINESE_SIMPLIFIED": "一...",
+      "CHINESE_TRADITIONAL": "一...",
+      "JAPANESE": "いち…",
+      "INDONESIAN": "Satu...",
+      "PORTUGUESE": "Um...",
+      "SPANISH": "Uno…",
+      "PERSIAN": "یکی..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 45.7,
+      "HIDE": 46.7
+    },
+    "SCRIPT": {
+      "KOREAN": "둘...",
+      "ENGLISH": "Two...",
+      "CHINESE_SIMPLIFIED": "二...",
+      "CHINESE_TRADITIONAL": "二...",
+      "JAPANESE": "に…",
+      "INDONESIAN": "Dua...",
+      "PORTUGUESE": "Dois...",
+      "SPANISH": "Dos…",
+      "PERSIAN": "دو..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 47.2,
+      "HIDE": 47.4
+    },
+    "SCRIPT": {
+      "KOREAN": "셋...!",
+      "ENGLISH": "Three…!",
+      "CHINESE_SIMPLIFIED": "三...！",
+      "CHINESE_TRADITIONAL": "三...！",
+      "JAPANESE": "さん…！",
+      "INDONESIAN": "Tiga…!",
+      "PORTUGUESE": "Três...!",
+      "SPANISH": "¡Tres…!",
+      "PERSIAN": "سه…!"
+    }
+  }
+]

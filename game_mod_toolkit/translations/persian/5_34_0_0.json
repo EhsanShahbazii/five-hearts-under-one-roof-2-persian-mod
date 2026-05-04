@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저 선배 이거...",
+      "ENGLISH": "Um, senior, this…",
+      "CHINESE_SIMPLIFIED": "学长，这个给你...",
+      "CHINESE_TRADITIONAL": "學長...這個...",
+      "JAPANESE": "あの 先輩 これ…",
+      "INDONESIAN": "Uhh, Kak, ini…",
+      "PORTUGUESE": "Espera, pega isso...",
+      "SPANISH": "Espere, tome esto...",
+      "PERSIAN": "ام، ارشد، این…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 귤은 왜요?",
+      "ENGLISH": "Huh? Why a tangerine?",
+      "CHINESE_SIMPLIFIED": "嗯？橘子？为什么？",
+      "CHINESE_TRADITIONAL": "啊？橘子？",
+      "JAPANESE": "え？みかんがどうしたの？",
+      "INDONESIAN": "Hah? Kok ngasih jeruk?",
+      "PORTUGUESE": "Uma tangerina?",
+      "SPANISH": "¿Una mandarina?",
+      "PERSIAN": "ها؟ چرا نارنگی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저 오늘 도와주셨잖아요!",
+      "ENGLISH": "You helped me again today!",
+      "CHINESE_SIMPLIFIED": "你今天不是帮我了嘛！",
+      "CHINESE_TRADITIONAL": "學長今天不是幫我忙嗎！",
+      "JAPANESE": "今日助けてくれたじゃないですか！",
+      "INDONESIAN": "Kakak udah nolongin aku lagi hari ini soalnya!",
+      "PORTUGUESE": "Por ter me ajudado de manhã!",
+      "SPANISH": "¡Por ayudarme en la mañana!",
+      "PERSIAN": "امروز دوباره به من کمک کردی!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 받아요 이거!",
+      "ENGLISH": "Here, take it!",
+      "CHINESE_SIMPLIFIED": "收下吧！",
+      "CHINESE_TRADITIONAL": "這個給你！",
+      "JAPANESE": "受け取ってください これ！",
+      "INDONESIAN": "Nih, ambil aja!",
+      "PORTUGUESE": "Come.",
+      "SPANISH": "Cómalo.",
+      "PERSIAN": "اینجا، اونو بگیر!"
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "주문, 피고 동그란은 ",
+      "ENGLISH": "The court orders that the defendant, Gran,",
+      "CHINESE_SIMPLIFIED": "经判决，被告人佟圆圆",
+      "CHINESE_TRADITIONAL": "判決宣告——被告人佟圓圓",
+      "JAPANESE": "判決を言い渡す 被告人トン・グランは",
+      "INDONESIAN": "Pengadilan memutuskan bahwa terdakwa, Gran,",
+      "PORTUGUESE": "Dita a sentença: a acusada, Gran Dong,",
+      "SPANISH": "Se dicta sentencia: la acusada, Gran Dong",
+      "PERSIAN": "دادگاه حکم می کند که متهم، گران،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "신변에 위협을 가한 김 모씨를 과잉진압.",
+      "ENGLISH": "be sentenced to 5 years in prison",
+      "CHINESE_SIMPLIFIED": "因对威胁其人身安全的金某实施过度防卫",
+      "CHINESE_TRADITIONAL": "因對威脅自身安全的金某氏進行過度防衛",
+      "JAPANESE": "身の危険を感じたとはいえ、キム氏に対し過剰な制圧を行い",
+      "INDONESIAN": "dijatuhi hukuman 5 tahun penjara",
+      "PORTUGUESE": "por ter usado força excessiva ao conter o senhor Kim, que representava uma ameaça à sua integridade,",
+      "SPANISH": "por haber usado fuerza excesiva al someter al señor Kim, quien representaba una amenaza a su integridad,",
+      "PERSIAN": "به 5 سال زندان محکوم شود"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "혼수상태에 이르게 한 결과로",
+      "ENGLISH": "for excessive force resulting in the coma of Mr. Kim,",
+      "CHINESE_SIMPLIFIED": "造成金某陷入昏迷状态",
+      "CHINESE_TRADITIONAL": "導致對方陷入昏迷",
+      "JAPANESE": "その結果、昏睡状態に陥らせたものとする",
+      "INDONESIAN": "atas penggunaan kekerasan berlebihan yang mengakibatkan Tuan Kim koma,",
+      "PORTUGUESE": "causando-lhe um estado de coma,",
+      "SPANISH": "causándole un estado de coma,",
+      "PERSIAN": "به دلیل نیروی بیش از حد که منجر به کما شدن آقای کیم شد،"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "징역 5년형에 처한다.",
+      "ENGLISH": "whose actions were deemed a personal threat.",
+      "CHINESE_SIMPLIFIED": "现判处有期徒刑五年",
+      "CHINESE_TRADITIONAL": "判決有期徒刑五年",
+      "JAPANESE": "よって、懲役5年を言い渡す",
+      "INDONESIAN": "yang tindakannya dianggap sebagai ancaman pribadi.",
+      "PORTUGUESE": "é condenada a cinco anos de prisão.",
+      "SPANISH": "es condenada a cinco años de prisión.",
+      "PERSIAN": "که اقدامات اونا یک تهدید شخصی تلقی می شد."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 12.4
+    }
+  }
+]

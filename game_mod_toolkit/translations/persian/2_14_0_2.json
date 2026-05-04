@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이 승!",
+      "ENGLISH": "Mal-sook wins!",
+      "CHINESE_SIMPLIFIED": "末淑胜！",
+      "CHINESE_TRADITIONAL": "末淑，勝利！",
+      "JAPANESE": "マルスクの勝ち!",
+      "INDONESIAN": "Mal-sook menang!",
+      "PORTUGUESE": "Vitória para a Mal-sook!",
+      "SPANISH": "¡Victoria para Malsook!",
+      "PERSIAN": "مال‌سوک برنده شد!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "당연한 거지 뭐.",
+      "ENGLISH": "Well, of course.",
+      "CHINESE_SIMPLIFIED": "这不是明摆着的嘛",
+      "CHINESE_TRADITIONAL": "這不是理所當然的嗎",
+      "JAPANESE": "当然でしょ",
+      "INDONESIAN": "Yaiyalah.",
+      "PORTUGUESE": "Era óbvio.",
+      "SPANISH": "Era obvio.",
+      "PERSIAN": "خوب، البته."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "씨...",
+      "ENGLISH": "Tch...",
+      "CHINESE_SIMPLIFIED": "靠...",
+      "CHINESE_TRADITIONAL": "哼…",
+      "JAPANESE": "えいっ…",
+      "INDONESIAN": "Tch...",
+      "PORTUGUESE": "Tch...",
+      "SPANISH": "Tch…",
+      "PERSIAN": "تچ..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이랑 하다가 막판에 다리 쥐 날 뻔했어.",
+      "ENGLISH": "I almost got a leg cramp at the end with her.",
+      "CHINESE_SIMPLIFIED": "跟末淑比到最后一刻，我腿差点抽筋",
+      "CHINESE_TRADITIONAL": "跟末淑比到最後，腿差點抽筋了",
+      "JAPANESE": "マルスクとやってて最後 足つりそうになったんだぞ",
+      "INDONESIAN": "Tadi aku hampir keram kaki pas akhir lawan dia.",
+      "PORTUGUESE": "Quase me deu uma cãibra na perna.",
+      "SPANISH": "Casi me da un calambre en la pierna.",
+      "PERSIAN": "من تقریباً در پایان با او گرفتگی پا گرفتم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 그쪽이 저보다 한참 약하다는 건 알겠지만  ",
+      "ENGLISH": "I mean, sure... you’re way weaker than me,",
+      "CHINESE_SIMPLIFIED": "虽然知道你比我弱不少...",
+      "CHINESE_TRADITIONAL": "雖然知道你比我弱得多",
+      "JAPANESE": "まあ あんたが私よりだいぶ弱いのはわかったけど",
+      "INDONESIAN": "Maksudku, ya jelas... kamu jauh lebih lemah dari aku,",
+      "PORTUGUESE": "Sei muito bem que você é bem mais fraca que eu,",
+      "SPANISH": "Sé muy bien que eres mucho más débil que yo,",
+      "PERSIAN": "یعنی مطمئنم... تو خیلی ضعیف تر از منی،"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나쁘지 않다는 건 인정해줄게요.",
+      "ENGLISH": "but I’ll admit... you weren’t bad.",
+      "CHINESE_SIMPLIFIED": "但不得不承认你还不错啦",
+      "CHINESE_TRADITIONAL": "但我承認妳還不錯",
+      "JAPANESE": "悪くないってのは認めてあげますよ",
+      "INDONESIAN": "tapi aku akuin... kamu nggak jelek-jelek amat.",
+      "PORTUGUESE": "mas admito que não foi tão mal assim.",
+      "SPANISH": "pero admito que no estuviste tan mal.",
+      "PERSIAN": "اما اعتراف می کنم... تو بد نبودی."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 집에 온 걸 환영해요.",
+      "ENGLISH": "Anyway, welcome to the house.",
+      "CHINESE_SIMPLIFIED": "总之，欢迎来我们家",
+      "CHINESE_TRADITIONAL": "歡迎妳來我們家",
+      "JAPANESE": "うちに来たのは歓迎しますね",
+      "INDONESIAN": "Ngomong-ngomong, selamat datang di rumah ini.",
+      "PORTUGUESE": "Enfim, bem-vinda à nossa casa.",
+      "SPANISH": "En fin, bienvenida a nuestra casa.",
+      "PERSIAN": "به هر حال به خونه خوش اومدی"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 집이 왜 너네 집이야...",
+      "ENGLISH": "Why is it your house again...?",
+      "CHINESE_SIMPLIFIED": "凭什么变成你家了啊...",
+      "CHINESE_TRADITIONAL": "我們家什麼時候變你家了…",
+      "JAPANESE": "なんで俺んちがお前んちになるんだよ…",
+      "INDONESIAN": "Kenapa jadi rumah kamu lagi sih...?",
+      "PORTUGUESE": "Nossa casa? Mas essa nem é a sua casa...",
+      "SPANISH": "¿Nuestra casa? Si esta no es tu casa…",
+      "PERSIAN": "چرا دوباره خونه توست...؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 저 여기서 지내도 되는 거죠? ",
+      "ENGLISH": "So I can stay here now, right?",
+      "CHINESE_SIMPLIFIED": "所以我现在可以住在这里了吧？",
+      "CHINESE_TRADITIONAL": "那我現在可以住下來囉？",
+      "JAPANESE": "じゃあ 私もうここで暮らしていいんですよね?",
+      "INDONESIAN": "Jadi aku boleh tinggal di sini sekarang, kan?",
+      "PORTUGUESE": "Então, posso ficar aqui, né?",
+      "SPANISH": "Entonces, ¿me puedo quedar aquí, cierto?",
+      "PERSIAN": "پس من می توانم الان اینجا بمانم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "방은 제가 직접 골라도 돼요?",
+      "ENGLISH": "Can I pick my own room?",
+      "CHINESE_SIMPLIFIED": "房间可以让我自己挑吗？",
+      "CHINESE_TRADITIONAL": "房間可以讓我自己挑嗎？",
+      "JAPANESE": "部屋は私が直接選んでもいいですか?",
+      "INDONESIAN": "Boleh pilih kamar sendiri nggak?",
+      "PORTUGUESE": "Posso escolher meu quarto?",
+      "SPANISH": "¿Puedo elegir mi habitación?",
+      "PERSIAN": "می توانم اتاق خود را انتخاب کنم؟"
+    }
+  }
+]

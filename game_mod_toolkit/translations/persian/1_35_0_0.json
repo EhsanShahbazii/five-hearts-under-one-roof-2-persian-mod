@@ -1,0 +1,686 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아들 방이 아주 깨끗하지?",
+      "ENGLISH": "Son, isn’t your room spotless?",
+      "CHINESE_SIMPLIFIED": "儿子，房间很干净吧？",
+      "CHINESE_TRADITIONAL": "兒子你看，房間很乾淨吧？",
+      "JAPANESE": "部屋、すごくきれいになってるでしょ？",
+      "INDONESIAN": "Kamar anak Ibu bersih banget, kan?",
+      "PORTUGUESE": "Filho, não tá tudo limpinho no seu quarto?",
+      "SPANISH": "¿Viste qué limpio está tu cuarto?",
+      "PERSIAN": "پسرم اتاقتو ببین چقدر برق می‌زنه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이가 너 없을 때 계속 쓸고 닦고 한 거야~",
+      "ENGLISH": "Mal-sook kept cleaning it while you were gone~",
+      "CHINESE_SIMPLIFIED": "末淑在你不在的时候一直扫来擦去的~",
+      "CHINESE_TRADITIONAL": "末淑在你不在的時候又是擦又是掃的～",
+      "JAPANESE": "マルスクがあんたのいない間ずっと掃除してくれてたのよ",
+      "INDONESIAN": "Itu Mal-sook yang rajin nyapu sama ngepel selama kamu nggak ada~",
+      "PORTUGUESE": "A Mal-sook ficou limpando enquanto você tava fora~",
+      "SPANISH": "¡Mal-sook lo estuvo limpiando mientras no estabas!",
+      "PERSIAN": "وقتی تو نبودی، مال‌سوک مدام داشت می‌سابید و تمیزش می‌کرد~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마 근데 얘 하숙비도 안 내는데",
+      "ENGLISH": "Mom, but she doesn’t even pay rent here.",
+      "CHINESE_SIMPLIFIED": "妈，她也没交房租啊",
+      "CHINESE_TRADITIONAL": "媽，可是他也沒付房租耶",
+      "JAPANESE": "でも母さん、この子下宿代も払ってないんだから",
+      "INDONESIAN": "Tapi Ibu, dia kan nggak bayar kos juga,",
+      "PORTUGUESE": "Mãe, mas ela nem paga aluguel aqui.",
+      "SPANISH": "Pero si ni siquiera paga renta,",
+      "PERSIAN": "مامان، ولی این که اینجا مفتی نشسته و کرایه نمی‌ده،"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그 정도는 해야 하는 거 아니야?",
+      "ENGLISH": "Shouldn’t she at least be doing that?",
+      "CHINESE_SIMPLIFIED": "总得做点事吧？",
+      "CHINESE_TRADITIONAL": "這種事不該幫忙嗎？",
+      "JAPANESE": "そのくらいは当然じゃない？",
+      "INDONESIAN": "jadi wajar aja kalau bantuin, kan?",
+      "PORTUGUESE": "Ela não devia pelo menos fazer isso?",
+      "SPANISH": "¿no es lo mínimo que debería hacer?",
+      "PERSIAN": "حداقل باید همین کارا رو بکنه دیگه، نه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "에라이! 말숙이한테 돈을 왜 받아! ",
+      "ENGLISH": "Hey! Why would we take money from Mal-sook?",
+      "CHINESE_SIMPLIFIED": "为什么要收末淑的钱！",
+      "CHINESE_TRADITIONAL": "真是的！幹嘛跟末淑收錢！",
+      "JAPANESE": "なに言ってんの！マルスクからお金なんてもらうわけないでしょ！",
+      "INDONESIAN": "Ih dasar! Mal-sook kok malah ditarik bayaran!",
+      "PORTUGUESE": "Ei! Por que a gente cobraria dinheiro da Mal-sook?",
+      "SPANISH": "¡Ey! ¡¿Cómo le vas a cobrar a Mal-sook?!",
+      "PERSIAN": "خفه شو ببینم! مگه ما از مال‌سوک پول می‌گیریم؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "옆에서 챙겨주면 '감사합니다' 해야지!",
+      "ENGLISH": "You should be saying “thank you” for looking after you!",
+      "CHINESE_SIMPLIFIED": "人家在旁边照顾你，你就该说声“谢谢”！",
+      "CHINESE_TRADITIONAL": "人家在旁邊照顧你，要說“謝謝”啊！",
+      "JAPANESE": "そばで世話してくれてるんだから「ありがとう」って言うのが当たり前だろ！",
+      "INDONESIAN": "Udah dibantuin, kamu tinggal bilang “terima kasih” aja!",
+      "PORTUGUESE": "Você devia era dizer “obrigado” por cuidar de você!",
+      "SPANISH": "¡Con que te cuide y te ayude, ya deberías agradecerle!",
+      "PERSIAN": "همین که دور و برت هست باید کلاتو بندازی هوا بگی دستت درد نکنه!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 아빠! 진짜 씨...",
+      "ENGLISH": "Ugh, Dad, seriously…",
+      "CHINESE_SIMPLIFIED": "啊，爸！真是的...",
+      "CHINESE_TRADITIONAL": "啊，爸！真是的…",
+      "JAPANESE": "わーもう、父さんまで！まじか…",
+      "INDONESIAN": "Aduh, Ayah! Bener-bener deh…",
+      "PORTUGUESE": "Ugh, pai, sério…",
+      "SPANISH": "¡Papá… ! ¿es en serio...?",
+      "PERSIAN": "ای بابا، بابا! شما هم که همه‌ش طرف اونو می‌گیرین..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너 하여간 말숙이한테 하숙비 받기만 해!",
+      "ENGLISH": "All you ever care about is charging Mal-sook rent!",
+      "CHINESE_SIMPLIFIED": "你敢跟末淑收房租试试？！",
+      "CHINESE_TRADITIONAL": "總之，你敢跟末淑收房租試試！",
+      "JAPANESE": "お前はマルスクに下宿代払わせるなよ！",
+      "INDONESIAN": "Awas kalau kamu minta-minta uang kos ke Mal-sook, ya.",
+      "PORTUGUESE": "Tudo que você pensa é em cobrar aluguel da Mal-sook!",
+      "SPANISH": "¡Más te vale no cobrarle a Mal-sook!",
+      "PERSIAN": "نشنوم یه وقت از مال‌سوک کرایه بخوای ها، فهمیدی؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 33.9
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이 있어서 이모 마음이 얼마나 놓이는지 몰라.",
+      "ENGLISH": "You don’t know how much peace of mind she gives your aunt just by being here.",
+      "CHINESE_SIMPLIFIED": "有末淑在阿姨心里可放心多了",
+      "CHINESE_TRADITIONAL": "你不知道有末淑在，阿姨心裡有多踏實啊",
+      "JAPANESE": "マルスクがいてくれるからお母さんもどれだけ安心できていることか",
+      "INDONESIAN": "Padahal gara-gara ada Mal-sook, hati Ibu tuh jadi tenang banget.",
+      "PORTUGUESE": "Você não faz ideia da paz de espírito que ela dá pra sua tia só de estar aqui.",
+      "SPANISH": "Me siento tranquila sabiendo que ella está aquí.",
+      "PERSIAN": "اصلاً نمی‌دونی خاله چقدر خیالش راحته که مال‌سوک پیشته."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마 아빠 다시 출장 가봐야 되니깐",
+      "ENGLISH": "Since Mom and Dad have to head off on another business trip,",
+      "CHINESE_SIMPLIFIED": "爸爸妈妈现在又得出差了",
+      "CHINESE_TRADITIONAL": "爸媽又要去出差了",
+      "JAPANESE": "…さて、私たちはまた出張に行かないといけないからね",
+      "INDONESIAN": "Ayah sama Ibu sekarang harus berangkat kerja lagi,",
+      "PORTUGUESE": "Como a mamãe e o papai têm que viajar a trabalho de novo,",
+      "SPANISH": "Bueno, papá y yo tenemos que volver a salir de viaje,",
+      "PERSIAN": "مامان و بابا باید دوباره برن مأموریت کاری،"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 38.6
+    },
+    "SCRIPT": {
+      "KOREAN": "집 잘 지키고 있어.",
+      "ENGLISH": "you take good care of the house, okay?",
+      "CHINESE_SIMPLIFIED": "好好守着家",
+      "CHINESE_TRADITIONAL": "好好照顧家裡",
+      "JAPANESE": "家のこと、ちゃんと頼んだぞ",
+      "INDONESIAN": "jadi jaga rumah baik-baik ya.",
+      "PORTUGUESE": "cuida bem da casa, tá?",
+      "SPANISH": "así que cuida bien la casa.",
+      "PERSIAN": "حواست حسابی به خونه و زندگی باشه، باشه؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 38.6,
+      "HIDE": 39.6
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠지?",
+      "ENGLISH": "Got it?",
+      "CHINESE_SIMPLIFIED": "知道了吗？",
+      "CHINESE_TRADITIONAL": "知道了嗎？",
+      "JAPANESE": "いいな？",
+      "INDONESIAN": "Ngerti?",
+      "PORTUGUESE": "Entendido?",
+      "SPANISH": "¿Entendido?",
+      "PERSIAN": "فهمیدی پسرم؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 39.6,
+      "HIDE": 41.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나 아직 다 안 나았는데 ",
+      "ENGLISH": "But I’m not even fully recovered yet.",
+      "CHINESE_SIMPLIFIED": "我还没完全好",
+      "CHINESE_TRADITIONAL": "我還沒完全康復耶",
+      "JAPANESE": "まだ全部治ってないんだから",
+      "INDONESIAN": "Aku kan belum sembuh total...",
+      "PORTUGUESE": "Mas eu nem me recuperei totalmente ainda.",
+      "SPANISH": "Pero aún no estoy del todo recuperado,",
+      "PERSIAN": "من که هنوز جون نگرفتم،"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 41.6,
+      "HIDE": 42.9
+    },
+    "SCRIPT": {
+      "KOREAN": "좀만 더 있다 가면 안 돼?",
+      "ENGLISH": "Can’t you stay just a little longer?",
+      "CHINESE_SIMPLIFIED": "能再多待几天吗？",
+      "CHINESE_TRADITIONAL": "你們不能再待一陣子嗎？",
+      "JAPANESE": "もうちょっといてくれたっていいじゃん…",
+      "INDONESIAN": "Boleh nggak kalian tinggal lebih lama?",
+      "PORTUGUESE": "Não podem ficar só mais um pouquinho?",
+      "SPANISH": "¿no se pueden quedar un poco más?",
+      "PERSIAN": "نمی‌شه یکم بیشتر پیشم بمونین بعد برین؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 42.9,
+      "HIDE": 46.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만이 걱정하지 마세요. 유만이 제가 잘 돌볼게요.",
+      "ENGLISH": "Don’t worry about Yuman. I’ll take good care of him.",
+      "CHINESE_SIMPLIFIED": "叔叔阿姨你们放心，我会好好照顾宥万的！",
+      "CHINESE_TRADITIONAL": "請不要擔心宥萬，我會好好照顧他的",
+      "JAPANESE": "ユマンのことは心配しないでください。私がちゃんと面倒みますから",
+      "INDONESIAN": "Nggak usah khawatir soal Yuman. Biar aku yang jagain dia.",
+      "PORTUGUESE": "Não se preocupe com o Yuman. Eu vou cuidar bem dele.",
+      "SPANISH": "No se preocupe, señora. Yo me encargo de Yumán, lo cuidaré bien.",
+      "PERSIAN": "شما اصلاً نگران یومان نباشین خاله جون، خودم چهارچشمی حواسم بهش هست!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 46.4,
+      "HIDE": 49.7
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아 고마워. 잘 부탁할게!",
+      "ENGLISH": "Thanks, Mal-sook. We’re counting on you!",
+      "CHINESE_SIMPLIFIED": "末淑，谢谢你。麻烦你了！",
+      "CHINESE_TRADITIONAL": "末淑，謝謝你！就拜託你了！",
+      "JAPANESE": "マルスク、本当にありがとうね。頼りにしてるよ！",
+      "INDONESIAN": "Makasih banyak ya, Mal-sook. Tolong jaga dia baik-baik!",
+      "PORTUGUESE": "Obrigada, Mal-sook. Estamos contando com você!",
+      "SPANISH": "Gracias, Mal-sook. Te lo encargo.",
+      "PERSIAN": "قربونت برم مال‌سوک جون، سپردمش به خودت!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 49.7,
+      "HIDE": 51.3
+    },
+    "SCRIPT": {
+      "KOREAN": "자 우리 갑시다 갑시다.",
+      "ENGLISH": "Alright, let’s get going, let’s get going.",
+      "CHINESE_SIMPLIFIED": "来来来，咱们走吧",
+      "CHINESE_TRADITIONAL": "好了，我們走吧走吧",
+      "JAPANESE": "さあさあ、私たちは行きましょう",
+      "INDONESIAN": "Ya udah, kita berangkat.",
+      "PORTUGUESE": "Certo, vamos indo, vamos indo.",
+      "SPANISH": "Bueno, vámonos ya.",
+      "PERSIAN": "خیلی خب، بدو بریم که دیرمون شد!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 51.3,
+      "HIDE": 53.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아들 다녀올게!",
+      "ENGLISH": "Son, we’ll be back!",
+      "CHINESE_SIMPLIFIED": "儿子，我们走啦！",
+      "CHINESE_TRADITIONAL": "兒子，我們出門了！",
+      "JAPANESE": "行ってくるよ！",
+      "INDONESIAN": "Nak, Ayah sama Ibu pergi dulu ya!",
+      "PORTUGUESE": "Filho, a gente volta!",
+      "SPANISH": "¡Nos vemos, hijo!",
+      "PERSIAN": "پسرم ما رفتیم، به سلامت!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 53.6,
+      "HIDE": 54.6
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 간다고?",
+      "ENGLISH": "You’re really leaving?",
+      "CHINESE_SIMPLIFIED": "你们真的走了？",
+      "CHINESE_TRADITIONAL": "真的要走嗎？",
+      "JAPANESE": "ほんとに行っちゃうの？",
+      "INDONESIAN": "Serius kalian mau pergi sekarang?",
+      "PORTUGUESE": "Vocês vão mesmo embora?",
+      "SPANISH": "¿De verdad se van...?",
+      "PERSIAN": "جدی‌جدی دارین می‌رین؟!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 54.6,
+      "HIDE": 56.5
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 중간중간 연락드릴게요!",
+      "ENGLISH": "I’ll keep in touch and update you from time to time!",
+      "CHINESE_SIMPLIFIED": "我会时不时联系你们的！",
+      "CHINESE_TRADITIONAL": "我會時不時會聯絡的！",
+      "JAPANESE": "私が途中連絡しますから！",
+      "INDONESIAN": "Aku bakal kasih kabar ke Ayah dan Ibu sesering mungkin!",
+      "PORTUGUESE": "Eu vou manter contato e te atualizar de vez em quando!",
+      "SPANISH": "Los mantendré al tanto de todo.",
+      "PERSIAN": "من زنگ می‌زنم از وضعیتش بهتون خبر می‌دم خاله جون!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 56.6,
+      "HIDE": 57.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어~ 그래 그래",
+      "ENGLISH": "Oh~ yeah, yeah",
+      "CHINESE_SIMPLIFIED": "哦～ 对，对",
+      "CHINESE_TRADITIONAL": "哦～ 對，對",
+      "JAPANESE": "あぁ～、うん、うん",
+      "INDONESIAN": "Oh~ iya, iya",
+      "PORTUGUESE": "Ah~ sim, sim",
+      "SPANISH": "Ah~ sí, sí",
+      "PERSIAN": "آره عزیزم، فدات شم!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 65.5,
+      "HIDE": 66.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그걸 왜 말해...",
+      "ENGLISH": "Why would you say that…",
+      "CHINESE_SIMPLIFIED": "你为什么要说这些…",
+      "CHINESE_TRADITIONAL": "你幹嘛說這些…",
+      "JAPANESE": "なんでそれ言うんだよ…",
+      "INDONESIAN": "Ya ampun, ngapain ngomong itu...",
+      "PORTUGUESE": "Por que você tinha que dizer isso…",
+      "SPANISH": "¿¡Por qué dijiste eso…!?",
+      "PERSIAN": "چرا به مامانم اینا گفتی اخه؟..."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 67.7,
+      "HIDE": 68.5
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 뭘...",
+      "ENGLISH": "Say what?",
+      "CHINESE_SIMPLIFIED": "我说什么了…",
+      "CHINESE_TRADITIONAL": "我說了什麼…",
+      "JAPANESE": "俺が何だよ…",
+      "INDONESIAN": "A-aku apa…",
+      "PORTUGUESE": "Dizer o quê?",
+      "SPANISH": "¿Decir qué...?",
+      "PERSIAN": "چی رو چرا گفتم؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 68.5,
+      "HIDE": 71.2
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 하숙비 안 내는 거 그거 왜 얘기하냐고",
+      "ENGLISH": "About me not paying rent—why’d you have to bring that up?",
+      "CHINESE_SIMPLIFIED": "为什么要说我不交房租的事",
+      "CHINESE_TRADITIONAL": "幹嘛說我沒付房租？",
+      "JAPANESE": "下宿代払ってないとか、なんでそれを言うの",
+      "INDONESIAN": "Ngapain sih ngomongin kalau aku nggak bayar kos.",
+      "PORTUGUESE": "Que eu não pago aluguel—por que você tinha que falar isso?",
+      "SPANISH": "¡No tenías por qué decir que no pago renta!",
+      "PERSIAN": "اینکه کرایه نمی‌دی رو چرا جلو اونا انداختی وسط؟"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 71.2,
+      "HIDE": 73.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까 누가 안 내래?",
+      "ENGLISH": "Who said you had to pay rent?",
+      "CHINESE_SIMPLIFIED": "所以谁说你不用付了？",
+      "CHINESE_TRADITIONAL": "所以誰說你不用付啦？",
+      "JAPANESE": "誰が払うなって言った？",
+      "INDONESIAN": "Lah, siapa juga yang bilang kamu harus bayar?",
+      "PORTUGUESE": "Quem disse que você tinha que pagar aluguel?",
+      "SPANISH": "¿Entonces por qué no pagas?",
+      "PERSIAN": "کی گفته من باید کرایه بدم اخه پُررو؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 73.2,
+      "HIDE": 75.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아..배고프다",
+      "ENGLISH": "…Ugh, I’m hungry.",
+      "CHINESE_SIMPLIFIED": "哎，我饿了",
+      "CHINESE_TRADITIONAL": "啊…肚子餓了",
+      "JAPANESE": "……あ〜お腹すいた",
+      "INDONESIAN": "Ah… laper.",
+      "PORTUGUESE": "…Ugh, tô com fome.",
+      "SPANISH": "¡Ya, basta! Tengo hambre.",
+      "PERSIAN": "آخیش... گشنه‌مه بدجور."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 75.9,
+      "HIDE": 79.3
+    },
+    "SCRIPT": {
+      "KOREAN": "밥이나 먹을래? 아니다 술먹자!",
+      "ENGLISH": "Want to eat? No, let’s drink!",
+      "CHINESE_SIMPLIFIED": "要不去吃饭？算了，喝酒吧！",
+      "CHINESE_TRADITIONAL": "要不要吃飯？算了，我們喝酒吧！",
+      "JAPANESE": "ご飯食べる？ いや、お酒にしよう！",
+      "INDONESIAN": "Makan aja yuk? Eh, nggak jadi, minum aja!",
+      "PORTUGUESE": "Quer comer? Não, vamos beber!",
+      "SPANISH": "¿Quieres comer? O no... ¡mejor una cerveza!",
+      "PERSIAN": "غذا بخوریم؟ نه بابا، بیا نوشیدنی بزنیم عشق کنیم!"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 79.3,
+      "HIDE": 80.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나 환자라 술 못 먹어.",
+      "ENGLISH": "I can’t drink, I’m a patient.",
+      "CHINESE_SIMPLIFIED": "我可是病人，不能喝酒",
+      "CHINESE_TRADITIONAL": "我還是病人不能喝酒",
+      "JAPANESE": "俺、病人だから酒はダメだって",
+      "INDONESIAN": "Aku kan pasien, nggak bisa minum.",
+      "PORTUGUESE": "Eu não posso beber, sou paciente.",
+      "SPANISH": "Sigo enfermo, no puedo tomar.",
+      "PERSIAN": "من مریض احوالم، نباید لب به نوشیدنی بزنم."
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 81.7,
+      "HIDE": 83.3
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 먹고 싶다고.",
+      "ENGLISH": "I’m the one who wants to drink.",
+      "CHINESE_SIMPLIFIED": "没说你，是我想喝",
+      "CHINESE_TRADITIONAL": "是我自己想喝",
+      "JAPANESE": "私が飲みたいの",
+      "INDONESIAN": "Aku yang pengin minum.",
+      "PORTUGUESE": "Eu é que quero beber.",
+      "SPANISH": "Dije que YO quiero tomar.",
+      "PERSIAN": "من دلم می‌خواد بخورم، نه تو!"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 83.3,
+      "HIDE": 86.3
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 나가서 편의점에서 맥주랑 안주 좀 사와.",
+      "ENGLISH": "Now hurry up and run to the store—get some beer and snacks.",
+      "CHINESE_SIMPLIFIED": "快点出去便利店买点啤酒和下酒菜来",
+      "CHINESE_TRADITIONAL": "快點去便利商店，買些啤酒和下酒菜回來",
+      "JAPANESE": "ほら、コンビニ行ってビールとつまみ買ってきて",
+      "INDONESIAN": "Cepet gih ke minimarket, beliin bir sama camilan.",
+      "PORTUGUESE": "Agora anda logo e corre até a loja—pega umas cervejas e petiscos.",
+      "SPANISH": "Anda, ve a comprar cerveza y algo para picar.",
+      "PERSIAN": "زود باش برو سوپرمارکت چند تا قوطی نوشیدنی خنک با مزه بخر بیار."
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 87.0,
+      "HIDE": 88.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나 환잔데?",
+      "ENGLISH": "I’m still a patient.",
+      "CHINESE_SIMPLIFIED": "我可是病人啊？",
+      "CHINESE_TRADITIONAL": "我不是病人嗎？",
+      "JAPANESE": "俺、病人なんだって",
+      "INDONESIAN": "Aku kan pasien!",
+      "PORTUGUESE": "Eu ainda sou paciente.",
+      "SPANISH": "¿No me tienes que atender tú a mí?",
+      "PERSIAN": "من پام تو گچه ها! بیمارم هنوز!"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 89.8,
+      "HIDE": 91.4
+    },
+    "SCRIPT": {
+      "KOREAN": "발 하나 남았네.",
+      "ENGLISH": "You’ve got one good leg left.",
+      "CHINESE_SIMPLIFIED": "你还有一只脚可以用啊",
+      "CHINESE_TRADITIONAL": "你還有一隻腳可以用啊",
+      "JAPANESE": "足はまだ一本残ってるでしょ",
+      "INDONESIAN": "Ya tinggal satu kaki kamu, masih bisa jalan lah.",
+      "PORTUGUESE": "Você tem uma perna boa sobrando.",
+      "SPANISH": "Todavía puedes caminar.",
+      "PERSIAN": "اون یکی پات که سالمه، بپر دیگه!"
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 92.1,
+      "HIDE": 95.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아..진짜 우리 엄마아빠는 널 왜 좋아하는 거냐.",
+      "ENGLISH": "Seriously… why do my parents even like you so much?",
+      "CHINESE_SIMPLIFIED": "哎…真不懂我爸妈为什么那么喜欢你",
+      "CHINESE_TRADITIONAL": "啊…為什麼我爸媽那麼喜歡你啊",
+      "JAPANESE": "はぁ…ほんとにうちの親はなんでお前のこと気に入ってんのかね",
+      "INDONESIAN": "Astaga… kenapa sih Ayah sama Ibu suka banget sama kamu.",
+      "PORTUGUESE": "Sério… por que meus pais gostam tanto de você?",
+      "SPANISH": "No sé porqué les agradas tanto a mis padres...",
+      "PERSIAN": "عجبا... مامان و بابام عاشق چیه این اخلاق سگی تو شدن واقعاً؟"
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 97.2,
+      "HIDE": 100.4
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 갔다 오면 내가 뽀뽀해줄게.",
+      "ENGLISH": "If you go quickly, I’ll give you a kiss when you get back.",
+      "CHINESE_SIMPLIFIED": "你快买回来我就亲你一下",
+      "CHINESE_TRADITIONAL": "你快去買回來的話，我就親你一下",
+      "JAPANESE": "早く行ってきたら、チューしてあげる",
+      "INDONESIAN": "Udah, kalau kamu cepet pulang, aku kasih ciuman deh.",
+      "PORTUGUESE": "Se você for rápido, eu te dou um beijo quando voltar.",
+      "SPANISH": "Si vuelves rápido, te doy un beso.",
+      "PERSIAN": "اگه فرز بری و بیای، یه بوس بهت جایزه می‌دم!"
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 100.4,
+      "HIDE": 101.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하 참나... ",
+      "ENGLISH": "Ha, come on…",
+      "CHINESE_SIMPLIFIED": "唉，真是的…",
+      "CHINESE_TRADITIONAL": "哈，真是的…",
+      "JAPANESE": "はっ…バカ言え",
+      "INDONESIAN": "Hah, dasar…",
+      "PORTUGUESE": "Ha, qual é…",
+      "SPANISH": "Guau...",
+      "PERSIAN": "هه، برو عامو..."
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 101.9,
+      "HIDE": 104.0
+    },
+    "SCRIPT": {
+      "KOREAN": "누가 그딴 거 받고 싶대?",
+      "ENGLISH": "Who said I even wanted that?",
+      "CHINESE_SIMPLIFIED": "谁稀罕啊？",
+      "CHINESE_TRADITIONAL": "誰稀罕那種東西啦？",
+      "JAPANESE": "誰がそんなの欲しがるか",
+      "INDONESIAN": "Siapa juga yang mau ciuman dari kamu!",
+      "PORTUGUESE": "Quem disse que eu queria isso?",
+      "SPANISH": "¿Quién dijo que quiero eso?",
+      "PERSIAN": "کی اصلاً بوس تو رو خواست اخه؟"
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "TIME": {
+      "SHOW": 104.0,
+      "HIDE": 105.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어우... 증말!",
+      "ENGLISH": "Ugh, unbelievable!",
+      "CHINESE_SIMPLIFIED": "哎呀",
+      "CHINESE_TRADITIONAL": "唉…真是的！",
+      "JAPANESE": "あ〜もう！ほんっとに！",
+      "INDONESIAN": "Ya ampun… bener-bener deh!",
+      "PORTUGUESE": "Ugh, inacreditável!",
+      "SPANISH": "¡Ugh, ya!",
+      "PERSIAN": "ایشش... چقدرم خودش رو می‌گیره!"
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "TIME": {
+      "SHOW": 107.8,
+      "HIDE": 109.0
+    },
+    "SCRIPT": {
+      "KOREAN": "금방 갔다와.",
+      "ENGLISH": "Just go already!",
+      "CHINESE_SIMPLIFIED": "我马上回来！",
+      "CHINESE_TRADITIONAL": "快去快回！",
+      "JAPANESE": "いいから早く行ってきて！",
+      "INDONESIAN": "Cepet pergi sana!",
+      "PORTUGUESE": "Só vai logo!",
+      "SPANISH": "¡Anda, ve rápido!",
+      "PERSIAN": "زود برو بیا، معطل نکن!"
+    }
+  }
+]

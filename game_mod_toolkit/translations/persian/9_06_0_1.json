@@ -1,0 +1,71 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 씨... ",
+      "PERSIAN": "آه آقا..."
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 4
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 가야 되는데",
+      "PERSIAN": "من باید سریع بروم"
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "PERSIAN": "اوه؟"
+    }
+  },
+  {
+    "INDEX": 4,
+    "TIME": {
+      "SHOW": 6,
+      "HIDE": 7
+    },
+    "SCRIPT": {
+      "KOREAN": "또 갈림길이네",
+      "PERSIAN": "یک چهارراه دیگر"
+    }
+  },
+  {
+    "INDEX": 5,
+    "TIME": {
+      "SHOW": 8,
+      "HIDE": 9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 어떡하지...",
+      "PERSIAN": "وای چیکار کنم..."
+    }
+  },
+  {
+    "INDEX": 6,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6
+    }
+  },
+  {
+    "INDEX": 7,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7
+    }
+  }
+]

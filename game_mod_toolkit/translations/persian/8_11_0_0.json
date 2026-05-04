@@ -1,0 +1,207 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님!",
+      "ENGLISH": "Manager!",
+      "CHINESE_SIMPLIFIED": "科长！",
+      "CHINESE_TRADITIONAL": "課長！",
+      "JAPANESE": "課長！",
+      "INDONESIAN": "Manajer!",
+      "PORTUGUESE": "Chefa!",
+      "SPANISH": "¡Jefa!",
+      "PERSIAN": "مدیر!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "怎麼了？",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O que foi?",
+      "SPANISH": "¿Qué pasa?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 일하러 온 거 맞아요?",
+      "ENGLISH": "We are here for work, right?",
+      "CHINESE_SIMPLIFIED": "我们真是来工作的吗？",
+      "CHINESE_TRADITIONAL": "我們真的是來工作的嗎？",
+      "JAPANESE": "俺たち、本当に仕事で来たんですよね？",
+      "INDONESIAN": "Kita ke sini buat kerja, kan?",
+      "PORTUGUESE": "A gente veio mesmo pra trabalhar?",
+      "SPANISH": "¿De verdad vinimos a trabajar?",
+      "PERSIAN": "ما برای کار اینجا هستیم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 우리 회사 신제품 수영복 테스트 하러 온 거잖아",
+      "ENGLISH": "Yuman, we came to test our company’s new swimsuit line.",
+      "CHINESE_SIMPLIFIED": "吴宥万，我们是来测试公司新泳装产品的呀",
+      "CHINESE_TRADITIONAL": "吳宥萬，我們是來測試公司新的泳裝產品啊",
+      "JAPANESE": "ユマンさん、うちの会社の新作水着のテストに来たんでしょ",
+      "INDONESIAN": "Yuman, kita ke sini buat ngetes koleksi baju renang baru perusahaan kita.",
+      "PORTUGUESE": "Yumán, viemos pra experimentar os novos trajes de banho da empresa.",
+      "SPANISH": "Yumán, vinimos a probar los nuevos trajes de baño de la empresa.",
+      "PERSIAN": "یومان، ما آمدیم تا خط جدید مایو شرکتمان را آزمایش کنیم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 내가 밖에서는 이름 부르라고 그랬지.",
+      "ENGLISH": "And I told you to use my name when we’re outside.",
+      "CHINESE_SIMPLIFIED": "而且我不是说过，在外面直接叫我圆圆就好了",
+      "CHINESE_TRADITIONAL": "而且我不是說過，在外面直接叫我圓圓就好",
+      "JAPANESE": "それに、外では名前で呼ぶようにって言ったでしょ",
+      "INDONESIAN": "Dan aku udah bilang, jangan panggil aku “manajer” pas di luar.",
+      "PORTUGUESE": "E eu te disse pra me chamar pelo nome quando estivermos fora.",
+      "SPANISH": "Y te dije que afuera me llames por mi nombre.",
+      "PERSIAN": "و من به شما گفتم وقتی بیرون هستیم از نام من استفاده کنید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다... 그란 님...",
+      "ENGLISH": "Ah, right… Gran…",
+      "CHINESE_SIMPLIFIED": "啊对了...圆圆...",
+      "CHINESE_TRADITIONAL": "啊，對齁...圓圓...",
+      "JAPANESE": "あ、そうでした…グランさん…",
+      "INDONESIAN": "Ah, iya… Gran…",
+      "PORTUGUESE": "Ah, certo… Gran…",
+      "SPANISH": "Ah, cierto… Gran…",
+      "PERSIAN": "آه، درست… بزرگ…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐, 출장으로 온 거긴 한데 온 김에 좀 즐길 순 있지.",
+      "ENGLISH": "I mean, it is a business trip — but since we’re here, we can enjoy it a little, right?",
+      "CHINESE_SIMPLIFIED": "虽然是出差，但来都来了也可以稍微放松一下嘛",
+      "CHINESE_TRADITIONAL": "雖然是出差，但來都來了，也可以稍微放鬆一下嘛",
+      "JAPANESE": "まぁ、出張ではあるけど、せっかくだし少しは楽しもうよ",
+      "INDONESIAN": "Maksudku, ini kan tetep perjalanan kerja — tapi mumpung udah di sini, boleh dong sedikit nikmatin?",
+      "PORTUGUESE": "Bom, sim, viemos a trabalho, mas já que estamos aqui, podíamos aproveitar um pouco, né?",
+      "SPANISH": "Bueno, sí, vinimos por trabajo, pero ya que estamos aquí, podríamos disfrutar un poco, ¿no?",
+      "PERSIAN": "منظورم این است که این یک سفر کاری است - اما از آنجایی که ما اینجا هستیم، می توانیم کمی از اون لذت ببریم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 즐기다뇨?",
+      "ENGLISH": "Huh? Enjoy it how?",
+      "CHINESE_SIMPLIFIED": "嗯？放松？",
+      "CHINESE_TRADITIONAL": "嗯？放鬆？",
+      "JAPANESE": "えっ？楽しむって…？",
+      "INDONESIAN": "Hah? Nikmatin gimana?",
+      "PORTUGUESE": "Hã? Aproveitar como?",
+      "SPANISH": "¿Eh? ¿Disfrutar cómo?",
+      "PERSIAN": "ها؟ چگونه از اون لذت ببرید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 일로 와봐.",
+      "ENGLISH": "Yuman, come here.",
+      "CHINESE_SIMPLIFIED": "宥万，过来一下",
+      "CHINESE_TRADITIONAL": "宥萬，你過來一下",
+      "JAPANESE": "ユマンさん、こっちにおいで",
+      "INDONESIAN": "Yuman, sini deh.",
+      "PORTUGUESE": "Yumán, vem aqui.",
+      "SPANISH": "Yumán, ven acá.",
+      "PERSIAN": "یومان بیا اینجا"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 35.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Yes.",
+      "CHINESE_SIMPLIFIED": "好",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Tô indo.",
+      "SPANISH": "Voy.",
+      "PERSIAN": "بله."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 41.5
+    },
+    "SCRIPT": {
+      "KOREAN": "집에서 하는 거랑은 또 다른 느낌이지?",
+      "ENGLISH": "Feels different from doing this at home, doesn’t it?",
+      "CHINESE_SIMPLIFIED": "和在家做的感觉不一样吧？",
+      "CHINESE_TRADITIONAL": "跟在家裡做的感覺不一樣吧？",
+      "JAPANESE": "家でやるのとはまた違う感じでしょ？",
+      "INDONESIAN": "Berasa beda ya, dibanding ngelakuin ini di rumah?",
+      "PORTUGUESE": "É diferente de quando fazemos isso em casa, né?",
+      "SPANISH": "Se siente diferente a cuando lo hacemos en casa, ¿verdad?",
+      "PERSIAN": "با انجام این کار در خونه تفاوت دارد، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 44.0,
+      "HIDE": 44.2
+    }
+  }
+]

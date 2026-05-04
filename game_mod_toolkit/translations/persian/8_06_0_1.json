@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "음~ 근데 뭐 사람 달라진 거야 뭐. ",
+      "ENGLISH": "Hmm~ Well, people changing isn’t a big deal.",
+      "CHINESE_SIMPLIFIED": "嗯~其实人员变动对我来说",
+      "CHINESE_TRADITIONAL": "嗯～不過，房客變動對我來說",
+      "JAPANESE": "うーん、でもまぁ、人が変わったって別に",
+      "INDONESIAN": "Hmm~ Yah, pergantian orang sih bukan hal besar.",
+      "PORTUGUESE": "Hmm~ bom, ter gente nova não é grande coisa.",
+      "SPANISH": "Mmm~ bueno, que haya gente nueva no es gran cosa.",
+      "PERSIAN": "هوم ~ خب، تغییر افراد کار مهمی نیست."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저한테는 별로 안 중요한데요?",
+      "ENGLISH": "It’s not really important to me.",
+      "CHINESE_SIMPLIFIED": "根本不重要呢？",
+      "CHINESE_TRADITIONAL": "一點都不重要",
+      "JAPANESE": "俺にはあんまり関係ないですよ",
+      "INDONESIAN": "Itu nggak terlalu penting buat aku.",
+      "PORTUGUESE": "Pra mim, isso não importa muito.",
+      "SPANISH": "Para mí, eso no importa mucho.",
+      "PERSIAN": "واقعا برام مهم نیست"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님이 계시는 게 중요하지.",
+      "ENGLISH": "What matters is that you’re there, Manager.",
+      "CHINESE_SIMPLIFIED": "重要的是科长你在啊",
+      "CHINESE_TRADITIONAL": "重要的是課長你還在啊",
+      "JAPANESE": "課長がいることのほうが大事です",
+      "INDONESIAN": "Yang penting tuh kamu ada di sana, Manajer.",
+      "PORTUGUESE": "O importante é que você esteja lá.",
+      "SPANISH": "Lo importante es que usted esté ahí.",
+      "PERSIAN": "آنچه مهم است این است که شما آنجا هستید، مدیر."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야... 내가 유만 씨한테 그렇게 중요해?",
+      "ENGLISH": "…What? I’m that important to you, Yuman?",
+      "CHINESE_SIMPLIFIED": "什么啊...我对你来说有这么重要？",
+      "CHINESE_TRADITIONAL": "什麼...我在你心中有那麼重要嗎？",
+      "JAPANESE": "えっ…なにそれ、そんなに私のことが大事？",
+      "INDONESIAN": "…Hah? Aku sepenting itu buat kamu, Yuman?",
+      "PORTUGUESE": "O quê~? Sou tão importante assim pra você?",
+      "SPANISH": "¿Qué~? ¿Soy tan importante para ti?",
+      "PERSIAN": "... چی؟ من خیلی برات مهمم یومان؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "당연하죠 엄청 중요하죠. ",
+      "ENGLISH": "Of course — you’re incredibly important.",
+      "CHINESE_SIMPLIFIED": "当然啊，非常重要",
+      "CHINESE_TRADITIONAL": "當然啊，非常重要",
+      "JAPANESE": "もちろんですよ、すっごく大事です",
+      "INDONESIAN": "Ya tentu — kamu penting banget.",
+      "PORTUGUESE": "Claro, muito.",
+      "SPANISH": "Por supuesto, muchísimo.",
+      "PERSIAN": "البته - شما فوق العاده مهم هستید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "없으면 얼마나 신경이 쓰이는데.",
+      "ENGLISH": "I get so anxious when you’re not around.",
+      "CHINESE_SIMPLIFIED": "你是我生活中不可或缺的存在",
+      "CHINESE_TRADITIONAL": "你是我生活中不可或缺的存在",
+      "JAPANESE": "いなかったらどれだけ気になると思ってるんですか",
+      "INDONESIAN": "Aku tuh jadi cemas banget kalau kamu nggak ada.",
+      "PORTUGUESE": "Quando você não tá, não consigo parar de pensar em você.",
+      "SPANISH": "Cuando no está, no puedo dejar de pensar en usted.",
+      "PERSIAN": "وقتی تو نیستی خیلی مضطرب می شوم."
+    }
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.08,
+      "HIDE": 6.04
+    },
+    "SCRIPT": {
+      "KOREAN": "“1분에 한 번씩 연락하기 vs 하루에 한 번만 연락하기”",
+      "ENGLISH": "“Contact every minute vs Contact once a day”",
+      "CHINESE_SIMPLIFIED": "“每分钟联系一次 vs 每天只联系一次”",
+      "CHINESE_TRADITIONAL": "「每分鐘聯絡一次 vs 一天只聯絡一次」",
+      "JAPANESE": "「1分ごとに連絡する vs 1日1回だけ連絡する」",
+      "INDONESIAN": "“Hubungi setiap menit vs Hubungi sekali sehari”",
+      "PORTUGUESE": "“Falar a cada minuto vs Falar uma vez por dia”",
+      "SPANISH": "“Contactar cada minuto vs Contactar una vez al día”",
+      "PERSIAN": "\"تماس هر دقیقه در مقابل تماس یک بار در روز\""
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.04,
+      "HIDE": 7.21
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 “하루에 한 번 연락하기”",
+      "ENGLISH": "I choose “Contact once a day.”",
+      "CHINESE_SIMPLIFIED": "我选“每天只联系一次”",
+      "CHINESE_TRADITIONAL": "我選「一天只聯絡一次」。",
+      "JAPANESE": "私は「1日1回だけ連絡する」を選びます。",
+      "INDONESIAN": "Saya pilih “Hubungi sekali sehari.”",
+      "PORTUGUESE": "Eu escolho “Falar uma vez por dia”.",
+      "SPANISH": "Yo elijo “Contactar una vez al día”.",
+      "PERSIAN": "من «یک بار در روز تماس بگیرید» را انتخاب می کنم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.21,
+      "HIDE": 10.18
+    },
+    "SCRIPT": {
+      "KOREAN": "왜냐면 저는 연락하는 건 좀 귀찮아해요",
+      "ENGLISH": "Because I find messaging kind of bothersome.",
+      "CHINESE_SIMPLIFIED": "因为说实在的，我觉得联系别人挺麻烦的",
+      "CHINESE_TRADITIONAL": "因為我覺得聊天這件事有點麻煩。",
+      "JAPANESE": "連絡するのはちょっと面倒なんです。",
+      "INDONESIAN": "Karena saya agak malas untuk sering menghubungi orang.",
+      "PORTUGUESE": "Acho meio cansativo ficar mandando mensagens.",
+      "SPANISH": "Porque me parece un poco molesto estar enviando mensajes todo el tiempo.",
+      "PERSIAN": "زیرا به نظر من پیام رسانی به نوعی آزاردهنده است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.18,
+      "HIDE": 12.23
+    },
+    "SCRIPT": {
+      "KOREAN": "전화 통화 오래 하는 것도 별로 안 좋아하고",
+      "ENGLISH": "I don’t like talking on the phone for too long either.",
+      "CHINESE_SIMPLIFIED": "也不喜欢长时间打电话",
+      "CHINESE_TRADITIONAL": "我也不太喜歡講電話講太久。",
+      "JAPANESE": "長電話もあまり好きじゃなくて。",
+      "INDONESIAN": "Saya juga tidak suka menelepon terlalu lama.",
+      "PORTUGUESE": "Também não gosto muito de ligações longas.",
+      "SPANISH": "Tampoco me gusta hablar por teléfono por mucho rato.",
+      "PERSIAN": "من هم دوست ندارم خیلی طولانی با تلفن صحبت کنم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.23,
+      "HIDE": 15.14
+    },
+    "SCRIPT": {
+      "KOREAN": "조금 팬분들이 속상하실 수 있을 텐데",
+      "ENGLISH": "Some fans might be a bit disappointed,",
+      "CHINESE_SIMPLIFIED": "粉丝们听了可能会有点难过...",
+      "CHINESE_TRADITIONAL": "雖然粉絲們可能會有點失望，",
+      "JAPANESE": "ファンの皆さんは少し残念に思うかもしれませんが、",
+      "INDONESIAN": "Mungkin penggemar saya sedikit kecewa,",
+      "PORTUGUESE": "Talvez alguns fãs fiquem um pouco desapontados,",
+      "SPANISH": "Quizás a algunos fans les decepcione un poco,",
+      "PERSIAN": "برخی از طرفداران ممکنه کمی ناامید شوند،"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.14,
+      "HIDE": 19.17
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 연락하는 거 조금 귀찮아해서 만나면",
+      "ENGLISH": "but since I get tired of constant messaging, when I meet someone,",
+      "CHINESE_SIMPLIFIED": "但我真的有点怕麻烦，见面的时候",
+      "CHINESE_TRADITIONAL": "但我真的不太喜歡頻繁聯絡，對我來說，",
+      "JAPANESE": "私は頻繁に連絡するのが苦手なので、会う時に",
+      "INDONESIAN": "tapi saya memang kurang suka terus-menerus berkomunikasi. Kalau bertemu,",
+      "PORTUGUESE": "mas como acho cansativo conversar o tempo todo, quando encontro alguém,",
+      "SPANISH": "pero como no me gusta estar en contacto todo el día, cuando veo a alguien,",
+      "PERSIAN": "اما از آنجایی که از پیام رسانی مداوم خسته می شوم، وقتی با کسی ملاقات می کنم،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.17,
+      "HIDE": 24.14
+    },
+    "SCRIPT": {
+      "KOREAN": "상대한테 충분히 집중을 해줄 수 있지만 연락을 시도 때도 없이 한다",
+      "ENGLISH": "I can fully focus on them, but if they keep messaging nonstop—",
+      "CHINESE_SIMPLIFIED": "我会非常认真地把注意力给对方，但要是有人不分时间地找我",
+      "CHINESE_TRADITIONAL": "見面時可以全心專注，但若一直傳訊息——",
+      "JAPANESE": "相手にしっかり集中できますが、ずっと連絡されると——",
+      "INDONESIAN": "saya bisa fokus sepenuhnya, tapi kalau terus menghubungi—",
+      "PORTUGUESE": "posso focar totalmente, mas se ficar me mandando mensagens o tempo todo—",
+      "SPANISH": "puedo concentrarme en esa persona, pero si me escriben todo el tiempo—",
+      "PERSIAN": "من می توانم کاملاً روی اونا تمرکز کنم، اما اگر اونا به پیام رسانی بی وقفه ادامه دهند -"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.14,
+      "HIDE": 26.03
+    },
+    "SCRIPT": {
+      "KOREAN": "내 시간을 너무 방해한다",
+      "ENGLISH": "it interrupts my time too much.",
+      "CHINESE_SIMPLIFIED": "太打扰我的个人时间了",
+      "CHINESE_TRADITIONAL": "太打擾我的時間了。",
+      "JAPANESE": "自分の時間が邪魔されます。",
+      "INDONESIAN": "itu terlalu mengganggu waktu saya.",
+      "PORTUGUESE": "atrapalha demais o meu tempo.",
+      "SPANISH": "interrumpe demasiado mi tiempo.",
+      "PERSIAN": "وقتم را خیلی قطع می کند"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.03,
+      "HIDE": 28.11
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 일하는 거에 조금 귀찮게 한다",
+      "ENGLISH": "It bothers me while I’m working.",
+      "CHINESE_SIMPLIFIED": "还会影响我的工作节奏",
+      "CHINESE_TRADITIONAL": "工作時被打擾我也會覺得煩。",
+      "JAPANESE": "仕事中に邪魔されるのも嫌です。",
+      "INDONESIAN": "Bahkan saat bekerja jadi repot.",
+      "PORTUGUESE": "Até quando estou trabalhando, isso me incomoda.",
+      "SPANISH": "Incluso molesta cuando estoy trabajando.",
+      "PERSIAN": "وقتی کار می کنم اذیتم می کند."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.11,
+      "HIDE": 30.02
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 저는 안 돼요",
+      "ENGLISH": "Then it’s a no for me.",
+      "CHINESE_SIMPLIFIED": "这样我可受不了",
+      "CHINESE_TRADITIONAL": "那就不行了。",
+      "JAPANESE": "それはダメです。",
+      "INDONESIAN": "Itu tidak bisa.",
+      "PORTUGUESE": "Então, não dá.",
+      "SPANISH": "Así que no puedo.",
+      "PERSIAN": "سپس برای من یک نه است."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.02,
+      "HIDE": 32.03
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 저는 “하루에 한 번만 연락하기”",
+      "ENGLISH": "So I think “Contact once a day”",
+      "CHINESE_SIMPLIFIED": "所以“每天只联系一次”",
+      "CHINESE_TRADITIONAL": "所以我覺得「一天只聯絡一次」",
+      "JAPANESE": "だから私は「1日1回だけ連絡する」",
+      "INDONESIAN": "Jadi saya pikir “Sekali sehari”",
+      "PORTUGUESE": "Por isso acho que “Uma vez por dia”",
+      "SPANISH": "Por eso pienso que “Una vez al día”",
+      "PERSIAN": "بنابراین من فکر می کنم \"یک بار در روز تماس بگیرید\""
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.03,
+      "HIDE": 34.01
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 좋은 선택지라고 생각합니다",
+      "ENGLISH": "is such a great option.",
+      "CHINESE_SIMPLIFIED": "简直是为我量身定做的选项！",
+      "CHINESE_TRADITIONAL": "是個非常好的選擇。",
+      "JAPANESE": "がとても良い選択だと思います。",
+      "INDONESIAN": "adalah pilihan yang sempurna.",
+      "PORTUGUESE": "é uma ótima opção.",
+      "SPANISH": "es una gran opción.",
+      "PERSIAN": "گزینه بسیار خوبی است"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.01,
+      "HIDE": 34.2
+    },
+    "SCRIPT": {
+      "KOREAN": "짜잔",
+      "ENGLISH": "Tada!",
+      "CHINESE_SIMPLIFIED": "铛铛！",
+      "CHINESE_TRADITIONAL": "嗒嗒！",
+      "JAPANESE": "じゃーん！",
+      "INDONESIAN": "Tada!",
+      "PORTUGUESE": "Tcharan!",
+      "SPANISH": "¡Tarán!",
+      "PERSIAN": "تادا!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 39.01
+    },
+    "SCRIPT": {
+      "KOREAN": "“애인 방귀 냄새 맡기 vs 내 방귀 냄새 애인이 맡기”",
+      "ENGLISH": "“Smell your lover’s fart vs Have your lover smell your fart”",
+      "CHINESE_SIMPLIFIED": "“闻恋人的屁 vs 让恋人闻我的屁”",
+      "CHINESE_TRADITIONAL": "「聞戀人的屁 vs 讓戀人聞我的屁」",
+      "JAPANESE": "「恋人のオナラを嗅ぐ vs 恋人に自分のオナラを嗅がせる」",
+      "INDONESIAN": "“Mencium kentut pasangan vs Pasangan mencium kentut saya”",
+      "PORTUGUESE": "“Cheirar o pum do parceiro vs Deixar o parceiro cheirar o meu pum”",
+      "SPANISH": "“Oler el pedo de tu pareja vs Que tu pareja huela el tuyo”",
+      "PERSIAN": "«گوز معشوق را بو کن در مقابل از معشوق بخواه گوزت را بو کند»"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 39.01,
+      "HIDE": 41.1
+    },
+    "SCRIPT": {
+      "KOREAN": "여러분 제 팬 분들이 조금 아실지도 모르겠지만",
+      "ENGLISH": "Some of my fans might already know,",
+      "CHINESE_SIMPLIFIED": "可能有一些粉丝已经知道",
+      "CHINESE_TRADITIONAL": "也許有粉絲已經知道，",
+      "JAPANESE": "ファンの皆さんの中にはご存じの方もいるかもしれませんが、",
+      "INDONESIAN": "Mungkin beberapa penggemar saya tahu,",
+      "PORTUGUESE": "Alguns fãs talvez saibam,",
+      "SPANISH": "Tal vez algunos fans ya lo sepan,",
+      "PERSIAN": "ممکنه برخی از طرفداران من قبلاً بدانند،"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 44.08
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 냄새에 굉장히 예민하기 때문에",
+      "ENGLISH": "but I’m really sensitive to smells.",
+      "CHINESE_SIMPLIFIED": "我对气味非常敏感",
+      "CHINESE_TRADITIONAL": "我對氣味非常敏感。",
+      "JAPANESE": "私は匂いにとても敏感なんです。",
+      "INDONESIAN": "saya sangat sensitif terhadap bau.",
+      "PORTUGUESE": "sou muito sensível a cheiros.",
+      "SPANISH": "soy muy sensible a los olores.",
+      "PERSIAN": "اما من واقعاً به بوها حساس هستم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 44.08,
+      "HIDE": 47.04
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 애인의 방귀 냄새 맡고 싶지 않아요",
+      "ENGLISH": "So I don’t want to smell my lover’s fart.",
+      "CHINESE_SIMPLIFIED": "所以我完全不想闻恋人的屁！",
+      "CHINESE_TRADITIONAL": "所以我不想聞戀人的屁。",
+      "JAPANESE": "だから恋人のオナラは嗅ぎたくありません。",
+      "INDONESIAN": "Jadi saya tidak ingin mencium kentut pasangan saya.",
+      "PORTUGUESE": "Então, não quero cheirar o pum do meu parceiro.",
+      "SPANISH": "Así que no quiero oler el pedo de mi pareja.",
+      "PERSIAN": "بنابراین من نمی خواهم بوی گوز عاشقم را حس کنم."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 47.04,
+      "HIDE": 50.08
+    },
+    "SCRIPT": {
+      "KOREAN": "차라리 제 방귀 냄새를 애인이 맡았으면 좋겠습니다",
+      "ENGLISH": "I’d rather have my lover smell mine.",
+      "CHINESE_SIMPLIFIED": "我宁愿让对方闻我的",
+      "CHINESE_TRADITIONAL": "我寧願讓戀人聞我的。",
+      "JAPANESE": "むしろ恋人に私のを嗅いでほしいです。",
+      "INDONESIAN": "Saya lebih suka pasangan saya yang mencium kentut saya.",
+      "PORTUGUESE": "Prefiro que ele cheire o meu.",
+      "SPANISH": "Prefiero que mi pareja huela el mío.",
+      "PERSIAN": "ترجیح می دهم معشوقه ام بوی من را بدهد."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 50.08,
+      "HIDE": 55.02
+    },
+    "SCRIPT": {
+      "KOREAN": "제 애인이라면 제 방귀 냄새까지도 사랑해 주는 게 맞는 거 아닌가요?",
+      "ENGLISH": "If they’re truly my lover, shouldn’t they love even the smell of my fart?",
+      "CHINESE_SIMPLIFIED": "既然是爱我的人，那连我的屁味都该接受不是吗？",
+      "CHINESE_TRADITIONAL": "如果他真是我的戀人，不該連我的屁味都愛嗎？",
+      "JAPANESE": "恋人なら、私のオナラの匂いまで愛してくれるべきじゃないですか？",
+      "INDONESIAN": "Kalau benar-benar mencintai saya, bukankah seharusnya mencintai bau kentut saya juga?",
+      "PORTUGUESE": "Se é meu parceiro de verdade, não deveria amar até o cheiro do meu pum?",
+      "SPANISH": "Si realmente me ama, ¿no debería amar incluso el olor de mi pedo?",
+      "PERSIAN": "اگر اونا واقعاً معشوق من هستند، نباید حتی بوی گوز من را دوست داشته باشند؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 55.02,
+      "HIDE": 58.11
+    },
+    "SCRIPT": {
+      "KOREAN": "물론 지독할 수 있겠지만 저는 애인 방귀 냄새 싫어요",
+      "ENGLISH": "Of course, it could be awful, but I don’t like smelling theirs.",
+      "CHINESE_SIMPLIFIED": "虽然可能有点臭...但反正我拒绝闻别人的",
+      "CHINESE_TRADITIONAL": "當然，可能會很臭，但我不想聞他的。",
+      "JAPANESE": "もちろん臭いかもしれませんが、恋人のは嫌です。",
+      "INDONESIAN": "Meskipun bisa jadi menyengat, saya tidak mau mencium bau pasangan saya.",
+      "PORTUGUESE": "Claro que pode ser terrível, mas eu não quero cheirar o dele.",
+      "SPANISH": "Claro, puede ser horrible, pero no quiero oler el suyo.",
+      "PERSIAN": "البته، ممکنه افتضاح باشد، اما من دوست ندارم بوی اونا رو بشنوم."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 58.11,
+      "HIDE": 60.21
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까 제 방귀나 먹어라 알겠지? 자기야",
+      "ENGLISH": "So just smell mine, okay honey?",
+      "CHINESE_SIMPLIFIED": "所以亲爱的，要闻就闻我的吧，懂了吗？",
+      "CHINESE_TRADITIONAL": "所以聞我的吧，好嗎，親愛的？",
+      "JAPANESE": "だから私のを嗅いでね、ダーリン。",
+      "INDONESIAN": "Jadi cium punya saya saja, sayang.",
+      "PORTUGUESE": "Então cheira o meu, tá bom, amor?",
+      "SPANISH": "Así que huele el mío, ¿vale, cariño?",
+      "PERSIAN": "پس فقط بوی من را بو کن، باشه عزیزم؟"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 60.21,
+      "HIDE": 61.22
+    },
+    "SCRIPT": {
+      "KOREAN": "짜잔!",
+      "ENGLISH": "Tada!",
+      "CHINESE_SIMPLIFIED": "铛铛！",
+      "CHINESE_TRADITIONAL": "嗒嗒！",
+      "JAPANESE": "じゃーん！",
+      "INDONESIAN": "Tada!",
+      "PORTUGUESE": "Tcharan!",
+      "SPANISH": "¡Tarán!",
+      "PERSIAN": "تادا!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 61.22,
+      "HIDE": 63.22
+    },
+    "SCRIPT": {
+      "KOREAN": "“낮져밤이 vs 낮이밤져”",
+      "ENGLISH": "“Dominate by day vs Dominate by night”",
+      "CHINESE_SIMPLIFIED": "“白天服从型，晚上主导型 vs 白天主导型，晚上服从型”",
+      "CHINESE_TRADITIONAL": "「白天主導 vs 晚上主導」",
+      "JAPANESE": "「昼勝ち夜負け vs 昼負け夜勝ち」",
+      "INDONESIAN": "“Dominan di siang hari vs Dominan di malam hari”",
+      "PORTUGUESE": "“Dominar de dia vs Dominar à noite”",
+      "SPANISH": "“Dominar de día vs Dominar de noche”",
+      "PERSIAN": "«تسلط بر روز در مقابل تسلط بر شب»"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 64.04,
+      "HIDE": 65.13
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 같아요?",
+      "ENGLISH": "What do you think I am?",
+      "CHINESE_SIMPLIFIED": "你们觉得我是哪种？",
+      "CHINESE_TRADITIONAL": "你們覺得我是哪種？",
+      "JAPANESE": "どっちだと思いますか？",
+      "INDONESIAN": "Menurut kalian saya yang mana?",
+      "PORTUGUESE": "O que vocês acham que eu sou?",
+      "SPANISH": "¿Qué creen que soy?",
+      "PERSIAN": "به نظر شما من چی هستم؟"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 65.13,
+      "HIDE": 66.23
+    },
+    "SCRIPT": {
+      "KOREAN": "질문 타임 저 뭐 같아요?",
+      "ENGLISH": "Question time — which one do you think I am?",
+      "CHINESE_SIMPLIFIED": "提问时间！大家觉得我属于哪种呀？",
+      "CHINESE_TRADITIONAL": "提問時間——你們覺得我是？",
+      "JAPANESE": "質問タイム——私はどっちだと思います？",
+      "INDONESIAN": "Waktu tanya-jawab — menurut kalian saya yang mana?",
+      "PORTUGUESE": "Hora das perguntas — o que acham?",
+      "SPANISH": "Hora de preguntas — ¿qué creen ustedes?",
+      "PERSIAN": "زمان سوال - به نظر شما من کدام یک هستم؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 66.23,
+      "HIDE": 67.23
+    },
+    "SCRIPT": {
+      "KOREAN": "(없는 거 같은데요)",
+      "ENGLISH": "(I don’t think you fit either)",
+      "CHINESE_SIMPLIFIED": "（好像都不是？）",
+      "CHINESE_TRADITIONAL": "（好像都不是）",
+      "JAPANESE": "（どっちでもないかも）",
+      "INDONESIAN": "(Tidak ada yang cocok)",
+      "PORTUGUESE": "(Nenhum dos dois)",
+      "SPANISH": "(No encajas en ninguno)",
+      "PERSIAN": "(به نظر من شما هم مناسب نیستید)"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 67.23,
+      "HIDE": 69.05
+    },
+    "SCRIPT": {
+      "KOREAN": "없다고요? 이 중에",
+      "ENGLISH": "Neither? Among these?",
+      "CHINESE_SIMPLIFIED": "没有吗？难道你们在想",
+      "CHINESE_TRADITIONAL": "都不是？在這些裡？",
+      "JAPANESE": "どっちでもない？この中で？",
+      "INDONESIAN": "Tidak ada yang cocok? Dari dua ini?",
+      "PORTUGUESE": "Nenhum dos dois? Entre esses?",
+      "SPANISH": "¿En ninguno? ¿De estos?",
+      "PERSIAN": "هیچ کدام؟ از این میون؟"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 70.11,
+      "HIDE": 73.13
+    },
+    "SCRIPT": {
+      "KOREAN": "낮이밤이 이런 거 생각하시는 거예요?",
+      "ENGLISH": "You’re thinking of something like “day dominates, night submits”?",
+      "CHINESE_SIMPLIFIED": "白天晚上都强这种选项？",
+      "CHINESE_TRADITIONAL": "你是指「白天贏晚上輸」這種？",
+      "JAPANESE": "「昼勝ち夜負け」みたいな意味？",
+      "INDONESIAN": "Kalian pikir maksudnya seperti “siang menang, malam kalah”?",
+      "PORTUGUESE": "Você está pensando em algo tipo “ganha de dia, perde à noite”?",
+      "SPANISH": "¿Algo como “gana de día, pierde de noche”?",
+      "PERSIAN": "شما به چیزی مانند \"روز غالب است، شب تسلیم می شود\" فکر می کنید؟"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 75.03,
+      "HIDE": 76.0
+    },
+    "SCRIPT": {
+      "KOREAN": "(중간은 없어)",
+      "ENGLISH": "(No middle ground)",
+      "CHINESE_SIMPLIFIED": "（没有中间选项）",
+      "CHINESE_TRADITIONAL": "（沒有中間）",
+      "JAPANESE": "（中間はない）",
+      "INDONESIAN": "(Tidak ada tengah-tengah)",
+      "PORTUGUESE": "(Sem meio-termo)",
+      "SPANISH": "(Sin punto medio)",
+      "PERSIAN": "(بدون حد وسط)"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 76.0,
+      "HIDE": 77.2
+    },
+    "SCRIPT": {
+      "KOREAN": "중간은 없어?",
+      "ENGLISH": "No middle ground?",
+      "CHINESE_SIMPLIFIED": "没有折中选项？",
+      "CHINESE_TRADITIONAL": "沒有中間？",
+      "JAPANESE": "中間はない？",
+      "INDONESIAN": "Tidak ada tengah-tengah?",
+      "PORTUGUESE": "Sem meio-termo?",
+      "SPANISH": "¿Sin punto medio?",
+      "PERSIAN": "حد وسط نداره؟"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 77.2,
+      "HIDE": 79.15
+    },
+    "SCRIPT": {
+      "KOREAN": "맞아요 전 중간이 없습니다",
+      "ENGLISH": "You’re right, I don’t have a middle ground.",
+      "CHINESE_SIMPLIFIED": "没错，我本来就不是中庸类型！",
+      "CHINESE_TRADITIONAL": "沒錯，我沒有中間。",
+      "JAPANESE": "そうです、私は中間がありません。",
+      "INDONESIAN": "Benar, saya tidak punya tengah-tengah.",
+      "PORTUGUESE": "Certo, eu não tenho meio-termo.",
+      "SPANISH": "Exacto, no tengo punto medio.",
+      "PERSIAN": "حق با شماست، من حد وسطی ندارم."
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 79.15,
+      "HIDE": 81.23
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 뭐 이 중에 없어요",
+      "ENGLISH": "But I don’t fit either of these.",
+      "CHINESE_SIMPLIFIED": "不过这两个选项里确实没有我",
+      "CHINESE_TRADITIONAL": "不過這兩個都不是我。",
+      "JAPANESE": "でもこの2つのどちらでもありません。",
+      "INDONESIAN": "Tapi saya bukan salah satu dari keduanya.",
+      "PORTUGUESE": "Mas também não sou nenhum desses.",
+      "SPANISH": "Pero no soy ninguno de los dos.",
+      "PERSIAN": "اما من با هیچکدام از اینا سازگار نیستم."
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 81.23,
+      "HIDE": 85.08
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 일지는 여러분들의 상상에 맡기도록 하겠습니다",
+      "ENGLISH": "I’ll leave that to your imagination.",
+      "CHINESE_SIMPLIFIED": "具体是哪款，就留给大家想象吧～",
+      "CHINESE_TRADITIONAL": "就交給大家的想像吧。",
+      "JAPANESE": "皆さんの想像にお任せします。",
+      "INDONESIAN": "Saya serahkan itu pada imajinasi kalian.",
+      "PORTUGUESE": "Deixo para a imaginação de vocês.",
+      "SPANISH": "Lo dejaré a su imaginación.",
+      "PERSIAN": "من اونو به تخیل شما می سپارم."
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 85.08,
+      "HIDE": 87.13
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 이 둘 중에는 없어요",
+      "ENGLISH": "Anyway, it’s neither of these two.",
+      "CHINESE_SIMPLIFIED": "反正不在这两者之中",
+      "CHINESE_TRADITIONAL": "反正這兩個都不是。",
+      "JAPANESE": "とにかくこの2つではありません。",
+      "INDONESIAN": "Bagaimanapun juga, bukan keduanya.",
+      "PORTUGUESE": "De qualquer forma, não é nenhum dos dois.",
+      "SPANISH": "De todos modos, no soy ninguno.",
+      "PERSIAN": "به هر حال هیچ کدام از این دو نیست."
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 87.13,
+      "HIDE": 88.19
+    },
+    "SCRIPT": {
+      "KOREAN": "전 바뀌지 않아요",
+      "ENGLISH": "I don’t change.",
+      "CHINESE_SIMPLIFIED": "我是不会变的",
+      "CHINESE_TRADITIONAL": "我不會變。",
+      "JAPANESE": "私は変わりません。",
+      "INDONESIAN": "Saya tidak berubah.",
+      "PORTUGUESE": "Eu não mudo.",
+      "SPANISH": "No cambio.",
+      "PERSIAN": "من تغییر نمی کنم"
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 88.19,
+      "HIDE": 90.07
+    },
+    "SCRIPT": {
+      "KOREAN": "하나만 고집합니다",
+      "ENGLISH": "I stick to just one.",
+      "CHINESE_SIMPLIFIED": "只坚持独一无二的风格",
+      "CHINESE_TRADITIONAL": "我只堅持一種。",
+      "JAPANESE": "1つだけにこだわります。",
+      "INDONESIAN": "Saya hanya pilih satu.",
+      "PORTUGUESE": "Eu sigo apenas um caminho.",
+      "SPANISH": "Solo sigo uno.",
+      "PERSIAN": "من فقط به یکی می چسبم."
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "TIME": {
+      "SHOW": 90.2,
+      "HIDE": 91.09
+    },
+    "SCRIPT": {
+      "KOREAN": "이상",
+      "ENGLISH": "The end.",
+      "CHINESE_SIMPLIFIED": "以上！",
+      "CHINESE_TRADITIONAL": "結束。",
+      "JAPANESE": "以上。",
+      "INDONESIAN": "Selesai.",
+      "PORTUGUESE": "Fim.",
+      "SPANISH": "Fin.",
+      "PERSIAN": "پایان."
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 제가 민정 님한테 돈을 어떻게 받아요",
+      "ENGLISH": "Come on~ I can't take money from you, Min-jung",
+      "CHINESE_SIMPLIFIED": "哎~我怎么能收敏静的钱呢",
+      "CHINESE_TRADITIONAL": "欸～我怎麼會跟敏靜你收錢呢？",
+      "JAPANESE": "え〜、ミンジョンさんからお金なんて受け取れませんよ",
+      "INDONESIAN": "Ayolah~ aku nggak tega nerima uang dari kamu, Min-jung",
+      "PORTUGUESE": "Ai~ como eu vou aceitar dinheiro de você, Minjung?",
+      "SPANISH": "Ay~ ¿cómo voy a aceptar dinero de ti, Minjung?",
+      "PERSIAN": "بیا من نمی توانم از تو پول بگیرم، مین‌جونگ"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래두..",
+      "ENGLISH": "Still…",
+      "CHINESE_SIMPLIFIED": "可是...",
+      "CHINESE_TRADITIONAL": "可是…",
+      "JAPANESE": "でも…",
+      "INDONESIAN": "Tapi tetap aja…",
+      "PORTUGUESE": "Mesmo assim…",
+      "SPANISH": "Aun así…",
+      "PERSIAN": "هنوز…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 걱정 마시고 일단 지금 일부터 잘 해결해 봐요",
+      "ENGLISH": "Don’t worry about that. Let’s just focus on getting through this first",
+      "CHINESE_SIMPLIFIED": "别担心这个，先专心处理好眼前的事吧",
+      "CHINESE_TRADITIONAL": "別擔心這個，眼前的事先好好解決吧",
+      "JAPANESE": "それは気にしないで、まずは今のことをちゃんと片づけましょう",
+      "INDONESIAN": "Nggak usah dipikirin. Kita fokus hadapin ini dulu, ya",
+      "PORTUGUESE": "Não se preocupa com isso, só foca em resolver o mal-entendido.",
+      "SPANISH": "No te preocupes por eso, mejor concéntrate en resolver el malentendido.",
+      "PERSIAN": "نگران این نباش بیایید ابتدا روی عبور از این موضوع تمرکز کنیم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 도와줄게요",
+      "ENGLISH": "I’ll help you",
+      "CHINESE_SIMPLIFIED": "我会帮你的",
+      "CHINESE_TRADITIONAL": "我會幫妳的",
+      "JAPANESE": "俺が手伝いますから",
+      "INDONESIAN": "Aku bakal bantu kamu",
+      "PORTUGUESE": "Eu vou te ajudar.",
+      "SPANISH": "Yo te voy a ayudar.",
+      "PERSIAN": "من به شما کمک خواهم کرد"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요.",
+      "ENGLISH": "Thank you",
+      "CHINESE_SIMPLIFIED": "谢谢你",
+      "CHINESE_TRADITIONAL": "謝謝你",
+      "JAPANESE": "ありがとう",
+      "INDONESIAN": "Makasih",
+      "PORTUGUESE": "Obrigada.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "ممنونم"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 내는 게 맞는 거 같아요",
+      "ENGLISH": "But… I really think I should pay",
+      "CHINESE_SIMPLIFIED": "不过我觉得还是该付的",
+      "CHINESE_TRADITIONAL": "但該付還是要付",
+      "JAPANESE": "でも、やっぱり私が払うのが筋だと思うんです",
+      "INDONESIAN": "Tapi… aku beneran ngerasa harus bayar",
+      "PORTUGUESE": "Mas acho que mesmo assim eu devia pagar,",
+      "SPANISH": "Pero creo que igual debería pagar,",
+      "PERSIAN": "اما ... من واقعا فکر می کنم باید پرداخت کنم"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저 오빠 부담 주기 싫단 말이에요 ",
+      "ENGLISH": "I don’t want to be a burden on you",
+      "CHINESE_SIMPLIFIED": "我不想让哥哥有负担",
+      "CHINESE_TRADITIONAL": "我不想讓哥哥你覺得有負擔…",
+      "JAPANESE": "お兄さんに負担かけたくないんです",
+      "INDONESIAN": "Aku nggak mau nyusahin kamu",
+      "PORTUGUESE": "não quero que você se sinta sobrecarregado, oppa.",
+      "SPANISH": "no quiero que te sientas con ninguna carga, oppa.",
+      "PERSIAN": "من نمی خواهم سربار شما باشم"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님..",
+      "ENGLISH": "Min-jung…",
+      "CHINESE_SIMPLIFIED": "敏静...",
+      "CHINESE_TRADITIONAL": "敏靜…",
+      "JAPANESE": "ミンジョンさん…",
+      "INDONESIAN": "Min-jung…",
+      "PORTUGUESE": "Minjung…",
+      "SPANISH": "Minjung…",
+      "PERSIAN": "مین‌جونگ…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "큼..! 암튼 난 잔다",
+      "ENGLISH": "Ahem... Anyway, I’m going to bed",
+      "CHINESE_SIMPLIFIED": "咳咳！反正我要睡了",
+      "CHINESE_TRADITIONAL": "咳，總之我先去睡了",
+      "JAPANESE": "ゴホン...！ とにかく、私はもう寝るね",
+      "INDONESIAN": "Ehem... ya udah deh, aku mau tidur dulu",
+      "PORTUGUESE": "Ehm… enfim, eu já vou dormir.",
+      "SPANISH": "Ejem… en fin, yo ya me voy a dormir.",
+      "PERSIAN": "آهام... به هر حال من میرم بخوابم"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 28.1
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님도 오늘 일단 푹 쉬어요 ",
+      "ENGLISH": "You should get some good rest too",
+      "CHINESE_SIMPLIFIED": "您今天也好好休息吧",
+      "CHINESE_TRADITIONAL": "妳也好好休息",
+      "JAPANESE": "ミンジョンさんも今日はゆっくり休んでください",
+      "INDONESIAN": "Kamu juga istirahat yang nyenyak ya",
+      "PORTUGUESE": "Você também descansa bem hoje, tá?",
+      "SPANISH": "Tú también descansa bien hoy, ¿sí?",
+      "PERSIAN": "شما هم باید استراحت خوبی داشته باشید"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내일 봐요",
+      "ENGLISH": "See you tomorrow",
+      "CHINESE_SIMPLIFIED": "明天见",
+      "CHINESE_TRADITIONAL": "明天見",
+      "JAPANESE": "また明日",
+      "INDONESIAN": "Sampai ketemu besok",
+      "PORTUGUESE": "A gente se vê amanhã.",
+      "SPANISH": "Nos vemos mañana.",
+      "PERSIAN": "فردا میبینمت"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 오빠",
+      "ENGLISH": "Okay! Yuman",
+      "CHINESE_SIMPLIFIED": "好！哥哥",
+      "CHINESE_TRADITIONAL": "好的！",
+      "JAPANESE": "はい！ お兄さん",
+      "INDONESIAN": "Oke! Yuman",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "باشه! یومان"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 37.7,
+      "HIDE": 38.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "哥哥！",
+      "CHINESE_TRADITIONAL": "哥哥！",
+      "JAPANESE": "お兄さん！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Oppa!",
+      "SPANISH": "¡Oppa!",
+      "PERSIAN": "یومان!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 38.5,
+      "HIDE": 39.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Yeah?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hm?",
+      "PORTUGUESE": "Sim?",
+      "SPANISH": "¿Sí?",
+      "PERSIAN": "آره؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 39.2,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 자요!",
+      "ENGLISH": "Sleep well!",
+      "CHINESE_SIMPLIFIED": "晚安啦！",
+      "CHINESE_TRADITIONAL": "晚安",
+      "JAPANESE": "おやすみなさい！",
+      "INDONESIAN": "Selamat tidur!",
+      "PORTUGUESE": "Dorme bem!",
+      "SPANISH": "¡Duerme bien!",
+      "PERSIAN": "خوب بخواب!"
+    }
+  }
+]

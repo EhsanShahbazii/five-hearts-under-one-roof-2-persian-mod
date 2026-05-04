@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "자 됐다!",
+      "ENGLISH": "Alright, all set!",
+      "CHINESE_SIMPLIFIED": "好了！",
+      "CHINESE_TRADITIONAL": "搞定！",
+      "JAPANESE": "よし、できた！",
+      "INDONESIAN": "Baiklah, semuanya siap!",
+      "PORTUGUESE": "Pronto!",
+      "SPANISH": "¡Está listo!",
+      "PERSIAN": "خوب، همه چیز آماده است!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "제대로 한 거 맞지?",
+      "ENGLISH": "You sure you did it right?",
+      "CHINESE_SIMPLIFIED": "这下没问题了吧？",
+      "CHINESE_TRADITIONAL": "這樣真的沒問題了吧？",
+      "JAPANESE": "ちゃんとつけたよね？",
+      "INDONESIAN": "Kamu yakin melakukannya dengan benar?",
+      "PORTUGUESE": "Tem certeza de que colocou direito?",
+      "SPANISH": "¿Sí lo pusiste bien?",
+      "PERSIAN": "مطمئنی درست انجامش دادی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어~ 이제 타다가 맘껏 넘어져도 돼!",
+      "ENGLISH": "Yep! Now you can fall all you want!",
+      "CHINESE_SIMPLIFIED": "嗯~现在玩滑板可以尽情摔啦！",
+      "CHINESE_TRADITIONAL": "是～你怎麼摔都可以！",
+      "JAPANESE": "おう、これでもう転び放題だな！",
+      "INDONESIAN": "Yep! Sekarang kamu bisa jatuh sesukamu!",
+      "PORTUGUESE": "Claro... Pode cair o quanto quiser.",
+      "SPANISH": "Claro... Te puedes caer todo lo que quieras.",
+      "PERSIAN": "بله! حالا شما می توانید هر آنچه که می خواهید سقوط کنید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하여간 말은...",
+      "ENGLISH": "Ugh, you and that mouth...",
+      "CHINESE_SIMPLIFIED": "真是的，你这嘴上功夫...",
+      "CHINESE_TRADITIONAL": "我就知道你會這樣說...",
+      "JAPANESE": "ほんとにもう…",
+      "INDONESIAN": "Ugh, kamu dan mulut itu...",
+      "PORTUGUESE": "Também não me deseja o mal, né...",
+      "SPANISH": "Tampoco me desees el mal...",
+      "PERSIAN": "آه، تو و اون دهان..."
+    }
+  }
+]

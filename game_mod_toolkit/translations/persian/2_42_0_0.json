@@ -1,0 +1,650 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 말 안 했어요?",
+      "ENGLISH": "Why didn’t you tell me?",
+      "CHINESE_SIMPLIFIED": "你为什么不告诉我？",
+      "CHINESE_TRADITIONAL": "為什麼不跟我說？",
+      "JAPANESE": "なんで言わなかったんですか?",
+      "INDONESIAN": "Kenapa kamu tidak memberitahuku?",
+      "PORTUGUESE": "Por que não me contou?",
+      "SPANISH": "¿Por qué no me dijiste?",
+      "PERSIAN": "چرا به من نگفتی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요...",
+      "ENGLISH": "I’m sorry...",
+      "CHINESE_SIMPLIFIED": "对不起...",
+      "CHINESE_TRADITIONAL": "對不起…",
+      "JAPANESE": "ごめんなさい…",
+      "INDONESIAN": "Saya minta maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "SPANISH": "Lo siento...",
+      "PERSIAN": "متاسفم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "병원에서 절대 안정을 취하야 된다고 해서...",
+      "ENGLISH": "The doctors said I needed complete rest...",
+      "CHINESE_SIMPLIFIED": "医院说你要绝对静养...",
+      "CHINESE_TRADITIONAL": "因為醫院要我靜養...",
+      "JAPANESE": "病院で絶対安静っていわれて…",
+      "INDONESIAN": "Dokter bilang saya perlu istirahat total...",
+      "PORTUGUESE": "No hospital disseram pra você ficar em repouso total...",
+      "SPANISH": "En el hospital dijeron que guardaras completo reposo...",
+      "PERSIAN": "دکترها گفتند به استراحت کامل نیاز دارم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 말 못 했어요",
+      "ENGLISH": "So I couldn’t say anything.",
+      "CHINESE_SIMPLIFIED": "所以才没能说...",
+      "CHINESE_TRADITIONAL": "所以才沒有告訴你",
+      "JAPANESE": "それで言えなかったんです",
+      "INDONESIAN": "Jadi saya tidak bisa mengatakan apa pun.",
+      "PORTUGUESE": "Por isso eu não consegui dizer nada.",
+      "SPANISH": "Por eso no pude decir nada.",
+      "PERSIAN": "پس نتونستم چیزی بگم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 안정 취할 게 따로 있지!",
+      "ENGLISH": "That’s not something you just don’t say!",
+      "CHINESE_SIMPLIFIED": "现在早就不是需要静养的时候了！",
+      "CHINESE_TRADITIONAL": "現在哪是道歉的時候！",
+      "JAPANESE": "いや、落ち着いてる場合じゃないでしょ!",
+      "INDONESIAN": "Itu bukan sesuatu yang bisa Anda hindari begitu saja!",
+      "PORTUGUESE": "Uma coisa não tem nada a ver com a outra!",
+      "SPANISH": "¡Una cosa no tiene nada que ver con la otra!",
+      "PERSIAN": "این چیزی نیست که شما فقط نگویید!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게 그런 사실을 숨겨요?",
+      "ENGLISH": "How could you hide something like that?",
+      "CHINESE_SIMPLIFIED": "你怎么能隐瞒这种事？",
+      "CHINESE_TRADITIONAL": "你怎麼可以隱瞞這種事？",
+      "JAPANESE": "どうしてそんなことを隠すんですか?",
+      "INDONESIAN": "Bagaimana Anda bisa menyembunyikan sesuatu seperti itu?",
+      "PORTUGUESE": "Como pôde esconder algo assim?!",
+      "SPANISH": "¿Cómo pudiste ocultar algo así?",
+      "PERSIAN": "چطور تونستی همچین چیزی رو مخفی کنی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 어떻게 사람을 치고도",
+      "ENGLISH": "How can you stand there so calmly...",
+      "CHINESE_SIMPLIFIED": "你怎么能在撞了人之后",
+      "CHINESE_TRADITIONAL": "怎麼可以在撞了人後",
+      "JAPANESE": "どうして人をはねておいて",
+      "INDONESIAN": "Bagaimana kamu bisa berdiri di sana dengan begitu tenang...",
+      "PORTUGUESE": "Como tem coragem de ficar na minha frente",
+      "SPANISH": "¡¿Cómo te atreves a pararte frente a mí",
+      "PERSIAN": "چطور می تونی انقدر آروم بایستی..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뻔뻔하게 내 앞에 있을 수 있냐구요!",
+      "ENGLISH": "After hitting someone?!",
+      "CHINESE_SIMPLIFIED": "还厚着脸皮出现在我面前！",
+      "CHINESE_TRADITIONAL": "還若無其事地出現在我面前？！",
+      "JAPANESE": "図々しく俺の前にいられるんですか!",
+      "INDONESIAN": "Setelah menabrak seseorang?!",
+      "PORTUGUESE": "depois de ter me atropelado?!",
+      "SPANISH": "después de haberme atropellado?!",
+      "PERSIAN": "بعد از زدن کسی؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어...?",
+      "ENGLISH": "Wha—?!",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Apa-?!",
+      "PORTUGUESE": "Hã...?",
+      "SPANISH": "¿Eh...?",
+      "PERSIAN": "چی-؟!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아니에요!",
+      "ENGLISH": "N-No!",
+      "CHINESE_SIMPLIFIED": "不，不是的！",
+      "CHINESE_TRADITIONAL": "不…不是這樣的！ ",
+      "JAPANESE": "あ、ちがいます!",
+      "INDONESIAN": "T-Tidak!",
+      "PORTUGUESE": "Isso não é verdade!",
+      "SPANISH": "¡Eso no es cierto!",
+      "PERSIAN": "ن-نه!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 친 사람 저 아니에요!!",
+      "ENGLISH": "Yuman, it wasn’t me!!",
+      "CHINESE_SIMPLIFIED": "宥万先生，撞你的人不是我！",
+      "CHINESE_TRADITIONAL": "宥萬先生，撞你的人不是我！",
+      "JAPANESE": "ユマンさん、ぶつけたのは私じゃないです!!",
+      "INDONESIAN": "Yuman, itu bukan aku!!",
+      "PORTUGUESE": "Eu não te atropelei!!",
+      "SPANISH": "¡¡Yo no te atropellé!!",
+      "PERSIAN": "یومان، من نبودم!!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여기까지 와서 또 거짓말이에요?",
+      "ENGLISH": "You’re still lying—even now?!",
+      "CHINESE_SIMPLIFIED": "事到如今你还要撒谎？",
+      "CHINESE_TRADITIONAL": "事到如今你還要說謊嗎？",
+      "JAPANESE": "ここまで来てまた嘘つくんですか?",
+      "INDONESIAN": "Kamu masih berbohong—bahkan sekarang?!",
+      "PORTUGUESE": "Vai continuar mentindo pra mim?",
+      "SPANISH": "¿Van a seguir mientiéndome?",
+      "PERSIAN": "هنوز هم دروغ می گویی - حتی الان؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 아니라!",
+      "ENGLISH": "No! That’s not it!",
+      "CHINESE_SIMPLIFIED": "不是那样的！",
+      "CHINESE_TRADITIONAL": "不是這樣！",
+      "JAPANESE": "そうじゃない!",
+      "INDONESIAN": "Tidak! Bukan itu!",
+      "PORTUGUESE": "Não!",
+      "SPANISH": "¡Qué no!",
+      "PERSIAN": "نه! این نیست!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 아니라...",
+      "ENGLISH": "That’s not it at all...",
+      "CHINESE_SIMPLIFIED": "不是那样的...",
+      "CHINESE_TRADITIONAL": "不是這樣的…",
+      "JAPANESE": "そうじゃないんです…",
+      "INDONESIAN": "Itu sama sekali bukan itu...",
+      "PORTUGUESE": "É que você...",
+      "SPANISH": "¡Es que tú...!",
+      "PERSIAN": "اصلا این نیست..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 저 구해주다가 다친 거예요.",
+      "ENGLISH": "Yuman got hurt trying to save me.",
+      "CHINESE_SIMPLIFIED": "是宥万先生为了救我才受伤的",
+      "CHINESE_TRADITIONAL": "宥萬先生是為了救我才受傷的",
+      "JAPANESE": "ユマンさんが私を助けようとして怪我したんです",
+      "INDONESIAN": "Yuman terluka saat mencoba menyelamatkanku.",
+      "PORTUGUESE": "se machucou tentando me salvar.",
+      "SPANISH": "te lastimaste por venir a salvarme.",
+      "PERSIAN": "یومان در تلاش برای نجات من صدمه دید."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 36.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 제, 제가요..?",
+      "ENGLISH": "Wait... me?",
+      "CHINESE_SIMPLIFIED": "什么？我、我吗..？",
+      "CHINESE_TRADITIONAL": "什麼？我、我嗎...？",
+      "JAPANESE": "はい？お、俺がですか…？",
+      "INDONESIAN": "Tunggu... aku?",
+      "PORTUGUESE": "P-por te salvar...?",
+      "SPANISH": "¿P- por salvarte…?",
+      "PERSIAN": "صبر کن... من؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 37.2,
+      "HIDE": 39.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 바보같이 치일 뻔할 때",
+      "ENGLISH": "When I was about to get hit like an idiot...",
+      "CHINESE_SIMPLIFIED": "在我差点像个傻瓜一样被车撞到的时候",
+      "CHINESE_TRADITIONAL": "我當時傻傻地差點被撞到",
+      "JAPANESE": "私が、バカみたいに轢かれそうになったとき",
+      "INDONESIAN": "Saat aku hendak dipukul seperti orang idiot...",
+      "PORTUGUESE": "Iam me atropelar,",
+      "SPANISH": "Estaban a punto de atropellarme",
+      "PERSIAN": "وقتی میخواستم مثل یه احمق ضربه بخورم..."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 39.7,
+      "HIDE": 42.7
+    },
+    "SCRIPT": {
+      "KOREAN": "지나가던 유만 씨가 절 구해준 거라구요.",
+      "ENGLISH": "Yuman jumped in and pulled me out of the way.",
+      "CHINESE_SIMPLIFIED": "是路过的宥万先生救了我",
+      "CHINESE_TRADITIONAL": "是宥萬先生路過的時候救了我",
+      "JAPANESE": "通りかかったユマンさんが助けてくれたんです",
+      "INDONESIAN": "Yuman melompat dan menarikku keluar dari jalan.",
+      "PORTUGUESE": "mas você passou bem na hora e me salvou.",
+      "SPANISH": "pero tú ibas pasando por ahí y me salvaste.",
+      "PERSIAN": "یومان پرید داخل و منو از سر راه بیرون کشید."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 45.6,
+      "HIDE": 46.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어!! 위험해요!!",
+      "ENGLISH": "Look out!!",
+      "CHINESE_SIMPLIFIED": "呃！！危险啊！！",
+      "CHINESE_TRADITIONAL": "啊！！危險！",
+      "JAPANESE": "あ！！危ないです！！",
+      "INDONESIAN": "Awas!!",
+      "PORTUGUESE": "CUIDADO!!",
+      "SPANISH": "¡Oh!! ¡¡CUIDADOOO!!",
+      "PERSIAN": "مراقب باش!!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 46.5,
+      "HIDE": 47.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 아!!",
+      "ENGLISH": "Ah! Ahh!!",
+      "CHINESE_SIMPLIFIED": "啊！啊！！",
+      "CHINESE_TRADITIONAL": "啊！啊！！",
+      "JAPANESE": "あ！あ！！",
+      "INDONESIAN": "Ah! Ahh!!",
+      "PORTUGUESE": "Ah! Ah!!",
+      "SPANISH": "¡Ah! ¡Ah!!",
+      "PERSIAN": "آه! آهان!!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 47.6,
+      "HIDE": 49.0
+    },
+    "SCRIPT": {
+      "KOREAN": "- 아악!!\n- 어어...!?",
+      "ENGLISH": "- Aagh—!\n- Ah—!",
+      "CHINESE_SIMPLIFIED": "-啊啊！！\n-呃呃...！？",
+      "CHINESE_TRADITIONAL": "—啊啊！！\n—呃啊...！？",
+      "JAPANESE": "‐ああっ！！\n‐おお…！？",
+      "INDONESIAN": "- Aagh—!\n- Ah—!",
+      "PORTUGUESE": "—Aaaah!!\n—Uh...!?",
+      "SPANISH": "- ¡Aaaah!!\n- ¡Uh...!?",
+      "PERSIAN": "- آخ -! - آه -!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 49.0,
+      "HIDE": 49.9
+    },
+    "SCRIPT": {
+      "KOREAN": "으윽...!",
+      "ENGLISH": "Ugh...!",
+      "CHINESE_SIMPLIFIED": "呃啊...！",
+      "CHINESE_TRADITIONAL": "呃啊...！",
+      "JAPANESE": "っう…！",
+      "INDONESIAN": "Aduh...!",
+      "PORTUGUESE": "Ugh...!",
+      "SPANISH": "¡Ugh...!",
+      "PERSIAN": "اوه...!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 51.1,
+      "HIDE": 53.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 진 빚은 이거예요.",
+      "ENGLISH": "That’s the debt I owe him.",
+      "CHINESE_SIMPLIFIED": "我欠的人情就是这个",
+      "CHINESE_TRADITIONAL": "我欠你的人情就是這個",
+      "JAPANESE": "ユマンさんに負っている借りはそれなんです",
+      "INDONESIAN": "Itulah hutang budiku padanya.",
+      "PORTUGUESE": "Essa é a minha dívida com você.",
+      "SPANISH": "Esa es mi deuda contigo.",
+      "PERSIAN": "این بدهی است که من به او بدهکارم."
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 54.4,
+      "HIDE": 55.8
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요...",
+      "ENGLISH": "I’m sorry...",
+      "CHINESE_SIMPLIFIED": "对不起...",
+      "CHINESE_TRADITIONAL": "對不起…",
+      "JAPANESE": "ごめんなさい…",
+      "INDONESIAN": "Saya minta maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "SPANISH": "Lo siento...",
+      "PERSIAN": "متاسفم..."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 56.7,
+      "HIDE": 59.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하...사고는 이미 났고",
+      "ENGLISH": "The accident already happened,",
+      "CHINESE_SIMPLIFIED": "事故已经发生了",
+      "CHINESE_TRADITIONAL": "意外已經發生",
+      "JAPANESE": "事故はもう起きて",
+      "INDONESIAN": "Kecelakaan itu sudah terjadi,",
+      "PORTUGUESE": "O acidente já passou,",
+      "SPANISH": "...El accidente ya pasó,",
+      "PERSIAN": "تصادف قبلا اتفاق افتاده است"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 59.8,
+      "HIDE": 61.4
+    },
+    "SCRIPT": {
+      "KOREAN": "조금 다치긴 했지만",
+      "ENGLISH": "and yeah, I got a little hurt...",
+      "CHINESE_SIMPLIFIED": "身体也确实受了伤",
+      "CHINESE_TRADITIONAL": "雖然是受了點傷",
+      "JAPANESE": "体も怪我してけど",
+      "INDONESIAN": "dan ya, saya sedikit terluka...",
+      "PORTUGUESE": "e é verdade que eu me machuquei,",
+      "SPANISH": "y es verdad que me lastimé,",
+      "PERSIAN": "و آره، کمی صدمه دیدم..."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 61.7,
+      "HIDE": 67.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 뭐 빚이라고 생각하지 말고 그냥 고맙다고 생각해줘요.",
+      "ENGLISH": "But don’t think of it as a debt—just think of it as me being thankful.",
+      "CHINESE_SIMPLIFIED": "但别把这当成你欠的人情，就当作是值得感谢的事吧",
+      "CHINESE_TRADITIONAL": "就不要當成是欠人情，想成是感謝的事吧",
+      "JAPANESE": "借りだなんて思わないで、ただ感謝してほしいんです",
+      "INDONESIAN": "Tapi jangan menganggapnya sebagai hutang—anggap saja itu sebagai ungkapan rasa terima kasihku.",
+      "PORTUGUESE": "mas não veja isso como uma dívida; basta estar grata.",
+      "SPANISH": "pero no lo veas como una deuda; con que estés agradecida basta.",
+      "PERSIAN": "اما اونو به عنوان یک بدهی در نظر نگیرید - فقط به اون فکر کنید که من شکرگزار هستم."
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 67.2,
+      "HIDE": 68.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh...?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah...?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها...؟"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 68.2,
+      "HIDE": 71.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 솔직히 유나 씨가 구해달라고 한 것도 아니고",
+      "ENGLISH": "I mean, it’s not like Yuna asked me to save her,",
+      "CHINESE_SIMPLIFIED": "说实话有娜小姐并没有求救",
+      "CHINESE_TRADITIONAL": "畢竟有娜小姐也沒有拜託我救你",
+      "JAPANESE": "正直ユナさんが助けてって頼んだわけでもないし",
+      "INDONESIAN": "Maksudku, bukan berarti Yuna memintaku untuk menyelamatkannya,",
+      "PORTUGUESE": "Você não me pediu pra te salvar,",
+      "SPANISH": "Tú no me pediste que te salvara",
+      "PERSIAN": "منظورم این است که یونا از من خواسته که اونو نجات دهم،"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 71.4,
+      "HIDE": 72.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 미안하다는 소리 들으려고",
+      "ENGLISH": "and I didn’t jump in",
+      "CHINESE_SIMPLIFIED": "而我冲出去",
+      "CHINESE_TRADITIONAL": "我也不是為了要聽對不起",
+      "JAPANESE": "俺がごめんって言わせるために",
+      "INDONESIAN": "dan aku tidak ikut campur",
+      "PORTUGUESE": "e eu também não fiz isso pra ouvir suas desculpas.",
+      "SPANISH": "y yo tampoco lo hice para escuchar tus disculpas.",
+      "PERSIAN": "و من نپریدم"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 72.8,
+      "HIDE": 76.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뛰어든 거 분명 아니었을 거예요.",
+      "ENGLISH": "just to hear an apology.",
+      "CHINESE_SIMPLIFIED": "也绝不是为了听道歉才这么做的",
+      "CHINESE_TRADITIONAL": "才衝上去救你",
+      "JAPANESE": "飛び込んだわけでもないはずです",
+      "INDONESIAN": "hanya untuk mendengar permintaan maaf.",
+      "PORTUGUESE": "Não me joguei por isso.",
+      "SPANISH": "No me lancé para eso.",
+      "PERSIAN": "فقط برای شنیدن یک عذرخواهی"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 77.5,
+      "HIDE": 78.4
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요....",
+      "ENGLISH": "I’m sorry...",
+      "CHINESE_SIMPLIFIED": "对不起....",
+      "CHINESE_TRADITIONAL": "對不起…",
+      "JAPANESE": "ごめんなさい…",
+      "INDONESIAN": "Saya minta maaf...",
+      "PORTUGUESE": "Desculpa...",
+      "SPANISH": "Lo siento...",
+      "PERSIAN": "متاسفم..."
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 78.4,
+      "HIDE": 81.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에이... 미안하다고 하지 말라니까요?",
+      "ENGLISH": "Come on... I said don’t be sorry.",
+      "CHINESE_SIMPLIFIED": "哎嘿...不是说了别道歉吗？",
+      "CHINESE_TRADITIONAL": "哎呀～不是叫妳不要道歉嗎？",
+      "JAPANESE": "… ごめんって言わないでくださいよ?",
+      "INDONESIAN": "Ayolah... Sudah kubilang jangan minta maaf.",
+      "PORTUGUESE": "Bah... já disse pra parar de se desculpar!",
+      "SPANISH": "¡Bah... te dije que dejes de disculparte!",
+      "PERSIAN": "بیا... گفتم متاسف نباش."
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 83.1,
+      "HIDE": 84.5
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요...",
+      "ENGLISH": "Thank you...",
+      "CHINESE_SIMPLIFIED": "谢谢你...",
+      "CHINESE_TRADITIONAL": "謝謝你…",
+      "JAPANESE": "ありがとう…",
+      "INDONESIAN": "Terima kasih...",
+      "PORTUGUESE": "Obrigada...",
+      "SPANISH": "Gracias...",
+      "PERSIAN": "ممنونم..."
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 84.5,
+      "HIDE": 85.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇지!",
+      "ENGLISH": "There it is.",
+      "CHINESE_SIMPLIFIED": "这就对了！",
+      "CHINESE_TRADITIONAL": "這才對嘛！",
+      "JAPANESE": "そうです!",
+      "INDONESIAN": "Itu ada.",
+      "PORTUGUESE": "Isso!",
+      "SPANISH": "¡Eso es!",
+      "PERSIAN": "آنجاست."
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 85.3,
+      "HIDE": 87.5
+    },
+    "SCRIPT": {
+      "KOREAN": "고맙다가 맞지.",
+      "ENGLISH": "Thank you is the right one.",
+      "CHINESE_SIMPLIFIED": "要说谢谢才对嘛",
+      "CHINESE_TRADITIONAL": "說謝謝才對嘛",
+      "JAPANESE": "ありがとうで合ってるんだ",
+      "INDONESIAN": "Terima kasih adalah kata yang tepat.",
+      "PORTUGUESE": "“Obrigada” é a palavra certa.",
+      "SPANISH": "‘Gracias’ es la palabra correcta.",
+      "PERSIAN": "ممنونم حق با شماست."
+    }
+  }
+]

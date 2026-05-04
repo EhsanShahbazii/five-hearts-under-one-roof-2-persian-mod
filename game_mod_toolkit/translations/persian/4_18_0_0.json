@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님 말씀하신 보고서입니다.",
+      "ENGLISH": "Here’s the report you asked for, Manager.",
+      "CHINESE_SIMPLIFIED": "科长，这是您要的报告书",
+      "CHINESE_TRADITIONAL": "課長，這是您交代的那份報告",
+      "JAPANESE": "課長、こちらご依頼の報告書です",
+      "INDONESIAN": "Ini laporan yang tadi Manajer minta, ya.",
+      "PORTUGUESE": "Aqui está o relatório que a senhora pediu, chefe.",
+      "SPANISH": "Aquí está el informe que pidió, jefa.",
+      "PERSIAN": "این گزارشی است که درخواست کردید، مدیر."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "벌써? 봐 볼까...",
+      "ENGLISH": "Already? Let me take a look…",
+      "CHINESE_SIMPLIFIED": "这么快？我看看...",
+      "CHINESE_TRADITIONAL": "這麼快？我看看... ",
+      "JAPANESE": "もう？ちょっと見せて……",
+      "INDONESIAN": "Udah selesai? Coba saya lihat dulu…",
+      "PORTUGUESE": "Tão rápido? Deixa eu ver…",
+      "SPANISH": "¿Tan rápido? A ver…",
+      "PERSIAN": "قبلا؟ بذار یه نگاهی بندازم…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저번에 수치 오류 났다고 했던 건 수정 됐나?",
+      "ENGLISH": "Did you fix the data error from last time?",
+      "CHINESE_SIMPLIFIED": "上次说的数据错误都修正了吗？",
+      "CHINESE_TRADITIONAL": "上次說數據有錯誤的地方修正了嗎？",
+      "JAPANESE": "前に数値ミスがあったって言ってた部分は修正した？",
+      "INDONESIAN": "Data yang salah waktu itu udah diperbaiki?",
+      "PORTUGUESE": "Já corrigiu os erros nas cifras da última vez?",
+      "SPANISH": "¿Ya corregiste los errores de las cifras de la última vez?",
+      "PERSIAN": "خطای داده های دفعه قبل را برطرف کردید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네 수정했습니다.",
+      "ENGLISH": "Yes, it’s been corrected.",
+      "CHINESE_SIMPLIFIED": "嗯，已经改好了",
+      "CHINESE_TRADITIONAL": "是的，已經修正了",
+      "JAPANESE": "はい、修正済みです",
+      "INDONESIAN": "Iya, udah saya koreksi.",
+      "PORTUGUESE": "Sim, corrigi.",
+      "SPANISH": "Sí, los corregí.",
+      "PERSIAN": "بله تصحیح شد"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "칼라 배리에이션은?",
+      "ENGLISH": "And the color variations?",
+      "CHINESE_SIMPLIFIED": "颜色变体呢？",
+      "CHINESE_TRADITIONAL": "顏色變化呢？",
+      "JAPANESE": "カラーバリエーションは？",
+      "INDONESIAN": "Dan variasi warnanya?",
+      "PORTUGUESE": "E a variação de cores?",
+      "SPANISH": "¿Y la variación de colores?",
+      "PERSIAN": "و تنوع رنگ؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "예, 말씀하신 칼라 계열로 배치했습니다.",
+      "ENGLISH": "Yes, I arranged them according to the color scheme you suggested.",
+      "CHINESE_SIMPLIFIED": "按您说的色系重新调整了",
+      "CHINESE_TRADITIONAL": "已經按照您說的色系來配置了",
+      "JAPANESE": "はい、ご指示いただいたカラー系統で配置しました",
+      "INDONESIAN": "Sudah saya atur sesuai skema warna yang Manajer sarankan.",
+      "PORTUGUESE": "Sim, organizei de acordo com a paleta que me indicou.",
+      "SPANISH": "Sí, los acomodé según la paleta que me indicó.",
+      "PERSIAN": "بله طبق رنگبندی که شما پیشنهاد کردید مرتب کردم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "흠~ 잘했는데?",
+      "ENGLISH": "Hmm~ well done.",
+      "CHINESE_SIMPLIFIED": "嗯~做得不错嘛？",
+      "CHINESE_TRADITIONAL": "嗯～ 做得不錯嘛？",
+      "JAPANESE": "おお〜いいじゃん",
+      "INDONESIAN": "Hmm~ bagus, ya.",
+      "PORTUGUESE": "Hmm~ muito bem feito.",
+      "SPANISH": "Mmm~ bien hecho.",
+      "PERSIAN": "هوم ~ خوب انجام شد."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 22.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저희가 둘이서만 밤새 얘기한 덕분이죠!",
+      "ENGLISH": "That’s thanks to us staying up all night discussing it!",
+      "CHINESE_SIMPLIFIED": "这都多亏我们俩昨晚通宵讨论的成果呢！",
+      "CHINESE_TRADITIONAL": "這都是因為我們兩個徹夜討論的功勞啊！",
+      "JAPANESE": "私たち、二人で夜通し話し合ったおかげですよね！",
+      "INDONESIAN": "Itu semua karena kita begadang semalaman ngebahas bareng!",
+      "PORTUGUESE": "Isso foi porque ficamos conversando a noite toda, nós dois.",
+      "SPANISH": "Eso fue gracias a que nos quedamos hablando toda la noche.",
+      "PERSIAN": "این به لطف ما است که تمام شب بیدار ماندیم و درباره اون بحث کردیم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우선 씨는 나랑 야근한 게 그렇게 좋아요?",
+      "ENGLISH": "Do you really like staying late working with me?",
+      "CHINESE_SIMPLIFIED": "优先代理，跟我加班就这么开心吗？",
+      "CHINESE_TRADITIONAL": "宇善你這麼喜歡跟我一起加班喔？",
+      "JAPANESE": "ウソンさんは、私と残業するのそんなに楽しいの？",
+      "INDONESIAN": "Kamu beneran seneng kerja lembur bareng aku?",
+      "PORTUGUESE": "Você gosta tanto assim de fazer hora extra comigo?",
+      "SPANISH": "¿De verdad te gusta tanto hacer horas extra conmigo?",
+      "PERSIAN": "واقعا دوست دارید تا دیر وقت با من کار کنید؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 좋죠~ 과장님하고 일하고 있으면 시간이 너무 빨리 가요!",
+      "ENGLISH": "Yeah~ time flies when I work with Manager Dong!",
+      "CHINESE_SIMPLIFIED": "当然啦~和佟科长一起工作总觉得时间过得特别快！",
+      "CHINESE_TRADITIONAL": "喜歡啊～ 跟佟課長理您一起工作，時間過得超快的！",
+      "JAPANESE": "もちろんです〜課長と一緒に仕事すると時間があっという間なんです！",
+      "INDONESIAN": "Iya dong~ waktu berasa cepet banget kalau kerja bareng Manajer Dong!",
+      "PORTUGUESE": "Claro! Quando trabalho com a senhora, o tempo voa.",
+      "SPANISH": "¡Claro! Cuando trabajo con usted, el tiempo pasa volando.",
+      "PERSIAN": "بله، وقتی با مدیر دونگ کار می کنم، زمان می گذرد!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그게 뭐야~ 진짜 웃겨~",
+      "ENGLISH": "Ah, come on~ that’s hilarious~",
+      "CHINESE_SIMPLIFIED": "哎呦说什么呢~真逗~",
+      "CHINESE_TRADITIONAL": "哎呀，搞什麼呀～ 真是太好笑了～",
+      "JAPANESE": "なにそれ〜本当おもしろい〜",
+      "INDONESIAN": "Aduh, ayo dong~ lucu banget sih~",
+      "PORTUGUESE": "Ah, o que é isso~? Que engraçadinho você é~!",
+      "SPANISH": "Ay, ¿qué dices~? ¡Qué gracioso eres~!",
+      "PERSIAN": "آه، بیا~ خنده دار است~"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "둘이 뭐 하는 거야...! 동 과장님이랑 너무 붙어 있는 거 아니야?",
+      "ENGLISH": "What are you two even doing…? Aren’t you being a little too close with Manager Dong?",
+      "CHINESE_SIMPLIFIED": "这俩人在干嘛呢...！跟佟科长是不是贴太近了？",
+      "CHINESE_TRADITIONAL": "兩個人在幹嘛...! 跟佟課長也靠得太近了吧？",
+      "JAPANESE": "なにしてるんだあの二人…！課長にくっつきすぎじゃないか？",
+      "INDONESIAN": "Kalian berdua lagi ngapain sih…? Nggak terlalu deket tuh sama Manajer Dong?",
+      "PORTUGUESE": "O que esses dois estão fazendo...? A chefe Gran e ele não estão muito próximos?",
+      "SPANISH": "¿Qué están haciendo esos dos…? ¿No están demasiado juntos la jefa Gran y él?",
+      "PERSIAN": "شما دوتا اصلا چیکار میکنید…؟ با مدیر دونگ خیلی نزدیک نیستید؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 41.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아...!!!",
+      "ENGLISH": "Ah…!!!",
+      "CHINESE_SIMPLIFIED": "啊...！！！",
+      "CHINESE_TRADITIONAL": "啊...！！",
+      "JAPANESE": "あっ……!!!",
+      "INDONESIAN": "Ah…!!!",
+      "PORTUGUESE": "Ah...!!!",
+      "SPANISH": "¡Ah...!!!",
+      "PERSIAN": "آه…!!!"
+    }
+  }
+]

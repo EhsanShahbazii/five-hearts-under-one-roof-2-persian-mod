@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "바나나가 그렇게 먹고 싶었어?",
+      "ENGLISH": "You were that desperate for a banana?",
+      "CHINESE_SIMPLIFIED": "这么想吃香蕉吗？",
+      "CHINESE_TRADITIONAL": "你這麼想吃香蕉嗎？",
+      "JAPANESE": "そんなにそんなにバナナ食べたかったの？",
+      "INDONESIAN": "Segitunya pengen pisang?",
+      "PORTUGUESE": "Gosta tanto assim de banana?",
+      "SPANISH": "¿Tanto te gusta la banana?",
+      "PERSIAN": "آنقدر به دنبال موز بودی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네에.",
+      "ENGLISH": "Yup~",
+      "CHINESE_SIMPLIFIED": "嗯~",
+      "CHINESE_TRADITIONAL": "對",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Yup~",
+      "PORTUGUESE": "Aham.",
+      "SPANISH": "Sip.",
+      "PERSIAN": "بله~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "바나나 잘 익었다.",
+      "ENGLISH": "It’s perfectly ripe.",
+      "CHINESE_SIMPLIFIED": "这香蕉熟得正好呢",
+      "CHINESE_TRADITIONAL": "這香蕉熟得剛剛好",
+      "JAPANESE": "バナナ、いい感じに熟してる",
+      "INDONESIAN": "Udah mateng lagi.",
+      "PORTUGUESE": "Tá bem docinha.",
+      "SPANISH": "Está muy dulce.",
+      "PERSIAN": "کاملا رسیده است"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 자, 아~",
+      "ENGLISH": "Here, say “ah~”",
+      "CHINESE_SIMPLIFIED": "来，张嘴~",
+      "CHINESE_TRADITIONAL": "來，嘴巴打開，啊～",
+      "JAPANESE": "はい、あ〜ん",
+      "INDONESIAN": "Nih, “aaah~”",
+      "PORTUGUESE": "Vai, abre a boca~",
+      "SPANISH": "A ver, di aaah~",
+      "PERSIAN": "اینجا بگویید \"آه~\""
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 27.4,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "맛있어?",
+      "ENGLISH": "Tasty?",
+      "CHINESE_SIMPLIFIED": "好吃吗？",
+      "CHINESE_TRADITIONAL": "好吃嗎？",
+      "JAPANESE": "おいしい？",
+      "INDONESIAN": "Enak?",
+      "PORTUGUESE": "Tá gostoso?",
+      "SPANISH": "¿Está rico?",
+      "PERSIAN": "خوشمزه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 29.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "好吃",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Enak.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "- 빨리해! 빨리해!\n- 빨리해! 빨리해!",
+      "ENGLISH": "- Come on! Hurry up! \n- Hurry up already!",
+      "CHINESE_SIMPLIFIED": "-来一个！来一个！\n-来一个！来一个！",
+      "CHINESE_TRADITIONAL": "- 快點啦！快點啦！ \n- 快點啦！快點啦！",
+      "JAPANESE": "‐ 早く早く！\n‐ 早く早く！",
+      "INDONESIAN": "- Ayo dong! Cepetan!\n- Iya, cepetan napa!",
+      "PORTUGUESE": "- Rápido! Rápido!\n- Rápido! Rápido!",
+      "SPANISH": "- ¡Rápido! ¡Rápido!\n- ¡Rápido! ¡Rápido!",
+      "PERSIAN": "- بیا! عجله کن - عجله کن!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "자자! 잔들 드시고!",
+      "ENGLISH": "Alright, alright! Raise your glasses!",
+      "CHINESE_SIMPLIFIED": "好啦好啦！大家举起杯子！",
+      "CHINESE_TRADITIONAL": "來來！大家把杯子拿起來！",
+      "JAPANESE": "さぁさぁ！みんなグラス持って！",
+      "INDONESIAN": "Iya, iya! Angkat gelas kalian!",
+      "PORTUGUESE": "Vamos lá, copos pra cima!",
+      "SPANISH": "¡A ver, arriba las copas!",
+      "PERSIAN": "باشه، باشه! عینکتو بالا ببر!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 섹시하게 ",
+      "ENGLISH": "Okay... let’s make it sexy.",
+      "CHINESE_SIMPLIFIED": "来，要性感一点喊哦",
+      "CHINESE_TRADITIONAL": "來！要性感一點喊喔",
+      "JAPANESE": "じゃあ、セクシーに〜",
+      "INDONESIAN": "Oke... ayo kita bikin seksi dikit.",
+      "PORTUGUESE": "Mais sexy!",
+      "SPANISH": "¡Más sexy!",
+      "PERSIAN": "باشه... بیایید سکسی کنیم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "우~",
+      "ENGLISH": "Ooh~",
+      "CHINESE_SIMPLIFIED": "呜~",
+      "CHINESE_TRADITIONAL": "嗚～",
+      "JAPANESE": "う〜",
+      "INDONESIAN": "Ooh~",
+      "PORTUGUESE": "Ooh~",
+      "SPANISH": "Ooh~",
+      "PERSIAN": "اوه~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우~",
+      "ENGLISH": "Ooh~",
+      "CHINESE_SIMPLIFIED": "呜~",
+      "CHINESE_TRADITIONAL": "嗚～",
+      "JAPANESE": "う〜",
+      "INDONESIAN": "Ooh~",
+      "PORTUGUESE": "Ooh~",
+      "SPANISH": "Ooh~",
+      "PERSIAN": "اوه~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "우~!",
+      "ENGLISH": "Ooooh~!",
+      "CHINESE_SIMPLIFIED": "呜~！",
+      "CHINESE_TRADITIONAL": "嗚～！",
+      "JAPANESE": "う〜！",
+      "INDONESIAN": "Ooooh~!",
+      "PORTUGUESE": "Ooooh~!",
+      "SPANISH": "Ooooh~!",
+      "PERSIAN": "اوووه~!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "으...씨...",
+      "ENGLISH": "Ugh... seriously...",
+      "CHINESE_SIMPLIFIED": "啊...西...",
+      "CHINESE_TRADITIONAL": "唔...西...",
+      "JAPANESE": "うっ…くそ…",
+      "INDONESIAN": "Ugh... ya ampun...",
+      "PORTUGUESE": "Que vergonha...",
+      "SPANISH": "Qué cringe...",
+      "PERSIAN": "اوه... جدی..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "자 짠! 여러분들",
+      "ENGLISH": "Cheers, everyone!",
+      "CHINESE_SIMPLIFIED": "来干杯！各位",
+      "CHINESE_TRADITIONAL": "來～乾杯！",
+      "JAPANESE": "じゃあ 乾杯〜！",
+      "INDONESIAN": "Cheers, semuanya!",
+      "PORTUGUESE": "Vamos lá, todas!",
+      "SPANISH": "¡A ver, todas!",
+      "PERSIAN": "به سلامتی، همه!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 짠!\n- 으...씨",
+      "ENGLISH": "- Cheers!\n- Ugh...",
+      "CHINESE_SIMPLIFIED": "-干杯！\n-真见鬼...",
+      "CHINESE_TRADITIONAL": "- 乾杯！\n- 唔...西...",
+      "JAPANESE": "‐ 乾杯！\n‐ うっ…くそ…",
+      "INDONESIAN": "- Cheers!\n- Ugh...",
+      "PORTUGUESE": "- Saúde!\n",
+      "SPANISH": "- ¡Salud!\n- Agh...",
+      "PERSIAN": "- به سلامتی! - اوه ..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "- 으 왜 저래...\n- 이게 아니야?",
+      "ENGLISH": "- Ugh, what was that... \n- Isn’t that how you do it?",
+      "CHINESE_SIMPLIFIED": "-呃，怎么回事...\n-不该是这样啊？",
+      "CHINESE_TRADITIONAL": "- 呃，為什麼要這樣...\n- 不是這樣嗎？",
+      "JAPANESE": "‐ うう なにそれ…\n‐ え、違うの？",
+      "INDONESIAN": "- Ugh, itu tadi apaan...\n- Emang begitu caranya, kan?",
+      "PORTUGUESE": "- Mas o que você tá fazendo?\n- Qual o problema?",
+      "SPANISH": "- ¿Pero qué haces?\n- ¿Qué tiene?",
+      "PERSIAN": "-اوه این چی بود... - اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "짠...",
+      "ENGLISH": "...Cheers.",
+      "CHINESE_SIMPLIFIED": "干杯...",
+      "CHINESE_TRADITIONAL": "乾杯...",
+      "JAPANESE": "かんぱい…",
+      "INDONESIAN": "...Cheers.",
+      "PORTUGUESE": "... Saúde.",
+      "SPANISH": "... Salud.",
+      "PERSIAN": "...به سلامتی."
+    }
+  }
+]

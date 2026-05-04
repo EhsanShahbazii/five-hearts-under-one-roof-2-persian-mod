@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "와.. 민정 님 생각보다 잘 맞는데요?",
+      "ENGLISH": "Wow... Min-jung, that actually suits you better than I expected.",
+      "CHINESE_SIMPLIFIED": "哇...你穿着比想象中还合身呢？",
+      "CHINESE_TRADITIONAL": "哇…妳穿著比想像的合身耶？",
+      "JAPANESE": "わぁ…ミンジョンさん、思ったより似合ってますね？",
+      "INDONESIAN": "Wow... Min-jung, ternyata cocok juga ya di kamu.",
+      "PORTUGUESE": "Uau… Minjung, ficou melhor do que eu imaginava.",
+      "SPANISH": "Wow… Minjung, te queda mejor de lo que pensaba.",
+      "PERSIAN": "وای... مین‌جونگ، این در واقع بیشتر از چیزی که انتظار داشتم به تو می آید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 한번 돌아볼래요?",
+      "ENGLISH": "Can you do a quick spin?",
+      "CHINESE_SIMPLIFIED": "可以转一圈看看吗？",
+      "CHINESE_TRADITIONAL": "轉一圈看看？",
+      "JAPANESE": "一回、くるっと回ってみます？",
+      "INDONESIAN": "Coba muter dikit, dong?",
+      "PORTUGUESE": "Pode dar uma voltinha?",
+      "SPANISH": "¿Puedes dar una vuelta?",
+      "PERSIAN": "می توانید یک چرخش سریع انجام دهید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.98,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "와, 이거 잘 어울리면 안 되는데...",
+      "ENGLISH": "Whoa, it really shouldn’t look this good on you...",
+      "CHINESE_SIMPLIFIED": "哇，要是太合适你可不行啊...",
+      "CHINESE_TRADITIONAL": "哇～這件太適合你了可不行耶…",
+      "JAPANESE": "わぁ…似合っちゃダメなんですけどね",
+      "INDONESIAN": "Wah, ini baju kok malah keliatan bagus banget di kamu...",
+      "PORTUGUESE": "Uau, isso não era pra ter ficado tão bem assim…",
+      "SPANISH": "Wow, esto no debería quedarte tan bien…",
+      "PERSIAN": "اوه، واقعاً نباید به این خوبی به نظر شما برسد..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 오빠 이 옷 되게 좋아하시나 봐요! ",
+      "ENGLISH": "But you must really like this shirt, huh?",
+      "CHINESE_SIMPLIFIED": "哥哥好像特别喜欢这件衣服呢",
+      "CHINESE_TRADITIONAL": "可是哥你好像很喜歡這件衣服耶！",
+      "JAPANESE": "でもこの服すごく好きなんですね！",
+      "INDONESIAN": "Kamu suka banget sama kaus ini, ya?",
+      "PORTUGUESE": "Mas, oppa, parece que você gosta muito dessa camiseta!",
+      "SPANISH": "Pero oppa, ¡parece que te gusta mucho esta camiseta!",
+      "PERSIAN": "اما شما باید واقعا این پیراهن را دوست داشته باشید، ها؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "생활감이...좀...",
+      "ENGLISH": "Feels like... it’s been lived in.",
+      "CHINESE_SIMPLIFIED": "但这生活气息...有点...",
+      "CHINESE_TRADITIONAL": "看起來…有點歲月的痕跡",
+      "JAPANESE": "生活感が…ちょっと…",
+      "INDONESIAN": "Kayaknya... udah sering dipakai gitu.",
+      "PORTUGUESE": "Ela tem, tipo… muita história nela.",
+      "SPANISH": "Tiene como… mucha historia encima.",
+      "PERSIAN": "احساس می شود ... در اون زندگی شده است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼요! 한 8년 입었나? 제 애착 티셔츠예요.",
+      "ENGLISH": "Of course! I’ve had that thing for like 8 years. It’s my favorite shirt.",
+      "CHINESE_SIMPLIFIED": "当然啦！我穿了有八年了吧？是我最爱的T恤",
+      "CHINESE_TRADITIONAL": "當然啦！我穿了大概八年了，是我愛的T恤！",
+      "JAPANESE": "もちろんですよ！ もう8年は着てます　僕の“愛着Tシャツ”ですから",
+      "INDONESIAN": "Ya iyalah! Itu kaus kesayanganku, udah delapan tahun aku punya.",
+      "PORTUGUESE": "Claro! Já faz uns oito anos que tenho, é minha camiseta favorita.",
+      "SPANISH": "¡Claro! La tengo hace unos ocho años, es mi camiseta favorita.",
+      "PERSIAN": "البته! من حدود 8 سال است که چنین چیزی را دارم. پیراهن مورد علاقه من است"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "착용감 좋죠??",
+      "ENGLISH": "Comfy, right??",
+      "CHINESE_SIMPLIFIED": "穿着舒服吧？？",
+      "CHINESE_TRADITIONAL": "穿起來很舒服吧？",
+      "JAPANESE": "着心地いいでしょ？",
+      "INDONESIAN": "Enak dipakai, kan??",
+      "PORTUGUESE": "Confortável, né?",
+      "SPANISH": "Cómoda, ¿verdad?",
+      "PERSIAN": "راحت، درسته؟؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "8년이요?",
+      "ENGLISH": "Eight years??",
+      "CHINESE_SIMPLIFIED": "八年？",
+      "CHINESE_TRADITIONAL": "八年？",
+      "JAPANESE": "8年!?",
+      "INDONESIAN": "Delapan tahun??",
+      "PORTUGUESE": "Oito anos?",
+      "SPANISH": "¿Ocho años?",
+      "PERSIAN": "هشت سال؟؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 26.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이 새 옷은 살에 닿았을 때 뭐랄까... 싸가지가 없다?",
+      "ENGLISH": "You know how new clothes can feel kinda... rude when they touch your skin?",
+      "CHINESE_SIMPLIFIED": "这新衣服贴着皮肤的感觉怎么说呢...像在叛逆期似的？",
+      "CHINESE_TRADITIONAL": "新衣服剛碰到皮膚時，怎麼說呢...感覺很刺人？",
+      "JAPANESE": "新しい服って、肌に触れたときなんかこう…ツンツンしてるっていうか",
+      "INDONESIAN": "Tau nggak sih, baju baru tuh kadang rasanya... kasar gitu pas nyentuh kulit?",
+      "PORTUGUESE": "Sim, é que roupa nova, quando encosta na pele, sei lá… tem uma sensação estranha, sabe?",
+      "SPANISH": "Sí, es que la ropa nueva, cuando toca la piel, no sé… se siente extraño, ¿sabes?",
+      "PERSIAN": "می‌دونی لباس‌های جدید وقتی پوست شما را لمس می‌کنن، چقدر می‌تونن احساس بی‌ادبی کنند؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 30.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그런 느낌인데 근데 그 티는 날 다 받아줄 거 같은 뭐 그런 느낌?",
+      "ENGLISH": "But this one feels like it just accepts you, like it knows you?",
+      "CHINESE_SIMPLIFIED": "但这件旧T恤的话，感觉能包容我的一切？",
+      "CHINESE_TRADITIONAL": "但這件T 恤給人一種可以完全包容，非常有安全感的感覺",
+      "JAPANESE": "でもこのTシャツは、全部受け止めてくれる感じ？",
+      "INDONESIAN": "Tapi yang ini tuh kayak langsung nerima kamu, kayak dia udah kenal kamu gitu?",
+      "PORTUGUESE": "Mas essa camiseta, por outro lado, é como se te abraçasse.",
+      "SPANISH": "Pero esta camiseta, en cambio, es como si te abrazara",
+      "PERSIAN": "اما این یکی احساس می کند که فقط شما را می پذیرد، مثل اینکه شما را می شناسد؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭔지 아시겠죠? ",
+      "ENGLISH": "You get what I mean?",
+      "CHINESE_SIMPLIFIED": "您懂这种感觉吧？",
+      "CHINESE_TRADITIONAL": "你知道我在說什麼吧？",
+      "JAPANESE": "わかります？",
+      "INDONESIAN": "Ngerti maksudku?",
+      "PORTUGUESE": "Entende o que eu quero dizer?",
+      "SPANISH": "¿entiendes lo que digo?",
+      "PERSIAN": "متوجه منظورم شدید؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 33.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그게...",
+      "ENGLISH": "Uh... about that—",
+      "CHINESE_SIMPLIFIED": "啊那个...",
+      "CHINESE_TRADITIONAL": "呃，這個嘛...",
+      "JAPANESE": "あ、えっと…",
+      "INDONESIAN": "Uh... ngomong-ngomong soal itu—",
+      "PORTUGUESE": "Ah, isso…",
+      "SPANISH": "Ah, eso…",
+      "PERSIAN": "اوه ... در مورد اون -"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 36.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너 이 티셔츠 아직도 안 버렸어? ",
+      "ENGLISH": "You're still wearing this old thing?",
+      "CHINESE_SIMPLIFIED": "你这T恤还没扔啊？",
+      "CHINESE_TRADITIONAL": "你這件T恤還沒丟喔？",
+      "JAPANESE": "あんた、まだそのTシャツ捨ててなかったの？",
+      "INDONESIAN": "Kamu masih aja pakai kaus lama ini?",
+      "PORTUGUESE": "Você ainda não jogou essa camiseta fora?",
+      "SPANISH": "¿Todavía no tiras esa camiseta?",
+      "PERSIAN": "هنوز این لباس قدیمی را می پوشی؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 40.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 저걸 왜 버려? 아직 찢어지지도 않았구만.",
+      "ENGLISH": "Why would I throw it out? It’s not even torn!",
+      "CHINESE_SIMPLIFIED": "哎呦，干嘛要扔？又还没破",
+      "CHINESE_TRADITIONAL": "哎，幹嘛丟，又還沒破",
+      "JAPANESE": "え、なんで捨てるんだよ　まだ破けてもないのに",
+      "INDONESIAN": "Kenapa harus dibuang? Toh nggak sobek juga!",
+      "PORTUGUESE": "Ah, e por que eu jogaria fora? Nem tá rasgada!",
+      "SPANISH": "Ay, ¿y por qué la tiraría? ¡Si ni siquiera está rota!",
+      "PERSIAN": "چرا باید اونو بیرون بیاندازم؟ حتی پاره نشده است!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 40.8,
+      "HIDE": 42.2
+    },
+    "SCRIPT": {
+      "KOREAN": "야 내가 찢어줘?",
+      "ENGLISH": "Want me to tear it for you?",
+      "CHINESE_SIMPLIFIED": "要我帮你扯破吗？",
+      "CHINESE_TRADITIONAL": "要我幫你撕破嗎？",
+      "JAPANESE": "じゃあ、今すぐ破ってあげようか？",
+      "INDONESIAN": "Mau aku sobekin?",
+      "PORTUGUESE": "Quer que eu rasgue pra você?",
+      "SPANISH": "¿Quieres que yo la rompa por ti?",
+      "PERSIAN": "میخوای برات پاره کنم؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 42.5,
+      "HIDE": 43.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니...",
+      "ENGLISH": "No, no...",
+      "CHINESE_SIMPLIFIED": "不要...",
+      "CHINESE_TRADITIONAL": "不要…",
+      "JAPANESE": "いやいや…",
+      "INDONESIAN": "Nggak, nggak...",
+      "PORTUGUESE": "Não…",
+      "SPANISH": "No…",
+      "PERSIAN": "نه نه..."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 44.7,
+      "HIDE": 46.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이 티셔츠 벗어요 내가 빌려줄게요",
+      "ENGLISH": "Take that shirt off. I’ll lend you something better.",
+      "CHINESE_SIMPLIFIED": "把这件T恤脱下来吧，我借你件衣服穿",
+      "CHINESE_TRADITIONAL": "你把這件 T 恤脫掉，我借你我的衣服",
+      "JAPANESE": "そのTシャツ脱いでください、私の貸しますから",
+      "INDONESIAN": "Udah lepasin aja kausnya. Aku pinjemin yang lebih bagus.",
+      "PORTUGUESE": "Tira essa camiseta, eu te empresto uma minha.",
+      "SPANISH": "Quítate esa camiseta, te presto una mía.",
+      "PERSIAN": "اون پیراهن را در بیاور چیز بهتری بهت قرض میدم"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 50.1
+    },
+    "SCRIPT": {
+      "KOREAN": "헉, 정말요? 고마워요!",
+      "ENGLISH": "Really? Thank you!",
+      "CHINESE_SIMPLIFIED": "哇，真的吗？谢谢！",
+      "CHINESE_TRADITIONAL": "哇，真的嗎？ 謝謝你！",
+      "JAPANESE": "えっ、ほんとに？ ありがとう！",
+      "INDONESIAN": "Serius? Makasih ya!",
+      "PORTUGUESE": "Sério? Obrigado!",
+      "SPANISH": "¿En serio? ¡Gracias!",
+      "PERSIAN": "واقعا؟ ممنونم!"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "부장님 안녕하십니까!",
+      "ENGLISH": "Hello, Manager!",
+      "CHINESE_SIMPLIFIED": "部长您好！",
+      "CHINESE_TRADITIONAL": "部長，您好！",
+      "JAPANESE": "部長、おはようございます！",
+      "INDONESIAN": "Halo Manajer!",
+      "PORTUGUESE": "Bom dia, gerente!",
+      "SPANISH": "¡Buenos días, mánager!",
+      "PERSIAN": "سلام مدیر!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어어 그래 우리 두유만 사원!",
+      "ENGLISH": "Oh! Hey, our Woo Yuman!",
+      "CHINESE_SIMPLIFIED": "哎呀呀，是我们宥万啊！",
+      "CHINESE_TRADITIONAL": "哎呀～是我們宥萬啊！",
+      "JAPANESE": "おお、うちのトゥマン社員じゃないか！",
+      "INDONESIAN": "Oh! Hei, Woo Yuman!",
+      "PORTUGUESE": "Oh, oh, e o nosso querido Yuman~",
+      "SPANISH": "Oh, oh, y nuestro querido Yuman~",
+      "PERSIAN": "اوه! هی، وو یومان ما!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "사고 났다고 해서 내 심장이 얼마나 쿵~! 하고 떨어졌는지 몰라~",
+      "ENGLISH": "When I heard there was an accident, my heart literally dropped!",
+      "CHINESE_SIMPLIFIED": "听说你出事故了，我这心啊哐当~！一下沉到底了~",
+      "CHINESE_TRADITIONAL": "聽說你出意外，我的心臟都快「咚～！」地掉出來了，你知不知道～",
+      "JAPANESE": "事故にあったって聞いて、心臓がドキーン！って落ちるかと思ったぞ～",
+      "INDONESIAN": "Waktu denger kamu kecelakaan jantungku hampir copot sumpah!",
+      "PORTUGUESE": "Quando ouvi que você tinha sofrido um acidente, quase meu coração saiu pela boca!",
+      "SPANISH": "Cuando escuché que habías tenido un accidente, ¡casi se me sale el corazón del pecho!",
+      "PERSIAN": "وقتی شنیدم تصادفی شده، قلبم به معنای واقعی کلمه افتاد!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": " 몸은 정말 괜찮은 거고?",
+      "ENGLISH": "Are you really okay physically?",
+      "CHINESE_SIMPLIFIED": "身体真的没事了吧？",
+      "CHINESE_TRADITIONAL": "身體真的沒事了嗎？",
+      "JAPANESE": "体は本当に大丈夫なのか？",
+      "INDONESIAN": "Kamu beneran nggak apa-apa secara fisik?",
+      "PORTUGUESE": "Você está mesmo bem?",
+      "SPANISH": "¿De verdad estás bien?",
+      "PERSIAN": "واقعا از نظر بدنی خوب هستید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 우유만 사원 이제 정말 괜찮습니다!",
+      "ENGLISH": "Yes… I’m really fine now, Assistant Woo Yuman!",
+      "CHINESE_SIMPLIFIED": "是...吴宥万职员现在真的没问题了！",
+      "CHINESE_TRADITIONAL": "是的... 吳宥萬職員真的沒事了！",
+      "JAPANESE": "はい…ウ・ユマン社員、もう本当に大丈夫です！",
+      "INDONESIAN": "Iya… aku beneran udah sehat sekarang, Asisten Woo Yuman siap kembali kerja!",
+      "PORTUGUESE": "Sim… já tô completamente recuperado.",
+      "SPANISH": "Sí… ya estoy completamente recuperado.",
+      "PERSIAN": "بله... الان واقعا خوبم، دستیار وو یومان!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 23.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래? 그럼 정말 괜찮은지 한번 볼까? ",
+      "ENGLISH": "Is that so? Well then, let’s see if you really are okay.",
+      "CHINESE_SIMPLIFIED": "是吗？那我可要验收下是不是真好了",
+      "CHINESE_TRADITIONAL": "是嗎？那來看看是不是真的沒事了？",
+      "JAPANESE": "そうか？じゃあ本当に大丈夫かどうか試してみるか？",
+      "INDONESIAN": "Gitu ya? Kalau gitu, mari kita tes, beneran udah sembuh apa belum.",
+      "PORTUGUESE": "Ah, é? Então vamos ver se está mesmo bem.",
+      "SPANISH": "¿Ah, sí? Entonces veamos si de verdad estás bien.",
+      "PERSIAN": "اینطوری است؟ خوب پس، بیایید ببینیم که شما واقعاً خوب هستید یا نه."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "헴버거의 색깔은 과연 무엇일까요?",
+      "ENGLISH": "What color is the hamburger, I wonder?",
+      "CHINESE_SIMPLIFIED": "请问汉堡的颜色是什么呢？",
+      "CHINESE_TRADITIONAL": "漢堡的顏色到底是什麼呢？",
+      "JAPANESE": "ハンバーガーの色は一体何色でしょう？",
+      "INDONESIAN": "Hamburger itu warnanya apa ya, hmm?",
+      "PORTUGUESE": "Qual é a cor mais fria?",
+      "SPANISH": "¿Cuál es el color más frío?",
+      "PERSIAN": "من تعجب می کنم که همبرگر چه رنگی است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 30.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 햄버거요? ",
+      "ENGLISH": "Huh? The hamburger?",
+      "CHINESE_SIMPLIFIED": "啊？汉堡？",
+      "CHINESE_TRADITIONAL": "咦？漢堡嗎？",
+      "JAPANESE": "えっ？ハンバーガーですか？",
+      "INDONESIAN": "Hah? Hamburger?",
+      "PORTUGUESE": "Hã? A cor mais fria...?",
+      "SPANISH": "¿Eh? ¿El color más frío...?",
+      "PERSIAN": "ها؟ همبرگر؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 33.4
+    },
+    "SCRIPT": {
+      "KOREAN": "햄버거... 주황색...?",
+      "ENGLISH": "Hamburger… orange…?",
+      "CHINESE_SIMPLIFIED": "汉堡...橘色...？",
+      "CHINESE_TRADITIONAL": "漢堡... 橘色...？",
+      "JAPANESE": "ハンバーガー…オレンジ…？",
+      "INDONESIAN": "Hamburger… oranye…?",
+      "PORTUGUESE": "Azul...?",
+      "SPANISH": "¿Azul...?",
+      "PERSIAN": "همبرگر… پرتقال…؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 34.2
+    },
+    "SCRIPT": {
+      "KOREAN": "땡!",
+      "ENGLISH": "Wrong!",
+      "CHINESE_SIMPLIFIED": "错！",
+      "CHINESE_TRADITIONAL": "錯！",
+      "JAPANESE": "ブー！",
+      "INDONESIAN": "Salah!",
+      "PORTUGUESE": "Não!",
+      "SPANISH": "¡No!",
+      "PERSIAN": "اشتباه!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "버건디...! ",
+      "ENGLISH": "Burgundy…!",
+      "CHINESE_SIMPLIFIED": "勃艮第红...！（与“汉堡”韩语发音相似）",
+      "CHINESE_TRADITIONAL": "是勃根地紅！(Burgundy和Burger發音相似)",
+      "JAPANESE": "バーガンディ…！",
+      "INDONESIAN": "Burgundy…!",
+      "PORTUGUESE": "É o yellow!",
+      "SPANISH": "¡El \"yellow\"!",
+      "PERSIAN": "بورگوندی…!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 38.3
+    },
+    "SCRIPT": {
+      "KOREAN": "버건디~ ",
+      "ENGLISH": "Burgundy~",
+      "CHINESE_SIMPLIFIED": "勃艮第红~",
+      "CHINESE_TRADITIONAL": "勃根地紅～",
+      "JAPANESE": "バーガンディ～",
+      "INDONESIAN": "Burgundy~",
+      "PORTUGUESE": "Yellow~",
+      "SPANISH": "Yellow~",
+      "PERSIAN": "بورگوندی~"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 42.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 퐈하하하하하하!!!\n- 하하..하하하하하하하!!!",
+      "ENGLISH": "— Hahaha!!!\n— Hahaha… hahahahaha!!!",
+      "CHINESE_SIMPLIFIED": "-噗哈哈哈哈哈哈！！！\n-哈哈...哈哈哈哈哈哈哈！",
+      "CHINESE_TRADITIONAL": "-噗哈哈哈哈哈哈！！！\n-哈哈...哈哈哈哈哈哈哈！",
+      "JAPANESE": "‐ふははははははは！！！\n‐はは…ははははははは！！！",
+      "INDONESIAN": "— Hahaha!!!\n— Hahaha… hahahahaha!!!",
+      "PORTUGUESE": "—Hahahahaha!\n—Ha... hahahahahaha!!!",
+      "SPANISH": "—¡Jajajajaja!\n—¡¡¡Ja... jajajajajaja!!!",
+      "PERSIAN": "- هاهاها!!! -هههههههههههههه!!!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 46.1
+    },
+    "SCRIPT": {
+      "KOREAN": "부장님 정말 유머 센스는 여전하시네요 하하...",
+      "ENGLISH": "Manager, your sense of humor hasn’t changed one bit, haha…",
+      "CHINESE_SIMPLIFIED": "部长的幽默感真是一如既往呢哈哈...",
+      "CHINESE_TRADITIONAL": "部長您的幽默感真是一點都沒變啊 哈哈...",
+      "JAPANESE": "部長、まだユーモアセンスは健在ですね、はは…",
+      "INDONESIAN": "Manajer, selera humornya nggak berubah sama sekali yah, haha…",
+      "PORTUGUESE": "Seu senso de humor continua intacto, hahaha...",
+      "SPANISH": "Su sentido del humor sigue intacto, jaja...",
+      "PERSIAN": "مدیر، حس شوخ طبعی شما یک ذره تغییر نکرده است، هاها…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 46.2,
+      "HIDE": 51.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 두유만이가 이 개그를 이해하는 거 보니까 확실히 나은 게 맞구만!!! 응? ",
+      "ENGLISH": "Seeing Woo Yuman actually get this joke proves he’s definitely better now, huh?",
+      "CHINESE_SIMPLIFIED": "我们宥万能听懂这个笑话，看来确实是好了！！！是吧？",
+      "CHINESE_TRADITIONAL": "我們宥萬能聽懂這個梗，看來確實是康復了啊！！！是吧？",
+      "JAPANESE": "うちのトゥマンがこのギャグを理解してるってことは、もう完全に治った証拠だな！ん？",
+      "INDONESIAN": "Ngeliat Woo Yuman bisa nangkep lelucon ini berarti dia emang udah pulih beneran ya?",
+      "PORTUGUESE": "Se você conseguiu entender minha piada, então tá totalmente recuperado!",
+      "SPANISH": "¡Si fuiste capaz de entender mi chiste, entonces estás totalmente recuperado!",
+      "PERSIAN": "دیدن وو یومان که واقعاً این شوخی را دریافت می کند، ثابت می کند که او اکنون قطعاً بهتر است، نه؟"
+    }
+  }
+]

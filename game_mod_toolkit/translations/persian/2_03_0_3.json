@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히 외모로 보면 내가 제일 예쁘지.",
+      "ENGLISH": "Let’s be real, looks-wise, I’m the prettiest here.",
+      "CHINESE_SIMPLIFIED": "老实说单看外貌，难道不是我最好看吗？",
+      "CHINESE_TRADITIONAL": "老實說，光看外表的話，我應該是最漂亮的吧",
+      "JAPANESE": "正直 外見で見たら俺が一番綺麗じゃない?",
+      "INDONESIAN": "Jujur aja deh, dari segi penampilan, aku yang paling cantik di sini.",
+      "PORTUGUESE": "Se for pela aparência, eu sou o mais bonito.",
+      "SPANISH": "Si es por apariencia, yo soy el más bonito.",
+      "PERSIAN": "بیایید واقعی باشیم، از نظر ظاهری، من زیباترین اینجا هستم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "엥?",
+      "ENGLISH": "Huh??",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "えっ?",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 얼굴은 여기서 내가 제일 낫지 않나?",
+      "ENGLISH": "I mean, come on! My face is clearly top tier, right?",
+      "CHINESE_SIMPLIFIED": "我是说，论脸蛋难道不是这里我最出众吗？",
+      "CHINESE_TRADITIONAL": "光看臉，在這裡我應該是最出色的，不是嗎？",
+      "JAPANESE": "いや 顔はここで俺が一番マシじゃない?",
+      "INDONESIAN": "Yalah! Liat aja muka aku—jelas level dewa, kan?",
+      "PORTUGUESE": "Vocês não acham que, entre nós três, meu rosto é o melhor?",
+      "SPANISH": "¿No creen que entre los tres, mi cara es la mejor?",
+      "PERSIAN": "یعنی بیا! صورت من به وضوح سطح بالایی دارد، درست است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이목구비에서 막 기품도 느껴지고.",
+      "ENGLISH": "I’ve got that elegant vibe, too.",
+      "CHINESE_SIMPLIFIED": "五官标致，还透着股贵族气质",
+      "CHINESE_TRADITIONAL": "五官也很有氣質",
+      "JAPANESE": "パーツからして気品もあるし",
+      "INDONESIAN": "Aku juga punya aura elegan gitu.",
+      "PORTUGUESE": "Minhas feições transmitem elegância.",
+      "SPANISH": "Mis facciones transmiten elegancia.",
+      "PERSIAN": "من هم اون حال و هوای زیبا را دارم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데... 그쪽 좀 예쁜 거 같아요?",
+      "ENGLISH": "But... you’re actually kinda pretty.",
+      "CHINESE_SIMPLIFIED": "不过...你好像也蛮漂亮的？",
+      "CHINESE_TRADITIONAL": "不過…你好像也滿漂亮的？",
+      "JAPANESE": "でも…あんたちょっと可愛いかも?",
+      "INDONESIAN": "Tapi... kamu emang lumayan cantik juga sih.",
+      "PORTUGUESE": "Na verdade... acho que a senhora é bonita.",
+      "SPANISH": "En realidad... creo que usted es bonita.",
+      "PERSIAN": "اما... تو واقعاً تا حدودی زیبا هستی."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 아니?",
+      "ENGLISH": "Wait, no!",
+      "CHINESE_SIMPLIFIED": "没有没有！",
+      "CHINESE_TRADITIONAL": "沒有沒有！",
+      "JAPANESE": "いやいや",
+      "INDONESIAN": "Eh, nggak! Maksud aku—",
+      "PORTUGUESE": "Não, de jeito nenhum.",
+      "SPANISH": "No, para nada",
+      "PERSIAN": "صبر کن، نه!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "전 진짜 태어나서 언니처럼 예쁜 사람 처음 봐요.",
+      "ENGLISH": "I swear, I’ve never seen anyone as gorgeous as you.",
+      "CHINESE_SIMPLIFIED": "我这辈子还真是第一次见到像姐姐这么漂亮的人！",
+      "CHINESE_TRADITIONAL": "我這輩子第一次看到像姊姊妳這麼漂亮的人",
+      "JAPANESE": "私 本当に生まれて初めてお姉さんみたいに綺麗な人見ましたよ",
+      "INDONESIAN": "Sumpah, aku belum pernah liat orang secantik kamu.",
+      "PORTUGUESE": "Nunca vi alguém tão linda quanto você, querida.",
+      "SPANISH": "En mi vida había visto a alguien tan hermosa como tú, querida.",
+      "PERSIAN": "قسم می خورم، من هرگز کسی را به زیبایی شما ندیده ام."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어 근데 머릿결 이거 뭐야!",
+      "ENGLISH": "And your hair, what even is this?!",
+      "CHINESE_SIMPLIFIED": "哇，你看看你这头发！",
+      "CHINESE_TRADITIONAL": "不過這髮質是怎麼回事！",
+      "JAPANESE": "あ でもその髪なに!?",
+      "INDONESIAN": "Dan rambut kamu, apaan tuh?!",
+      "PORTUGUESE": "Mas olha esse cabelo!",
+      "SPANISH": "¡Pero mira ese cabello!",
+      "PERSIAN": "و موهای تو، این چه چیزی است؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "귀티 미쳤다.",
+      "ENGLISH": "You look rich rich.",
+      "CHINESE_SIMPLIFIED": "贵气逼人啊",
+      "CHINESE_TRADITIONAL": "貴氣十足",
+      "JAPANESE": "上品さヤバい",
+      "INDONESIAN": "Kelihatan kaya raya banget.",
+      "PORTUGUESE": "Tá tão brilhante.",
+      "SPANISH": "Se ve tan brillante.",
+      "PERSIAN": "ثروتمند به نظر می رسید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 25.2
+    },
+    "SCRIPT": {
+      "KOREAN": "언니야말로 피부 진짜 애기 피부 같아요!",
+      "ENGLISH": "Unnie! Your skin’s like... baby soft! Seriously!",
+      "CHINESE_SIMPLIFIED": "姐姐的皮肤才真的像婴儿一样呢！",
+      "CHINESE_TRADITIONAL": "姊姊妳的皮膚跟嬰兒一樣嫩！",
+      "JAPANESE": "お姉さんこそ肌ほんと赤ちゃんみたいですね",
+      "INDONESIAN": "Unnie! Kulit kamu tuh... selembut kulit bayi! Seriusan!",
+      "PORTUGUESE": "E sua pele parece pele de bebê.",
+      "SPANISH": "Y tu piel parece piel de bebé.",
+      "PERSIAN": "آبجی! پوستت مثل... بچه نرم! جدی!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 왜 자꾸 언니라 그래요?",
+      "ENGLISH": "But... why do you keep calling me “unnie”?",
+      "CHINESE_SIMPLIFIED": "但你怎么老是叫我姐姐啊？",
+      "CHINESE_TRADITIONAL": "但是妳為什麼一直叫我姊姊？",
+      "JAPANESE": "でもなんでずっとお姉さんって呼ぶんですか?",
+      "INDONESIAN": "Tapi... kenapa sih kamu manggil aku “unnie” terus?",
+      "PORTUGUESE": "Mas por que você continua me chamando de “querida”?",
+      "SPANISH": "¿Pero por qué me sigue diciendo \"querida\"?",
+      "PERSIAN": "اما ... چرا مدام به من می گویید \"عزیز\"؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 31.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐래 나보다 못생긴 것들이...",
+      "ENGLISH": "Ugh, listen to them, girls who aren’t even as pretty as me...",
+      "CHINESE_SIMPLIFIED": "胡说什么呢，长得不如我的这些人...",
+      "CHINESE_TRADITIONAL": "比不是我美貌的人們在講什麼呢…",
+      "JAPANESE": "何言ってんだ 俺よりブスのくせに…",
+      "INDONESIAN": "Ugh, dengerin deh tuh, cewek-cewek yang bahkan nggak secantik aku...",
+      "PORTUGUESE": "Ai, por favor... são todas mais feias do que eu.",
+      "SPANISH": "Ay, por favor… si son más feas que yo.",
+      "PERSIAN": "اوه، به اونا گوش دهید، دخترانی که حتی به زیبایی من نیستند ..."
+    }
+  }
+]

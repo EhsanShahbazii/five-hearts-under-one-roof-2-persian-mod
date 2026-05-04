@@ -1,0 +1,162 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 1.4
+    },
+    "SCRIPT": {
+      "KOREAN": "여기가 말숙이 방이에요.",
+      "ENGLISH": "This is Mal-sook’s room.",
+      "CHINESE_SIMPLIFIED": "这里是末淑的房间了",
+      "CHINESE_TRADITIONAL": "這裡是末淑的房間",
+      "JAPANESE": "ここがマルスクの部屋です",
+      "INDONESIAN": "Ini kamar Mal-sook.",
+      "PORTUGUESE": "Este é o quarto da Mal-sook.",
+      "SPANISH": "Este es el cuarto de Malsook.",
+      "PERSIAN": "این اتاق مال‌سوک است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 생각보다 되게 아기자기하네요?",
+      "ENGLISH": "Hmm... it’s way cuter than I expected.",
+      "CHINESE_SIMPLIFIED": "嗯...比想象中还挺精致可爱的呢？",
+      "CHINESE_TRADITIONAL": "嗯…比想像中還要小巧可愛耶？",
+      "JAPANESE": "んー…思ったよりすごく可愛らしいですね?",
+      "INDONESIAN": "Hmm... jauh lebih imut dari yang aku bayangin.",
+      "PORTUGUESE": "Hmm... é bem mais aconchegante do que eu imaginava.",
+      "SPANISH": "Hmm… es mucho más acogedor de lo que imaginaba.",
+      "PERSIAN": "هوم... خیلی زیباتر از اون چیزی است که انتظار داشتم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "들어오세요.",
+      "ENGLISH": "Come in.",
+      "CHINESE_SIMPLIFIED": "进来吧",
+      "JAPANESE": "どうぞ、お入りください",
+      "INDONESIAN": "Silahkan masuk!",
+      "PORTUGUESE": "Entrem.",
+      "PERSIAN": "بیا داخل"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "응? 말숙아. 근데 이 꽃은 뭐야?",
+      "ENGLISH": "Mal-sook, what’s with the flowers?",
+      "CHINESE_SIMPLIFIED": "末淑啊，这花是怎么回事？",
+      "CHINESE_TRADITIONAL": "末淑啊，這花是什麼啊？",
+      "JAPANESE": "マルスク この花は何?",
+      "INDONESIAN": "Mal-sook, bunga-bunga ini apaan?",
+      "PORTUGUESE": "Malsook! E essa flor aí, qual é a dela?",
+      "SPANISH": "¡Malsook! ¿y esta flor qué onda?",
+      "PERSIAN": "مال‌سوک، گلها چه خبر؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 이거...",
+      "ENGLISH": "Oh, those...?",
+      "CHINESE_SIMPLIFIED": "啊，这个...",
+      "CHINESE_TRADITIONAL": "啊，這個…",
+      "JAPANESE": "あ これ…",
+      "INDONESIAN": "Oh, itu...?",
+      "PORTUGUESE": "Ah, isso...",
+      "SPANISH": "Ah, esto…",
+      "PERSIAN": "اوه اونها...؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 내가 좋아해서 산 거야.",
+      "ENGLISH": "I bought them ‘cause I like them.",
+      "CHINESE_SIMPLIFIED": "这是我自己喜欢才买的",
+      "CHINESE_TRADITIONAL": "這是我自己喜歡才買的",
+      "JAPANESE": "私が気に入って買ったの",
+      "INDONESIAN": "Aku beli soalnya aku suka.",
+      "PORTUGUESE": "Comprei porque gostei.",
+      "SPANISH": "La compré porque me gustó.",
+      "PERSIAN": "من اونا رو خریدم، زیرا اونا رو دوست دارم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나 꽃 좋아하잖아.",
+      "ENGLISH": "You like flowers?",
+      "CHINESE_SIMPLIFIED": "我不是喜欢花嘛",
+      "CHINESE_TRADITIONAL": "我喜歡花啊",
+      "JAPANESE": "私 花好きじゃん",
+      "INDONESIAN": "Kamu suka bunga?",
+      "PORTUGUESE": "Você sabe que eu adoro flores.",
+      "SPANISH": "Ya sabes que me encantan las flores.",
+      "PERSIAN": "گل دوست داری؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너가? 응?",
+      "ENGLISH": "Yeah... why?",
+      "CHINESE_SIMPLIFIED": "你？",
+      "CHINESE_TRADITIONAL": "妳嗎？",
+      "JAPANESE": "お前が?",
+      "INDONESIAN": "Iya... emang kenapa?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿En serio?",
+      "PERSIAN": "آره...چرا؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 23.2
+    },
+    "SCRIPT": {
+      "KOREAN": "허, 웬일이야?",
+      "ENGLISH": "Huh... didn’t see that coming.",
+      "CHINESE_SIMPLIFIED": "哦...太阳打西边出来了？",
+      "CHINESE_TRADITIONAL": "嗯…太陽從西邊出來了？",
+      "JAPANESE": "へえ…珍しいな",
+      "INDONESIAN": "Huh... nggak nyangka aja.",
+      "PORTUGUESE": "Sim... por que será?",
+      "SPANISH": "Sí… ¿por qué será?",
+      "PERSIAN": "هه... ندیدم که آمد."
+    }
+  }
+]

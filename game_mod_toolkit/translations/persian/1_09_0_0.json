@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아직도 얼떨떨하네... ",
+      "ENGLISH": "Man… I still can’t believe it.",
+      "CHINESE_SIMPLIFIED": "还是有点恍惚…",
+      "CHINESE_TRADITIONAL": "還是有點恍惚…",
+      "JAPANESE": "まだなんだかぼんやりするな…",
+      "INDONESIAN": "masih kerasa aneh aja...",
+      "PORTUGUESE": "ainda estou meio atordoado...",
+      "SPANISH": "todavía no lo puedo creer...",
+      "PERSIAN": "پسر... هنوزم باورم نمیشه."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 6개월이나 누워있었다고?",
+      "ENGLISH": "I was out for six whole months?",
+      "CHINESE_SIMPLIFIED": "我居然躺了六个月吗？",
+      "CHINESE_TRADITIONAL": "我真的躺了六個月嗎？",
+      "JAPANESE": "俺が半年も寝てたって？",
+      "INDONESIAN": "Aku beneran tiduran selama enam bulan?",
+      "PORTUGUESE": "Eu fiquei deitado por 6 meses mesmo?",
+      "SPANISH": "¿De verdad estuve inconciente seis meses?",
+      "PERSIAN": "یعنی جدی جدی ۶ ماه تمام مثل مرده افتاده بودم اینجا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하앙...",
+      "ENGLISH": "Haaaangh...",
+      "CHINESE_SIMPLIFIED": "哈啊…",
+      "CHINESE_TRADITIONAL": "哈啊…",
+      "JAPANESE": "はあ〜ん…",
+      "INDONESIAN": "Haa...",
+      "PORTUGUESE": "Haang...",
+      "SPANISH": "Aah~",
+      "PERSIAN": "آاااه..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "으으응~ 자기야... 너무 크다구... ",
+      "ENGLISH": "Mmm~ Babe… It’s way too big...",
+      "CHINESE_SIMPLIFIED": "呜呜嗯～亲爱的…太大了…",
+      "CHINESE_TRADITIONAL": "嗚嗯~ 親愛的…這個太大了啦…",
+      "JAPANESE": "ううん〜大きすぎて…",
+      "INDONESIAN": "Mmngh~ Sayang... gede banget sih...",
+      "PORTUGUESE": "Uuuh~ amor... é grande demais...",
+      "SPANISH": "Mmm~ Amor… es que está muy grande…",
+      "PERSIAN": "اوووم~ عزیزم... زیادی بزرگه آخه..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "한 입에 안 들어갈 거 같은데.",
+      "ENGLISH": "There’s no way I can fit all that in my mouth.",
+      "CHINESE_SIMPLIFIED": "一口好像塞不下",
+      "CHINESE_TRADITIONAL": "一口好像塞不下吧",
+      "JAPANESE": "一口じゃ入らなさそうだけどな…",
+      "INDONESIAN": "Kayaknya nggak muat dalam sekali suap deh.",
+      "PORTUGUESE": "Acho que não vai caber de uma vez só.",
+      "SPANISH": "No creo que entre todo de una sola vez.",
+      "PERSIAN": "عمراً کلش توی دهنم جا بشه!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 이거 한 번만...",
+      "ENGLISH": "Come on, just this once...",
+      "CHINESE_SIMPLIFIED": "啊~就一次…",
+      "CHINESE_TRADITIONAL": "啊~ 就再一次…",
+      "JAPANESE": "あ〜これ一回だけ…",
+      "INDONESIAN": "A~ cuma sekali ini aja...",
+      "PORTUGUESE": "Ah~ só mais uma vez...",
+      "SPANISH": "Aah~ solo una vez más...",
+      "PERSIAN": "بیخیال دیگه، فقط همین یه بار..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 이번이 마지막이다?",
+      "ENGLISH": "This is really the last time, okay?",
+      "CHINESE_SIMPLIFIED": "真的就最后一次了，好不好？",
+      "CHINESE_TRADITIONAL": "真的最後一次了喔？",
+      "JAPANESE": "これで本当に最後だからね？",
+      "INDONESIAN": "Beneran terakhir, ya?",
+      "PORTUGUESE": "É sério, essa é a última?",
+      "SPANISH": "De verdad es la última, ¿eh~?",
+      "PERSIAN": "قول بده فقط همین یه بار باشه ها، باشه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야! 병원에서 뭐 하는데!",
+      "ENGLISH": "Hey! What the hell are you two doing in a hospital?!",
+      "CHINESE_SIMPLIFIED": "什么啊！在医院里干什么啊！",
+      "CHINESE_TRADITIONAL": "什麼啦！你們在醫院到底在幹嘛啊！",
+      "JAPANESE": "おい！病院で何やってるんだ！",
+      "INDONESIAN": "Apa-apaan! Ini di rumah sakit loh! Lagi ngapain sih!",
+      "PORTUGUESE": "O quê?! O que vocês estão fazendo no hospital?!",
+      "SPANISH": "¡¿Pero qué están haciendo en un hospital?!",
+      "PERSIAN": "هووی! وسط بیمارستان دارین چه غلطی می‌کنین شما دو تا?!"
+    }
+  }
+]

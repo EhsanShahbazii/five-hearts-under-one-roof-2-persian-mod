@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 아~ 해.",
+      "ENGLISH": "Here, say ah~",
+      "CHINESE_SIMPLIFIED": "来，张嘴~",
+      "CHINESE_TRADITIONAL": "來，嘴巴張開，啊～",
+      "JAPANESE": "ほら あ〜んして",
+      "INDONESIAN": "Di sini, katakan ah~",
+      "PORTUGUESE": "A ver, diga ah~",
+      "SPANISH": "A ver, di ah~",
+      "PERSIAN": "اینجا، بگو آه~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 빠뜨린 거 없어?",
+      "ENGLISH": "Aren’t you forgetting something?",
+      "CHINESE_SIMPLIFIED": "是不是漏了什么步骤？",
+      "CHINESE_TRADITIONAL": "是不是漏掉什麼了？",
+      "JAPANESE": "何か忘れてない?",
+      "INDONESIAN": "Apakah kamu tidak melupakan sesuatu?",
+      "PORTUGUESE": "Você não tá esquecendo de nada?",
+      "SPANISH": "¿No te falta algo?",
+      "PERSIAN": "چیزی را فراموش نمی کنی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 빠뜨려?",
+      "ENGLISH": "Forgetting what?",
+      "CHINESE_SIMPLIFIED": "漏什么？",
+      "CHINESE_TRADITIONAL": "漏掉什麼？",
+      "JAPANESE": "何か忘れた?",
+      "INDONESIAN": "Lupa apa?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué cosa?",
+      "PERSIAN": "فراموش کردن چی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "떡볶이 소스에 찍어서 줘야지!",
+      "ENGLISH": "You’re supposed to dip it in the tteokbokki sauce!",
+      "CHINESE_SIMPLIFIED": "得先蘸上炒年糕酱汁再给我啊！",
+      "CHINESE_TRADITIONAL": "要沾著辣炒年糕的醬汁給我啦！",
+      "JAPANESE": "トッポッキのソースにつけてからでしょ!",
+      "INDONESIAN": "Kamu seharusnya mencelupkannya ke dalam saus tteokbokki!",
+      "PORTUGUESE": "Tem que mergulhar no molho!",
+      "SPANISH": "¡Tienes que sumergirlo en salsa!",
+      "PERSIAN": "قرار است اونو در سس دوکبوکی فرو کنید!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 소스~",
+      "ENGLISH": "Ah—right, the sauce!",
+      "CHINESE_SIMPLIFIED": "啊，酱汁~",
+      "CHINESE_TRADITIONAL": "啊，醬汁～",
+      "JAPANESE": "あ ソースね〜",
+      "INDONESIAN": "Ah—benar, sausnya!",
+      "PORTUGUESE": "Ah, o molho~",
+      "SPANISH": "Ah, la salsa~",
+      "PERSIAN": "آه - درست است، سس!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그냥 내가 알아서 먹을게.",
+      "ENGLISH": "I’ll just do it myself.",
+      "CHINESE_SIMPLIFIED": "我自己能吃",
+      "CHINESE_TRADITIONAL": "我會自己吃啦",
+      "JAPANESE": "いいよ 自分で食べるから",
+      "INDONESIAN": "Aku akan melakukannya sendiri.",
+      "PORTUGUESE": "Não tem problema, eu faço.",
+      "SPANISH": "No importa, yo lo hago.",
+      "PERSIAN": "فقط خودم انجامش میدم"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "음~",
+      "ENGLISH": "Mmm~",
+      "CHINESE_SIMPLIFIED": "嗯~",
+      "CHINESE_TRADITIONAL": "嗯～",
+      "JAPANESE": "ん〜",
+      "INDONESIAN": "Hmm~",
+      "PORTUGUESE": "Mmm~",
+      "SPANISH": "Mmm~",
+      "PERSIAN": "ممم~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "흥..",
+      "ENGLISH": "Hmph...",
+      "CHINESE_SIMPLIFIED": "哼...",
+      "CHINESE_TRADITIONAL": "哼…",
+      "JAPANESE": "ふん…",
+      "INDONESIAN": "Hmph...",
+      "PORTUGUESE": "Hmph...",
+      "SPANISH": "Hmph…",
+      "PERSIAN": "هومف..."
+    }
+  }
+]

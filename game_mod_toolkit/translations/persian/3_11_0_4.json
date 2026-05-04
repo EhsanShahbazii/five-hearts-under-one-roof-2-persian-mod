@@ -1,0 +1,505 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "자 민정 님, 제 말 잘 들어요.",
+      "ENGLISH": "Okay, Min-jung, listen to me carefully.",
+      "CHINESE_SIMPLIFIED": "来敏静，听好了",
+      "CHINESE_TRADITIONAL": "敏靜，聽好了",
+      "JAPANESE": "ミンジョンさん、俺の言うことをよく聞いてください",
+      "INDONESIAN": "Oke, Min-jung, dengerin aku baik-baik.",
+      "PORTUGUESE": "Certo, Minjung, me escuta com atenção.",
+      "SPANISH": "Bien, Minjung, escúchame con atención.",
+      "PERSIAN": "باشه، مین‌جونگ، با دقت به من گوش کن."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "(끄덕끄덕)",
+      "ENGLISH": "(nods)",
+      "CHINESE_SIMPLIFIED": "（点头）",
+      "CHINESE_TRADITIONAL": "（點頭）",
+      "JAPANESE": "（コクリ…）",
+      "INDONESIAN": "(mengangguk)",
+      "PORTUGUESE": "(Assente)",
+      "SPANISH": "(Asiente)",
+      "PERSIAN": "(سر تکان می دهد)"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 민정 님 옆에 있는 이상",
+      "ENGLISH": "As long as I’m standing next to you,",
+      "CHINESE_SIMPLIFIED": "只要我站在敏静身边",
+      "CHINESE_TRADITIONAL": "只要我站在你身邊",
+      "JAPANESE": "俺がミンジョンさんのそばにいる限り",
+      "INDONESIAN": "Selama aku berdiri di samping kamu,",
+      "PORTUGUESE": "Enquanto eu estiver do seu lado,",
+      "SPANISH": "Mientras esté a tu lado",
+      "PERSIAN": "تا زمانی که کنارت ایستاده ام"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 사람들은 제가 민정 님을 보호해 줄 거라고 생각할 거예요.",
+      "ENGLISH": "they’ll think I’m here to protect you.",
+      "CHINESE_SIMPLIFIED": "那些人就会以为我要保护你",
+      "CHINESE_TRADITIONAL": "他們就會以為我要保護你",
+      "JAPANESE": "あの人たちは俺があなたを守るって思うはずです",
+      "INDONESIAN": "mereka bakal mikir aku di sini buat ngelindungin kamu.",
+      "PORTUGUESE": "esse pessoal vai achar que eu vou te proteger.",
+      "SPANISH": "esa gente va a pensar que voy a protegerte.",
+      "PERSIAN": "اونا فکر می کنند من اینجا هستم تا از شما محافظت کنم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 우리는 반대로 갑니다.",
+      "ENGLISH": "So—we’re doing the opposite.",
+      "CHINESE_SIMPLIFIED": "所以我们要反其道而行",
+      "CHINESE_TRADITIONAL": "所以我們要反其道而行",
+      "JAPANESE": "だから俺たちは逆に動きます",
+      "INDONESIAN": "Jadi—kita lakuin yang sebaliknya.",
+      "PORTUGUESE": "Então, a gente vai fazer o contrário.",
+      "SPANISH": "Así que haremos lo contrario.",
+      "PERSIAN": "بنابراین - ما برعکس عمل می کنیم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "역발상인 거죠. ",
+      "ENGLISH": "We flip the script.",
+      "CHINESE_SIMPLIFIED": "就是逆向思维",
+      "CHINESE_TRADITIONAL": "就是逆向思考啦",
+      "JAPANESE": "逆転の発想です",
+      "INDONESIAN": "Kita balik skenarionya.",
+      "PORTUGUESE": "Um movimento inesperado.",
+      "SPANISH": "Un movimiento inesperado.",
+      "PERSIAN": "فیلمنامه را ورق می زنیم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저들의 생각과 반대로 움직여서 틈이 생겼을 때 그때 제가 나서겠습니다.",
+      "ENGLISH": "We move against their expectations, and when there’s an opening, I’ll make my move.",
+      "CHINESE_SIMPLIFIED": "和他们的预判反着来，等出现空档时我再出手",
+      "CHINESE_TRADITIONAL": "趁他們想法和我們相反，出現空檔時我就出手",
+      "JAPANESE": "やつらの意表を突いて、隙ができた瞬間に俺が出ます",
+      "INDONESIAN": "Kita gerak lawan ekspektasi mereka, dan pas ada celah, aku bakal ambil tindakan.",
+      "PORTUGUESE": "Vamos nos mover na direção oposta ao que eles esperam, e quando surgir uma chance, eu ajo.",
+      "SPANISH": "Nos moveremos en dirección contraria a lo que ellos esperan, y cuando haya una oportunidad, yo actuaré.",
+      "PERSIAN": "ما برخلاف انتظار اون‌ها حرکت می‌کنیم، و زمانی که باز شود، حرکتم را انجام خواهم داد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "What...?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "はいっ!?",
+      "INDONESIAN": "Apa...??",
+      "PORTUGUESE": "Ah?",
+      "SPANISH": "¿Ah?",
+      "PERSIAN": "چی...؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 공격! 이얏!!",
+      "ENGLISH": "Alright—attack! Hyaaah!!",
+      "CHINESE_SIMPLIFIED": "好，进攻！咿呀！！",
+      "CHINESE_TRADITIONAL": "好了，攻擊！咿呀！！",
+      "JAPANESE": "よし、攻撃！ いっけぇーっ！",
+      "INDONESIAN": "Oke—serang! Hyaaah!!",
+      "PORTUGUESE": "Vamos, atacar! Iyaa!",
+      "SPANISH": "¡Vamos, al ataque! ¡Iyaa!",
+      "PERSIAN": "خوب - حمله کن! هیاااا!!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "에헤~ 당황했지?? 당황했지??",
+      "ENGLISH": "Heh~ You didn’t see that coming, huh? You’re panicking, right??",
+      "CHINESE_SIMPLIFIED": "诶嘿~慌了吧？？慌了吧？？",
+      "CHINESE_TRADITIONAL": "嘿嘿～嚇到了吧？嚇到了吧？",
+      "JAPANESE": "へへ〜！ 驚いた？ 驚いたでしょ！？",
+      "INDONESIAN": "Heh~ Nggak nyangka, ya? Panik, kan??",
+      "PORTUGUESE": "Hein~! Se assustou, né? Não tava esperando por essa.",
+      "SPANISH": "¡Eh~! ¿Te sorprendiste, verdad? no te lo esperabas.",
+      "PERSIAN": "هه~ تو ندیدی که میاد، ها؟ شما وحشت زده اید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "야 던져봐 던져봐!!",
+      "ENGLISH": "Come on, throw something! I dare you!",
+      "CHINESE_SIMPLIFIED": "喂你扔啊！扔啊！！",
+      "CHINESE_TRADITIONAL": "喂，扔啊，快扔啊！",
+      "JAPANESE": "ほら投げてみろ！ 投げてみろって！",
+      "INDONESIAN": "Ayo, lempar kalau berani! Tantangin aku!",
+      "PORTUGUESE": "Vamos, joga, joga!",
+      "SPANISH": "¡Vamos, lánzalo, lánzalo!",
+      "PERSIAN": "بیا یه چیزی پرت کن من به شما جرات می کنم!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "야..던져..던..어?!",
+      "ENGLISH": "Go on, throw—thro—wait, wha...?",
+      "CHINESE_SIMPLIFIED": "喂..扔啊..扔...呃？！",
+      "CHINESE_TRADITIONAL": "喂…扔啊…扔…呃？！",
+      "JAPANESE": "や、投げ…投…あっ!?",
+      "INDONESIAN": "Ayo, lempar—lempar—eh, bentar... apa...??",
+      "PORTUGUESE": "Vamos... jo... ja... hã?!",
+      "SPANISH": "Vamos... lánza... lan... ¿eh?!",
+      "PERSIAN": "برو، پرتاب کن، صبر کن، که...؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 23.6
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님! ",
+      "ENGLISH": "Min-jung!",
+      "CHINESE_SIMPLIFIED": "敏静！",
+      "CHINESE_TRADITIONAL": "敏靜！",
+      "JAPANESE": "ミンジョンさん！",
+      "INDONESIAN": "Min-jung!",
+      "PORTUGUESE": "Minjung!",
+      "SPANISH": "¡Minjung!",
+      "PERSIAN": "مین‌جونگ!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 25.2
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님! 거기서 울면 어떡해요..!",
+      "ENGLISH": "Min-jung, why are you crying right now?!",
+      "CHINESE_SIMPLIFIED": "敏静！不能在那儿哭啊...！",
+      "CHINESE_TRADITIONAL": "敏靜！你光顧著哭的話怎麼辦...！",
+      "JAPANESE": "ミンジョンさん!? そこで泣いたらダメですよ！",
+      "INDONESIAN": "Min-jung, kenapa kamu malah nangis sekarang?!",
+      "PORTUGUESE": "Minjung! Não chora!",
+      "SPANISH": "¡Minjung! ¡No llores!",
+      "PERSIAN": "مین‌جونگ چرا الان گریه میکنی؟!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 민정 님! 거기서 울면 어떡해요..!\n- 아이 이 사람이 진짜 ",
+      "ENGLISH": "— Min-jung, come on, you can't start crying now!\n— Oh come on, seriously?!",
+      "CHINESE_SIMPLIFIED": "-敏静！不能在那儿哭啊...！\n-哎呀，这人真是...",
+      "CHINESE_TRADITIONAL": "-敏靜！敏靜！你光顧著哭的話怎麼辦...！\n-欸！這個人真的是...",
+      "JAPANESE": "‐ミンジョンさん！そこで泣いたらどうするんですか..!\n‐まったく、この人はほんとに…",
+      "INDONESIAN": "— Min-jung, ayo dong, jangan nangis sekarang!\n— Ya ampun, seriusan?!",
+      "PORTUGUESE": "—Minjung! Não chora!\n—Ai, esse cara, de verdade…",
+      "SPANISH": "—¡Minjung! ¡No llores!\n—Ay, este tipo de verdad…",
+      "PERSIAN": "- مین‌جونگ، بیا، حالا نمی توانی گریه کنی! - اوه بیا، جدی؟!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "선 넘네 진짜 ",
+      "ENGLISH": "That’s too far. ",
+      "CHINESE_SIMPLIFIED": "太过分了，真是",
+      "CHINESE_TRADITIONAL": "哎呀，這人真的是太過分了",
+      "JAPANESE": "線超えてるなマジで",
+      "INDONESIAN": "Udah kelewatan.",
+      "PORTUGUESE": "Passou dos limites…",
+      "SPANISH": "Se pasó de la raya…",
+      "PERSIAN": "این خیلی دور است."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 29.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 너무하네 진짜..",
+      "ENGLISH": "Seriously, that’s messed up.",
+      "CHINESE_SIMPLIFIED": "真是太欺负人了...",
+      "CHINESE_TRADITIONAL": "也太扯了吧！",
+      "JAPANESE": "ひどいな、本当に…",
+      "INDONESIAN": "Serius, itu jahat banget.",
+      "PORTUGUESE": "Ah, sério, que malvado…",
+      "SPANISH": "Ah, en serio, qué malo…",
+      "PERSIAN": "به طور جدی، این بهم ریخته است."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 29.9
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "没事吧？",
+      "CHINESE_TRADITIONAL": "你沒事吧？",
+      "JAPANESE": "大丈夫？",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Você tá bem?",
+      "SPANISH": "¿Estás bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮으세요?",
+      "ENGLISH": "Are you hurt?",
+      "CHINESE_SIMPLIFIED": "您没事吧？",
+      "CHINESE_TRADITIONAL": "還好嗎？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu luka?",
+      "PORTUGUESE": "Tá se sentindo bem?",
+      "SPANISH": "¿Se encuentra bien?",
+      "PERSIAN": "شما صدمه دیده اید؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 32.5
+    },
+    "SCRIPT": {
+      "KOREAN": "많이 놀라셨죠? ",
+      "ENGLISH": "That must’ve scared you...",
+      "CHINESE_SIMPLIFIED": "吓坏了吧？",
+      "CHINESE_TRADITIONAL": "嚇到了吧？ ",
+      "JAPANESE": "驚いたでしょ…？",
+      "INDONESIAN": "Pasti kamu kaget banget ya...",
+      "PORTUGUESE": "Se assustou muito?",
+      "SPANISH": "¿Se asustó mucho?",
+      "PERSIAN": "این باید شما را ترسانده باشد ..."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "남자도 아니야 ",
+      "ENGLISH": "You call yourself a man? Please.",
+      "CHINESE_SIMPLIFIED": "真不是个男人",
+      "CHINESE_TRADITIONAL": "算什麼男人啊！",
+      "JAPANESE": "男でもねぇな",
+      "INDONESIAN": "Ngaku-ngaku cowok? Malu-maluin.",
+      "PORTUGUESE": "Nem parece um homem…",
+      "SPANISH": "Ni siquiera parece un hombre…",
+      "PERSIAN": "به خودت میگی مرد؟ لطفا"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 35.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진정하세요",
+      "ENGLISH": "Sir, calm down—",
+      "CHINESE_SIMPLIFIED": "啊，请冷静一下",
+      "CHINESE_TRADITIONAL": "先冷靜一下",
+      "JAPANESE": "あ、落ち着いてください",
+      "INDONESIAN": "Pak, tolong tenang dulu—",
+      "PORTUGUESE": "Ah, calma.",
+      "SPANISH": "Ah, cálmate.",
+      "PERSIAN": "آقا آرام باش -"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 35.6,
+      "HIDE": 36.7
+    },
+    "SCRIPT": {
+      "KOREAN": "가시죠 가시죠",
+      "ENGLISH": "Let’s go, let’s go",
+      "CHINESE_SIMPLIFIED": "我们走吧，走吧",
+      "CHINESE_TRADITIONAL": "我們走吧！走吧！ ",
+      "JAPANESE": "行きましょう行きましょう",
+      "INDONESIAN": "Ayo, kita pergi",
+      "PORTUGUESE": "Vamos, vamos embora.",
+      "SPANISH": "Vamos, vámonos.",
+      "PERSIAN": "بیا بریم، بیا بریم"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 37.7,
+      "HIDE": 38.4
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님!",
+      "ENGLISH": "Min-jung!",
+      "CHINESE_SIMPLIFIED": "敏静！",
+      "CHINESE_TRADITIONAL": "敏靜！",
+      "JAPANESE": "ミンジョンさん！",
+      "INDONESIAN": "Min-jung!",
+      "PORTUGUESE": "Minjung!",
+      "SPANISH": "¡Minjung!",
+      "PERSIAN": "مین‌جونگ!"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 39.2,
+      "HIDE": 39.9
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님?",
+      "ENGLISH": "Min-jung??",
+      "CHINESE_SIMPLIFIED": "敏静？",
+      "CHINESE_TRADITIONAL": "敏靜？",
+      "JAPANESE": "ミンジョンさん？",
+      "INDONESIAN": "Min-jung??",
+      "PORTUGUESE": "Minjung?",
+      "SPANISH": "¿Minjung?",
+      "PERSIAN": "مین‌جونگ؟؟"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 40.4,
+      "HIDE": 41.6
+    },
+    "SCRIPT": {
+      "KOREAN": "- 남자도 아니야\n- 민정 님!!",
+      "ENGLISH": "— You call yourself a man?\n— Min-jung!!",
+      "CHINESE_SIMPLIFIED": "-真不是个男人\n-敏静！！",
+      "CHINESE_TRADITIONAL": "-算什麼男人啊！\n-敏靜！！",
+      "JAPANESE": "‐男でもねぇな\n‐ミンジョンさん！！",
+      "INDONESIAN": "— Ngaku-ngaku cowok?\n— Min-jung!!",
+      "PORTUGUESE": "—Nem parece um homem.\n—Minjung!!",
+      "SPANISH": "—Ni siquiera parece un hombre.\n—¡Minjung!!",
+      "PERSIAN": "- تو به خودت میگی مرد؟ - مین‌جونگ!!"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 42.2,
+      "HIDE": 42.7
+    },
+    "SCRIPT": {
+      "KOREAN": "에??",
+      "ENGLISH": "Huh??",
+      "CHINESE_SIMPLIFIED": "呃？？",
+      "CHINESE_TRADITIONAL": "欸？？",
+      "JAPANESE": "えっ!?",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Hã??",
+      "SPANISH": "¿Eh??",
+      "PERSIAN": "ها؟؟"
+    }
+  }
+]

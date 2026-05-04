@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너 진짜 보드 안 탈 거야?",
+      "ENGLISH": "Are you really not gonna skateboard?",
+      "CHINESE_SIMPLIFIED": "你真的不打算玩滑板吗？",
+      "CHINESE_TRADITIONAL": "你真的不要滑滑板嗎？",
+      "JAPANESE": "本当にボード乗らないの?",
+      "INDONESIAN": "Apakah kamu benar-benar tidak akan bermain papan luncur salju?",
+      "PORTUGUESE": "Você realmente não vai subir no skate?",
+      "SPANISH": "¿De verdad no vas a subirte a la tabla?",
+      "PERSIAN": "واقعا نمی خواهید اسکیت بورد کنید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 나 보드 탈 줄 모른다고..",
+      "ENGLISH": "I told you—I don’t know how.",
+      "CHINESE_SIMPLIFIED": "我都说了不会玩滑板...",
+      "CHINESE_TRADITIONAL": "啊，我都說了我不會滑啊…",
+      "JAPANESE": "ああ 俺 ボードの乗ったことないって…",
+      "INDONESIAN": "Sudah kubilang—aku tidak tahu caranya.",
+      "PORTUGUESE": "Eu te disse que não sei andar de skate...",
+      "SPANISH": "Te dije que no sé andar en patineta…",
+      "PERSIAN": "من به شما گفتم - نمی دانم چگونه."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 뭐 할 건데?",
+      "ENGLISH": "Then what are you gonna do?",
+      "CHINESE_SIMPLIFIED": "那你要干嘛？",
+      "CHINESE_TRADITIONAL": "那你要幹嘛？",
+      "JAPANESE": "じゃあ 何するつもり?",
+      "INDONESIAN": "Lalu apa yang akan kamu lakukan?",
+      "PORTUGUESE": "Então, o que vai fazer?",
+      "SPANISH": "Entonces, ¿qué vas a hacer?",
+      "PERSIAN": "بعد میخوای چیکار کنی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 하긴. 너 타는 거 봐야지.",
+      "ENGLISH": "What else? I’m gonna watch you.",
+      "CHINESE_SIMPLIFIED": "能干嘛，当然得盯着你玩啊",
+      "CHINESE_TRADITIONAL": "沒幹嘛，就看著你滑",
+      "JAPANESE": "何って お前が滑るの見てるよ",
+      "INDONESIAN": "Apa lagi? Aku akan mengawasimu.",
+      "PORTUGUESE": "Vou te observar enquanto você anda.",
+      "SPANISH": "Pues mirarte mientras tú patinas.",
+      "PERSIAN": "دیگه چی؟ من تو را تماشا خواهم کرد"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너 또 언제 넘어질지 모르잖아.",
+      "ENGLISH": "You never know when you’ll fall out again.",
+      "CHINESE_SIMPLIFIED": "谁知道你什么时候又会摔倒",
+      "CHINESE_TRADITIONAL": "也不知道你什麼時候又會摔倒",
+      "JAPANESE": "またいつ転ぶかわかんないし",
+      "INDONESIAN": "Kita ngga tahu kapan kamu bakalan jatuh.",
+      "PORTUGUESE": "Nunca se sabe quando vai cair de novo.",
+      "SPANISH": "Nunca se sabe cuándo te vas a caer otra vez.",
+      "PERSIAN": "شما هرگز نمی دانید که چه زمانی دوباره زمین خواهید خورد."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래라 그럼",
+      "ENGLISH": "Suit yourself.",
+      "CHINESE_SIMPLIFIED": "行吧随你",
+      "CHINESE_TRADITIONAL": "隨便你吧",
+      "JAPANESE": "ふん じゃあ勝手に見てな",
+      "INDONESIAN": "Terserah kamu.",
+      "PORTUGUESE": "Tá bom, faz o que quiser.",
+      "SPANISH": "Está bien, haz lo que quieras.",
+      "PERSIAN": "مناسب خودت"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 어디가.",
+      "ENGLISH": "Hey! Where are you going?",
+      "CHINESE_SIMPLIFIED": "喂，你去哪儿？",
+      "CHINESE_TRADITIONAL": "喂，你去哪裡",
+      "JAPANESE": "おい どこ行くんだよ",
+      "INDONESIAN": "Hei—kamu mau pergi ke mana?",
+      "PORTUGUESE": "Ei, pra onde você vai?",
+      "SPANISH": "Oye, ¿a dónde vas?",
+      "PERSIAN": "سلام! کجا میری؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "보호 장구 껴야지.",
+      "ENGLISH": "You need your gear on.",
+      "CHINESE_SIMPLIFIED": "得先把护具戴上啊",
+      "CHINESE_TRADITIONAL": "把護具戴上啊",
+      "JAPANESE": "プロテクターつけろって",
+      "INDONESIAN": "Anda perlu memakai perlengkapan Anda.",
+      "PORTUGUESE": "Coloca o equipamento de proteção.",
+      "SPANISH": "Ponte el equipo de protección.",
+      "PERSIAN": "به وسایلت نیاز داری"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "허, 귀찮은데...",
+      "ENGLISH": "Ugh, such a hassle...",
+      "CHINESE_SIMPLIFIED": "哎，好麻烦...",
+      "CHINESE_TRADITIONAL": "喔，好麻煩…",
+      "JAPANESE": "はぁ めんどくさいなぁ…",
+      "INDONESIAN": "Ih, repot banget...",
+      "PORTUGUESE": "Ugh, que chato...",
+      "SPANISH": "Ugh, qué fastidio…",
+      "PERSIAN": "عجب دردسری..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야.. 너 이제 열아홉 고딩아니고 이제 스물 아홉이야. ",
+      "ENGLISH": "Hey, you’re not 19 anymore—you’re 29.",
+      "CHINESE_SIMPLIFIED": "喂...你现在又不是十九岁高中生，都是二十九岁的人了",
+      "CHINESE_TRADITIONAL": "喂…你不是十九歲的高中生了，都已經二十九歲了耶",
+      "JAPANESE": "おい お前もう十九の高校生じゃなくて二十九だぞ",
+      "INDONESIAN": "Hei, kamu bukan lagi 19 tahun—kamu 29 tahun.",
+      "PORTUGUESE": "Ei... a gente já não tem mais 19 anos, tem 29 agora.",
+      "SPANISH": "Oye… ya no somos estudiantes de 19, tenemos 29 años ya.",
+      "PERSIAN": "سلام، شما دیگر 19 ساله نیستید - شما 29 ساله هستید."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 넘어지면 뼈도 안 붙고 오래 걸린다고",
+      "ENGLISH": "If you fall now, your bones won’t heal fast.",
+      "CHINESE_SIMPLIFIED": "现在要是摔了，可就不是几天能好的事儿了",
+      "CHINESE_TRADITIONAL": "如果摔倒，骨頭長超慢就算了，搞不好還不會癒合",
+      "JAPANESE": "今転んだら 骨くっつくのも時間かかるんだからな",
+      "INDONESIAN": "Jika kamu jatuh sekarang, tulangmu tidak akan pulih dengan cepat.",
+      "PORTUGUESE": "Se cair, o osso não cola direito e demora uma eternidade pra sarar.",
+      "SPANISH": "Si te caes ahora, el hueso no se pega bien y tardas siglos en recuperarte.",
+      "PERSIAN": "اگر الان زمین بخورید، استخوان‌هایتان به سرعت خوب نمی‌شن."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 알겠어 그럼",
+      "ENGLISH": "Ugh... fine, okay.",
+      "CHINESE_SIMPLIFIED": "行...知道了",
+      "CHINESE_TRADITIONAL": "喔…我知道了啦",
+      "JAPANESE": "はいはい わかりましたよ",
+      "INDONESIAN": "Ugh... baiklah, oke.",
+      "PORTUGUESE": "Ha... tá bom, tá bom, já tô colocando.",
+      "SPANISH": "Ha… está bien, ya, me lo pongo.",
+      "PERSIAN": "اوه... باشه، باشه."
+    }
+  }
+]

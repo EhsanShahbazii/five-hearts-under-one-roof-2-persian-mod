@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 솔로 데뷔 때문에 하숙집 나갔을 때 ",
+      "ENGLISH": "When you left the boarding house to go solo...",
+      "CHINESE_SIMPLIFIED": "当初你因为solo出道搬出合租公寓的时候",
+      "CHINESE_TRADITIONAL": "敏靜你當時為了出道搬出公寓的時候",
+      "JAPANESE": "ミンジョンさんがソロデビューのために下宿を出て行ったとき",
+      "INDONESIAN": "Ketika kamu meninggalkan rumah kos untuk pergi sendiri...",
+      "PORTUGUESE": "Quando você saiu da pensão por causa da estreia como solista…",
+      "SPANISH": "Cuando te fuiste de la casa de huéspedes por tu debut como solista…",
+      "PERSIAN": "وقتی پانسیون را برای رفتن به تنهایی ترک کردی..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": " 저 사실 가지 말라고 하고 싶었거든요...",
+      "ENGLISH": "Honestly, I wanted to ask you not to go.",
+      "CHINESE_SIMPLIFIED": "其实我很想开口挽留你的...",
+      "CHINESE_TRADITIONAL": "其實我真的很想跟你說不要走…",
+      "JAPANESE": "実は、行かないでほしいって言いたかったんです",
+      "INDONESIAN": "Sejujurnya, aku ingin memintamu untuk tidak pergi.",
+      "PORTUGUESE": "pra falar a verdade, eu queria te pedir pra não ir.",
+      "SPANISH": "la verdad, quería pedirte que no te fueras.",
+      "PERSIAN": "راستش میخواستم خواهش کنم نرو."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんとに？",
+      "INDONESIAN": "Benar-benar?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿En serio?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 집에서 민정 님이 많이 행복해 보여서 그냥 계속 같이 있고 싶었어요.",
+      "ENGLISH": "You just looked so happy living there... I just wanted to keep being around you.",
+      "CHINESE_SIMPLIFIED": "因为你在我们家的时候看起来特别幸福，就想一直这样一起生活下去",
+      "CHINESE_TRADITIONAL": "你在我們家時，看起來真的很幸福而想要一起繼續生活下去",
+      "JAPANESE": "うちにいるときのミンジョンさん、すごく幸せそうだったから ただ、ずっと一緒にいたかったんです",
+      "INDONESIAN": "Kamu terlihat begitu bahagia tinggal di sana... Aku hanya ingin terus berada di dekatmu.",
+      "PORTUGUESE": "Sim… você parecia tão feliz morando com a gente, que eu só queria continuar te tendo por perto.",
+      "SPANISH": "Sí… te veías tan feliz viviendo con nosotros, que solo quería seguir teniéndote cerca.",
+      "PERSIAN": "از زندگی در آنجا خیلی خوشحال به نظر می رسید... من فقط می خواستم در کنار شما باشم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그니까... 나 그럼 이참에 가수 관둘까요?",
+      "ENGLISH": "So... should I just quit being a singer then?",
+      "CHINESE_SIMPLIFIED": "那...我要不要趁这个机会不当歌手了？",
+      "CHINESE_TRADITIONAL": "那我乾脆趁這個機會不當歌手好了？",
+      "JAPANESE": "じゃあ…この機会に歌手やめちゃおうかな？",
+      "INDONESIAN": "Jadi... haruskah aku berhenti menjadi penyanyi saja?",
+      "PORTUGUESE": "Então... e se eu deixar de ser cantora?",
+      "SPANISH": "Entonces... ¿y si dejo de ser cantante?",
+      "PERSIAN": "پس...باید از خواننده بودن دست بردارم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니요. 관두지 마요.",
+      "ENGLISH": "No. Don’t quit.",
+      "CHINESE_SIMPLIFIED": "不行，别放弃",
+      "CHINESE_TRADITIONAL": "不，不要。千萬別放棄",
+      "JAPANESE": "ダメです やめないでください",
+      "INDONESIAN": "Tidak. Jangan menyerah.",
+      "PORTUGUESE": "Não. Não faz isso.",
+      "SPANISH": "No. No lo hagas.",
+      "PERSIAN": "نه. دست نکش."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이번에 민정 님 콘서트 보고 생각이 달라졌거든요.",
+      "ENGLISH": "After seeing your concert, I changed my mind.",
+      "CHINESE_SIMPLIFIED": "这次看了敏静的演唱会，我的想法改变了",
+      "CHINESE_TRADITIONAL": "看了你的演唱會之後，我改變想法了",
+      "JAPANESE": "今回のコンサートを見て、気持ちが変わったんです",
+      "INDONESIAN": "Setelah menonton konser kamu, aku berubah pikiran.",
+      "PORTUGUESE": "Depois de te ver no seu show, eu mudei de ideia.",
+      "SPANISH": "Después de verte en tu concierto, cambié de opinión.",
+      "PERSIAN": "بعد از دیدن کنسرت نظرم عوض شد."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": " 민정 님은 무대 위에 있을 때가 하숙 때보다 적어도 100배는 더 즐거워 보였어요.",
+      "ENGLISH": "You looked at least a hundred times happier on stage than you ever did at the guesthouse.",
+      "CHINESE_SIMPLIFIED": "你在舞台上的样子，比合租时看起来快乐百倍不止",
+      "CHINESE_TRADITIONAL": "看到你在舞台上的樣子，比住在公寓時至少快樂一百倍",
+      "JAPANESE": "ミンジョンさんは、ステージの上にいるときのほうが下宿にいたときより少なくとも100倍は楽しそうでした",
+      "INDONESIAN": "Kamu tampak setidaknya seratus kali lebih bahagia di atas panggung daripada saat kamu berada di wisma tamu.",
+      "PORTUGUESE": "No palco, você parece pelo menos cem vezes mais feliz do que quando morava na casa.",
+      "SPANISH": "En el escenario te ves, al menos, cien veces más feliz que cuando vivías en la casa.",
+      "PERSIAN": "روی صحنه حداقل صد برابر شادتر از همیشه در مهمانخانه به نظر می رسید."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠...",
+      "ENGLISH": "Oppa...",
+      "CHINESE_SIMPLIFIED": "哥哥...",
+      "CHINESE_TRADITIONAL": "哥哥…",
+      "JAPANESE": "お兄さん…",
+      "INDONESIAN": "Oppa...",
+      "PORTUGUESE": "Oppa…",
+      "SPANISH": "Oppa…",
+      "PERSIAN": "یومان..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로도 힘든 일도 없진 않겠지만…",
+      "ENGLISH": "I know it won’t always be easy...",
+      "CHINESE_SIMPLIFIED": "虽然以后可能还会遇到困难...",
+      "CHINESE_TRADITIONAL": "以後也還是有辛苦的時候",
+      "JAPANESE": "これからも大変なことはあると思うけど…",
+      "INDONESIAN": "Aku tahu itu tidak akan selalu mudah...",
+      "PORTUGUESE": "Eu sei que ainda vão vir momentos difíceis…",
+      "SPANISH": "Sé que seguirán viniendo momentos difíciles…",
+      "PERSIAN": "می دانم که همیشه آسان نخواهد بود..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 35.5
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님은 가수를 해야 행복할 것 같다는 생각이 들어요",
+      "ENGLISH": "But I really think being a singer is what makes you truly happy.",
+      "CHINESE_SIMPLIFIED": "但我觉得敏静只有继续唱歌才会真正幸福",
+      "CHINESE_TRADITIONAL": "但我覺得你當歌手時，才是最幸福的",
+      "JAPANESE": "やっぱりミンジョンさんは歌ってるときが一番幸せだと思います",
+      "INDONESIAN": "Tapi menurutku, menjadi penyanyilah yang membuatmu benar-benar bahagia.",
+      "PORTUGUESE": "mas sinto que só sendo cantora você vai conseguir ser realmente feliz.",
+      "SPANISH": "pero siento que solo siendo cantante vas a poder ser realmente feliz.",
+      "PERSIAN": "اما من واقعاً فکر می کنم خواننده بودن چیزی است که شما را واقعاً خوشحال می کند."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 37.6
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠어요...",
+      "ENGLISH": "Okay...",
+      "CHINESE_SIMPLIFIED": "知道啦...",
+      "CHINESE_TRADITIONAL": "我知道了…",
+      "JAPANESE": "わかりました…",
+      "INDONESIAN": "Oke...",
+      "PORTUGUESE": "Tudo bem...",
+      "SPANISH": "Está bien...",
+      "PERSIAN": "باشه..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 37.7,
+      "HIDE": 40.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나 그러면 화이팅 해볼게요!",
+      "ENGLISH": "Then I’ll give it everything I’ve got. Let’s go!",
+      "CHINESE_SIMPLIFIED": "那我会加油的！",
+      "CHINESE_TRADITIONAL": "我會努力加油試！",
+      "JAPANESE": "じゃあ、私 もう一度頑張ってみますね！",
+      "INDONESIAN": "Kalau begitu, aku akan mengerahkan segenap kemampuanku. Ayo!",
+      "PORTUGUESE": "Então vou continuar me esforçando. Vou dar o meu melhor!",
+      "SPANISH": "Entonces voy a seguir esforzándome. ¡Haré mi mejor esfuerzo!",
+      "PERSIAN": "سپس هر چه دارم به اون خواهم داد. برویم!"
+    }
+  }
+]

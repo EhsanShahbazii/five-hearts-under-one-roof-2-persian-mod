@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "근데... 그때 그 에이전시 대표님 기억나?",
+      "ENGLISH": "But… do you remember the director from that agency back then?",
+      "CHINESE_SIMPLIFIED": "不过...你还记得那位公司代表吗？",
+      "CHINESE_TRADITIONAL": "不過...你還記得當時那位經紀公司的代表嗎？",
+      "JAPANESE": "でも…あのエージェンシーの代表、覚えてる？",
+      "INDONESIAN": "Tapi… kamu masih inget nggak sama direktur dari agensi yang waktu itu?",
+      "PORTUGUESE": "Mas… você se lembra do diretor da agência daquela vez?",
+      "SPANISH": "Pero… ¿te acuerdas del director de la agencia de aquella vez?",
+      "PERSIAN": "اما... مدیر اون آژانس را به خاطر دارید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "기억나지. 어우 그때 내가 실수한 거만 생각하면",
+      "ENGLISH": "Of course I do. Ugh, every time I think about the mistake I made…",
+      "CHINESE_SIMPLIFIED": "当然记得啊，哎，一想起我当时的误会",
+      "CHINESE_TRADITIONAL": "當然記得啊。唉，一想到我當時的誤會",
+      "JAPANESE": "覚えてるよ、あのとき俺が勘違いしたのは",
+      "INDONESIAN": "Ya jelas inget. Ugh, tiap kali inget kesalahan aku waktu itu…",
+      "PORTUGUESE": "Claro que lembro.",
+      "SPANISH": "Claro que me acuerdo.",
+      "PERSIAN": "البته من دارم. اوه، هر بار که به اشتباهی که مرتکب شدم فکر می کنم…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 미안하네...",
+      "ENGLISH": "I still feel so sorry…",
+      "CHINESE_SIMPLIFIED": "就特别过意不去...",
+      "CHINESE_TRADITIONAL": "就感到特別抱歉...",
+      "JAPANESE": "本当に悪かった",
+      "INDONESIAN": "Aku masih ngerasa bersalah banget…",
+      "PORTUGUESE": "Uff, só de pensar no que eu fiz aquele dia… ainda morro de vergonha.",
+      "SPANISH": "Uf, solo de pensar en lo que hice ese día… todavía me da pena.",
+      "PERSIAN": "هنوز خیلی متاسفم…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그때 그 대표님이 모델로 제대로 성공하려면",
+      "ENGLISH": "They said that if I want to really succeed as a model,",
+      "CHINESE_SIMPLIFIED": "那位代表说要想在模特界真正成功",
+      "CHINESE_TRADITIONAL": "那位代表說，如果想作為一名真正成功的模特兒",
+      "JAPANESE": "その人が言ってたでしょ？モデルとして成功するには",
+      "INDONESIAN": "Mereka bilang, kalau aku bener-bener mau sukses jadi model,",
+      "PORTUGUESE": "Pois é, ele disse que, se eu realmente quiser ter sucesso como modelo,",
+      "SPANISH": "Pues él dijo que, si de verdad quiero triunfar como modelo,",
+      "PERSIAN": "اونا گفتند که اگر می خواهم واقعاً به عنوان یک مدل موفق شوم،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "연애도 안 되고 남사친도 두면 안 된다는데",
+      "ENGLISH": "I can’t date — and I can’t even have guy friends.",
+      "CHINESE_SIMPLIFIED": "就不能谈恋爱，连异性朋友都不能有",
+      "CHINESE_TRADITIONAL": "就不能談戀愛，連異性朋友也不能擁有",
+      "JAPANESE": "恋愛もしちゃダメ、男友達も作っちゃダメってだって",
+      "INDONESIAN": "aku nggak boleh pacaran — bahkan nggak boleh punya teman cowok.",
+      "PORTUGUESE": "não posso ter namorado nem amigos homens.",
+      "SPANISH": "no puedo tener novio ni amigos hombres.",
+      "PERSIAN": "من نمی توانم قرار بگذارم - و حتی نمی توانم دوستان پسر داشته باشم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게 생각해?",
+      "ENGLISH": "What do you think about that?",
+      "CHINESE_SIMPLIFIED": "你觉得呢？",
+      "CHINESE_TRADITIONAL": "你覺得呢？",
+      "JAPANESE": "どう思う？",
+      "INDONESIAN": "Menurut kamu gimana?",
+      "PORTUGUESE": "O que você acha disso?",
+      "SPANISH": "¿Qué piensas de eso?",
+      "PERSIAN": "نظر شما در مورد اون چیه؟"
+    }
+  }
+]

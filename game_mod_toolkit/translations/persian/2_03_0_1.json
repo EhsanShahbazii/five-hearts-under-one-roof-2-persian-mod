@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히 외모만 보면 말숙이지.",
+      "ENGLISH": "If we’re just talking looks... Mal-sook’s the winner.",
+      "CHINESE_SIMPLIFIED": "老实说，单论长相的话还是末淑啊",
+      "CHINESE_TRADITIONAL": "老實說，光看外表的話，當然是末淑啊",
+      "JAPANESE": "正直 外見だけならマルスクだよな",
+      "INDONESIAN": "Kalau cuma ngomongin penampilan... Mal-sook yang menang.",
+      "PORTUGUESE": "Se for só pela aparência, a Mal-sook é mais bonita.",
+      "SPANISH": "Si solo hablamos del físico, Malsuk es más bonita.",
+      "PERSIAN": "اگر فقط به ظاهر صحبت می کنیم... مال‌سوک برنده است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "진심이에요?",
+      "ENGLISH": "Are you serious?!",
+      "CHINESE_SIMPLIFIED": "你是认真的吗？",
+      "CHINESE_TRADITIONAL": "你是認真的吧？",
+      "JAPANESE": "本気で言ってるんですか?",
+      "INDONESIAN": "Seriusan?!",
+      "PORTUGUESE": "Você tá falando sério?",
+      "SPANISH": "¿Lo dices en serio?",
+      "PERSIAN": "جدی میگی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "못 들었어요? ",
+      "ENGLISH": "Did you hear that?",
+      "CHINESE_SIMPLIFIED": "没听见吗？",
+      "CHINESE_TRADITIONAL": "沒聽到嗎？",
+      "JAPANESE": "聞こえなかった?",
+      "INDONESIAN": "Dengar nggak tuh?",
+      "PORTUGUESE": "Não ouviu?",
+      "SPANISH": "¿No escuchaste?",
+      "PERSIAN": "شنیدی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 제일 예쁘다잖아요.",
+      "ENGLISH": "He said I’m the prettiest.",
+      "CHINESE_SIMPLIFIED": "都说了我最漂亮好不好",
+      "CHINESE_TRADITIONAL": "我都說我是最漂亮的了",
+      "JAPANESE": "私が一番綺麗って言ったじゃん",
+      "INDONESIAN": "Dia bilang aku yang paling cantik.",
+      "PORTUGUESE": "Ele disse que eu sou a mais bonita.",
+      "SPANISH": "Dijo que yo soy la más bonita.",
+      "PERSIAN": "گفت من زیباترینم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하.. 진짜 이해가 안 가네.",
+      "ENGLISH": "Ugh... I don’t get it.",
+      "CHINESE_SIMPLIFIED": "哈...真是搞不懂你们",
+      "CHINESE_TRADITIONAL": "哈…真的搞不懂你耶",
+      "JAPANESE": "はぁ…ほんと理解できない",
+      "INDONESIAN": "Ugh... aku nggak ngerti deh.",
+      "PORTUGUESE": "Ha... eu realmente não entendo.",
+      "SPANISH": "Ja… de verdad que no lo entiendo.",
+      "PERSIAN": "اوه... متوجه نشدم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 잠깐만. ",
+      "ENGLISH": "Wait, hold up.",
+      "CHINESE_SIMPLIFIED": "喂，等等",
+      "CHINESE_TRADITIONAL": "給我等一下",
+      "JAPANESE": "でもちょっと待って",
+      "INDONESIAN": "Tunggu, bentar.",
+      "PORTUGUESE": "Um momento...",
+      "SPANISH": "Un momento...",
+      "PERSIAN": "صبر کن صبر کن"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "외모'만'이라니?",
+      "ENGLISH": "“Just” looks?",
+      "CHINESE_SIMPLIFIED": "什么叫\"只\"看长相？",
+      "CHINESE_TRADITIONAL": "什麼叫「只」看外表？",
+      "JAPANESE": "外見“だけ”って何?",
+      "INDONESIAN": "Cuma penampilan?",
+      "PORTUGUESE": "Como assim “só pela aparência”?",
+      "SPANISH": "¿Cómo que \"solo en el físico\"?",
+      "PERSIAN": "\"فقط\" به نظر می رسد؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "呃？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "외모 빼고 다 별로라는 거야?",
+      "ENGLISH": "So everything but my looks sucks?",
+      "CHINESE_SIMPLIFIED": "意思是除了长相其他都不怎么样？",
+      "CHINESE_TRADITIONAL": "意思是，除了外表其他都不怎麼樣嗎？",
+      "JAPANESE": "外見以外は全部ダメってこと?",
+      "INDONESIAN": "Jadi selain penampilanku, semuanya jelek gitu?!",
+      "PORTUGUESE": "Tá dizendo que, tirando isso, todo o resto em mim é ruim?",
+      "SPANISH": "¿Estás diciendo que, aparte de eso, todo lo demás en mí es malo?",
+      "PERSIAN": "پس همه چیز به جز قیافه من بد است؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니..그런 게 아니야",
+      "ENGLISH": "No, no! That’s not what I meant!",
+      "CHINESE_SIMPLIFIED": "不是...不是那个意思",
+      "CHINESE_TRADITIONAL": "不是啦…我不是那個意思",
+      "JAPANESE": "いや…そういう意味じゃなくて",
+      "INDONESIAN": "Nggak, nggak! Bukan itu maksudku!",
+      "PORTUGUESE": "Não... não foi isso que eu quis dizer.",
+      "SPANISH": "No... eso no es lo que quise decir.",
+      "PERSIAN": "نه، نه! منظورم این نبود!"
+    }
+  }
+]

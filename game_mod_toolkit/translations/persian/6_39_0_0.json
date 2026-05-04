@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "咦？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "お？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "야 고말숙.",
+      "ENGLISH": "Hey Mal-sook!",
+      "CHINESE_SIMPLIFIED": "喂，高末淑",
+      "CHINESE_TRADITIONAL": "喂，高末淑",
+      "JAPANESE": "おい、コ・マルスク",
+      "INDONESIAN": "Eh, Mal-sook!",
+      "PORTUGUESE": "Ei, Malsook.",
+      "SPANISH": "Oye, Malsook.",
+      "PERSIAN": "هی مال‌سوک!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만?",
+      "ENGLISH": "Yuman?",
+      "CHINESE_SIMPLIFIED": "吴宥万？",
+      "CHINESE_TRADITIONAL": "吳宥萬？",
+      "JAPANESE": "ウ・ユマン？",
+      "INDONESIAN": "Yuman?",
+      "PORTUGUESE": "Yumán?",
+      "SPANISH": "¿Yumán?",
+      "PERSIAN": "یومان؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아는 사람이에요?",
+      "ENGLISH": "You know him?",
+      "CHINESE_SIMPLIFIED": "是认识的人吗？",
+      "CHINESE_TRADITIONAL": "是認識的人嗎？",
+      "JAPANESE": "知り合いなんですか？",
+      "INDONESIAN": "Kamu kenal dia?",
+      "PORTUGUESE": "Você conhece ele?",
+      "SPANISH": "¿Lo conoces?",
+      "PERSIAN": "شما اونو می شناسید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어...",
+      "ENGLISH": "Mmm...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Mmm...",
+      "PORTUGUESE": "Sim…",
+      "SPANISH": "Sí…",
+      "PERSIAN": "ممم..."
+    }
+  }
+]

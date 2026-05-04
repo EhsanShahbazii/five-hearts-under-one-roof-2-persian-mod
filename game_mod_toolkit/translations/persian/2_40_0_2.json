@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "도와줘요?",
+      "ENGLISH": "Can you help me?",
+      "CHINESE_SIMPLIFIED": "要帮你吗？",
+      "CHINESE_TRADITIONAL": "幫我一下？",
+      "JAPANESE": "手伝いますか?",
+      "INDONESIAN": "Bisakah kamu membantuku?",
+      "PORTUGUESE": "Quer que eu te ajude?",
+      "SPANISH": "¿Te ayudo?",
+      "PERSIAN": "می توانید به من کمک کنید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Sure...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "喔...",
+      "JAPANESE": "ええ…",
+      "INDONESIAN": "Tentu...",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí…",
+      "PERSIAN": "حتما..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "줘 봐요.",
+      "ENGLISH": "Here, give it to me.",
+      "CHINESE_SIMPLIFIED": "给我吧",
+      "CHINESE_TRADITIONAL": "給我吧",
+      "JAPANESE": "貸してください",
+      "INDONESIAN": "Sini, berikan padaku.",
+      "PORTUGUESE": "Deixa eu ver.",
+      "SPANISH": "A ver, dame eso.",
+      "PERSIAN": "اینجا، اونو به من بدهید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이거를 이렇게 해서 이렇게 쭉~ 빼면은",
+      "ENGLISH": "You just do this, pull it like this—",
+      "CHINESE_SIMPLIFIED": "把这个这样弄，然后慢慢~抽出来",
+      "CHINESE_TRADITIONAL": "這個要像這樣，然後就順順的咻～抽出來",
+      "JAPANESE": "これをこうやってスッと抜けば…",
+      "INDONESIAN": "Kamu tinggal lakukan ini, tarik seperti ini—",
+      "PORTUGUESE": "Faz assim, e depois puxa... assim~",
+      "SPANISH": "Se hace así, y luego se jala… así~",
+      "PERSIAN": "شما فقط این کار را انجام دهید، اونو به این شکل بکشید-"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊～",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ～",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~!",
+      "SPANISH": "¡Ah~!",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 빼면 되는 거구나!",
+      "ENGLISH": "Oh, so that’s how you’re supposed to pull it out!",
+      "CHINESE_SIMPLIFIED": "是要往前抽出来啊！",
+      "CHINESE_TRADITIONAL": "是往前抽出來就可以啊！",
+      "JAPANESE": "前に引けばいいんだ!",
+      "INDONESIAN": "Oh, jadi begitulah cara menariknya keluar!",
+      "PORTUGUESE": "Era pra frente, agora entendi!",
+      "SPANISH": "¡Era hacia adelante, ya entendí!",
+      "PERSIAN": "اوه، پس اینطوری قرار است اونو بیرون بیاورید!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐예요!",
+      "ENGLISH": "Wait—what are you doing?!",
+      "CHINESE_SIMPLIFIED": "什么呀！",
+      "CHINESE_TRADITIONAL": "搞什麼！",
+      "JAPANESE": "ちょっと!",
+      "INDONESIAN": "Tunggu—apa yang kamu lakukan?!",
+      "PORTUGUESE": "O que você tá fazendo?!",
+      "SPANISH": "¡¿Qué hace?!",
+      "PERSIAN": "صبر کن - چیکار میکنی؟!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그걸 왜 먹어요!",
+      "ENGLISH": "Why’d you eat it?!",
+      "CHINESE_SIMPLIFIED": "你怎么把它吃了！",
+      "CHINESE_TRADITIONAL": "你為什麼吃掉了！",
+      "JAPANESE": "なんでそれ食べちゃうんですか!",
+      "INDONESIAN": "Kenapa kamu memakannya?!",
+      "PORTUGUESE": "Por que tá comendo?!",
+      "SPANISH": "¡¿Por qué te lo comes?!",
+      "PERSIAN": "چرا خوردی؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "도와달라면서요.",
+      "ENGLISH": "You asked for help!",
+      "CHINESE_SIMPLIFIED": "不是说要帮忙吗",
+      "CHINESE_TRADITIONAL": "不是你叫我幫忙的嗎？",
+      "JAPANESE": "手伝ってって言ったじゃないですか",
+      "INDONESIAN": "Kan kamu yang minta bantuan!",
+      "PORTUGUESE": "Você disse pra eu te ajudar.",
+      "SPANISH": "Dijiste que te ayudara.",
+      "PERSIAN": "کمک خواستی!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "먹는 거 도와달라는 거 아니었어요?",
+      "ENGLISH": "You didn't ask me to eat it?",
+      "CHINESE_SIMPLIFIED": "不是要我帮你吃的意思吗？",
+      "CHINESE_TRADITIONAL": "不是要你幫我吃的意思啊？",
+      "JAPANESE": "食べるの手伝ってほしいんじゃなかったんですか?",
+      "INDONESIAN": "Kamu tidak memintaku memakannya?",
+      "PORTUGUESE": "Mas não pra comer!",
+      "SPANISH": "¡Pero no que te lo comas!",
+      "PERSIAN": "از من نخواستی بخورمش؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 어떻게 먹는 건지 알려달라는 거였죠!",
+      "ENGLISH": "I meant show me how to eat it, not eat it for me!",
+      "CHINESE_SIMPLIFIED": "是要你教我怎么吃才对啊！",
+      "CHINESE_TRADITIONAL": "我是要你教我怎麼吃！",
+      "JAPANESE": "違います! どうやって食べるのか教えてほしかったんですよ!",
+      "INDONESIAN": "Maksudku tunjukkan padaku cara memakannya, bukan memakannya untukku!",
+      "PORTUGUESE": "Só pra me mostrar como!",
+      "SPANISH": "¡Solo que me enseñes cómo!",
+      "PERSIAN": "منظورم این بود که به من نشان بده چگونه اونو بخورم، نه اینکه اونو برای من بخورم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 25.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 말을 하시지...",
+      "ENGLISH": "Well, you should’ve said so...",
+      "CHINESE_SIMPLIFIED": "哎呀你倒是说清楚啊...",
+      "CHINESE_TRADITIONAL": "喔...你不早說...",
+      "JAPANESE": "先にそう言ってくれないと…",
+      "INDONESIAN": "Baiklah, seharusnya kamu mengatakannya...",
+      "PORTUGUESE": "Ah, então devia ter dito...",
+      "SPANISH": "Ah, pues lo hubieras dicho…",
+      "PERSIAN": "خب باید میگفتی..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 27.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 배부르다...",
+      "ENGLISH": "Ahhh... I’m full...",
+      "CHINESE_SIMPLIFIED": "啊吃得好饱...",
+      "CHINESE_TRADITIONAL": "好飽喔...",
+      "JAPANESE": "あ〜お腹いっぱい…",
+      "INDONESIAN": "Ahhh... aku kenyang...",
+      "PORTUGUESE": "Ah, tô tão cheio...",
+      "SPANISH": "Ah, qué lleno quedé…",
+      "PERSIAN": "آهان... سیر شدم..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "힝.. 내 어묵...",
+      "ENGLISH": "Ugh... my fish cake...",
+      "CHINESE_SIMPLIFIED": "哼...我的鱼糕...",
+      "CHINESE_TRADITIONAL": "嗚...我的黑輪...",
+      "JAPANESE": "ひどい…私のおでん…",
+      "INDONESIAN": "Ugh... kue ikanku...",
+      "PORTUGUESE": "Hmpf... minha comida...",
+      "SPANISH": "Hmpf… mi comida…",
+      "PERSIAN": "اوه ... کیک ماهی من ..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "히히! 아~ 배부르다아~",
+      "ENGLISH": "Hehe~ so full~",
+      "CHINESE_SIMPLIFIED": "嘿嘿！啊~好饱啊~",
+      "CHINESE_TRADITIONAL": "嘻嘻！啊～好飽啊～",
+      "JAPANESE": "ヒヒ！あ～お腹いっぱい～",
+      "INDONESIAN": "Hehe~ kenyang banget~",
+      "PORTUGUESE": "Hehehe! Ah~ tô tão satisfeito~",
+      "SPANISH": "¡Jejeje! Ah~ estoy tan lleno~",
+      "PERSIAN": "هه ~ خیلی پر ~"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 오~ 배불러~후",
+      "ENGLISH": "Ahhh, so~ stuffed~ whew~",
+      "CHINESE_SIMPLIFIED": "啊，喔~好撑啊~呼",
+      "CHINESE_TRADITIONAL": "啊，噢～ 真的好飽～呼",
+      "JAPANESE": "あ、お～お腹いっぱい～ふ",
+      "INDONESIAN": "Ahhh, jadi~ kenyang~ wah~",
+      "PORTUGUESE": "Ah, ufa~ comi demais~",
+      "SPANISH": "Ah, uf~ sí que quedé satisfecho~",
+      "PERSIAN": "آهان، خیلی ~ پر شده~ وای~"
+    }
+  }
+]

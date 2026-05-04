@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 쉽지 않겠지만 어쩔 수 없다고 생각해.",
+      "ENGLISH": "Hmm… it won’t be easy, but I think I have no choice.",
+      "CHINESE_SIMPLIFIED": "嗯...虽然会很难，但我觉得这是没办法的事",
+      "CHINESE_TRADITIONAL": "嗯...雖然很難，但也是無可奈何的事情",
+      "JAPANESE": "うーん…簡単なことじゃないけど、仕方ないと思う",
+      "INDONESIAN": "Hmm… nggak bakal gampang sih, tapi kayaknya aku nggak punya pilihan lain.",
+      "PORTUGUESE": "Hmm… não vai ser fácil, mas acho que não tem outro jeito.",
+      "SPANISH": "Mmm… no será fácil, pero creo que no hay otra opción.",
+      "PERSIAN": "هوم... آسان نخواهد بود، اما فکر می کنم چاره ای ندارم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너는? 너는 괜찮아?",
+      "ENGLISH": "And you? Will you be okay?",
+      "CHINESE_SIMPLIFIED": "你呢？你没事吗？",
+      "CHINESE_TRADITIONAL": "你呢？你沒事嗎？",
+      "JAPANESE": "あんたは？平気なの？",
+      "INDONESIAN": "Terus kamu? Kamu bakal baik-baik aja?",
+      "PORTUGUESE": "E você? Tá bem com isso?",
+      "SPANISH": "¿Y tú? ¿Estás bien con eso?",
+      "PERSIAN": "و شما؟ خوب میشی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "안 괜찮지! 그렇지만... 네가 좋아하는 일을 하는 게",
+      "ENGLISH": "Of course I won’t be okay! But… if it’s something you love doing,",
+      "CHINESE_SIMPLIFIED": "当然有事！但是...你能做自己喜欢的事",
+      "CHINESE_TRADITIONAL": "當然不好啊！但...妳是去做喜歡的事情",
+      "JAPANESE": "平気なわけないだろ でも…お前がやりたいことをするのが",
+      "INDONESIAN": "Jelas nggak bakal baik-baik aja! Tapi… kalau itu sesuatu yang kamu suka,",
+      "PORTUGUESE": "Claro que não… mas… se você faz o que gosta,",
+      "SPANISH": "Claro que no… pero… si haces lo que te gusta,",
+      "PERSIAN": "البته من خوب نخواهم شد! اما اگر کاری است که دوست دارید انجام دهید،"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 더 행복이지 않을까...?",
+      "ENGLISH": "wouldn’t that make you happier…?",
+      "CHINESE_SIMPLIFIED": "不是会更幸福吗...？",
+      "CHINESE_TRADITIONAL": "不是會更幸福嗎...？",
+      "JAPANESE": "いちばん幸せなんじゃないかと思う…",
+      "INDONESIAN": "bukannya kamu bakal lebih bahagia…?",
+      "PORTUGUESE": "não acha que isso vai te deixar mais feliz?",
+      "SPANISH": "¿no crees que eso te hará más feliz?",
+      "PERSIAN": "این شما را خوشحال تر نمی کند…؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 뭐야... ",
+      "ENGLISH": "What is that supposed to mean…",
+      "CHINESE_SIMPLIFIED": "这算什么...",
+      "CHINESE_TRADITIONAL": "這算什麼...",
+      "JAPANESE": "なにそれ…",
+      "INDONESIAN": "Itu maksudnya gimana…",
+      "PORTUGUESE": "E o que isso quer dizer…?",
+      "SPANISH": "¿Y eso qué significa…?",
+      "PERSIAN": "یعنی چی…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "안 괜찮아도 응원할 거야?",
+      "ENGLISH": "You’ll still support me even if you’re not okay with it?",
+      "CHINESE_SIMPLIFIED": "就算不开心你也会支持我吗？",
+      "CHINESE_TRADITIONAL": "就算不開心，你也會支持我嗎？",
+      "JAPANESE": "平気じゃなくても応援してくれるの？",
+      "INDONESIAN": "Kamu bakal tetap dukung aku walaupun kamu sendiri nggak nyaman?",
+      "PORTUGUESE": "Você vai me apoiar mesmo se eu estiver longe?",
+      "SPANISH": "¿Vas a apoyarme aunque este lejos?",
+      "PERSIAN": "شما همچنان از من حمایت خواهید کرد حتی اگر با اون مشکلی نداشته باشید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 21.9
+    },
+    "SCRIPT": {
+      "KOREAN": "응. 너에 대한 마음은 절대 변하지 않을 거니까.",
+      "ENGLISH": "Yeah. My feelings for you won’t change.",
+      "CHINESE_SIMPLIFIED": "嗯，因为我对你的心意永远不会改变",
+      "CHINESE_TRADITIONAL": "嗯。因為我對妳的心意，絕對不會改變的",
+      "JAPANESE": "うん お前への気持ちは、絶対に変わらないから",
+      "INDONESIAN": "Iya. Perasaan aku ke kamu nggak bakal berubah.",
+      "PORTUGUESE": "Sim. Porque o que eu sinto por você nunca vai mudar.",
+      "SPANISH": "Sí. Porque lo que siento por ti nunca va a cambiar.",
+      "PERSIAN": "آره احساس من نسبت به تو تغییر نخواهد کرد."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "흠...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "哼...",
+      "CHINESE_TRADITIONAL": "哼...",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm…",
+      "SPANISH": "Hmm…",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 그럴게.",
+      "ENGLISH": "Then I’ll be the same.",
+      "CHINESE_SIMPLIFIED": "我也是一样的",
+      "CHINESE_TRADITIONAL": "我也是一樣",
+      "JAPANESE": "私も、そうする",
+      "INDONESIAN": "Kalau gitu aku juga akan sama.",
+      "PORTUGUESE": "Eu sinto o mesmo.",
+      "SPANISH": "Yo me siento igual",
+      "PERSIAN": "سپس من همون می‌شم."
+    }
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저... 선배님! 저 오늘 처음 등교하는 1학년인데요! ",
+      "ENGLISH": "U-um, excuse me, senior! I’m a first-year—it’s my first day, and I kinda got lost…",
+      "CHINESE_SIMPLIFIED": "那个...学长！我是今天刚入学的一年级新生！",
+      "CHINESE_TRADITIONAL": "學長...我是今天才剛入學的一年級新生",
+      "JAPANESE": "あの…先輩！今日初登校の1年なんです！",
+      "INDONESIAN": "U-um, permisi, Kak! Aku anak kelas satu—ini hari pertama aku, dan tadi sempet nyasar…",
+      "PORTUGUESE": "Espere... por favor! É meu primeiro dia nesta escola!",
+      "SPANISH": "Espere, por favor! ¡Es mi primer día en esta escuela!",
+      "PERSIAN": "اوم، ببخشید ارشد! من سال اول هستم - این اولین روز من است و به نوعی گم شدم…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "처음이라 길을 좀 헤매서...",
+      "ENGLISH": "Could you please open the door for me,",
+      "CHINESE_SIMPLIFIED": "因为第一次来有点迷路了...",
+      "CHINESE_TRADITIONAL": "因為是第一次上學，所以有點迷路了...",
+      "JAPANESE": "初めてで道がわからなくて…",
+      "INDONESIAN": "Boleh tolong bukain pintunya nggak buat aku,",
+      "PORTUGUESE": "por isso me perdi no caminho...",
+      "SPANISH": "por eso me perdí en el camino...",
+      "PERSIAN": "میشه لطفا در رو برای من باز کن"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "문 한 번 열어주시면 안 될까요?? ",
+      "ENGLISH": "just this once??",
+      "CHINESE_SIMPLIFIED": "能不能帮忙开下门呢？？",
+      "CHINESE_TRADITIONAL": "可以請你幫我開個門嗎？...",
+      "JAPANESE": "一回だけドア開けてもらえませんか？",
+      "INDONESIAN": "sekali ini aja??",
+      "PORTUGUESE": "pode me deixar passar só desta vez?",
+      "SPANISH": "¿puede dejarme pasar solo esta vez?",
+      "PERSIAN": "فقط این یکبار؟؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 1학년이네...",
+      "ENGLISH": "Wow, you really are a first-year…",
+      "CHINESE_SIMPLIFIED": "还真是新生啊...",
+      "CHINESE_TRADITIONAL": "真的是一年級新生啊...",
+      "JAPANESE": "ほんとに1年生なんだ…",
+      "INDONESIAN": "Wah, kamu beneran anak kelas satu ya…",
+      "PORTUGUESE": "Vaya, você é uma estudante do primeiro ano...",
+      "SPANISH": "Vaya, es una estudiante de primer año...",
+      "PERSIAN": "وای واقعا تو سال اولی…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 선배님~ 진짜 딱 한 번만 열어주시면 안 될까요...?",
+      "ENGLISH": "Come on, senior~ can’t you just let it slide this one time…?",
+      "CHINESE_SIMPLIFIED": "啊，学长~真的不能通融一次开个门吗...？",
+      "CHINESE_TRADITIONAL": "學長～拜託～這次就讓我進去不行嗎...?",
+      "JAPANESE": "あ 先輩〜ほんとに一回だけ開けてもらえませんか〜？",
+      "INDONESIAN": "Ayo dong, Kak~ masa nggak bisa ditolerir sekali aja sih…?",
+      "PORTUGUESE": "Por favor, não pode me ajudar só desta vez?",
+      "SPANISH": "Por favor, ¿no me puede ayudar solo esta vez?",
+      "PERSIAN": "بیا، ارشد~ نمی‌تونی بگذاری این یک‌بار سر بخورد...؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "안 돼요.",
+      "ENGLISH": "Nope.",
+      "CHINESE_SIMPLIFIED": "不行",
+      "CHINESE_TRADITIONAL": "不行",
+      "JAPANESE": "ダメです",
+      "INDONESIAN": "Nggak bisa.",
+      "PORTUGUESE": "Não posso.",
+      "SPANISH": "No puedo.",
+      "PERSIAN": "نه"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아아앙... 선배님~ 아 제발요...",
+      "ENGLISH": "Awwww… senior, pleaaase~",
+      "CHINESE_SIMPLIFIED": "啊啊啊～学长~求你啦...",
+      "CHINESE_TRADITIONAL": "啊啊昂～學長～拜託啦～",
+      "JAPANESE": "あぁぁん…先輩〜お願いです〜",
+      "INDONESIAN": "Aduhhh… Kakak, plis banget~",
+      "PORTUGUESE": "Ahhhhh~ por favor, eu imploro...",
+      "SPANISH": "Ahhhhh~ por favor, se lo ruego...",
+      "PERSIAN": "اوووو... ارشد، لطفا~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 으으으응 한 번만요!",
+      "ENGLISH": "Just once! Pretty please~?",
+      "CHINESE_SIMPLIFIED": "嗯？呃呃嗯，就这一次嘛！",
+      "CHINESE_TRADITIONAL": "好啦好啦～～？拜託～就一次嘛！",
+      "JAPANESE": "え？うぅぅ…一回だけ！",
+      "INDONESIAN": "Sekali ini aja! Aku mohon banget~?",
+      "PORTUGUESE": "Vai... por favorzinho...",
+      "SPANISH": "Ándele... por favorcito...",
+      "PERSIAN": "فقط یکبار! خوشگل لطفا~؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다음부터는 진짜 안 봐 드려요.",
+      "ENGLISH": "Fine. But this is the last time I’m helping you out.",
+      "CHINESE_SIMPLIFIED": "下次真的不会再通融了",
+      "CHINESE_TRADITIONAL": "下次就真的不會通融了喔！",
+      "JAPANESE": "次からはほんとに見逃しませんから",
+      "INDONESIAN": "Oke deh. Tapi ini terakhir kalinya aku bantuin kamu, ya.",
+      "PORTUGUESE": "Tá bem, mas da próxima eu não vou deixar você passar.",
+      "SPANISH": "Está bien, pero la próxima no la voy a dejar pasar.",
+      "PERSIAN": "خوب اما این آخرین باری است که به شما کمک می کنم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 36.9,
+      "HIDE": 38.4
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다!",
+      "ENGLISH": "Thank you so much!!",
+      "CHINESE_SIMPLIFIED": "谢谢学长！",
+      "CHINESE_TRADITIONAL": "謝謝學長！",
+      "JAPANESE": "ありがとうございます！",
+      "INDONESIAN": "Makasih banyak!!",
+      "PORTUGUESE": "Muito obrigada!",
+      "SPANISH": "¡Muchas gracias!",
+      "PERSIAN": "خیلی ممنون!!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 40.9
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 학주 쌤 아직 있으니깐 ",
+      "ENGLISH": "The discipline teacher’s still out front, ",
+      "CHINESE_SIMPLIFIED": "现在学生主任还在",
+      "CHINESE_TRADITIONAL": "訓導主任還在前面",
+      "JAPANESE": "とりあえず生活指導の先生まだいるから",
+      "INDONESIAN": "Guru ketertiban masih di depan,",
+      "PORTUGUESE": "O professor ainda não foi embora",
+      "SPANISH": "El profesor aún no se ha ido",
+      "PERSIAN": "معلم نظم و انضباط هنوز بیرون است،"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 43.2
+    },
+    "SCRIPT": {
+      "KOREAN": "학교 안까지는 제가 숨겨드릴게요.",
+      "ENGLISH": "so I’ll sneak you in through the side.",
+      "CHINESE_SIMPLIFIED": "我先掩护你进学校里面吧",
+      "CHINESE_TRADITIONAL": "我會幫你掩護進去到學校裡面的",
+      "JAPANESE": "校舎の中までは私が隠してあげます",
+      "INDONESIAN": "jadi aku anter kamu lewat samping aja.",
+      "PORTUGUESE": "então eu vou te esconder para você entrar sem que ele te veja.",
+      "SPANISH": "así que la voy a esconder para que entre sin que la vea.",
+      "PERSIAN": "پس من تو را مخفیانه از کناری وارد می کنم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 44.2,
+      "HIDE": 45.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네!! ",
+      "ENGLISH": "Okay!!",
+      "CHINESE_SIMPLIFIED": "好的！！",
+      "CHINESE_TRADITIONAL": "好的！！",
+      "JAPANESE": "はい!!",
+      "INDONESIAN": "Oke!!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "باشه!!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 48.2,
+      "HIDE": 49.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이 정도면 돼요?",
+      "ENGLISH": "Is this good?",
+      "CHINESE_SIMPLIFIED": "这样就行了吗？",
+      "CHINESE_TRADITIONAL": "這樣可以嗎？",
+      "JAPANESE": "これくらいで大丈夫ですか？",
+      "INDONESIAN": "Kayak gini udah bener belum?",
+      "PORTUGUESE": "Assim tá bom?",
+      "SPANISH": "¿Así está bien?",
+      "PERSIAN": "این خوبه؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 49.7,
+      "HIDE": 51.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 하면 다 보인다고요 ",
+      "ENGLISH": "Not like that—they’ll totally see you.",
+      "CHINESE_SIMPLIFIED": "这样会全被看到的",
+      "CHINESE_TRADITIONAL": "這樣的話會被看到的",
+      "JAPANESE": "そうすると丸見えですよ",
+      "INDONESIAN": "Jangan gitu—nanti kelihatan banget.",
+      "PORTUGUESE": "Assim vão te ver.",
+      "SPANISH": "Así la van a ver.",
+      "PERSIAN": "اینطوری نیست - اونا کاملاً شما را خواهند دید."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 51.4,
+      "HIDE": 52.9
+    },
+    "SCRIPT": {
+      "KOREAN": "조금 더 이쪽으로 와야죠",
+      "ENGLISH": "You’ve gotta come a bit more this way.",
+      "CHINESE_SIMPLIFIED": "得再往这边来点才行",
+      "CHINESE_TRADITIONAL": "要再往這邊一點才行",
+      "JAPANESE": "もうちょっとこっちに寄らないと",
+      "INDONESIAN": "Geser dikit ke sini.",
+      "PORTUGUESE": "Você tem que chegar um pouco mais perto.",
+      "SPANISH": "Acérquese un poco más.",
+      "PERSIAN": "شما باید کمی بیشتر از این راه بیایید."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 53.8,
+      "HIDE": 55.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 이렇게요?",
+      "ENGLISH": "Ah… like this?",
+      "CHINESE_SIMPLIFIED": "啊...这样吗？",
+      "CHINESE_TRADITIONAL": "嗯...那這樣呢？",
+      "JAPANESE": "あ…こうですか？",
+      "INDONESIAN": "Ah… gini?",
+      "PORTUGUESE": "Ah... assim?",
+      "SPANISH": "Ah... ¿así?",
+      "PERSIAN": "آه... اینجوری؟"
+    }
+  }
+]

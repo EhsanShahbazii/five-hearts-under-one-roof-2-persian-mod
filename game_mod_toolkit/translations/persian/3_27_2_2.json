@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤! 혹시 집에 고양이 있어요?",
+      "ENGLISH": "Ms. Gyu-ri! Do you have a cat at home by any chance?",
+      "CHINESE_SIMPLIFIED": "方护士，你家里养猫吗？",
+      "CHINESE_TRADITIONAL": "久梨護理師！妳有養貓咪嗎？",
+      "JAPANESE": "ギュリ先生、うちに犬いますか？",
+      "INDONESIAN": "Nona Gyu-ri! Kamu punya kucing di rumah, nggak?",
+      "PORTUGUESE": "Enfermeira Gyuri! Por acaso você tem gato em casa?",
+      "SPANISH": "¡Enfermera Gyuri! ¿Por casualidad tiene gato en casa?",
+      "PERSIAN": "خانم گیو ری! به طور تصادفی گربه در خونه دارید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 고양이 있어요!",
+      "ENGLISH": "Yeah, I do!",
+      "CHINESE_SIMPLIFIED": "嗯！有养猫！",
+      "CHINESE_TRADITIONAL": "嗯，有喔！",
+      "JAPANESE": "はい！いますよ！",
+      "INDONESIAN": "Iya, punya!",
+      "PORTUGUESE": "Sim! Tenho um!",
+      "SPANISH": "¡Sí! ¡Tengo uno!",
+      "PERSIAN": "آره، دارم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오! 저 그럼 갈래요! 저 고양이 엄청 좋아하거든요.",
+      "ENGLISH": "Oh! Then I’m definitely coming over—I love cats!",
+      "CHINESE_SIMPLIFIED": "哦！那我要去！我超级喜欢猫的！",
+      "CHINESE_TRADITIONAL": "喔！那我要去！我最喜歡貓咪了！",
+      "JAPANESE": "おお！じゃあ行きます！俺、猫めっちゃ好きなんです！",
+      "INDONESIAN": "Oh! Kalau gitu aku pasti mau main ke rumahmu—aku suka banget sama kucing!",
+      "PORTUGUESE": "Oh! Então eu fico! Adoro gatos!",
+      "SPANISH": "¡Oh! ¡Entonces me quedo! ¡Me encantan los gatos!",
+      "PERSIAN": "اوه! سپس من قطعاً می آیم - من عاشق گربه ها هستم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요! 얼른 들어가요!",
+      "ENGLISH": "Perfect! Come on, let’s go!",
+      "CHINESE_SIMPLIFIED": "太好了！快请进吧！",
+      "CHINESE_TRADITIONAL": "好啊！快進來吧！",
+      "JAPANESE": "いいですよ！早く入ってください！",
+      "INDONESIAN": "Pas banget! Ayo, kita berangkat!",
+      "PORTUGUESE": "Perfeito! Vamos, entra rápido!",
+      "SPANISH": "¡Perfecto! ¡Vamos, entre rápido!",
+      "PERSIAN": "کامل! بیا برویم"
+    }
+  }
+]

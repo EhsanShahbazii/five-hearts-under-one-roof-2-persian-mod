@@ -1,0 +1,369 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "야! 양말 색이 뭐 중요해~ ",
+      "ENGLISH": "Ugh! Who cares what color the socks were?!",
+      "CHINESE_SIMPLIFIED": "喂！袜子颜色有什么好在意的嘛~",
+      "CHINESE_TRADITIONAL": "喂！襪子的顏色有那麼重要嗎～",
+      "JAPANESE": "おい！靴下の色とかどうでもいいでしょ〜！",
+      "INDONESIAN": "Aduh! Siapa yang peduli warna kaus kakinya?!",
+      "PORTUGUESE": "Mas o que importa a cor das meias?",
+      "SPANISH": "¿Pero qué importa el color de las calcetines?",
+      "PERSIAN": "اوه چه کسی اهمیت می دهد که جوراب چه رنگی بود؟!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "레깅스는 이쁘더만.",
+      "ENGLISH": "The leggings looked great, okay?!",
+      "CHINESE_SIMPLIFIED": "紧身裤倒是挺好看的",
+      "CHINESE_TRADITIONAL": "緊身褲倒是挺好看的啊",
+      "JAPANESE": "レギンスは可愛かったじゃん",
+      "INDONESIAN": "Leggingnya terlihat bagus, oke?!",
+      "PORTUGUESE": "Você não viu como aquela legging ficava bem?",
+      "SPANISH": "¿No viste lo bien que se veían los leggins?",
+      "PERSIAN": "شلوار لی عالی به نظر می رسید، باشه؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "허, 뭐?",
+      "ENGLISH": "Huh? What’d you just say?",
+      "CHINESE_SIMPLIFIED": "哈，你说什么？",
+      "CHINESE_TRADITIONAL": "蛤？你說什麼？",
+      "JAPANESE": "は？ 何それ？",
+      "INDONESIAN": "Hah? Apa yang baru saja kamu katakan?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "ها؟ فقط چی گفتی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 아, 아니 그게...",
+      "ENGLISH": "N-Nothing! I didn’t mean it like that...",
+      "CHINESE_SIMPLIFIED": "不是那个...",
+      "CHINESE_TRADITIONAL": "啊...啊，不是那個...",
+      "JAPANESE": "あ、いや、その…",
+      "INDONESIAN": "T-Tidak ada! Aku tidak bermaksud begitu...",
+      "PORTUGUESE": "Ah... n-não quis dizer isso...",
+      "SPANISH": "Ah… n-no, no quise decir…",
+      "PERSIAN": "ن- هیچی! منظورم اینطوری نبود..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "허, 나 집 갈래.",
+      "ENGLISH": "Ugh, I’m going home.",
+      "CHINESE_SIMPLIFIED": "我想回家了",
+      "CHINESE_TRADITIONAL": "我要回家了",
+      "JAPANESE": "私、帰る",
+      "INDONESIAN": "Uh, aku pulang dulu.",
+      "PORTUGUESE": "Tch, vou pra casa.",
+      "SPANISH": "Tch, me voy a casa.",
+      "PERSIAN": "اوه من دارم میرم خونه"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 무슨 집이야... ",
+      "ENGLISH": "What? No, come on— ",
+      "CHINESE_SIMPLIFIED": "哎哟，回什么家...",
+      "CHINESE_TRADITIONAL": "不要這麼說啦…",
+      "JAPANESE": "ちょ、何言ってんの",
+      "INDONESIAN": "Apa? Tidak, ayolah—",
+      "PORTUGUESE": "Ei, como assim, pra casa...?",
+      "SPANISH": "Ay, ¿cómo que a casa…?",
+      "PERSIAN": "چی؟ نه، بیا -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "보드 타러 간만에 나왔는데",
+      "ENGLISH": "we just got here to board.",
+      "CHINESE_SIMPLIFIED": "难得出来玩滑板",
+      "CHINESE_TRADITIONAL": "難得出來出來滑雪",
+      "JAPANESE": "せっかくボード乗りに来たのに",
+      "INDONESIAN": "kami baru saja sampai di sini untuk naik.",
+      "PORTUGUESE": "Faz séculos que não saímos pra andar de skate,",
+      "SPANISH": "Si hace siglos que no salíamos a patinar,",
+      "PERSIAN": "ما فقط برای سوار شدن به اینجا رسیدیم"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "좀만 더 타다 가자.",
+      "ENGLISH": "Let’s ride a bit more, yeah?",
+      "CHINESE_SIMPLIFIED": "再玩一会儿嘛",
+      "CHINESE_TRADITIONAL": "再多滑一下啦",
+      "JAPANESE": "もうちょっと滑ってから帰ろうよ",
+      "INDONESIAN": "Ayo kita naik sepeda sedikit lagi, ya?",
+      "PORTUGUESE": "fica mais um pouco.",
+      "SPANISH": "quédate un poco más.",
+      "PERSIAN": "بیایید کمی بیشتر سوار شویم، بله؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "자꾸 열받게 할래?",
+      "ENGLISH": "You really wanna piss me off right now?",
+      "CHINESE_SIMPLIFIED": "你是存心想惹我生气吗？",
+      "CHINESE_TRADITIONAL": "你是存心一直惹我生氣嗎？",
+      "JAPANESE": "まだ私をイラつかせたいの？",
+      "INDONESIAN": "Kau benar-benar ingin membuatku marah sekarang?",
+      "PORTUGUESE": "Quer me deixar mais irritada ainda?",
+      "SPANISH": "¿Quieres hacerme enojar más?",
+      "PERSIAN": "واقعا میخوای همین الان منو عصبانی کنی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠어.. 미안",
+      "ENGLISH": "Okay okay, I’m sorry! I won’t do it again.",
+      "CHINESE_SIMPLIFIED": "知道了..对不起",
+      "CHINESE_TRADITIONAL": "知道了…對不起",
+      "JAPANESE": "…わかった、ごめん",
+      "INDONESIAN": "Oke oke, maafkan aku! Aku tidak akan melakukannya lagi.",
+      "PORTUGUESE": "Tá bom... desculpa.",
+      "SPANISH": "Está bien… perdón.",
+      "PERSIAN": "باشه باشه، متاسفم! من دیگر اونو انجام نمی دهم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "담부터 그러지 마.",
+      "ENGLISH": "You better stop doing this!",
+      "CHINESE_SIMPLIFIED": "下次别这样了",
+      "CHINESE_TRADITIONAL": "下次不會這樣了",
+      "JAPANESE": "次からは気をつける",
+      "INDONESIAN": "Sebaiknya kamu berhenti melakukan ini!",
+      "PORTUGUESE": "Não vai acontecer de novo.",
+      "SPANISH": "No volverá a pasar.",
+      "PERSIAN": "بهتره دست از این کار بردارید!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 알겠어..",
+      "ENGLISH": "Okay, okay.",
+      "CHINESE_SIMPLIFIED": "好吧知道啦..",
+      "CHINESE_TRADITIONAL": "知道了…",
+      "JAPANESE": "うん、わかればいい",
+      "INDONESIAN": "Oke, oke.",
+      "PORTUGUESE": "Certo, espero mesmo...",
+      "SPANISH": "Bien, eso espero…",
+      "PERSIAN": "باشه، باشه"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": " 쓰읍...우리 일단",
+      "ENGLISH": "Sssh... Then let's...",
+      "CHINESE_SIMPLIFIED": "我们先",
+      "CHINESE_TRADITIONAL": "嗯...那我們先在這裡",
+      "JAPANESE": "とりあえずさ、",
+      "INDONESIAN": "Ssst... Kalau begitu mari kita...",
+      "PORTUGUESE": "Fiuu... então...",
+      "SPANISH": "Fiuu… entonces...",
+      "PERSIAN": "هیسس ... پس بیایید ..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "후우! 쓰읍...크흠...",
+      "ENGLISH": "Ssshhh... whew...",
+      "CHINESE_SIMPLIFIED": "呼！嘶...咳咳...",
+      "CHINESE_TRADITIONAL": "呼！嘶…咳咳…",
+      "JAPANESE": "ふぅ…はぁ…",
+      "INDONESIAN": "Sssttt... wah...",
+      "PORTUGUESE": "Ufff... Ha... Fuaaah...",
+      "SPANISH": "Ufff... Ha.... Fuaaa",
+      "PERSIAN": "سسش... وای..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 여기서 조금만 쉬다갈까?",
+      "ENGLISH": "Hey... wanna just chill here for a bit before we go again?",
+      "CHINESE_SIMPLIFIED": "我们在这儿稍微休息会儿再走吧？",
+      "CHINESE_TRADITIONAL": "休息一下吧？",
+      "JAPANESE": "ちょっとここで休んでいこっか？",
+      "INDONESIAN": "Hei... mau bersantai sebentar di sini sebelum kita pergi lagi?",
+      "PORTUGUESE": "Que tal descansarmos um pouco antes de ir embora?",
+      "SPANISH": "¿Qué tal si descansamos un pocp antes de irnos?",
+      "PERSIAN": "هی...میخوای قبل از اینکه دوباره بریم اینجا کمی خنک بشی؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만.",
+      "ENGLISH": "Yuman.",
+      "CHINESE_SIMPLIFIED": "吴宥万",
+      "CHINESE_TRADITIONAL": "吳宥萬",
+      "JAPANESE": "ウ・ユマン",
+      "INDONESIAN": "Yuman.",
+      "PORTUGUESE": "Yuman.",
+      "SPANISH": "Yumán",
+      "PERSIAN": "یومان."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 말숙아~ 말해",
+      "ENGLISH": "Yeah, Malsook? What’s up?",
+      "CHINESE_SIMPLIFIED": "嗯，末淑啊~说吧",
+      "CHINESE_TRADITIONAL": "嗯？末淑～妳說",
+      "JAPANESE": "ん？ マルスク？ どうした？",
+      "INDONESIAN": "Ya, Malsook? Ada apa?",
+      "PORTUGUESE": "Malsook~~ fala.",
+      "SPANISH": "Malsook~~ dime",
+      "PERSIAN": "آره، ملسوک؟ چه خبر؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 30.9
+    },
+    "SCRIPT": {
+      "KOREAN": "평생 쉬게 해줄까?",
+      "ENGLISH": "Wanna rest forever?",
+      "CHINESE_SIMPLIFIED": "我让你永远都歇着",
+      "CHINESE_TRADITIONAL": "想要我讓你永遠休息嗎？",
+      "JAPANESE": "永遠に、休ませてあげよっか？",
+      "INDONESIAN": "Ingin beristirahat selamanya?",
+      "PORTUGUESE": "Quer descansar... pra sempre?",
+      "SPANISH": "¿Quieres descansar… para siempre?",
+      "PERSIAN": "می خواهید برای همیشه استراحت کنید؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "蛤？",
+      "JAPANESE": "…え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "으악",
+      "ENGLISH": "AAHH!!",
+      "CHINESE_SIMPLIFIED": "呃啊！",
+      "CHINESE_TRADITIONAL": "呃啊！",
+      "JAPANESE": "うわっ！",
+      "INDONESIAN": "AAHH!!",
+      "PORTUGUESE": "Aaaah!",
+      "SPANISH": "¡Aaaah!",
+      "PERSIAN": "آهان!!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 35.0
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 아무래도 손이 좀 저린 거 같아요.",
+      "ENGLISH": "My hand feels a little numb.",
+      "PERSIAN": "انگاری دستم یه خورده بی‌حس شده..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "손이요? ",
+      "ENGLISH": "Your hand?",
+      "PERSIAN": "دستتون؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 손 마사지해드릴게요!",
+      "ENGLISH": "Let me massage it for you.",
+      "PERSIAN": "بذارین من براتون ماساژش بدم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "조금 더 세게 해주실 수 있나요?",
+      "ENGLISH": "Please press a little harder.",
+      "PERSIAN": "میشه یه کم محکم‌تر فشار بدین؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "더 세게요??",
+      "ENGLISH": "Harder??",
+      "PERSIAN": "محکم‌تر؟! واقعاً؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "지금은 어떠세요? ",
+      "ENGLISH": "How’s that now?",
+      "PERSIAN": "الان چطوره؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아까보다 괜찮아지셨을까요?",
+      "ENGLISH": "Does it feel better than before?",
+      "PERSIAN": "نسبت به قبل بهتر شد؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네 훨씬 좋아졌어요...",
+      "ENGLISH": "Yeah… much better.",
+      "PERSIAN": "آره... خیلی بهتر شد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다행이에요.",
+      "ENGLISH": "That’s a relief.",
+      "PERSIAN": "خداروشکر، خیالم راحت شد!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저..손은 놔도 될 것 같은데...",
+      "ENGLISH": "I can let go of your hand now...",
+      "PERSIAN": "امم... فک کنم دیگه می‌تونین دستمو ول کنین..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 네!",
+      "ENGLISH": "Oh—right, yes!",
+      "PERSIAN": "آخ... بله بله، حواسم نبود!"
+    }
+  }
+]

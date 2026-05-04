@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんとうですか？",
+      "INDONESIAN": "Beneran?",
+      "PORTUGUESE": "Sério mesmo?",
+      "SPANISH": "¿En serio?",
+      "PERSIAN": "جدی می‌گی؟"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 또 갈림길이야?",
+      "ENGLISH": "Huh? Another branching path?",
+      "CHINESE_SIMPLIFIED": "诶？又是岔路口？",
+      "CHINESE_TRADITIONAL": "欸？又是岔路口？",
+      "JAPANESE": "あ、また分かれ道だ",
+      "INDONESIAN": "Ugh, apaan sih sampah ini.",
+      "PORTUGUESE": "Hã? De novo?",
+      "SPANISH": "¿Eh? ¿Otra vez?",
+      "PERSIAN": "ها؟ مسیر انشعاب دیگری؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "あれ？",
+      "INDONESIAN": "Harusnya… aku beresin dulu, ya?",
+      "PORTUGUESE": "Ah…?",
+      "SPANISH": "¿Ah...?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "하.. 어디로 가야 돼",
+      "ENGLISH": "Ha… which way am I supposed to go…?",
+      "CHINESE_SIMPLIFIED": "哈...该走哪边啊...",
+      "CHINESE_TRADITIONAL": "哈...該走哪邊啊...",
+      "JAPANESE": "はぁ…どっちに行けば…",
+      "INDONESIAN": "Aduh, gimana dong — aku nggak punya waktu…",
+      "PORTUGUESE": "Ha… pra onde eu tenho que ir?",
+      "SPANISH": "Ha… ¿por dónde tengo que ir?",
+      "PERSIAN": "هه...کدوم سمت باید برم...؟"
+    }
+  }
+]

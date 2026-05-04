@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "준비~",
+      "ENGLISH": "Ready~",
+      "CHINESE_SIMPLIFIED": "准备～",
+      "CHINESE_TRADITIONAL": "準備～",
+      "JAPANESE": "準備〜",
+      "INDONESIAN": "Ready~",
+      "PORTUGUESE": "Prontas...",
+      "SPANISH": "Listos...",
+      "PERSIAN": "آماده ~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "시~작!",
+      "ENGLISH": "Go!",
+      "CHINESE_SIMPLIFIED": "开始！",
+      "CHINESE_TRADITIONAL": "開始！",
+      "JAPANESE": "スタート！",
+      "INDONESIAN": "Go!",
+      "PORTUGUESE": "Já!",
+      "SPANISH": "¡Fuera!",
+      "PERSIAN": "برو!"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 가진 옷이 많진 않아서요 ",
+      "ENGLISH": "I don’t have a lot of clothes, though",
+      "CHINESE_SIMPLIFIED": "我没什么衣服呢",
+      "CHINESE_TRADITIONAL": "我沒有帶什麼衣服來",
+      "JAPANESE": "服、そんなに多くはないですけど",
+      "INDONESIAN": "Aku nggak punya banyak baju soalnya",
+      "PORTUGUESE": "Não tenho muita roupa.",
+      "SPANISH": "No tengo mucha ropa",
+      "PERSIAN": "هر چند من لباس زیادی ندارم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요!",
+      "ENGLISH": "It’s okay!",
+      "CHINESE_SIMPLIFIED": "没关系！",
+      "CHINESE_TRADITIONAL": "沒關係！",
+      "JAPANESE": "大丈夫ですよ！",
+      "INDONESIAN": "Nggak apa-apa kok!",
+      "PORTUGUESE": "Não se preocupa.",
+      "SPANISH": "No te preocupes",
+      "PERSIAN": "اشکالی ندارد!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저 뭐 입으면 될까요..?",
+      "ENGLISH": "What should I wear…?",
+      "CHINESE_SIMPLIFIED": "我该穿哪件呢...？",
+      "CHINESE_TRADITIONAL": "那我穿什麼比較好呢...？",
+      "JAPANESE": "私、何を着ればいいですか…？",
+      "INDONESIAN": "Aku harus pakai apa ya…?",
+      "PORTUGUESE": "O que eu devo vestir...?",
+      "SPANISH": "¿Qué debería ponerme...?",
+      "PERSIAN": "چی بپوشم…؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가 좋을까...?",
+      "ENGLISH": "Hmm… what would be good...?",
+      "CHINESE_SIMPLIFIED": "哪件比较好呢...？",
+      "CHINESE_TRADITIONAL": "哪件比較好呢...？",
+      "JAPANESE": "何がいいかな…？",
+      "INDONESIAN": "Hmm… enaknya pakai apa, ya...?",
+      "PORTUGUESE": "Hmm… o que você acha que fica melhor em mim?",
+      "SPANISH": "Hmm… ¿qué crees que me quede mejor?",
+      "PERSIAN": "هوم ... چه خوب است ...؟"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님, 도시락 드셔도 돼요?",
+      "ENGLISH": "Chief, are you sure you can eat that?",
+      "CHINESE_SIMPLIFIED": "科长，我能吃便当了吗？",
+      "CHINESE_TRADITIONAL": "課長，您現在可以吃便當嗎？",
+      "JAPANESE": "課長、お弁当食べても大丈夫なんですか？",
+      "INDONESIAN": "Chief, kamu yakin bisa makan itu?",
+      "PORTUGUESE": "Chefe, isso não vai te fazer mal?",
+      "SPANISH": "Jefa, ¿no le hará mal comer eso?",
+      "PERSIAN": "رئیس، مطمئنی می توانی اونو بخوری؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "죽 드셔야 되는 거 아니에요?",
+      "ENGLISH": "Shouldn’t you be sticking to porridge?",
+      "CHINESE_SIMPLIFIED": "不是应该喝粥吗？",
+      "CHINESE_TRADITIONAL": "不是應該喝粥嗎？",
+      "JAPANESE": "お粥の方がいいんじゃないですか？",
+      "INDONESIAN": "Harusnya kamu makan bubur aja, deh.",
+      "PORTUGUESE": "Não seria melhor tomar uma sopinha?",
+      "SPANISH": "¿No le caería mejor una sopa?",
+      "PERSIAN": "نباید به فرنی بچسبید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮거든?",
+      "ENGLISH": "I can eat this, okay?",
+      "CHINESE_SIMPLIFIED": "没关系的",
+      "CHINESE_TRADITIONAL": "沒關係的",
+      "JAPANESE": "平気だって",
+      "INDONESIAN": "Aku bisa kok makan ini!",
+      "PORTUGUESE": "Tô bem.",
+      "SPANISH": "Estoy bien.",
+      "PERSIAN": "من می توانم اینو بخورم، باشه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "나 이거 주면 안 돼? 노란 거 이거?",
+      "ENGLISH": "Can I have this one? The yellow one right here?",
+      "CHINESE_SIMPLIFIED": "这个黄的给我不行吗？就这个？",
+      "CHINESE_TRADITIONAL": "這個可以給我嗎？黃色的那個？",
+      "JAPANESE": "ねぇ、これもらっちゃダメ？この黄色いの",
+      "INDONESIAN": "Yang ini boleh buat aku nggak? Yang warna kuning ini, nih?",
+      "PORTUGUESE": "Posso comer isso? A coisinha amarela.",
+      "SPANISH": "¿Me puedo comer eso? La cosa amarilla",
+      "PERSIAN": "می توانم این یکی را داشته باشم؟ اون زرد همینجا؟"
+    }
+  }
+]

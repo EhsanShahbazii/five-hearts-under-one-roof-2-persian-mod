@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님 혹시 다른 집 구하세요?",
+      "ENGLISH": "Manager, are you looking for another place to live?",
+      "CHINESE_SIMPLIFIED": "科长，你是找好别的住处了吗？",
+      "CHINESE_TRADITIONAL": "課長，你是不是在找其他住的地方啊？",
+      "JAPANESE": "課長、もしかして他の家探してるんですか？",
+      "INDONESIAN": "Manajer, kamu lagi nyari tempat tinggal baru ya?",
+      "PORTUGUESE": "Chefa, tá procurando outra casa?",
+      "SPANISH": "¿Jefa, está buscando otra casa?",
+      "PERSIAN": "مدیر، به دنبال مکان دیگری برای زندگی هستید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그건 아니구..",
+      "ENGLISH": "No, it’s not that…",
+      "CHINESE_SIMPLIFIED": "那倒不是...",
+      "CHINESE_TRADITIONAL": "那倒不是...",
+      "JAPANESE": "いや、そういうわけじゃないけど…",
+      "INDONESIAN": "Nggak, bukan gitu…",
+      "PORTUGUESE": "Não, não é isso...",
+      "SPANISH": "No, no es eso...",
+      "PERSIAN": "نه اینطوری نیست…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 왜 나가시려는 거에요?",
+      "ENGLISH": "Then why are you trying to move out?",
+      "CHINESE_SIMPLIFIED": "那为什么想搬走呢？",
+      "CHINESE_TRADITIONAL": "那為什麼想搬走呢？",
+      "JAPANESE": "じゃあ、なんで出ようとしてるんです？",
+      "INDONESIAN": "Terus kenapa mau pindah?",
+      "PORTUGUESE": "Então, por que quer ir embora?",
+      "SPANISH": "Entonces, ¿por qué quiere irse?",
+      "PERSIAN": "پس چرا سعی میکنی بیرون بری؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 앞으로 출장 가는 일도 더 많아질 거 같아서",
+      "ENGLISH": "I just think I’ll probably have a lot more business trips from now on.",
+      "CHINESE_SIMPLIFIED": "只是觉得以后出差会越来越多",
+      "CHINESE_TRADITIONAL": "只是覺得以後出差的次數可能會變得更多",
+      "JAPANESE": "これから出張も増えそうだし",
+      "INDONESIAN": "Aku ngerasa ke depannya mungkin aku bakal sering dinas ke luar kota.",
+      "PORTUGUESE": "É só que acho que vou ter mais viagens de trabalho daqui pra frente.",
+      "SPANISH": "Es solo que creo que voy a tener más viajes de trabajo de ahora en adelante.",
+      "PERSIAN": "فقط فکر می کنم از این به بعد احتمالاً سفرهای کاری بسیار بیشتری خواهم داشت."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨는 어떻게 생각해? ",
+      "ENGLISH": "What do you think about that, Yuman?",
+      "CHINESE_SIMPLIFIED": "宥万你怎么想？",
+      "CHINESE_TRADITIONAL": "宥萬你覺得呢？",
+      "JAPANESE": "ユマンさんはどう思う？",
+      "INDONESIAN": "Menurut kamu gimana, Yuman?",
+      "PORTUGUESE": "E você, o que acha, Yumán?",
+      "SPANISH": "¿Y tú qué piensas, Yumán?",
+      "PERSIAN": "در مورد اون چه فکر می کنی، یومان؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나 출장 앞으로 계속 많아지는 거...?",
+      "ENGLISH": "Me having more business trips?",
+      "CHINESE_SIMPLIFIED": "我以后频繁出差的事...",
+      "CHINESE_TRADITIONAL": "關於我以後會一直頻繁出差這件事...？",
+      "JAPANESE": "私がこれから出張ばっかりになるの",
+      "INDONESIAN": "Kalau aku jadi sering keluar kota gitu?",
+      "PORTUGUESE": "O fato de eu ter cada vez mais viagens...?",
+      "SPANISH": "¿El hecho de que tenga cada vez más viajes...?",
+      "PERSIAN": "سفرهای کاری بیشتری دارم؟"
+    }
+  }
+]

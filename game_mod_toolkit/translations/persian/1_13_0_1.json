@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야...",
+      "ENGLISH": "What the...",
+      "CHINESE_SIMPLIFIED": "什么啊...",
+      "CHINESE_TRADITIONAL": "什麼啊...",
+      "JAPANESE": "なにこれ…",
+      "INDONESIAN": "Ah, apaan sih...",
+      "PORTUGUESE": "Ah, qual é...!",
+      "SPANISH": "Pero qué...",
+      "PERSIAN": "این چیه دیگه..."
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 굳어 계신데요?",
+      "ENGLISH": "You’re really tense.",
+      "CHINESE_SIMPLIFIED": "肌肉有点太僵硬了呢",
+      "CHINESE_TRADITIONAL": "您太僵硬了",
+      "JAPANESE": "すごく固まってますね",
+      "INDONESIAN": "Kamu tegang banget.",
+      "PORTUGUESE": "Você está muito tenso, hein?",
+      "SPANISH": "Está demasiado tenso, ¿eh?",
+      "PERSIAN": "تو واقعا تنش هستی"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 풀어드릴게요",
+      "ENGLISH": "Let me help you loosen up.",
+      "CHINESE_SIMPLIFIED": "我来帮您放松",
+      "CHINESE_TRADITIONAL": "我來幫您放鬆",
+      "JAPANESE": "私がほぐしていきますよ",
+      "INDONESIAN": "Biar aku bantu rileksin ya.",
+      "PORTUGUESE": "Deixe-me relaxar um pouco.",
+      "SPANISH": "Déjeme relajarlo un poco.",
+      "PERSIAN": "اجازه بده کمکت کنم شل شوی"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하나",
+      "ENGLISH": "One...",
+      "CHINESE_SIMPLIFIED": "一",
+      "CHINESE_TRADITIONAL": "一",
+      "JAPANESE": "いち",
+      "INDONESIAN": "Satu...",
+      "PORTUGUESE": "Um",
+      "SPANISH": "Uno",
+      "PERSIAN": "یکی..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "둘",
+      "ENGLISH": "Two...",
+      "CHINESE_SIMPLIFIED": "二",
+      "CHINESE_TRADITIONAL": "二",
+      "JAPANESE": "に",
+      "INDONESIAN": "Dua...",
+      "PORTUGUESE": "dois",
+      "SPANISH": "dos",
+      "PERSIAN": "دو..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "셋",
+      "ENGLISH": "Three...",
+      "CHINESE_SIMPLIFIED": "三",
+      "CHINESE_TRADITIONAL": "三",
+      "JAPANESE": "さん",
+      "INDONESIAN": "Tiga...",
+      "PORTUGUESE": "três",
+      "SPANISH": "tres",
+      "PERSIAN": "سه..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "넷",
+      "ENGLISH": "Four...",
+      "CHINESE_SIMPLIFIED": "四",
+      "CHINESE_TRADITIONAL": "四",
+      "JAPANESE": "し",
+      "INDONESIAN": "Empat...",
+      "PORTUGUESE": "quatro",
+      "SPANISH": "cuatro",
+      "PERSIAN": "چهار..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 34.5
+    },
+    "SCRIPT": {
+      "KOREAN": "천천히~",
+      "ENGLISH": "Nice and easy~",
+      "CHINESE_SIMPLIFIED": "慢慢来~",
+      "CHINESE_TRADITIONAL": "慢慢來～",
+      "JAPANESE": "ゆっくり〜",
+      "INDONESIAN": "Pelan-pelan aja~",
+      "PORTUGUESE": "Com cuidado...",
+      "SPANISH": "Con cuidado...",
+      "PERSIAN": "خوب و آسان ~"
+    }
+  }
+]

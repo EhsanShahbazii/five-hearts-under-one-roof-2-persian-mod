@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 왜 민정 씨는 유만 씨한테 오빠라고 불러요? ",
+      "ENGLISH": "But why do you call Yuman oppa, Min-jung?",
+      "CHINESE_SIMPLIFIED": "不过为什么敏静小姐叫你“欧巴”（哥哥）呀？",
+      "CHINESE_TRADITIONAL": "不過為什麼敏靜小姐會叫你哥哥啊？",
+      "JAPANESE": "でも、なんでミンジョンさんはユマンさんのこと“お兄さん”って呼ぶの？",
+      "INDONESIAN": "Kalau gitu, aku boleh mulai pakai kamar ini sekarang...?",
+      "PORTUGUESE": "Mas por que a Minjung te chama de oppa?",
+      "SPANISH": "¿Pero por qué Minjung te llama oppa?",
+      "PERSIAN": "اما چرا یومان را یومان، مین‌جونگ می نامید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아.. 옛날에 민정 님이 오빠라고 부르겠다고 했었거든요",
+      "ENGLISH": "Oh, back in the day, she said she was gonna start calling me that",
+      "CHINESE_SIMPLIFIED": "啊...以前敏静主动说要这么叫的",
+      "CHINESE_TRADITIONAL": "啊…以前她自己說要那麼叫的",
+      "JAPANESE": "あぁ、それは前にミンジョンさんが、“お兄さんって呼びたい”って言ってたからですよ",
+      "INDONESIAN": "Iya! Selama kamu di sini, kamar ini punya kamu.",
+      "PORTUGUESE": "Ah... é que faz um tempo a Minjung disse que queria me chamar assim.",
+      "SPANISH": "Ah… es que hace tiempo Minjung dijo que quería llamarme así.",
+      "PERSIAN": "اوه، در اون روز، او گفت که قرار است شروع به صدا زدن من کند"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": " 음~ 그렇구나? 근데 나 궁금한 거 생겼는데",
+      "ENGLISH": "Hmm, I see~ But now I’m curious about something",
+      "CHINESE_SIMPLIFIED": "嗯~这样啊？不过我突然有点好奇",
+      "CHINESE_TRADITIONAL": "是嗎？那我也有點好奇想問…",
+      "JAPANESE": "ふ〜ん、そうなんだ？ でもね、ちょっと気になることができちゃって",
+      "INDONESIAN": "Pokoknya, selamat datang kembali—selamat ya.",
+      "PORTUGUESE": "Hmm~ entendi? Mas me surgiu uma dúvida.",
+      "SPANISH": "Hmm~ ¿ya veo? Pero me surgió una duda.",
+      "PERSIAN": "هوم، می بینم ~ اما اکنون در مورد چیزی کنجکاو هستم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭔데요?",
+      "ENGLISH": "What is it?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "CHINESE_TRADITIONAL": "問什麼？",
+      "JAPANESE": "なんですか？",
+      "INDONESIAN": "Makasih.",
+      "PORTUGUESE": "Qual?",
+      "SPANISH": "¿Cuál?",
+      "PERSIAN": "چیه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 하숙집에 있는 사람들 중에 누가 제일 예뻐요?",
+      "ENGLISH": "Out of everyone in this house, who do you think is the prettiest?",
+      "CHINESE_SIMPLIFIED": "住在这个合租房的人里，你觉得谁最漂亮？",
+      "CHINESE_TRADITIONAL": "在這間公寓裡，你覺得誰最漂亮呢？",
+      "JAPANESE": "この下宿の中で、一番可愛いのって誰ですか？",
+      "INDONESIAN": "Oh, tapi... soal uang sewa gimana...?",
+      "PORTUGUESE": "Das pessoas que moram nessa pensão... quem você acha a mais bonita?",
+      "SPANISH": "De las personas que viven en esta pensión… ¿quién te parece la más bonita?",
+      "PERSIAN": "از بین همه افراد این خونه، به نظر شما چه کسی زیباتر است؟"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야?",
+      "ENGLISH": "Wait, what?",
+      "CHINESE_SIMPLIFIED": "什么啊？",
+      "CHINESE_TRADITIONAL": "這什麼？",
+      "JAPANESE": "なんだこれ？",
+      "INDONESIAN": "Hah, apaan nih?",
+      "PORTUGUESE": "O que é isso?",
+      "SPANISH": "¿Qué es eso?",
+      "PERSIAN": "صبر کن چی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "누르면 달풍선 2000개",
+      "ENGLISH": "It says if I press this, I get 2,000 balloon coins?",
+      "CHINESE_SIMPLIFIED": "按下去就送你2000个热气球",
+      "CHINESE_TRADITIONAL": "按下去的話會送 2000 個月亮氣球",
+      "JAPANESE": "押したら…風船2000個？",
+      "INDONESIAN": "Tulisannya kalau aku pencet ini, aku dapet 2.000 koin balon?",
+      "PORTUGUESE": "Se você apertar, saem dois mil balões virtuais.",
+      "SPANISH": "Si lo presionas, salen dos mil globos virtuales.",
+      "PERSIAN": "میگه اگه اینو فشار بدم 2000 بالون سکه میگیرم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "눌러? 형님 나 진짜 누른다? 이거 뭔데?",
+      "ENGLISH": "Should I do it? Bro, I’m really gonna press it—what is this thing?",
+      "CHINESE_SIMPLIFIED": "按不按？老铁我真按了啊？这到底什么玩意儿？",
+      "CHINESE_TRADITIONAL": "要按嗎？大哥我真的要按囉？這是什麼東西？",
+      "JAPANESE": "押すぞ兄貴？マジで押すからな？これ何のボタンだよ？",
+      "INDONESIAN": "Gue pencet nggak ya? Bro, gue serius nih mau pencet—ini apaan sih sebenernya?",
+      "PORTUGUESE": "Aperto mesmo? Sério, vou apertar, cara. O que é isso?",
+      "SPANISH": "¿Lo aprieto? De verdad lo hago, bro ¿Qué es esto?",
+      "PERSIAN": "باید اونو انجام دهم؟ برادر، من واقعاً اونو فشار می دهم - این چیه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.8
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 씨 도망가요!",
+      "ENGLISH": "Min-jung, run!!",
+      "CHINESE_SIMPLIFIED": "敏静，快跑！",
+      "CHINESE_TRADITIONAL": "敏靜，快逃跑啊！",
+      "JAPANESE": "ミンジョンさん、逃げましょう！！",
+      "INDONESIAN": "Min-jung, lari!!",
+      "PORTUGUESE": "Minjung, corre! Vai embora agora!",
+      "SPANISH": "¡Minjung, corre! ¡Vete ya!",
+      "PERSIAN": "مین‌جونگ فرار کن!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 더러운 거 먹었어요? 방귀 냄새 진짜 여전하당",
+      "ENGLISH": "Oppa, did you eat something nasty? Still smells like your usual fart!",
+      "CHINESE_SIMPLIFIED": "哥哥你是吃了什么脏东西吗？这屁味还是老样子呢",
+      "CHINESE_TRADITIONAL": "哥，你吃了什麼髒東西嗎？放屁的味道還是跟以前一樣耶",
+      "JAPANESE": "お兄さん、なんか汚いものでも食べました？おならの臭いまだ健在〜",
+      "INDONESIAN": "Oppa, kamu abis makan yang aneh ya? Masih bau kayak kentut kamu yang biasa!",
+      "PORTUGUESE": "Oppa, você comeu alguma coisa estragada? Seus gases continuam terríveis!",
+      "SPANISH": "¿Oppa, comiste algo podrido? ¡Tus gases siguen igual de terribles!",
+      "PERSIAN": "یومان، چیز بدی خوردی؟ هنوز بوی گوز معمولی شما را می دهد!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 27.1
+    },
+    "SCRIPT": {
+      "KOREAN": "사실 퇴원하고 화장실을 잘 못 갔거든요!",
+      "ENGLISH": "To be honest... I haven’t really been able to use the bathroom properly since I got discharged!",
+      "CHINESE_SIMPLIFIED": "其实出院后我一直没能好好上厕所！",
+      "CHINESE_TRADITIONAL": "其實我出院後就不太敢上廁所！",
+      "JAPANESE": "実は退院してからトイレあんまり行けてなかったんだよ！",
+      "INDONESIAN": "Jujur aja sih... sejak keluar dari rumah sakit, aku belum bisa boker dengan lancar!",
+      "PORTUGUESE": "É que desde que recebi alta do hospital não consigo ir direito ao banheiro!",
+      "SPANISH": "¡Es que desde que me dieron el alta no he podido ir bien al baño!",
+      "PERSIAN": "راستش... من واقعاً از زمانی که مرخص شدم نتوانسته ام به درستی از حمام استفاده کنم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "으으 정말~",
+      "ENGLISH": "Ughhh, seriously~!",
+      "CHINESE_SIMPLIFIED": "呃呃真是的~",
+      "CHINESE_TRADITIONAL": "欸，真是的～",
+      "JAPANESE": "ほんとにもう〜",
+      "INDONESIAN": "Ughhh, ya ampun~!",
+      "PORTUGUESE": "Ah, por favor~",
+      "SPANISH": "Ay, por favor~",
+      "PERSIAN": "اوه، جدی ~!"
+    }
+  }
+]

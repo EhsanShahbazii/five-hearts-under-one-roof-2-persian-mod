@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "엇? 유나 씨!",
+      "ENGLISH": "Huh? Yuna!",
+      "CHINESE_SIMPLIFIED": "呃？有娜！",
+      "CHINESE_TRADITIONAL": "欸？有娜！",
+      "JAPANESE": "えっ？ユナさん！",
+      "INDONESIAN": "Hah? Yu-na!",
+      "PORTUGUESE": "Hã? Yuna!",
+      "SPANISH": "¡Eh! ¡Yuna!",
+      "PERSIAN": "ها؟ یونا!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨... 당신 미쳤어요??",
+      "ENGLISH": "What the hell—are you out of your mind??",
+      "CHINESE_SIMPLIFIED": "我靠...你疯了吗？？",
+      "CHINESE_TRADITIONAL": "喂...你瘋了嗎？？",
+      "JAPANESE": "ちょ、ちょっと…あんた正気ですか？？",
+      "INDONESIAN": "Kamu gila ya, ngapain sih?!",
+      "PORTUGUESE": "Droga... ficou louca?!",
+      "SPANISH": "¡Maldición... está mal de la cabeza?!",
+      "PERSIAN": "چه لعنتی - شما از ذهن خود خارج شده اید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그러게 잘 막지 그러셨어요.",
+      "ENGLISH": "Well hey, maybe you should’ve blocked it better.",
+      "CHINESE_SIMPLIFIED": "啊，刚才怎么不好好挡着点啊",
+      "CHINESE_TRADITIONAL": "啊，剛才怎麼不好好擋著",
+      "JAPANESE": "ああ ちゃんと止めてくれればよかったのに",
+      "INDONESIAN": "Yah, salah sendiri kenapa nggak bisa nangkis.",
+      "PORTUGUESE": "Devia ter defendido ela direito.",
+      "SPANISH": "Pues deberías haberla defendido.",
+      "PERSIAN": "خوب هی، شاید بهتر بود اونو بلاک می کردید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나가요 우리.",
+      "ENGLISH": "Come on, let’s get out of here.",
+      "CHINESE_SIMPLIFIED": "我们走吧",
+      "CHINESE_TRADITIONAL": "我們走吧",
+      "JAPANESE": "俺たち 行きましょう",
+      "INDONESIAN": "Udah, ayo kita cabut dari sini.",
+      "PORTUGUESE": "Vamos embora daqui.",
+      "SPANISH": "Vámonos de aquí.",
+      "PERSIAN": "بیا از اینجا برویم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다, 당신들 내가 신고할 거야!!",
+      "ENGLISH": "Y-you psychos, I’m calling the cops!!",
+      "CHINESE_SIMPLIFIED": "你、你们这群人，我要报警！！",
+      "CHINESE_TRADITIONAL": "你、你們這群人，我要報警",
+      "JAPANESE": "全員、お前たち…警察に通報してやるから！！",
+      "INDONESIAN": "K-kalian gila ya, gue laporin ke polisi nih!!",
+      "PORTUGUESE": "Vou denunciar todos vocês!",
+      "SPANISH": "¡Los voy a denunciar a todos!",
+      "PERSIAN": "ای روانی، من به پلیس زنگ می زنم!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "신고해 보던가.",
+      "ENGLISH": "Go ahead, try it.",
+      "CHINESE_SIMPLIFIED": "你有本事就报啊",
+      "CHINESE_TRADITIONAL": "你報警看看啊",
+      "JAPANESE": "やってみろよ",
+      "INDONESIAN": "Silakan, coba aja.",
+      "PORTUGUESE": "Quero ver tentar.",
+      "SPANISH": "A ver, quiero verte intentarlo.",
+      "PERSIAN": "برو، امتحان کن"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이 사람은 괴롭히지 마!",
+      "ENGLISH": "Leave him alone!",
+      "CHINESE_SIMPLIFIED": "别再欺负他了！",
+      "CHINESE_TRADITIONAL": "不要再欺負他了",
+      "JAPANESE": "この人には手を出さないで！",
+      "INDONESIAN": "Jangan ganggu dia!",
+      "PORTUGUESE": "Não mexam com ela!",
+      "SPANISH": "¡No lo molesten!",
+      "PERSIAN": "اونو تنها بگذار!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "신고해 보던가",
+      "ENGLISH": "Go ahead, see what happens.",
+      "CHINESE_SIMPLIFIED": "你报啊",
+      "CHINESE_TRADITIONAL": "你報啊",
+      "JAPANESE": "やってみろって",
+      "INDONESIAN": "Ayo, coba aja. Liat nanti gimana.",
+      "PORTUGUESE": "Tenta denunciar.",
+      "SPANISH": "Intenta denunciarnos.",
+      "PERSIAN": "برو ببین چی میشه"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "억",
+      "ENGLISH": "Ugh!",
+      "CHINESE_SIMPLIFIED": "呃啊",
+      "CHINESE_TRADITIONAL": "呃啊",
+      "JAPANESE": "うっ…！",
+      "INDONESIAN": "Ugh!",
+      "PORTUGUESE": "Uf!",
+      "SPANISH": "¡Uf!",
+      "PERSIAN": "اوه"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어우야 하지 마 애들아 ",
+      "ENGLISH": "Ah, stop it, guys—",
+      "CHINESE_SIMPLIFIED": "哎哟喂，别打了，你们",
+      "CHINESE_TRADITIONAL": "哎唷喂，你們不要打了",
+      "JAPANESE": "や、やめてよ あんたたち",
+      "INDONESIAN": "Ah, udahan dong, kalian—",
+      "PORTUGUESE": "Já chega, pessoal.",
+      "SPANISH": "Ya paren, chicos.",
+      "PERSIAN": "آه، بس کنید، بچه ها -"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그만해",
+      "ENGLISH": "Enough!",
+      "CHINESE_SIMPLIFIED": "别打了",
+      "CHINESE_TRADITIONAL": "不要打了",
+      "JAPANESE": "やめて",
+      "INDONESIAN": "Cukup!",
+      "PORTUGUESE": "Parem!",
+      "SPANISH": "¡Basta!",
+      "PERSIAN": "بس است!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그만해",
+      "ENGLISH": "I said stop!",
+      "CHINESE_SIMPLIFIED": "快停手",
+      "CHINESE_TRADITIONAL": "快住手",
+      "JAPANESE": "もうやめて",
+      "INDONESIAN": "Aku bilang berhenti!!",
+      "PORTUGUESE": "Já chega!",
+      "SPANISH": "¡Ya paren!",
+      "PERSIAN": "گفتم بس کن!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 ",
+      "ENGLISH": "God...",
+      "CHINESE_SIMPLIFIED": "啊真是",
+      "CHINESE_TRADITIONAL": "啊真是",
+      "JAPANESE": "ほんとに",
+      "INDONESIAN": "Ya ampun...",
+      "PORTUGUESE": "Ah, sério...",
+      "SPANISH": "Ah, de verdad...",
+      "PERSIAN": "خدایا..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 24.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어떡해...",
+      "ENGLISH": "What do we do now...",
+      "CHINESE_SIMPLIFIED": "怎么办啊...",
+      "CHINESE_TRADITIONAL": "該怎麼辦...",
+      "JAPANESE": "どうしよう…",
+      "INDONESIAN": "Sekarang kita harus gimana...",
+      "PORTUGUESE": "O que eu vou fazer...?",
+      "SPANISH": "¿Qué voy a hacer...?",
+      "PERSIAN": "حالا چیکار کنیم..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 어떡해...",
+      "ENGLISH": "Seriously, what do we do...",
+      "CHINESE_SIMPLIFIED": "怎么办啊...",
+      "CHINESE_TRADITIONAL": "啊，現在該怎麼辦啊...",
+      "JAPANESE": "あ どうしよう…",
+      "INDONESIAN": "Serius deh, kita harus gimana sekarang...",
+      "PORTUGUESE": "O que eu posso fazer...?",
+      "SPANISH": "¿Que puedo hacer...?",
+      "PERSIAN": "جدی چیکار کنیم..."
+    }
+  }
+]

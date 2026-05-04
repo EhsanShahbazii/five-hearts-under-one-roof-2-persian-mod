@@ -1,0 +1,433 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 빨리 이 쪽으로 가봅시다.",
+      "ENGLISH": "Ah… let’s just hurry and try this way.",
+      "CHINESE_SIMPLIFIED": "啊…快往这边走",
+      "CHINESE_TRADITIONAL": "啊…快、快點走這邊！",
+      "JAPANESE": "あっ…早く、こっちに行ってみましょう",
+      "INDONESIAN": "Ah… ayo cepetan lewat sini aja.",
+      "PORTUGUESE": "Humm... Rápido, vamos por aqui.",
+      "SPANISH": "Estem... Rápido, vamos por aquí.",
+      "PERSIAN": "آه... بیایید عجله کنیم و این راه را امتحان کنیم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리..! 빨리요.",
+      "ENGLISH": "Quickly—come on!",
+      "CHINESE_SIMPLIFIED": "快点…！快点啊",
+      "CHINESE_TRADITIONAL": "快點…！快一點啦！",
+      "JAPANESE": "早く…！早く",
+      "INDONESIAN": "Cepet—ayo!",
+      "PORTUGUESE": "Rápido… mais rápido!",
+      "SPANISH": "Rápido… ¡más rápido!",
+      "PERSIAN": "سریع - بیا!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 맞나...",
+      "ENGLISH": "Is this the right path…?",
+      "CHINESE_SIMPLIFIED": "是这边吗…",
+      "CHINESE_TRADITIONAL": "這裡是對的嗎…",
+      "JAPANESE": "ここで合ってるかな…",
+      "INDONESIAN": "Ini jalur yang bener nggak sih…?",
+      "PORTUGUESE": "Tem certeza de que é por aqui...?",
+      "SPANISH": "¿Seguro que es por aquí...?",
+      "PERSIAN": "این راه درست است…؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아후.. 맞아요, 맞아. 빨리...!",
+      "ENGLISH": "Ugh… yeah, yeah, it’s right. Just hurry…!",
+      "CHINESE_SIMPLIFIED": "啊呼…对了对了，快点…！",
+      "CHINESE_TRADITIONAL": "啊呼…對！沒錯！快一點…！",
+      "JAPANESE": "あ〜合ってる合ってる、早く！",
+      "INDONESIAN": "Ugh… iya iya, bener kok. Cepetan aja…!",
+      "PORTUGUESE": "Sim, sim, por aqui, anda logo...",
+      "SPANISH": "Sí, sí, por aquí, rápido...",
+      "PERSIAN": "اوه… بله، بله، درست است. فقط عجله کن…!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 유만 씨, 잠깐만요!",
+      "ENGLISH": "Hey~ Yuman, hold on a sec!",
+      "CHINESE_SIMPLIFIED": "哎呦~宥万，等一下啦！",
+      "CHINESE_TRADITIONAL": "欸～宥萬先生，等一下啦！",
+      "JAPANESE": "え〜ユマンさん、ちょっと待ってくださいよ！",
+      "INDONESIAN": "Eh~ Yuman, tunggu dulu dong!",
+      "PORTUGUESE": "Ai~ Yumán, espera!",
+      "SPANISH": "Ay~ Yumán, ¡espera!",
+      "PERSIAN": "هی ~ یومان، یک ثانیه صبر کن!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "가보면 알겠죠.",
+      "ENGLISH": "We’ll find out soon enough.",
+      "CHINESE_SIMPLIFIED": "去看看就知道了",
+      "CHINESE_TRADITIONAL": "去看看就知道了",
+      "JAPANESE": "行けばわかりますって",
+      "INDONESIAN": "Ntar juga ketahuan kok.",
+      "PORTUGUESE": "A gente vai saber quando chegar.",
+      "SPANISH": "Lo sabremos cuando lleguemos.",
+      "PERSIAN": "به زودی متوجه خواهیم شد"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아아... 빨리 가. 빨리.",
+      "ENGLISH": "Aahh… just move. Let’s go. Fast.",
+      "CHINESE_SIMPLIFIED": "啊啊…快走，快点",
+      "CHINESE_TRADITIONAL": "啊啊…快走啦，快一點",
+      "JAPANESE": "あ〜早く行こう、早く",
+      "INDONESIAN": "Aahh… jalan aja deh. Buruan.",
+      "PORTUGUESE": "Ahhh... vamos, rápido, rápido.",
+      "SPANISH": "Ahhh... vamos, rápido, rápido.",
+      "PERSIAN": "آها... فقط حرکت کن. برویم سریع"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 여기... 길이 막혀있는데요?!",
+      "ENGLISH": "Uh—this path’s blocked off?!",
+      "CHINESE_SIMPLIFIED": "呃，这里…路堵住了啊？！",
+      "CHINESE_TRADITIONAL": "欸？但這裡…路被堵住了耶？！",
+      "JAPANESE": "あっ、ここ…道、塞がってますけど！？",
+      "INDONESIAN": "Eh—jalan ini ditutup?!",
+      "PORTUGUESE": "O caminho... tá bloqueado!",
+      "SPANISH": "¡El camino... está bloqueado!",
+      "PERSIAN": "اوه-این مسیر مسدود شده است؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네...? 아아, 길 막혀있으면 안 되는데에!",
+      "ENGLISH": "What? No way—it can’t be blocked!!",
+      "CHINESE_SIMPLIFIED": "嗯…？啊啊，路堵住了可不行啊！",
+      "CHINESE_TRADITIONAL": "欸？啊啊，不行啊，這裡不能被擋住的！",
+      "JAPANESE": "え…？あぁ、塞がってたらまずいのにい！",
+      "INDONESIAN": "Hah? Nggak mungkin—masa ditutup sih!!",
+      "PORTUGUESE": "Hã...? Isso não pode ser...",
+      "SPANISH": "¿Eh...? Eso no puedo ser...",
+      "PERSIAN": "چی؟ به هیچ وجه - نمی توان اونو مسدود کرد!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "왔던 길로 되돌아서 가야 하나...?",
+      "ENGLISH": "Do we have to go back the way we came…?",
+      "CHINESE_SIMPLIFIED": "要顺着原路返回吗…？",
+      "CHINESE_TRADITIONAL": "要不要順著原路走回去啊…？",
+      "JAPANESE": "戻ったほうがいいんじゃ…？",
+      "INDONESIAN": "Kita harus balik ke jalan tadi…?",
+      "PORTUGUESE": "Será que a gente devia voltar pelo mesmo caminho...?",
+      "SPANISH": "¿Deberíamos regresar por donde vinimos...?",
+      "PERSIAN": "باید از راهی که آمدیم برگردیم...؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "안 돼요. 안돼안돼안돼안돼.",
+      "ENGLISH": "No. No no no no no.",
+      "CHINESE_SIMPLIFIED": "不行，不行不行不行不行",
+      "CHINESE_TRADITIONAL": "不行。不行不行不行",
+      "JAPANESE": "だめです。だめだめだめだめ",
+      "INDONESIAN": "Nggak. Nggak nggak nggak nggak.",
+      "PORTUGUESE": "Não. Não, não, não, não.",
+      "SPANISH": "No. No, no, no, no.",
+      "PERSIAN": "نه نه نه نه نه."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "왔던 길로 돌아가는 게 낫겠어요.",
+      "ENGLISH": "I think we should head back.",
+      "CHINESE_SIMPLIFIED": "还是原路返回比较好",
+      "CHINESE_TRADITIONAL": "我覺得還是回去比較好",
+      "JAPANESE": "来た道戻ったほうがいいですよ",
+      "INDONESIAN": "Menurutku kita mending balik.",
+      "PORTUGUESE": "Acho melhor voltar por onde viemos.",
+      "SPANISH": "Creo que es mejor regresar por el mismo camino.",
+      "PERSIAN": "به نظر من باید برگردیم"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "ㅇ..아, 안 돼요. 빨리 빨리...",
+      "ENGLISH": "N-no, we can’t… please, hurry…",
+      "CHINESE_SIMPLIFIED": "呃…啊，不行，快点快点…",
+      "CHINESE_TRADITIONAL": "不、不行啦，快點快點...",
+      "JAPANESE": "い、いや、だめです！早く早く…",
+      "INDONESIAN": "T-tidak, nggak bisa… tolong, cepetan…",
+      "PORTUGUESE": "N-não, não. Rápido, rápido...",
+      "SPANISH": "N-no, no. Rápido, rápido...",
+      "PERSIAN": "نه، نمی‌تونیم... لطفاً عجله کنید…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 그러지 말고 가요. 유만씨.",
+      "ENGLISH": "Come on, don’t be like that—let’s just go, Yuman.",
+      "CHINESE_SIMPLIFIED": "哎呦，别这样了，回去吧，宥万",
+      "CHINESE_TRADITIONAL": "欸，宥萬先生，我們不要回頭啦",
+      "JAPANESE": "ちょっと、こうしてないで行きましょう　ユマンさん",
+      "INDONESIAN": "Ayolah, jangan gitu—balik aja yuk, Yuman.",
+      "PORTUGUESE": "Yuman, não faz assim, vamos embora.",
+      "SPANISH": "Yuman, no seas así y vámonos .",
+      "PERSIAN": "بیا، اینطوری نباش - بیا برویم، یومان."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 29.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아...! 아니요. 괜찮을 것 같아요.",
+      "ENGLISH": "Ah…! No. I think… I think I’ll be okay.",
+      "CHINESE_SIMPLIFIED": "啊…！不用了，好像没关系了",
+      "CHINESE_TRADITIONAL": "啊...！沒事，走回去好像也可以",
+      "JAPANESE": "あっ…！いえ、大丈夫そうです",
+      "INDONESIAN": "Ah…! Nggak. Kayaknya… aku bakal baik-baik aja.",
+      "PORTUGUESE": "Ah... não! Acho que... já não é mais necessário.",
+      "SPANISH": "Ah... ¡No! Creo que... ya no hay necesidad.",
+      "PERSIAN": "آه…! نه. فکر می کنم... فکر می کنم خوب باشم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 그게 무슨 말이에요?",
+      "ENGLISH": "Huh? What do you mean by that?",
+      "CHINESE_SIMPLIFIED": "嗯？这是什么意思？",
+      "CHINESE_TRADITIONAL": "嗯？這是什麼意思？",
+      "JAPANESE": "え？どういう意味ですか？",
+      "INDONESIAN": "Hah? Maksud kamu apa tuh?",
+      "PORTUGUESE": "Hã? O que você quer dizer?",
+      "SPANISH": "¿Eh? ¿Qué quiere decir?",
+      "PERSIAN": "ها؟ منظور شما از اون چیه؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 33.4
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아져... 버렸어요...",
+      "ENGLISH": "It’s… already okay now…",
+      "CHINESE_SIMPLIFIED": "没关系了…已经解决掉了…",
+      "CHINESE_TRADITIONAL": "已經…沒事了…",
+      "JAPANESE": "もう…大丈夫になっちゃいました…",
+      "INDONESIAN": "Ini… udah nggak apa-apa sekarang…",
+      "PORTUGUESE": "Já... já tô me sentindo melhor...",
+      "SPANISH": "Ya... ya me siento mejor...",
+      "PERSIAN": "الان دیگه مشکلی نداره…"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 36.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네..? 오빠, 설마...",
+      "ENGLISH": "Huh? Wait—Oppa, don’t tell me…",
+      "CHINESE_SIMPLIFIED": "嗯…？哥哥，难道…",
+      "CHINESE_TRADITIONAL": "欸？哥哥，你該不會…",
+      "JAPANESE": "え？お兄さん、まさか…",
+      "INDONESIAN": "Hah? Jangan bilang…",
+      "PORTUGUESE": "Hã...? Oppa, não me diga que...",
+      "SPANISH": "¿Eh...? Oppa, no me digas que...",
+      "PERSIAN": "ها؟ صبر کن - یومان، به من نگو…"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 38.8
+    },
+    "SCRIPT": {
+      "KOREAN": "으으으으으!!!!",
+      "ENGLISH": "Uuuuuuuuugh!!!!",
+      "CHINESE_SIMPLIFIED": "呃呃呃呃呃！！！",
+      "CHINESE_TRADITIONAL": "呃呃呃呃呃！！！！",
+      "JAPANESE": "うぅぅぅぅ！！！",
+      "INDONESIAN": "Uuuuuuuuugh!!!!",
+      "PORTUGUESE": "Uuuuuugh...",
+      "SPANISH": "Uuuuuugh...",
+      "PERSIAN": "اووووووووف!!!!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 41.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야...?",
+      "ENGLISH": "Ugh…",
+      "CHINESE_SIMPLIFIED": "什么啊…",
+      "CHINESE_TRADITIONAL": "啊啊…",
+      "JAPANESE": "はぁ…",
+      "INDONESIAN": "Ugh…",
+      "PORTUGUESE": "Aaai...",
+      "SPANISH": "Aaay...",
+      "PERSIAN": "اوه…"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 42.0,
+      "HIDE": 43.2
+    },
+    "SCRIPT": {
+      "KOREAN": "냄새...",
+      "ENGLISH": "The smell…",
+      "CHINESE_SIMPLIFIED": "这味道…",
+      "CHINESE_TRADITIONAL": "味道…",
+      "JAPANESE": "においが…",
+      "INDONESIAN": "Baunya…",
+      "PORTUGUESE": "Esse cheiro...",
+      "SPANISH": "Ese olor...",
+      "PERSIAN": "بوی…"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 44.2,
+      "HIDE": 45.1
+    },
+    "SCRIPT": {
+      "KOREAN": "가자...",
+      "ENGLISH": "Let’s go…",
+      "CHINESE_SIMPLIFIED": "走吧…",
+      "CHINESE_TRADITIONAL": "走吧…",
+      "JAPANESE": "行きましょう…",
+      "INDONESIAN": "Ayo pergi…",
+      "PORTUGUESE": "Vamos embora...",
+      "SPANISH": "Vámonos...",
+      "PERSIAN": "بریم…"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 46.2,
+      "HIDE": 47.4
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 싼 거야?!",
+      "ENGLISH": "Did you actually…?!",
+      "CHINESE_SIMPLIFIED": "真的就地解决了？！",
+      "CHINESE_TRADITIONAL": "你該不會真的…拉出來了？！",
+      "JAPANESE": "まさか…ほんとに出したの！？",
+      "INDONESIAN": "Kamu beneran…?!",
+      "PORTUGUESE": "Você... mijou mesmo...?",
+      "SPANISH": "¿De verdad te orinaste...?",
+      "PERSIAN": "واقعاً…؟!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 47.5,
+      "HIDE": 49.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 시원하다...",
+      "ENGLISH": "Ah… that feels better…",
+      "CHINESE_SIMPLIFIED": "啊…爽啊…",
+      "CHINESE_TRADITIONAL": "啊…舒服多了…",
+      "JAPANESE": "あ〜スッキリした…",
+      "INDONESIAN": "Ah… lega juga…",
+      "PORTUGUESE": "Ah... que alívio...",
+      "SPANISH": "Ah... qué alivio...",
+      "PERSIAN": "آه ... احساس بهتری دارد ..."
+    }
+  }
+]

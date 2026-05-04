@@ -1,0 +1,79 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "PERSIAN": "어؟"
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 여기 왜 있지...?",
+      "PERSIAN": "이게 여기 왜 있지...؟"
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5
+    },
+    "SCRIPT": {
+      "KOREAN": "참... 진짜",
+      "PERSIAN": "참... 진짜"
+    }
+  },
+  {
+    "INDEX": 4,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "PERSIAN": "어؟"
+    }
+  },
+  {
+    "INDEX": 5,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍~",
+      "PERSIAN": "쓰읍~"
+    }
+  },
+  {
+    "INDEX": 6,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "거 콘돔 크흠, 챙겨볼까...?",
+      "PERSIAN": "거 콘돔 크흠، 챙겨볼까...؟"
+    }
+  },
+  {
+    "INDEX": 7,
+    "TIME": {
+      "SHOW": 11,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "씁~ 좋아",
+      "PERSIAN": "씁~ 좋아"
+    }
+  }
+]

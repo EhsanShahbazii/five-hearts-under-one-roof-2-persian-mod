@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하~ 괜히 낯서네...",
+      "ENGLISH": "Ha~ everything feels so unfamiliar…",
+      "CHINESE_SIMPLIFIED": "哈～感觉有点陌生啊...",
+      "CHINESE_TRADITIONAL": "哈～怎麼有點陌生…",
+      "JAPANESE": "はあ〜、なんだか妙に落ち着かないな…",
+      "INDONESIAN": "Hah~ entah kenapa rasanya jadi asing ya...",
+      "PORTUGUESE": "Ha~ tudo parece tão estranho…",
+      "SPANISH": "Ha~ Se siente raro...",
+      "PERSIAN": "هاااه~ بعد این همه مدت چقدر همه‌چیز بوی غربت می‌ده..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 뭐 하나도 변한 건 없네.",
+      "ENGLISH": "But I guess nothing’s really changed.",
+      "CHINESE_SIMPLIFIED": "不过好像也没什么变化？",
+      "CHINESE_TRADITIONAL": "不過好像也沒什麼變",
+      "JAPANESE": "でもまあ、何ひとつ変わってないな",
+      "INDONESIAN": "Tapi ya, nggak ada yang berubah juga sih.",
+      "PORTUGUESE": "Mas acho que nada realmente mudou.",
+      "SPANISH": "Aunque nada ha cambiado realmente.",
+      "PERSIAN": "ولی خب، خداروشکر هیچی تغییر نکرده و همونطوریه."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어? ",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "咦？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hm?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "عه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 말숙이는 잘 지내고 있으려나...",
+      "ENGLISH": "Sigh… I wonder how Malsook’s doing…",
+      "CHINESE_SIMPLIFIED": "唉…不知道末淑现在过得怎么样了…",
+      "CHINESE_TRADITIONAL": "唉…不知道末淑過得好不好…",
+      "JAPANESE": "はあ…マルスクは元気にしてるかな…",
+      "INDONESIAN": "Hah... kira-kira Mal-sook masih baik-baik aja nggak ya...",
+      "PORTUGUESE": "Ai… como será que a Malsook tá…",
+      "SPANISH": "Ha... ¿cómo estará Malsook...?",
+      "PERSIAN": "هوووف... یعنی مال‌سوک الان در چه حاله؟ چه کارا که نمی‌کنه..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에휴...",
+      "ENGLISH": "Ugh…",
+      "CHINESE_SIMPLIFIED": "唉…",
+      "CHINESE_TRADITIONAL": "唉...",
+      "JAPANESE": "ふぅ…",
+      "INDONESIAN": "Ehh...",
+      "PORTUGUESE": "Ugh…",
+      "SPANISH": "Ay...",
+      "PERSIAN": "ای بابا..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "으아아아~ 모르겠다! 읏차!",
+      "ENGLISH": "Arghhh, whatever! Up we go!",
+      "CHINESE_SIMPLIFIED": "啊啊啊～不管了！ ！哎呀！",
+      "CHINESE_TRADITIONAL": "啊啊啊～不管了！！哎咻！",
+      "JAPANESE": "うわぁぁぁ〜もう知らん！ よっこいしょ！",
+      "INDONESIAN": "Aaaah~ udahlah, bodo amat! Hup!",
+      "PORTUGUESE": "Arghhh, tanto faz! Vamos lá!",
+      "SPANISH": "¡Aaaah~ qué  importa! ¡Vamos!",
+      "PERSIAN": "ای بابا بی‌خیال اصلاً! هرچه باداباد! یا علی!"
+    }
+  }
+]

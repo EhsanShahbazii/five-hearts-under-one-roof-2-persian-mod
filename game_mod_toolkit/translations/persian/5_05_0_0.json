@@ -1,0 +1,578 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "또 필요한 거 있어?",
+      "ENGLISH": "Need anything else?",
+      "CHINESE_SIMPLIFIED": "还需要什么吗？",
+      "CHINESE_TRADITIONAL": "還有需要什麼嗎？",
+      "JAPANESE": "他に欲しいものある？",
+      "INDONESIAN": "Ada yang kamu butuh lagi nggak?",
+      "PORTUGUESE": "Precisa de mais alguma coisa?",
+      "SPANISH": "¿Necesitas algo más?",
+      "PERSIAN": "به چیز دیگری نیاز دارید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나, 나으면 어디 놀러가고 싶어...",
+      "ENGLISH": "When I get better… I wanna go somewhere fun.",
+      "CHINESE_SIMPLIFIED": "我、我好了之后想出去玩玩...",
+      "CHINESE_TRADITIONAL": "恢復後想要出去玩...",
+      "JAPANESE": "えっと…治ったらどこか遊びに行きたいな…",
+      "INDONESIAN": "Kalau aku udah sembuh… aku pengin jalan-jalan ke tempat seru.",
+      "PORTUGUESE": "Quero… sair pra me divertir em algum lugar… quando eu me recuperar.",
+      "SPANISH": "Quiero… salir a algún lugar a divertirme… cuando me recupere.",
+      "PERSIAN": "وقتی بهتر شدم... می خواهم به جایی سرگرم کننده بروم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "가면 되지!",
+      "ENGLISH": "Then let’s go!",
+      "CHINESE_SIMPLIFIED": "想去就去呗！",
+      "CHINESE_TRADITIONAL": "那就去啊！",
+      "JAPANESE": "行けばいいじゃん！",
+      "INDONESIAN": "Ya udah, ayo kita pergi!",
+      "PORTUGUESE": "Então vamos sair!",
+      "SPANISH": "¡Pues salgamos!",
+      "PERSIAN": "پس بیا بریم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "벌써 시간이 이렇게 됐네요?",
+      "ENGLISH": "Whoa, it’s already this late?",
+      "CHINESE_SIMPLIFIED": "已经这么晚啦？",
+      "CHINESE_TRADITIONAL": "這麼快就到這個時間了啊？",
+      "JAPANESE": "もうこんな時間？",
+      "INDONESIAN": "Wah, udah malam aja?",
+      "PORTUGUESE": "Hã? Já ficou tão tarde assim?",
+      "SPANISH": "¿Eh? ¿Ya se hizo tan tarde?",
+      "PERSIAN": "اوه، الان اینقدر دیر شده؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 이제 가보셔야 하는 거예요?",
+      "ENGLISH": "Oh—do you have to leave now?",
+      "CHINESE_SIMPLIFIED": "啊，您这就要走了吗？",
+      "CHINESE_TRADITIONAL": "啊，你要走了嗎？",
+      "JAPANESE": "あ、もう行かないとですか？",
+      "INDONESIAN": "Oh—kamu harus cabut sekarang?",
+      "PORTUGUESE": "Ah, a senhora já vai embora?",
+      "SPANISH": "Ah, ¿tiene que irse ya?",
+      "PERSIAN": "اوه-الان باید بری؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 야간근무 들어가야 되기도 하구.",
+      "ENGLISH": "Yeah, I’ve got a night shift coming up.",
+      "CHINESE_SIMPLIFIED": "嗯，我还得值夜班呢",
+      "CHINESE_TRADITIONAL": "嗯，我還要去上夜班",
+      "JAPANESE": "はい、夜勤入らなきゃいけなくて",
+      "INDONESIAN": "Iya, aku masuk shift malam soalnya.",
+      "PORTUGUESE": "Sim, tenho turno noturno.",
+      "SPANISH": "Sí, tengo turno nocturno.",
+      "PERSIAN": "آره، من یک شیفت شب دارم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "여러분도 가셔야 될 텐데?",
+      "ENGLISH": "You guys probably need to head out too, right?",
+      "CHINESE_SIMPLIFIED": "各位也该回去了吧？",
+      "CHINESE_TRADITIONAL": "各位都該回去了吧？",
+      "JAPANESE": "みんなもそろそろ帰らないとじゃないですか？",
+      "INDONESIAN": "Kalian juga harus cabut kan?",
+      "PORTUGUESE": "E vocês? Não deviam ir também?",
+      "SPANISH": "¿Y ustedes? ¿No deberían irse también?",
+      "PERSIAN": "شما هم احتمالاً باید بیرون بروید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 가야 한다구요?",
+      "ENGLISH": "Huh? We have to leave?",
+      "CHINESE_SIMPLIFIED": "啊？现在就要走吗？",
+      "CHINESE_TRADITIONAL": "欸？大家要走了嗎？",
+      "JAPANESE": "え？帰るんですか？",
+      "INDONESIAN": "Hah? Kita harus pergi?",
+      "PORTUGUESE": "Hã? Que a gente vá embora?",
+      "SPANISH": "¿Eh? ¿Que nos vayamos?",
+      "PERSIAN": "ها؟ باید بریم؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 나도 집 들르긴 해야 되는데.",
+      "ENGLISH": "Ah, yeah—I should probably stop by home.",
+      "CHINESE_SIMPLIFIED": "啊，我也得回趟家",
+      "CHINESE_TRADITIONAL": "嗯，我也得回家一趟",
+      "JAPANESE": "あ〜私も一回家寄らなきゃな",
+      "INDONESIAN": "Ah iya—aku harus mampir ke rumah dulu.",
+      "PORTUGUESE": "Bom, eu preciso passar em casa um momento.",
+      "SPANISH": "Bueno, yo tengo que ir a la casa un momento.",
+      "PERSIAN": "آه، بله، احتمالاً باید در خونه توقف کنم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 업무 넘길 거 있어서 가보긴 해야 되는데.",
+      "ENGLISH": "Same here. I’ve got stuff to hand off at work.",
+      "CHINESE_SIMPLIFIED": "我也有工作要交接，得去处理",
+      "CHINESE_TRADITIONAL": "我還有其他工作，所以要回去了",
+      "JAPANESE": "私も引き継ぎあるから行かないと",
+      "INDONESIAN": "Aku juga, ada kerjaan yang harus dikasih ke orang kantor.",
+      "PORTUGUESE": "Eu também, tenho que entregar umas pendências.",
+      "SPANISH": "Yo también, tengo que entregar unos pendientes.",
+      "PERSIAN": "اینجا هم همینطور من چیزهایی دارم که باید در محل کار تحویل بدهم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나머지 분들은 어때요?",
+      "ENGLISH": "What about the rest of you?",
+      "CHINESE_SIMPLIFIED": "其他几位呢？",
+      "CHINESE_TRADITIONAL": "剩下的人呢？",
+      "JAPANESE": "残りの人たちはどうします？",
+      "INDONESIAN": "Kalau yang lain gimana?",
+      "PORTUGUESE": "E as outras?",
+      "SPANISH": "¿Y las demás?",
+      "PERSIAN": "بقیه شما چطور؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 뭐, 딱히 뭐 없어요",
+      "ENGLISH": "Me? Not really doing anything.",
+      "CHINESE_SIMPLIFIED": "我嘛，倒也没什么事",
+      "CHINESE_TRADITIONAL": "我沒什麼特別的事",
+      "JAPANESE": "私は別に特に予定ないです",
+      "INDONESIAN": "Aku? Nggak ada kegiatan sih.",
+      "PORTUGUESE": "Eu, bem… não tenho nada em especial.",
+      "SPANISH": "Yo, pues… no tengo nada en especial.",
+      "PERSIAN": "من؟ واقعا هیچ کاری نمیکنه"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 딱히 뭐 없긴해요.",
+      "ENGLISH": "Yeah, same here.",
+      "CHINESE_SIMPLIFIED": "我也没什么安排",
+      "CHINESE_TRADITIONAL": "我也沒有",
+      "JAPANESE": "私も特にないですね",
+      "INDONESIAN": "Iya, sama aja.",
+      "PORTUGUESE": "Eu também não, pra ser sincera.",
+      "SPANISH": "Yo tampoco, la verdad.",
+      "PERSIAN": "آره اینجا هم همینطور"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.8,
+      "HIDE": 31.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 괜찮아요.",
+      "ENGLISH": "I’m good too.",
+      "CHINESE_SIMPLIFIED": "我也没事",
+      "CHINESE_TRADITIONAL": "我也沒事",
+      "JAPANESE": "私も大丈夫です",
+      "INDONESIAN": "Aku juga aman.",
+      "PORTUGUESE": "Eu tô de boa também.",
+      "SPANISH": "Yo estoy bien.",
+      "PERSIAN": "من هم خوبم"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 34.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 됐네. 세 분이서 수고 좀 해주시면 ",
+      "ENGLISH": "Perfect. If you three could stick around,",
+      "CHINESE_SIMPLIFIED": "那就好，麻烦三位辛苦照看了",
+      "CHINESE_TRADITIONAL": "那這樣吧，你們三個辛苦一點陪他",
+      "JAPANESE": "じゃあ決まりだね 三人にお願いして",
+      "INDONESIAN": "Pas banget. Kalau kalian bertiga bisa tinggal di sini,",
+      "PORTUGUESE": "Perfeito. Se vocês três ficarem hoje,",
+      "SPANISH": "Perfecto. Si las tres se quedan hoy,",
+      "PERSIAN": "عالی اگر شما سه نفر می توانستید بمانید،"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.3,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저희가 내일 아침에 나머지 다 챙길게요.",
+      "ENGLISH": "we’ll take care of everything else in the morning.",
+      "CHINESE_SIMPLIFIED": "我们明早再来接手你们",
+      "CHINESE_TRADITIONAL": "我們明天早上會來接手",
+      "JAPANESE": "明日の朝、私たちが残り全部見るから",
+      "INDONESIAN": "kita urus sisanya besok pagi aja.",
+      "PORTUGUESE": "amanhã a gente cuida do resto.",
+      "SPANISH": "nosotras mañana nos encargamos del resto.",
+      "PERSIAN": "ما صبح به همه چیز رسیدگی می کنیم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 37.8,
+      "HIDE": 39.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 그럼 저희가 오빠 곁에 있을게요!",
+      "ENGLISH": "Sounds good! We’ll stay with Oppa!",
+      "CHINESE_SIMPLIFIED": "好！那我们今晚会陪着哥哥的！",
+      "CHINESE_TRADITIONAL": "好！那我們就留下來陪著哥哥！",
+      "JAPANESE": "はい！じゃあ私たちがお兄さんのそばにいますね！",
+      "INDONESIAN": "Sip! Kita temenin Oppa!",
+      "PORTUGUESE": "Sim! Então a gente vai ficar com o Yuman oppa.",
+      "SPANISH": "¡Sí! Entonces nos quedaremos con Yuman oppa.",
+      "PERSIAN": "خوب به نظر می رسد! ما با یومان می مانیم!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 40.2,
+      "HIDE": 41.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 좋아요!",
+      "ENGLISH": "I’m fine with that!",
+      "CHINESE_SIMPLIFIED": "我也没问题！",
+      "CHINESE_TRADITIONAL": "我可以！",
+      "JAPANESE": "私もいいですよ！",
+      "INDONESIAN": "Aku sih oke aja!",
+      "PORTUGUESE": "Concordo!",
+      "SPANISH": "¡Estoy de acuerdo!",
+      "PERSIAN": "من با اون خوبم!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 41.4,
+      "HIDE": 42.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 밤에 수고해 줘요.",
+      "ENGLISH": "Alright, take good care of him tonight.",
+      "CHINESE_SIMPLIFIED": "那晚上就辛苦你们啦",
+      "CHINESE_TRADITIONAL": "晚上就拜託你們了",
+      "JAPANESE": "じゃあ夜はよろしくね",
+      "INDONESIAN": "Oke, jagain dia baik-baik malam ini ya.",
+      "PORTUGUESE": "Então, cuidem-se.",
+      "SPANISH": "Entonces, que les vaya bien.",
+      "PERSIAN": "باشه امشب خوب مراقبش باش"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 48.5,
+      "HIDE": 52.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만, 얌전히 잘 자고 있어~ 한눈팔면 안 돼~",
+      "ENGLISH": "Yuman, be good and get some rest~ Don't look at other people!",
+      "CHINESE_SIMPLIFIED": "吴宥万，要乖乖睡觉哦~可不许乱看别人~",
+      "CHINESE_TRADITIONAL": "吳宥萬，乖乖休息啊～不要東張西望的～",
+      "JAPANESE": "ユマン、ちゃんとおとなしく寝てなよ〜浮気しちゃダメだよ〜",
+      "INDONESIAN": "Yuman, istirahat yang bener~ Jangan ngelirik yang lain!",
+      "PORTUGUESE": "Descansa, Yuman. E não olha pra outras meninas~",
+      "SPANISH": "Descansa, Yuman. Y no mires a otras chicas~",
+      "PERSIAN": "یومان، خوب باش و کمی استراحت کن~ به دیگران نگاه نکن!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 53.3,
+      "HIDE": 54.4
+    },
+    "SCRIPT": {
+      "KOREAN": "잘가...",
+      "ENGLISH": "Bye…",
+      "CHINESE_SIMPLIFIED": "再见...",
+      "CHINESE_TRADITIONAL": "掰掰...",
+      "JAPANESE": "ばいばい…",
+      "INDONESIAN": "Dadah…",
+      "PORTUGUESE": "Tchau...",
+      "SPANISH": "Adiós...",
+      "PERSIAN": "فعلاً، خدافظ…"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 58.2,
+      "HIDE": 59.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아.",
+      "ENGLISH": "Ah.",
+      "CHINESE_SIMPLIFIED": "啊",
+      "CHINESE_TRADITIONAL": "啊",
+      "JAPANESE": "あ、",
+      "INDONESIAN": "Ah.",
+      "PORTUGUESE": "Ah.",
+      "SPANISH": "Ah.",
+      "PERSIAN": "آه"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 61.2,
+      "HIDE": 65.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그, 이따 밤에 병원 혼자 돌아 다니지 마요.",
+      "ENGLISH": "Hey… don’t go wandering the halls alone tonight.",
+      "CHINESE_SIMPLIFIED": "那个...晚上别独自在医院里晃悠",
+      "CHINESE_TRADITIONAL": "啊。還有，晚上不要一個人在醫院裡亂晃",
+      "JAPANESE": "そ、その…夜に病院うろうろしないでくださいね",
+      "INDONESIAN": "Eh… malam ini jangan keluyuran sendirian ya di lorong.",
+      "PORTUGUESE": "Aliás… não andem sozinhas pelo hospital à noite.",
+      "SPANISH": "Por cierto… no anden solas por el hospital de noche.",
+      "PERSIAN": "هی... امشب به تنهایی در سالن ها پرسه نزنید."
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 65.2,
+      "HIDE": 66.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 왜요?",
+      "ENGLISH": "Huh? Why not?",
+      "CHINESE_SIMPLIFIED": "嗯？为什么？",
+      "CHINESE_TRADITIONAL": "欸？為什麼啊？",
+      "JAPANESE": "え？なんでですか？",
+      "INDONESIAN": "Hah? Kenapa emang?",
+      "PORTUGUESE": "Hã? Por quê?",
+      "SPANISH": "¿Eh? ¿Por qué?",
+      "PERSIAN": "ها؟ چرا نه؟"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 66.4,
+      "HIDE": 69.6
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍...그 뭐, 괴담 같은 거긴 한데, ",
+      "ENGLISH": "Well… it’s kind of a rumor, but—",
+      "CHINESE_SIMPLIFIED": "嘶...算是怪谈之类的吧",
+      "CHINESE_TRADITIONAL": "嗯... 那個，雖然說只是個鬼故事",
+      "JAPANESE": "ん〜…まぁ、噂みたいなもんなんですけど",
+      "INDONESIAN": "Hmm… ini sih cuma rumor ya—",
+      "PORTUGUESE": "Pss… bem, é só um boato,",
+      "SPANISH": "Pss… bueno, es solo un rumor,",
+      "PERSIAN": "خب… این یک جور شایعه است، اما-"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 70.3,
+      "HIDE": 73.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저희 병원에 귀신 나온다는 말이 있거든요.",
+      "ENGLISH": "They say this hospital might be… haunted.",
+      "CHINESE_SIMPLIFIED": "听说我们医院闹鬼呢",
+      "CHINESE_TRADITIONAL": "聽說我們醫院會鬧鬼",
+      "JAPANESE": "この病院、幽霊が出るって話があって…",
+      "INDONESIAN": "Tapi katanya rumah sakit ini… angker tau.",
+      "PORTUGUESE": "Dizem que tem fantasmas neste hospital.",
+      "SPANISH": "pero dicen que en este hospital hay fantasmas.",
+      "PERSIAN": "اونا می گویند این بیمارستان ممکنه ... جن زده باشد."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 73.3,
+      "HIDE": 74.5
+    },
+    "SCRIPT": {
+      "KOREAN": "귀신이요??",
+      "ENGLISH": "Haunted?!",
+      "CHINESE_SIMPLIFIED": "鬼？？",
+      "CHINESE_TRADITIONAL": "鬼？？",
+      "JAPANESE": "幽霊！？",
+      "INDONESIAN": "Angker?!",
+      "PORTUGUESE": "Um fantasma??",
+      "SPANISH": "¿Fantasmas?",
+      "PERSIAN": "جن زده؟!"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 75.9,
+      "HIDE": 76.7
+    },
+    "SCRIPT": {
+      "KOREAN": "농담이에요~",
+      "ENGLISH": "I’m kidding~",
+      "CHINESE_SIMPLIFIED": "开玩笑啦~",
+      "CHINESE_TRADITIONAL": "開玩笑的啦～",
+      "JAPANESE": "冗談ですよ〜",
+      "INDONESIAN": "Bercanda~",
+      "PORTUGUESE": "Tô brincando~",
+      "SPANISH": "Es broma~",
+      "PERSIAN": "شوخی میکنم~"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 77.3,
+      "HIDE": 78.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼 먼저 가볼게요~",
+      "ENGLISH": "Anyway, I’ll head out now!",
+      "CHINESE_SIMPLIFIED": "总之我先走啦~",
+      "CHINESE_TRADITIONAL": "總之我先走了～",
+      "JAPANESE": "じゃ、行ってきますね〜",
+      "INDONESIAN": "Ya udah, aku pergi dulu ya!",
+      "PORTUGUESE": "Enfim, já vou indo.",
+      "SPANISH": "En fin, ya me voy.",
+      "PERSIAN": "به هر حال من الان میرم بیرون!"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 80.0,
+      "HIDE": 82.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아하하~ 이 병원 진짜 재밌다! ",
+      "ENGLISH": "Ahaha~ This hospital’s wild!",
+      "CHINESE_SIMPLIFIED": "啊哈哈~这家医院真有意思！",
+      "CHINESE_TRADITIONAL": "啊哈哈～ 這醫院真有趣！",
+      "JAPANESE": "あはは〜この病院本当面白い！",
+      "INDONESIAN": "Ahaha~ Rumah sakit ini emang gokil!",
+      "PORTUGUESE": "Hahaha~ Esse hospital é mesmo interessante!",
+      "SPANISH": "Jajaja~ ¡Este hospital sí que es interesante!",
+      "PERSIAN": "آهاها ~ این بیمارستان وحشی است!"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 82.8,
+      "HIDE": 85.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이따가 밤에 화장실만 안 가면 되겠다! 그쵸??",
+      "ENGLISH": "Guess I’ll just make sure I don’t go to the bathroom tonight, huh?",
+      "CHINESE_SIMPLIFIED": "只要晚上别去洗手间就行了吧！对吧？？",
+      "CHINESE_TRADITIONAL": "晚上只要不去廁所就好了！對吧？？",
+      "JAPANESE": "夜にトイレ行かなきゃいいだけですよね？",
+      "INDONESIAN": "Berarti aku harus tahan nggak ke kamar mandi malem ini, ya?",
+      "PORTUGUESE": "Enquanto a gente não for ao banheiro à noite, tudo bem, né?",
+      "SPANISH": "Mientras no vayamos al baño de noche, todo bien ¿verdad?",
+      "PERSIAN": "حدس می زنم فقط مطمئن شوم که امشب به دستشویی نروم، نه؟"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 86.0,
+      "HIDE": 87.2
+    },
+    "SCRIPT": {
+      "KOREAN": "으응.....",
+      "ENGLISH": "Mmm…",
+      "CHINESE_SIMPLIFIED": "呃嗯...",
+      "CHINESE_TRADITIONAL": "嗯嗯.....",
+      "JAPANESE": "う、うん…",
+      "INDONESIAN": "Mmm…",
+      "PORTUGUESE": "Mmm...",
+      "SPANISH": "Mmm...",
+      "PERSIAN": "ممم…"
+    }
+  }
+]

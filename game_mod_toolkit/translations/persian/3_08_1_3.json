@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "남자들은 유나 씨 같은 얼굴 좋아하죠.",
+      "ENGLISH": "Guys love girls with faces like yours, Yuna.",
+      "CHINESE_SIMPLIFIED": "男人都喜欢有娜这样的长相呢",
+      "CHINESE_TRADITIONAL": "男生應該都喜歡有娜小姐這樣的長相吧",
+      "JAPANESE": "男の人って、ユナさんみたいな顔が好きですよね",
+      "INDONESIAN": "Cowok-cowok tuh suka banget sama cewek yang mukanya kayak kamu, Yuna.",
+      "PORTUGUESE": "Homens gostam de garotas como você, Yuna.",
+      "SPANISH": "A los hombres les gustan las chicas como tú, Yuna.",
+      "PERSIAN": "پسرها عاشق دخترهایی با چهره هایی مثل تو هستند یونا."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나?",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我？",
+      "CHINESE_TRADITIONAL": "我？",
+      "JAPANESE": "私？",
+      "INDONESIAN": "Aku?",
+      "PORTUGUESE": "Como eu?",
+      "SPANISH": "¿Como yo?",
+      "PERSIAN": "من؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 약간 귀여운데 섹시하고, 청순한데 예뻐요.",
+      "ENGLISH": "Yeah! You’re kinda cute but sexy, innocent but gorgeous.",
+      "CHINESE_SIMPLIFIED": "对啊！有点可爱又性感，清纯又漂亮",
+      "CHINESE_TRADITIONAL": "嗯！可愛又帶點性感，清純又漂亮",
+      "JAPANESE": "ええ！ なんか可愛いのにちょっとセクシーで、清楚なのに綺麗",
+      "INDONESIAN": "Iya! Kamu tuh imut tapi seksi, polos tapi cantik banget.",
+      "PORTUGUESE": "Sim! Você é... fofa, mas sexy, inocente, mas muito linda.",
+      "SPANISH": "¡Sí! Eres como… tierna pero sexy, inocente pero muy linda.",
+      "PERSIAN": "آره تو یه جورایی بامزه اما سکسی، بی گناه اما زرق و برق دار هستی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "또~?",
+      "ENGLISH": "What else~?",
+      "CHINESE_SIMPLIFIED": "还有呢？",
+      "CHINESE_TRADITIONAL": "還有呢～？",
+      "JAPANESE": "ほかには〜？",
+      "INDONESIAN": "Apalagi ya~?",
+      "PORTUGUESE": "E o que mais~?",
+      "SPANISH": "¿Y qué más~?",
+      "PERSIAN": "دیگه چی ~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "또? ",
+      "ENGLISH": "What else?",
+      "CHINESE_SIMPLIFIED": "还有？",
+      "CHINESE_TRADITIONAL": "還有？",
+      "JAPANESE": "ほかに？",
+      "INDONESIAN": "Apalagi?",
+      "PORTUGUESE": "Mais?",
+      "SPANISH": "¿Más?",
+      "PERSIAN": "دیگه چی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "또 눈도 이쁘고, 아까 보니깐 손도 이쁘고",
+      "ENGLISH": "Your eyes are beautiful, and earlier I noticed your hands are, too.",
+      "CHINESE_SIMPLIFIED": "眼睛也好看，刚才看到手也很美",
+      "CHINESE_TRADITIONAL": "眼睛很好看，剛剛發現手也很美",
+      "JAPANESE": "目もすごく綺麗だし、さっき見たけど手も綺麗だし",
+      "INDONESIAN": "Matamu indah, dan tadi aku sempat lihat—tangan kamu juga cantik.",
+      "PORTUGUESE": "Você também tem olhos lindos, e eu reparei antes que suas mãos são muito bonitas.",
+      "SPANISH": "También tienes unos ojos preciosos, y antes noté que tus manos son muy bonitas.",
+      "PERSIAN": "چشمانت زیباست و قبلا متوجه شدم دستانت هم زیباست."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야! 손은 또 언제 봤대",
+      "ENGLISH": "What? When did you look at my hands?",
+      "CHINESE_SIMPLIFIED": "什么呀！你什么时候还看到手了？",
+      "CHINESE_TRADITIONAL": "什麼啦～你什麼時候偷看的！",
+      "JAPANESE": "ちょっと！ 手なんていつ見たんですか",
+      "INDONESIAN": "Hah? Kapan kamu liatin tanganku?",
+      "PORTUGUESE": "O quê?! Quando você viu minhas mãos?",
+      "SPANISH": "¡¿Qué?! ¿Cuándo viste mis manos?",
+      "PERSIAN": "چی؟ کی به دستام نگاه کردی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 유나 씨는 뭔가 사람 자체가..",
+      "ENGLISH": "And just... you, as a person...",
+      "CHINESE_SIMPLIFIED": "而且有娜你本身就...",
+      "CHINESE_TRADITIONAL": "而且有娜小姐妳本身就...",
+      "JAPANESE": "それに、ユナさんってなんか人そのものが…",
+      "INDONESIAN": "Dan... kamu, sebagai pribadi...",
+      "PORTUGUESE": "E além disso... não sei, Yuna, você como pessoa é...",
+      "SPANISH": "Y además… no sé, Yuna, tú como persona eres…",
+      "PERSIAN": "و فقط ... شما به عنوان یک شخص ..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "사랑스러워요",
+      "ENGLISH": "You’re just lovable.",
+      "CHINESE_SIMPLIFIED": "就很讨人喜欢啊",
+      "CHINESE_TRADITIONAL": "很討人喜歡啊",
+      "JAPANESE": "愛おしいです",
+      "INDONESIAN": "Kamu tuh bikin orang gampang jatuh hati.",
+      "PORTUGUESE": "encantadora.",
+      "SPANISH": "adorable.",
+      "PERSIAN": "تو فقط دوست داشتنی هستی"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우와! 웃으니깐 더 이쁘네",
+      "ENGLISH": "Wow... You’re even prettier when you smile.",
+      "CHINESE_SIMPLIFIED": "哇！笑起来更漂亮了",
+      "CHINESE_TRADITIONAL": "哇～笑起來更迷人了",
+      "JAPANESE": "うわ…！笑うと、もっと綺麗",
+      "INDONESIAN": "Wow... senyummu bikin kamu makin cantik, tau nggak.",
+      "PORTUGUESE": "Uau! Quando você sorri, fica ainda mais linda.",
+      "SPANISH": "¡Wow! Cuando sonríes eres todavía más linda.",
+      "PERSIAN": "وای... وقتی لبخند میزنی زیباتر میشی."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 어떡하지?",
+      "ENGLISH": "Ugh, seriously...what am I supposed to do with you?",
+      "CHINESE_SIMPLIFIED": "啊，这可怎么办才好啊？",
+      "CHINESE_TRADITIONAL": "天啊，該怎麼辦？",
+      "JAPANESE": "あー、どうしよう",
+      "INDONESIAN": "Ugh, ya ampun—aku harus gimana sama kamu sih?",
+      "PORTUGUESE": "Ai, o que eu vou fazer com você?",
+      "SPANISH": "Ay, ¿qué voy a hacer contigo?",
+      "PERSIAN": "اوه، جدی...با تو چیکار کنم؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.1,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어떡하긴 뭘 어떡해요 더 예뻐해 주면 되지.",
+      "ENGLISH": "What else? Just keep letting me love you more.",
+      "CHINESE_SIMPLIFIED": "什么怎么办？多宠着我就好啦",
+      "CHINESE_TRADITIONAL": "還能怎麼辦？就多喜歡一點囉",
+      "JAPANESE": "どうするって？ もっと可愛がってくれればいいんですよ",
+      "INDONESIAN": "Gimana lagi? Biarin aku makin sayang sama kamu.",
+      "PORTUGUESE": "O que vai fazer? Me amar mais.",
+      "SPANISH": "¿Qué vas a hacer? Pues quererme más.",
+      "PERSIAN": "دیگه چی؟ فقط به من اجازه بده بیشتر دوستت داشته باشم"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.3,
+      "HIDE": 37.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 내 꿈 꿔요!",
+      "ENGLISH": "Yuman, dream of me tonight!",
+      "CHINESE_SIMPLIFIED": "宥万，要梦到我哦！",
+      "CHINESE_TRADITIONAL": "宥萬先生，今晚記得夢到我喔",
+      "JAPANESE": "ユマンさん、私の夢、見てくださいね！",
+      "INDONESIAN": "Yuman, mimpikan aku malam ini ya!",
+      "PORTUGUESE": "Tomara que eu apareça nos seus sonhos.",
+      "SPANISH": "Ojalá aparezca en tus sueños.",
+      "PERSIAN": "یومان، امشب مرا در خواب ببین!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 41.2,
+      "HIDE": 42.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잘자~!",
+      "ENGLISH": "Sleep tight~!",
+      "CHINESE_SIMPLIFIED": "晚安～！",
+      "CHINESE_TRADITIONAL": "晚安～！",
+      "JAPANESE": "お休み～！",
+      "INDONESIAN": "Selamat tidur~!",
+      "PORTUGUESE": "Boa noite~!",
+      "SPANISH": "¡Buenas noches~!",
+      "PERSIAN": "خوب بخواب ~!"
+    }
+  }
+]

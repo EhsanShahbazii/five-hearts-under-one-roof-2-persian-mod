@@ -1,0 +1,271 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 엣꿍...",
+      "ENGLISH": "Ah… oopsies…",
+      "CHINESE_SIMPLIFIED": "啊…哎一古…",
+      "CHINESE_TRADITIONAL": "啊…糟糕…",
+      "JAPANESE": "あ〜…えっくん…",
+      "INDONESIAN": "Ah... eits...",
+      "PORTUGUESE": "Ah… oops…",
+      "SPANISH": "Ay no...",
+      "PERSIAN": "آخ... اوپس..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "후웅 유마니 신분증이 오디가찌..",
+      "ENGLISH": "Where oh where did Yuman’s ID run off to…",
+      "CHINESE_SIMPLIFIED": "呜呜～宥万的身份证跑去哪儿了嘛～",
+      "CHINESE_TRADITIONAL": "呼…宥萬的身分證在哪裡呢…",
+      "JAPANESE": "ふぅん、ユマンの身分証どこいっちゃったのかなぁ〜",
+      "INDONESIAN": "Huuung, KTP-nya Yuman kemana yaa...",
+      "PORTUGUESE": "Onde será que a identidade do Yuman foi parar…",
+      "SPANISH": "¿A dónde habrá ido el ID de Yumaaaaan...?",
+      "PERSIAN": "اوخییی... کارت ملی یومان جونم کجا قایم شده یعنی..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "요렇게 발이 달려서 뿅!하고 사라졌나..",
+      "ENGLISH": "Did it just grow little legs and poof disappear…?",
+      "CHINESE_SIMPLIFIED": "它会不会长了小脚丫，“嗖！”一下飞走啦～",
+      "CHINESE_TRADITIONAL": "難道它長腳，咻一下就不見了嗎…",
+      "JAPANESE": "足が生えてピョン！って消えちゃったのかな〜…",
+      "INDONESIAN": "Apa jangan-jangan tadi lari kenceng banget terus pyong! hilang gitu ya...",
+      "PORTUGUESE": "Será que criou perninha e puff, sumiu…?",
+      "SPANISH": "¿Le habrán salido patitas y escapó...?",
+      "PERSIAN": "نکنه پا درآورده جیم زده رفته بیرون..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 뭐 하시는 거예요?",
+      "ENGLISH": "What exactly are you doing right now?",
+      "CHINESE_SIMPLIFIED": "您现在是在做什么？",
+      "CHINESE_TRADITIONAL": "你在做什麼？",
+      "JAPANESE": "今、何してるんですか？",
+      "INDONESIAN": "Anda lagi ngapain sih?",
+      "PORTUGUESE": "O que exatamente você tá fazendo agora?",
+      "SPANISH": "¿Qué está haciendo?",
+      "PERSIAN": "الان دقیقاً دارین چیکار می‌کنین با این اداتون؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증 빨리 주세요.",
+      "ENGLISH": "Please hand me your ID.",
+      "CHINESE_SIMPLIFIED": "请快点出示身份证",
+      "CHINESE_TRADITIONAL": "快點出示身分證吧",
+      "JAPANESE": "身分証、早く出してください",
+      "INDONESIAN": "Tolong segera kasih KTP-nya.",
+      "PORTUGUESE": "Por favor, me entregue sua identidade.",
+      "SPANISH": "Por favor, muéstreme su identificación.",
+      "PERSIAN": "لطفاً کارت ملیتونو بدین."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그치만 유만이는 맥주가 먹고 시풍뎅...",
+      "ENGLISH": "But Yuman really, really wants some beer…",
+      "CHINESE_SIMPLIFIED": "可是宥万现在好想好想喝啤酒嘛…",
+      "CHINESE_TRADITIONAL": "可是宥萬很想喝啤酒耶…",
+      "JAPANESE": "でもユマンはビールが飲みたいのにぃ〜…",
+      "INDONESIAN": "Tapi Yuman tuh lagi pengin banget minum beer...",
+      "PORTUGUESE": "Mas o Yuman quer muuuito uma cerveja…",
+      "SPANISH": "¡Pero Yumán quiere tomar cervechita~!",
+      "PERSIAN": "آخه یومانی کوچولو خیلی خیلی دلش نوشیدنی خنک می‌خواد..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "안 사가면 안 된당~ 말숙이가 퍽퍽! 때릴게 분명행...",
+      "ENGLISH": "If I don’t buy it, Mal-sook will totally smack me around~",
+      "CHINESE_SIMPLIFIED": "不买回去的话，末淑一定会啪啪打我的啦…",
+      "CHINESE_TRADITIONAL": "不買的話不行啦～末淑一定會打人家…咚咚咚！",
+      "JAPANESE": "買って帰らないとマルスクにボコッ！て殴られちゃうんだもん…",
+      "INDONESIAN": "Kalau nggak dibeliin, Mal-sook pasti bug bug! marah-marah ke aku...",
+      "PORTUGUESE": "Se eu não comprar, a Mal-sook vai me bater de verdade~",
+      "SPANISH": "Si no la llevo, Mal-sook seguro me va a dar tas tas…",
+      "PERSIAN": "اگه نخرم ببرم، مال‌سوک وحشی مثل چی کتکم می‌زنه..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "거기 경찰서죠!",
+      "ENGLISH": "Hello, police station?",
+      "CHINESE_SIMPLIFIED": "喂，警察局吗？",
+      "CHINESE_TRADITIONAL": "喂，是警察局嗎？",
+      "JAPANESE": "もしもし、警察ですか！",
+      "INDONESIAN": "Halo, ini kantor polisi kan!",
+      "PORTUGUESE": "Alô, delegacia de polícia?",
+      "SPANISH": "¿Aló? ¿Hablo con la policía?",
+      "PERSIAN": "الو؟ اداره پلیسه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어??? 잠깐만 잠깐만 잠깐만",
+      "ENGLISH": "Wait wait wait, hold on, hold on!",
+      "CHINESE_SIMPLIFIED": "啊？？？等、等一下等一下等一下！！",
+      "CHINESE_TRADITIONAL": "咦？？？等一下，等一下，等一下！",
+      "JAPANESE": "あっ！？ ちょ、ちょっと待って！待って待って！",
+      "INDONESIAN": "Eh??? Tunggu bentar, tunggu!",
+      "PORTUGUESE": "Espera espera espera, calma, calma!",
+      "SPANISH": "¿¡¿Qué??! ¡No, espera!",
+      "PERSIAN": "چییی؟! صبر کنین صبر کنین، گوشی رو بذارین!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠어요. 알겠어. 아 잠깐만요.",
+      "ENGLISH": "Okay, okay, I get it—just a second!",
+      "CHINESE_SIMPLIFIED": "我知道了我知道了！拜托等等！",
+      "CHINESE_TRADITIONAL": "我知道了，我知道了。啊等一下",
+      "JAPANESE": "わかった！わかったから！ちょっと待ってください！",
+      "INDONESIAN": "Oke, oke, ngerti... sebentar aja.",
+      "PORTUGUESE": "Tá bom, tá bom, eu entendi—só um segundo!",
+      "SPANISH": "¡Está bien! ¡Dame un segundo!",
+      "PERSIAN": "فهمیدم، غلط کردم! یه لحظه دست نگه دارین!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 28.4
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증이 없으면 판매가 불가능합니다.",
+      "ENGLISH": "Without an ID, I can’t sell this to you.",
+      "CHINESE_SIMPLIFIED": "没有身份证，我们无法出售商品",
+      "CHINESE_TRADITIONAL": "沒有身分證的話，我們不能賣",
+      "JAPANESE": "身分証がない場合は販売できません",
+      "INDONESIAN": "Tanpa KTP, penjualan nggak bisa dilakukan.",
+      "PORTUGUESE": "Sem identidade, eu não posso vender isso pra você.",
+      "SPANISH": "Sin identificación, no puedo venderle.",
+      "PERSIAN": "بدون کارت ملی امکان فروش ندارم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 30.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 나 방금 도와줬잖아요...",
+      "ENGLISH": "Hey, I just helped you out earlier…",
+      "CHINESE_SIMPLIFIED": "我刚才不是还帮你解围了吗…",
+      "CHINESE_TRADITIONAL": "哎唷，我剛才才幫你解圍的啊…",
+      "JAPANESE": "いや、さっき助けてあげたじゃないですか〜…",
+      "INDONESIAN": "Aduh, aku kan barusan udah nolongin kamu...",
+      "PORTUGUESE": "Ei, eu acabei de te ajudar antes…",
+      "SPANISH": "¡Ay, pero si la ayudé hace un rato…!",
+      "PERSIAN": "بابا من همین الان کمکتون کردم اخه..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.9,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘만! 예?",
+      "ENGLISH": "Just this once, yeah? Please?",
+      "CHINESE_SIMPLIFIED": "就这一次嘛！求你了～",
+      "CHINESE_TRADITIONAL": "就今天一次嘛！好不好？",
+      "JAPANESE": "今日だけ！ね？",
+      "INDONESIAN": "Hari ini aja, ya? Boleh?",
+      "PORTUGUESE": "Só dessa vez, vai? Por favor?",
+      "SPANISH": "¡Solo esta vez! ¿Sí?",
+      "PERSIAN": "فقط همین یه بار! باشه؟ خواهش می‌کنم!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증 들고 다시 방문해주세요.",
+      "ENGLISH": "Please come back with your ID.",
+      "CHINESE_SIMPLIFIED": "请带好身份证再来吧",
+      "CHINESE_TRADITIONAL": "麻煩您帶著身分證再來一趟",
+      "JAPANESE": "身分証をご持参のうえ、再度ご来店ください",
+      "INDONESIAN": "Tolong bawa KTP dan datang lagi.",
+      "PORTUGUESE": "Por favor, volte com sua identidade.",
+      "SPANISH": "Por favor, vuelva con su identificación.",
+      "PERSIAN": "کارتتونو بیارین در خدمتم."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 38.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 알겠습니다...",
+      "ENGLISH": "…Alright.",
+      "CHINESE_SIMPLIFIED": "好吧，我知道了…",
+      "CHINESE_TRADITIONAL": "知道了…",
+      "JAPANESE": "……わかりました…",
+      "INDONESIAN": "Ah... Baiklah...",
+      "PORTUGUESE": "…Tá bom.",
+      "SPANISH": "Ah... está bien...",
+      "PERSIAN": "خیلی خب... تسلیم..."
+    }
+  }
+]

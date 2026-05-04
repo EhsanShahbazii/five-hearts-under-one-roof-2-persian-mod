@@ -1,0 +1,198 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 내가 끓일게.",
+      "ENGLISH": "Ugh, fine. I’ll just make it.",
+      "CHINESE_SIMPLIFIED": "算了，我来煮吧",
+      "CHINESE_TRADITIONAL": "算了，我去煮吧",
+      "JAPANESE": "もういい、俺が作るよ",
+      "INDONESIAN": "Baiklah. Aku akan membuatnya saja.",
+      "PORTUGUESE": "Tá bom, deixa que eu faço.",
+      "SPANISH": "Ya, yo lo hago.",
+      "PERSIAN": "اوه، خوب فقط درستش میکنم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "음.. 그러면 짜장라면!",
+      "ENGLISH": "Ooh, then... let’s do jjajang ramyun!",
+      "CHINESE_SIMPLIFIED": "嗯...那我要炸酱泡面！",
+      "CHINESE_TRADITIONAL": "好…那我要炸醬拉麵！",
+      "JAPANESE": "じゃあ…ジャジャンラーメン！",
+      "INDONESIAN": "Ooh, kalau begitu... ayo kita lakukan jjajang ramyun!",
+      "PORTUGUESE": "Hmm... então, ramen com molho preto!",
+      "SPANISH": "Hmm… entonces, ¡ramen con salsa negra!",
+      "PERSIAN": "اوه پس... بیا ججانگ رامیون کنیم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다 되면 불러~",
+      "ENGLISH": "Call me when it’s ready~",
+      "CHINESE_SIMPLIFIED": "煮好了叫我们~",
+      "CHINESE_TRADITIONAL": "煮好再叫我喔～",
+      "JAPANESE": "出来たら呼んでね〜！",
+      "INDONESIAN": "Hubungi saya jika sudah siap~",
+      "PORTUGUESE": "Me avisa quando estiver pronto.",
+      "SPANISH": "Avísame cuando esté listo.",
+      "PERSIAN": "وقتی آماده شد با من تماس بگیرید~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "앗싸!",
+      "ENGLISH": "Yesss!",
+      "CHINESE_SIMPLIFIED": "太好啦！",
+      "CHINESE_TRADITIONAL": "耶！",
+      "JAPANESE": "やった！",
+      "INDONESIAN": "Iya nih!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "에휴..",
+      "ENGLISH": "Sigh...",
+      "CHINESE_SIMPLIFIED": "唉...",
+      "CHINESE_TRADITIONAL": "唉…",
+      "JAPANESE": "はぁ…",
+      "INDONESIAN": "Mendesah...",
+      "PORTUGUESE": "Ai, meu Deus...",
+      "SPANISH": "Ay, Dios…",
+      "PERSIAN": "آه..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "짜잔~",
+      "ENGLISH": "Tada~",
+      "CHINESE_SIMPLIFIED": "登登~",
+      "CHINESE_TRADITIONAL": "鏘鏘～",
+      "JAPANESE": "じゃじゃーん！",
+      "INDONESIAN": "Tada~",
+      "PORTUGUESE": "Tcharam~!",
+      "SPANISH": "¡Tarán~!",
+      "PERSIAN": "تادا~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우와...",
+      "ENGLISH": "Whoa...",
+      "CHINESE_SIMPLIFIED": "哇...",
+      "INDONESIAN": "Wah...",
+      "PORTUGUESE": "Uau...",
+      "SPANISH": "Wow…",
+      "PERSIAN": "وای..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우와 냄새 진짜 미쳤다...",
+      "ENGLISH": "Okay, that smells insane.",
+      "CHINESE_SIMPLIFIED": "哇这香味绝了...",
+      "CHINESE_TRADITIONAL": "哇，這味道太香了吧…",
+      "JAPANESE": "うわっ、めっちゃいい匂い…！",
+      "INDONESIAN": "Oke, itu baunya gila.",
+      "PORTUGUESE": "Uau, o cheiro tá incrível...",
+      "SPANISH": "Wow, huele increíble…",
+      "PERSIAN": "خوب، بوی دیوانگی می دهد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.6,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "설거지도 너가 하는 거지?",
+      "ENGLISH": "You’re doing the dishes too, right?",
+      "CHINESE_SIMPLIFIED": "洗碗也归你咯？",
+      "CHINESE_TRADITIONAL": "碗也給你洗囉？",
+      "JAPANESE": "片付けはあんたの担当だよね？",
+      "INDONESIAN": "Kamu juga sedang mencuci piring, kan?",
+      "PORTUGUESE": "Você que vai lavar a louça, né?",
+      "SPANISH": "Tú vas a lavar los platos, ¿verdad?",
+      "PERSIAN": "شما هم در حال شستن ظرف ها هستید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 먹을게!",
+      "ENGLISH": "Thanks for the meal!",
+      "CHINESE_SIMPLIFIED": "我开动啦！",
+      "CHINESE_TRADITIONAL": "我開動了！",
+      "JAPANESE": "いただきまーす！",
+      "INDONESIAN": "Terima kasih atas makanannya!",
+      "PORTUGUESE": "Obrigada pela comida!",
+      "SPANISH": "¡Gracias por la comida!",
+      "PERSIAN": "با تشکر برای وعده غذایی!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에휴..양심이 어디갔어...",
+      "ENGLISH": "Seriously... do you even have a conscience?",
+      "CHINESE_SIMPLIFIED": "唉...你们良心都去哪了...",
+      "CHINESE_TRADITIONAL": "唉…你的良心被狗吃了是不是…",
+      "JAPANESE": "はぁ… 良心どこ置いてきたんだよ…",
+      "INDONESIAN": "Serius... apakah kamu punya hati nurani?",
+      "PORTUGUESE": "Ai, nem um pouquinho prestativa...",
+      "SPANISH": "Ay, no eres ni un poco acomedida...",
+      "PERSIAN": "جدی... تو اصلا وجدان داری؟"
+    }
+  }
+]

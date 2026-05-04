@@ -1,0 +1,488 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 고은비 쟤는 왜 이렇게 날이 갈수록 애가 밉상이지?",
+      "ENGLISH": "Ugh, what is Go Eun-bi’s problem these days? She gets more annoying by the minute.",
+      "CHINESE_SIMPLIFIED": "哈，高恩妃那丫头怎么越长大越招人烦呢？",
+      "CHINESE_TRADITIONAL": "欸，高恩妃怎麼一天比一天討人厭啊？",
+      "JAPANESE": "はぁ…コ・ウンビ、日に日に生意気になってく…",
+      "INDONESIAN": "Ugh, akhir-akhir ini Go Eun-bi kenapa sih? Makin lama makin nyebelin.",
+      "PORTUGUESE": "Por que será que cada dia eu gosto menos dele?",
+      "SPANISH": "¿Por qué será qué cada día me cae peor?",
+      "PERSIAN": "اوه، مشکل گو یون بی این روزها چیه؟ او لحظه به لحظه آزاردهنده تر می شود."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그 언니에 그 동생이지 뭐.",
+      "ENGLISH": "Well, like sister, like little sister.",
+      "CHINESE_SIMPLIFIED": "有什么样的姐姐就有什么样的妹妹呗",
+      "CHINESE_TRADITIONAL": "有什麼姊姊就有什麼妹妹嘛",
+      "JAPANESE": "姉が姉なら妹も妹でしょ",
+      "INDONESIAN": "Ya wajar… kakak sama adik, mirip aja kelakuannya.",
+      "PORTUGUESE": "Ah, você já sabe, tal pai, tal filho.",
+      "SPANISH": "Pues ya sabes, de tal palo tal astilla.",
+      "PERSIAN": "خوب، مثل خواهر، مثل خواهر کوچک."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너 뒤질래?",
+      "ENGLISH": "You wanna die?",
+      "CHINESE_SIMPLIFIED": "你找死吗？",
+      "CHINESE_TRADITIONAL": "找死嗎？",
+      "JAPANESE": "お前、死にたいの？",
+      "INDONESIAN": "Kamu mau mati, hah?",
+      "PORTUGUESE": "Quer morrer?",
+      "SPANISH": "¿Quieres morir?",
+      "PERSIAN": "میخوای بمیری؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뒤나 돌아봐 가방 문이나 닫아줄게.",
+      "ENGLISH": "Turn around—I’ll at least zip your bag.",
+      "CHINESE_SIMPLIFIED": "你转过去，我帮你把书包拉链拉上吧",
+      "CHINESE_TRADITIONAL": "你轉過去，我幫你把書包拉鍊拉上",
+      "JAPANESE": "後ろ向いて、カバン閉めるから",
+      "INDONESIAN": "Sini dulu deh—biar aku tutup resleting tas kamu dulu.",
+      "PORTUGUESE": "Vira pra cá! Vou fechar sua mochila.",
+      "SPANISH": "¡Voltéate! Te voy a cerrar la mochila",
+      "PERSIAN": "برگرد - حداقل زیپ کیفت را می بندم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "가방이 왜 이래? 고장 난 게 아니라 백퍼 이거 누가 망가뜨린 건데",
+      "ENGLISH": "What’s wrong with this thing? It’s not just broken, it’s completely busted.",
+      "CHINESE_SIMPLIFIED": "书包怎么成这样了？肯定不是坏了，百分之百是有人故意弄坏的",
+      "CHINESE_TRADITIONAL": "書包怎麼變這樣？這是已經被弄壞了吧",
+      "JAPANESE": "なにこのカバン、壊れてるじゃん",
+      "INDONESIAN": "Eh, ini kenapa? Bukan cuma rusak, ini mah udah ancur total.",
+      "PORTUGUESE": "O que aconteceu com isso? O zíper tá completamente quebrado.",
+      "SPANISH": "¿Qué le pasa a esto? Alguien destrozó la cremallera.",
+      "PERSIAN": "چه اشکالی دارد این چیز؟ این نه تنها شکسته است، بلکه کاملاً شکسته شده است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래? 아닐걸?",
+      "ENGLISH": "R-Really? I don’t think so…",
+      "CHINESE_SIMPLIFIED": "是吗？不会吧？",
+      "CHINESE_TRADITIONAL": "是、是嗎？應該不會吧？",
+      "JAPANESE": "そ、そうかな？そんなわけ…",
+      "INDONESIAN": "S-Serius? Kayaknya enggak deh…",
+      "PORTUGUESE": "Sério? Não é possível.",
+      "SPANISH": "¿En serio? No creo.",
+      "PERSIAN": "ر-واقعا؟ فکر نمیکنم…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야 저번 주에 산 건데 벌써 왜 이래?",
+      "ENGLISH": "You literally just bought this last week—why is it already like this?",
+      "CHINESE_SIMPLIFIED": "上周才买的，怎么就这样了？",
+      "CHINESE_TRADITIONAL": "上禮拜才剛買的，怎麼會這樣？",
+      "JAPANESE": "先週買ったばっかりでしょ、もう壊れたの？",
+      "INDONESIAN": "Kamu kan baru beli minggu lalu—kok udah kayak gini?",
+      "PORTUGUESE": "Se você comprou na semana passada, por que tá assim?",
+      "SPANISH": "Si la compraste la semana pasada, ¿por qué está así?",
+      "PERSIAN": "شما به معنای واقعی کلمه اینو هفته گذشته خریدید - چرا قبلاً اینگونه است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "싸구려라 그래...! 싸구려라.",
+      "ENGLISH": "Because it’s cheap…! Just cheap.",
+      "CHINESE_SIMPLIFIED": "因为是便宜货啊...！便宜货",
+      "CHINESE_TRADITIONAL": "你買到便宜貨吧…！便宜貨才會這樣",
+      "JAPANESE": "安物だからだよ…！安物だから！",
+      "INDONESIAN": "Soalnya murah…! Emang murah.",
+      "PORTUGUESE": "Porque é barata... barata demais!",
+      "SPANISH": "Porque es barata...¡demasiado barata!",
+      "PERSIAN": "چون ارزان است…! فقط ارزان"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이모가 퍽이나 싸구려 사주셨겠다. 솔직히 말해 누가 이랬어.",
+      "ENGLISH": "Yeah right, like your aunt would ever buy you something cheap. Be honest—who did this?",
+      "CHINESE_SIMPLIFIED": "阿姨怎么可能买便宜货给你，老实说谁干的",
+      "CHINESE_TRADITIONAL": "阿姨一定是買最便宜那種。不過說實話，是誰弄的？",
+      "JAPANESE": "おばさんが安物なんて買うわけないでしょ、正直に言って 誰がやったの？",
+      "INDONESIAN": "Yaelah, tante kamu mana mungkin beliin barang murahan. Jujur aja—siapa yang bikin?",
+      "PORTUGUESE": "Como se a sua mãe fosse comprar algo barato. Fala a verdade.",
+      "SPANISH": "Como si tu mamá fuera a comprar algo barato. Dime quién fue.",
+      "PERSIAN": "آره درسته، مثل اینکه خاله ات همیشه برایت چیزی ارزان می‌خرد. صادق باشید - چه کسی این کار را کرد؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 31.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 누구야아... 그냥 그렇게 된 거지...",
+      "ENGLISH": "W-What do you mean “who”? It just… ended up like that…",
+      "CHINESE_SIMPLIFIED": "什么谁啊...就变成这样了呗...",
+      "CHINESE_TRADITIONAL": "什麼誰啊…就壞掉而已啊…",
+      "JAPANESE": "だ、誰でもないって…勝手にこうなったんだよ…",
+      "INDONESIAN": "A-Apa maksudnya “siapa”? Ini tuh… ya gitu aja jadinya…",
+      "PORTUGUESE": "Que \"quem\"...? Bom, ficou assim, pronto.",
+      "SPANISH": "¿Cuál \"quién\"...? Solo pasó y ya.",
+      "PERSIAN": "-منظورت از \"چه کسی\" چیه؟ فقط همینطوری تموم شد…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.8,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "3...",
+      "ENGLISH": "3…",
+      "CHINESE_SIMPLIFIED": "3...",
+      "CHINESE_TRADITIONAL": "3…",
+      "JAPANESE": "3…",
+      "INDONESIAN": "3…",
+      "PORTUGUESE": "3...",
+      "SPANISH": "3...",
+      "PERSIAN": "3…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 34.1
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜야~ 너 남자애들이 얼마나...",
+      "ENGLISH": "I’m serious! You know how boys are always—",
+      "CHINESE_SIMPLIFIED": "真的啦~你也知道男生总是...",
+      "CHINESE_TRADITIONAL": "真的啦～ 你也知道那些男生有多麼...",
+      "JAPANESE": "ほんとだって！俺いじめられてるとか全然…",
+      "INDONESIAN": "Aku serius, lho! Kamu tau sendiri cowok-cowok tuh suka—",
+      "PORTUGUESE": "Tô falando sério~ você sabe como são os garotos...",
+      "SPANISH": "Hablo en serio~ ya sabes como son los chicos...",
+      "PERSIAN": "جدی میگم! شما می دانید که پسرها همیشه چگونه هستند -"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.2,
+      "HIDE": 34.9
+    },
+    "SCRIPT": {
+      "KOREAN": "2...",
+      "ENGLISH": "2…",
+      "CHINESE_SIMPLIFIED": "2...",
+      "CHINESE_TRADITIONAL": "2…",
+      "JAPANESE": "2…",
+      "INDONESIAN": "2…",
+      "PORTUGUESE": "2...",
+      "SPANISH": "2...",
+      "PERSIAN": "2…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.4,
+      "HIDE": 36.5
+    },
+    "SCRIPT": {
+      "KOREAN": "막 틈만 나면 쌈박질...",
+      "ENGLISH": "Always trying to pick fights for no reason—",
+      "CHINESE_SIMPLIFIED": "一有机会就动手打架...",
+      "CHINESE_TRADITIONAL": "只要有機會就打成一團…",
+      "JAPANESE": "ちょっとケンカ売られるくらいで…",
+      "INDONESIAN": "Suka cari gara-gara nggak jelas—",
+      "PORTUGUESE": "Vivem brigando toda vez que têm chance...",
+      "SPANISH": "Se pelean en cuanto tienen oportunidad...",
+      "PERSIAN": "همیشه سعی می‌کنی بدون دلیل دعوا کنی-"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 37.4
+    },
+    "SCRIPT": {
+      "KOREAN": "1...!",
+      "ENGLISH": "1…!",
+      "CHINESE_SIMPLIFIED": "1...！",
+      "CHINESE_TRADITIONAL": "1…!",
+      "JAPANESE": "1…！",
+      "INDONESIAN": "1…!",
+      "PORTUGUESE": "1...!",
+      "SPANISH": "1...!",
+      "PERSIAN": "1…!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 38.6,
+      "HIDE": 40.3
+    },
+    "SCRIPT": {
+      "KOREAN": "애들이 나 괴롭혀...",
+      "ENGLISH": "They’re bullying me…",
+      "CHINESE_SIMPLIFIED": "那些人都欺负我...",
+      "CHINESE_TRADITIONAL": "雖然那些人欺負我...",
+      "JAPANESE": "みんな俺のこといじってくるけど…",
+      "INDONESIAN": "Mereka ngebully aku…",
+      "PORTUGUESE": "Tão me perseguindo...",
+      "SPANISH": "Me están acosando...",
+      "PERSIAN": "به من قلدری می کنند…"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 44.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 근데 네가 신경 쓸 정도로 뭐 그런 건 전~혀 아니기도 하고! ",
+      "ENGLISH": "But like… it’s not even a big deal or anything! Really!",
+      "CHINESE_SIMPLIFIED": "啊，不过根本不是什么需要你担心的事情！",
+      "CHINESE_TRADITIONAL": "不過也沒有到特別需要擔心的地步啦！",
+      "JAPANESE": "でも別に気にするほどでもないし！",
+      "INDONESIAN": "Tapi sumpah… bukan masalah gede juga sih! Biasa aja!",
+      "PORTUGUESE": "Ah, mas não é nada com o que você deva se preocupar.",
+      "SPANISH": "Ah, pero no es algo por lo que debas preocuparte.",
+      "PERSIAN": "اما مثل… این حتی یک موضوع مهم یا چیز دیگری نیست! واقعا!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 46.3
+    },
+    "SCRIPT": {
+      "KOREAN": "또... 내가 한 덩치 하잖아!",
+      "ENGLISH": "And I mean—I’m not exactly tiny either!",
+      "CHINESE_SIMPLIFIED": "再说...我块头也不小啊！",
+      "CHINESE_TRADITIONAL": "再說了...我也很壯碩啊！",
+      "JAPANESE": "それに…俺、結構体格いいし！",
+      "INDONESIAN": "Lagian juga—aku bukan kecil-kecil banget kan!",
+      "PORTUGUESE": "Olha pro meu tamanho!",
+      "SPANISH": "¡Mira mi tamaño!",
+      "PERSIAN": "و منظورم این است که من هم دقیقاً کوچک نیستم!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 46.8,
+      "HIDE": 48.7
+    },
+    "SCRIPT": {
+      "KOREAN": "덩치 값을 못 하니까 문제지!",
+      "ENGLISH": "The problem is you don’t act your size.",
+      "CHINESE_SIMPLIFIED": "问题就是你白长这么大个子！",
+      "CHINESE_TRADITIONAL": "長這麼大隻也什麼用才是問題！",
+      "JAPANESE": "体格のわりに全然強くないから問題なんだよ！",
+      "INDONESIAN": "Masalahnya, kamu nggak bertingkah sesuai badan kamu.",
+      "PORTUGUESE": "O problema é que você não age de acordo com o seu tamanho!",
+      "SPANISH": "¡El problema es que no actúas respecto a tu tamaño!",
+      "PERSIAN": "مشکل این است که شما به اندازه خود عمل نمی کنید."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 49.6,
+      "HIDE": 51.1
+    },
+    "SCRIPT": {
+      "KOREAN": "좀 이따 너네 반으로 갈 테니까",
+      "ENGLISH": "I’m coming to your class later.",
+      "CHINESE_SIMPLIFIED": "等会儿我去你们班",
+      "CHINESE_TRADITIONAL": "我等一下就去你們班上",
+      "JAPANESE": "あとであんたのクラス行くから",
+      "INDONESIAN": "Nanti aku ke kelas kamu, ya.",
+      "PORTUGUESE": "Mais tarde eu vou até a sua sala,",
+      "SPANISH": "Más tarde voy a ir a tu salón",
+      "PERSIAN": "بعدا میام کلاس شما"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 51.5,
+      "HIDE": 54.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 너는 입 닫고 끄덕이기만 하면 돼. ",
+      "ENGLISH": "All you need to do is shut up and nod.",
+      "CHINESE_SIMPLIFIED": "你只要闭着嘴，点个头就行",
+      "CHINESE_TRADITIONAL": "你乖乖閉嘴，只要點頭就好，知道嗎？",
+      "JAPANESE": "あんあは黙ってうなずいてればいい わかった？",
+      "INDONESIAN": "Kamu tinggal diem dan ngangguk aja.",
+      "PORTUGUESE": "você só fecha a boca e concorda.",
+      "SPANISH": "tú solo cierra la boca y asiente.",
+      "PERSIAN": "تنها کاری که باید انجام دهید این است که ساکت شوید و سری تکان دهید."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 54.3,
+      "HIDE": 56.5
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠지? 뭐라고?",
+      "ENGLISH": "Got it? What?",
+      "CHINESE_SIMPLIFIED": "懂了吗？我说什么了？",
+      "CHINESE_TRADITIONAL": "知道了嗎？",
+      "JAPANESE": "え？なんだって？",
+      "INDONESIAN": "Ngerti? Hah?",
+      "PORTUGUESE": "Entendido? Como é?",
+      "SPANISH": "¿Entendido? ¿Cómo?",
+      "PERSIAN": "متوجه شدید؟ چی؟"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 56.9,
+      "HIDE": 58.4
+    },
+    "SCRIPT": {
+      "KOREAN": "입 닫고 끄덕이기.",
+      "ENGLISH": "Shut up. Nod.",
+      "CHINESE_SIMPLIFIED": "闭嘴！点头！",
+      "CHINESE_TRADITIONAL": "閉嘴！點頭！",
+      "JAPANESE": "黙ってうなずく",
+      "INDONESIAN": "Diem. Ngangguk.",
+      "PORTUGUESE": "Fechar a boca e concordar.",
+      "SPANISH": "Cerrar la boca y asentir.",
+      "PERSIAN": "خفه شو سر تکان دهید."
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 58.8,
+      "HIDE": 59.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래.",
+      "ENGLISH": "Right.",
+      "CHINESE_SIMPLIFIED": "没错",
+      "CHINESE_TRADITIONAL": "沒錯",
+      "JAPANESE": "わかった",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "درسته"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 61.9,
+      "HIDE": 62.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Pronto?",
+      "SPANISH": "¿Listo?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 62.8,
+      "HIDE": 63.2
+    },
+    "SCRIPT": {
+      "KOREAN": "가자!",
+      "ENGLISH": "Let’s go.",
+      "CHINESE_SIMPLIFIED": "走吧！",
+      "CHINESE_TRADITIONAL": "走吧",
+      "JAPANESE": "行こう！",
+      "INDONESIAN": "Yuk.",
+      "PORTUGUESE": "Vamos!",
+      "SPANISH": "¡Vámonos!",
+      "PERSIAN": "برویم"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 63.3,
+      "HIDE": 64.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어!",
+      "ENGLISH": "Oh—okay!",
+      "CHINESE_SIMPLIFIED": "呃！",
+      "CHINESE_TRADITIONAL": "喔！",
+      "JAPANESE": "おう！",
+      "INDONESIAN": "O-Oke!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "اوه - باشه!"
+    }
+  }
+]

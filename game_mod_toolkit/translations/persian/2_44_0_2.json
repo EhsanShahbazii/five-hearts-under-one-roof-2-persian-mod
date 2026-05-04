@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나 조금만 타줄 수 있어요?",
+      "ENGLISH": "Can you pour me just a little?",
+      "CHINESE_SIMPLIFIED": "能帮我稍微倒一点吗？",
+      "CHINESE_TRADITIONAL": "可以只幫我倒一點嗎？",
+      "JAPANESE": "ちょっとだけ注いでもらってもいいですか？",
+      "INDONESIAN": "Bisakah kamu menuangkan sedikit saja untukku?",
+      "PORTUGUESE": "Me serve só um pouquinho.",
+      "SPANISH": "Sírveme solo un poco.",
+      "PERSIAN": "میشه یه کم برام بریز؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음? 술 잘 못 마셔요?",
+      "ENGLISH": "Hmm? Can’t handle your drinks?",
+      "CHINESE_SIMPLIFIED": "嗯？是酒量不好吗？",
+      "CHINESE_TRADITIONAL": "嗯？你酒量不好嗎？",
+      "JAPANESE": "ん？ お酒あまり強くないんですか？",
+      "INDONESIAN": "Hmm? Nggak tahan minum?",
+      "PORTUGUESE": "Hmm? Você não bebe muito?",
+      "SPANISH": "¿Hmm? ¿No bebes mucho?",
+      "PERSIAN": "هوم؟ نمی توانید نوشیدنی های خود را کنترل کنید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 그건 아니고요.",
+      "ENGLISH": "No, it’s not that...",
+      "CHINESE_SIMPLIFIED": "不是啦，那倒不是",
+      "CHINESE_TRADITIONAL": "不，不是那個意思",
+      "JAPANESE": "いえ、そういうわけじゃなくて",
+      "INDONESIAN": "Tidak, bukan itu...",
+      "PORTUGUESE": "Não, não é isso.",
+      "SPANISH": "No, no es eso.",
+      "PERSIAN": "نه اینطوری نیست..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 술 마시는 거보다 ",
+      "ENGLISH": "I just... would rather ",
+      "CHINESE_SIMPLIFIED": "只是比起喝酒",
+      "CHINESE_TRADITIONAL": "只是比起喝酒",
+      "JAPANESE": "ただ、お酒を飲むよりも",
+      "INDONESIAN": "Aku hanya... lebih suka",
+      "PORTUGUESE": "É só que, mais do que beber,",
+      "SPANISH": "Es solo que, más que beber,",
+      "PERSIAN": "من فقط... ترجیح می دهم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨를 더 알아가고 싶어서요.",
+      "ENGLISH": "get to know you better than get drunk.",
+      "CHINESE_SIMPLIFIED": "我更想多了解有娜小姐一些",
+      "CHINESE_TRADITIONAL": "我更想多了解一些關於有娜小姐的事情",
+      "JAPANESE": "ユナさんのことを もっと知りたいなって思って",
+      "INDONESIAN": "mengenalmu lebih baik daripada mabuk.",
+      "PORTUGUESE": "eu quero te conhecer melhor.",
+      "SPANISH": "quiero conocerte mejor.",
+      "PERSIAN": "شما را بهتر از مست شدن بشناسم"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "诶？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "술은 그냥 적당히 먹고 ",
+      "ENGLISH": "Let’s just drink a little—",
+      "CHINESE_SIMPLIFIED": "那酒就适量喝点",
+      "CHINESE_TRADITIONAL": "酒適量喝就好",
+      "JAPANESE": "お酒はほどほどにして、",
+      "INDONESIAN": "Ayo minum sedikit saja—",
+      "PORTUGUESE": "Vamos beber só o necessário",
+      "SPANISH": "Tomemos solo lo necesario",
+      "PERSIAN": "بیایید فقط کمی بنوشیم -"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 얘기 많이 해요.",
+      "ENGLISH": "and spend more time talking today.",
+      "CHINESE_SIMPLIFIED": "今天多聊聊天吧",
+      "CHINESE_TRADITIONAL": "我們今天多聊聊天吧",
+      "JAPANESE": "今日はたくさん話しましょう",
+      "INDONESIAN": "dan menghabiskan lebih banyak waktu untuk berbicara hari ini.",
+      "PORTUGUESE": "e conversar bastante tempo.",
+      "SPANISH": "y conversemos por mucho tiempo.",
+      "PERSIAN": "و امروز زمان بیشتری را صرف صحبت کردن کنید."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "为什么呀？",
+      "CHINESE_TRADITIONAL": "為什麼？",
+      "JAPANESE": "どうしてですか？",
+      "INDONESIAN": "Mengapa?",
+      "PORTUGUESE": "Por quê?",
+      "SPANISH": "¿Por qué?",
+      "PERSIAN": "چرا؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 날 더 알아보고 싶은데요?",
+      "ENGLISH": "Why do you want to get to know me better?",
+      "CHINESE_SIMPLIFIED": "为什么想更了解我呢？",
+      "CHINESE_TRADITIONAL": "為什麼想更了解我呢？",
+      "JAPANESE": "どうして私のこと もっと知りたいんですか？",
+      "INDONESIAN": "Mengapa Anda ingin mengenal saya lebih baik?",
+      "PORTUGUESE": "Por que você quer saber sobre mim?",
+      "SPANISH": "¿Por qué quieres saber sobre mí?",
+      "PERSIAN": "چرا می خواهی بیشتر با من آشنا شوی؟"
+    }
+  }
+]

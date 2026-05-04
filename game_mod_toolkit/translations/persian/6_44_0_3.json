@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 얼굴 좀 봐요.",
+      "ENGLISH": "Hey — look at me for a second.",
+      "CHINESE_SIMPLIFIED": "来 ，我看看你的小脸",
+      "CHINESE_TRADITIONAL": "來，讓我看看你的臉",
+      "JAPANESE": "顔見せてください",
+      "INDONESIAN": "Hei — liat aku sebentar, deh.",
+      "PORTUGUESE": "Ah, deixa eu ver.",
+      "SPANISH": "Ah, déjame verla.",
+      "PERSIAN": "هی - یک لحظه به من نگاه کن."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가 이렇게 슬펐을까?",
+      "ENGLISH": "What made you this sad?",
+      "CHINESE_SIMPLIFIED": "什么事让你这么伤心呀？",
+      "CHINESE_TRADITIONAL": "什麼事情讓你這麼傷心呢？",
+      "JAPANESE": "いったい何がそんなに悲しかったんですか？",
+      "INDONESIAN": "Apa sih yang bikin kamu sedih banget?",
+      "PORTUGUESE": "O que foi que te deixou tão triste?",
+      "SPANISH": "¿Qué fue lo que la puso tan triste?",
+      "PERSIAN": "چه چیزی تو را اینقدر ناراحت کرد؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "소리 내서 울지 왜 이런 데서 참으면서 울어요.",
+      "ENGLISH": "Why are you holding it in and crying like this instead of just letting yourself cry out loud?",
+      "CHINESE_SIMPLIFIED": "要哭就哭出声，怎么在这种地方憋着哭呢",
+      "CHINESE_TRADITIONAL": "要哭就哭出來吧，為什麼要在這種地方忍著呢？",
+      "JAPANESE": "こんなところで堪えて泣いてないで声出して泣けばいいのに",
+      "INDONESIAN": "Kenapa kamu nahan-nahan dan nangis pelan gitu, bukannya sekalian aja nangis sekenceng-kencengnya?",
+      "PORTUGUESE": "Se quiser chorar, chora alto… por que se esconde assim?",
+      "SPANISH": "Si quiere llorar, hágalo en voz alta… ¿por qué se esconde así?",
+      "PERSIAN": "چرا به جای اینکه به خودتان اجازه دهید با صدای بلند گریه کنید، اونو در دست گرفته اید و اینطوری گریه می کنید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 따라와요. 내가 스트레스 풀어줄게요.",
+      "ENGLISH": "Come with me. I’ll help you let all that stress out.",
+      "CHINESE_SIMPLIFIED": "跟我来吧，我带你去放松一下",
+      "CHINESE_TRADITIONAL": "跟我來吧，我帶你去消除壓力放鬆一下",
+      "JAPANESE": "僕についてきてください 僕がストレス解消させてあげます",
+      "INDONESIAN": "Yuk ikut aku. Aku bantu kamu lepasin semua stres itu.",
+      "PORTUGUESE": "Vem comigo, vou te ajudar a se sentir melhor.",
+      "SPANISH": "Venga conmigo, la ayudaré a sentirse mejor.",
+      "PERSIAN": "با من بیا من به شما کمک خواهم کرد تا تمام این استرس ها را از بین ببرید."
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "우와, 귀여운 거 좋아하시나 봐요?",
+      "ENGLISH": "Ooh, looks like someone’s into cute stuff!",
+      "CHINESE_SIMPLIFIED": "哇，看来你喜欢可爱风格的东西呢？",
+      "CHINESE_TRADITIONAL": "哇，你好像喜歡可愛的東西？",
+      "JAPANESE": "うわ 可愛いの好きなんですね?",
+      "INDONESIAN": "Ooh, kelihatannya ada yang suka barang-barang imut nih!",
+      "PORTUGUESE": "Awn, parece que você gosta de coisas fofas.",
+      "SPANISH": "Awww, parece que te gustan las cosas tiernas",
+      "PERSIAN": "اوه، به نظر می رسد کسی به چیزهای بامزه علاقه دارد!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "에이... 귀여운 거 어렸을 때 다 뗐죠!",
+      "ENGLISH": "Hey—come on! That was just when I was a kid!",
+      "CHINESE_SIMPLIFIED": "哎哟...可爱的风格我早八百年就不碰了！",
+      "CHINESE_TRADITIONAL": "欸…可愛的東西我小時候就玩膩了啦！",
+      "JAPANESE": "えー…可愛いのは子どもの頃に卒業しましたよ!",
+      "INDONESIAN": "Eh—ya ampun! Itu waktu aku masih kecil, oke?!",
+      "PORTUGUESE": "Ai... isso foi quando eu era criança.",
+      "SPANISH": "Ay… eso fue cuando era niña.",
+      "PERSIAN": "هی - بیا! درست زمانی که من بچه بودم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 귀여운 게 아닌가?",
+      "ENGLISH": "Wait, this isn’t cute?",
+      "CHINESE_SIMPLIFIED": "难道这不可爱吗？",
+      "CHINESE_TRADITIONAL": "這難道不是可愛嗎？",
+      "JAPANESE": "これが可愛くないんですか?",
+      "INDONESIAN": "Tunggu, ini bukan imut ya?",
+      "PORTUGUESE": "E isso aqui?",
+      "SPANISH": "¿Y qué hay de esto?",
+      "PERSIAN": "صبر کنید، این زیبا نیست؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 이건...",
+      "ENGLISH": "Oh, this...?!",
+      "CHINESE_SIMPLIFIED": "啊，这个是...",
+      "CHINESE_TRADITIONAL": "啊，這個是因為…",
+      "JAPANESE": "あ これは…",
+      "INDONESIAN": "Oh, yang ini...?!",
+      "PORTUGUESE": "Ah, esses...",
+      "SPANISH": "Ah, esos…",
+      "PERSIAN": "اوه این...؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "편해서 입는 거예요! 편해서!",
+      "ENGLISH": "I wear it because it’s comfy, alright? Comfy!",
+      "CHINESE_SIMPLIFIED": "因为穿着舒服才穿的！就因为舒服！",
+      "CHINESE_TRADITIONAL": "穿起來舒服！很舒服！",
+      "JAPANESE": "楽だから着てるんです! 楽だから!",
+      "INDONESIAN": "Aku pake karena nyaman, ya! Nyaman!",
+      "PORTUGUESE": "eu uso porque são confortáveis, só por isso!",
+      "SPANISH": "los uso porque son cómodos, ¡solo por eso!",
+      "PERSIAN": "من اونو می پوشم چون راحت است، خوب؟ راحت!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "눼눼, 알겠습니다.",
+      "ENGLISH": "Yesss, got it~",
+      "CHINESE_SIMPLIFIED": "好好，知道啦",
+      "CHINESE_TRADITIONAL": "是是是，我知道了",
+      "JAPANESE": "はいはい わかりました〜",
+      "INDONESIAN": "Iyaa, ngerti kok~",
+      "PORTUGUESE": "Sim, sim, entendi.",
+      "SPANISH": "Sí, sí, entendido.",
+      "PERSIAN": "بله فهمیدم~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "귀염둥이씨~",
+      "ENGLISH": "You little cutie~",
+      "CHINESE_SIMPLIFIED": "可爱鬼~",
+      "CHINESE_TRADITIONAL": "可愛鬼～",
+      "JAPANESE": "可愛い子ちゃん♪",
+      "INDONESIAN": "Imut banget sih kamu~",
+      "PORTUGUESE": "Senhorita fofinha~",
+      "SPANISH": "Señorita tierna~",
+      "PERSIAN": "ای ناز کوچولو~"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 19.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하! 칫...",
+      "ENGLISH": "Hah! Tch...",
+      "CHINESE_SIMPLIFIED": "哼！切...",
+      "CHINESE_TRADITIONAL": "哼！嘖…",
+      "JAPANESE": "はっ ちっ…",
+      "INDONESIAN": "Hah! Tch...",
+      "PORTUGUESE": "Ha! Tch...",
+      "SPANISH": "¡Ja! Tch…",
+      "PERSIAN": "هه! تچ..."
+    }
+  }
+]

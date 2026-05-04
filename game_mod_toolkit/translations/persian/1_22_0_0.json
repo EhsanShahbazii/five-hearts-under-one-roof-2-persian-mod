@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저요? ",
+      "ENGLISH": "Me?",
+      "CHINESE_SIMPLIFIED": "我吗？",
+      "CHINESE_TRADITIONAL": "我嗎？",
+      "JAPANESE": "私ですか？",
+      "INDONESIAN": "Saya?",
+      "PORTUGUESE": "Eu?",
+      "SPANISH": "¿Sobre mí?",
+      "PERSIAN": "درباره من؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 어떤 게 궁금하시죠?",
+      "ENGLISH": "What about me?",
+      "CHINESE_SIMPLIFIED": "您对我的什么感到好奇呢？",
+      "CHINESE_TRADITIONAL": "對我哪方面好奇呢？",
+      "JAPANESE": "私のどんなことが気になるんですか？",
+      "INDONESIAN": "Anda penasaran tentang apa dari saya?",
+      "PORTUGUESE": "O que exatamente você quer saber sobre mim?",
+      "SPANISH": "¿Acerca de qué tiene curiosidad?",
+      "PERSIAN": "مثلاً چه چیزی در موردم می‌خواین بدونین؟"
+    }
+  }
+]

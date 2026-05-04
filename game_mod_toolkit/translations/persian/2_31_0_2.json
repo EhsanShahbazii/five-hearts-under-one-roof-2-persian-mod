@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.9
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰다듬어도 되는 거죠?",
+      "ENGLISH": "I can pet him, right?",
+      "CHINESE_SIMPLIFIED": "我能摸摸它吗？",
+      "CHINESE_TRADITIONAL": "可以摸的吧？",
+      "JAPANESE": "撫でてもいいんですよね?",
+      "INDONESIAN": "Aku boleh mengelusnya, kan?",
+      "PORTUGUESE": "Posso fazer carinho?",
+      "SPANISH": "¿Le puedo acariciar?",
+      "PERSIAN": "من می توانم اونو نوازش کنم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네 천천히요...!",
+      "ENGLISH": "Yeah, slowly...!",
+      "CHINESE_SIMPLIFIED": "嗯，动作慢一点...！",
+      "CHINESE_TRADITIONAL": "可以，動作慢一點喔！",
+      "JAPANESE": "はい ゆっくりですよ…!",
+      "INDONESIAN": "Ya, perlahan...!",
+      "PORTUGUESE": "Sim, mas bem devagar...",
+      "SPANISH": "Sí, pero despacito…",
+      "PERSIAN": "آره آهسته آهسته...!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 천천히...",
+      "ENGLISH": "Ah~ gently...",
+      "CHINESE_SIMPLIFIED": "啊~慢慢来...",
+      "CHINESE_TRADITIONAL": "啊～慢一點...",
+      "JAPANESE": "あ～ゆっくり…",
+      "INDONESIAN": "Ah~ pelan-pelan...",
+      "PORTUGUESE": "Ah, devagarzinho...",
+      "SPANISH": "Ah, despacito…",
+      "PERSIAN": "آه ~ به آرامی ..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아유~ 귀여워라~",
+      "ENGLISH": "Aww, so cute~",
+      "CHINESE_SIMPLIFIED": "哎哟~好可爱呀~",
+      "CHINESE_TRADITIONAL": "哎呦～ 好可愛喔～",
+      "JAPANESE": "ほんと～かわいい～",
+      "INDONESIAN": "Aduh, lucu sekali~",
+      "PORTUGUESE": "Ai, que fofura.",
+      "SPANISH": "Ay, qué ternura.",
+      "PERSIAN": "وای خیلی نازه~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐예요?",
+      "ENGLISH": "What are you doing?!",
+      "CHINESE_SIMPLIFIED": "什么呀？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "なんですか?",
+      "INDONESIAN": "Apa yang sedang kamu lakukan?!",
+      "PORTUGUESE": "O que você tá fazendo?",
+      "SPANISH": "¿Qué está haciendo?",
+      "PERSIAN": "چیکار میکنی؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰다듬어도 된다면서요!",
+      "ENGLISH": "You said I could pet him!",
+      "CHINESE_SIMPLIFIED": "不是说可以摸的吗！",
+      "CHINESE_TRADITIONAL": "不是說可以摸嗎！",
+      "JAPANESE": "撫でてもいいって言ったじゃないですか!",
+      "INDONESIAN": "Kamu bilang aku boleh mengelusnya!",
+      "PORTUGUESE": "Você me deu permissão!",
+      "SPANISH": "¡Usted me dio permiso!",
+      "PERSIAN": "گفتی میتونم نوازشش کنم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아잇...저 말고 까미요!",
+      "ENGLISH": "I meant Kkami, not me!",
+      "CHINESE_SIMPLIFIED": "...我是说摸小黑，不是摸我啦！",
+      "CHINESE_TRADITIONAL": "欸欸... 我是說可以摸小黑，不是我啦！",
+      "JAPANESE": "いえ…私じゃなくて カミです!",
+      "INDONESIAN": "Maksudku Kkami, bukan aku!",
+      "PORTUGUESE": "Ah, não! No Blacky, não em mim!",
+      "SPANISH": "¡Ay, no! ¡A Blacky, no a mí!",
+      "PERSIAN": "منظورم ککامی بود نه من!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 까미...",
+      "ENGLISH": "Oh—Kkami... right.",
+      "CHINESE_SIMPLIFIED": "啊，小黑...",
+      "CHINESE_TRADITIONAL": "喔，是小黑啊...",
+      "JAPANESE": "あ カミ…",
+      "INDONESIAN": "Oh—Kkami... benar.",
+      "PORTUGUESE": "Ah, no Blacky...",
+      "SPANISH": "Ah, a Blacky…",
+      "PERSIAN": "اوه-ککامی... درست است."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 왜 이름이 까미에요?",
+      "ENGLISH": "So why’s the name “Kkami”?",
+      "CHINESE_SIMPLIFIED": "不过为什么叫小黑啊？",
+      "CHINESE_TRADITIONAL": "但是為什麼叫小黑啊？",
+      "JAPANESE": "でもどうして名前がカミなんですか？",
+      "INDONESIAN": "Jadi kenapa namanya \"Kkami\"?",
+      "PORTUGUESE": "Mas por que ele se chama Blacky?",
+      "SPANISH": "Pero, ¿por qué se llama Blacky?",
+      "PERSIAN": "پس چرا نام \"ککامی\" است؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 잘 어울려서 제가 붙여줬어요...",
+      "ENGLISH": "Oh... I just thought it suited him, so I picked it.",
+      "CHINESE_SIMPLIFIED": "啊...因为觉得很配就给它取了这个名字...",
+      "CHINESE_TRADITIONAL": "(靦腆) 啊...我覺得很適合牠，所以就取了這個名字...很搭對吧？",
+      "JAPANESE": "あ…私が似合うかなと思ってつけたんです…",
+      "INDONESIAN": "Oh... Aku pikir itu cocok untuknya, jadi aku memilihnya.",
+      "PORTUGUESE": "Ah... dei esse nome porque combina com ele...",
+      "SPANISH": "Ah… le puse ese nombre porque le queda bien…",
+      "PERSIAN": "اوه... من فقط فکر کردم که برای او مناسب است، بنابراین اونو انتخاب کردم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 어울리죠?",
+      "ENGLISH": "Doesn’t it fit?",
+      "CHINESE_SIMPLIFIED": "很合适吧？",
+      "CHINESE_TRADITIONAL": "很搭對吧？",
+      "JAPANESE": "似合うでしょ？",
+      "INDONESIAN": "Tidak cocok?",
+      "PORTUGUESE": "Não é mesmo?",
+      "SPANISH": "¿Verdad que sí?",
+      "PERSIAN": "مناسب نیست؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 28.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 그래서 까미~",
+      "ENGLISH": "Ah... so that’s why Kkami~",
+      "CHINESE_SIMPLIFIED": "啊...所以才叫小黑~",
+      "CHINESE_TRADITIONAL": "...所以叫小黑啊～",
+      "JAPANESE": "あ…それでカミ～",
+      "INDONESIAN": "Ah... jadi itu sebabnya Kkami~",
+      "PORTUGUESE": "Ah... Blacky...",
+      "SPANISH": "Ah… Blacky...",
+      "PERSIAN": "آه... پس به همین دلیل کامی~"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍... 근데 얜 흰 고양이인데...?",
+      "ENGLISH": "Hmm... but... It's a white cat...",
+      "CHINESE_SIMPLIFIED": "嘶...可是它是白猫啊...？",
+      "CHINESE_TRADITIONAL": "嗯...可是牠是隻白貓耶...?",
+      "JAPANESE": "うーん…でもこの子は白猫ですよ…？",
+      "INDONESIAN": "Hmm... tapi... Itu kucing putih...",
+      "PORTUGUESE": "Mas ele é um gato branco...",
+      "SPANISH": "Pero es un gato blanco…",
+      "PERSIAN": "هوم ... اما ... گربه سفید است ..."
+    }
+  }
+]

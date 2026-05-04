@@ -1,0 +1,163 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 사실 사고 당시 기억이 없어요.",
+      "ENGLISH": "I don’t remember the accident.",
+      "CHINESE_SIMPLIFIED": "其实我完全不记得事故当时的事了",
+      "CHINESE_TRADITIONAL": "其實我完全不記得當時出事的情況了",
+      "JAPANESE": "実は、事故のときの記憶がないんです",
+      "INDONESIAN": "Sebenarnya saya nggak inget apa-apa soal kecelakaan itu.",
+      "PORTUGUESE": "Na verdade, eu não tenho lembranças do momento do acidente.",
+      "SPANISH": "La verdad... no tengo recuerdos del momento del accidente.",
+      "PERSIAN": "راستش من هیچی از لحظه تصادف یادم نمیاد."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "사고 난 그때만 그러시는 걸까요?",
+      "ENGLISH": "Do you mean just the moment of the crash?",
+      "CHINESE_SIMPLIFIED": "是只有出事那一段记忆不见了吗？",
+      "CHINESE_TRADITIONAL": "是只有出事當下那段記憶不見了嗎？",
+      "JAPANESE": "事故のときだけ、そうなんですか？",
+      "INDONESIAN": "Apa cuma pas kejadian kecelakaan itu aja?",
+      "PORTUGUESE": "É só daquela hora específica?",
+      "SPANISH": "¿Es lo único que no puede recordar?",
+      "PERSIAN": "فقط همون لحظه تصادف یادتون رفته؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 딱 그 사고 때 기억이 아예 없어요. ",
+      "ENGLISH": "Yeah, I barely remember anything from right around then.",
+      "CHINESE_SIMPLIFIED": "是的，就只有那次事故的记忆几乎是没有的",
+      "CHINESE_TRADITIONAL": "對，我對車禍部分幾乎想不起來",
+      "JAPANESE": "はい、その事故のときの記憶がまったくなくて…。",
+      "INDONESIAN": "Iya, tepatnya ingatan waktu kecelakaan itu hampir nggak ada.",
+      "PORTUGUESE": "Sim, justamente do acidente quase não lembro de nada.",
+      "SPANISH": "Sí, justo desde ese momento no recuerdo nada en absoluto.",
+      "PERSIAN": "بله، دقیقاً از موقع تصادف هیچی تو ذهنم نیست."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "생각하려고 하면 머리 아픈 거 같고...",
+      "ENGLISH": "When I try to think about it, I get a headache...",
+      "CHINESE_SIMPLIFIED": "一想到那时候的事，头就开始痛…",
+      "CHINESE_TRADITIONAL": "一想要回想，就覺得頭好痛…",
+      "JAPANESE": "思い出そうとすると頭が痛くなる感じで…。",
+      "INDONESIAN": "Kalau coba dipikirin, kepala jadi sakit...",
+      "PORTUGUESE": "Quando tento pensar nisso, parece que minha cabeça dói...",
+      "SPANISH": "Y cuando trato de pensar en eso, me empieza a doler la cabeza...",
+      "PERSIAN": "وقتی هم سعی می‌کنم یادم بیاد، سرم تیر می‌کشه..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "사고 후 병원 오셨을 때 보인 급성경막외출혈 증상이",
+      "ENGLISH": "The acute epidural hematoma you had when you were brought in",
+      "CHINESE_SIMPLIFIED": "您事故后刚到医院时出现的急性硬膜外出血症状",
+      "CHINESE_TRADITIONAL": "根據你送醫時出現的急性硬腦膜外出血症狀來看",
+      "JAPANESE": "事故後に病院に来られた際に見られた急性硬膜外出血の症状が、",
+      "INDONESIAN": "Gejala pendarahan epidural akut yang muncul setelah kecelakaan",
+      "PORTUGUESE": "Os sintomas de hemorragia epidural aguda que você apresentou quando chegou ao hospital depois do acidente",
+      "SPANISH": "Los síntomas de hemorragia epidural aguda que mostró cuando llegó al hospital",
+      "PERSIAN": "خونریزی حاد اپیدورالی که موقع پذیرش داشتین"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "단기 기억상실증으로 연결된 거 같아요.",
+      "ENGLISH": "might have triggered temporary memory loss.",
+      "CHINESE_SIMPLIFIED": "好像导致了短期记忆丧失",
+      "CHINESE_TRADITIONAL": "應該是導致了短期記憶喪失",
+      "JAPANESE": "短期記憶喪失につながったようですね",
+      "INDONESIAN": "sepertinya nyambung jadi amnesia jangka pendek.",
+      "PORTUGUESE": "parecem ter resultado em uma amnésia de curto prazo.",
+      "SPANISH": "parecen haber derivado en una pérdida temporal de memoria.",
+      "PERSIAN": "ممکنه باعث این فراموشی موقت شده باشه."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "억지로 떠올리려고 스트레스 받으시는 것보다",
+      "ENGLISH": "Rather than stressing yourself out trying to remember,",
+      "CHINESE_SIMPLIFIED": "与其勉强回忆增加压力",
+      "CHINESE_TRADITIONAL": "與其勉強回想而感到壓力",
+      "JAPANESE": "無理に思い出そうとしてストレスを受けるよりも、",
+      "INDONESIAN": "Daripada maksa nginget terus sampai bikin stres,",
+      "PORTUGUESE": "Em vez de forçar a memória e se estressar com isso,",
+      "SPANISH": "En vez de forzarse y estresarse tratando de recordarlo,",
+      "PERSIAN": "به جای اینکه به خودتون فشار بیارین و اعصاب‌تونو خرد کنین،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "휴식을 취하면서 천천히 같이 떠올려보도록 해요.",
+      "ENGLISH": "let’s take it slow—get some rest, and we’ll work through it together.",
+      "CHINESE_SIMPLIFIED": "不如先好好休息，然后我们一起慢慢找回那段记忆吧",
+      "CHINESE_TRADITIONAL": "不如先好好休息，之後我們再一起慢慢回想吧",
+      "JAPANESE": "休養を取りながら一緒に少しずつ思い出していきましょう",
+      "INDONESIAN": "lebih baik istirahat dulu. Kita coba pelan-pelan balikin ingatannya nanti.",
+      "PORTUGUESE": "vamos tentar recuperar aos poucos, com descanso.",
+      "SPANISH": "mejor descanse y vayamos recuperando los recuerdos poco a poco, ¿sí?",
+      "PERSIAN": "یکم استراحت کنین، کم‌کم با هم به یادش میاریم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Okay...",
+      "CHINESE_SIMPLIFIED": "嗯…",
+      "CHINESE_TRADITIONAL": "好...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Baik...",
+      "PORTUGUESE": "Está bem...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "چشم، ممنون..."
+    }
+  }
+]

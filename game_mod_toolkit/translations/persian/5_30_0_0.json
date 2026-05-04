@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 맞추면 벌점은 안 줄거야 ",
+      "ENGLISH": "If you get this right, I won’t give you any penalty points.",
+      "CHINESE_SIMPLIFIED": "答对这题的话，我就不记你处分",
+      "CHINESE_TRADITIONAL": "如果你答對的話，我就不會扣分",
+      "JAPANESE": "これ正解したら減点はなしだ",
+      "INDONESIAN": "Kalau kamu jawab yang bener, aku nggak bakal kasih poin pelanggaran.",
+      "PORTUGUESE": "Se você acertar, eu não vou te punir.",
+      "SPANISH": "Si aciertas, no te voy a castigar.",
+      "PERSIAN": "اگر اینو درست متوجه شوید، هیچ امتیاز پنالتی به شما نمی دهم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "억울하지, 그럼 맞춰~",
+      "ENGLISH": "Feeling wronged? Then go ahead and answer~",
+      "CHINESE_SIMPLIFIED": "不服气的话，你倒是解解看啊~",
+      "CHINESE_TRADITIONAL": "委屈的話，就想辦法答對吧～",
+      "JAPANESE": "悔しいだろ？じゃあ当ててみろ〜",
+      "INDONESIAN": "Nggak adil? Yaudah jawab aja dulu~",
+      "PORTUGUESE": "É injusto? Então faça direito.",
+      "SPANISH": "¿Te parece injusto? Entonces hazlo bien.",
+      "PERSIAN": "احساس ظلم می کنید؟ بعد برو جواب بده~"
+    }
+  }
+]

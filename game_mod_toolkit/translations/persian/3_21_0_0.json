@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "흠... 힘들다~",
+      "ENGLISH": "Whew... this is tough~",
+      "CHINESE_SIMPLIFIED": "哎呀，好累啊~",
+      "CHINESE_TRADITIONAL": "欸...好累啊～",
+      "JAPANESE": "うわ〜 疲れた〜",
+      "INDONESIAN": "Fiuh... ini sulit~",
+      "PORTUGUESE": "Ufa… que cansaço~",
+      "SPANISH": "Uf… qué cansado~",
+      "PERSIAN": "وای... این سخت است~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아쉽네요, 오늘 찾을 수 있을 줄 알았는데.",
+      "ENGLISH": "It’s a bummer. I really thought we’d find her today.",
+      "CHINESE_SIMPLIFIED": "真可惜，还以为今天能找到呢",
+      "CHINESE_TRADITIONAL": "真可惜，我還以為今天能找到呢",
+      "JAPANESE": "残念ですね 今日見つけられると思ったのに",
+      "INDONESIAN": "Sayang sekali. Aku pikir kita akan menemukannya hari ini.",
+      "PORTUGUESE": "Que pena, achei que hoje a gente ia encontrar ela.",
+      "SPANISH": "Qué pena, pensé que hoy sí la íbamos a encontrar.",
+      "PERSIAN": "این افتضاح است. من واقعا فکر می کردم که امروز اونو پیدا کنیم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 뭐... 하루 만에 찾을 수 있을 거라고는 생각 안 했으니까요!",
+      "ENGLISH": "Yeah, but... I wasn’t expecting to get it all done in one day anyway.",
+      "CHINESE_SIMPLIFIED": "不过嘛...我本来也没指望一天就能找到啦！",
+      "CHINESE_TRADITIONAL": "沒關係…我也沒期待一天內就能找到就是了！！",
+      "JAPANESE": "まぁ でも 一日で見つかるとは思ってませんしね！",
+      "INDONESIAN": "Ya, tapi... Lagipula aku tidak berharap bisa menyelesaikan semuanya dalam satu hari.",
+      "PORTUGUESE": "Bom, de qualquer forma… não esperava achar em um só dia.",
+      "SPANISH": "Bueno, igual… no esperaba hallarla en un solo día.",
+      "PERSIAN": "بله، اما... به هر حال انتظار نداشتم همه چیز را در یک روز انجام دهم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "금방 다시 찾을 수 있을 거예요! 제가 계속 도와줄게요!",
+      "ENGLISH": "We’ll find her soon! I’ll keep helping you!",
+      "CHINESE_SIMPLIFIED": "很快就能找到的！我会继续帮忙的！",
+      "CHINESE_TRADITIONAL": "很快就能找到了！我會幫你的！",
+      "JAPANESE": "すぐまた見つけられますよ！ 私が引き続き手伝いますから！",
+      "INDONESIAN": "Kita akan segera menemukannya! Aku akan terus membantumu!",
+      "PORTUGUESE": "A gente vai encontrar logo, eu vou continuar te ajudando!",
+      "SPANISH": "La encontraremos pronto, ¡te seguiré ayudando!",
+      "PERSIAN": "ما اونو به زودی پیدا خواهیم کرد! من به کمک شما ادامه خواهم داد!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "와 오늘 날씨 진짜 좋아요",
+      "ENGLISH": "Man, the weather’s so nice today.",
+      "CHINESE_SIMPLIFIED": "哇，今天天气真好啊",
+      "CHINESE_TRADITIONAL": "哇，今天的天氣真的好好",
+      "JAPANESE": "うわ 今日ほんとにいい天気だな",
+      "INDONESIAN": "Wah, cuacanya bagus sekali hari ini.",
+      "PORTUGUESE": "Uau, o tempo tá incrível hoje.",
+      "SPANISH": "Wow, el clima está increíble hoy.",
+      "PERSIAN": "مرد، امروز هوا خیلی خوب است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 와 오늘 날씨 진짜 좋아요\n- 어? 말숙이 아니야...?!",
+      "ENGLISH": "— Man, the weather’s so nice today.\n— Huh? Isn’t that Mal-sook...?",
+      "CHINESE_SIMPLIFIED": "-哇，今天天气真好啊\n-呃？那不是末淑吗...？！",
+      "CHINESE_TRADITIONAL": "-哇，今天的天氣真的好好\n-欸？那不是末淑嗎…？！",
+      "JAPANESE": "あれ？ マルスクじゃない…？！",
+      "INDONESIAN": "— Wah, cuacanya bagus sekali hari ini.\n— Hah? Bukankah itu Mal-sook...?",
+      "PORTUGUESE": "—Uau, o tempo tá incrível hoje.\n—Hã? Não é a Malsook…?!",
+      "SPANISH": "—Wow, el clima está increíble hoy.\n—¿Eh? ¿No es Malsook…?!",
+      "PERSIAN": "- مرد، امروز هوا خیلی خوب است. - ها؟ این مال‌سوک نیست...؟"
+    }
+  }
+]

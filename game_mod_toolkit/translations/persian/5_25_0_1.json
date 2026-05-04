@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어흠~ 문이 왜 이렇게 뻑뻑하지~? ",
+      "ENGLISH": "Ahem~ Why’s this door so stiff~?",
+      "CHINESE_SIMPLIFIED": "咳咳~ 这门怎么这么卡啊~？",
+      "CHINESE_TRADITIONAL": "哎唷～這門怎麼那麼卡啊～？",
+      "JAPANESE": "ん〜ドアがなんでこんなに重いんだ？",
+      "INDONESIAN": "Ehem~ Kenapa pintunya susah kebuka sih~?",
+      "PORTUGUESE": "Emm... por que essa porta tá tão dura?",
+      "SPANISH": "Emm ¿Por qué está tan dura esta puerta?",
+      "PERSIAN": "آهام چرا این در اینقدر سفت است؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다 선배님!",
+      "ENGLISH": "Thank you so much, senior!",
+      "CHINESE_SIMPLIFIED": "谢谢学长！",
+      "CHINESE_TRADITIONAL": "謝謝學長！",
+      "JAPANESE": "ありがとうございます 先輩！",
+      "INDONESIAN": "Makasih banyak ya, Kak!",
+      "PORTUGUESE": "Muito obrigada!",
+      "SPANISH": "¡Muchas gracias!",
+      "PERSIAN": "خیلی ممنون، ارشد!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저 오늘 처음 등교하는 1학년 인데요",
+      "ENGLISH": "I’m a first-year, it’s my first day,",
+      "CHINESE_SIMPLIFIED": "我是刚入学的一年级新生",
+      "CHINESE_TRADITIONAL": "我是剛入學的一年級新生",
+      "JAPANESE": "私 今日初登校の1年生なんですけど",
+      "INDONESIAN": "Aku anak kelas satu,",
+      "PORTUGUESE": "Sou do primeiro ano, é meu primeiro dia,",
+      "SPANISH": "Soy de primer año, es mi primer día,",
+      "PERSIAN": "من سال اول هستم، اولین روز من است،"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "길을 헤매서요...",
+      "ENGLISH": " and I kinda got lost on the way here...",
+      "CHINESE_SIMPLIFIED": "不小心迷路了...",
+      "CHINESE_TRADITIONAL": "走著走著就迷路了",
+      "JAPANESE": "道に迷っちゃって…",
+      "INDONESIAN": " ini hari pertama aku terus tadi sempet nyasar di jalan...",
+      "PORTUGUESE": "e me perdi...",
+      "SPANISH": "y me perdí...",
+      "PERSIAN": "و من در راه اینجا گم شدم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 그래도 진짜 열심히 뛰어왔거든요?",
+      "ENGLISH": "But I really really ran as fast as I could to get here, I swear!",
+      "CHINESE_SIMPLIFIED": "我可是真的真的拼命跑过来的呢！",
+      "CHINESE_TRADITIONAL": "但我真的拼命跑過來了！",
+      "JAPANESE": "でもほんとに ほんとに全力で走ってきたんですよ？",
+      "INDONESIAN": "Tapi aku bener-bener udah lari sekenceng mungkin ke sini, sumpah!",
+      "PORTUGUESE": "Mas de verdade, corri com todas as minhas forças pra chegar.",
+      "SPANISH": "Pero de verdad corrí con todas mis fuerzas para llegar.",
+      "PERSIAN": "اما من واقعاً تا آنجا که می توانستم دویدم تا به اینجا برسم، قسم می خورم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 네...",
+      "ENGLISH": "Ah, okay…",
+      "CHINESE_SIMPLIFIED": "啊，好的...",
+      "CHINESE_TRADITIONAL": "喔，是喔...",
+      "JAPANESE": "あ はい…",
+      "INDONESIAN": "Ah, oke...",
+      "PORTUGUESE": "Ah, sim...",
+      "SPANISH": "Ah, sí...",
+      "PERSIAN": "آه، باشه…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "진짠데... 저 진짜 뛰어왔어요!",
+      "ENGLISH": "No, really! I ran the whole way!",
+      "CHINESE_SIMPLIFIED": "真的啦！我真的是跑过来的！",
+      "CHINESE_TRADITIONAL": "真的啦...我真的是跑過來的！",
+      "JAPANESE": "本当なのに…本当に走ってきたんです！",
+      "INDONESIAN": "Serius! Aku lari terus dari tadi!",
+      "PORTUGUESE": "É sério! Corri demais!",
+      "SPANISH": "¡Es en serio! ¡Corrí muchísimo!",
+      "PERSIAN": "نه واقعا! تمام راه را دویدم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "심장 터지는 줄 알았네",
+      "ENGLISH": "I thought my heart was gonna explode…!",
+      "CHINESE_SIMPLIFIED": "感觉心脏都要爆炸了",
+      "CHINESE_TRADITIONAL": "跑到我心臟都都快吐出來了耶...",
+      "JAPANESE": "心臓飛び出るかと思いました…",
+      "INDONESIAN": "Rasanya jantung aku mau meledak...!",
+      "PORTUGUESE": "Achei que meu coração ia sair pela boca.",
+      "SPANISH": "Pensé que se me iba a salir el corazón.",
+      "PERSIAN": "فکر میکردم قلبم داره منفجر میشه…!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아...아! 알겠으니깐 다음에는 제시간에 오세요.",
+      "ENGLISH": "O-okay, I get it—just try to be on time next time.",
+      "CHINESE_SIMPLIFIED": "啊...啊！知道了，下次请准时到校",
+      "CHINESE_TRADITIONAL": "好...好！我知道了！下次請準時過來",
+      "JAPANESE": "あ…ああ！わかったから 次は時間通りに来てください",
+      "INDONESIAN": "O-oke, aku ngerti—lain kali coba lebih tepat waktu, ya.",
+      "PORTUGUESE": "Ah... ah, tudo bem, mas da próxima vez tenta chegar na hora.",
+      "SPANISH": "Ah... ah, está bien, pero la próxima vez llegue a tiempo.",
+      "PERSIAN": "خوب، متوجه شدم - فقط سعی کنید دفعه بعد به موقع باشید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 32.1,
+      "HIDE": 34.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 절~대 지각 안 할게요!",
+      "ENGLISH": "Yes! I promise I’ll never be late again!",
+      "CHINESE_SIMPLIFIED": "是！我绝~对不会再迟到了！",
+      "CHINESE_TRADITIONAL": "好的！我絕～對～不會再遲到了！",
+      "JAPANESE": "はい！ぜ〜ったい遅刻しません！",
+      "INDONESIAN": "Siap! Aku janji nggak bakal telat lagi!",
+      "PORTUGUESE": "Sim! Prometo que não vou me atrasar de novo!",
+      "SPANISH": "¡Sí! ¡Prometo no volver a llegar tarde!",
+      "PERSIAN": "بله! قول میدم دیگه هیچوقت دیر نکنم!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 39.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아직 학주 쌤 앞에 있으니까 학교 안까지는 제가 숨겨드릴게요.",
+      "ENGLISH": "Since the discipline teacher’s still out front, I’ll sneak you in through the school.",
+      "CHINESE_SIMPLIFIED": "现在学生主任还在前面，我先掩护你进学校里面吧",
+      "CHINESE_TRADITIONAL": "訓導處主任還在前面，我會盡量讓你不被發現的",
+      "JAPANESE": "まだ生活指導の先生がいるから 校舎の中までは俺が隠してあげますから",
+      "INDONESIAN": "Soalnya guru ketertiban masih di depan, jadi aku anter kamu lewat pintu belakang sekolah aja.",
+      "PORTUGUESE": "O inspetor ainda tá aqui, então vou te esconder até você conseguir entrar no prédio.",
+      "SPANISH": "El inspector todavía sigue aquí, así que la voy a esconder hasta que entre al edificio.",
+      "PERSIAN": "از آنجایی که معلم نظم و انضباط هنوز بیرون است، من شما را مخفیانه وارد مدرسه خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 40.3,
+      "HIDE": 42.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네!! 감사합니다!",
+      "ENGLISH": "Thank you so much!!",
+      "CHINESE_SIMPLIFIED": "好！！太感谢了！",
+      "CHINESE_TRADITIONAL": "好！！謝謝！",
+      "JAPANESE": "はい!! ありがとうございます！",
+      "INDONESIAN": "Makasih banyak!!",
+      "PORTUGUESE": "Sim! Muito obrigada!",
+      "SPANISH": "¡Sí! ¡Muchas gracias!",
+      "PERSIAN": "خیلی ممنون!!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 48.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이 정도면 돼요?",
+      "ENGLISH": "I-Is this good enough?",
+      "CHINESE_SIMPLIFIED": "这样就行了吗？",
+      "CHINESE_TRADITIONAL": "這樣可以嗎？",
+      "JAPANESE": "これくらいで大丈夫ですか？",
+      "INDONESIAN": "K-Kayak gini cukup nggak?",
+      "PORTUGUESE": "Assim tá bem?",
+      "SPANISH": "¿Así está bien?",
+      "PERSIAN": "من-این به اندازه کافی خوبه؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 48.7,
+      "HIDE": 52.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이러면 보일 수도 있으니까 좀 더 이쪽으로...",
+      "ENGLISH": "You might still be visible from here… just scoot a little more this way.",
+      "CHINESE_SIMPLIFIED": "这样可能会被看到，再往这边来点...",
+      "CHINESE_TRADITIONAL": "這樣可能還是會被看到，再往這邊一點...",
+      "JAPANESE": "これだと見えるかも もうちょっとこっちに…",
+      "INDONESIAN": "Kayaknya masih agak kelihatan dari sini… geser dikit lagi ke sini.",
+      "PORTUGUESE": "Ainda podem te ver, então chega um pouquinho mais perto...",
+      "SPANISH": "Aún podrían verla, así que acérquese un poco más...",
+      "PERSIAN": "ممکنه هنوز از اینجا قابل مشاهده باشید... فقط کمی بیشتر به این سمت حرکت کنید."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 53.9,
+      "HIDE": 54.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Okay…",
+      "CHINESE_SIMPLIFIED": "好的...",
+      "CHINESE_TRADITIONAL": "是...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Oke…",
+      "PORTUGUESE": "S-sim...",
+      "SPANISH": "S-sí...",
+      "PERSIAN": "باشه…"
+    }
+  }
+]

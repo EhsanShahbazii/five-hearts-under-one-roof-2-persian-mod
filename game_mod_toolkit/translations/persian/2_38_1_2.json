@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 내가 맞다고 하면 맞는 거지.",
+      "ENGLISH": "Look, if I say I’m allowed in, then I am!",
+      "CHINESE_SIMPLIFIED": "我都说了我真的认识她了！",
+      "CHINESE_TRADITIONAL": "我都說了真的認識她了！",
+      "JAPANESE": "いや 俺が合ってるって言ったら合ってるんだよ",
+      "INDONESIAN": "Lihat, jika aku bilang aku boleh masuk, maka aku boleh masuk!",
+      "PORTUGUESE": "Tô dizendo que é assim, e é assim.",
+      "SPANISH": "Si le estoy diciendo que es así, pues es así.",
+      "PERSIAN": "ببینید، اگر بگویم اجازه ورود دارم، پس من هستم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 이렇게 말이 많아요!",
+      "ENGLISH": "Why are you making such a big deal?!",
+      "CHINESE_SIMPLIFIED": "你怎么这么多话！",
+      "CHINESE_TRADITIONAL": "為什麼話這麼多呢！",
+      "JAPANESE": "なんでそんなに口うるさいんだ!",
+      "INDONESIAN": "Kenapa kau membuat masalah besar seperti itu?!",
+      "PORTUGUESE": "Por que fala tanto?!",
+      "SPANISH": "¡¿Por qué habla tanto?!",
+      "PERSIAN": "چرا انقدر کار بزرگی میکنی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "관계자가 확인해주기 전까지는 안 돼요.",
+      "ENGLISH": "Until we get confirmation, you’re not going in.",
+      "CHINESE_SIMPLIFIED": "在没确认你是相关人员之前，就是不行",
+      "CHINESE_TRADITIONAL": "還沒確認你是相關人員之前，絕對不行",
+      "JAPANESE": "関係者が確認するまでは入れません",
+      "INDONESIAN": "Sampai kami mendapat konfirmasi, Anda tidak akan masuk.",
+      "PORTUGUESE": "Você não pode entrar até eu confirmar que tem autorização.",
+      "SPANISH": "No puede pasar hasta que confirme que tiene autorización.",
+      "PERSIAN": "تا زمانی که ما تأیید را دریافت نکنیم، شما وارد نمی شوید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하.. 진짜 아주 쫑알 쫑알 그냥!",
+      "ENGLISH": "Ugh... seriously, blah blah blah—",
+      "CHINESE_SIMPLIFIED": "哎哟，真是叽叽喳喳没完没了！",
+      "CHINESE_TRADITIONAL": "哈，真的是有夠囉嗦！",
+      "JAPANESE": "はぁ…ほんとブツブツブツブツと…!",
+      "INDONESIAN": "Ugh... serius, bla bla bla—",
+      "PORTUGUESE": "Ah... sério, só fala bobagem.",
+      "SPANISH": "Ah… de veras, solo dice cosas sin sentido",
+      "PERSIAN": "اوه... جدی، بلا بلا بله-"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "목소리 들어보니깐 내가 더 어른같은데 ",
+      "ENGLISH": "You know, from your voice, I sound more grown-up than you.",
+      "CHINESE_SIMPLIFIED": "听声音我比你年长",
+      "CHINESE_TRADITIONAL": "聽聲音，我比你更年長吧",
+      "JAPANESE": "声を聞く限り 俺の方が年上っぽいけど?",
+      "INDONESIAN": "Kau tahu, dari suaramu, aku terdengar lebih dewasa darimu.",
+      "PORTUGUESE": "Pelo seu tom de voz, dá pra ver que sou mais velho que você.",
+      "SPANISH": "Por su tono de voz, se nota que soy mayor que tú.",
+      "PERSIAN": "میدونی، از صدای تو، من از تو بزرگتر به نظر میرسم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "건방지게 탈이나 쓰고 있고 이거 안 벗어?",
+      "ENGLISH": "Wearing that mask like a punk—take it off!",
+      "CHINESE_SIMPLIFIED": "没大没小的还戴个面具，还不摘掉？",
+      "CHINESE_TRADITIONAL": "你這是在裝腔作勢嗎？還戴著面具，不打算拿下來嗎？",
+      "JAPANESE": "生意気に仮面なんかつけちゃって それ外せよ",
+      "INDONESIAN": "Mengenakan topeng itu seperti punk—lepaskan!",
+      "PORTUGUESE": "E ainda age todo arrogante atrás dessa máscara — não vai tirar?!",
+      "SPANISH": "Y te portas arrogante tras esa mascarilla ¡¿No te la vas a quitar?!",
+      "PERSIAN": "با پوشیدن اون ماسک مانند پانک - اونو بردارید!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유정 씨?",
+      "ENGLISH": "Huh? Yoo-jung?!",
+      "CHINESE_SIMPLIFIED": "呃？有情小姐？",
+      "CHINESE_TRADITIONAL": "咦？有情小姐？",
+      "JAPANESE": "え? ユジョンさん?",
+      "INDONESIAN": "Hah? Yoo-jung?!",
+      "PORTUGUESE": "Hã? Senhorita Yujeong?",
+      "SPANISH": "¿Eh? ¿Señorita Yujeong?",
+      "PERSIAN": "ها؟ یو جونگ؟!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "전 절차대로 할 뿐이고 ",
+      "ENGLISH": "I’m just following protocol.",
+      "CHINESE_SIMPLIFIED": "我只是按规矩办事",
+      "CHINESE_TRADITIONAL": "我只是按規矩做事而已",
+      "JAPANESE": "私は手順通りやってるだけです",
+      "INDONESIAN": "Saya hanya mengikuti protokol.",
+      "PORTUGUESE": "Só estou seguindo o protocolo.",
+      "SPANISH": "Solo sigo el protocolo.",
+      "PERSIAN": "من فقط پروتکل را دنبال می کنم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어른이고 할아버지고",
+      "ENGLISH": "Doesn’t matter if you’re an adult or a grandpa—",
+      "CHINESE_SIMPLIFIED": "不管您是长辈还是老爷子",
+      "CHINESE_TRADITIONAL": "不管是大人還是老爺爺",
+      "JAPANESE": "大人だろうが おじいさんだろうが",
+      "INDONESIAN": "Tidak masalah apakah Anda seorang dewasa atau seorang kakek—",
+      "PORTUGUESE": "Seja mais velho do que eu ou um idoso,",
+      "SPANISH": "Sea mayor que yo o un anciano",
+      "PERSIAN": "فرقی نمی کند بالغ باشی یا پدربزرگ -"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "안 되는 건 안 되는 거예요.",
+      "ENGLISH": "Rules are rules. No is no.",
+      "CHINESE_SIMPLIFIED": "不行就是不行",
+      "CHINESE_TRADITIONAL": "不行就是不行",
+      "JAPANESE": "ダメなものはダメです",
+      "INDONESIAN": "Aturan adalah aturan. Tidak adalah tidak.",
+      "PORTUGUESE": "não pode quebrar as regras.",
+      "SPANISH": "No puede saltarse las reglas.",
+      "PERSIAN": "قوانین، قوانین هستند. نه نه است."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 오빠!",
+      "ENGLISH": "Yuman oppa!",
+      "CHINESE_SIMPLIFIED": "宥万哥哥！",
+      "CHINESE_TRADITIONAL": "宥萬哥哥！",
+      "JAPANESE": "ユマンお兄さん!",
+      "INDONESIAN": "Yuman oppa!",
+      "PORTUGUESE": "Yuman oppa!",
+      "SPANISH": "¡Yumán Oppa!",
+      "PERSIAN": "یومان یومان!"
+    }
+  }
+]

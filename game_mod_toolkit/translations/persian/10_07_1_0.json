@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 있잖아요...",
+      "ENGLISH": "But you know...",
+      "CHINESE_SIMPLIFIED": "不过话说回来...",
+      "CHINESE_TRADITIONAL": "不過話說回來...",
+      "JAPANESE": "ねぇ、ユマンさん",
+      "INDONESIAN": "Tapi Yuman",
+      "PORTUGUESE": "Diga uma coisa...",
+      "SPANISH": "Dígame algo...",
+      "PERSIAN": "اما می‌دونی..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨가 앞으로 3개월만 살 수 있다면 ",
+      "ENGLISH": "If Mr. Yoo Man only had three months to live,",
+      "CHINESE_SIMPLIFIED": "如果你的生命只剩三个月了",
+      "CHINESE_TRADITIONAL": "如果你的生命只剩三個月的話",
+      "JAPANESE": "もし、これからの命があと3ヶ月しかないって言われたら",
+      "INDONESIAN": "Kalau misalnya kamu cuma punya waktu tiga bulan lagi buat hidup",
+      "PORTUGUESE": "Imagina que você só tem três meses de vida,",
+      "SPANISH": "Imagine que solo le quedan tres meses de vida,",
+      "PERSIAN": "اگر آقای یومان فقط سه ماه دیگر زنده بود،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어떨 거 같아요?",
+      "ENGLISH": "what do you think he'd do?",
+      "CHINESE_SIMPLIFIED": "你会怎么样呢？",
+      "CHINESE_TRADITIONAL": "你會怎麼做呢？",
+      "JAPANESE": "どうしますか？",
+      "INDONESIAN": "Kira-kira kamu bakal gimana?",
+      "PORTUGUESE": "como acha que se sentiria?",
+      "SPANISH": "¿cómo cree que se sentiría?",
+      "PERSIAN": "فکر می‌کنی چه کار می‌کرد؟"
+    }
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "여기요!",
+      "ENGLISH": "Over here!",
+      "CHINESE_SIMPLIFIED": "是这张！",
+      "CHINESE_TRADITIONAL": "這裡！",
+      "JAPANESE": "ここです！",
+      "INDONESIAN": "Di sini!",
+      "PORTUGUESE": "Aqui!",
+      "SPANISH": "¡Aquí!",
+      "PERSIAN": "اینجا!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": " 확실하신가요?",
+      "ENGLISH": "Are you sure?",
+      "CHINESE_SIMPLIFIED": "您确定吗？",
+      "CHINESE_TRADITIONAL": "你確定嗎？",
+      "JAPANESE": "このカードで間違いないですか？",
+      "INDONESIAN": "Apa kamu yakin?",
+      "PORTUGUESE": "Tem certeza?",
+      "SPANISH": "¿Está segura?",
+      "PERSIAN": "مطمئنی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 제가 확실히 봤어요!",
+      "ENGLISH": "Yes! I saw it clearly!",
+      "CHINESE_SIMPLIFIED": "嗯！我确定看到了！",
+      "CHINESE_TRADITIONAL": "是的！我很確定！",
+      "JAPANESE": "はい！絶対に見ました！",
+      "INDONESIAN": "Ya! Aku melihatnya dengan jelas!",
+      "PORTUGUESE": "Sim! Tenho total certeza do que vi!",
+      "SPANISH": "¡Sí! ¡Estoy completamente segura de lo que vi!",
+      "PERSIAN": "بله! من به وضوح دیدم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんとに？",
+      "INDONESIAN": "Benar-benar?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네 저 한 번도 안 놓쳤어요!",
+      "ENGLISH": "I didn’t take my eyes off it, not even once!",
+      "CHINESE_SIMPLIFIED": "嗯！我一次都没看漏过！",
+      "CHINESE_TRADITIONAL": "真的，我一次都沒移開眼睛！",
+      "JAPANESE": "はい、一度も見失ってません！",
+      "INDONESIAN": "Aku tidak mengalihkan pandanganku darinya, bahkan sekali pun!",
+      "PORTUGUESE": "Sim, não tirei os olhos dela nem por um segundo.",
+      "SPANISH": "Sí, no la perdí de vista ni un segundo.",
+      "PERSIAN": "حتی یک بار هم چشم ازش نگرفتم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "흠, 그럼...",
+      "ENGLISH": "Hmm... in that case...",
+      "CHINESE_SIMPLIFIED": "嗯，那么...",
+      "CHINESE_TRADITIONAL": "嗯，那麼…",
+      "JAPANESE": "ふむ… では——",
+      "INDONESIAN": "Hmm... kalau begitu...",
+      "PORTUGUESE": "Hã, então...",
+      "SPANISH": "Mmm, entonces...",
+      "PERSIAN": "هوم ... در این صورت ..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 공개해 보도록 하겠습니다.",
+      "ENGLISH": "Let’s reveal",
+      "CHINESE_SIMPLIFIED": "现在要公开结果了",
+      "CHINESE_TRADITIONAL": "公開答案吧",
+      "JAPANESE": "公開してみましょう",
+      "INDONESIAN": "Mari kita ungkapkan",
+      "PORTUGUESE": "vamos revelar a carta escolhida.",
+      "SPANISH": "revelaremos la carta elegida.",
+      "PERSIAN": "فاش کنیم"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "선택하신 카드는...!",
+      "ENGLISH": "The card you chose!",
+      "CHINESE_SIMPLIFIED": "您选择的牌是...！",
+      "CHINESE_TRADITIONAL": "您選的牌是──！",
+      "JAPANESE": "あなたが選んだカードは……！",
+      "INDONESIAN": "Kartu yang kamu pilih!",
+      "PORTUGUESE": "A carta que vocês escolheram é...!",
+      "SPANISH": "¡La carta que escogieron es...!",
+      "PERSIAN": "کارتی که انتخاب کردی!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "- 엇? 뭐야\n- 아..",
+      "ENGLISH": "— Huh? Wait, what...?\n— Ah...",
+      "CHINESE_SIMPLIFIED": "-呃？什么啊\n-啊...",
+      "CHINESE_TRADITIONAL": "—咦？什麼啊\n—啊…",
+      "JAPANESE": "‐あれっ？\n‐あ…",
+      "INDONESIAN": "— Hah? Tunggu, apa...?\n— Ah...",
+      "PORTUGUESE": "—Hã? O quê?\n—Ah…",
+      "SPANISH": "—¿Ah? ¿Pero qué?\n—Ah…",
+      "PERSIAN": "- ها؟ صبر کن چی...؟ -آه..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아이고, 아니군요.",
+      "ENGLISH": "Oh no, that’s not it.",
+      "CHINESE_SIMPLIFIED": "哎呦，不对呢",
+      "CHINESE_TRADITIONAL": "很可惜，不是呢",
+      "JAPANESE": "おっと、違いましたね",
+      "INDONESIAN": "Oh tidak, bukan itu.",
+      "PORTUGUESE": "Ah, não, parece que não era.",
+      "SPANISH": "Ay, no, parece que no era.",
+      "PERSIAN": "اوه نه، این نیست."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "틀리셨습니다.",
+      "ENGLISH": "You were incorrect.",
+      "CHINESE_SIMPLIFIED": "您猜错了",
+      "CHINESE_TRADITIONAL": "答錯了",
+      "JAPANESE": "残念、ハズレです",
+      "INDONESIAN": "Kamu salah.",
+      "PORTUGUESE": "Errado.",
+      "SPANISH": "Incorrecto.",
+      "PERSIAN": "شما نادرست بودید"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 24.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 분명 봤는데...!",
+      "ENGLISH": "But I was so sure I saw it!",
+      "CHINESE_SIMPLIFIED": "啊我明明看到了...！",
+      "CHINESE_TRADITIONAL": "咦？我明明就有看到啊…！",
+      "JAPANESE": "えっ、確かに見たのに…！",
+      "INDONESIAN": "Tapi aku yakin aku melihatnya!",
+      "PORTUGUESE": "Mas eu tinha certeza...",
+      "SPANISH": "Pero si estaba segura...",
+      "PERSIAN": "اما خیلی مطمئن بودم که دیدمش!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.2,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 준비한 공연은 여기까지였고요.",
+      "ENGLISH": "And that brings us to the end of today’s performance.",
+      "CHINESE_SIMPLIFIED": "我准备的表演就到这里了",
+      "CHINESE_TRADITIONAL": "我今天準備的表演就到這裡",
+      "JAPANESE": "今日の僕のショーはここまでです",
+      "INDONESIAN": "Dan itu membawa kita ke akhir pertunjukan hari ini.",
+      "PORTUGUESE": "Bom, por aqui termina o show que preparei.",
+      "SPANISH": "Bueno, hasta aquí llega el espectáculo que preparé.",
+      "PERSIAN": "و این ما را به پایان اجرای امروز می رساند."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "여러분들 오늘 즐거운 하루 보내시길 바랍니다.",
+      "ENGLISH": "Hope you all have a great rest of your day.",
+      "CHINESE_SIMPLIFIED": "祝各位今天度过愉快的一天",
+      "CHINESE_TRADITIONAL": "祝大家都能有個愉快的一天",
+      "JAPANESE": "みなさん、どうぞ素敵な一日をお過ごしください",
+      "INDONESIAN": "Semoga kamu semua menikmati sisa hari kamu dengan baik.",
+      "PORTUGUESE": "Espero que todos tenham um ótimo dia.",
+      "SPANISH": "Espero que todos tengan un excelente día.",
+      "PERSIAN": "امیدوارم همه شما روزهای خوبی را پشت سر گذاشته باشید."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 31.7
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕히 계세요.",
+      "ENGLISH": "Take care!",
+      "CHINESE_SIMPLIFIED": "再见啦",
+      "CHINESE_TRADITIONAL": "再見",
+      "JAPANESE": "さようなら",
+      "INDONESIAN": "Hati-hati di jalan!",
+      "PORTUGUESE": "Muito obrigado.",
+      "SPANISH": "Muchas gracias.",
+      "PERSIAN": "مراقب باشید!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 32.4,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다...",
+      "ENGLISH": "Thank you...",
+      "CHINESE_SIMPLIFIED": "谢谢...",
+      "CHINESE_TRADITIONAL": "謝謝大家…",
+      "JAPANESE": "ありがとうございました",
+      "INDONESIAN": "Terima kasih...",
+      "PORTUGUESE": "Tchau!",
+      "SPANISH": "¡Adiós!",
+      "PERSIAN": "ممنونم..."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 36.8
+    },
+    "SCRIPT": {
+      "KOREAN": "분명 1번이 맞았는데, 그쵸!",
+      "ENGLISH": "I swear it was card number one, right?",
+      "CHINESE_SIMPLIFIED": "明明感觉是1号来着，对吧！",
+      "CHINESE_TRADITIONAL": "我真的覺得是第一張，對吧！",
+      "JAPANESE": "やっぱり1番だったと思ったんですけどね　ね？",
+      "INDONESIAN": "Aku bersumpah itu kartu nomor satu, kan?",
+      "PORTUGUESE": "Eu jurava que era a número um, né?",
+      "SPANISH": "Yo juraba que era la número uno, ¿verdad?",
+      "PERSIAN": "قسم می خورم که کارت شماره یک بود، درست است؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 37.9,
+      "HIDE": 38.9
+    },
+    "SCRIPT": {
+      "KOREAN": "가요, 우리.",
+      "ENGLISH": "Come on, let’s go.",
+      "CHINESE_SIMPLIFIED": "我们走吧",
+      "CHINESE_TRADITIONAL": "我們走吧",
+      "JAPANESE": "行きましょう",
+      "INDONESIAN": "Ayo, kita pergi.",
+      "PORTUGUESE": "Vamos.",
+      "SPANISH": "Vámonos.",
+      "PERSIAN": "بیا برویم"
+    }
+  }
+]

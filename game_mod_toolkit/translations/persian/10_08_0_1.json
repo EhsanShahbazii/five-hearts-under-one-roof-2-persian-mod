@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저한테 빵 주셨잖아요!",
+      "ENGLISH": "You gave me bread, didn't you!",
+      "CHINESE_SIMPLIFIED": "你当时给了我面包呢！",
+      "CHINESE_TRADITIONAL": "當時你給了我麵包！",
+      "JAPANESE": "パン、くれたじゃないですか！",
+      "INDONESIAN": "Kamu ngasih aku roti waktu itu",
+      "PORTUGUESE": "Você me deu pão!",
+      "SPANISH": "¡Me dio pan!",
+      "PERSIAN": "تو به من نون دادی، مگر نه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 기억하시네요?",
+      "ENGLISH": "Oh~ You remember?",
+      "CHINESE_SIMPLIFIED": "哦～你还记得啊？",
+      "CHINESE_TRADITIONAL": "喔～你還記得啊？",
+      "JAPANESE": "お〜、覚えてたんですね？",
+      "INDONESIAN": "Oh~ masih inget ya",
+      "PORTUGUESE": "Oh~ lembra disso?",
+      "SPANISH": "Oh~ ¿lo recuerda?",
+      "PERSIAN": "اوه~ یادت هست؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그때도 받기 진짜 미안했다고요...",
+      "ENGLISH": "I felt really bad accepting it back then too...",
+      "CHINESE_SIMPLIFIED": "那时候就觉得特别过意不去...",
+      "CHINESE_TRADITIONAL": "不過收下後感覺有點抱歉...",
+      "JAPANESE": "あの時も、本当に受け取るの申し訳なかったんですよ…",
+      "INDONESIAN": "Padahal waktu itu aku juga ngerasa nggak enak banget nerimanya",
+      "PORTUGUESE": "Naquele momento eu também fiquei todo sem graça por receber...",
+      "SPANISH": "En ese momento también me sentí muy apenado por recibirlo...",
+      "PERSIAN": "اون موقع هم خیلی احساس بدی داشتم که قبولش کردم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자꾸 미안해하지마요!",
+      "ENGLISH": "Stop feeling sorry all the time!",
+      "CHINESE_SIMPLIFIED": "别再老是觉得抱歉了！",
+      "CHINESE_TRADITIONAL": "不要總是覺得抱歉嘛！",
+      "JAPANESE": "もう、そんなに謝らないでください！",
+      "INDONESIAN": "Jangan terus-terusan minta maaf dong",
+      "PORTUGUESE": "Não se desculpe tanto!",
+      "SPANISH": "¡No se disculpe tanto!",
+      "PERSIAN": "دست از مدام پشیمان شدن بردار!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "전 앞으로도 계속 줄 거란 말이에요!",
+      "ENGLISH": "I'll keep giving it to you from now on!",
+      "CHINESE_SIMPLIFIED": "以后我还会继续给的！",
+      "CHINESE_TRADITIONAL": "以後我還是會繼續給你的！",
+      "JAPANESE": "これからも、ずっとあげ続けるんですから！",
+      "INDONESIAN": "Soalnya aku bakal terus ngasih juga ke depannya",
+      "PORTUGUESE": "Vou continuar te dando coisas daqui pra frente.",
+      "SPANISH": "Le voy a seguir dando cosas de ahora en adelante.",
+      "PERSIAN": "از این به بعد بهت میدمش!"
+    }
+  }
+]

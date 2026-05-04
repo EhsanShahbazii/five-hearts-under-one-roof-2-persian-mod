@@ -1,0 +1,163 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "자 허벅지 고정 잘 해주시고,",
+      "ENGLISH": "Alright, make sure your thighs are properly secured.",
+      "CHINESE_SIMPLIFIED": "来，请固定好大腿",
+      "CHINESE_TRADITIONAL": "來，大腿位置固定好",
+      "JAPANESE": "じゃあ、太ももをしっかり固定して〜",
+      "INDONESIAN": "Oke, pastiin pahanya udah dikunci rapat.",
+      "PORTUGUESE": "Certo, aperte bem as coxas.",
+      "SPANISH": "Bien, apriete bien los muslos.",
+      "PERSIAN": "بسیار خوب، مطمئن شوید که ران های شما به درستی محکم شده اند."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게?",
+      "ENGLISH": "Like this?",
+      "CHINESE_SIMPLIFIED": "像这样吗？",
+      "CHINESE_TRADITIONAL": "這樣嗎？",
+      "JAPANESE": "こう？",
+      "INDONESIAN": "Gini?",
+      "PORTUGUESE": "Assim?",
+      "SPANISH": "¿Así?",
+      "PERSIAN": "اینجوری؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네 아주 잘 하셨고, ",
+      "ENGLISH": "Yes, perfect.",
+      "CHINESE_SIMPLIFIED": "对，做得很好",
+      "CHINESE_TRADITIONAL": "對，做得非常好",
+      "JAPANESE": "はい、とっても上手です　そのまま背中をまっすぐにして〜",
+      "INDONESIAN": "Iya, pas banget.",
+      "PORTUGUESE": "Sim, perfeito.",
+      "SPANISH": "Sí, perfecto.",
+      "PERSIAN": "بله، کامل."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그다음 여기 등 제대로 세워주시고",
+      "ENGLISH": "Next, keep your back straight here.",
+      "CHINESE_SIMPLIFIED": "接下来请把背部挺直",
+      "CHINESE_TRADITIONAL": "接下來把背部挺直",
+      "JAPANESE": "そしてここ、背中をしっかりまっすぐにしてください",
+      "INDONESIAN": "Selanjutnya, punggungnya lurus di sini ya.",
+      "PORTUGUESE": "Agora mantenha as costas bem retas.",
+      "SPANISH": "Ahora mantenga la espalda bien recta.",
+      "PERSIAN": "بعد، پشت خود را در اینجا صاف نگه دارید."
+    }
+  },
+  {
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": " 네~",
+      "ENGLISH": "Yes~",
+      "CHINESE_SIMPLIFIED": "好~",
+      "CHINESE_TRADITIONAL": "好～",
+      "JAPANESE": "は～い",
+      "INDONESIAN": "Siap~",
+      "PORTUGUESE": "Sim~",
+      "SPANISH": "Sí~",
+      "PERSIAN": "بله~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 당겨주세요.",
+      "ENGLISH": "Now, pull.",
+      "CHINESE_SIMPLIFIED": "来，开始拉吧",
+      "CHINESE_TRADITIONAL": "來，開始拉吧",
+      "JAPANESE": "さぁ、引いてください",
+      "INDONESIAN": "Sekarang, tarik.",
+      "PORTUGUESE": "Muito bem, vamos começar.",
+      "SPANISH": "Muy bien, comencemos.",
+      "PERSIAN": "حالا بکش"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 제대로 보고 있는 거 맞아?",
+      "ENGLISH": "Yuman, you’re watching carefully, right?",
+      "CHINESE_SIMPLIFIED": "你确定有在认真帮我看吗？",
+      "CHINESE_TRADITIONAL": "宥萬你真的有好好在教我嗎？",
+      "JAPANESE": "ユマンさん、ちゃんと見てる？",
+      "INDONESIAN": "Yuman, kamu perhatiin baik-baik, kan?",
+      "PORTUGUESE": "Yuman, tem certeza de que está prestando atenção?",
+      "SPANISH": "¿Yumán, seguro que estás poniendo atención?",
+      "PERSIAN": "یومان، تو با دقت نگاه می کنی، درست است؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네 보고 있는데요.",
+      "ENGLISH": "Yes, I am.",
+      "CHINESE_SIMPLIFIED": "嗯，看着呢",
+      "CHINESE_TRADITIONAL": "對啊，有在看啊？",
+      "JAPANESE": "見てますけど",
+      "INDONESIAN": "Iya, aku perhatiin.",
+      "PORTUGUESE": "Claro, muito atento.",
+      "SPANISH": "Claro, muy atentamente.",
+      "PERSIAN": "بله، من هستم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 이만할래. 가자",
+      "ENGLISH": "Alright, that’s enough for today. Let’s wrap it up.",
+      "CHINESE_SIMPLIFIED": "今天先到这里吧，走吧",
+      "CHINESE_TRADITIONAL": "今天就到這裡，回去吧",
+      "JAPANESE": "今日はもうここまで 帰ろう",
+      "INDONESIAN": "Oke deh, cukup untuk hari ini. Kita selesai sampai di sini aja.",
+      "PORTUGUESE": "Por hoje é suficiente. Vamos.",
+      "SPANISH": "Por hoy es suficiente. Vámonos.",
+      "PERSIAN": "خوب، برای امروز کافی است. بیایید اونو جمع بندی کنیم."
+    }
+  }
+]

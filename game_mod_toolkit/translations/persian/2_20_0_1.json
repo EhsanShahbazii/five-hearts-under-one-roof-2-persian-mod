@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아직도 있네",
+      "ENGLISH": "Still there, huh...",
+      "CHINESE_SIMPLIFIED": "还在呢～",
+      "CHINESE_TRADITIONAL": "還在呢",
+      "JAPANESE": "まだ残ってますね",
+      "INDONESIAN": "Masih di situ, ya...",
+      "PORTUGUESE": "Ainda tem isso...",
+      "SPANISH": "Todavía lo tiene...",
+      "PERSIAN": "هنوز آنجاست، خ..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 뭐가요?",
+      "ENGLISH": "Huh? What is?",
+      "CHINESE_SIMPLIFIED": "嗯？什么？",
+      "CHINESE_TRADITIONAL": "嗯？什麼？",
+      "JAPANESE": "え? 何がですか?",
+      "INDONESIAN": "Hah? Apa yang masih?",
+      "PORTUGUESE": "Hã? O quê?",
+      "SPANISH": "¿Eh? ¿Qué cosa?",
+      "PERSIAN": "ها؟ چیه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아무것도 아니에요!",
+      "ENGLISH": "Oh—nothing!",
+      "CHINESE_SIMPLIFIED": "啊，没什么！",
+      "CHINESE_TRADITIONAL": "啊，沒事沒事！",
+      "JAPANESE": "あ なんでもないです!",
+      "INDONESIAN": "Oh—nggak kok, bukan apa-apa!",
+      "PORTUGUESE": "Ah, não, nada. Esquece!",
+      "SPANISH": "Ah, no, nada. ¡Olvídelo!",
+      "PERSIAN": "اوه - هیچی!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 일단 다리 한 쪽 먼저 확인해볼까요?",
+      "ENGLISH": "Alright, let’s start by checking one leg, okay?",
+      "CHINESE_SIMPLIFIED": "那我们先把一边的腿检查一下吧",
+      "CHINESE_TRADITIONAL": "那麼，我們先確認一條腿好嗎？",
+      "JAPANESE": "じゃあ まず片足から確認してみましょうか",
+      "INDONESIAN": "Oke, kita mulai cek satu kaki dulu ya?",
+      "PORTUGUESE": "Que tal começarmos pela perna?",
+      "SPANISH": "¿Qué tal si comenzamos por la pierna?",
+      "PERSIAN": "خوب، بیایید با بررسی یک پا شروع کنیم، خوب؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 힘 빼시고~ ",
+      "ENGLISH": "Just relax~",
+      "CHINESE_SIMPLIFIED": "来，放松~",
+      "CHINESE_TRADITIONAL": "來，身體放鬆～",
+      "JAPANESE": "はい 力抜いて〜",
+      "INDONESIAN": "Santai aja~",
+      "PORTUGUESE": "Muito bem, relaxe o corpo~",
+      "SPANISH": "Muy bien, relaje el cuerpo~",
+      "PERSIAN": "فقط استراحت کنید~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "후~",
+      "ENGLISH": "Exhale...",
+      "CHINESE_SIMPLIFIED": "呼~",
+      "CHINESE_TRADITIONAL": "吐氣～",
+      "JAPANESE": "ふ〜",
+      "INDONESIAN": "Buang napas...",
+      "PORTUGUESE": "Expire~",
+      "SPANISH": "Exhale~",
+      "PERSIAN": "بازدم..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "후~",
+      "ENGLISH": "And again... exhale~",
+      "CHINESE_SIMPLIFIED": "呼~",
+      "CHINESE_TRADITIONAL": "呼～",
+      "JAPANESE": "ふ〜",
+      "INDONESIAN": "Sekali lagi... buang napas~",
+      "PORTUGUESE": "Assim~",
+      "SPANISH": "Así~",
+      "PERSIAN": "و دوباره... بازدم~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "한번더, 후~",
+      "ENGLISH": "One more time... exhale~",
+      "CHINESE_SIMPLIFIED": "再一次，呼~",
+      "CHINESE_TRADITIONAL": "再一次～呼～",
+      "JAPANESE": "もう一回 ふ〜",
+      "INDONESIAN": "Sekali lagi ya... buang napas~",
+      "PORTUGUESE": "Mais uma vez~",
+      "SPANISH": "Una vez más~",
+      "PERSIAN": "یک بار دیگر... بازدم~"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "(뿌웅)",
+      "ENGLISH": "(Pffft)",
+      "CHINESE_SIMPLIFIED": "（噗～）",
+      "CHINESE_TRADITIONAL": "（噗～）",
+      "JAPANESE": "（ぷぅ〜）",
+      "INDONESIAN": "(Pffft)",
+      "PORTUGUESE": "Pum",
+      "SPANISH": "*Flatulencia*",
+      "PERSIAN": "(پفففت)"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요! 자연스러운 거예요",
+      "ENGLISH": "It’s okay! Totally natural.",
+      "CHINESE_SIMPLIFIED": "没关系！这是正常的",
+      "CHINESE_TRADITIONAL": "沒關係！這是自然現象",
+      "JAPANESE": "大丈夫ですよ! 自然なことですから",
+      "INDONESIAN": "Nggak apa-apa! Itu wajar banget.",
+      "PORTUGUESE": "Fique tranquilo! É algo totalmente natural.",
+      "SPANISH": "¡Traquilo! Es algo totalmente natural.",
+      "PERSIAN": "اشکالی ندارد! کاملا طبیعی"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "선생님이 뀐 거 아니에요?",
+      "ENGLISH": "Wait—was that you, Doctor?",
+      "CHINESE_SIMPLIFIED": "不是方护士放的吗？",
+      "CHINESE_TRADITIONAL": "不是醫生你放的屁嗎？",
+      "JAPANESE": "先生がしたんじゃないですか?",
+      "INDONESIAN": "Tunggu—itu dokter yang...?",
+      "PORTUGUESE": "Mas não fui eu, foi você...",
+      "SPANISH": "Pero yo no fui, fue usted...",
+      "PERSIAN": "صبر کنید - شما بودید دکتر؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니깐요 자연현상입니다.",
+      "ENGLISH": "Exactly. Just a natural bodily function.",
+      "CHINESE_SIMPLIFIED": "所以说是自然现象啦",
+      "CHINESE_TRADITIONAL": "就是說啊！這是自然現象",
+      "JAPANESE": "そうです 自然現象です",
+      "INDONESIAN": "Betul. Reaksi tubuh yang alami aja.",
+      "PORTUGUESE": "Como eu disse, é completamente natural.",
+      "SPANISH": "Como le digo, es completamente natural.",
+      "PERSIAN": "دقیقا. فقط یک عملکرد طبیعی بدن."
+    }
+  }
+]

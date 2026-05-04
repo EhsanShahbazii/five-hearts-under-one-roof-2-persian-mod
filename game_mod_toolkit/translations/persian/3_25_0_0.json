@@ -1,0 +1,308 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아~~ 반갑습니다 행님들!!",
+      "ENGLISH": "Ahhh~ what’s up, fam!!",
+      "CHINESE_SIMPLIFIED": "啊~~欢迎各位老铁！！",
+      "CHINESE_TRADITIONAL": "嗨嗨～ 很開心看到各位大哥們！！",
+      "JAPANESE": "あ〜〜どうもどうも皆さん！",
+      "INDONESIAN": "Ahhh~ apa kabar, kawan!!",
+      "PORTUGUESE": "Ah~~! Que bom ver vocês, bros!",
+      "SPANISH": "¡Ah~~! ¡Qué gusto verlos, bros!",
+      "PERSIAN": "آهان ~ چه خبر ، فام!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 네, 어서들 들어오세요.",
+      "ENGLISH": "Hey there, come on in.",
+      "CHINESE_SIMPLIFIED": "欢迎各位进入直播间",
+      "CHINESE_TRADITIONAL": "啊 是的，歡迎大家快進來直播",
+      "JAPANESE": "はい、いらっしゃいませ〜！",
+      "INDONESIAN": "Hai, silakan masuk.",
+      "PORTUGUESE": "Ah, sim, sim, entrem, entrem.",
+      "SPANISH": "Ah, sí, sí, pasen, pasen.",
+      "PERSIAN": "سلام، بیا داخل"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오! 달풍선 70개 오 감사합니다!",
+      "ENGLISH": "Oh! Thanks for the 70 balloon donations! Appreciate it!",
+      "CHINESE_SIMPLIFIED": "哇！感谢老铁送的70个热气球！！",
+      "CHINESE_TRADITIONAL": "喔！有人抖內70 個氣球了～謝謝！",
+      "JAPANESE": "おっ！風船70個ありがとうございます！",
+      "INDONESIAN": "Oh! Terima kasih atas donasi 70 balonnya! Terima kasih banyak!",
+      "PORTUGUESE": "Oh! Valeu pelas 70 doações com balões!",
+      "SPANISH": "¡Oh! ¡Gracias por las 70 donaciones con globos!",
+      "PERSIAN": "اوه! بابت اهدای 70 بادکنک متشکریم! قدرش را بدان!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 얘네랑 얘기해 보라고?",
+      "ENGLISH": "Oh, you want me to talk to them?",
+      "CHINESE_SIMPLIFIED": "啊，叫我跟他们聊聊吗？",
+      "CHINESE_TRADITIONAL": "啊，叫我跟那兩位聊聊是吧？",
+      "JAPANESE": "あ、この二人と話してみろって？",
+      "INDONESIAN": "Oh, kamu ingin aku berbicara dengan mereka?",
+      "PORTUGUESE": "Hã? Querem que eu fale com eles?",
+      "SPANISH": "¿Eh? ¿Que hable con ellos?",
+      "PERSIAN": "اوه، میخوای باهاشون صحبت کنم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 기다려 봐.",
+      "ENGLISH": "Alright, hold on.",
+      "CHINESE_SIMPLIFIED": "呃，等一下哈",
+      "CHINESE_TRADITIONAL": "好，等一下哈",
+      "JAPANESE": "ちょっと待って",
+      "INDONESIAN": "Baiklah, tunggu sebentar.",
+      "PORTUGUESE": "Ok, espera um segundo.",
+      "SPANISH": "Ok, espera un segundo.",
+      "PERSIAN": "باشه صبر کن"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요! 두 분 커플이세요?",
+      "ENGLISH": "Hey there! Are you two a couple?",
+      "CHINESE_SIMPLIFIED": "你们好！两位是情侣吗？",
+      "CHINESE_TRADITIONAL": "你好！兩位是情侶嗎？",
+      "JAPANESE": "こんにちは！お二人はカップルですか？",
+      "INDONESIAN": "Hai! Kalian berdua sepasang kekasih?",
+      "PORTUGUESE": "Oi! Vocês dois são um casal?",
+      "SPANISH": "¡Hola! ¿Ustedes dos son pareja?",
+      "PERSIAN": "سلام! شما دوتا زوج هستید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "예? 아,아니요?",
+      "ENGLISH": "Huh? Oh—no, we’re not.",
+      "CHINESE_SIMPLIFIED": "啊？不、不是啊？",
+      "CHINESE_TRADITIONAL": "欸？我、我們不是？",
+      "JAPANESE": "え？あ、いや…違いますけど？",
+      "INDONESIAN": "Hah? Oh—tidak, kami tidak.",
+      "PORTUGUESE": "Hã? O-o quê? Não?",
+      "SPANISH": "¿Eh? ¿Q-qué? ¿No?",
+      "PERSIAN": "ها؟ اوه - نه، ما نیستیم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 엄청 쑥스러워하시네~ 그럼 둘이 썸?",
+      "ENGLISH": "Aww, you're both so shy~ So, are you maybe kinda dating?",
+      "CHINESE_SIMPLIFIED": "哎呀怎么这么害羞呢~那是在暧昧期？",
+      "CHINESE_TRADITIONAL": "很害羞喔～ 那兩位是在曖昧中嗎？",
+      "JAPANESE": "うわ〜めっちゃ照れてますね〜！じゃあ、いい感じの関係？",
+      "INDONESIAN": "Aww, kalian berdua sangat pemalu~ Jadi, mungkin kalian sedang berkencan?",
+      "PORTUGUESE": "Ah, ficaram todos nervosos~ Então tão saindo ou o quê?",
+      "SPANISH": "Ah, se pusieron todos nerviosos~ ¿Entonces están saliendo o qué?",
+      "PERSIAN": "اوه، شما هر دو خیلی خجالتی هستید~ پس، ممکنه به نوعی قرار ملاقات داشته باشید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 갑자기 ",
+      "ENGLISH": "What the heck...",
+      "CHINESE_SIMPLIFIED": "怎么回事啊你们...",
+      "CHINESE_TRADITIONAL": "什麼啦，突然這樣…",
+      "JAPANESE": "なに急に…",
+      "INDONESIAN": "Apa-apaan...",
+      "PORTUGUESE": "Do nada assim...?",
+      "SPANISH": "¿ASí de la nada...?",
+      "PERSIAN": "چه لعنتی..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 25.9
+    },
+    "SCRIPT": {
+      "KOREAN": "박민정 아니냐고?",
+      "ENGLISH": "Wait—did someone just say that’s Park Min-jung??",
+      "CHINESE_SIMPLIFIED": "问她是不是朴敏静？",
+      "CHINESE_TRADITIONAL": "是不是樸敏靜啊？",
+      "JAPANESE": "パク・ミンジョンじゃね？って？",
+      "INDONESIAN": "Tunggu—apakah seseorang baru saja mengatakan itu Park Min-jung??",
+      "PORTUGUESE": "Você não é a Park Minjung?",
+      "SPANISH": "¿Tú no eres Park Minjung?",
+      "PERSIAN": "صبر کن - کسی گفت که پارک مین‌جونگ است؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭔 개소리야! 이 시국에 박민정이 지금 왜 돌아다녀",
+      "ENGLISH": "What kind of BS is that?! Like she’d be out walking around right now of all times.",
+      "CHINESE_SIMPLIFIED": "哎胡说什么呢！这种时候朴敏静怎么可能在外面乱逛",
+      "CHINESE_TRADITIONAL": "欸？講什麼鬼話！這種時候樸敏靜怎麼可能在外面閒晃呢？",
+      "JAPANESE": "は？何言ってんだ　今こんな時期にパク・ミンジョンが外出歩くわけないでしょ",
+      "INDONESIAN": "Omong kosong macam apa itu?! Kayaknya dia lagi jalan-jalan aja sekarang.",
+      "PORTUGUESE": "Que bobagem é essa! Por que a Park Minjung estaria andando por aqui justo agora?",
+      "SPANISH": "¡Qué tontería estás diciendo! ¿Por qué estaría Park Minjung caminando por aquí justo ahora?",
+      "PERSIAN": "اون چه جور یه؟! مثل اینکه او در همه حال بیرون می‌رفت و قدم می‌زد."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "마주치면? 마주치면 존X 땡큐지~",
+      "ENGLISH": "And if I did run into her? I’d be freakin’ thrilled, obviously.",
+      "CHINESE_SIMPLIFIED": "要是真遇上了？遇上了当然是赚到了啊~",
+      "CHINESE_TRADITIONAL": "如果遇到她？ 如果遇到真的是賺到了啊！",
+      "JAPANESE": "もし会ったら？って？会えたらマジで最高でしょ",
+      "INDONESIAN": "Dan kalau aku ketemu dia? Aku pasti bakal seneng banget, deh.",
+      "PORTUGUESE": "E se eu encontrasse ela? Haha! Seria uma baita sorte~",
+      "SPANISH": "¿Y si me la encuentro? ¡Ja! Sería una maldita suerte~",
+      "PERSIAN": "و اگر با او برخورد کردم؟ بدیهی است که من بسیار هیجان زده خواهم شد."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.4,
+      "HIDE": 38.1
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 옆에 있는 남자가 존못이라 아닌 듯?",
+      "ENGLISH": "But nah—look at the dude next to her. Total scrub. Can’t be her.",
+      "CHINESE_SIMPLIFIED": "不过旁边这男的长得不咋地，所以应该不是？",
+      "CHINESE_TRADITIONAL": "不過旁邊那男的長這樣，應該不是吧？",
+      "JAPANESE": "でも隣の男がブサイクすぎて違うと思うけどな？",
+      "INDONESIAN": "Tapi ah—lihat cowok di sebelahnya. Dasar tukang sampah. Pasti bukan dia.",
+      "PORTUGUESE": "Mas o cara que tá com ela é tão feio que com certeza não é ela.",
+      "SPANISH": "Aunque, el tipo que está con ella es tan feo que seguro no es ella.",
+      "PERSIAN": "اما نه - به دوست کنارش نگاه کن. کل اسکراب. نمی تواند او باشد"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 38.5,
+      "HIDE": 39.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "...Excuse me?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "...Permisi?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "...ببخشید؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 42.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 아니요, 아니요. 우리 행님들 댓글 읽은 거예요.",
+      "ENGLISH": "Oh, no, no—that was just me reading the chat, that’s all!",
+      "CHINESE_SIMPLIFIED": "不是不是，我们是在念老铁们的弹幕",
+      "CHINESE_TRADITIONAL": "沒有沒有！我剛只是在唸留言而已！",
+      "JAPANESE": "あ、いえいえ！今のはコメント読んだだけです！",
+      "INDONESIAN": "Oh, tidak, tidak—itu hanya aku yang membaca obrolan, itu saja!",
+      "PORTUGUESE": "Não, não, eu tava lendo os comentários dos meus seguidores, não levem a mal.",
+      "SPANISH": "No, no, estaba leyendo los comentarios de mis seguidores, no lo tomen a mal.",
+      "PERSIAN": "اوه، نه، نه - این فقط من بودم که چت را می خواندم، همین!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 43.5,
+      "HIDE": 46.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 박민정 만날 급의 얼굴이 아니라고",
+      "ENGLISH": "Yeah, like, “She’s not exactly Park Min-jung level.”",
+      "CHINESE_SIMPLIFIED": "啊~你们说他那脸不配跟朴敏静交往啊",
+      "CHINESE_TRADITIONAL": "喔～有留言說你這長相根本不配見到樸敏靜啦",
+      "JAPANESE": "あ〜パク・ミンジョンに会う顔じゃねーなってコメントがあって",
+      "INDONESIAN": "Ya, seperti, \"Dia tidak benar-benar selevel Park Min-jung.\"",
+      "PORTUGUESE": "Ah~ tão dizendo que nem de brincadeira ele tem cara pra andar com alguém como a Park Minjung.",
+      "SPANISH": "Ah~ que dicen que ni de broma tiene cara para andar con alguien como Park Minjung.",
+      "PERSIAN": "آره، مثل اینکه \"او دقیقاً در سطح پارک مین‌جونگ نیست.\""
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 48.0,
+      "HIDE": 50.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야! 차라리 욕을 해 ",
+      "ENGLISH": "Ugh, just insult me directly next time. Jeez.",
+      "CHINESE_SIMPLIFIED": "喂！你们不如直接骂出来算了",
+      "CHINESE_TRADITIONAL": "喂！還不如直接罵我算了！",
+      "JAPANESE": "おい！いっそ罵ってくれたほうがマシだよ",
+      "INDONESIAN": "Uh, lain kali hina saja aku secara langsung. Astaga.",
+      "PORTUGUESE": "Ei! É melhor xingar a gente na cara!",
+      "SPANISH": "¡Oye! ¡Mejor insúltanos de frente!",
+      "PERSIAN": "اوه، دفعه بعد مستقیم به من توهین کن جیز"
+    }
+  }
+]

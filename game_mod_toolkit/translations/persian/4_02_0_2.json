@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어...저는... 음 술 마실게요!",
+      "ENGLISH": "Uh… I’ll… um, have a drink!",
+      "CHINESE_SIMPLIFIED": "呃...我...嗯，我喝点吧！",
+      "CHINESE_TRADITIONAL": "喔...那...嗯...我喝一點吧！",
+      "JAPANESE": "あ…俺は...うーん、お酒飲みます！",
+      "INDONESIAN": "Ugh… a-aku… ya udah, aku minum deh!",
+      "PORTUGUESE": "Ah... eu... hmm, vou tomar um pouquinho!",
+      "SPANISH": "Eh… yo… hmm, ¡voy a tomar un poco!",
+      "PERSIAN": "اوه... من... اوم، یک نوشیدنی می خورم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어...저는... 음 술 마실게요!",
+      "ENGLISH": "Uh… I’ll… um, have a drink!",
+      "CHINESE_SIMPLIFIED": "呃...我...嗯，我喝点吧！",
+      "CHINESE_TRADITIONAL": "喔...那...嗯...我喝一點吧！",
+      "JAPANESE": "あ…俺は...うーん、お酒飲みます！",
+      "INDONESIAN": "Ugh… a-aku… ya udah, aku minum deh!",
+      "PORTUGUESE": "Ah... eu... hmm, vou tomar um pouquinho!",
+      "SPANISH": "Eh… yo… hmm, ¡voy a tomar un poco!",
+      "PERSIAN": "اوه... من... اوم، یک نوشیدنی می خورم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님은 진짜 안 드실 거예요?",
+      "ENGLISH": "You really aren’t having any, sir?",
+      "CHINESE_SIMPLIFIED": "科长，您真不喝吗？",
+      "CHINESE_TRADITIONAL": "課長，你真的不喝嗎？",
+      "JAPANESE": "課長は本当に飲まないんですか？",
+      "INDONESIAN": "Pak, beneran nggak mau minum sama sekali?",
+      "PORTUGUESE": "A senhora realmente não vai beber nada, chefe?",
+      "SPANISH": "¿De verdad no va a beber nada, jefa?",
+      "PERSIAN": "واقعاً چیزی ندارید قربان؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "난 됐어. 유만 씨도 내일 출근해야 되니까 적당히 마셔.",
+      "ENGLISH": "I’m good. Yuman’s got work tomorrow too, so just drink in moderation.",
+      "CHINESE_SIMPLIFIED": "不用了。宥万先生明天也要上班，适量喝点",
+      "CHINESE_TRADITIONAL": "我就不用了。你明天也要上班，記得適量",
+      "JAPANESE": "私はいい　ユマンさんも明日仕事なんだから、ほどほどにね",
+      "INDONESIAN": "Aku nggak apa‑apa. Yuman juga kerja besok, jadi jangan kebablasan minumnya.",
+      "PORTUGUESE": "Passo. E você também tem que trabalhar amanhã, então nada de exagerar.",
+      "SPANISH": "Paso. Y tú también tienes que trabajar mañana, así que no te pases.",
+      "PERSIAN": "من خوبم یومان فردا هم کار دارد، پس در حد اعتدال بنوشید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네~ 네~",
+      "ENGLISH": "Okay~ okay~",
+      "CHINESE_SIMPLIFIED": "知道~知道~",
+      "CHINESE_TRADITIONAL": "好～好～",
+      "JAPANESE": "はい、は〜い",
+      "INDONESIAN": "Oke~ oke~",
+      "PORTUGUESE": "Tá bom.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "باشه~ باشه~"
+    }
+  }
+]

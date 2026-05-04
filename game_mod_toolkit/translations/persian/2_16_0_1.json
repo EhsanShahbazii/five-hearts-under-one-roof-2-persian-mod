@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 세면도구는 어디에 두면 되지?",
+      "ENGLISH": "Uh… where should I put my toiletries?",
+      "CHINESE_SIMPLIFIED": "啊，洗漱用品该放哪儿呢？",
+      "CHINESE_TRADITIONAL": "啊，洗臉用品要放哪裡呢？",
+      "JAPANESE": "え 洗面道具はどこに置けばいいんだろう?",
+      "INDONESIAN": "Uhh… perlengkapan mandiku taruh di mana ya?",
+      "PORTUGUESE": "Onde devo colocar essas coisas?",
+      "SPANISH": "¿Dónde debería poner estas cosas?",
+      "PERSIAN": "اوه... لوازم آرایشم را کجا بگذارم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "What? What is it?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "怎麼了？",
+      "JAPANESE": "なんで?",
+      "INDONESIAN": "Kenapa? Kenapa emangnya?",
+      "PORTUGUESE": "O que foi?",
+      "SPANISH": "¿Qué pasa?",
+      "PERSIAN": "چی؟ چیه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "와 이거 5중날 쓰면 진짜 많이 억센 건데?",
+      "ENGLISH": "Whoa, this is a five-blade razor? These things are intense!",
+      "CHINESE_SIMPLIFIED": "哇，要用到五层刀片的话，那毛发得多硬啊？",
+      "CHINESE_TRADITIONAL": "哇，要用到五層刀片的話，鬍子真的超硬的耶！",
+      "JAPANESE": "うわ、これ5枚刃使ってるのはめっちゃ強力ってことだよ？",
+      "INDONESIAN": "Wah, ini pisau cukur lima mata pisau? Ini sih sadis!",
+      "PORTUGUESE": "Se você usa um barbeador de 5 lâminas, isso quer dizer que...",
+      "SPANISH": "Si usas una rasuradora de 5 hojas quiere decir que...",
+      "PERSIAN": "اوه، این یک تیغ پنج تیغه است؟ این چیزها شدید است!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "えっ?",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Wait, seriously?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Seriusan?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "صبر کن جدی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啥？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "O quê?!",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 정리만 해달라고 했잖아요. 정리만!",
+      "ENGLISH": "Hey, I just asked you to organize it—not inspect everything!",
+      "CHINESE_SIMPLIFIED": "我只说了帮我整理吧？就整理而已！",
+      "CHINESE_TRADITIONAL": "我不是讓你幫我整理而已嗎？只是整理！",
+      "JAPANESE": "私 片付けだけ頼んだでしょ 片付けだけ!",
+      "INDONESIAN": "Eh, aku nyuruh kamu beresin, bukan ngecek satu-satu!",
+      "PORTUGUESE": "Só te pedi pra organizar!",
+      "SPANISH": "¡Solo te pedí que lo organizaras!",
+      "PERSIAN": "هی، من فقط از شما خواستم که اونو سازماندهی کنید - همه چیز را بررسی نکنید!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이걸 왜 봐요..",
+      "ENGLISH": "Why are you even looking at that...?",
+      "CHINESE_SIMPLIFIED": "你干嘛看这个啦...",
+      "CHINESE_TRADITIONAL": "你幹嘛看這個…",
+      "JAPANESE": "なんでこれ見るんですか…",
+      "INDONESIAN": "Kenapa juga kamu ngeliatin itu sih...?",
+      "PORTUGUESE": "Por que tá bisbilhotando...?",
+      "SPANISH": "¿Por qué andas fisgoneando…?",
+      "PERSIAN": "اصلا چرا بهش نگاه میکنی...؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "와 나도 5중날은 안 쓰는데...",
+      "ENGLISH": "Even I don’t use a five-blade... wow.",
+      "CHINESE_SIMPLIFIED": "哇，我自己都不用五层刀片的呢...",
+      "CHINESE_TRADITIONAL": "哇，我都沒有用過五層刀片說...",
+      "JAPANESE": "俺でも5枚刃は使わないよ…",
+      "INDONESIAN": "Aku aja nggak pake yang lima mata... gila sih.",
+      "PORTUGUESE": "Uau... nem eu uso um de 5 lâminas...",
+      "SPANISH": "Guau... ni siquiera yo he uso la de 5 hojas…",
+      "PERSIAN": "حتی من از پنج تیغه استفاده نمی کنم ... وای."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "와....",
+      "ENGLISH": "...Dang.",
+      "CHINESE_SIMPLIFIED": "哇....",
+      "CHINESE_TRADITIONAL": "哦…",
+      "JAPANESE": "おぉ…",
+      "INDONESIAN": "...Gokil.",
+      "PORTUGUESE": "Uau...",
+      "SPANISH": "Guau…",
+      "PERSIAN": "... دانگ."
+    }
+  }
+]

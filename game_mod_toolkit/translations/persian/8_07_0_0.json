@@ -1,0 +1,91 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.2
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 과장님 왜요? ",
+      "ENGLISH": "But Manager, why do you ask?",
+      "CHINESE_SIMPLIFIED": "科长，怎么突然这么说呢？",
+      "CHINESE_TRADITIONAL": "不過，課長你怎麼了呢？",
+      "JAPANESE": "でも課長、どうしたんですか？",
+      "INDONESIAN": "Tapi Manajer, kenapa nanya gitu?",
+      "PORTUGUESE": "Por que a pergunta?",
+      "SPANISH": "¿Por qué la pregunta?",
+      "PERSIAN": "اما مدیر، چرا می پرسی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 사람 바뀌어서 좀 불편하신 거 있으셨어요?",
+      "ENGLISH": "Did something about the new people make you uncomfortable?",
+      "CHINESE_SIMPLIFIED": "是不是因为人员变动让你有点不适应？？",
+      "CHINESE_TRADITIONAL": "難道是因為人換了，所以覺得有什麼不方便的嗎？",
+      "JAPANESE": "もしかして人が変わって、何か不便でもありました？",
+      "INDONESIAN": "Emangnya ada yang bikin kamu nggak nyaman sama penghuni baru?",
+      "PORTUGUESE": "A mudança de gente te deixou desconfortável?",
+      "SPANISH": "¿Acaso le resultó incómodo el cambio de gente?",
+      "PERSIAN": "چیزی در مورد افراد جدید باعث ناراحتی شما شده است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아니? 딱히 그런 건 아닌데.",
+      "ENGLISH": "No, not particularly.",
+      "CHINESE_SIMPLIFIED": "不是啦，倒也不是因为这个",
+      "CHINESE_TRADITIONAL": "不是啦，倒也不是因為這個",
+      "JAPANESE": "いや？特にそういうわけじゃないけど",
+      "INDONESIAN": "Nggak sih, nggak ada yang gimana-gimana.",
+      "PORTUGUESE": "Hã? Não, não é isso exatamente.",
+      "SPANISH": "¿Eh? No, no es eso en particular.",
+      "PERSIAN": "نه به خصوص نه"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐... 언제까지 여기 있을 수는 없으니까.",
+      "ENGLISH": "It’s just… I can’t stay here forever.",
+      "CHINESE_SIMPLIFIED": "只是...总不能一直住在这里",
+      "CHINESE_TRADITIONAL": "只是...總不能一直住在這裡吧",
+      "JAPANESE": "まぁ…いつまでもここにいられるわけじゃないからね",
+      "INDONESIAN": "Cuma… aku kan nggak bisa tinggal di sini selamanya.",
+      "PORTUGUESE": "É só que… eu não posso ficar aqui pra sempre.",
+      "SPANISH": "Es solo que… no puedo quedarme para siempre.",
+      "PERSIAN": "فقط... من نمی توانم برای همیشه اینجا بمانم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 나 그냥 하숙집 나갈까?",
+      "ENGLISH": "Yuman, should I just move out of the boarding house?",
+      "CHINESE_SIMPLIFIED": "吴宥万，要不我还是搬出去吧？",
+      "CHINESE_TRADITIONAL": "吳宥萬，還是我...要不要搬出去呢？",
+      "JAPANESE": "ユマンさん、私、いっそ下宿を出ようかな",
+      "INDONESIAN": "Yuman, gimana ya… aku pindah aja nggak dari rumah kos?",
+      "PORTUGUESE": "Yumán, e se eu deixasse a pensão?",
+      "SPANISH": "Yumán, ¿qué tal si dejo la pensión?",
+      "PERSIAN": "یومان، باید از پانسیون خارج شوم؟"
+    }
+  }
+]

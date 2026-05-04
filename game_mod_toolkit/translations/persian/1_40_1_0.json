@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오 우유만 빨리 왔네?",
+      "ENGLISH": "Oh, Yuman, you’re back quick.",
+      "CHINESE_SIMPLIFIED": "哦，宥万你动作还挺快的？",
+      "CHINESE_TRADITIONAL": "喔，宥萬你動作挺快的？",
+      "JAPANESE": "おっ、ユマン早かったじゃん！",
+      "INDONESIAN": "Oh, Yuman cepet juga baliknya?",
+      "PORTUGUESE": "Oh, Yuman, você voltou rápido.",
+      "SPANISH": "Oh, Yumán, ¡lVolviste rápido!",
+      "PERSIAN": "اوه یومان! چه فرز رفتی و اومدی!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "헤헤, 짜잔-",
+      "ENGLISH": "Hehe, ta-da~",
+      "CHINESE_SIMPLIFIED": "嘿嘿，锵锵——",
+      "CHINESE_TRADITIONAL": "嘿嘿，登登！",
+      "JAPANESE": "えへへ〜、じゃじゃーん！",
+      "INDONESIAN": "Hehe, tadaa~",
+      "PORTUGUESE": "Hehe, tcharam~",
+      "SPANISH": "Jeje, ¡Tarán~!",
+      "PERSIAN": "هه‌هه، اینم از این! تادااا~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "앗싸! 맥주~",
+      "ENGLISH": "Yes! Beer!",
+      "CHINESE_SIMPLIFIED": "耶！啤酒来啦～",
+      "CHINESE_TRADITIONAL": "耶～",
+      "JAPANESE": "やった！ビール〜！",
+      "INDONESIAN": "Yes! Bir~",
+      "PORTUGUESE": "Isso! Cerveja!",
+      "SPANISH": "¡Sí! ¡Cervezaaa~!",
+      "PERSIAN": "ایوللل! نوشیدنی رسید~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "크흠... 그 뭐 없나? 그거 응?",
+      "ENGLISH": "Ahem… so, isn’t there… something? You know?",
+      "CHINESE_SIMPLIFIED": "咳咳…那个，没点什么要兑现的吗？嗯？",
+      "CHINESE_TRADITIONAL": "咳咳…那個…沒有那個嗎？那個東西，嗯？",
+      "JAPANESE": "……でさ、なんか無いの？ほら、あれ、あるでしょ？",
+      "INDONESIAN": "Ehem... nggak ada gitu? Itu lho, hmm?",
+      "PORTUGUESE": "Ahem… então, não tem… alguma coisa? Sabe?",
+      "SPANISH": "Ejem... ¿acaso no falta algo? ",
+      "PERSIAN": "احم... راستی... یه چیزی قرار نبود این وسط بشه؟ هان؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "え？なにが？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Algo cómo qué?",
+      "PERSIAN": "چی مثلاً؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 뭐... 맥주 사오면 뭐 해준다고 했던 거 같은데?",
+      "ENGLISH": "Didn’t you say if I brought back beer, you’d give me something in return?",
+      "CHINESE_SIMPLIFIED": "就…好像有人说过，只要我去买啤酒，就会给我点奖励来着？",
+      "CHINESE_TRADITIONAL": "不是啊，你好像說…如果我買啤酒回來的話，要為我做點什麼？",
+      "JAPANESE": "いやその…ビール買ってきたら、なんかしてくれるって言ってなかったっけ？",
+      "INDONESIAN": "Ya itu... kayaknya kamu janjiin sesuatu kalau aku bawa bir, kan?",
+      "PORTUGUESE": "Você não disse que se eu trouxesse cerveja, ia me dar algo em troca?",
+      "SPANISH": "No sé... creo que dijiste que si traía cerveza me ibas a dar algo...",
+      "PERSIAN": "مگه نگفتی اگه بخرم بیارم یه جایزه خوشمزه بهم می‌دی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 입술은 왜 그렇게 삐쭉거려?",
+      "ENGLISH": "Then why are you pouting your lips like that?",
+      "CHINESE_SIMPLIFIED": "不过你的嘴怎么这么撅着啊？",
+      "CHINESE_TRADITIONAL": "不過，你的嘴唇為什麼那麼翹啊？",
+      "JAPANESE": "でもさ、なんでそんなに口とんがらせてるの？",
+      "INDONESIAN": "Tapi kok bibirmu manyun gitu?",
+      "PORTUGUESE": "Então por que tá fazendo biquinho assim?",
+      "SPANISH": "¿Por qué haces eso con la boca, eh?",
+      "PERSIAN": "اون وقت لباتو چرا اینطوری غنچه کردی واسه من؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 알겠어~ 해줄게~ 약속은 지켜야지",
+      "ENGLISH": "Ah, I get it~ I’ll do it. A promise is a promise.",
+      "CHINESE_SIMPLIFIED": "唉，好啦好啦，说好的事当然得做到嘛",
+      "CHINESE_TRADITIONAL": "啊，知道了～給你啦～約定總是要遵守的嘛",
+      "JAPANESE": "ふふっ。わかった〜、してあげるよ。約束は守らなきゃね。",
+      "INDONESIAN": "Ah, oke deh~ aku lakuin. Janji kan harus ditepatin.",
+      "PORTUGUESE": "Ah, entendi~ Eu vou fazer. Promessa é promessa.",
+      "SPANISH": "Ay, está bien~ Te lo voy a dar~ Una promesa es una promesa.",
+      "PERSIAN": "باشه بابا، تسلیم~ بهت می‌دم! قول دادم پاش وایمیستم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 34.6
+    },
+    "SCRIPT": {
+      "KOREAN": "누구 오기로 한 사람 있어?",
+      "ENGLISH": "…Were you expecting someone?",
+      "CHINESE_SIMPLIFIED": "你是不是约了谁来啊？",
+      "CHINESE_TRADITIONAL": "是不是有人要來？",
+      "JAPANESE": "誰か来ることになってたの？",
+      "INDONESIAN": "Kamu lagi nunggu seseorang?",
+      "PORTUGUESE": "…Você tava esperando alguém?",
+      "SPANISH": "¿Estás esperando a alguien?",
+      "PERSIAN": "صبر کن... قرار بود کسی بیاد اینجا؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 35.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아냐아냐아냐아냐",
+      "ENGLISH": "N-no, no, no",
+      "CHINESE_SIMPLIFIED": "啊不不不不不不！",
+      "CHINESE_TRADITIONAL": "沒有沒有沒有沒有！",
+      "JAPANESE": "ち、違う違う違う！",
+      "INDONESIAN": "Nggak-nggak-nggak!",
+      "PORTUGUESE": "N-não, não, não",
+      "SPANISH": "¡No no no!",
+      "PERSIAN": "نه بابا نه نه!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아무도 안 왔어",
+      "ENGLISH": "Nobody’s here.",
+      "CHINESE_SIMPLIFIED": "没人来！",
+      "CHINESE_TRADITIONAL": "沒有人來",
+      "JAPANESE": "誰も来てないから！",
+      "INDONESIAN": "Nggak ada siapa-siapa.",
+      "PORTUGUESE": "Não tem ninguém.",
+      "SPANISH": "No hay nadie.",
+      "PERSIAN": "کسی نیومده، خیالت راحت!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 37.1
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리빨리빨리",
+      "ENGLISH": "Come on, hurry, hurry, hurry!",
+      "CHINESE_SIMPLIFIED": "快点快点快点！",
+      "CHINESE_TRADITIONAL": "快點快點快點",
+      "JAPANESE": "早く早く早く！",
+      "INDONESIAN": "Cepetan, cepetan!",
+      "PORTUGUESE": "Vai, anda logo, anda logo, anda logo!",
+      "SPANISH": "¡Rápido rápido!",
+      "PERSIAN": "زود باش زود باش زود باش!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 39.1,
+      "HIDE": 41.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아....... 누가 온 거야...",
+      "ENGLISH": "Ahhh… someone’s here, aren’t they…",
+      "CHINESE_SIMPLIFIED": "啊…是谁来了啊…",
+      "CHINESE_TRADITIONAL": "啊……是誰來了…",
+      "JAPANESE": "……あれ……誰か来たの……？",
+      "INDONESIAN": "Ahh... jadi beneran ada yang datang ya...",
+      "PORTUGUESE": "Ahhh… tem alguém aqui, não tem…",
+      "SPANISH": "Ah........ ¿quién viene justo ahora...?",
+      "PERSIAN": "آخههه... چرا درست الان باید یکی در بزنه اخه..."
+    }
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만요...",
+      "ENGLISH": "Uh, wait a sec…",
+      "CHINESE_SIMPLIFIED": "等一下…",
+      "CHINESE_TRADITIONAL": "等一下…",
+      "JAPANESE": "ちょっと待ってくださいよ…",
+      "INDONESIAN": "Tunggu sebentar...",
+      "PORTUGUESE": "Uh, espera um segundo…",
+      "SPANISH": "Un momento...",
+      "PERSIAN": "یه لحظه اجازه بدین..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어어 저게 뭐지?",
+      "ENGLISH": "Uh… what’s that over there?",
+      "CHINESE_SIMPLIFIED": "呃呃，那是什么来着？",
+      "CHINESE_TRADITIONAL": "喂，那是什麼東西？",
+      "JAPANESE": "あれ、あれ何だっけ？",
+      "INDONESIAN": "Eh, itu apa ya?",
+      "PORTUGUESE": "Uh… o que é aquilo ali?",
+      "SPANISH": "¡¿Pero qué es eso?!",
+      "PERSIAN": "عه عه! اون چیه اون پشت؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Excuse me?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Maaf?",
+      "PORTUGUESE": "Como é?",
+      "SPANISH": "¿Ah?",
+      "PERSIAN": "بله؟ چی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증... 주세요.",
+      "ENGLISH": "Your ID, please.",
+      "CHINESE_SIMPLIFIED": "请出示身份证",
+      "CHINESE_TRADITIONAL": "麻煩請出示…身分證",
+      "JAPANESE": "身分証…お願いします",
+      "INDONESIAN": "Tolong tunjukkin KTPnya ya.",
+      "PORTUGUESE": "Sua identidade, por favor.",
+      "SPANISH": "Su identificación… por favor.",
+      "PERSIAN": "کارت ملی‌تون رو لطف کنین."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "에이... 왜 그래요~",
+      "ENGLISH": "Aw, come on, why are you being like this~",
+      "CHINESE_SIMPLIFIED": "哎呀，干嘛这样嘛～",
+      "CHINESE_TRADITIONAL": "啊，拜託…怎麼這樣啦～",
+      "JAPANESE": "え〜、なんでそんなこと言うんですか〜",
+      "INDONESIAN": "Eh... kenapa gitu~",
+      "PORTUGUESE": "Ah, qual é, por que você tá sendo assim~",
+      "SPANISH": "Eeh… no sea así...",
+      "PERSIAN": "ای بابا... چرا اینقدر سخت می‌گیرین اخه~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증 없으면 판매가 불가능합니다.",
+      "ENGLISH": "Without an ID, I can’t sell this to you.",
+      "CHINESE_SIMPLIFIED": "没有身份证的话，不能出售相关商品",
+      "CHINESE_TRADITIONAL": "沒有身分證，我們是不能賣的",
+      "JAPANESE": "身分証がない場合は販売できません",
+      "INDONESIAN": "Kalau tanpa KTP, penjualan nggak bisa dilakukan.",
+      "PORTUGUESE": "Sem identidade, eu não posso vender isso pra você.",
+      "SPANISH": "Sin identificación no puedo venderle.",
+      "PERSIAN": "بدون کارت ملی امکان فروشش نیست."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 나 방금 도와줬잖아요~",
+      "ENGLISH": "Hey, I just helped you out earlier~",
+      "CHINESE_SIMPLIFIED": "哎，我刚才不是还帮了你一把吗～",
+      "CHINESE_TRADITIONAL": "哎，我剛才不是才幫了你嗎～",
+      "JAPANESE": "いやいや、さっき助けてあげたじゃないですか〜",
+      "INDONESIAN": "Aduh, aku kan tadi baru nolongin kamu~",
+      "PORTUGUESE": "Ei, eu acabei de te ajudar antes~",
+      "SPANISH": "Vamos, si hace un rato la ayudé...",
+      "PERSIAN": "بابا همین الان بهتون کمک کردم که!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘만! 예?",
+      "ENGLISH": "Just for today! Please?",
+      "CHINESE_SIMPLIFIED": "就今天这一次！好吗？",
+      "CHINESE_TRADITIONAL": "就今天一次！好不好？",
+      "JAPANESE": "今日だけ！ね？",
+      "INDONESIAN": "Hari ini aja, ya? Boleh?",
+      "PORTUGUESE": "Só por hoje! Por favor?",
+      "SPANISH": "¡Solo por hoy! ¿Sí?",
+      "PERSIAN": "فقط همین یه بارو رد کنین بره! خواهش می‌کنم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "신분증 들고 다시 방문해주세요.",
+      "ENGLISH": "Please come back with your ID.",
+      "CHINESE_SIMPLIFIED": "请拿了身份证再来",
+      "CHINESE_TRADITIONAL": "麻煩您帶著身分證再來一趟",
+      "JAPANESE": "身分証をご持参のうえ、再度ご来店ください",
+      "INDONESIAN": "Silakan bawa KTP dan datang lagi.",
+      "PORTUGUESE": "Por favor, volte com sua identidade.",
+      "SPANISH": "Por favor, vuelva cuando tenga su identificación.",
+      "PERSIAN": "لطفاً با کارت ملی‌تون تشریف بیارین."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠습니다...",
+      "ENGLISH": "…Alright.",
+      "CHINESE_SIMPLIFIED": "好吧我知道了…",
+      "CHINESE_TRADITIONAL": "知道了…",
+      "JAPANESE": "……わかりました",
+      "INDONESIAN": "Baiklah...",
+      "PORTUGUESE": "…Tá bom.",
+      "SPANISH": "...Está bien...",
+      "PERSIAN": "خیلی خب... باشه..."
+    }
+  }
+]

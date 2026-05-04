@@ -1,0 +1,344 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "중대장님... 참 좋은 분이셨죠. ",
+      "ENGLISH": "Captain… he really was a good man.",
+      "CHINESE_SIMPLIFIED": "中队长...确实是位好人呢",
+      "CHINESE_TRADITIONAL": "中隊長啊...他真是個好人啊",
+      "JAPANESE": "中隊長さん…ほんとにいい人でしたよね",
+      "INDONESIAN": "Kapten… dia bener-bener orang baik.",
+      "PORTUGUESE": "O comandante... realmente era uma boa pessoa.",
+      "SPANISH": "El comandante... realmente era una buena persona.",
+      "PERSIAN": "کاپیتان... او واقعاً مرد خوبی بود."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "체구도 작으신데 강단 있으시고..",
+      "ENGLISH": "Small build, but tough as nails.",
+      "CHINESE_SIMPLIFIED": "虽然腿挺短的但很有魄力..",
+      "CHINESE_TRADITIONAL": "雖然體型比較小，但很有魄力...",
+      "JAPANESE": "小柄だけど気骨があって…",
+      "INDONESIAN": "Badannya kecil, tapi tangguh banget.",
+      "PORTUGUESE": "Era baixinho, mas firme.",
+      "SPANISH": "Era pequeño, pero tenía firmeza.",
+      "PERSIAN": "ساختار کوچک، اما مانند میخ سخت است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 안경도 쓰셨던 거 같은데? ",
+      "ENGLISH": "Didn’t he wear glasses too?",
+      "CHINESE_SIMPLIFIED": "啊，好像还戴眼镜来着？",
+      "CHINESE_TRADITIONAL": "啊，他好像也有戴眼鏡？",
+      "JAPANESE": "あ、それに眼鏡もかけてた気がするんだけど",
+      "INDONESIAN": "Dia pakai kacamata juga, kan?",
+      "PORTUGUESE": "Acho que usava óculos também?",
+      "SPANISH": "¿Creo que también usaba lentes?",
+      "PERSIAN": "عینک هم نزده؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "기억하시죠?",
+      "ENGLISH": "You remember, right?",
+      "CHINESE_SIMPLIFIED": "你还记得吧？",
+      "CHINESE_TRADITIONAL": "你還記得吧？",
+      "JAPANESE": "覚えてますよね？",
+      "INDONESIAN": "Kamu inget, kan?",
+      "PORTUGUESE": "Lembra?",
+      "SPANISH": "¿Recuerdas?",
+      "PERSIAN": "یادت هست، درست است؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 이제 가봐야 될 거 같은데... ",
+      "ENGLISH": "I think it’s about time we head out…",
+      "CHINESE_SIMPLIFIED": "啊...现在该走了吧...",
+      "CHINESE_TRADITIONAL": "我們好像該走了...",
+      "JAPANESE": "あ、そろそろ行かないといけなんで…",
+      "INDONESIAN": "Kayaknya udah waktunya kita berangkat…",
+      "PORTUGUESE": "Acho melhor irmos agora...",
+      "SPANISH": "Creo que ya deberíamos irnos...",
+      "PERSIAN": "فکر می کنم زمان اون فرا رسیده است که به بیرون برویم…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "안 그래요? 유나 씨?",
+      "ENGLISH": "Don’t you think, Yu-na?",
+      "CHINESE_SIMPLIFIED": "你说呢，有娜？",
+      "CHINESE_TRADITIONAL": "妳不覺得嗎？有娜小姐？",
+      "JAPANESE": "そうでしょ？ユナさん？",
+      "INDONESIAN": "Gimana, Yu-na?",
+      "PORTUGUESE": "Não é, Yuna?",
+      "SPANISH": "¿No es así, Yuna?",
+      "PERSIAN": "فکر نمیکنی یونا؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그 들어가기 힘든 드래곤 파이어 선배님이시니 ",
+      "ENGLISH": "Since you’re the legendary Dragon Fire senior and all…",
+      "CHINESE_SIMPLIFIED": "您可是那传说中难进到爆的“龙焰特勤队”的前辈",
+      "CHINESE_TRADITIONAL": "既然你是那位傳說中難以進入的龍火前輩",
+      "JAPANESE": "あの入るのが難しいドラゴンファイアの先輩に",
+      "INDONESIAN": "Soalnya kamu kan senior legendaris dari Dragon Fire…",
+      "PORTUGUESE": "É difícil entrar pra unidade Dragon Fire. E como é meu superior...",
+      "SPANISH": "Es díficil entrar en la unidad Dragon Fire. Y como es mi superior...",
+      "PERSIAN": "از آنجایی که شما ارشد افسانه ای اژدها آتش هستید و همه…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 한 수 배워도 되겠습니까?",
+      "ENGLISH": "Would you mind if I learned a thing or two from you?",
+      "CHINESE_SIMPLIFIED": "我能向您讨教几招吗？",
+      "CHINESE_TRADITIONAL": "我可以向您討教幾招嗎？",
+      "JAPANESE": "俺ちょっと教わってもいいですか？",
+      "INDONESIAN": "Boleh nggak aku belajar dikit dari kamu?",
+      "PORTUGUESE": "posso aprender algo com o senhor?",
+      "SPANISH": "¿podría aprender algo de usted?",
+      "PERSIAN": "اگر من یک یا دو چیز از شما یاد بگیرم برایتان مهم نیست؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저랑 겨루기 한번 하시죠.",
+      "ENGLISH": "How about a little sparring match?",
+      "CHINESE_SIMPLIFIED": "和我过过招吧",
+      "CHINESE_TRADITIONAL": "來切戳一下吧",
+      "JAPANESE": "俺と勝負してください",
+      "INDONESIAN": "Gimana kalau kita sparring sedikit?",
+      "PORTUGUESE": "Que tal uma disputa de força?",
+      "SPANISH": "¿Qué tal una competencia de fuerza?",
+      "PERSIAN": "یک مسابقه اسپارینگ کوچک چطور؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "예? 뭐라고요?",
+      "ENGLISH": "Hm? What was that?",
+      "CHINESE_SIMPLIFIED": "啊？你说什么？",
+      "CHINESE_TRADITIONAL": "欸？你說什麼？",
+      "JAPANESE": "はい？何て？",
+      "INDONESIAN": "Hm? Apa tadi?",
+      "PORTUGUESE": "Hã? Uma o quê?",
+      "SPANISH": "¿Eh? ¿Una qué?",
+      "PERSIAN": "هوم؟ اون چی بود؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.7
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 쫄리시는 거 아니죠?",
+      "ENGLISH": "Don’t tell me… are you scared?",
+      "CHINESE_SIMPLIFIED": "该不会是害怕了吧？",
+      "CHINESE_TRADITIONAL": "該不會是在害怕吧？",
+      "JAPANESE": "もしかしてビビってるんじゃないですか？",
+      "INDONESIAN": "Jangan bilang… kamu takut?",
+      "PORTUGUESE": "Não vai ter medo, vai?",
+      "SPANISH": "¿No tendrá miedo, o sí?",
+      "PERSIAN": "به من نگو… می ترسی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 33.2
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 거기는 뭐 인간 살인 병기들만 들아갈 수 있다던데 설마~",
+      "ENGLISH": "C’mon~ everyone says only human killing machines get into Dragon Fire. You’re not seriously—",
+      "CHINESE_SIMPLIFIED": "哎呦~不是说那里只有“人间杀器”才能进嘛，难道~",
+      "CHINESE_TRADITIONAL": "聽說那裡只有人型殺人武器才能進去耶，不會是怕了吧～",
+      "JAPANESE": "えー、そこは人間兵器しか入れないって聞くけど、まさか〜",
+      "INDONESIAN": "Ayo dong~ katanya yang masuk Dragon Fire itu mesin pembunuh manusia. Masa kamu—",
+      "PORTUGUESE": "Só máquinas humanas assassinas conseguem entrar pra Dragon Fire. Não me diga que você...",
+      "SPANISH": "Solo máquinas asesinas humanas logran entrar en Dragon Fire. ¿No me diga que usted...",
+      "PERSIAN": "بیا ~ همه می گویند فقط ماشین های کشتار انسان وارد اژدها آتش می شوند. شما جدی نیستید -"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 33.4,
+      "HIDE": 35.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하하하...쫄리다니요.",
+      "ENGLISH": "Haha… scared?",
+      "CHINESE_SIMPLIFIED": "哈哈哈...害怕？",
+      "CHINESE_TRADITIONAL": "哈哈哈...什麼害怕不害怕的",
+      "JAPANESE": "ははは…ビビるだなんて",
+      "INDONESIAN": "Haha… takut?",
+      "PORTUGUESE": "Hahaha... medo?",
+      "SPANISH": "Jajaja... ¿miedo?",
+      "PERSIAN": "هاها... ترسیدی؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 36.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그럴 리가요",
+      "ENGLISH": "Of course not.",
+      "CHINESE_SIMPLIFIED": "怎么可能",
+      "CHINESE_TRADITIONAL": "怎麼可能呢？",
+      "JAPANESE": "そんなことあるわけない",
+      "INDONESIAN": "Tentu aja nggak.",
+      "PORTUGUESE": "De jeito nenhum!",
+      "SPANISH": "¡De ninguna manera!",
+      "PERSIAN": "البته نه."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 37.3,
+      "HIDE": 38.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 후배가 한 수 원한다면 ",
+      "ENGLISH": "If you’re asking for a lesson…",
+      "CHINESE_SIMPLIFIED": "既然你想讨教几招",
+      "CHINESE_TRADITIONAL": "既然你想要切戳切戳",
+      "JAPANESE": "もしお前が一手習いたいって言うなら",
+      "INDONESIAN": "Kalau kamu minta diajarin…",
+      "PORTUGUESE": "Bom, se quer aprender,",
+      "SPANISH": "Bueno, si deseas que te enseñe,",
+      "PERSIAN": "اگر درسی می خواهید…"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 38.8,
+      "HIDE": 41.4
+    },
+    "SCRIPT": {
+      "KOREAN": "선배는 기꺼이 맞이해 주는 게 도리지요.",
+      "ENGLISH": "As your senior, it’s only right I accept.",
+      "CHINESE_SIMPLIFIED": "前辈当然要欣然应战才是道理啊",
+      "CHINESE_TRADITIONAL": "作為學長我當然樂意奉陪，這是不變的道理",
+      "JAPANESE": "先輩は喜んで受けて立つのが筋",
+      "INDONESIAN": "Sebagai senior, tentu aku harus terima tantangannya.",
+      "PORTUGUESE": "então vou te dar uma lição.",
+      "SPANISH": "entonces te daré una lección.",
+      "PERSIAN": "من به عنوان ارشد شما، درست است که قبول دارم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 46.2
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다 선배님.",
+      "ENGLISH": "Thank you, senior.",
+      "CHINESE_SIMPLIFIED": "感谢前辈",
+      "CHINESE_TRADITIONAL": "謝謝學長",
+      "JAPANESE": "ありがとうございます 先輩",
+      "INDONESIAN": "Terima kasih, senior.",
+      "PORTUGUESE": "Muito obrigado, senhor.",
+      "SPANISH": "Muchas gracias, señor.",
+      "PERSIAN": "ممنونم ارشد"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 46.8,
+      "HIDE": 48.4
+    },
+    "SCRIPT": {
+      "KOREAN": "천천히 들어와요.",
+      "ENGLISH": "Take your time stepping in.",
+      "CHINESE_SIMPLIFIED": "慢慢出手吧～",
+      "CHINESE_TRADITIONAL": "慢慢來吧",
+      "JAPANESE": "ゆっくり来てください",
+      "INDONESIAN": "Silakan masuk ke ring-nya pelan-pelan.",
+      "PORTUGUESE": "Aproxime-se devagar.",
+      "SPANISH": "Acércate despacio.",
+      "PERSIAN": "برای قدم گذاشتن وقت بگذارید"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 48.7,
+      "HIDE": 52.0
+    },
+    "SCRIPT": {
+      "KOREAN": "손은 하나만 쓸 테니",
+      "ENGLISH": "I’ll just use one hand.",
+      "CHINESE_SIMPLIFIED": "我只用一只手就够了",
+      "CHINESE_TRADITIONAL": "我用一隻手就可以",
+      "JAPANESE": "手は片方しか使いませんから",
+      "INDONESIAN": "Aku cuma akan pakai satu tangan.",
+      "PORTUGUESE": "Vou usar só uma mão.",
+      "SPANISH": "Lo haré con una sola mano.",
+      "PERSIAN": "من فقط از یک دست استفاده خواهم کرد"
+    }
+  }
+]

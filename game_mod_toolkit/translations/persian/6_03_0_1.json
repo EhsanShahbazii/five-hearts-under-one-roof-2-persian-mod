@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 1.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그럴까요 그럼? ",
+      "ENGLISH": "Shall we go now?",
+      "CHINESE_SIMPLIFIED": "好啊，一起下水吧",
+      "CHINESE_TRADITIONAL": "那我們一起下水吧",
+      "JAPANESE": "じゃあ…そうしましょうか？",
+      "INDONESIAN": "Kita pergi sekarang, yuk?",
+      "PORTUGUESE": "Se você entrar, eu também entro.",
+      "SPANISH": "Si tú entras, yo tambien.",
+      "PERSIAN": "حالا بریم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어우 추워",
+      "ENGLISH": "Ah, it’s cold.",
+      "CHINESE_SIMPLIFIED": "哎哟，好冷！",
+      "CHINESE_TRADITIONAL": "哎呦，好冷！",
+      "JAPANESE": "うわっ冷たっ",
+      "INDONESIAN": "Ah, dingin banget.",
+      "PORTUGUESE": "Ai, que frio…",
+      "SPANISH": "Ay, qué frío…",
+      "PERSIAN": "آه، سرد است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨도 얼른 들어오세요 ",
+      "ENGLISH": "Yuman, hurry and get in too.",
+      "CHINESE_SIMPLIFIED": "宥万，你也快点下来啊～",
+      "CHINESE_TRADITIONAL": "宥萬，你也快點下來啊～",
+      "JAPANESE": "ユマンさんも早く入ってください",
+      "INDONESIAN": "Yuman, cepetan nyebur juga dong.",
+      "PORTUGUESE": "Yumán, vem rápido.",
+      "SPANISH": "Yumán, ven rápido.",
+      "PERSIAN": "یومان، عجله کن و تو هم وارد شو."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "Okay.",
+      "CHINESE_SIMPLIFIED": "好",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Já tô indo.",
+      "SPANISH": "Ya voy.",
+      "PERSIAN": "باشه"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "으! 추워 ",
+      "ENGLISH": "Brr! It’s freezing.",
+      "CHINESE_SIMPLIFIED": "呃——好冷！",
+      "CHINESE_TRADITIONAL": "唔！好冷！",
+      "JAPANESE": "うわ〜冷たい",
+      "INDONESIAN": "Brr! Beku banget rasanya.",
+      "PORTUGUESE": "Brr! Que frio…",
+      "SPANISH": "¡Brr! Qué frío…",
+      "PERSIAN": "برر! داره یخ میزنه"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 오늘 수영하기 딱 좋은 날씨다 그쵸? ",
+      "ENGLISH": "But still, the weather’s perfect for swimming today, isn’t it?",
+      "CHINESE_SIMPLIFIED": "不过今天天气真的很适合游泳，对吧？",
+      "CHINESE_TRADITIONAL": "不過今天真是適合游泳的好天氣，對吧？",
+      "JAPANESE": "でも今日泳ぐには最高の天気ですね！",
+      "INDONESIAN": "Tapi tetap aja, cuacanya pas banget buat renang hari ini, ya?",
+      "PORTUGUESE": "Mesmo assim, o clima tá perfeito pra nadar, né?",
+      "SPANISH": "Aún así, es un clima perfecto para nadar, ¿no crees?",
+      "PERSIAN": "اما هنوز هم، امروز آب و هوا برای شنا عالی است، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "맞아요.",
+      "ENGLISH": "Yeah, it really is.",
+      "CHINESE_SIMPLIFIED": "是啊",
+      "CHINESE_TRADITIONAL": "對啊",
+      "JAPANESE": "ほんとですね",
+      "INDONESIAN": "Iya, bener banget.",
+      "PORTUGUESE": "Você tem razão.",
+      "SPANISH": "Tienes razón.",
+      "PERSIAN": "آره واقعا همینطوره"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "미끄러운데 손 좀 잡아주실래요? ",
+      "ENGLISH": "It’s a bit slippery—mind giving me a hand?",
+      "CHINESE_SIMPLIFIED": "地有点滑，你能牵着我的手吗？",
+      "CHINESE_TRADITIONAL": "這裡有點滑，你能牽著我的手嗎？",
+      "JAPANESE": "滑りそうだから 手つないでくれますか？",
+      "INDONESIAN": "Licin nih—boleh minta bantuan tanganmu?",
+      "PORTUGUESE": "Tá escorregadio… me dá a mão?",
+      "SPANISH": "Está resbaloso… ¿me das la mano?",
+      "PERSIAN": "کمی لغزنده است - فکر می کنید به من دست بدهید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Sure!",
+      "CHINESE_SIMPLIFIED": "当然！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Tentu!",
+      "PORTUGUESE": "Claro!",
+      "SPANISH": "¡Claro!",
+      "PERSIAN": "مطمئنا!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 27.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너 뭐하냐?",
+      "ENGLISH": "Hey, what are you doing?",
+      "CHINESE_SIMPLIFIED": "你们俩在干嘛呢？",
+      "CHINESE_TRADITIONAL": "你們兩個在做什麼？",
+      "JAPANESE": "何してんの？",
+      "INDONESIAN": "Eh, kamu ngapain?",
+      "PORTUGUESE": "O que vocês tão fazendo?",
+      "SPANISH": "¿Qué están haciendo?",
+      "PERSIAN": "هی چیکار میکنی؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 31.1
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 여기 계셨네요 ",
+      "ENGLISH": "There you all are.",
+      "CHINESE_SIMPLIFIED": "原来大家都在这里啊",
+      "CHINESE_TRADITIONAL": "原來大家都在這裡啊",
+      "JAPANESE": "みんなここにいたんですね",
+      "INDONESIAN": "Nah, kalian di sini rupanya.",
+      "PORTUGUESE": "Ah, todo mundo tá aqui.",
+      "SPANISH": "Ah, están todos aquí.",
+      "PERSIAN": "همه شما آنجا هستید."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 33.2
+    },
+    "SCRIPT": {
+      "KOREAN": "둘이서만 놀기 있어요?",
+      "ENGLISH": "Are you two having fun without us?",
+      "CHINESE_SIMPLIFIED": "就你们俩自己玩吗？",
+      "CHINESE_TRADITIONAL": "只有你們自己玩會不會太過分？",
+      "JAPANESE": "二人だけで遊ぶのずるくないですか？",
+      "INDONESIAN": "Kalian berdua seru-seruan tanpa kami ya?",
+      "PORTUGUESE": "Tão se divertindo sem a gente?",
+      "SPANISH": "¿Se están divirtiendo sin nosotras?",
+      "PERSIAN": "شما دوتا بدون ما خوش میگذره؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우리도 이만 들어갈까요? ",
+      "ENGLISH": "Shall we head in too?",
+      "CHINESE_SIMPLIFIED": "那我们也下去吧？",
+      "CHINESE_TRADITIONAL": "我們也下去吧",
+      "JAPANESE": "私たちも入ろっか？",
+      "INDONESIAN": "Kita ikut nyebur juga, yuk?",
+      "PORTUGUESE": "Vamos entrar também.",
+      "SPANISH": "Entremos nosotras también.",
+      "PERSIAN": "ما هم وارد شویم؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 35.2,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요.",
+      "ENGLISH": "Sounds good.",
+      "CHINESE_SIMPLIFIED": "好啊",
+      "CHINESE_TRADITIONAL": "好啊",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Boleh tuh.",
+      "PORTUGUESE": "Boa ideia.",
+      "SPANISH": "Suena bien.",
+      "PERSIAN": "به نظر خوب می رسد."
+    }
+  }
+]

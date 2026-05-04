@@ -1,0 +1,35 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 씨...",
+      "PERSIAN": "아이 씨..."
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2
+    },
+    "SCRIPT": {
+      "KOREAN": "나 어제까지 누워있던 사람인데...",
+      "PERSIAN": "나 어제까지 누워있던 사람인데..."
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3
+    },
+    "SCRIPT": {
+      "KOREAN": "억울하면 이기세요~",
+      "PERSIAN": "억울하면 이기세요~"
+    }
+  }
+]

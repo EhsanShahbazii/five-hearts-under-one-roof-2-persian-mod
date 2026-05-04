@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 우유만! 이거 먹으면서 가! ",
+      "ENGLISH": "Hey, Yuman! Take this with you on the way!",
+      "CHINESE_SIMPLIFIED": "吴宥万！这个带着路上吃！",
+      "CHINESE_TRADITIONAL": "吳宥萬！這個帶著路上吃！",
+      "JAPANESE": "おいユマン！これ食べながら行きな！",
+      "INDONESIAN": "Hei, Yuman! Bawa ini sekalian, ya!",
+      "PORTUGUESE": "Ei, Yumán! Vai comendo isso no caminho.",
+      "SPANISH": "¡Oye, Yumán! Ve comiendo esto en el camino",
+      "PERSIAN": "هی، یومان! اینو در راه با خود ببرید!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다",
+      "ENGLISH": "Thanks!",
+      "CHINESE_SIMPLIFIED": "谢啦",
+      "CHINESE_TRADITIONAL": "謝謝",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Makasih!",
+      "PORTUGUESE": "Valeu!",
+      "SPANISH": "¡Gracias!",
+      "PERSIAN": "با تشکر"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 진료받는 거 까먹지 말구!",
+      "ENGLISH": "Don’t forget about your appointment today, okay?",
+      "CHINESE_SIMPLIFIED": "今天别忘了去复诊啊！",
+      "CHINESE_TRADITIONAL": "今天別忘了去回診啊！",
+      "JAPANESE": "今日の診察、忘れないで！",
+      "INDONESIAN": "Jangan lupa janji temu kamu hari ini, oke?",
+      "PORTUGUESE": "Não esquece que hoje você tem consulta médica!",
+      "SPANISH": "¡No olvides que hoy  tienes cita médica!",
+      "PERSIAN": "قرار ملاقات امروز خود را فراموش نکنید، خوب؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠어~",
+      "ENGLISH": "Got it~",
+      "CHINESE_SIMPLIFIED": "知道啦~",
+      "CHINESE_TRADITIONAL": "知道啦～",
+      "JAPANESE": "分かった〜",
+      "INDONESIAN": "Sip~",
+      "PORTUGUESE": "Tá bom.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "فهمیدم~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유정아! 언니 양말 좀!!",
+      "ENGLISH": "Yu-jeong! Can you grab my socks?!",
+      "CHINESE_SIMPLIFIED": "有情啊！把姐姐的袜子拿过来！！",
+      "CHINESE_TRADITIONAL": "有情啊！把姐姐的襪子拿過來！！",
+      "JAPANESE": "ユジョン！お姉ちゃんの靴下ちょっと！！",
+      "INDONESIAN": "Yu-jeong! Bisa ambilin kaus kaki aku nggak?!",
+      "PORTUGUESE": "Yujeong, traz uma meia pra mim, por favor!",
+      "SPANISH": "¡Yujeong, traemé unas medias porfa!",
+      "PERSIAN": "یو-جئونگ! میتونی جورابمو بگیری؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Coming!",
+      "CHINESE_SIMPLIFIED": "好！",
+      "CHINESE_TRADITIONAL": "這裡！",
+      "JAPANESE": "は〜い！",
+      "INDONESIAN": "Datang~",
+      "PORTUGUESE": "Tô indo!",
+      "SPANISH": "¡Voy!",
+      "PERSIAN": "آمدن"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저한테 주세요!",
+      "ENGLISH": "Here, let me get them for you!",
+      "CHINESE_SIMPLIFIED": "给我吧！",
+      "CHINESE_TRADITIONAL": "給我吧！",
+      "JAPANESE": "俺にください！",
+      "INDONESIAN": "Nih, biar aku aja yang ambilin!",
+      "PORTUGUESE": "Me dá!",
+      "SPANISH": "¡Dámelas!",
+      "PERSIAN": "در اینجا، اجازه دهید من اونا رو برای شما!"
+    }
+  }
+]

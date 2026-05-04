@@ -1,0 +1,279 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하하... 유만 씨 왔어요?",
+      "ENGLISH": "Ha… Yuman, you’re here?",
+      "CHINESE_SIMPLIFIED": "哈哈...宥万你来啦？",
+      "CHINESE_TRADITIONAL": "哈哈...宥萬你來啦？",
+      "JAPANESE": "はは…ユマンさん、来たんですか？",
+      "INDONESIAN": "Ha… Yuman, kamu di sini?",
+      "PORTUGUESE": "Haha… Yumán, você veio?",
+      "SPANISH": "Jaja… ¿Yumán, viniste?",
+      "PERSIAN": "ها... یومان، تو اینجایی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아니...",
+      "ENGLISH": "Uhm...",
+      "CHINESE_SIMPLIFIED": "不是...",
+      "CHINESE_TRADITIONAL": "不是...",
+      "JAPANESE": "いや…",
+      "INDONESIAN": "Uhm...",
+      "PORTUGUESE": "Sim…",
+      "SPANISH": "Sí…",
+      "PERSIAN": "اوهوم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "밥은 먹으면서 지내는 거예요?",
+      "ENGLISH": "You’re… still eating properly, right?",
+      "CHINESE_SIMPLIFIED": "有好好吃饭吗？",
+      "CHINESE_TRADITIONAL": "妳有好好吃飯嗎？",
+      "JAPANESE": "ご飯、ちゃんと食べてます？",
+      "INDONESIAN": "Kamu… masih makan yang bener, kan?",
+      "PORTUGUESE": "Você tava comendo?",
+      "SPANISH": "¿Estabas comiendo?",
+      "PERSIAN": "هنوز هم به درستی غذا می خورید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 그럼요.....!",
+      "ENGLISH": "O-of course…..!",
+      "CHINESE_SIMPLIFIED": "哎呦，当然啦！",
+      "CHINESE_TRADITIONAL": "哎喲，當然啦！",
+      "JAPANESE": "も、もちろんですよ…！",
+      "INDONESIAN": "T-tentu aja…..!",
+      "PORTUGUESE": "Ah, sim…",
+      "SPANISH": "Ay, sí…",
+      "PERSIAN": "اوه-البته…..!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 유만 씨, 나 이번엔 진짜 괜찮은 사업 아이템 생각해 놨는데.",
+      "ENGLISH": "Yuman, this time I actually came up with a really good business idea.",
+      "CHINESE_SIMPLIFIED": "啊，宥万，我这次真的想到了个超棒的创业点子！",
+      "CHINESE_TRADITIONAL": "啊，宥萬，我這次真的想到超棒的創業提案",
+      "JAPANESE": "あ、ユマンさん、私、今度こそ本当にいいビジネスアイデア思いついたんです！",
+      "INDONESIAN": "Yuman, kali ini aku beneran kepikiran ide bisnis yang keren banget.",
+      "PORTUGUESE": "Yumán, dessa vez eu tive uma ideia de negócio ótima.",
+      "SPANISH": "Yumán, esta vez sí se me ocurrió una idea de negocio buenísima.",
+      "PERSIAN": "یومان، این بار در واقع به یک ایده تجاری بسیار خوب رسیدم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "한번 들어볼래요?",
+      "ENGLISH": "Do you want to hear it?",
+      "CHINESE_SIMPLIFIED": "要不要听听看？",
+      "CHINESE_TRADITIONAL": "你要不要聽聽看？",
+      "JAPANESE": "聞いてみます？",
+      "INDONESIAN": "Mau dengerin nggak?",
+      "PORTUGUESE": "Quer ouvir?",
+      "SPANISH": "¿Quieres escucharla?",
+      "PERSIAN": "می خواهید اونو بشنوید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨...",
+      "ENGLISH": "Yu-na…",
+      "CHINESE_SIMPLIFIED": "有娜...",
+      "CHINESE_TRADITIONAL": "有娜...",
+      "JAPANESE": "ユナさん…",
+      "INDONESIAN": "Yu-na…",
+      "PORTUGUESE": "Yuna…",
+      "SPANISH": "Yuna…",
+      "PERSIAN": "یونا…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이번에는 진짜 괜찮아요 진짜!",
+      "ENGLISH": "No, really— this time it’s legit!",
+      "CHINESE_SIMPLIFIED": "这次是真的不错，真的！",
+      "CHINESE_TRADITIONAL": "這次真的很不錯，真的！",
+      "JAPANESE": "今度のは本当にイケるんですよ、ほんとに！",
+      "INDONESIAN": "Nggak, serius— kali ini beneran!",
+      "PORTUGUESE": "Dessa vez é boa de verdade, juro!",
+      "SPANISH": "Esta vez de verdad es buena, ¡te lo juro!",
+      "PERSIAN": "نه، واقعاً - این بار قانونی است!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 27.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 유나 씨 그만해요...",
+      "ENGLISH": "Ah, Yu-na, please stop…",
+      "CHINESE_SIMPLIFIED": "啊，有娜，别这样了...",
+      "CHINESE_TRADITIONAL": "唉，有娜，不要這樣了...",
+      "JAPANESE": "ユナさん、もうやめてください…",
+      "INDONESIAN": "Ah, Yu-na, tolong berhenti…",
+      "PORTUGUESE": "Ah, Yuna, já chega…",
+      "SPANISH": "Ah, Yuna, ya basta…",
+      "PERSIAN": "آه، یونا، لطفا بس کن…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 내가 적어 놓은 게 있는데...",
+      "ENGLISH": "Wait, I wrote it down—",
+      "CHINESE_SIMPLIFIED": "不是啦，我写下来了的...",
+      "CHINESE_TRADITIONAL": "不是，我有寫下來...",
+      "JAPANESE": "だって、ちゃんとメモもしてあって…",
+      "INDONESIAN": "Tunggu, aku tulis idenya—",
+      "PORTUGUESE": "Não, espera, eu anotei em algum lugar…",
+      "SPANISH": "No, espera, la tengo anotada en alguna parte…",
+      "PERSIAN": "صبر کن، من اونو یادداشت کردم -"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.1,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 참, 하 또 안 터지네... 잠깐만요",
+      "ENGLISH": "Seriously, it’s not loading— just a sec—",
+      "CHINESE_SIMPLIFIED": "哎呀，又打不开...等下哦~",
+      "CHINESE_TRADITIONAL": "哎呀真是的，又打不開...等我一下喔！",
+      "JAPANESE": "あーもう、電波悪いな…ちょっと待ってください",
+      "INDONESIAN": "Sumpah deh, ini loading-nya lama— bentar—",
+      "PORTUGUESE": "Ai, poxa, não tá abrindo… espera um segundo.",
+      "SPANISH": "Ay, caray, no se abre… espera un segundo.",
+      "PERSIAN": "به طور جدی، بارگیری نمی شود - فقط یک ثانیه -"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 34.9,
+      "HIDE": 36.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그만하라고!!",
+      "ENGLISH": "I said stop!!",
+      "CHINESE_SIMPLIFIED": "我说停下来！！",
+      "CHINESE_TRADITIONAL": "我說夠了！！",
+      "JAPANESE": "もうやめろって！！",
+      "INDONESIAN": "Aku bilang BERHENTI!!",
+      "PORTUGUESE": "Eu disse pra parar já!",
+      "SPANISH": "¡Te dije que ya basta!",
+      "PERSIAN": "گفتم بس کن!!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 38.6,
+      "HIDE": 40.3
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 앞으로 잘 나아가잖아요...",
+      "ENGLISH": "Everyone else is moving forward with their lives…",
+      "CHINESE_SIMPLIFIED": "别人都可以翻篇往前走...",
+      "CHINESE_TRADITIONAL": "大家都往前走，好好地發展...",
+      "JAPANESE": "みんな、前に進んでるじゃないですか…",
+      "INDONESIAN": "Yang lain semua udah jalan terus dalam hidup mereka…",
+      "PORTUGUESE": "Todo mundo segue em frente com a própria vida…",
+      "SPANISH": "Todos los demás siguen adelante con su vida…",
+      "PERSIAN": "بقیه با زندگیشون جلو میرن…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 41.6,
+      "HIDE": 43.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨도 그러면 되잖아요.",
+      "ENGLISH": "Yu-na, you can too.",
+      "CHINESE_SIMPLIFIED": "有娜你也可以的",
+      "CHINESE_TRADITIONAL": "有娜，你也可以的啊",
+      "JAPANESE": "ユナさんも、そうすればいいのに",
+      "INDONESIAN": "Yu-na, kamu juga bisa.",
+      "PORTUGUESE": "Você também pode, Yuna.",
+      "SPANISH": "Tú también puedes hacerlo, Yuna.",
+      "PERSIAN": "یونا تو هم میتونی"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 44.4,
+      "HIDE": 48.8
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 왜... 왜 혼자서 이러는 거예요 대체 왜...!",
+      "ENGLISH": "So why… why are you doing this all alone? Why—!!",
+      "CHINESE_SIMPLIFIED": "可你为什么...为什么要一个人这样呢，为什么啊...！",
+      "CHINESE_TRADITIONAL": "可是為什麼... 為什麼妳一個人要這樣呢，到底為什麼...",
+      "JAPANESE": "なのに、どうして…どうして一人でこんなことしてるんですか、いったいなぜ…！",
+      "INDONESIAN": "Jadi kenapa… kenapa kamu masih ngelakuin semua ini sendirian? Kenapa—!!",
+      "PORTUGUESE": "Então por que… por que continua assim? Por que continua sozinha…?!",
+      "SPANISH": "Entonces, ¿por qué… por qué sigues así? ¡¿Por qué sigues sola…?!",
+      "PERSIAN": "پس چرا ... چرا این کار را به تنهایی انجام می دهید؟ چرا-!!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 49.0,
+      "HIDE": 49.1
+    }
+  }
+]

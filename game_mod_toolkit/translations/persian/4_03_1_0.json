@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.9
+    },
+    "SCRIPT": {
+      "KOREAN": "자... 이제 마셔볼까",
+      "ENGLISH": "Alright… shall we start drinking?",
+      "CHINESE_SIMPLIFIED": "来...现在来喝一杯吧",
+      "CHINESE_TRADITIONAL": "來... 該喝一杯了吧",
+      "JAPANESE": "さあ…飲もうか",
+      "INDONESIAN": "Oke deh… kita mulai minum, yuk?",
+      "PORTUGUESE": "Bom... brindamos já?",
+      "SPANISH": "Bueno… ¿brindamos ya?",
+      "PERSIAN": "باشه... شروع کنیم به نوشیدن؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐 기다려 봐~",
+      "ENGLISH": "Wait a sec~",
+      "CHINESE_SIMPLIFIED": "等一下~",
+      "CHINESE_TRADITIONAL": "等一下～",
+      "JAPANESE": "ちょっと待って～",
+      "INDONESIAN": "Tunggu dulu~",
+      "PORTUGUESE": "Espera um segundo~",
+      "SPANISH": "Espera un segundo~",
+      "PERSIAN": "یک ثانیه صبر کنید~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "怎麼了？",
+      "JAPANESE": "なんで？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "O que foi?",
+      "SPANISH": "¿Qué pasa?",
+      "PERSIAN": "چرا؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "술은 원래 막내가 따르는 거야",
+      "ENGLISH": "The youngest is supposed to pour the drinks, right?",
+      "CHINESE_SIMPLIFIED": "酒本来就应该由忙内来倒啊",
+      "CHINESE_TRADITIONAL": "本來就是要讓老么倒酒吧",
+      "JAPANESE": "お酒はいちばん年下が注ぐものでしょ？",
+      "INDONESIAN": "Yang paling muda biasanya yang tuangin, nggak sih?",
+      "PORTUGUESE": "O mais jovem é quem deve servir o licor.",
+      "SPANISH": "El más joven es quien debe servir el licor.",
+      "PERSIAN": "کوچکترین قرار است نوشیدنی ها را بریزد، درست است؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그치? 유나 씨?",
+      "ENGLISH": "Right, Yu-na?",
+      "CHINESE_SIMPLIFIED": "对吧？有娜小姐？",
+      "CHINESE_TRADITIONAL": "對吧？有娜小姐？",
+      "JAPANESE": "ね？ユナさん？",
+      "INDONESIAN": "Iya nggak, Yu-na?",
+      "PORTUGUESE": "Não é, Yuna?",
+      "SPANISH": "¿Verdad, Yuna?",
+      "PERSIAN": "درسته یونا؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그쵸? 민정 언니~",
+      "ENGLISH": "Right? Min-jung-unnie~",
+      "CHINESE_SIMPLIFIED": "就是啊？敏静欧尼~",
+      "CHINESE_TRADITIONAL": "對吧？敏靜姐姐～",
+      "JAPANESE": "そうですよね？ミンジョンお姉さん～",
+      "INDONESIAN": "Bener, kan? Min-jung-unnie~",
+      "PORTUGUESE": "Claro que sim, querida Minjung~!",
+      "SPANISH": "¡Claro que sí, querida Minjung~!",
+      "PERSIAN": "درسته؟ مین‌جونگ اونی~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨가 막내 아닌가요?",
+      "ENGLISH": "Isn’t Yu-na the youngest here?",
+      "CHINESE_SIMPLIFIED": "有娜小姐不是忙内吗？",
+      "CHINESE_TRADITIONAL": "有娜小姐不是老么嗎？",
+      "JAPANESE": "ユナさんがいちばん年下じゃないんですか？",
+      "INDONESIAN": "Bukannya Yu-na yang paling muda di sini?",
+      "PORTUGUESE": "A Yuna não é a mais nova aqui?",
+      "SPANISH": "¿No es Yuna la más joven aquí?",
+      "PERSIAN": "یونا جوانترین اینجا نیست؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어...!",
+      "ENGLISH": "Uh…!",
+      "CHINESE_SIMPLIFIED": "额...！",
+      "CHINESE_TRADITIONAL": "喔...！",
+      "JAPANESE": "えっ…！",
+      "INDONESIAN": "Uh…!",
+      "PORTUGUESE": "Eh... ah!",
+      "SPANISH": "Eh… ¡ah!",
+      "PERSIAN": "اوه…!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 하숙집 들어온 짬순으로 해야죠! 흠!",
+      "ENGLISH": "Ah! We go by the order of arrival at the guesthouse! Hmm!",
+      "CHINESE_SIMPLIFIED": "啊！应该按入住公寓的资历排序才对！嗯！",
+      "CHINESE_TRADITIONAL": "要按住進公寓的順序來算才對吧！哼！",
+      "JAPANESE": "あ！下宿に入った順番で決めましょう！ふん！",
+      "INDONESIAN": "Ah! Di guesthouse ini urutannya berdasarkan siapa yang datang duluan! Hmm!",
+      "PORTUGUESE": "Ah! Mas isso devia contar pela ordem em que chegamos à pensão! Aham!",
+      "SPANISH": "¡Ah! ¡Pero eso debería contarse según el orden en que llegamos a la pensión! ¡Ajá!",
+      "PERSIAN": "آه! با دستور ورود به مهمانسرا می رویم! هوم!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 따져도 막내 아닌가?",
+      "ENGLISH": "Even by that logic, isn’t she still the youngest?",
+      "CHINESE_SIMPLIFIED": "就算这么排，你也是忙内吧？",
+      "CHINESE_TRADITIONAL": "按照這樣算，妳不也是老么嗎？",
+      "JAPANESE": "でもその順番でもユナさんがいちばん下じゃ？",
+      "INDONESIAN": "Kalau gitu juga, bukannya dia tetep paling muda?",
+      "PORTUGUESE": "E ainda assim, você não continua sendo a mais nova?",
+      "SPANISH": "¿Y aún así no sigues siendo la más nueva?",
+      "PERSIAN": "حتی با این منطق، او هنوز جوان ترین نیست؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.9
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 아니죠!",
+      "ENGLISH": "Hmm… no, that’s not it!",
+      "CHINESE_SIMPLIFIED": "嗯...当然不是！",
+      "CHINESE_TRADITIONAL": "嗯... 不對！",
+      "JAPANESE": "うーん…ちがいます！",
+      "INDONESIAN": "Hmm… nggak juga sih!",
+      "PORTUGUESE": "Hmm... não!",
+      "SPANISH": "Hmm… ¡no!",
+      "PERSIAN": "هوم... نه، این نیست!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 23.1,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 씨가 막내죠!",
+      "ENGLISH": "Min-jung is the youngest!",
+      "CHINESE_SIMPLIFIED": "敏静小姐才是忙内！",
+      "CHINESE_TRADITIONAL": "敏靜小姐才是老么！",
+      "JAPANESE": "ミンジョンさんがいちばん年下ですよ！",
+      "INDONESIAN": "Min-jung yang paling muda!",
+      "PORTUGUESE": "A mais nova é a Minjung!",
+      "SPANISH": "¡La más nueva es Minjung!",
+      "PERSIAN": "مین‌جونگ جوان ترین است!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "나갔다가 나보다 늦게 들어왔으니깐",
+      "ENGLISH": "She came back later than me, so…",
+      "CHINESE_SIMPLIFIED": "她搬出去后又比我晚搬回来",
+      "CHINESE_TRADITIONAL": "她搬出去之後，比我晚回來啊",
+      "JAPANESE": "一度出て、私よりあとに戻ってきたんですから",
+      "INDONESIAN": "Dia baliknya lebih belakangan dari aku, jadi…",
+      "PORTUGUESE": "Ela foi embora e voltou depois de mim, então conta como a última.",
+      "SPANISH": "Se fue y volvió después que yo, así que cuenta como la última.",
+      "PERSIAN": "او دیرتر از من برگشت، پس…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "허...",
+      "ENGLISH": "Huh…",
+      "CHINESE_SIMPLIFIED": "呵...",
+      "CHINESE_TRADITIONAL": "哈... ",
+      "JAPANESE": "は…",
+      "INDONESIAN": "Hah…",
+      "PORTUGUESE": "Nossa...",
+      "SPANISH": "Vaya…",
+      "PERSIAN": "هه…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 32.7
+    },
+    "SCRIPT": {
+      "KOREAN": "순서 매기는 방법이 특이하시네요?",
+      "ENGLISH": "Your way of deciding order is kinda unique.",
+      "CHINESE_SIMPLIFIED": "您这排序方式还挺特别的？",
+      "CHINESE_TRADITIONAL": "妳排順序的方法真特別啊？",
+      "JAPANESE": "順番の決め方がずいぶん独特ですね？",
+      "INDONESIAN": "Cara kamu nentuin urutan agak unik ya.",
+      "PORTUGUESE": "Você tem uma maneira bem peculiar de decidir turnos, hein?",
+      "SPANISH": "Tiene una forma muy peculiar de establecer turnos, ¿no?",
+      "PERSIAN": "روش شما برای تصمیم گیری در مورد سفارش تا حدی منحصر به فرد است."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "큼... 제가 좀 특별해요~",
+      "ENGLISH": "Heh… I like to do things a little differently~",
+      "CHINESE_SIMPLIFIED": "哼...我本来就比较特别嘛~",
+      "CHINESE_TRADITIONAL": "哼... 我就是比較特別嘛～",
+      "JAPANESE": "ふふ…私ってちょっと特別なんです～",
+      "INDONESIAN": "Heh… aku emang suka beda sendiri~",
+      "PORTUGUESE": "Ehm... é que eu sou especial~",
+      "SPANISH": "Ejem… bueno, es que yo soy especial~",
+      "PERSIAN": "هه... من دوست دارم کارها را کمی متفاوت انجام دهم~"
+    }
+  }
+]

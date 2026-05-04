@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.4
+    },
+    "SCRIPT": {
+      "KOREAN": "노란색이었잖아!",
+      "ENGLISH": "They were yellow!",
+      "CHINESE_SIMPLIFIED": "是黄色的啊！",
+      "CHINESE_TRADITIONAL": "不是黃色嗎！",
+      "JAPANESE": "黄色だったじゃん！",
+      "INDONESIAN": "Warnanya kuning!",
+      "PORTUGUESE": "Eram amarelas!",
+      "SPANISH": "¡Eran amarillas!",
+      "PERSIAN": "زرد بودند!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "확실해?",
+      "ENGLISH": "You sure?",
+      "CHINESE_SIMPLIFIED": "你确定？",
+      "CHINESE_TRADITIONAL": "你確定？",
+      "JAPANESE": "本当に？",
+      "INDONESIAN": "Kamu yakin?",
+      "PORTUGUESE": "Tem certeza?",
+      "SPANISH": "¿Seguro?",
+      "PERSIAN": "مطمئنی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "당연하지~",
+      "ENGLISH": "Of course!",
+      "CHINESE_SIMPLIFIED": "当然啦~",
+      "CHINESE_TRADITIONAL": "當然啊～",
+      "JAPANESE": "もちろん〜",
+      "INDONESIAN": "Tentu saja!",
+      "PORTUGUESE": "Claro!",
+      "SPANISH": "¡Por supuesto!",
+      "PERSIAN": "البته!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "무조건 노란색이였다니깐?",
+      "ENGLISH": "No doubt—it was definitely yellow!",
+      "CHINESE_SIMPLIFIED": "绝对是亮黄亮黄的颜色？",
+      "CHINESE_TRADITIONAL": "一定是黃色",
+      "JAPANESE": "絶対黄色だったって！",
+      "INDONESIAN": "Tidak diragukan lagi—itu pasti kuning!",
+      "PORTUGUESE": "Não tenho a menor dúvida.",
+      "SPANISH": "No tengo la menor duda.",
+      "PERSIAN": "بدون شک - قطعاً زرد بود!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "넌 진짜 안 되겠다.",
+      "ENGLISH": "You’re seriously hopeless.",
+      "CHINESE_SIMPLIFIED": "你真是没救了",
+      "CHINESE_TRADITIONAL": "你真的是沒救了",
+      "JAPANESE": "お前、ほんとダメだな",
+      "INDONESIAN": "Kamu benar-benar tidak ada harapan.",
+      "PORTUGUESE": "Não tem jeito mesmo...",
+      "SPANISH": "No tienes remedio...",
+      "PERSIAN": "شما جدی ناامید هستید"
+    }
+  }
+]

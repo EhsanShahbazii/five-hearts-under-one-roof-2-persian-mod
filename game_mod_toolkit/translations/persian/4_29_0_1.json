@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님, 다른 거 먹고 싶은데요.",
+      "ENGLISH": "Manager, I’d like to eat something else.",
+      "CHINESE_SIMPLIFIED": "科长，我想吃点别的",
+      "CHINESE_TRADITIONAL": "課長，我想要吃別的東西耶",
+      "JAPANESE": "課長、別のを食べたいんですけど",
+      "INDONESIAN": "Manajer, aku pengen makan yang lain deh.",
+      "PORTUGUESE": "Chefe, pra ser sincero, estou com vontade de comer outra coisa.",
+      "SPANISH": "Jefa, la verdad tengo ganas de comer otra cosa.",
+      "PERSIAN": "مدیر، من دوست دارم چیز دیگری بخورم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "다른 거...?",
+      "ENGLISH": "Something else…?",
+      "CHINESE_SIMPLIFIED": "别的...？",
+      "CHINESE_TRADITIONAL": "別的...？",
+      "JAPANESE": "ほかの？",
+      "INDONESIAN": "Yang lain…?",
+      "PORTUGUESE": "Outra coisa...?",
+      "SPANISH": "¿Otra cosa...?",
+      "PERSIAN": "چیز دیگری…؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네 다른 거요. 아시잖아요.",
+      "ENGLISH": "Yeah, something else. You know what I mean.",
+      "CHINESE_SIMPLIFIED": "嗯，别的，您明明知道的嘛",
+      "CHINESE_TRADITIONAL": "對，別的。你知道的嘛",
+      "JAPANESE": "はい、別のものですよ　わかるでしょ？",
+      "INDONESIAN": "Iya, yang lain. Kamu ngerti maksudku kan.",
+      "PORTUGUESE": "Sim, sabe do que estou falando.",
+      "SPANISH": "Sí, ya sabe a lo que me refiero.",
+      "PERSIAN": "آره یه چیز دیگه می دانید منظورم چیه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "설마...",
+      "ENGLISH": "Don’t tell me…",
+      "CHINESE_SIMPLIFIED": "难道...",
+      "CHINESE_TRADITIONAL": "該不會...",
+      "JAPANESE": "まさか…",
+      "INDONESIAN": "Jangan-jangan…",
+      "PORTUGUESE": "Não me diga que...",
+      "SPANISH": "No me digas que...",
+      "PERSIAN": "به من نگو…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "준비 됐어요?",
+      "ENGLISH": "Are we ready?",
+      "CHINESE_SIMPLIFIED": "准备好了吗？",
+      "CHINESE_TRADITIONAL": "準備好了嗎？",
+      "JAPANESE": "準備できました？",
+      "INDONESIAN": "Kita siap?",
+      "PORTUGUESE": "Está pronta?",
+      "SPANISH": "¿Está lista?",
+      "PERSIAN": "ما آماده ایم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "준비됐어.",
+      "ENGLISH": "Ready!",
+      "CHINESE_SIMPLIFIED": "准备好啦",
+      "CHINESE_TRADITIONAL": "準備好了。",
+      "JAPANESE": "できた",
+      "INDONESIAN": "Siap!",
+      "PORTUGUESE": "Pronta.",
+      "SPANISH": "Lista.",
+      "PERSIAN": "آماده!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오예!! 오늘 저녁은 닭가슴살~",
+      "ENGLISH": "Oh yeah!! Tonight’s chicken breast~",
+      "CHINESE_SIMPLIFIED": "喔耶！！今晚的晚餐是～鸡胸肉！",
+      "CHINESE_TRADITIONAL": "喔耶！！今天的晚餐是雞胸肉～",
+      "JAPANESE": "やったー！今日の夕飯は鶏むね肉〜！",
+      "INDONESIAN": "Oh yeah!! Malam ini dada ayam~",
+      "PORTUGUESE": "Ah, sim! O jantar de hoje é peito de frango~!",
+      "SPANISH": "¡Oh, sí! ¡La cena de hoy es pechuga de pollo~!",
+      "PERSIAN": "اوه آره!! سینه مرغ امشب~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "닭가슴살?",
+      "ENGLISH": "Chicken breast?",
+      "CHINESE_SIMPLIFIED": "鸡胸肉？",
+      "CHINESE_TRADITIONAL": "雞胸肉？",
+      "JAPANESE": "鶏むね肉？",
+      "INDONESIAN": "Dada ayam?",
+      "PORTUGUESE": "Peito de frango...?",
+      "SPANISH": "¿Pechuga de pollo...?",
+      "PERSIAN": "سینه مرغ؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 21.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그러지 말고~",
+      "ENGLISH": "No, come on~",
+      "CHINESE_SIMPLIFIED": "别这样嘛~",
+      "CHINESE_TRADITIONAL": "哎呀，不要那樣嘛～",
+      "JAPANESE": "いやいや〜",
+      "INDONESIAN": "Aduh, ya ampun~",
+      "PORTUGUESE": "Ah, não seja assim...",
+      "SPANISH": "No seas así...",
+      "PERSIAN": "نه بیا~"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 과장님! 기껏 운동해놓고 무슨 맥주예요! 관리해야죠",
+      "ENGLISH": "Manager! You’ve been working out, and you want beer? You need to manage your diet.",
+      "CHINESE_SIMPLIFIED": "不行，科长！好不容易运动完喝什么啤酒！得做好身材管理啊",
+      "CHINESE_TRADITIONAL": "不行，課長！好不容易運動完怎麼可以喝啤酒！要做好身材管理啊！",
+      "JAPANESE": "いや、課長！せっかく運動したのにビールはダメです！管理しないと！",
+      "INDONESIAN": "Manajer! Udah rajin olahraga, masa masih mau minum bir sih? Pola makannya harus dijaga dong.",
+      "PORTUGUESE": "Depois de tanto treino, como pode pensar em cerveja? Tem que cuidar da forma!",
+      "SPANISH": "Después de tanto ejercicio, ¿cómo se le ocurre tomar cerveza? ¡Hay que cuidar la línea!",
+      "PERSIAN": "مدیر! شما ورزش کرده اید و آبجو می خواهید؟ شما باید رژیم غذایی خود را مدیریت کنید."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.8,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "알아서 잘 하거든?",
+      "ENGLISH": "I’ve got it under control.",
+      "CHINESE_SIMPLIFIED": "我自己会看着办的！",
+      "CHINESE_TRADITIONAL": "我會自己看著辦的！",
+      "JAPANESE": "自分のことは自分でちゃんとやってるから",
+      "INDONESIAN": "Aku masih bisa kontrol diri, kok.",
+      "PORTUGUESE": "Sei cuidar de mim mesma, tá?",
+      "SPANISH": "Sé cuidarme sola, ¿sí?",
+      "PERSIAN": "من اونو تحت کنترل گرفته ام"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 관리 잘하는 우유만 씨는 평생 그 가슴만 먹던가.",
+      "ENGLISH": "Then Yuman, the one who manages himself so well, can eat just that chicken breast forever.",
+      "CHINESE_SIMPLIFIED": "那你这位“自律达人”就一辈子啃鸡胸肉去吧",
+      "CHINESE_TRADITIONAL": "自律達人吳宥萬先生，你就一輩子吃你的雞胸肉吧",
+      "JAPANESE": "なら、体型管理が得意なウ・ユマンさんは一生そのトリ胸肉だけ食べたらいいじゃん",
+      "INDONESIAN": "Kalau gitu, Yuman yang katanya jago jaga diri, bisa makan dada ayam terus-terusan, ya kan?",
+      "PORTUGUESE": "Então o senhor “disciplina”, que só come saudável, por que não come peito de frango até morrer?",
+      "SPANISH": "Entonces el señor “disciplina”, que solo come sano, ¿por qué no se come pechuga hasta morir?",
+      "PERSIAN": "سپس یومان، کسی که به خوبی خود را مدیریت می کند، می تواند برای همیشه فقط اون سینه مرغ را بخورد."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 36.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어어 삐진 척 맛있는 거 먹으려고 그러죠!",
+      "ENGLISH": "Ahh, pretending to pout just to get something tasty, huh!",
+      "CHINESE_SIMPLIFIED": "哎哎～装生气是想骗我带你吃好吃的吧！",
+      "CHINESE_TRADITIONAL": "欸欸～你假裝生氣是想讓我帶你吃好吃的對吧！",
+      "JAPANESE": "ほら〜、すねたフリして美味しいもの食べようとしてるでしょ！",
+      "INDONESIAN": "Ahh, pura-pura manyun cuma biar dibeliin makanan enak, ya!",
+      "PORTUGUESE": "Ah, entendi… está fazendo birra pra comer algo gostoso, né?",
+      "SPANISH": "Ah, ya veo… está haciendo berrince para comer algo rico, ¿verdad?",
+      "PERSIAN": "آه، تظاهر به خرخر کردن فقط برای گرفتن یک چیز خوشمزه، ها!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 36.6,
+      "HIDE": 40.2
+    },
+    "SCRIPT": {
+      "KOREAN": "운동 했다고 막 드시면 그거 다 살로 가요! 아시겠죠!!",
+      "ENGLISH": "If you eat like that after working out, it all goes straight to fat! Got it!!",
+      "CHINESE_SIMPLIFIED": "运动完就大吃特吃的话都会变成肥肉的！知道吗！！",
+      "CHINESE_TRADITIONAL": "運動員隨便亂吃的話，會變成肥肉的喔！知道吧！！",
+      "JAPANESE": "運動したからって食べすぎたら全部脂肪になりますよ！わかりましたね！",
+      "INDONESIAN": "Kalau makan kayak gitu habis olahraga, itu semua langsung jadi lemak tau! Catet!!",
+      "PORTUGUESE": "Se comer demais depois do treino, tudo vira gordura!",
+      "SPANISH": "¡Si come de más después de entrenar, todo se convierte en grasa!",
+      "PERSIAN": "اگر بعد از ورزش اینطوری غذا بخورید، همه چیز مستقیماً به چربی تبدیل می شود! فهمیدم!!"
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "你没事吧？",
+      "CHINESE_TRADITIONAL": "你沒事吧？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Tá tudo bem?",
+      "SPANISH": "¿Está bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "갑자기 찾아와서 놀랬죠..",
+      "ENGLISH": "Sorry for showing up like this all of a sudden...",
+      "CHINESE_SIMPLIFIED": "突然找过来吓到你了吧..",
+      "CHINESE_TRADITIONAL": "突然跑來，嚇到你了吧…",
+      "JAPANESE": "急に来ちゃって、びっくりしましたよね…",
+      "INDONESIAN": "Maaf tiba-tiba datang kayak gini...",
+      "PORTUGUESE": "Desculpa por ter vindo sem avisar, devo ter te assustado…",
+      "SPANISH": "Perdón por viniste sin avisar, seguro te asusté…",
+      "PERSIAN": "ببخشید که یکدفعه اینجوری ظاهر شدم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그건 괜찮은데... 설마 그 기사 때문에 온 거예요?",
+      "ENGLISH": "No, it’s okay. But... did you come because of that article?",
+      "CHINESE_SIMPLIFIED": "那倒不是...你该不会是因为那个新闻才来的吧？",
+      "CHINESE_TRADITIONAL": "那倒是還好…你該不會是因為那個新聞才來的吧？",
+      "JAPANESE": "いや、それはいいけど…まさか、あの記事のせいで来たんですか？",
+      "INDONESIAN": "Nggak apa-apa. Tapi... kamu datang gara-gara artikel itu, ya?",
+      "PORTUGUESE": "Não, isso não importa… mas, você veio por causa da matéria?",
+      "SPANISH": "No, eso no importa… pero, ¿viniste por lo del artículo?",
+      "PERSIAN": "نه، اشکالی ندارد. اما... به خاطر اون مقاله آمدی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네...  ",
+      "ENGLISH": "Yeah...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya...",
+      "PORTUGUESE": "Sim…",
+      "SPANISH": "Sí…",
+      "PERSIAN": "آره..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 오빠 저 기사처럼 그렇게 나쁜 짓 안 했잖아요...",
+      "ENGLISH": "But you didn’t do anything like what they’re saying.",
+      "CHINESE_SIMPLIFIED": "可是哥哥，我根本没像报道里说的做那么坏的事啊...",
+      "CHINESE_TRADITIONAL": "可是哥哥，我根本不像報導裡那樣做壞事啊…",
+      "JAPANESE": "でもお兄さん、あの記事みたいな悪いことなんてしてないですよね…",
+      "INDONESIAN": "Tapi kamu kan nggak ngelakuin hal-hal yang mereka bilang.",
+      "PORTUGUESE": "Mas você sabe que eu não fiz nada do que estão dizendo…",
+      "SPANISH": "Pero tú sabes que yo no hice nada de lo que dicen…",
+      "PERSIAN": "اما شما کاری شبیه آنچه اونا می گویند انجام ندادید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 근데 누가 찍은 건지 사진은 여기저기 퍼져있고",
+      "ENGLISH": "Still, somehow those photos are everywhere,",
+      "CHINESE_SIMPLIFIED": "但不知道是谁拍的照片到处流传",
+      "CHINESE_TRADITIONAL": "不知道是誰拍照片，傳得到處都是",
+      "JAPANESE": "なのに誰が撮ったのか、写真があちこちに広まってて、",
+      "INDONESIAN": "Tetap aja, entah gimana foto-foto itu nyebar ke mana-mana,",
+      "PORTUGUESE": "Não sei quem tirou aquelas fotos, mas elas já se espalharam por todo lado.",
+      "SPANISH": "No sé quién tomó esas fotos, pero ya se esparcieron por todos lados.",
+      "PERSIAN": "با این حال، به نوعی اون عکس ها همه جا هستند،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "전 갑자기 국민 갑질녀 되어있고",
+      "ENGLISH": "And I’m being called some kind of “spoiled celeb” now.",
+      "CHINESE_SIMPLIFIED": "我现在成了全民公敌的“霸凌女”",
+      "CHINESE_TRADITIONAL": "我突然就變成大家口中的「國民霸凌女」了…",
+      "JAPANESE": "私、突然全国的に“パワハラ女”みたいになってるし",
+      "INDONESIAN": "Dan sekarang aku malah dibilang “anak seleb manja” segala.",
+      "PORTUGUESE": "De repente me transformaram numa “bully”",
+      "SPANISH": "De repente me convirtieron en una \"bully\"",
+      "PERSIAN": "و اکنون به من نوعی \"معروف خراب\" می گویند."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "숙소 앞은 사람들도 너무 많아요...",
+      "ENGLISH": "There are people swarming outside my place...",
+      "CHINESE_SIMPLIFIED": "连宿舍门口都挤满了人...",
+      "CHINESE_TRADITIONAL": "住的地方外面也擠滿了人…",
+      "JAPANESE": "宿の前にも人がいっぱいで…",
+      "INDONESIAN": "Orang-orang pada ngumpul di depan rumahku...",
+      "PORTUGUESE": "e tem um monte de gente na frente do meu hotel…",
+      "SPANISH": "y hay un montón de gente frente a mi hotel…",
+      "PERSIAN": "بیرون از خونه من مردمی هستند..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저 이제 어떡해요...",
+      "ENGLISH": "What am I supposed to do now?",
+      "CHINESE_SIMPLIFIED": "我现在该怎么办啊...",
+      "CHINESE_TRADITIONAL": "我現在該怎麼辦…",
+      "JAPANESE": "私、もうどうしたらいいんですか…",
+      "INDONESIAN": "Aku harus gimana sekarang?",
+      "PORTUGUESE": "O que eu faço agora…?",
+      "SPANISH": "¿Qué hago ahora…?",
+      "PERSIAN": "من الان باید چیکار کنم؟"
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "    ",
+      "PERSIAN": ""
+    }
+  }
+]

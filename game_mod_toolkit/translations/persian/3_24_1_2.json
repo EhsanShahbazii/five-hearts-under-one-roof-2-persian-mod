@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야... 얘가 진짜 나 몰래 저렇게, 어? 어?! 저래도 돼? 어?!",
+      "ENGLISH": "Wow... is she seriously doing this behind my back? Huh? Huh!? She thinks this is okay?",
+      "CHINESE_SIMPLIFIED": "呀...你这家伙真的背着我，呃？呃！？这样也行吗？",
+      "CHINESE_TRADITIONAL": "欸…她居然偷偷瞞著我，欸？欸！？這樣也行嗎？",
+      "JAPANESE": "はあ… こいつ俺に内緒で、お？おお！？ こんなことしていいの？",
+      "INDONESIAN": "Wah... apa dia serius melakukan ini di belakangku? Hah? Hah!? Dia pikir ini tidak apa-apa?",
+      "PORTUGUESE": "Ei… tá mesmo escondendo coisas de mim? Assim, tão fácil?",
+      "SPANISH": "Oye… ¿de verdad me está escondiendo cosas? ¿Así de fácil?",
+      "PERSIAN": "وای... جدی پشت سر من این کارو میکنه؟ ها؟ ها!؟ او فکر می کند این مشکلی ندارد؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하… 이번에도 잡아떼나 보자 고말숙.",
+      "ENGLISH": "Ugh... let’s see if she tries to deny it this time. Go Mal-sook...",
+      "CHINESE_SIMPLIFIED": "哎...这次看你还能怎么狡辩，高末淑",
+      "CHINESE_TRADITIONAL": "哈…我倒要看看高末淑這次要怎麼否認",
+      "JAPANESE": "はぁ… 今回もシラを切る気だな、コ・マルスク",
+      "INDONESIAN": "Ugh... kita lihat saja apakah dia akan mencoba menyangkalnya kali ini. Ayo Mal-sook...",
+      "PORTUGUESE": "Ha… dessa vez você não vai escapar, Malsook.",
+      "SPANISH": "Ha… esta vez no te vas a zafar, Malsook.",
+      "PERSIAN": "اوه... ببینیم این بار سعی می کند اونو انکار کند. برو مال‌سوک..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "喂？",
+      "JAPANESE": "お？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "누구예요?",
+      "ENGLISH": "Who’s that?",
+      "CHINESE_SIMPLIFIED": "是谁啊？",
+      "CHINESE_TRADITIONAL": "請問是哪一位？",
+      "JAPANESE": "誰ですか？",
+      "INDONESIAN": "Siapa itu?",
+      "PORTUGUESE": "Quem é?",
+      "SPANISH": "¿Quién es?",
+      "PERSIAN": "اون کیه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 끊어버린다고?",
+      "ENGLISH": "She just hung up on me?!",
+      "CHINESE_SIMPLIFIED": "直接挂掉了？",
+      "CHINESE_TRADITIONAL": "她就這樣掛我電話？",
+      "JAPANESE": "そのまま切っちゃったよ？",
+      "INDONESIAN": "Dia baru saja menutup teleponnya?!",
+      "PORTUGUESE": "Vai desligar assim mesmo?",
+      "SPANISH": "¿Solo vas a colgar así?",
+      "PERSIAN": "همین الان منو قطع کرد؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 그냥 끊어버린다고?\n- 친구요",
+      "ENGLISH": "— She just hung up on me?!\n— A friend.",
+      "CHINESE_SIMPLIFIED": "-直接挂掉了？\n-是朋友啦",
+      "CHINESE_TRADITIONAL": "-她就這樣掛我電話？\n-是朋友啦",
+      "JAPANESE": "友達です…",
+      "INDONESIAN": "— Dia baru saja menutup teleponku?!\n— Seorang teman.",
+      "PORTUGUESE": "—Vai desligar assim mesmo?\n—Uma amiga.",
+      "SPANISH": "—¿Solo vas a colgar así?\n—Una amiga.",
+      "PERSIAN": "- همین الان منو قطع کرد؟! - یک دوست"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 23.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 씨... 고말숙...씨...",
+      "ENGLISH": "Unbelievable... Go Mal-sook...",
+      "CHINESE_SIMPLIFIED": "可恶...高末淑...我去...",
+      "CHINESE_TRADITIONAL": "可惡…高末淑…靠...",
+      "JAPANESE": "あー くそ… コ・マルスク…",
+      "INDONESIAN": "Tidak dapat dipercaya... Go Mal-sook...",
+      "PORTUGUESE": "Ah, poxa vida… Senhorita... Malsook…",
+      "SPANISH": "Ay, maldita sea… Señorita... Malsook…",
+      "PERSIAN": "باور نکردنی... برو مال‌سوک..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "웃는 거 봐! 와이씨..",
+      "ENGLISH": "Look at her smiling! Un-freaking-believable...",
+      "CHINESE_SIMPLIFIED": "还笑！我真是...",
+      "CHINESE_TRADITIONAL": "看看她笑的樣子！哇，真的是…",
+      "JAPANESE": "笑うの見ろよ！ まじ…",
+      "INDONESIAN": "Lihat dia tersenyum! Sungguh tak bisa dipercaya...",
+      "PORTUGUESE": "Olha só pra ela! Ainda por cima tá rindo! Não é possível…",
+      "SPANISH": "¡Mírala! ¡Encima se ríe! No puede ser…",
+      "PERSIAN": "به لبخندش نگاه کن! غیر قابل باور..."
+    }
+  }
+]

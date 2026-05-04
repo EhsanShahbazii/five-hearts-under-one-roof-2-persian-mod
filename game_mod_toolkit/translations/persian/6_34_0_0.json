@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "(사업계획서 발표) \n자GO싶다?",
+      "ENGLISH": "(Business Plan Presentation)\nWann4 sleep?",
+      "CHINESE_SIMPLIFIED": "「事业计划书发表 」\n睡个GO？",
+      "CHINESE_TRADITIONAL": "「事業計劃書發表 」\n“睡個GO“？",
+      "JAPANESE": "「事業計画書 発表」\n寝GOしたい？",
+      "INDONESIAN": "(Presentasi Rencana Bisnis)\nMau T1dur?",
+      "PORTUGUESE": "(Apresentação do plano de negócios)\n“Quero dorm-IR”?",
+      "SPANISH": "(Presentación del plan de negocios)\n¿\"Quiero dorm-IR\"?",
+      "PERSIAN": "(ارائه طرح کسب و کار) می خواهی 4 بخوابی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "맞아, 나도 이제 제대로 된 ‘사업’ 좀 해보려고요.",
+      "ENGLISH": "That’s right. I’m finally ready to take a real shot at business.",
+      "CHINESE_SIMPLIFIED": "没错，我也想正经开始搞事业了",
+      "CHINESE_TRADITIONAL": "沒錯，我也想開始做個正經的事業了",
+      "JAPANESE": "はい 私もそろそろ本格的にビジネスを始めようと思って",
+      "INDONESIAN": "Betul. Aku akhirnya siap buat bener-bener coba terjun ke dunia bisnis.",
+      "PORTUGUESE": "Exato, tô pronta pra começar minha própria empresa.",
+      "SPANISH": "Exacto, estoy lista para empezar mi propia empresa.",
+      "PERSIAN": "درست است. من در نهایت آماده هستم تا یک شات واقعی در تجارت داشته باشم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 발표를 시작하겠습니다!",
+      "ENGLISH": "Alright, let’s get this presentation started!",
+      "CHINESE_SIMPLIFIED": "那么现在要开始我的报告了！",
+      "CHINESE_TRADITIONAL": "那我要開始我的報告了喔！",
+      "JAPANESE": "それでは発表を始めます！",
+      "INDONESIAN": "Oke, ayo mulai presentasinya!",
+      "PORTUGUESE": "Então, vou dar início!",
+      "SPANISH": "Entonces, ¡voy a comenzar!",
+      "PERSIAN": "خوب، بیایید این ارائه را شروع کنیم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "자고 가고, 자꾸 가고 싶은 나의 잠자리.",
+      "ENGLISH": "A bed so good, you’ll want to sleep over. A bed so good, you’ll keep coming back.",
+      "CHINESE_SIMPLIFIED": "让人想睡个够，还想一睡再睡的——我的完美寝具",
+      "CHINESE_TRADITIONAL": "讓人想睡個夠、還想一睡再睡的——我的完美寢具",
+      "JAPANESE": "寝たくて、ついまた行きたくなる私のベッド",
+      "INDONESIAN": "Kasur yang saking nyamannya, kamu pengin nginep terus. Kasur yang bikin kamu pengin balik lagi dan lagi.",
+      "PORTUGUESE": "Um lugar onde você vai querer ficar pra dormir… de novo e de novo.",
+      "SPANISH": "Un lugar donde quieras quedarte a dormir… una y otra vez.",
+      "PERSIAN": "یک تخت آنقدر خوب، شما می خواهید روی اون بخوابید. یه تخت خیلی خوبه که برمیگردی"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "자GO싶다.",
+      "ENGLISH": "JaGO-sipda — the kind of sleep you can’t stay away from.",
+      "CHINESE_SIMPLIFIED": "“睡个GO”",
+      "CHINESE_TRADITIONAL": "”睡個GO“",
+      "JAPANESE": "寝GOしたい",
+      "INDONESIAN": "JaGO-sipda — tidur senyaman itu, bikin nggak mau jauh-jauh.",
+      "PORTUGUESE": "“Quero dorm-IR”",
+      "SPANISH": "\"Quiero dorm-IR\"",
+      "PERSIAN": "جاگو-سیپدا - نوعی خواب که نمی توانید از اون دور بمانید."
+    }
+  }
+]

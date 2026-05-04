@@ -1,0 +1,226 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요",
+      "ENGLISH": "Hello~",
+      "CHINESE_TRADITIONAL": "您好",
+      "INDONESIAN": "Halo~",
+      "PERSIAN": "سلام~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네 어서오세요",
+      "ENGLISH": "Yes, welcome!",
+      "CHINESE_TRADITIONAL": "歡迎光臨",
+      "INDONESIAN": "Selamat datang!",
+      "PERSIAN": "بله، خوش آمدید!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 첫날이시죠",
+      "ENGLISH": "Oh? It's your first day, right?",
+      "CHINESE_TRADITIONAL": "咦？你是第一天上班嗎？",
+      "INDONESIAN": "Eh? Ini hari pertama kamu ya?",
+      "PERSIAN": "اوه؟ اولین روز شماست، درست است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 뒷타임 교대예요.",
+      "ENGLISH": "I'm have the shift after you.",
+      "CHINESE_TRADITIONAL": "我是來輪下一班的～",
+      "INDONESIAN": "Jadwal shift aku setelah kamu.",
+      "PERSIAN": "من شیفت بعد از تو دارم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 네.",
+      "ENGLISH": "Ah, right.",
+      "CHINESE_TRADITIONAL": "啊，原來是這樣",
+      "INDONESIAN": "Oh, iya.",
+      "PERSIAN": "آه، درست است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 그쪽이 양유정?",
+      "ENGLISH": "Hey... are you by any chance Yang Yu-jeong?",
+      "CHINESE_TRADITIONAL": "那...請問你是梁有情嗎？",
+      "INDONESIAN": "Eh, kamu yang namanya Yang Yu-jeong, ya?",
+      "PERSIAN": "هی... شانسی یانگ یو جونگ هستی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 제 이름을 어떻게 아세요?",
+      "ENGLISH": "Huh? How do you know my name?",
+      "CHINESE_TRADITIONAL": "哎？你怎麼知道我的名字？",
+      "INDONESIAN": "Hah? Kok kamu tahu nama aku?",
+      "PERSIAN": "ها؟ اسم منو از کجا میدونی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 누가 그쪽 찾았었는데요?",
+      "ENGLISH": "Well, someone came by asking for you.",
+      "CHINESE_TRADITIONAL": "喔，剛才有個人來找你",
+      "INDONESIAN": "Tadi ada yang nyariin kamu, sih.",
+      "PERSIAN": "خوب، یک نفر با درخواست شما آمد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "누가요?",
+      "ENGLISH": "Who was it?",
+      "CHINESE_TRADITIONAL": "有人來找我？",
+      "INDONESIAN": "Siapa?",
+      "PERSIAN": "کی بود؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 22.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어떤 남잔데",
+      "ENGLISH": "Some guy...",
+      "CHINESE_TRADITIONAL": "是個男的",
+      "INDONESIAN": "Cowok... ",
+      "PERSIAN": "فلان پسر..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이름이 무슨 우유...?",
+      "ENGLISH": "His name was something like... milk?",
+      "CHINESE_TRADITIONAL": "名字好像是叫什麼吳宥...？",
+      "INDONESIAN": "Namanya kayak susu gitu...",
+      "PERSIAN": "اسمش چیزی شبیه به ... شیر بود؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만이요? 저를 찾아요?",
+      "ENGLISH": "Milk—Yuman? He was looking for me?",
+      "CHINESE_TRADITIONAL": "吳宥萬嗎？他來找我？",
+      "INDONESIAN": "Susu... Yuman? Dia nyariin aku?",
+      "PERSIAN": "شیر - یومان؟ او به دنبال من بود؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.3,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 우유만이요!",
+      "ENGLISH": "Yeah! Yuman!",
+      "CHINESE_TRADITIONAL": "對對對！吳宥萬！",
+      "INDONESIAN": "Iya! Yuman!",
+      "PERSIAN": "آره یومان!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.7,
+      "HIDE": 31.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그 사람 연락처도 안 주고 그냥 갔네",
+      "ENGLISH": "But he didn’t leave a number or anything though.",
+      "CHINESE_TRADITIONAL": "不過他沒有留下聯絡方式就走了...",
+      "INDONESIAN": "Tapi dia nggak ninggalin kontak apa-apa, langsung pergi gitu aja.",
+      "PERSIAN": "اما او هیچ شماره یا چیزی باقی نگذاشت."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 33.8
+    },
+    "SCRIPT": {
+      "KOREAN": "예 뭐... 수고하세요",
+      "ENGLISH": "Ah... okay. Thanks for letting me know.",
+      "CHINESE_TRADITIONAL": "好...辛苦你了",
+      "INDONESIAN": "Oh... oke, makasih infonya.",
+      "PERSIAN": "آه... باشه. ممنون که به من اطلاع دادید"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 36.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네 수고하셨습니다",
+      "ENGLISH": "Yeah, take care!",
+      "CHINESE_TRADITIONAL": "好的，你也是！",
+      "INDONESIAN": "Iya, semangat kerja ya!",
+      "PERSIAN": "آره مواظب خودت باش"
+    }
+  }
+]

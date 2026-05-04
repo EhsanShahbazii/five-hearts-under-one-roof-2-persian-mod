@@ -1,0 +1,199 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨! 생일 축하해요!",
+      "ENGLISH": "Yuman! Happy birthday!",
+      "CHINESE_SIMPLIFIED": "宥万！生日快乐！",
+      "CHINESE_TRADITIONAL": "宥萬！生日快樂！",
+      "JAPANESE": "ユマンさん！お誕生日おめでとうございます！",
+      "INDONESIAN": "Yuman! Selamat ulang tahun!",
+      "PORTUGUESE": "Yumán! Feliz aniversário!",
+      "SPANISH": "¡Yumán! ¡Feliz cumpleaños!",
+      "PERSIAN": "یومان! تولدت مبارک!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 무조건 행복하게 해드릴게요!",
+      "ENGLISH": "I’m gonna make sure you’re nothing but happy today!",
+      "CHINESE_SIMPLIFIED": "今天必须要让你幸福满满！",
+      "CHINESE_TRADITIONAL": "今天必須要讓你幸福滿滿！",
+      "JAPANESE": "今日は絶対幸せにしてあげます！",
+      "INDONESIAN": "Hari ini aku bakal pastiin kamu cuma bahagia, nggak yang lain!",
+      "PORTUGUESE": "Hoje eu vou me certificar de que você tenha um dia incrível!",
+      "SPANISH": "¡Hoy voy a asegurarme de que tenga un gran día!",
+      "PERSIAN": "من مطمئن خواهم شد که امروز چیزی جز خوشحال نیستی!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요....",
+      "ENGLISH": "Thank you…",
+      "CHINESE_SIMPLIFIED": "谢谢...",
+      "CHINESE_TRADITIONAL": "謝謝...",
+      "JAPANESE": "ありがとう…",
+      "INDONESIAN": "Makasih…",
+      "PORTUGUESE": "Obrigado…",
+      "SPANISH": "Gracias…",
+      "PERSIAN": "ممنون…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "다음 생일 때는 다리도 다 나았을 거니까",
+      "ENGLISH": "By your next birthday, your leg will be all healed up—",
+      "CHINESE_SIMPLIFIED": "等到明年生日时，你的腿伤应该全好了",
+      "CHINESE_TRADITIONAL": "等到明年生日時，你的腿傷應該全好了",
+      "JAPANESE": "来年の誕生日には足も完治してるだろうから",
+      "INDONESIAN": "Ulang tahun kamu yang berikutnya nanti, kakimu pasti udah sembuh total—",
+      "PORTUGUESE": "Pro seu próximo aniversário, e com a perna recuperada...",
+      "SPANISH": "Para su próximo cumpleaños y con la pierna recuperada...",
+      "PERSIAN": "تا روز تولد بعدی، پای شما کاملاً خوب می شود-"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저기 제주도나...!",
+      "ENGLISH": "So maybe… Jeju Island or something…!",
+      "CHINESE_SIMPLIFIED": "要不我们去济州岛...！",
+      "CHINESE_TRADITIONAL": "要不然我們去濟州島...！",
+      "JAPANESE": "その時は、済州島とか…！",
+      "INDONESIAN": "Jadi mungkin... kita ke Jeju atau gimana…!",
+      "PORTUGUESE": "a gente podia ir pra Jeju ou algo assim…",
+      "SPANISH": "podríamos ir a Jeju o algo así…",
+      "PERSIAN": "پس شاید... جزیره ججو یا چیزی...!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "얍!",
+      "ENGLISH": "Yap!",
+      "CHINESE_SIMPLIFIED": "咿呀！",
+      "CHINESE_TRADITIONAL": "呀！",
+      "JAPANESE": "やっ！",
+      "INDONESIAN": "Yap!",
+      "PORTUGUESE": "Yap!",
+      "SPANISH": "¡Yap!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이건 제 대답입니다~",
+      "ENGLISH": "That’s my answer~",
+      "CHINESE_SIMPLIFIED": "这是我的回礼~",
+      "CHINESE_TRADITIONAL": "這是我的回禮~",
+      "JAPANESE": "これが僕の答えです〜",
+      "INDONESIAN": "Itu jawabanku~",
+      "PORTUGUESE": "Essa é minha resposta!",
+      "SPANISH": "¡Esa es mi respuesta!",
+      "PERSIAN": "این پاسخ من است~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨! 이게 뭐예요!",
+      "ENGLISH": "Yuman! What was that?!",
+      "CHINESE_SIMPLIFIED": "宥万先生！这是什么呀！",
+      "CHINESE_TRADITIONAL": "宥萬先生！這是什麽呀！",
+      "JAPANESE": "ユマンさん！これ何ですか！",
+      "INDONESIAN": "Yuman! Itu tadi apa sih?!",
+      "PORTUGUESE": "Yumán! O que é isso?!",
+      "SPANISH": "¡Yumán! ¡¿Qué es esto?!",
+      "PERSIAN": "یومان! اون چی بود؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "좋다는 뜻이에요! 내년 생일도 같이 보내구",
+      "ENGLISH": "It means I’m all for it! Let’s spend your next birthday together—",
+      "CHINESE_SIMPLIFIED": "意思是好呀！明年生日也要一起过",
+      "CHINESE_TRADITIONAL": "意思就是好呀！明年生日也要一起過",
+      "JAPANESE": "いいですよって意味です！来年の誕生日も一緒に過ごして",
+      "INDONESIAN": "Itu tandanya aku setuju banget! Kita rayain ulang tahun kamu bareng lagi tahun depan—",
+      "PORTUGUESE": "Significa que sim! Vamos passar meu próximo aniversário juntos,",
+      "SPANISH": "¡Significa que sí! ¡Pasemosmi próximo cumpleaños juntos,",
+      "PERSIAN": "این بدان معنی است که من همه اونو دوست دارم! بیایید تولد بعدی خود را با هم بگذرانیم -"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨 생일도 같이 보내요!",
+      "ENGLISH": "And yours too, Gyuri.",
+      "CHINESE_SIMPLIFIED": "久梨的生日也要一起过！",
+      "CHINESE_TRADITIONAL": "久梨的生日也要一起過！",
+      "JAPANESE": "ギュリさんの誕生日も一緒に過ごしましょう！",
+      "INDONESIAN": "Dan ulang tahun kamu juga, Gyuri.",
+      "PORTUGUESE": "e o seu também!",
+      "SPANISH": "y el suyo también!",
+      "PERSIAN": "و مال تو هم گیوری."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요? 좋아요...!",
+      "ENGLISH": "Really? I’d love that…!",
+      "CHINESE_SIMPLIFIED": "真的吗？太好了...！",
+      "CHINESE_TRADITIONAL": "真的嗎？太好了...！",
+      "JAPANESE": "ほんとに？いいですね…！",
+      "INDONESIAN": "Serius? Aku seneng banget kalau gitu…!",
+      "PORTUGUESE": "Sério? Eu adoraria!",
+      "SPANISH": "¿De verdad? ¡Me encantaría!",
+      "PERSIAN": "واقعا؟ دوست دارم که…!"
+    }
+  }
+]

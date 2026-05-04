@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "(비버 소리)",
+      "ENGLISH": "(beaver sound)",
+      "CHINESE_SIMPLIFIED": "（土拨鼠叫声）",
+      "CHINESE_TRADITIONAL": "（河狸聲音）",
+      "JAPANESE": "（ビーバーの鳴き声）",
+      "INDONESIAN": "(suara berang-berang)",
+      "PORTUGUESE": "(som de castor)",
+      "SPANISH": "(sonido de castor)",
+      "PERSIAN": "(صدای بیور)"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요? ",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "没事吧？",
+      "CHINESE_TRADITIONAL": "你還好嗎？",
+      "JAPANESE": "大丈夫？",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Você tá bem?",
+      "SPANISH": "¿Estás bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "우리나라에도 비버가 사나...",
+      "ENGLISH": "Do we even have beavers in this country...?",
+      "CHINESE_SIMPLIFIED": "我们国家居然也有土拨鼠吗...",
+      "CHINESE_TRADITIONAL": "咦，我們國家也有河狸嗎…",
+      "JAPANESE": "この国にビーバーっているのか…",
+      "INDONESIAN": "Emangnya di negara kita ada berang-berang...?",
+      "PORTUGUESE": "Castores no nosso país...? Que estranho...",
+      "SPANISH": "¿Castores en nuestro país...? Qué raro...",
+      "PERSIAN": "ما تو این مملکت بیس هم داریم...؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요...",
+      "ENGLISH": "Thanks...",
+      "CHINESE_SIMPLIFIED": "谢谢你...",
+      "CHINESE_TRADITIONAL": "謝謝你…",
+      "JAPANESE": "ありがとう…",
+      "INDONESIAN": "Makasih...",
+      "PORTUGUESE": "Obrigada...",
+      "SPANISH": "Gracias...",
+      "PERSIAN": "با تشکر..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 왜 이렇게 연약한 척이야...?",
+      "ENGLISH": "Wait—why are you suddenly acting all delicate...?",
+      "CHINESE_SIMPLIFIED": "什么啊，干嘛突然装柔弱...？",
+      "CHINESE_TRADITIONAL": "什麼啊，幹嘛裝得這麼軟弱…？",
+      "JAPANESE": "なんでそんなに弱そうなフリしてるんだ…？",
+      "INDONESIAN": "Tunggu—kenapa kamu tiba-tiba jadi kalem banget gitu...?",
+      "PORTUGUESE": "Hã? E por que você tá agindo tão frágil de repente...?",
+      "SPANISH": "¿Eh? ¿Y por qué estás actuando tan frágil de repente...?",
+      "PERSIAN": "صبر کن - چرا یکدفعه این همه ظریف رفتار می کنی...؟"
+    }
+  }
+]

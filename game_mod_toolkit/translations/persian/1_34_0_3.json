@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "빨간색",
+      "ENGLISH": "Red.",
+      "CHINESE_SIMPLIFIED": "红色？",
+      "CHINESE_TRADITIONAL": "紅色？",
+      "JAPANESE": "赤",
+      "INDONESIAN": "Merah.",
+      "PORTUGUESE": "Vermelha.",
+      "SPANISH": "Rojo.",
+      "PERSIAN": "قرمز بود."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "확실해?",
+      "ENGLISH": "You sure?",
+      "CHINESE_SIMPLIFIED": "你确定？",
+      "CHINESE_TRADITIONAL": "確定嗎？",
+      "JAPANESE": "ほんとに？",
+      "INDONESIAN": "Yakin?",
+      "PORTUGUESE": "Tem certeza?",
+      "SPANISH": "¿Seguro?",
+      "PERSIAN": "مطمئنی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 확실해~ 빨간색 맞잖아.",
+      "ENGLISH": "Yeah, I’m sure~ it was red.",
+      "CHINESE_SIMPLIFIED": "嗯，当然确定～就是红色的啊",
+      "CHINESE_TRADITIONAL": "嗯，確定啊～就是紅色的",
+      "JAPANESE": "うん、確か～。赤だろ",
+      "INDONESIAN": "Iya, yakin banget~ merah kan bener.",
+      "PORTUGUESE": "Sim, tenho certeza~ era vermelha.",
+      "SPANISH": "Estoy seguro. Sabes que es roja.",
+      "PERSIAN": "آره، شک ندارم~ قرمز جیغ بود."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 맞는지 확인 시켜줄까?",
+      "ENGLISH": "Want me to prove if you’re really right?",
+      "CHINESE_SIMPLIFIED": "要不要让你验证一下？",
+      "CHINESE_TRADITIONAL": "要不要讓你確認一下是不是真的？",
+      "JAPANESE": "じゃあ、本当に合ってるか確認してみる？",
+      "INDONESIAN": "Mau aku buktiin biar yakin?",
+      "PORTUGUESE": "Quer que eu prove se você tá mesmo certo?",
+      "SPANISH": "¿Quieres comprobarlo?",
+      "PERSIAN": "می‌خوای بهت ثابت کنم واقعاً راست گفتی یا نه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "ㅁ..뭐..뭐가?",
+      "ENGLISH": "W-what… what do you mean?",
+      "CHINESE_SIMPLIFIED": "什…什么！？",
+      "CHINESE_TRADITIONAL": "什…什麼…？",
+      "JAPANESE": "な、なにを…？",
+      "INDONESIAN": "A-ap… apaan?",
+      "PORTUGUESE": "O-q… o que você quer dizer?",
+      "SPANISH": "¿Qué cosa?",
+      "PERSIAN": "مـ... منظورت چیه؟ چی داری می‌گی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "기다려 봐.",
+      "ENGLISH": "Just wait.",
+      "CHINESE_SIMPLIFIED": "等着啊",
+      "CHINESE_TRADITIONAL": "等著看吧",
+      "JAPANESE": "ちょっと待ってて",
+      "INDONESIAN": "Tunggu aja.",
+      "PORTUGUESE": "Só espera.",
+      "SPANISH": "Espera un momento.",
+      "PERSIAN": "وایسا نگاه کن."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네가 본 게 진짜 맞는지는",
+      "ENGLISH": "If you’re so sure about what you saw,",
+      "CHINESE_SIMPLIFIED": "你不是说你看到了吗？",
+      "CHINESE_TRADITIONAL": "你看到的是否正確",
+      "JAPANESE": "ユマンが見たのが本当かどうかは、",
+      "INDONESIAN": "Biar kamu sendiri liat pake mata,",
+      "PORTUGUESE": "Se você tem tanta certeza do que viu,",
+      "SPANISH": "Si de verdad lo viste,",
+      "PERSIAN": "اگه اینقدر مطمئنی که درست دیدی،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너 두 눈으로 확인해봐야 할 거 아니야.",
+      "ENGLISH": "shouldn’t you check with your own two eyes?",
+      "CHINESE_SIMPLIFIED": "那你总得亲眼确认一下到底对不对吧？",
+      "CHINESE_TRADITIONAL": "難道不需要親眼確認一下嗎？",
+      "JAPANESE": "自分の目で確かめるしかないでしょ",
+      "INDONESIAN": "bener nggak apa yang kamu kira.",
+      "PORTUGUESE": "não devia conferir com seus próprios olhos?",
+      "SPANISH": "tienes que comprobarlo con tus propios ojos.",
+      "PERSIAN": "باید با دو تا چشمای خودت از نزدیک ببینیش دیگه، مگه نه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나..난 괜찮은데...",
+      "ENGLISH": "I-I’m fine, really…",
+      "CHINESE_SIMPLIFIED": "我、我就不用了…",
+      "CHINESE_TRADITIONAL": "我…我不用啦…",
+      "JAPANESE": "お、俺は平気だけど…",
+      "INDONESIAN": "A-aku sih nggak perlu sampe segitunya…",
+      "PORTUGUESE": "E-eu tô bem, de verdade…",
+      "SPANISH": "Y-yo no tengo problema, pero…",
+      "PERSIAN": "نه... من غلط بکنم، نیازی نیست..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오... 오..!!!!",
+      "ENGLISH": "Oh… ohhh!!!!",
+      "CHINESE_SIMPLIFIED": "哦哦…哇哦！！",
+      "CHINESE_TRADITIONAL": "喔…喔…！！！！",
+      "JAPANESE": "お…おぉぉっ！！！",
+      "INDONESIAN": "O… oh…!!!!",
+      "PORTUGUESE": "Oh… ohhh!!!!",
+      "SPANISH": "Oh... ooh...!!!!",
+      "PERSIAN": "اووه... اوووه!!!!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "빠...빨간색이네!",
+      "ENGLISH": "I-it really is red!",
+      "CHINESE_SIMPLIFIED": "真、真的是红色的耶！",
+      "CHINESE_TRADITIONAL": "紅…紅色的！",
+      "JAPANESE": "あ、赤だ……！",
+      "INDONESIAN": "B-be… benar merah!",
+      "PORTUGUESE": "E-era vermelha mesmo!",
+      "SPANISH": "¡E-es rojo!",
+      "PERSIAN": "قـ... واقعاً قرمزه که!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "- 아들~ 얘들아~",
+      "ENGLISH": "Kids~",
+      "CHINESE_SIMPLIFIED": "儿子～孩子们～",
+      "CHINESE_TRADITIONAL": "兒子～孩子們～",
+      "JAPANESE": "お～い！あんたたち〜！",
+      "INDONESIAN": "Nak~ anak-anak~",
+      "PORTUGUESE": "Crianças~",
+      "SPANISH": "— Hijito~ chicos~",
+      "PERSIAN": "- پسرم~ بچه‌ها~"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 22.9
+    },
+    "SCRIPT": {
+      "KOREAN": "- 아들~ 얘들아~\n- 아 깜짝이야",
+      "ENGLISH": "— Kids~\n— Ah, you scared me!",
+      "CHINESE_SIMPLIFIED": "-儿子～孩子们～\n-吓我一跳",
+      "CHINESE_TRADITIONAL": "-兒子～孩子們～\n-嚇我一跳",
+      "JAPANESE": "お～い！あんたたち〜！\nうわっ、びっくりした！",
+      "INDONESIAN": "Nak~ anak-anak~\nWah kaget!",
+      "PORTUGUESE": "— Crianças~\n— Ah, você me assustou!",
+      "SPANISH": "— Hijito~ chicos~\n— ¡Ay, qué susto!",
+      "PERSIAN": "- پسرم~ بچه‌ها~ - یا پیغمبر، ترسیدم!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 내려와 봐~",
+      "ENGLISH": "— Come here~",
+      "CHINESE_SIMPLIFIED": "下来一下～",
+      "CHINESE_TRADITIONAL": "下來一下～",
+      "JAPANESE": "ちょっと降りてきなさい！",
+      "INDONESIAN": "Turun dulu sebentar~",
+      "PORTUGUESE": "— Vem aqui~",
+      "SPANISH": "— Chicos~ ¡bajen un momento~!",
+      "PERSIAN": "- بیاین پایین ببینم~"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 26.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 그렇게 놀래? 죄 지은 것도 아닌데.",
+      "ENGLISH": "Why are you so jumpy? It’s not like you’ve done anything wrong.",
+      "CHINESE_SIMPLIFIED": "你吓什么啊？又不是做了亏心事",
+      "CHINESE_TRADITIONAL": "幹嘛那麼驚訝？又不是做了什麼虧心事",
+      "JAPANESE": "な、なんでそんなに慌ててんの？別に悪いことしてるわけじゃないのに",
+      "INDONESIAN": "Kaget kenapa sih? Kan bukan kayak kamu abis ngelakuin dosa.",
+      "PORTUGUESE": "Por que tá tão nervoso? Não é como se tivesse feito algo errado.",
+      "SPANISH": "¿Por qué te asustas tanto? No estamos haciendo nada malo.",
+      "PERSIAN": "چرا اینطوری هول شدی؟ مگه کار خلافی کردی دیوونه؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아.. 같이 가",
+      "ENGLISH": "Ah… let’s go together.",
+      "CHINESE_SIMPLIFIED": "啊…等等我一起下去",
+      "CHINESE_TRADITIONAL": "啊…等等我",
+      "JAPANESE": "……あぁ、わかった。一緒に行こう",
+      "INDONESIAN": "Ah… ayo bareng.",
+      "PORTUGUESE": "Ah… vamos juntos.",
+      "SPANISH": "Agh… ¡espérame, voy contigo!",
+      "PERSIAN": "آخ... صبر کن با هم بریم!"
+    }
+  }
+]

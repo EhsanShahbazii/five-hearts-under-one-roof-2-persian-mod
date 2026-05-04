@@ -1,0 +1,145 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 진짜 자리에 계속 있어줄 거죠?",
+      "ENGLISH": "Oppa, you're really going to stay here the whole time, right?",
+      "CHINESE_SIMPLIFIED": "哥哥会一直在台下对吧？",
+      "CHINESE_TRADITIONAL": "哥哥你一直會在台下的，對吧？",
+      "JAPANESE": "お兄さん、ちゃんと席にいてくれるんですよね？",
+      "INDONESIAN": "Oppa bakal tetap di tempat terus kan?",
+      "PORTUGUESE": "Você vai mesmo ficar aí até o final?",
+      "SPANISH": "¿De verdad vas a quedarte en tu hasta el final?",
+      "PERSIAN": "یومان، تو واقعاً قراره تمام مدت اینجا بمونی، درسته؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 물론이죠!! 걱정 마세요!",
+      "ENGLISH": "Ah, of course!! Don't worry!",
+      "CHINESE_SIMPLIFIED": "当然！不用担心！",
+      "CHINESE_TRADITIONAL": "當然！不用擔心！",
+      "JAPANESE": "もちろんです！！心配いりません！",
+      "INDONESIAN": "Ah, tentu dong!! Jangan khawatir",
+      "PORTUGUESE": "Ah, claro! Não se preocupa.",
+      "SPANISH": "Ah, ¡por supuesto! No te preocupes.",
+      "PERSIAN": "آه، البته!! نگران نباش!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "후우.... 다행이다 ",
+      "ENGLISH": "Phew.... That's a relief.",
+      "CHINESE_SIMPLIFIED": "呼...太好了...",
+      "CHINESE_TRADITIONAL": "呼...太好了...",
+      "JAPANESE": "ふぅ…よかった…。",
+      "INDONESIAN": "Huuuh... syukurlah",
+      "PORTUGUESE": "Fuu... ainda bem.",
+      "SPANISH": "Fuu... menos mal.",
+      "PERSIAN": "اووووه... خیالم راحت شد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 보면서 긴장 풀어야겠다...",
+      "ENGLISH": "I need to relax while watching Oppa...",
+      "CHINESE_SIMPLIFIED": "我就看着你来缓解紧张吧",
+      "CHINESE_TRADITIONAL": "那我就看著你緩解一下緊張吧",
+      "JAPANESE": "お兄さん見ながら、緊張ほぐさなきゃ…。",
+      "INDONESIAN": "Aku bakal lihat kamu biar nggak terlalu tegang",
+      "PORTUGUESE": "Vou olhar pra você pra me acalmar.",
+      "SPANISH": "Voy a mirarte para relajarme.",
+      "PERSIAN": "من باید موقع تماشای یومان ریلکس باشم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나 무대 끝나고 오빠랑만 아는 사인.. 같은 거 하고 싶은데.",
+      "ENGLISH": "I want to do a secret sign... something only Oppa and I know, after my stage today.",
+      "CHINESE_SIMPLIFIED": "今天舞台结束后，我想做个只有我们知道的暗号...",
+      "CHINESE_TRADITIONAL": "今天舞台結束後，想做一個只有我跟你知道的暗號",
+      "JAPANESE": "今日のステージ終わったら、二人だけにわかる合図とか作りたいな。",
+      "INDONESIAN": "Habis tampil nanti aku pengen bikin kode rahasia gitu",
+      "PORTUGUESE": "Quando a apresentação acabar, quero ter um sinal secreto... só entre a gente.",
+      "SPANISH": "Cuando termine la presentación, quiero tener una señal secreta... solo entre nosotros.",
+      "PERSIAN": "می‌خوام یه نشونه مخفی بزنم... یه چیزی که فقط من و یومان می‌دونیم، بعد از اجرای امروزم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오, 재밌겠는데요?",
+      "ENGLISH": "Oh, that sounds fun!",
+      "CHINESE_SIMPLIFIED": "哦，这主意不错！",
+      "CHINESE_TRADITIONAL": "哦，這聽起來很有趣！",
+      "JAPANESE": "お、それ楽しそうですね？",
+      "INDONESIAN": "Yang cuma kita berdua yang ngerti",
+      "PORTUGUESE": "Oh, isso parece divertido.",
+      "SPANISH": "Oh, eso suena divertido.",
+      "PERSIAN": "اوه، این جالب انگار!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "사인... 뭐가 좋을까요??",
+      "ENGLISH": "A sign... What would be good??",
+      "CHINESE_SIMPLIFIED": "暗号...要做什么好呢？",
+      "CHINESE_TRADITIONAL": "暗號...那要做什麼好呢？",
+      "JAPANESE": "合図かぁ…どんなのがいいかな？",
+      "INDONESIAN": "Wah, seru tuh! Kode... enaknya apa ya?",
+      "PORTUGUESE": "Um sinal... qual poderia ser?",
+      "SPANISH": "Una señal... ¿cuál podría ser?",
+      "PERSIAN": "یه نشونه... چی خوب میشد؟؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "음~",
+      "ENGLISH": "Mmm...",
+      "CHINESE_SIMPLIFIED": "嗯——",
+      "CHINESE_TRADITIONAL": "嗯～",
+      "JAPANESE": "ん〜",
+      "INDONESIAN": "Hmm~",
+      "PORTUGUESE": "Hmm~",
+      "SPANISH": "Mmm~",
+      "PERSIAN": "مممم..."
+    }
+  }
+]

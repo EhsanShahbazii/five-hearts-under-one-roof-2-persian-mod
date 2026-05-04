@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "머리 이렇게 올려 묶은 적 처음이에요...",
+      "ENGLISH": "It’s the first time I’ve tied my hair up like this…",
+      "CHINESE_SIMPLIFIED": "我还是第一次把头发这样扎起来呢...",
+      "CHINESE_TRADITIONAL": "我從來沒有這樣把頭髮綁起來過...",
+      "JAPANESE": "髪をこうしてアップにしたの、初めてです…",
+      "INDONESIAN": "Ini pertama kalinya aku ngiket rambut kayak gini…",
+      "PORTUGUESE": "É a primeira vez que deixo o cabelo assim...",
+      "SPANISH": "Es la primera vez que llevo el cabello así…",
+      "PERSIAN": "اولین باریه که موهامو اینجوری میبندم…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 시원해 보이고 좋은데요??",
+      "ENGLISH": "It looks so cool and really suits you!",
+      "CHINESE_SIMPLIFIED": "看起来特别清爽利落，很适合您呢？",
+      "CHINESE_TRADITIONAL": "看起來好清爽，滿好看的耶？",
+      "JAPANESE": "すごく涼しそうで、いい感じですよ？",
+      "INDONESIAN": "Keren banget, lho! Dan cocok banget sama kamu!",
+      "PORTUGUESE": "Ficou leve e bonito.",
+      "SPANISH": "Se ve fresco y bonito.",
+      "PERSIAN": "خیلی باحال به نظر می رسد و واقعاً به شما می آید!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요...?",
+      "ENGLISH": "Really…?",
+      "CHINESE_SIMPLIFIED": "真的吗...？",
+      "CHINESE_TRADITIONAL": "真的嗎...？",
+      "JAPANESE": "本当ですか…？",
+      "INDONESIAN": "Beneran…?",
+      "PORTUGUESE": "Sério...?",
+      "SPANISH": "¿De verdad…?",
+      "PERSIAN": "واقعا…؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "완전! 머리 너무 잘 어울린다... 앞으로도 종종 해줄게요!",
+      "ENGLISH": "Totally! It looks amazing on you—I’ll do it like this more often!",
+      "CHINESE_SIMPLIFIED": "超适合的！这发型太配你了...以后我经常帮你扎！",
+      "CHINESE_TRADITIONAL": "真的！這個髮型超適合妳的... 以後我常常幫妳弄！",
+      "JAPANESE": "もちろん！すっごく似合ってます！これからはたまに私がやってあげますね",
+      "INDONESIAN": "Beneran! Keren banget..nanti sering-sering aja aku iketin kayak gini!",
+      "PORTUGUESE": "Totalmente! Ficou incrível... vou fazer assim mais vezes.",
+      "SPANISH": "¡Totalmente! Te queda increíble… te lo voy a hacer más seguido.",
+      "PERSIAN": "کلا! برای شما شگفت انگیز به نظر می رسد - من بیشتر اوقات این کار را انجام خواهم داد!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다...",
+      "ENGLISH": "Thank you…",
+      "CHINESE_SIMPLIFIED": "谢谢您...",
+      "CHINESE_TRADITIONAL": "謝謝妳...",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Makasih ya…",
+      "PORTUGUESE": "Obrigada...",
+      "SPANISH": "Gracias…",
+      "PERSIAN": "ممنون…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 이제 출근 준비 하자.",
+      "ENGLISH": "Yuman, let’s get ready for work now.",
+      "CHINESE_SIMPLIFIED": "吴宥万，我们该准备去上班了",
+      "CHINESE_TRADITIONAL": "吳宥萬先生，你要準備上班了吧",
+      "JAPANESE": "ウ・ユマンさん、そろそろ出勤の準備しましょう",
+      "INDONESIAN": "Yuman, ayo siap-siap kerja sekarang.",
+      "PORTUGUESE": "Yuman, você devia se preparar pra ir trabalhar.",
+      "SPANISH": "Yumán, ya deberías prepararte para ir al trabajo.",
+      "PERSIAN": "یومان، بیا الان برای کار آماده شویم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다. 저 출근해야 돼 가지고 이따가 뵐게요",
+      "ENGLISH": "Ah, right. I’ve gotta head to work too, so I’ll see you later.",
+      "CHINESE_SIMPLIFIED": "啊对了，我得去上班了，待会儿见~",
+      "CHINESE_TRADITIONAL": "對欸。各位，我得出門去上班了，晚一點見",
+      "JAPANESE": "あ、そうだ　みんな、俺もう会社行かなきゃだから、また後で",
+      "INDONESIAN": "Ah, iya. Aku juga harus berangkat kerja, jadi sampai ketemu nanti.",
+      "PORTUGUESE": "Ah, verdade. Tenho que sair já, até mais.",
+      "SPANISH": "Ah, cierto. Tengo que salir ya, nos vemos luego.",
+      "PERSIAN": "آه، درست است. من هم باید سر کار بروم، پس شما را بعدا می بینم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 잘 다녀와요!",
+      "ENGLISH": "Oppa, have a good day at work!",
+      "CHINESE_SIMPLIFIED": "哥哥路上小心！",
+      "CHINESE_TRADITIONAL": "哥哥，路上小心！",
+      "JAPANESE": "いってらっしゃい！",
+      "INDONESIAN": "Oppa, semangat kerja ya!",
+      "PORTUGUESE": "Oppa, boa sorte!",
+      "SPANISH": "¡Oppa, que te vaya bien!",
+      "PERSIAN": "یومان، روز خوبی در محل کار داشته باشید!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 24.7
+    },
+    "SCRIPT": {
+      "KOREAN": "다녀오세요...",
+      "ENGLISH": "You too… take care.",
+      "CHINESE_SIMPLIFIED": "路上小心...",
+      "CHINESE_TRADITIONAL": "路上小心...",
+      "JAPANESE": "いってらっしゃ〜い",
+      "INDONESIAN": "Kamu juga… jaga diri baik-baik.",
+      "PORTUGUESE": "Tenha um bom dia...",
+      "SPANISH": "Que tenga un buen día…",
+      "PERSIAN": "تو هم... مواظب خودت باش"
+    }
+  }
+]

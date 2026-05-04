@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님! 나만 보고 해요.",
+      "ENGLISH": "Min-jung! Just look at me while you sing.",
+      "CHINESE_SIMPLIFIED": "敏静！只看着我就好",
+      "CHINESE_TRADITIONAL": "敏靜！你只要看著我就好！",
+      "JAPANESE": "ミンジョンさん！僕だけを見て歌ってください。",
+      "INDONESIAN": "Min-jung! Lihat aku aja ya",
+      "PORTUGUESE": "Minjung! Só olha pra mim.",
+      "SPANISH": "¡Minjung! Solo mírame a mí.",
+      "PERSIAN": "مین‌جونگ! فقط موقع خوندن به من نگاه کن."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나 무대 제일 가까운 곳에 있을 테니까",
+      "ENGLISH": "I'll be right up front on the stage,",
+      "CHINESE_SIMPLIFIED": "我会坐在离舞台最近的地方",
+      "CHINESE_TRADITIONAL": "我會坐在離舞台最近的地方",
+      "JAPANESE": "僕、ステージの一番近くにいますから。",
+      "INDONESIAN": "Aku bakal ada di tempat paling dekat ke panggung",
+      "PORTUGUESE": "Vou estar no lugar mais perto do palco,",
+      "SPANISH": "Voy a estar en el lugar más cercano al escenario,",
+      "PERSIAN": "من درست جلوی صحنه می‌شم،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 떨리고 힘들면 나 보고 해요.",
+      "ENGLISH": "so if you get too nervous or overwhelmed, just look at me.",
+      "CHINESE_SIMPLIFIED": "如果太紧张的话，就看着我",
+      "CHINESE_TRADITIONAL": "如果太緊張的話，就看著我",
+      "JAPANESE": "もし緊張したり、苦しくなったら僕を見てください。",
+      "INDONESIAN": "Kalau kamu gugup atau ngerasa berat, lihat aku aja",
+      "PORTUGUESE": "então, se ficar muito nervosa, só me olha.",
+      "SPANISH": "así que si te sientes muy nerviosa, solo mírame.",
+      "PERSIAN": "پس اگر خیلی عصبی یا کلافه شدی، فقط به من نگاه کن."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠보면 눈물 날 거 같은데...",
+      "ENGLISH": "I think I'll cry when I see you...",
+      "CHINESE_SIMPLIFIED": "我看哥哥的话可能会哭出来...",
+      "CHINESE_TRADITIONAL": "如果看到哥哥的話，我可能會哭...",
+      "JAPANESE": "お兄さん見たら泣いちゃいそう…。",
+      "INDONESIAN": "Kalau lihat oppa kayaknya aku bakal nangis deh...",
+      "PORTUGUESE": "Mas se eu olhar pra você, acho que vou chorar...",
+      "SPANISH": "Pero si te miro, creo que voy a llorar...",
+      "PERSIAN": "فکر کنم وقتی ببینمت گریه کنم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "울어도 괜찮아요. 알겠죠?",
+      "ENGLISH": "It's okay to cry. You know that, right?",
+      "CHINESE_SIMPLIFIED": "哭也没关系，知道吗？",
+      "CHINESE_TRADITIONAL": "哭也沒關係，知道嗎？",
+      "JAPANESE": "泣いてもいいですよ。わかりましたね？",
+      "INDONESIAN": "Nggak apa-apa kok kalau mau nangis. Oke?",
+      "PORTUGUESE": "Tudo bem se chorar.",
+      "SPANISH": "Está bien si lloras.",
+      "PERSIAN": "گریه کردن اشکالی نداره. اینو که میدونی، نه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나 보면서 노래해요.",
+      "ENGLISH": "Sing while looking at me.",
+      "CHINESE_SIMPLIFIED": "看着我唱就好",
+      "CHINESE_TRADITIONAL": "看著我唱就好",
+      "JAPANESE": "僕を見ながら歌ってください。",
+      "INDONESIAN": "Nyanyilah sambil lihat aku",
+      "PORTUGUESE": "Canta enquanto me olha.",
+      "SPANISH": "Canta mientras me miras.",
+      "PERSIAN": "در حالی که به من نگاه می‌کنی، آواز بخوان."
+    }
+  }
+]

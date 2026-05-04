@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 깼네요...",
+      "ENGLISH": "Ah… did I wake you?",
+      "CHINESE_SIMPLIFIED": "啊，吵醒你了...",
+      "CHINESE_TRADITIONAL": "啊，你醒了...",
+      "JAPANESE": "あ、起きちゃいました？",
+      "INDONESIAN": "Ah… aku ngebangunin kamu ya?",
+      "PORTUGUESE": "Ah, te acordei?",
+      "SPANISH": "Ay, ¿te desperté?",
+      "PERSIAN": "آه... بیدارت کردم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요. 깰 줄 몰랐어요.",
+      "ENGLISH": "Sorry, I didn’t think you’d wake up.",
+      "CHINESE_SIMPLIFIED": "对不起，没想到会吵醒你",
+      "CHINESE_TRADITIONAL": "對不起，沒想到會吵醒你",
+      "JAPANESE": "ごめんなさい、起こすつもりじゃなかったんです",
+      "INDONESIAN": "Maaf, aku nggak nyangka kamu bakal bangun.",
+      "PORTUGUESE": "Desculpa, não achei que ia te acordar.",
+      "SPANISH": "Perdón, no pensé que te despertaría.",
+      "PERSIAN": "ببخشید فکر نمیکردم بیدار بشی"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요, 안 자고 있었어요.",
+      "ENGLISH": "It’s okay. I wasn’t asleep yet.",
+      "CHINESE_SIMPLIFIED": "没关系，我本来也没睡着",
+      "CHINESE_TRADITIONAL": "沒關係，我本來就沒睡",
+      "JAPANESE": "大丈夫ですよ、寝てなかったです",
+      "INDONESIAN": "Nggak apa-apa. Aku juga belum tidur kok.",
+      "PORTUGUESE": "Tudo bem, eu não tava dormindo.",
+      "SPANISH": "Está bien, no estaba dormida.",
+      "PERSIAN": "اشکالی ندارد من هنوز نخوابیده بودم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 사람들하고 논 거 어땠어요?",
+      "ENGLISH": "How was hanging out with everyone today?",
+      "CHINESE_SIMPLIFIED": "今天和大家玩得怎么样呀？",
+      "CHINESE_TRADITIONAL": "今天和大家玩得怎麽樣呀？",
+      "JAPANESE": "今日みんなと遊んだの、どうでした？",
+      "INDONESIAN": "Gimana tadi main bareng semuanya?",
+      "PORTUGUESE": "Como foi o dia com as meninas?",
+      "SPANISH": "¿Cómo la pasó hoy con las chicas?",
+      "PERSIAN": "معاشرت با همه امروز چطور بود؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "엄청 재밌었어요!",
+      "ENGLISH": "It was really fun!",
+      "CHINESE_SIMPLIFIED": "超级开心！",
+      "CHINESE_TRADITIONAL": "超級開心！",
+      "JAPANESE": "すっごく楽しかったです！",
+      "INDONESIAN": "Seru banget!",
+      "PORTUGUESE": "Foi muito divertido!",
+      "SPANISH": "¡Fue muy divertido!",
+      "PERSIAN": "واقعا سرگرم کننده بود!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 이러다가 다시 슬퍼질까 봐 걱정이에요.",
+      "ENGLISH": "But… I’m kind of scared I’ll feel sad again later.",
+      "CHINESE_SIMPLIFIED": "但我担心这样下去，以后又会变得难过",
+      "CHINESE_TRADITIONAL": "但我擔心這樣下去，以後又會變得難過",
+      "JAPANESE": "でも、こんなに楽しいと後でまた寂しくなっちゃうんじゃないかって思って",
+      "INDONESIAN": "Tapi… aku agak takut nanti bakal sedih lagi.",
+      "PORTUGUESE": "Mas eu fico preocupada… em ter tanta felicidade e depois voltar a sentir tristeza.",
+      "SPANISH": "Pero me preocupa… tener tanta felicidad y luego volver a sentir tristeza.",
+      "PERSIAN": "اما… من یک جورهایی می ترسم که بعداً دوباره غمگین شوم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 26.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 왜 슬퍼요?",
+      "ENGLISH": "Huh? Why sad?",
+      "CHINESE_SIMPLIFIED": "嗯？为什么会难过？",
+      "CHINESE_TRADITIONAL": "嗯？為什麽會難過？",
+      "JAPANESE": "はい？なんで寂しく？",
+      "INDONESIAN": "Hah? Kenapa sedih?",
+      "PORTUGUESE": "Hã? Por que você sentiria tristeza?",
+      "SPANISH": "¿Eh? ¿Por qué sentirías tristeza?",
+      "PERSIAN": "ها؟ چرا غمگین؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하숙 생활이 끝나고 나면 다시 외로워지니까.",
+      "ENGLISH": "Because once this guesthouse chapter ends, I think I’ll feel lonely again.",
+      "CHINESE_SIMPLIFIED": "因为合租生活结束后，又会变得孤单了",
+      "CHINESE_TRADITIONAL": "因為合租生活結束後，又會變得孤單了",
+      "JAPANESE": "下宿生活が終わったら、またひとりになるからです",
+      "INDONESIAN": "Soalnya kalau masa-masa di guesthouse ini udah selesai, aku takut bakal ngerasa kesepian lagi.",
+      "PORTUGUESE": "Porque quando essa vida na pensão acabar, vou me sentir sozinha de novo.",
+      "SPANISH": "Porque cuando termine esta vida en la pensión, volveré a sentirme sola.",
+      "PERSIAN": "چون وقتی این فصل مهمانخانه تمام شود، فکر می کنم دوباره احساس تنهایی می کنم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 36.9
+    },
+    "SCRIPT": {
+      "KOREAN": "사실 학창시절에도 애들이랑 함께 있을 땐 즐거웠는데",
+      "ENGLISH": "Back in school, I had fun with my classmates too...",
+      "CHINESE_SIMPLIFIED": "其实学生时代和同学们在一起时也很开心",
+      "CHINESE_TRADITIONAL": "其實學生時代和同學們在一起時也很開心",
+      "JAPANESE": "実は学生の頃も みんなと一緒にいるときは楽しかったんですけど",
+      "INDONESIAN": "Dulu pas sekolah, aku juga seru-seruan bareng temen-temen sekelas...",
+      "PORTUGUESE": "Na escola eu também era feliz quando estava com meus amigos,",
+      "SPANISH": "En la escuela también era feliz cuando estaba con mis amigos,",
+      "PERSIAN": "در مدرسه هم با همکلاسی هایم خوش می گذشت..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 42.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어느 날 갑자기 따돌림당하게 되면서 너무 힘들었거든요.",
+      "ENGLISH": "But then one day, out of nowhere, everyone left me. It hit me really hard.",
+      "CHINESE_SIMPLIFIED": "但某天突然就开始被排挤，那时候真的很痛苦",
+      "CHINESE_TRADITIONAL": "但某天突然就開始被排擠，那時候真的很痛苦",
+      "JAPANESE": "ある日突然 仲間外れにされて すごく辛くて",
+      "INDONESIAN": "Tapi tiba-tiba, suatu hari, semuanya ninggalin aku. Rasanya sakit banget.",
+      "PORTUGUESE": "mas um dia, do nada, começaram a me deixar de lado, e foi muito difícil.",
+      "SPANISH": "pero un día, de repente, me empezaron a hacer a un lado, y fue muy duro.",
+      "PERSIAN": "اما پس از اون یک روز، از هیچ جا، همه مرا ترک کردند. خیلی بهم ضربه زد"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 44.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 도망쳤어요.",
+      "ENGLISH": "So I ran away.",
+      "CHINESE_SIMPLIFIED": "所以我就逃跑了",
+      "CHINESE_TRADITIONAL": "所以我就逃跑了",
+      "JAPANESE": "だから逃げちゃったんです",
+      "INDONESIAN": "Makanya aku kabur.",
+      "PORTUGUESE": "Então eu fugi.",
+      "SPANISH": "Así que escapé.",
+      "PERSIAN": "پس فرار کردم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 49.7
+    },
+    "SCRIPT": {
+      "KOREAN": "사람들이랑도 멀리하고, 대학 가는 것도 미루고.",
+      "ENGLISH": "I distanced myself from people… put off going to college too.",
+      "CHINESE_SIMPLIFIED": "疏远人群，连上大学也推迟了",
+      "CHINESE_TRADITIONAL": "疏遠人群，也延後上大學的時間",
+      "JAPANESE": "人とも距離を置いて、大学に行くのもずっと延ばしてて",
+      "INDONESIAN": "Aku jadi ngejauh dari orang-orang… bahkan nunda kuliah juga.",
+      "PORTUGUESE": "Me afastei das pessoas e adiei a faculdade.",
+      "SPANISH": "Me alejé de la gente y pospuse la universidad.",
+      "PERSIAN": "از مردم فاصله گرفتم... رفتن به دانشگاه را هم به تعویق انداختم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 50.2,
+      "HIDE": 51.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아하...",
+      "ENGLISH": "I see...",
+      "CHINESE_SIMPLIFIED": "啊哈...",
+      "CHINESE_TRADITIONAL": "啊哈...",
+      "JAPANESE": "そっか…",
+      "INDONESIAN": "Gitu ya...",
+      "PORTUGUESE": "Ah…",
+      "SPANISH": "Ah…",
+      "PERSIAN": "میبینم..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 52.3,
+      "HIDE": 56.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 하숙집 들어오고 나서 그때보다 몇 배는 더",
+      "ENGLISH": "But ever since I came to this guesthouse, I’ve been so much happier than I ever was back then.",
+      "CHINESE_SIMPLIFIED": "但住进合租公寓后，我比那时候要开心幸福好几倍",
+      "CHINESE_TRADITIONAL": "但住進合租公寓後，我比那時候要開心幸福好幾倍",
+      "JAPANESE": "でも この下宿に来てからは あの頃より何倍も",
+      "INDONESIAN": "Tapi sejak aku datang ke guesthouse ini, aku jauh lebih bahagia daripada dulu.",
+      "PORTUGUESE": "Mas desde que cheguei nessa casa compartilhada, tô muito mais",
+      "SPANISH": "Pero desde que llegué a esta casa compartida, soy mucho más",
+      "PERSIAN": "اما از زمانی که به این مهمانسرا آمدم، بسیار خوشحالتر از اون زمان بودم."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 56.8,
+      "HIDE": 63.0
+    },
+    "SCRIPT": {
+      "KOREAN": "즐겁고 행복해요. 그래서 걱정돼요.",
+      "ENGLISH": "That’s why I’m scared.",
+      "CHINESE_SIMPLIFIED": "所以我才会有点担心",
+      "CHINESE_TRADITIONAL": "所以我才會有點擔心",
+      "JAPANESE": "楽しくて幸せなんです だからこそ不安で",
+      "INDONESIAN": "Makanya aku takut.",
+      "PORTUGUESE": "feliz do que naquela época. E por isso… eu tenho medo.",
+      "SPANISH": "feliz que en aquel entonces. Y por eso… me da miedo.",
+      "PERSIAN": "به همین دلیل است که می ترسم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 63.5,
+      "HIDE": 67.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 유정 씨! 앞으로 더 행복해질 거예요!",
+      "ENGLISH": "Come on, Yu-jeong! You’re only going to get more happiness from here on out!",
+      "CHINESE_SIMPLIFIED": "哎呀，有情！以后你会更幸福的！",
+      "CHINESE_TRADITIONAL": "哎呀，有情！以後你會更幸福的！",
+      "JAPANESE": "え〜ユジョンさん！ これからもっと幸せになりますよ！",
+      "INDONESIAN": "Ayolah, Yu-jeong! Setelah ini kamu justru bakal makin bahagia!",
+      "PORTUGUESE": "Ah, Yujeong, você vai ser ainda mais feliz daqui pra frente!",
+      "SPANISH": "Ay, Yujeong, ¡vas a ser aún más feliz de ahora en adelante!",
+      "PERSIAN": "بیا، یو-جئونگ! از اینجا به بعد فقط شادی بیشتری خواهید داشت!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 68.4,
+      "HIDE": 71.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 계속 행복해질까요?",
+      "ENGLISH": "Do you think I’ll really keep being happy?",
+      "CHINESE_SIMPLIFIED": "我真的能一直幸福下去吗？",
+      "CHINESE_TRADITIONAL": "我真的能一直幸福下去嗎？",
+      "JAPANESE": "ほんとに 私もっと幸せになれますか？",
+      "INDONESIAN": "Kamu yakin aku bakal terus bahagia?",
+      "PORTUGUESE": "Será que eu vou mesmo continuar feliz?",
+      "SPANISH": "¿De verdad seguiré siendo feliz?",
+      "PERSIAN": "فکر می کنید من واقعاً خوشحال خواهم شد؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 71.6,
+      "HIDE": 75.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼요, 저도 그렇고 여기 하숙집 사람들도 그렇고",
+      "ENGLISH": "Of course! Me, and everyone here—we’re not going anywhere.",
+      "CHINESE_SIMPLIFIED": "当然啦，不仅是我，还有合租公寓里的大家",
+      "CHINESE_TRADITIONAL": "當然啦，不論是我，還是合租公寓裡的大家",
+      "JAPANESE": "もちろんです 俺もそうだし この下宿のみんなもそうです",
+      "INDONESIAN": "Yakin dong! Aku, dan semua orang di sini—kita nggak bakal ke mana-mana.",
+      "PORTUGUESE": "Claro que sim. Nem eu nem ninguém vamos a lugar nenhum.",
+      "SPANISH": "Claro que sí. Ni yo ni nadie vamos a ir a ningún lado.",
+      "PERSIAN": "البته! من و همه اینجا - ما هیچ جا نمی رویم."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 76.0,
+      "HIDE": 78.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우리는 계~속 함께할 거예요.",
+      "ENGLISH": "We’ll keep going, together.",
+      "CHINESE_SIMPLIFIED": "我们都会一直在一起哒",
+      "CHINESE_TRADITIONAL": "我們都會一直～在一起的",
+      "JAPANESE": "俺たちはず〜っと一緒ですから",
+      "INDONESIAN": "Kita bakal terus jalan bareng.",
+      "PORTUGUESE": "Vamos continuar juntos por muito tempo~",
+      "SPANISH": "Vamos a seguir juntos, por muchi tiempo~",
+      "PERSIAN": "با هم به راهمون ادامه میدیم"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 78.3,
+      "HIDE": 81.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까 걱정 말고 오늘은 푹 자요.",
+      "ENGLISH": "So don’t worry tonight. Just get some good sleep.",
+      "CHINESE_SIMPLIFIED": "所以别担心了，今天好好睡一觉吧",
+      "CHINESE_TRADITIONAL": "所以不要擔心，今天好好睡一覺吧",
+      "JAPANESE": "だから心配しないで 今日はゆっくり寝てください",
+      "INDONESIAN": "Jadi malam ini jangan khawatir, ya. Tidur yang nyenyak.",
+      "PORTUGUESE": "Então não se preocupa e dorme bem.",
+      "SPANISH": "Así que no te preocupes y duerme.",
+      "PERSIAN": "پس امشب نگران نباش فقط خوب بخواب"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 82.1,
+      "HIDE": 85.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 예쁜 꿈 꿔요, 유만 님.",
+      "ENGLISH": "Okay… Sweet dreams, Yuman.",
+      "CHINESE_SIMPLIFIED": "嗯，做个好梦，宥万",
+      "CHINESE_TRADITIONAL": "嗯，祝你有個好夢，宥萬",
+      "JAPANESE": "はい、いい夢見てくださいね ユマンさん",
+      "INDONESIAN": "Oke… Mimpi indah, Yuman.",
+      "PORTUGUESE": "Tá bom… boa noite, senhor Yumán.",
+      "SPANISH": "Sí… que descanse, señor Yumán.",
+      "PERSIAN": "باشه... رویاهای شیرین، یومان."
+    }
+  }
+]

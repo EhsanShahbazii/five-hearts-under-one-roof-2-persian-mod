@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "집이지만 저한테는 또 다른 일터죠 뭐.",
+      "ENGLISH": "It’s my home, but to me it’s also another workplace.",
+      "CHINESE_SIMPLIFIED": "虽然是家，但对我来说也是另一个职场",
+      "CHINESE_TRADITIONAL": "雖然是家裡，但對我來說也是另外一個職場",
+      "JAPANESE": "家だけど、俺にとってはもうひとつの職場みたいなもんですよ",
+      "INDONESIAN": "Itu rumahku, tapi buat aku juga kayak tempat kerja kedua.",
+      "PORTUGUESE": "É minha casa, mas parece outro lugar de trabalho.",
+      "SPANISH": "Es mi casa, pero se siente como otro lugar de trabajo.",
+      "PERSIAN": "این خونه من است، اما برای من محل کار دیگری نیز هست."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "따지고 보면 숙박업이잖아요?",
+      "ENGLISH": "Technically speaking, it’s a lodging business, right?",
+      "CHINESE_SIMPLIFIED": "仔细想想，我也是在经营住宿业嘛？",
+      "CHINESE_TRADITIONAL": "嚴格來說，就是在經營住宿業嘛",
+      "JAPANESE": "よく考えたら宿泊業ですしね？",
+      "INDONESIAN": "Secara teknis, itu kan bisnis tempat tinggal, kan?",
+      "PORTUGUESE": "Se parar pra pensar, é quase como administrar um negócio, né?",
+      "SPANISH": "Si lo piensa bien, es casi como manejar un negocio, ¿no cree?",
+      "PERSIAN": "از نظر فنی، این یک تجارت مسکن است، درست است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 그렇긴 한데...",
+      "ENGLISH": "Well, that’s true but…",
+      "CHINESE_SIMPLIFIED": "话是这么说...",
+      "CHINESE_TRADITIONAL": "話是這麼說沒錯...",
+      "JAPANESE": "まぁ、そうかもしれないけど…",
+      "INDONESIAN": "Ya, emang sih…",
+      "PORTUGUESE": "Bom, visto por esse lado…",
+      "SPANISH": "Bueno, visto así…",
+      "PERSIAN": "خب این درسته اما…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저한테는 일 그 이상도 이하도 아니에요.",
+      "ENGLISH": "To me, it’s nothing more or less than work.",
+      "CHINESE_SIMPLIFIED": "对我来说也不过是工作而已",
+      "CHINESE_TRADITIONAL": "對我來說，就是個工作",
+      "JAPANESE": "俺にとっては仕事以上でも以下でもないです",
+      "INDONESIAN": "Buat aku, itu nggak lebih dan nggak kurang dari urusan kerjaan.",
+      "PORTUGUESE": "Pra mim não é mais do que isso, nem mais nem menos que um trabalho.",
+      "SPANISH": "Para mí no es más que eso, ni más ni menos que un trabajo.",
+      "PERSIAN": "برای من چیزی بیشتر یا کمتر از کار نیست."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 제때 월세 받고, 관리 해야하는 뭐 그런 곳?",
+      "ENGLISH": "Just a place where I collect rent on time and manage things?",
+      "CHINESE_SIMPLIFIED": "需要按时收租、统一进行管理",
+      "CHINESE_TRADITIONAL": "需要準時收房租，需要管理",
+      "JAPANESE": "ただ、ちゃんと家賃をもらって、管理しなきゃいけない場所っていうか。",
+      "INDONESIAN": "Tempat buat nagih uang sewa tepat waktu dan ngurus-ngurusin doang?",
+      "PORTUGUESE": "Só cobro o aluguel em dia e cuido da manutenção, só isso.",
+      "SPANISH": "Solo cobro la renta a tiempo y me encargo del mantenimiento, eso es todo.",
+      "PERSIAN": "فقط مکانی که در اون به موقع اجاره را جمع می کنم و امور را مدیریت می کنم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇긴 하지...",
+      "ENGLISH": "Yeah… that makes sense…",
+      "CHINESE_SIMPLIFIED": "那倒也是...",
+      "CHINESE_TRADITIONAL": "那倒也是...",
+      "JAPANESE": "まぁ、そうだよね…",
+      "INDONESIAN": "Iya… masuk akal juga sih…",
+      "PORTUGUESE": "Sim, acho que você tem razão…",
+      "SPANISH": "Sí, supongo que tienes razón…",
+      "PERSIAN": "آره… منطقیه…"
+    }
+  }
+]

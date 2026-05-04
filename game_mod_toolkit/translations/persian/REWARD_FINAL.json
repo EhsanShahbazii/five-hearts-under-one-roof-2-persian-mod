@@ -1,0 +1,142 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우와~ 진짜 대박 잘생겼다 ",
+      "ENGLISH": "Whoa~ Oh my god, he is seriously good-looking.",
+      "CHINESE_TRADITIONAL": "哇～真的太厲害了！超帥的！",
+      "INDONESIAN": "Waaah~ Gila sih, ganteng banget.",
+      "PERSIAN": "اوه ~ اوه خدای من، او به طور جدی خوش قیافه است."
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "언니, 언니, 이분 봐 봐요!",
+      "ENGLISH": "Unnie, unnie—look at this guy!",
+      "CHINESE_TRADITIONAL": "姊姊，你快看看那個男生！",
+      "INDONESIAN": "Unnie, unnie, liat deh orang ini!",
+      "PERSIAN": "عمو، عمو - به این مرد نگاه کن!"
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우와, 나 이렇게 잘생긴 사람 처음 봐",
+      "ENGLISH": "Wow, I don’t think I’ve ever seen someone this handsome in real life.",
+      "CHINESE_TRADITIONAL": "哇，我第一次看到長這麼帥的人",
+      "INDONESIAN": "Ya ampun, baru kali ini aku lihat cowok seganteng ini.",
+      "PERSIAN": "وای، فکر نمی کنم تا به حال کسی به این خوش تیپ را در زندگی واقعی ندیده باشم."
+    }
+  },
+  {
+    "INDEX": 4,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 혹시 오늘 혼자 오셨어요?",
+      "ENGLISH": "Oppa, are you here alone today by any chance?",
+      "CHINESE_TRADITIONAL": "哥哥～今天是一個人來嗎？",
+      "INDONESIAN": "Oppa, kamu sendirian aja nih hari ini?",
+      "PERSIAN": "یومان، امروز به طور تصادفی اینجا تنها هستی؟"
+    }
+  },
+  {
+    "INDEX": 5,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 여자친구 있으려나?",
+      "ENGLISH": "Do you... perhaps have a girlfriend?",
+      "CHINESE_TRADITIONAL": "不知道你...有沒有女朋友呢？",
+      "INDONESIAN": "Kamu udah punya pacar belum, sih?",
+      "PERSIAN": "شاید دوست دختر داری؟"
+    }
+  },
+  {
+    "INDEX": 6,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "여자친구 있으세요?",
+      "ENGLISH": "Do you? Do you have a girlfriend?",
+      "CHINESE_TRADITIONAL": "有女朋友嗎？",
+      "INDONESIAN": "Punya pacar nggak?",
+      "PERSIAN": "شما؟ دوست دختر داری؟"
+    }
+  },
+  {
+    "INDEX": 7,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "없죠? 여자친구 없죠?",
+      "ENGLISH": "You don’t, right? No girlfriend, right?",
+      "CHINESE_TRADITIONAL": "沒有吧？沒有女朋友吧？",
+      "INDONESIAN": "Nggak punya, kan? Nggak punya, kan?",
+      "PERSIAN": "شما نمی کنید، درست است؟ دوست دختر نیست، درسته؟"
+    }
+  },
+  {
+    "INDEX": 8,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 저희랑 노는 거 어때요?",
+      "ENGLISH": "Then how about hanging out with us?",
+      "CHINESE_TRADITIONAL": "要不要跟我們一起玩呢？",
+      "INDONESIAN": "Kalau gitu, gimana kalau main sama kita aja?",
+      "PERSIAN": "پس چطور با ما معاشرت کنید؟"
+    }
+  },
+  {
+    "INDEX": 9,
+    "TIME": {
+      "SHOW": 22,
+      "HIDE": 24
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮으면 오늘 우리랑 놀죠?",
+      "ENGLISH": "If you're down, why not chill with us tonight?",
+      "CHINESE_TRADITIONAL": "如果可以的話，今天跟我們一起玩吧？",
+      "INDONESIAN": "Kalau kamu oke, kita seru-seruan bareng yuk hari ini~",
+      "PERSIAN": "اگر از کار افتاده اید، چرا امشب با ما آرام نمی گیرید؟"
+    }
+  },
+  {
+    "INDEX": 10,
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 26
+    },
+    "SCRIPT": {
+      "KOREAN": "난 그쪽 마음에 드는데",
+      "ENGLISH": "I mean... I’m definitely into you.\"",
+      "CHINESE_TRADITIONAL": "我對你很有興趣喔！",
+      "INDONESIAN": "Aku sih, udah suka sama kamu.",
+      "PERSIAN": "منظورم این است که... من قطعاً به تو علاقه دارم.\""
+    }
+  }
+]

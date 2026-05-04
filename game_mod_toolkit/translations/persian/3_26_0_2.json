@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 얼굴이 이렇~게 잘생겼는데",
+      "ENGLISH": "What do you mean? Look at that face—he’s super good-looking!",
+      "CHINESE_SIMPLIFIED": "不是，我这脸长得这么帅",
+      "CHINESE_TRADITIONAL": "不是吧，這張臉長得這～麼帥",
+      "JAPANESE": "いや〜顔がこ〜んなにイケメンなんだから",
+      "INDONESIAN": "Maksud kamu apa? Lihat muka dia deh—cakep banget, tau!",
+      "PORTUGUESE": "Mas olha como eu sou bonito!",
+      "SPANISH": "¡Pero mira que guapo soy!",
+      "PERSIAN": "منظورت چیه؟ به اون چهره نگاه کنید - او فوق العاده خوش قیافه است!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이 정도면 박민정한테 비비고도 남죠~",
+      "ENGLISH": "He could totally stand next to Park Min-jung and hold his own~",
+      "CHINESE_SIMPLIFIED": "跟朴敏静站一起绰绰有余啊~",
+      "CHINESE_TRADITIONAL": "要追樸敏靜綽綽有餘啦～",
+      "JAPANESE": "このレベルならパク・ミンジョンと並んでも全然いけるでしょ〜？",
+      "INDONESIAN": "Dia tuh jelas pantas banget berdiri di samping Park Min-jung~",
+      "PORTUGUESE": "Com esse nível, eu até poderia competir com a Park Minjung~",
+      "SPANISH": "Con este nivel, hasta podría competir con Park Minjung~",
+      "PERSIAN": "او کاملاً می توانست کنار پارک مین‌جونگ بایستد و خودش را نگه دارد"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 이 형님 존나 진심인데?",
+      "ENGLISH": "Yo, this guy’s dead serious right now.",
+      "CHINESE_SIMPLIFIED": "我去，这位大哥你是认真的？",
+      "CHINESE_TRADITIONAL": "啊，這位大哥你太認真了吧？",
+      "JAPANESE": "あ、この兄さん本気っぽいな？",
+      "INDONESIAN": "Yo, nih orang beneran serius sekarang.",
+      "PORTUGUESE": "Hã? Esse cara tá falando sério?",
+      "SPANISH": "¿Eh? ¿Este tipo lo dice en serio?",
+      "PERSIAN": "اوه، این مرد در حال حاضر جدی است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 당연히 진심이니까~ 아 제대로 좀 봐 봐요들 ",
+      "ENGLISH": "Of course I’m serious! Come on, take a good look!",
+      "CHINESE_SIMPLIFIED": "啊当然是真心话~ 你们好好看清楚啊",
+      "CHINESE_TRADITIONAL": "當然是認真啊～你們仔細看看",
+      "JAPANESE": "そりゃ本気に決まってるじゃないですか〜 ちゃんと見てくださいよ",
+      "INDONESIAN": "Tentu aja aku serius! Ayo dong, liat baik-baik!",
+      "PORTUGUESE": "Claro que sim! Olha bem pra mim!",
+      "SPANISH": "¡Claro que sí! ¡Mírame bien!",
+      "PERSIAN": "البته جدی میگم! بیا، خوب نگاه کن!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 샤워 한 시간씩 걸리는 게 얼굴 감상하느라 그러는 건데!",
+      "ENGLISH": "You think it takes me an hour to shower because I’m actually washing? No—I’m admiring this face in the mirror!",
+      "CHINESE_SIMPLIFIED": "我洗澡要花一小时，就是因为要欣赏这张脸啊！",
+      "CHINESE_TRADITIONAL": "我洗澡要花一個小時，就是因為在欣賞我這張臉！",
+      "JAPANESE": "俺がシャワーに一時間かかるの、鏡で自分の顔見惚れてるからなんですよ！",
+      "INDONESIAN": "Kamu kira aku mandi sejam tuh beneran mandi? Nggak—aku ngaca, ngagumin muka ini!",
+      "PORTUGUESE": "Se eu demoro uma hora no banho, é porque não consigo parar de admirar meu reflexo~",
+      "SPANISH": "Si me tardo una hora en ducharme, es porque no puedo dejar de admirar mi reflejo~",
+      "PERSIAN": "فکر می‌کنین دوش گرفتن من یک ساعت طول می‌کشد، زیرا در واقع در حال شستشو هستم؟ نه - من این چهره در آینه را تحسین می کنم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 진심이에요?",
+      "ENGLISH": "Oppa, are you for real right now?",
+      "CHINESE_SIMPLIFIED": "哥哥你是认真的？",
+      "CHINESE_TRADITIONAL": "哥哥，你是說真的嗎？",
+      "JAPANESE": "お兄さん、本気なんですか？",
+      "INDONESIAN": "Oppa, kamu serius nih?",
+      "PORTUGUESE": "Sério, oppa?",
+      "SPANISH": "¿De verdad, oppa?",
+      "PERSIAN": "یومان، الان واقعا هستی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Absolutely.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "對啊",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Banget.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "کاملا."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "- 우씨!\n- 왜요.",
+      "ENGLISH": "— Pfft!\n— What?",
+      "CHINESE_SIMPLIFIED": "-无语！\n-怎么了",
+      "CHINESE_TRADITIONAL": "—呃！\n—幹嘛",
+      "JAPANESE": "-くっ！\n-な、なんですか",
+      "INDONESIAN": "— Pfft!\n— Apa sih?",
+      "PORTUGUESE": "—Ai, meu Deus!\n—O que foi?",
+      "SPANISH": "—¡Ay, por Dios!\n—¿Qué pasa?",
+      "PERSIAN": "- پففت! - چی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "큽...ㅋㅋㅋ",
+      "ENGLISH": "Heh... snort-laughs",
+      "CHINESE_SIMPLIFIED": "噗...哈哈哈",
+      "CHINESE_TRADITIONAL": "噗…哈哈哈！",
+      "JAPANESE": "くっ…笑笑っ…",
+      "INDONESIAN": "Heh... ketawa sampe ngeluarin suara aneh",
+      "PORTUGUESE": "Pff... hahahaha",
+      "SPANISH": "Pff... jajajaja",
+      "PERSIAN": "هه... خرخر می خندد"
+    }
+  }
+]

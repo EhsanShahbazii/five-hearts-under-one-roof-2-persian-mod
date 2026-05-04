@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "쌤 괜찮으세요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "方护士，您没事吧？",
+      "CHINESE_TRADITIONAL": "醫生，你沒事吧？",
+      "JAPANESE": "先生 大丈夫ですか?",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Você está bem?",
+      "SPANISH": "¿Se encuentra bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 저요?",
+      "ENGLISH": "Huh? Me?",
+      "CHINESE_SIMPLIFIED": "嗯？我吗？",
+      "CHINESE_TRADITIONAL": "嗯？我嗎？",
+      "JAPANESE": "え? 私ですか?",
+      "INDONESIAN": "Hah? Aku?",
+      "PORTUGUESE": "Quem, eu?",
+      "SPANISH": "¿Quién?¿yo?",
+      "PERSIAN": "ها؟ من؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "당연히 괜찮죠.",
+      "ENGLISH": "Of course I’m fine!",
+      "CHINESE_SIMPLIFIED": "当然没事啦",
+      "CHINESE_TRADITIONAL": "當然沒事",
+      "JAPANESE": "もちろん大丈夫ですよ",
+      "INDONESIAN": "Tentu aja aku nggak kenapa-kenapa!",
+      "PORTUGUESE": "Mas é claro que sim.",
+      "SPANISH": "Por supuesto que sí.",
+      "PERSIAN": "البته من خوبم!"
+    }
+  }
+]

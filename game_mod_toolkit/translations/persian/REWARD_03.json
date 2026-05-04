@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요~",
+      "ENGLISH": "Heyyy~",
+      "CHINESE_TRADITIONAL": "親愛的～",
+      "INDONESIAN": "Heyy~",
+      "PERSIAN": "هییی~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_TRADITIONAL": "宥萬先生",
+      "INDONESIAN": "Yuman~!",
+      "PERSIAN": "یومان!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저 잊은 건 아니죠?",
+      "ENGLISH": "Did you forget about me?",
+      "CHINESE_TRADITIONAL": "你沒有忘記我吧？",
+      "INDONESIAN": "Nggak lupa  sama aku, kan?",
+      "PERSIAN": "منو فراموش کردی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저 목소리 괜찮잖아요",
+      "ENGLISH": "I still sound okay, right?",
+      "CHINESE_TRADITIONAL": "我的聲音還不錯吧",
+      "INDONESIAN": "Suara aku masih oke, kan?",
+      "PERSIAN": "هنوز صدام خوبه، درسته؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저 진짜 화 안 났는데",
+      "ENGLISH": "I swear I’m not actually mad.",
+      "CHINESE_TRADITIONAL": "我真的沒有生氣",
+      "INDONESIAN": "Aku beneran nggak marah, sumpah deh.",
+      "PERSIAN": "قسم می خورم که واقعا عصبانی نیستم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "지금이라도 휴지 갖고 오면 되는데",
+      "ENGLISH": "You can still bring me some tissues now!",
+      "CHINESE_TRADITIONAL": "就算現在把衛生紙拿來也沒關係喔",
+      "INDONESIAN": "Kalau kamu bawa tisu sekarang juga masih bisa kok!",
+      "PERSIAN": "الان هم می تونی دستمال کاغذی برام بیاری!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_TRADITIONAL": "宥萬先生",
+      "INDONESIAN": "Yuman~!",
+      "PERSIAN": "یومان!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "거기 있죠?",
+      "ENGLISH": "You’re there, aren’t you?",
+      "CHINESE_TRADITIONAL": "你在那裡對吧？",
+      "INDONESIAN": "Kamu di situ, kan?",
+      "PERSIAN": "شما آنجا هستید، نه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 휴지 좀 갖다 줘요 제발~!",
+      "ENGLISH": "Ugh, come on, just bring me a tissue already, please~!",
+      "CHINESE_TRADITIONAL": "拜託快點把衛生紙給我～拜託～！",
+      "INDONESIAN": "Ya ampun, bawa tisu dong, please~!",
+      "PERSIAN": "اوه، بیا، فقط یک دستمال کاغذی برای من بیاور، لطفا!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 23.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨",
+      "ENGLISH": "Ugh, seriously...",
+      "CHINESE_TRADITIONAL": "哎呀...",
+      "INDONESIAN": "Aish...",
+      "PERSIAN": "اوه، جدی..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 아니야 아니야",
+      "ENGLISH": "No, no, it's fine… ",
+      "CHINESE_TRADITIONAL": "哈，不是、不是啦",
+      "INDONESIAN": "Nggak, nggak kok...",
+      "PERSIAN": "نه نه خوبه…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니야...",
+      "ENGLISH": "No that's not...",
+      "CHINESE_TRADITIONAL": "不是這樣...",
+      "INDONESIAN": "Nggak apa-apa...",
+      "PERSIAN": "نه این نیست..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 29.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨",
+      "ENGLISH": "Yuman...",
+      "CHINESE_TRADITIONAL": "宥萬先生",
+      "INDONESIAN": "Yuman...",
+      "PERSIAN": "یومان..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.5,
+      "HIDE": 31.0
+    },
+    "SCRIPT": {
+      "KOREAN": "휴지 갖고 올 거죠?",
+      "ENGLISH": "You're give it to me, right?",
+      "CHINESE_TRADITIONAL": "你會拿衛生紙給我的對吧？",
+      "INDONESIAN": "Kamu bakal ambilin tisunya, kan?",
+      "PERSIAN": "تو اونو به من می دهی، درست است؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 32.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저 진짜 기다려요!",
+      "ENGLISH": "I’m really waiting for you!",
+      "CHINESE_TRADITIONAL": "我真的會等你喔！",
+      "INDONESIAN": "Aku beneran nungguin, loh!",
+      "PERSIAN": "من واقعا منتظر شما هستم!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 33.4,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_TRADITIONAL": "宥萬先生！",
+      "INDONESIAN": "Yuman~!",
+      "PERSIAN": "یومان!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하...ㅠ",
+      "ENGLISH": "Haa... sniffle",
+      "CHINESE_TRADITIONAL": "哈...QQ",
+      "INDONESIAN": "Haa... hiks",
+      "PERSIAN": "هاا... بو بکش"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 37.1,
+      "HIDE": 37.6
+    },
+    "SCRIPT": {
+      "KOREAN": "힝...",
+      "ENGLISH": "Hngh...",
+      "CHINESE_TRADITIONAL": "嗚嗚...",
+      "INDONESIAN": "Hngh...",
+      "PERSIAN": "هنگ ..."
+    }
+  }
+]

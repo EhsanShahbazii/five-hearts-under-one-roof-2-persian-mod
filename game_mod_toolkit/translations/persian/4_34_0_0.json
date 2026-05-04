@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 좀 익숙해졌어요? ",
+      "ENGLISH": "Getting used to it now?",
+      "CHINESE_SIMPLIFIED": "现在有点适应了吗？",
+      "CHINESE_TRADITIONAL": "現在有比較習慣了嗎？",
+      "JAPANESE": "少し慣れました？",
+      "INDONESIAN": "Udah mulai kebiasa kan?",
+      "PORTUGUESE": "Já tá se acostumando?",
+      "SPANISH": "¿Ya te vas acostumbrando?",
+      "PERSIAN": "الان عادت کردی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "와 보니 별 거 없죠? ",
+      "ENGLISH": "See? It’s really not a big deal, right?",
+      "CHINESE_SIMPLIFIED": "来了发现也没什么大不了的吧？",
+      "CHINESE_TRADITIONAL": "來了之後發現好像沒什麼大不了的吧？",
+      "JAPANESE": "来てみたら、思ったほど大したことないでしょ？",
+      "INDONESIAN": "Tuh kan? Nggak sesulit itu, kan?",
+      "PORTUGUESE": "Nem é tão ruim assim, né?",
+      "SPANISH": "No es para tanto, ¿verdad?",
+      "PERSIAN": "ببینید؟ واقعاً چیز مهمی نیست، درست است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 그냥 이렇게 있으면 되는 거예요?",
+      "ENGLISH": "Yeah, so I just… hang out like this?",
+      "CHINESE_SIMPLIFIED": "嗯，就这样待着就行了吗？",
+      "CHINESE_TRADITIONAL": "嗯，就像這樣站著就好嗎？",
+      "JAPANESE": "はい、ただこうしていればいいんですか？",
+      "INDONESIAN": "Iya, jadi aku tinggal… nongkrong aja gini?",
+      "PORTUGUESE": "Sim, é só ficar assim, né?",
+      "SPANISH": "Sí, ¿solo tengo que quedarme así?",
+      "PERSIAN": "آره، پس من فقط... اینجوری وقت میزارم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "야~ 진짜네?",
+      "ENGLISH": "Wow—really?",
+      "CHINESE_SIMPLIFIED": "呀~真的哎！",
+      "CHINESE_TRADITIONAL": "哇～ 竟然是真的耶？",
+      "JAPANESE": "うわ〜ほんとだ",
+      "INDONESIAN": "Wow...seriusan?",
+      "PORTUGUESE": "Uau~, é mesmo!",
+      "SPANISH": "¡Vaya~, es cierto!",
+      "PERSIAN": "وای - واقعا؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 갑자기.",
+      "ENGLISH": "What’s with you all of a sudden?",
+      "CHINESE_SIMPLIFIED": "干嘛突然这样？",
+      "CHINESE_TRADITIONAL": "幹嘛啦，嚇我一跳",
+      "JAPANESE": "何、急に",
+      "INDONESIAN": "Kok kamu tiba-tiba gitu sih?",
+      "PORTUGUESE": "O que foi?",
+      "SPANISH": "¿Qué pasa o qué?",
+      "PERSIAN": "یکدفعه چه خبر؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 너 남자 데려왔다고 들어가지고. 진짠가 해서~",
+      "ENGLISH": "I heard you brought a guy, so I had to check if it was true~",
+      "CHINESE_SIMPLIFIED": "听说你带男伴来了，我还想说真的假的呢～",
+      "CHINESE_TRADITIONAL": "聽說妳帶了個男伴過來，想說是不是真的～",
+      "JAPANESE": "いや、お前が男連れて来って聞いてマジかな～と思って",
+      "INDONESIAN": "Aku denger kamu bawa cowok, jadi aku harus pastiin bener nggak~",
+      "PORTUGUESE": "Nada, só ouvi dizer que você trouxe um cara — queria ver se era verdade~",
+      "SPANISH": "Nada, solo escuché que habías traído a un chico, quería ver si era verdad~",
+      "PERSIAN": "من شنیدم که شما یک پسر را آورده اید، بنابراین باید بررسی می کردم که واقعیت دارد یا نه"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 23.2
+    },
+    "SCRIPT": {
+      "KOREAN": "여전히 하릴없이 노느라 바빴을 텐데 어쩐 일이야",
+      "ENGLISH": "You’ve still been busy having fun without anything to do, so what’s going on?",
+      "CHINESE_SIMPLIFIED": "你不是应该还像以前一样忙着无所事事地玩吗，什么风把你吹来了",
+      "CHINESE_TRADITIONAL": "妳還是一樣無所事事忙著到處玩吧，今天怎麼會來？",
+      "JAPANESE": "まだ暇そうに遊んでると思ったけど、どうしたの？",
+      "INDONESIAN": "Kamu masih aja sibuk seneng-seneng padahal nggak ngapa-ngapain, ada apa sih?",
+      "PORTUGUESE": "Aposto que continua “ocupada” sem fazer nada, né? O que te traz por aqui?",
+      "SPANISH": "Seguro sigues “ocupada” sin hacer nada, ¿no? ¿Qué te trae por aquí?",
+      "PERSIAN": "شما هنوز بدون هیچ کاری مشغول تفریح هستید، پس چه خبره؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 25.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐, 설마 나 축하해 주러 온 거야?",
+      "ENGLISH": "Wait… did you come here to congratulate me or something?",
+      "CHINESE_SIMPLIFIED": "怎么，难不成是来祝贺我的？",
+      "CHINESE_TRADITIONAL": "該不會是來恭喜我的吧？",
+      "JAPANESE": "まさか俺を祝いにきたのか？",
+      "INDONESIAN": "Tunggu… kamu ke sini buat ngucapin selamat ke aku atau gimana?",
+      "PORTUGUESE": "Veio me parabenizar ou o quê?",
+      "SPANISH": "¿Viniste a felicitarme o algo así?",
+      "PERSIAN": "صبر کن... اومدی اینجا به من تبریک بگی یا چیزی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 28.1
+    },
+    "SCRIPT": {
+      "KOREAN": "야~ 너네 유나한테 왜 그래~ ",
+      "ENGLISH": "Hey~ why are you acting like that toward Yu-na?",
+      "CHINESE_SIMPLIFIED": "喂~你怎么对我们有娜这样说话~",
+      "CHINESE_TRADITIONAL": "喂～ 你們幹嘛這樣對有娜啦",
+      "JAPANESE": "ね〜ユナに何その態度～",
+      "INDONESIAN": "Eh~ kenapa kamu ngomong ke Yu-na kayak gitu?",
+      "PORTUGUESE": "Ei~, por que tão assim com a Yuna?",
+      "SPANISH": "Oigan~, ¿por qué son así con Yuna?",
+      "PERSIAN": "هی چرا با یونا اینطوری رفتار میکنی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유나야 잘 지냈어?",
+      "ENGLISH": "Yu-na, how have you been?",
+      "CHINESE_SIMPLIFIED": "有娜啊，过得还好吗？",
+      "CHINESE_TRADITIONAL": "有娜，妳過得好嗎？",
+      "JAPANESE": "ユナ、元気だった？",
+      "INDONESIAN": "Yu-na, gimana kabarnya?",
+      "PORTUGUESE": "Yuna, como você tem passado?",
+      "SPANISH": "Yuna, ¿cómo has estado?",
+      "PERSIAN": "یونا، چطوری؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.3,
+      "HIDE": 32.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우린 경영 공부 하느라 정신이 없어가지구 ",
+      "ENGLISH": "We’ve been swamped with management work,",
+      "CHINESE_SIMPLIFIED": "我们忙着经营公司忙到飞起",
+      "CHINESE_TRADITIONAL": "大家都忙著處理公司的事，搞得暈頭轉向的",
+      "JAPANESE": "私たち経営部でバタバタしててさ",
+      "INDONESIAN": "Kita belakangan sibuk banget ngurus manajemen,",
+      "PORTUGUESE": "A gente tem estado tão ocupado com o negócio",
+      "SPANISH": "Nosotros hemos estado tan ocupados con la gestión del negocio",
+      "PERSIAN": "ما غرق کار مدیریتی شده ایم،"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 34.8
+    },
+    "SCRIPT": {
+      "KOREAN": "자주 보지도 못 했다, 그치?",
+      "ENGLISH": "so we haven’t really seen each other often, right?",
+      "CHINESE_SIMPLIFIED": "都没能经常见面，是吧？",
+      "CHINESE_TRADITIONAL": "才會這麼久沒見面了，是吧？",
+      "JAPANESE": "最近全然会えてなかったね？",
+      "INDONESIAN": "jadi jarang banget ketemu, ya kan?",
+      "PORTUGUESE": "que quase nem nos vemos, né?",
+      "SPANISH": "que casi ni nos hemos visto, ¿verdad?",
+      "PERSIAN": "بنابراین ما اغلب یکدیگر را ندیده ایم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 37.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야 우리나 바쁘지, 얘가 뭐 바빴겠어?",
+      "ENGLISH": "Hey, we’re busy, not her—what would she have been busy with?",
+      "CHINESE_SIMPLIFIED": "哎，我们再忙，她能有什么可忙的？",
+      "CHINESE_TRADITIONAL": "喂，只有我們才忙吧，她能忙什麼？",
+      "JAPANESE": "いや、俺たちは忙しいけど、こいつが忙しいわけないだろ",
+      "INDONESIAN": "Hey, kita yang sibuk, bukan dia, emang dia sibuk ngapain?",
+      "PORTUGUESE": "A gente tá ocupado, mas ela... o quão ocupada pode estar?",
+      "SPANISH": "Nosotros sí estamos ocupados, pero ella… ¿qué tan ocupada puede estar?",
+      "PERSIAN": "هی، ما مشغولیم، نه او - او با چه چیزی مشغول بود؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 38.2,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "경영 일도 누나랑 형이 다 알아서 하실 텐데.",
+      "ENGLISH": "The management stuff, you and your sister handle anyway.",
+      "CHINESE_SIMPLIFIED": "公司方面的事她姐姐和她哥哥都会处理好的吧",
+      "CHINESE_TRADITIONAL": "公司事情她姐跟她哥都會自己搞定啊",
+      "JAPANESE": "経営の仕事も姉貴と兄貴が全部やってるじゃん？",
+      "INDONESIAN": "Kerjaan manajemen juga kalian berdua yang pegang, kan.",
+      "PORTUGUESE": "No fim, quem administra o negócio são os irmãos dela.",
+      "SPANISH": "Si al final el negocio lo manejan sus hermanos.",
+      "PERSIAN": "به هر حال شما و خواهرتان به مسائل مدیریتی رسیدگی می کنید."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 40.2,
+      "HIDE": 42.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야~ 너 유나한테 그렇게 얘기하지 마~ ",
+      "ENGLISH": "Hey~ don’t say it to Yu-na like that~",
+      "CHINESE_SIMPLIFIED": "喂～你别这么跟有娜说话~",
+      "CHINESE_TRADITIONAL": "喂～你們不要那樣對有娜說啦～ ",
+      "JAPANESE": "ねえ〜、ユナにそんなふうに言わないでよ〜",
+      "INDONESIAN": "Eh~ jangan ngomong ke Yu-na kayak gitu dong~",
+      "PORTUGUESE": "Ei~! Não fala assim com a Yuna.",
+      "SPANISH": "¡Ey~! No le hables así a Yuna.",
+      "PERSIAN": "هی ~ اینطوری به یونا نگو ~"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 45.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유나라고 뭐 이러고 싶었겠어?",
+      "ENGLISH": "Do you think Yu-na wanted it this way?",
+      "CHINESE_SIMPLIFIED": "有娜难道愿意这样吗？",
+      "CHINESE_TRADITIONAL": "又不是她自己想這樣的？",
+      "JAPANESE": "ユナだって、好きでこうしてるわけじゃないでしょ？",
+      "INDONESIAN": "Emang kamu pikir Yu-na milih keadaannya kayak gini?",
+      "PORTUGUESE": "Acha que ela queria que as coisas fossem assim?",
+      "SPANISH": "¿Crees que ella quería que las cosas fueran así?",
+      "PERSIAN": "فکر می کنی یونا اینجوری می خواست؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 45.7,
+      "HIDE": 49.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 여긴 누군데~ 우리 소개 안 시켜 줄 거야?",
+      "ENGLISH": "So… who’s this here? Aren’t you going to introduce us?",
+      "CHINESE_SIMPLIFIED": "所以这位是谁啊~不给我们介绍一下吗？",
+      "CHINESE_TRADITIONAL": "所以這位是誰啊～ 不介紹一下嗎？",
+      "JAPANESE": "で、そっちは誰〜？ 紹介してくれないの？",
+      "INDONESIAN": "Terus… ini siapa nih? Kamu nggak mau kenalin ke kita?",
+      "PORTUGUESE": "E quem é ele~? Não vai nos apresentar?",
+      "SPANISH": "¿Y él quién es~? ¿No nos vas a presentar?",
+      "PERSIAN": "پس... این اینجا کیه؟ نمیخوای ما رو معرفی کنی؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 52.78,
+      "HIDE": 56.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어...?고말숙?",
+      "ENGLISH": "Uh… Go Mal-sook?",
+      "CHINESE_SIMPLIFIED": "呃...？高末淑？",
+      "CHINESE_TRADITIONAL": "欸？...高末淑？",
+      "JAPANESE": "あれ…？ コ・マルスク？",
+      "INDONESIAN": "Uh… Go Mal-sook?",
+      "PORTUGUESE": "Hã...? Malsook?",
+      "SPANISH": "¿Eh...? ¿Malsook?",
+      "PERSIAN": "اوه... برو مال‌سوک؟"
+    }
+  }
+]

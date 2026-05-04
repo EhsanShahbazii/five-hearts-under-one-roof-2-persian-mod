@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "먹는 것도 막 기름진 거 드시고 그러면 안 돼요",
+      "ENGLISH": "And no greasy food, okay?",
+      "CHINESE_SIMPLIFIED": "饮食方面也不能吃太油腻的东西",
+      "CHINESE_TRADITIONAL": "不要吃太過油膩的食物",
+      "JAPANESE": "食べるものも 脂っこいのは控えてくださいね",
+      "INDONESIAN": "Dan jangan makanan berminyak, oke?",
+      "PORTUGUESE": "Tampoco deve comer coisas gordurosas ou pesadas.",
+      "SPANISH": "Tampoco debe comer cosas grasosas o pesadas.",
+      "PERSIAN": "و بدون غذای چرب، باشه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Okay...",
+      "CHINESE_SIMPLIFIED": "好的...",
+      "CHINESE_TRADITIONAL": "好的...",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "Oke...",
+      "PORTUGUESE": "Sim…",
+      "SPANISH": "Sí…",
+      "PERSIAN": "باشه..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 근데 쌤 뭐 묻은 거 같은데요 ",
+      "ENGLISH": "Oh! I think you’ve got something on you.",
+      "CHINESE_SIMPLIFIED": "不过医生，您好像沾到了什么东西",
+      "CHINESE_TRADITIONAL": "不過，醫生，您好像沾到了什麼東西",
+      "JAPANESE": "でも先生 なんかついてますよ",
+      "INDONESIAN": "Oh! Kurasa kamu punya sesuatu yang lebih baik darimu.",
+      "PORTUGUESE": "Doutora, acho que algo caiu em...",
+      "SPANISH": "Doctora, creo que algo cayó en...",
+      "PERSIAN": "اوه! من فکر می کنم شما چیزی در سر خود دارید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하! 그러겠죠 ",
+      "ENGLISH": "Ha! Of course I do.",
+      "CHINESE_SIMPLIFIED": "好家伙，果然啊",
+      "CHINESE_TRADITIONAL": "哈！肯定是",
+      "JAPANESE": "はっ! そりゃまあ",
+      "INDONESIAN": "Ha! Tentu saja.",
+      "PORTUGUESE": "Ah... já sei o que quer dizer.",
+      "SPANISH": "Ah... ya sé que quiere decir.",
+      "PERSIAN": "ها! البته من دارم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐, 예쁨..? 그런 거? ",
+      "ENGLISH": "What, like... charm? Beauty?",
+      "CHINESE_SIMPLIFIED": "该不会是想说...沾到了漂亮？",
+      "CHINESE_TRADITIONAL": "該不會，是沾到漂亮…之類的嗎？",
+      "JAPANESE": "なんか…可愛さ? とか?",
+      "INDONESIAN": "Apa, seperti... pesona? Kecantikan?",
+      "PORTUGUESE": "Quer saber se não doeu quando caí do céu?",
+      "SPANISH": "¿Que si no me dolió cuando caí del cielo?",
+      "PERSIAN": "چه چیزی، مانند ... جذابیت؟ زیبایی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 25.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨.. 머리에 먼지가 묻었다고요 ",
+      "ENGLISH": "No... you’ve got dust in your hair.",
+      "CHINESE_SIMPLIFIED": "不是..是说您头发沾到灰尘了",
+      "CHINESE_TRADITIONAL": "不是…我是說您頭上沾到灰塵",
+      "JAPANESE": "違いますよ… 髪にホコリついてますって",
+      "INDONESIAN": "Tidak... ada debu di rambutmu.",
+      "PORTUGUESE": "Não… acho que algo caiu no seu cabelo.",
+      "SPANISH": "No… que creo algo cayó en su cabello.",
+      "PERSIAN": "نه ... تو خاک تو موهات."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어머 진짜네",
+      "ENGLISH": "Oh—you're right!",
+      "CHINESE_SIMPLIFIED": "哦莫，还真是",
+      "CHINESE_TRADITIONAL": "哎呀，真的耶",
+      "JAPANESE": "あ 本当だ",
+      "INDONESIAN": "Oh—kamu benar!",
+      "PORTUGUESE": "Ah... tem razão.",
+      "SPANISH": "Ah... tiene razón.",
+      "PERSIAN": "اوه - حق با شماست!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 네 감사합니다 ",
+      "ENGLISH": "Uh, thanks.",
+      "CHINESE_SIMPLIFIED": "啊，好的，谢谢",
+      "CHINESE_TRADITIONAL": "啊，好的，謝謝",
+      "JAPANESE": "あっ ありがとうございます",
+      "INDONESIAN": "Uh, terima kasih.",
+      "PORTUGUESE": "Bem, obrigada.",
+      "SPANISH": "Pues gracias.",
+      "PERSIAN": "اوه، ممنون"
+    }
+  }
+]

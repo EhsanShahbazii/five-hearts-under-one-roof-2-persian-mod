@@ -1,0 +1,398 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나 안 잔다.",
+      "ENGLISH": "I’m not asleep.",
+      "CHINESE_SIMPLIFIED": "我没睡呢",
+      "CHINESE_TRADITIONAL": "我還沒睡呢",
+      "JAPANESE": "寝てないよ",
+      "INDONESIAN": "Aku belum tidur.",
+      "PORTUGUESE": "Não tô dormindo.",
+      "SPANISH": "No estoy dormida.",
+      "PERSIAN": "من خواب نیستم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 왜 아직 안 자고 있었어.",
+      "ENGLISH": "What? Why are you still up?",
+      "CHINESE_SIMPLIFIED": "怎么你也没睡啊",
+      "CHINESE_TRADITIONAL": "你怎麼還沒睡",
+      "JAPANESE": "なんだ、なんでまだ起きてたの",
+      "INDONESIAN": "Hah? Kenapa kamu masih bangun?",
+      "PORTUGUESE": "O quê? Por que ainda tá acordada?",
+      "SPANISH": "¿Qué? ¿Por qué sigues despierta?",
+      "PERSIAN": "چی؟ چرا هنوز بیدار هستید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너 기다렸지.",
+      "ENGLISH": "I was waiting for you.",
+      "CHINESE_SIMPLIFIED": "在等你嘛",
+      "CHINESE_TRADITIONAL": "在等你嘛",
+      "JAPANESE": "あんたを待ってた",
+      "INDONESIAN": "Aku nungguin kamu.",
+      "PORTUGUESE": "Tava te esperando.",
+      "SPANISH": "Te estaba esperando.",
+      "PERSIAN": "منتظرت بودم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너 씻는다고 물소리 계속 나는데 어떻게 자.",
+      "ENGLISH": "You were in the shower forever—I kept hearing the water. How was I supposed to sleep?",
+      "CHINESE_SIMPLIFIED": "你洗澡水声哗啦啦的，让人怎么睡",
+      "CHINESE_TRADITIONAL": "你洗澡水聲嘩啦嘩啦的，我怎麼睡得著",
+      "JAPANESE": "あんたがシャワー浴びてる音ずっとしてたら寝れないじゃん",
+      "INDONESIAN": "Kamu lama banget mandinya—aku denger air terus. Gimana bisa tidur?",
+      "PORTUGUESE": "Não consegui dormir com o barulho da água enquanto você tomava banho.",
+      "SPANISH": "No podía dormir con el ruido del agua mientras te bañabas",
+      "PERSIAN": "تو برای همیشه زیر دوش بودی - من مدام صدای آب را می شنیدم. چطوری قرار بود بخوابم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 22.21,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 맞다 너 잠귀 밝지.",
+      "ENGLISH": "Ah, right... you’re a light sleeper.",
+      "CHINESE_SIMPLIFIED": "啊~对了，你睡眠挺浅的",
+      "CHINESE_TRADITIONAL": "啊～也是，你睡眠挺淺的吧",
+      "JAPANESE": "あ〜そうだ お前耳がいいんだっけ",
+      "INDONESIAN": "Ah, iya… kamu tidurnya emang gampang kebangun ya.",
+      "PORTUGUESE": "Ah~ é mesmo, você acorda com qualquer som.",
+      "SPANISH": "Ah~ cierto, tú te despiertas con cualquier sonido.",
+      "PERSIAN": "آه، درست است... تو خواب سبکی هستی."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "기억하네?",
+      "ENGLISH": "You remember that?",
+      "CHINESE_SIMPLIFIED": "居然还记得？",
+      "CHINESE_TRADITIONAL": "你還記得啊？",
+      "JAPANESE": "覚えてるの？",
+      "INDONESIAN": "Kamu masih inget itu?",
+      "PORTUGUESE": "Ainda lembra?",
+      "SPANISH": "¿Aún te acuerdas?",
+      "PERSIAN": "یادت میاد؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 27.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 기억하지~",
+      "ENGLISH": "Of course I do~",
+      "CHINESE_SIMPLIFIED": "当然记得啦~",
+      "CHINESE_TRADITIONAL": "當然記得啊～",
+      "JAPANESE": "覚えてるさ〜",
+      "INDONESIAN": "Tentu aja~",
+      "PORTUGUESE": "Claro que lembro~",
+      "SPANISH": "Claro que me acuerdo~",
+      "PERSIAN": "البته من دارم~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "중학교 때 너 거실에 같이 잘 때도 ",
+      "ENGLISH": "Back in middle school, when we crashed in the living room,",
+      "CHINESE_SIMPLIFIED": "初中那会在你家客厅打地铺的时候",
+      "CHINESE_TRADITIONAL": "國中時你跟我一起睡在客廳的時候",
+      "JAPANESE": "中学のとき リビングで一緒に寝てた時も",
+      "INDONESIAN": "Waktu kita masih SMP, pas nginep bareng di ruang tamu,",
+      "PORTUGUESE": "No ensino médio, quando dormíamos na sala,",
+      "SPANISH": "En la secundaria, cuando dormíamos en la sala,",
+      "PERSIAN": "در دوران راهنمایی، وقتی در اتاق نشیمن تصادف کردیم،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 30.2,
+      "HIDE": 32.7
+    },
+    "SCRIPT": {
+      "KOREAN": "조금만 부스럭대도 막 깨고 그랬잖아 ",
+      "ENGLISH": "you’d wake up from even the slightest sound.",
+      "CHINESE_SIMPLIFIED": "我稍微有点动静你就会醒来呢",
+      "CHINESE_TRADITIONAL": "我稍微有點動靜你就會醒來呢",
+      "JAPANESE": "ちょっとガサガサって音しただけで起きてたもんな",
+      "INDONESIAN": "kamu bisa kebangun cuma gara-gara suara kecil banget.",
+      "PORTUGUESE": "você acordava com o menor barulhinho.",
+      "SPANISH": "te despertabas con el más mínimo ruido.",
+      "PERSIAN": "حتی با کوچکترین صدایی از خواب بیدار می شوید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 33.3,
+      "HIDE": 34.8
+    },
+    "SCRIPT": {
+      "KOREAN": "맞다 그랬지",
+      "ENGLISH": "That’s true. I did.",
+      "CHINESE_SIMPLIFIED": "是有这么回事...",
+      "CHINESE_TRADITIONAL": "是那樣沒錯...",
+      "JAPANESE": "うん そうだったね",
+      "INDONESIAN": "Iya, bener juga. Emang gitu.",
+      "PORTUGUESE": "É verdade.",
+      "SPANISH": "Es verdad.",
+      "PERSIAN": "این درست است. من انجام دادم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 35.6,
+      "HIDE": 40.8
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 우리 다시 그때처럼 가끔은 같이 잘까?",
+      "ENGLISH": "Yuman… do you think maybe we could… sleep together again sometime? Like back then?",
+      "CHINESE_SIMPLIFIED": "吴宥万，我们要不要像那时候一样，偶尔一起睡？",
+      "CHINESE_TRADITIONAL": "吳宥萬，我們是不是可以像那時候一樣，偶爾再一起睡覺呢？",
+      "JAPANESE": "ウ・ユマン、またあの頃みたいに たまには一緒に寝る？",
+      "INDONESIAN": "Yuman… menurut kamu, kita bisa… tidur bareng lagi nggak kayak dulu?",
+      "PORTUGUESE": "Yumán, e se a gente voltasse a dormir junto às vezes, como naqueles dias?",
+      "SPANISH": "Yumán, ¿y si volvemos a dormir juntos a veces, como en esos días?",
+      "PERSIAN": "یومان... فکر می کنی شاید بتوانیم... دوباره با هم بخوابیم؟ مثل اون موقع؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 42.1,
+      "HIDE": 44.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐? 같이 자자고?",
+      "ENGLISH": "Wait—what? Sleep together?",
+      "CHINESE_SIMPLIFIED": "什么？一起睡？",
+      "CHINESE_TRADITIONAL": "什麽？一起睡？",
+      "JAPANESE": "は？一緒に寝ようって？",
+      "INDONESIAN": "Eh—tidur bareng?",
+      "PORTUGUESE": "O quê? Dormir junto?",
+      "SPANISH": "¿Qué? ¿Dormir juntos?",
+      "PERSIAN": "صبر کن - چی؟ با هم بخوابیم؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 44.6,
+      "HIDE": 46.8
+    },
+    "SCRIPT": {
+      "KOREAN": "응. 같이. 안 돼?",
+      "ENGLISH": "Yeah. Together. Is that not okay?",
+      "CHINESE_SIMPLIFIED": "嗯，一起睡，不行吗？",
+      "CHINESE_TRADITIONAL": "嗯，一起睡，不行嗎？",
+      "JAPANESE": "うん 一緒に ダメ？",
+      "INDONESIAN": "Iya. Bareng. Emangnya nggak boleh?",
+      "PORTUGUESE": "Sim. Juntos. Por que não?",
+      "SPANISH": "Sí. Juntos. ¿por qué no?",
+      "PERSIAN": "آره با هم. خوب نیست؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 47.3,
+      "HIDE": 48.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 나 남자야",
+      "ENGLISH": "Hey, I’m a guy.",
+      "CHINESE_SIMPLIFIED": "喂，我可是男人",
+      "CHINESE_TRADITIONAL": "喂，我可是男人耶",
+      "JAPANESE": "おい、俺 男だぞ",
+      "INDONESIAN": "Hei, aku ini cowok, lho.",
+      "PORTUGUESE": "Porque eu sou homem.",
+      "SPANISH": "Porque soy un hombre.",
+      "PERSIAN": "هی، من یک پسر هستم."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 48.6,
+      "HIDE": 50.4
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 내가 어떻게 할지 몰라",
+      "ENGLISH": "Even I don’t know what I might do.",
+      "CHINESE_SIMPLIFIED": "我怕我自己把持不住",
+      "CHINESE_TRADITIONAL": "我怕我自己把持不住",
+      "JAPANESE": "俺だって自分がどうなるか分かんねぇよ",
+      "INDONESIAN": "Aku sendiri aja nggak yakin bakal ngapain.",
+      "PORTUGUESE": "Não sei o que poderia acontecer.",
+      "SPANISH": "No sé lo que podría pasar",
+      "PERSIAN": "حتی من نمی دانم چه کاری می توانم انجام دهم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 51.4,
+      "HIDE": 52.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 어쩔 수 없고",
+      "ENGLISH": "Then I guess it can’t be helped.",
+      "CHINESE_SIMPLIFIED": "那就随你便咯",
+      "CHINESE_TRADITIONAL": "那樣的話就沒辦法了",
+      "JAPANESE": "じゃあ仕方ないね",
+      "INDONESIAN": "Kalau gitu ya udah, mau gimana lagi.",
+      "PORTUGUESE": "Deixa acontecer.",
+      "SPANISH": "Solo deja que pase.",
+      "PERSIAN": "سپس حدس می‌زنم که نمی‌توان کمکی کرد."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 53.7,
+      "HIDE": 54.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "…What?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "は？",
+      "INDONESIAN": "…Hah?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "... چی؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 55.9,
+      "HIDE": 57.4
+    },
+    "SCRIPT": {
+      "KOREAN": "야 장난이야~",
+      "ENGLISH": "I’m kidding~",
+      "CHINESE_SIMPLIFIED": "骗你的啦~",
+      "CHINESE_TRADITIONAL": "騙你的啦～",
+      "JAPANESE": "冗談だって〜",
+      "INDONESIAN": "Bercanda~",
+      "PORTUGUESE": "Tô brincando.",
+      "SPANISH": "Estoy bromeando.",
+      "PERSIAN": "شوخی میکنم~"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 57.6,
+      "HIDE": 60.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너 내일 운전도 해야 되잖아 빨리 자.",
+      "ENGLISH": "You have to drive tomorrow, remember? Go get some sleep.",
+      "CHINESE_SIMPLIFIED": "你明天还要开车呢，快睡吧",
+      "CHINESE_TRADITIONAL": "你明天還要開車呢，快睡吧",
+      "JAPANESE": "明日運転するんでしょ、早く寝ないと",
+      "INDONESIAN": "Kamu harus nyetir besok, inget kan? Sana, tidur dulu.",
+      "PORTUGUESE": "Você tem que dirigir amanhã, então dorme logo.",
+      "SPANISH": "Tienes que conducir mañana, así que duerme ya.",
+      "PERSIAN": "فردا باید رانندگی کنی، یادت هست؟ برو بخواب"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 60.2,
+      "HIDE": 60.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래...",
+      "ENGLISH": "Yeah, you’re right...",
+      "CHINESE_SIMPLIFIED": "好吧...",
+      "CHINESE_TRADITIONAL": "好吧...",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "Iya, iya...",
+      "PORTUGUESE": "Tá bom...",
+      "SPANISH": "Está bien...",
+      "PERSIAN": "آره راست میگی..."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 61.0,
+      "HIDE": 62.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 자 말숙아.",
+      "ENGLISH": "Good night, Mal-sook.",
+      "CHINESE_SIMPLIFIED": "晚安啦，末淑",
+      "CHINESE_TRADITIONAL": "晚安啦，末淑",
+      "JAPANESE": "おやすみ、マルスク",
+      "INDONESIAN": "Selamat tidur, Mal-sook.",
+      "PORTUGUESE": "Dorme bem, Malsook.",
+      "SPANISH": "Descansa, Malsook.",
+      "PERSIAN": "شب بخیر، مال‌سوک."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 62.1,
+      "HIDE": 63.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너두.",
+      "ENGLISH": "You too.",
+      "CHINESE_SIMPLIFIED": "你也是",
+      "CHINESE_TRADITIONAL": "你也是",
+      "JAPANESE": "あんたもね",
+      "INDONESIAN": "Kamu juga.",
+      "PORTUGUESE": "Você também.",
+      "SPANISH": "Tú también.",
+      "PERSIAN": "شما هم همینطور"
+    }
+  }
+]

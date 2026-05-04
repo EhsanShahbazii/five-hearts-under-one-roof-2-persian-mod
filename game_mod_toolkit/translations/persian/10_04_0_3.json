@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 다 나았죠! 이제 다리뼈도 다 붙었고",
+      "ENGLISH": "I'm all better now! My leg bone has healed completely,",
+      "CHINESE_SIMPLIFIED": "我都好了！腿骨也完全愈合了",
+      "CHINESE_TRADITIONAL": "我完全康復了！腿骨也完全癒合了！",
+      "JAPANESE": "もうすっかり治りました！ 足の骨もくっついたし",
+      "INDONESIAN": "Aku udah sembuh total! Tulang kaki juga udah nyambung semua",
+      "PORTUGUESE": "Já tô bem! Minha perna sarou completamente.",
+      "SPANISH": "¡Ya estoy bien! Mi pierna sanó por completo.",
+      "PERSIAN": "الان حالم خیلی بهتره! استخوان پایم کاملاً خوب شده،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오히려 푹 쉰 덕에 몸이 전보다 좋아진 것 같기도 해요",
+      "ENGLISH": "and honestly, I feel even better than before thanks to all that rest.",
+      "CHINESE_SIMPLIFIED": "反而因为好好休息，身体比以前更好了呢",
+      "CHINESE_TRADITIONAL": "反而因為好好休息的關係，身體狀況比以前更好了",
+      "JAPANESE": "むしろゆっくり休めたおかげで前より元気になった気がします",
+      "INDONESIAN": "Malah karena banyak istirahat badanku kayaknya jadi lebih sehat dari sebelumnya",
+      "PORTUGUESE": "Na verdade, acho que graças ao descanso meu corpo tá até melhor do que antes.",
+      "SPANISH": "De hecho, creo que gracias al descanso mi cuerpo está mejor que antes.",
+      "PERSIAN": "و راستش را بخواهید، به لطف اون همه استراحت، حالم حتی از قبل هم بهتر است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요? 다행이다",
+      "ENGLISH": "Really? That's such a relief.",
+      "CHINESE_SIMPLIFIED": "真的吗？那太好了",
+      "CHINESE_TRADITIONAL": "真的嗎？那太好了！",
+      "JAPANESE": "本当ですか？ よかった！",
+      "INDONESIAN": "Serius? Syukurlah",
+      "PORTUGUESE": "Sério? Que alívio.",
+      "SPANISH": "¿De verdad? Qué alivio.",
+      "PERSIAN": "واقعاً؟ این خیلی آرامش‌بخشه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네 이제 드디어 지겨운 병원 생활도 안녕인 거죠~",
+      "ENGLISH": "Yes! Finally, I can say goodbye to that tedious hospital life~",
+      "CHINESE_SIMPLIFIED": "嗯，现在终于可以和无聊的医院生活说再见啦~",
+      "CHINESE_TRADITIONAL": "嗯，現在終於可以和無聊的醫院生活說再見啦～",
+      "JAPANESE": "はい、やっと長かった入院生活ともお別れです〜",
+      "INDONESIAN": "Iya akhirnya bisa bilang selamat tinggal ke kehidupan rumah sakit yang ngebosenin ini~",
+      "PORTUGUESE": "Sim, finalmente posso dar adeus a essa vida entediante no hospital~",
+      "SPANISH": "Sí, por fin puedo decirle adiós a esta aburrida vida en el hospital~",
+      "PERSIAN": "بله! بالاخره، می‌تونم با اون زندگی خسته‌کننده‌ی بیمارستان خداحافظی کنم~"
+    }
+  }
+]

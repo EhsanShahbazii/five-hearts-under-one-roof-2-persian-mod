@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 종아리 마사지 좀 해드릴까요?",
+      "ENGLISH": "Want me to give your calf a little massage?",
+      "CHINESE_SIMPLIFIED": "我帮你按摩一下小腿吧？",
+      "CHINESE_TRADITIONAL": "我可以幫你按一下小腿嗎？",
+      "JAPANESE": "俺がふくらはぎのマッサージしてあげましょうか？",
+      "INDONESIAN": "Mau aku pijetin betismu sedikit?",
+      "PORTUGUESE": "Quer que eu faça uma massagem na panturrilha?",
+      "SPANISH": "¿Quiere que le dé un masaje en la pantorrilla?",
+      "PERSIAN": "می‌خوای ساق پات را کمی ماساژ بدهم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 유만 씨 마사지 잘해요?",
+      "ENGLISH": "Wait—are you actually good at massages, Yuman?",
+      "CHINESE_SIMPLIFIED": "不过，宥万先生按摩技术好吗？",
+      "CHINESE_TRADITIONAL": "不過，宥萬先生你很會按摩嗎？",
+      "JAPANESE": "でもユマンさん、マッサージ上手なんですか？",
+      "INDONESIAN": "Eh—emang kamu jago mijet, Yuman?",
+      "PORTUGUESE": "Mas você é bom em massagem, Yumán?",
+      "SPANISH": "¿Pero es bueno dando masajes, Yumán?",
+      "PERSIAN": "صبر کن - تو واقعاً در ماساژ خوب هستی، یومان؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아유, 깜짝 놀라실 걸요?",
+      "ENGLISH": "Oh, you’re gonna be seriously impressed.",
+      "CHINESE_SIMPLIFIED": "哎呦，您就等着大吃一惊吧~",
+      "CHINESE_TRADITIONAL": "你可能會嚇一跳喔！",
+      "JAPANESE": "あーもう、びっくりしますよ？",
+      "INDONESIAN": "Oh, kamu bakal takjub banget nanti.",
+      "PORTUGUESE": "Ah, você vai se surpreender~",
+      "SPANISH": "Uy, se va a sorprender~",
+      "PERSIAN": "اوه، شما به طور جدی تحت تاثیر قرار خواهید گرفت."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 자신감~",
+      "ENGLISH": "Ooh~ look at that confidence.",
+      "CHINESE_SIMPLIFIED": "哦~这么有信心~",
+      "CHINESE_TRADITIONAL": "喔～聽起來很有自信喔～",
+      "JAPANESE": "おっ、自信ありげ〜",
+      "INDONESIAN": "Ooh~ pede banget, ya.",
+      "PORTUGUESE": "Oh~ tá confiante, hein?",
+      "SPANISH": "Oh~ mucha confianza, ¿eh?",
+      "PERSIAN": "اوه~ به این اعتماد به نفس نگاه کن."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서, 그래서 어떻게 풀어 줄 건데요?",
+      "ENGLISH": "So then? What’s your secret move, huh?",
+      "CHINESE_SIMPLIFIED": "那...那你打算怎么帮我放松呢？",
+      "CHINESE_TRADITIONAL": "你打算要怎麼幫我放鬆呢？",
+      "JAPANESE": "で、で、どうやってほぐしてくれるんですか？",
+      "INDONESIAN": "Terus? Jurus andalanmu apa, hmm?",
+      "PORTUGUESE": "Então me diga, como pretende aliviar isso?",
+      "SPANISH": "Entonces dígame, ¿cómo piensas aliviarlo?",
+      "PERSIAN": "پس پس؟ حرکت مخفی شما چیه، ها؟"
+    }
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아마 왼쪽일 거예요.",
+      "ENGLISH": "It’s probably this way—on the left.",
+      "CHINESE_SIMPLIFIED": "应该是左边吧",
+      "CHINESE_TRADITIONAL": "應該是左邊吧",
+      "JAPANESE": "たぶん左の方ですね",
+      "INDONESIAN": "Kayaknya lewat sini deh—ke kiri.",
+      "PORTUGUESE": "Deve ser pela esquerda.",
+      "SPANISH": "Debe ser a la izquierda.",
+      "PERSIAN": "احتمالاً به این صورت است - در سمت چپ."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왼쪽이요?",
+      "ENGLISH": "The left?",
+      "CHINESE_SIMPLIFIED": "左边？",
+      "CHINESE_TRADITIONAL": "左邊嗎？",
+      "JAPANESE": "左ですか？",
+      "INDONESIAN": "Ke kiri?",
+      "PORTUGUESE": "Pela esquerda?",
+      "SPANISH": "¿A la izquierda?",
+      "PERSIAN": "چپ؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "是的",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "왁!",
+      "ENGLISH": "WAAH!",
+      "CHINESE_SIMPLIFIED": "哇啊！",
+      "CHINESE_TRADITIONAL": "嚇！",
+      "JAPANESE": "わっ！",
+      "INDONESIAN": "WAAH!",
+      "PORTUGUESE": "Wah!",
+      "SPANISH": "¡Wah!",
+      "PERSIAN": "واه!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "으아아...깜짝이야",
+      "ENGLISH": "Aaaaah! You scared me!",
+      "CHINESE_SIMPLIFIED": "啊啊啊...吓死我了！",
+      "CHINESE_TRADITIONAL": "呃啊啊啊...嚇死我了",
+      "JAPANESE": "うわぁ…びっくりした",
+      "INDONESIAN": "Aaaaah! Bikin kaget aja!",
+      "PORTUGUESE": "Aaah! Que susto...",
+      "SPANISH": "¡Aaah! Qué susto...",
+      "PERSIAN": "آاااا! تو منو ترسوندی!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아하하, 왜 이렇게 놀래요?",
+      "ENGLISH": "Ahaha, why are you so jumpy?",
+      "CHINESE_SIMPLIFIED": "哈哈哈，你怎么这么容易被吓到啊？",
+      "CHINESE_TRADITIONAL": "哈哈哈，你太容易被嚇到了吧",
+      "JAPANESE": "あはは、そんなに驚かなくても〜",
+      "INDONESIAN": "Ahaha, kenapa sih kamu gampang kaget gitu?",
+      "PORTUGUESE": "Hahaha, por que você se assusta tanto?",
+      "SPANISH": "Jajaja, ¿por qué te asustas tanto?",
+      "PERSIAN": "آهاااا چرا اینقدر پرت شدی"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 하는데 어떻게 안 놀래요...",
+      "ENGLISH": "How could I not be?! You startled me like that!",
+      "CHINESE_SIMPLIFIED": "你突然叫一声谁能不被吓到...",
+      "CHINESE_TRADITIONAL": "你那樣突然出現，我怎麼可能不嚇到…",
+      "JAPANESE": "そんな風にされたら驚くに決まってるでしょ…",
+      "INDONESIAN": "Ya gimana nggak?! Kamu ngagetin gitu tadi!",
+      "PORTUGUESE": "Como eu não vou me assustar com isso!",
+      "SPANISH": "¡Cómo no me voy a asustar con eso!",
+      "PERSIAN": "چطور میتونستم نباشم؟! اینطوری مرا غافلگیر کردی!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 웃기다니깐",
+      "ENGLISH": "God, that was hilarious.",
+      "CHINESE_SIMPLIFIED": "啊真的太好笑了~",
+      "CHINESE_TRADITIONAL": "啊，快笑死我了",
+      "JAPANESE": "あ〜ほんと笑える",
+      "INDONESIAN": "Ya ampun, lucu banget reaksimu.",
+      "PORTUGUESE": "Ai, que engraçado.",
+      "SPANISH": "Ay qué gracioso.",
+      "PERSIAN": "خداییش خنده دار بود"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "한 번만 더 그러면...",
+      "ENGLISH": "One more time and…",
+      "CHINESE_SIMPLIFIED": "要是再敢来一次...",
+      "CHINESE_TRADITIONAL": "你再這樣的話",
+      "JAPANESE": "もう一回やったら…",
+      "INDONESIAN": "Sekali lagi terus…",
+      "PORTUGUESE": "Não volte a fazer isso...",
+      "SPANISH": "No vuelves a hacer eso...",
+      "PERSIAN": "یک بار دیگر و…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "전, 반사적으로 주먹 나갈지도 몰라요.",
+      "ENGLISH": "I swear, I might reflexively throw a punch.",
+      "CHINESE_SIMPLIFIED": "我可能会下意识出拳的",
+      "CHINESE_TRADITIONAL": "我可能會反射性地揮拳喔",
+      "JAPANESE": "俺、反射的に拳出ちゃうかもしれないですよ",
+      "INDONESIAN": "Sumpah, bisa-bisa reflek aku nonjok lho.",
+      "PORTUGUESE": "ou eu poderia te machucar sem querer.",
+      "SPANISH": "o podría golpearte sin querer.",
+      "PERSIAN": "سوگند می خورم، ممکنه به طور بازتابی مشتی پرتاب کنم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "방금 무슨 소리 들리지 않았어요?",
+      "ENGLISH": "…Did you hear that just now?",
+      "CHINESE_SIMPLIFIED": "刚才没听到什么声音吗？",
+      "CHINESE_TRADITIONAL": "剛剛是不是有聽到什麼聲音？",
+      "JAPANESE": "今、なんか音しませんでした？",
+      "INDONESIAN": "…Kamu denger suara barusan nggak?",
+      "PORTUGUESE": "Você não ouviu algo agora?",
+      "SPANISH": "¿No escuchaste algo justo ahora?",
+      "PERSIAN": "... همین الان شنیدی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 또 놀래키려고?",
+      "ENGLISH": "Oh come on~ Trying to scare me again?",
+      "CHINESE_SIMPLIFIED": "哎~又想吓唬我？",
+      "CHINESE_TRADITIONAL": "欸～又想嚇我嗎？",
+      "JAPANESE": "え〜また驚かせようとしてるでしょ？",
+      "INDONESIAN": "Ayolah~ Mau nakut-nakutin aku lagi ya?",
+      "PORTUGUESE": "Você tá tentando me assustar de novo?",
+      "SPANISH": "¿Otra vez intentas asustarme?",
+      "PERSIAN": "اوه بیا ~ دوباره می خواهی مرا بترسانی؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이젠 안통해요~",
+      "ENGLISH": "Not falling for it this time~",
+      "CHINESE_SIMPLIFIED": "这招已经不管用啦~",
+      "CHINESE_TRADITIONAL": "這次我不會上當了～",
+      "JAPANESE": "もう通じませんって〜",
+      "INDONESIAN": "Nggak bakal kena kali ini~",
+      "PORTUGUESE": "Não vou cair de novo~",
+      "SPANISH": "No voy a caer otra vez~",
+      "PERSIAN": "این بار دلتنگش نیستم~"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 23.2,
+      "HIDE": 24.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저 분명 주먹 나간다고 했어요.",
+      "ENGLISH": "I did say I might punch, remember?",
+      "CHINESE_SIMPLIFIED": "我说了我可能会出拳的哦",
+      "CHINESE_TRADITIONAL": "我可是說過，我真的會揮拳喔！",
+      "JAPANESE": "さっき言いましたよね？殴っちゃうかもって",
+      "INDONESIAN": "Tapi tadi aku udah bilang bisa-bisa nonjok lho.",
+      "PORTUGUESE": "Eu disse que poderia te machucar.",
+      "SPANISH": "Te dije que podría golpearte.",
+      "PERSIAN": "گفتم ممکنه مشت بزنم، یادت هست؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 26.4
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍...",
+      "ENGLISH": "Tsk…",
+      "CHINESE_SIMPLIFIED": "嘶...",
+      "CHINESE_TRADITIONAL": "嘶呃...",
+      "JAPANESE": "しーっ…",
+      "INDONESIAN": "Tsk…",
+      "PORTUGUESE": "Pss...",
+      "SPANISH": "Pss...",
+      "PERSIAN": "تسک…"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어머!",
+      "ENGLISH": "Oh—!",
+      "CHINESE_SIMPLIFIED": "天啊！",
+      "CHINESE_TRADITIONAL": "搞什麼！",
+      "JAPANESE": "えっ！",
+      "INDONESIAN": "Oh—!",
+      "PORTUGUESE": "Ai, meu Deus!",
+      "SPANISH": "¡Ay, Dios!",
+      "PERSIAN": "اوه -!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 28.69
+    },
+    "SCRIPT": {
+      "KOREAN": "으어어아아아!!!!",
+      "ENGLISH": "WAAAAHHHH!!!",
+      "CHINESE_SIMPLIFIED": "呜呜啊啊啊啊啊！！！",
+      "CHINESE_TRADITIONAL": "呃啊啊啊啊啊啊！！！！",
+      "JAPANESE": "うわぁあああああ！！",
+      "INDONESIAN": "WAAAAHHHH!!!",
+      "PORTUGUESE": "Aaaahhh!!!",
+      "SPANISH": "¡¡¡Aaaahhh!!!",
+      "PERSIAN": "واااااااااااااااااااااا!!!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 28.7,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "- 으어어아아아!!!!\n- 아! 같이 가요...!",
+      "ENGLISH": "WAAAAHHHH!!!\nWait! Don’t leave me!!",
+      "CHINESE_SIMPLIFIED": "-呜呜啊啊啊啊啊！！！\n-啊！一起走啊...！",
+      "CHINESE_TRADITIONAL": "欸！一起走啊...！",
+      "JAPANESE": "あ！一緒に行きましょうよ〜！",
+      "INDONESIAN": "WAAAAHHHH!!!\nTunggu! Jangan tinggalin aku!!",
+      "PORTUGUESE": "Ah! Espera, vamos juntos...!",
+      "SPANISH": "¡Ah! ¡Espera, vamos juntos...!",
+      "PERSIAN": "واااااااااااااااااااااا!!! صبر کن ترکم نکن!!"
+    }
+  }
+]

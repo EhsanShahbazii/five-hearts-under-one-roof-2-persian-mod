@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 척추가 너무 말리신 거 같은데 좀 세울까요?",
+      "ENGLISH": "Uh… it looks like your spine is curving too much. Should we straighten it a bit?",
+      "CHINESE_SIMPLIFIED": "呃...背好像有点太弯了，要挺直一点吗？",
+      "CHINESE_TRADITIONAL": "喔... 你的脊椎好像彎曲得太厲害了，再挺直一點？",
+      "JAPANESE": "うーん…背骨がちょっと丸まってますね、少し起こしてみましょうか",
+      "INDONESIAN": "Uh… kayaknya tulang punggungmu agak terlalu melengkung. Kita lurusin sedikit coba?",
+      "PORTUGUESE": "Hmm… está curvando demais as costas, por que não endireita um pouco?",
+      "SPANISH": "Eh… está encorvando demasiado la espalda, ¿por qué no la endereza un poco?",
+      "PERSIAN": "اوه ... به نظر می رسد ستون فقرات شما بیش از حد خمیده است. باید کمی اونو صاف کنیم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게?",
+      "ENGLISH": "Like this?",
+      "CHINESE_SIMPLIFIED": "这样？",
+      "CHINESE_TRADITIONAL": "這樣嗎？",
+      "JAPANESE": "こう？",
+      "INDONESIAN": "Kayak gini?",
+      "PORTUGUESE": "Assim?",
+      "SPANISH": "¿Así?",
+      "PERSIAN": "اینجوری؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 상체를 너무 세우면 무릎에 무리 갈 수 있거든요.",
+      "ENGLISH": "Ah… if you straighten your upper body too much, it could strain your knees.",
+      "CHINESE_SIMPLIFIED": "啊...上半身太挺直的话，膝盖会容易受伤的",
+      "CHINESE_TRADITIONAL": "啊... 上半身挺太直的話，膝蓋可能會受傷",
+      "JAPANESE": "あ、でも上体を起こしすぎると膝に負担がかかりますよ",
+      "INDONESIAN": "Ah… tapi kalau badan bagian atasnya terlalu dilurusin, nanti malah bikin lutut tegang.",
+      "PORTUGUESE": "Ah… mas se endireitar demais o tronco, vai forçar os joelhos.",
+      "SPANISH": "Ah… pero si endereza demasiado el torso, va a forzar las rodillas.",
+      "PERSIAN": "آه... اگر بالاتنه خود را بیش از حد صاف کنید، ممکنه به زانوهایتان فشار وارد شود."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 10.19
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어",
+      "ENGLISH": "Got it.",
+      "CHINESE_SIMPLIFIED": "知道了",
+      "CHINESE_TRADITIONAL": "知道了",
+      "JAPANESE": "わかった",
+      "INDONESIAN": "Siap, ngerti.",
+      "PORTUGUESE": "Entendido.",
+      "SPANISH": "Entendido.",
+      "PERSIAN": "متوجه شدم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 근데 너무 숙인 거 같아 좀 세울게요",
+      "ENGLISH": "Ah, but it’s leaning too far forward, so let’s straighten a bit.",
+      "CHINESE_SIMPLIFIED": "啊，不过好像弯得太过了，再挺直点",
+      "CHINESE_TRADITIONAL": "啊，可是這樣好像又太彎了，再挺直一點",
+      "JAPANESE": "あ、でも今度は前に倒れすぎました　ちょっと起こして",
+      "INDONESIAN": "Ah, tapi ini condong ke depan terlalu jauh, yuk kita lurusin dikit.",
+      "PORTUGUESE": "Ah, agora você se inclinou demais, endireita o corpo.",
+      "SPANISH": "Ah,ahora se inclinó demasiado, enderécese.",
+      "PERSIAN": "آه، اما خیلی به جلو خم شده است، پس بیایید کمی صاف شویم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 너무 세웠다 조금 숙일게요",
+      "ENGLISH": "Ah, that’s too much—let’s lean a little.",
+      "CHINESE_SIMPLIFIED": "啊，太直了，稍微弯一点",
+      "CHINESE_TRADITIONAL": "啊，這樣宥挺太直了，再彎下一點",
+      "JAPANESE": "あ、起こしすぎた　もう少しだけ前に",
+      "INDONESIAN": "Ah, itu kebanyakan...condongin dikit aja.",
+      "PORTUGUESE": "Ah, endireitei muito… vou abaixar um pouco.",
+      "SPANISH": "Ah, la enderecé mucho… voy a bajarla un poco.",
+      "PERSIAN": "آه، این خیلی زیاد است - بیایید کمی متمایل شویم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 조금만 더 세우면 될 거 같은데...",
+      "ENGLISH": "Hmm, I think just a slight straightening will do.",
+      "CHINESE_SIMPLIFIED": "啊，好像再挺直一点点就好了...",
+      "CHINESE_TRADITIONAL": "啊，好像再挺直一點點就可以了...",
+      "JAPANESE": "うーん…もう少しだけ起こしたらよさそう…",
+      "INDONESIAN": "Hmm, lurusin sedikit aja udah cukup kok.",
+      "PORTUGUESE": "Hmm… talvez só um pouquinho mais ereta...",
+      "SPANISH": "Mmm… tal vez solo un poco más erguida…",
+      "PERSIAN": "هوم، من فکر می کنم فقط یک صاف کردن جزئی می تواند مفید باشد."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 제대로 봐주고 있는 거 맞아?",
+      "ENGLISH": "Yuman, you’re watching closely, right?",
+      "CHINESE_SIMPLIFIED": "你确定有在认真指导我吗？",
+      "CHINESE_TRADITIONAL": "宥萬你真的有好好在教我嗎？",
+      "JAPANESE": "ユマンさん、ちゃんと見てる？",
+      "INDONESIAN": "Yuman, kamu perhatiin aku baik-baik, kan?",
+      "PORTUGUESE": "Yuman, está supervisionando direito?",
+      "SPANISH": "¿Yumán, estás supervisando bien?",
+      "PERSIAN": "یومان، شما از نزدیک تماشا می کنید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네 맞는데요.",
+      "ENGLISH": "Yes, I am.",
+      "CHINESE_SIMPLIFIED": "当然有啊",
+      "CHINESE_TRADITIONAL": "有啊～？",
+      "JAPANESE": "見てますけど",
+      "INDONESIAN": "Iya, aku perhatiin.",
+      "PORTUGUESE": "Sim, claro que sim.",
+      "SPANISH": "Sí, claro que sí.",
+      "PERSIAN": "بله، من هستم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 이만할래. 가자",
+      "ENGLISH": "Alright, that’s enough for today. Let’s wrap it up.",
+      "CHINESE_SIMPLIFIED": "今天先练到这儿吧，走吧",
+      "CHINESE_TRADITIONAL": "今天就到這裡，回去吧",
+      "JAPANESE": "今日はもう終わり　帰ろう",
+      "INDONESIAN": "Oke, cukup dulu untuk hari ini. Kita udahan ya.",
+      "PORTUGUESE": "Por hoje é suficiente. Vamos.",
+      "SPANISH": "Por hoy es suficiente. Vámonos.",
+      "PERSIAN": "خوب، برای امروز کافی است. بیایید اونو جمع بندی کنیم."
+    }
+  }
+]

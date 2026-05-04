@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "누구세요?",
+      "ENGLISH": "Whoa—who are you?",
+      "CHINESE_SIMPLIFIED": "您哪位啊？",
+      "CHINESE_TRADITIONAL": "是哪一位呢？",
+      "JAPANESE": "どなたですか？",
+      "INDONESIAN": "Wah—siapa kamu?",
+      "PORTUGUESE": "Eu a conheço?",
+      "SPANISH": "¿La conozco?",
+      "PERSIAN": "اوه-تو کی هستی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어우 하마터면 규리 쌤 못 알아볼 뻔했어요!",
+      "ENGLISH": "Wow, I almost didn’t recognize you, Nurse Gyu-ri!",
+      "CHINESE_SIMPLIFIED": "哎哟，差点没认出久梨小姐！",
+      "CHINESE_TRADITIONAL": "啊啊，我差點沒認出久梨小姐",
+      "JAPANESE": "うわっ、危うくギュリ先生だって気づかないところでした！",
+      "INDONESIAN": "Wow, aku sampai nggak ngenalin, Suster Gyu-ri!",
+      "PORTUGUESE": "Ufa, quase não te reconheci, enfermeira Gyuri!",
+      "SPANISH": "¡Uf, casi no la reconozco, enfermera Gyuri!",
+      "PERSIAN": "وای، من تقریباً شما را نشناختم، پرستار گیو ری!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 사복 입은 거 너무 예쁘니깐",
+      "ENGLISH": "I mean, you look so good in regular clothes!",
+      "CHINESE_SIMPLIFIED": "主要是穿私服实在太漂亮了",
+      "CHINESE_TRADITIONAL": "你穿便服也太漂亮了吧！",
+      "JAPANESE": "いや、私服の先生、めっちゃ可愛いじゃないですか！",
+      "INDONESIAN": "Maksudku, kamu keliatan keren banget pakai baju biasa!",
+      "PORTUGUESE": "É que você fica tão bonita com roupa normal.",
+      "SPANISH": "Es que se ve tan linda con ropa normal.",
+      "PERSIAN": "یعنی تو با لباس معمولی خیلی خوب به نظر میرسی!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐예요~",
+      "ENGLISH": "Oh, stop it~",
+      "CHINESE_SIMPLIFIED": "哎呀哪有啦~",
+      "CHINESE_TRADITIONAL": "啊，幹嘛這樣～",
+      "JAPANESE": "なに言ってるんですか〜！",
+      "INDONESIAN": "Ah, udah deh~",
+      "PORTUGUESE": "Ai, para com isso~!",
+      "SPANISH": "¡Ay, ya basta~!",
+      "PERSIAN": "اوه بس کن~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "간호사 복이랑은 또 느낌이 완전 다른데 ",
+      "ENGLISH": "It’s such a different vibe from your nurse uniform.",
+      "CHINESE_SIMPLIFIED": "和护士服的感觉完全不一样呢",
+      "CHINESE_TRADITIONAL": "跟護士服的感覺完全不一樣耶！",
+      "JAPANESE": "ナース服の時とはまた全然違う雰囲気で…",
+      "INDONESIAN": "Vibenya beda banget sama pas kamu pakai seragam suster.",
+      "PORTUGUESE": "É que é bem diferente te ver sem o uniforme.",
+      "SPANISH": "Es que se siente muy distinto verla sin el uniforme.",
+      "PERSIAN": "این حال و هوای بسیار متفاوتی با لباس پرستار شما دارد."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우와, 사복 입은 것도 너무 예쁘세요!",
+      "ENGLISH": "Seriously, you look amazing!",
+      "CHINESE_SIMPLIFIED": "哇，您穿私服也超级漂亮！",
+      "CHINESE_TRADITIONAL": "哇，你穿便服也超漂亮的！",
+      "JAPANESE": "うわぁ、私服姿も本当に綺麗ですね！",
+      "INDONESIAN": "Serius, kamu kelihatan cantik banget!",
+      "PORTUGUESE": "Uau, você fica linda com roupa casual também!",
+      "SPANISH": "Wow, ¡se ves preciosa con ropa casual también!",
+      "PERSIAN": "جدی، شما شگفت انگیز به نظر می رسید!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요 유만 씨!",
+      "ENGLISH": "Thanks, Yuman!",
+      "CHINESE_SIMPLIFIED": "谢谢您，宥万先生！",
+      "CHINESE_TRADITIONAL": "謝謝你，宥萬先生！",
+      "JAPANESE": "ありがと、ユマンさん！",
+      "INDONESIAN": "Makasih, Yuman!",
+      "PORTUGUESE": "Obrigada, senhor Yumán.",
+      "SPANISH": "Gracias, señor Yumán.",
+      "PERSIAN": "ممنونم، یومان!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 뭘요~",
+      "ENGLISH": "Oh come on~ it’s nothing!",
+      "CHINESE_SIMPLIFIED": "哎呀，哪里哪里～",
+      "CHINESE_TRADITIONAL": "哎，沒什麼啦～",
+      "JAPANESE": "いや、そんな〜！",
+      "INDONESIAN": "Aduh~ biasa aja kali!",
+      "PORTUGUESE": "Ah, que isso~",
+      "SPANISH": "Ay, no es nada~",
+      "PERSIAN": "اوه بیا ~ چیزی نیست!"
+    }
+  }
+]

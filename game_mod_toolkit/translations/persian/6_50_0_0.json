@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님...",
+      "ENGLISH": "Min-jung…",
+      "CHINESE_SIMPLIFIED": "敏静小姐...",
+      "CHINESE_TRADITIONAL": "敏靜...",
+      "JAPANESE": "ミンジョンさん…",
+      "INDONESIAN": "Min-jung…",
+      "PORTUGUESE": "Minjung…",
+      "SPANISH": "Minjung…",
+      "PERSIAN": "مین‌جونگ…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 오빠 왔어요?",
+      "ENGLISH": "Oh, oppa — you’re here?",
+      "CHINESE_SIMPLIFIED": "啊，哥哥你来了？",
+      "CHINESE_TRADITIONAL": "啊，哥哥你來了？",
+      "JAPANESE": "あ、来てくれたの？",
+      "INDONESIAN": "Oh, oppa — kamu datang?",
+      "PORTUGUESE": "Oppa, você já chegou.",
+      "SPANISH": "Oppa, ya llegaste.",
+      "PERSIAN": "اوه یومان - تو اینجایی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "울어요? 아 왜~",
+      "ENGLISH": "Are you crying? Why~",
+      "CHINESE_SIMPLIFIED": "你在哭吗？哎呀怎么啦~",
+      "CHINESE_TRADITIONAL": "妳哭了？ 為什麼～",
+      "JAPANESE": "泣いてるんですか？ どうして〜",
+      "INDONESIAN": "Kamu nangis ya? Kenapa~",
+      "PORTUGUESE": "Tá chorando? O que aconteceu?",
+      "SPANISH": "¿Estás llorando? ¿qué pasa?",
+      "PERSIAN": "داری گریه می کنی؟ چرا~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "슬퍼서 우는 건 아니구",
+      "ENGLISH": "It’s not because I’m sad.",
+      "CHINESE_SIMPLIFIED": "不是因为伤心才哭的",
+      "CHINESE_TRADITIONAL": "不是因為難過才哭的",
+      "JAPANESE": "悲しくて泣いてるわけじゃなくて",
+      "INDONESIAN": "Bukan karena aku sedih.",
+      "PORTUGUESE": "Não tô chorando porque tô triste.",
+      "SPANISH": "No lloro porque esté triste.",
+      "PERSIAN": "دلیلش این نیست که من غمگینم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 여기 앉아요.",
+      "ENGLISH": "Oppa, sit here.",
+      "CHINESE_SIMPLIFIED": "哥哥，你坐这儿吧",
+      "CHINESE_TRADITIONAL": "哥哥，你做這裡吧",
+      "JAPANESE": "お兄さん、ここ座って",
+      "INDONESIAN": "Oppa, duduk di sini, deh.",
+      "PORTUGUESE": "Senta aqui, oppa.",
+      "SPANISH": "Siéntate aquí, oppa.",
+      "PERSIAN": "یومان، اینجا بشین"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 이제 괜찮은 줄 알았는데 뭐가 더 있는 거예요?",
+      "ENGLISH": "I thought you were okay now — is something else bothering you?",
+      "CHINESE_SIMPLIFIED": "我还以为你已经没事了，是又出了什么事吗？",
+      "CHINESE_TRADITIONAL": "我以為妳已經沒事了，又出了什麼事情嗎？",
+      "JAPANESE": "もう大丈夫かと思ってたけど、まだ何かあったんですか？",
+      "INDONESIAN": "Kupikir kamu udah baikan — emangnya ada yang ngegangguin lagi?",
+      "PORTUGUESE": "Achei que você já tava melhor… aconteceu mais alguma coisa?",
+      "SPANISH": "Pensé que ya estabas mejor… ¿pasa algo más?",
+      "PERSIAN": "فکر کردم الان خوب هستی - چیز دیگری اذیتت می کند؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니~ 그냥 끝났다고 생각하니까 속이 후련하기도 하고",
+      "ENGLISH": "No~ It’s just… now that it’s really over, I feel relieved,",
+      "CHINESE_SIMPLIFIED": "没有啦~ 只是觉得一切终于结束了，心里一下子畅快了",
+      "CHINESE_TRADITIONAL": "沒有啦～只是覺得一切終於結束，心裡也覺得舒服多了",
+      "JAPANESE": "ううん〜 ただ、終わったんだなって思ったらなんかホッとして",
+      "INDONESIAN": "Nggak~ Cuma… sekarang semuanya beneran udah selesai, aku ngerasa lega,",
+      "PORTUGUESE": "Não~ é só que, agora que tudo acabou, eu tô aliviada…",
+      "SPANISH": "No~ es solo que, ahora que todo terminó, estoy aliviada…",
+      "PERSIAN": "نه ~ فقط... حالا که واقعاً تمام شده، احساس آرامش می کنم،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그동안 고생한 게 생각나서",
+      "ENGLISH": "but I also started thinking about everything I went through.",
+      "CHINESE_SIMPLIFIED": "然后又想到之前受的苦就...",
+      "CHINESE_TRADITIONAL": "不過又想到這段時間受的苦就...",
+      "JAPANESE": "これまでのこととかいろいろ思い出しちゃって",
+      "INDONESIAN": "tapi jadi kepikiran lagi semua yang udah aku lewatin.",
+      "PORTUGUESE": "e fico pensando em todos os momentos difíceis...",
+      "SPANISH": "y pienso en todos los momentos difíciles...",
+      "PERSIAN": "اما من همچنین شروع کردم به فکر کردن به همه چیزهایی که از سر گذراندم."
+    }
+  }
+]

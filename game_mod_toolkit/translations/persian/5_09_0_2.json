@@ -1,0 +1,356 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왼쪽이 맞는 것 같아요.",
+      "ENGLISH": "I think it’s this way—left.",
+      "CHINESE_SIMPLIFIED": "好像是左边没错",
+      "CHINESE_TRADITIONAL": "好像往左邊走才對",
+      "JAPANESE": "左の方で合ってる気がします",
+      "INDONESIAN": "Kayaknya lewat sini deh—kiri.",
+      "PORTUGUESE": "Acho que é pra esquerda.",
+      "SPANISH": "Creo que es a la izquierda.",
+      "PERSIAN": "فکر می‌کنم به این صورت است - سمت چپ."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 뭐, 복도에 아무것도 없고 조용하네요.",
+      "ENGLISH": "But yeah, the hallway’s totally empty and quiet.",
+      "CHINESE_SIMPLIFIED": "不过这走廊空荡荡的，好安静啊",
+      "CHINESE_TRADITIONAL": "嗯...但走廊上什麼也沒有，好安靜",
+      "JAPANESE": "でも廊下には何もなくて静かですね",
+      "INDONESIAN": "Tapi iya sih, lorongnya kosong banget dan sepi.",
+      "PORTUGUESE": "Esse corredor tá muito vazio e silencioso.",
+      "SPANISH": "Este pasillo está muy vacío y silencioso.",
+      "PERSIAN": "اما بله، راهرو کاملاً خالی و ساکت است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 그냥 괴담이었나 보다.",
+      "ENGLISH": "Guess it really was just a rumor.",
+      "CHINESE_SIMPLIFIED": "看来真的只是怪谈而已",
+      "CHINESE_TRADITIONAL": "看來只是個鬼故事而已吧...啊啊啊！！",
+      "JAPANESE": "やっぱりただの噂だったのかも",
+      "INDONESIAN": "Kayaknya emang cuma rumor doang.",
+      "PORTUGUESE": "Acho que essa história de fantasma é só um boato.",
+      "SPANISH": "Supongo que eso del fantasma solo es un rumor.",
+      "PERSIAN": "حدس بزن واقعا شایعه بود"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠는 귀신 안 믿어요?",
+      "ENGLISH": "You don’t believe in ghosts, do you?",
+      "CHINESE_SIMPLIFIED": "哥哥不相信鬼魂吗？",
+      "CHINESE_TRADITIONAL": "哥哥你不相信有鬼嗎？",
+      "JAPANESE": "お兄さんは幽霊とか信じないんですか？",
+      "INDONESIAN": "Kamu nggak percaya hantu kan?",
+      "PORTUGUESE": "Você não acredita em fantasmas?",
+      "SPANISH": "¿No crees en fantasmas?",
+      "PERSIAN": "شما به ارواح اعتقاد ندارید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "안 믿죠~ 세상에 귀신이 어디 있어요~",
+      "ENGLISH": "Nope~ Come on, ghosts aren’t real~",
+      "CHINESE_SIMPLIFIED": "当然不信~这世上哪来的鬼啊~",
+      "CHINESE_TRADITIONAL": "不相信啊～ 世界上怎麼會有鬼啊～",
+      "JAPANESE": "信じませんよ〜この世に幽霊なんていませんって〜",
+      "INDONESIAN": "Nggak lah~ Ayolah, hantu tuh nggak nyata~",
+      "PORTUGUESE": "Claro que não~ Como é que fantasmas iam ser reais?",
+      "SPANISH": "Claro que no~ ¿Como van a ser reales los fantasmas?",
+      "PERSIAN": "نه ~ بیا، ارواح واقعی نیستند~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "설마... 민정 씨 귀신 믿어요?",
+      "ENGLISH": "Wait… do you believe in them, Min-jung?",
+      "CHINESE_SIMPLIFIED": "难道...敏静你信鬼？",
+      "CHINESE_TRADITIONAL": "該不會...敏靜妳相信有鬼吧？",
+      "JAPANESE": "まさか…ミンジョンさんは信じる派ですか？",
+      "INDONESIAN": "Eh… Min-jung, kamu percaya hantu?",
+      "PORTUGUESE": "Não me diga que… você acredita neles, Minjung?",
+      "SPANISH": "No me digas que… ¿tú sí crees en ellos, Minjung?",
+      "PERSIAN": "صبر کن... به اونا اعتقاد داری، مین‌جونگ؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yeah…",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya…",
+      "PORTUGUESE": "Eu acredito...",
+      "SPANISH": "Yo sí...",
+      "PERSIAN": "آره…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데... 막, 직접 보거나 한 건 아니잖아요. 그쵸?",
+      "ENGLISH": "But like… you haven’t actually seen one or anything, right?",
+      "CHINESE_SIMPLIFIED": "不过...你又没亲眼见过，对吧？",
+      "CHINESE_TRADITIONAL": "但是...妳也沒有親眼見過，對吧？",
+      "JAPANESE": "でも、実際に見たとかじゃないですよね？",
+      "INDONESIAN": "Tapi… kamu kan belum pernah liat langsung, kan?",
+      "PORTUGUESE": "Mas... você já viu um pessoalmente?",
+      "SPANISH": "Pero... ¿acaso has visto uno en persona?",
+      "PERSIAN": "اما مانند… شما واقعاً یکی یا چیزی را ندیده اید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "직접 봤어요 ",
+      "ENGLISH": "I have.",
+      "CHINESE_SIMPLIFIED": "我见过",
+      "CHINESE_TRADITIONAL": "我親眼看過",
+      "JAPANESE": "直接見ました",
+      "INDONESIAN": "Pernah.",
+      "PORTUGUESE": "Sim, com meus próprios olhos.",
+      "SPANISH": "Sí, con mis propios ojos.",
+      "PERSIAN": "من دارم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "옛날에 녹음실에서....",
+      "ENGLISH": "Back in a recording studio, years ago…",
+      "CHINESE_SIMPLIFIED": "以前在录音室的时候....",
+      "CHINESE_TRADITIONAL": "以前在錄音室的時候....",
+      "JAPANESE": "昔、レコーディングスタジオで…",
+      "INDONESIAN": "Dulu, di studio rekaman… udah lama sih…",
+      "PORTUGUESE": "Ah, aposto que você se confundiu.",
+      "SPANISH": "Fue hace tiempo... en un estudio de grabación.",
+      "PERSIAN": "سالها پیش در یک استودیوی ضبط…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에, 에이 잘못 본 거겠죠 ",
+      "ENGLISH": "W-wait, you probably just saw wrong or something.",
+      "CHINESE_SIMPLIFIED": "哎，肯定是看错啦",
+      "CHINESE_TRADITIONAL": "欸咿，妳一定是看錯了啦",
+      "JAPANESE": "え、えぇ〜見間違いですよきっと",
+      "INDONESIAN": "T-tunggu, kamu pasti salah liat kali.",
+      "PORTUGUESE": "Minjung, que medrosa você é~",
+      "SPANISH": "Aaay, seguro te confundiste.",
+      "PERSIAN": "صبر کنید، احتمالاً اشتباه یا چیز دیگری دیدید."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 겁 되게 많으시네~",
+      "ENGLISH": "Wow, you’re way more of a scaredy-cat than I thought~",
+      "CHINESE_SIMPLIFIED": "你胆子真小~",
+      "CHINESE_TRADITIONAL": "敏靜妳的膽子真小呢～",
+      "JAPANESE": "ミンジョンさん、けっこう怖がりなんですね〜",
+      "INDONESIAN": "Wah, kamu penakut juga ya ternyata~ nggak nyangka~",
+      "PORTUGUESE": "...Um momento.",
+      "SPANISH": "Minjung, qué miedosa eres~",
+      "PERSIAN": "وای، تو خیلی بیشتر از اونی که فکر می کردم گربه ترسناکی"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "....잠깐만요.",
+      "ENGLISH": "…Hold on.",
+      "CHINESE_SIMPLIFIED": "....等一下",
+      "CHINESE_TRADITIONAL": "等一下...",
+      "JAPANESE": "……ちょっと待ってください",
+      "INDONESIAN": "…Tunggu deh.",
+      "PORTUGUESE": "O que foi?",
+      "SPANISH": "...Un momento.",
+      "PERSIAN": "... دست نگه دارید."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 37.7,
+      "HIDE": 38.7
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "怎麼了？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "Você não ouviu isso?",
+      "SPANISH": "¿Qué pasa?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.9,
+      "HIDE": 40.8
+    },
+    "SCRIPT": {
+      "KOREAN": "방금 무슨 소리 들리지 않았어요?",
+      "ENGLISH": "Didn’t you just hear that?",
+      "CHINESE_SIMPLIFIED": "刚才没听到什么声音吗？",
+      "CHINESE_TRADITIONAL": "剛才是不是有聽到什麼聲音？",
+      "JAPANESE": "今、なんか音しませんでした？",
+      "INDONESIAN": "Tadi kamu nggak denger suara apa gitu?",
+      "PORTUGUESE": "Deve ter sido só o som dos nossos passos.",
+      "SPANISH": "¿No escuchaste eso?",
+      "PERSIAN": "اینو نشنیدید؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 43.1
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 저희 발소리겠죠 ",
+      "ENGLISH": "Probably just our own footsteps.",
+      "CHINESE_SIMPLIFIED": "哎呦，肯定是我们的脚步声",
+      "CHINESE_TRADITIONAL": "唉，應該是我們的腳步聲吧",
+      "JAPANESE": "いやいや、俺たちの足音でしょ",
+      "INDONESIAN": "Paling suara langkah kaki kita sendiri.",
+      "PORTUGUESE": "\"— Oh!?",
+      "SPANISH": "Seguro fueron solo nuestros pasos.",
+      "PERSIAN": "احتمالا فقط رد پای خودمان است."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 43.6,
+      "HIDE": 44.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 어!?\n- 엇...!",
+      "ENGLISH": "— What was that!?\n— Huh…!?",
+      "CHINESE_SIMPLIFIED": "-呃！？\n-啊...！",
+      "CHINESE_TRADITIONAL": "-咦！？\n-欸？",
+      "JAPANESE": "‐おっ!?\n‐えっ…!?",
+      "INDONESIAN": "— Itu suara apa tadi!?\n— Hah…!?",
+      "PORTUGUESE": "— Mas...!?\"",
+      "SPANISH": "— ¡Oh!?\n— ¿Pero...!?",
+      "PERSIAN": "-این چی بود!؟ -ها…!؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 44.4,
+      "HIDE": 44.9
+    },
+    "SCRIPT": {
+      "KOREAN": "헉!",
+      "CHINESE_SIMPLIFIED": "嚯！",
+      "PERSIAN": "اومگ!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 45.1,
+      "HIDE": 45.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "喔...！",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Eh?",
+      "PORTUGUESE": "O que é isso...!?",
+      "SPANISH": "¿Qué es...!?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 46.9,
+      "HIDE": 48.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어!? 빨리...!",
+      "ENGLISH": "Wha—!? Hurry…!",
+      "CHINESE_SIMPLIFIED": "呃！？快跑...！",
+      "CHINESE_TRADITIONAL": "喔！？快點...！",
+      "JAPANESE": "あっ！？はやくっ…！",
+      "INDONESIAN": "Apaa—!? Cepet…!",
+      "PORTUGUESE": "Hã? Anda logo...!",
+      "SPANISH": "¿Eh? ¡Apresúrate...!",
+      "PERSIAN": "چی-!؟ عجله کن…!"
+    }
+  }
+]

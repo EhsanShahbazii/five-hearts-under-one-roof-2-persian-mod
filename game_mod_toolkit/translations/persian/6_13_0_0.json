@@ -1,0 +1,37 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 못 가서 그래! 좀 와 봐!!",
+      "ENGLISH": "I can’t, that’s why! Just get over here!!",
+      "CHINESE_SIMPLIFIED": "哎呀，就是过不去才叫你啊！快过来！！",
+      "CHINESE_TRADITIONAL": "啊，就是我過不去啦！才叫你過來一下啊！！",
+      "JAPANESE": "あ、行けないんだって！ちょっと来てよ！！",
+      "INDONESIAN": "Nggak bisa, makanya! Makanya kamu yang ke sini!!",
+      "PORTUGUESE": "É que eu não posso! Vem rápido!",
+      "SPANISH": "¡Es que no puedo!¡Ven rápido!",
+      "PERSIAN": "من نمی توانم، به همین دلیل است! فقط برو اینجا!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 왜!! 네가 오라니까!",
+      "ENGLISH": "Ugh, why?! You’re the one calling me!",
+      "CHINESE_SIMPLIFIED": "啊干嘛！！你先过来再说！",
+      "CHINESE_TRADITIONAL": "為什麼！！不是你過來才對嗎？？",
+      "JAPANESE": "なんだよ！！お前が来いって！",
+      "INDONESIAN": "Ugh, kenapaaa?! Kan kamu yang manggil aku!",
+      "PORTUGUESE": "Tô te dizendo pra vir você!",
+      "SPANISH": "¡Te estoy diciendo que vengas tú!",
+      "PERSIAN": "اوه، چرا؟! تو کسی هستی که به من زنگ می زند!"
+    }
+  }
+]

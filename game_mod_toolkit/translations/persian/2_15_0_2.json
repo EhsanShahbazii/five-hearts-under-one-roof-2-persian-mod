@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "여기는 동그란 님 방이에요. ",
+      "ENGLISH": "This is Gran's room.",
+      "CHINESE_SIMPLIFIED": "这里就是佟圆圆的房间了",
+      "CHINESE_TRADITIONAL": "這裡是佟圓圓的房間",
+      "JAPANESE": "ここはドングランさんの部屋です",
+      "INDONESIAN": "Ini kamar Nenek.",
+      "PORTUGUESE": "Este é o quarto da senhorita Gran Dong.",
+      "SPANISH": "Esta es la habitación de la señorita Gran Dong.",
+      "PERSIAN": "این اتاق گرن است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음~ 안목이 좀 있으시네. 여러모로.",
+      "ENGLISH": "Ooh~ someone’s got good taste. In some ways.",
+      "CHINESE_SIMPLIFIED": "嗯~各方面都挺有品味的嘛",
+      "CHINESE_TRADITIONAL": "嗯～看起來各方面品味不錯耶",
+      "JAPANESE": "ん〜見る目ありますね いろいろと",
+      "INDONESIAN": "Ooh~ ada juga yang seleranya oke. Dalam beberapa hal.",
+      "PORTUGUESE": "Hmm... vejo que você tem bom gosto. Em vários sentidos.",
+      "SPANISH": "Hmm... veo que tienes buen gusto. En varios sentidos.",
+      "PERSIAN": "اوه~ کسی سلیقه خوبی دارد. از برخی جهات."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 아 귀여워!",
+      "ENGLISH": "Huh? Aw, cute!",
+      "CHINESE_SIMPLIFIED": "啊？好可爱！",
+      "CHINESE_TRADITIONAL": "咦？啊，好可愛！",
+      "JAPANESE": "あっ 可愛い!",
+      "INDONESIAN": "Hah? Aww, lucu banget!",
+      "PORTUGUESE": "Hã? Ah, que fofura!",
+      "SPANISH": "¿Eh? ¡Ay, qué ternura!",
+      "PERSIAN": "ها؟ اوه، ناز!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "고양이 키우나 봐요.",
+      "ENGLISH": "She has a cat?",
+      "CHINESE_SIMPLIFIED": "她好像有养猫呢",
+      "CHINESE_TRADITIONAL": "好像有養貓",
+      "JAPANESE": "猫 飼ってるんですね?",
+      "INDONESIAN": "Nenek punya kucing?",
+      "PORTUGUESE": "Parece que você tem um gatinho.",
+      "SPANISH": "Parece que tienes un gatito.",
+      "PERSIAN": "او گربه دارد؟"
+    }
+  }
+]

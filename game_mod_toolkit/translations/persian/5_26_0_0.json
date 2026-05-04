@@ -1,0 +1,91 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "조용히... 조심...조심...",
+      "ENGLISH": "Quietly… easy… easy…",
+      "CHINESE_SIMPLIFIED": "安静...小心...小心...",
+      "CHINESE_TRADITIONAL": "安靜...小心...小心...",
+      "JAPANESE": "静かに…そっと…そっと…",
+      "INDONESIAN": "Pelan pelan ya…",
+      "PORTUGUESE": "Não faça barulho... com cuidado...",
+      "SPANISH": "No haga ruido... con cuidado...",
+      "PERSIAN": "بی سر و صدا… آسان… آسان…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 우유만이! ",
+      "ENGLISH": "Hey! Yuman! What are you doing over there?!",
+      "CHINESE_SIMPLIFIED": "喂，吴宥万！",
+      "CHINESE_TRADITIONAL": "喂，吳宥萬！",
+      "JAPANESE": "おい ウ・ユマン！",
+      "INDONESIAN": "Heh Yuman! Kamu ngapain di sana?!",
+      "PORTUGUESE": "Ei, Yumán!",
+      "SPANISH": "¡Oye, Yumán!",
+      "PERSIAN": "هی! یومان! اونجا چیکار میکنی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "헉! ",
+      "ENGLISH": "Gasp!",
+      "CHINESE_SIMPLIFIED": "嗬！",
+      "CHINESE_TRADITIONAL": "嚇！",
+      "JAPANESE": "はっ！",
+      "INDONESIAN": "Hah!",
+      "PORTUGUESE": "Ui!",
+      "SPANISH": "¡Uy!",
+      "PERSIAN": "نفس نفس زدن"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너 거기서 뭐햐?",
+      "CHINESE_SIMPLIFIED": "你在那儿干嘛呢？",
+      "CHINESE_TRADITIONAL": "你在那邊幹嘛？",
+      "JAPANESE": "そこで何してる！",
+      "INDONESIAN": "Ngapain kamu di situ?!",
+      "PORTUGUESE": "O que você tá fazendo?",
+      "SPANISH": "¿Qué estás haciendo?",
+      "PERSIAN": "너 거기서 뭐햐؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어떡해요...!",
+      "ENGLISH": "What do we do…?!",
+      "CHINESE_SIMPLIFIED": "怎么办啊...！",
+      "CHINESE_TRADITIONAL": "怎麼辦…！",
+      "JAPANESE": "どうしよう…！",
+      "INDONESIAN": "Gimana nih…?!",
+      "PORTUGUESE": "E agora...?!",
+      "SPANISH": "¡¿Y ahora...?!",
+      "PERSIAN": "چیکار کنیم…؟!"
+    }
+  }
+]

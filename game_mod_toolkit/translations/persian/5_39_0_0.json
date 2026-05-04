@@ -1,0 +1,452 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저희 학교에 그런 사람이 있었어요?",
+      "ENGLISH": "Wait, so someone like that actually went to our school?",
+      "CHINESE_SIMPLIFIED": "哇，原来我们学校还有这样的人啊？",
+      "CHINESE_TRADITIONAL": "哇，那我們學校居然有這種人嗎？",
+      "JAPANESE": "えっ うちの学校にそんな人がいたんですか？",
+      "INDONESIAN": "Eh, jadi beneran ada orang kayak gitu di sekolah kita dulu?",
+      "PORTUGUESE": "Sério que tinha alguém assim na nossa escola?",
+      "SPANISH": "¿En serio había alguien así en nuestra escuela?",
+      "PERSIAN": "صبر کن، پس یکی مثل اون واقعا به مدرسه ما رفت؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 진짜 이~만했다니까?",
+      "ENGLISH": "I’m telling you, they were this big!",
+      "CHINESE_SIMPLIFIED": "对啊，真的就这~么大！",
+      "CHINESE_TRADITIONAL": "真的啦，真的是～大到這個程度耶！",
+      "JAPANESE": "いやほんとにこんなにデカかったんだって！",
+      "INDONESIAN": "Serius sebohay itu!",
+      "PORTUGUESE": "Juro pra você, eram assim de grandes!",
+      "SPANISH": "¡Te lo juro, eran así de grandes!",
+      "PERSIAN": "من به شما می گویم، اونا اینقدر بزرگ بودند!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에이! 과장 좀 하지 마.",
+      "ENGLISH": "Oh, come on, stop exaggerating.",
+      "CHINESE_SIMPLIFIED": "哎呀！别太夸张啦",
+      "CHINESE_TRADITIONAL": "哎！你不要這麼誇張喔",
+      "JAPANESE": "え〜ちょっと盛りすぎだろ",
+      "INDONESIAN": "Ayolah, jangan lebay deh.",
+      "PORTUGUESE": "Ah, não exagera.",
+      "SPANISH": "Ay, no exageres.",
+      "PERSIAN": "اوه، بیا، از اغراق دست بردار."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 난 직접 봤어. 막 이만했어! 막...",
+      "ENGLISH": "No, I saw it with my own eyes. Like this big! Like—",
+      "CHINESE_SIMPLIFIED": "不是，我亲眼见的就这么大！简直...",
+      "CHINESE_TRADITIONAL": "我親眼看到耶，真的有這麼大！真的…",
+      "JAPANESE": "いや私は直接見たんだって ほんとにこんなだったんだよ！もう…！",
+      "INDONESIAN": "Nggak lebay, gue liat sendiri kok. Segini! Kayak—",
+      "PORTUGUESE": "Não tô exagerando! Eu vi com meus próprios olhos! Eram enormes, assim...!",
+      "SPANISH": "¡No estoy exagerando! ¡Lo vi con mis propios ojos! ¡Eran enormes, así...!",
+      "PERSIAN": "نه من به چشم خودم دیدم. مثل این بزرگ! مانند-"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 일어났네?",
+      "ENGLISH": "Wooyooman, you’re awake?",
+      "CHINESE_SIMPLIFIED": "吴宥万，醒啦？",
+      "CHINESE_TRADITIONAL": "吳宥萬，你醒了嗎？",
+      "JAPANESE": "ウ・ユマン 起きた？",
+      "INDONESIAN": "Wooyooman, kamu udah bangun?",
+      "PORTUGUESE": "Yumán, já acordou?",
+      "SPANISH": "Yumán, ¿ya despertaste?",
+      "PERSIAN": "وویومن، تو بیداری؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 담당 선생님이 우유만 씨 퇴원해도 된다고 하니까",
+      "ENGLISH": "The teacher said Wooyooman can be discharged,",
+      "CHINESE_SIMPLIFIED": "主治医生说你现在可以出院了",
+      "CHINESE_TRADITIONAL": "醫生說你可以出院了",
+      "JAPANESE": "もう担当の先生が退院していいって言ってたから",
+      "INDONESIAN": "Guru bilang Yuman udah boleh pulang,",
+      "PORTUGUESE": "A doutora disse que você já pode ter alta,",
+      "SPANISH": "La doctora dijo que ya te pueden dar de alta,",
+      "PERSIAN": "معلم گفت وویومن را می توان مرخص کرد"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 짐 챙겨서 가죠?",
+      "ENGLISH": "so let’s all pack up and go.",
+      "CHINESE_SIMPLIFIED": "大家收拾一下准备走吧？",
+      "CHINESE_TRADITIONAL": "大家把東西收一收準備回去吧？",
+      "JAPANESE": "みんな荷物まとめて行きましょうか？",
+      "INDONESIAN": "jadi ayo kita beres-beres barang dan balik bareng.",
+      "PORTUGUESE": "Então junta suas coisas e vamos embora.",
+      "SPANISH": "así que recoge tus cosas y vámonos.",
+      "PERSIAN": "پس بیایید همه چیز را جمع کنیم و برویم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다 그란 님!",
+      "ENGLISH": "Ah, right — Gran!",
+      "CHINESE_SIMPLIFIED": "啊对了，圆圆！",
+      "CHINESE_TRADITIONAL": "對了，圓圓！",
+      "JAPANESE": "あ そうだ グランさん！",
+      "INDONESIAN": "Ah iya — Gran!",
+      "PORTUGUESE": "Ah, é mesmo, Gran.",
+      "SPANISH": "Ah, cierto, Gran.",
+      "PERSIAN": "آه، درست است - بزرگ!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "내일 하숙집 사람들이랑 규리 쌤이랑 다 같이 펜션 가는 거 어때요?",
+      "ENGLISH": "How about we all go to a pension with the boarding house people and Nurse Gyu-ri?",
+      "CHINESE_SIMPLIFIED": "明天和合租屋的大家，还有方护士一起去度假别墅怎么样？",
+      "CHINESE_TRADITIONAL": "你明天要不要跟大家還有久梨一起去度假別墅呢？",
+      "JAPANESE": "明日 下宿のみんなとギュリ先生と一緒にペンション行くのどうです？",
+      "INDONESIAN": "Gimana kalau kita semua pergi ke villa bareng anak-anak asrama dan Gyu-ri?",
+      "PORTUGUESE": "Que tal se a gente for viajar amanhã? Com as meninas e a enfermeira Gyuri.",
+      "SPANISH": "¿Qué tal si mañana vamos todos juntos de viaje? Con las chicas y la enfermera Gyuri.",
+      "PERSIAN": "در مورد اینکه همه ما با افراد پانسیون و پرستار گیو ری به پانسیون برویم چطور؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "펜션?",
+      "ENGLISH": "A pension?",
+      "CHINESE_SIMPLIFIED": "度假别墅？",
+      "CHINESE_TRADITIONAL": "度假別墅？",
+      "JAPANESE": "ペンション？",
+      "INDONESIAN": "Villa?",
+      "PORTUGUESE": "Viajar?",
+      "SPANISH": "¿De viaje?",
+      "PERSIAN": "حقوق بازنشستگی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 30.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 우유만이 가고 싶대서요. 퇴원 기념?",
+      "ENGLISH": "Ah, Wooyooman said she wants to go. To celebrate her discharge.",
+      "CHINESE_SIMPLIFIED": "啊，是吴宥万想去的，就当作出院纪念",
+      "CHINESE_TRADITIONAL": "對啊，吳宥萬說想要去！當作慶祝出院？",
+      "JAPANESE": "あ ウ・ユマンが行きたいって言ってて 退院祝いもかねて",
+      "INDONESIAN": "Ah, Yuman yang ngajak. Buat ngerayain dia udah boleh pulang.",
+      "PORTUGUESE": "Sim, o Yuman disse que queria ir, pra comemorar a alta dele.",
+      "SPANISH": "Sí, Yuman dijo que quería ir, como celebración por su alta.",
+      "PERSIAN": "آه، وویومن گفت می خواهد برود. برای جشن ترخیصش"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.2,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그래요. 가죠, 뭐.",
+      "ENGLISH": "Oh, sure. Let’s go then.",
+      "CHINESE_SIMPLIFIED": "哦，那行啊，一起去吧",
+      "CHINESE_TRADITIONAL": "喔，好啊，就去吧",
+      "JAPANESE": "あ いいですね 行きましょうか",
+      "INDONESIAN": "Oh, yaudah. Ayo aja.",
+      "PORTUGUESE": "Vamos, por que não?",
+      "SPANISH": "Vamos, por qué no.",
+      "PERSIAN": "اوه، حتما بیا بریم پس"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 34.8
+    },
+    "SCRIPT": {
+      "KOREAN": "내일 뭐 입지?",
+      "ENGLISH": "What should I wear tomorrow?",
+      "CHINESE_SIMPLIFIED": "明天穿什么好呢？",
+      "CHINESE_TRADITIONAL": "明天穿什麼呢？",
+      "JAPANESE": "明日何着よう？",
+      "INDONESIAN": "Besok aku pake baju apa ya?",
+      "PORTUGUESE": "O que será que eu visto amanhã...?",
+      "SPANISH": "¿Qué debería ponerme mañana...?",
+      "PERSIAN": "فردا چی بپوشم؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 34.9,
+      "HIDE": 35.5
+    },
+    "SCRIPT": {
+      "KOREAN": "비키니 입어야지~",
+      "ENGLISH": "Bikini, obviously~",
+      "CHINESE_SIMPLIFIED": "当然要穿比基尼啦~",
+      "CHINESE_TRADITIONAL": "當然要穿比基尼啊～",
+      "JAPANESE": "ビキニ着なきゃでしょ〜",
+      "INDONESIAN": "Bikini lah, jelas~",
+      "PORTUGUESE": "Óbvio, biquíni~",
+      "SPANISH": "Obvio, bikini~",
+      "PERSIAN": "بیکینی، بدیهی است~"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 35.6,
+      "HIDE": 37.9
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 아까 무슨 얘기를 그렇게 하고 있었어?",
+      "ENGLISH": "By the way, what were you all talking about earlier?",
+      "CHINESE_SIMPLIFIED": "不过你们刚才在聊什么那么起劲？",
+      "CHINESE_TRADITIONAL": "你們剛剛在聊什麼聊得那麼開心啊？",
+      "JAPANESE": "ところでさっき何の話してたの？",
+      "INDONESIAN": "Ngomong-ngomong, tadi kalian ngomongin apa sih?",
+      "PORTUGUESE": "E sobre o que vocês estavam conversando tão animados agora há pouco?",
+      "SPANISH": "¿Y de qué hablaban tan animados hace un rato?",
+      "PERSIAN": "در ضمن، قبلاً در مورد چه چیزی صحبت می کردید؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 38.2,
+      "HIDE": 38.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 39.2,
+      "HIDE": 43.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 셋이 뭐 금방 친해진 거 같길래. 놀러가자는 얘기도 나오고.",
+      "ENGLISH": "I mean, you three got close real fast. Already planning a trip and all.",
+      "CHINESE_SIMPLIFIED": "就觉得你们三个一下子变得挺熟的，还约着一起去玩",
+      "CHINESE_TRADITIONAL": "你們三個好像一下子就變熟了耶，還說要出去玩之類的",
+      "JAPANESE": "なんか3人すぐ仲良くなった感じだったからさ 遊びに行こうって",
+      "INDONESIAN": "Maksudku, kalian bertiga deket banget tiba-tiba. Udah ngomongin liburan bareng segala.",
+      "PORTUGUESE": "Parece que ficaram bem amigos de repente, até falaram de fazer um passeio.",
+      "SPANISH": "Parecen haberse hecho muy amigos de repente, hasta hablaron de ir de paseo.",
+      "PERSIAN": "منظورم این است که شما سه نفر خیلی سریع به هم نزدیک شدید. در حال حاضر برنامه ریزی یک سفر و همه."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 44.3,
+      "HIDE": 47.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 저희 셋 다 똑같이 밀크고 나왔더라고요.",
+      "ENGLISH": "Ah~ turns out all three of us went to Milk High.",
+      "CHINESE_SIMPLIFIED": "啊~我们三个都是牛奶高中毕业的",
+      "CHINESE_TRADITIONAL": "啊～我們三個都是Milk高中的啊～",
+      "JAPANESE": "あ〜 俺たち3人とも同じミルク高出身だったんですよ",
+      "INDONESIAN": "Ah~ ternyata kita bertiga dulu sekolah di SMA Milk.",
+      "PORTUGUESE": "Ah~ é que nós três estudamos na escola Milk.",
+      "SPANISH": "Ah~ es que los tres fuimos a la preparatoria Milk.",
+      "PERSIAN": "آه ~ معلوم شد هر سه ما به شیر های رفتیم."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 48.2,
+      "HIDE": 48.9
+    },
+    "SCRIPT": {
+      "KOREAN": "밀크고?",
+      "ENGLISH": "Milk High?",
+      "CHINESE_SIMPLIFIED": "牛奶高中？",
+      "CHINESE_TRADITIONAL": "Milk高中？",
+      "JAPANESE": "ミルク高？",
+      "INDONESIAN": "SMA Milk?",
+      "PORTUGUESE": "Escola Milk?",
+      "SPANISH": "¿Preparatoria Milk?",
+      "PERSIAN": "شیر زیاد؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 49.3,
+      "HIDE": 53.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네 그리고 15번 버스 전설의 왕가슴 선배라고 있었는데",
+      "ENGLISH": "Yeah, and there was this legendary big-boob senpai on Bus 15,",
+      "CHINESE_SIMPLIFIED": "对，还有那个15路公交车传说中的“巨乳学姐”",
+      "CHINESE_TRADITIONAL": "對啊，剛聊到傳說中15號公車的巨乳學姊",
+      "JAPANESE": "はい それで15番バスの“伝説の爆乳先輩”って人がいて",
+      "INDONESIAN": "Iya, terus dulu ada kakak kelas legend yang dadanya gede banget di Bus 15,",
+      "PORTUGUESE": "Sim, e estávamos falando da lenda do ônibus 15,",
+      "SPANISH": "Sí, y estábamos hablando de la leyenda del autobús 15,",
+      "PERSIAN": "بله، و این سنپای افسانه ای سینه بزرگ در اتوبوس 15 وجود داشت،"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 53.6,
+      "HIDE": 55.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그분 이야기 하고 있었어요. ",
+      "ENGLISH": "we were talking about her.",
+      "CHINESE_SIMPLIFIED": "我们还在聊那位呢",
+      "CHINESE_TRADITIONAL": "原來在聊這個啊",
+      "JAPANESE": "その人の話をしてたんです",
+      "INDONESIAN": "kita lagi ngomongin dia.",
+      "PORTUGUESE": "a dos melões.",
+      "SPANISH": "la de los melones.",
+      "PERSIAN": "ما در مورد او صحبت می کردیم"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 55.2,
+      "HIDE": 58.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그분이 진짜 장난 아니었거든요...!",
+      "ENGLISH": "She was seriously insane…!",
+      "CHINESE_SIMPLIFIED": "那身材可真不是开玩笑的...！",
+      "CHINESE_TRADITIONAL": "那個人真的不是蓋的…！",
+      "JAPANESE": "その人ほんとにやばかったんですよ…！",
+      "INDONESIAN": "Dia tuh bener-bener gila sih…!",
+      "PORTUGUESE": "Era uma lenda famosa!",
+      "SPANISH": "¡Era una leyenda total!",
+      "PERSIAN": "او به شدت دیوانه شده بود…!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 58.1,
+      "HIDE": 60.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래? 재밌네.",
+      "ENGLISH": "Really? That’s funny.",
+      "CHINESE_SIMPLIFIED": "是吗？挺有意思的嘛",
+      "CHINESE_TRADITIONAL": "是嗎？好像很有趣耶",
+      "JAPANESE": "そう？おもしろいね",
+      "INDONESIAN": "Serius? Lucu juga.",
+      "PORTUGUESE": "Ah, é? Que interessante.",
+      "SPANISH": "¿Ah, sí? Qué interesante.",
+      "PERSIAN": "واقعا؟ این خنده دار است."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 61.0,
+      "HIDE": 62.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 같이 가요!",
+      "ENGLISH": "Huh? Come with us!",
+      "CHINESE_SIMPLIFIED": "呃？一起走啊！",
+      "CHINESE_TRADITIONAL": "喔？我也要一起去！",
+      "JAPANESE": "あっ 一緒に行きましょう！",
+      "INDONESIAN": "Hah? Ikut aja lah sama kita!",
+      "PORTUGUESE": "Hã? Espere por mim!",
+      "SPANISH": "¿Eh? ¡Espéreme!",
+      "PERSIAN": "ها؟ با ما بیا!"
+    }
+  }
+]

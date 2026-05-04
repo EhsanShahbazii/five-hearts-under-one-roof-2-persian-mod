@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저, 매니저입니다!",
+      "ENGLISH": "I—I’m her manager!",
+      "CHINESE_SIMPLIFIED": "我是他经纪人！",
+      "CHINESE_TRADITIONAL": "我是他的經紀人",
+      "JAPANESE": "あ、マネージャーです！",
+      "INDONESIAN": "A—aku manajernya!",
+      "PORTUGUESE": "Eu… sou o empresário dela!",
+      "SPANISH": "¡Yo… soy su mánager!",
+      "PERSIAN": "من - من مدیر او هستم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "매니저? ",
+      "ENGLISH": "Manager?",
+      "CHINESE_SIMPLIFIED": "经纪人？",
+      "CHINESE_TRADITIONAL": "經紀人？",
+      "JAPANESE": "マネージャー？",
+      "INDONESIAN": "Manajer?",
+      "PORTUGUESE": "Empresário?",
+      "SPANISH": "¿Mánager?",
+      "PERSIAN": "مدیر؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "매니저가 벌써 있어요?",
+      "ENGLISH": "You already have a manager?",
+      "CHINESE_SIMPLIFIED": "已经有经纪人了吗？",
+      "CHINESE_TRADITIONAL": "已經有經紀人了嗎？",
+      "JAPANESE": "もうマネージャーがもういるんですか？",
+      "INDONESIAN": "Kamu udah punya manajer?",
+      "PORTUGUESE": "Você já tem um empresário?",
+      "SPANISH": "¿Ya tienes un mánager?",
+      "PERSIAN": "شما قبلا یک مدیر دارید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그 뽑은 지 얼마 안 돼가지고",
+      "ENGLISH": "Ah — we just hired him recently,",
+      "CHINESE_SIMPLIFIED": "啊，因为刚聘用不久",
+      "CHINESE_TRADITIONAL": "啊，因為剛上任不久",
+      "JAPANESE": "あっ、最近決まったばかりで",
+      "INDONESIAN": "Ah — dia baru aja kita rekrut,",
+      "PORTUGUESE": "Ah, eu o contratei há pouco tempo.",
+      "SPANISH": "Ah, lo contraté hace poco.",
+      "PERSIAN": "آه - اخیراً اونو استخدام کردیم،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 제가 일정 공유를 못 했거든요,",
+      "ENGLISH": "and I forgot to share today’s schedule with him,",
+      "CHINESE_SIMPLIFIED": "今天我还没来得及和他说清楚日程安排",
+      "CHINESE_TRADITIONAL": "我還沒有跟他說關於今天行程的安排",
+      "JAPANESE": "今日スケジュールの共有ができてなかったんです",
+      "INDONESIAN": "dan aku lupa kasih tahu jadwal hari ini,",
+      "PORTUGUESE": "Hoje não tive tempo de avisar,",
+      "SPANISH": "Hoy no alcancé a avisarle,",
+      "PERSIAN": "و فراموش کردم برنامه امروز را با او به اشتراک بگذارم،"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 이 친구가 좀 오해를 좀 한 거 같아요...",
+      "ENGLISH": "so I think he misunderstood…",
+      "CHINESE_SIMPLIFIED": "所以他可能误会了点情况...",
+      "CHINESE_TRADITIONAL": "所以這位朋友好像有點誤會了...",
+      "JAPANESE": "だからこの人がちょっと勘違いしちゃったみたいで…",
+      "INDONESIAN": "jadi kayaknya dia salah paham…",
+      "PORTUGUESE": "então acho que houve um mal-entendido…",
+      "SPANISH": "así que creo que hubo un malentendido…",
+      "PERSIAN": "پس فکر کنم اشتباه متوجه شده…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 죄, 죄송합니다! 제가 의욕이 넘쳐서 실례했습니다!",
+      "ENGLISH": "I-I’m truly sorry! I got overexcited and was out of line!",
+      "CHINESE_SIMPLIFIED": "啊，对、对不起！我太冲动了，冒犯了各位！",
+      "CHINESE_TRADITIONAL": "啊，對、對不起！我太衝動導致冒犯到各位！",
+      "JAPANESE": "も、申し訳ありません！勢い余ってご迷惑を…！",
+      "INDONESIAN": "A-aku benar-benar minta maaf! Aku tadi kebawa emosi dan kelewatan!",
+      "PORTUGUESE": "M-me desculpa, me deixei levar e agi sem pensar.",
+      "SPANISH": "P-perdón, me dejé llevar por y actué sin pensar.",
+      "PERSIAN": "من-من واقعا متاسفم! من بیش از حد هیجان زده شدم و از خط خارج شدم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "정말 죄송합니다...",
+      "ENGLISH": "I sincerely apologize…",
+      "CHINESE_SIMPLIFIED": "真的非常抱歉...",
+      "CHINESE_TRADITIONAL": "真的非常抱歉...",
+      "JAPANESE": "本当にすみませんでした…",
+      "INDONESIAN": "Aku tulus minta maaf…",
+      "PORTUGUESE": "De verdade, me desculpa mesmo…",
+      "SPANISH": "De verdad, lo siento muchísimo…",
+      "PERSIAN": "من صمیمانه عذرخواهی میکنم…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아직 계약 전이니까",
+      "ENGLISH": "Since we haven’t signed the contract yet,",
+      "CHINESE_SIMPLIFIED": "反正还没正式签约",
+      "CHINESE_TRADITIONAL": "反正還沒正式簽約",
+      "JAPANESE": "まだ契約前なので",
+      "INDONESIAN": "Karena kontraknya belum ditandatangani,",
+      "PORTUGUESE": "Ainda não assinamos o contrato,",
+      "SPANISH": "Aún no hemos firmado el contrato,",
+      "PERSIAN": "از آنجایی که هنوز قرارداد را امضا نکرده ایم،"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "본 활동 전까지 정리해주세요.",
+      "ENGLISH": "please have everything sorted before official activities begin.",
+      "CHINESE_SIMPLIFIED": "请在正式活动前处理好关系",
+      "CHINESE_TRADITIONAL": "請在正式活動之前處理好",
+      "JAPANESE": "正式な活動までに整理をお願いします",
+      "INDONESIAN": "tolong pastikan semuanya beres dulu sebelum aktivitas resmi dimulai.",
+      "PORTUGUESE": "então por favor resolvam tudo antes de começar.",
+      "SPANISH": "así que por favor arreglen todo antes de comenzar.",
+      "PERSIAN": "لطفا قبل از شروع فعالیت های رسمی همه چیز را مرتب کنید."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 일은 제가 말숙님을 봐서",
+      "ENGLISH": "I’ll consider today just a minor incident — ",
+      "CHINESE_SIMPLIFIED": "今天这事我看在末淑小姐的面子上",
+      "CHINESE_TRADITIONAL": "今天的事，看在末淑小姐面子上",
+      "JAPANESE": "今日の件はマルスクさんの顔を立てて",
+      "INDONESIAN": "Hari ini aku anggap cuma insiden kecil —",
+      "PORTUGUESE": "Vou deixar o que aconteceu hoje passar como um mal-entendido",
+      "SPANISH": "Dejaré pasar lo de hoy como un malentendido",
+      "PERSIAN": "من امروز را فقط یک حادثه کوچک در نظر خواهم گرفت -"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "해프닝정도로 넘어가 드리겠습니다.",
+      "ENGLISH": "out of respect for you, Mal-sook.",
+      "CHINESE_SIMPLIFIED": "就当成一场小插曲吧",
+      "CHINESE_TRADITIONAL": "就當作一場小插曲",
+      "JAPANESE": "ハプニングとして処理します",
+      "INDONESIAN": "karena aku menghormati kamu, Mal-sook.",
+      "PORTUGUESE": "só porque é você, Malsook.",
+      "SPANISH": "solo porque es usted, Malsook.",
+      "PERSIAN": "به احترام شما، مال‌سوک."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.9,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "야 네가 무슨 내 매니저야!",
+      "ENGLISH": "Hey — since when are you my manager?!",
+      "CHINESE_SIMPLIFIED": "喂，你什么时候成我经纪人的了？！",
+      "CHINESE_TRADITIONAL": "喂！你什麼時候變成我的經紀人了？！",
+      "JAPANESE": "あんた、いつから私のマネージャーになったんだよ！",
+      "INDONESIAN": "Hei — sejak kapan kamu jadi manajer aku?!",
+      "PORTUGUESE": "Ei, desde quando você é meu empresário?!",
+      "SPANISH": "¡Oye, ¿desde cuándo eres mi mánager?!",
+      "PERSIAN": "هی - از کی مدیر منی؟!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 40.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 말숙아 미안... 완전 잘못 알았네...",
+      "ENGLISH": "Mal-sook, I’m sorry… I totally misunderstood…",
+      "CHINESE_SIMPLIFIED": "末淑啊，对不起...是我搞错了",
+      "CHINESE_TRADITIONAL": "末淑對不起...是我誤會了...",
+      "JAPANESE": "マルスク、ごめん…完全に誤解した",
+      "INDONESIAN": "Mal-sook, maaf… Aku bener-bener salah paham…",
+      "PORTUGUESE": "Malsook, me desculpa… eu entendi tudo errado.",
+      "SPANISH": "Malsook, lo siento… lo malinterpreté.",
+      "PERSIAN": "مال‌سوک، متاسفم… من کاملاً اشتباه متوجه شدم…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 40.7,
+      "HIDE": 42.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 일 다 망쳤다...",
+      "ENGLISH": "I ruined everything…",
+      "CHINESE_SIMPLIFIED": "都怪我，把事情搞砸了...",
+      "CHINESE_TRADITIONAL": "都怪我，把事情搞砸了...",
+      "JAPANESE": "全部俺が台無しにした…",
+      "INDONESIAN": "Aku udah ngacauin semuanya…",
+      "PORTUGUESE": "Estraguei tudo…",
+      "SPANISH": "Arruiné todo…",
+      "PERSIAN": "همه چی رو خراب کردم…"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 44.1,
+      "HIDE": 45.6
+    },
+    "SCRIPT": {
+      "KOREAN": "다시 사과드려야지...",
+      "ENGLISH": "I’ll go apologize again…",
+      "CHINESE_SIMPLIFIED": "我得再回去跟人家道歉...",
+      "CHINESE_TRADITIONAL": "我得再去跟人家道歉...",
+      "JAPANESE": "ちゃんと謝らなきゃ",
+      "INDONESIAN": "Aku bakal minta maaf lagi…",
+      "PORTUGUESE": "Devia ir me desculpar de novo…",
+      "SPANISH": "Debería ir a disculparme otra vez…",
+      "PERSIAN": "من برم دوباره عذرخواهی کنم…"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 47.9,
+      "HIDE": 50.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너 말대로 이제 그 일 그만뒀고 ",
+      "ENGLISH": "Like you said — I already quit that job,",
+      "CHINESE_SIMPLIFIED": "我已经按你说的，没有在做“合租女友”了",
+      "CHINESE_TRADITIONAL": "我已經照你說的，沒有在做出租女友了",
+      "JAPANESE": "あんたの言う通り、あの仕事はもう辞めた",
+      "INDONESIAN": "Kayak yang kamu bilang — aku udah keluar dari kerjaan itu,",
+      "PORTUGUESE": "Já deixei aquele trabalho, e agora...",
+      "SPANISH": "Ya dejé aquel trabajo, y ahora...",
+      "PERSIAN": "همانطور که شما گفتید - من قبلاً اون کار را ترک کردم،"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 50.2,
+      "HIDE": 51.8
+    },
+    "SCRIPT": {
+      "KOREAN": "모델 일 이제 열심히 할거니까",
+      "ENGLISH": "and I’m going to fully focus on modeling from now on,",
+      "CHINESE_SIMPLIFIED": "现在要正经做模特事业了",
+      "CHINESE_TRADITIONAL": "我現在會認真地做模特兒的工作",
+      "JAPANESE": "これからはモデルの仕事、ちゃんと頑張るから",
+      "INDONESIAN": "dan mulai sekarang aku bakal fokus total jadi model,",
+      "PORTUGUESE": "quero me concentrar na minha carreira, como você disse.",
+      "SPANISH": "quiero concentrarme en mi carrera, como me dijiste.",
+      "PERSIAN": "و از این به بعد کاملاً روی مدلینگ تمرکز خواهم کرد،"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 51.9,
+      "HIDE": 53.1
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 그런 오해 하지 마!",
+      "ENGLISH": "so don’t misunderstand anymore!",
+      "CHINESE_SIMPLIFIED": "所以别再那样误会我了！",
+      "CHINESE_TRADITIONAL": "以後不要再誤會我了！",
+      "JAPANESE": "もうそんな誤解しないでく",
+      "INDONESIAN": "jadi tolong jangan salah paham lagi!",
+      "PORTUGUESE": "Então não entenda mal de novo.",
+      "SPANISH": "Así que no lo vuelvas a malinterpretar.",
+      "PERSIAN": "پس دیگه سوء تفاهم نکن!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 54.3,
+      "HIDE": 55.2
+    },
+    "SCRIPT": {
+      "KOREAN": "먼저 갈게",
+      "ENGLISH": "I’m heading out first.",
+      "CHINESE_SIMPLIFIED": "我先走了",
+      "CHINESE_TRADITIONAL": "我先走了",
+      "JAPANESE": "じゃあ先に行くね",
+      "INDONESIAN": "Aku pergi duluan.",
+      "PORTUGUESE": "Tô indo.",
+      "SPANISH": "Me voy.",
+      "PERSIAN": "من اول میرم بیرون"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 60.6,
+      "HIDE": 63.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 왜 오바해가지고...아...",
+      "ENGLISH": "Ugh, seriously — why did I overreact like that… ah…",
+      "CHINESE_SIMPLIFIED": "啊真是的，干嘛要那么冲动...哎...",
+      "CHINESE_TRADITIONAL": "啊真是的，幹嘛那麼衝動......唉...",
+      "JAPANESE": "はぁ…ほんと、なんであんなオーバーにしちゃったんだ…",
+      "INDONESIAN": "Ugh, serius deh — kenapa aku tadi lebay banget sih… ah…",
+      "PORTUGUESE": "Ah, sério… por que eu tive que exagerar assim…?",
+      "SPANISH": "Ah, de verdad… ¿por qué tuve que exagerar así…?",
+      "PERSIAN": "اوه، جدی - چرا اینطوری بیش از حد واکنش نشان دادم... آه…"
+    }
+  }
+]

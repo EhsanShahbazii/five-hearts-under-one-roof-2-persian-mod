@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "죄송합니다!! ",
+      "ENGLISH": "I’m sorry!!",
+      "CHINESE_SIMPLIFIED": "对不起！！",
+      "CHINESE_TRADITIONAL": "對不起！！",
+      "JAPANESE": "すみませんでした！！",
+      "INDONESIAN": "Maaf!!",
+      "PORTUGUESE": "Desculpa!!",
+      "SPANISH": "¡Lo siento!!",
+      "PERSIAN": "متاسفم!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "정말 죄송합니다!!",
+      "ENGLISH": "I’m really sorry!!",
+      "CHINESE_SIMPLIFIED": "真的非常抱歉！！",
+      "CHINESE_TRADITIONAL": "真的非常抱歉！！",
+      "JAPANESE": "本当にすみませんでした！！",
+      "INDONESIAN": "Aku bener-bener minta maaf!!",
+      "PORTUGUESE": "De verdade, me desculpa mesmo!!",
+      "SPANISH": "¡De verdad lo siento muchísimo!!",
+      "PERSIAN": "واقعا متاسفم!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그 아침에 탈이나서 정말 죄송합니다...",
+      "ENGLISH": "It was something I ate this morning—I’m so, so sorry...",
+      "CHINESE_SIMPLIFIED": "那个...我早上肚子不舒服，真的很抱歉...",
+      "CHINESE_TRADITIONAL": "那個...我早上肚子不舒服，真的很抱歉...",
+      "JAPANESE": "朝、お腹を壊してて…本当に申し訳ありません…",
+      "INDONESIAN": "Tadi aku makan sesuatu yang aneh pagi ini—aku sungguh-sungguh minta maaf...",
+      "PORTUGUESE": "O café da manhã não me caiu bem, juro que foi sem querer...",
+      "SPANISH": "El desayuno me cayó mal, lo siento de verdad...",
+      "PERSIAN": "این چیزی بود که امروز صبح خوردم - خیلی متاسفم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아,아니...너무 울지마요...",
+      "ENGLISH": "N-No, please… don’t cry like that…",
+      "CHINESE_SIMPLIFIED": "啊，别...别哭了...",
+      "CHINESE_TRADITIONAL": "啊，別...別哭了...",
+      "JAPANESE": "あ、いや…そんなに泣かないでくださいよ…",
+      "INDONESIAN": "T-Tapi jangan nangis gitu dong…",
+      "PORTUGUESE": "Ah... mas não chora, por favor...",
+      "SPANISH": "Ah... pero no llore, por favor...",
+      "PERSIAN": "ن-نه خواهش میکنم اینطوری گریه نکن…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "죄송합니다!! ",
+      "ENGLISH": "I’m sorry!!",
+      "CHINESE_SIMPLIFIED": "对不起！！",
+      "CHINESE_TRADITIONAL": "對不起！！",
+      "JAPANESE": "すみませんでした！！",
+      "INDONESIAN": "Maaf!!",
+      "PORTUGUESE": "Perdão!!",
+      "SPANISH": "¡Perdón!!",
+      "PERSIAN": "متاسفم!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "잘못했습니다!!",
+      "ENGLISH": "I was wrong!!",
+      "CHINESE_SIMPLIFIED": "是我错了！！",
+      "CHINESE_TRADITIONAL": "是我錯了！！",
+      "JAPANESE": "俺が悪かったです！！",
+      "INDONESIAN": "Aku salah!!",
+      "PORTUGUESE": "A culpa foi minha!",
+      "SPANISH": "¡Es mi culpa!",
+      "PERSIAN": "من اشتباه کردم!!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "죄송합니다!! ",
+      "ENGLISH": "I’m sorry!!",
+      "CHINESE_SIMPLIFIED": "对不起！！",
+      "CHINESE_TRADITIONAL": "對不起！！",
+      "JAPANESE": "すみませんでした！！",
+      "INDONESIAN": "Maaf yaaa!!",
+      "PORTUGUESE": "Me perdoem!!",
+      "SPANISH": "¡¡Perdónenme!!",
+      "PERSIAN": "متاسفم!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 고마워... 내가 본의 아니게 신세를 좀... 졌네...",
+      "ENGLISH": "Yuman, thank you… I owe you one. Even if it wasn’t on purpose…",
+      "CHINESE_SIMPLIFIED": "吴宥万，谢谢你...没想到会给你添麻烦...",
+      "CHINESE_TRADITIONAL": "吳宥萬，謝謝你...沒想到會給你添麻煩...",
+      "JAPANESE": "ユマンさん、ありがとう… 迷惑かけちゃって…本当に助かったよ…",
+      "INDONESIAN": "Yuman, makasih… Aku berutang banget sama kamu. Walaupun nggak sengaja sih…",
+      "PORTUGUESE": "Obrigada, Yumán… acabei te metendo em apuros sem querer...",
+      "SPANISH": "Gracias, Yumán… sin querer te metí en problemas...",
+      "PERSIAN": "یومان، ممنونم... من یکی به تو مدیونم. حتی اگر عمدی نبود…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "예... 근데 그건 그렇고",
+      "ENGLISH": "Yeah… but still,",
+      "CHINESE_SIMPLIFIED": "那个...话说回来",
+      "CHINESE_TRADITIONAL": "那個...話說回來",
+      "JAPANESE": "いえ…でも、それはそれとして",
+      "INDONESIAN": "Iya… tapi tetap aja,",
+      "PORTUGUESE": "Sim... mas, deixando isso de lado...",
+      "SPANISH": "Sí... pero, dejando eso de lado...",
+      "PERSIAN": "آره اما هنوز"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.3
+    },
+    "SCRIPT": {
+      "KOREAN": "냄새가 보통 심각한 게 아닌데",
+      "ENGLISH": "the smell was honestly on another level.",
+      "CHINESE_SIMPLIFIED": "这味道实在有点不寻常啊",
+      "CHINESE_TRADITIONAL": "這味道不是普通的嚴重耶",
+      "JAPANESE": "においが普通じゃないレベルなんで",
+      "INDONESIAN": "baunya tuh… bener-bener di luar nalar.",
+      "PORTUGUESE": "o cheiro era de outro mundo.",
+      "SPANISH": "el olor era de otro mundo.",
+      "PERSIAN": "بو صادقانه در سطح دیگری بود."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "병원 가 보셔야 되는 거 아니에요?",
+      "ENGLISH": "Shouldn’t you maybe… see a doctor or something?",
+      "CHINESE_SIMPLIFIED": "您是不是该去医院看看啊？",
+      "CHINESE_TRADITIONAL": "您是不是該去一趟醫院看看",
+      "JAPANESE": "病院行った方がいいんじゃないですか？",
+      "INDONESIAN": "Kamu nggak mau… periksa ke dokter gitu?",
+      "PORTUGUESE": "Você não acha que devia ir pro hospital?",
+      "SPANISH": "¿No cree que debería ir al hospital?",
+      "PERSIAN": "نباید ... به دکتر یا چیزی دیگر مراجعه کنید؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 29.9
+    },
+    "SCRIPT": {
+      "KOREAN": "창피하게 왜 그런 소리를 해! 빨리 와! ",
+      "ENGLISH": "Why would you say something so embarrassing?! Let’s just go—hurry!",
+      "CHINESE_SIMPLIFIED": "这种丢人的事，别再说了！快走啦！",
+      "CHINESE_TRADITIONAL": "這種丟人的事，別再說了！快走啦！",
+      "JAPANESE": "恥ずかしいこと言わないで！ 早く来なさい！",
+      "INDONESIAN": "Ng—ngapain sih ngomong yang bikin malu gitu?! Udah, ayo pergi—cepat!",
+      "PORTUGUESE": "Como você se atreve...?! Vem aqui agora!",
+      "SPANISH": "¡¿Cómo te atreves...?!¡Ven aquí ahora!",
+      "PERSIAN": "چرا انقدر خجالت آور میگی؟! فقط برویم - عجله کن!"
+    }
+  }
+]

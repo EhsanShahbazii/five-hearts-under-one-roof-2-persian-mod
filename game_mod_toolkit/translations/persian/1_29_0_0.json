@@ -1,0 +1,405 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 우유만!",
+      "ENGLISH": "Jeez, Yuman!",
+      "CHINESE_SIMPLIFIED": "吴宥万！",
+      "CHINESE_TRADITIONAL": "吳宥萬！",
+      "JAPANESE": "ユマン！",
+      "INDONESIAN": "Hey, Yuman!",
+      "PORTUGUESE": "Ei, Woo Yuman!",
+      "SPANISH": "¡Hey, Yuman Woo!",
+      "PERSIAN": "هووی، وو یومان!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.0
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "너 진짜 괜찮아? ",
+      "ENGLISH": "Are you really okay?",
+      "CHINESE_SIMPLIFIED": "你没事吧？",
+      "CHINESE_TRADITIONAL": "你沒事吧？",
+      "JAPANESE": "本当に大丈夫なの？",
+      "INDONESIAN": "Kamu beneran nggak apa-apa?",
+      "PORTUGUESE": "Você tá mesmo bem?",
+      "SPANISH": "¿De verdad estás bien?",
+      "PERSIAN": "تو واقعاً حالت روبه‌راهه الان؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 퇴원해도 되는 거 맞아?",
+      "ENGLISH": "You sure you’re ready to be discharged like this?",
+      "CHINESE_SIMPLIFIED": "你确定这样就可以出院吗？",
+      "CHINESE_TRADITIONAL": "你確定這樣就可以出院嗎？",
+      "JAPANESE": "こんなふうに退院して平気なの？",
+      "INDONESIAN": "Yakin udah boleh pulang dari rumah sakit kayak gini?",
+      "PORTUGUESE": "Tem certeza de que tá pronto pra receber alta assim?",
+      "SPANISH": "¿Estás seguro de que ya te pueden dar de alta?",
+      "PERSIAN": "مطمئنی اینجوری باید ولت می‌کردن بیای بیرون؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "나 누구야.",
+      "ENGLISH": "Come on, who am I?",
+      "CHINESE_SIMPLIFIED": "你看看我是谁？",
+      "CHINESE_TRADITIONAL": "我問你，我是誰",
+      "JAPANESE": "私が誰かわかる？",
+      "INDONESIAN": "Eh, aku ini siapa coba.",
+      "PORTUGUESE": "Qual é, quem eu sou?",
+      "SPANISH": "¿Sabes quién soy?",
+      "PERSIAN": "ببینم اصلاً من کی‌ام؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 괜찮다니까.",
+      "ENGLISH": "I said I’m fine.",
+      "CHINESE_SIMPLIFIED": "哎呀我都说没事了",
+      "CHINESE_TRADITIONAL": "啊，我沒事了啦",
+      "JAPANESE": "大丈夫だって",
+      "INDONESIAN": "Udahlah, aku beneran nggak apa-apa kok.",
+      "PORTUGUESE": "Eu disse que tô bem.",
+      "SPANISH": "Ay, que sí estoy bien.",
+      "PERSIAN": "ای بابا، گفتم که خوبم هی گیر نده!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나 누구냐구!",
+      "ENGLISH": "No seriously—who am I?",
+      "CHINESE_SIMPLIFIED": "说我是谁啊！",
+      "CHINESE_TRADITIONAL": "我在問你我是誰？",
+      "JAPANESE": "私が誰かって聞いてるの！",
+      "INDONESIAN": "Aku ini siapa, hah!",
+      "PORTUGUESE": "Não, sério—quem eu sou?",
+      "SPANISH": "¡Te pregunté quién soy!",
+      "PERSIAN": "می‌گم بگو من کی‌ام زود باش!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 고말숙이지 누구야.",
+      "ENGLISH": "Ugh, you’re Go Mal-sook, who else?",
+      "CHINESE_SIMPLIFIED": "高末淑啊，还能是谁",
+      "CHINESE_TRADITIONAL": "高末淑啊，不然還會是誰？",
+      "JAPANESE": "ああ、コ・マルスクだろ",
+      "INDONESIAN": "Ya kamu Go Mal-sook, siapa lagi.",
+      "PORTUGUESE": "Ugh, você é a Go Mal-sook, quem mais?",
+      "SPANISH": "Ay, ¿quién más va a ser? Go Mal-sook, obviamente.",
+      "PERSIAN": "گو مال‌سوکی دیگه، مگه می‌شه نشناسمت دیوونه؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저번에 나한테 5천만원 빌려간 거 기억하지?",
+      "ENGLISH": "Remember when you borrowed fifty million won from me?",
+      "CHINESE_SIMPLIFIED": "你还记得之前跟我借了五千万韩元吗？",
+      "CHINESE_TRADITIONAL": "你還記得跟我借過五千萬韓元",
+      "JAPANESE": "この前、私から5千万ウォン借りたの覚えてるよね？",
+      "INDONESIAN": "Kamu inget nggak sih pernah minjem lima puluh juta won ke aku?",
+      "PORTUGUESE": "Lembra quando você me pediu emprestado cinquenta milhões de won?",
+      "SPANISH": "¿Te acuerdas que me pediste prestados 50 millones la otra vez?",
+      "PERSIAN": "یادته اون دفعه ۵۰ میلیون وون از من دستی قرض گرفتی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.8,
+      "HIDE": 31.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭔 소리야. 난 너한테 돈빌린 적 없는데...",
+      "ENGLISH": "What are you talking about? I never borrowed money from you…",
+      "CHINESE_SIMPLIFIED": "哈？你说什么啊，我什么时候跟你借过钱…",
+      "CHINESE_TRADITIONAL": "你在說什麼鬼話。我又沒跟你借過錢…",
+      "JAPANESE": "…何言ってるんだよ。俺、おまえからお金なんて借りてないけど…",
+      "INDONESIAN": "Eh, apaan sih. Aku nggak pernah minjem duit dari kamu...",
+      "PORTUGUESE": "Do que você tá falando? Eu nunca te pedi dinheiro emprestado…",
+      "SPANISH": "¿De qué hablas? Yo nunca te pedí dinero...",
+      "PERSIAN": "چی داری می‌بافی واسه خودت؟! من کی از تو پول قرض کردم اخه؟!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.6,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "멀쩡하네?",
+      "ENGLISH": "Hmph, guess your brain’s working fine.",
+      "CHINESE_SIMPLIFIED": "看样子挺清醒的嘛？",
+      "CHINESE_TRADITIONAL": "看起來沒事麻？",
+      "JAPANESE": "元気そうじゃん？",
+      "INDONESIAN": "Keliatannya kamu sehat-sehat aja, ya?",
+      "PORTUGUESE": "Hmph, acho que seu cérebro tá funcionando bem.",
+      "SPANISH": "Estás perfectamente, ¿eh?",
+      "PERSIAN": "عه... پس مغزت سالمه کار می‌کنه، دوزاریت جا افتاده!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 38.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너 이거 뭐야?",
+      "ENGLISH": "Hey, what’s this?",
+      "CHINESE_SIMPLIFIED": "你这是什么？",
+      "CHINESE_TRADITIONAL": "你這個是什麼？",
+      "JAPANESE": "それ、なに？",
+      "INDONESIAN": "Ini apaan?",
+      "PORTUGUESE": "Ei, o que é isso?",
+      "SPANISH": "¿Y esto qué es?",
+      "PERSIAN": "صبر کن ببینم... این چیه این گوشه؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 39.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가?",
+      "ENGLISH": "What’s what?",
+      "CHINESE_SIMPLIFIED": "什么什么？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "どれ？",
+      "INDONESIAN": "Apanya?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿El qué?",
+      "PERSIAN": "چی چیه؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 39.3,
+      "HIDE": 41.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 여자가 쓴 건데...",
+      "ENGLISH": "This handwriting—it’s a woman’s, isn’t it?",
+      "CHINESE_SIMPLIFIED": "这不是女生用的吗…",
+      "CHINESE_TRADITIONAL": "這是女生用的吧…",
+      "JAPANESE": "これ、女の人が書いたやつでしょ？",
+      "INDONESIAN": "Ini lho, tulisan tangan cewek.",
+      "PORTUGUESE": "Essa letra—é de uma mulher, não é?",
+      "SPANISH": "Esto... es la letra de una mujer.",
+      "PERSIAN": "این دستخط... معلومه خط یه دختره ها!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 41.3,
+      "HIDE": 44.4
+    },
+    "SCRIPT": {
+      "KOREAN": "여자? 뭔데~ 뭐 말하는 건데~",
+      "ENGLISH": "A woman? What are you even talking about~",
+      "CHINESE_SIMPLIFIED": "女生？你在说什么啦～说清楚点啊～",
+      "CHINESE_TRADITIONAL": "女生？什麼東西啦～你在說什麼啦～",
+      "JAPANESE": "女？ なんだよそれ〜、何の話してんの〜",
+      "INDONESIAN": "Cewek? Apaan sih~ ngomong apa sih kamu~",
+      "PORTUGUESE": "Uma mulher? Do que você tá falando~",
+      "SPANISH": "¿Una mujer? ¿De qué estás hablando~?",
+      "PERSIAN": "دختر؟! چی داری می‌گی بابا، توهم زدی؟!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 46.4
+    },
+    "SCRIPT": {
+      "KOREAN": "음..아니야.",
+      "ENGLISH": "Mm… never mind.",
+      "CHINESE_SIMPLIFIED": "嗯…没什么啦",
+      "CHINESE_TRADITIONAL": "嗯…沒事",
+      "JAPANESE": "…ま、いいや",
+      "INDONESIAN": "Hmm... nggak, bukan apa-apa.",
+      "PORTUGUESE": "Mm… deixa pra lá.",
+      "SPANISH": "Nada, olvídalo.",
+      "PERSIAN": "هوم... ولش کن اصلاً."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 49.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그나저나, 6개월 만에 보는 나 어때?",
+      "ENGLISH": "Anyway, how do I look after six months?",
+      "CHINESE_SIMPLIFIED": "诶，说起来，你觉得六个月没见的我，怎么样？",
+      "CHINESE_TRADITIONAL": "啊對了，你覺得我這個半年沒見的人怎麼樣？",
+      "JAPANESE": "それより、半年ぶりに会った私、どう？ ",
+      "INDONESIAN": "Ngomong-ngomong, gimana? Udah 6 bulan nggak ketemu aku.",
+      "PORTUGUESE": "Enfim, como eu tô depois de seis meses?",
+      "SPANISH": "Oye, por cierto... ¿cómo me veo después de estos 6 meses?",
+      "PERSIAN": "راستی، بعد شیش ماه که منو می‌بینی چطور شدم؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 49.5,
+      "HIDE": 50.7
+    },
+    "SCRIPT": {
+      "KOREAN": "안 반가워?",
+      "ENGLISH": "Not even a little happy to see me?",
+      "CHINESE_SIMPLIFIED": "不开心吗？",
+      "CHINESE_TRADITIONAL": "不高興嗎？",
+      "JAPANESE": "嬉しくないの？",
+      "INDONESIAN": "Nggak seneng liat aku?",
+      "PORTUGUESE": "Nem um pouco feliz de me ver?",
+      "SPANISH": "¿No te da gusto verme?",
+      "PERSIAN": "اصلاً خوشحال نشدی قیافه‌مو دیدی؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 51.3,
+      "HIDE": 54.5
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 너 오늘 남자 만나고 왔냐? ",
+      "ENGLISH": "Wait, did you meet some guy today?",
+      "CHINESE_SIMPLIFIED": "不过你今天是不是去约会了？",
+      "CHINESE_TRADITIONAL": "不過，你今天是不是跟男生見面？",
+      "JAPANESE": "てか今日、誰か男と会ってきた？",
+      "INDONESIAN": "Tapi kamu abis ketemu cowok ya hari ini?",
+      "PORTUGUESE": "Espera, você conheceu algum cara hoje?",
+      "SPANISH": "Pero oye, ¿fuiste a ver a un chico hoy?",
+      "PERSIAN": "صبر کن ببینم... نکنه امروز با یه پسری قرار داشتی؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 54.5,
+      "HIDE": 56.6
+    },
+    "SCRIPT": {
+      "KOREAN": "옷이 평소에 입는 느낌이 아닌데?",
+      "ENGLISH": "Your outfit doesn’t look like your usual style.",
+      "CHINESE_SIMPLIFIED": "衣服和平常穿的感觉不太一样？",
+      "CHINESE_TRADITIONAL": "衣服的風格和平常不一樣",
+      "JAPANESE": "服、いつもと雰囲気違うんだけど",
+      "INDONESIAN": "Bajumu beda dari biasanya, lho.",
+      "PORTUGUESE": "Sua roupa não parece o estilo de sempre.",
+      "SPANISH": "Esa ropa no es la que sueles ponerte…",
+      "PERSIAN": "تیپت اصلاً شبیه روزای عادیت نیست!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 56.6,
+      "HIDE": 59.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 오랜만에 친구들 좀 만나느라고",
+      "ENGLISH": "Ah… I just met up with some friends I hadn’t seen in a while.",
+      "CHINESE_SIMPLIFIED": "啊...只是久违地去见了个朋友而已",
+      "CHINESE_TRADITIONAL": "啊…跟很久沒見的朋友碰面一下而已",
+      "JAPANESE": "あー…久々に友達と会ってただけだよ",
+      "INDONESIAN": "Ah... tadi ketemu temen-temen aja, udah lama nggak main bareng.",
+      "PORTUGUESE": "Ah… só encontrei uns amigos que não via fazia tempo.",
+      "SPANISH": "Ah… es que fui a ver a unas amigas, hacía mucho que no las veía.",
+      "PERSIAN": "نه بابا... فقط با بچه‌ها رفته بودم بیرون یه دوری بزنیم."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 59.7,
+      "HIDE": 63.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그나저나 6개월만에 보는 고말숙 어떠냐고~",
+      "ENGLISH": "But seriously, how do I look after six months?",
+      "CHINESE_SIMPLIFIED": "哎哎哎～我说，你觉得六个月后的高末淑怎么样？",
+      "CHINESE_TRADITIONAL": "話說回來，你覺得眼前半年沒見的高末淑怎麼樣啊～",
+      "JAPANESE": "それより、半年ぶりに会うコ・マルスク、どう？",
+      "INDONESIAN": "Tapi ngomong-ngomong, gimana nih aku setelah 6 bulan?",
+      "PORTUGUESE": "Mas falando sério, como eu tô depois de seis meses?",
+      "SPANISH": "¡Ya, pero dime! ¡Han pasado seis meses! ¿Cómo me veo?",
+      "PERSIAN": "حالا اینا رو ول کن، نگفتی گو مال‌سوک بعد شیش ماه چطوره؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 63.2,
+      "HIDE": 65.8
+    },
+    "SCRIPT": {
+      "KOREAN": "안 예뻐? 뭐 달라진 거 없어?",
+      "ENGLISH": "Not pretty? Don’t you notice anything different?",
+      "CHINESE_SIMPLIFIED": "不漂亮吗？有没有哪里不一样？",
+      "CHINESE_TRADITIONAL": "不漂亮嗎？有沒有哪裡不一樣？",
+      "JAPANESE": "可愛くない？ なんか変わったとこない？",
+      "INDONESIAN": "Cantikan nggak? Ada yang beda nggak?",
+      "PORTUGUESE": "Não tô bonita? Não percebe nada diferente?",
+      "SPANISH": "¿No estoy guapa? ¿No notas algo diferente?",
+      "PERSIAN": "خوشگل نشدم؟ تغییری تو من نمی‌بینی واقعاً؟"
+    }
+  }
+]

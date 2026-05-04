@@ -1,0 +1,153 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 형님 놔봐요",
+      "ENGLISH": "Hey, bro, chill—",
+      "CHINESE_SIMPLIFIED": "大哥你放手啊",
+      "CHINESE_TRADITIONAL": "啊！大哥你放開我啦",
+      "JAPANESE": "離せって兄貴！",
+      "INDONESIAN": "Bro, santai dulu—",
+      "PORTUGUESE": "Ei, me solta, cara.",
+      "SPANISH": "Oye, suéltame bro.",
+      "PERSIAN": "هی، داداش، آرام باش -"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나 누님 얼굴 잠깐만 확인할게",
+      "ENGLISH": "I just wanna see her face real quick.",
+      "CHINESE_SIMPLIFIED": "我就确认下这位姐姐的长相",
+      "CHINESE_TRADITIONAL": "我只是確認一下這位姊姊的長相",
+      "JAPANESE": "姉さんの顔ちょっとだけ確認させてくださいよ",
+      "INDONESIAN": "Gue cuma pengen lihat mukanya sebentar aja.",
+      "PORTUGUESE": "Só quero ver o rosto da moça por um segundo.",
+      "SPANISH": "Solo quiero ver la cara de la señorita un segundo.",
+      "PERSIAN": "من فقط می خواهم چهره اونو خیلی سریع ببینم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 잠깐만 기다려봐 잠깐만 ",
+      "ENGLISH": "Hold on, just give me a second—just one second!",
+      "CHINESE_SIMPLIFIED": "等一下 让我看看",
+      "CHINESE_TRADITIONAL": "欸，等一下，你等一下",
+      "JAPANESE": "ちょ、ちょっと待って！待ってってば！",
+      "INDONESIAN": "Tunggu, kasih gue satu detik aja—satu detik doang!",
+      "PORTUGUESE": "Ei, espera, espera um pouco, só um segundo...",
+      "SPANISH": "Oye, espera, espera un momento, solo un segundo...",
+      "PERSIAN": "صبر کن، فقط یک ثانیه به من بده - فقط یک ثانیه!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어...?",
+      "ENGLISH": "Wait... huh...?",
+      "CHINESE_SIMPLIFIED": "呃...？",
+      "CHINESE_TRADITIONAL": "呃...？",
+      "JAPANESE": "あれ…？",
+      "INDONESIAN": "Eh... hah...?",
+      "PORTUGUESE": "Hã...?",
+      "SPANISH": "¿Eh...?",
+      "PERSIAN": "صبر کن... ها...؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이 새끼 남자 좋아하네ㅋㅋㅋㅋ",
+      "ENGLISH": "Yo, this guy’s into dudes! Hah!",
+      "CHINESE_SIMPLIFIED": "这小子喜欢男的哈哈哈",
+      "CHINESE_TRADITIONAL": "這傢伙是喜歡男人吧！呵呵",
+      "JAPANESE": "こいつ…男が好きなのかよｗｗｗ",
+      "INDONESIAN": "Woy, nih orang suka cowok! Hah!",
+      "PORTUGUESE": "Hahaha, esse cara… gosta de homens.",
+      "SPANISH": "Jajaja, este tipo… le gustan los hombres.",
+      "PERSIAN": "اوه، این مرد عاشق آدم هاست! هه!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 아니야!! 나 여자 좋아해! 나 여미새라고!!!",
+      "ENGLISH": "What?! No, I like girls! I love girls, okay?!",
+      "CHINESE_SIMPLIFIED": "不是啊！！我喜欢女的！我是直男！！",
+      "CHINESE_TRADITIONAL": "不是啦！！我喜歡女人！",
+      "JAPANESE": "ち、違うって！！俺 女が好きだよ！超女好きなんだって！！",
+      "INDONESIAN": "Apa?! Nggak, gue suka cewek! Gue cinta cewek, oke?!",
+      "PORTUGUESE": "Não, não é verdade! Eu gosto de mulheres! Sou um mulherengo nato!",
+      "SPANISH": "¡No, no es cierto! ¡A mí me gustan las mujeres! ¡Soy todo un mujeriego!",
+      "PERSIAN": "چی؟! نه من دخترا رو دوست دارم من دخترا رو دوست دارم، باشه؟!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Wait, what...?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "哦？",
+      "JAPANESE": "は？",
+      "INDONESIAN": "Tunggu, apa...??",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Ah?",
+      "PERSIAN": "صبر کن چی...؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 19.4
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 씨 얼른 가요",
+      "ENGLISH": "Min-jung, go—now!",
+      "CHINESE_SIMPLIFIED": "敏静，快走",
+      "CHINESE_TRADITIONAL": "敏靜，我們快走",
+      "JAPANESE": "ミンジョンさん、早く行ってください",
+      "INDONESIAN": "Min-jung, sekarang—cepet lari!",
+      "PORTUGUESE": "Minjung, vamos embora agora!",
+      "SPANISH": "¡Minjung, vámonos ya!",
+      "PERSIAN": "مین‌جونگ، برو - حالا!"
+    }
+  }
+]

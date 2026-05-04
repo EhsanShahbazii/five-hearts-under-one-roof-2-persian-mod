@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 기억나지. ",
+      "ENGLISH": "Ah, of course I remember.",
+      "CHINESE_SIMPLIFIED": "记得啊",
+      "CHINESE_TRADITIONAL": "我記得啊",
+      "JAPANESE": "ああ、覚えてるさ",
+      "INDONESIAN": "Oh, tentu aku ingat.",
+      "PORTUGUESE": "Ah, claro que eu lembro.",
+      "SPANISH": "Claro que me acuerdo.",
+      "PERSIAN": "آها، مگه می‌شه یادم بره؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너 초록색 입었었잖아.",
+      "ENGLISH": "You were wearing green.",
+      "CHINESE_SIMPLIFIED": "你那时候穿的是绿色的吧？",
+      "CHINESE_TRADITIONAL": "你穿綠色的啊",
+      "JAPANESE": "お前、緑着てただろ",
+      "INDONESIAN": "Kamu pakai yang hijau, kan.",
+      "PORTUGUESE": "Você tava de verde.",
+      "SPANISH": "Llevabas uno verde.",
+      "PERSIAN": "سبز پوشیده بودی دیگه!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "민트였나...연두색이었는데...",
+      "ENGLISH": "Or was it mint… maybe light green?",
+      "CHINESE_SIMPLIFIED": "是薄荷绿来着…还是嫩绿色…",
+      "CHINESE_TRADITIONAL": "是是薄荷綠嗎…還是淺綠色的",
+      "JAPANESE": "ミントだったか…黄緑だったよな…",
+      "INDONESIAN": "Mint ya... atau hijau muda gitu...",
+      "PORTUGUESE": "Ou era menta… talvez verde-claro?",
+      "SPANISH": "¿Era menta…? O verde clarito, algo así…",
+      "PERSIAN": "شایدم سبز فسفری بود یا نعنایی..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야 그거 나 아니거든?",
+      "ENGLISH": "Hey, that wasn’t me!",
+      "CHINESE_SIMPLIFIED": "喂，那不是我好吗？",
+      "CHINESE_TRADITIONAL": "喂，那不是我好不好？",
+      "JAPANESE": "ちょっと、それ私じゃないんだけど？",
+      "INDONESIAN": "Eh, itu bukan aku, tau!",
+      "PORTUGUESE": "Ei, essa não era eu!",
+      "SPANISH": "¡Esa no era yo!",
+      "PERSIAN": "هووی! اونم من نبودم که!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아닌데? 너 맞는데?",
+      "ENGLISH": "Wasn’t it? I could’ve sworn it was you.",
+      "CHINESE_SIMPLIFIED": "不是吗？你确定吗？",
+      "CHINESE_TRADITIONAL": "不是嗎？就是你啊？",
+      "JAPANESE": "違うって？いや、お前だったって",
+      "INDONESIAN": "Bukan? Tapi aku yakin itu kamu deh!",
+      "PORTUGUESE": "Não era? Eu podia jurar que era você.",
+      "SPANISH": "Estoy seguro que eras tú…",
+      "PERSIAN": "نبودی؟! به جون خودم خودت بودی!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그거 은비랑 승이가 입었던 거잖아!",
+      "ENGLISH": "That was Eun-bi and Seung-yi who wore those!",
+      "CHINESE_SIMPLIFIED": "那是恩妃和圣依穿的好不好！",
+      "CHINESE_TRADITIONAL": "那是恩妃和聖依穿的！",
+      "JAPANESE": "それ、ウンビとスンイが着てたやつでしょ！",
+      "INDONESIAN": "Itu yang dipakai Eun-bi sama Seung-yi, tau!",
+      "PORTUGUESE": "Foram a Eun-bi e a Seung-yi que usaram isso!",
+      "SPANISH": "¡Ese lo llevaban Eunbi y Seung-yi!",
+      "PERSIAN": "اونا رو که ایون‌بی و سئونگ‌یی پوشیده بودن!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아...그랬나?",
+      "ENGLISH": "Ah… was it?",
+      "CHINESE_SIMPLIFIED": "啊…是吗？",
+      "CHINESE_TRADITIONAL": "啊...是嗎？",
+      "JAPANESE": "あ…そうだっけ？",
+      "INDONESIAN": "Ah... iya ya?",
+      "PORTUGUESE": "Ah… foi?",
+      "SPANISH": "Ah... ¿sí?",
+      "PERSIAN": "عه... واقعاً اونا بودن؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 너한테 뭘 바라냐.",
+      "ENGLISH": "What am I even expecting from you…",
+      "CHINESE_SIMPLIFIED": "我还能对你指望什么呢",
+      "CHINESE_TRADITIONAL": "我對你還能有什麼期待呢",
+      "JAPANESE": "はぁ…私がユマンに何を期待してるんだか",
+      "INDONESIAN": "Aku ngarep apa sih dari kamu...",
+      "PORTUGUESE": "O que eu tô esperando de você mesmo…",
+      "SPANISH": "No sé qué espero de ti.",
+      "PERSIAN": "منو بگو از کی چه توقعایی دارم..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "약간 초록색이었던 거 같은데...",
+      "ENGLISH": "I still feel like it was some kind of green though…",
+      "CHINESE_SIMPLIFIED": "我记得好像是绿色的啊…",
+      "CHINESE_TRADITIONAL": "好像是帶點綠色的…",
+      "JAPANESE": "でも、なんか緑っぽかった気がするんだよな…",
+      "INDONESIAN": "Tapi rasanya warnanya agak-agak hijau gitu deh...",
+      "PORTUGUESE": "Ainda acho que era algum tipo de verde…",
+      "SPANISH": "Juraría que era un tono de verde…",
+      "PERSIAN": "ولی مطمئنم یه رگه‌هایی از سبز داشت لباسه ها..."
+    }
+  }
+]

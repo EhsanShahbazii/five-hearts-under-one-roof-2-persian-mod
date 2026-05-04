@@ -1,0 +1,311 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "으아아아!!!! 밟았어 밟았어...!",
+      "ENGLISH": "WAAAHHHH!!! I stepped on it—I stepped on it!!",
+      "CHINESE_SIMPLIFIED": "啊啊啊！！！踩到了踩到了...！",
+      "CHINESE_TRADITIONAL": "嗚哇啊啊啊！！！！ 踩到、踩到了...!",
+      "JAPANESE": "うわあああ！！踏んだ踏んだ…！",
+      "INDONESIAN": "WAAAHHHH!!! Aku nginjek itu—aku nginjek beneran!!",
+      "PORTUGUESE": "Aaaahhh!!! Eu pisei, eu pisei…!",
+      "SPANISH": "¡¡¡Aaaahhh!!! ¡Lo pisé, lo pisé…!",
+      "PERSIAN": "واااای!!! پا گذاشتم - پا گذاشتم!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 느꼈어어어!!! 말캉해! 아직도 느낌 이상해애애",
+      "ENGLISH": "I felt it! It was all squishy! I can still feel it, ughhh!!",
+      "CHINESE_SIMPLIFIED": "我真的感觉到了！！！滑溜溜的！感觉好奇怪啊啊啊",
+      "CHINESE_TRADITIONAL": "這是什麼啊！！！ 軟軟的！感覺好奇怪！！",
+      "JAPANESE": "感じた！なんかやわらかかった！まだ変な感触残ってる～！！",
+      "INDONESIAN": "Kerasa banget! Lembek-lembek gitu! Masih kebayang rasanya, ughhh!!",
+      "PORTUGUESE": "Eu senti! Era macio! Foi uma sensação muito estranha!",
+      "SPANISH": "¡Lo sentí! ¡Era blando! ¡Se sientió muy raro!",
+      "PERSIAN": "حسش کردم! همش خفن بود! هنوزم میتونم حسش کنم خخخ!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님...",
+      "ENGLISH": "Yuman…",
+      "CHINESE_SIMPLIFIED": "宥万先生...",
+      "CHINESE_TRADITIONAL": "宥萬先生...",
+      "JAPANESE": "ユマンさん…",
+      "INDONESIAN": "Yuman…",
+      "PORTUGUESE": "Senhor Yumán...",
+      "SPANISH": "Señor Yumán...",
+      "PERSIAN": "یومان…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네...?",
+      "ENGLISH": "Yeah…?",
+      "CHINESE_SIMPLIFIED": "嗯...？",
+      "CHINESE_TRADITIONAL": "嗯...?",
+      "JAPANESE": "はい…？",
+      "INDONESIAN": "Iya…?",
+      "PORTUGUESE": "Sim...?",
+      "SPANISH": "¿Sí...?",
+      "PERSIAN": "آره…؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저... 숨을 못 쉬겠어요....",
+      "ENGLISH": "I… I can’t breathe…",
+      "CHINESE_SIMPLIFIED": "我...喘不过气了....",
+      "CHINESE_TRADITIONAL": "我...我快喘不過氣了...",
+      "JAPANESE": "私…息ができません……",
+      "INDONESIAN": "A-aku… aku nggak bisa napas…",
+      "PORTUGUESE": "Eu não consigo respirar...",
+      "SPANISH": "No puedo respirar...",
+      "PERSIAN": "من...نمیتونم نفس بکشم…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아....",
+      "ENGLISH": "Ah…",
+      "CHINESE_SIMPLIFIED": "啊....",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あっ…",
+      "INDONESIAN": "Ah…",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "آه…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "ㅁ..미안해요. 순간 놀라가지고...",
+      "ENGLISH": "S-sorry. I just got really freaked out for a second…",
+      "CHINESE_SIMPLIFIED": "对...对不起。一下子被吓到了...",
+      "CHINESE_TRADITIONAL": "對、對不起，我突然被嚇到了...",
+      "JAPANESE": "ご、ごめんなさい！びっくりして反射的に…",
+      "INDONESIAN": "M-maaf. Barusan panik banget…",
+      "PORTUGUESE": "M-me desculpa. Me assustei por um momento...",
+      "SPANISH": "L-lo siento. Por un momento me asusté...",
+      "PERSIAN": "-با عرض پوزش. من فقط یک لحظه واقعاً هول شدم…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "You okay?",
+      "CHINESE_SIMPLIFIED": "没事吧？",
+      "CHINESE_TRADITIONAL": "妳沒事吧？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Você tá bem?",
+      "SPANISH": "¿Estás bien?",
+      "PERSIAN": "شما خوبی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 괜찮아요.",
+      "ENGLISH": "Yeah… I’m okay.",
+      "CHINESE_SIMPLIFIED": "嗯...没事",
+      "CHINESE_TRADITIONAL": "嗯...沒關係",
+      "JAPANESE": "はい…大丈夫です",
+      "INDONESIAN": "Iya… aku nggak apa-apa.",
+      "PORTUGUESE": "Sim... tô bem.",
+      "SPANISH": "Sí... estoy bien.",
+      "PERSIAN": "آره… من خوبم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 저 때문에 머리가...",
+      "ENGLISH": "Oh no, your head… because of me…",
+      "CHINESE_SIMPLIFIED": "啊...我的错，让你头撞到了...",
+      "CHINESE_TRADITIONAL": "啊... 因為我，頭...",
+      "JAPANESE": "あっ…俺のせいで頭が…",
+      "INDONESIAN": "Ya ampun, kepalamu… gara-gara aku…",
+      "PORTUGUESE": "Ah... por minha culpa, sua cabeça...",
+      "SPANISH": "Ah... por mi culpa, su cabello...",
+      "PERSIAN": "اوه نه سرت...به خاطر من..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님은 괜찮아요?",
+      "CHINESE_SIMPLIFIED": "宥万先生，你没事吧？",
+      "CHINESE_TRADITIONAL": "宥萬先生你沒事吧？",
+      "JAPANESE": "ユマンさんこそ大丈夫ですか？",
+      "PORTUGUESE": "E o senhor, Yumán? Tá bem?",
+      "SPANISH": "¿Y usted, señor Yumán? ¿Está bien?",
+      "PERSIAN": "حالت خوبه یومان؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 22.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 그냥... 장난감 닭인데...",
+      "ENGLISH": "It’s just… a toy chicken.",
+      "CHINESE_SIMPLIFIED": "这个只是...玩具鸡而已...",
+      "CHINESE_TRADITIONAL": "這只是...一隻玩具雞...",
+      "JAPANESE": "これただの…チキンのおもちゃですよ…",
+      "INDONESIAN": "Ini cuma… ayam mainan.",
+      "PORTUGUESE": "Isso... é só uma galinha de brinquedo...",
+      "SPANISH": "Esto... solo es un pollo de juguete...",
+      "PERSIAN": "این فقط یک مرغ اسباب بازی است."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아... 인형이구나.",
+      "ENGLISH": "Ah… oh. It’s a plushie.",
+      "CHINESE_SIMPLIFIED": "啊，啊...原来是玩具啊",
+      "CHINESE_TRADITIONAL": "呃啊... 是玩具啊",
+      "JAPANESE": "あ、あぁ…人形か",
+      "INDONESIAN": "Ah… oh. Boneka ternyata.",
+      "PORTUGUESE": "Ah, a-ah... um boneco.",
+      "SPANISH": "Ah, a-ah... un muñeco.",
+      "PERSIAN": "آه… آه. این یک مخمل خواب دار است."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 27.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아아, 깜짝이야.",
+      "ENGLISH": "Gah, that scared the hell out of me.",
+      "CHINESE_SIMPLIFIED": "啊啊，吓死我了",
+      "CHINESE_TRADITIONAL": "唉呀，嚇我一跳",
+      "JAPANESE": "うわ、びっくりした",
+      "INDONESIAN": "Gila, bikin jantungan aja.",
+      "PORTUGUESE": "Fiuu, que susto.",
+      "SPANISH": "Fiuu, que susto.",
+      "PERSIAN": "هه، این منو ترسوند."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이런게 왜 여기있어! 에잇...! 씨이....",
+      "ENGLISH": "Why is this even here?! Ugh… damn it…",
+      "CHINESE_SIMPLIFIED": "这种东西怎么会在这里！哎...！真是...",
+      "CHINESE_TRADITIONAL": "這東西怎麼會在這裡！哎...! 真是的...",
+      "JAPANESE": "なんでこんなのがここにあるの！もうっ…ちぇっ…",
+      "INDONESIAN": "Kenapa juga ini bisa ada di sini sih?! Ugh… kesel banget…",
+      "PORTUGUESE": "Por que tem uma coisa dessas aqui?! Meu Deus...!",
+      "SPANISH": "¡¿Por qué hay algo así aquí?! ¡Dios mío...!",
+      "PERSIAN": "اصلا چرا اینجا اینجاست؟! اوه… لعنتی…"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 32.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼... 마저 가볼까요.",
+      "ENGLISH": "Well… shall we keep going?",
+      "CHINESE_SIMPLIFIED": "那...我们继续走吧？",
+      "CHINESE_TRADITIONAL": "那...我們繼續走吧",
+      "JAPANESE": "じゃあ…行きましょうか",
+      "INDONESIAN": "Yah… lanjut jalan yuk?",
+      "PORTUGUESE": "Bom... vamos continuar.",
+      "SPANISH": "Bueno... sigamos.",
+      "PERSIAN": "خب... ادامه بدیم؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 39.1,
+      "HIDE": 42.7
+    },
+    "SCRIPT": {
+      "KOREAN": "ㅇ... 으아아아아아!!!!!",
+      "ENGLISH": "A-AHHHHHHHHHH!!!!",
+      "CHINESE_SIMPLIFIED": "呃...啊啊啊啊啊啊——！！！！",
+      "CHINESE_TRADITIONAL": "呃...呃啊啊啊啊啊！！！！",
+      "JAPANESE": "うっ…うわああああああ！！！",
+      "INDONESIAN": "A-AHHHHHHHHHH!!!!",
+      "PORTUGUESE": "A— Aaaahhhhh!!!",
+      "SPANISH": "A— ¡¡¡Aaaahhhhh!!!",
+      "PERSIAN": "آخخخخخخخخخ!!!!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 16.0
+    }
+  }
+]

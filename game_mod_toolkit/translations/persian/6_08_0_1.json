@@ -1,0 +1,361 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 빨리해! 빨리해!\n- 빨리해! 빨리해!",
+      "ENGLISH": "- Hurry up! Hurry up! \n- Yeah, come on already!",
+      "CHINESE_SIMPLIFIED": "-来一个！来一个！\n-来一个！来一个！",
+      "CHINESE_TRADITIONAL": "- 快點啦！快點啦！ \n- 快點啦！快點啦！",
+      "JAPANESE": "‐ 早く早く！\n‐ 早く早く！",
+      "INDONESIAN": "- Cepetan dong! Cepetan!\n- Iya nih, ayo buruan!",
+      "PORTUGUESE": "- Rápido! Rápido!\n- Rápido! Rápido!",
+      "SPANISH": "- ¡Rápido! ¡Rápido!\n- ¡Rápido! ¡Rápido!",
+      "PERSIAN": "- عجله کن عجله کن - آره بیا دیگه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 자, 자!",
+      "ENGLISH": "Alright, alright!",
+      "CHINESE_SIMPLIFIED": "好啦好啦好啦！",
+      "CHINESE_TRADITIONAL": "好啦好啦好啦！",
+      "JAPANESE": "じゃあ、じゃあ、じゃあ！",
+      "INDONESIAN": "Iya, iya!",
+      "PORTUGUESE": "Tá bom, já vou!",
+      "SPANISH": "¡Está bien, ya voy!",
+      "PERSIAN": "باشه، باشه!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "건배사 하겠습니다.",
+      "ENGLISH": "Let me give a proper toast.",
+      "CHINESE_SIMPLIFIED": "我要说祝酒词了",
+      "CHINESE_TRADITIONAL": "我要說祝酒詞了",
+      "JAPANESE": "乾杯の挨拶します",
+      "INDONESIAN": "Aku bakal kasih toast yang beneran, deh.",
+      "PORTUGUESE": "Vou fazer o brinde.",
+      "SPANISH": "Voy a dar el brindis.",
+      "PERSIAN": "بذار یه نون تست درست بدم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자 오늘은 평생을 생판 남이었던 우리가",
+      "ENGLISH": "Today, we celebrate how a bunch of complete strangers…",
+      "CHINESE_SIMPLIFIED": "今天呢，我们这些原本素不相识的人",
+      "CHINESE_TRADITIONAL": "今天，這些原本都是陌生人的我們",
+      "JAPANESE": "今日は、もともと他人同士だった俺たちが",
+      "INDONESIAN": "Hari ini, kita rayakan pertemuan sekumpulan orang asing…",
+      "PORTUGUESE": "Hoje celebramos que pessoas que antes eram completamente desconhecidas,",
+      "SPANISH": "Hoy celebramos que personas que eran completas desconocidas,",
+      "PERSIAN": "امروز، ما جشن می گیریم که چگونه یک دسته از غریبه ها…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이 하숙집에, 그리고 병원에서 새로운 인연을 맺었음을 축하하는 자리입니다!",
+      "ENGLISH": "…ended up connecting here, in this guesthouse and at the hospital!",
+      "CHINESE_SIMPLIFIED": "能在这合租屋、还有医院里结下新的缘分，值得我们举杯庆祝！",
+      "CHINESE_TRADITIONAL": "在這個合宿公寓，還有在醫院裡結下新的緣分，是一個值得慶祝的事情！",
+      "JAPANESE": "この下宿で、そして病院で、新しい縁を結んだことを祝う日です！",
+      "INDONESIAN": "…yang akhirnya bisa nyambung di sini, di guesthouse ini, dan juga di rumah sakit!",
+      "PORTUGUESE": "nesta pousada e no hospital, formaram novos laços.",
+      "SPANISH": "en esta pensión, y en el hospital, han formado nuevos lazos.",
+      "PERSIAN": "... در نهایت به اینجا، در این مهمانسرا و در بیمارستان وصل شدم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "우리는 단순히 같이 사는 사람들이 아닙니다!",
+      "ENGLISH": "We’re not just people who live together!",
+      "CHINESE_SIMPLIFIED": "我们不仅仅是住在一起的室友！",
+      "CHINESE_TRADITIONAL": "我們不僅僅只是住在一起的室友！",
+      "JAPANESE": "俺たちは、ただ一緒に住んでる人たちじゃありません！",
+      "INDONESIAN": "Kita bukan cuma sekadar orang yang tinggal bareng!",
+      "PORTUGUESE": "Agora vivemos juntos!",
+      "SPANISH": "¡No somos vivimos juntos!",
+      "PERSIAN": "ما فقط افرادی نیستیم که با هم زندگی می کنیم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "우리는! 서로의 꿈과, 희망과, 미래와, 열정을",
+      "ENGLISH": "We are! The keepers of each other's dreams, hopes, futures, and passions—",
+      "CHINESE_SIMPLIFIED": "我们！会为彼此的梦想、希望、未来与热情——",
+      "CHINESE_TRADITIONAL": "我們！要為彼此的夢想、希望、未來和熱情",
+      "JAPANESE": "俺たちは！お互いの夢と、希望と、未来と、情熱を",
+      "INDONESIAN": "Kita adalah! Penjaga mimpi, harapan, masa depan, dan semangat satu sama lain—",
+      "PORTUGUESE": "Compartilhamos sonhos, esperanças, futuro e paixão!",
+      "SPANISH": "¡Compartimos sueños, esperanzas, futuro y pasión!",
+      "PERSIAN": "ماییم! حافظان رویاها، امیدها، آینده و علایق یکدیگر -"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "- 우리는! 서로의 꿈과, 희망과, 미래와, 열정을\n- 자 짠 하자 짠!",
+      "ENGLISH": "- We are! The keepers of each other's dreams, hopes, futures, and passions \n- Okay, okay, let’s just cheers!",
+      "CHINESE_SIMPLIFIED": "-我们！会为彼此的梦想、希望、未来与热情——\n-来，干杯！干杯！",
+      "CHINESE_TRADITIONAL": "- 我們！要為彼此的夢想、希望、未來和熱情\n- 來！乾杯吧！乾杯！",
+      "JAPANESE": "‐ 俺たちは！お互いの夢と、希望と、未来と、情熱を\n‐ はい乾杯乾杯〜！",
+      "INDONESIAN": "- Kita adalah! Penjaga mimpi, harapan, masa depan, dan semangat satu sama lain\n- Oke oke, cheers aja yuk!",
+      "PORTUGUESE": "- Compartilhamos sonhos, esperanças, futuro e paixão!\n- Vamos brindar a isso!",
+      "SPANISH": "- ¡Compartimos sueños, esperanzas, futuro y pasión!\n- ¡Brindemos por eso!",
+      "PERSIAN": "- ماییم! حافظان رویاها، امیدها، آینده و علایق یکدیگرند - باشه، باشه، بیا فقط تشویق کنیم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.7
+    },
+    "SCRIPT": {
+      "KOREAN": "- 우리는! 서로의 꿈과, 희망과, 미래와, 열정을\n- 자 마셔 마셔",
+      "ENGLISH": "- We are! The keepers of each other's dreams, hopes, futures, and passions\n- Just drink already!",
+      "CHINESE_SIMPLIFIED": "-我们！会为彼此的梦想、希望、未来与热情——\n-快喝呀快喝！",
+      "CHINESE_TRADITIONAL": "- 我們！要為彼此的夢想、希望、未來和熱情\n- 喝吧！乾杯！",
+      "JAPANESE": "‐ おれたちは！お互いの夢と、希望と、未来と、情熱を\n‐ さぁ飲め飲め〜",
+      "INDONESIAN": "- Kita adalah! Penjaga mimpi, harapan, masa depan, dan semangat satu sama lain\n- Minum duluan aja deh!",
+      "PORTUGUESE": "- Compartilhamos sonhos, esperanças, futuro e paixão!\n- Saúde, saúde!",
+      "SPANISH": "- ¡Compartimos sueños, esperanzas, futuro y pasión!\n- Salud, salud",
+      "PERSIAN": "- ماییم! حافظان رویاها، امیدها، آینده و علایق یکدیگرند - فقط بنوش!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 28.3
+    },
+    "SCRIPT": {
+      "KOREAN": "응원해 주시고, 격려해 주시고, 아껴주시고,",
+      "ENGLISH": "We support, encourage, and care for each other...",
+      "CHINESE_SIMPLIFIED": "互相加油、互相鼓励、互相珍惜——",
+      "CHINESE_TRADITIONAL": "互相支持、互相鼓勵、互相珍惜",
+      "JAPANESE": "応援し、励まし、思いやり、支え合い",
+      "INDONESIAN": "Kita saling dukung, semangatin, dan peduli satu sama lain...",
+      "PORTUGUESE": "Vamos devolver o apoio, o ânimo, a proteção,",
+      "SPANISH": "Volvamos el apoyo, el ánimo, la protección,",
+      "PERSIAN": "ما از یکدیگر حمایت، تشویق و مراقبت می کنیم..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 31.3
+    },
+    "SCRIPT": {
+      "KOREAN": "보듬어주시고, 성원해 주시고, 후원해 주시고,",
+      "ENGLISH": "We lift each other up, root for each other, and support one another—",
+      "CHINESE_SIMPLIFIED": "互相关怀、互相声援、互相支持——",
+      "CHINESE_TRADITIONAL": "互相陪伴、互相照顧、互相加油",
+      "JAPANESE": "包み込んでくれて 支えてくれて 応援してくれて",
+      "INDONESIAN": "Kita saling angkat, saling nyemangatin, dan saling support—",
+      "PORTUGUESE": "o incentivo, a ajuda, o lugar seguro,",
+      "SPANISH": "el aliento, la ayuda, el lugar seguro,",
+      "PERSIAN": "ما همدیگر را بالا می بریم، ریشه همدیگر را می گیریم و از هم حمایت می کنیم-"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "- 보듬어주시고, 성원해 주시고, 후원해 주시고,\n- 원 샷 해 버렸어요",
+      "ENGLISH": "- We lift each other up, root for each other, and sponsor one another— \n-  I already took the shot.",
+      "CHINESE_SIMPLIFIED": "-互相关怀、互相声援、互相支持——\n-我直接干了！",
+      "CHINESE_TRADITIONAL": "- 互相陪伴、互相照顧、互相加油\n- 我直接乾杯了！",
+      "JAPANESE": "‐ 包み込んでくれて 支えてくれて 応援してくれて\n‐ もう飲み干しました",
+      "INDONESIAN": "- Kita saling angkat, saling nyemangatin, dan saling sponsor—\n- Aku udah minum duluan loh.",
+      "PORTUGUESE": "- o incentivo, a ajuda, o lugar seguro,\n- Bebi tudo de um gole!",
+      "SPANISH": "- el aliento, la ayuda, el lugar seguro,\n- Me lo tomé de un trago",
+      "PERSIAN": "- ما همدیگر را بالا می بریم، همدیگر را ریشه می دهیم و از یکدیگر حمایت می کنیم- - من قبلا شلیک کردم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 33.5
+    },
+    "SCRIPT": {
+      "KOREAN": "보태주시고, 밀어주시고, 염려해 주시고, ",
+      "ENGLISH": "We pitch in, back each other up, and worry when needed",
+      "CHINESE_SIMPLIFIED": "互相帮助、互相推动、互相关心——",
+      "CHINESE_TRADITIONAL": "互相幫助、互相推動、互相關心",
+      "JAPANESE": "助け合い、押し上げ合い、気にかけ合い",
+      "INDONESIAN": "Kita saling bantu, saling backup, dan khawatir kalau perlu",
+      "PORTUGUESE": "a contribuição, o empurrão que o outro precisa.",
+      "SPANISH": "el aporte, el empuje que el otro necesita.",
+      "PERSIAN": "ما وارد میدان می شویم، از یکدیگر حمایت می کنیم و در صورت نیاز نگران هستیم"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 36.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 보태주시고, 밀어주시고, 염려해 주시고, \n- 잘했어요 잘했어!",
+      "ENGLISH": "- We pitch in, back each other up, and worry when needed\n- Nice, nice! Well done!",
+      "CHINESE_SIMPLIFIED": "-互相帮助、互相推动、互相关心——\n-棒棒哒！棒棒哒！",
+      "CHINESE_TRADITIONAL": "- 互相幫助、互相推動、互相關心\n- 做得好！",
+      "JAPANESE": "‐ 助け合い、押し上げ合い、気にかけ合い\n‐ よくやりました よくやりました！",
+      "INDONESIAN": "- Kita saling bantu, saling backup, dan khawatir kalau perlu\n- Mantap, mantap! Keren banget!",
+      "PORTUGUESE": "- a contribuição, o empurrão que o outro precisa.\n- Muito bem, você foi ótimo!",
+      "SPANISH": "- el aporte, el empuje que el otro necesita.\n- Muy bien, ¡lo hiciste muy bien!",
+      "PERSIAN": "- ما وارد میدان می شویم، از یکدیگر حمایت می کنیم و در صورت نیاز نگران هستیم - خوب، خوب! آفرین!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.3,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "- 근심해 주시고, 걱정해 주시고, 은혜를 내려주시고, \n- 빨리 먹어요",
+      "ENGLISH": "- We stress for each other, worry together, and wish the best for one another\n- Come on, eat already.",
+      "CHINESE_SIMPLIFIED": "-互相分忧、互相操心、互相施惠——\n-快吃菜呀！",
+      "CHINESE_TRADITIONAL": "- 互相分憂、互相擔心、互相幫助\n- 快點喝啦",
+      "JAPANESE": "‐ 心配し合い、気遣い合い、恵みを分け合い\n‐ 早く食べてください",
+      "INDONESIAN": "- Kita stres bareng, khawatir bareng, dan saling doain yang terbaik\n- Ayo dong, makan duluan.",
+      "PORTUGUESE": "- vamos cuidar uns dos outros, e com a bênção de Deus...\n- Podem começar a comer.",
+      "SPANISH": "- cuidémonos entre nosotros y con la bendición de Dios...\n- Empiecen a comer",
+      "PERSIAN": "- ما برای یکدیگر استرس داریم، با هم نگران هستیم و بهترین ها را برای یکدیگر آرزو می کنیم - بیا دیگه بخور"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 37.0,
+      "HIDE": 37.4
+    },
+    "SCRIPT": {
+      "KOREAN": "- 근심해 주시고, 걱정해 주시고, 은혜를 내려주시고, \n- 다들 원 샷 했어요?",
+      "ENGLISH": "- We stress for each other, worry together, and wish the best for one another \n- Did everyone take their shot?",
+      "CHINESE_SIMPLIFIED": "-互相分忧、互相操心、互相施惠——\n-大家都一口干了吗？",
+      "CHINESE_TRADITIONAL": "- 互相分憂、互相擔心、互相幫助\n- 大家都一口乾了嗎？",
+      "JAPANESE": "‐ 心配し合い、気遣い合い、恵みを分け合い\n‐ みんなもう飲み干しました？",
+      "INDONESIAN": "- Kita stres bareng, khawatir bareng, dan saling doain yang terbaik\n- Udah semua minum belum nih?",
+      "PORTUGUESE": "- vamos cuidar uns dos outros, e com a bênção de Deus...\n- Já beberam todas?",
+      "SPANISH": "- cuidémonos entre nosotros y con la bendición de Dios...\n- ¿Ya tomaron todas?",
+      "PERSIAN": "- ما برای یکدیگر استرس داریم، با هم نگران هستیم و بهترین ها را برای یکدیگر آرزو می کنیم - همه شلیک کردند؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 38.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 근심해 주시고, 걱정해 주시고, 은혜를 내려주시고, \n- 맛있겠다.",
+      "ENGLISH": "- We stress for each other, worry together, and wish the best for one another \n- That looks tasty.",
+      "CHINESE_SIMPLIFIED": "-互相分忧、互相操心、互相施惠——\n-看着就好吃~",
+      "CHINESE_TRADITIONAL": "- 互相分憂、互相擔心、互相幫助\n- 感覺很好喝",
+      "JAPANESE": "‐ 心配し合い、気遣い合い、恵みを分け合い\n‐ 美味しそ〜",
+      "INDONESIAN": "- Kita stres bareng, khawatir bareng, dan saling doain yang terbaik\n- Wah itu keliatannya enak banget.",
+      "PORTUGUESE": "- vamos cuidar uns dos outros, e com a bênção de Deus...\n- Parece gostoso!",
+      "SPANISH": "- cuidémonos entre nosotros y con la bendición de Dios...\n- ¡Se ve rico!",
+      "PERSIAN": "- ما برای یکدیگر استرس داریم، با هم نگران هستیم و بهترین ها را برای یکدیگر آرزو می کنیم - به نظر خوشمزه میاد"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 38.3,
+      "HIDE": 40.2
+    },
+    "SCRIPT": {
+      "KOREAN": "- 근심해 주시고, 걱정해 주시고, 은혜를 내려주시고, \n- 다들 원 샷 했어요?",
+      "ENGLISH": "- We stress for each other, worry together, and wish the best for one another \n- Did everyone take their shot?",
+      "CHINESE_SIMPLIFIED": "-互相分忧、互相操心、互相施惠——\n-大家都一口干了吗？",
+      "CHINESE_TRADITIONAL": "- 互相分憂、互相擔心、互相幫助\n- 大家都一口乾了嗎？",
+      "JAPANESE": "‐ 心配し合い、気遣い合い、恵みを分け合い\n‐ みんなもう飲み干しました？",
+      "INDONESIAN": "- Kita stres bareng, khawatir bareng, dan saling doain yang terbaik\n- Udah semua minum belum?",
+      "PORTUGUESE": "- vamos cuidar uns dos outros, e com a bênção de Deus...\n- Já beberam todas?",
+      "SPANISH": "- cuidémonos entre nosotros y con la bendición de Dios...\n- ¿Ya tomaron todas?",
+      "PERSIAN": "- ما برای یکدیگر استرس داریم، با هم نگران هستیم و بهترین ها را برای یکدیگر آرزو می کنیم - همه شلیک کردند؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 40.3,
+      "HIDE": 41.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 근심해 주시고, 걱정해 주시고, 은혜를 내려주시고, \n- 그란님 안마셨다!",
+      "ENGLISH": "- We stress for each other, worry together, and wish the best for one another\n- Gran didn’t drink yet!",
+      "CHINESE_SIMPLIFIED": "-互相分忧、互相操心、互相施惠——\n-圆圆还没喝呢！",
+      "CHINESE_TRADITIONAL": "- 互相分憂、互相擔心、互相幫助\n- 圓圓還沒喝啊！",
+      "JAPANESE": "‐ 心配し合い、気遣い合い、恵みを分け合い\n‐ グランさんまだ飲んでないです！",
+      "INDONESIAN": "- Kita stres bareng, khawatir bareng, dan saling doain yang terbaik\n- Nenek belum minum tuh!",
+      "PORTUGUESE": "- vamos cuidar uns dos outros, e com a bênção de Deus...\n- A Gran não bebeu!",
+      "SPANISH": "- cuidémonos entre nosotros y con la bendición de Dios...\n- ¡Gran no tomó!",
+      "PERSIAN": "- ما برای یکدیگر استرس داریم، با هم نگران هستیم و بهترین ها را برای یکدیگر آرزو می کنیم - گرن هنوز مشروب نخورد!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 41.4,
+      "HIDE": 45.6
+    },
+    "SCRIPT": {
+      "KOREAN": "신경 써주시고, 배려해 주시고, 두루두루...",
+      "ENGLISH": "We care, we look out for each other, and overall, we…dundundun",
+      "CHINESE_SIMPLIFIED": "互相费心、互相着想，在方方面面...",
+      "CHINESE_TRADITIONAL": "互相操、互相體力、在所有方面...",
+      "JAPANESE": "思いやり合い、配慮し合い、いろいろ…",
+      "INDONESIAN": "Kita saling peduli, saling jaga, dan yang paling penting, kita… dundundun!",
+      "PORTUGUESE": "Vamos nos preocupar e sermos atenciosos uns com os outros, enfim...",
+      "SPANISH": "Preocupémonos y seamos considerados entre sí, en fin...",
+      "PERSIAN": "ما اهمیت می دهیم، مراقب همدیگر هستیم، و در کل، ما ... دَن دَن دَن"
+    }
+  }
+]

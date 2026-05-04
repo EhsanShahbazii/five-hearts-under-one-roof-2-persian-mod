@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저 유나 씨",
+      "ENGLISH": "Yu‑na,",
+      "CHINESE_SIMPLIFIED": "那个，有娜小姐",
+      "CHINESE_TRADITIONAL": "那個，有娜小姐",
+      "JAPANESE": "ユナさん",
+      "INDONESIAN": "Yu-na,",
+      "PORTUGUESE": "Ei, Yuna.",
+      "SPANISH": "Oye, Yuna.",
+      "PERSIAN": "یونا،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐 어디 좀 다녀올게요.",
+      "ENGLISH": "I’m just gonna step out for a moment.",
+      "CHINESE_SIMPLIFIED": "我稍微离开一下",
+      "CHINESE_TRADITIONAL": "我暫時離開一下",
+      "JAPANESE": "ちょっとどっか行ってきます",
+      "INDONESIAN": "aku keluar bentar ya.",
+      "PORTUGUESE": "Vou ali um instante.",
+      "SPANISH": "Voy a ir para allá un momento.",
+      "PERSIAN": "من فقط برای یک لحظه می روم بیرون"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 어디 가요?",
+      "ENGLISH": "Huh? Where are you going?",
+      "CHINESE_SIMPLIFIED": "嗯？要去哪儿？",
+      "CHINESE_TRADITIONAL": "嗯？你要去哪裡？",
+      "JAPANESE": "え？どこ行くんですか？",
+      "INDONESIAN": "Hah? Mau ke mana?",
+      "PORTUGUESE": "Hã? Pra onde vai?",
+      "SPANISH": "¿Eh?¿A dónde vas?",
+      "PERSIAN": "ها؟ کجا میری؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "금방이면 돼요.",
+      "ENGLISH": "I’ll be right back.",
+      "CHINESE_SIMPLIFIED": "我很快就回来",
+      "CHINESE_TRADITIONAL": "一下下就好",
+      "JAPANESE": "すぐ戻りますから",
+      "INDONESIAN": "Aku balik lagi kok.",
+      "PORTUGUESE": "Volto rápido.",
+      "SPANISH": "Vuelvo rápido.",
+      "PERSIAN": "من بلافاصله برمی گردم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유나야 괜찮아? ",
+      "ENGLISH": "Yu‑na, are you okay?",
+      "CHINESE_SIMPLIFIED": "有娜，你没事吧？",
+      "CHINESE_TRADITIONAL": "有娜啊，妳沒事吧？",
+      "JAPANESE": "ユナ、大丈夫？",
+      "INDONESIAN": "Yu-na, kamu nggak apa-apa?",
+      "PORTUGUESE": "Você tá bem?",
+      "SPANISH": "¿Estás bien?",
+      "PERSIAN": "یونا، حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "파트너 되는 분이 너무하시다",
+      "ENGLISH": "Your partner’s being a bit much.",
+      "CHINESE_SIMPLIFIED": "你带来的这位男伴也太不懂事了",
+      "CHINESE_TRADITIONAL": "妳這位男伴，也太那個了吧...",
+      "JAPANESE": "あなたのパートナー、ちょっとひどくない？",
+      "INDONESIAN": "Pasanganmu agak… berlebihan deh.",
+      "PORTUGUESE": "O que há com o seu acompanhante?",
+      "SPANISH": "¿Qué le pasa a tu acompañante?",
+      "PERSIAN": "شریک زندگی شما کمی زیاد است."
+    }
+  }
+]

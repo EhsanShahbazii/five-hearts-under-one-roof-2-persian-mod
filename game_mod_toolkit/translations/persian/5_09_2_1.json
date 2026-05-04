@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아마 오른쪽일 거예요.",
+      "ENGLISH": "It’s probably this way—on the right.",
+      "CHINESE_SIMPLIFIED": "应该是右边吧",
+      "CHINESE_TRADITIONAL": "應該是右邊吧",
+      "JAPANESE": "たぶん右の方ですね",
+      "INDONESIAN": "Kayaknya lewat sini deh—ke kanan.",
+      "PORTUGUESE": "Deve ser pela direita.",
+      "SPANISH": "Debe ser a la derecha.",
+      "PERSIAN": "احتمالاً از این طریق است - در سمت راست."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 가요.",
+      "ENGLISH": "Yeah, let’s go.",
+      "CHINESE_SIMPLIFIED": "嗯，走吧",
+      "CHINESE_TRADITIONAL": "嗯，走吧",
+      "JAPANESE": "はい、行きましょう",
+      "INDONESIAN": "Iya, ayo.",
+      "PORTUGUESE": "Ok, vamos.",
+      "SPANISH": "Okay, vamos.",
+      "PERSIAN": "آره بریم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "...유정 씨는 안 무서우세요?",
+      "ENGLISH": "…Yu-jeong, aren’t you scared?",
+      "CHINESE_SIMPLIFIED": "...有情小姐，你一点都不害怕吗？",
+      "CHINESE_TRADITIONAL": "...有情小姐，你不會害怕嗎？",
+      "JAPANESE": "…ユジョンさん、怖くないんですか？",
+      "INDONESIAN": "…Yu-jeong, kamu nggak takut?",
+      "PORTUGUESE": "...Yujeong, você não tem medo?",
+      "SPANISH": "...Yujeong, ¿no tienes miedo?",
+      "PERSIAN": "... یو جونگ، نمی ترسی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 조금요.",
+      "ENGLISH": "A little.",
+      "CHINESE_SIMPLIFIED": "嗯...有点吧",
+      "CHINESE_TRADITIONAL": "一點點",
+      "JAPANESE": "少しだけ",
+      "INDONESIAN": "Dikit sih.",
+      "PORTUGUESE": "Um pouco.",
+      "SPANISH": "Un poco.",
+      "PERSIAN": "کمی."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "전혀 안 무서워 보이는데...",
+      "ENGLISH": "You don’t look scared at all…",
+      "CHINESE_SIMPLIFIED": "看起来完全不怕的样子...",
+      "CHINESE_TRADITIONAL": "但你看起來完全不怕...",
+      "JAPANESE": "全然怖そうに見えないですけど…",
+      "INDONESIAN": "Tapi mukamu nggak kelihatan takut sama sekali…",
+      "PORTUGUESE": "Você não parece ter medo nenhum...",
+      "SPANISH": "No pareces tener miedo en absoluto...",
+      "PERSIAN": "اصلا ترس به نظر نمیرسه…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어두운 데서 일 많이 해 봤어서 막 엄청 그렇게 무섭진 않아요.",
+      "ENGLISH": "I’ve worked in a lot of dark places, so it doesn’t really freak me out anymore.",
+      "CHINESE_SIMPLIFIED": "因为在黑暗的地方工作惯了，倒不至于特别害怕",
+      "CHINESE_TRADITIONAL": "因為我常在黑暗的地方工作，所以沒有特別害怕",
+      "JAPANESE": "暗いところでの仕事多かったから、そんなに怖くはないです",
+      "INDONESIAN": "Aku udah sering kerja di tempat gelap, jadi udah biasa aja sekarang.",
+      "PORTUGUESE": "Eu já trabalhei bastante em lugares escuros, então não me assusta tanto.",
+      "SPANISH": "He trabajado mucho en lugares oscuros, así que no me asusta tanto.",
+      "PERSIAN": "من در بسیاری از مکان‌های تاریک کار کرده‌ام، بنابراین دیگر واقعاً من را نگران نمی‌کنه."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 19.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭔가 유정 씨 덕에 조금 창피해졌어요...",
+      "ENGLISH": "You’re kinda making me feel embarrassed now…",
+      "CHINESE_SIMPLIFIED": "你这样说，我反而有点丢脸了...",
+      "CHINESE_TRADITIONAL": "感覺因為有情小姐的關係，有點丟臉...",
+      "JAPANESE": "なんかユジョンさん見てたら、ちょっと恥ずかしくなってきました…",
+      "INDONESIAN": "Duh, aku jadi malu sendiri…",
+      "PORTUGUESE": "Você me deixa um pouco envergonhado...",
+      "SPANISH": "Haces que me sienta un poco avergonzado...",
+      "PERSIAN": "الان یه جورایی باعث میشی من خجالت بکشم…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "Hm? Why’s that?",
+      "CHINESE_SIMPLIFIED": "为什么？",
+      "CHINESE_TRADITIONAL": "為什麼？",
+      "JAPANESE": "？なんでですか？",
+      "INDONESIAN": "Hm? Kenapa emangnya?",
+      "PORTUGUESE": "Por quê?",
+      "SPANISH": "¿Por qué?",
+      "PERSIAN": "هوم؟ چرا؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 덩치값 너무 못하는 거 같아서...",
+      "ENGLISH": "I feel like I’m totally not living up to my size…",
+      "CHINESE_SIMPLIFIED": "觉得自己白长这么大个子了...",
+      "CHINESE_TRADITIONAL": "我的體型和膽量好像不成正比...",
+      "JAPANESE": "この体格のわりに、全然頼りなくて…",
+      "INDONESIAN": "Ngerasa kayak badanku gede, tapi nyaliku kecil banget…",
+      "PORTUGUESE": "Porque, tipo, eu tô vivendo a minha vida...",
+      "SPANISH": "Porque como estoy viviendo mi vida...",
+      "PERSIAN": "احساس میکنم اصلا به اندازه خودم نیستم…"
+    }
+  }
+]

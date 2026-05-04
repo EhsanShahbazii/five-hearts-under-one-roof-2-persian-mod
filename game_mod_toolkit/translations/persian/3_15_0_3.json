@@ -1,0 +1,91 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 0.5
+    },
+    "SCRIPT": {
+      "KOREAN": ".",
+      "ENGLISH": ".",
+      "CHINESE_SIMPLIFIED": ".",
+      "CHINESE_TRADITIONAL": ".",
+      "JAPANESE": ".",
+      "INDONESIAN": ".",
+      "PORTUGUESE": ".",
+      "SPANISH": ".",
+      "PERSIAN": "."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 1.1
+    },
+    "SCRIPT": {
+      "KOREAN": "..",
+      "ENGLISH": "...",
+      "CHINESE_SIMPLIFIED": "..",
+      "CHINESE_TRADITIONAL": "..",
+      "JAPANESE": "..",
+      "INDONESIAN": "...",
+      "PORTUGUESE": "..",
+      "SPANISH": "..",
+      "PERSIAN": "..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "...",
+      "ENGLISH": "...",
+      "CHINESE_SIMPLIFIED": "...",
+      "CHINESE_TRADITIONAL": "...",
+      "JAPANESE": "...",
+      "INDONESIAN": "...",
+      "PORTUGUESE": "...",
+      "SPANISH": "...",
+      "PERSIAN": "..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 평범하게 갈까요...?",
+      "ENGLISH": "Maybe we should just go with something normal...",
+      "CHINESE_SIMPLIFIED": "要不还是普通点打扮吧...？",
+      "CHINESE_TRADITIONAL": "不然還是普通一點的打扮就好呢…？",
+      "JAPANESE": "普通の格好で行きましょうか…？",
+      "INDONESIAN": "Mungkin sebaiknya kita lakukan sesuatu yang normal saja...",
+      "PORTUGUESE": "Melhor a gente ir com algo mais normal.",
+      "SPANISH": "Mejor vamos con algo más normal.",
+      "PERSIAN": "شاید باید با یک چیز عادی پیش برویم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네 그게 좋겠네요.",
+      "ENGLISH": "Yeah, I think that’s for the best.",
+      "CHINESE_SIMPLIFIED": "嗯，那也好",
+      "CHINESE_TRADITIONAL": "嗯，那樣比較好",
+      "JAPANESE": "うん そのほうがいいですね",
+      "INDONESIAN": "Ya, menurutku itu yang terbaik.",
+      "PORTUGUESE": "Sim, vamos fazer isso.",
+      "SPANISH": "Sí, hagamos eso.",
+      "PERSIAN": "بله، من فکر می کنم این برای بهترین است."
+    }
+  }
+]

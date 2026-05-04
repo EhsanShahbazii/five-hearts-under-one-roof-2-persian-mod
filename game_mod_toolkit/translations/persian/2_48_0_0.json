@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "응? 뭐야. 유만 씨!",
+      "ENGLISH": "Huh? What’s wrong, Yuman?",
+      "CHINESE_SIMPLIFIED": "嗯？这什么啊，宥万！",
+      "CHINESE_TRADITIONAL": "嗯？ 搞什麼啊。 吳宥萬！",
+      "JAPANESE": "え？ どうしたんですか、ユマンさん！",
+      "INDONESIAN": "Hah? Ada apa, Yuman?",
+      "PORTUGUESE": "Hã? O que foi, Yuman?",
+      "SPANISH": "¿Eh? ¿Que te pasa, Yumán?",
+      "PERSIAN": "ها؟ چه مشکلی دارد، یومان؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "박민정 콘서트에서 무슨 일 있었어요?",
+      "ENGLISH": "Something happened at that Park Min-jung concert.",
+      "CHINESE_SIMPLIFIED": "朴敏静演唱会上发生什么事了吗？",
+      "CHINESE_TRADITIONAL": "樸敏靜的演唱會上發生什麼事了嗎？",
+      "JAPANESE": "パク・ミンジョンのコンサートで、何かあったんですか？",
+      "INDONESIAN": "Sesuatu terjadi di konser Park Min-jung itu.",
+      "PORTUGUESE": "O que aconteceu no show da Minjung?",
+      "SPANISH": "¿Qué fue lo que pasó en el concierto de Minjung?",
+      "PERSIAN": "در کنسرت پارک مین‌جونگ اتفاقی افتاد."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 왜요?",
+      "ENGLISH": "Huh? Why?",
+      "CHINESE_SIMPLIFIED": "啊？怎么了？",
+      "CHINESE_TRADITIONAL": "蛤？ 怎麼了？",
+      "JAPANESE": "え？ どうして？",
+      "INDONESIAN": "Hah? Kenapa?",
+      "PORTUGUESE": "Hã? Por que tá perguntando?",
+      "SPANISH": "¿Eh? ¿Por qué lo pregunta?",
+      "PERSIAN": "ها؟ چرا؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "기사 떴는데?",
+      "ENGLISH": "There’s an article out now.",
+      "CHINESE_SIMPLIFIED": "新闻都出来了啊？",
+      "CHINESE_TRADITIONAL": "新聞都出來了耶！",
+      "JAPANESE": "記事が出てますけど？",
+      "INDONESIAN": "Sekarang sudah ada artikelnya.",
+      "PORTUGUESE": "Você não viu? Saiu na internet.",
+      "SPANISH": "¿No te enteraste? Salió en internet.",
+      "PERSIAN": "اکنون مقاله ای منتشر شده است."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "갑자기?",
+      "ENGLISH": "Suddenly?",
+      "CHINESE_SIMPLIFIED": "突然上新闻了？",
+      "CHINESE_TRADITIONAL": "這麼突然？",
+      "JAPANESE": "え、急に？",
+      "INDONESIAN": "Tiba-tiba?",
+      "PORTUGUESE": "Assim, do nada?",
+      "SPANISH": "¿Así de repente?",
+      "PERSIAN": "ناگهان؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어?..아 아닌데... ",
+      "ENGLISH": "Uh... no, I don’t think so...",
+      "CHINESE_SIMPLIFIED": "呃？...啊不是...",
+      "CHINESE_TRADITIONAL": "呃？…不、不是吧…",
+      "JAPANESE": "あ…いや、違うけど…",
+      "INDONESIAN": "Uh... tidak, menurutku tidak...",
+      "PORTUGUESE": "Hã? Não... não exatamente...",
+      "SPANISH": "¿Eh? No… no exactamente…",
+      "PERSIAN": "اوه ... نه ، فکر نمی کنم ..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "설마 이거 사진... ",
+      "ENGLISH": "Wait—are those photos...?",
+      "CHINESE_SIMPLIFIED": "难道这张照片...",
+      "CHINESE_TRADITIONAL": "難道這張照片…",
+      "JAPANESE": "まさか、この写真…",
+      "INDONESIAN": "Tunggu—apakah itu foto-foto...?",
+      "PORTUGUESE": "Não seria...",
+      "SPANISH": "¿Acaso no será..?",
+      "PERSIAN": "صبر کنید - اون عکس ها ...؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그 남자가 찍은 건가?",
+      "ENGLISH": "Is that guy in them?",
+      "CHINESE_SIMPLIFIED": "是那男的拍的？",
+      "CHINESE_TRADITIONAL": "是那個男的拍的嗎？",
+      "JAPANESE": "あの男の人を撮ったの？",
+      "INDONESIAN": "Apakah pria itu ada di dalamnya?",
+      "PORTUGUESE": "a foto que aquele homem tirou?",
+      "SPANISH": "¿...la foto que tomó ese hombre?",
+      "PERSIAN": "اون مرد در اونا است؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "봐봐",
+      "ENGLISH": "Take a look.",
+      "CHINESE_SIMPLIFIED": "我看看",
+      "CHINESE_TRADITIONAL": "給我看一下",
+      "JAPANESE": "ほら、見て",
+      "INDONESIAN": "Coba lihat.",
+      "PORTUGUESE": "Olha.",
+      "SPANISH": "Mira.",
+      "PERSIAN": "نگاهی بیندازید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 아니겠지...",
+      "ENGLISH": "Nah, that can’t be him...",
+      "CHINESE_SIMPLIFIED": "咦，这是假的吧...",
+      "CHINESE_TRADITIONAL": "欸，這是假的吧…",
+      "JAPANESE": "まさか、そんな…違うでしょ",
+      "INDONESIAN": "Nah, itu tidak mungkin dia...",
+      "PORTUGUESE": "Nah, não acho que...",
+      "SPANISH": "Nah, no creo que…",
+      "PERSIAN": "نه، اون نمیتونه باشه..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아.. 근데 얘 어떡해?",
+      "ENGLISH": "Oh... what do we do about this?",
+      "CHINESE_SIMPLIFIED": "不过她这下该怎么办才好？",
+      "CHINESE_TRADITIONAL": "啊…她現在要怎麼辦啊？",
+      "JAPANESE": "あ…この子大丈夫かな？",
+      "INDONESIAN": "Oh... apa yang harus kita lakukan mengenai hal ini?",
+      "PORTUGUESE": "Ah... e o que a gente faz agora?",
+      "SPANISH": "Ah… ¿y que hacemos ahora?",
+      "PERSIAN": "اوه ... در این مورد چه کنیم؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "응? 이 시간에 누구지?",
+      "ENGLISH": "Hm? Who’s there at this hour?",
+      "CHINESE_SIMPLIFIED": "嗯？这个时候会是谁啊？",
+      "CHINESE_TRADITIONAL": "嗯？這個時間是誰啊？",
+      "JAPANESE": "ん？ こんな時間に誰だろう？",
+      "INDONESIAN": "Hm? Siapa di sana jam segini?",
+      "PORTUGUESE": "Hã? Quem será a essa hora?",
+      "SPANISH": "¿Eh? ¿Quién será a esta hora?",
+      "PERSIAN": "هوم؟ چه کسی در این ساعت آنجاست؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.1,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나가봐",
+      "ENGLISH": "Go see.",
+      "CHINESE_SIMPLIFIED": "去看看吧",
+      "CHINESE_TRADITIONAL": "去看看吧",
+      "JAPANESE": "見てきて",
+      "INDONESIAN": "Pergi lihat.",
+      "PORTUGUESE": "Vai ver.",
+      "SPANISH": "Ve a ver.",
+      "PERSIAN": "برو ببین"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 37.2
+    },
+    "SCRIPT": {
+      "KOREAN": "응..",
+      "ENGLISH": "Okay...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "Oke...",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí…",
+      "PERSIAN": "باشه..."
+    }
+  }
+]

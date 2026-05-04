@@ -1,0 +1,308 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님, 자요?",
+      "ENGLISH": "Chief, are you still awake?",
+      "CHINESE_SIMPLIFIED": "佟科长，您睡了吗？",
+      "CHINESE_TRADITIONAL": "課長，您睡了嗎？",
+      "JAPANESE": "課長、もう寝ました？",
+      "INDONESIAN": "Chief, kamu masih bangun?",
+      "PORTUGUESE": "Chefe, tá acordada?",
+      "SPANISH": "¿Jefa, está despierta?",
+      "PERSIAN": "رئیس، هنوز بیداری؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "왜?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "怎麼了？",
+      "JAPANESE": "どうかした？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "Por quê?",
+      "SPANISH": "¿Por qué?",
+      "PERSIAN": "چرا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 자기 심심해서요.",
+      "ENGLISH": "No reason… just didn’t want to sleep yet.",
+      "CHINESE_SIMPLIFIED": "就是一个人躺着有点无聊",
+      "CHINESE_TRADITIONAL": "就是一個人躺著有點無聊",
+      "JAPANESE": "なんか寝るの寂しくて",
+      "INDONESIAN": "Nggak ada alasan khusus... cuma belum pengen tidur aja.",
+      "PORTUGUESE": "Por nada, é que eu tava entediado.",
+      "SPANISH": "Por nada, es que estaba aburrido.",
+      "PERSIAN": "دلیلی نداره... فقط نمیخواستم بخوابم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 얘기 좀 더 하다 잘까? 오늘 많이 못 했잖아.",
+      "ENGLISH": "Wanna stay up and talk a bit more? We didn’t get to today.",
+      "CHINESE_SIMPLIFIED": "要不要和我聊会儿再睡？今天都没怎么好好说话",
+      "CHINESE_TRADITIONAL": "要不要跟我多聊一下再睡？今天我們都沒好好說話",
+      "JAPANESE": "私ともう少し話してから寝る？ 今日はあんまり話せなかったし",
+      "INDONESIAN": "Mau ngobrol bentar lagi nggak? Soalnya tadi kita belum sempat.",
+      "PORTUGUESE": "Quer conversar um pouco? Hoje quase não falamos.",
+      "SPANISH": "¿Quieres hablar un rato? Hoy casi no lo hicimos.",
+      "PERSIAN": "می خواهید بیدار بمانید و کمی بیشتر صحبت کنید؟ به امروز نرسیدیم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "맞아요.",
+      "ENGLISH": "Yeah, you’re right.",
+      "CHINESE_SIMPLIFIED": "好啊",
+      "CHINESE_TRADITIONAL": "好啊",
+      "JAPANESE": "そうですね",
+      "INDONESIAN": "Iya, bener juga.",
+      "PORTUGUESE": "É verdade.",
+      "SPANISH": "Es cierto.",
+      "PERSIAN": "آره حق با شماست"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 회복하는 동안 내가 연락 없어서 많이 서운했어?",
+      "ENGLISH": "Were you upset I didn’t reach out while you were recovering?",
+      "CHINESE_SIMPLIFIED": "你养伤的这段时间我都没联系你，会不会很失落？",
+      "CHINESE_TRADITIONAL": "你養傷的這段時間我都沒有跟你聯絡，會不會很失落？",
+      "JAPANESE": "もしかして、療養中連絡がなくて寂しかった？",
+      "INDONESIAN": "Kamu sempet kesel nggak waktu aku nggak ngabarin pas kamu lagi pemulihan?",
+      "PORTUGUESE": "Você ficou chateado por eu não ter te procurado quando estava internado?",
+      "SPANISH": "¿Te molestó que no te contactara cuando estabas internado?",
+      "PERSIAN": "از این که در دوران نقاهت شما دست نزده بودم ناراحت شدید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.6
+    },
+    "SCRIPT": {
+      "KOREAN": "안 서운했으면 거짓말이고...",
+      "ENGLISH": "I mean… I’d be lying if I said I wasn’t.",
+      "CHINESE_SIMPLIFIED": "要说完全不失落那是骗人的...",
+      "CHINESE_TRADITIONAL": "如果說不失落那是騙人的...",
+      "JAPANESE": "寂しくなかったなんて嘘になりますけど…",
+      "INDONESIAN": "Hmm… ya, kalau dibilang nggak kesel sih bohong.",
+      "PORTUGUESE": "Mais do que chateado, fiquei decepcionado…",
+      "SPANISH": "Más que molesto, decepcionado…",
+      "PERSIAN": "منظورم این است که اگر بگویم اینطوری نیستم، دروغ می گویم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 출장 가셨다고 하니까 어쩔 수 없죠...",
+      "ENGLISH": "But you were on a work trip, so I get it...",
+      "CHINESE_SIMPLIFIED": "不过听说您出差了，也是没办法的事...",
+      "CHINESE_TRADITIONAL": "不過聽說您出差了，也是沒辦法的事...",
+      "JAPANESE": "でも出張中だったので仕方ないですよね",
+      "INDONESIAN": "Tapi kamu kan lagi dinas luar, jadi aku ngerti...",
+      "PORTUGUESE": "Mas entendo que você tava em uma viagem de negócios.",
+      "SPANISH": "Pero, entiendo que estaba en un viaje de negocios.",
+      "PERSIAN": "اما تو سفر کاری بودی پس متوجه شدم..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "가뜩이나 너 없는 출장이라 허전한데",
+      "ENGLISH": "It already felt empty going on that trip without you.",
+      "CHINESE_SIMPLIFIED": "你没有一起出差本来就感觉空落落的",
+      "CHINESE_TRADITIONAL": "你沒有一起出差就已經有點空虛了",
+      "JAPANESE": "お前がいない出張なんてただの空っぽな仕事だよ",
+      "INDONESIAN": "Rasanya udah sepi banget sih pas harus pergi tanpa kamu.",
+      "PORTUGUESE": "Como você não foi comigo, tudo pareceu meio vazio.",
+      "SPANISH": "Cómo no fuiste conmigo, se sintió vacío",
+      "PERSIAN": "از قبل در اون سفر بدون تو احساس خالی بودن داشتم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 37.3
+    },
+    "SCRIPT": {
+      "KOREAN": "사고 소식 듣고 바로 오고 싶었어.",
+      "ENGLISH": "And when I heard about your accident, I just wanted to come straight back.",
+      "CHINESE_SIMPLIFIED": "听到你出事的消息，我就想马上赶回来了",
+      "CHINESE_TRADITIONAL": "聽到你出事的消息，我就想馬上趕回來了",
+      "JAPANESE": "事故の知らせ聞いて すぐにでも戻りたかった",
+      "INDONESIAN": "Dan pas denger kamu kecelakaan, aku pengennya langsung pulang saat itu juga.",
+      "PORTUGUESE": "Quando soube do acidente, fiquei morrendo de vontade de voltar.",
+      "SPANISH": "Cuando me enteré del accidente, tenía tantas ganas de volver.",
+      "PERSIAN": "و وقتی خبر تصادفت را شنیدم، فقط خواستم مستقیم برگردم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 38.6,
+      "HIDE": 40.6
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으론 나 없을 때 다치지마.",
+      "ENGLISH": "So from now on—don’t go getting hurt when I’m not around.",
+      "CHINESE_SIMPLIFIED": "以后我不在的时候不许再受伤了",
+      "CHINESE_TRADITIONAL": "以後我不在的時候不許再受傷了",
+      "JAPANESE": "これからは 私がいないときに怪我しないで",
+      "INDONESIAN": "Jadi mulai sekarang—jangan sampe kamu kenapa-kenapa pas aku nggak ada, ya.",
+      "PORTUGUESE": "Daqui pra frente, não se machuca quando eu não estiver, tá?",
+      "SPANISH": "De ahora en adelante, no te lastimes cuando no esté.",
+      "PERSIAN": "بنابراین از این به بعد - وقتی من در اطراف نیستم آسیب نبینید."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 41.0,
+      "HIDE": 43.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 노력해볼게요. 과장님.",
+      "ENGLISH": "I’ll do my best, Chief.",
+      "CHINESE_SIMPLIFIED": "嗯，我会注意的，科长",
+      "CHINESE_TRADITIONAL": "嗯，我會注意的，課長",
+      "JAPANESE": "はい、気をつけます 課長",
+      "INDONESIAN": "Aku bakal usahain, Chief.",
+      "PORTUGUESE": "Vou tentar, chefe.",
+      "SPANISH": "Lo intentaré, jefa.",
+      "PERSIAN": "من تمام تلاشم را خواهم کرد، رئیس."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 44.2,
+      "HIDE": 48.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그리구 회사 밖에선 과장 말고 이름으로 불러줘.",
+      "ENGLISH": "And hey… when we’re not at work, don’t call me “Chief.”",
+      "CHINESE_SIMPLIFIED": "还有啊，在公司外面就别叫科长了，直接叫我名字吧",
+      "CHINESE_TRADITIONAL": "還有，在公司外面就別叫課長了，直接叫我名字吧",
+      "JAPANESE": "それと 会社の外では 課長じゃなくて 名前で呼んで",
+      "INDONESIAN": "Dan eh... kalau kita lagi nggak kerja, jangan panggil aku “Chief.”",
+      "PORTUGUESE": "E fora do trabalho, não me chama de “chefe”. Me chama pelo meu nome.",
+      "SPANISH": "Y fuera del trabajo, no me digas “jefa”. Llámame por mi nombre.",
+      "PERSIAN": "و هی... وقتی سر کار نیستیم، مرا «رئیس» صدا نکنید."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 48.7,
+      "HIDE": 50.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 딱딱하잖아.",
+      "ENGLISH": "It sounds too stiff. Use my name instead.",
+      "CHINESE_SIMPLIFIED": "这样太生分了",
+      "CHINESE_TRADITIONAL": "這樣太生疏了",
+      "JAPANESE": "堅苦しいじゃん",
+      "INDONESIAN": "Kaku banget kedengarannya. Panggil aja nama aku.",
+      "PORTUGUESE": "Soa formal demais.",
+      "SPANISH": "Suena demasiado formal.",
+      "PERSIAN": "خیلی سفت به نظر می رسد. به جای اون از نام من استفاده کنید."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 50.7,
+      "HIDE": 52.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네 그럴게요.",
+      "ENGLISH": "Okay, I will.",
+      "CHINESE_SIMPLIFIED": "好，听你的",
+      "CHINESE_TRADITIONAL": "好，聽你的",
+      "JAPANESE": "はい、そうします",
+      "INDONESIAN": "Oke, siap.",
+      "PORTUGUESE": "Tá bom.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "باشه، می کنم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 54.2,
+      "HIDE": 56.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 잘 자, 우유만.",
+      "ENGLISH": "Good. Sleep well, Yuman.",
+      "CHINESE_SIMPLIFIED": "好啦~晚安，吴宥万",
+      "CHINESE_TRADITIONAL": "好啦 晚安，吳宥萬",
+      "JAPANESE": "うん、じゃあおやすみ ウ・ユマン",
+      "INDONESIAN": "Bagus. Selamat tidur, Yuman.",
+      "PORTUGUESE": "Certo boa noite, Yumán.",
+      "SPANISH": "Bien buenas noches, Yumán.",
+      "PERSIAN": "خوب خوب بخواب یومان"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 57.4,
+      "HIDE": 59.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네 그란 님.",
+      "ENGLISH": "You too… Gran.",
+      "CHINESE_SIMPLIFIED": "嗯，晚安，圆圆",
+      "CHINESE_TRADITIONAL": "嗯，晚安，圓圓",
+      "JAPANESE": "はい、グランさん",
+      "INDONESIAN": "Kamu juga… Gran.",
+      "PORTUGUESE": "Boa noite, Gran.",
+      "SPANISH": "Buenas noches, Gran.",
+      "PERSIAN": "تو هم... بزرگ."
+    }
+  }
+]

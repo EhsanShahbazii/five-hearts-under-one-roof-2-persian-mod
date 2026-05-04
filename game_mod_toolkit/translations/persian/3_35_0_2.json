@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "늦은 밤에 실례가 많았습니다. ",
+      "ENGLISH": "Sorry for bothering you so late at night.",
+      "CHINESE_SIMPLIFIED": "深夜打扰真是抱歉",
+      "CHINESE_TRADITIONAL": "深夜打擾真是不好意思",
+      "JAPANESE": "夜遅くに失礼しました",
+      "INDONESIAN": "Maaf sudah ganggu larut malam begini.",
+      "PORTUGUESE": "Desculpe o incômodo a essa hora da noite.",
+      "SPANISH": "Perdón por las molestias a esta hora de la noche.",
+      "PERSIAN": "ببخشید که اینقدر دیر شب مزاحمتون شدم"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "죄송합니다 안녕히 계세요.",
+      "ENGLISH": "I apologize—take care.",
+      "CHINESE_SIMPLIFIED": "对不起，我先告辞了",
+      "CHINESE_TRADITIONAL": "抱歉了，再見",
+      "JAPANESE": "すみません　失礼します",
+      "INDONESIAN": "Mohon maaf—jaga diri baik-baik, ya.",
+      "PORTUGUESE": "Perdão… descanse bem.",
+      "SPANISH": "Disculpe… que descanse.",
+      "PERSIAN": "من عذرخواهی می کنم - مراقب باشید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 물도 한 잔 못 드렸는데...",
+      "ENGLISH": "Yuman, you didn’t even get a glass of water...",
+      "CHINESE_SIMPLIFIED": "宥万先生，我连杯水都没能给你倒呢...",
+      "CHINESE_TRADITIONAL": "宥萬先生，我連一杯水都還沒給你喝...",
+      "JAPANESE": "ユマンさんに水一杯も出せなかったのに……",
+      "INDONESIAN": "Yuman, kamu bahkan nggak sempet minum air...",
+      "PORTUGUESE": "Yumán, nem ofereci um copo d’água pra você...",
+      "SPANISH": "Yumán, ni siquiera le ofrecí un vaso de agua...",
+      "PERSIAN": "یومان، تو حتی یک لیوان آب هم نگرفتی..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요, 다음에 봬요, 쌤!",
+      "ENGLISH": "It’s okay! I’ll see you next time, ma’am!",
+      "CHINESE_SIMPLIFIED": "没事的，下次再见啦，方护士！",
+      "CHINESE_TRADITIONAL": "沒關係的，我們下次再見吧，護理師！",
+      "JAPANESE": "大丈夫です　また今度お会いしましょう先生！",
+      "INDONESIAN": "Nggak apa-apa! Sampai ketemu lagi, Bu!",
+      "PORTUGUESE": "Não se preocupe, Gyuri. A gente se vê na próxima!",
+      "SPANISH": "No se preocupe, Gyuri. ¡Nos vemos la próxima!",
+      "PERSIAN": "اشکالی ندارد! دفعه بعد می بینمت خانم!"
+    }
+  }
+]

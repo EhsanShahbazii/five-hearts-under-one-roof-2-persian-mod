@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아...",
+      "ENGLISH": "Mal-sook…",
+      "CHINESE_SIMPLIFIED": "末淑啊...",
+      "CHINESE_TRADITIONAL": "末淑啊",
+      "JAPANESE": "マルスク…",
+      "INDONESIAN": "Mal-sook...",
+      "PORTUGUESE": "Mal-sook…",
+      "SPANISH": "Malsook...",
+      "PERSIAN": "مال‌سوک..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "너 나 없는 동안 많이 힘들었어?",
+      "ENGLISH": "Was it really hard for you while I was gone?",
+      "CHINESE_SIMPLIFIED": "我不在的时候你是不是过得挺辛苦的？",
+      "CHINESE_TRADITIONAL": "你也不是永遠童顏嘛？",
+      "JAPANESE": "俺がいない間、けっこう大変だった？",
+      "INDONESIAN": "Selama aku nggak ada, kamu capek banget ya?",
+      "PORTUGUESE": "Foi muito difícil pra você enquanto eu tava fora?",
+      "SPANISH": "¿La pasaste muy mal mientras yo no estaba?",
+      "PERSIAN": "این مدتی که من نبودم خیلی بهت سخت گذشته، نه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟ چطور مگه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 주름 이거 어떻게 할 거야. 이거!",
+      "ENGLISH": "No, I mean these wrinkles—what are you gonna do about them?",
+      "CHINESE_SIMPLIFIED": "不是，我是说，你这皱纹该怎么办啊！这个！",
+      "CHINESE_TRADITIONAL": "不是啊，這些皺紋要怎麼辦，這些！",
+      "JAPANESE": "いや、このシワどうするんだよ、これ！",
+      "INDONESIAN": "Bukan, maksudku... nih, kerutan ini gimana dong? Nih liat!",
+      "PORTUGUESE": "Não, quero dizer essas rugas—o que você vai fazer com elas?",
+      "SPANISH": "¡Mira todas esas arrugas!¡Mira!",
+      "PERSIAN": "نه آخه این چروکای صورتتو ببین! چیکارشون کردی اخه؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "눈 옆에 자글자글 한 것 봐!",
+      "ENGLISH": "Look at all the lines around your eyes!",
+      "CHINESE_SIMPLIFIED": "看看你眼角这些细纹！",
+      "CHINESE_TRADITIONAL": "你看眼角這邊細紋！",
+      "JAPANESE": "目の横に細かいのいっぱい出てるじゃん！",
+      "INDONESIAN": "Di samping matamu udah mulai berkerut tuh!",
+      "PORTUGUESE": "Olha todas essas linhas ao redor dos olhos!",
+      "SPANISH": "¡Todas estas líneas de expresión!",
+      "PERSIAN": "دور چشماتو نگاه کن چطور چین و چروک افتاده!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "요즘 여자애들 다 관리하던데.",
+      "ENGLISH": "Girls these days all take care of that stuff, you know.",
+      "CHINESE_SIMPLIFIED": "现在的女孩子都知道保养了好吧",
+      "CHINESE_TRADITIONAL": "最近女生都會注意保養的耶",
+      "JAPANESE": "最近の女の子は、みんなケアしてるぞ",
+      "INDONESIAN": "Cewek-cewek sekarang semua pada rajin perawatan, tau!",
+      "PORTUGUESE": "As garotas hoje em dia cuidam disso, sabia.",
+      "SPANISH": "Hoy en día todas las chicas se cuidan, ¿sabes?",
+      "PERSIAN": "دخترای این دور و زمونه همه به پوستشون می‌رسن خب!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 말숙아",
+      "ENGLISH": "Sigh… Mal-sook,",
+      "CHINESE_SIMPLIFIED": "哈...末淑啊",
+      "CHINESE_TRADITIONAL": "哈...末淑啊",
+      "JAPANESE": "はあ…マルスク",
+      "INDONESIAN": "Haa... Mal-sook...",
+      "PORTUGUESE": "Ai… Mal-sook,",
+      "SPANISH": "Ay... Malsook...",
+      "PERSIAN": "هاااه... مال‌سوک من..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "우리도 곧 서른이야. 관리 해야지. 응?",
+      "ENGLISH": "we’re almost thirty. You’ve gotta start taking care of yourself, okay?",
+      "CHINESE_SIMPLIFIED": "我们也快要三十了，真的该开始保养了，嗯？",
+      "CHINESE_TRADITIONAL": "我們也快三十了。要保養了啦，嗯？",
+      "JAPANESE": "俺たちももうすぐ三十なんだから、ちゃんとケアしないと。な？",
+      "INDONESIAN": "Kita juga sebentar lagi tiga puluh. Harus mulai ngerawat diri, oke?",
+      "PORTUGUESE": "a gente tá quase nos trinta. Você tem que começar a se cuidar, tá?",
+      "SPANISH": "Ya casi cumplimos treinta. Hay que empezar a cuidarse.",
+      "PERSIAN": "دیگه داریم می‌رسیم به سی سالگی! یکم به خودت برس دیگه، هان؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 닥치고 니 입냄새나 좀 어떻게 해 봐.",
+      "ENGLISH": "Ugh, shut up and do something about your breath first.",
+      "CHINESE_SIMPLIFIED": "闭嘴吧，你还是先管管你自己的口臭再说吧",
+      "CHINESE_TRADITIONAL": "啊，閉嘴啦你，先去處理一下你口臭",
+      "JAPANESE": "あんたこそ黙って口臭どうにかしなさい",
+      "INDONESIAN": "Ah, kamu jangan ngomong deh. Urusin dulu tuh bau mulut kamu.",
+      "PORTUGUESE": "Ugh, cala a boca e dá um jeito no seu bafo primeiro.",
+      "SPANISH": "Ugh, cállate mejor y haz algo con tu aliento.",
+      "PERSIAN": "خفه‌شو بابا! تو برو یه فکری به حال بوی گند دهنت بکن اول!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "대체 뭘 먹은 거야?",
+      "ENGLISH": "What the hell did you even eat?",
+      "CHINESE_SIMPLIFIED": "你到底是吃了什么啊？",
+      "CHINESE_TRADITIONAL": "你到底吃了什麼？",
+      "JAPANESE": "一体なに食べてきたの？",
+      "INDONESIAN": "Kamu abis makan apa sih, parah banget!",
+      "PORTUGUESE": "O que diabos você comeu?",
+      "SPANISH": "¿Qué rayos comiste?",
+      "PERSIAN": "معلوم نیست چه کوفتی کوفت کردی بو سگ مرده می‌ده!"
+    }
+  }
+]

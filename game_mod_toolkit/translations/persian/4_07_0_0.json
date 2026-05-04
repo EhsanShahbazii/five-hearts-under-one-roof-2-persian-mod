@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 청소업체 <구석구석> 왔나 보다.",
+      "ENGLISH": "Huh? Looks like the cleaning service has gone through every corner.",
+      "CHINESE_SIMPLIFIED": "呃？是“角角落落”清洁公司来了吧",
+      "CHINESE_TRADITIONAL": "欸？清潔公司角落邊邊好像來了",
+      "JAPANESE": "あれ？清掃業者 <隅々>来たみたい",
+      "INDONESIAN": "Hah? Kayaknya jasa bersih-bersihnya udah nyentuh semua sudut deh.",
+      "PORTUGUESE": "Hã? Parece que chegou a empresa de limpeza “De Canto a Canto”.",
+      "SPANISH": "¿Eh? Parece que vino la empresa de limpieza “Rincón a Rincón”.",
+      "PERSIAN": "ها؟ به نظر می رسد خدمات نظافت از هر گوشه ای عبور کرده است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네 나가요!",
+      "ENGLISH": "Yeah, let’s go inside!",
+      "CHINESE_SIMPLIFIED": "这就来了！",
+      "CHINESE_TRADITIONAL": "來了！",
+      "JAPANESE": "は〜い",
+      "INDONESIAN": "Iya, yuk masuk!",
+      "PORTUGUESE": "Sim, já vou.",
+      "SPANISH": "Sí, ya voy.",
+      "PERSIAN": "آره بریم داخل!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "청소업체 <구석구석>에서 나왔습니다...",
+      "ENGLISH": "The cleaning service has finished every nook and cranny…",
+      "CHINESE_SIMPLIFIED": "我是“角角落落”清洁公司的...",
+      "CHINESE_TRADITIONAL": "我是清潔公司 〈角落邊邊〉 派來的...",
+      "JAPANESE": "清掃業者〈隅々〉です…",
+      "INDONESIAN": "Mereka bener-bener bersihin tiap pojok rumah…",
+      "PORTUGUESE": "Somos da limpeza De Canto a Canto...",
+      "SPANISH": "Somos del servicio de limpieza Rincón a Rincón...",
+      "PERSIAN": "خدمات نظافتی هر گوشه و کناری را به پایان رسانده است…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어??",
+      "ENGLISH": "Huh??",
+      "CHINESE_SIMPLIFIED": "呃？？",
+      "CHINESE_TRADITIONAL": "咦？？",
+      "JAPANESE": "えっ？？",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 19.9
+    },
+    "SCRIPT": {
+      "KOREAN": " 유정 씨...?",
+      "ENGLISH": "Yu-jeong…?",
+      "CHINESE_SIMPLIFIED": "有情小姐...？",
+      "CHINESE_TRADITIONAL": "有情小姐...？",
+      "JAPANESE": "ユジョンさん…？",
+      "INDONESIAN": "Yu-jeong…?",
+      "PORTUGUESE": "Senhorita Yujeong...?",
+      "SPANISH": "¿Señorita Yujeong...?",
+      "PERSIAN": "یو جونگ…؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.1
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 들어오세요",
+      "ENGLISH": "For now, just come in.",
+      "CHINESE_SIMPLIFIED": "先进来吧",
+      "CHINESE_TRADITIONAL": "總之，妳先進來吧",
+      "JAPANESE": "とにかく入ってください",
+      "INDONESIAN": "Udah, masuk aja dulu.",
+      "PORTUGUESE": "Pode entrar, entre primeiro.",
+      "SPANISH": "Pase, por favor.",
+      "PERSIAN": "فعلا فقط بیا داخل"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Okay…",
+      "CHINESE_SIMPLIFIED": "好的...",
+      "CHINESE_TRADITIONAL": "好...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Oke…",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "باشه…"
+    }
+  }
+]

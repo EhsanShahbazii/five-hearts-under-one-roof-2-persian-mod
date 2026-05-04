@@ -1,0 +1,163 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 우중충하면 어때요~ 일만 잘하면 됐지.",
+      "ENGLISH": "Oh come on — so what if it’s gloomy sometimes~ As long as the work gets done, that’s what matters.",
+      "CHINESE_SIMPLIFIED": "哎呀，就算性格阴沉又怎么样嘛~ 工作做好就行啦",
+      "CHINESE_TRADITIONAL": "哎～就算性格陰沉又怎樣～只要工作做得好就行了",
+      "JAPANESE": "え〜、地味でもいいじゃないですか〜 仕事ができればそれで十分ですよ",
+      "INDONESIAN": "Oh ayolah — emangnya kenapa kalau kamu keliatan murung sesekali~ Yang penting kerjaannya kelar, itu yang paling penting.",
+      "PORTUGUESE": "Enquanto você fizer bem o seu trabalho, o que é que isso importa?",
+      "SPANISH": "Mientras hagas bien tu trabajo ¿eso qué importa?",
+      "PERSIAN": "اوه بیا - پس اگر گاهی اوقات غم انگیز است چه می شود - تا زمانی که کار تمام شود، این چیزی است که اهمیت دارد."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "诶？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "덕분에 집이 매일 이렇게 깨끗한데",
+      "ENGLISH": "Thanks to you, the house is this clean every day —",
+      "CHINESE_SIMPLIFIED": "多亏了你，现在家里每天都这么干净",
+      "CHINESE_TRADITIONAL": "多虧有你，現在家裡每天都很乾淨呢",
+      "JAPANESE": "おかげで家がいつもこんなにきれいなんですから",
+      "INDONESIAN": "Gara-gara kamu, rumah jadi bersih tiap hari —",
+      "PORTUGUESE": "Graças a você, a casa tá impecável.",
+      "SPANISH": "Gracias a ti, la casa está impecable.",
+      "PERSIAN": "به لطف شما، خونه هر روز به این تمیزی است -"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 왜 후회하겠어요!",
+      "ENGLISH": "why would I ever regret it!",
+      "CHINESE_SIMPLIFIED": "我怎么会后悔呢！",
+      "CHINESE_TRADITIONAL": "我怎麼會後悔呢！",
+      "JAPANESE": "俺が後悔するわけないじゃないですか！",
+      "INDONESIAN": "mana mungkin aku nyesel!",
+      "PORTUGUESE": "Como eu poderia me arrepender?",
+      "SPANISH": "¿Cómo podría arrepentirme?",
+      "PERSIAN": "چرا من هرگز پشیمان خواهم شد!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 감사해요!",
+      "ENGLISH": "I’m really grateful!",
+      "CHINESE_SIMPLIFIED": "真的很感谢你！",
+      "CHINESE_TRADITIONAL": "真的很謝謝你",
+      "JAPANESE": "本当に感謝してます！",
+      "INDONESIAN": "Aku bener-bener bersyukur, tahu!",
+      "PORTUGUESE": "De verdade, muito obrigado.",
+      "SPANISH": "De verdad, muchas gracias.",
+      "PERSIAN": "من واقعا ممنونم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 16.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이... 뭐, 해야 할 일을 했을 뿐인데요, 뭐.",
+      "ENGLISH": "Ah… I’m just doing what I should be doing, that’s all.",
+      "CHINESE_SIMPLIFIED": "哎呀...我只是做了该做的事而已",
+      "CHINESE_TRADITIONAL": "哎呀...我只是做了該做的事而已",
+      "JAPANESE": "いえ…ただ、やるべきことをやってるだけですよ",
+      "INDONESIAN": "Ah… aku cuma ngelakuin apa yang memang seharusnya aku lakuin, kok.",
+      "PORTUGUESE": "Ah… eu só tô cumprindo minhas tarefas, nada mais.",
+      "SPANISH": "Ah… solo cumplo con mis tareas, nada más.",
+      "PERSIAN": "آه... من فقط کاری را انجام می دهم که باید انجام دهم، همین."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "요즘은 하숙집 사람들이 나보다",
+      "ENGLISH": "These days, I feel like ",
+      "CHINESE_SIMPLIFIED": "最近啊，公寓里的大家",
+      "CHINESE_TRADITIONAL": "我跟你說，最近公寓裡的大家",
+      "JAPANESE": "最近は下宿の人たち、みんな俺より",
+      "INDONESIAN": "Akhir-akhir ini aku malah ngerasa",
+      "PORTUGUESE": "Sinto que as meninas",
+      "SPANISH": "Siento que a las chicas",
+      "PERSIAN": "این روزها حس میکنم"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨를 더 좋아하는 거 같다니까요?",
+      "ENGLISH": "the boarding house people like you more than they like me.",
+      "CHINESE_SIMPLIFIED": "好像都比我还更喜欢你呢",
+      "CHINESE_TRADITIONAL": "好像都比我更喜歡你呢！",
+      "JAPANESE": "ユジョンさんのこと好きなんじゃないかって思うくらいです",
+      "INDONESIAN": "anak-anak rumah kos lebih suka kamu daripada aku.",
+      "PORTUGUESE": "gostam mais de você do que de mim, sabia?",
+      "SPANISH": " le caes mejor que yo, ¿sabes?",
+      "PERSIAN": "مردم پانسیون شما را بیشتر از من دوست دارند."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 23.2
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 진짜 잘 부탁해요!",
+      "ENGLISH": "Please take good care of us from now on!",
+      "CHINESE_SIMPLIFIED": "以后也请多多关照啦！",
+      "CHINESE_TRADITIONAL": "以後也請多多關照啦",
+      "JAPANESE": "これからもよろしくお願いします！",
+      "INDONESIAN": "Tolong jaga kami baik-baik ya ke depannya!",
+      "PORTUGUESE": "Nossa pensão tá nas suas mãos!",
+      "SPANISH": "¡Nuestra pensión está es tus manos!",
+      "PERSIAN": "لطفا از این به بعد مراقب ما باشید!"
+    }
+  }
+]

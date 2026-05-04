@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나~는 행복합니다~ ",
+      "ENGLISH": "I~ am so happy~",
+      "CHINESE_SIMPLIFIED": "我~好幸福呀~",
+      "CHINESE_TRADITIONAL": "我～好幸福啊～",
+      "JAPANESE": "おれ〜は幸せです〜",
+      "INDONESIAN": "Aku~ seneng banget~",
+      "PORTUGUESE": "Tô tão feliz~",
+      "SPANISH": "Soy tan feliz~",
+      "PERSIAN": "من ~ خیلی خوشحالم~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나~는 행복합니다~",
+      "ENGLISH": "I~ am sooo happy~",
+      "CHINESE_SIMPLIFIED": "我~好幸福呀~",
+      "CHINESE_TRADITIONAL": "我～好幸福啊～",
+      "JAPANESE": "おれ〜は幸せです〜",
+      "INDONESIAN": "Aku~ bener-bener seneng~",
+      "PORTUGUESE": "Tô tãããão feliz~",
+      "SPANISH": "Soy taaaaan feliz~",
+      "PERSIAN": "من ~ خیلی خوشحالم~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 다들 잠들었네 ",
+      "ENGLISH": "Huh? Everyone’s already asleep…",
+      "CHINESE_SIMPLIFIED": "咦？大家都睡着了呢",
+      "CHINESE_TRADITIONAL": "咦？大家都睡著了耶",
+      "JAPANESE": "あれ、みんな寝ちゃった…",
+      "INDONESIAN": "Hah? Semua orang udah tidur ya…",
+      "PORTUGUESE": "Hã? Já dormiram...",
+      "SPANISH": "¿Ah? Ya se durmieron...",
+      "PERSIAN": "ها؟ همه از قبل خوابند…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나는 어디서 자지..?",
+      "ENGLISH": "Where am I supposed to sleep…?",
+      "CHINESE_SIMPLIFIED": "我该睡哪儿呢...？",
+      "CHINESE_TRADITIONAL": "那我要睡哪裡呢...？",
+      "JAPANESE": "俺、どこで寝よう…？",
+      "INDONESIAN": "Terus aku tidur di mana, dong…?",
+      "PORTUGUESE": "Onde é que eu vou dormir...?",
+      "SPANISH": "¿Dónde dormiré...?",
+      "PERSIAN": "کجا بخوابم…؟"
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "종아리 근육을 확실하게 풀어드리려면 ",
+      "ENGLISH": "If you really want to loosen up that calf muscle,",
+      "CHINESE_SIMPLIFIED": "要想彻底放松小腿肌肉",
+      "CHINESE_TRADITIONAL": "要徹底放鬆小腿肌肉的話",
+      "JAPANESE": "ふくらはぎの筋肉をしっかりほぐすには",
+      "INDONESIAN": "Kalau kamu bener-bener mau betismu lemes total,",
+      "PORTUGUESE": "Se eu quiser soltar bem o músculo da panturrilha,",
+      "SPANISH": "Si quiero aflojar bien el músculo de la pantorrilla,",
+      "PERSIAN": "اگر واقعاً می خواهید اون عضله ساق پا را شل کنید،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이 주먹이 답이죠.",
+      "ENGLISH": "my fist is the way to go.",
+      "CHINESE_SIMPLIFIED": "还得靠这个拳头",
+      "CHINESE_TRADITIONAL": "拳頭才是真理",
+      "JAPANESE": "この拳が一番なんです",
+      "INDONESIAN": "pake tinjuku aja—paling manjur.",
+      "PORTUGUESE": "o punho é a melhor ferramenta.",
+      "SPANISH": "el puño es la mejor herramienta.",
+      "PERSIAN": "مشت من راهی برای رفتن است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "주먹...? 확실해요?",
+      "ENGLISH": "Your fist...? You sure about this?",
+      "CHINESE_SIMPLIFIED": "拳头...？你确定吗？",
+      "CHINESE_TRADITIONAL": "拳、拳頭？你確定嗎？",
+      "JAPANESE": "拳…？本当に大丈夫なんですか？",
+      "INDONESIAN": "Tinjumu...? Kamu yakin?",
+      "PORTUGUESE": "O punho...? Tem certeza disso?",
+      "SPANISH": "¿El puño...? ¿Estás seguro de eso?",
+      "PERSIAN": "مشتت...؟ در این مورد مطمئنی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그럼요. 자 힘 푸시고. ",
+      "ENGLISH": "Totally. Okay—relax your leg.",
+      "CHINESE_SIMPLIFIED": "那当然，来，放轻松",
+      "CHINESE_TRADITIONAL": "當然啊。來，放輕鬆",
+      "JAPANESE": "もちろんです！力抜いてくださいね〜",
+      "INDONESIAN": "Yakin banget. Oke—relaxin dulu kakinya.",
+      "PORTUGUESE": "Claro! Relaxa as pernas.",
+      "SPANISH": "¡Claro! Relaje las piernas.",
+      "PERSIAN": "کلا خوب - پای خود را شل کنید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "자 들어갑니다!",
+      "ENGLISH": "Here we go!",
+      "CHINESE_SIMPLIFIED": "我开始了！",
+      "CHINESE_TRADITIONAL": "好了，要開始囉！",
+      "JAPANESE": "じゃあいきます！",
+      "INDONESIAN": "Oke, siap!",
+      "PORTUGUESE": "Lá vou eu.",
+      "SPANISH": "Allá voy.",
+      "PERSIAN": "در اینجا ما می رویم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요? 제대로 풀리죠? 괜찮죠!",
+      "ENGLISH": "How’s that? Feels like it’s working, right?",
+      "CHINESE_SIMPLIFIED": "怎么样？彻底放松了吧？没问题吧！",
+      "CHINESE_TRADITIONAL": "如何？有沒有鬆開來了？還不錯吧！",
+      "JAPANESE": "どうです？ちゃんとほぐれてるでしょ？気持ちいいでしょ！",
+      "INDONESIAN": "Gimana? Kerasa ngaruh, kan?",
+      "PORTUGUESE": "E aí? Tá soltando bem? Consegue sentir?",
+      "SPANISH": "¿Qué tal? ¿Se está soltando bien? ¿Lo puede sentir?",
+      "PERSIAN": "چطوره؟ به نظر می رسد کار می کند، درست است؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아아아 잠깐만, 잠깐만!",
+      "ENGLISH": "Aaaah! Wait, wait—hold on!!",
+      "CHINESE_SIMPLIFIED": "啊啊啊！等一下，等一下！",
+      "CHINESE_TRADITIONAL": "啊啊啊，等一下、等一下！",
+      "JAPANESE": "あああっ、ちょ、ちょっと待って！",
+      "INDONESIAN": "Aaaah! Tunggu, tunggu—berhenti dulu!!",
+      "PORTUGUESE": "Aaaah, espera, espera!",
+      "SPANISH": "¡Aaaah, espere, espere!",
+      "PERSIAN": "آااا! صبر کن، صبر کن - صبر کن!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "怎麼了？",
+      "JAPANESE": "どうしました？",
+      "INDONESIAN": "Kenapa?",
+      "PORTUGUESE": "O que foi?",
+      "SPANISH": "¿Qué pasa?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.6,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아파요! 아프다구요!",
+      "ENGLISH": "It hurts! That really hurts!!",
+      "CHINESE_SIMPLIFIED": "啊，好痛！好痛啊！",
+      "CHINESE_TRADITIONAL": "好、好痛！真的很痛！",
+      "JAPANESE": "い、痛いです！痛いって！",
+      "INDONESIAN": "Sakit! Itu sakit banget!!",
+      "PORTUGUESE": "Tá doendo! Dói muito!",
+      "SPANISH": "¡Me duele! ¡Duele mucho!",
+      "PERSIAN": "درد داره! واقعا درد داره!!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아...그렇지만 이렇게 해야  풀리는데...",
+      "ENGLISH": "Ah... but this is how it loosens up properly...",
+      "CHINESE_SIMPLIFIED": "啊...但这样才能彻底放松...",
+      "CHINESE_TRADITIONAL": "啊...但不這樣的話鬆不開啊…",
+      "JAPANESE": "でもこうしないとほぐれないんですよ…",
+      "INDONESIAN": "Ah... tapi emang begini biar ototnya bener-bener lemes...",
+      "PORTUGUESE": "Ah… mas é assim que relaxa de verdade...",
+      "SPANISH": "Ah… pero así es como se relaja de verdad...",
+      "PERSIAN": "آه ... اما اینطوری درست می شود ..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아...! 아프잖아요! ",
+      "ENGLISH": "Ow!! It hurts!",
+      "CHINESE_SIMPLIFIED": "啊...！可是很痛啊！",
+      "CHINESE_TRADITIONAL": "啊...！可是真的好痛！",
+      "JAPANESE": "痛いって！",
+      "INDONESIAN": "Aduh!! Sakit!",
+      "PORTUGUESE": "Ah…! Mas tá doendo!",
+      "SPANISH": "¡Ah…! ¡Pero duele!",
+      "PERSIAN": "اوه!! درد داره!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 내가 뭐 잘못한 거 있어요?",
+      "ENGLISH": "Yuman... did I do something to upset you??",
+      "CHINESE_SIMPLIFIED": "宥万先生，我是做错什么了吗？",
+      "CHINESE_TRADITIONAL": "宥萬先生，我是不是哪裡做錯了嗎？",
+      "JAPANESE": "ユマンさん　私何か悪いことしましたか！？",
+      "INDONESIAN": "Yuman... aku ngelakuin sesuatu yang bikin kamu kesel, ya??",
+      "PORTUGUESE": "Yumán, você tá bravo comigo, é isso?",
+      "SPANISH": "Yumán, ¿acaso está molesto conmigo?",
+      "PERSIAN": "یومان... کاری کردم ناراحتت کنم؟؟"
+    }
+  }
+]

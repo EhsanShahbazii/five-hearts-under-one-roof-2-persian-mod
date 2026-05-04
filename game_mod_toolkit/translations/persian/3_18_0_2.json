@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저... 여기 뭐 묻으셨는데...",
+      "ENGLISH": "Um... you’ve got something on your face...",
+      "CHINESE_SIMPLIFIED": "那个...您这里沾到东西了...",
+      "CHINESE_TRADITIONAL": "那個...你這裡沾到東西了...",
+      "JAPANESE": "あの… ここ 何かついてますよ",
+      "INDONESIAN": "Eh... ada sesuatu di wajahmu...",
+      "PORTUGUESE": "Hã… você tem algo aí…",
+      "SPANISH": "Um… tiene algo ahí…",
+      "PERSIAN": "اوم... یه چیزی روی صورتت داری..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 어디요?",
+      "ENGLISH": "Huh? Where?",
+      "CHINESE_SIMPLIFIED": "嗯？哪里？",
+      "CHINESE_TRADITIONAL": "咦？ 在哪裡？",
+      "JAPANESE": "えっ？ どこですか？",
+      "INDONESIAN": "Hah? Dimana?",
+      "PORTUGUESE": "Hã? Onde?",
+      "SPANISH": "¿Eh? ¿Dónde?",
+      "PERSIAN": "ها؟ کجا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 닦아드려도 될까요?",
+      "ENGLISH": "Would it be okay if I wiped it off for you?",
+      "CHINESE_SIMPLIFIED": "我帮您擦掉可以吗？",
+      "CHINESE_TRADITIONAL": "我可以幫你擦掉嗎？",
+      "JAPANESE": "俺が拭いてもいいですか？",
+      "INDONESIAN": "Apakah tidak apa-apa kalau aku menghapusnya untukmu?",
+      "PORTUGUESE": "Posso limpar pra você?",
+      "SPANISH": "¿Puedo limpiárselo?",
+      "PERSIAN": "اگر اونو برای شما پاک کنم اشکالی ندارد؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh...?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah...?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها...؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": " 제가 막 묻히고 있었네요...ㅎ",
+      "ENGLISH": "Looks like I got you messy without realizing... hehe",
+      "CHINESE_SIMPLIFIED": "我都没发现沾到了呢...呵",
+      "CHINESE_TRADITIONAL": "我都沒有發現沾到了呢...呵",
+      "JAPANESE": "あ… 私がつけちゃってたみたいで… へへ…",
+      "INDONESIAN": "Sepertinya aku telah membuatmu berantakan tanpa menyadarinya... hehe",
+      "PORTUGUESE": "Parece que fui eu quem te sujei sem perceber… hehe.",
+      "SPANISH": "Parece que yo fui quien la manchó sin darme cuenta… je.",
+      "PERSIAN": "به نظر می رسد بدون اینکه متوجه شوم شما را به هم ریخته ام... هه"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": " 고마워요, 유만 씨...",
+      "ENGLISH": "Thanks, Yuman...",
+      "CHINESE_SIMPLIFIED": "谢谢你，宥万先生...",
+      "CHINESE_TRADITIONAL": "謝謝你，宥萬先生...",
+      "JAPANESE": "ありがとう ユマンさん…",
+      "INDONESIAN": "Terima kasih, Yuman...",
+      "PORTUGUESE": "Obrigada, senhor Yumán…",
+      "SPANISH": "Gracias, señor Yumán…",
+      "PERSIAN": "ممنون یومان..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.8,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 네...",
+      "ENGLISH": "Oh, uh... yeah, sure...",
+      "CHINESE_SIMPLIFIED": "啊，好的...",
+      "CHINESE_TRADITIONAL": "啊，不會啦...",
+      "JAPANESE": "あ はい…",
+      "INDONESIAN": "Oh, uh... ya, tentu...",
+      "PORTUGUESE": "Ah, sim…",
+      "SPANISH": "Ah, sí…",
+      "PERSIAN": "اوه، اوه... آره، حتما..."
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "달라진 거?",
+      "ENGLISH": "Different?",
+      "CHINESE_SIMPLIFIED": "哪里不一样？",
+      "CHINESE_TRADITIONAL": "有什麼不一樣嗎？",
+      "JAPANESE": "変わったとこ？",
+      "INDONESIAN": "Ada yang berubah?",
+      "PORTUGUESE": "Diferente?",
+      "SPANISH": "¿Algo diferente…?",
+      "PERSIAN": "چیزی که تغییر کرده؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너 안 본 사이에 좀...",
+      "ENGLISH": "Since I last saw you, you’ve kinda…",
+      "CHINESE_SIMPLIFIED": "你这段时间…",
+      "CHINESE_TRADITIONAL": "你不在的這段時間...",
+      "JAPANESE": "お前、会わないうちにちょっと…",
+      "INDONESIAN": "Kayaknya selama nggak ketemu...",
+      "PORTUGUESE": "Desde a última vez que te vi, você meio que…",
+      "SPANISH": "Desde la última vez que te vi…",
+      "PERSIAN": "از وقتی ندیدمت احساس می‌کنم یکم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너 뭐 해...",
+      "ENGLISH": "Hey, what are you doing…",
+      "CHINESE_SIMPLIFIED": "哎，干嘛呢…",
+      "CHINESE_TRADITIONAL": "欸，你...在幹嘛？",
+      "JAPANESE": "なにするの…",
+      "INDONESIAN": "Eh, kamu ngapain...",
+      "PORTUGUESE": "Ei, o que você tá fazendo…",
+      "SPANISH": "¿Qué estás—",
+      "PERSIAN": "داری چیکار می‌کنی دقیقاً؟..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "살이 좀 오른 거 같은데?",
+      "ENGLISH": "Looks like you’ve put on a little weight.",
+      "CHINESE_SIMPLIFIED": "好像胖了一点？",
+      "CHINESE_TRADITIONAL": "好像胖了一點？",
+      "JAPANESE": "ちょっと太った？",
+      "INDONESIAN": "Kamu keliatan agak naik berat badan deh?",
+      "PORTUGUESE": "Parece que engordou um pouquinho.",
+      "SPANISH": "Creo que subiste un poquito de peso.",
+      "PERSIAN": "احساس می‌کنم یکم لپ آوردی و چاق شدی!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "ええ？",
+      "INDONESIAN": "Apa!?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "چییی؟! چاق شدم؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야 이거 봐 봐. 쫙쫙 늘어나잖아. 쫙쫙",
+      "ENGLISH": "Look, see? It even stretches—streeetch.",
+      "CHINESE_SIMPLIFIED": "喂你看，看这揪起来的样子",
+      "CHINESE_TRADITIONAL": "欸，你看這個。超有彈性的。都可以拉這麼長",
+      "JAPANESE": "ほら見ろよ。こんなに伸びるじゃん、びよーんって",
+      "INDONESIAN": "Liat nih, sampe bisa ditarik-tarik gini. Liat, tuh~",
+      "PORTUGUESE": "Olha, viu? Até estica—estiiica.",
+      "SPANISH": "¡Mira esto como se estira! ¡Mira, mira!",
+      "PERSIAN": "نگاه کن خودت! قشنگ لپات کش میاد، ببین! کشششش!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야 너 미쳤냐!",
+      "ENGLISH": "Are you insane?!",
+      "CHINESE_SIMPLIFIED": "你疯了吗！",
+      "CHINESE_TRADITIONAL": "你瘋了嗎！",
+      "JAPANESE": "ちょっと、頭おかしいんじゃない！",
+      "INDONESIAN": "Eh, gila ya kamu!?",
+      "PORTUGUESE": "Você tá maluco?!",
+      "SPANISH": "¡Oye, ¿estás loco o qué?!",
+      "PERSIAN": "روانی شدی؟! دستتو بکش کثافت!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 너 나 없는 동안 뭘 그렇게 맛있게 먹었냐?",
+      "ENGLISH": "Ha… what were you eating while I was gone to enjoy yourself that much?",
+      "CHINESE_SIMPLIFIED": "啊...你趁我不在的时候，是吃了多少好吃的啊？",
+      "CHINESE_TRADITIONAL": "啊…我不在的時候，你都吃了什麼好吃的啊？",
+      "JAPANESE": "あ…俺いない間にそんなに美味いもん食ってたのか？",
+      "INDONESIAN": "Hahaha... selama aku nggak ada, kamu makan enak banget ya?",
+      "PORTUGUESE": "Ha… o que você andou comendo enquanto eu tava fora pra se divertir tanto assim?",
+      "SPANISH": "A ver… ¿qué estuviste comiendo mientras yo no estaba?",
+      "PERSIAN": "این مدتی که من نبودم معلوم نیست چی به خیکت بستی اینجوری تپلی شدی!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "많이 그래 보여?",
+      "ENGLISH": "Does it really look that bad?",
+      "CHINESE_SIMPLIFIED": "看起来有这么明显吗？",
+      "CHINESE_TRADITIONAL": "看起來有這麼明顯嗎？",
+      "JAPANESE": "そんなにそう見える？",
+      "INDONESIAN": "Keliatan banget ya?",
+      "PORTUGUESE": "Tá realmente tão ruim assim?",
+      "SPANISH": "¿Se me nota mucho?",
+      "PERSIAN": "خیلی... خیلی ضایع‌ست یعنی؟ معلومه؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 농담이지!",
+      "ENGLISH": "C’mon, I’m just kidding!",
+      "CHINESE_SIMPLIFIED": "哎哟，开玩笑的啦！",
+      "CHINESE_TRADITIONAL": "啊，開玩笑的啦！",
+      "JAPANESE": "いやいや、冗談だって！",
+      "INDONESIAN": "Ehh, aku bercanda!",
+      "PORTUGUESE": "Qual é, tô só brincando!",
+      "SPANISH": "¡Nah, era broma!",
+      "PERSIAN": "نه بابا شوخی کردم! همون مال‌سوک همیشگی هستی!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇지?",
+      "ENGLISH": "…Really?",
+      "CHINESE_SIMPLIFIED": "是吧？",
+      "CHINESE_TRADITIONAL": "是吧？",
+      "JAPANESE": "だよね？",
+      "INDONESIAN": "Beneran bercanda kan?",
+      "PORTUGUESE": "…Sério?",
+      "SPANISH": "¿En serio?",
+      "PERSIAN": "واقعاً راست می‌گی...؟"
+    }
+  }
+]

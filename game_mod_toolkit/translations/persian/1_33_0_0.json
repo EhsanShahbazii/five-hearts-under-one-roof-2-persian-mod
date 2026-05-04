@@ -1,0 +1,339 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 몸 괜찮아지면",
+      "ENGLISH": "Once you’re feeling better",
+      "CHINESE_SIMPLIFIED": "现在身体恢复了的话",
+      "CHINESE_TRADITIONAL": "現在你身體好多了",
+      "JAPANESE": "じゃあ、体治ったら",
+      "INDONESIAN": "Kalau badan kamu udah mendingan,",
+      "PORTUGUESE": "Quando você melhorar",
+      "SPANISH": "Cuando estés mejor,",
+      "PERSIAN": "حالا که حالت خوب شده،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "빨래도 너가 다시 하는 거지?",
+      "ENGLISH": "You’re doing the laundry, too. OKay?",
+      "CHINESE_SIMPLIFIED": "衣服还是你来洗吧？",
+      "CHINESE_TRADITIONAL": "洗衣服就還是讓你來吧？",
+      "JAPANESE": "洗濯はユマンがやるんでしょ？",
+      "INDONESIAN": "nanti kamu yang nyuci baju sendiri, ya?",
+      "PORTUGUESE": "vai fazer a lavanderia também. Tá bom?",
+      "SPANISH": "te vas a hacer cargo de lavar la ropa, ¿verdad?",
+      "PERSIAN": "لباس شستنا دوباره با خودته ها، حواست هست؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너 어차피 피시방 말고 하는 것도 없잖아.",
+      "ENGLISH": "It’s not like you do anything besides hanging out at internet cafés anyway.",
+      "CHINESE_SIMPLIFIED": "反正你除了去网吧也没别的事做嘛",
+      "CHINESE_TRADITIONAL": "反正你除了去網咖也沒別的事可做",
+      "JAPANESE": "どうせネカフェ以外やることないじゃん",
+      "INDONESIAN": "Toh kamu juga nggak ada kerjaan selain nongkrong di warnet.",
+      "PORTUGUESE": "Não é como se você fizesse outra coisa além de ficar em lan house mesmo.",
+      "SPANISH": "Pero tú no haces nada aparte del cibercafé.",
+      "PERSIAN": "تو که به جز گیم‌نت رفتن کار دیگه‌ای بلد نبودی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "피시방 관둔 지가 언젠데.",
+      "ENGLISH": "I quit going there forever ago.",
+      "CHINESE_SIMPLIFIED": "我早就不去网吧了",
+      "CHINESE_TRADITIONAL": "我早就沒去網咖了",
+      "JAPANESE": "ネカフェやめてからどんだけ経ったと思ってるの",
+      "INDONESIAN": "Eh, udah lama banget aku berhenti kerja di warnet, tau.",
+      "PORTUGUESE": "Eu parei de ir lá faz tempo.",
+      "SPANISH": "¡Hace cuánto no dejé de trabajar ahí!",
+      "PERSIAN": "من خیلی وقته گیم‌نت رفتنو بوسیدم گذاشتم کنار!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 나 요즘 바쁘거든? ",
+      "ENGLISH": "And I’ve been busy, you know.",
+      "CHINESE_SIMPLIFIED": "而且最近我忙得很呢？",
+      "CHINESE_TRADITIONAL": "而且我最近很忙欸？",
+      "JAPANESE": "それに最近けっこう忙しいんだよ",
+      "INDONESIAN": "Dan sekarang aku sibuk, oke?",
+      "PORTUGUESE": "E eu tenho estado ocupado, sabia.",
+      "SPANISH": "Y he estado muy ocupada últimamente.",
+      "PERSIAN": "تازه این روزا سرم خیلی شلوغه، می‌دونی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너 대신 하숙집 빨래하느라 손도 이렇게 거칠어졌어...",
+      "ENGLISH": "I’ve been doing the boarding house laundry for you—my hands have gotten all rough.",
+      "CHINESE_SIMPLIFIED": "因为帮你洗衣服，我这手都变粗糙了…",
+      "CHINESE_TRADITIONAL": "因為幫你洗衣服，手都變得粗糙了…",
+      "JAPANESE": "ユマンの代わりに下宿の洗濯してたら、手までこんなに荒れちゃってさ…",
+      "INDONESIAN": "Tangan aku sampe kasar gini gara-gara nyuci buat kamu di rumah kos...",
+      "PORTUGUESE": "Eu que tenho feito a lavanderia da pensão pra você—minhas mãos ficaram todas ásperas.",
+      "SPANISH": "Mis manos están ásperas de tanto lavar la ropa por ti...",
+      "PERSIAN": "به جا تو لباسای کل پانسیونو شستم دستام این شکلی زبر شده..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "봐봐...",
+      "ENGLISH": "Look! ",
+      "CHINESE_SIMPLIFIED": "你看...",
+      "CHINESE_TRADITIONAL": "你看…",
+      "JAPANESE": "ほら、見て",
+      "INDONESIAN": "Nih liat...",
+      "PORTUGUESE": "Olha!",
+      "SPANISH": "Mira...",
+      "PERSIAN": "ببین خودت..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "손 엄청 거칠어졌지?",
+      "ENGLISH": "They’re scorched now.",
+      "CHINESE_SIMPLIFIED": "我的手完全干巴巴的吧？",
+      "CHINESE_TRADITIONAL": "手是不是變得很乾？",
+      "JAPANESE": "手すごいガサガサでしょ？",
+      "INDONESIAN": "Kasar banget kan?",
+      "PORTUGUESE": "Agora estão até queimadas.",
+      "SPANISH": "¿No están ásperas?",
+      "PERSIAN": "ببین چقدر پوستم خشک و داغون شده؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "약간 발뒤꿈치 같고 그렇긴 한데?",
+      "ENGLISH": "Yeah, wow. Like… your heels.",
+      "CHINESE_SIMPLIFIED": "有点像脚后跟一样诶",
+      "CHINESE_TRADITIONAL": "感覺有點像腳後跟？",
+      "JAPANESE": "何か、かかとっぽいな",
+      "INDONESIAN": "Hmm... agak-agak mirip tumit kaki sih.",
+      "PORTUGUESE": "É, uau. Tipo… seus calcanhares.",
+      "SPANISH": "Sí... se sienten como talones.",
+      "PERSIAN": "آره والا... یه جورایی شبیه ترک پاشنه پا شده دستات!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야! 나 발뒤꿈치 안 푸석하거든?",
+      "ENGLISH": "Hey! My heels are not dry, thank you!",
+      "CHINESE_SIMPLIFIED": "喂！我脚后跟可没干巴巴啊？",
+      "CHINESE_TRADITIONAL": "欸！我的腳後跟才沒有很粗糙",
+      "JAPANESE": "ちょっと！私のかかとはガサガサじゃないから！",
+      "INDONESIAN": "Heh! Tumit aku tuh nggak kering, oke?!",
+      "PORTUGUESE": "Ei! Meus calcanhares não estão ressecados, tá!",
+      "SPANISH": "¡Oye! ¡Mis talones no están resecos!",
+      "PERSIAN": "هووی! پاشنه پای من به این لطیفی و نرمیه کور خوندی!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "봐봐!!",
+      "ENGLISH": "Look! See??",
+      "CHINESE_SIMPLIFIED": "你看吧！！",
+      "CHINESE_TRADITIONAL": "你看！！",
+      "JAPANESE": "ほら！触ってみて！",
+      "INDONESIAN": "Nih liat!!",
+      "PORTUGUESE": "Olha! Viu??",
+      "SPANISH": "¡Fíjate!",
+      "PERSIAN": "ببین خودت!! نگاه کن!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "매끈해!",
+      "ENGLISH": "Smooth!",
+      "CHINESE_SIMPLIFIED": "滑不滑～！",
+      "CHINESE_TRADITIONAL": "超光滑的！",
+      "JAPANESE": "ツルツルだから！",
+      "INDONESIAN": "Lembut, kan!",
+      "PORTUGUESE": "Lisinho!",
+      "SPANISH": "¡Suavecitos!",
+      "PERSIAN": "صاف و عین آینه!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 29.9
+    },
+    "SCRIPT": {
+      "KOREAN": "됐어 너 빤스 보여~",
+      "ENGLISH": "Okay, okay—whoa! Your undies are showing!",
+      "CHINESE_SIMPLIFIED": "够了，我看到你内裤了～",
+      "CHINESE_TRADITIONAL": "夠了，我看到你的內褲了～",
+      "JAPANESE": "見えたぞ、お前のパンツ〜",
+      "INDONESIAN": "Udah ah, kamu keliatan tuh... celana dalemnya!",
+      "PORTUGUESE": "Tá bom, tá bom—opa! Sua calcinha tá aparecendo!",
+      "SPANISH": "Ya, basta. ¡Se ve tu ropa interior~!",
+      "PERSIAN": "خیلی خب بابا دیدم... اوه اوه! شورتت زد بیرون که!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "SCRIPT": {
+      "KOREAN": "뭐 진짜??",
+      "ENGLISH": "What?! For real??",
+      "CHINESE_SIMPLIFIED": "什么，真的假的？？",
+      "CHINESE_TRADITIONAL": "什麼？真的假的？",
+      "JAPANESE": "え、やだ！？",
+      "INDONESIAN": "Hah? Serius??",
+      "PORTUGUESE": "O quê?! Sério??",
+      "SPANISH": "¡¿Qué?! ¿De verdad?",
+      "PERSIAN": "چی؟! جدی می‌گی؟! کو؟!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 32.9,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "봤어?",
+      "ENGLISH": "Did you actually see something?",
+      "CHINESE_SIMPLIFIED": "真的看到了吗？",
+      "CHINESE_TRADITIONAL": "真的看到了？",
+      "JAPANESE": "見たの！？",
+      "INDONESIAN": "Kamu liat??",
+      "PORTUGUESE": "Você chegou a ver alguma coisa?",
+      "SPANISH": "¿La viste?",
+      "PERSIAN": "واقعاً دیدی؟! کلک نزن!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 35.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 몰라 나 좀 쉬자~",
+      "ENGLISH": "I’m gonna rest now~",
+      "CHINESE_SIMPLIFIED": "啊，不管了，我先休息一下～",
+      "CHINESE_TRADITIONAL": "啊，不管了，讓我休息一下～",
+      "JAPANESE": "ああー知らない、ちょっと休む",
+      "INDONESIAN": "Udahlah, aku mau istirahat~",
+      "PORTUGUESE": "Eu vou descansar agora~",
+      "SPANISH": "Ay, ya, déjame descansar~",
+      "PERSIAN": "ای بابا نمی‌دونم، بذار من دو دقیقه کپه مرگمو بذارم~"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 35.9,
+      "HIDE": 37.3
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 봤냐고!!",
+      "ENGLISH": "Wait, seriously—did you see??",
+      "CHINESE_SIMPLIFIED": "真的看到了吗！！",
+      "CHINESE_TRADITIONAL": "真的看到了嗎！！",
+      "JAPANESE": "ほんとに見たの！？",
+      "INDONESIAN": "Kamu beneran liat nggak sih!!",
+      "PORTUGUESE": "Espera, sério—você viu??",
+      "SPANISH": "¡¿Pero la viste o no?!",
+      "PERSIAN": "می‌گم بگو واقعاً دیدی یا نههه?!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 37.3,
+      "HIDE": 38.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 몰라~",
+      "ENGLISH": "Well~ Well~",
+      "CHINESE_SIMPLIFIED": "哎呀我不说～",
+      "CHINESE_TRADITIONAL": "啊，不知道啦～",
+      "JAPANESE": "知らね～",
+      "INDONESIAN": "Ah, nggak tau deh~",
+      "PORTUGUESE": "Bem~ bem~",
+      "SPANISH": "¡No sé, no sé!",
+      "PERSIAN": "نمی‌دونم والا~ شاید دیدم شاید ندیدم~"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 38.7,
+      "HIDE": 40.9
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리 말해! 무슨 색인지!",
+      "ENGLISH": "What color was it?!",
+      "CHINESE_SIMPLIFIED": "我穿的是什么颜色的！",
+      "CHINESE_TRADITIONAL": "快點說！是什麼顏色！",
+      "JAPANESE": "早く言って！何色だったの！？",
+      "INDONESIAN": "Cepet bilang! Warnanya apa?!",
+      "PORTUGUESE": "De que cor era?!",
+      "SPANISH": "¡Dime! ¿¡De qué color era!?",
+      "PERSIAN": "زود باش بگو ببینم چه رنگی بود پس?!"
+    }
+  }
+]

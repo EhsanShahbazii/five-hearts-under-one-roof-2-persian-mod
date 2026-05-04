@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저 어때요?",
+      "ENGLISH": "How do I look?",
+      "CHINESE_SIMPLIFIED": "我这样怎么样？",
+      "CHINESE_TRADITIONAL": "我看起來如何？",
+      "JAPANESE": "どうですか 私？",
+      "INDONESIAN": "Bagaimana penampilan aku?",
+      "PORTUGUESE": "Como eu tô?",
+      "SPANISH": "¿Cómo me veo?",
+      "PERSIAN": "چگونه نگاه کنم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "와, 민정 님은 이런 것도 잘 어울리네요.",
+      "ENGLISH": "Wow, Min-jung, you even pull this off.",
+      "CHINESE_SIMPLIFIED": "哇，敏静连这种风格都很适合呢",
+      "CHINESE_TRADITIONAL": "哇，敏靜你連這種打扮都好適合",
+      "JAPANESE": "うわ〜 ミンジョンさん そういうのも似合うんですね！",
+      "INDONESIAN": "Wah, Min-jung, kamu bahkan berhasil melakukan ini.",
+      "PORTUGUESE": "Uau, Minjung, até isso fica bem em você!",
+      "SPANISH": "Wow, Minjung, ¡hasta eso te queda bien!",
+      "PERSIAN": "وای، مین‌جونگ، تو حتی این کار را انجام دادی."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 그게 아니라! 사람들이 저인지 몰라야 되잖아요!",
+      "ENGLISH": "That’s not the point! I’m supposed to not look like me!",
+      "CHINESE_SIMPLIFIED": "问题不是这个！得让大家都认不出我来才行啊！",
+      "CHINESE_TRADITIONAL": "不是啦！重點是大家不能認出是我啊！",
+      "JAPANESE": "そういうことじゃなくて 私だってバレちゃダメなんですよ！",
+      "INDONESIAN": "Bukan itu intinya! Aku seharusnya tidak terlihat seperti diriku sendiri!",
+      "PORTUGUESE": "Não tô falando disso! As pessoas não podem me reconhecer!",
+      "SPANISH": "¡No me refiero a eso! ¡La gente no debe reconocerme!",
+      "PERSIAN": "موضوع این نیست! قراره شبیه خودم نباشم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그러면 이거 안 돼요! ",
+      "ENGLISH": "Oh—then this won’t work at all!",
+      "CHINESE_SIMPLIFIED": "啊，那这样不行！",
+      "CHINESE_TRADITIONAL": "啊，那這樣不行！",
+      "JAPANESE": "あっ じゃあそれはダメです",
+      "INDONESIAN": "Oh—kalau begitu ini tidak akan berhasil sama sekali!",
+      "PORTUGUESE": "Ah, então isso não serve.",
+      "SPANISH": "Ah, entonces eso no sirve.",
+      "PERSIAN": "اوه - پس این اصلاً کار نخواهد کرد!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 귀여워서 오히려 사람들이 더 쳐다볼 거 같아요!",
+      "ENGLISH": "You look too cute, people are gonna stare even more!",
+      "CHINESE_SIMPLIFIED": "太可爱了反而会让人更想盯着看吧！",
+      "CHINESE_TRADITIONAL": "太可愛了，反而會更引人注意吧！",
+      "JAPANESE": "可愛すぎて逆にみんなの視線集めちゃいますよ！",
+      "INDONESIAN": "Kamu kelihatan imut banget, orang-orang bakal makin menatapnya!",
+      "PORTUGUESE": "Você tá tão linda que todo mundo vai olhar pra você!",
+      "SPANISH": "¡Te ves tan linda que la gente va a mirarte más!",
+      "PERSIAN": "تو خیلی بامزه به نظر میرسی، مردم حتی بیشتر خیره خواهند شد!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 19.1
+    },
+    "SCRIPT": {
+      "KOREAN": "좀 더 평범한 걸로 가 보는 건 어때요?",
+      "ENGLISH": "How about something a little more... ordinary?",
+      "CHINESE_SIMPLIFIED": "试试更普通的款式怎么样？",
+      "CHINESE_TRADITIONAL": "試試看再普通一點的打扮？",
+      "JAPANESE": "じゃあ もっと普通なのはどうですか？",
+      "INDONESIAN": "Bagaimana dengan sesuatu yang sedikit lebih... biasa?",
+      "PORTUGUESE": "Que tal a gente tentar algo mais simples?",
+      "SPANISH": "¿Qué tal si probamos algo más normalito?",
+      "PERSIAN": "در مورد چیزی کمی بیشتر ... معمولی چطور؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네..",
+      "ENGLISH": "Yeah... okay.",
+      "CHINESE_SIMPLIFIED": "好吧...",
+      "CHINESE_TRADITIONAL": "好吧…",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Ya... oke.",
+      "PORTUGUESE": "É...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "آره... باشه."
+    }
+  }
+]

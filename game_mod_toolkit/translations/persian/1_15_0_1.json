@@ -1,0 +1,181 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "위험하니까 그냥 가자고 했죠 제가!",
+      "ENGLISH": "I told you it was dangerous!",
+      "CHINESE_SIMPLIFIED": "我不是说了很危险吗，走吧！",
+      "CHINESE_TRADITIONAL": "就說很危險了，我不是叫你快走嗎！",
+      "JAPANESE": "危ないからもう行こうって言ったじゃないですか！",
+      "INDONESIAN": "Kan aku udah bilang, bahaya, makanya ayo turun aja!",
+      "PORTUGUESE": "Eu disse pra gente ir embora porque era perigoso!",
+      "SPANISH": "¡Te dije que era peligroso, mejor vámonos!",
+      "PERSIAN": "نگفتم اینقدر نرو لب نرده خطریه؟! چی شد بالاخره؟!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "우와 대박 진짜 큰일날 뻔~",
+      "ENGLISH": "Whoa... that was way too close...",
+      "CHINESE_SIMPLIFIED": "天啊，差点摔倒了…",
+      "CHINESE_TRADITIONAL": "哇！真的差點就摔倒～",
+      "JAPANESE": "うわぁ、本当に危なかった〜",
+      "INDONESIAN": "wow, gila… itu tadi beneran nyaris banget~",
+      "PORTUGUESE": "uau, caramba, quase caí de verdade...",
+      "SPANISH": "uff... eso estuvo cerca.",
+      "PERSIAN": "وای... مویی رد شد، نزدیک بود هر دو تامون بریم هوا!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "순발력 진짜 좋네요!",
+      "ENGLISH": "Nice reflexes, though!",
+      "CHINESE_SIMPLIFIED": "反应真快啊！",
+      "CHINESE_TRADITIONAL": "反應真的超快！",
+      "JAPANESE": "反射神経すごいですね！",
+      "INDONESIAN": "Refleks kamu keren juga, ya!",
+      "PORTUGUESE": "Você tem bons reflexos!",
+      "SPANISH": "¡Qué buenos reflejos tienes!",
+      "PERSIAN": "ولی دمت گرم، عجب واکنشی نشون دادی!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "슬픔을 나누자는 게",
+      "ENGLISH": "So when you said “share the sadness,”",
+      "CHINESE_SIMPLIFIED": "你说要分担悲伤",
+      "CHINESE_TRADITIONAL": "所謂分擔悲傷",
+      "JAPANESE": "悲しみを分かち合うって、",
+      "INDONESIAN": "Kamu ngajak berbagi kesedihan itu…",
+      "PORTUGUESE": "Quando falou em dividir a tristeza,",
+      "SPANISH": "¿Lo de compartir la tristeza…",
+      "PERSIAN": "اون که می‌گفتی «غم رو باید تقسیم کرد»..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "같이 병원 신세 지겠다는 말이었어요?",
+      "ENGLISH": "Did you mean “end up in the hospital together”?",
+      "CHINESE_SIMPLIFIED": "是指要一起进医院吗？",
+      "CHINESE_TRADITIONAL": "是指一起住院的意思嗎？",
+      "JAPANESE": "一緒に入院しようってことだったんですか？",
+      "INDONESIAN": "maksudnya barengan masuk rumah sakit gitu?",
+      "PORTUGUESE": "quis dizer que ia acabar no hospital comigo?",
+      "SPANISH": "era terminar juntos en el hospital?",
+      "PERSIAN": "منظورت این بود دوتایی تخت بغل هم بستری شیم؟! هان؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 그게 아니라...",
+      "ENGLISH": "That’s not what I meant...",
+      "CHINESE_SIMPLIFIED": "不是啦，不是那个意思…",
+      "CHINESE_TRADITIONAL": "不是啦，不是那樣…",
+      "JAPANESE": "い、いえ、そういう意味じゃなくて…",
+      "INDONESIAN": "Bukan, bukan gitu maksudku…",
+      "PORTUGUESE": "Não era isso...",
+      "SPANISH": "No, no era eso…",
+      "PERSIAN": "اصلاً منظورم این نبود خیر سرم..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 발 괜찮아요?",
+      "ENGLISH": "Does your leg hurt?",
+      "CHINESE_SIMPLIFIED": "咦？你的脚没事吧？",
+      "CHINESE_TRADITIONAL": "咦？腳沒事吧？",
+      "JAPANESE": "え？ 足、大丈夫ですか？",
+      "INDONESIAN": "Eh? Kakimu nggak apa-apa?",
+      "SPANISH": "¿Eh? ¿Tu pie está bien?",
+      "PERSIAN": "پات سالمه؟ درد داری؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 23.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아파. 지금도 굉장히 쑤시는 상태야.",
+      "ENGLISH": "Oww… everything kinda hurts.",
+      "CHINESE_SIMPLIFIED": "好痛，现在还在一阵一阵地抽痛",
+      "CHINESE_TRADITIONAL": "好痛，現在還是很刺痛那種",
+      "JAPANESE": "痛いです。今もすごくズキズキしていて。",
+      "INDONESIAN": "Sakit. Sampai sekarang masih kerasa nyut-nyutan.",
+      "PORTUGUESE": "Tá doendo. Ainda tá latejando bastante.",
+      "SPANISH": "Pues... aún me duele bastante.",
+      "PERSIAN": "آخ آخ... فکر کنم بندبند استخونام جا‌به‌جا شد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 미안해요... ",
+      "ENGLISH": "I’m really sorry...",
+      "CHINESE_SIMPLIFIED": "啊，对不起…",
+      "CHINESE_TRADITIONAL": "啊，對不起…",
+      "JAPANESE": "あっ、すみません…",
+      "INDONESIAN": "Ah, maaf ya...",
+      "PORTUGUESE": "Ah, desculpa...",
+      "SPANISH": "Ay, lo siento…",
+      "PERSIAN": "واقعاً شرمنده‌تم، ببخشید..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 우리 내려가요...",
+      "ENGLISH": "Let’s head back down.",
+      "CHINESE_SIMPLIFIED": "我们赶紧下去吧",
+      "CHINESE_TRADITIONAL": "我們快點下去吧",
+      "JAPANESE": "もう降りましょう…",
+      "INDONESIAN": "Udah, yuk kita turun sekarang...",
+      "PORTUGUESE": "Vamos descer de novo, vai.",
+      "SPANISH": "Mejor bajemos ya…",
+      "PERSIAN": "بیا زودتر بریم پایین."
+    }
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 남은 사람들끼리 사진이라도 찍을까요?",
+      "ENGLISH": "Should we take a photo, just the ones of us still here?",
+      "CHINESE_SIMPLIFIED": "要不我们剩下的人一起拍个照吧？",
+      "CHINESE_TRADITIONAL": "我們剩下的幾個人來拍張照吧？",
+      "JAPANESE": "残ったメンバーで写真でも撮ります？",
+      "INDONESIAN": "Gimana kalau kita foto bareng, yang masih di sini aja?",
+      "PORTUGUESE": "E se a gente tirar uma foto juntos?",
+      "SPANISH": "¿Y si nos tomamos una foto entre nosotros?",
+      "PERSIAN": "باید عکس بگیریم، فقط آنهایی که هنوز اینجا هستیم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "핸드폰 있는 사람!",
+      "ENGLISH": "Anyone got their phone?",
+      "CHINESE_SIMPLIFIED": "谁有手机啊？",
+      "CHINESE_TRADITIONAL": "誰有帶手機？",
+      "JAPANESE": "スマホ持ってる人！",
+      "INDONESIAN": "Ada yang bawa HP?",
+      "PORTUGUESE": "Quem tá com o celular?",
+      "SPANISH": "¿Quién tiene celular?",
+      "PERSIAN": "کسی گوشیشو گرفته؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제 거 안에서 충전 중이에요.",
+      "ENGLISH": "Mine’s inside the room, charging.",
+      "CHINESE_SIMPLIFIED": "我的正在充电呢",
+      "CHINESE_TRADITIONAL": "我的正在充電",
+      "JAPANESE": "私のは中で充電中です",
+      "INDONESIAN": "HP-ku lagi dicas di kamar.",
+      "PORTUGUESE": "O meu tá carregando lá dentro.",
+      "SPANISH": "El mío está cargando adentro.",
+      "PERSIAN": "مال من داخل اتاق است، شارژ می شود."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어 저돈데...",
+      "ENGLISH": "Ah, same here...",
+      "CHINESE_SIMPLIFIED": "我的也是...",
+      "CHINESE_TRADITIONAL": "我的也是...",
+      "JAPANESE": "あ、私も…",
+      "INDONESIAN": "Ah, sama...",
+      "PORTUGUESE": "Ah, o meu também...",
+      "SPANISH": "Ah, el mío también...",
+      "PERSIAN": "آه اینجا هم همینطور..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 아무도 없는 거예요?",
+      "ENGLISH": "Wait, seriously? No one?",
+      "CHINESE_SIMPLIFIED": "什么啊，谁都没带吗",
+      "CHINESE_TRADITIONAL": "什麼啊，都沒有人帶嗎？",
+      "JAPANESE": "え、誰もないんですか？",
+      "INDONESIAN": "Hah, serius? Nggak ada yang bawa?",
+      "PORTUGUESE": "Ninguém tem um?",
+      "SPANISH": "¿Nadie tiene uno?",
+      "PERSIAN": "صبر کن جدی؟ هیچکس؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 저 있어요!",
+      "ENGLISH": "Oh! I’ve got mine!",
+      "CHINESE_SIMPLIFIED": "嗯？我有啊！",
+      "CHINESE_TRADITIONAL": "嗯？我有！",
+      "JAPANESE": "あ、俺あります！",
+      "INDONESIAN": "Oh! Aku bawa kok!",
+      "PORTUGUESE": "Ah! Eu tenho!",
+      "SPANISH": "¡Ah! ¡Yo tengo!",
+      "PERSIAN": "اوه! من مال خودم را دارم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.1,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제 걸로 찍어요.",
+      "ENGLISH": "Let’s use mine to take it.",
+      "CHINESE_SIMPLIFIED": "用我的拍吧",
+      "CHINESE_TRADITIONAL": "用我的拍吧",
+      "JAPANESE": "俺ので撮りましょう",
+      "INDONESIAN": "Pakai punyaku aja, yuk.",
+      "PORTUGUESE": "Podemos tirar com o meu.",
+      "SPANISH": "Podemos tomarla con el mío.",
+      "PERSIAN": "بیایید از مال من برای گرفتن اون استفاده کنیم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 그거 이쁘게 안 나온단 말이에요.",
+      "ENGLISH": "Ugh, but that one never takes nice pics.",
+      "CHINESE_SIMPLIFIED": "哎呀，你拍出来的不好看啦",
+      "CHINESE_TRADITIONAL": "你的拍出來不好看啦",
+      "JAPANESE": "え〜 それ盛れないんですよ",
+      "INDONESIAN": "Ugh, tapi HP kamu tuh hasil fotonya jelek terus.",
+      "PORTUGUESE": "Ah, mas com o seu as fotos não ficam bonitas.",
+      "SPANISH": "Ay, pero con el tuyo no salen bonitas.",
+      "PERSIAN": "اوه، اما این یکی هرگز عکس های خوبی نمی گیرد."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 그냥 안에 갔다 올까요?",
+      "ENGLISH": "Should we just head back inside?",
+      "CHINESE_SIMPLIFIED": "我们干脆先回去拍吧？",
+      "CHINESE_TRADITIONAL": "我們乾脆去裡面拿手機吧",
+      "JAPANESE": "じゃあ中入って撮ります？",
+      "INDONESIAN": "Mending kita masuk aja, yuk?",
+      "PORTUGUESE": "E se a gente entrar, então?",
+      "SPANISH": "¿Y si mejor entramos?",
+      "PERSIAN": "باید به داخل برگردیم؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그러죠 ",
+      "ENGLISH": "Yeah, let’s do that.",
+      "CHINESE_SIMPLIFIED": "好吧",
+      "CHINESE_TRADITIONAL": "好吧",
+      "JAPANESE": "そうしましょう",
+      "INDONESIAN": "Iya, ayo masuk.",
+      "PORTUGUESE": "Tá bom.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "بله، بیایید این کار را انجام دهیم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 25.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 내 거로 찍으면 되는데",
+      "ENGLISH": "Wait—mine works fine though!",
+      "CHINESE_SIMPLIFIED": "嗯？用我的拍不行吗？",
+      "CHINESE_TRADITIONAL": "欸？用我的拍就好了啊",
+      "JAPANESE": "え？俺ので撮ればいいのに",
+      "INDONESIAN": "Eh—tapi punyaku bagus kok!",
+      "PORTUGUESE": "Ei! Mas a gente podia usar o meu...",
+      "SPANISH": "¡Eh! Pero podríamos usar el mío...",
+      "PERSIAN": "صبر کنید - مال من خوب کار می کند!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 27.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내 거로 찍으면 되는데!!",
+      "ENGLISH": "I said mine works fine!!",
+      "CHINESE_SIMPLIFIED": "用我的拍就行啦！！",
+      "CHINESE_TRADITIONAL": "用我的拍就好了啊！！",
+      "JAPANESE": "俺ので撮ればいいのに！！",
+      "INDONESIAN": "Aku bilang punyaku bagus!!",
+      "PORTUGUESE": "Vamos usar o meu!",
+      "SPANISH": "¡Usemos el mío!",
+      "PERSIAN": "گفتم مال من خوب کار میکنه!!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 어디 가요!",
+      "ENGLISH": "Where’s everyone going?!",
+      "CHINESE_SIMPLIFIED": "你们都去哪儿啊！",
+      "CHINESE_TRADITIONAL": "你們要去哪裡啊！",
+      "JAPANESE": "みんなどこ行くの！",
+      "INDONESIAN": "Lho, kok semua pergi?!",
+      "PORTUGUESE": "Pra onde vocês tão indo?!",
+      "SPANISH": "¡¿A dónde van?!",
+      "PERSIAN": "همه کجا میرن؟!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 다들 친해지니까 너무 좋다",
+      "ENGLISH": "Man, I love how close everyone’s gotten.",
+      "CHINESE_SIMPLIFIED": "哈，大家变得这么亲近，真好",
+      "CHINESE_TRADITIONAL": "哈，大家變親近了，真好",
+      "JAPANESE": "はぁ みんな仲良くなってほんと嬉しい",
+      "INDONESIAN": "Gila sih, aku suka banget ngeliat kita jadi deket kayak gini.",
+      "PORTUGUESE": "Ha… fico tão feliz que todas estejam se dando bem.",
+      "SPANISH": "Ha… me alegra tanto que todas se estén llevando bien.",
+      "PERSIAN": "مرد، من عاشق این هستم که همه به هم نزدیک شده اند."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 32.9,
+      "HIDE": 34.3
+    },
+    "SCRIPT": {
+      "KOREAN": "내 덕분인 것 같고",
+      "ENGLISH": "Feels like it’s all thanks to me.",
+      "CHINESE_SIMPLIFIED": "看来都是我的功劳呢",
+      "CHINESE_TRADITIONAL": "看來都是我的功勞呢",
+      "JAPANESE": "なんか俺のおかげな気がする",
+      "INDONESIAN": "Kayaknya ini semua berkat aku, deh.",
+      "PORTUGUESE": "Sinto que é graças a mim.",
+      "SPANISH": "Siento que es gracias a mí.",
+      "PERSIAN": "احساس می کنم همه اینا به لطف من است."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 35.2
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만~",
+      "ENGLISH": "Yuman~",
+      "CHINESE_SIMPLIFIED": "吴宥万~",
+      "CHINESE_TRADITIONAL": "吳宥萬～",
+      "JAPANESE": "ウ・ユマン〜！",
+      "INDONESIAN": "Yuman~",
+      "PORTUGUESE": "Yumán~!",
+      "SPANISH": "¡Yumán~!",
+      "PERSIAN": "یومان ~"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 36.3
+    },
+    "SCRIPT": {
+      "KOREAN": "왜!",
+      "ENGLISH": "What!",
+      "CHINESE_SIMPLIFIED": "干嘛！",
+      "CHINESE_TRADITIONAL": "怎麼了！",
+      "JAPANESE": "なんだ！",
+      "INDONESIAN": "Apa lagi!",
+      "PORTUGUESE": "O quê?!",
+      "SPANISH": "¡¿Qué?!",
+      "PERSIAN": "چی!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 37.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 일로 좀 와 봐!",
+      "ENGLISH": "Come here for a sec!",
+      "CHINESE_SIMPLIFIED": "啊，你过来一下！",
+      "CHINESE_TRADITIONAL": "啊，你過來一下！",
+      "JAPANESE": "ちょっとこっち来て！",
+      "INDONESIAN": "Sini bentar dong!",
+      "PORTUGUESE": "Vem aqui um pouquinho.",
+      "SPANISH": "Ven un momento.",
+      "PERSIAN": "بیا اینجا برای یک ثانیه!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 39.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 왜!!\n",
+      "ENGLISH": "Ugh, why!!",
+      "CHINESE_SIMPLIFIED": "啊，干嘛！！",
+      "CHINESE_TRADITIONAL": "為什麼啊！！",
+      "JAPANESE": "なんだよ！！",
+      "INDONESIAN": "Ugh, kenapaaa!!",
+      "PORTUGUESE": "Ai, por quê?!",
+      "SPANISH": "¡Ay, ¿por qué?!",
+      "PERSIAN": "اوه چرا!!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 39.5,
+      "HIDE": 42.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 빨리 와 봐! 우리끼리 이거 못 해!",
+      "ENGLISH": "Come on, hurry~ we can’t handle this without you...!",
+      "CHINESE_SIMPLIFIED": "快过来啦！我们自己搞不定啊！",
+      "CHINESE_TRADITIONAL": "快點過來啦！我們自己弄不了這個！",
+      "JAPANESE": "いいから早く来て！私たちだけじゃできないんだって！",
+      "INDONESIAN": "Ayo dong cepetan~ kita nggak bisa tanpa kamu...!",
+      "PORTUGUESE": "Vem logo! Não dá pra fazer sem você!",
+      "SPANISH": "¡Ven rápido! ¡No podemos hacerlo sin ti!",
+      "PERSIAN": "بیا، عجله کن، ما بدون تو نمی توانیم از عهده این کار بر بیاییم...!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 43.0,
+      "HIDE": 45.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 왜 자꾸 오라는 거야...",
+      "ENGLISH": "Why do you keep calling me over...",
+      "CHINESE_SIMPLIFIED": "啊，为什么总是叫我...",
+      "CHINESE_TRADITIONAL": "為什麼一直叫我過去啊...",
+      "JAPANESE": "なんでそんなに呼ぶんだよ…",
+      "INDONESIAN": "Kenapa sih kalian terus-terusan manggil aku...",
+      "PORTUGUESE": "Ugh, por que precisam tanto de mim...?",
+      "SPANISH": "Ugh, ¿para qué me necesitan tanto...?",
+      "PERSIAN": "چرا مدام به من زنگ میزنی..."
+    }
+  }
+]

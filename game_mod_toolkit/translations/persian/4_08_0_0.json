@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "실례합니다...",
+      "ENGLISH": "Excuse me…",
+      "CHINESE_SIMPLIFIED": "打扰了...",
+      "CHINESE_TRADITIONAL": "打擾了… ",
+      "JAPANESE": "失礼します…",
+      "INDONESIAN": "Permisi…",
+      "PORTUGUESE": "Com licença...",
+      "SPANISH": "Con permiso...",
+      "PERSIAN": "ببخشید…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 그렇게 찾을 땐 안 보이더니 이렇게 갑자기 나타난다고?",
+      "ENGLISH": "Ah… I couldn’t see you when I was looking before, and now you just suddenly appear?",
+      "CHINESE_SIMPLIFIED": "啊...找的时候不见人影，怎么突然就这么出现了？",
+      "CHINESE_TRADITIONAL": "那時候到處找都找不到，突然就這樣出現？",
+      "JAPANESE": "探してたときは全然見つからなかったのに、こんなときに急に現れるなんて",
+      "INDONESIAN": "Ah… tadi waktu aku cari-cari nggak kelihatan, eh sekarang tiba-tiba muncul?",
+      "PORTUGUESE": "Eu procurei por ela em todo lugar e ela simplesmente aparece do nada?",
+      "SPANISH": "¿La estuve buscando por todos lados y aparece así de la nada?",
+      "PERSIAN": "آه... وقتی قبلا نگاه می کردم نمی توانستم تو را ببینم و حالا ناگهان ظاهر شدی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 하필 민정 님은 바쁘고... 무슨 얘기를 해야 되지...",
+      "ENGLISH": "Of all times, Min-jung’s busy… what am I even supposed to say…",
+      "CHINESE_SIMPLIFIED": "偏偏敏静小姐又忙得很...我该说什么才好呢...",
+      "CHINESE_TRADITIONAL": "偏偏敏靜又很忙… 我該說些什麼才好… ",
+      "JAPANESE": "しかもミンジョンさんは忙しいし… 何を話せばいいんだろう…",
+      "INDONESIAN": "Pas banget Min-jung lagi sibuk… aku harus ngomong apa coba sekarang…",
+      "PORTUGUESE": "E logo agora que a Minjung tá ocupada... o que eu deveria dizer pra ela?",
+      "SPANISH": "Y justo Minjung está ocupada... ¿que debería decirle?",
+      "PERSIAN": "از همه زمان‌ها، مین‌جونگ سرش شلوغ است… من باید چه بگویم…"
+    }
+  }
+]

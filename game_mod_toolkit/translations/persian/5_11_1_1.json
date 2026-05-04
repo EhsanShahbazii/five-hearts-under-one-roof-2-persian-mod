@@ -1,0 +1,199 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.0
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마야!",
+      "ENGLISH": "Oh my god!",
+      "CHINESE_SIMPLIFIED": "妈呀！",
+      "CHINESE_TRADITIONAL": "我的媽呀！",
+      "JAPANESE": "うわっ！",
+      "INDONESIAN": "Ya ampun!",
+      "PORTUGUESE": "Ai, meu Deus!",
+      "SPANISH": "¡Ay, Dios mío!",
+      "PERSIAN": "اوه خدای من!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "没事吧？",
+      "CHINESE_TRADITIONAL": "你沒事吧？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Você tá bem?",
+      "SPANISH": "¿Estás bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 방금 그 쿵 소리, 그거 뭐예요?",
+      "ENGLISH": "Uh, that thud just now, what was that?",
+      "CHINESE_SIMPLIFIED": "呃，刚才那“哐当”一声是什么啊",
+      "CHINESE_TRADITIONAL": "欸，剛才那個「咚」的聲音是什麼？",
+      "JAPANESE": "あ、今のドンって音、なんですか？",
+      "INDONESIAN": "Eh, suara \"dug\" barusan—apa itu?",
+      "PORTUGUESE": "O que foi aquele barulho alto de agora há pouco?",
+      "SPANISH": "¿Qué fue ese ruido fuerte de hace un momento?",
+      "PERSIAN": "اوه، اون صدای تپش همین الان، اون چه بود؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "별거 아닌 거 같은데...",
+      "ENGLISH": "It’s probably nothing…",
+      "CHINESE_SIMPLIFIED": "好像没什么啊...",
+      "CHINESE_TRADITIONAL": "好像沒什麼啊...",
+      "JAPANESE": "たいしたことないみたいですけど…",
+      "INDONESIAN": "Kayaknya bukan apa-apa deh…",
+      "PORTUGUESE": "Acho que não foi nada...",
+      "SPANISH": "No creo que haya sido nada...",
+      "PERSIAN": "احتمالا چیزی نیست…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "고개 좀 들어봐요 ",
+      "ENGLISH": "Could you lift your head a bit?",
+      "CHINESE_SIMPLIFIED": "你抬头看看",
+      "CHINESE_TRADITIONAL": "你抬頭看看",
+      "JAPANESE": "ちょっと顔上げてみてください",
+      "INDONESIAN": "Coba angkat kepalanya sedikit.",
+      "PORTUGUESE": "Levanta um pouquinho a cabeça.",
+      "SPANISH": "Levanta un poco la cabeza.",
+      "PERSIAN": "ممکنه کمی سرت را بلند کنی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어 진짜...?",
+      "ENGLISH": "Oh wow, really…?",
+      "CHINESE_SIMPLIFIED": "真的吗...？",
+      "CHINESE_TRADITIONAL": "欸真是的...？",
+      "JAPANESE": "え、本当ですか…？",
+      "INDONESIAN": "Oh beneran…?",
+      "PORTUGUESE": "Hã, sério...?",
+      "SPANISH": "¿Eh, en serio...?",
+      "PERSIAN": "اوه وای واقعا…؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어 미안해요...",
+      "ENGLISH": "Oh, sorry…",
+      "CHINESE_SIMPLIFIED": "啊，对不起...",
+      "CHINESE_TRADITIONAL": "啊，對不起...",
+      "JAPANESE": "あ、ごめんなさい…",
+      "INDONESIAN": "Oh, maaf ya…",
+      "PORTUGUESE": "Ah, desculpa...",
+      "SPANISH": "Ah, perdón...",
+      "PERSIAN": "اوه متاسفم…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데, 가벼워서 안긴 줄도 몰랐죠?",
+      "ENGLISH": "But you’re so light, I didn’t even notice I caught you.",
+      "CHINESE_SIMPLIFIED": "不过，是不是我太轻了，都没发现你在抱着我也？",
+      "CHINESE_TRADITIONAL": "不過，是不是因為你太輕了，我都不知道我抱著你耶？",
+      "JAPANESE": "でも、軽すぎて抱いたの気づかなかったですよね？",
+      "INDONESIAN": "Tapi kamu enteng banget, aku nggak nyadar udah nyangga kamu.",
+      "PORTUGUESE": "É que você é tão leve que eu nem percebi que tava te segurando nos meus braços.",
+      "SPANISH": "Pero eres tan ligera que no me di cuenta de que te tenía en mis brazos.",
+      "PERSIAN": "اما تو خیلی سبکی، من حتی متوجه نشدم که تو را گرفتم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "가, 갈까요?",
+      "ENGLISH": "Shall we go?",
+      "CHINESE_SIMPLIFIED": "那、那我们走吧？",
+      "CHINESE_TRADITIONAL": "我們走、走吧？",
+      "JAPANESE": "い、行きましょうか？",
+      "INDONESIAN": "Mau jalan lagi?",
+      "PORTUGUESE": "Vamos?",
+      "SPANISH": "¿Nos vamos?",
+      "PERSIAN": "بریم؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "- 아아아아악!!!!\n- 으아아아아!!!!",
+      "ENGLISH": "- AAAAAAAAHHH!!!!\n- WAAAAAAAHHH!!!!",
+      "CHINESE_SIMPLIFIED": "-啊啊啊啊啊！！！\n-呜啊啊啊啊啊！！！",
+      "CHINESE_TRADITIONAL": "-啊啊啊啊啊！！！！\n-呃啊啊啊啊！！！！",
+      "JAPANESE": "‐うわあああああっ！！！\n‐うあああああっ！！！",
+      "INDONESIAN": "- AAAAAAAAHHH!!!!\n- WAAAAAAAHHH!!!!",
+      "PORTUGUESE": "— AAAAAAHHHH!!!\n— AAAAAAHHHHH!!!",
+      "SPANISH": "— ¡¡¡AAAAAAHHHH!!!\n— ¡¡¡AAAAAAHHHHH!!!",
+      "PERSIAN": "-اااااااااااااااااااااا!!!! - واااااااااااااااااااااااااااااااااااااااااا!!!!"
+    }
+  }
+]

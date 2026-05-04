@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "선생님 여기 물이요.",
+      "ENGLISH": "Here’s some water.",
+      "CHINESE_SIMPLIFIED": "护士，您请喝水",
+      "CHINESE_TRADITIONAL": "醫生，您的水",
+      "JAPANESE": "先生 お水です",
+      "INDONESIAN": "Nih, minum air dulu.",
+      "PORTUGUESE": "Enfermeira, trouxe um pouco de água pra você.",
+      "SPANISH": "Enfermera, le traje agua.",
+      "PERSIAN": "اینم مقداری آب"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 감사합니다!",
+      "ENGLISH": "Oh, thank you!",
+      "CHINESE_SIMPLIFIED": "啊，谢谢！",
+      "CHINESE_TRADITIONAL": "啊，謝謝！",
+      "JAPANESE": "あ ありがとうございます!",
+      "INDONESIAN": "Oh, makasih!",
+      "PORTUGUESE": "Ah, muito obrigada!",
+      "SPANISH": "¡Ah, muchas gracias!",
+      "PERSIAN": "اوه، ممنونم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "으어..살겠다!",
+      "ENGLISH": "Ahh... lifesaver!",
+      "CHINESE_SIMPLIFIED": "呃啊...活过来了！",
+      "CHINESE_TRADITIONAL": "呼…得救了！",
+      "JAPANESE": "うわ〜 生き返る!",
+      "INDONESIAN": "Ahh... penyelamat banget!",
+      "PORTUGUESE": "Uff... que alívio.",
+      "SPANISH": "Uff… qué alivio.",
+      "PERSIAN": "آه... نجات دهنده!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 26.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유만 씨, 제가 물을 다 마셔버려서 어떡하죠?",
+      "ENGLISH": "Oh no, Yuman—I drank all the water. What now?",
+      "CHINESE_SIMPLIFIED": "嗯？宥万先生，我把水都喝光了怎么办啊？",
+      "CHINESE_TRADITIONAL": "咦？宥萬先生，我把水都喝光了，怎麼辦？",
+      "JAPANESE": "あれ ユマンさん 私が全部飲んじゃいましたけどどうしましょう?",
+      "INDONESIAN": "Aduh, Yuman—aku abisin semua airnya. Gimana dong?",
+      "PORTUGUESE": "Senhor Yuman... acho que acabei bebendo toda a água, desculpe.",
+      "SPANISH": "Señor Yumán... creo que me terminé toda el agua, lo siento.",
+      "PERSIAN": "اوه نه، یومان- من تمام آب را خوردم. حالا چی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 물이야 또 사면 되죠!",
+      "ENGLISH": "Come on~ It’s just water, I can buy more!",
+      "CHINESE_SIMPLIFIED": "哎呦~水嘛再买就行啦！",
+      "CHINESE_TRADITIONAL": "唉唷～水再買就好啦！",
+      "JAPANESE": "え〜 水なんてまた買えばいいですよ!",
+      "INDONESIAN": "Yah~ itu cuma air, aku bisa beli lagi kok!",
+      "PORTUGUESE": "Depois eu compro mais, não tem problema.",
+      "SPANISH": "Luego puedo comprar más, no pasa nada.",
+      "PERSIAN": "بیا ~ فقط آب است، می توانم بیشتر بخرم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 다음에 시원한 거 사드릴게요!",
+      "ENGLISH": "Next time, I’ll get you something cold!",
+      "CHINESE_SIMPLIFIED": "下次我请你喝清凉的！",
+      "CHINESE_TRADITIONAL": "我下次請你喝杯涼的！",
+      "JAPANESE": "今度 冷たいの買ってきますね!",
+      "INDONESIAN": "Lain kali, aku bawain yang dingin deh buat kamu!",
+      "PORTUGUESE": "Da próxima vez eu te trago uma bebida refrescante.",
+      "SPANISH": "La próxima vez le compraré una bebiba refrescante.",
+      "PERSIAN": "دفعه بعد یه چیز سرد برات میارم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 33.8
+    },
+    "SCRIPT": {
+      "KOREAN": "시원한 거 어떤 거요?",
+      "ENGLISH": "Something cold? Like what?",
+      "CHINESE_SIMPLIFIED": "清凉的指的是什么？",
+      "CHINESE_TRADITIONAL": "你說涼的是指什麼呢？",
+      "JAPANESE": "冷たいのって何ですか?",
+      "INDONESIAN": "Yang dingin? Kayak apa?",
+      "PORTUGUESE": "Algo refrescante? Tipo o quê?",
+      "SPANISH": "¿Algo refrescante? ¿Como qué?",
+      "PERSIAN": "چیزی سرد؟ مثل چی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 36.2
+    },
+    "SCRIPT": {
+      "KOREAN": "술이요!",
+      "ENGLISH": "Alcohol!",
+      "CHINESE_SIMPLIFIED": "酒啊！",
+      "CHINESE_TRADITIONAL": "酒！",
+      "JAPANESE": "お酒です!",
+      "INDONESIAN": "Alkohol!",
+      "PORTUGUESE": "Álcool!",
+      "SPANISH": "¡Alcohol!",
+      "PERSIAN": "الکل!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 38.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 술이요?",
+      "ENGLISH": "Wait—alcohol??",
+      "CHINESE_SIMPLIFIED": "嗯？酒吗？！",
+      "CHINESE_TRADITIONAL": "咦？酒嗎？",
+      "JAPANESE": "えっ お酒!?",
+      "INDONESIAN": "Eh—alkohol??",
+      "PORTUGUESE": "Hã? Álcool?",
+      "SPANISH": "¿Eh? ¿Alcohol?",
+      "PERSIAN": "صبر کن - الکل؟؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 38.3,
+      "HIDE": 39.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 물론 다 나으시고",
+      "ENGLISH": "I mean... after you’re fully recovered!",
+      "CHINESE_SIMPLIFIED": "啊，当然要等您完全康复啦",
+      "CHINESE_TRADITIONAL": "啊，當然是等我完全康復之後",
+      "JAPANESE": "あ もちろん全部治ってから",
+      "INDONESIAN": "Maksudnya... setelah kamu bener-bener sembuh ya!",
+      "PORTUGUESE": "Bom, claro, quando você já estiver recuperado...",
+      "SPANISH": "Bueno, claro, cuando ya esté recuperado…",
+      "PERSIAN": "منظورم این است که بعد از بهبودی کامل!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 39.9,
+      "HIDE": 42.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그때, 그때 사 드릴게요!",
+      "ENGLISH": "Then I’ll treat you!",
+      "CHINESE_SIMPLIFIED": "到时候，到时候我再请您！",
+      "CHINESE_TRADITIONAL": "那時候、那時候我再請你！",
+      "JAPANESE": "その時にご馳走します!",
+      "INDONESIAN": "Abis itu aku traktir!",
+      "PORTUGUESE": "Quando melhorar, eu te convido pra beber.",
+      "SPANISH": "Cuando se recupere, lo invito a beber.",
+      "PERSIAN": "سپس من شما را درمان می کنم!"
+    }
+  }
+]

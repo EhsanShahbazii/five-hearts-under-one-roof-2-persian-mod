@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "원 한번 그려볼래요?",
+      "ENGLISH": "Wanna try drawing a circle?",
+      "CHINESE_SIMPLIFIED": "你试着画个圆看看？",
+      "CHINESE_TRADITIONAL": "要不要試著畫個圓看看？",
+      "JAPANESE": "円を一回描いてみます?",
+      "INDONESIAN": "Coba deh gambar lingkaran!",
+      "PORTUGUESE": "Tenta desenhar um círculo.",
+      "SPANISH": "Intenta dibujar un círculo.",
+      "PERSIAN": "می خواهید یک دایره بکشید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게요?",
+      "ENGLISH": "Like this?",
+      "CHINESE_SIMPLIFIED": "这么想吗？",
+      "CHINESE_TRADITIONAL": "這樣嗎？",
+      "JAPANESE": "こうですか?",
+      "INDONESIAN": "Seperti ini?",
+      "PORTUGUESE": "Assim?",
+      "SPANISH": "¿Así?",
+      "PERSIAN": "اینجوری؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아.. 그 정돈 아닌데~",
+      "ENGLISH": "Mm... not quite!",
+      "CHINESE_SIMPLIFIED": "啊...没这么少啦~",
+      "CHINESE_TRADITIONAL": "嗯...太小了～",
+      "JAPANESE": "あ〜 そうじゃないですよ〜",
+      "INDONESIAN": "Mm... tidak juga!",
+      "PORTUGUESE": "Ah... não, não tão pequeno.",
+      "SPANISH": "Ah… no, no tan pequeño",
+      "PERSIAN": "مم... نه کاملا!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "조금만 더 크게!",
+      "ENGLISH": "A little bigger!",
+      "CHINESE_SIMPLIFIED": "再画大一点点！",
+      "CHINESE_TRADITIONAL": "再大一點點！",
+      "JAPANESE": "もうちょっと大きく!",
+      "INDONESIAN": "Sedikit lebih besar!",
+      "PORTUGUESE": "Um pouquinho maior!",
+      "SPANISH": "¡Un poquito más grande!",
+      "PERSIAN": "کمی بزرگتر!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게?",
+      "ENGLISH": "Like this?",
+      "CHINESE_SIMPLIFIED": "这样？",
+      "CHINESE_TRADITIONAL": "這樣？",
+      "JAPANESE": "こう?",
+      "INDONESIAN": "Seperti ini?",
+      "PORTUGUESE": "Assim?",
+      "SPANISH": "¿Así?",
+      "PERSIAN": "اینجوری؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.7
+    },
+    "SCRIPT": {
+      "KOREAN": "예스! 딱 그 정도!",
+      "ENGLISH": "Yes! That’s perfect!",
+      "CHINESE_SIMPLIFIED": "没错！就这样！",
+      "CHINESE_TRADITIONAL": "沒錯！就是這樣！",
+      "JAPANESE": "イエス! まさにそのくらい!",
+      "INDONESIAN": "Ya! Sempurna!",
+      "PORTUGUESE": "Sim! Desse tamanho mesmo!",
+      "SPANISH": "¡Sí! ¡Justo de ese tamaño!",
+      "PERSIAN": "بله! این کامل است!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "딱 그 정도만큼만 보고 싶었어요! ",
+      "ENGLISH": "That’s exactly how much I missed you!",
+      "CHINESE_SIMPLIFIED": "我想你的程度就这么多！",
+      "CHINESE_TRADITIONAL": "跟我想的一樣就是這個大小！",
+      "JAPANESE": "ちょうど そのくらい会いたかったです!",
+      "INDONESIAN": "Itulah tepatnya betapa aku merindukanmu!",
+      "PORTUGUESE": "Desse tamanho exatamente foi o quanto senti sua falta.",
+      "SPANISH": "De ese tamaño exactamente te extrañé.",
+      "PERSIAN": "دقیقا چقدر دلم برات تنگ شده بود!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아주 정확해",
+      "ENGLISH": "So precise.",
+      "CHINESE_SIMPLIFIED": "非常准确",
+      "CHINESE_TRADITIONAL": "超精準的耶",
+      "JAPANESE": "ほんとにぴったりだ",
+      "INDONESIAN": "Begitu tepat.",
+      "PORTUGUESE": "Foi bem preciso.",
+      "SPANISH": "Fue muy preciso",
+      "PERSIAN": "خیلی دقیق"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 그래요.",
+      "ENGLISH": "Ah... I see.",
+      "CHINESE_SIMPLIFIED": "啊...这样啊",
+      "CHINESE_TRADITIONAL": "喔...是這樣啊",
+      "JAPANESE": "あ…そうですか",
+      "INDONESIAN": "Ah... aku mengerti.",
+      "PORTUGUESE": "Ah... entendi.",
+      "SPANISH": "Ah… ya veo.",
+      "PERSIAN": "آه... می بینم."
+    }
+  }
+]

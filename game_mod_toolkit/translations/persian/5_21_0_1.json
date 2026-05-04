@@ -1,0 +1,217 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아!!!!!",
+      "ENGLISH": "AHHH!!!",
+      "CHINESE_SIMPLIFIED": "啊！！！！！",
+      "CHINESE_TRADITIONAL": "啊！！！！！",
+      "JAPANESE": "あ！！！",
+      "INDONESIAN": "AAAHHH!!!",
+      "PORTUGUESE": "AHHH!!!!",
+      "SPANISH": "¡AHHH!!!!",
+      "PERSIAN": "آخه !!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왜? 무슨 일이야?",
+      "ENGLISH": "What?! What happened?!",
+      "CHINESE_SIMPLIFIED": "干嘛？出什么事了？",
+      "CHINESE_TRADITIONAL": "幹嘛？怎麼回事？",
+      "JAPANESE": "なんだよ？どうした？",
+      "INDONESIAN": "Hah?! Kenapa?! Kenapa teriak?!",
+      "PORTUGUESE": "O que foi?!",
+      "SPANISH": "¡¿Qué pasa?!",
+      "PERSIAN": "چی؟! چی شد؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "왜?? 아 이건 좀 섭섭한 부분이다?",
+      "ENGLISH": "What?? Wow, okay—now that’s a little hurtful.",
+      "CHINESE_SIMPLIFIED": "干嘛？？哎，这就有点让人寒心了啊？",
+      "CHINESE_TRADITIONAL": "幹嘛？？這也太讓人不爽了吧？",
+      "JAPANESE": "なんだ？？ああ、これはちょっとさみしいな？",
+      "INDONESIAN": "Apa?? Eh, oke—itu agak nyelekit sih.",
+      "PORTUGUESE": "“O que foi?” Ei, isso dói, cara.",
+      "SPANISH": "\"¿Qué pasa?\" Oye, eso duele, amigo.",
+      "PERSIAN": "چی؟؟ وای، باشه - حالا این کمی دردناک است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 뭐 이유가 있어야 널 때리냐~ ",
+      "ENGLISH": "Do I need a reason to hit you?",
+      "CHINESE_SIMPLIFIED": "我打你还需要理由吗~",
+      "CHINESE_TRADITIONAL": "而且我打你需要理由嗎～",
+      "JAPANESE": "俺がてめえを殴るのに理由なんていらないだろ〜",
+      "INDONESIAN": "Emang aku butuh alasan buat mukul kamu?",
+      "PORTUGUESE": "Preciso de uma razão pra te dar um soco?",
+      "SPANISH": "¿Acaso necesito una razón para golpearte?",
+      "PERSIAN": "به دلیلی نیاز دارم که تو را بزنم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 이 새끼 선을 존나게 긋는 부분?",
+      "ENGLISH": "Ha, is this that moment where you’re drawing, like, a very clear line between us?",
+      "CHINESE_SIMPLIFIED": "哈，你小子非要划清界限是吧？",
+      "CHINESE_TRADITIONAL": "你這傢伙想跟我劃清界線嗎？",
+      "JAPANESE": "はぁ、この野郎線をひきやがるな？",
+      "INDONESIAN": "Haha, ini nih momen di mana kamu kayak… bikin batas jelas banget antara kita, ya?",
+      "PORTUGUESE": "Tá tentando colocar distância entre a gente?",
+      "SPANISH": "¿Estás intentando poner una línea entre nosotros?",
+      "PERSIAN": "ها، این همون لحظه ای است که شما یک خط بسیار واضح بین ما ترسیم می کنید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "미안 그, 그런 뜻은 아니야...",
+      "ENGLISH": "Sorry, that’s… that’s not what I meant…",
+      "CHINESE_SIMPLIFIED": "抱歉，我、不是那个意思...",
+      "CHINESE_TRADITIONAL": "對不起，我、我不是這個意思…",
+      "JAPANESE": "ごめん、そういう意味じゃなくて…",
+      "INDONESIAN": "Maaf, bukan itu maksudku…",
+      "PORTUGUESE": "Desculpa, não quis dizer isso...",
+      "SPANISH": "Perdón, no quise decir eso...",
+      "PERSIAN": "ببخشید...منظورم این نبود..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네가 그렇게 나랑 선을 존나게 긋고 싶으면 말숙이랑 다리 좀 놔달라고 자연스럽게~ ",
+      "ENGLISH": "If you’re that desperate to keep your distance, then hey—help me get closer to Mal-sook instead, naturally~",
+      "CHINESE_SIMPLIFIED": "你要这么想跟我划清界限的话，那就顺便帮我跟高末淑牵个线吧~",
+      "CHINESE_TRADITIONAL": "如果你這麼想跟我劃清界線的話，就自然一點，幫我跟末淑牽個線吧～",
+      "JAPANESE": "お前がそんなに俺と線を引きたいなら、マルスク紹介してくれって自然によ〜",
+      "INDONESIAN": "Kalau kamu segitunya pengen jaga jarak, ya udah—bantuin aku deketin Mal-sook aja, pelan-pelan gitu~",
+      "PORTUGUESE": "Se quer que eu te deixe em paz, me ajuda a chegar perto da Malsook...",
+      "SPANISH": "Si quieres marcar que te deje en paz, ayúdame a acercarme a Malsook...",
+      "PERSIAN": "اگر آنقدر از حفظ فاصله خود ناامید هستید، پس هی—به من کمک کنید به جای اون به مال‌سوک نزدیکتر شوم، به طور طبیعی."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "얼짱 고말숙 남친, 시X 존나 간지나지 않냐 인정? ",
+      "ENGLISH": "I mean, look at her boyfriend, right? Dude’s stylish as hell, total legend—tell me I’m wrong.",
+      "CHINESE_SIMPLIFIED": "校花高末淑的男朋友，听起来超牛X的对吧，承认不？",
+      "CHINESE_TRADITIONAL": "校花高末淑的男友，靠！不覺得聽起來超酷的嗎？",
+      "JAPANESE": "超美人ゴ・マルスクの彼氏、クソめっちゃカッコよくね？認めるだろ？",
+      "INDONESIAN": "Liat pacarnya aja deh, stylenya keren abis, legend banget~coba bilang kalau aku salah.",
+      "PORTUGUESE": "Imagina ser o namorado daquela gata? Ela é linda, e você sabe disso.",
+      "SPANISH": "¿Imáginate ser el novio de esa preciosura? Si está buenísima y tú también lo sabes.",
+      "PERSIAN": "یعنی به دوست پسرش نگاه کن، درسته؟ دوست شیک جهنمی، افسانه ای کامل - به من بگو اشتباه می کنم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이는 그런 거 싫어해...",
+      "ENGLISH": "Mal-sook’s not into that kind of stuff…",
+      "CHINESE_SIMPLIFIED": "末淑不喜欢这样...",
+      "CHINESE_TRADITIONAL": "末淑不喜歡那樣...",
+      "JAPANESE": "マルスクはそういうの嫌いなんだってば…",
+      "INDONESIAN": "Mal-sook tuh nggak suka yang begituan…",
+      "PORTUGUESE": "A Malsook não gosta desse tipo de coisa...",
+      "SPANISH": "A Malsook no le gustan este tipo de cosas...",
+      "PERSIAN": "مال‌سوک اهل این جور چیزها نیست…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그니까 부탁하잖아 내가~",
+      "ENGLISH": "That’s why I’m asking for help, man~",
+      "CHINESE_SIMPLIFIED": "啊所以我不是在拜托你嘛~",
+      "CHINESE_TRADITIONAL": "所以我才說拜託你啊～",
+      "JAPANESE": "あーだから頼んでるんだって俺が〜",
+      "INDONESIAN": "Makanya gue minta bantuan kamu, bro~",
+      "PORTUGUESE": "Por isso mesmo você tem que me ajudar, bro.",
+      "SPANISH": "Por eso me tienes que ayudar, bro",
+      "PERSIAN": "به همین دلیل است که من از شما کمک می خواهم، مرد"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "고말숙 떴다!!!",
+      "ENGLISH": "Mal-sook’s here!!!",
+      "CHINESE_SIMPLIFIED": "高末淑来了！！！",
+      "CHINESE_TRADITIONAL": "末淑來了！！！",
+      "JAPANESE": "コ・マルスク現れた！！！",
+      "INDONESIAN": "Mal-sook datang!!!",
+      "PORTUGUESE": "A Malsook tá aqui!!!",
+      "SPANISH": "¡Malsook está aquí!!!",
+      "PERSIAN": "مال‌سوک اینجاست!!!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 35.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어?!",
+      "ENGLISH": "Wait, what?!",
+      "CHINESE_SIMPLIFIED": "呃？！",
+      "CHINESE_TRADITIONAL": "欸？！",
+      "JAPANESE": "えっ！？",
+      "INDONESIAN": "Hah?! Serius?!",
+      "PORTUGUESE": "Hã?!",
+      "SPANISH": "¿Eh?!",
+      "PERSIAN": "صبر کن چی؟!"
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "들어온 지는 얼마나 되셨죠?",
+      "ENGLISH": "How long have you been here?",
+      "CHINESE_SIMPLIFIED": "您来公司多久了？",
+      "CHINESE_TRADITIONAL": "您進公司多久了？",
+      "JAPANESE": "入社してどれくらいですか？",
+      "INDONESIAN": "Kamu udah berapa lama kerja di sini?",
+      "PORTUGUESE": "Há quanto tempo você tá aqui?",
+      "SPANISH": "¿Cuánto tiempo lleva aquí?",
+      "PERSIAN": "چند وقته اینجایی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "예? 한 2, 3개월 정도?",
+      "ENGLISH": "Huh? About two or three months?",
+      "CHINESE_SIMPLIFIED": "啊？大概两三个月？",
+      "CHINESE_TRADITIONAL": "啊？大概兩、三個月吧？",
+      "JAPANESE": "はい？2〜3ヶ月くらいですかね？",
+      "INDONESIAN": "Hah? Sekitar dua atau tiga bulan, yah?",
+      "PORTUGUESE": "Uns dois ou três meses, mais ou menos.",
+      "SPANISH": "Unos dos o tres meses, más o menos.",
+      "PERSIAN": "ها؟ حدود دو سه ماه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "2, 3개월? 제가 입사는 확실히 선배네요.",
+      "ENGLISH": "Two or three months? Then I’m definitely the senior here.",
+      "CHINESE_SIMPLIFIED": "两三个月？那我确实是您前辈呢",
+      "CHINESE_TRADITIONAL": "兩、三個月？那以到職時間來說我的確是您的前輩呢",
+      "JAPANESE": "2〜3ヶ月？じゃあ俺のほうが先輩ですね",
+      "INDONESIAN": "Dua atau tiga bulan? Berarti aku jelas lebih senior dong.",
+      "PORTUGUESE": "Dois ou três meses? Então eu definitivamente tenho mais tempo de casa que você.",
+      "SPANISH": "¿Dos o tres meses? Entonces tengo más antigüedad que usted.",
+      "PERSIAN": "دو سه ماهه؟ پس من قطعاً ارشد اینجا هستم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 예...",
+      "ENGLISH": "Ah, yes…",
+      "CHINESE_SIMPLIFIED": "啊是的...",
+      "CHINESE_TRADITIONAL": "啊，是...",
+      "JAPANESE": "あ、はい……",
+      "INDONESIAN": "Ah, iya…",
+      "PORTUGUESE": "Ah, sim...",
+      "SPANISH": "Ah, sí...",
+      "PERSIAN": "آه، بله…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇지만 사수로 깍듯하게! 모시도록 하겠습니다. ",
+      "ENGLISH": "But as your mentor, I’ll treat you with proper respect.",
+      "CHINESE_SIMPLIFIED": "但作为我的上司，我会恭恭敬敬～对待您的",
+      "CHINESE_TRADITIONAL": "您是我的直屬上司，我會恭敬地對待的！",
+      "JAPANESE": "でも先輩として、しっかりお仕えします！",
+      "INDONESIAN": "Tapi sebagai mentor kamu, aku tetap akan kasih rispek yang pantas.",
+      "PORTUGUESE": "Mas mesmo assim, como meu supervisor, vou te tratar como deve ser.",
+      "SPANISH": "Pero igual, como mi supervisor, lo trataré como se debe.",
+      "PERSIAN": "اما به عنوان مربی شما، با شما با احترام رفتار خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 또 그런 위계질서는 확실하게 잡는 편이라.",
+      "ENGLISH": "I’m pretty strict about hierarchy.",
+      "CHINESE_SIMPLIFIED": "我这人特别注重职场等级秩序",
+      "CHINESE_TRADITIONAL": "我這個人啊，非常注重職場秩序這方面",
+      "JAPANESE": "俺、そういう上下関係にはきっちりしてるタイプなんで",
+      "INDONESIAN": "Aku cukup ketat soal hierarki.",
+      "PORTUGUESE": "Sou do tipo que respeita bem a hierarquia.",
+      "SPANISH": "Soy de los que mantiene muy clara la jerarquía.",
+      "PERSIAN": "من در مورد سلسله مراتب سختگیرم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "예...",
+      "ENGLISH": "Yes…",
+      "CHINESE_SIMPLIFIED": "好的...",
+      "CHINESE_TRADITIONAL": "好的...",
+      "JAPANESE": "はぁ……",
+      "INDONESIAN": "Iya…",
+      "PORTUGUESE": "Entendi...",
+      "SPANISH": "Entiendo...",
+      "PERSIAN": "بله…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 궁금하신거 있으면 편하게 말씀 주세요! ‘일’ 관련해서만요!",
+      "ENGLISH": "If you have any questions, feel free to ask! Only about work, though!",
+      "CHINESE_SIMPLIFIED": "有什么想问的请随时说！仅限于“工作”相关！",
+      "CHINESE_TRADITIONAL": "有什麼想問的都可以儘管說！不過——只限工作方面！",
+      "JAPANESE": "まあ、何か知りたいことがあれば遠慮なく聞いてくださいね！「仕事」に関してだけですけど！",
+      "INDONESIAN": "Kalau ada yang mau ditanya, langsung aja ya! Tapi tentang kerjaan aja!",
+      "PORTUGUESE": "Bom, se tiver alguma dúvida, pode me perguntar — mas só sobre o trabalho, certo?",
+      "SPANISH": "Bueno, si tiene alguna duda, no dude en decirme. Pero solo sobre trabajo, ¿eh?",
+      "PERSIAN": "اگر سوالی دارید، در صورت تمایل بپرسید! هر چند فقط در مورد کار!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "넵",
+      "ENGLISH": "Yep.",
+      "CHINESE_SIMPLIFIED": "明白",
+      "CHINESE_TRADITIONAL": "明白",
+      "JAPANESE": "はいっ",
+      "INDONESIAN": "Siap.",
+      "PORTUGUESE": "Tudo bem.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "بله"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "존X 카리스마 있어.",
+      "ENGLISH": "Wow… what a charisma.",
+      "CHINESE_SIMPLIFIED": "我特么简直气场两米八",
+      "CHINESE_TRADITIONAL": "哇喔...氣勢真強大",
+      "JAPANESE": "うわ……めっちゃカリスマある",
+      "INDONESIAN": "Wah… karismanya luar biasa.",
+      "PORTUGUESE": "Que carismático eu sou...",
+      "SPANISH": "Qué carismático soy...",
+      "PERSIAN": "وای... چه کاریزمایی."
+    }
+  }
+]

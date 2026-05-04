@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 간만에 수영이나 좀 해볼까? ",
+      "ENGLISH": "Ah, it's been a while—should I go for a swim?",
+      "CHINESE_SIMPLIFIED": "啊，好久没游泳了，要不要游一会儿呢？",
+      "CHINESE_TRADITIONAL": "很久沒來了，要不要游泳呢？",
+      "JAPANESE": "久しぶりに泳いでみようかな？",
+      "INDONESIAN": "Ah, udah lama ya—aku renang aja nggak, ya?",
+      "PORTUGUESE": "Quanto tempo! Será que eu experimento a água?",
+      "SPANISH": "¡Cuánto tiempo! ¿será que pruebo el agua?",
+      "PERSIAN": "آه، مدتی است - باید برای شنا بروم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유만 씨!",
+      "ENGLISH": "Oh? Yuman-ssi!",
+      "CHINESE_SIMPLIFIED": "呃？宥万！",
+      "CHINESE_TRADITIONAL": "哎？宥萬先生",
+      "JAPANESE": "あ ユマンさん！",
+      "INDONESIAN": "Oh? Yuman-ssi!",
+      "PORTUGUESE": "Hã? Yumán!",
+      "SPANISH": "¿Eh? ¡Yumán!",
+      "PERSIAN": "اوه؟ یومان-سی!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "벌써 나와있었어요?",
+      "ENGLISH": "You’re already out here?",
+      "CHINESE_SIMPLIFIED": "你已经出来啦？",
+      "CHINESE_TRADITIONAL": "你已經準備好了啊！",
+      "JAPANESE": "もう出てたんですか？",
+      "INDONESIAN": "Kamu udah di sini duluan?",
+      "PORTUGUESE": "Você tava aqui fora?",
+      "SPANISH": "¿Estabas aquí afuera?",
+      "PERSIAN": "شما قبلاً اینجا هستید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 간만에 수영장 오니깐 빨리 발 담그고 싶어서요!",
+      "ENGLISH": "Yeah! It's been so long since I’ve been to a pool, I couldn’t wait to dip my feet in.",
+      "CHINESE_SIMPLIFIED": "嗯！难得来泳池，想快点把脚泡进水里！",
+      "CHINESE_TRADITIONAL": "是！難得來游泳池，想快點下去泡水！",
+      "JAPANESE": "はい！久しぶりにプール来たから 早く足つけたくて",
+      "INDONESIAN": "Iya! Udah lama banget aku nggak ke kolam, nggak sabar nyelupin kaki.",
+      "PORTUGUESE": "Sim! Faz tanto tempo que não venho à piscina que não consegui esperar.",
+      "SPANISH": "¡Sí! Hace tanto no voy a la picina que no pude esperar.",
+      "PERSIAN": "آره خیلی وقت است که به استخر نرفتم، حوصله نداشتم پاهایم را در اون فرو کنم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 수영복 어때요? ",
+      "ENGLISH": "How’s my swimsuit?",
+      "CHINESE_SIMPLIFIED": "我这件泳衣怎么样？",
+      "CHINESE_TRADITIONAL": "我的泳裝看起來怎麼樣？",
+      "JAPANESE": "私の水着どうですか？",
+      "INDONESIAN": "Gimana baju renang aku?",
+      "PORTUGUESE": "Você gostou do meu maiô?",
+      "SPANISH": "¿Te gusta mi traje de baño?",
+      "PERSIAN": "مایو من چطوره؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Hm?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hm?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "هوم؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 저번에 사복은 예쁘다고 해주셨는데 ",
+      "ENGLISH": "I mean, you said my outfit was cute last time...",
+      "CHINESE_SIMPLIFIED": "上次你不是说我穿私服好看来着",
+      "CHINESE_TRADITIONAL": "因為你上次說我穿便服很漂亮",
+      "JAPANESE": "前に私服かわいいって言ってくれたじゃないですか",
+      "INDONESIAN": "Maksudnya, waktu itu kamu bilang bajuku lucu...",
+      "PORTUGUESE": "Bom, da outra vez você disse que gostou da minha roupa,",
+      "SPANISH": "Bueno, la otra vez dijiste que te gustó mi ropa,",
+      "PERSIAN": "یعنی دفعه قبل گفتی لباسم زیبا بود..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "수영복은 어떤가 해서요 ",
+      "ENGLISH": "So I was wondering what you’d think of this.",
+      "CHINESE_SIMPLIFIED": "那这次的泳衣呢？",
+      "CHINESE_TRADITIONAL": "那我穿泳裝你覺得如何呢？",
+      "JAPANESE": "水着はどうかなって",
+      "INDONESIAN": "Jadi aku penasaran kamu bakal mikir apa soal yang ini.",
+      "PORTUGUESE": "então eu queria saber o que acha do meu maiô.",
+      "SPANISH": "así que quería saber qué opinas de mi traje de baño.",
+      "PERSIAN": "بنابراین من متعجب بودم که نظر شما در مورد این چیه."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 진짜 예뻐요",
+      "ENGLISH": "Oh—yeah, it looks really good.",
+      "CHINESE_SIMPLIFIED": "啊，真的很漂亮",
+      "CHINESE_TRADITIONAL": "啊，真的很漂亮",
+      "JAPANESE": "あ 本当に似合ってます",
+      "INDONESIAN": "Oh—iya, keliatan bagus banget.",
+      "PORTUGUESE": "Ah… tá realmente bonito.",
+      "SPANISH": "Ah… se ve realmente lindo.",
+      "PERSIAN": "اوه-آره، واقعاً خوب به نظر می رسد."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 27.6
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 어딜봐야 될지 모르겠어요 ",
+      "ENGLISH": "But... I seriously don’t know where to look.",
+      "CHINESE_SIMPLIFIED": "不过...有点不知道该往哪看了",
+      "CHINESE_TRADITIONAL": "不過...有點不知道要往哪裡看了",
+      "JAPANESE": "でもどこ見ていいか分かんないです",
+      "INDONESIAN": "Tapi... aku beneran jadi nggak tahu harus ngeliat ke mana.",
+      "PORTUGUESE": "Mas… eu não sei muito bem pra onde olhar.",
+      "SPANISH": "Pero… no sé muy bien a dónde mirar.",
+      "PERSIAN": "اما... جدی نمی دانم کجا را نگاه کنم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "들어올래요? ",
+      "ENGLISH": "Wanna come in?",
+      "CHINESE_SIMPLIFIED": "要不要一起下水？",
+      "CHINESE_TRADITIONAL": "那...要不要一起下水呢？",
+      "JAPANESE": "一緒に入ります？",
+      "INDONESIAN": "Mau ikut nyebur nggak?",
+      "PORTUGUESE": "Quer entrar?",
+      "SPANISH": "¿Quieres entrar?",
+      "PERSIAN": "میخوای بیای داخل؟"
+    }
+  }
+]

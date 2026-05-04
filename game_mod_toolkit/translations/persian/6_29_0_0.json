@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 동 과장님에 대한 건 아주 꽉 잡고 있습니다!",
+      "ENGLISH": "I’ve got Manager Gran figured out perfectly, too!",
+      "CHINESE_SIMPLIFIED": "我对佟科长的喜好也是了如指掌呢！",
+      "CHINESE_TRADITIONAL": "我對佟課長的喜好也是瞭若指掌呢！",
+      "JAPANESE": "俺だってドン課長のことはしっかり持ってますよ！",
+      "INDONESIAN": "Aku juga udah ngerti banget soal Manager Gran!",
+      "PORTUGUESE": "Eu também conheço a chefe Gran!",
+      "SPANISH": "¡Yo también conozco a la jefa Gran!",
+      "PERSIAN": "من نیز مدیر گرن را کاملاً متوجه شدم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 그러시겠죠 저보다 과장님하고 호흡도 많이 맞추셨고.",
+      "ENGLISH": "Well, of course you would. You’ve worked more closely with her than I have.",
+      "CHINESE_SIMPLIFIED": "那肯定的吧，毕竟您和科长配合默契的程度肯定比我更深呢",
+      "CHINESE_TRADITIONAL": "那肯定的，畢竟你和課長配合的默契肯定比我更深",
+      "JAPANESE": "そうでしょうね！ 僕より課長と長いですし",
+      "INDONESIAN": "Ya iyalah, kamu kan kerja bareng dia lebih lama daripada aku.",
+      "PORTUGUESE": "Suponho que sim~ você trabalhou com ela por mais tempo do que eu.",
+      "SPANISH": "Supongo que sí~ ha trabajado mucho con ella más tiempo que yo.",
+      "PERSIAN": "خوب، البته که شما این کار را می کنید. شما بیشتر از من با او کار کرده اید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 말나온 김에 가볍게 이구동성 게임 한 번 해볼까요?",
+      "ENGLISH": "Then since we’re on the topic—how about a fun little word match game? Just for laughs.",
+      "CHINESE_SIMPLIFIED": "既然说到这儿了，那我们顺便玩个“异口同声”游戏怎么样？",
+      "CHINESE_TRADITIONAL": "既然提到了，不如就趁這個機會，順便玩個“異口同聲”遊戲如何？",
+      "JAPANESE": "じゃあせっかくだから 軽く以心伝心ゲームでもしませんか？",
+      "INDONESIAN": "Kalau gitu sekalian aja—gimana kalau main tebak-tebakan kata? Buat seru-seruan aja.",
+      "PORTUGUESE": "Então, já que o assunto surgiu, que tal jogarmos pra ver quem a conhece melhor?",
+      "SPANISH": "Entonces, ya que salió el tema, ¿qué tal si jugamos para ver quién la conoce más?",
+      "PERSIAN": "پس از آنجایی که ما در مورد این موضوع هستیم - چگونه در مورد یک بازی سرگرم کننده مطابقت کلمات؟ فقط برای خنده"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 좋아요! 콜!!",
+      "ENGLISH": "Ooh~ I’m in! Let’s go!",
+      "CHINESE_SIMPLIFIED": "喔~好啊！来呗！",
+      "CHINESE_TRADITIONAL": "喔～好啊！來吧！",
+      "JAPANESE": "お〜いいですね！やりましょう！！",
+      "INDONESIAN": "Ooh~ aku ikut! Ayo, ayo!",
+      "PORTUGUESE": "Oh~ gostei! Aceito!",
+      "SPANISH": "¡Oh~ me gusta! ¡Acepto!",
+      "PERSIAN": "اوه~ من وارد شدم! برویم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "둘이 뭐 해! 밥 먹자!",
+      "ENGLISH": "What are you two doing? Come eat already!",
+      "CHINESE_SIMPLIFIED": "你们俩闹什么！快吃饭！",
+      "CHINESE_TRADITIONAL": "你們兩個在鬧什麽！快吃飯！",
+      "JAPANESE": "二人とも何やってんの ご飯食べようって！",
+      "INDONESIAN": "Kalian ngapain sih? Ayo makan dulu!",
+      "PORTUGUESE": "O que vocês estão fazendo?! Venham comer!",
+      "SPANISH": "¡¿Qué están haciendo ?! ¡Vengan a comer!",
+      "PERSIAN": "شما دوتا چیکار میکنید؟ بیا غذا بخور!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨! 과장님 저희 진지합니다.",
+      "ENGLISH": "No, Chief—this is serious.",
+      "CHINESE_SIMPLIFIED": "不！科长，我们可是认真的",
+      "CHINESE_TRADITIONAL": "不！課長，我們是認真的",
+      "JAPANESE": "いえ！課長、俺たち真剣です！",
+      "INDONESIAN": "Nggak, Chief—ini penting.",
+      "PORTUGUESE": "Chefe! Estamos falando sério.",
+      "SPANISH": "¡Jefa! Estamos hablando en serio.",
+      "PERSIAN": "نه، رئیس - این جدی است."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 21.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이건 자존심 싸움이에요.",
+      "ENGLISH": "This is a matter of pride.",
+      "CHINESE_SIMPLIFIED": "这可是关乎尊严的对决",
+      "CHINESE_TRADITIONAL": "這可是關乎尊嚴的對決",
+      "JAPANESE": "これはプライドをかけた勝負なんで！",
+      "INDONESIAN": "Ini soal harga diri.",
+      "PORTUGUESE": "Isso é uma questão de orgulho.",
+      "SPANISH": "Esto es cuestión de orgullo.",
+      "PERSIAN": "این مایه افتخار است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 이런 거로 진지해...!",
+      "ENGLISH": "You’re getting this serious over a game...?",
+      "CHINESE_SIMPLIFIED": "这种事有什么好认真的...！",
+      "CHINESE_TRADITIONAL": "這種事有什麽好認真的...！",
+      "JAPANESE": "こんなことで真剣になって…！",
+      "INDONESIAN": "Kalian segitunya cuma buat game...?",
+      "PORTUGUESE": "Vocês ficam assim por uma coisa tão boba…?",
+      "SPANISH": "¿Se ponen así por algo tan tonto…?",
+      "PERSIAN": "اینقدر سر یک بازی جدی میگیری...؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮습니다 빨리 문제 주십시오.",
+      "ENGLISH": "It’s fine. Just give us the question!",
+      "CHINESE_SIMPLIFIED": "没关系，请您快出题吧",
+      "CHINESE_TRADITIONAL": "沒關係，請您快出題吧",
+      "JAPANESE": "大丈夫です 早くお題ください！",
+      "INDONESIAN": "Nggak apa-apa. Ayo, kasih pertanyaannya!",
+      "PORTUGUESE": "Não tem problema, manda a primeira pergunta.",
+      "SPANISH": "No pasa nada, denos la primera pregunta.",
+      "PERSIAN": "خوب است فقط سوال را به ما بدهید!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가 괜찮다는 거야....",
+      "ENGLISH": "What exactly is “fine” here…?",
+      "CHINESE_SIMPLIFIED": "这叫哪门子没关系啊....",
+      "CHINESE_TRADITIONAL": "有什麼沒關係的啊....",
+      "JAPANESE": "何が大丈夫なんだか…",
+      "INDONESIAN": "Yang “nggak apa-apa” itu bagian mananya, coba…?",
+      "PORTUGUESE": "Não tem problema, é?",
+      "SPANISH": "¿Que no pasa nada...?",
+      "PERSIAN": "اینجا دقیقا «خوب» چیه…؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.6,
+      "HIDE": 35.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 알았어, 그럼 문제 낼게?",
+      "ENGLISH": "Sigh. Alright, alright. Here’s the question:",
+      "CHINESE_SIMPLIFIED": "唉好吧，那我出题咯？",
+      "CHINESE_TRADITIONAL": "唉好吧，那我出題囉？",
+      "JAPANESE": "はぁ、わかった じゃあ出すよ？",
+      "INDONESIAN": "Huff. Ya udah, ya udah. Ini pertanyaannya:",
+      "PORTUGUESE": "Tudo bem, então vou fazer uma pergunta:",
+      "SPANISH": "Está bien, entonces haré una pregunta:",
+      "PERSIAN": "آه باشه، باشه سوال اینجاست:"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 37.2,
+      "HIDE": 38.8
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 좋아하는 동물은?",
+      "ENGLISH": "What’s my favorite animal?",
+      "CHINESE_SIMPLIFIED": "我最喜欢的动物是？",
+      "CHINESE_TRADITIONAL": "我最喜歡的動物是？",
+      "JAPANESE": "私が好きな動物は？",
+      "INDONESIAN": "Hewan favorit aku apa?",
+      "PORTUGUESE": "Qual é o meu animal favorito?",
+      "SPANISH": "¿Cuál es mi animal favorito?",
+      "PERSIAN": "حیوان مورد علاقه من چیه؟"
+    }
+  }
+]

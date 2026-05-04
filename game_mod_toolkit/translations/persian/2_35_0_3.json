@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아 가자!",
+      "ENGLISH": "Mal-sook, let’s go!",
+      "CHINESE_SIMPLIFIED": "末淑，我们走吧！",
+      "CHINESE_TRADITIONAL": "末淑，我們走吧！",
+      "JAPANESE": "マルスク 行こう!",
+      "INDONESIAN": "Mal-sook, ayo berangkat!",
+      "PORTUGUESE": "Vamos, Malsook!",
+      "SPANISH": "¡Vamos Malsook!",
+      "PERSIAN": "مال‌سوک، بیا بریم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어, 나 가방만 가지고 나올게",
+      "ENGLISH": "Okay! Just grabbing my bag.",
+      "CHINESE_SIMPLIFIED": "知道啦，我拿个包就出来",
+      "CHINESE_TRADITIONAL": "知道了，我去拿包包就出來",
+      "JAPANESE": "わかった カバンだけ持って出るね",
+      "INDONESIAN": "Oke! Aku cuma ambil tasku.",
+      "PORTUGUESE": "Perfeito, só vou pegar minha bolsa e sair.",
+      "SPANISH": "Perfecto, solo agarro mi bolso y salgo.",
+      "PERSIAN": "باشه! فقط کیفم را می گیرم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "나 너무 혼자 두는 거 아니에요?",
+      "ENGLISH": "You’re not leaving me too alone, are you...?",
+      "CHINESE_SIMPLIFIED": "你老把我一个人晾在一边，合适吗？",
+      "CHINESE_TRADITIONAL": "你是不是太常丟下我一個人了？",
+      "JAPANESE": "私を置いていきすぎじゃないですか?",
+      "INDONESIAN": "Kau tidak meninggalkanku sendirian, kan...?",
+      "PORTUGUESE": "Você não acha que anda me deixando muito de lado?",
+      "SPANISH": "¿No te parece que me estás dejando mucho de lado?",
+      "PERSIAN": "تو منو خیلی تنها نمیذاری، مگه نه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요.",
+      "ENGLISH": "I’m sorry.",
+      "CHINESE_SIMPLIFIED": "对不起啦",
+      "CHINESE_TRADITIONAL": "對不起",
+      "JAPANESE": "ごめんなさい",
+      "INDONESIAN": "Saya minta maaf.",
+      "PORTUGUESE": "Desculpa.",
+      "SPANISH": "Lo siento.",
+      "PERSIAN": "متاسفم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "다음에는 꼭 같이 갈게요 ",
+      "ENGLISH": "Next time, I’ll definitely go with you.",
+      "CHINESE_SIMPLIFIED": "下次一定陪你一起去",
+      "CHINESE_TRADITIONAL": "我下次一定會陪你一起去",
+      "JAPANESE": "次は必ず一緒に行きますから",
+      "INDONESIAN": "Lain kali, aku pasti akan ikut denganmu.",
+      "PORTUGUESE": "Da próxima vez, você sai comigo.",
+      "SPANISH": "La próxima tienes que salir conmigo.",
+      "PERSIAN": "دفعه بعد حتما باهات میام"
+    }
+  }
+]

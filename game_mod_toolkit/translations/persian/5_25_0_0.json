@@ -1,0 +1,15 @@
+[
+  {
+    "SCRIPT": {
+      "KOREAN": "( 문을 열어준다 ) ( 문을 닫는다 )",
+      "ENGLISH": "(Open the door) (Close the door)",
+      "CHINESE_SIMPLIFIED": "（打开门）（关上门）",
+      "CHINESE_TRADITIONAL": "（開門）（關門）",
+      "JAPANESE": "（ドアを開ける）（ドアを閉める）",
+      "INDONESIAN": "(Membukakan pintu) (Menutup pintu)",
+      "PORTUGUESE": "(Abrir a porta) (Fechar a porta)",
+      "SPANISH": "(Abrir la puerta) (Cerrar la puerta)",
+      "PERSIAN": "(در را باز کن) (در را ببند)"
+    }
+  }
+]

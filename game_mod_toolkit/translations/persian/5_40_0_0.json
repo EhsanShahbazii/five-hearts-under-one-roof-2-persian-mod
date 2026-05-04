@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 빨리 들어와! ",
+      "ENGLISH": "Yuman, hurry up and get in!",
+      "CHINESE_SIMPLIFIED": "吴宥万，快过来啊！",
+      "CHINESE_TRADITIONAL": "吳宥萬，快過來啊！",
+      "JAPANESE": "ウ・ユマン 早く入って！",
+      "INDONESIAN": "Yuman cepetan masuk!",
+      "PORTUGUESE": "Yumán, entra logo!",
+      "SPANISH": "¡Yumán ya entra!",
+      "PERSIAN": "یومان، عجله کن و وارد شو!"
+    }
+  }
+]

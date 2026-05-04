@@ -1,0 +1,380 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐 뒤돌아 볼래요?",
+      "ENGLISH": "Can you turn around for a sec?",
+      "CHINESE_SIMPLIFIED": "能稍微转过去一下吗？",
+      "CHINESE_TRADITIONAL": "能轉過來一下嗎？",
+      "JAPANESE": "ちょっと後ろ向いてもらえます?",
+      "INDONESIAN": "Bisakah kamu berbalik sebentar?",
+      "PORTUGUESE": "Pode virar um pouquinho?",
+      "SPANISH": "¿Podrías voltearte un momento?",
+      "PERSIAN": "می توانید برای یک ثانیه بچرخید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "Why?",
+      "CHINESE_SIMPLIFIED": "怎么了？",
+      "CHINESE_TRADITIONAL": "為什麼？",
+      "JAPANESE": "え? なんでですか?",
+      "INDONESIAN": "Mengapa?",
+      "PORTUGUESE": "Hã? Por quê?",
+      "SPANISH": "¿Eh? ¿Por qué?",
+      "PERSIAN": "چرا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "머리가 다 풀린 거 같아서요 ",
+      "ENGLISH": "Your hair came loose.",
+      "CHINESE_SIMPLIFIED": "你头发好像有点散开了",
+      "CHINESE_TRADITIONAL": "妳頭髮好像鬆了",
+      "JAPANESE": "髪がほどけちゃったみたいで",
+      "INDONESIAN": "Rambutmu rontok.",
+      "PORTUGUESE": "Acho que seu cabelo se soltou.",
+      "SPANISH": "Creo que se te desamarró el cabello.",
+      "PERSIAN": "موهایت شل شد"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "음~",
+      "ENGLISH": "Hmm~",
+      "CHINESE_SIMPLIFIED": "嗯~",
+      "CHINESE_TRADITIONAL": "喔～",
+      "JAPANESE": "ん〜",
+      "INDONESIAN": "Hmm~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "هوم~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만요.",
+      "ENGLISH": "Hold on...",
+      "CHINESE_SIMPLIFIED": "稍等",
+      "CHINESE_TRADITIONAL": "等一下",
+      "JAPANESE": "ちょっと待ってくださいね",
+      "INDONESIAN": "Tunggu...",
+      "PORTUGUESE": "Um segundo.",
+      "SPANISH": "Un segundo.",
+      "PERSIAN": "صبر کن..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "자~ 이거를 이렇게 잡고...",
+      "ENGLISH": "Okay, just grab this part like this...",
+      "CHINESE_SIMPLIFIED": "来~这样抓着...",
+      "CHINESE_TRADITIONAL": "來～ 這個要像這樣抓著...",
+      "JAPANESE": "さぁ〜これをこうやって持って…",
+      "INDONESIAN": "Oke, ambil saja bagian ini seperti ini...",
+      "PORTUGUESE": "Vamos ver, era assim...",
+      "SPANISH": "A ver, esto era así…",
+      "PERSIAN": "باشه فقط این قسمت رو اینجوری بگیر..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "자... 이렇게 해서?",
+      "ENGLISH": "And then?",
+      "CHINESE_SIMPLIFIED": "然后...这样弄？",
+      "CHINESE_TRADITIONAL": "這樣可以嗎？",
+      "JAPANESE": "それで…こうやって？",
+      "INDONESIAN": "Kemudian?",
+      "PORTUGUESE": "e depois assim...",
+      "SPANISH": "y luego así…",
+      "PERSIAN": "و سپس؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "휴 됐다",
+      "ENGLISH": "Phew! That's it!",
+      "CHINESE_SIMPLIFIED": "好了",
+      "CHINESE_TRADITIONAL": "好了",
+      "JAPANESE": "よし",
+      "INDONESIAN": "Fiuh! Selesai!",
+      "PORTUGUESE": "Pronto.",
+      "SPANISH": "Listo.",
+      "PERSIAN": "اوه! همین!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 이런 건 또 왜 잘하고 그래요",
+      "ENGLISH": "Wow, you’re weirdly good at that.",
+      "CHINESE_SIMPLIFIED": "真是的，这种事怎么做得这么熟练啊",
+      "CHINESE_TRADITIONAL": "哇，你怎麼連這個也這麼會？",
+      "JAPANESE": "なんでこういうのは上手なんですか",
+      "INDONESIAN": "Wah, anehnya kamu jago banget dalam hal itu.",
+      "PORTUGUESE": "Uau, como você sabe fazer isso?",
+      "SPANISH": "Vaya, ¿por qué sabes hacer esto?",
+      "PERSIAN": "وای، تو به طرز عجیبی تو این کار خوب هستی."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 말숙이랑 말숙이 동생 은비라고 있거든요.",
+      "ENGLISH": "Oh, Mal-sook and her younger sister Eun-bi—",
+      "CHINESE_SIMPLIFIED": "啊，因为我小的时候",
+      "CHINESE_TRADITIONAL": "啊，因為小的時候",
+      "JAPANESE": "あ マルスクと その妹のウンビって子がいるんですけど",
+      "INDONESIAN": "Oh, Mal-sook dan adik perempuannya Eun-bi—",
+      "PORTUGUESE": "Ah, é que a Malsook tem uma irmã mais nova, a Eunbi.",
+      "SPANISH": "Ah, es que Malsook tiene una hermana menor, Eunbi.",
+      "PERSIAN": "آه، مال‌سوک و خواهر کوچکترش یون بی-"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어렸을 때는 같이 지내면서 ",
+      "ENGLISH": "I used to tie their hair a lot",
+      "CHINESE_SIMPLIFIED": "和末淑还有她妹妹恩妃一起玩过",
+      "CHINESE_TRADITIONAL": "跟末淑和她妹妹恩菲玩在一起",
+      "JAPANESE": "小さい頃一緒に過ごしてて",
+      "INDONESIAN": "Dulu aku sering mengikat rambut mereka",
+      "PORTUGUESE": "Quando éramos crianças, morávamos perto,",
+      "SPANISH": "Cuando éramos niños, vivíamos cerca",
+      "PERSIAN": "من موهایشان را زیاد می بستم"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 35.5
+    },
+    "SCRIPT": {
+      "KOREAN": "머리 묶어주는 일이 많았어요.",
+      "ENGLISH": "when we were little.",
+      "CHINESE_SIMPLIFIED": "以前经常帮她们扎头发",
+      "CHINESE_TRADITIONAL": "我以前常常幫她們綁頭髮",
+      "JAPANESE": "よく髪を結んであげてたんですよ",
+      "INDONESIAN": "ketika kita masih kecil.",
+      "PORTUGUESE": "e eu sempre ajudava ela a amarrar o cabelo.",
+      "SPANISH": "y yo siempre le ayudaba a amarrarse el cabello.",
+      "PERSIAN": "وقتی ما کوچک بودیم"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 37.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 그 고말숙 씨요?",
+      "ENGLISH": "Ah... you mean that Mal-sook?",
+      "CHINESE_SIMPLIFIED": "啊...高末淑小姐吗？",
+      "CHINESE_TRADITIONAL": "啊…高末淑小姐嗎？",
+      "JAPANESE": "あ…そのコ・マルスクさんですか?",
+      "INDONESIAN": "Ah... maksudmu Mal-sook?",
+      "PORTUGUESE": "Ah... está falando dessa Malsook?",
+      "SPANISH": "Ah… ¿hablas de esta Malsook?",
+      "PERSIAN": "آه... منظورت اون مال‌سوک هست؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 40.4
+    },
+    "SCRIPT": {
+      "KOREAN": "두 분 되게 오랫동안 친구 사이였나 봐요?",
+      "ENGLISH": "Sounds like you two have been friends forever.",
+      "CHINESE_SIMPLIFIED": "两位看来是认识很久的朋友了？",
+      "CHINESE_TRADITIONAL": "你們兩位當了很久的朋友吧？",
+      "JAPANESE": "二人ってずいぶん長い友達なんですね",
+      "INDONESIAN": "Kedengarannya kalian berdua sudah berteman selamanya.",
+      "PORTUGUESE": "Parece que vocês se conhecem há bastante tempo.",
+      "SPANISH": "Parece que se conocen desde hace mucho.",
+      "PERSIAN": "به نظر می رسد که شما دو نفر برای همیشه دوست بودید."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 40.4,
+      "HIDE": 43.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 한 20년 넘었죠",
+      "ENGLISH": "Yeah, over 20 years now.",
+      "CHINESE_SIMPLIFIED": "没错！得有二十多年了",
+      "CHINESE_TRADITIONAL": "對啊！超過二十年了",
+      "JAPANESE": "はい! もう20年以上ですね",
+      "INDONESIAN": "Ya, sudah lebih dari 20 tahun sekarang.",
+      "PORTUGUESE": "Sim, já faz mais de vinte anos.",
+      "SPANISH": "Sí, más de veinte años ya.",
+      "PERSIAN": "بله، الان بیش از 20 سال است."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 43.2,
+      "HIDE": 45.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 앞으로도 계속 오랫동안",
+      "ENGLISH": "Then I guess you two can just stay friends",
+      "CHINESE_SIMPLIFIED": "那以后也继续",
+      "CHINESE_TRADITIONAL": "那以後你們就可以一直一直",
+      "JAPANESE": "じゃあこれからもずっと",
+      "INDONESIAN": "Kalau begitu, kurasa kalian berdua bisa tetap berteman saja.",
+      "PORTUGUESE": "Tomara que continuem sendo",
+      "SPANISH": "Ojalá sigan siendo",
+      "PERSIAN": "سپس حدس می‌زنم شما دو نفر فقط می‌تونین دوست بمانید"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 48.0
+    },
+    "SCRIPT": {
+      "KOREAN": "쭉~ 친구만 하면 되겠다 그쵸? ",
+      "ENGLISH": "for another 20 years... and beyond, right?",
+      "CHINESE_SIMPLIFIED": "一直~只做朋友就好了，对吧？",
+      "CHINESE_TRADITIONAL": "只當朋友就好了，對吧？",
+      "JAPANESE": "ずっと友達のままってことで ね?",
+      "INDONESIAN": "selama 20 tahun lagi... dan seterusnya, benar?",
+      "PORTUGUESE": "SÓ amigos por muito tempo.",
+      "SPANISH": "SOLO amigos por mucho tiempo.",
+      "PERSIAN": "برای 20 سال دیگر... و بعد از اون، درست است؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 48.0,
+      "HIDE": 49.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 밥 먹으러 가요",
+      "ENGLISH": "Anyway, let’s go eat.",
+      "CHINESE_SIMPLIFIED": "现在去吃饭吧",
+      "CHINESE_TRADITIONAL": "走吧，去吃飯吧",
+      "JAPANESE": "さ ご飯食べに行きましょう",
+      "INDONESIAN": "Baiklah, ayo kita makan.",
+      "PORTUGUESE": "Vamos comer.",
+      "SPANISH": "Vamos a comer.",
+      "PERSIAN": "به هر حال بریم بخوریم"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 50.4,
+      "HIDE": 52.8
+    },
+    "SCRIPT": {
+      "KOREAN": "좋아요 밥은 제가 살게요 ",
+      "ENGLISH": "Sounds good. My treat!",
+      "CHINESE_SIMPLIFIED": "好啊，饭我来请",
+      "CHINESE_TRADITIONAL": "好啊，我請客！",
+      "JAPANESE": "いいですよ ご飯は俺がおごります",
+      "INDONESIAN": "Kedengarannya enak. Aku yang traktir!",
+      "PORTUGUESE": "Tudo bem, eu pago a comida.",
+      "SPANISH": "Está bien, yo invito la comida.",
+      "PERSIAN": "به نظر خوب می رسد. درمان من!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 52.8,
+      "HIDE": 53.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい!",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "باشه!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 54.4,
+      "HIDE": 55.5
+    },
+    "SCRIPT": {
+      "KOREAN": "칫..",
+      "ENGLISH": "Tch...",
+      "CHINESE_SIMPLIFIED": "切...",
+      "CHINESE_TRADITIONAL": "嘖…",
+      "JAPANESE": "ちっ…",
+      "INDONESIAN": "Cih...",
+      "PORTUGUESE": "Tch...",
+      "SPANISH": "Tch…",
+      "PERSIAN": "تچ..."
+    }
+  }
+]

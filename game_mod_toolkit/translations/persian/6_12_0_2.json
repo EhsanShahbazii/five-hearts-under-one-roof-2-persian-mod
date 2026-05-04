@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 안 간다고 네가 와!",
+      "ENGLISH": "I'm not going! You'd better come!",
+      "CHINESE_SIMPLIFIED": "我才不去，你过来！",
+      "CHINESE_TRADITIONAL": "我才不去，你過來！",
+      "JAPANESE": "行かないってば！あなたが来てよ！",
+      "INDONESIAN": "Aku ngga mau kesana! Kamu aja kesini!",
+      "PORTUGUESE": "Tô fora! Agora é você que tem que vir!",
+      "SPANISH": "¡Ni loc avoy yo! ¡Te toca venir a ti!",
+      "PERSIAN": "من نمی روم! بهتره بیای!"
+    }
+  }
+]

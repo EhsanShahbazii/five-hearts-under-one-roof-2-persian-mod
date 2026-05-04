@@ -1,0 +1,135 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유정이 끝날 때가 됐는데...",
+      "ENGLISH": "It's time for our date to end...",
+      "CHINESE_SIMPLIFIED": "有情那边应该结束了吧...",
+      "CHINESE_TRADITIONAL": "有情應該差不多該結束吧..",
+      "JAPANESE": "ユジョン、そろそろ時間じゃない？",
+      "INDONESIAN": "Kayaknya Yujeong udah mau selesai nih...",
+      "PORTUGUESE": "Já devia ter terminado...",
+      "SPANISH": "Ya debería haber terminado...",
+      "PERSIAN": "وقت اون است که قرارمان به پایان برسد..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유정아!",
+      "ENGLISH": "Yujeong!",
+      "CHINESE_SIMPLIFIED": "有情！",
+      "CHINESE_TRADITIONAL": "有情！",
+      "JAPANESE": "ユジョン！",
+      "INDONESIAN": "Yujeong!",
+      "PORTUGUESE": "Yujeong!",
+      "SPANISH": "¡Yujeong!",
+      "PERSIAN": "یو-جونگ!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 오빠!",
+      "ENGLISH": "Huh? Oppa!",
+      "CHINESE_SIMPLIFIED": "嗯？哥哥！",
+      "CHINESE_TRADITIONAL": "嗯？哥哥！",
+      "JAPANESE": "あっ、お兄ちゃん！",
+      "INDONESIAN": "Eh? Oppa!",
+      "PORTUGUESE": "Hã? Oppa!",
+      "SPANISH": "¿Eh? ¡Oppa!",
+      "PERSIAN": "ها؟ یومان!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "얘들아 미안 나, 내일 보자?",
+      "ENGLISH": "Guys, sorry, let's meet tomorrow?",
+      "CHINESE_SIMPLIFIED": "大家不好意思，我先走啦，明天见！",
+      "CHINESE_TRADITIONAL": "大家抱歉啊，我先走了，明天見啦！",
+      "JAPANESE": "みんなごめんね、また明日ね？",
+      "INDONESIAN": "Teman-teman, maaf ya, kita lanjut besok?",
+      "PORTUGUESE": "Gente, desculpa, a gente se vê amanhã?",
+      "SPANISH": "Chicos, lo siento, ¿nos vemos mañana?",
+      "PERSIAN": "بچه ها ببخشید بیا فردا همدیگه رو ببینیم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠! 언제 왔어!",
+      "ENGLISH": "Oppa! When did you get here!",
+      "CHINESE_SIMPLIFIED": "哥哥！你什么时候来的！",
+      "CHINESE_TRADITIONAL": "哥哥！你什麼時候來的！",
+      "JAPANESE": "お兄ちゃん！いつ来たの！",
+      "INDONESIAN": "Oppa! Kamu datangnya kapan~",
+      "PORTUGUESE": "Oppa! Quando você chegou?",
+      "SPANISH": "¡Oppa! ¿Cuándo llegaste?",
+      "PERSIAN": "یومان! کی به اینجا رسیدی!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 29.1
+    },
+    "SCRIPT": {
+      "KOREAN": "친구들이랑 더 놀아야 되는 거 아니야?",
+      "ENGLISH": "Aren't you supposed to hang out with your friends longer?",
+      "CHINESE_SIMPLIFIED": "不是该和朋友们再玩会儿吗？",
+      "CHINESE_TRADITIONAL": "不用在和朋友們在玩一下嗎？",
+      "JAPANESE": "まだ友達と遊ばなくていいの？",
+      "INDONESIAN": "Bukannya kamu masih mau main sama teman-teman?",
+      "PORTUGUESE": "Você não devia continuar curtindo com seus amigos?",
+      "SPANISH": "¿No deberías seguir pasando el rato con tus amigos?",
+      "PERSIAN": "قرار نیست مدت طولانی تری با دوستان خود وقت گذرانی کنید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 32.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니야 오빠랑 오늘 데이트 하기로 한 날이잖아. 얼른 와~",
+      "ENGLISH": "No, today's the day I planned to go on a date with you. Come on, hurry up~",
+      "CHINESE_SIMPLIFIED": "不要，今天说好要和哥哥约会的，快过来~",
+      "CHINESE_TRADITIONAL": "不用，今天說好要和哥哥約會的，快點過來～",
+      "JAPANESE": "いいの、今日はデートの日でしょ。早くおいで〜",
+      "INDONESIAN": "Enggak ah, hari ini kan kita janjian buat pacaran, ayo cepetan ke sini~",
+      "PORTUGUESE": "Não, hoje a gente combinou de ter o nosso encontro. Vem logo~!",
+      "SPANISH": "No, hoy quedamos en tener nuestra cita. ¡Ven rápido~!",
+      "PERSIAN": "نه، امروز روزی بود که تصمیم داشتم با تو قرار بگذارم. بیا، عجله کن~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 34.0,
+      "HIDE": 34.1
+    }
+  }
+]

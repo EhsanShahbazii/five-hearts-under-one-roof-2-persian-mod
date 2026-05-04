@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "자!",
+      "ENGLISH": "Here!",
+      "CHINESE_SIMPLIFIED": "给！",
+      "CHINESE_TRADITIONAL": "給！",
+      "JAPANESE": "はい!",
+      "INDONESIAN": "Ini!",
+      "PORTUGUESE": "Toma!",
+      "SPANISH": "Tiens!",
+      "PERSIAN": "بیا اینم شیر!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 왜 안 줘요!",
+      "ENGLISH": "What, why won’t you give me any?!",
+      "CHINESE_SIMPLIFIED": "什么啊，为什么不给我！",
+      "CHINESE_TRADITIONAL": "什麼啦，為什麼不給我！",
+      "JAPANESE": "なんですか、どうしてくれないんですか！",
+      "INDONESIAN": "Apa sih, kenapa nggak dikasih?!",
+      "PORTUGUESE": "O que é isso, por que não me dá?!",
+      "SPANISH": "¡Oye!¿Por qué no me das?",
+      "PERSIAN": "چی شد، چرا نمی‌دی بهم؟! بده دیگه!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 하세요.",
+      "ENGLISH": "Just say ‘ah~.’ I’ll feed you.",
+      "CHINESE_SIMPLIFIED": "啊～张嘴",
+      "CHINESE_TRADITIONAL": "啊～張嘴",
+      "JAPANESE": "あ～してください",
+      "INDONESIAN": "A~ ayo.",
+      "PORTUGUESE": "Abra a boca, vá.",
+      "SPANISH": "Di ahh~ ~ ",
+      "PERSIAN": "دهنتو باز کن بگو «آآآ»... خودم می‌ذارم دهنت."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 먹을게요!",
+      "ENGLISH": "But what if you drink it all once I hand it over?",
+      "CHINESE_SIMPLIFIED": "我来喝就好了！",
+      "CHINESE_TRADITIONAL": "我要喝了喔！",
+      "JAPANESE": "私がいただきます！",
+      "INDONESIAN": "Aku minum aja!",
+      "PORTUGUESE": "Eu vou beber!",
+      "SPANISH": "¡Yo puedo sola!",
+      "PERSIAN": "بدم دستت همه‌شو یه نفس سر می‌کشی که!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "줬다가 그쪽이 다 마시면 어떡해요?",
+      "ENGLISH": "I need some too, you know…",
+      "CHINESE_SIMPLIFIED": "给你了你要是一口全喝掉怎么办？",
+      "CHINESE_TRADITIONAL": "給你的話，萬一你全部喝光怎麼辦？",
+      "JAPANESE": "あげたのに、そっちが全部飲んだらどうするんですか？",
+      "INDONESIAN": "Kenapa kamu minum semuanya?",
+      "PORTUGUESE": "E se eu te der e você engolir tudo de uma vez, o que eu faço?",
+      "SPANISH": "¿Y si te lo tomas todo?",
+      "PERSIAN": "خب منم دارم آتیش می‌گیرم، یکم به منم باید برسه..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 마셔야 하는데..",
+      "ENGLISH": "Ha! What do you take me for?",
+      "CHINESE_SIMPLIFIED": "我也要喝啊...",
+      "CHINESE_TRADITIONAL": "我也要喝耶...",
+      "JAPANESE": "俺も飲まなきゃいけないんですけど…",
+      "INDONESIAN": "Aku juga mau minum tahu…",
+      "PORTUGUESE": "Eu também preciso beber, né!",
+      "SPANISH": "¡Yo también tengo que tomar!",
+      "PERSIAN": "ها! منو چی فرض کردی اخه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "하! 지금 절 뭘로 보는 거예요?",
+      "ENGLISH": "Since I can’t trust you, just say ‘ah~.’",
+      "CHINESE_SIMPLIFIED": "哼！你现在把我当什么人了啊？",
+      "CHINESE_TRADITIONAL": "哼！你現在是把我當什麼啊？",
+      "JAPANESE": "はっ！今、私のことを何だと思ってるんですか？",
+      "INDONESIAN": "Hah! Kamu nganggep aku apa sih?!",
+      "PORTUGUESE": "Ha! O que você pensa de mim, afinal?",
+      "SPANISH": "¡Ja! ¿Por quién me tomas?",
+      "PERSIAN": "بهت اعتمادی نیست، پس همون دهنتو باز کن بگو «آآآ»."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "못 믿겠으니까 그냥 아~ 하세요.",
+      "ENGLISH": "Ugh, how can you make me do that here? It’s embarrassing.",
+      "CHINESE_SIMPLIFIED": "我不信你，所以才让你啊～张嘴的",
+      "CHINESE_TRADITIONAL": "我不相信你，所以你只要啊～張嘴就好了",
+      "JAPANESE": "信用できないから、そのままあ〜してください",
+      "INDONESIAN": "Karena aku nggak percaya, jadi A~ aja.",
+      "PORTUGUESE": "Como não confio, é melhor você só abrir a boca e pronto.",
+      "SPANISH": "No confío en ti. Mejor abra la boca y ya.",
+      "PERSIAN": "ای بابا، این وسط چطوری آخه؟ زشته خجالت می‌کشم!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "부끄럽게 여기서 어떻게 그래요?",
+      "ENGLISH": "It’s gonna burn like crazy, you know.",
+      "CHINESE_SIMPLIFIED": "我干嘛要这样在外面这么丢人？",
+      "CHINESE_TRADITIONAL": "很丟臉耶，怎麼好意思在這裡這樣？",
+      "JAPANESE": "恥ずかしいのに、ここでどうやってそんなことするんですか？",
+      "INDONESIAN": "Malu-maluin banget, masa ngelakuin itu di sini…",
+      "PORTUGUESE": "E eu, passando vergonha aqui fora, por que tenho que fazer isso?",
+      "SPANISH": "¿Por qué tendría que hacer algo tan vergonzoso aquí?",
+      "PERSIAN": "خودت می‌دونی، زبونت داره جزغاله می‌شه ها!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "엄청 매울 텐데? ",
+      "ENGLISH": "Are we just gonna keep arguing about this?",
+      "CHINESE_SIMPLIFIED": "会很辣哦？",
+      "CHINESE_TRADITIONAL": "這可是很辣喔？",
+      "JAPANESE": "すごく辛いはずですよ？",
+      "INDONESIAN": "Itu pasti pedes banget, lho?",
+      "PORTUGUESE": "Vai ficar apimentado, hein?",
+      "SPANISH": "¿Está muy picante, verdad?",
+      "PERSIAN": "می‌خوای تا فردا سر این با من چونه بزنی؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "계속 말싸움 할 거예요?",
+      "ENGLISH": "Like getting punched in the tongue.",
+      "CHINESE_SIMPLIFIED": "你是打算继续跟我嘴上斗到底吗？",
+      "CHINESE_TRADITIONAL": "現在你的舌頭就像是被拳頭打了一樣吧",
+      "JAPANESE": "ずっと言い合いを続けるつもりですか？",
+      "INDONESIAN": "Mau terus debat gini terus?",
+      "PORTUGUESE": "Vai ser como levar um soco na língua agora mesmo.",
+      "SPANISH": "¿Como si te hubieran golpeado en la lengua?",
+      "PERSIAN": "مگه نمی‌گفتی انگار چک خورده تو دهنت؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 28.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 알았어요!",
+      "ENGLISH": "Fine, okay!",
+      "CHINESE_SIMPLIFIED": "啊，好啦好啦！",
+      "CHINESE_TRADITIONAL": "啊，好啦好啦！",
+      "JAPANESE": "ああ、わかりました！",
+      "INDONESIAN": "Ah, iya deh!",
+      "PORTUGUESE": "Ah, tá bom, tá bom!",
+      "SPANISH": "Ah, ¡está bien!",
+      "PERSIAN": "باشه بابا، باشه!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 29.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah…",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ah...",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah…",
+      "PERSIAN": "آآآ..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 34.9,
+      "HIDE": 38.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 드디어 살겠다. 씨이...",
+      "ENGLISH": "Finally, I can breathe again. Jeez…",
+      "CHINESE_SIMPLIFIED": "啊，总算是得救了。真是的...",
+      "CHINESE_TRADITIONAL": "啊...啊，我終於活過來了。嘖...",
+      "JAPANESE": "ああ、やっと生き返った気がします。ふう…",
+      "INDONESIAN": "Ah, akhirnya lega juga. Hhh...",
+      "PORTUGUESE": "Ah, finalmente, que alívio... uff...",
+      "SPANISH": "Qué alivio… uff…",
+      "PERSIAN": "آخیش... بالاخره نفسم اومد بالا! داشتم هلاک می‌شدم..."
+    }
+  }
+]

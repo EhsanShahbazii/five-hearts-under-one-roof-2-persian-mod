@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에이씨 이건 아니지...!!!",
+      "ENGLISH": "Come on, this is so messed up...!!!",
+      "CHINESE_SIMPLIFIED": "我靠，这真不行啊...！！！",
+      "CHINESE_TRADITIONAL": "Ｘ的！這太扯了啦…！！！",
+      "JAPANESE": "うわぁ、これはないだろ…！！！",
+      "INDONESIAN": "Ayolah, ini kacau banget...!!!",
+      "PORTUGUESE": "Ah, qual é, isso é muito absurdo...!!!",
+      "SPANISH": "¡Maldición! ¡Esto no era...!",
+      "PERSIAN": "بیا این خیلی بهم ریخته...!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "(괴성)",
+      "ENGLISH": "(screams in frustration)",
+      "CHINESE_SIMPLIFIED": "（惨叫）",
+      "CHINESE_TRADITIONAL": "（發出怪聲）",
+      "JAPANESE": "（叫び声）",
+      "INDONESIAN": "(teriak frustasi)",
+      "PORTUGUESE": "(grita de frustração)",
+      "SPANISH": "(Sonido extraño)",
+      "PERSIAN": "(از ناامیدی فریاد می زند)"
+    }
+  }
+]

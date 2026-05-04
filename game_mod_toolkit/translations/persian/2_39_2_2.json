@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 아~ 해.",
+      "ENGLISH": "Here, say ah~",
+      "CHINESE_SIMPLIFIED": "来，张嘴~",
+      "CHINESE_TRADITIONAL": "來，嘴巴張開，啊～",
+      "JAPANESE": "ほら あ〜んして",
+      "INDONESIAN": "Di sini, katakan ah~",
+      "PORTUGUESE": "A ver, diga ah~",
+      "SPANISH": "A ver, di ah~",
+      "PERSIAN": "اینجا، بگو آه~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 순대 안 먹는다고!",
+      "ENGLISH": "Ugh, I told you—I don’t eat sundae!",
+      "CHINESE_SIMPLIFIED": "啊不！我不吃米肠！",
+      "CHINESE_TRADITIONAL": "我說我不吃米腸啦！",
+      "JAPANESE": "あ 私 スンデは食べないって!",
+      "INDONESIAN": "Ugh, sudah kubilang—aku tidak makan es krim!",
+      "PORTUGUESE": "Você sabe que eu não como sundae!",
+      "SPANISH": "¡Sabes que no como sundae!",
+      "PERSIAN": "اوه، من به شما گفتم - من سوند نمی خورم!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "순대 싫어해?",
+      "ENGLISH": "You don’t like sundae?",
+      "CHINESE_SIMPLIFIED": "你讨厌米肠？",
+      "CHINESE_TRADITIONAL": "妳討厭米腸？",
+      "JAPANESE": "スンデ嫌い?",
+      "INDONESIAN": "Kamu tidak suka es krim?",
+      "PORTUGUESE": "Não gosta?",
+      "SPANISH": "¿No te gusta?",
+      "PERSIAN": "شما شنود را دوست ندارید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 옛날부터 순대 못 먹는다고",
+      "ENGLISH": "I’ve always said",
+      "CHINESE_SIMPLIFIED": "我从小就吃不了米肠",
+      "CHINESE_TRADITIONAL": "啊，我不是說過嘛",
+      "JAPANESE": "いや 昔からスンデ食べられないって",
+      "INDONESIAN": "Aku selalu bilang",
+      "PORTUGUESE": "Desde sempre eu te digo",
+      "SPANISH": "Desde siempre te he dicho",
+      "PERSIAN": "من همیشه گفته ام"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.3,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 얘기를 했는데 ",
+      "ENGLISH": "I can’t eat it!",
+      "CHINESE_SIMPLIFIED": "说过多少遍了",
+      "CHINESE_TRADITIONAL": "我從以前就不吃米腸",
+      "JAPANESE": "何度も言ったじゃん",
+      "INDONESIAN": "Aku tidak bisa memakannya!",
+      "PORTUGUESE": "que não consigo comer isso.",
+      "SPANISH": "que no puedo comerlo.",
+      "PERSIAN": "من نمیتونم بخورمش!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 니나 먹어.",
+      "ENGLISH": "Ugh, you eat it.",
+      "CHINESE_SIMPLIFIED": "啊，那你别吃",
+      "CHINESE_TRADITIONAL": "你自己吃吧",
+      "JAPANESE": "じゃあ あんたが食べて",
+      "INDONESIAN": "Ugh, kamu memakannya.",
+      "PORTUGUESE": "Come você.",
+      "SPANISH": "Cómetelo tú.",
+      "PERSIAN": "اوه تو بخور"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "난 맛있는뎅~ ",
+      "ENGLISH": "More for me~",
+      "CHINESE_SIMPLIFIED": "明明这么好吃~",
+      "CHINESE_TRADITIONAL": "我覺得很好吃耶～",
+      "JAPANESE": "俺は美味しいのに〜",
+      "INDONESIAN": "Lebih banyak untukku~",
+      "PORTUGUESE": "Eu gosto.",
+      "SPANISH": "A mí me gusta.",
+      "PERSIAN": "بیشتر برای من ~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에헤헤 내가 먹어야지~",
+      "ENGLISH": "Hehehe, guess I’ll just have to eat it all~",
+      "CHINESE_SIMPLIFIED": "诶嘿嘿，我来吃掉才行~",
+      "CHINESE_TRADITIONAL": "欸嘿嘿，那我就自己吃啦～",
+      "JAPANESE": "えへへ 俺が食べちゃお〜",
+      "INDONESIAN": "Hehehe, kurasa aku harus memakannya semuanya~",
+      "PORTUGUESE": "Hehehe, então mais pra mim.",
+      "SPANISH": "Jejeje entonces más para mí.",
+      "PERSIAN": "هههه، حدس بزن من فقط باید همه رو بخورم~"
+    }
+  }
+]

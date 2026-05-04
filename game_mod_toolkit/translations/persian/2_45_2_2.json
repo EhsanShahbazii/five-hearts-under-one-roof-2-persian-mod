@@ -1,0 +1,145 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아니...",
+      "ENGLISH": "Whoa...",
+      "CHINESE_SIMPLIFIED": "不是...",
+      "CHINESE_TRADITIONAL": "不是啦…",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "Wah...",
+      "PORTUGUESE": "Ei...",
+      "SPANISH": "Oye…",
+      "PERSIAN": "وای..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "엥? 너 표정이 왜 이렇게 썩었어?",
+      "ENGLISH": "Huh? Why the long face?",
+      "CHINESE_SIMPLIFIED": "嗯？你表情怎么这么臭？",
+      "CHINESE_TRADITIONAL": "欸？你的臉色怎麼這麼難看？",
+      "JAPANESE": "ん？ なんか顔、めっちゃ曇ってない？",
+      "INDONESIAN": "Hah? Kenapa wajahnya muram?",
+      "PORTUGUESE": "Por que essa cara triste?",
+      "SPANISH": "¿Por qué la cara larga?",
+      "PERSIAN": "ها؟ چرا صورت دراز؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요? 무슨 일 있었어요?",
+      "ENGLISH": "What’s wrong? Something happen?",
+      "CHINESE_SIMPLIFIED": "怎么了？发生什么事了吗？",
+      "CHINESE_TRADITIONAL": "怎麼了，發生什麼事嗎？",
+      "JAPANESE": "何かあったんですか？",
+      "INDONESIAN": "Ada apa? Ada sesuatu yang terjadi?",
+      "PORTUGUESE": "Me diz, aconteceu alguma coisa?",
+      "SPANISH": "Dime ¿Pasó algo?",
+      "PERSIAN": "چه اشکالی دارد؟ اتفاقی افتاده؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그냥 좀... ",
+      "ENGLISH": "No, I’m just...",
+      "CHINESE_SIMPLIFIED": "没什么就是有点...",
+      "CHINESE_TRADITIONAL": "沒事，只是…",
+      "JAPANESE": "いや、ただちょっと…",
+      "INDONESIAN": "Tidak, aku hanya...",
+      "PORTUGUESE": "Não, é só que...",
+      "SPANISH": "No, solo que…",
+      "PERSIAN": "نه من فقط..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "피곤해서요!",
+      "ENGLISH": "Tired, that’s all.",
+      "CHINESE_SIMPLIFIED": "累了！",
+      "CHINESE_TRADITIONAL": "有點累而已！",
+      "JAPANESE": "疲れただけです！",
+      "INDONESIAN": "Lelah, itu saja.",
+      "PORTUGUESE": "tô um pouco cansado.",
+      "SPANISH": "estoy un poco cansado.",
+      "PERSIAN": "خسته، همین."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "막상 가니까 박민정이 너 쌩깠구나! ",
+      "ENGLISH": "Pfft, I knew it—Park Min-jung totally ignored you, didn’t she?!",
+      "CHINESE_SIMPLIFIED": "真去了才发现朴敏静压根没理你吧！",
+      "CHINESE_TRADITIONAL": "去了之後發現樸敏靜根本不理你吧！",
+      "JAPANESE": "行ったら、パク・ミンジョンに無視されたんでしょ！",
+      "INDONESIAN": "Pfft, aku tahu itu—Park Min-jung benar-benar mengabaikanmu, bukan?!",
+      "PORTUGUESE": "Ah, já sei! Você foi ver a Minjung e ela te ignorou, né?",
+      "SPANISH": "¡Ah, ya sé! Fuiste a ver a Minjung pero te ignoró, ¿verdad?",
+      "PERSIAN": "پف، من میدونستم - پارک مین‌جونگ کاملا تو رو نادیده گرفت، نه؟!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 걔 그럴 줄 알았다.",
+      "ENGLISH": "Knew it! I knew she’d be like that.",
+      "CHINESE_SIMPLIFIED": "我早就知道她会这样",
+      "CHINESE_TRADITIONAL": "我就知道她會那樣",
+      "JAPANESE": "私、あの子そうだと思った！",
+      "INDONESIAN": "Sudah kuduga! Aku tahu dia akan seperti itu.",
+      "PORTUGUESE": "Sabia que isso ia acontecer.",
+      "SPANISH": "Sabía que eso pasaría.",
+      "PERSIAN": "اونو می دانست! میدونستم اون اینطوری میشه"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그런 거 아니거든.",
+      "ENGLISH": "That’s not what happened.",
+      "CHINESE_SIMPLIFIED": "才不是那样啦！",
+      "CHINESE_TRADITIONAL": "才不是那樣",
+      "JAPANESE": "そういうのじゃないから",
+      "INDONESIAN": "Bukan itu yang terjadi.",
+      "PORTUGUESE": "Não foi isso!",
+      "SPANISH": "¡No fue así!",
+      "PERSIAN": "این چیزی نیست که اتفاق افتاده است."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.2,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 박민정이다!!",
+      "ENGLISH": "Huh? That’s Park Min-jung!!",
+      "CHINESE_SIMPLIFIED": "呃？是朴敏静！！",
+      "CHINESE_TRADITIONAL": "呃？是樸敏靜",
+      "JAPANESE": "お！パクミンジョンだ！！",
+      "INDONESIAN": "Hah? Itu Park Min-jung!!",
+      "PORTUGUESE": "Oh? Aquela é a Minjung Park!!",
+      "SPANISH": "¿Oh? Esa es ¡¡Minjung Park!!",
+      "PERSIAN": "ها؟ این پارک مین‌جونگ است!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "던져!",
+      "ENGLISH": "Get her! Throw it!",
+      "CHINESE_SIMPLIFIED": "快扔！",
+      "CHINESE_TRADITIONAL": "快丟！",
+      "JAPANESE": "投げろ！",
+      "INDONESIAN": "Lempar!",
+      "PORTUGUESE": "Peguem ela!",
+      "SPANISH": "¡Deténganla!",
+      "PERSIAN": "اونو بگیر! پرتاب کن!"
+    }
+  }
+]

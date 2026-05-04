@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저 이런 거 처음 먹어 봐요!",
+      "ENGLISH": "I’ve never had something like this before!",
+      "CHINESE_SIMPLIFIED": "我还是第一次吃这种东西！",
+      "CHINESE_TRADITIONAL": "我還是第一次吃這種東西！",
+      "JAPANESE": "私、こういうの食べるの初めてです！",
+      "INDONESIAN": "Aku belum pernah makan yang kayak gini sebelumnya!",
+      "PORTUGUESE": "Eu nunca comi algo assim antes!",
+      "SPANISH": "¡Es la primera vez que pruebo esto!",
+      "PERSIAN": "وای من تا حالا یه همچین چیزی نخورده بودم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래요? 매운데 괜찮겠어요?",
+      "ENGLISH": "Really? It’s spicy—are you sure you’re okay with that?",
+      "CHINESE_SIMPLIFIED": "很辣哦，你确定没问题？",
+      "CHINESE_TRADITIONAL": "是嗎？這很辣欸，你真的沒問題？",
+      "JAPANESE": "そうですか？辛いですけど大丈夫ですか？",
+      "INDONESIAN": "Gitu ya? Ini pedes, kamu yakin nggak apa-apa?",
+      "PORTUGUESE": "É picante, será que você aguenta?",
+      "SPANISH": "¿No importa que esté picante?",
+      "PERSIAN": "جدی میگی؟ خیلی تنده ها، مطمئنی اکی هستی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 그렇게 매워요?",
+      "ENGLISH": "Is it that spicy?",
+      "CHINESE_SIMPLIFIED": "这有那么辣吗？",
+      "CHINESE_TRADITIONAL": "有那麼辣嗎？",
+      "JAPANESE": "これってそんなに辛いんですか？",
+      "INDONESIAN": "Emangnya sepedes itu?",
+      "PORTUGUESE": "É tão apimentado assim?",
+      "SPANISH": "¿Está tan picante?",
+      "PERSIAN": "مگه چقدر تنده آخه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네 지금이라도 우유 사오시는 게 좋을 것 같은데",
+      "ENGLISH": "Yeah, might be smart to grab some milk while you can.",
+      "CHINESE_SIMPLIFIED": "有啊，我觉得你现在去买瓶牛奶会比较好哦",
+      "CHINESE_TRADITIONAL": "嗯，現在去買個牛奶可能比較好喔",
+      "JAPANESE": "はい、今からでも牛乳を買ってきたほうがよさそうだけど",
+      "INDONESIAN": "Iya, mending sekarang juga beli susu deh, kalau nggak kuat.",
+      "PORTUGUESE": "Eu como bem comida apimentada, então está tudo bem.",
+      "SPANISH": "Tal vez sería mejor que vayas a comprar leche.",
+      "PERSIAN": "خیلی! هنوز دیر نشده، تا نسوختی برو یه شیر بخر بیار."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요. 저 매운 거 잘 먹어요.",
+      "ENGLISH": "I’ll be fine. I can handle spicy food.",
+      "CHINESE_SIMPLIFIED": "没关系啦，我挺能吃辣的",
+      "CHINESE_TRADITIONAL": "沒事啦。我很會吃辣的",
+      "JAPANESE": "大丈夫です。私、辛いの得意ですから。",
+      "INDONESIAN": "Nggak apa-apa kok. Aku tahan pedes, serius.",
+      "PORTUGUESE": "Ah, mas, Yuman...",
+      "SPANISH": "Soporto bien el picante, no te preocupes.",
+      "PERSIAN": "بیخیال بابا، تندخور حرفه‌ایم من!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 근데 유만 씨~ ",
+      "ENGLISH": "Oh, but Yuman~",
+      "CHINESE_SIMPLIFIED": "啊，对了，宥万先生～",
+      "CHINESE_TRADITIONAL": "啊，對了，宥萬先生～",
+      "JAPANESE": "あ、でもユマンさ〜ん",
+      "INDONESIAN": "Ah, tapi Yuman~",
+      "PORTUGUESE": "Aquele panfleto que estava em cima da mesa antes?",
+      "SPANISH": "Ah, por cierto.",
+      "PERSIAN": "راستی یومان..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 그 테이블에 있던 전단지.. 그거 뭐예요?",
+      "ENGLISH": "That flyer on the table earlier… what was that?",
+      "CHINESE_SIMPLIFIED": "刚才桌子上那张传单...那是什么啊？",
+      "CHINESE_TRADITIONAL": "剛才桌上的那張傳單…那是什麼啊？",
+      "JAPANESE": "さっきテーブルにあったチラシ…あれ何ですか？",
+      "INDONESIAN": "Selebaran yang di meja tadi itu… itu apa, ya?",
+      "PORTUGUESE": "O que era?",
+      "SPANISH": "Ese folleto en la mesa... ¿qué era?",
+      "PERSIAN": "اون تراکتی که روی میز بود... داستانش چیه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그거요?",
+      "ENGLISH": "Oh, that?",
+      "CHINESE_SIMPLIFIED": "啊那个啊？",
+      "CHINESE_TRADITIONAL": "喔，那個喔？",
+      "JAPANESE": "ああ、あれですか？",
+      "INDONESIAN": "Oh, itu?",
+      "PORTUGUESE": "Não é bico, eu administro uma pensão.",
+      "SPANISH": "Ah... ¿eso?",
+      "PERSIAN": "اون؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 운영하는 하숙집 전단지인데",
+      "ENGLISH": "It’s for the boarding house I run.",
+      "CHINESE_SIMPLIFIED": "是我经营的合租公寓的传单",
+      "CHINESE_TRADITIONAL": "那是我經營的合宿公寓傳單啦",
+      "JAPANESE": "俺が経営している下宿のチラシです",
+      "INDONESIAN": "Itu brosur rumah kos yang aku kelola.",
+      "PORTUGUESE": "Era um panfleto.",
+      "SPANISH": "Un volante de mi pensión.",
+      "PERSIAN": "تبلیغ همون پانسیونیه که خودم مدیریتش رو به عهده دارم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그거 돌리다가 사고났대요.",
+      "ENGLISH": "I actually got into the accident while handing those out.",
+      "CHINESE_SIMPLIFIED": "结果出去发传单的时候出了车祸...",
+      "CHINESE_TRADITIONAL": "說是去發那個的時候出了車禍",
+      "JAPANESE": "それを配っているとき事故にあったみたいで",
+      "INDONESIAN": "Aku kecelakaan pas lagi bagi-bagi itu, katanya.",
+      "PORTUGUESE": "Ele sofreu o acidente enquanto distribuía aquilo.",
+      "SPANISH": "Me dijeron que tuve el accidente mientras los repartía.",
+      "PERSIAN": "راستش سر پخش کردن همونا تصادف کردم و رفتم توی کما."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "크흠..",
+      "ENGLISH": "Ahem…",
+      "CHINESE_SIMPLIFIED": "咳咳…",
+      "CHINESE_TRADITIONAL": "咳咳…",
+      "JAPANESE": "まあ…",
+      "INDONESIAN": "Ehem...",
+      "PORTUGUESE": "Ah, entendi...",
+      "SPANISH": "Entiendo...",
+      "PERSIAN": "هوممم..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 근데 눈 뜨자마자 이런 거 먹어도 돼요?",
+      "ENGLISH": "By the way, is it okay to be eating something like this right after waking up?",
+      "CHINESE_SIMPLIFIED": "但是刚醒过来就能吃这种东西吗？",
+      "CHINESE_TRADITIONAL": "可是剛醒來就吃這種東西沒問題嗎？",
+      "JAPANESE": "ところで、目を覚ましたばかりなのにこんなの食べて大丈夫なんですか？",
+      "INDONESIAN": "Tapi yakin nih baru melek langsung makan yang kayak gini?",
+      "PORTUGUESE": "Mas pode comer isso logo depois de acordar?",
+      "SPANISH": "¿Está bien comer algo así apenas despiertas?",
+      "PERSIAN": "راستی تو تازه چشمتو وا کردی، اصلاً درسته غذای تند بخوری؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 31.9
+    },
+    "SCRIPT": {
+      "KOREAN": "설마 죽기야 하겠어요??",
+      "ENGLISH": "What, you think it’ll kill me?",
+      "CHINESE_SIMPLIFIED": "难道还能吃出人命不成？？",
+      "CHINESE_TRADITIONAL": "又不會死人，怕什麼？",
+      "JAPANESE": "まさかこれで死ぬとかはないですよね？？",
+      "INDONESIAN": "Emangnya aku bakal mati gara-gara ini?",
+      "PORTUGUESE": "Não vou morrer por causa disso, né??",
+      "SPANISH": "Esto no me va a matar~",
+      "PERSIAN": "مگه قراره بمیرم با یه کاسه غذا؟!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이야~ 이게 얼마 만의 매운 거냐..",
+      "ENGLISH": "Man, it’s been forever since I’ve had something this spicy…",
+      "CHINESE_SIMPLIFIED": "哇~我都多久没吃辣的了…",
+      "CHINESE_TRADITIONAL": "哇～好久沒吃到辣了…",
+      "JAPANESE": "いや〜辛いものなんて久しぶりだな…",
+      "INDONESIAN": "Wah~ udah lama banget nggak makan yang pedes gini…",
+      "PORTUGUESE": "Nossa~ fazia quanto tempo que eu não comia um buldak...",
+      "SPANISH": "¡Uff, que tan picante puede estar!",
+      "PERSIAN": "به‌به... نمیدونی چقدر دلم لک زده بود واسه یه غذای تند و آتیشی!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 35.6
+    },
+    "SCRIPT": {
+      "KOREAN": "얼른 먹죠!",
+      "ENGLISH": "Let’s dig in!",
+      "CHINESE_SIMPLIFIED": "赶紧吃吧！",
+      "CHINESE_TRADITIONAL": "快點吃吧！",
+      "JAPANESE": "さあ、早く食べましょう！",
+      "INDONESIAN": "Ayo kita makan!",
+      "PORTUGUESE": "Vamos comer logo!",
+      "SPANISH": "¡Comamos rápido!",
+      "PERSIAN": "بزن بریم تا سرد نشده!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 35.6,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "好！",
+      "CHINESE_TRADITIONAL": "嗯！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "ایول، بزن بریم!"
+    }
+  }
+]

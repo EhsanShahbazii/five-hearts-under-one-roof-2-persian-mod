@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아이고, 이 날씨에 돼지 탈 쓰고 아주 고생이 많으십니다 돼지 님",
+      "ENGLISH": "Wow, wearing that pig costume in this heat? Respect, Mr. Pig.",
+      "CHINESE_SIMPLIFIED": "这么热的天气戴着猪头套工作多难受啊！",
+      "CHINESE_TRADITIONAL": "這麼熱的天氣還戴著豬頭套，您一定很辛苦吧！",
+      "JAPANESE": "この暑さの中 ブタの被り物なんて大変でしょう!",
+      "INDONESIAN": "Wah, pakai kostum babi di cuaca panas begini? Hormat, Pak Babi.",
+      "PORTUGUESE": "Ai, com esse calor e usando essa fantasia de porquinho... deve estar sofrendo, senhor porquinho.",
+      "SPANISH": "Ay, con este calor y usando esa botarga de cerdito… debe estar pasándola fatal, señor cerdito.",
+      "PERSIAN": "وای در این گرما اون لباس خوک را پوشیدی؟ احترام آقای خوک."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 드시고 당 좀 채우세요.",
+      "ENGLISH": "Here, have this—get your sugar levels back up.",
+      "CHINESE_SIMPLIFIED": "吃点这个补充一下糖分吧",
+      "CHINESE_TRADITIONAL": "吃這個補充一下糖分吧",
+      "JAPANESE": "これ食べて糖分補給してください",
+      "INDONESIAN": "Ini, minumlah ini—tingkatkan kembali kadar gulamu.",
+      "PORTUGUESE": "Tome, coma isso pra subir um pouco o açúcar.",
+      "SPANISH": "Tome, coma esto para subir un poco el azúcar.",
+      "PERSIAN": "در اینجا، اینو داشته باشید - سطح قند خود را دوباره بالا ببرید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저 초콜릿 안 좋아하는데요.",
+      "ENGLISH": "I don’t like chocolate.",
+      "CHINESE_SIMPLIFIED": "我不喜欢吃巧克力",
+      "CHINESE_TRADITIONAL": "我不喜歡巧克力",
+      "JAPANESE": "私 チョコレート嫌いなんですけど",
+      "INDONESIAN": "Saya tidak suka coklat.",
+      "PORTUGUESE": "Não gosto de chocolate.",
+      "SPANISH": "No me gusta el chocolate.",
+      "PERSIAN": "من شکلات دوست ندارم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 나 목소리만 들었는데",
+      "ENGLISH": "Man, I’ve only heard your voice,",
+      "CHINESE_SIMPLIFIED": "咦，我才只听了个声音",
+      "CHINESE_TRADITIONAL": "不是啊，我光聽聲音",
+      "JAPANESE": "え 声だけ聞いたのに",
+      "INDONESIAN": "Wah, aku baru mendengar suaramu,",
+      "PORTUGUESE": "Que estranho, só de ouvir sua voz",
+      "SPANISH": "Qué raro, solo con oír su voz",
+      "PERSIAN": "مرد، من فقط صدای تو را شنیده ام،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 이렇게 벌써 우리 친해진 거 같지?",
+      "ENGLISH": "but it feels like we’re already friends.",
+      "CHINESE_SIMPLIFIED": "怎么感觉已经跟你很熟了？",
+      "CHINESE_TRADITIONAL": "怎麼覺得你很熟悉的感覺？",
+      "JAPANESE": "なんかもう仲良くなった気がするなあ",
+      "INDONESIAN": "tapi rasanya kita sudah berteman.",
+      "PORTUGUESE": "já simpatizei com você.",
+      "SPANISH": "ya me cae bien.",
+      "PERSIAN": "اما به نظر می رسد که ما قبلاً با هم دوست هستیم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "평소에 성격 좋다는 얘기 많이 듣죠?",
+      "ENGLISH": "People probably tell you you’re super friendly, huh?",
+      "CHINESE_SIMPLIFIED": "你平时也常被人说性格好吧？",
+      "CHINESE_TRADITIONAL": "你平常是不是常被說個性很好呢？",
+      "JAPANESE": "性格いいってよく言われません?",
+      "INDONESIAN": "Orang-orang mungkin mengatakan kamu sangat ramah, ya?",
+      "PORTUGUESE": "Aposto que as pessoas dizem que você é bem legal, né?",
+      "SPANISH": "Apuesto a que la gente le dice que es muy agradable, ¿verdad?",
+      "PERSIAN": "احتمالاً مردم به شما می گویند که شما فوق العاده دوستانه هستید، نه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하...아니요.",
+      "ENGLISH": "Sigh... not really.",
+      "CHINESE_SIMPLIFIED": "并没有",
+      "CHINESE_TRADITIONAL": "沒有",
+      "JAPANESE": "いいえ",
+      "INDONESIAN": "Huh... tidak juga.",
+      "PORTUGUESE": "Ha... nada disso.",
+      "SPANISH": "Ha… para nada.",
+      "PERSIAN": "آه... نه واقعا."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 아저씨랑 매번 이런 일이 생기는 거죠?",
+      "ENGLISH": "Why does weird stuff always happen whenever I see you?",
+      "CHINESE_SIMPLIFIED": "为什么大叔你老是碰到这种事啊？",
+      "CHINESE_TRADITIONAL": "大叔，為什麼你身上總是發生這種事啊？",
+      "JAPANESE": "なんでおじさんって毎回こんなことになるんですか?",
+      "INDONESIAN": "Mengapa hal aneh selalu terjadi setiap kali aku melihatmu?",
+      "PORTUGUESE": "Por que sempre acontecem essas coisas quando você tá por perto?",
+      "SPANISH": "¿Por qué siempre me pasan cosas así cuando usted está cerca?",
+      "PERSIAN": "چرا هر وقت تو را می بینم چیزهای عجیب و غریب اتفاق می افتد؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 저요? ",
+      "ENGLISH": "Huh? Me?",
+      "CHINESE_SIMPLIFIED": "嗯？我吗？",
+      "CHINESE_TRADITIONAL": "欸？說我嗎？",
+      "JAPANESE": "え? 俺ですか?",
+      "INDONESIAN": "Hah? Aku?",
+      "PORTUGUESE": "Hã? Comigo?",
+      "SPANISH": "¿Eh? ¿Conmigo?",
+      "PERSIAN": "ها؟ من؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "절 알아요?",
+      "ENGLISH": "Do we know each other?",
+      "CHINESE_SIMPLIFIED": "您认识我？",
+      "CHINESE_TRADITIONAL": "妳認識我嗎？",
+      "JAPANESE": "俺のこと知ってるんですか?",
+      "INDONESIAN": "Apakah kita saling kenal?",
+      "PORTUGUESE": "A gente se conhece?",
+      "SPANISH": "¿Nos conocemos?",
+      "PERSIAN": "ما همدیگر را می شناسیم؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유정 씨!",
+      "ENGLISH": "Wait—Yoo-jung?!",
+      "CHINESE_SIMPLIFIED": "呃？有情小姐？",
+      "CHINESE_TRADITIONAL": "欸？有情小姐？",
+      "JAPANESE": "あっ ユジョン?",
+      "INDONESIAN": "Tunggu—Yoo-jung?!",
+      "PORTUGUESE": "Hã? Senhorita Yujeong?",
+      "SPANISH": "¿Eh? ¿Señorita Yujeong?",
+      "PERSIAN": "صبر کن-یو جونگ؟!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "안 된다는데 왜 자꾸 이러시는 거예요?",
+      "ENGLISH": "Why do you keep pushing when I said no?",
+      "CHINESE_SIMPLIFIED": "都说了不行，干嘛还死缠烂打的",
+      "CHINESE_TRADITIONAL": "都說不行了，你為什麼一直死纏爛打！",
+      "JAPANESE": "ダメだって言ってるのに なんで無理するんですか",
+      "INDONESIAN": "Mengapa kamu terus memaksa saat aku bilang tidak?",
+      "PORTUGUESE": "Tô dizendo que não pode entrar, por que insiste?",
+      "SPANISH": "Le estoy diciendo que no puede entrar, ¿por qué insiste?",
+      "PERSIAN": "چرا وقتی من نه گفتم به زور زدن ادامه می دهید؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.5,
+      "HIDE": 37.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 오빠!",
+      "ENGLISH": "Yuman oppa!",
+      "CHINESE_SIMPLIFIED": "宥万哥哥！",
+      "CHINESE_TRADITIONAL": "宥萬哥哥！",
+      "JAPANESE": "ユマンお兄さん!",
+      "INDONESIAN": "Yuman oppa!",
+      "PORTUGUESE": "Yuman oppa!",
+      "SPANISH": "¡Yumán Oppa!",
+      "PERSIAN": "یومان یومان!"
+    }
+  }
+]

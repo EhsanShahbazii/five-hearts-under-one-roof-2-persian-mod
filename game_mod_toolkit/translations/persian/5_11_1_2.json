@@ -1,0 +1,271 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "꺄아아악!!!",
+      "ENGLISH": "KYAAAAHHH!!!",
+      "CHINESE_SIMPLIFIED": "呀啊啊啊——！！！",
+      "CHINESE_TRADITIONAL": "呃啊啊啊！！！",
+      "JAPANESE": "きゃああああっ！！！",
+      "INDONESIAN": "KYAAAAHHH!!!",
+      "PORTUGUESE": "KYAAAA!!!",
+      "SPANISH": "¡¡¡KYAAAA!!!",
+      "PERSIAN": "کیااااه!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay??",
+      "CHINESE_SIMPLIFIED": "你没事吧？",
+      "CHINESE_TRADITIONAL": "你沒事吧？",
+      "JAPANESE": "大丈夫ですか！？",
+      "INDONESIAN": "Kamu nggak apa-apa??",
+      "PORTUGUESE": "Você tá bem?",
+      "SPANISH": "¿Estás bien?",
+      "PERSIAN": "حالت خوبه؟؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 잡아줬어야 됐는데.",
+      "ENGLISH": "I should’ve caught you…",
+      "CHINESE_SIMPLIFIED": "我应该及时扶住你的...",
+      "CHINESE_TRADITIONAL": "我應該要抓住你的",
+      "JAPANESE": "俺が支えてあげればよかったのに",
+      "INDONESIAN": "Harusnya tadi aku nangkep kamu…",
+      "PORTUGUESE": "Devia ter te segurado.",
+      "SPANISH": "Debí haberte atrapado.",
+      "PERSIAN": "باید می گرفتمت…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨.",
+      "ENGLISH": "Yu-na…",
+      "CHINESE_SIMPLIFIED": "有娜小姐",
+      "CHINESE_TRADITIONAL": "有娜小姐",
+      "JAPANESE": "ユナさん",
+      "INDONESIAN": "Yu-na…",
+      "PORTUGUESE": "Yuna...",
+      "SPANISH": "Yuna...",
+      "PERSIAN": "یونا…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "윽..창피하니깐 그만 좀 물어보죠?",
+      "ENGLISH": "Ugh… can we not talk about it? It’s embarrassing.",
+      "CHINESE_SIMPLIFIED": "呃...别一直问啦，好丢脸！",
+      "CHINESE_TRADITIONAL": "嗚...太丟臉了，你先別問了好嗎？",
+      "JAPANESE": "うっ…恥ずかしいからもう聞かないでくださいね？",
+      "INDONESIAN": "Ugh… bisa nggak sih jangan dibahas? Malu tau…",
+      "PORTUGUESE": "Pode parar de falar disso? Que vergonha.",
+      "SPANISH": "¿Puedes dejar de hablar de eso? Es vergonozoso.",
+      "PERSIAN": "اوه ... نمی توانیم در مورد اون صحبت کنیم؟ خجالت آور است"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.9,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 일으켜 줄게요",
+      "ENGLISH": "Here, I’ll help you up.",
+      "CHINESE_SIMPLIFIED": "我扶你起来吧",
+      "CHINESE_TRADITIONAL": "那我扶你起來吧",
+      "JAPANESE": "俺が起こしますね",
+      "INDONESIAN": "Sini, aku bantu berdiri.",
+      "PORTUGUESE": "Deixa eu te ajudar.",
+      "SPANISH": "Déjame ayudarte.",
+      "PERSIAN": "در اینجا، من به شما کمک می کنم تا بالا بیایید."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 그 뒤로 좀 돌아줘요.",
+      "ENGLISH": "No—just… turn around for a sec.",
+      "CHINESE_SIMPLIFIED": "不用，你转过去就好",
+      "CHINESE_TRADITIONAL": "不用...麻煩你轉過去",
+      "JAPANESE": "いや、後ろ向いててください",
+      "INDONESIAN": "Nggak—cuma… tolong balik badan dulu.",
+      "PORTUGUESE": "Não, só vira pra lá um pouquinho.",
+      "SPANISH": "No, solo voltéate un rato.",
+      "PERSIAN": "نه - فقط... برای یک ثانیه بچرخید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "나 혼자서 일어나게 ",
+      "ENGLISH": "I’ll get up on my own.",
+      "CHINESE_SIMPLIFIED": "我自己能起来",
+      "CHINESE_TRADITIONAL": "讓我一個人站起來",
+      "JAPANESE": "自分で起きますから",
+      "INDONESIAN": "Aku bisa bangun sendiri.",
+      "PORTUGUESE": "Eu consigo me levantar sozinha.",
+      "SPANISH": "Puedo levantarme sola.",
+      "PERSIAN": "من خودم بلند میشم"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮은데",
+      "ENGLISH": "You sure?",
+      "CHINESE_SIMPLIFIED": "没事的啦",
+      "CHINESE_TRADITIONAL": "沒關係啦",
+      "JAPANESE": "大丈夫なのに",
+      "INDONESIAN": "Yakin?",
+      "PORTUGUESE": "Tá bom...",
+      "SPANISH": "Está bien...",
+      "PERSIAN": "مطمئنی؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 뭐가 창피해요 ",
+      "ENGLISH": "There’s nothing embarrassing about it.",
+      "CHINESE_SIMPLIFIED": "这有什么好丢人的",
+      "CHINESE_TRADITIONAL": "有什麼好丟臉的",
+      "JAPANESE": "これのどこが恥ずかしいんですか",
+      "INDONESIAN": "Nggak ada yang memalukan kok.",
+      "PORTUGUESE": "Mas não tem por que se envergonhar.",
+      "SPANISH": "Pero no tienes de que avergonzarte.",
+      "PERSIAN": "هیچ چیز شرم آور در مورد اون وجود ندارد."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "일어났어요?",
+      "ENGLISH": "You up?",
+      "CHINESE_SIMPLIFIED": "起来了吗？",
+      "CHINESE_TRADITIONAL": "站起來了嗎？",
+      "JAPANESE": "起きました？",
+      "INDONESIAN": "Udah berdiri?",
+      "PORTUGUESE": "Já levantou?",
+      "SPANISH": "¿Te levantaste?",
+      "PERSIAN": "تو بالا؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.7,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "큼",
+      "ENGLISH": "Clears throat",
+      "CHINESE_SIMPLIFIED": "咳",
+      "CHINESE_TRADITIONAL": "咳",
+      "JAPANESE": "んっ",
+      "INDONESIAN": "(Batuk pelan)",
+      "PORTUGUESE": "Aham.",
+      "SPANISH": "Ajá.",
+      "PERSIAN": "گلو را صاف می کند"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 27.7
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "You okay?",
+      "CHINESE_SIMPLIFIED": "没事吧？",
+      "CHINESE_TRADITIONAL": "你沒事吧？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu oke?",
+      "PORTUGUESE": "Tá bem?",
+      "SPANISH": "¿Estás bien?",
+      "PERSIAN": "شما خوبی؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 29.4
+    },
+    "SCRIPT": {
+      "KOREAN": "마저 가죠?",
+      "ENGLISH": "Let’s just keep going.",
+      "CHINESE_SIMPLIFIED": "我们继续走吧？",
+      "CHINESE_TRADITIONAL": "我們繼續走吧？",
+      "JAPANESE": "このまま行きましょう？",
+      "INDONESIAN": "Lanjut jalan aja yuk.",
+      "PORTUGUESE": "Vamos continuar, tá?",
+      "SPANISH": "Sigamos, ¿sí?",
+      "PERSIAN": "فقط ادامه بدیم"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 33.0
+    },
+    "SCRIPT": {
+      "KOREAN": "- 아아아아악!!!!\n- 으아아아아!!!!",
+      "ENGLISH": "— AAAAAAHHHH!!!\n— WAAAAAAHHHHH!!!",
+      "CHINESE_SIMPLIFIED": "-啊啊啊啊啊！！！\n-呃啊啊啊啊！！！",
+      "CHINESE_TRADITIONAL": "-啊啊啊啊啊！！！！\n-呃啊啊啊啊！！！！",
+      "JAPANESE": "‐あああああ！！！\n‐うあああああ！！！",
+      "INDONESIAN": "— AAAAAAHHHH!!!\n— WAAAAAAHHHHH!!!",
+      "PORTUGUESE": "— AAAAAAHHHH!!!\n— AAAAAAHHHHH!!!",
+      "SPANISH": "— ¡¡¡AAAAAAHHHH!!!\n— ¡¡¡AAAAAAHHHHH!!!",
+      "PERSIAN": "- واااای!!! - وااااااااااااااااااااااااااااااااااااااااااا!!!"
+    }
+  }
+]

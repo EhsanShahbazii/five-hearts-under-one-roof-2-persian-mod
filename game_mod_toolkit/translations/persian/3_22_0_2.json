@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저, 우리 내일 더 찾아보는걸로 하고",
+      "ENGLISH": "Hey, how about we keep looking tomorrow—",
+      "CHINESE_SIMPLIFIED": "那个，我们明天再接着找吧",
+      "CHINESE_TRADITIONAL": "那，我們明天再繼續找吧",
+      "JAPANESE": "あの 今日はこのへんにして 明日また探しましょうか",
+      "INDONESIAN": "Hei, bagaimana kalau kita terus mencari besok—",
+      "PORTUGUESE": "Então… por que a gente não continua procurando amanhã?",
+      "SPANISH": "Entonces… ¿por qué no seguimos buscando mañana?",
+      "PERSIAN": "هی، چطوره که فردا به جستجو ادامه دهیم-"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "민정님은 먼저 집 들어갈래요?",
+      "ENGLISH": "You should head home for now, Min-jung.",
+      "CHINESE_SIMPLIFIED": "敏静你先回家好吗？",
+      "CHINESE_TRADITIONAL": "敏靜你先回家好嗎？",
+      "JAPANESE": "ミンジョンさんは先に帰りますか？",
+      "INDONESIAN": "Sebaiknya kau pulang sekarang, Min-jung.",
+      "PORTUGUESE": "Quer ir pra casa primeiro, Minjung?",
+      "SPANISH": "¿Quieres irte a casa primero, Minjung?",
+      "PERSIAN": "فعلا باید به خونه برگردی، مین‌جونگ."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 오빠는요?",
+      "ENGLISH": "Huh? What about you?",
+      "CHINESE_SIMPLIFIED": "嗯？哥哥你呢？",
+      "CHINESE_TRADITIONAL": "欸？ 哥哥你呢？",
+      "JAPANESE": "え？ お兄さんは？",
+      "INDONESIAN": "Hah? Bagaimana denganmu?",
+      "PORTUGUESE": "Hã? E você, oppa?",
+      "SPANISH": "¿Eh? ¿Y tú, oppa?",
+      "PERSIAN": "ها؟ شما چطور؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": " 저는 급하게 갈 곳이 생겨서...",
+      "ENGLISH": "Something came up, I’ve gotta run.",
+      "CHINESE_SIMPLIFIED": "我突然有急事要处理...",
+      "CHINESE_TRADITIONAL": "我臨時有急事要趕去一個地方...",
+      "JAPANESE": "ちょっと急ぎの用事を思い出して…",
+      "INDONESIAN": "Ada sesuatu yang terjadi, aku harus pergi.",
+      "PORTUGUESE": "Eu preciso ir a um lugar com urgência...",
+      "SPANISH": "Tengo que ir a un lugar con urgencia...",
+      "PERSIAN": "چیزی پیش آمد، من باید بدوم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이따 집에서 봐요!",
+      "ENGLISH": "I’ll see you back at the house later!",
+      "CHINESE_SIMPLIFIED": "等下家里见！",
+      "CHINESE_TRADITIONAL": "等一下家裡見囉！",
+      "JAPANESE": "また後で家で会いましょう！",
+      "INDONESIAN": "Sampai jumpa lagi di rumah nanti!",
+      "PORTUGUESE": "A gente se vê em casa mais tarde, tá?",
+      "SPANISH": "Nos vemos en casa más tarde, ¿sí?",
+      "PERSIAN": "بعداً تو را در خونه می بینم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "으웅... 오빠...!",
+      "ENGLISH": "Hmm... Oppa...!",
+      "CHINESE_SIMPLIFIED": "唔...哥哥...！",
+      "CHINESE_TRADITIONAL": "嗯...哥哥...!",
+      "JAPANESE": "うぅん… お兄さん…！",
+      "INDONESIAN": "Hmm... Oppa...!",
+      "PORTUGUESE": "Hã... oppa...",
+      "SPANISH": "Mmm... oppa...",
+      "PERSIAN": "هوم... یومان...!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠아~!!",
+      "ENGLISH": "Oppaaa~!!",
+      "CHINESE_SIMPLIFIED": "哥哥啊~！！",
+      "CHINESE_TRADITIONAL": "哥哥～！！",
+      "JAPANESE": "おにいさ〜ん！！",
+      "INDONESIAN": "Oppa~!!",
+      "PORTUGUESE": "Oppaaa~!!",
+      "SPANISH": "¡Oppaaa~!!",
+      "PERSIAN": "اوپاااا~!!"
+    }
+  }
+]

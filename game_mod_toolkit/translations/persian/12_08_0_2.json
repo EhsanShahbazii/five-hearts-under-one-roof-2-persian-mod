@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨는 무조건 행복했으면 싶은 사람?",
+      "ENGLISH": "Is Yujeong someone you just want to be happy?",
+      "CHINESE_SIMPLIFIED": "有情是...我希望一定要幸福的人",
+      "CHINESE_TRADITIONAL": "有情是...我希望一定要幸福的人",
+      "JAPANESE": "ユジョンさんは、“絶対に幸せになってほしい人”です。",
+      "INDONESIAN": "Kamu itu orang yang aku pengen banget lihat bahagia",
+      "PORTUGUESE": "Alguém que eu quero que seja feliz?",
+      "SPANISH": "¿Alguien que quiero que sea feliz?",
+      "PERSIAN": "یو-جونگ کسی است که فقط می خواهید شاد باشید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "本当ですか？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 사실 편의점이나 병원에서 처음 봤을 때는 뭐랄까...",
+      "ENGLISH": "Yeah, honestly, when I first saw her at the convenience store or hospital, it was like...",
+      "CHINESE_SIMPLIFIED": "嗯，其实最初在便利店和医院见到你时，该怎么说呢...",
+      "CHINESE_TRADITIONAL": "嗯，其實一開始在超商和醫院見到你，該怎麽說呢...",
+      "JAPANESE": "ええ。実は最初、コンビニとか病院で見かけた時は、",
+      "INDONESIAN": "Iya. Jujur aja, waktu pertama kali lihat kamu di minimarket atau rumah sakit",
+      "PORTUGUESE": "Sim. Da primeira vez que te vi na loja ou no hospital, não sei bem como explicar...",
+      "SPANISH": "Sí. La primera vez que la vi en la tienda o en el hospital, no sé cómo explicarlo…",
+      "PERSIAN": "آره، راستش، وقتی برای اولین بار اونو در فروشگاه یا بیمارستان دیدم، انگار..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭔가 웃는 모습이 상상이 잘 안갔거든요",
+      "ENGLISH": "I couldn't really picture her smiling.",
+      "CHINESE_SIMPLIFIED": "很难想象你笑起来的样子",
+      "CHINESE_TRADITIONAL": "很難想像你笑起來的樣子",
+      "JAPANESE": "あまり笑顔が想像できなかったんですよ。",
+      "INDONESIAN": "Entah kenapa... aku susah ngebayangin kamu tersenyum",
+      "PORTUGUESE": "mas não conseguia te imaginar sorrindo.",
+      "SPANISH": "pero no podía imaginarte sonriendo.",
+      "PERSIAN": "من واقعا نمی توانستم اونو در حال خندان تصویر کنم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あぁ…。",
+      "INDONESIAN": "Ah...",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "آه..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 고양이를 쓰다듬으면서 행복해 한다거나",
+      "ENGLISH": "But seeing her happy while petting a cat,",
+      "CHINESE_SIMPLIFIED": "但看到你抚摸猫咪时露出幸福的表情",
+      "CHINESE_TRADITIONAL": "但看到你摸貓咪時，露出幸福的表情",
+      "JAPANESE": "でも、猫を撫でながら幸せそうにしてる姿とか、",
+      "INDONESIAN": "Tapi waktu lihat kamu senyum pas lagi elus kucing",
+      "PORTUGUESE": "Mas quando te vi com o Blacky,",
+      "SPANISH": "Pero cuando te vi con Blacky,",
+      "PERSIAN": "اما دیدن خوشحالی او در حین نوازش گربه،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "점점 밝아지는 모습을 보는데",
+      "ENGLISH": "or watching her gradually brighten up,",
+      "CHINESE_SIMPLIFIED": "看到你一点点变得开朗",
+      "CHINESE_TRADITIONAL": "看到你一點點變得開朗",
+      "JAPANESE": "少しずつ明るくなっていく表情を見ていたら、",
+      "INDONESIAN": "Atau waktu kamu mulai kelihatan lebih cerah",
+      "PORTUGUESE": "vi como aos poucos você foi se abrindo mais,",
+      "SPANISH": "vi cómo poco a poco te abrías más,",
+      "PERSIAN": "یا تماشای او که به تدریج درخشان می شود،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 23.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이 사람이 정말 행복해진다면 어떤 모습일까,",
+      "ENGLISH": "I started wondering—",
+      "CHINESE_SIMPLIFIED": "我就会想，这人真正幸福时会是什么模样",
+      "CHINESE_TRADITIONAL": "我就會想，這人真正幸福時會是什麽模樣",
+      "JAPANESE": "この人が本当に幸せになったらどんな顔をするんだろう、",
+      "INDONESIAN": "Aku jadi mikir",
+      "PORTUGUESE": "e me perguntei:",
+      "SPANISH": "me pregunté:",
+      "PERSIAN": "شروع کردم به تعجب -"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이 사람을 행복하게 만들어줄 사람은 누구일까",
+      "ENGLISH": "what would she look like if she were truly happy?",
+      "CHINESE_SIMPLIFIED": "能让她幸福的人，又会是谁呢？",
+      "CHINESE_TRADITIONAL": "能讓她幸福的人，又會是誰呢？",
+      "JAPANESE": "この人を幸せにできるのは誰なんだろうって、",
+      "INDONESIAN": "Kira-kira kalau kamu bener-bener bahagia, kamu bakal kayak apa ya",
+      "PORTUGUESE": "como seria te ver realmente feliz?",
+      "SPANISH": "¿cómo sería verte realmente feliz?",
+      "PERSIAN": "اگر واقعا خوشحال بود چه شکلی می شد؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "궁금해지더라고요!",
+      "ENGLISH": "Who could make this person happy?",
+      "CHINESE_SIMPLIFIED": "越来越想知道这些！",
+      "CHINESE_TRADITIONAL": "越來越想知道這些！",
+      "JAPANESE": "気になったんです。",
+      "INDONESIAN": "Dan siapa ya orang yang bisa bikin kamu sebahagia itu",
+      "PORTUGUESE": "E também... quem seria a pessoa capaz de te fazer feliz?",
+      "SPANISH": "Y también... ¿quién sería la persona capaz de hacerte feliz?",
+      "PERSIAN": "چه کسی می تواند این شخص را خوشحال کند؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "전 이미 만난 거 같은데.",
+      "ENGLISH": "I feel like I've already met that person.",
+      "CHINESE_SIMPLIFIED": "我觉得好像已经遇到了",
+      "CHINESE_TRADITIONAL": "我覺得好像已經遇到了",
+      "JAPANESE": "もう、出会ってる気がするんですけどね。",
+      "INDONESIAN": "Aku jadi pengin tahu",
+      "PORTUGUESE": "Acho que eu já conheci essa pessoa.",
+      "SPANISH": "Creo que ya conocí a esa persona.",
+      "PERSIAN": "احساس می کنم قبلاً اون شخص را ملاقات کرده ام."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 33.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저 행복하게 만들어줄 사람.",
+      "ENGLISH": "The one who'll make me happy.",
+      "CHINESE_SIMPLIFIED": "那个能让我幸福的人",
+      "CHINESE_TRADITIONAL": "那個能讓我幸福的人",
+      "JAPANESE": "私を幸せにしてくれる人。",
+      "INDONESIAN": "Tapi kayaknya...Aku udah ketemu orang yang bisa bikin aku bahagia",
+      "PORTUGUESE": "A pessoa que pode me fazer feliz.",
+      "SPANISH": "A la persona que puede hacerme feliz.",
+      "PERSIAN": "اونی که منو خوشحال میکنه"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 35.4,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "Hah? Siapa?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  }
+]

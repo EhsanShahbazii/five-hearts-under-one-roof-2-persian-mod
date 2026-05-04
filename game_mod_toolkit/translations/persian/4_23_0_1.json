@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 그게 !!",
+      "ENGLISH": "I…!!",
+      "CHINESE_SIMPLIFIED": "我、我觉得...！",
+      "CHINESE_TRADITIONAL": "我覺得那個...！！",
+      "JAPANESE": "俺はですね!!",
+      "INDONESIAN": "A-aku…!!",
+      "PORTUGUESE": "Pra mim...!!",
+      "SPANISH": "¡Para mí...!!",
+      "PERSIAN": "من…!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직히! 옷만 봤을 때는 평범한가 했는데",
+      "ENGLISH": "Honestly, just looking at the clothes, I thought they were pretty ordinary,",
+      "CHINESE_SIMPLIFIED": "说实话！单看衣服觉得挺普通的",
+      "CHINESE_TRADITIONAL": "老實說！ 光看衣服還以為很普通",
+      "JAPANESE": "正直、服だけ見たときは普通かなって思ったんですけど",
+      "INDONESIAN": "Terus terang, waktu cuma lihat bajunya aja sih kelihatannya biasa aja,",
+      "PORTUGUESE": "As roupas em si não eram nada fora do comum,",
+      "SPANISH": "La ropa así no más no era nada fuera de lo común,",
+      "PERSIAN": "راستش، فقط به لباس ها نگاه کردم، فکر کردم خیلی معمولی هستند،"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "확실히 과장님이 입으니까 느낌이 딱 오는데요? ",
+      "ENGLISH": "but seeing you wear them, Manager, it really works!",
+      "CHINESE_SIMPLIFIED": "但科长一穿上感觉就来了呢？",
+      "CHINESE_TRADITIONAL": "但是穿在課長身上，感覺馬上就出來了耶？",
+      "JAPANESE": "課長が着たら一気に雰囲気が変わって！今回の新作も絶対ヒットすると思います!!",
+      "INDONESIAN": "tapi begitu Manajer yang pakai, langsung kelihatan bagus banget!",
+      "PORTUGUESE": "mas em você, elas pareciam mil vezes melhores.",
+      "SPANISH": "pero se veía mil veces mejor cuando usted la usaba.",
+      "PERSIAN": "اما وقتی می بینم اونا رو می پوشی، مدیر، واقعاً کار می کند!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이번 제품들도 대박 날 거 같습니다!!",
+      "ENGLISH": "I think these new products are going to be a hit too!!",
+      "CHINESE_SIMPLIFIED": "这次的产品肯定也会大卖的！！",
+      "CHINESE_TRADITIONAL": "這次的產品一定也會大賣的！！",
+      "JAPANESE": "ウソンさんはどう？",
+      "INDONESIAN": "Aku rasa produk-produk baru ini juga bakal laku keras!!",
+      "PORTUGUESE": "Acho que essa nova linha vai ser um sucesso total!",
+      "SPANISH": "¡Creo que esta nueva línea va a ser un éxito total!",
+      "PERSIAN": "من فکر می کنم این محصولات جدید نیز قرار است موفق شوند!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "우선 씨 생각은 어때?",
+      "ENGLISH": "Woo-sun, what do you think?",
+      "CHINESE_SIMPLIFIED": "优先，你怎么想？",
+      "CHINESE_TRADITIONAL": "宇善你覺得呢？",
+      "JAPANESE": "は、はいっ！私も同じ意見です！",
+      "INDONESIAN": "Woo-sun, menurutmu gimana?",
+      "PORTUGUESE": "E você, o que acha, Woo-seon?",
+      "SPANISH": "¿Y tú qué opinas, Woo-seon?",
+      "PERSIAN": "وو سان، نظر شما چیه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 예! 저도 같은 생각입니다!",
+      "ENGLISH": "Ah… yes! I feel the same way!",
+      "CHINESE_SIMPLIFIED": "啊...是的！我也这么认为！",
+      "CHINESE_TRADITIONAL": "啊...是的！我也這麼認為！",
+      "JAPANESE": "あ…はい！俺も同じ考えです！",
+      "INDONESIAN": "Ah… iya! Aku juga ngerasa gitu!",
+      "PORTUGUESE": "Ah… sim, penso exatamente o mesmo.",
+      "SPANISH": "Ah… sí, pienso exactamente lo mismo.",
+      "PERSIAN": "آه… بله! منم همین حس رو دارم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨는 끝나고 나 좀 보죠.",
+      "ENGLISH": "Yuman, check in with me after we’re done.",
+      "CHINESE_SIMPLIFIED": "吴宥万，结束后我们单独聊一下",
+      "CHINESE_TRADITIONAL": "宥萬，結束後來找我一下",
+      "JAPANESE": "ユマンさん、あとでちょっと話しましょうか",
+      "INDONESIAN": "Yuman, ketemu aku abis semuanya selesai ya.",
+      "PORTUGUESE": "Quando terminarmos, quero falar com você um momento, Yuman.",
+      "SPANISH": "Cuando terminemos, quiero hablar contigo un momento, Yumán.",
+      "PERSIAN": "یومان، بعد از اتمام کار با من تماس بگیرید."
+    }
+  }
+]

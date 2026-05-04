@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어어 이건 아니지...!!!",
+      "ENGLISH": "No, no, this isn’t right...!!!",
+      "CHINESE_SIMPLIFIED": "哎哟，这可不行啊...！！！",
+      "CHINESE_TRADITIONAL": "呃呃，這不是真的吧…！！！",
+      "JAPANESE": "いや、これはマジでないって…！！！",
+      "INDONESIAN": "Nggak, nggak, ini nggak bener...!!!",
+      "PORTUGUESE": "Hã... não, não, isso não tá certo…!",
+      "SPANISH": "Eh... no, no, ¡esto no está bien…!",
+      "PERSIAN": "نه نه این درست نیست...!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 내가 왜 고말숙 연애를 막아...?",
+      "ENGLISH": "But like—why am I even trying to stop Go Mal-sook from dating...?",
+      "CHINESE_SIMPLIFIED": "不过我为什么要阻止高末淑谈恋爱啊...？",
+      "CHINESE_TRADITIONAL": "不過…我幹嘛要阻止高末淑談戀愛啊？",
+      "JAPANESE": "でもなんで俺、コ・マルスクの恋愛を邪魔してんだ…？",
+      "INDONESIAN": "Tapi kayak—kenapa juga aku repot-repot ngehalangin Go Mal-sook pacaran...?",
+      "PORTUGUESE": "Mas por que eu tô tentando impedir a Malsook de sair com alguém…?",
+      "SPANISH": "Pero, ¿por qué estoy tratando de impedir que Malsook salga con alguien…?",
+      "PERSIAN": "اما مثلاً چرا من حتی سعی می کنم از قرار ملاقات گو مال‌سوک جلوگیری کنم...؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙이는 예쁘니깐 남친 같은 거 생길 수도 있는데",
+      "ENGLISH": "She’s pretty, of course she might get a boyfriend.",
+      "CHINESE_SIMPLIFIED": "末淑那么漂亮，交个男朋友也很正常",
+      "CHINESE_TRADITIONAL": "末淑這麼漂亮，有男朋友也很正常",
+      "JAPANESE": "マルスクは可愛いいから彼氏できてもおかしくないのに…",
+      "INDONESIAN": "Dia cantik, ya wajar aja kalau dia punya pacar.",
+      "PORTUGUESE": "Ela é bonita, claro que pode ter namorado se quiser...",
+      "SPANISH": "Es linda, claro que puede tener novio si quiere...",
+      "PERSIAN": "او زیباست، البته ممکنه دوست پسر پیدا کند."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.2,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 모르겠다 집에 가자 ",
+      "ENGLISH": "Ugh, whatever. I’m just going home.",
+      "CHINESE_SIMPLIFIED": "哎呀，不管了，回家吧",
+      "CHINESE_TRADITIONAL": "算了，管他的，回家吧",
+      "JAPANESE": "もういいや　帰ろ",
+      "INDONESIAN": "Ugh, terserahlah. Aku pulang aja.",
+      "PORTUGUESE": "Ah, chega, esquece. Melhor eu ir pra casa.",
+      "SPANISH": "Ay, ya, olvídalo. Mejor me voy a casa.",
+      "PERSIAN": "اوه، هر چی باشه من فقط دارم میرم خونه"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "에효...",
+      "ENGLISH": "Sigh...",
+      "CHINESE_SIMPLIFIED": "唉...",
+      "CHINESE_TRADITIONAL": "唉…",
+      "JAPANESE": "はぁ…",
+      "INDONESIAN": "Hela napas...",
+      "PORTUGUESE": "(Suspiro)",
+      "SPANISH": "(Suspiro)",
+      "PERSIAN": "آه..."
+    }
+  }
+]

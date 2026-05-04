@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "헉, 닭이다",
+      "ENGLISH": "Gasp—there’s a chicken.",
+      "CHINESE_SIMPLIFIED": "咦，有只鸡！",
+      "CHINESE_TRADITIONAL": "欸，有一隻雞",
+      "JAPANESE": "あ、ニワトリだ",
+      "INDONESIAN": "Hah—itu ada ayam.",
+      "PORTUGUESE": "Olha, um frango.",
+      "SPANISH": "Mire, un pollo.",
+      "PERSIAN": "نفس نفس زدن - یک مرغ وجود دارد."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "으아아악!!!!",
+      "ENGLISH": "AAAAAAAHHHH!!!",
+      "CHINESE_SIMPLIFIED": "呜啊啊啊——！！！",
+      "CHINESE_TRADITIONAL": "呃啊啊啊啊！！！！",
+      "JAPANESE": "うわあああああっ！！！",
+      "INDONESIAN": "AAAAAAAHHHH!!!",
+      "PORTUGUESE": "Aaaahhh!!",
+      "SPANISH": "¡¡Aaaahhh!!",
+      "PERSIAN": "واااای!!!"
+    }
+  }
+]

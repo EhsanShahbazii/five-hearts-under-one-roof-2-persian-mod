@@ -1,0 +1,271 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "완전 멋있어요! 완전 달라 보여요.",
+      "ENGLISH": "You look amazing! You feel totally different.",
+      "CHINESE_SIMPLIFIED": "哇，帅呆了！你整个人感觉都不一样了！",
+      "CHINESE_TRADITIONAL": "超級帥耶！整個人感覺完全都不一樣了",
+      "JAPANESE": "めっちゃかっこよかったです！ まるで別人みたい！",
+      "INDONESIAN": "Kamu keliatan keren banget! Rasanya kamu beda total.",
+      "PORTUGUESE": "Você tá incrível! Parece uma pessoa completamente diferente!",
+      "SPANISH": "¡Te ves increíble! ¡Pareces una persona completamente diferente!",
+      "PERSIAN": "شما شگفت انگیز به نظر می رسید! شما کاملا احساس متفاوتی دارید"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜요??",
+      "ENGLISH": "Really??",
+      "CHINESE_SIMPLIFIED": "真的吗？？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんとに？？",
+      "INDONESIAN": "Serius??",
+      "PORTUGUESE": "Sério??",
+      "SPANISH": "¿De verdad??",
+      "PERSIAN": "واقعا؟؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "当然！",
+      "CHINESE_TRADITIONAL": "當然！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.2,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "계속 노는 거 같았는데 이런 건 또 언제 준비한 거예요?",
+      "ENGLISH": "I thought you were just goofing around lately — when did you prepare all this?",
+      "CHINESE_SIMPLIFIED": "看你平时总在玩，这是什么时候准备的啊？",
+      "CHINESE_TRADITIONAL": "平常看起來總像在玩，這種事又是什麼時候準備的？",
+      "JAPANESE": "ずっと遊んでるのかと思ってたのに、こんなのいつ準備してたんですか？",
+      "INDONESIAN": "Aku kira kamu lagi iseng aja belakangan ini — sejak kapan nyiapin semua ini?",
+      "PORTUGUESE": "Parecia que você só ficava brincando, quando é que preparou tudo isso?",
+      "SPANISH": "Parecía que solo te la pasabas jugando, ¿cuándo preparaste todo esto?",
+      "PERSIAN": "فکر می‌کردم اخیراً در حال مسخره کردن هستید - چه زمانی این همه را آماده کردید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 이젠 나아가야 되니까",
+      "ENGLISH": "I need to move forward too,",
+      "CHINESE_SIMPLIFIED": "我也得往前走了嘛",
+      "CHINESE_TRADITIONAL": "我也要往前走了嘛",
+      "JAPANESE": "私ももう前に進まなきゃと思って",
+      "INDONESIAN": "Aku juga harus maju,",
+      "PORTUGUESE": "Já tava na hora de seguir em frente,",
+      "SPANISH": "Ya era hora de avanzar,",
+      "PERSIAN": "من هم باید جلو بروم،"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐라도 좀 준비해본 거죠.",
+      "ENGLISH": "so I figured I should prepare something.",
+      "CHINESE_SIMPLIFIED": "就稍微准备了点东西",
+      "CHINESE_TRADITIONAL": "所以才準備點東西",
+      "JAPANESE": "何かやってみたんですよ",
+      "INDONESIAN": "jadi kupikir ya harus mulai nyiapin sesuatu.",
+      "PORTUGUESE": "então… quis preparar alguma coisa.",
+      "SPANISH": " así que… quise preparar algo.",
+      "PERSIAN": "بنابراین فکر کردم باید چیزی آماده کنم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아주 좋은 스타튼데요?",
+      "ENGLISH": "It’s a really good start, you know?",
+      "CHINESE_SIMPLIFIED": "这起步非常不错啊？",
+      "CHINESE_TRADITIONAL": "是個不錯的開始呢？",
+      "JAPANESE": "すごくいいスタートだと思います！",
+      "INDONESIAN": "Ini awal yang bagus banget, tahu nggak?",
+      "PORTUGUESE": "É um ótimo começo.",
+      "SPANISH": "Es un muy buen comienzo.",
+      "PERSIAN": "واقعاً شروع خوبی است، می دانید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "다행이다... 이제 좀 어른이 된 거 같아요!",
+      "ENGLISH": "Thank goodness… I finally feel like I’m becoming an adult.",
+      "CHINESE_SIMPLIFIED": "太好了…我觉得自己终于有点大人样了！",
+      "CHINESE_TRADITIONAL": "太好了... 我現在好像有點像個大人了！",
+      "JAPANESE": "よかった…やっとちょっと大人になった気がします",
+      "INDONESIAN": "Syukurlah… akhirnya aku ngerasa mulai jadi orang dewasa.",
+      "PORTUGUESE": "Que alívio… sinto que finalmente tô virando uma adulta.",
+      "SPANISH": "Qué alivio… siento que por fin me estoy volviendo una adulta.",
+      "PERSIAN": "خدا را شکر... بالاخره احساس می کنم دارم بالغ می شوم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.0,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 진짜 인정해 드릴게요.",
+      "ENGLISH": "I’ll genuinely acknowledge you today.",
+      "CHINESE_SIMPLIFIED": "今天真心给你点赞！",
+      "CHINESE_TRADITIONAL": "今天真心認可妳喔！",
+      "JAPANESE": "今日はほんとに認めますよ",
+      "INDONESIAN": "Hari ini aku bakal ngakuin kamu beneran.",
+      "PORTUGUESE": "Hoje eu realmente reconheço isso.",
+      "SPANISH": "Hoy sí que te lo reconozco.",
+      "PERSIAN": "من امروز واقعاً شما را تصدیق خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 머리 쓰담쓰담 해 주세요.",
+      "ENGLISH": "Then pat my head.",
+      "CHINESE_SIMPLIFIED": "那快摸摸头奖励我~",
+      "CHINESE_TRADITIONAL": "那快摸摸我的頭獎勵我",
+      "JAPANESE": "じゃあ、頭なでなでしてください",
+      "INDONESIAN": "Kalau gitu elus kepalaku dong.",
+      "PORTUGUESE": "Então faz um carinho na minha cabeça, por favor.",
+      "SPANISH": "Entonces acaríciame la cabeza, por favor.",
+      "PERSIAN": "سپس دستی به سرم بزن"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이구 잘했어요~ 우리 유나 씨~",
+      "ENGLISH": "Aigoo, well done~ our Yu-na~",
+      "CHINESE_SIMPLIFIED": "哎哟真棒~ 我们有娜最棒了~",
+      "CHINESE_TRADITIONAL": "哎呀～做得好～ 我們有娜真棒～",
+      "JAPANESE": "よしよし、よくできました〜ユナさん〜",
+      "INDONESIAN": "Aigoo, pinter banget~ Yuna kita~",
+      "PORTUGUESE": "Ai, muito bem, Yunita~",
+      "SPANISH": "Ay, muy bien hecho, Yunita~",
+      "PERSIAN": "ایگو، آفرین ~ یو نا~ ما"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 아 맞다, 근데 유만 씨 병원 가야 된다고 하지 않았어요?",
+      "ENGLISH": "Oh! Right — didn’t you say you had to go to the hospital, Yuman?",
+      "CHINESE_SIMPLIFIED": "啊！对了，你不是说要去医院吗？",
+      "CHINESE_TRADITIONAL": "啊！對了，你不是說要去醫院嗎？",
+      "JAPANESE": "あ、そういえばユマンさん、病院行くって言ってませんでした？",
+      "INDONESIAN": "Oh! Iya — kamu tadi bilang harus ke rumah sakit, kan, Yuman?",
+      "PORTUGUESE": "Ah! É mesmo, você não disse que tinha que ir pro hospital, Yumán?",
+      "SPANISH": "¡Ah! Cierto, ¿no dijiste que tenías que ir al hospital, Yumán?",
+      "PERSIAN": "اوه! درست است - نگفتی باید به بیمارستان بروی، یومان؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.7,
+      "HIDE": 33.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 지금 몇 시지??",
+      "ENGLISH": "Oh! What time is it??",
+      "CHINESE_SIMPLIFIED": "哦！现在几点了？？",
+      "CHINESE_TRADITIONAL": "對！現在幾點了？？",
+      "JAPANESE": "あっ！今何時だ？",
+      "INDONESIAN": "Eh! Sekarang jam berapa??",
+      "PORTUGUESE": "Ah! Que horas são??",
+      "SPANISH": "¡Ah! ¿Qué hora es??",
+      "PERSIAN": "اوه! ساعت چنده؟؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 35.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저 먼저 일어날게요!",
+      "ENGLISH": "I’ll head out first!",
+      "CHINESE_SIMPLIFIED": "我先走一步啦！",
+      "CHINESE_TRADITIONAL": "我先走了！",
+      "JAPANESE": "俺、先に行きますね！",
+      "INDONESIAN": "Aku berangkat duluan ya!",
+      "PORTUGUESE": "Preciso ir agora!",
+      "SPANISH": "¡Me tengo que ir ya!",
+      "PERSIAN": "اول میرم بیرون!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.3,
+      "HIDE": 37.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 집에서 봐요!",
+      "ENGLISH": "Ah! See you at home!",
+      "CHINESE_SIMPLIFIED": "啊！家里见！",
+      "CHINESE_TRADITIONAL": "嗯！回家再見！",
+      "JAPANESE": "あ！家で会いましょう！",
+      "INDONESIAN": "Ah! Sampai ketemu di rumah!",
+      "PORTUGUESE": "A gente se vê em casa!",
+      "SPANISH": "¡Nos vemos en casa!",
+      "PERSIAN": "آه! در خونه می بینمت!"
+    }
+  }
+]

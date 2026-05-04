@@ -1,0 +1,289 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 0.6
+    },
+    "SCRIPT": {
+      "KOREAN": "몰라요?",
+      "ENGLISH": "You don’t know?",
+      "CHINESE_SIMPLIFIED": "你不认识吗？",
+      "CHINESE_TRADITIONAL": "你不知道嗎？",
+      "JAPANESE": "知らないですか？",
+      "INDONESIAN": "Kamu tidak tahu?",
+      "PORTUGUESE": "Não se lembra?",
+      "SPANISH": "¿No lo recuerda?",
+      "PERSIAN": "شما نمی دانید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 들어오려다가 ",
+      "ENGLISH": "He was the one arguing",
+      "CHINESE_SIMPLIFIED": "刚才我想进来的时候",
+      "CHINESE_TRADITIONAL": "剛剛我想進來",
+      "JAPANESE": "さっき入ろうとして",
+      "INDONESIAN": "Dialah yang berdebat",
+      "PORTUGUESE": "Há pouco, quando eu tentei entrar,",
+      "SPANISH": "Hace un rato, cuando intentaba entrar,",
+      "PERSIAN": "او بود که دعوا می کرد"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이분이랑 실랑이하고 있었던 건데요?",
+      "ENGLISH": "with this guy at the door earlier.",
+      "CHINESE_SIMPLIFIED": "就是和这位小姐在拉扯来看？",
+      "CHINESE_TRADITIONAL": "就是跟這位在外面吵架啊？",
+      "JAPANESE": "この人とちょっと揉めてたんです",
+      "INDONESIAN": "dengan orang ini di pintu tadi.",
+      "PORTUGUESE": "a gente teve um pequeno desentendimento.",
+      "SPANISH": "tuvimos un pequeño altercado.",
+      "PERSIAN": "با این مرد قبل از درب."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음~ 전 그쪽 아는데. ",
+      "ENGLISH": "Hmm~ I know you though.",
+      "CHINESE_SIMPLIFIED": "嗯~我认识你！",
+      "CHINESE_TRADITIONAL": "嗯～我知道",
+      "JAPANESE": "ふふ〜私はあなた知ってますよ",
+      "INDONESIAN": "Hmm~ Tapi aku mengenalmu.",
+      "PORTUGUESE": "Mas a gente se conhecia antes disso...",
+      "SPANISH": "Nos conocemos antes de eso...",
+      "PERSIAN": "هوم~ من تو را می شناسم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 무대에 계셨잖아요!",
+      "ENGLISH": "You were up on stage just now, right?",
+      "CHINESE_SIMPLIFIED": "你刚才也在舞台上嘛！",
+      "CHINESE_TRADITIONAL": "你剛剛也在舞台上嘛！",
+      "JAPANESE": "さっきステージにいましたよね！",
+      "INDONESIAN": "Bukannya kamu baru saja naik ke panggung, kan?",
+      "PORTUGUESE": "Você tava no palco, né?!",
+      "SPANISH": "¡Estaba en el escenario, ¿verdad?!",
+      "PERSIAN": "شما همین الان روی صحنه بودید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 네 맞아요. ",
+      "ENGLISH": "Ah, yeah. That was me.",
+      "CHINESE_SIMPLIFIED": "啊，是的没错",
+      "CHINESE_TRADITIONAL": "啊，是沒錯",
+      "JAPANESE": "あ、はい そうです",
+      "INDONESIAN": "Ah, ya. Itu aku.",
+      "PORTUGUESE": "Ah, sim, isso mesmo.",
+      "SPANISH": "Ah, sí, así es.",
+      "PERSIAN": "آه، آره اون من بودم"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요...",
+      "ENGLISH": "Hi...",
+      "CHINESE_SIMPLIFIED": "您好...",
+      "CHINESE_TRADITIONAL": "你好...",
+      "JAPANESE": "こんにちは…",
+      "INDONESIAN": "Hai...",
+      "PORTUGUESE": "Oi...",
+      "SPANISH": "Hola…",
+      "PERSIAN": "سلام..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 몇 살이에요? ",
+      "ENGLISH": "By the way, how old are you?",
+      "CHINESE_SIMPLIFIED": "不过你多大了呀？",
+      "CHINESE_TRADITIONAL": "不過你幾歲了呢？",
+      "JAPANESE": "ところで、何歳なんですか？",
+      "INDONESIAN": "Ngomong-ngomong, berapa umurmu?",
+      "PORTUGUESE": "Mas, quantos anos você tem?",
+      "SPANISH": "Pero, ¿cuántos años tienes?",
+      "PERSIAN": "در ضمن چند سالته؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "엄청 어려보이는데.",
+      "ENGLISH": "You look super young.",
+      "CHINESE_SIMPLIFIED": "看起来好年轻啊",
+      "CHINESE_TRADITIONAL": "看起來好年輕啊",
+      "JAPANESE": "すごく若く見えるけど",
+      "INDONESIAN": "Anda terlihat sangat muda.",
+      "PORTUGUESE": "Você parece superjovem.",
+      "SPANISH": "Te ves súper joven.",
+      "PERSIAN": "شما فوق العاده جوان به نظر می رسید."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아..저 스물 두 살이요...",
+      "ENGLISH": "Oh... I’m 22.",
+      "CHINESE_SIMPLIFIED": "啊...我二十二岁...",
+      "CHINESE_TRADITIONAL": "啊...我22歲...",
+      "JAPANESE": "あ…私、22歳です",
+      "INDONESIAN": "Oh... umurku 22 tahun.",
+      "PORTUGUESE": "Ah... tenho vinte e dois.",
+      "SPANISH": "Ah… tengo veintidós.",
+      "PERSIAN": "اوه ... من 22 هستم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "스물 두 살? ",
+      "ENGLISH": "22?",
+      "CHINESE_SIMPLIFIED": "二十二岁？",
+      "CHINESE_TRADITIONAL": "22歲？",
+      "JAPANESE": "22!?",
+      "INDONESIAN": "22?",
+      "PORTUGUESE": "Vinte e dois?",
+      "SPANISH": "¿Veintidós?",
+      "PERSIAN": "22؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 귀엽다!",
+      "ENGLISH": "That’s cute!",
+      "CHINESE_SIMPLIFIED": "太可爱了吧！",
+      "CHINESE_TRADITIONAL": "太可愛了吧！",
+      "JAPANESE": "すっごく可愛い〜！",
+      "INDONESIAN": "Lucu sekali!",
+      "PORTUGUESE": "Que fofa!",
+      "SPANISH": "¡Qué ternura!",
+      "PERSIAN": "این ناز است!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼 이렇게 된 거, 밥이라도 먹고 가요!",
+      "ENGLISH": "Well, since you’re here, you might as well join us for a meal!",
+      "CHINESE_SIMPLIFIED": "总之既然都这样了，至少一起吃个饭再走吧！",
+      "CHINESE_TRADITIONAL": "既然都已經這樣了，吃個飯再走吧！",
+      "JAPANESE": "せっかくだしご飯でも食べていきましょうよ！",
+      "INDONESIAN": "Baiklah, karena kamu udah di sini, kita makan bareng aja!",
+      "PORTUGUESE": "Enfim, já que estamos aqui, fica pra comer com a gente.",
+      "SPANISH": "En fin, ya que estamos aquí, quédate a comer con nosotros.",
+      "PERSIAN": "خوب، از آنجایی که شما اینجا هستید، ممکنه برای یک وعده غذایی به ما بپیوندید!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 24.2,
+      "HIDE": 25.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Eh...",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah…",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 먹고가요~ 응?",
+      "ENGLISH": "Come on, eat with us~ yeah?",
+      "CHINESE_SIMPLIFIED": "哎呀吃了再走嘛~嗯？",
+      "CHINESE_TRADITIONAL": "不要這樣嘛，吃了飯再走～好嗎？",
+      "JAPANESE": "え〜いいじゃないですか〜ね？",
+      "INDONESIAN": "Ayo, makan bersama kami~ ya?",
+      "PORTUGUESE": "Tem que comer antes de ir embora.",
+      "SPANISH": "Tienes que comer antes de irte.",
+      "PERSIAN": "بیا با ما بخور ~ آره؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 감사합니다.",
+      "ENGLISH": "O-Okay... thank you.",
+      "CHINESE_SIMPLIFIED": "好的...谢谢您",
+      "CHINESE_TRADITIONAL": "好...謝謝你",
+      "JAPANESE": "はい…ありがとうございます",
+      "INDONESIAN": "O-Oke... terima kasih.",
+      "PORTUGUESE": "Ah... tá bom.",
+      "SPANISH": "Eh... está bien.",
+      "PERSIAN": "اوکی... ممنون."
+    }
+  }
+]

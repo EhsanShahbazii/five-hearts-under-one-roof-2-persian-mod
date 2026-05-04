@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 유나 씨 비즈니스 파트너입니다.",
+      "ENGLISH": "I’m Yu-na’s business partner.",
+      "CHINESE_SIMPLIFIED": "我是有娜小姐的商业合伙人",
+      "CHINESE_TRADITIONAL": "我是有娜小姐的生意合夥人",
+      "JAPANESE": "僕はユナさんのビジネスパートナーです",
+      "INDONESIAN": "Aku partner bisnisnya Yu-na.",
+      "PORTUGUESE": "Sou parceiro de negócios da Yuna.",
+      "SPANISH": "Soy socio de negocios de Yuna.",
+      "PERSIAN": "من شریک تجاری یونا هستم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "비즈니스 파트너요? ",
+      "ENGLISH": "…Business partner?",
+      "CHINESE_SIMPLIFIED": "商业合伙人？",
+      "CHINESE_TRADITIONAL": "生意合夥人？",
+      "JAPANESE": "ビジネスパートナー？",
+      "INDONESIAN": "…Partner bisnis?",
+      "PORTUGUESE": "Parceiro de negócios?",
+      "SPANISH": "¿Socio de negocios?",
+      "PERSIAN": "... شریک تجاری؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 교제 하는 사이가 아니라?",
+      "ENGLISH": "So — you’re not in a relationship?",
+      "CHINESE_SIMPLIFIED": "呵，那不是恋人关系？",
+      "CHINESE_TRADITIONAL": "哈，不是在交往的關係嗎？",
+      "JAPANESE": "じゃあ、恋人じゃなくて？",
+      "INDONESIAN": "Jadi — kalian nggak pacaran?",
+      "PORTUGUESE": "Haha… então vocês não estão namorando?",
+      "SPANISH": "Ja… ¿entonces no están saliendo?",
+      "PERSIAN": "بنابراین - شما در یک رابطه نیستید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네. 유나 씨와 사업을 같이 준비하고 있습니다.",
+      "ENGLISH": "Correct. Yu-na and I are preparing a business together.",
+      "CHINESE_SIMPLIFIED": "嗯，我们正在一起筹备事业",
+      "CHINESE_TRADITIONAL": "我正在和有娜小姐一起準備事業發展",
+      "JAPANESE": "はい、ユナさんと一緒に事業を準備しています",
+      "INDONESIAN": "Benar. Aku dan Yu-na lagi nyiapin usaha bareng.",
+      "PORTUGUESE": "Não. Estamos preparando um projeto juntos.",
+      "SPANISH": "No. Estamos preparando un proyecto juntos.",
+      "PERSIAN": "درست است. من و یونا در حال آماده سازی یک تجارت با هم هستیم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "걱정하시는 그런 사이 아닙니다.",
+      "ENGLISH": "It’s not the kind of relationship you’re worried about.",
+      "CHINESE_SIMPLIFIED": "不是您担心的那种关系",
+      "CHINESE_TRADITIONAL": "不是您擔心的那種關係",
+      "JAPANESE": "ご心配されているような関係ではありません",
+      "INDONESIAN": "Bukan hubungan kayak yang Ibu khawatirkan.",
+      "PORTUGUESE": "Não é o tipo de relação com a qual a senhora precisa se preocupar.",
+      "SPANISH": "No es el tipo de relación por la que debería preocuparse.",
+      "PERSIAN": "این نوع رابطه ای نیست که شما نگران اون باشید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "난 걱정이라기보다는...",
+      "ENGLISH": "It’s not worry that I—",
+      "CHINESE_SIMPLIFIED": "我并不是担心...",
+      "CHINESE_TRADITIONAL": "我也不是擔心這個...",
+      "JAPANESE": "心配というよりは…",
+      "INDONESIAN": "Bukan soal khawatir aku tuh—",
+      "PORTUGUESE": "Não diria que estou preocupada, mas…",
+      "SPANISH": "No diría que me preocupo, pero…",
+      "PERSIAN": "نگران این نیست که من -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 그랬잖아...! 그냥 파트너라구...",
+      "ENGLISH": "I told you, didn’t I…! We’re just partners…",
+      "CHINESE_SIMPLIFIED": "我不是说了吗...只是合伙人而已...",
+      "CHINESE_TRADITIONAL": "我不是說了嗎...只是生意夥伴而已",
+      "JAPANESE": "言ったでしょ…ただのパートナーだって…",
+      "INDONESIAN": "Aku udah bilang, kan…! Kita cuma partner…",
+      "PORTUGUESE": "Como eu disse… somos apenas parceiros!",
+      "SPANISH": "¡Como le digo… Solo somos socios!",
+      "PERSIAN": "بهت گفتم مگه نه…! ما فقط شریکیم…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이번 발표도 같이 준비해봤는데 ",
+      "ENGLISH": "We prepared this presentation together,",
+      "CHINESE_SIMPLIFIED": "这次汇报我们也一起准备了",
+      "CHINESE_TRADITIONAL": "這次簡報的發表，也是我們一起準備的",
+      "JAPANESE": "今回の発表も一緒に準備したんですが",
+      "INDONESIAN": "Kita nyiapin presentasi ini bareng,",
+      "PORTUGUESE": "Também trabalhamos juntos nessa apresentação,",
+      "SPANISH": "También trabajamos juntos en esta presentación,",
+      "PERSIAN": "ما این ارائه را با هم آماده کردیم،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "만족하셨으면 좋겠습니다.",
+      "ENGLISH": "and I hope it met your expectations.",
+      "CHINESE_SIMPLIFIED": "希望您能满意",
+      "CHINESE_TRADITIONAL": "希望您能滿意",
+      "JAPANESE": "気に入ってもらえたなら嬉しいです",
+      "INDONESIAN": "dan aku harap hasilnya sesuai harapan Ibu.",
+      "PORTUGUESE": "espero que tenha ficado satisfeita.",
+      "SPANISH": "espero que haya quedado satisfecha.",
+      "PERSIAN": "و امیدوارم انتظارات شما را برآورده کند."
+    }
+  }
+]

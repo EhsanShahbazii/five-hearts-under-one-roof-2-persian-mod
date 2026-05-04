@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "고양이 좋아하죠! 귀엽잖아요.",
+      "ENGLISH": "Yeah, I like cats! They’re cute.",
+      "CHINESE_SIMPLIFIED": "我当然喜欢猫啦！多可爱呀",
+      "CHINESE_TRADITIONAL": "我喜歡貓啊！牠們多可愛啊！",
+      "JAPANESE": "猫 好きですよ! 可愛いじゃないですか",
+      "INDONESIAN": "Ya, aku suka kucing! Mereka lucu.",
+      "PORTUGUESE": "Claro que eu gosto! Eles são muito fofos.",
+      "SPANISH": "¡Claro que me gustan! Son muy lindos.",
+      "PERSIAN": "آره، من گربه ها را دوست دارم! اونا ناز هستند"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "（表情が和らぎながら）あ〜",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Aham...",
+      "SPANISH": "Ajá...",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 고양이들이 절 싫어하는 거 같더라고요.",
+      "ENGLISH": "But I feel like cats don’t really like me...",
+      "CHINESE_SIMPLIFIED": "不过好像猫都不太喜欢我",
+      "CHINESE_TRADITIONAL": "但是貓好像都不太喜歡我",
+      "JAPANESE": "でも 猫って俺のこと嫌いみたいで…",
+      "INDONESIAN": "Tapi aku merasa kucing-kucing tidak begitu menyukaiku...",
+      "PORTUGUESE": "Mas acho que os gatinhos é que não gostam de mim.",
+      "SPANISH": "Pero creo que yo no le gusto a los gatitos.",
+      "PERSIAN": "اما من احساس می کنم گربه ها واقعاً من را دوست ندارند ..."
+    }
+  }
+]

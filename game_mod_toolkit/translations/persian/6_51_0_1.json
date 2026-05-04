@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "고생 많았어요. ",
+      "ENGLISH": "You worked really hard.",
+      "CHINESE_SIMPLIFIED": "你辛苦了",
+      "CHINESE_TRADITIONAL": "辛苦了",
+      "JAPANESE": "お疲れさまでした",
+      "INDONESIAN": "Kamu udah berjuang keras banget.",
+      "PORTUGUESE": "Você foi muito forte.",
+      "SPANISH": "Fuiste muy fuerte.",
+      "PERSIAN": "واقعا زحمت کشیدی"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "힘들었을 텐데 잘 버텨줘서 고마워요.",
+      "ENGLISH": "Thank you for holding on even though it must’ve been difficult.",
+      "CHINESE_SIMPLIFIED": "一定很累吧，谢谢你一直撑到现在",
+      "CHINESE_TRADITIONAL": "妳一定很累吧，但謝謝妳有堅持下來",
+      "JAPANESE": "つらかったでしょうに、よく耐えてくれてありがとう",
+      "INDONESIAN": "Makasih ya, udah bertahan walaupun pasti berat.",
+      "PORTUGUESE": "Sei que foi difícil, mas obrigado por aguentar firme.",
+      "SPANISH": "Sé que fue difícil, pero gracias por aguantarlo.",
+      "PERSIAN": "از شما ممنونم که ادامه دادید حتی اگر این کار سخت بوده باشد."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 진짜 고마워요...",
+      "ENGLISH": "Oppa… thank you so much…",
+      "CHINESE_SIMPLIFIED": "哥哥，真的谢谢你…",
+      "CHINESE_TRADITIONAL": "哥哥，真的謝謝你...",
+      "JAPANESE": "お兄さん、本当にありがとう…",
+      "INDONESIAN": "Oppa… makasih banyak…",
+      "PORTUGUESE": "Oppa, de verdade… obrigada.",
+      "SPANISH": "Oppa, de verdad… gracias.",
+      "PERSIAN": "یومان… خیلی ممنون…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 밤은 편하게 잘 수 있을 거 같아요.",
+      "ENGLISH": "I think I’ll finally be able to sleep peacefully tonight.",
+      "CHINESE_SIMPLIFIED": "今晚我应该能安心睡一觉了",
+      "CHINESE_TRADITIONAL": "今晚我好像可以放心地睡個好覺了",
+      "JAPANESE": "今夜はゆっくり眠れそうです",
+      "INDONESIAN": "Kayaknya malam ini aku akhirnya bisa tidur dengan tenang.",
+      "PORTUGUESE": "Acho que essa noite finalmente vou conseguir dormir tranquila.",
+      "SPANISH": "Creo que esta noche por fin podré dormir tranquila.",
+      "PERSIAN": "فکر می کنم بالاخره امشب بتوانم آرام بخوابم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다 오빠 덕분이에요.",
+      "ENGLISH": "It’s all thanks to you.",
+      "CHINESE_SIMPLIFIED": "这全都是多亏了你",
+      "CHINESE_TRADITIONAL": "這都多虧了你",
+      "JAPANESE": "全部お兄さんのおかげです",
+      "INDONESIAN": "Semua ini berkat kamu.",
+      "PORTUGUESE": "Tudo isso foi graças a você.",
+      "SPANISH": "Todo esto fue gracias a ti.",
+      "PERSIAN": "این همه به لطف شماست"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 그럼 잘 자요!",
+      "ENGLISH": "Then… good night, oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥，那晚安啦！",
+      "CHINESE_TRADITIONAL": "哥哥，晚安囉！",
+      "JAPANESE": "じゃあ、おやすみなさい！",
+      "INDONESIAN": "Kalau gitu… selamat tidur ya, oppa!",
+      "PORTUGUESE": "Já vou indo… boa noite!",
+      "SPANISH": "Ya me voy... ¡buenas noches!",
+      "PERSIAN": "سپس... شب بخیر، یومان!"
+    }
+  }
+]

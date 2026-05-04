@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그린 중에서도 ‘포레스트 그린’이지 않았나?",
+      "ENGLISH": "Wasn’t it more like... forest green?",
+      "CHINESE_SIMPLIFIED": "是绿色系里的“森林绿”没错吧？",
+      "CHINESE_TRADITIONAL": "是一種叫森林綠的綠，對吧？",
+      "JAPANESE": "グリーンの中でも、“フォレストグリーン”じゃなかった？",
+      "INDONESIAN": "Bukankah lebih seperti... hijau hutan?",
+      "PORTUGUESE": "Me parece que eran de un color verde bosque.",
+      "SPANISH": "Me parece que eran de un color \"verde bosque\".",
+      "PERSIAN": "بیشتر شبیه ... سبز جنگلی نبود؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 어떻게 알았어?",
+      "ENGLISH": "Wait—how’d you know?!",
+      "CHINESE_SIMPLIFIED": "诶？你怎么知道的？",
+      "CHINESE_TRADITIONAL": "哦？你怎麼知道？",
+      "JAPANESE": "え？ なんでわかったの？",
+      "INDONESIAN": "Tunggu—bagaimana kau tahu?!",
+      "PORTUGUESE": "¿Eh? Como você soube?",
+      "SPANISH": "¿Eh?¿Cómo lo supiste?",
+      "PERSIAN": "صبر کن - از کجا فهمیدی؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 어떻게 알긴 양말 봤으니까 알지. ",
+      "ENGLISH": "Uh, ‘cause I saw the socks?",
+      "CHINESE_SIMPLIFIED": "啊~这还用问吗，我看了袜子当然知道啊",
+      "CHINESE_TRADITIONAL": "怎麼會不知道，我看到襪子就知道啦",
+      "JAPANESE": "そりゃあ分かるでしょ、靴下見たんだから",
+      "INDONESIAN": "Uh, karena aku melihat kaus kaki?",
+      "PORTUGUESE": "Obviamente porque eu vi as meias.",
+      "SPANISH": "Obviamente porque vi los calcetines.",
+      "PERSIAN": "اوه، چون جوراب ها را دیدم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "녹색인데 약~간 자연의 색이  있는 게 ",
+      "ENGLISH": "It was green, but with that earthy, natural vibe—",
+      "CHINESE_SIMPLIFIED": "那种带点~自然气息的绿色",
+      "CHINESE_TRADITIONAL": "綠色中又帶著一點～自然氣息的那種",
+      "JAPANESE": "緑だけど、ちょっと自然の色が混ざった感じで",
+      "INDONESIAN": "Warnanya hijau, tapi dengan nuansa alami dan membumi—",
+      "PORTUGUESE": "Eram verdes com um toque natural...",
+      "SPANISH": "Eran verdes con un toque como de naturaleza...",
+      "PERSIAN": "سبز بود، اما با اون حال و هوای خاکی و طبیعی-"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "딱 '포레스트 그린'이야~",
+      "ENGLISH": "Totally forest green.",
+      "CHINESE_SIMPLIFIED": "分明就是“森林绿”嘛~",
+      "CHINESE_TRADITIONAL": "就是森林綠嘛～",
+      "JAPANESE": "まさに“フォレストグリーン”って感じ〜",
+      "INDONESIAN": "Sepenuhnya hijau hutan.",
+      "PORTUGUESE": "Exatamente como verde floresta.",
+      "SPANISH": "Justo como \"verde bosque\".",
+      "PERSIAN": "کاملا سبز جنگلی"
+    }
+  }
+]

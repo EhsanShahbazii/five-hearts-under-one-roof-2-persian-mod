@@ -1,0 +1,68 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "SHOW": 3,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요...!",
+      "PERSIAN": "سلام...!"
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 4,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "PERSIAN": "آیا؟"
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 5,
+      "HIDE": 6
+    },
+    "SCRIPT": {
+      "KOREAN": "저 좀 도와주세요",
+      "PERSIAN": "لطفا به من کمک کنید"
+    }
+  },
+  {
+    "INDEX": 4,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 8
+    },
+    "SCRIPT": {
+      "KOREAN": "발목을 삐어서 도저히 못 걷겠어요.",
+      "PERSIAN": "مچ پایم پیچ خورده و نمی توانم راه بروم."
+    }
+  },
+  {
+    "INDEX": 5,
+    "TIME": {
+      "SHOW": 9,
+      "HIDE": 11
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 나 지금 빨리 가봐야 되는데…",
+      "PERSIAN": "اه الان باید سریع برم..."
+    }
+  },
+  {
+    "INDEX": 6,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12
+    },
+    "SCRIPT": {
+      "KOREAN": "어떡하지..",
+      "PERSIAN": "چیکار کنم.."
+    }
+  }
+]

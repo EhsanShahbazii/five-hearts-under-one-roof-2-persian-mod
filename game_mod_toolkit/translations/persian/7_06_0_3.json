@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍… 아, 난 좀 반댄데.",
+      "ENGLISH": "tss… Ah, I’m kind of against it, though.",
+      "CHINESE_SIMPLIFIED": "嘶...我其实有点反对",
+      "CHINESE_TRADITIONAL": "呃...我其實有點反對",
+      "JAPANESE": "うーん…俺はちょっと反対かな",
+      "INDONESIAN": "Tss… ah, aku sih agak nggak setuju.",
+      "PORTUGUESE": "Tss… ah, eu discordo um pouco.",
+      "SPANISH": "Tss… ah, yo estoy un poco en desacuerdo.",
+      "PERSIAN": "فش… آه، من یک جورهایی با اون مخالفم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그치 아무래도 좀 그렇지?",
+      "ENGLISH": "Right? It’s a bit much, isn’t it?",
+      "CHINESE_SIMPLIFIED": "对吧，还是有点不太合适吧？",
+      "CHINESE_TRADITIONAL": "對吧，還是有點不太合適吧？",
+      "JAPANESE": "まあ、やっぱりそうだよね？",
+      "INDONESIAN": "Iya, kan? Emang agak berlebihan, ya?",
+      "PORTUGUESE": "É mesmo? É que sim, é meio estranho.",
+      "SPANISH": "¿Verdad? Es que sí, es medio raro.",
+      "PERSIAN": "درسته؟ کمی زیاد است، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 먼저 보여주는 게 어때?",
+      "ENGLISH": "How about you show me first, then?",
+      "CHINESE_SIMPLIFIED": "不如现在就提前适应看看？",
+      "CHINESE_TRADITIONAL": "不然現在先讓我看看怎麼樣？",
+      "JAPANESE": "じゃあ、まず見せてみるのはどう？",
+      "INDONESIAN": "Gimana kalau kamu tunjukin dulu deh?",
+      "PORTUGUESE": "Que tal se você me mostrar primeiro?",
+      "SPANISH": "¿Qué tal si me lo muestras primero?",
+      "PERSIAN": "بعد اول به من نشون میدی چطور؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "…Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "…Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "… ها؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 노출 있는 옷 연습 지금 해보자",
+      "ENGLISH": "Let’s practice wearing something revealing right now.",
+      "CHINESE_SIMPLIFIED": "不是，我们现在就练习穿暴露衣服",
+      "CHINESE_TRADITIONAL": "不是，我們現在先練習穿比較暴露的衣服",
+      "JAPANESE": "いや、露出ある服着て今練習してみよう",
+      "INDONESIAN": "Kita latihan aja dulu—kayak simulasi gitu.",
+      "PORTUGUESE": "Digo, vamos praticar agora com uma roupa mais reveladora.",
+      "SPANISH": "Digo, practiquemos ahora con una prenda más reveladora.",
+      "PERSIAN": "بیایید همین حالا پوشیدن چیزی آشکار را تمرین کنیم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하나만 벗어 봐",
+      "ENGLISH": "Just take one thing off.",
+      "CHINESE_SIMPLIFIED": "先脱一件试试",
+      "CHINESE_TRADITIONAL": "你先脫一件試試看",
+      "JAPANESE": "一つだけ脱いでみて",
+      "INDONESIAN": "Misalnya, pura-pura kamu lagi pakai baju yang agak berani.",
+      "PORTUGUESE": "Tira uma peça.",
+      "SPANISH": "Quítate una prenda.",
+      "PERSIAN": "فقط یک چیز را بردارید"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭔 소리야.",
+      "ENGLISH": "What are you talking about.",
+      "CHINESE_SIMPLIFIED": "胡说八道什么",
+      "CHINESE_TRADITIONAL": "你在說什麼鬼話",
+      "JAPANESE": "なに言ってるの",
+      "INDONESIAN": "Lho, kamu ngomong apa sih?",
+      "PORTUGUESE": "O que você tá dizendo?",
+      "SPANISH": "¿Qué estás diciendo?",
+      "PERSIAN": "در مورد چی صحبت میکنی"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 보는 눈이 또 정확하잖아.",
+      "ENGLISH": "You know I have a good eye, right?",
+      "CHINESE_SIMPLIFIED": "我审美眼光多毒辣啊",
+      "CHINESE_TRADITIONAL": "我的眼光很準確的嘛",
+      "JAPANESE": "俺の見る目は確かだからさ",
+      "INDONESIAN": "Kan kamu tahu selera aku lumayan bagus.",
+      "PORTUGUESE": "Você sabe que eu tenho bom olho pra isso.",
+      "SPANISH": "Sabes que tengo buen ojo para esto.",
+      "PERSIAN": "میدونی من چشم خوبی دارم، درسته؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 내가 먼저 봐 보고! 이걸 노출해도 되는지~",
+      "ENGLISH": "I’ll check it first myself — see if it’s even okay to show that much skin~",
+      "CHINESE_SIMPLIFIED": "让我先把关！看你能不能驾驭这种风格~",
+      "CHINESE_TRADITIONAL": "我先幫你看看，你能不能駕馭這種風格~",
+      "JAPANESE": "今俺がまず見てから、露出していいのか見るよ",
+      "INDONESIAN": "Aku bisa bantu nilai duluan—kira-kira wajar nggak kalau dipakai buat kerja~",
+      "PORTUGUESE": "Deixa eu ver primeiro, assim eu te digo se vale a pena mostrar ou não~",
+      "SPANISH": "Déjame ver primero, así te digo si vale la pena mostrarlo o no~",
+      "PERSIAN": "من ابتدا خودم اونو بررسی می‌کنم - ببینم اصلاً اشکالی ندارد که آنقدر پوست نشان دهم یا نه"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "답을 딱 내려 줄게.",
+      "ENGLISH": "I’ll give you a solid verdict.",
+      "CHINESE_SIMPLIFIED": "给你最中肯的评判",
+      "CHINESE_TRADITIONAL": "我會很中肯的評論的",
+      "JAPANESE": "答えを出してやる",
+      "INDONESIAN": "Biar aku kasih pendapat yang jujur.",
+      "PORTUGUESE": "Vou te dar meu veredito.",
+      "SPANISH": "Te daré mi veredicto.",
+      "PERSIAN": "من یک حکم محکم به شما خواهم داد."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 22.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하나만 벗어 보자",
+      "ENGLISH": "Just take off one thing.",
+      "CHINESE_SIMPLIFIED": "就脱一件试试嘛",
+      "CHINESE_TRADITIONAL": "就脫一件試試嘛",
+      "JAPANESE": "一つだけ脱いでみよう",
+      "INDONESIAN": "Ayo deh, coba gayain sekali aja.",
+      "PORTUGUESE": "Só tira alguma coisa.",
+      "SPANISH": "Solo quítate algo.",
+      "PERSIAN": "فقط یک چیز را بردارید"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 25.2
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 이래 미쳤나 봐 진짜...!",
+      "ENGLISH": "What is wrong with you — you’ve lost your mind…!",
+      "CHINESE_SIMPLIFIED": "你疯了吧真是...！",
+      "CHINESE_TRADITIONAL": "你瘋了吧，真是...！",
+      "JAPANESE": "何言ってるのいかれたの…？",
+      "INDONESIAN": "Ya ampun, kamu tuh ada-ada aja…!",
+      "PORTUGUESE": "O que deu em você? Tá louco…!",
+      "SPANISH": "¿Qué te pasa? ¡Estás loco…!",
+      "PERSIAN": "چه بلایی سرت آمده - عقلت را از دست داده ای...!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 하나만 벗어 보자~",
+      "ENGLISH": "Come on, just one thing~",
+      "CHINESE_SIMPLIFIED": "就脱一件看看嘛~",
+      "CHINESE_TRADITIONAL": "就脫一件來看看嘛～",
+      "JAPANESE": "あ、一つだけ脱いでみよう〜",
+      "INDONESIAN": "Ayo dong, sekali aja~",
+      "PORTUGUESE": "Ah, vai, só uma peça~",
+      "SPANISH": "Ah, anda, solo una prenda~",
+      "PERSIAN": "بیا، فقط یک چیز~"
+    }
+  }
+]

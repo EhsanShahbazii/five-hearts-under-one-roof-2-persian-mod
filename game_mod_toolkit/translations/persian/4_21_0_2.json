@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 67.2,
+      "HIDE": 70.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이번 S/S 신상이야. 어때?",
+      "ENGLISH": "Is this the new S/S collection?",
+      "CHINESE_SIMPLIFIED": "这是这季的新款，你觉得怎么样？",
+      "CHINESE_TRADITIONAL": "這次的春夏季新品，你覺得呢？",
+      "JAPANESE": "今回のS/S新作だよ どう？",
+      "INDONESIAN": "Ini koleksi S/S yang baru, ya?",
+      "PORTUGUESE": "É a nova coleção S/S, o que acha?",
+      "SPANISH": "Es la nueva colección de S/S, ¿qué tal?",
+      "PERSIAN": "این مجموعه جدید / است؟"
+    }
+  }
+]

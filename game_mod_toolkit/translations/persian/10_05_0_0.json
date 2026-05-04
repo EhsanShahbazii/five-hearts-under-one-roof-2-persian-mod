@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저 유만 씨!",
+      "ENGLISH": "Hey, Mr. Yoo Man!",
+      "CHINESE_SIMPLIFIED": "那个，宥万！",
+      "CHINESE_TRADITIONAL": "那個，宥萬先生！",
+      "JAPANESE": "あの、ユマンさん！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yumán!",
+      "SPANISH": "¡Yumán!",
+      "PERSIAN": "هی، آقای یومان!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 가끔은 놀러 올 거죠?",
+      "ENGLISH": "You'll still come visit sometimes, right?",
+      "CHINESE_SIMPLIFIED": "你偶尔还是会来医院的吧？",
+      "CHINESE_TRADITIONAL": "你偶爾還是會來醫院吧？",
+      "JAPANESE": "でも、たまには遊びに来てくれますよね？",
+      "INDONESIAN": "Tapi sesekali bakal main ke sini juga kan?",
+      "PORTUGUESE": "Mesmo assim, você vai vir me visitar de vez em quando, né?",
+      "SPANISH": "Aun así, vendrás a visitarme de vez en cuando, ¿verdad?",
+      "PERSIAN": "تو هنوز هم گاهی اوقات به ما سر می‌زنی، درسته؟"
+    }
+  }
+]

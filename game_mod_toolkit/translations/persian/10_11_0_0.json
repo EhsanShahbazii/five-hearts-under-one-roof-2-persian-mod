@@ -1,0 +1,423 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "와... 이번 년도엔 귤이 아주 실하네...",
+      "ENGLISH": "Wow... the tangerines are really plentiful this year...",
+      "CHINESE_SIMPLIFIED": "哇...今年的橘子真是长得不错啊...",
+      "CHINESE_TRADITIONAL": "哇，今年的橘子長得不錯耶...",
+      "JAPANESE": "わぁ…今年のみかん、すごく出来がいいね",
+      "INDONESIAN": "Wah... tahun ini jeruknya bagus-bagus banget ya",
+      "PORTUGUESE": "Uau... as mexericas tão deliciosas esse ano...",
+      "SPANISH": "Wow... este año las mandarinas están buenísimas...",
+      "PERSIAN": "عجب نارنگی امسال خیلی زیاده..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "자기야!",
+      "ENGLISH": "Honey!",
+      "CHINESE_SIMPLIFIED": "亲爱的！",
+      "CHINESE_TRADITIONAL": "親愛的！",
+      "JAPANESE": "ねぇ、あなた！",
+      "INDONESIAN": "Sayang!",
+      "PORTUGUESE": "Amor!",
+      "SPANISH": "¡Amor!",
+      "PERSIAN": "عزیزم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "엉?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "귤 이거 밖에 못 땄어?",
+      "ENGLISH": "Is this all you picked?",
+      "CHINESE_SIMPLIFIED": "你怎么就摘了这么点橘子？",
+      "CHINESE_TRADITIONAL": "你怎麼只摘了這些橘子？",
+      "JAPANESE": "これだけしか採れなかったの？",
+      "INDONESIAN": "Kamu cuma dapet segini?",
+      "PORTUGUESE": "Você só pegou essas mexericas?",
+      "SPANISH": "¿Solo recogiste estas mandarinas?",
+      "PERSIAN": "این همه چیزی است که انتخاب کردید؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이정도면 많이 딴 거 아니야?",
+      "ENGLISH": "Isn't this a lot?",
+      "CHINESE_SIMPLIFIED": "这还少吗？我觉得已经挺多的吧？",
+      "CHINESE_TRADITIONAL": "這樣很少嗎？我覺得已經滿多了啊？",
+      "JAPANESE": "これでも結構採れた方じゃない？",
+      "INDONESIAN": "Ini udah lumayan banyak loh",
+      "PORTUGUESE": "Não acha que são poucas?",
+      "SPANISH": "¿No crees que son bastantes?",
+      "PERSIAN": "این زیاد نیست؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나 봐봐!",
+      "ENGLISH": "Look at me!",
+      "CHINESE_SIMPLIFIED": "你看我！",
+      "CHINESE_TRADITIONAL": "你看我的！",
+      "JAPANESE": "私の見て！",
+      "INDONESIAN": "Lihat aku nih!",
+      "PORTUGUESE": "Olha pra mim!",
+      "SPANISH": "¡Mírame!",
+      "PERSIAN": "به من نگاه کن!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 훨씬 더 많이 땄네.",
+      "ENGLISH": "I picked way more than you did.",
+      "CHINESE_SIMPLIFIED": "我摘得比你多多了～",
+      "CHINESE_TRADITIONAL": "我摘得比你多很多～",
+      "JAPANESE": "私の方がずっと多いでしょ？",
+      "INDONESIAN": "Aku dapet jauh lebih banyak",
+      "PORTUGUESE": "Eu colhi muito mais.",
+      "SPANISH": "Yo recogí muchas más.",
+      "PERSIAN": "من خیلی بیشتر از تو انتخاب کردم"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 22.3
+    },
+    "SCRIPT": {
+      "KOREAN": "헤엑... 엄청 많이 땄네!",
+      "ENGLISH": "Whoa... You picked a ton!",
+      "CHINESE_SIMPLIFIED": "嗬！真的摘了好多啊！",
+      "CHINESE_TRADITIONAL": "啊！真的摘了很多耶！",
+      "JAPANESE": "うわっ…めっちゃ多い！",
+      "INDONESIAN": "Wah... banyak banget!",
+      "PORTUGUESE": "O quê?! Você pegou um monte!",
+      "SPANISH": "¡¿Eh?! ¡Recogiste un montón!",
+      "PERSIAN": "اوه... تو یک تن انتخاب کردی!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그래! 그러면 이거 들고 ",
+      "ENGLISH": "Yeah! So if you take these",
+      "CHINESE_SIMPLIFIED": "那这样，你把这筐橘子搬到那边去",
+      "CHINESE_TRADITIONAL": "不然，如果你這些橘子都搬到那邊去的話",
+      "JAPANESE": "でしょ！じゃあこれ持って",
+      "INDONESIAN": "Gini deh",
+      "PORTUGUESE": "Claro! Então, se você levar essas",
+      "SPANISH": "¡Claro! Entonces, si llevas esas",
+      "PERSIAN": "آره پس اگر اینا رو بگیرید"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저기까지 갖다 놓으면, 내가 일주일 동안 귤 혼자 다 딸게.",
+      "ENGLISH": "and put them over there, I'll pick all the tangerines by myself for a week.",
+      "CHINESE_SIMPLIFIED": "接下来一个星期都由我来摘橘子",
+      "CHINESE_TRADITIONAL": "接下來，我就摘一個星期的橘子",
+      "JAPANESE": "あそこまで運んだら、一週間みかん全部俺が採るから",
+      "INDONESIAN": "Kalau kamu bisa bawa ini sampai ke sana, aku yang bakal panen jeruk sendirian seminggu penuh",
+      "PORTUGUESE": "até lá, eu prometo colher todas as mexericas sozinho por uma semana.",
+      "SPANISH": "hasta allá, prometo recoger todas las mandarinas yo solo por una semana.",
+      "PERSIAN": "و اونا رو آنجا بگذار، من خودم تمام نارنگی ها را برای یک هفته می چینم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어디까지 갖다 놓는데?",
+      "ENGLISH": "Where do I put them?",
+      "CHINESE_SIMPLIFIED": "搬到哪里？",
+      "CHINESE_TRADITIONAL": "搬到哪裡？",
+      "JAPANESE": "どこまで？",
+      "INDONESIAN": "Bawa ke mana?",
+      "PORTUGUESE": "Até onde?",
+      "SPANISH": "¿Hasta dónde?",
+      "PERSIAN": "اونا رو کجا بگذارم؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 33.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저~기 나무까지 ",
+      "ENGLISH": "Over~ there by the tree.",
+      "CHINESE_SIMPLIFIED": "那～边的树那里",
+      "CHINESE_TRADITIONAL": "那邊～那棵樹那邊",
+      "JAPANESE": "あの〜木のとこまで！",
+      "INDONESIAN": "Tuh~ sampai pohon yang di sana",
+      "PORTUGUESE": "Até aquela árvore ali~",
+      "SPANISH": "Hasta ese árbol de allá~",
+      "PERSIAN": "اونجا کنار درخت"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 35.7
+    },
+    "SCRIPT": {
+      "KOREAN": "음, 저~기까지 갖다 놓으면 ",
+      "ENGLISH": "Hmm, if I put them over~ there,",
+      "CHINESE_SIMPLIFIED": "嗯，那我搬到那～边",
+      "CHINESE_TRADITIONAL": "嗯...我搬到哪邊的話...",
+      "JAPANESE": "うん、そこまで持っていったら",
+      "INDONESIAN": "Hmm jadi kalau aku bawa sampai ke sana",
+      "PORTUGUESE": "Hmm, se você levar até lá,",
+      "SPANISH": "Mmm, si las llevas hasta allá,",
+      "PERSIAN": "هوم، اگر اونا رو آنجا بگذارم،"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 38.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠가 일주일 동안 귤 다 딴다고 했다?",
+      "ENGLISH": "you said you'd pick all the tangerines for a week?",
+      "CHINESE_SIMPLIFIED": "你就要摘一个星期的橘子哦？",
+      "CHINESE_TRADITIONAL": "你要連續摘一個星期的橘子嗎？",
+      "JAPANESE": "お兄さんが一週間みかん全部採るって約束ね？",
+      "INDONESIAN": "Kamu yang bakal panen jeruk sendirian selama seminggu ya",
+      "PORTUGUESE": "você disse que vai colher todas as mexericas sozinho por uma semana?",
+      "SPANISH": "¿dijiste que tú solo recogerás todas las mandarinas por una semana?",
+      "PERSIAN": "گفتی همه نارنگی ها را برای یک هفته انتخاب می کنی؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 39.5
+    },
+    "SCRIPT": {
+      "KOREAN": "약속 지켜라?",
+      "ENGLISH": "You'll keep your promise?",
+      "CHINESE_SIMPLIFIED": "说话算话哦？",
+      "CHINESE_TRADITIONAL": "要說話算話喔？！",
+      "JAPANESE": "約束守ってね？",
+      "INDONESIAN": "Janji ya?",
+      "PORTUGUESE": "Vai cumprir mesmo?",
+      "SPANISH": "¿Lo cumplirás?",
+      "PERSIAN": "به قولت عمل می کنی؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 39.6,
+      "HIDE": 41.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 어 지킬게 해봐~",
+      "ENGLISH": "Uh, uh, I'll keep it. Try me~",
+      "CHINESE_SIMPLIFIED": "哦，说到做到，来试试看吧～",
+      "CHINESE_TRADITIONAL": "欸，當然是說到做到啊，你試試看～",
+      "JAPANESE": "う、うん、守るよ、やってみて〜",
+      "INDONESIAN": "Iya iya janji coba aja",
+      "PORTUGUESE": "S-sim, vou cumprir, vai, tenta~",
+      "SPANISH": "S-sí, lo cumpliré, vamos, inténtalo~",
+      "PERSIAN": "اوه، اوه، نگهش میدارم من را امتحان کن~"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 42.0,
+      "HIDE": 43.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 못 한다니까~",
+      "ENGLISH": "Aww, I told you I can't~",
+      "CHINESE_SIMPLIFIED": "哎呦，你不行的啦",
+      "CHINESE_TRADITIONAL": "哎喲，我就說你不行吧～",
+      "JAPANESE": "できないってば〜",
+      "INDONESIAN": "Eh bilang juga nggak bisa~",
+      "PORTUGUESE": "Ai, tô dizendo que não consigo~",
+      "SPANISH": "Ay, te digo que no puedo~",
+      "PERSIAN": "اوه، بهت گفتم که نمیتونم"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 43.9,
+      "HIDE": 44.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오메?",
+      "ENGLISH": "Oh my?",
+      "CHINESE_SIMPLIFIED": "天啊？",
+      "CHINESE_TRADITIONAL": "天啊？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Eh?",
+      "PORTUGUESE": "Hã...?",
+      "SPANISH": "¿Eh...?",
+      "PERSIAN": "اوه من؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 45.1,
+      "HIDE": 45.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오메, 오메, 오메, 오메",
+      "ENGLISH": "Oh my, oh my, oh my, oh my",
+      "CHINESE_SIMPLIFIED": "哎呀，哎呀，哎呀，哎呀",
+      "CHINESE_TRADITIONAL": "天啊、天啊、天啊",
+      "JAPANESE": "あれ、あれ、あれ！？",
+      "INDONESIAN": "Eh eh eh eh",
+      "PORTUGUESE": "Oh, oh, oh, oh, oh,",
+      "SPANISH": "Oh, oh, oh, oh, oh,",
+      "PERSIAN": "اوه من، اوه من، اوه من، اوه من"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 46.3,
+      "HIDE": 47.8
+    },
+    "SCRIPT": {
+      "KOREAN": "여보, 여보, 여보, 여보, 여보, 여보!!!!!",
+      "ENGLISH": "Honey, honey, honey, honey, honey, honey!!!!!",
+      "CHINESE_SIMPLIFIED": "老婆，老婆，老婆，老婆，老婆，老婆！！！！",
+      "CHINESE_TRADITIONAL": "老婆、老婆、老婆、老婆、老婆、老婆！！！！",
+      "JAPANESE": "ちょ、ちょっと！あなた！あなた！！",
+      "INDONESIAN": "Sayang sayang sayang sayang sayang!!!",
+      "PORTUGUESE": "amor, amor, amor, amor, amor, amor!",
+      "SPANISH": "¡cariño, cariño, cariño, cariño, cariño, cariño!",
+      "PERSIAN": "عزیزم عزیزم عزیزم عزیزم عزیزم!!!!!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 48.0,
+      "HIDE": 49.3
+    },
+    "SCRIPT": {
+      "KOREAN": "여보, 여보, 여보, 여보!!",
+      "ENGLISH": "Honey, honey, honey, honey!!",
+      "CHINESE_SIMPLIFIED": "老婆，老婆，老婆，老婆！！",
+      "CHINESE_TRADITIONAL": "老婆、老婆、老婆、老婆啊！！",
+      "JAPANESE": "ちょ、ちょっと！",
+      "INDONESIAN": "Sayang sayang sayang sayang!!",
+      "PORTUGUESE": "Amor, amor, amor, amor!",
+      "SPANISH": "¡Cariño, cariño, cariño, cariño!",
+      "PERSIAN": "عزیزم عزیزم عزیزم!!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 52.5,
+      "HIDE": 53.6
+    },
+    "SCRIPT": {
+      "KOREAN": "다 딴다고 했다!",
+      "ENGLISH": "I said I'd pick them all!",
+      "CHINESE_SIMPLIFIED": "你说了要全都摘完的！",
+      "CHINESE_TRADITIONAL": "你說過要全部摘完喔！",
+      "JAPANESE": "全部採るって言ったね！",
+      "INDONESIAN": "Kamu bilang mau panen semuanya!",
+      "PORTUGUESE": "Você disse que ia colher todas!",
+      "SPANISH": "¡Dijiste que las recogerías todas!",
+      "PERSIAN": "گفتم همه را انتخاب می کنم!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 54.3,
+      "HIDE": 55.5
+    },
+    "SCRIPT": {
+      "KOREAN": "약속 지켜라!",
+      "ENGLISH": "Keep your promise!",
+      "CHINESE_SIMPLIFIED": "要守信用啊！",
+      "CHINESE_TRADITIONAL": "一定要遵守約定喔！！",
+      "JAPANESE": "約束守ってよ！！",
+      "INDONESIAN": "Harus tepati janji ya!",
+      "PORTUGUESE": "Cumpre sua promessa!",
+      "SPANISH": "¡Cumple tu promesa!",
+      "PERSIAN": "به قولت وفا کن!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 56.0,
+      "HIDE": 56.1
+    }
+  }
+]

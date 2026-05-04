@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨 나갈 준비 됐어요? ",
+      "ENGLISH": "Yuna, you ready to head out?",
+      "CHINESE_SIMPLIFIED": "有娜小姐，你准备好出门了吗？",
+      "CHINESE_TRADITIONAL": "有娜小姐，準備好出門了嗎？",
+      "JAPANESE": "ユナさん 出かける準備できました?",
+      "INDONESIAN": "Yuna, kamu siap berangkat?",
+      "PORTUGUESE": "Yuna, já tá pronta pra sair?",
+      "SPANISH": "¿Yuna, ya estás lista para salir?",
+      "PERSIAN": "یونا، آماده ای برای رفتن؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "앗싸! 나 10분! 아니 5분만 기다려줘요!",
+      "ENGLISH": "Yes!! Just give me 10—no, 5 minutes!",
+      "CHINESE_SIMPLIFIED": "太好啦！等我10分钟！不，5分钟就好！",
+      "CHINESE_TRADITIONAL": "耶！太棒了！等我十分鐘！不，五分鐘就好！",
+      "JAPANESE": "やった! 10分! いや 5分だけ待ってください!",
+      "INDONESIAN": "Ya!! Beri aku waktu 10—tidak, 5 menit!",
+      "PORTUGUESE": "Sim! Me dá dez... não, cinco minutinhos!",
+      "SPANISH": "¡Sí! ¡Dame diez… no, cinco minutos!",
+      "PERSIAN": "بله!! فقط 10 به من بدهید - نه، 5 دقیقه!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 맘에 안 들어.",
+      "ENGLISH": "I don’t like Yuman.",
+      "CHINESE_SIMPLIFIED": "我讨厌你，吴宥万",
+      "CHINESE_TRADITIONAL": "我討厭宥萬",
+      "JAPANESE": "ユマン 気に入らない…",
+      "INDONESIAN": "Aku tidak suka Yuman.",
+      "PORTUGUESE": "Não vou com a sua cara, Yuman Woo.",
+      "SPANISH": "No me agradas, Yumán Woo.",
+      "PERSIAN": "من یومان را دوست ندارم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어.. 야 말숙아~ 말숙아~",
+      "ENGLISH": "Uh—hey, Mal-sook~ Mal-sook~",
+      "CHINESE_SIMPLIFIED": "呃...喂，末淑啊~ 末淑啊~",
+      "CHINESE_TRADITIONAL": "呃…喂，末淑～末淑啊～",
+      "JAPANESE": "あ…おい マルスク〜 マルスク〜",
+      "INDONESIAN": "Uh—hai, Mal-sook~ Mal-sook~",
+      "PORTUGUESE": "Hã... ei, Malsook~ Malsook~!",
+      "SPANISH": "Eh… oye, Malsook~ ¡Malsook~!",
+      "PERSIAN": "اوه-هی، مال‌سوک~ مال‌سوک~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨...",
+      "ENGLISH": "Ugh... seriously...",
+      "CHINESE_SIMPLIFIED": "哎呀...",
+      "CHINESE_TRADITIONAL": "可惡…",
+      "JAPANESE": "ちくしょう…",
+      "INDONESIAN": "Ugh... serius...",
+      "PORTUGUESE": "Ai...",
+      "SPANISH": "Ay…",
+      "PERSIAN": "اوه... جدی..."
+    }
+  }
+]

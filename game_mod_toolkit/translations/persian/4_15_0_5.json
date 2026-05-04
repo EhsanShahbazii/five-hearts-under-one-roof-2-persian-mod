@@ -1,0 +1,35 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "SHOW": 1.4,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유튜브 보고있네?",
+      "PERSIAN": "유튜브 보고있네؟"
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 3,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "밀크필름?",
+      "PERSIAN": "밀크필름؟"
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우와... 재밌겠는데?",
+      "PERSIAN": "우와... 재밌겠는데؟"
+    }
+  }
+]

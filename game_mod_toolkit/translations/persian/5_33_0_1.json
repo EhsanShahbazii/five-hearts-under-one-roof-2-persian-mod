@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 넌 몰라도 돼.",
+      "ENGLISH": "Ugh, you don’t need to know.",
+      "CHINESE_SIMPLIFIED": "哎呦，你不用知道",
+      "CHINESE_TRADITIONAL": "那個，你不知道也沒差",
+      "JAPANESE": "お前は知らなくていい",
+      "INDONESIAN": "Ugh, kamu nggak perlu tahu deh.",
+      "PORTUGUESE": "Ah, isso não te interessa.",
+      "SPANISH": "Ay, eso no te importa.",
+      "PERSIAN": "اوه، لازم نیست بدونی"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그런 게 어딨어.",
+      "ENGLISH": "What do you mean I don’t?",
+      "CHINESE_SIMPLIFIED": "哪有这样的啊",
+      "CHINESE_TRADITIONAL": "哪有這種事",
+      "JAPANESE": "そんなのずるいじゃん",
+      "INDONESIAN": "Apa maksudnya “nggak perlu”?",
+      "PORTUGUESE": "Como assim, não?",
+      "SPANISH": "¿Cómo que no?",
+      "PERSIAN": "منظورت چیه که ندارم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그런 게 있어~",
+      "ENGLISH": "There is such a thing~",
+      "CHINESE_SIMPLIFIED": "就是有这样的~",
+      "CHINESE_TRADITIONAL": "就是有～",
+      "JAPANESE": "そういうのがあんの〜",
+      "INDONESIAN": "Emang ada hal-hal kayak gitu~",
+      "PORTUGUESE": "Ué, tem coisas que você não precisa saber.",
+      "SPANISH": "Pues sí, hay cosas que no necesitas que saber.",
+      "PERSIAN": "چنین چیزی وجود دارد~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저 선배 근데 선도부는 어떻게 하는 거예요?",
+      "ENGLISH": "Um, senior, but how does the Discipline Committee work?",
+      "CHINESE_SIMPLIFIED": "不过学长，要怎么加入纪律委员会呢？",
+      "CHINESE_TRADITIONAL": "學長，那個...要怎麼才能當糾察隊員啊？",
+      "JAPANESE": "あの 先輩 風紀委員ってどうやるんですか？",
+      "INDONESIAN": "Umm, Kak… tapi Komite Ketertiban itu kerjaannya ngapain sih?",
+      "PORTUGUESE": "Mas como é que se entra pro comitê disciplinar?",
+      "SPANISH": "¿Pero cómo se entra al comité disciplinario?",
+      "PERSIAN": "اوم، ارشد، اما کمیته انضباطی چگونه کار می کند؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "선도부는 왜? 관심 있어요？",
+      "ENGLISH": "The Discipline Committee? Why? You interested?",
+      "CHINESE_SIMPLIFIED": "纪律委员会？你有兴趣？",
+      "CHINESE_TRADITIONAL": "為什麼這樣問？你想要當？",
+      "JAPANESE": "風紀委員？興味あるの？",
+      "INDONESIAN": "Komite Ketertiban? Kenapa? mau gabung?",
+      "PORTUGUESE": "Pro comitê? Por quê? Tá interessada?",
+      "SPANISH": "¿Al comité? ¿Por qué? ¿Te interesa?",
+      "PERSIAN": "کمیته انضباطی؟ چرا؟ شما علاقه مندید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "是的！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그거 하면 아침마다 선배랑 서 있고 그런 거예요?",
+      "ENGLISH": "If I join, do I get to stand with you every morning and stuff?",
+      "CHINESE_SIMPLIFIED": "加入的话就能每天早晨和学长一起站岗了吗？",
+      "CHINESE_TRADITIONAL": "當選的話，是不是每天早上都能跟學長一起站崗了呢？",
+      "JAPANESE": "それやると 毎朝先輩と一緒に立ったりするんですか？",
+      "INDONESIAN": "Kalau aku gabung, aku bisa berdiri bareng kakak tiap pagi gitu ya?",
+      "PORTUGUESE": "E se eu entrar, vou ficar com você toda manhã?",
+      "SPANISH": "¿Y si entro, me tocaría estar junto a usted cada mañana?",
+      "PERSIAN": "اگر بپیوندم، می‌تونم هر روز صبح در کنار شما باشم؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.9,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 조금씩 달라지긴 할 텐데... 그러겠죠?",
+      "ENGLISH": "Well, it might vary a bit… but yeah, probably?",
+      "CHINESE_SIMPLIFIED": "具体安排可能会有些变动…不过差不多吧？",
+      "CHINESE_TRADITIONAL": "呃，有可能不太一樣，不過應該是吧？",
+      "JAPANESE": "まぁ ちょっとずつ違うけど…そんな感じかな？",
+      "INDONESIAN": "Ya… mungkin beda-beda dikit sih… tapi iya, bisa jadi~",
+      "PORTUGUESE": "Bom, pode cair outra coisa pra você... mas acho que sim.",
+      "SPANISH": "Bueno, podría tocarle otra cosa... pero supongo que sí.",
+      "PERSIAN": "خوب، ممکنه کمی متفاوت باشد ... اما بله، احتمالا؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 둘이 무슨 사이냐고...! ",
+      "ENGLISH": "They’re asking what’s going on between you two...!",
+      "CHINESE_SIMPLIFIED": "啊，你们俩到底什么关系啊…！",
+      "CHINESE_TRADITIONAL": "喂！你們兩個到底是什麼關係啦...！",
+      "JAPANESE": "あ だから二人どういう関係なのっ！",
+      "INDONESIAN": "Mereka nanya hubungan kalian berdua tuh apa…!",
+      "PORTUGUESE": "Ei, eu perguntei como vocês se conhecem!",
+      "SPANISH": "¡Oigan, les pregunté como se conocen!",
+      "PERSIAN": "می پرسند بین شما دو نفر چه خبره...!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아... ",
+      "ENGLISH": "Ah…",
+      "CHINESE_SIMPLIFIED": "啊…",
+      "CHINESE_TRADITIONAL": "呃...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ah…",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "آه…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 24.9
+    },
+    "SCRIPT": {
+      "KOREAN": "야 왜 그래. 또 그거야?",
+      "ENGLISH": "Hey, what’s up? That again?",
+      "CHINESE_SIMPLIFIED": "喂，你怎么了，又要来这套？",
+      "CHINESE_TRADITIONAL": "喂，你幹嘛啦？又是那個嗎？",
+      "JAPANESE": "おい なんだよ またそれか？",
+      "INDONESIAN": "Eh, kenapa sih? Itu lagi?",
+      "PORTUGUESE": "Ei, o que foi? De novo isso?",
+      "SPANISH": "Oye, ¿qué te pasa? ¿Otra vez eso?",
+      "PERSIAN": "هی، چه خبر؟ اون دوباره؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 똥 마려워... ",
+      "ENGLISH": "Ugh, I need to poop…",
+      "CHINESE_SIMPLIFIED": "啊肚子疼…",
+      "CHINESE_TRADITIONAL": "嗯...我想大便...",
+      "JAPANESE": "ああ 腹痛い…",
+      "INDONESIAN": "Ugh, aku pengen boker…",
+      "PORTUGUESE": "Preciso ir ao banheiro...",
+      "SPANISH": "Tengo que ir al baño...",
+      "PERSIAN": "اوه، من باید مدفوع کنم…"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너 좀 이따 얘기해.",
+      "ENGLISH": "Let’s talk later.",
+      "CHINESE_SIMPLIFIED": "你待会儿再给我解释",
+      "CHINESE_TRADITIONAL": "等一下再跟你說",
+      "JAPANESE": "ちょっとあとで話そう",
+      "INDONESIAN": "Ntar aja deh ngobrolnya.",
+      "PORTUGUESE": "A gente se fala depois.",
+      "SPANISH": "Hablamos luego.",
+      "PERSIAN": "بعدا حرف بزنیم"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 너 얼짱인 거 인정해 줄 테니까 영광인 줄 알아.",
+      "ENGLISH": "And I’ll acknowledge that you’re a top beauty, so feel honored.",
+      "CHINESE_SIMPLIFIED": "还有，我会承认你是校花，你就感恩戴德吧",
+      "CHINESE_TRADITIONAL": "還有，我承認你是校花，能被我認可，是你的榮幸喔",
+      "JAPANESE": "それとあなたかわいいの認めるから 光栄に思ってよ",
+      "INDONESIAN": "Dan aku akuin deh kamu tuh emang primadona, jadi banyak banyak bersyukur yah.",
+      "PORTUGUESE": "E você, considere-se sortuda por eu te achar bonita.",
+      "SPANISH": "Y tú, considérate afortunada de que te considere guapa.",
+      "PERSIAN": "و من تصدیق خواهم کرد که شما یک زیبایی برتر هستید، پس احساس افتخار کنید."
+    }
+  }
+]

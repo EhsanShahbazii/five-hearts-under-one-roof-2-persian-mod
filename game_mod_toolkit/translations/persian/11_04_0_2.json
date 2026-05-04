@@ -1,0 +1,145 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 좀 뭐랄까.... 아~ 왜 이렇게 촌스럽지...",
+      "ENGLISH": "Today, I don't know... Why am I feeling so tacky...",
+      "CHINESE_SIMPLIFIED": "今天嘛，总觉得...啊～怎么有点老土...",
+      "CHINESE_TRADITIONAL": "怎麼說呢...總覺得...啊～今天有點俗的感覺",
+      "JAPANESE": "今日はなんというか…あぁ〜なんかダサく見える…",
+      "INDONESIAN": "Hari ini tuh... gimana ya... kenapa rasanya norak banget",
+      "PORTUGUESE": "Hoje… não sei como dizer isso... ah~ por que será que me sinto tão fora de moda...?",
+      "SPANISH": "Hoy... no sé cómo decirlo... ah~ ¿por qué me siento tan pasada de moda...?",
+      "PERSIAN": "امروز، نمی‌دونم... چرا اینقدر احساس بی‌ارزشی می‌کنم..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.8,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 오늘 너무 신경 써서 좀 과해졌나 봐요...",
+      "ENGLISH": "Ah... I guess I tried too hard today and went overboard...",
+      "CHINESE_SIMPLIFIED": "大概是太在意了，反而弄得有点过头了",
+      "CHINESE_TRADITIONAL": "可能是今天太在意了，所以弄得有點過頭",
+      "JAPANESE": "ちょっと気合い入れすぎちゃったのかも…",
+      "INDONESIAN": "Kayaknya gara-gara terlalu mikirin semuanya jadi malah berlebihan",
+      "PORTUGUESE": "Acho que me esforcei demais e acabei exagerando um pouco...",
+      "SPANISH": "Creo que me esforcé demasiado y terminé exagerando un poco...",
+      "PERSIAN": "آه... فکر کنم امروز خیلی تلاش کردم و زیاده‌روی کردم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "예 욕심이 좀 과했던 거 같아요...",
+      "ENGLISH": "Yeah, I think I got a little too greedy...",
+      "CHINESE_SIMPLIFIED": "是啊，我也觉得有点太贪心了",
+      "CHINESE_TRADITIONAL": "我也覺得好像有點太貪心了...",
+      "JAPANESE": "欲張りすぎたかなぁ…",
+      "INDONESIAN": "Iya, kayaknya aku terlalu maksain",
+      "PORTUGUESE": "Sim, acho que eu tava com vontade demais de que tudo saísse perfeito...",
+      "SPANISH": "Sí, creo que tuve demasiadas ganas de que saliera bien...",
+      "PERSIAN": "آره، فکر کنم یه کم زیادی حرص خوردم..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "맘 같아선 옷도 다른 거로 가면 좋을 거 같은데",
+      "ENGLISH": "Honestly, I wish I could change into something else,",
+      "CHINESE_SIMPLIFIED": "其实换套衣服可能会更好",
+      "CHINESE_TRADITIONAL": "可以的話，換個衣服好像比較好",
+      "JAPANESE": "できれば服も変えたいけど",
+      "INDONESIAN": "Sebenernya pengen ganti baju juga sih",
+      "PORTUGUESE": "Se eu pudesse, trocaria a roupa por outra,",
+      "SPANISH": "Si pudiera, cambiaría el atuendo por otro,",
+      "PERSIAN": "راستش را بخواهید، کاش می‌توانستم به چیز دیگری تبدیل شوم،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "지금은 너무 늦었죠?",
+      "ENGLISH": "but it's too late now, right?",
+      "CHINESE_SIMPLIFIED": "但现在来不及了吧",
+      "CHINESE_TRADITIONAL": "但現在已經太晚了吧？",
+      "JAPANESE": "もう遅いですよね？",
+      "INDONESIAN": "Tapi sekarang udah telat banget ya?",
+      "PORTUGUESE": "mas agora já é tarde demais, né?",
+      "SPANISH": "pero ya es demasiado tarde, ¿verdad?",
+      "PERSIAN": "اما الان خیلی دیر شده، درسته؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그게",
+      "ENGLISH": "Ah, that's it!",
+      "CHINESE_SIMPLIFIED": "那个...",
+      "CHINESE_TRADITIONAL": "啊，那個...",
+      "JAPANESE": "あ、それが",
+      "INDONESIAN": "Ah, itu...",
+      "PORTUGUESE": "Ah, tudo bem...",
+      "SPANISH": "Ah, bueno...",
+      "PERSIAN": "آه، همین!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 스탠바이요!",
+      "ENGLISH": "Minjeong, stand by!",
+      "CHINESE_SIMPLIFIED": "“敏静小姐，候场准备！”",
+      "CHINESE_TRADITIONAL": "敏靜小姐，請準備上場！",
+      "JAPANESE": "ミンジョンさん、スタンバイお願いします！",
+      "INDONESIAN": "Min-jung, standby ya!",
+      "PORTUGUESE": "Minjung, em posição!",
+      "SPANISH": "¡Minjung, a posición!",
+      "PERSIAN": "مین‌جونگ، منتظر باش!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 다녀올게요...",
+      "ENGLISH": "I'll be right back...",
+      "CHINESE_SIMPLIFIED": "我先去了",
+      "CHINESE_TRADITIONAL": "我先去了",
+      "JAPANESE": "行ってきますね…",
+      "INDONESIAN": "Aku berangkat dulu ya...",
+      "PORTUGUESE": "Tô indo, já volto...",
+      "SPANISH": "Voy, ahora vuelvo...",
+      "PERSIAN": "الان برمی‌گردم..."
+    }
+  }
+]

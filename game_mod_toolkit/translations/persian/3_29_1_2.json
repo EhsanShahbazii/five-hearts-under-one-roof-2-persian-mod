@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아까 발목을 제대로 접지른거 같아요...",
+      "ENGLISH": "I think I seriously twisted my ankle earlier...",
+      "CHINESE_SIMPLIFIED": "刚才好像把脚踝扭得挺严重的...",
+      "CHINESE_TRADITIONAL": "剛才好像把腳踝扭傷得很嚴重…",
+      "JAPANESE": "さっき、足首を思いっきりひねっちゃったみたいです…",
+      "INDONESIAN": "Kayaknya tadi pergelangan kakiku beneran keseleo parah...",
+      "PORTUGUESE": "Acho que torceu mesmo o tornozelo…",
+      "SPANISH": "Creo que se torció bien el tobillo…",
+      "PERSIAN": "فکر کنم زودتر مچ پام رو جدی پیچوندم..."
+    }
+  }
+]

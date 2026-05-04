@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.2
+    },
+    "SCRIPT": {
+      "KOREAN": "에휴, 뭐 힘준 거 같지도 않네.",
+      "ENGLISH": "Sheesh... didn’t even feel like you were trying.",
+      "CHINESE_SIMPLIFIED": "哎呦，感觉你都没使劲呢",
+      "CHINESE_TRADITIONAL": "哎唷，看起來根本沒出什麼力嘛",
+      "JAPANESE": "はぁ…全然力入れてないんだけどな",
+      "INDONESIAN": "Ih... kayaknya kamu nggak niat banget tadi.",
+      "PORTUGUESE": "Ai, nem parecia que você tava se esforçando.",
+      "SPANISH": "Ay, ni siquiera parecías estar esforzándote.",
+      "PERSIAN": "شیش... حتی احساس نمی کرد داری تلاش می کنی."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야? ",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么啊？",
+      "CHINESE_TRADITIONAL": "什麼？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "Ui!",
+      "SPANISH": "¡Uy!",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "생각보다 힘이 세시네요?",
+      "ENGLISH": "You’re stronger than I expected.",
+      "CHINESE_SIMPLIFIED": "你比想象中力气大嘛？",
+      "CHINESE_TRADITIONAL": "妳的力量比我想像中大耶？",
+      "JAPANESE": "思ったより力あるんですね?",
+      "INDONESIAN": "Kamu lebih kuat dari yang aku kira.",
+      "PORTUGUESE": "Você é mais forte do que parece?",
+      "SPANISH": "¿Eres más fuerte de lo que parece?",
+      "PERSIAN": "تو قوی تر از چیزی هستی که انتظار داشتم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그것도 많이 봐 드린 거예요!",
+      "ENGLISH": "And I was holding back, a lot!",
+      "CHINESE_SIMPLIFIED": "这还是让了你不少的呢！",
+      "CHINESE_TRADITIONAL": "這還是我手下留情了",
+      "JAPANESE": "それでもかなり手加減したんですよ!",
+      "INDONESIAN": "Padahal aku nahan diri, lho! Banget!",
+      "PORTUGUESE": "E olha que eu ainda me segurei bastante!",
+      "SPANISH": "¡Y eso que me contuve bastante!",
+      "PERSIAN": "و من خودم را عقب نگه می داشتم، خیلی!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "本当ですか?",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿De verdad?",
+      "PERSIAN": "واقعا؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼요!",
+      "ENGLISH": "Of course!",
+      "CHINESE_SIMPLIFIED": "当然啦！",
+      "CHINESE_TRADITIONAL": "當然啊！",
+      "JAPANESE": "もちろんですよ!",
+      "INDONESIAN": "Ya iyalah!",
+      "PORTUGUESE": "Mas é claro!",
+      "SPANISH": "¡Por supuesto!",
+      "PERSIAN": "البته!"
+    }
+  }
+]

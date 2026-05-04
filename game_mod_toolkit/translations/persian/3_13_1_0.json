@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어..휴지는 샀고.",
+      "ENGLISH": "Okay… got the toilet paper.",
+      "CHINESE_SIMPLIFIED": "嗯...卫生纸买好了",
+      "CHINESE_TRADITIONAL": "嗯…衛生紙買了",
+      "JAPANESE": "えっと…トイレットペーパー買ったし",
+      "INDONESIAN": "Oke… tisu toiletnya udah dapet.",
+      "PORTUGUESE": "Ah... já comprei o papel higiênico.",
+      "SPANISH": "Ah... ya compré el papel higiénico.",
+      "PERSIAN": "خوب… دستمال توالت را گرفتم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어..김 좀 사볼까..?",
+      "ENGLISH": "Hmm… maybe I should grab some seaweed too...?",
+      "CHINESE_SIMPLIFIED": "嗯...要不再买点紫菜？",
+      "CHINESE_TRADITIONAL": "嗯…要不要順便買點海苔呢…？",
+      "JAPANESE": "ついでにキムチも買おうかな…？",
+      "INDONESIAN": "Hmm… ambil rumput laut juga nggak ya...?",
+      "PORTUGUESE": "Hã... compro algas também?",
+      "SPANISH": "Mmm... ¿compro también algas?",
+      "PERSIAN": "هوم... شاید من هم جلبک دریایی بگیرم...؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 엇!\n- 어!",
+      "ENGLISH": "— Oh!\n— Ah!",
+      "CHINESE_SIMPLIFIED": "-哎呀！\n-哎呀！",
+      "CHINESE_TRADITIONAL": "— 啊！\n— 啊！",
+      "JAPANESE": "‐あっ！\n‐あ！",
+      "INDONESIAN": "— Oh!\n— Ah!",
+      "PORTUGUESE": "—Ah!\n—Oh!",
+      "SPANISH": "—¡Ah!\n—¡Oh!",
+      "PERSIAN": "- اوه! - آه!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "먼저 가져가세요!",
+      "ENGLISH": "You go ahead!",
+      "CHINESE_SIMPLIFIED": "您先拿去吧！",
+      "CHINESE_TRADITIONAL": "您先拿吧！",
+      "JAPANESE": "先にどうぞ！",
+      "INDONESIAN": "Kamu duluan aja!",
+      "PORTUGUESE": "Pode ir primeiro.",
+      "SPANISH": "Llévelo usted primero.",
+      "PERSIAN": "تو برو جلو!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유만 씨?",
+      "ENGLISH": "Huh? Yuman?",
+      "CHINESE_SIMPLIFIED": "嗯？宥万先生？",
+      "CHINESE_TRADITIONAL": "咦？宥萬先生？",
+      "JAPANESE": "あっ、ユマンさん？",
+      "INDONESIAN": "Hah? Yuman?",
+      "PORTUGUESE": "Hã? Senhor Yumán?",
+      "SPANISH": "¿Eh? ¿Señor Yumán?",
+      "PERSIAN": "ها؟ یومان؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤?",
+      "ENGLISH": "Gyu-ri?",
+      "CHINESE_SIMPLIFIED": "方护士？",
+      "CHINESE_TRADITIONAL": "久梨護理師？",
+      "JAPANESE": "ギュリ先生？",
+      "INDONESIAN": "Gyu-ri?",
+      "PORTUGUESE": "Enfermeira Gyuri?",
+      "SPANISH": "¿Enfermera Gyuri?",
+      "PERSIAN": "گیو ری؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 쌤 근데 옷이...",
+      "ENGLISH": "Whoa—your outfit...",
+      "CHINESE_SIMPLIFIED": "哦，方护士，您这身衣服...",
+      "CHINESE_TRADITIONAL": "啊，不過你的衣服…",
+      "JAPANESE": "あれ、先生その服…",
+      "INDONESIAN": "Wah—bajumu...",
+      "PORTUGUESE": "Ah, mas... sua roupa...",
+      "SPANISH": "Ah, pero... su ropa...",
+      "PERSIAN": "وای-لباس شما..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 21.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 저 간호사복 말고 다른 옷은 처음 보시죠?",
+      "ENGLISH": "Oh, right. First time seeing me out of my nurse uniform, huh?",
+      "CHINESE_SIMPLIFIED": "您还是第一次见我穿护士服以外的衣服吧？",
+      "CHINESE_TRADITIONAL": "對耶，這是你第一次看到我穿護理師制服以外的衣服吧？",
+      "JAPANESE": "あぁ、この間まで看護師の制服しか見せてなかったですもんね",
+      "INDONESIAN": "Oh, iya. Baru pertama kali liat aku nggak pakai seragam suster, ya?",
+      "PORTUGUESE": "Ah, claro, você nunca me viu sem o uniforme de enfermeira, né?",
+      "SPANISH": "Ah, claro, nunca me habías visto sin el uniforme de enfermera, ¿verdad?",
+      "PERSIAN": "اوه، درست است. اولین بار است که مرا از لباس پرستارم بیرون می بینید، ها؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 처음 보네요.",
+      "ENGLISH": "Yeah, it is.",
+      "CHINESE_SIMPLIFIED": "嗯，第一次见呢",
+      "CHINESE_TRADITIONAL": "是啊，第一次看到",
+      "JAPANESE": "そうですね、私服姿は初めて見ます",
+      "INDONESIAN": "Iya, bener juga.",
+      "PORTUGUESE": "Sim, é a primeira vez.",
+      "SPANISH": "Sí, es la primera vez.",
+      "PERSIAN": "آره همینطوره"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저 사복 어때요?",
+      "ENGLISH": "So... how do I look in regular clothes?",
+      "CHINESE_SIMPLIFIED": "我这身私服怎么样？",
+      "CHINESE_TRADITIONAL": "你覺得我這一身如何呢？",
+      "JAPANESE": "私の私服、どうですか？",
+      "INDONESIAN": "Jadi... gimana? Aku kelihatan gimana pakai baju biasa?",
+      "PORTUGUESE": "O que acha da minha roupa casual?",
+      "SPANISH": "¿Qué le parece mi ropa casual?",
+      "PERSIAN": "بنابراین ... چگونه با لباس های معمولی به نظر برسم؟"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아씨, 어디 돌 같은 거 없나..",
+      "ENGLISH": "Ugh, isn’t there a rock or something around here...",
+      "CHINESE_SIMPLIFIED": "我去，有没有石头什么的..",
+      "CHINESE_TRADITIONAL": "可惡，哪裡有石頭啊…",
+      "JAPANESE": "あぁもう…どこかに石とかないかな…",
+      "INDONESIAN": "Ugh, nggak ada batu atau apaan gitu di sekitar sini...",
+      "PORTUGUESE": "Droga, não tem uma pedra por aqui...?",
+      "SPANISH": "Maldita sea, ¿no habrá por aquí una piedra...?",
+      "PERSIAN": "اوه، سنگ یا چیزی اینجا نیست..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 돌이다!",
+      "ENGLISH": "Oh! There’s one!",
+      "CHINESE_SIMPLIFIED": "呃！有石头！",
+      "CHINESE_TRADITIONAL": "喔! 這裡有一顆！",
+      "JAPANESE": "あった！石だ！",
+      "INDONESIAN": "Oh! Itu dia!",
+      "PORTUGUESE": "Ah! Ali tem uma!",
+      "SPANISH": "¡Ah! ¡Ahí hay una!",
+      "PERSIAN": "اوه! یکی هست!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "에잇!",
+      "ENGLISH": "Take this!",
+      "CHINESE_SIMPLIFIED": "看招！",
+      "CHINESE_TRADITIONAL": "接招！",
+      "JAPANESE": "えいっ！",
+      "INDONESIAN": "Rasain nih!",
+      "PORTUGUESE": "Toma isso!",
+      "SPANISH": "¡Toma esto!",
+      "PERSIAN": "اینو بگیر!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요? 어디서 날아온 거지...",
+      "ENGLISH": "Are you okay?? Where did that even come from...",
+      "CHINESE_SIMPLIFIED": "没事吧？从哪里飞来的...",
+      "CHINESE_TRADITIONAL": "你沒事吧？那石頭從哪飛過來的？",
+      "JAPANESE": "大丈夫ですか？どこから飛んできたんだろう…",
+      "INDONESIAN": "Kamu nggak apa-apa?? Itu dari mana tiba-tiba...",
+      "PORTUGUESE": "Você tá bem? De onde veio isso...?",
+      "SPANISH": "¿Estás bien? ¿De dónde vino eso...?",
+      "PERSIAN": "حالت خوبه؟؟ اصلا از کجا آمد..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요...",
+      "ENGLISH": "I’m fine...",
+      "CHINESE_SIMPLIFIED": "没事...",
+      "CHINESE_TRADITIONAL": "沒事啦…",
+      "JAPANESE": "大丈夫です……",
+      "INDONESIAN": "Aku nggak papa...",
+      "PORTUGUESE": "Sim, tô bem...",
+      "SPANISH": "Sí, estoy bien...",
+      "PERSIAN": "من خوبم..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.4
+    },
+    "SCRIPT": {
+      "KOREAN": "나였으면 쌍욕했을 거면서!! 씨...",
+      "ENGLISH": "If it were me, you’d be swearing up a storm right now!!",
+      "CHINESE_SIMPLIFIED": "换我早破口大骂了！！靠...",
+      "CHINESE_TRADITIONAL": "要是我早就罵三字經了！！靠...",
+      "JAPANESE": "俺だったら絶対キレてたくせに！！",
+      "INDONESIAN": "Kalau itu aku yang kena, kamu pasti udah maki-maki dari tadi!!",
+      "PORTUGUESE": "Se tivesse acontecido comigo, eu já tava xingando até agora! Droga...",
+      "SPANISH": "¡Si me hubiera pasado a mí, ya estaría gritando maldiciones! Maldición...",
+      "PERSIAN": "اگه جای من بودم همین الان توفان به پا می کردی!!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 24.7,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이씨..힝..",
+      "ENGLISH": "Damn it... sniff...",
+      "CHINESE_SIMPLIFIED": "可恶...呜...",
+      "CHINESE_TRADITIONAL": "可惡…嗚嗚…",
+      "JAPANESE": "くそっ…",
+      "INDONESIAN": "Sialan... sniff...",
+      "PORTUGUESE": "Ugh... snif...",
+      "SPANISH": "Ugh... snif...",
+      "PERSIAN": "لعنتی... بو بکش..."
+    }
+  }
+]

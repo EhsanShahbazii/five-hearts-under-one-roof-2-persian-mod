@@ -1,0 +1,20 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "자~ 가 볼까.",
+      "ENGLISH": "Should I?",
+      "CHINESE_SIMPLIFIED": "来吧！",
+      "CHINESE_TRADITIONAL": "那～去看看吧",
+      "JAPANESE": "じゃあ、行ってみようか",
+      "INDONESIAN": "Oke~ yuk, kita berangkat.",
+      "PORTUGUESE": "Será que eu devo ir dar uma olhada?",
+      "SPANISH": "Entonces, ¿nos vamos?",
+      "PERSIAN": "یعنی بکنم؟"
+    }
+  }
+]

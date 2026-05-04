@@ -1,0 +1,55 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "끼ㅣㄱ.... ㄲ...끽....",
+      "ENGLISH": "Creeeak… kk… kkreeeek…",
+      "CHINESE_SIMPLIFIED": "咿咿...噫...噫....",
+      "CHINESE_TRADITIONAL": "嘰咿——嘰——",
+      "JAPANESE": "キィィ…ッ ガッ…ギィィ…",
+      "INDONESIAN": "Kreeeek… kk… kkreeeek…",
+      "PORTUGUESE": "Sons rangendo",
+      "SPANISH": "*Sonidos chirriantes*",
+      "PERSIAN": "کریاک… خخخ… قیییژ…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 이 소리... 나만 들린 거 아니죠...",
+      "ENGLISH": "You heard that too, right? It’s not just me…",
+      "CHINESE_SIMPLIFIED": "现在这个声音...不是只有我听见吧...",
+      "CHINESE_TRADITIONAL": "現在這個聲音是...不是只有我聽到吧...",
+      "JAPANESE": "いまの音…俺だけじゃなくて聞こえましたよね…？",
+      "INDONESIAN": "Kamu denger juga kan barusan? Bukan cuma aku doang…",
+      "PORTUGUESE": "Você tá ouvindo... a mesma coisa que eu?",
+      "SPANISH": "¿Estás oyendo... lo mismo que yo?",
+      "PERSIAN": "تو هم شنیدی، درسته؟ فقط من نیستم…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "うん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  }
+]

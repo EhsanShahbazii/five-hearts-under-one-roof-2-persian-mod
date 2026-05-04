@@ -1,0 +1,153 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 유정 씨 ",
+      "ENGLISH": "Oh my, Yujeong!",
+      "CHINESE_SIMPLIFIED": "不是，有情",
+      "CHINESE_TRADITIONAL": "不是，有情",
+      "JAPANESE": "ちょ、ユジョンさん！",
+      "INDONESIAN": "Eh, Yujeong",
+      "PORTUGUESE": "Ei, Yujeong,",
+      "SPANISH": "Oye, Yujeong,",
+      "PERSIAN": "اوه من، یو-جونگ!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 20.7,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "갑자기 연락도 안 되더니 여기서 뭐 하고 있는 거예요...!",
+      "ENGLISH": "You suddenly went off the grid, and now I find you here...!",
+      "CHINESE_SIMPLIFIED": "你怎么突然联系不上了，在这做什么呢...！",
+      "CHINESE_TRADITIONAL": "你突然失聯，在這裡做什麼...！",
+      "JAPANESE": "急に連絡も取れなくなって、何してるんですかここで…！？",
+      "INDONESIAN": "Kamu tiba-tiba ngilang, nggak bisa dihubungin, ternyata lagi di sini...!",
+      "PORTUGUESE": "por que você sumiu sem avisar? O que tá fazendo aqui...?",
+      "SPANISH": "¿por qué desapareciste sin avisar? ¿Qué está haciendo aquí...?",
+      "PERSIAN": "تو ناگهان از شبکه خارج شدی و حالا من تو را اینجا پیدا کردم...!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.6
+    },
+    "SCRIPT": {
+      "KOREAN": "관세음보살...",
+      "ENGLISH": "Avalokitesvara...",
+      "CHINESE_SIMPLIFIED": "阿弥陀佛...",
+      "CHINESE_TRADITIONAL": "阿彌陀佛...",
+      "JAPANESE": "観世音菩薩…",
+      "INDONESIAN": "Om mani padme hum...",
+      "PORTUGUESE": "Om mani padme hum...",
+      "SPANISH": "Om mani padme hum...",
+      "PERSIAN": "آوالوکیتسوارا..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 26.7,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 속박의 굴레에 벗어난 지 오래입니다.",
+      "ENGLISH": "I shed the shackles of bondage long ago.",
+      "CHINESE_SIMPLIFIED": "我早已脱离束缚的枷锁",
+      "CHINESE_TRADITIONAL": "我早已掙脫束縛的枷鎖",
+      "JAPANESE": "私はもう執着の輪から解き放たれました…。",
+      "INDONESIAN": "Aku sudah lama melepaskan diri dari belenggu duniawi",
+      "PORTUGUESE": "Faz tempo que me libertei dos laços deste mundo.",
+      "SPANISH": "Hace mucho que me liberé de las ataduras del mundo.",
+      "PERSIAN": "من مدتها پیش قید اسارت را رها کردم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 30.4,
+      "HIDE": 33.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이젠 고독 스님이라 불러 주십시오.",
+      "ENGLISH": "Henceforth, call me Monk Solitude.",
+      "CHINESE_SIMPLIFIED": "现在请称呼我孤独法师",
+      "CHINESE_TRADITIONAL": "現在請稱呼我為孤獨法師",
+      "JAPANESE": "これからは“孤独僧（こどくそう）”と呼んでください。",
+      "INDONESIAN": "Mulai sekarang panggil aku... Biksu Kesepian",
+      "PORTUGUESE": "Agora, me chame de Monja Solitária.",
+      "SPANISH": "Ahora, llámeme monje Solitaria.",
+      "PERSIAN": "از این پس من را تنهای راهب صدا کنید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 43.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 유, 유정 씨! ",
+      "ENGLISH": "Huh? Y-Yujeong!",
+      "CHINESE_SIMPLIFIED": "呃？有、有情小姐！",
+      "CHINESE_TRADITIONAL": "呃？有、有情小姐！",
+      "JAPANESE": "えっ？ユ、ユジョンさん！？",
+      "INDONESIAN": "Hah? Yu... Yujeong!",
+      "PORTUGUESE": "Hã? Y-Yujeong!",
+      "SPANISH": "¿Eh? ¡Y-Yujeong!",
+      "PERSIAN": "ها؟ -یو-جونگ!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 43.4,
+      "HIDE": 45.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저... 고, 고독 스님!!!",
+      "ENGLISH": "I... Monk Solitude!!!",
+      "CHINESE_SIMPLIFIED": "那个...孤、孤独法师！！！",
+      "CHINESE_TRADITIONAL": "那個...孤獨法師！！！",
+      "JAPANESE": "こ、孤独僧！！！",
+      "INDONESIAN": "A-aku maksudnya... B-biksu Kesepian!!!",
+      "PORTUGUESE": "Quer dizer... M-Monja Solitária!",
+      "SPANISH": "Digo... ¡M-monje Solitaria!",
+      "PERSIAN": "من... تنهایی راهب!!!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 46.1,
+      "HIDE": 46.8
+    },
+    "SCRIPT": {
+      "KOREAN": "고독 스님!!!",
+      "ENGLISH": "Monk Solitude!!!",
+      "CHINESE_SIMPLIFIED": "孤独法师！！！",
+      "CHINESE_TRADITIONAL": "孤獨法師！！！",
+      "JAPANESE": "孤独僧ぉぉぉぉぉ！！！",
+      "INDONESIAN": "Biksu Kesepian!!!",
+      "PORTUGUESE": "Monja Solitária!",
+      "SPANISH": "¡Monje Solitaria!",
+      "PERSIAN": "تنهایی راهب!!!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 47.1
+    }
+  }
+]

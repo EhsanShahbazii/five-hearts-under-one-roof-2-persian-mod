@@ -1,0 +1,777 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.01,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요 박민정 입니다",
+      "ENGLISH": "Hi everyone, it’s Min-jung!",
+      "CHINESE_SIMPLIFIED": "大家好，我是朴敏静",
+      "CHINESE_TRADITIONAL": "大家好，我是樸敏静",
+      "JAPANESE": "こんにちは パク・ミンジョンです",
+      "INDONESIAN": "Hai semuanya, aku Min-jung!",
+      "PORTUGUESE": "Olá, eu sou Park Minjung.",
+      "SPANISH": "¡Hola, soy Park Minjung!",
+      "PERSIAN": "سلام به همه، مین‌جونگ است!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여러분 게임 잘 플레이하고 계시나요?",
+      "ENGLISH": "Are you enjoying the game so far?",
+      "CHINESE_SIMPLIFIED": "各位最近游戏玩得还开心吗？",
+      "CHINESE_TRADITIONAL": "大家遊戲玩得還開心嗎？",
+      "JAPANESE": "みなさん ゲーム楽しんでプレイしてくださってますか？",
+      "INDONESIAN": "Seru nggak gamenya?",
+      "PORTUGUESE": "Estão aproveitando o jogo?",
+      "SPANISH": "¿Están disfrutando del juego?",
+      "PERSIAN": "تا به حال از بازی لذت می برید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.15,
+      "HIDE": 9.12
+    },
+    "SCRIPT": {
+      "KOREAN": "하전미1에 이어서 2에도 이렇게 출연을 하게 되었는데요",
+      "ENGLISH": "After being part of Five Hearts Under One Roof S1, I’m back again for season 2!",
+      "CHINESE_SIMPLIFIED": "继《阿西美女》第一季之后，这次我也出演了第二季哦！",
+      "CHINESE_TRADITIONAL": "很榮幸能出演《阿西, 美女室友竟然...？》第一季和第二季",
+      "JAPANESE": "『まさか！下宿生が 美女ですって？1』に続き 『2』にもこうして出演できることになりました",
+      "INDONESIAN": "Setelah tampil di Five Hearts Under One Roof 1, aku balik lagi nih di season 2!",
+      "PORTUGUESE": "Depois de aparecer em Five Hearts Under One Roof Temporada 1, voltei para a Temporada 2.",
+      "SPANISH": "Después de aparecer en Five Hearts Under One Roof Temporada 1, volví para la Temporada 2.",
+      "PERSIAN": "بعد از اینکه بخشی از یک سقف و پنج قلب 1 بودم، دوباره برای فصل 2 برگشتم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.12,
+      "HIDE": 12.23
+    },
+    "SCRIPT": {
+      "KOREAN": "(민정이가)이제 1에서는 괴롭힘을 제가 많이 당했잖아요",
+      "ENGLISH": "As you probably remember, in the first one, Min-jung (me!) went through a lot",
+      "CHINESE_SIMPLIFIED": "在第一季里我可是被欺负得很惨呢",
+      "CHINESE_TRADITIONAL": "第一季的時候，我不是被欺負得特別慘嗎",
+      "JAPANESE": "（ミンジョン）って 1では散々いじめられてたじゃないですか",
+      "INDONESIAN": "Kalian pasti inget ya, di season 1 tuh aku sering banget disakitin.",
+      "PORTUGUESE": "Na 1, a Minjung sofreu muito assédio, né?",
+      "SPANISH": "En la 1, Minjung recibió mucho acoso, ¿verdad?",
+      "PERSIAN": "همانطور که احتمالاً به یاد دارید، در اولین مورد، مین‌جونگ (من!) چیزهای زیادی را پشت سر گذاشت"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.23,
+      "HIDE": 15.05
+    },
+    "SCRIPT": {
+      "KOREAN": "그 나쁜 일당들 때문에",
+      "ENGLISH": "Mostly because of those awful people messing things up.",
+      "CHINESE_SIMPLIFIED": "都是因为那群坏蛋！",
+      "CHINESE_TRADITIONAL": "都怪那群壞傢伙們",
+      "JAPANESE": "あの悪い連中のせいで",
+      "INDONESIAN": "Gara-gara geng jahat itu tuh...",
+      "PORTUGUESE": "Por culpa daquela gente ruim.",
+      "SPANISH": "Por culpa de esa gente mala.",
+      "PERSIAN": "بیشتر به خاطر اون آدم های بدی که اوضاع را به هم می ریزند."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.05,
+      "HIDE": 19.02
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 2에서는 그래도 유만이랑 좀 잘 지내면서",
+      "ENGLISH": "But in part 2, I’m a bit more settled this time,",
+      "CHINESE_SIMPLIFIED": "不过在第二季里，至少和宥万的关系缓和了不少",
+      "CHINESE_TRADITIONAL": "不過從第二季開始，我和宥萬的關係變得比較好",
+      "JAPANESE": "でも2では ユマンと少しずつうまくやっていきながら",
+      "INDONESIAN": "Tapi di season 2 ini, aku udah lebih chill.",
+      "PORTUGUESE": "Mas na 2 vocês poderão ver que, com a ajuda do Yuman,",
+      "SPANISH": "Pero en el 2 podrán ver que con la ayuda de Yuman,",
+      "PERSIAN": "اما در قسمت 2، این بار کمی آرام تر هستم،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.02,
+      "HIDE": 22.21
+    },
+    "SCRIPT": {
+      "KOREAN": "마음이 안정도 된 모습을 보실 수가 있을 것 같습니다",
+      "ENGLISH": "especially thanks to how things go with Yuman.",
+      "CHINESE_SIMPLIFIED": "大家应该能看到我内心逐渐平静的模样",
+      "CHINESE_TRADITIONAL": "大家可以也看到我心情更平靜、成熟的一面",
+      "JAPANESE": "心が落ち着いてきた私の姿を見られると思います",
+      "INDONESIAN": "Apalagi karena hubunganku sama Yuman juga lumayan oke.",
+      "PORTUGUESE": "ela está um pouco mais estável emocionalmente.",
+      "SPANISH": "está un poco más estable emocionalmente.",
+      "PERSIAN": "به خصوص به لطف اینکه اوضاع با یومان چگونه پیش می رود."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.21,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 여러 가지 사건 사고들이 있긴 하지만 그래도 나름은",
+      "ENGLISH": "Of course, there’s still drama and chaos",
+      "CHINESE_SIMPLIFIED": "虽然还会经历各种风波坎坷",
+      "CHINESE_TRADITIONAL": "雖然還是會發生一些事件或小麻煩",
+      "JAPANESE": "まあいろいろ事件はあるんですけど、それでもまだ",
+      "INDONESIAN": "Meskipun tetap banyak drama dan ribet, tapi...",
+      "PORTUGUESE": "Claro que acontecem vários incidentes, mas mesmo assim",
+      "SPANISH": "Claro que ocurren varios incidentes, pero aun así",
+      "PERSIAN": "البته هنوز درام و هرج و مرج وجود دارد"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 30.07
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아진 제 모습을 봐주시길 바랍니다",
+      "ENGLISH": "But I hope you notice how I’ve grown and come into my own a little more.",
+      "CHINESE_SIMPLIFIED": "但还是希望各位能关注我逐渐成长的样子",
+      "CHINESE_TRADITIONAL": "但希望大家能喜歡我漸漸變得更好的樣子",
+      "JAPANESE": "少しは良くなったミンジョンを見てくれたら嬉しいです",
+      "INDONESIAN": "tapi aku harap kalian bisa liat versi aku yang udah lebih dewasa.",
+      "PORTUGUESE": "espero que vejam como ela melhorou.",
+      "SPANISH": "espero que vean cómo ha mejorado.",
+      "PERSIAN": "اما امیدوارم متوجه شده باشید که چگونه من رشد کرده ام و کمی بیشتر به خودم رسیده ام."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 30.07,
+      "HIDE": 32.15
+    },
+    "SCRIPT": {
+      "KOREAN": "되게 인상 깊었던 부분은",
+      "ENGLISH": "One scene that really stuck with me..",
+      "CHINESE_SIMPLIFIED": "最让我印象深刻的",
+      "CHINESE_TRADITIONAL": "讓我印象很深刻的部分是",
+      "JAPANESE": "すごく印象に残ってるシーンは",
+      "INDONESIAN": "Yang paling berkesan banget buat aku tuh...",
+      "PORTUGUESE": "A parte de que mais me lembro é…",
+      "SPANISH": "La parte que más recuerdo es...",
+      "PERSIAN": "صحنه ای که واقعا به دلم نشست.."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.15,
+      "HIDE": 36.1
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 물을 맞는 장면이 있는데 옷이 시스루가 되거든요",
+      "ENGLISH": "There’s this moment where I get splashed with water, and my outfit turns kind of sheer.",
+      "CHINESE_SIMPLIFIED": "是有一段我被雨淋湿的戏份，衣服都变成透视装了",
+      "CHINESE_TRADITIONAL": "是我被潑到水的那場戲，衣服變得有點透視",
+      "JAPANESE": "私が水をかぶる場面があるんですけど服がシースルーになっちゃうんですよね",
+      "INDONESIAN": "Ada adegan aku kena air, terus bajunya jadi agak nembus ]gitu.",
+      "PORTUGUESE": "quando cai água em mim e minha roupa fica toda transparente.",
+      "SPANISH": "cuando me cae agua y toda mi ropa se transparenta.",
+      "PERSIAN": "این لحظه وجود دارد که آب به من پاشیده می شود و لباسم به نوعی شفاف می شود."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 36.1,
+      "HIDE": 38.23
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 그때가 되게 예뻤던 것 같아요",
+      "ENGLISH": "It actually turned out so pretty on camera.",
+      "CHINESE_SIMPLIFIED": "那个画面真的特别美",
+      "CHINESE_TRADITIONAL": "那個畫面好像拍得蠻漂亮的～",
+      "JAPANESE": "だからあの時の私、すごく綺麗だったと思うんです",
+      "INDONESIAN": "Di kamera hasilnya bagus banget sih jujur.",
+      "PORTUGUESE": "Acho que fiquei muito bonita nessa cena.",
+      "SPANISH": "Creo que me veía muy bonita en esa escena.",
+      "PERSIAN": "در واقع در دوربین بسیار زیبا بود."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 38.23,
+      "HIDE": 42.12
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 힘들었어요 사실은 좀 춥기도 하고",
+      "ENGLISH": "But honestly? It was cold and not easy to shoot.",
+      "CHINESE_SIMPLIFIED": "不过拍摄时其实挺辛苦的，又冷又难受",
+      "CHINESE_TRADITIONAL": "但其實拍的時候很辛苦",
+      "JAPANESE": "でも実際は、大変で 結構寒かったし",
+      "INDONESIAN": "Tapi aslinya... dingin banget, dan ribet karena rambut juga basah.",
+      "PORTUGUESE": "E foi um pouco difícil porque estava frio.",
+      "SPANISH": "Y fue un poco difícil porque tenía frío.",
+      "PERSIAN": "اما صادقانه؟ هوا سرد بود و تیراندازی آسان نبود."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 42.12,
+      "HIDE": 45.12
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 머리가 젖어서 힘들었는데",
+      "ENGLISH": "Still, I think",
+      "CHINESE_SIMPLIFIED": "头发湿漉漉的状态确实不好受",
+      "CHINESE_TRADITIONAL": "因為很冷，頭髮又都濕透",
+      "JAPANESE": "髪もびしょ濡れで大変だったんですけど",
+      "INDONESIAN": "Tapi jujur aja,",
+      "PORTUGUESE": "Meu cabelo ficou encharcado.",
+      "SPANISH": "Mi cabello estaba empapado.",
+      "PERSIAN": "با این حال، من فکر می کنم"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 45.12,
+      "HIDE": 45.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 그 장면 자체는 되게 예쁘게 나온 것 같아서",
+      "ENGLISH": "it ended up being one of the most beautiful scenes,",
+      "CHINESE_SIMPLIFIED": "但成片效果确实很唯美",
+      "CHINESE_TRADITIONAL": "不過效果真的很好",
+      "JAPANESE": "出来上がった映像はすごく綺麗に撮れたみたいで",
+      "INDONESIAN": "hasil akhirnya bagus banget...",
+      "PORTUGUESE": "Mas a cena ficou muito boa.",
+      "SPANISH": "pero la escena quedó muy bien.",
+      "PERSIAN": "در نهایت یکی از زیباترین صحنه ها بود"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 45.2,
+      "HIDE": 48.23
+    },
+    "SCRIPT": {
+      "KOREAN": "저한테 되게 인상에 깊습니다",
+      "ENGLISH": "so it’s very memorable for me.",
+      "CHINESE_SIMPLIFIED": "所以让我格外难忘",
+      "CHINESE_TRADITIONAL": "所以讓我印象非常深刻",
+      "JAPANESE": "私の中ではすごく印象深いシーンです",
+      "INDONESIAN": "jadi memorable banget buat aku.",
+      "PORTUGUESE": "Por isso acho que é uma das mais marcantes.",
+      "SPANISH": "Por eso me parece una de las más memorables.",
+      "PERSIAN": "بنابراین برای من بسیار خاطره انگیز است"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 48.23,
+      "HIDE": 50.2
+    },
+    "SCRIPT": {
+      "KOREAN": "(하전미 1 인기투표 3위 소감은?)",
+      "ENGLISH": "(How did it feel to place 3rd in the FHOUR1 popularity vote?)",
+      "CHINESE_SIMPLIFIED": "（对于第一季人气投票获得第3名有什么感想？）",
+      "CHINESE_TRADITIONAL": "《阿西, 美女室友竟然...？》第一季中，人氣投票得到第3名的感想是？",
+      "JAPANESE": "（まさか！下宿生が 美女ですって？1』人気投票3位の感想は？）",
+      "INDONESIAN": "(Gimana rasanya dapet peringkat 3 di voting Five Hearts Under One Roof 1?)",
+      "PORTUGUESE": "(O que você sente por ter ficado em 3º lugar no ranking de Five Hearts Under One Roof 1?)",
+      "SPANISH": "(¿Cómo te sientes al quedar en 3° lugar en el ranking de Five Hearts Under One Roof 1?)",
+      "PERSIAN": "(جای گرفتن در رتبه سوم در رای محبوبیت 1 چه حسی داشت؟)"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 51.15,
+      "HIDE": 53.02
+    },
+    "SCRIPT": {
+      "KOREAN": "아유 감사합니다",
+      "ENGLISH": "Oh my gosh, thank you so much!",
+      "CHINESE_SIMPLIFIED": "哇呜~非常感谢！",
+      "CHINESE_TRADITIONAL": "哎呀，謝謝大家！",
+      "JAPANESE": "本当ありがとうございます",
+      "INDONESIAN": "Ya ampun, makasih banyak ya!",
+      "PORTUGUESE": "De verdade, muito obrigada.",
+      "SPANISH": "En serio, muchas gracias.",
+      "PERSIAN": "اوه خدای من، خیلی ممنون!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 53.02,
+      "HIDE": 54.15
+    },
+    "SCRIPT": {
+      "KOREAN": "쟁쟁한 출연진들 사이에서 제가 3등이라니",
+      "ENGLISH": "With so many amazing cast members, I can’t believe I came in third.",
+      "CHINESE_SIMPLIFIED": "在这么多优秀出演者中能获得第3名",
+      "CHINESE_TRADITIONAL": "能在這麼多優秀的出演者中拿到第三名",
+      "JAPANESE": "すごい出演陣の中で私が3位なんて",
+      "INDONESIAN": "Nggak nyangka bisa masuk top 3, padahal cast-nya keren-keren banget.",
+      "PORTUGUESE": "Entre tantos personagens incríveis, não acredito que fiquei em terceiro.",
+      "SPANISH": "Entre tantos increíbles personajes, no puedo creer que haya quedado tercera.",
+      "PERSIAN": "با تعداد زیادی از بازیگران شگفت انگیز، نمی توانم باور کنم که سوم شدم."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 54.15,
+      "HIDE": 57.14
+    },
+    "SCRIPT": {
+      "KOREAN": "정말 너무너무 기분이 좋고요",
+      "ENGLISH": "It made me so happy.",
+      "CHINESE_SIMPLIFIED": "真的真的超级开心",
+      "CHINESE_TRADITIONAL": "我真的非常非常開心！",
+      "JAPANESE": "本当に本当に嬉しいです",
+      "INDONESIAN": "Rasanya seneng banget, beneran.",
+      "PORTUGUESE": "Estou realmente muito, muito feliz.",
+      "SPANISH": "Estoy realmente muy, muy feliz.",
+      "PERSIAN": "خیلی خوشحالم کرد"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 57.14,
+      "HIDE": 59.12
+    },
+    "SCRIPT": {
+      "KOREAN": "이번에도 사실 상위권을 좀 하고 싶은데",
+      "ENGLISH": "This time... I’d love to make it into the top ranks again!",
+      "CHINESE_SIMPLIFIED": "这次其实也想冲击更高名次",
+      "CHINESE_TRADITIONAL": "這次其實也偷偷希望能進入前面名次",
+      "JAPANESE": "今回もできれば上位を狙いたいんですけど",
+      "INDONESIAN": "Season ini... aku sih pengen naik peringkat lagi hehe~",
+      "PORTUGUESE": "Também adoraria ficar em uma boa posição desta vez.",
+      "SPANISH": "También me encantaría quedar en un buen puesto esta vez",
+      "PERSIAN": "این بار... دوست دارم دوباره به رتبه های برتر برسم!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 59.12,
+      "HIDE": 60.08
+    },
+    "SCRIPT": {
+      "KOREAN": "욕심일 수도 있겠지만 어떻게 안되겠습니까?",
+      "ENGLISH": "Maybe that’s greedy—but hey, a girl can dream, right?",
+      "CHINESE_SIMPLIFIED": "虽然可能有点贪心，但有点野心又有什么不好！",
+      "CHINESE_TRADITIONAL": "雖然可能有點貪心，有沒有什麼辦法可以達成呢？",
+      "JAPANESE": "欲張りですかね でも、できそうですか？",
+      "INDONESIAN": "Mungkin agak ngarep ya, tapi ya namanya juga usaha.",
+      "PORTUGUESE": "Sei que é um pouco ambicioso, mas… poderiam fazer isso acontecer?",
+      "SPANISH": "Sé que es un poco ambicioso pero ¿podrían hacerlo realidad?",
+      "PERSIAN": "شاید این حریص باشد - اما هی، یک دختر می تواند خواب ببیند، درست است؟"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 60.08,
+      "HIDE": 63.12
+    },
+    "SCRIPT": {
+      "KOREAN": "부탁해요",
+      "ENGLISH": "So please, help me out!",
+      "CHINESE_SIMPLIFIED": "拜托大家啦",
+      "CHINESE_TRADITIONAL": "拜託大家了！",
+      "JAPANESE": "応援してください",
+      "INDONESIAN": "Tolong dukung aku ya~",
+      "PORTUGUESE": "Eu peço, por favor.",
+      "SPANISH": "Se los pido, por favor.",
+      "PERSIAN": "پس لطفا به من کمک کنید"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 63.12,
+      "HIDE": 66.22
+    },
+    "SCRIPT": {
+      "KOREAN": "(1등 공약 있나요?)",
+      "ENGLISH": "(Do you have a promise if you win 1st place?)",
+      "CHINESE_SIMPLIFIED": "（如果荣获第一名的话有夺冠公约吗？）",
+      "CHINESE_TRADITIONAL": "如果拿第1名有什麼承諾嗎？",
+      "JAPANESE": "（1位の公約はありますか？）",
+      "INDONESIAN": "(Ada janji khusus kalo menang 1?)",
+      "PORTUGUESE": "(O que você promete se ficar em 1º lugar?)",
+      "SPANISH": "(¿Qué prometes si quedas en 1° lugar?)",
+      "PERSIAN": "(در صورت کسب مقام اول قولی دارید؟)"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 68.05,
+      "HIDE": 69.09
+    },
+    "SCRIPT": {
+      "KOREAN": "1등 하면 제가 생각을 해봤는데",
+      "ENGLISH": "I’ve been thinking...",
+      "CHINESE_SIMPLIFIED": "关于夺冠公约我也考虑过",
+      "CHINESE_TRADITIONAL": "我有想過喔～",
+      "JAPANESE": "1位をしたら考えてみたんですけど",
+      "INDONESIAN": "Aku sempet mikir...",
+      "PORTUGUESE": "Se eu chegasse a ficar em primeiro…",
+      "SPANISH": "Si llegara a quedar primera…",
+      "PERSIAN": "داشتم فکر میکردم..."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 69.09,
+      "HIDE": 70.21
+    },
+    "SCRIPT": {
+      "KOREAN": "대머리를 할까 뭐 이런 생각도 했지만",
+      "ENGLISH": "At first I joked about shaving my head, but let’s be real",
+      "CHINESE_SIMPLIFIED": "甚至连要不要剃光头都脑补过！",
+      "CHINESE_TRADITIONAL": "原本還想過要不要剃光頭之類的",
+      "JAPANESE": "丸坊主にしようかな とか思ったりもしたんですが",
+      "INDONESIAN": "mau botakin kepala sih, tapi ya nggak mungkin juga deh ahhah.",
+      "PORTUGUESE": "até pensei em raspar meu cabelo,",
+      "SPANISH": "pensé incluso en raparme,",
+      "PERSIAN": "در ابتدا با تراشیدن سرم شوخی کردم، اما بیایید واقعی باشیم"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 70.21,
+      "HIDE": 74.09
+    },
+    "SCRIPT": {
+      "KOREAN": "현실적으로 제가 인스타에 비키니 사진을 자주 올리거든요",
+      "ENGLISH": "I post bikini pics on Instagram pretty often, right?",
+      "CHINESE_SIMPLIFIED": "不过现实中我经常在INS发比基尼照片",
+      "CHINESE_TRADITIONAL": "從現實層面來說，因為我平常也常在 IG 上傳比基尼照嘛",
+      "JAPANESE": "現実的に私はインスタにビキニの写真よく載せるので",
+      "INDONESIAN": "Aku tuh kan lumayan sering upload foto pakai bikini di Instagram ya~",
+      "PORTUGUESE": "mas sendo mais realista, como eu costumo postar fotos de biquíni no Instagram,",
+      "SPANISH": "pero siendo más realista, como suelo subir fotos en bikini a Instagram,",
+      "PERSIAN": "من اغلب عکس های بیکینی را در اینستاگرام پست می کنم، درست است؟"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 74.09,
+      "HIDE": 77.08
+    },
+    "SCRIPT": {
+      "KOREAN": "그 비키니 중에서도 아주 야하고 섹시한 비키니를 찍어보겠습니다",
+      "ENGLISH": "So if I win 1st, I’ll shoot a super sexy, jaw-droppingly hot bikini photo just for you all.",
+      "CHINESE_SIMPLIFIED": "这次就准备拍一组特别火辣的比基尼写真",
+      "CHINESE_TRADITIONAL": "如果拿第1名，會拍一組超火辣超性感的比基尼照送給大家！",
+      "JAPANESE": "その中でも とびきり過激でセクシーなビキニで撮ってみようと思ってます",
+      "INDONESIAN": "Jadi kalau aku dapet juara 1, aku bakal upload foto bikini yang super hot.",
+      "PORTUGUESE": "vou postar uma foto com um biquíni extremamente chamativo e sexy.",
+      "SPANISH": "subiré una foto con un bikini extremadamente llamativo y sexy.",
+      "PERSIAN": "بنابراین اگر من برنده اول شوم، یک عکس بیکینی فوق‌العاده سکسی و فوق‌العاده داغ را فقط برای همه شما می‌گیرم."
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 77.08,
+      "HIDE": 81.21
+    },
+    "SCRIPT": {
+      "KOREAN": "여러분들의 눈을 즐겁게 하기 위해서 정말 정말 왕 섹시!",
+      "ENGLISH": "To bless your eyes with maximum sexy vibes. You’re welcome~ ",
+      "CHINESE_SIMPLIFIED": "为了让大家一饱眼福，绝对会是终极性感暴击！",
+      "CHINESE_TRADITIONAL": "為了讓大家的眼睛得到享受～會拍得很性感喔！",
+      "JAPANESE": "みなさんの目を楽しませるために もうほんと王セクシー！",
+      "INDONESIAN": "Yang bener-bener seksi gila pokoknya!",
+      "PORTUGUESE": "Para agradar vocês, algo realmente muito sexy.",
+      "SPANISH": "Para alegrarles la vista, algo realmente muy sexy.",
+      "PERSIAN": "تا چشمان خود را با حداکثر انعکاس سکسی برکت دهید. خوش اومدی~"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 81.21,
+      "HIDE": 87.04
+    },
+    "SCRIPT": {
+      "KOREAN": "하전미1에 이어서 2도 이렇게 플레이하고 계셔서",
+      "ENGLISH": "To everyone who played FHOUR S1 and S2,",
+      "CHINESE_SIMPLIFIED": "从《阿西美女》第一季到第二季都能被大家宠爱",
+      "CHINESE_TRADITIONAL": "非常高興也很感謝大家",
+      "JAPANESE": "まさか！下宿生が 美女ですって？1に続いて『2』もこうしてプレイしてくださって",
+      "INDONESIAN": "Buat kalian yang udah main Five Hearts Under One Roof 1 dan sekarang Five Hearts Under One Roof 2 juga,",
+      "PORTUGUESE": "Fico muito feliz que estejam jogando a temporada 2",
+      "SPANISH": "Me alegra muchísimo que estén jugando la temporada 2",
+      "PERSIAN": "به همه کسانی که یک سقف و پنج قلب 1 و 2 بازی کردند،"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 87.04,
+      "HIDE": 91.0
+    },
+    "SCRIPT": {
+      "KOREAN": "정말 너무너무 반갑고 감사한 마음이고요",
+      "ENGLISH": "thank you so, so much.\n",
+      "CHINESE_SIMPLIFIED": "真的感到非常非常荣幸和感激",
+      "CHINESE_TRADITIONAL": "繼續遊玩及享受《阿西, 美女室友竟然...？2》",
+      "JAPANESE": "本当に本当に嬉しくて感謝の気持ちでいっぱいです",
+      "INDONESIAN": "Makasih banget ya. Seneng banget bisa balik lagi.",
+      "PORTUGUESE": "tanto quanto a primeira. Sou muito grata.",
+      "SPANISH": "tanto como la primera. Estoy muy agradecida.",
+      "PERSIAN": "خیلی ممنون"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 91.0,
+      "HIDE": 94.13
+    },
+    "SCRIPT": {
+      "KOREAN": "즐겁게 하셨으면 좋겠어요",
+      "ENGLISH": "I hope you’re having a great time with the game,",
+      "CHINESE_SIMPLIFIED": "希望各位看得开心",
+      "CHINESE_TRADITIONAL": "真心希望各位能玩得開心",
+      "JAPANESE": "楽しんでいただけたら嬉しいです",
+      "INDONESIAN": "Semoga kalian enjoy mainnya.",
+      "PORTUGUESE": "Espero que aproveitem bastante.",
+      "SPANISH": "Espero que lo disfruten mucho.",
+      "PERSIAN": "امیدوارم لحظات خوبی را با بازی سپری کرده باشید"
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 94.13,
+      "HIDE": 97.17
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 잘 했나 모르겠어요",
+      "ENGLISH": "and if you think I did a good job,",
+      "CHINESE_SIMPLIFIED": "不知道我表现够不够好呀",
+      "CHINESE_TRADITIONAL": "不知道我這次表現怎麼樣",
+      "JAPANESE": "うまくできてるかわからないですけど",
+      "INDONESIAN": "Aku nggak tahu deh aktingku bagus apa enggak...",
+      "PORTUGUESE": "Não sei se fiz um bom trabalho.",
+      "SPANISH": "No sé qué tal lo hice.",
+      "PERSIAN": "و اگر فکر می کنید من کار خوبی کردم،"
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 97.17,
+      "HIDE": 99.2
+    },
+    "SCRIPT": {
+      "KOREAN": "잘 했다고 칭찬도 해주시면 너무 감사할 것 같습니다",
+      "ENGLISH": "I’d really love to hear it.",
+      "CHINESE_SIMPLIFIED": "要是觉得还不错的话，请多多夸夸我！",
+      "CHINESE_TRADITIONAL": "如果覺得我表現不錯，也請多多稱讚我一下喔♡",
+      "JAPANESE": "よくやったよって褒めてもらえたら、とても嬉しいです",
+      "INDONESIAN": "Tapi kalau kalian suka, kasih tahu aku ya.",
+      "PORTUGUESE": "Mas eu realmente gostaria que dissessem que eu fui bem.",
+      "SPANISH": "Pero me gustaría mucho que me dijeran que lo hice bien.",
+      "PERSIAN": "من واقعا دوست دارم اونو بشنوم."
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 99.2,
+      "HIDE": 101.17
+    },
+    "SCRIPT": {
+      "KOREAN": "다들 너무 고마워요",
+      "ENGLISH": "Thank you all so much.",
+      "CHINESE_SIMPLIFIED": "非常感谢大家",
+      "CHINESE_TRADITIONAL": "謝謝大家～",
+      "JAPANESE": "みんな ほんとにありがとう",
+      "INDONESIAN": "Terima kasih semuanya~",
+      "PORTUGUESE": "De verdade, muito obrigada a todos.",
+      "SPANISH": "De verdad, muchas gracias a todos.",
+      "PERSIAN": "از همه شما بسیار دستت درد نکنه."
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 101.17,
+      "HIDE": 106.07
+    },
+    "SCRIPT": {
+      "KOREAN": "I love you",
+      "ENGLISH": "I love you",
+      "CHINESE_SIMPLIFIED": "I love you",
+      "CHINESE_TRADITIONAL": "I love you",
+      "JAPANESE": "I love you",
+      "INDONESIAN": "I love you",
+      "PORTUGUESE": "I love you",
+      "SPANISH": "I love you",
+      "PERSIAN": "دوستت دارم"
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "TIME": {
+      "SHOW": 106.07,
+      "HIDE": 108.05
+    },
+    "SCRIPT": {
+      "KOREAN": "我爱你",
+      "ENGLISH": "我爱你",
+      "CHINESE_SIMPLIFIED": "我爱你",
+      "CHINESE_TRADITIONAL": "我愛你",
+      "JAPANESE": "我爱你",
+      "INDONESIAN": "我爱你",
+      "PORTUGUESE": "我爱你",
+      "SPANISH": "我爱你",
+      "PERSIAN": "我爱你"
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "TIME": {
+      "SHOW": 108.05,
+      "HIDE": 109.09
+    },
+    "SCRIPT": {
+      "KOREAN": "あいしてる",
+      "ENGLISH": "あいしてる",
+      "CHINESE_SIMPLIFIED": "あいしてる",
+      "CHINESE_TRADITIONAL": "あいしてる",
+      "JAPANESE": "あいしてる",
+      "INDONESIAN": "あいしてる",
+      "PORTUGUESE": "あいしてる",
+      "SPANISH": "あいしてる",
+      "PERSIAN": "あいしてる"
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "TIME": {
+      "SHOW": 109.09,
+      "HIDE": 110.21
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "TIME": {
+      "SHOW": 110.21,
+      "HIDE": 114.09
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "TIME": {
+      "SHOW": 114.09,
+      "HIDE": 117.08
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "TIME": {
+      "SHOW": 117.08,
+      "HIDE": 121.21
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "TIME": {
+      "SHOW": 121.21,
+      "HIDE": 127.04
+    }
+  },
+  {
+    "INDEX": 44.0,
+    "TIME": {
+      "SHOW": 127.04,
+      "HIDE": 131.0
+    }
+  },
+  {
+    "INDEX": 45.0,
+    "TIME": {
+      "SHOW": 131.0,
+      "HIDE": 134.13
+    }
+  },
+  {
+    "INDEX": 46.0,
+    "TIME": {
+      "SHOW": 134.13,
+      "HIDE": 137.17
+    }
+  },
+  {
+    "INDEX": 47.0,
+    "TIME": {
+      "SHOW": 137.17,
+      "HIDE": 139.2
+    }
+  },
+  {
+    "INDEX": 48.0,
+    "TIME": {
+      "SHOW": 139.2,
+      "HIDE": 141.17
+    }
+  },
+  {
+    "INDEX": 49.0,
+    "TIME": {
+      "SHOW": 141.17,
+      "HIDE": 148.05
+    }
+  },
+  {
+    "INDEX": 50.0,
+    "TIME": {
+      "SHOW": 146.07,
+      "HIDE": 149.02
+    }
+  },
+  {
+    "INDEX": 51.0,
+    "TIME": {
+      "SHOW": 149.02,
+      "HIDE": 152.02
+    }
+  }
+]

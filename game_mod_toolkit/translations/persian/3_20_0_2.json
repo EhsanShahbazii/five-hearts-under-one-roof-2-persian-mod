@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨...!",
+      "ENGLISH": "Yu-jeong...!",
+      "CHINESE_SIMPLIFIED": "有情小姐...！",
+      "CHINESE_TRADITIONAL": "有情小姐…！",
+      "JAPANESE": "ユジョンさん…！",
+      "INDONESIAN": "Yu-jeong...!",
+      "PORTUGUESE": "Senhorita Yujeong…!",
+      "SPANISH": "¡Señorita Yujeong…!",
+      "PERSIAN": "یو جونگ...!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어 자기야!!",
+      "ENGLISH": "Babe~!",
+      "CHINESE_SIMPLIFIED": "怎么了亲爱的！！",
+      "CHINESE_TRADITIONAL": "怎麼了，親愛的！！",
+      "JAPANESE": "あっ ねぇ あなた〜！！",
+      "INDONESIAN": "Sayang~!",
+      "PORTUGUESE": "Oh, amor!",
+      "SPANISH": "¡Oh, cariño!",
+      "PERSIAN": "عزیزم~!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우와",
+      "ENGLISH": "Whoa.",
+      "CHINESE_SIMPLIFIED": "哇！",
+      "CHINESE_TRADITIONAL": "哇～",
+      "JAPANESE": "うわっ！？",
+      "INDONESIAN": "Wah.",
+      "PORTUGUESE": "Whoa...",
+      "SPANISH": "Whoa...",
+      "PERSIAN": "اوه"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 시X  깜짝이야! 여친인 줄 알았네. 누구세요?",
+      "ENGLISH": "Oh sh*t, you scared me! Thought you were my girlfriend or something. Who are you?",
+      "CHINESE_SIMPLIFIED": "我去！吓死我了！还以为是我女朋友呢。您哪位啊？",
+      "CHINESE_TRADITIONAL": "挖靠，嚇我一跳！還以為是我女朋友呢。你是…？",
+      "JAPANESE": "びっくりした…彼女かと思った どなたですか？",
+      "INDONESIAN": "Aduh, sial, kamu bikin aku takut! Kamu pikir kamu pacarku atau apalah. Kamu siapa?",
+      "PORTUGUESE": "Ah, poxa, que susto. Pensei que fosse minha namorada. Quem é você?",
+      "SPANISH": "Ah, joder, qué susto. Pensé que eras mi novia. ¿Quién eres?",
+      "PERSIAN": "اوه، تو منو ترسوندی! فکر کردم دوست دختر من هستی یا چیزی تو کی هستی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 죄송합니다. 제가 사람을 착각했나봐요...",
+      "ENGLISH": "Ah, sorry... I must’ve mistaken you for someone else.",
+      "CHINESE_SIMPLIFIED": "啊抱歉，我好像认错人了...",
+      "CHINESE_TRADITIONAL": "啊，抱歉，我好像認錯人了…",
+      "JAPANESE": "あ すみません 人違いでした…",
+      "INDONESIAN": "Ah, maaf... Aku pasti salah mengira kamu orang lain.",
+      "PORTUGUESE": "Ah, desculpa. Acho que te confundi com outra pessoa...",
+      "SPANISH": "Ah, disculpa. Creo que te confundí con otra persona...",
+      "PERSIAN": "آه، متاسفم... حتما شما را با شخص دیگری اشتباه گرفتم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 예 뭐.",
+      "ENGLISH": "Yeah, okay...",
+      "CHINESE_SIMPLIFIED": "哦，没事",
+      "CHINESE_TRADITIONAL": "喔，沒事",
+      "JAPANESE": "あ そうですか",
+      "INDONESIAN": "Ya, oke...",
+      "PORTUGUESE": "Ah, sim, tudo bem.",
+      "SPANISH": "Ah, sí, está bien.",
+      "PERSIAN": "آره باشه..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 혹시...",
+      "ENGLISH": "Um, actually—",
+      "CHINESE_SIMPLIFIED": "那个，请问...",
+      "CHINESE_TRADITIONAL": "啊，對了…",
+      "JAPANESE": "あの すみません",
+      "INDONESIAN": "Hmm, sebenarnya—",
+      "PORTUGUESE": "Ei, por acaso...",
+      "SPANISH": "Oye, por casualidad...",
+      "PERSIAN": "اوم، در واقع-"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 알바생 중에",
+      "ENGLISH": "Is there someone who works here...",
+      "CHINESE_SIMPLIFIED": "这里的兼职员工里",
+      "CHINESE_TRADITIONAL": "在這裡打工的人當中",
+      "JAPANESE": "ここでバイトしてる人で",
+      "INDONESIAN": "Apakah ada yang bekerja di sini...",
+      "PORTUGUESE": "entre os funcionários daqui, tem alguém",
+      "SPANISH": "entre los empleados de aquí, ¿hay alguien",
+      "PERSIAN": "کسی هست که اینجا کار کنه..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "키는 이 만하고, 고양이 상에…",
+      "ENGLISH": "She’s about this tall, kind of cat-like features...",
+      "CHINESE_SIMPLIFIED": "个子大概这么高，长相像猫咪的...",
+      "CHINESE_TRADITIONAL": "身高大概這麼高，長得像貓一樣…",
+      "JAPANESE": "身長はこれくらいで 猫っぽい顔の…",
+      "INDONESIAN": "Dia tinggi, dan berwajah seperti kucing...",
+      "PORTUGUESE": "mais ou menos dessa altura, com rostinho de gato...?",
+      "SPANISH": "más o menos de esta estatura, con cara de gato...?",
+      "PERSIAN": "او در مورد این ویژگی های قد بلند و گربه مانند است ..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그 이름은 양유정인데, 그런 사람 몰라요?",
+      "ENGLISH": "Her name’s Yang Yu-jeong. Do you know her?",
+      "CHINESE_SIMPLIFIED": "名字叫梁有情，您认识这样的人吗？",
+      "CHINESE_TRADITIONAL": "名字叫做梁有情，你知道這位嗎？",
+      "JAPANESE": "名前はヤン・ユジョンって言うんですけど そういう人知ってます？",
+      "INDONESIAN": "Namanya Yang Yu-jeong. Kamu kenal dia?",
+      "PORTUGUESE": "Ela se chama Yujeong Yang, te diz algo?",
+      "SPANISH": "Se llama Yujeong Yang, ¿te suena?",
+      "PERSIAN": "نام او یانگ یو جونگ است. اونو می شناسید؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah—",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜",
+      "INDONESIAN": "Ah-",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه -"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어!!! 알죠!",
+      "ENGLISH": "Oh!!! Yeah, I know who—",
+      "CHINESE_SIMPLIFIED": "呃！！！认识吗！",
+      "CHINESE_TRADITIONAL": "喔！！！知道啊！",
+      "JAPANESE": "あっ！！！ 知ってます！",
+      "INDONESIAN": "Oh!!! Ya, aku tahu siapa—",
+      "PORTUGUESE": "Oh! Sim, claro!",
+      "SPANISH": "¡Oh! ¡Sí, claro!",
+      "PERSIAN": "اوه!!! آره، میدونم کی..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨. 저 알바 첫날이라 모르겠는데요.",
+      "ENGLISH": "Actually, no. Today’s my first day on the job, so I don’t really know anyone yet.",
+      "CHINESE_SIMPLIFIED": "不认识，我今天第一天兼职所以不清楚呢",
+      "CHINESE_TRADITIONAL": "不過，我今天是第一天打工，所以不太清楚",
+      "JAPANESE": "知らないですね 今日バイト初日なんで",
+      "INDONESIAN": "Sebenarnya tidak. Hari ini hari pertamaku bekerja, jadi aku belum kenal siapa pun.",
+      "PORTUGUESE": "Não, hoje é meu primeiro dia trabalhando aqui, então não conheço.",
+      "SPANISH": "No, hoy es mi primer día trabajando aquí, así que no la conozco.",
+      "PERSIAN": "در واقع، نه. امروز اولین روز کار من است، بنابراین هنوز کسی را نمی شناسم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 25.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 첫, 첫날이시구나...",
+      "ENGLISH": "Oh, first day... right.",
+      "CHINESE_SIMPLIFIED": "啊第、第一天啊...",
+      "CHINESE_TRADITIONAL": "啊，原來是第一天啊…",
+      "JAPANESE": "あ 初日なんですね…",
+      "INDONESIAN": "Oh, hari pertama... benar.",
+      "PORTUGUESE": "Ah, é-é seu primeiro dia...",
+      "SPANISH": "Ah, e-es tu primer día...",
+      "PERSIAN": "اوه، روز اول ... درست است."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 29.9
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 보면, 우유만이라는 사람이 왔었다고 전달해 주실 수 있을까요?",
+      "ENGLISH": "If you happen to see her, could you let her know someone named Woo Yuman stopped by?",
+      "CHINESE_SIMPLIFIED": "那如果您见到她，能帮忙转告说吴宥万来找过她吗？",
+      "CHINESE_TRADITIONAL": "如果你看到她，可以麻煩你告訴她，有個叫吳宥萬的人來找她嗎？",
+      "JAPANESE": "もし会ったら ウ・ユマンって人が来てたって伝えてもらえますか？",
+      "INDONESIAN": "Jika kamu kebetulan melihatnya, bisakah Anda memberi tahu dia bahwa ada seseorang bernama Woo Yuman yang mampir?",
+      "PORTUGUESE": "Se você acabar vendo ela, pode dizer que veio alguém chamado Yumán Woo?",
+      "SPANISH": "Si llegas a verla, ¿podrías decirle que vino alguien llamado Yumán Woo?",
+      "PERSIAN": "اگر اونو دیدید، می توانید به او اطلاع دهید که شخصی به نام وو یومان در آنجا توقف کرده است؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 31.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 뭐.",
+      "ENGLISH": "Sure, whatever.",
+      "CHINESE_SIMPLIFIED": "哦，行吧",
+      "CHINESE_TRADITIONAL": "喔，好啊",
+      "JAPANESE": "はい まぁ",
+      "INDONESIAN": "Tentu saja, terserah.",
+      "PORTUGUESE": "Sim, claro.",
+      "SPANISH": "Sí, claro.",
+      "PERSIAN": "مطمئناً، هر چه باشد."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 32.6,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어서오세요.",
+      "ENGLISH": "Welcome in!",
+      "CHINESE_SIMPLIFIED": "欢迎光临~",
+      "CHINESE_TRADITIONAL": "歡迎光臨～",
+      "JAPANESE": "いらっしゃいませ〜",
+      "INDONESIAN": "Selamat datang!",
+      "PORTUGUESE": "Bem-vindo.",
+      "SPANISH": "Bienvenido.",
+      "PERSIAN": "خوش آمدید!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 36.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 이만 여기까지 할까요?",
+      "ENGLISH": "Should we call it for today?",
+      "CHINESE_SIMPLIFIED": "今天要不就到这儿？",
+      "CHINESE_TRADITIONAL": "今天就到這裡吧？",
+      "JAPANESE": "今日はこのへんにしときましょうか？",
+      "INDONESIAN": "Haruskah kita akhiri hari ini?",
+      "PORTUGUESE": "Vamos encerrar por hoje?",
+      "SPANISH": "¿Lo dejamos por hoy?",
+      "PERSIAN": "باید اونو برای امروز صدا کنیم؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 38.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 그래야 되겠죠?",
+      "ENGLISH": "Yeah... probably best.",
+      "CHINESE_SIMPLIFIED": "看来只能这样了",
+      "CHINESE_TRADITIONAL": "看來也只能這樣了",
+      "JAPANESE": "そうですね そうしたほうがよさそうですね",
+      "INDONESIAN": "Ya... mungkin yang terbaik.",
+      "PORTUGUESE": "Sim, acho que é melhor.",
+      "SPANISH": "Sí, creo que será mejor.",
+      "PERSIAN": "آره... احتمالا بهترین."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 38.9,
+      "HIDE": 40.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다음에도 더 찾아봐요.",
+      "ENGLISH": "Let’s keep looking next time.",
+      "CHINESE_SIMPLIFIED": "下次再接着找吧",
+      "CHINESE_TRADITIONAL": "下次再來找找看",
+      "JAPANESE": "また今度 探しましょう",
+      "INDONESIAN": "Mari kita terus melihat lain kali.",
+      "PORTUGUESE": "A gente continua procurando da próxima vez.",
+      "SPANISH": "La seguiremos buscando la próxima vez.",
+      "PERSIAN": "بیایید دفعه بعد به جستجو ادامه دهیم."
+    }
+  }
+]

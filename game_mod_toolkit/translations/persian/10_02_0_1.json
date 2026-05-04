@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요!!!",
+      "ENGLISH": "Excuse me!!!",
+      "CHINESE_SIMPLIFIED": "喂！！！",
+      "CHINESE_TRADITIONAL": "喂！！！",
+      "JAPANESE": "ちょっと！！",
+      "INDONESIAN": "Hey!!!",
+      "PORTUGUESE": "Ei!!!",
+      "SPANISH": "¡Oiga!!!",
+      "PERSIAN": "ببخشید!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨...?",
+      "ENGLISH": "Yuman…?",
+      "CHINESE_SIMPLIFIED": "宥万...?",
+      "CHINESE_TRADITIONAL": "宥萬...？",
+      "JAPANESE": "ユマンさん…？",
+      "INDONESIAN": "Yuman...?",
+      "PORTUGUESE": "Yumán...?",
+      "SPANISH": "¿Yumán...?",
+      "PERSIAN": "یومان…؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 안 놔요?",
+      "ENGLISH": "Let go of her.",
+      "CHINESE_SIMPLIFIED": "还不给我放手！",
+      "CHINESE_TRADITIONAL": "還不快放手！",
+      "JAPANESE": "それ、放してください",
+      "INDONESIAN": "Bisa lepasin ini nggak?",
+      "PORTUGUESE": "Larga ela agora mesmo!",
+      "SPANISH": "¡Suéltela ahora mismo!",
+      "PERSIAN": "رهایش کن."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 뭐 하는 짓이에요!!",
+      "ENGLISH": "What do you think you’re doing right now!!",
+      "CHINESE_SIMPLIFIED": "你这到底在干什么！！",
+      "CHINESE_TRADITIONAL": "你到底在做什麼？！！！",
+      "JAPANESE": "今、何してるんですか！！",
+      "INDONESIAN": "Kamu pikir lagi ngapain sih?!",
+      "PORTUGUESE": "O que você acha que tá fazendo?!",
+      "SPANISH": "¡¿Qué se supone que está haciendo?!",
+      "PERSIAN": "الان داری به چی فکر میکنی!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 누구신데 끼어들어요? 후배 교육시키는 건데!!",
+      "ENGLISH": "Ha— and who are you to butt in? I’m disciplining my junior!!",
+      "CHINESE_SIMPLIFIED": "哈？你谁啊来插手？我在教育后辈呢！！",
+      "CHINESE_TRADITIONAL": "你是誰？憑什麼插手？我正在教育後輩呢！！",
+      "JAPANESE": "はっ、あんた誰よ？後輩の教育中なんだけど！！",
+      "INDONESIAN": "Hah, emangnya kamu siapa ikut campur? Aku lagi ngedidik junior gue!",
+      "PORTUGUESE": "Ha, e quem é você pra se meter? Só tô corrigindo ela!",
+      "SPANISH": "Ha, ¿y usted quién es para meterse? ¡Solo estoy la estoy corrigiendo!",
+      "PERSIAN": "ها... و تو کی هستی که دخالت می‌کنی؟ من دارم دانش‌آموز سال سومی‌ام رو تنبیه می‌کنم!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 저 진짜 괜찮아요!",
+      "ENGLISH": "Yuman, I’m okay!",
+      "CHINESE_SIMPLIFIED": "宥万，我真的没事！",
+      "CHINESE_TRADITIONAL": "宥萬先生，我真的沒事",
+      "JAPANESE": "ユマンさん、私、本当に大丈夫です！",
+      "INDONESIAN": "Yuman, aku beneran nggak apa-apa!",
+      "PORTUGUESE": "Yumán, de verdade, eu tô bem!",
+      "SPANISH": "¡Yumán, de verdad, estoy bien!",
+      "PERSIAN": "یومان، من خوبم!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "요즘 세상에 누가 교육을 때리면서 해요!",
+      "ENGLISH": "Who hits someone to “educate” them in this day and age?!",
+      "CHINESE_SIMPLIFIED": "现在什么年代了，谁还靠打人来“教育”！",
+      "CHINESE_TRADITIONAL": "現在這個時代，還有誰會用打的方式來教育後輩",
+      "JAPANESE": "今どき“教育”って言って殴る人がどこにいますか！",
+      "INDONESIAN": "Zaman sekarang mana ada yang ngajar sambil main tangan?!",
+      "PORTUGUESE": "Hoje em dia ninguém “educa” batendo!",
+      "SPANISH": "¡En estos tiempos nadie “educa” a golpes!",
+      "PERSIAN": "کی تو این دوره و زمونه کسی رو میزنه که \"تربیتش کنه\"؟!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨",
+      "ENGLISH": "Gyu-ri,",
+      "CHINESE_SIMPLIFIED": "久梨",
+      "CHINESE_TRADITIONAL": "久梨！",
+      "JAPANESE": "ギュリさん",
+      "INDONESIAN": "Gyuri...",
+      "PORTUGUESE": "Gyuri…",
+      "SPANISH": "Gyuri…",
+      "PERSIAN": "گیو ری،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "가요.",
+      "ENGLISH": " let’s go.",
+      "CHINESE_SIMPLIFIED": "我们走",
+      "CHINESE_TRADITIONAL": "我們走",
+      "JAPANESE": "行きましょう",
+      "INDONESIAN": "Ayo pergi.",
+      "PORTUGUESE": "Vamos embora.",
+      "SPANISH": "Vámonos.",
+      "PERSIAN": "بیا بریم. (بیا بریم.)"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "야... 너 어디 가!!!",
+      "ENGLISH": "Hey… where do you think you’re going!!!",
+      "CHINESE_SIMPLIFIED": "喂...给我站住！！！",
+      "CHINESE_TRADITIONAL": "喂...給我站住",
+      "JAPANESE": "おい…どこ行くんだ！！！",
+      "INDONESIAN": "Hey... kamu mau ke mana!!!",
+      "PORTUGUESE": "Ei…! Aonde você pensa que vai!!!",
+      "SPANISH": "¡Oye…! ¡¿A dónde crees que vas!!!",
+      "PERSIAN": "هی... فکر می‌کنی کجا داری میری!!!"
+    }
+  }
+]

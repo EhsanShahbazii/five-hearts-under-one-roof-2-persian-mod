@@ -1,0 +1,79 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 틈틈이 하고 계신 건 아는데",
+      "ENGLISH": "I know you're squeezing in time here and there,",
+      "CHINESE_SIMPLIFIED": "虽然知道你在抽空学习",
+      "CHINESE_TRADITIONAL": "我知道你有在抽空學習",
+      "JAPANESE": "いや、合間を見てやってるのはわかるんですけど、",
+      "INDONESIAN": "Aku tahu kamu udah nyempetin belajar di sela-sela",
+      "PORTUGUESE": "Bom, eu sei que você estuda quando pode,",
+      "SPANISH": "Bueno, sé que estudias cuando puedes,",
+      "PERSIAN": "من می دانم که شما در حال فشردگی در زمان اینجا و آنجا هستید،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "지금도 일이 너무 많아가지고 실제로 공부에만 집중하는",
+      "ENGLISH": "but with so much work right now, the absolute time you can actually dedicate solely to studying",
+      "CHINESE_SIMPLIFIED": "但你现在工作实在太多了",
+      "CHINESE_TRADITIONAL": "但你現在的工作實在太多了",
+      "JAPANESE": "今は仕事が多すぎて、勉強だけに集中できる",
+      "INDONESIAN": "Tapi kerjaan kamu sekarang banyak banget",
+      "PORTUGUESE": "mas com todo o trabalho que tem,",
+      "SPANISH": "pero con todo el trabajo que tienes,",
+      "PERSIAN": "اما با این همه کار در حال حاضر، زمان مطلقی که در واقع می توانید صرفاً به مطالعه اختصاص دهید"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "절대적인 시간이 적잖아요.",
+      "ENGLISH": "is actually pretty limited, right?",
+      "CHINESE_SIMPLIFIED": "真正能专心学习的时间其实不多吧",
+      "CHINESE_TRADITIONAL": "真正能專心學習的時間應該不多吧",
+      "JAPANESE": "“絶対的な時間”が少ないじゃないですか。",
+      "INDONESIAN": "Jadi waktu buat benar-benar fokus belajar tuh kurang banget",
+      "PORTUGUESE": "não tá dedicando muito tempo.",
+      "SPANISH": "no estás dedicando muchi tiempo.",
+      "PERSIAN": "در واقع بسیار محدود است، درست است؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 그렇죠... 많이 어려울까요?",
+      "ENGLISH": "Yeah, that's true... Will it be really difficult?",
+      "CHINESE_SIMPLIFIED": "这倒是...会很困难吗？",
+      "CHINESE_TRADITIONAL": "這倒是沒錯...會很困難嗎？",
+      "JAPANESE": "それはそうなんですけど…やっぱり難しいですかね？",
+      "INDONESIAN": "Iya juga sih...",
+      "PORTUGUESE": "É verdade… você acha que vai ser muito difícil desse jeito?",
+      "SPANISH": "Es verdad… ¿crees que será muy difícil así?",
+      "PERSIAN": "بله، این درست است... واقعا سخت می‌شه؟"
+    }
+  },
+  {
+    "SCRIPT": {
+      "INDONESIAN": "Kira-kira bakal susah banget nggak ya?",
+      "PERSIAN": ""
+    }
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 이제야 눕네...",
+      "ENGLISH": "Ahh~ finally lying down...",
+      "CHINESE_SIMPLIFIED": "啊~总算能躺下了...",
+      "CHINESE_TRADITIONAL": "啊~總算能躺下了...",
+      "JAPANESE": "あ〜やっと横になれた…",
+      "INDONESIAN": "Ahh~ akhirnya bisa rebahan juga...",
+      "PORTUGUESE": "Ah~ finalmente posso me deitar…",
+      "SPANISH": "Ah~ por fin me puedo acostar…",
+      "PERSIAN": "آهان بالاخره دراز کشید..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이제야 누워. ",
+      "ENGLISH": "Took long enough.",
+      "CHINESE_SIMPLIFIED": "终于躺下了",
+      "CHINESE_TRADITIONAL": "終於躺下了",
+      "JAPANESE": "やっと寝転んだ…",
+      "INDONESIAN": "Lama banget, ya ampun.",
+      "PORTUGUESE": "Até que enfim, deitado.",
+      "SPANISH": "Al fin, acostado.",
+      "PERSIAN": "به اندازه کافی طول کشید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아오 피곤해.",
+      "ENGLISH": "Ugh, I’m exhausted.",
+      "CHINESE_SIMPLIFIED": "啊，好累啊",
+      "CHINESE_TRADITIONAL": "啊，好累啊",
+      "JAPANESE": "あ〜疲れた",
+      "INDONESIAN": "Ugh, capek banget rasanya.",
+      "PORTUGUESE": "Que cansaço.",
+      "SPANISH": "Qué cansancio.",
+      "PERSIAN": "اوه، من خسته شدم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 깜짝이야! ",
+      "ENGLISH": "Whoa—what the?!",
+      "CHINESE_SIMPLIFIED": "啊，吓我一跳！",
+      "CHINESE_TRADITIONAL": "啊，嚇我一跳！",
+      "JAPANESE": "うわっ、びっくりした！",
+      "INDONESIAN": "Wah—apa-apaan tuh?!",
+      "PORTUGUESE": "Ah! Que susto…",
+      "SPANISH": "¡Ah! Qué susto…",
+      "PERSIAN": "وای-چی؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 다들 자는 거 아니었어요?",
+      "ENGLISH": "Weren’t you all asleep?!",
+      "CHINESE_SIMPLIFIED": "什么呀，原来大家都没睡吗？",
+      "CHINESE_TRADITIONAL": "原來大家都沒睡嗎？",
+      "JAPANESE": "え、みんな寝てたんじゃないんですか？",
+      "INDONESIAN": "Bukannya kalian semua udah tidur?!",
+      "PORTUGUESE": "O que foi? Vocês não estavam dormindo?",
+      "SPANISH": "¿Qué pasa? ¿No estaban durmiendo?",
+      "PERSIAN": "همه شما خواب نبودید؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 32.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우리만 두고 너 혼자 자려고 그랬어?",
+      "ENGLISH": "Were you really gonna leave us and sleep alone?",
+      "CHINESE_SIMPLIFIED": "你是想把我们都丢下自己一个人睡吗？",
+      "CHINESE_TRADITIONAL": "你想把我們都丟下，自己一個人去睡嗎？",
+      "JAPANESE": "私たち置いてひとりで寝ようとしたでしょ？",
+      "INDONESIAN": "Kamu beneran mau ninggalin kita dan tidur sendirian?",
+      "PORTUGUESE": "Queria dormir aqui e deixar a gente sozinha?",
+      "SPANISH": "¿Querías dormir aquí y dejarnos solas?",
+      "PERSIAN": "واقعا قرار بود ما را رها کنی و تنها بخوابی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 그냥...",
+      "ENGLISH": "I-I just...",
+      "CHINESE_SIMPLIFIED": "哎呀，就是...",
+      "CHINESE_TRADITIONAL": "呃，就是...",
+      "JAPANESE": "いや、別に…",
+      "INDONESIAN": "A-aku cuma...",
+      "PORTUGUESE": "Ah, não é isso…",
+      "SPANISH": "Ay, no es eso…",
+      "PERSIAN": "من-من فقط..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "누구 한 명 옆에서 자는 것도 좀 그렇고...",
+      "ENGLISH": "Sleeping next to someone feels a little awkward, that’s all...",
+      "CHINESE_SIMPLIFIED": "觉得跟谁单独睡的话有点那啥...",
+      "CHINESE_TRADITIONAL": "不管跟誰單獨睡，都有點那個...",
+      "JAPANESE": "誰かの隣で寝るのもちょっと気まずくて…",
+      "INDONESIAN": "Tidur sebelahan sama orang tuh rasanya agak canggung aja...",
+      "PORTUGUESE": "É que dormir do lado de alguém é…",
+      "SPANISH": "Es que dormir al lado de alguien es…",
+      "PERSIAN": "خوابیدن در کنار کسی احساس ناخوشایندی دارد، همین..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 39.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 정해봐요!",
+      "ENGLISH": "Still, you have to decide!",
+      "CHINESE_SIMPLIFIED": "那也得选一个！",
+      "CHINESE_TRADITIONAL": "那也要選一個！",
+      "JAPANESE": "それでも決めましょう！",
+      "INDONESIAN": "Tapi tetep aja, kamu harus pilih!",
+      "PORTUGUESE": "Mesmo assim, tem que escolher!",
+      "SPANISH": "¡Aún así debes elegir!",
+      "PERSIAN": "با این حال، شما باید تصمیم بگیرید!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 40.0,
+      "HIDE": 41.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어려운데...",
+      "ENGLISH": "That’s kinda tough...",
+      "CHINESE_SIMPLIFIED": "好难选啊...",
+      "CHINESE_TRADITIONAL": "好難選啊...",
+      "JAPANESE": "うーん、難しいな…",
+      "INDONESIAN": "Itu agak susah sih...",
+      "PORTUGUESE": "É que é difícil…",
+      "SPANISH": "Es que es difícil…",
+      "PERSIAN": "یه جورایی سخته..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 42.5,
+      "HIDE": 43.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 다 가져.",
+      "ENGLISH": "Then just take them all.",
+      "CHINESE_SIMPLIFIED": "那就全都要吧？",
+      "CHINESE_TRADITIONAL": "那就全都要吧？",
+      "JAPANESE": "じゃあ全部あげる",
+      "INDONESIAN": "Kalau gitu ambil aja semuanya.",
+      "PORTUGUESE": "Então dorme com todas.",
+      "SPANISH": "Entonces duerme con todas.",
+      "PERSIAN": "سپس فقط همه اونا رو بگیرید."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 44.0,
+      "HIDE": 44.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 45.6,
+      "HIDE": 47.5
+    },
+    "SCRIPT": {
+      "KOREAN": "한 명만 고르지 말고",
+      "ENGLISH": "Don’t pick just one—",
+      "CHINESE_SIMPLIFIED": "别只选一个人",
+      "CHINESE_TRADITIONAL": "別只選一個人",
+      "JAPANESE": "ひとりだけじゃなくて",
+      "INDONESIAN": "Jangan pilih satu aja—",
+      "PORTUGUESE": "Não escolhe só uma.",
+      "SPANISH": "No elijas solo a una.",
+      "PERSIAN": "فقط یکی را انتخاب نکنید -"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 47.6,
+      "HIDE": 50.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 여섯 명 유만 씨가 다 가지라구요.",
+      "ENGLISH": "You can have all six of us, Yuman.",
+      "CHINESE_SIMPLIFIED": "我们六个，全都是你的",
+      "CHINESE_TRADITIONAL": "我們六個，全都是你的",
+      "JAPANESE": "私たち6人、全員ユマンさんのもの",
+      "INDONESIAN": "Kamu bisa bareng kita berenam, Yuman.",
+      "PORTUGUESE": "Yumán, fica com a gente seis.",
+      "SPANISH": "Yumán, quédate con nosotras seis.",
+      "PERSIAN": "تو میتونی هر شش نفرمون رو داشته باشی یومان."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 50.1,
+      "HIDE": 52.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 다 가지라뇨!",
+      "ENGLISH": "Wait—what do you mean, all of you?!",
+      "CHINESE_SIMPLIFIED": "嗯？全都是我的？！",
+      "CHINESE_TRADITIONAL": "嗯？全都是我的？！",
+      "JAPANESE": "え？全員ってどういう意味ですか！",
+      "INDONESIAN": "Tunggu—maksudnya bareng kalian semua?!",
+      "PORTUGUESE": "Hã?! Como assim com as seis?!",
+      "SPANISH": "¡¿Eh?! ¡¿Cómo que con las seis?!",
+      "PERSIAN": "صبر کنید—منظورتان چیه، همگی؟!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 53.0,
+      "HIDE": 55.2
+    },
+    "SCRIPT": {
+      "KOREAN": "같이 자면 좋을텐데...",
+      "ENGLISH": "I think it’d be nice if we all slept together...",
+      "CHINESE_SIMPLIFIED": "一起睡的话不是更好吗...",
+      "CHINESE_TRADITIONAL": "一起睡的話不是更好嗎...",
+      "JAPANESE": "一緒に寝たらいいのに〜",
+      "INDONESIAN": "Menurutku seru juga kalau kita semua tidur bareng...",
+      "PORTUGUESE": "Seria legal se dormíssemos juntos…",
+      "SPANISH": "Sería lindo si durmiéramos juntos…",
+      "PERSIAN": "به نظرم خیلی خوبه اگه همه با هم بخوابیم..."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 55.6,
+      "HIDE": 57.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 유정 씨까지 왜 그래요!",
+      "ENGLISH": "Yu-jeong, not you too...!",
+      "CHINESE_SIMPLIFIED": "哎呀，有情你怎么也这样！",
+      "CHINESE_TRADITIONAL": "哎呀，有情你怎麽也這樣！",
+      "JAPANESE": "ちょ、ユジョンさんまで何言ってるんですか！",
+      "INDONESIAN": "Yu-jeong, kamu juga...?",
+      "PORTUGUESE": "Yujeong! Você também?!",
+      "SPANISH": "¡Yujeong! ¡¿Tú también?!",
+      "PERSIAN": "یو جونگ نه تو هم...!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 58.0,
+      "HIDE": 61.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 그래서 우리랑 진짜 안 잘 거예요?",
+      "ENGLISH": "Yuman, are you really not gonna sleep with us?",
+      "CHINESE_SIMPLIFIED": "宥万，所以你真的不打算和我们一起睡吗？",
+      "CHINESE_TRADITIONAL": "宥萬，所以你真的不打算和我們一起睡嗎？",
+      "JAPANESE": "ユマンさん、じゃあ本当に私たちと寝ないつもりですか？",
+      "INDONESIAN": "Yuman, kamu beneran nggak mau tidur bareng kita?",
+      "PORTUGUESE": "Então quer dizer que você não vai dormir com a gente?",
+      "SPANISH": "¿Entonces de verdad no vas a dormir con nosotras?",
+      "PERSIAN": "یومان، واقعاً با ما نمی‌خوابی؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 61.4,
+      "HIDE": 63.1
+    },
+    "SCRIPT": {
+      "KOREAN": " 아... 그, 그게....",
+      "ENGLISH": "I-I mean... that is...",
+      "CHINESE_SIMPLIFIED": "啊...这，这个嘛....",
+      "CHINESE_TRADITIONAL": "啊...這、這個嘛....",
+      "JAPANESE": "あ…えっと、それは…",
+      "INDONESIAN": "A-aku maksudnya... itu...",
+      "PORTUGUESE": "Ah… eu… é que…",
+      "SPANISH": "Ah… yo… es que…",
+      "PERSIAN": "من-یعنی... یعنی..."
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "와~ 못 본 새 애가 더 건강해졌네~",
+      "ENGLISH": "Wow~ looks like the little guy got even healthier since I last saw him.",
+      "CHINESE_SIMPLIFIED": "哇~一阵子没见，这小家伙更健康了呢~",
+      "CHINESE_TRADITIONAL": "哇～一陣子沒見，這小傢伙變得更健康了耶～",
+      "JAPANESE": "わ〜 見ないうちにもっと元気になったね〜",
+      "INDONESIAN": "Wow~ sepertinya si kecil makin sehat sejak terakhir kali aku melihatnya.",
+      "PORTUGUESE": "Você parece bem mais saudável desde a última vez que eu te vi.",
+      "SPANISH": "Se ve mucho más sano desde la última vez que lo vi.",
+      "PERSIAN": "وای ~ به نظر می رسد پسر کوچولو از آخرین باری که اونو دیدم سالم تر شده است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 이 고양이 아세요?",
+      "ENGLISH": "Huh? You know this cat?",
+      "CHINESE_SIMPLIFIED": "呃？您认识这只猫？",
+      "CHINESE_TRADITIONAL": "咦？您知道這隻貓嗎？",
+      "JAPANESE": "え? この猫 知ってるんですか?",
+      "INDONESIAN": "Hah? Kamu kenal kucing ini?",
+      "PORTUGUESE": "Hã? Você conhece esse gato?",
+      "SPANISH": "¿Eh? ¿Conoce a este gato?",
+      "PERSIAN": "ها؟ شما این گربه را می شناسید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 12.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아는 건 아니고 오고 가면서 보긴 했죠.",
+      "ENGLISH": "Oh—well, not personally. I’ve just seen it around.",
+      "CHINESE_SIMPLIFIED": "啊，倒不算认识，就是路上来来往往时见过",
+      "CHINESE_TRADITIONAL": "啊，也不算知道，就是路過時有看到過",
+      "JAPANESE": "あ 知ってるわけじゃないですけど 行き来しながら見かけてました",
+      "INDONESIAN": "Oh—yah, tidak secara pribadi. Aku hanya pernah melihatnya.",
+      "PORTUGUESE": "Ah, conhecer mesmo não, mas já o vi várias vezes quando passo por aqui.",
+      "SPANISH": "Ah, conocerlo no, pero lo he visto varias veces cuando paso por aquí.",
+      "PERSIAN": "اوه-خب، نه شخصا. من به تازگی اونو در اطراف دیده ام."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아하... ",
+      "ENGLISH": "Ah, I see...",
+      "CHINESE_SIMPLIFIED": "啊哈...",
+      "CHINESE_TRADITIONAL": "啊哈…",
+      "JAPANESE": "ああ…",
+      "INDONESIAN": "Ah, saya mengerti...",
+      "PORTUGUESE": "Ah, entendi...",
+      "SPANISH": "Ah, ya veo…",
+      "PERSIAN": "آه، می بینم ..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 고양이 좋아하세요?",
+      "ENGLISH": "Do you like cats, by any chance?",
+      "CHINESE_SIMPLIFIED": "你喜欢猫吗？",
+      "CHINESE_TRADITIONAL": "您喜歡貓嗎？",
+      "JAPANESE": "もしかして 猫 好きなんですか?",
+      "INDONESIAN": "Apakah Anda kebetulan menyukai kucing?",
+      "PORTUGUESE": "Você gosta de gatos?",
+      "SPANISH": "¿A usted le gustan los gatos?",
+      "PERSIAN": "به طور شانسی گربه ها را دوست دارید؟"
+    }
+  }
+]

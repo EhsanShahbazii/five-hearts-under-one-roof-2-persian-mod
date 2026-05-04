@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이야, 말숙아 너 진짜 대박이다 진짜 모델 같애!",
+      "ENGLISH": "Wow, Mal-sook, you’re seriously killing it. You look like a real model!",
+      "CHINESE_SIMPLIFIED": "哇塞末淑你太厉害了！简直像真的模特一样！",
+      "CHINESE_TRADITIONAL": "哇，末淑妳真的太厲害了，簡直就像個真正的模特兒！",
+      "JAPANESE": "うわ〜マルスク、やばいよ！まじでモデルみたい！",
+      "INDONESIAN": "Wow, Mal-sook, kamu gila sih — beneran keliatan kayak model asli!",
+      "PORTUGUESE": "¡Wow, Malsook, estás increíble! ¡Pareces una modelo de verdad!",
+      "SPANISH": "¡Wow, Malsook, estás increíble! ¡Pareces una modelo de verdad!",
+      "PERSIAN": "وای مال‌سوک، تو داری جدی می کشی. شما شبیه یک مدل واقعی هستید!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "모델이면 그냥 모델이지 모델 같은 건 또 뭐야~",
+      "ENGLISH": "Like a model? Just call me a model and be done with it~",
+      "CHINESE_SIMPLIFIED": "要夸就好好夸，什么叫“像真的模特”！",
+      "CHINESE_TRADITIONAL": "要誇就好好誇，什麼叫做像個真正的模特兒！",
+      "JAPANESE": "モデルならそのままモデルでしょ、みたいって何〜",
+      "INDONESIAN": "Kalau aku model, ya berarti aku model — maksud kamu “kayak” itu apaan~",
+      "PORTUGUESE": "Es porque lo soy, ¿qué es eso de “pareces”?~",
+      "SPANISH": "Es porque lo soy, ¿qué es eso de “pareces”?~",
+      "PERSIAN": "مثل یک مدل؟ فقط مرا یک مدل صدا کن و با اون تمام شو"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 진짜 TV에 나오는 모델 같은 거 있잖아",
+      "ENGLISH": "No, I mean it! Like, a real model—like the ones you see on TV.",
+      "CHINESE_SIMPLIFIED": "不是啦，就是像电视里那种专业模特的气场嘛",
+      "CHINESE_TRADITIONAL": "不是啦，就像電視裡面那種專業模特兒的氣場",
+      "JAPANESE": "いや、本当にテレビに出てくるモデルみたいってことだよ",
+      "INDONESIAN": "Bukan, maksud aku tuh kayak model-model beneran yang di TV itu lho.",
+      "PORTUGUESE": "Me refiero a esas modelos de verdad que salen en la tele.",
+      "SPANISH": "Me refiero a esas modelos de verdad que salen en la tele.",
+      "PERSIAN": "نه منظورم همینه! مثل یک مدل واقعی—مانند آنهایی که در تلویزیون می بینید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너 완전 달라 보여",
+      "ENGLISH": "You look totally different right now.",
+      "CHINESE_SIMPLIFIED": "你整个人感觉都不一样了",
+      "CHINESE_TRADITIONAL": "整個人完全不一樣耶",
+      "JAPANESE": "全然雰囲気が違う",
+      "INDONESIAN": "Kamu kelihatan beda banget.",
+      "PORTUGUESE": "Te ves completamente diferente.",
+      "SPANISH": "Te ves completamente diferente.",
+      "PERSIAN": "شما در حال حاضر کاملاً متفاوت به نظر می رسید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 또 그렇게까지 얘기해? 부끄럽게...",
+      "ENGLISH": "Geez, do you have to say it like that? You’re making me blush...",
+      "CHINESE_SIMPLIFIED": "干嘛说这么夸张啦...多不好意思...",
+      "CHINESE_TRADITIONAL": "幹嘛又說得那麼誇張...怪不好意思的...",
+      "JAPANESE": "そんなに言わないで、恥ずかしい…",
+      "INDONESIAN": "Eh, kenapa sih muji-muji gitu? Jadi malu…",
+      "PORTUGUESE": "Oye, ¿por qué me exageras tanto? Qué vergüenza…",
+      "SPANISH": "Oye, ¿por qué me exageras tanto? Qué vergüenza…",
+      "PERSIAN": "عزیزم باید اینطوری بگی؟ داری سرخم میکنی..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "난 진짜 언젠가 너의 그 방아깨비 같은 팔다리를",
+      "ENGLISH": "I always knew the day would come ",
+      "CHINESE_SIMPLIFIED": "我早就知道总有一天",
+      "CHINESE_TRADITIONAL": "我就知道會有這麼一天",
+      "JAPANESE": "俺はさ、いつかお前のそのバッタみたいに長い手足が",
+      "INDONESIAN": "Aku tuh udah tahu suatu hari nanti tangan-kaki kamu yang kayak belalang itu",
+      "PORTUGUESE": "Sabía que algún día esos brazos y piernas de saltamontes tuyos",
+      "SPANISH": "Sabía que algún día esos brazos y piernas de saltamontes tuyos",
+      "PERSIAN": "همیشه می دانستم که اون روز خواهد آمد"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제대로 쓸 날이 올 줄 알았어!",
+      "ENGLISH": "when those grasshopper arms and legs of yours would finally shine!",
+      "CHINESE_SIMPLIFIED": "你这螳螂腿般的长胳膊长腿会派上大用场！",
+      "CHINESE_TRADITIONAL": "你像蚱蜢一樣的手和腿會派上用場",
+      "JAPANESE": "ちゃんと活かされる日が来ると思ってたんだよ！",
+      "INDONESIAN": "akhirnya bakal kepake juga!",
+      "PORTUGUESE": "iban a servirte de algo.",
+      "SPANISH": "iban a servirte de algo.",
+      "PERSIAN": "وقتی اون دست و پاهای ملخ شما بالاخره می درخشید!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "방아깨비?",
+      "ENGLISH": "Grasshopper?!",
+      "CHINESE_SIMPLIFIED": "螳螂腿？",
+      "CHINESE_TRADITIONAL": "蚱蜢？",
+      "JAPANESE": "バッタ？",
+      "INDONESIAN": "Belalang…?",
+      "PORTUGUESE": "¿Saltamontes…?",
+      "SPANISH": "¿Saltamontes…?",
+      "PERSIAN": "ملخ؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 칭찬이야 칭찬!",
+      "ENGLISH": "Hey, it’s a compliment! I swear!",
+      "CHINESE_SIMPLIFIED": "哎哟这是夸奖啦夸奖！",
+      "CHINESE_TRADITIONAL": "我是在稱讚你啦！稱讚！",
+      "JAPANESE": "いや、これ褒め言葉！褒め言葉だから！",
+      "INDONESIAN": "Itu pujian lho, pujian!",
+      "PORTUGUESE": "¡Es un cumplido, te lo juro!",
+      "SPANISH": "¡Es un cumplido, te lo juro!",
+      "PERSIAN": "هی، این یک تعارف است! قسم می خورم!"
+    }
+  }
+]

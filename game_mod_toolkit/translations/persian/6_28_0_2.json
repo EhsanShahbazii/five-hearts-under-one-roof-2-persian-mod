@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 오늘 먹을 건 계란말이밖에 없는데",
+      "ENGLISH": "Ugh, the only decent thing in here today is the rolled omelet—",
+      "CHINESE_SIMPLIFIED": "啊呀，我能吃的就只有鸡蛋卷了",
+      "CHINESE_TRADITIONAL": "啊，今天能吃的只有玉子燒而已了",
+      "JAPANESE": "あの、今日食べるの卵焼きしかないのに、",
+      "INDONESIAN": "Ugh, satu-satunya yang enak hari ini cuma tamagoyaki—",
+      "PORTUGUESE": "Hoje eu só tenho isso pra comer,",
+      "SPANISH": "Hoy solo tengo esto para comer,",
+      "PERSIAN": "اوه، تنها چیزی که امروز اینجاست، املت رول شده است-"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그걸 어떻게 다 달라고 그러세요?",
+      "ENGLISH": "and you’re seriously asking for all of it?",
+      "CHINESE_SIMPLIFIED": "你怎么能都拿走呢？",
+      "CHINESE_TRADITIONAL": "你怎麼都拿走呢？",
+      "JAPANESE": "それ全部くれってどういうことですか？",
+      "INDONESIAN": "dan kamu serius minta semuanya?",
+      "PORTUGUESE": "e ainda quer que eu dê tudo?",
+      "SPANISH": "¿y quiere que le dé todo?",
+      "PERSIAN": "و شما به طور جدی همه اونو می خواهید؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "먹을 거로 쪼잔하게 왜 그래",
+      "ENGLISH": "Wow… stingy over food much?",
+      "CHINESE_SIMPLIFIED": "为点吃的至于这么小气嘛",
+      "CHINESE_TRADITIONAL": "幹嘛為了一點吃的這麼小氣",
+      "JAPANESE": "食べ物くらいでケチケだな",
+      "INDONESIAN": "Wow… pelit amat soal makanan?",
+      "PORTUGUESE": "Não seja mesquinho com comida.",
+      "SPANISH": "No seas mezquino con la comida.",
+      "PERSIAN": "عجب ... خسیس بیش از حد غذا؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님이 먼저 막 달라고 하셨잖아요...",
+      "ENGLISH": "You’re the one who begged for it first!",
+      "CHINESE_SIMPLIFIED": "明明是科长你先开口要的...",
+      "CHINESE_TRADITIONAL": "是課長先開口要的啊...",
+      "JAPANESE": "課長の方が先にくれって言ったじゃないですか…",
+      "INDONESIAN": "Yang minta duluan juga kamu, tahu!",
+      "PORTUGUESE": "Mas quem tá sendo mesquinha é você!",
+      "SPANISH": "¡Pero usted está siendo mezquina primero!",
+      "PERSIAN": "تو اولین کسی هستی که برایش التماس کردی!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 우선 씨 왔어?",
+      "ENGLISH": "Oh! Wuseon, hey!",
+      "CHINESE_SIMPLIFIED": "啊！优先来啦？",
+      "CHINESE_TRADITIONAL": "啊！宇善來啦？",
+      "JAPANESE": "おっ！ウソンさん来た？",
+      "INDONESIAN": "Oh! Wuseon, hai!",
+      "PORTUGUESE": "Ah! Wooseon, já chegou?",
+      "SPANISH": "¡Ah! ¿Wooseon, ya llegaste?",
+      "PERSIAN": "اوه! ووسون، هی!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.3,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요...",
+      "ENGLISH": "Hello...",
+      "CHINESE_SIMPLIFIED": "你好...",
+      "CHINESE_TRADITIONAL": "你好...",
+      "JAPANESE": "こんにちは…",
+      "INDONESIAN": "Halo...",
+      "PORTUGUESE": "Oi…",
+      "SPANISH": "Hola…",
+      "PERSIAN": "سلام..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 18.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 아 오늘 계란말이 나와서 그랬구나",
+      "ENGLISH": "Oh, rolled omelet’s on the menu today—makes sense now.",
+      "CHINESE_SIMPLIFIED": "咦？啊~看来是因为今天有鸡蛋卷才这样的啊",
+      "CHINESE_TRADITIONAL": "喔？啊，看來是今天有玉子燒才這樣啊",
+      "JAPANESE": "あ〜今日卵焼きが出たからそうだったのか",
+      "INDONESIAN": "Oh, tamagoyaki hari ini—pantesan rame.",
+      "PORTUGUESE": "Então era por causa dos rolinhos de ovo...",
+      "SPANISH": "Así que era por los rollitos de huevo...",
+      "PERSIAN": "اوه، املت های رول شده امروز در منو است - اکنون منطقی است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.3,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨랑 싸우지 마시고 제 거 드세요.",
+      "ENGLISH": "Don’t fight over it, Yuman. You can have mine.",
+      "CHINESE_SIMPLIFIED": "别跟宥万争了，吃我这份吧",
+      "CHINESE_TRADITIONAL": "別跟宥萬先生吵了，吃我的吧",
+      "JAPANESE": "ユマンさんとケンカしないで、僕の分どうぞ",
+      "INDONESIAN": "Jangan rebutan, Yuman. Punya aku ambil aja.",
+      "PORTUGUESE": "Não briga com o Yumán, pega o meu.",
+      "SPANISH": "No pelee con Yumán y tome el mío.",
+      "PERSIAN": "سرش دعوا نکن، یومان. تو میتونی مال من رو داشته باشی"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우선 씨~ 역시 우선 씨는 센스가 좋아!",
+      "ENGLISH": "Wuseon~ You always know the vibe!",
+      "CHINESE_SIMPLIFIED": "优先~果然还是优先最贴心！",
+      "CHINESE_TRADITIONAL": "果然還是宇善最貼心了！",
+      "JAPANESE": "ウソンさん〜さすが気が利く！",
+      "INDONESIAN": "Wuseon~ Kamu emang paling ngerti situasi!",
+      "PORTUGUESE": "Wooseon~! Você é sempre tão atencioso!",
+      "SPANISH": "¡Wooseon~! siempre eres tan considerado!",
+      "PERSIAN": "ووسون~ شما همیشه حال و هوا را می شناسید!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 30.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 과장님 관해서 꽉 잡고 있잖아요~",
+      "ENGLISH": "I am the one keeping the Chief in check, after all~",
+      "CHINESE_SIMPLIFIED": "科长的喜好我可都牢牢记在心里呢~",
+      "CHINESE_TRADITIONAL": "課長的喜好我可是都牢牢記在心裡呢！",
+      "JAPANESE": "僕、課長のことはしっかり持ってますからね〜！",
+      "INDONESIAN": "Aku ini penjaga keseimbangan Chief, lho~",
+      "PORTUGUESE": "Mas de qualquer forma, o da chefe eu já garanti bem~",
+      "SPANISH": "Es que la conozco muy bien, jefa Gran",
+      "PERSIAN": "من کسی هستم که رئیس را تحت کنترل نگه می‌دارم"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 30.9,
+      "HIDE": 32.3
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워~ 우선 씨.",
+      "ENGLISH": "Thanks, Wuseon~",
+      "CHINESE_SIMPLIFIED": "谢啦~优先",
+      "CHINESE_TRADITIONAL": "謝謝你～宇善",
+      "JAPANESE": "ありがとう、ウソンさん",
+      "INDONESIAN": "Makasih ya, Wuseon~",
+      "PORTUGUESE": "Obrigada, Wooseon.",
+      "SPANISH": "Gracias, Wooseon.",
+      "PERSIAN": "ممنون، ووسون~"
+    }
+  }
+]

@@ -1,0 +1,649 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 하숙? ",
+      "ENGLISH": "So that boarding house thing...",
+      "CHINESE_SIMPLIFIED": "不过那个合租公寓...",
+      "CHINESE_TRADITIONAL": "不過，那個合宿？",
+      "JAPANESE": "でも、その下宿は？",
+      "INDONESIAN": "Tapi soal rumah kos itu?",
+      "PORTUGUESE": "Mas e essa pensão?",
+      "SPANISH": "Hablando de tu pensión...",
+      "PERSIAN": "راستی، اون قضیه پانسیون..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 어떻게 하게 된 거예요?",
+      "ENGLISH": "How’d you get into that?",
+      "CHINESE_SIMPLIFIED": "那个是怎么开始的啊？",
+      "CHINESE_TRADITIONAL": "你是怎麼開始經營的？",
+      "JAPANESE": "それはどうして始めることになったんですか？",
+      "INDONESIAN": "Gimana kamu bisa mulai ngelola itu?",
+      "PORTUGUESE": "Como você acabou se envolvendo nisso?",
+      "SPANISH": "¿cómo empezaste con eso?",
+      "PERSIAN": "چی شد که اصلاً رفتی تو کار راه انداختنش؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그거요?",
+      "ENGLISH": "Oh, that?",
+      "CHINESE_SIMPLIFIED": "啊，那个啊？",
+      "CHINESE_TRADITIONAL": "喔，那個啊？",
+      "JAPANESE": "ああ、そのことですか？",
+      "INDONESIAN": "Oh itu?",
+      "PORTUGUESE": "Ah, isso?",
+      "SPANISH": "Ahhh ¿eso?",
+      "PERSIAN": "آها، اون؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "부모님이 일 때문에 집을 자주 비우시는데",
+      "ENGLISH": "My parents are out of town a lot for work,",
+      "CHINESE_SIMPLIFIED": "父母因为工作经常不在家",
+      "CHINESE_TRADITIONAL": "我爸媽因為工作關係常常不在家",
+      "JAPANESE": "両親が仕事の都合で家をよく留守にしてて…",
+      "INDONESIAN": "Orang tuaku sering pergi karena kerja.",
+      "PORTUGUESE": "Meus pais ficam muito fora de casa por causa do trabalho,",
+      "SPANISH": "Mis papás casi siempre están fuera por trabajo,",
+      "PERSIAN": "راستش مامان و بابام به خاطر کارشون مدام خارج کشورن،"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 노는 방은 또 많으니까.",
+      "ENGLISH": "And we’ve got a bunch of empty rooms.",
+      "CHINESE_SIMPLIFIED": "家里又有好多空房间",
+      "CHINESE_TRADITIONAL": "反正閒置的房間也很多",
+      "JAPANESE": "空いている部屋もたくさんあるので、",
+      "INDONESIAN": "Di rumah banyak kamar kosong juga,",
+      "PORTUGUESE": "e como sobravam vários quartos livres...",
+      "SPANISH": "y en la casa sobraban cuartos.",
+      "PERSIAN": "خونه‌مونم کلی اتاق خالی و بی‌مصرف داشت."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "해보라고 해서 하는 거예요.",
+      "ENGLISH": "They suggested I give it a shot. So here I am.",
+      "CHINESE_SIMPLIFIED": "所以他们说让我试试我就开始了",
+      "CHINESE_TRADITIONAL": "他們就叫我試試看，所以我就開始做了",
+      "JAPANESE": "やってみなさいって言われて始めたんです",
+      "INDONESIAN": "jadi mereka nyuruh aku coba urus aja. Makanya sekarang aku ngelakuin itu.",
+      "PORTUGUESE": "eles sugeriram que eu tentasse, então estou cuidando disso.",
+      "SPANISH": "Así que me dijeron que lo intentara, y en eso estoy.",
+      "PERSIAN": "به پیشنهاد اونا گفتم یه امتحانی بکنم... این شد که راه‌انداختمش."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 약간 호텔? 그거랑 비슷한 건가? ",
+      "ENGLISH": "Ah… so it’s kind of like running a mini hotel?",
+      "CHINESE_SIMPLIFIED": "啊...有点像酒店的意思吗？",
+      "CHINESE_TRADITIONAL": "啊…有點像飯店？是跟那個類似嗎？",
+      "JAPANESE": "ああ… ちょっとホテル？それに近い感じですか？",
+      "INDONESIAN": "Oh… jadi kayak hotel gitu, ya?",
+      "PORTUGUESE": "Ah... então é tipo parecido com um hotel?",
+      "SPANISH": "Ah… ¿entonces es como un hotel?",
+      "PERSIAN": "آها... پس یه جورایی مثل هتل‌داریه تو مقیاس کوچیک؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저희 집도 호텔 사업 하거든요.",
+      "ENGLISH": "My family’s actually in the hotel business.",
+      "CHINESE_SIMPLIFIED": "我们家是做酒店生意的",
+      "CHINESE_TRADITIONAL": "我們家是經營飯店事業的",
+      "JAPANESE": "私の家もホテル業をやっているんですよ",
+      "INDONESIAN": "Soalnya keluargaku juga bisnis hotel.",
+      "PORTUGUESE": "Na minha família nós temos negócios de hotelaria.",
+      "SPANISH": "En mi familia también tenemos un negocio hotelero.",
+      "PERSIAN": "راستش خونواده‌م تو کار هتل‌داری و برج‌سازین."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "호텔이랑은 다르긴 한데...",
+      "ENGLISH": "Well, it's different with a hotel.",
+      "CHINESE_SIMPLIFIED": "跟酒店还是不太一样啦...",
+      "CHINESE_TRADITIONAL": "跟飯店還是不一樣…",
+      "JAPANESE": "ホテルとはちょっと違いますけどね…",
+      "INDONESIAN": "Agak beda sih sama hotel...",
+      "PORTUGUESE": "Bem, é diferente com um hotel.",
+      "SPANISH": "No es exactamente lo mismo que un hotel…",
+      "PERSIAN": "ولی خب، این با هتل خیلی فرق داره."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유복한 집에서 자라셨네요?",
+      "ENGLISH": "Wow… must’ve grown up in a really well-off family.",
+      "CHINESE_SIMPLIFIED": "看来你是家境很不错吧？",
+      "CHINESE_TRADITIONAL": "看來你是在富裕家庭長大的啊？",
+      "JAPANESE": "裕福なご家庭で育たれたんですね？",
+      "INDONESIAN": "Kamu tumbuh di keluarga kaya banget, ya...",
+      "PORTUGUESE": "Uau, você cresceu em uma família bem de posses, hein...",
+      "SPANISH": "Parece que creciste en una familia acomodada…",
+      "PERSIAN": "واو... پس حسابی تو ناز و نعمت و پول بزرگ شدی!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.6
+    },
+    "SCRIPT": {
+      "KOREAN": "에이... 그럼 뭐 해요. ",
+      "ENGLISH": "Yeah, well… doesn’t mean much.",
+      "CHINESE_SIMPLIFIED": "哎...那又怎样呢？",
+      "CHINESE_TRADITIONAL": "那又怎麼樣？",
+      "JAPANESE": "ええ…でも、それが何になるんですか",
+      "INDONESIAN": "Eh… tapi buat apa juga.",
+      "PORTUGUESE": "E do que adianta?",
+      "SPANISH": "Bah, ¿y de qué sirve?",
+      "PERSIAN": "ای بابا... ظاهرش فقط قشنگه."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "집에 있어도 외로운데...",
+      "ENGLISH": "It still gets lonely at home.",
+      "CHINESE_SIMPLIFIED": "就算在家也很孤单啊...",
+      "CHINESE_TRADITIONAL": "就算在家也覺得很寂寞…",
+      "JAPANESE": "家にいても寂しいんですから…",
+      "INDONESIAN": "Di rumah juga tetap ngerasa kesepian.",
+      "PORTUGUESE": "Mesmo em casa eu me sinto sozinho.",
+      "SPANISH": "Aún estando en casa, me siento sola…",
+      "PERSIAN": "تو اون خونه درندشت همه‌ش تنهایی و غربته..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "집이 너무 넓어서 그런 거 아니에요?",
+      "ENGLISH": "Because it’s too big?",
+      "CHINESE_SIMPLIFIED": "是不是因为家太大了才会这样？",
+      "CHINESE_TRADITIONAL": "是因為家裡太大了嗎？",
+      "JAPANESE": "家が広すぎるからじゃないですか？",
+      "INDONESIAN": "Jangan-jangan karena rumahnya terlalu gede?",
+      "PORTUGUESE": "Não seria porque a casa é grande demais?",
+      "SPANISH": "¿No será porque la casa es demasiado grande?",
+      "PERSIAN": "شاید چون خونه زیادی بزرگه حس غربت داری؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 그런 거 아니구!",
+      "ENGLISH": "No, it’s not that...",
+      "CHINESE_SIMPLIFIED": "啊~不是那个原因！",
+      "CHINESE_TRADITIONAL": "啊～也不是這個原因啦！",
+      "JAPANESE": "あ〜そういうことじゃなくて！",
+      "INDONESIAN": "Ah, bukan karena itu!",
+      "PORTUGUESE": "Ah~ não é por isso!",
+      "SPANISH": "Ah~ no, no es por eso.",
+      "PERSIAN": "نه بابا، قضیه این نیست!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 32.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저희 집 진~짜 잘났거든요.",
+      "ENGLISH": "My family’s great—",
+      "CHINESE_SIMPLIFIED": "我们家是真的...非常优秀那种",
+      "CHINESE_TRADITIONAL": "我們家雖然真的很厲害",
+      "JAPANESE": "うちの家、本当にすごいんですよ。",
+      "INDONESIAN": "Keluargaku tuh… sukses banget.",
+      "PORTUGUESE": "É que minha família é tão incrível,",
+      "SPANISH": "Es que mi familia es demasiado \"perfecta\".",
+      "PERSIAN": "همه تو خونواده ما فوق‌العاده موفق و کله‌گنده‌ان..."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 32.1,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너~무 잘나서 못 쫓아가겠는 거예요.",
+      "ENGLISH": "So great, I could never quite keep up.",
+      "CHINESE_SIMPLIFIED": "优秀到我都跟不上",
+      "CHINESE_TRADITIONAL": "但是厲害到我跟不上",
+      "JAPANESE": "あまりにも立派すぎて、追いつけないんです",
+      "INDONESIAN": "Saking suksesnya, aku nggak bisa ngikutin mereka.",
+      "PORTUGUESE": "que eu simplesmente não consigo acompanhar.",
+      "SPANISH": "Tan perfecta que no puedo estar a su altura.",
+      "PERSIAN": "اینقدر بالان که هرچی می‌دوم به گرد پاشونم نمی‌رسم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 35.0,
+      "HIDE": 37.9
+    },
+    "SCRIPT": {
+      "KOREAN": "주변에도 죄다 잘난 척하는 놈들 뿐이라...",
+      "ENGLISH": "Everyone around me is super successful, too.",
+      "CHINESE_SIMPLIFIED": "我身边也是一堆自以为是的家伙...",
+      "CHINESE_TRADITIONAL": "我身邊也全都是些愛裝模作樣的傢伙…",
+      "JAPANESE": "周りもみんな自慢ばかりする人たちで…",
+      "INDONESIAN": "Orang-orang di sekitar juga semua suka pamer…",
+      "PORTUGUESE": "E ao meu redor só tem gente “perfeita”,",
+      "SPANISH": "Además todos a mi alrededor se la pasan presumiendo…",
+      "PERSIAN": "دور و بریامم همه‌ش دارن واسه هم کلاس می‌ذارن و پُز می‌دن..."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 37.9,
+      "HIDE": 40.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제대로 된 친구가 없달까...",
+      "ENGLISH": "I never really made any real friends.",
+      "CHINESE_SIMPLIFIED": "所以我根本没有真正的朋友",
+      "CHINESE_TRADITIONAL": "一個真正的朋友也沒有",
+      "JAPANESE": "ちゃんとした友達がいないっていうか…",
+      "INDONESIAN": "Jadi aku kayak nggak punya teman beneran.",
+      "PORTUGUESE": "então eu não tenho amigos de verdade.",
+      "SPANISH": "No tengo amigos de verdad.",
+      "PERSIAN": "واسه همین هیچ‌وقت نتونستم یه رفیق واقعی پیدا کنم..."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 41.7,
+      "HIDE": 45.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아아... 저도 원래 친구 한 명밖에 없었어요. ",
+      "ENGLISH": "Ah... I used to only have one friend, too.",
+      "CHINESE_SIMPLIFIED": "啊啊...不过我本来也只有一个朋友",
+      "CHINESE_TRADITIONAL": "啊…其實我本來也只有一個朋友",
+      "JAPANESE": "ああ…俺ももともとは友達が一人しかいなかったんです",
+      "INDONESIAN": "Aku juga dulu cuma punya satu teman.",
+      "PORTUGUESE": "Ah... mas eu também",
+      "SPANISH": "Ah… yo solía tener solo un amigo, también.",
+      "PERSIAN": "آخ گفتی... منم تا همین اواخر فقط یه دونه رفیق داشتم."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 48.6
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 하숙하면서 좀 생겼어요.",
+      "ENGLISH": "I made a few more.",
+      "CHINESE_SIMPLIFIED": "但是经营合租公寓之后交到了几个朋友",
+      "CHINESE_TRADITIONAL": "在開始經營合宿公寓之後，交到了一些朋友",
+      "JAPANESE": "でも、下宿を始めてからできました",
+      "INDONESIAN": "Tapi sejak ngurus kos-kosan, jadi nambah.",
+      "PORTUGUESE": "Depois que comecei a pensão, acabei fazendo mais alguns.",
+      "SPANISH": "Pero gracias a la pensión, hice más.",
+      "PERSIAN": "ولی از وقتی اومدم پانسیون، دورم شلوغ‌تر شده."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 48.6,
+      "HIDE": 50.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 친구요...",
+      "ENGLISH": "Friends, huh...",
+      "CHINESE_SIMPLIFIED": "啊，朋友啊...",
+      "CHINESE_TRADITIONAL": "朋友啊...",
+      "JAPANESE": "あ、友達のことですよ…",
+      "INDONESIAN": "Teman?",
+      "PORTUGUESE": "Ah, amigos...",
+      "SPANISH": "¿Más amigos?",
+      "PERSIAN": "رفیق، هوم..."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 52.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "嗯！",
+      "CHINESE_TRADITIONAL": "是！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 53.9,
+      "HIDE": 55.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万先生！",
+      "CHINESE_TRADITIONAL": "宥萬先生！",
+      "JAPANESE": "ユマンさん！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Sr. Yooman!",
+      "SPANISH": "¡Señor Yumán!",
+      "PERSIAN": "آقای یومان!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 55.4,
+      "HIDE": 57.6
+    },
+    "SCRIPT": {
+      "KOREAN": "한참 찾았잖아요.",
+      "ENGLISH": "We’ve been looking everywhere for you.",
+      "CHINESE_SIMPLIFIED": "宥万我找了你好久啊",
+      "CHINESE_TRADITIONAL": "我找你找了好久耶！",
+      "JAPANESE": "ユマンさん！ずっと探していたんですよ。",
+      "INDONESIAN": "Yuman! Aku nyari kamu dari tadi!",
+      "PORTUGUESE": "Eu procurei tanto por você!",
+      "SPANISH": "¡Lo estuve buscando por todos lados!",
+      "PERSIAN": "کل بیمارستانو دنبالتون گشتیم!"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 57.6,
+      "HIDE": 59.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저를요? 아 맞다... ",
+      "ENGLISH": "For me? Oh—right...",
+      "CHINESE_SIMPLIFIED": "找我？啊，对了…",
+      "CHINESE_TRADITIONAL": "找我嗎？啊，對喔...",
+      "JAPANESE": "俺をですか？ あ、そうだ…",
+      "INDONESIAN": "Aku? Oh iya…",
+      "PORTUGUESE": "Por mim? Ah, é verdade...",
+      "SPANISH": "¿A mí? Ah, cierto…",
+      "PERSIAN": "منو؟! آخ راستی..."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 59.6,
+      "HIDE": 61.6
+    },
+    "SCRIPT": {
+      "KOREAN": "움직이지 말라고 하셨는데...",
+      "ENGLISH": "You told me not to move...",
+      "CHINESE_SIMPLIFIED": "你叫我不要乱跑的...",
+      "CHINESE_TRADITIONAL": "你叫我不要亂跑...",
+      "JAPANESE": "動かないでって言われたのに…",
+      "INDONESIAN": "Tadi dibilang jangan jalan-jalan ya...",
+      "PORTUGUESE": "Vocês tinham dito pra eu não me mexer...",
+      "SPANISH": "Me dijiste que no me moviera, pero…",
+      "PERSIAN": "شما گفته بودین از جام تکون نخورم..."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 61.6,
+      "HIDE": 63.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 막 눈뜨신 분이 베드에는 안 계시고 ",
+      "ENGLISH": "You’re barely awake and already missing your bed.",
+      "CHINESE_SIMPLIFIED": "你这个刚醒来的人怎么不在床上",
+      "CHINESE_TRADITIONAL": "你這個剛醒來的人怎麼不在床上",
+      "JAPANESE": "起きたばかりの方がベッドにいらっしゃらなくて",
+      "INDONESIAN": "Kamu baru aja sadar tapi udah nggak ada di ranjang.",
+      "PORTUGUESE": "Você acabou de acordar, e quando fui ver, não estava na cama,",
+      "SPANISH": "Acaba de despertar y desaparece de su cama",
+      "PERSIAN": "هنوز دو ساعته به هوش اومدین تختو ول کردین رفتین؟! ها؟"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 63.8,
+      "HIDE": 67.0
+    },
+    "SCRIPT": {
+      "KOREAN": "갈만한 곳 다 찾아도 없어서 걱정했잖아요!",
+      "ENGLISH": "We checked everywhere—we were worried!",
+      "CHINESE_SIMPLIFIED": "找遍了能去的地方也没找到，我很担心你啊！",
+      "CHINESE_TRADITIONAL": "我把所有可能去的地方都找遍了都沒看到，害我超擔心的！",
+      "JAPANESE": "行きそうな場所を全部探してもいなくて、心配したんですよ！",
+      "INDONESIAN": "Aku udah cari ke mana-mana, sampe khawatir banget!",
+      "PORTUGUESE": "procurei em todos os lugares possíveis e fiquei super preocupado!",
+      "SPANISH": "¡Lo busqué por todas partes! ¡Estaba preocupada!",
+      "PERSIAN": "همه جا رو زیر و رو کردیم، زهره‌ترک شدیم از نگرانی!"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 69.0,
+      "HIDE": 71.2
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 보호자세요?",
+      "ENGLISH": "Are you the guardian?",
+      "CHINESE_SIMPLIFIED": "请问您是他的家属吗？",
+      "CHINESE_TRADITIONAL": "請問你是病人的家屬嗎？",
+      "JAPANESE": "もしかして付き添いの方ですか？",
+      "INDONESIAN": "Apakah Anda keluarganya?",
+      "PORTUGUESE": "Você é o responsável por ele?",
+      "SPANISH": "¿Es usted su acompañante?",
+      "PERSIAN": "شما همراهش هستین؟"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 71.2,
+      "HIDE": 73.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 보호자까지는 아니고...",
+      "ENGLISH": "Uh, no, not exactly...",
+      "CHINESE_SIMPLIFIED": "不是啦，还不算是家属...",
+      "CHINESE_TRADITIONAL": "不是，還沒到家屬的程度…",
+      "JAPANESE": "いえ、付き添いまでは違いますけど…",
+      "INDONESIAN": "Nggak, nggak sampai keluarga sih...",
+      "PORTUGUESE": "Não, não sou responsável...",
+      "SPANISH": "No lo soy, pero…",
+      "PERSIAN": "نه... یعنی در اون حد که نه..."
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 74.5,
+      "HIDE": 76.7
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨는 환자예요, 환자. ",
+      "ENGLISH": "Mr. Yuman is still a patient here.",
+      "CHINESE_SIMPLIFIED": "宥万先生是病人，病人",
+      "CHINESE_TRADITIONAL": "宥萬先生是個病人，病人",
+      "JAPANESE": "ウ・ユマンさんは患者さんですよ、患者",
+      "INDONESIAN": "Yuman itu pasien.",
+      "PORTUGUESE": "O Sr. Woo Yuman é paciente, paciente.",
+      "SPANISH": "El señor Yumán es un PACIENTE.",
+      "PERSIAN": "آقای وو یومان هنوز بیمار این بخشن، بیمار!"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 76.7,
+      "HIDE": 80.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아직 막 여기저기 돌아다니면 안 된다구요!",
+      "ENGLISH": "He shouldn’t be wandering around like this yet!",
+      "CHINESE_SIMPLIFIED": "现在还不能到处乱跑！",
+      "CHINESE_TRADITIONAL": "現在還不能到處亂跑啦！",
+      "JAPANESE": "まだあちこち歩き回ったらダメですよ！",
+      "INDONESIAN": "Belum boleh keluyuran dulu!",
+      "PORTUGUESE": "Ele não pode ficar andando por aí desse jeito ainda!",
+      "SPANISH": "¡No puede andar caminando tanto todavía!",
+      "PERSIAN": "هنوز نباید سرخود اینور و اونور ول بچرخن!"
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 80.8,
+      "HIDE": 84.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 제가 답답해서 좀 부탁드린 거예요...",
+      "ENGLISH": "Sorry, it was my fault. I asked for some fresh air...",
+      "CHINESE_SIMPLIFIED": "啊...我只是有点闷，就拜托她带我出来一下...",
+      "CHINESE_TRADITIONAL": "啊…我是因為太無聊了，才拜託他幫忙…",
+      "JAPANESE": "ああ…俺が少し息苦しくて、ちょっとお願いしただけなんです…",
+      "INDONESIAN": "Maaf, aku cuma agak suntuk, makanya minta izin keluar sebentar...",
+      "PORTUGUESE": "Ah... é que eu pedi pra ele, estava me sentindo sufocado.",
+      "SPANISH": "Ah… es que me sentía sofocado y le pedí de favor…",
+      "PERSIAN": "ببخشید، تقصیر من بود... دلم پوسیده بود، گفتم یه هوایی بخورم..."
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 84.9,
+      "HIDE": 87.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼 우유만 씨 저 따라오세요. ",
+      "ENGLISH": "Anyway, Yuman, come with me.",
+      "CHINESE_SIMPLIFIED": "总之宥万先生，跟我来吧",
+      "CHINESE_TRADITIONAL": "總之，宥萬先生，請跟我來吧",
+      "JAPANESE": "とにかく、ウ・ユマンさん、私についてきてください",
+      "INDONESIAN": "Pokoknya Yuman, ikut aku.",
+      "PORTUGUESE": "De qualquer forma, Sr. Yooman, venha comigo.",
+      "SPANISH": "Como sea. Señor Yumán, venga conmigo.",
+      "PERSIAN": "خیلی خب، آقای یومان تشریف بیارین دنبالم."
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 87.4,
+      "HIDE": 91.1
+    },
+    "SCRIPT": {
+      "KOREAN": "의사 선생님이 퇴원해도 될지 진료 봐주신다고 했어요.",
+      "ENGLISH": "The doctor’s ready to check if you’re clear for discharge.",
+      "CHINESE_SIMPLIFIED": "医生会看看你能不能出院",
+      "CHINESE_TRADITIONAL": "醫生說要幫你檢查，確認能不能出院",
+      "JAPANESE": "先生が退院していいか診てくださるそうです",
+      "INDONESIAN": "Dokternya mau periksa kamu, buat lihat bisa pulang atau belum.",
+      "PORTUGUESE": "O médico vai avaliar se já está tudo bem para ter alta.",
+      "SPANISH": "La doctora dijo que iba a revisarlo para ver si está listo para darle el alta.",
+      "PERSIAN": "خانم دکتر منتظرن معاینه‌تون کنن ببینن وضعیت ترخیص چطوره."
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 91.6,
+      "HIDE": 92.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Right...",
+      "CHINESE_SIMPLIFIED": "好的...",
+      "CHINESE_TRADITIONAL": "好的...",
+      "JAPANESE": "そうです···",
+      "INDONESIAN": "Bener...",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "چشم..."
+    }
+  }
+]

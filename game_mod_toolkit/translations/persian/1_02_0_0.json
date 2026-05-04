@@ -1,0 +1,121 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 0.7
+    },
+    "SCRIPT": {
+      "KOREAN": "환자분.",
+      "ENGLISH": "Sir.",
+      "PERSIAN": "آقا..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.1
+    },
+    "SCRIPT": {
+      "KOREAN": "정신 차려보세요.",
+      "ENGLISH": "Can you hear me?",
+      "PERSIAN": "صدامو می‌شنوین؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 1.1,
+      "HIDE": 1.4
+    },
+    "SCRIPT": {
+      "KOREAN": "환자분!",
+      "ENGLISH": "Stay with me!",
+      "PERSIAN": "چشماتونو باز نگه دارین!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "환자분 눈 감지 마시고 숨 쉬세요.",
+      "ENGLISH": "Don’t close your eyes—keep breathing!",
+      "PERSIAN": "چشماتونو نبندین، نفس بکشین!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "다리가 이게..",
+      "ENGLISH": "Your leg is...",
+      "PERSIAN": "پاتون اینجوری..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "정신 차리세요!",
+      "ENGLISH": "Come on, stay with me!",
+      "PERSIAN": "هوشیار باشین، با من حرف بزنین!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "다리 움직이시면 안 됩니다.",
+      "ENGLISH": "Don’t move your leg, okay?",
+      "PERSIAN": "پاتونو اصلاً تکون ندین، باشه؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "정신 차리세요 환자분.",
+      "ENGLISH": "Stay with me, please.",
+      "PERSIAN": "لطفاً بیهوش نشین..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 6.4
+    },
+    "SCRIPT": {
+      "KOREAN": "환자분!",
+      "ENGLISH": "Sir!",
+      "PERSIAN": "آقا!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮으세요?",
+      "ENGLISH": "Are you okay? Can you hear me?",
+      "PERSIAN": "خوبین؟ صدامو می‌شنوین؟"
+    }
+  }
+]

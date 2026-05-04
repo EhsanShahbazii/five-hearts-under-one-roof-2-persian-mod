@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 여기 들어오시면 안 돼요.",
+      "ENGLISH": "Hey! You’re not allowed in here.",
+      "CHINESE_SIMPLIFIED": "嗯？这里不能随便进哦",
+      "CHINESE_TRADITIONAL": "呃？這裡不能隨便進來喔",
+      "JAPANESE": "あ ここ入っちゃダメです",
+      "INDONESIAN": "Hei! Kamu tidak diizinkan masuk ke sini.",
+      "PORTUGUESE": "Ah? Você não pode entrar aqui.",
+      "SPANISH": "¿Ah? No puede entrar aquí.",
+      "PERSIAN": "سلام! شما اجازه ورود به اینجا را ندارید"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 아까 그 돼지..? ",
+      "ENGLISH": "Huh? Weren’t you that pig from earlier...?",
+      "CHINESE_SIMPLIFIED": "呃？刚才那只猪...？",
+      "CHINESE_TRADITIONAL": "咦？但剛才那隻豬…？",
+      "JAPANESE": "え? さっきのブタ…？",
+      "INDONESIAN": "Hah? Bukankah kamu babi yang tadi...?",
+      "PORTUGUESE": "Hã? Aquele porco de antes...?",
+      "SPANISH": "¿Eh? ¿Hace un rato ese cerdo...?",
+      "PERSIAN": "ها؟ تو اون خوک قبلی نبودی...؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "여기는 관계자들만 들어갈 수 있어요.",
+      "ENGLISH": "This area’s for authorized personnel only.",
+      "CHINESE_SIMPLIFIED": "这里只有相关人员才能进",
+      "CHINESE_TRADITIONAL": "這裡只有相關人員才能進入",
+      "JAPANESE": "ここは関係者しか入れませんよ",
+      "INDONESIAN": "Area ini hanya untuk personel yang berwenang.",
+      "PORTUGUESE": "Esta é uma área apenas para pessoal autorizado.",
+      "SPANISH": "Es una zona solo para personal autorizado.",
+      "PERSIAN": "این منطقه فقط برای پرسنل مجاز است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 민정 님 관계자인데요?",
+      "ENGLISH": "I am with Min-jung.",
+      "CHINESE_SIMPLIFIED": "我就是敏静小姐的相关人员啊？",
+      "CHINESE_TRADITIONAL": "我是敏靜小姐認識的人",
+      "JAPANESE": "俺 ミンジョンさんの関係者ですけど?",
+      "INDONESIAN": "Saya bersama Min-jung.",
+      "PORTUGUESE": "Mas eu tenho autorização da Minjung.",
+      "SPANISH": "Pero tengo la autorización de Minjung.",
+      "PERSIAN": "من با مین‌جونگ هستم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "관계가 어떻게 되시는데요?",
+      "ENGLISH": "And what’s your relationship with her?",
+      "CHINESE_SIMPLIFIED": "你们是什么关系呢？",
+      "CHINESE_TRADITIONAL": "你們的關係是？",
+      "JAPANESE": "どういう関係なんですか?",
+      "INDONESIAN": "Dan apa hubunganmu dengannya?",
+      "PORTUGUESE": "Qual é a sua relação com ela?",
+      "SPANISH": "¿Cuál es su relación con ella?",
+      "PERSIAN": "و رابطه شما با او چیه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그..관계가...",
+      "ENGLISH": "Uh... our relationship is...",
+      "CHINESE_SIMPLIFIED": "那个...关系是...",
+      "CHINESE_TRADITIONAL": "我們…的關係…",
+      "JAPANESE": "えっと…関係が…",
+      "INDONESIAN": "Uh... hubungan kita...",
+      "PORTUGUESE": "Nossa... relação...",
+      "SPANISH": "Nuestra... relación...",
+      "PERSIAN": "اوه ... رابطه ما ..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그... ",
+      "ENGLISH": "Um...",
+      "CHINESE_SIMPLIFIED": "就是...",
+      "CHINESE_TRADITIONAL": "就是…",
+      "JAPANESE": "その…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "SPANISH": "Estem...",
+      "PERSIAN": "اوم..."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": "친구...?",
+      "ENGLISH": "Friends...?",
+      "CHINESE_SIMPLIFIED": "朋友...？",
+      "CHINESE_TRADITIONAL": "朋友…？",
+      "JAPANESE": "友達…?",
+      "INDONESIAN": "Teman-teman...?",
+      "PORTUGUESE": "Amizade...?",
+      "SPANISH": "¿Amistad...?",
+      "PERSIAN": "دوستان...؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "절대 안 돼요",
+      "ENGLISH": "Absolutely not.",
+      "CHINESE_SIMPLIFIED": "绝对不行",
+      "CHINESE_TRADITIONAL": "絕對不行",
+      "JAPANESE": "絶対ダメです",
+      "INDONESIAN": "Sama sekali tidak.",
+      "PORTUGUESE": "Não pode entrar.",
+      "SPANISH": "No puede pasar.",
+      "PERSIAN": "مطلقا نه."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.1,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 저 근데 진짜 관계자 맞아요!",
+      "ENGLISH": "No, but seriously—I am authorized!",
+      "CHINESE_SIMPLIFIED": "啊，我真的是相关人员啦！",
+      "CHINESE_TRADITIONAL": "啊，可是我真的是相關人員啦！",
+      "JAPANESE": "いや でも俺ほんとに関係者なんですって!",
+      "INDONESIAN": "Tidak, tapi serius—saya berwenang!",
+      "PORTUGUESE": "Mas eu tenho autorização!",
+      "SPANISH": "¡Pero sí tengo autorización!",
+      "PERSIAN": "نه، اما جدی - من مجاز هستم!"
+    }
+  }
+]

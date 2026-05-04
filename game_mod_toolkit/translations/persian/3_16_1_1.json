@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저 오늘은 하숙집 비품 사러 나온 거라 금방 가 봐야 될 것 같아요.",
+      "ENGLISH": "I actually just came out to pick up some supplies for the guesthouse, so I should probably head back soon.",
+      "CHINESE_SIMPLIFIED": "我今天是出来给合租公寓买点用品的，可能得快点回去",
+      "CHINESE_TRADITIONAL": "我今天是出來買我們合宿公寓要用的東西，應該很快就要回去了",
+      "JAPANESE": "今日下宿の備品を買いに出てきただけなので すぐ帰らないといけないんです",
+      "INDONESIAN": "Aku sebenarnya hanya datang untuk mengambil beberapa perlengkapan untuk wisma, jadi saya mungkin harus segera kembali.",
+      "PORTUGUESE": "Hoje eu só saí pra comprar umas coisinhas pra pensão, então acho que vou ter que ir logo.",
+      "SPANISH": "Hoy solo salí a comprar algunas cosas para la pensión, así que creo que tendré que irme pronto.",
+      "PERSIAN": "من در واقع بیرون آمدم تا برخی از وسایل را برای مهمانخانه بگیرم، بنابراین احتمالاً باید به زودی برگردم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하숙집이요?",
+      "ENGLISH": "Guesthouse?",
+      "CHINESE_SIMPLIFIED": "合租公寓？",
+      "CHINESE_TRADITIONAL": "合宿公寓？",
+      "JAPANESE": "下宿？",
+      "INDONESIAN": "Wisma?",
+      "PORTUGUESE": "Pensão?",
+      "SPANISH": "¿Pensión?",
+      "PERSIAN": "مهمانسرا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 모르셨구나! 저 하숙집 운영하고 있거든요",
+      "ENGLISH": "Oh, you didn’t know? I run a guesthouse!",
+      "CHINESE_SIMPLIFIED": "啊，您还不知道吧！我经营着合租公寓呢",
+      "CHINESE_TRADITIONAL": "啊，你不知道啊！我正在經營合宿公寓",
+      "JAPANESE": "あ、知らなかったんですね！ 俺下宿をやってるんですよ",
+      "INDONESIAN": "Oh, kamu belum tahu? Aku mengelola wisma tamu!",
+      "PORTUGUESE": "Ah, eu não tinha contado. É que eu tenho uma pensão!",
+      "SPANISH": "Ah, no le había dicho. ¡Es que tengo una pensión!",
+      "PERSIAN": "اوه، شما نمی دانستید؟ من یک مهمانسرا اداره می کنم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 그럼 그때 봤던 분도 하숙생?",
+      "ENGLISH": "Ah~ so the people I saw with you before—they’re guests?",
+      "CHINESE_SIMPLIFIED": "啊~那当时见到的那位也是住客吗？",
+      "CHINESE_TRADITIONAL": "啊～那次見到的那位也是房客嗎？",
+      "JAPANESE": "あ〜 じゃあ この前見かけた人も下宿生？",
+      "INDONESIAN": "Ah~ jadi orang-orang yang kulihat bersamamu sebelumnya—mereka tamu?",
+      "PORTUGUESE": "Ah~ então aquelas pessoas que vi daquela vez eram seus inquilinos?",
+      "SPANISH": "Ah~ entonces, ¿las personas que vi aquella vez eran sus inquilinos?",
+      "PERSIAN": "آه ~ پس افرادی که قبلاً با شما دیدم - مهمان هستند؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 16.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네 맞아요",
+      "ENGLISH": "Yep, that’s right.",
+      "CHINESE_SIMPLIFIED": "嗯，对的",
+      "CHINESE_TRADITIONAL": "是的，沒錯",
+      "JAPANESE": "はい そうです",
+      "INDONESIAN": "Ya, benar sekali.",
+      "PORTUGUESE": "Sim, exatamente.",
+      "SPANISH": "Sí, exactamente.",
+      "PERSIAN": "بله، درست است."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그렇구나.",
+      "ENGLISH": "I see...",
+      "CHINESE_SIMPLIFIED": "啊，原来如此",
+      "CHINESE_TRADITIONAL": "啊，原來如此",
+      "JAPANESE": "なるほど",
+      "INDONESIAN": "Jadi begitu...",
+      "PORTUGUESE": "Entendi.",
+      "SPANISH": "Ya veo.",
+      "PERSIAN": "میبینم..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼 만난 김에 조금만 놀다 가면 안 돼요?",
+      "ENGLISH": "Still, since we ran into each other—can’t you hang out for just a little bit?",
+      "CHINESE_SIMPLIFIED": "不过既然碰上了，不能稍微玩一会儿再走吗？",
+      "CHINESE_TRADITIONAL": "既然都碰到了，要不要稍微玩一下再走？",
+      "JAPANESE": "でもせっかく会えたんだし ちょっとだけ遊んでいきませんか？",
+      "INDONESIAN": "Tapi, karena kita bertemu—tidak bisakah kau bertahan sebentar saja?",
+      "PORTUGUESE": "De qualquer forma, já que a gente se encontrou, não quer ficar mais um pouquinho?",
+      "SPANISH": "De todos modos, ya que nos encontramos, ¿no podría quedarse un ratito más?",
+      "PERSIAN": "با این حال، از آنجایی که با هم برخورد کردیم، نمی‌تونین فقط برای مدت کوتاهی با هم بنشینید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.8,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네~?",
+      "ENGLISH": "Huhhh~?",
+      "CHINESE_SIMPLIFIED": "嗯~？",
+      "CHINESE_TRADITIONAL": "嗯～？",
+      "JAPANESE": "ね？",
+      "INDONESIAN": "Hah~?",
+      "PORTUGUESE": "Sim~?",
+      "SPANISH": "¿Sí~?",
+      "PERSIAN": "خخخ~؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 네~~?\n- 음...",
+      "ENGLISH": "— Huhhh~?\n— Hmm...",
+      "CHINESE_SIMPLIFIED": "-嗯~~？\n-嗯...",
+      "CHINESE_TRADITIONAL": "-嗯～～？\n-嗯...",
+      "JAPANESE": "ね〜〜？",
+      "INDONESIAN": "— Hah~?\n— Hmm...",
+      "PORTUGUESE": "—Hã~~?\n—Hã…",
+      "SPANISH": "—¿Eh~~?\n—Mmm…",
+      "PERSIAN": "- خخخ ~؟ - هوم..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 쪼금만?",
+      "ENGLISH": "Okay, just a little?",
+      "CHINESE_SIMPLIFIED": "那就一小会儿？",
+      "CHINESE_TRADITIONAL": "那就稍微一下下吧？",
+      "JAPANESE": "うーん… じゃあ ほんのちょっとだけ？",
+      "INDONESIAN": "Oke, sedikit saja?",
+      "PORTUGUESE": "Bom… só um pouquinho.",
+      "SPANISH": "Bueno… solo un ratito",
+      "PERSIAN": "خوب، فقط کمی؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 33.5
+    },
+    "SCRIPT": {
+      "KOREAN": "진~짜 쪼끔만!",
+      "ENGLISH": "Like really just a little!",
+      "CHINESE_SIMPLIFIED": "真~的就一小会儿！",
+      "CHINESE_TRADITIONAL": "真的～就一下下！",
+      "JAPANESE": "ほ〜んの ちょっとだけ！",
+      "INDONESIAN": "Seperti hanya sedikit saja!",
+      "PORTUGUESE": "Só um pouquinho mesmo, eu prometo!",
+      "SPANISH": "¡Solo un poquitito, lo prometo!",
+      "PERSIAN": "مثل واقعا فقط کمی!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 33.6,
+      "HIDE": 34.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그래요",
+      "ENGLISH": "Alright.",
+      "CHINESE_SIMPLIFIED": "好吧",
+      "CHINESE_TRADITIONAL": "好吧",
+      "JAPANESE": "はいはい",
+      "INDONESIAN": "Baiklah.",
+      "PORTUGUESE": "Tá bom.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "باشه"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아싸!",
+      "ENGLISH": "Yes!!",
+      "CHINESE_SIMPLIFIED": "太好啦！",
+      "CHINESE_TRADITIONAL": "耶！",
+      "JAPANESE": "やった〜！",
+      "INDONESIAN": "Ya!!",
+      "PORTUGUESE": "Siiim!",
+      "SPANISH": "¡Síii!",
+      "PERSIAN": "بله!!"
+    }
+  }
+]

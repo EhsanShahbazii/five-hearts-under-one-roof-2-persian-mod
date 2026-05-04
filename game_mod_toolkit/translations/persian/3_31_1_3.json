@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요?",
+      "ENGLISH": "How’s that?",
+      "CHINESE_SIMPLIFIED": "怎么样？",
+      "CHINESE_TRADITIONAL": "怎麼樣？",
+      "JAPANESE": "どうですか？",
+      "INDONESIAN": "Gimana?",
+      "PORTUGUESE": "Que tal?",
+      "SPANISH": "¿Qué tal?",
+      "PERSIAN": "چطوره؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "세기는 괜찮아요?",
+      "ENGLISH": "Is the pressure okay?",
+      "CHINESE_SIMPLIFIED": "力道可以吗？",
+      "CHINESE_TRADITIONAL": "力道還可以嗎？",
+      "JAPANESE": "力加減は大丈夫ですか？",
+      "INDONESIAN": "Tekanannya pas nggak?",
+      "PORTUGUESE": "A pressão tá boa?",
+      "SPANISH": "¿Está bien la presión?",
+      "PERSIAN": "فشارش خوبه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 시원하고 좋은데요!",
+      "ENGLISH": "It feels so good—honestly, amazing!",
+      "CHINESE_SIMPLIFIED": "特别舒服，很好啊！",
+      "CHINESE_TRADITIONAL": "超級舒服，很棒耶！",
+      "JAPANESE": "すごく気持ちいいです！最高です！",
+      "INDONESIAN": "Enak banget—serius, luar biasa!",
+      "PORTUGUESE": "Sim, tá ótimo, bem relaxante.",
+      "SPANISH": "Sí, se siente genial, muy relajante.",
+      "PERSIAN": "این احساس بسیار خوبی دارد - صادقانه بگویم، شگفت انگیز!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "헤헤, 제가 또 이 마사지는 도가 텄거든요.",
+      "ENGLISH": "Hehe, well I am kinda a pro at this kind of massage.",
+      "CHINESE_SIMPLIFIED": "嘿嘿，我这按摩手艺可是专业水准呢",
+      "CHINESE_TRADITIONAL": "嘿嘿，說到按摩，我可是很熟練的",
+      "JAPANESE": "へへ、僕このマッサージちょっと得意なんですよ",
+      "INDONESIAN": "Hehe, ya aku emang lumayan jago sih soal pijet begini.",
+      "PORTUGUESE": "Hehe, é que nisso de massagem, eu já tenho prática.",
+      "SPANISH": "Jeje, es que en esto del masaje, ya tengo práctica.",
+      "PERSIAN": "هه، خوب من در این نوع ماساژ حرفه ای هستم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요?",
+      "ENGLISH": "...What?",
+      "CHINESE_SIMPLIFIED": "为什么呢？",
+      "CHINESE_TRADITIONAL": "為什麼啊？",
+      "JAPANESE": "どうしてですか？",
+      "INDONESIAN": "...Apa?",
+      "PORTUGUESE": "Ah, é? E por quê?",
+      "SPANISH": "¿Ah, sí? ¿Y eso?",
+      "PERSIAN": "... چی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 뭐 그냥 뭐...",
+      "ENGLISH": "Huh? Oh, it’s nothing, just...",
+      "CHINESE_SIMPLIFIED": "嗯？也没什么，就...",
+      "CHINESE_TRADITIONAL": "啊？就...也沒什麼...",
+      "JAPANESE": "え？いや、その…",
+      "INDONESIAN": "Hah? Oh, nggak, cuma...",
+      "PORTUGUESE": "Hã? Ah, nada...",
+      "SPANISH": "¿Eh? Ah, nada...",
+      "PERSIAN": "ها؟ اوه چیزی نیست فقط..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마도 해드리고, 말숙이도 해주고",
+      "ENGLISH": "I used to do this for my mom, and for Mal-sook too.",
+      "CHINESE_SIMPLIFIED": "给妈妈也按过，也给末淑按过",
+      "CHINESE_TRADITIONAL": "我會幫我媽按，也幫末淑按",
+      "JAPANESE": "母さんにもしてあげるし、マルスクにもしてあげてて",
+      "INDONESIAN": "Dulu aku sering pijetin mama, sama Mal-sook juga.",
+      "PORTUGUESE": "Também faço massagem na minha mãe, e na Malsook.",
+      "SPANISH": "También le hago masajes a mi mamá, y a Malsook.",
+      "PERSIAN": "من این کار را برای مادرم و همچنین برای مال‌سوک انجام می دادم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙은 누군데요?",
+      "ENGLISH": "Mal-sook? Who’s that?",
+      "CHINESE_SIMPLIFIED": "末淑是谁啊？",
+      "CHINESE_TRADITIONAL": "末淑是誰？",
+      "JAPANESE": "マルスクって誰ですか？",
+      "INDONESIAN": "Mal-sook? Siapa tuh?",
+      "PORTUGUESE": "Malsook? Quem é ela?",
+      "SPANISH": "¿Malsook? ¿Quién es ella?",
+      "PERSIAN": "مال‌سوک؟ اون کیه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 19.45
+    },
+    "SCRIPT": {
+      "KOREAN": "제 소꿉친구요",
+      "ENGLISH": "My childhood friend.",
+      "CHINESE_SIMPLIFIED": "是我从小一起长大的朋友",
+      "CHINESE_TRADITIONAL": "是我的青梅竹馬",
+      "JAPANESE": "僕の幼なじみです",
+      "INDONESIAN": "Temen masa kecilku.",
+      "PORTUGUESE": "Minha amiga de infância.",
+      "SPANISH": "Mi amiga de la infancia.",
+      "PERSIAN": "دوست دوران کودکی من."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 소꿉친구...",
+      "ENGLISH": "Ah... childhood friend...",
+      "CHINESE_SIMPLIFIED": "啊~青梅竹马...",
+      "CHINESE_TRADITIONAL": "喔～青梅竹馬啊...",
+      "JAPANESE": "あ〜幼なじみ…",
+      "INDONESIAN": "Ah... temen masa kecil...",
+      "PORTUGUESE": "Ah~ sua amiga de infância...",
+      "SPANISH": "Ah~ tu amiga de la infancia...",
+      "PERSIAN": "آه ... دوست دوران کودکی ..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 27.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 걔만 만나면 그렇게 정신이 없어요 ",
+      "ENGLISH": "Ugh, every time you bring her up, you completely lose focus.",
+      "CHINESE_SIMPLIFIED": "啊~一见到她我就总是心神不宁的",
+      "CHINESE_TRADITIONAL": "嗯～ 只要一見到她，我就心神不寧",
+      "JAPANESE": "あ〜そいつと会うと もう落ち着きがなくて",
+      "INDONESIAN": "Ugh, tiap kali kamu nyebut dia, fokus kamu langsung buyar total.",
+      "PORTUGUESE": "Ah, claro... toda vez que tô com ela, é como se tudo ao meu redor desaparecesse.",
+      "SPANISH": "Ah, claro... cada vez que estoy con ella, es como si todo a mi alrededor desapareciera.",
+      "PERSIAN": "اوه، هر بار که اونو مطرح می کنید، کاملاً تمرکز خود را از دست می دهید."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.4,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 그만 받을래요",
+      "ENGLISH": "I think I’m done with the massage.",
+      "CHINESE_SIMPLIFIED": "我不想继续按了",
+      "CHINESE_TRADITIONAL": "到這邊就可以了",
+      "JAPANESE": "あの、もうやめてもいいです",
+      "INDONESIAN": "Kayaknya pijetnya cukup deh.",
+      "PORTUGUESE": "Acho que já pode parar.",
+      "SPANISH": "Creo que ya puede detenerse.",
+      "PERSIAN": "فکر می کنم ماساژ را تمام کرده ام."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 아직 남았는데...",
+      "ENGLISH": "Wait, what? There’s still more to—",
+      "CHINESE_SIMPLIFIED": "嗯？还没结束呢...",
+      "CHINESE_TRADITIONAL": "欸？還沒按完耶...",
+      "JAPANESE": "え？まだ途中ですけど…",
+      "INDONESIAN": "Hah? Tapi masih ada yang—",
+      "PORTUGUESE": "Hã? Mas ainda falta um pouco...",
+      "SPANISH": "¿Eh? Pero todavía falta un poco...",
+      "PERSIAN": "صبر کن چی؟ هنوز چیزهای بیشتری وجود دارد -"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아이... 그만하셔도 될 거 같아요",
+      "ENGLISH": "No, it’s fine. I think I’m good.",
+      "CHINESE_SIMPLIFIED": "哎...可以停下了",
+      "CHINESE_TRADITIONAL": "哎... 感覺好像差不多了",
+      "JAPANESE": "いえ…もう大丈夫です",
+      "INDONESIAN": "Nggak, nggak usah. Aku udah cukup kok.",
+      "PORTUGUESE": "Não, tá tudo bem, pode parar já.",
+      "SPANISH": "No, está bien, puede parar ya.",
+      "PERSIAN": "نه، خوب است. فکر کنم خوبم"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 35.6
+    },
+    "SCRIPT": {
+      "KOREAN": "많이 풀렸어요",
+      "ENGLISH": "Totally loosened up.",
+      "CHINESE_SIMPLIFIED": "已经放松很多了",
+      "CHINESE_TRADITIONAL": "已經放鬆了很多了",
+      "JAPANESE": "だいぶほぐれましたから",
+      "INDONESIAN": "Udah lemes semua.",
+      "PORTUGUESE": "Sinto que já soltou bastante.",
+      "SPANISH": "Siento que ya se aflojó bastante.",
+      "PERSIAN": "کلا شل شده"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 37.5
+    },
+    "SCRIPT": {
+      "KOREAN": "큼...",
+      "ENGLISH": "Ahem...",
+      "CHINESE_SIMPLIFIED": "哼...",
+      "CHINESE_TRADITIONAL": "喔...",
+      "JAPANESE": "んん…",
+      "INDONESIAN": "Ehem...",
+      "PORTUGUESE": "Ehm...",
+      "SPANISH": "Ejem...",
+      "PERSIAN": "آهام..."
+    }
+  }
+]

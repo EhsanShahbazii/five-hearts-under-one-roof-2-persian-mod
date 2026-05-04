@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "당연히 괜찮죠! ",
+      "ENGLISH": "Of course it's fine!",
+      "CHINESE_SIMPLIFIED": "当然能行！",
+      "CHINESE_TRADITIONAL": "當然可以！",
+      "JAPANESE": "もちろん大丈夫ですよ！",
+      "INDONESIAN": "Ya jelas kamu bisa!",
+      "PORTUGUESE": "Claro que sim.",
+      "SPANISH": "Por supuesto que sí.",
+      "PERSIAN": "البته خوبه!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 정말 뭐든지 다~ 도와줄게요!",
+      "ENGLISH": "I'll help you with absolutely anything!",
+      "CHINESE_SIMPLIFIED": "我会用尽我的全力帮你的！",
+      "CHINESE_TRADITIONAL": "我會用盡全力幫你的！",
+      "JAPANESE": "僕が何でもぜ〜んぶ手伝ってあげますから！",
+      "INDONESIAN": "Aku bakal bantuin semuanya~",
+      "PORTUGUESE": "Vou te ajudar no que precisar~!",
+      "SPANISH": "¡Voy a ayudarte en lo que necesites~!",
+      "PERSIAN": "من در هر کاری به شما کمک خواهم کرد!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "诶？",
+      "CHINESE_TRADITIONAL": "欸？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "디데이에 맞춰서 플랜을 쫙~ 짜면 되는 건데.",
+      "ENGLISH": "You just need to plan everything out thoroughly by the deadline.",
+      "CHINESE_SIMPLIFIED": "只要按倒计时把计划表唰～地列出来就行",
+      "CHINESE_TRADITIONAL": "只要先根據目標日把計劃完整地列出來就好了",
+      "JAPANESE": "試験日までに合わせて、まずはスケジュールをガッと組めばいいんです。",
+      "INDONESIAN": "Tinggal bikin rencana belajar yang rapi sesuai hari-H aja",
+      "PORTUGUESE": "Só precisamos montar um plano completo até o dia da prova.",
+      "SPANISH": "Solo tenemos que hacer un plan completo ajustado al día del examen.",
+      "PERSIAN": "فقط باید تا مهلت مقرر همه چیز را به طور کامل برنامه ریزی کنید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ ",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊~",
+      "JAPANESE": "あ〜…",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 괜찮아요!",
+      "ENGLISH": "But it's okay!",
+      "CHINESE_SIMPLIFIED": "不过没关系啦！",
+      "CHINESE_TRADITIONAL": "不過沒關係啦！",
+      "JAPANESE": "でも大丈夫です！",
+      "INDONESIAN": "Tapi nggak apa-apa!",
+      "PORTUGUESE": "Não se preocupa.",
+      "SPANISH": "No se preocupe.",
+      "PERSIAN": "اما اشکالی ندارد!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "집에 찾아보면 제가 예전에 정리해 둔 노트가 있을 수도 있거든요!",
+      "ENGLISH": "I might have some notes I organized earlier at home!",
+      "CHINESE_SIMPLIFIED": "回家找找说不定还有我以前整理的笔记！",
+      "CHINESE_TRADITIONAL": "如果找找家裡，或許有我以前整理好的筆記呢！",
+      "JAPANESE": "家を探せば、前にまとめておいたノートがあるかもしれないんです！",
+      "INDONESIAN": "Kayaknya di rumah aku masih punya catatan belajar lama yang pernah aku susun",
+      "PORTUGUESE": "Acho que tenho uns resumos antigos guardados em casa.",
+      "SPANISH": "Creo que tengo unos apuntes antiguos guardados en casa.",
+      "PERSIAN": "ممکنه یادداشت هایی داشته باشم که قبلاً در خونه ترتیب داده بودم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 괜찮아요!",
+      "ENGLISH": "It's fine!",
+      "CHINESE_SIMPLIFIED": "哎呦不用啦！",
+      "CHINESE_TRADITIONAL": "哎呦不用啦！",
+      "JAPANESE": "いやいや、いいですよ！",
+      "INDONESIAN": "Eh nggak apa-apa!",
+      "PORTUGUESE": "Ah, não precisa.",
+      "SPANISH": "Ay, no hace falta.",
+      "PERSIAN": "خوب است!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 국영수도 이 붙잡고 있는...",
+      "ENGLISH": "Oh, you're holding onto Korean, Math, and Science too...",
+      "CHINESE_SIMPLIFIED": "哎呀，我语数英全都不在话下...",
+      "CHINESE_TRADITIONAL": "唉...但連國英數基本科目都還在掙扎著...",
+      "JAPANESE": "あの、国・英・数もずっとこれ掴んでるし…",
+      "INDONESIAN": "Aduh, bahkan pelajaran kayak Matematika, Bahasa Inggris, Bahasa Korea juga aku bisa bantu—",
+      "PORTUGUESE": "Vamos ver, matemática, história, física...",
+      "SPANISH": "Ay ver, son matemáticas, historia, física…",
+      "PERSIAN": "اوه، شما به کره ای، ریاضی و علوم هم پایبند هستید..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님!",
+      "ENGLISH": "Mr. Yoo Man!",
+      "CHINESE_SIMPLIFIED": "宥万先生！",
+      "CHINESE_TRADITIONAL": "宥萬先生！",
+      "JAPANESE": "ユマンさん！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yumán!",
+      "SPANISH": "¡Yumán!",
+      "PERSIAN": "آقای یو من!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "Yes?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Ya?",
+      "PORTUGUESE": "Sim?",
+      "SPANISH": "¿Sí?",
+      "PERSIAN": "بله؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요. 안 도와주셔도 된다구요.",
+      "ENGLISH": "It's fine. You don't have to help me.",
+      "CHINESE_SIMPLIFIED": "没关系，不帮忙也可以的",
+      "CHINESE_TRADITIONAL": "沒關系，不幫忙也可以的",
+      "JAPANESE": "大丈夫です。手伝ってもらわなくてもいいですから。",
+      "INDONESIAN": "Nggak apa-apa. Aku bisa sendiri, jadi nggak usah bantuin",
+      "PORTUGUESE": "Tá tudo bem. Não preciso da sua ajuda.",
+      "SPANISH": "Está bien. No necesito que me ayude.",
+      "PERSIAN": "خوب است. لازم نیست به من کمک کنی"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 26.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그, 그렇겠죠? ",
+      "ENGLISH": "That... that's right, isn't it?",
+      "CHINESE_SIMPLIFIED": "也，也是呢？",
+      "CHINESE_TRADITIONAL": "也、也是呢？",
+      "JAPANESE": "そ、そうですよね？",
+      "INDONESIAN": "O-oh, iya ya?",
+      "PORTUGUESE": "Ah... okay.",
+      "SPANISH": "Ah... okay",
+      "PERSIAN": "این... درست است، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 27.0,
+      "HIDE": 27.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "Yes.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "ええ。",
+      "INDONESIAN": "Iya",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "بله."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 31.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 네...아무래도 혼자서 잘 하시니까...",
+      "ENGLISH": "Yes, yes... You seem to be doing just fine on your own anyway...",
+      "CHINESE_SIMPLIFIED": "嗯，嗯...看来你一个人也能做好...",
+      "CHINESE_TRADITIONAL": "嗯，嗯...看來你一個人也能做好...",
+      "JAPANESE": "う、うん…やっぱり一人でもしっかりできる人ですもんね…。",
+      "INDONESIAN": "Iya, iya... soalnya kamu juga pasti bisa sendiri...",
+      "PORTUGUESE": "Sim, sim... acho que você vai se sair bem sozinha.",
+      "SPANISH": "Sí, sí… creo que puedes hacerlo bien por tu cuenta.",
+      "PERSIAN": "بله، بله ... به نظر می رسد که شما به تنهایی خوب کار می کنید ..."
+    }
+  }
+]

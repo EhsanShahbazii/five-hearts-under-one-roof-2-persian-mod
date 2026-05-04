@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "짜잔!",
+      "ENGLISH": "Ta-da!",
+      "CHINESE_SIMPLIFIED": "锵锵！",
+      "CHINESE_TRADITIONAL": "鏘鏘！",
+      "JAPANESE": "じゃじゃ〜ん！",
+      "INDONESIAN": "Tadaaa!",
+      "PORTUGUESE": "Tcharam!",
+      "SPANISH": "¡Tarán!",
+      "PERSIAN": "تا-دا!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 아~ 하세요.",
+      "ENGLISH": "Yuman, say “ah~”",
+      "CHINESE_SIMPLIFIED": "宥万先生，请张嘴~",
+      "CHINESE_TRADITIONAL": "宥萬先生～嘴巴打開～啊～",
+      "JAPANESE": "ユマンさん、あ〜んしてください",
+      "INDONESIAN": "Yuman, bilang “ah~”",
+      "PORTUGUESE": "Senhor Yumán, diga aaah~",
+      "SPANISH": "Señor Yumán, diga aaah~",
+      "PERSIAN": "یومان، بگو \"آه~\""
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 제가 먹을게요~ 병원 일도 바쁘실 텐데...",
+      "ENGLISH": "Oh come on, I can eat it myself~ You’re busy with hospital work and all…",
+      "CHINESE_SIMPLIFIED": "哎呦，我自己吃吧~您医院工作应该很忙的...",
+      "CHINESE_TRADITIONAL": "哎呀，我自己吃就好了～醫院工作應該也很忙吧...",
+      "JAPANESE": "あ、僕が自分で食べますよ〜病院のお仕事も忙しいでしょうし…",
+      "INDONESIAN": "Yaa ampun, aku bisa makan sendiri kok~ Kamu kan lagi sibuk kerja di rumah sakit…",
+      "PORTUGUESE": "Ah, eu posso fazer isso… a senhora deve estar ocupada com o trabalho...",
+      "SPANISH": "Ay, yo puedo hacerlo… usted debe estar ocupada con el trabajo...",
+      "PERSIAN": "اوه بیا، من می توانم اونو خودم بخورم~ تو مشغول کار بیمارستانی و همه چیز…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "으으응!",
+      "ENGLISH": "Nuh-uh!",
+      "CHINESE_SIMPLIFIED": "呜呜嗯！",
+      "CHINESE_TRADITIONAL": "嗯嗯嗯！",
+      "JAPANESE": "ううん〜！",
+      "INDONESIAN": "Nggak gitu dong!",
+      "PORTUGUESE": "Mmm mmm!",
+      "SPANISH": "¡Mmm mmm!",
+      "PERSIAN": "نه!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": " 환자 돌보는 건 간호사의 몫이라구요!",
+      "ENGLISH": "Taking care of patients is a nurse’s job!",
+      "CHINESE_SIMPLIFIED": "照顾病人可是护士的职责呀！",
+      "CHINESE_TRADITIONAL": "照顧病人是護理師的職責嘛！",
+      "JAPANESE": "患者をお世話するのは看護師の仕事です！",
+      "INDONESIAN": "Ngurus pasien itu tugas perawat!",
+      "PORTUGUESE": "Cuidar do paciente é tarefa da enfermeira.",
+      "SPANISH": "Cuidar al paciente es tarea de la enfermera.",
+      "PERSIAN": "مراقبت از بیماران وظیفه یک پرستار است!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 빨리 아~ 하세요! ",
+      "ENGLISH": "Now come on—say “ah~”!",
+      "CHINESE_SIMPLIFIED": "快张嘴~！",
+      "CHINESE_TRADITIONAL": "來～嘴巴打開～！",
+      "JAPANESE": "早く、あ〜んしてください！",
+      "INDONESIAN": "Ayo dong bilang “ah~”!",
+      "PORTUGUESE": "Vamos, abra a boca rapidinho!",
+      "SPANISH": "¡Vamos, abra la boca rápido!",
+      "PERSIAN": "حالا بیا - بگو \"آه~\"!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아유 잘 먹는다!",
+      "ENGLISH": "Wow, look at you eat!",
+      "CHINESE_SIMPLIFIED": "哎呦，吃得真香！",
+      "CHINESE_TRADITIONAL": "哇，吃得真棒！",
+      "JAPANESE": "あ〜よく食べますね！",
+      "INDONESIAN": "Wah, lahap banget makannya!",
+      "PORTUGUESE": "Ai, que bem você come!",
+      "SPANISH": "¡Ay, qué bien come!",
+      "PERSIAN": "وای ببین داری میخوری!"
+    }
+  }
+]

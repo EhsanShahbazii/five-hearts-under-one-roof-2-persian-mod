@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "막상 무대 나가면 민정 님을 사랑하는 사람들이 많이 있을거니깐 ",
+      "ENGLISH": "Once I'm actually on stage, there'll be lots of people who love Minjeong,",
+      "CHINESE_SIMPLIFIED": "其实上台后你会发现有很多爱你的人都在给你鼓励",
+      "CHINESE_TRADITIONAL": "等你站上舞台後會發現，有許多愛你的人，在現場支持你",
+      "JAPANESE": "いざステージに出たら、ミンジョンさんを愛してる人がたくさんいますから",
+      "INDONESIAN": "Pas udah di atas panggung nanti, akan ada banyak orang yang dukung kamu, Min-jung",
+      "PORTUGUESE": "Quando você subir no palco, vai ter muita gente que te ama, Minjung,",
+      "SPANISH": "Cuando salgas al escenario, habrá mucha gente que te quiere, Minjung,",
+      "PERSIAN": "وقتی واقعاً روی صحنه بروم، کلی آدم هست که عاشق مین‌جونگ باشند،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.8
+    },
+    "SCRIPT": {
+      "KOREAN": "마음 편하게 먹어요 알겠죠?",
+      "ENGLISH": "so just relax, okay?",
+      "CHINESE_SIMPLIFIED": "放松点，好吗？",
+      "CHINESE_TRADITIONAL": "放輕鬆一點，好嗎？",
+      "JAPANESE": "心を楽にしていいんですよ、ね？",
+      "INDONESIAN": "Jadi coba tenangin hati ya, oke?",
+      "PORTUGUESE": "então relaxa, tá bem?",
+      "SPANISH": "así que relájate, ¿de acuerdo?",
+      "PERSIAN": "پس فقط استراحت کن، باشه؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 근데...",
+      "ENGLISH": "Um... but...",
+      "CHINESE_SIMPLIFIED": "嗯...可是...",
+      "CHINESE_TRADITIONAL": "嗯...可是...",
+      "JAPANESE": "あの…でも…",
+      "INDONESIAN": "Mmm... tapi...",
+      "PORTUGUESE": "Ah... mas...",
+      "SPANISH": "Eh... pero...",
+      "PERSIAN": "امم... اما..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Ya?",
+      "PORTUGUESE": "Sim?",
+      "SPANISH": "¿Sí?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.7,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 때문에 지금 더 뛰는데요...",
+      "ENGLISH": "My heart is beating even faster because of you...",
+      "CHINESE_SIMPLIFIED": "因为有哥哥，我反而更紧张了...",
+      "CHINESE_TRADITIONAL": "因為哥哥的關係，我反而更緊張了...",
+      "JAPANESE": "お兄さんのせいで、もっとドキドキするんですけど…",
+      "INDONESIAN": "Deg-degannya malah makin kenceng gara-gara kamu...",
+      "PORTUGUESE": "Por sua culpa, meu coração tá batendo ainda mais rápido...",
+      "SPANISH": "Por tu culpa, mi corazón late aún más rápido...",
+      "PERSIAN": "قلبم به خاطر تو تندتر می‌تپد..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어!?!! 그러면 안 되는데...!!",
+      "ENGLISH": "Huh!?!! That's not supposed to happen...!!",
+      "CHINESE_SIMPLIFIED": "哎？！这可不行啊！！",
+      "CHINESE_TRADITIONAL": "啊！？這樣不行啊！！",
+      "JAPANESE": "えっ！？それは困ったな…！！",
+      "INDONESIAN": "Hah!?!! Waduh, itu nggak boleh dong...!!",
+      "PORTUGUESE": "Hã?! Isso não era pra acontecer...!!",
+      "SPANISH": "¿Eh?! ¡¡Eso no debería pasar...!!",
+      "PERSIAN": "ها!؟!! قرار نیست این اتفاق بیفته...!!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 뭔가 든든해졌어요...",
+      "ENGLISH": "But somehow, it makes me feel more confident...",
+      "CHINESE_SIMPLIFIED": "不过...感觉也更有底气了",
+      "CHINESE_TRADITIONAL": "不過，我心裡好像也變得很踏實",
+      "JAPANESE": "でも、なんか心強いです…",
+      "INDONESIAN": "Tapi entah kenapa jadi ngerasa lebih tenang juga sih...",
+      "PORTUGUESE": "Mesmo assim, eu me sinto mais calma...",
+      "SPANISH": "Aun así, me siento más tranquila ...",
+      "PERSIAN": "اما یه جورایی باعث میشه اعتماد به نفسم بیشتر بشه..."
+    }
+  }
+]

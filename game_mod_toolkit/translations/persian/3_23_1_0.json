@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아침부터 어딜 나가나 했더니 데이트하러 나간 거였어?",
+      "ENGLISH": "So that’s where you went this morning—you were out on a date?",
+      "CHINESE_SIMPLIFIED": "一大清早不见人影，原来是跑去约会了？",
+      "CHINESE_TRADITIONAL": "我還以為你一大早出門去哪裡，原來是跑去約會？",
+      "JAPANESE": "朝からどこ行ったのかと思ったら デートだったの？",
+      "INDONESIAN": "Jadi ke sanalah kamu pergi pagi ini—kamu sedang berkencan?",
+      "PORTUGUESE": "Então desde de manhã você tava fora porque tinha um encontro?",
+      "SPANISH": "¿Así que desde la mañana andabas afuera porque tenías una cita?",
+      "PERSIAN": "پس این همون جایی است که امروز صبح رفتید - بیرون قرار داشتید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": " 고말숙 치마 입은 거 보기 너무 힘든데...",
+      "ENGLISH": "It’s rare enough to see Mal-sook in a skirt...",
+      "CHINESE_SIMPLIFIED": "高末淑穿裙子看着真不习惯...",
+      "CHINESE_TRADITIONAL": "超難得看到高末淑穿裙子耶...",
+      "JAPANESE": "コ・マルスクがスカート履くなんて 滅多にないのに…",
+      "INDONESIAN": "Jarang sekali melihat Mal-sook mengenakan rok...",
+      "PORTUGUESE": "É tão estranho te ver de saia, Malsook...",
+      "SPANISH": "Es tan raro verte con falda, Malsook...",
+      "PERSIAN": "دیدن مال‌سوک در دامن به قدر کافی نادر است..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야 진짜... 연애하는 거야?",
+      "ENGLISH": "Wait, seriously... are you dating someone?",
+      "CHINESE_SIMPLIFIED": "什么啊真的...是在谈恋爱吗？",
+      "CHINESE_TRADITIONAL": "搞什麼...你真的在談戀愛喔？",
+      "JAPANESE": "なんだよ…本気で恋愛してるの？",
+      "INDONESIAN": "Tunggu, serius... apakah kamu sedang berkencan dengan seseorang?",
+      "PORTUGUESE": "O que é isso? Tá mesmo saindo com alguém?",
+      "SPANISH": "¿Qué es esto? ¿De verdad estás saliendo con alguien?",
+      "PERSIAN": "صبر کن، جدی... با کسی قرار گذاشتی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나한테 얘기도 안 해주고? 서운한데...",
+      "ENGLISH": "And you didn’t even tell me? That kinda hurts, you know...",
+      "CHINESE_SIMPLIFIED": "连跟我都不说一声？真让人难过...",
+      "CHINESE_TRADITIONAL": "也沒跟我說一聲？我很受傷耶...",
+      "JAPANESE": "俺に何も言ってくれないなんて 寂しいな…",
+      "INDONESIAN": "Dan kamu bahkan nggak bilang? Rasanya agak sakit, lho...",
+      "PORTUGUESE": "E nem me conta? Isso sim machuca...",
+      "SPANISH": "¿Y ni siquiera me lo cuentas? Eso sí que duele...",
+      "PERSIAN": "و تو حتی به من نگفتی؟ یه جورایی درد داره میدونی..."
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.7,
+      "HIDE": 1.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "あれ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 여기 왜 있지...?",
+      "ENGLISH": "Why is this here…?",
+      "CHINESE_SIMPLIFIED": "这东西怎么在这儿...？",
+      "CHINESE_TRADITIONAL": "這東西怎麼會在這裡...？",
+      "JAPANESE": "これ、なんでここにあるんだ…？",
+      "INDONESIAN": "Ini apaan sih di sini…?",
+      "PORTUGUESE": "O que isso tá fazendo aqui?",
+      "SPANISH": "¿Qué hace esto aquí?",
+      "PERSIAN": "چرا اینجاست…؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "참... 진짜",
+      "ENGLISH": "Sheesh… seriously.",
+      "CHINESE_SIMPLIFIED": "真是...够了",
+      "CHINESE_TRADITIONAL": "唉... 真是",
+      "JAPANESE": "まったくもう…",
+      "INDONESIAN": "Hadeh… yang bener aja deh.",
+      "PORTUGUESE": "Nossa... sério...",
+      "SPANISH": "Vaya... de verdad...",
+      "PERSIAN": "شیش… جدی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "咦？",
+      "JAPANESE": "ん？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Oh?",
+      "SPANISH": "¿Oh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.1
+    },
+    "SCRIPT": {
+      "KOREAN": "쓰읍~",
+      "ENGLISH": "Tsk~",
+      "CHINESE_SIMPLIFIED": "嘶——",
+      "CHINESE_TRADITIONAL": "嘶～",
+      "JAPANESE": "すぅ〜…",
+      "INDONESIAN": "Ck~",
+      "PORTUGUESE": "Tsk...",
+      "SPANISH": "Tsk...",
+      "PERSIAN": "تسک ~"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "거 콘돔을 크흠, 챙겨볼까...?",
+      "ENGLISH": "Should I… check the condoms…?",
+      "CHINESE_SIMPLIFIED": "这个套套...咳咳，要收起来吗...？",
+      "CHINESE_TRADITIONAL": "那個...保險套...咳咳，要收起來嗎...?",
+      "JAPANESE": "これ、コンドーム…ごほん、持っていこうかな…？",
+      "INDONESIAN": "Aku… cek ada kondomnya nggak ya…?",
+      "PORTUGUESE": "Esses preservativos... será que eu devia levar?",
+      "SPANISH": "Estos condones.. ¿debería tomarlos?",
+      "PERSIAN": "باید کاندوم ها را چک کنم...؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "씁~ 좋아",
+      "ENGLISH": "Heh~ alright.",
+      "CHINESE_SIMPLIFIED": "嘶~行吧",
+      "CHINESE_TRADITIONAL": "嗯～ 收著吧",
+      "JAPANESE": "ふぅ〜…いいね",
+      "INDONESIAN": "Heh~ ya udah deh.",
+      "PORTUGUESE": "Perfeito...",
+      "SPANISH": "Perfecto...",
+      "PERSIAN": "هه~ باشه"
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요?",
+      "ENGLISH": "Are you okay?",
+      "CHINESE_SIMPLIFIED": "你没事吧？",
+      "CHINESE_TRADITIONAL": "你沒事吧？",
+      "JAPANESE": "大丈夫ですか？",
+      "INDONESIAN": "Kamu nggak apa-apa?",
+      "PORTUGUESE": "Você tá bem?",
+      "SPANISH": "¿Estás bien?",
+      "PERSIAN": "حالت خوبه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "비가 이렇게 많이 오는데 우산도 없이 ",
+      "ENGLISH": "It’s pouring out there—",
+      "CHINESE_SIMPLIFIED": "下这么大雨还没带伞",
+      "CHINESE_TRADITIONAL": "雨下這麼大，你還沒帶傘",
+      "JAPANESE": "こんなに雨が降ってるのに、傘もささずに…",
+      "INDONESIAN": "Di luar hujan deras banget—",
+      "PORTUGUESE": "Com toda essa chuva e sem guarda-chuva,",
+      "SPANISH": "Con toda esta lluvia y sin paraguas,",
+      "PERSIAN": "آنجا می ریزد -"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게 여기까지 올 생각을 했어요?",
+      "ENGLISH": "What were you thinking, coming all this way without an umbrella?",
+      "CHINESE_SIMPLIFIED": "怎么想到直接跑来这里的？",
+      "CHINESE_TRADITIONAL": "怎麼就跑到這裡了？",
+      "JAPANESE": "どうやってここまで来たんですか？",
+      "INDONESIAN": "Kamu lagi mikir apa sih, jalan sejauh ini tanpa payung?",
+      "PORTUGUESE": "como foi que você pensou em vir até aqui?",
+      "SPANISH": "¿cómo se te ocurrió venir hasta aquí?",
+      "PERSIAN": "به چه فکر می کردی که این همه راه را بدون چتر می آمدی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "숙소 앞은 기자들로 꽉 차있고, 올 데가 여기 밖에 없었어요.",
+      "ENGLISH": "There were reporters swarming outside my place. I didn’t have anywhere else to go...",
+      "CHINESE_SIMPLIFIED": "宿舍门口挤满了记者，我除了这里无处可去了",
+      "CHINESE_TRADITIONAL": "我住的地方門口全都是記者，除了這裡，哪裡也去不了",
+      "JAPANESE": "宿の前は記者でいっぱいで、行けるところがもうここしかなくて…",
+      "INDONESIAN": "Tadi banyak wartawan ngegerubungin rumahku. Aku nggak tahu lagi harus ke mana...",
+      "PORTUGUESE": "Na frente do alojamento tá cheio de jornalistas, eu não tinha pra onde ir...",
+      "SPANISH": "Frente al alojamiento está lleno de periodistas, no tenía a dónde más ir...",
+      "PERSIAN": "خبرنگارانی بودند که بیرون محل من ازدحام کرده بودند. جای دیگری برای رفتن نداشتم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 젖은 옷 입고 있으면 감기 걸리니까",
+      "ENGLISH": "Well, you’ll catch a cold if you stay in those wet clothes.",
+      "CHINESE_SIMPLIFIED": "穿着湿衣服会感冒的",
+      "CHINESE_TRADITIONAL": "總之穿著濕衣服會感冒的",
+      "JAPANESE": "とにかく、その濡れた服のままだと風邪ひいちゃいますよ",
+      "INDONESIAN": "Kalau kamu terus pakai baju basah itu, bisa masuk angin, lho.",
+      "PORTUGUESE": "Bom, se continuar com essa roupa molhada vai acabar pegando um resfriado,",
+      "SPANISH": "Bueno, si sigues con la ropa mojada te vas a resfriar,",
+      "PERSIAN": "خوب، اگر در اون لباس های خیس بمانید سرما می خورید."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "옷부터 갈아 입을까요?",
+      "ENGLISH": "Let’s get you into something dry first, yeah?",
+      "CHINESE_SIMPLIFIED": "先把衣服换掉吧？",
+      "CHINESE_TRADITIONAL": "先換件乾淨衣服吧？",
+      "JAPANESE": "まずは着替えましょうか",
+      "INDONESIAN": "Mending ganti baju dulu yang kering, ya?",
+      "PORTUGUESE": "por que não se troca primeiro?",
+      "SPANISH": "¿por qué no te cambias primero?",
+      "PERSIAN": "بیایید ابتدا شما را وارد یک چیز خشک کنیم، بله؟"
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "귀여워...!",
+      "ENGLISH": "So cute…!",
+      "CHINESE_SIMPLIFIED": "好可爱...！",
+      "CHINESE_TRADITIONAL": "好可愛...!",
+      "JAPANESE": "かわいい…！",
+      "INDONESIAN": "Gemes banget sumpah…!",
+      "PORTUGUESE": "Que linda...!",
+      "SPANISH": "¡Qué linda...!",
+      "PERSIAN": "خیلی نازه…!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이상하죠...",
+      "ENGLISH": "Isn’t it weird…?",
+      "CHINESE_SIMPLIFIED": "很奇怪吧...",
+      "CHINESE_TRADITIONAL": "不奇怪嗎...",
+      "JAPANESE": "変ですよね…",
+      "INDONESIAN": "Nggak aneh, kan…?",
+      "PORTUGUESE": "Tá estranho...?",
+      "SPANISH": "¿Se ve raro...?",
+      "PERSIAN": "عجیب نیست…؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하나도 안 이상해요! 오빠 어때요?",
+      "ENGLISH": "Not weird at all! Oppa, what do you think?",
+      "CHINESE_SIMPLIFIED": "一点都不会奇怪！哥哥觉得呢？",
+      "CHINESE_TRADITIONAL": "一點都不奇怪啊！哥哥你覺得怎麼樣？",
+      "JAPANESE": "全然変じゃないですよ！お兄さん、どう思います？",
+      "INDONESIAN": "Nggak aneh sama sekali! Oppa, menurutmu gimana?",
+      "PORTUGUESE": "Nada disso! Oppa, o que acha?",
+      "SPANISH": "¡Para nada! ¿Oppa, tú qué opinas?",
+      "PERSIAN": "اصلا عجیب نیست! یومان، نظرت چیه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오... 완전 귀여운데요...",
+      "ENGLISH": "Oh… it’s super cute…",
+      "CHINESE_SIMPLIFIED": "哦...超级可爱的...",
+      "CHINESE_TRADITIONAL": "啊...真的超級可愛...",
+      "JAPANESE": "おお…めっちゃ可愛いですね…",
+      "INDONESIAN": "Oh… super gemes banget…",
+      "PORTUGUESE": "Sim... ficou bem fofa.",
+      "SPANISH": "Sí... se ve muy tierna.",
+      "PERSIAN": "اوه...خیلی نازه…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 감, 감사합니다...",
+      "ENGLISH": "Huh? Th-thank you…",
+      "CHINESE_SIMPLIFIED": "啊？谢，谢谢...",
+      "CHINESE_TRADITIONAL": "誒？謝、謝謝...",
+      "JAPANESE": "えっ、あ、ありがとうございます…",
+      "INDONESIAN": "Hah? M-makasih…",
+      "PORTUGUESE": "Hã? O-obrigada...",
+      "SPANISH": "¿Eh? G-gracias…",
+      "PERSIAN": "ها؟ ث- ممنون…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 이제 출근 준비 하자.",
+      "ENGLISH": "Yuman, let’s get ready for work now.",
+      "CHINESE_SIMPLIFIED": "吴宥万，我们该准备去上班了",
+      "CHINESE_TRADITIONAL": "吳宥萬先生，你要準備上班了吧",
+      "JAPANESE": "ウ・ユマンさん、そろそろ出勤の準備しましょう",
+      "INDONESIAN": "Yuman, ayo siap-siap kerja sekarang.",
+      "PORTUGUESE": "Yuman, precisamos nos preparar pra ir trabalhar.",
+      "SPANISH": "Yumán, hay que prepararnos para ir a trabajar.",
+      "PERSIAN": "یومان، بیا الان برای کار آماده شویم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 맞다. 여러분, 저 출근해야 돼서 이따 봬요!",
+      "ENGLISH": "Ah, right. Everyone, I have to head to work, so see you later!",
+      "CHINESE_SIMPLIFIED": "啊对了，各位，我得去上班了，待会儿见！",
+      "CHINESE_TRADITIONAL": "對欸。各位，我得出門去上班了，晚一點見",
+      "JAPANESE": "あ、そうだ　みんな、俺もう会社行かなきゃだから、また後で",
+      "INDONESIAN": "Ah, iya. Semuanya, aku harus berangkat kerja, jadi sampai ketemu nanti!",
+      "PORTUGUESE": "Ah, verdade. Meninas, vejo vocês mais tarde.",
+      "SPANISH": "Ah, cierto. Chicas, nos vemos más tarde.",
+      "PERSIAN": "آه، درست است. همه، من باید سر کار بروم، پس شما را بعدا می بینم!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 잘 갔다와요!",
+      "ENGLISH": "Oppa, have a good day!",
+      "CHINESE_SIMPLIFIED": "哥哥路上小心！",
+      "CHINESE_TRADITIONAL": "哥哥，路上小心！",
+      "JAPANESE": "お兄さんいってらっしゃい！",
+      "INDONESIAN": "Oppa, semangat ya hari ini!",
+      "PORTUGUESE": "Boa sorte, oppa!",
+      "SPANISH": "¡Qué te vaya bien, oppa!",
+      "PERSIAN": "یومان، روز خوبی داشته باشی!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다녀오세요...",
+      "ENGLISH": "You too… take care…",
+      "CHINESE_SIMPLIFIED": "路上小心...",
+      "CHINESE_TRADITIONAL": "路上小心...",
+      "JAPANESE": "いってらっしゃ〜い",
+      "INDONESIAN": "Kamu juga… jaga diri baik-baik…",
+      "PORTUGUESE": "Vá com cuidado...",
+      "SPANISH": "Vaya con cuidado…",
+      "PERSIAN": "تو هم… مواظب خودت باش…"
+    }
+  }
+]

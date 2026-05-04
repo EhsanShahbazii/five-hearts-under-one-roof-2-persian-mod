@@ -1,0 +1,271 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万先生！",
+      "CHINESE_TRADITIONAL": "宥萬先生！",
+      "JAPANESE": "ユマンさん！",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yuman!",
+      "SPANISH": "¡Señor Yumán!",
+      "PERSIAN": "آقای یومان!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.6,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어! 방 간호사님??",
+      "ENGLISH": "Oh, Nurse Bang?",
+      "CHINESE_SIMPLIFIED": "咦，方护士？",
+      "CHINESE_TRADITIONAL": "咦！方護士？",
+      "JAPANESE": "あっ、バン看護師さん？？",
+      "INDONESIAN": "Oh! Perawat Bang??",
+      "PORTUGUESE": "Ah, Enfermeira Bang?",
+      "SPANISH": "¿Oh, enfermera Gyu-ri?",
+      "PERSIAN": "عه! پرستار بنگ شمایین؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "퇴원 기념으로 뭐든 드리고 싶었는데",
+      "ENGLISH": "I wanted to give you something to celebrate your discharge, but…",
+      "CHINESE_SIMPLIFIED": "我…想借退院的机会送您点什么",
+      "CHINESE_TRADITIONAL": "我...想趁你出院前送你點東西",
+      "JAPANESE": "退院のお祝いに何か差し上げたかったんですが、",
+      "INDONESIAN": "Aku pengin kasih sesuatu buat ngerayain kamu keluar dari rumah sakit,",
+      "PORTUGUESE": "Queria te dar algo pra comemorar sua alta, mas…",
+      "SPANISH": "Quería darle algo para celebrar su alta, pero…",
+      "PERSIAN": "خیلی دلم می‌خواست به مناسبت مرخص شدنتون یه کادوی درست و حسابی بدم، ولی..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "마땅치 않아서...",
+      "ENGLISH": "I couldn’t think of anything, ",
+      "CHINESE_SIMPLIFIED": "可是没什么合适的…",
+      "CHINESE_TRADITIONAL": "可是找不到合適的",
+      "JAPANESE": "ちょうどいいものがなくて…",
+      "INDONESIAN": "tapi nggak nemu yang pas…",
+      "PORTUGUESE": "não consegui pensar em nada,",
+      "SPANISH": "no se me ocurrió nada,",
+      "PERSIAN": "چیزی به ذهنم نرسید..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이거라도...",
+      "ENGLISH": "so… at least take this.",
+      "CHINESE_SIMPLIFIED": "这个…就当作一点小心意吧…",
+      "CHINESE_TRADITIONAL": "這個…就當作一點小小心意吧…",
+      "JAPANESE": "…これ、よかったら",
+      "INDONESIAN": "Jadi ya, setidaknya ini…",
+      "PORTUGUESE": "então… pelo menos aceite isso.",
+      "SPANISH": "así que… al menos acepte esto.",
+      "PERSIAN": "واسه همین... حداقل اینو از من قبول کنین."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다.",
+      "ENGLISH": "Thank you.",
+      "CHINESE_SIMPLIFIED": "谢谢你",
+      "CHINESE_TRADITIONAL": "謝謝你",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Terima kasih banyak.",
+      "PORTUGUESE": "Obrigado.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "دستتون درد نکنه، خیلی ممنون!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 15.5
+    },
+    "SCRIPT": {
+      "KOREAN": "밥도 잘 못 드시는 거 같은데 ",
+      "ENGLISH": "You don’t seem to be eating much lately… ",
+      "CHINESE_SIMPLIFIED": "方护士好像没有好好吃上饭",
+      "CHINESE_TRADITIONAL": "方護士，你好像都沒怎麼好好吃飯",
+      "JAPANESE": "お食事もあまり進んでいないみたいですし",
+      "INDONESIAN": "Kamu sendiri kayaknya belum makan dengan benar,",
+      "PORTUGUESE": "Você não anda comendo muito ultimamente…",
+      "SPANISH": "Últimamente no parece estar comiendo bien…",
+      "PERSIAN": "ولی شما که خودتونم وقت سر خاروندن واسه غذا ندارین،"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저 주셔도 돼요?",
+      "ENGLISH": "are you sure you should give this to me?",
+      "CHINESE_SIMPLIFIED": "这个我可以收吗？",
+      "CHINESE_TRADITIONAL": "我收下也可以嗎？",
+      "JAPANESE": "私の分、受け取ってください",
+      "INDONESIAN": "emang nggak apa-apa kasih ini ke aku?",
+      "PORTUGUESE": "tem certeza que devia me dar isso?",
+      "SPANISH": "¿segura que puede darme esto?",
+      "PERSIAN": "مطمئنین می‌خواین اینو بدین به من؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 이참에 다이어트한다고 치죠 뭐!",
+      "ENGLISH": "Well, let’s just call it an excuse to go on a diet!",
+      "CHINESE_SIMPLIFIED": "我就当借这个机会减肥好了！",
+      "CHINESE_TRADITIONAL": "我就當作順便減肥好了！",
+      "JAPANESE": "まあ、この機会にダイエットってことにします！",
+      "INDONESIAN": "Anggap aja sekalian diet, deh!",
+      "PORTUGUESE": "Bom, vamos chamar de desculpa pra fazer dieta!",
+      "SPANISH": "Bueno, digamos que es una excusa para ponerme a dieta.",
+      "PERSIAN": "ای بابا، عیبی نداره! می‌ذاریم پای شروع رژیم لاغریم!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "집 가서 약 꼭 잘 챙겨드시고! 아시겠죠?",
+      "ENGLISH": "Make sure you take your medicine at home, okay?",
+      "CHINESE_SIMPLIFIED": "回家一定要好好按时吃药！明白吗？",
+      "CHINESE_TRADITIONAL": "回家一定要好好吃藥啊！知道嗎？",
+      "JAPANESE": "お家に帰ってもお薬はきちんと飲んでくださいね、いいですね？",
+      "INDONESIAN": "Pas udah di rumah, jangan lupa minum obatnya, ya! Ngerti?",
+      "PORTUGUESE": "Certifique-se de tomar seu remédio em casa, tá?",
+      "SPANISH": "Asegúrese de tomar su medicina ¿sí?",
+      "PERSIAN": "رفتین خونه یادتون نره داروهاتونو سر وقت بخورین ها! باشه؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "통원치료도 빠지지 마세요.",
+      "ENGLISH": "And don’t skip your outpatient treatments either.",
+      "CHINESE_SIMPLIFIED": "不要忘记复诊",
+      "CHINESE_TRADITIONAL": "也不要忘記回診啊",
+      "JAPANESE": "通院治療も欠かさないでください",
+      "INDONESIAN": "Jangan lewatin rawat jalan juga.",
+      "PORTUGUESE": "E não falte às consultas ambulatoriais também.",
+      "SPANISH": "Y no se saltes tus tratamientos ambulatorios tampoco.",
+      "PERSIAN": "جلسات ویزیت سرپایی رو هم به هیچ وجه نپیچونین!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 30.2
+    },
+    "SCRIPT": {
+      "KOREAN": "안 오시면 좀 서운할 거 같아서...",
+      "ENGLISH": "I’d be a little hurt if you didn’t come…",
+      "CHINESE_SIMPLIFIED": "如果不来的话我会很失望的…",
+      "CHINESE_TRADITIONAL": "如果你沒來，我會有點失望...",
+      "JAPANESE": "来てくださらないと、ちょっと寂しいので…",
+      "INDONESIAN": "Kalau kamu nggak datang, aku bisa sedih lho...",
+      "PORTUGUESE": "Eu ficaria um pouco magoada se você não viesse…",
+      "SPANISH": "Me pondría triste si no viniera…",
+      "PERSIAN": "اگه نیاین واقعاً دلم می‌شکنه و غصه می‌خورم..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 32.2
+    },
+    "SCRIPT": {
+      "KOREAN": "약속해요!",
+      "ENGLISH": "Promise me!",
+      "CHINESE_SIMPLIFIED": "答应我！",
+      "CHINESE_TRADITIONAL": "答應我！",
+      "JAPANESE": "約束ですよ！",
+      "INDONESIAN": "Janji ya!",
+      "PORTUGUESE": "Promete?",
+      "SPANISH": "¡Prométamelo!",
+      "PERSIAN": "قول بدین ها!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.8,
+      "HIDE": 38.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 절대 안 빼먹겠습니다!",
+      "ENGLISH": "Yes! I won’t miss a single one!",
+      "CHINESE_SIMPLIFIED": "嗯！绝对不会忘记的！",
+      "CHINESE_TRADITIONAL": "好！絕對不會忘記！",
+      "JAPANESE": "はい！絶対に欠かしません！",
+      "INDONESIAN": "Iya! Aku nggak akan lewatin, janji!",
+      "PORTUGUESE": "Sim! Não vou perder nenhuma!",
+      "SPANISH": "¡Lo prometo! ¡No voy a faltar ni a uno!",
+      "PERSIAN": "چشم! به جون خودم حتی یه جلسه‌ش رو هم از دست نمی‌دم!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.5,
+      "HIDE": 42.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 조심히 들어가세요.",
+      "ENGLISH": "Good! Take care getting home.",
+      "CHINESE_SIMPLIFIED": "嗯！回家路上小心",
+      "CHINESE_TRADITIONAL": "嗯！回家路上小心",
+      "JAPANESE": "はい！どうぞお気をつけてお帰りください",
+      "INDONESIAN": "Oke! Hati-hati di jalan, ya!",
+      "PORTUGUESE": "Ótimo! Se cuida no caminho de casa.",
+      "SPANISH": "¡Bien! Cuídese camino a casa.",
+      "PERSIAN": "عالیه! مواظب خودتون باشین، به سلامت!"
+    }
+  }
+]

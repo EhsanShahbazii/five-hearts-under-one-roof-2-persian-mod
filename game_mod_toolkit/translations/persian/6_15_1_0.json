@@ -1,0 +1,217 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 그러게 제 때 좀 오지 그랬어요?",
+      "ENGLISH": "Ha, see? You should’ve just come on time.",
+      "CHINESE_SIMPLIFIED": "哈，就是啊，刚才乖乖过来不就好了？",
+      "CHINESE_TRADITIONAL": "哈，所以剛剛怎麼不趕快過來？",
+      "JAPANESE": "はぁ だから言ったじゃん ちゃんと時間通りに来ればよかったのに",
+      "INDONESIAN": "Haha, tuh kan? Harusnya kamu dateng tepat waktu tadi.",
+      "PORTUGUESE": "Ha… tá vendo? Por que você não veio a tempo?",
+      "SPANISH": "Ha… ves, ¿por qué no viniste a tiempo?",
+      "PERSIAN": "ها، ببین؟ فقط باید سر وقت می آمدی"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "넌 오지말고 여기서 평생 혼자 살아라 그냥 ",
+      "ENGLISH": "You know what? Just stay here forever. Live here.",
+      "CHINESE_SIMPLIFIED": "你就别来了，在这儿自己过一辈子吧！",
+      "CHINESE_TRADITIONAL": "你就不要過來，乾脆在這裡自己過一輩子吧",
+      "JAPANESE": "あんたは戻らないで ここで一生ひとりで暮らしてるんだよ",
+      "INDONESIAN": "Tau nggak? Mending kamu tinggal di sini selamanya deh. Tinggal aja sini.",
+      "PORTUGUESE": "Melhor nem vir, fica aí pra sempre.",
+      "SPANISH": "Mejor ni vengas, quédate allá para siempre.",
+      "PERSIAN": "میدونی چیه؟ فقط برای همیشه اینجا بمون اینجا زندگی کن"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 안 되는데.",
+      "ENGLISH": "Huh? No way.",
+      "CHINESE_SIMPLIFIED": "呃？这怎么行",
+      "CHINESE_TRADITIONAL": "呃，那怎麼行",
+      "JAPANESE": "え？ダメだよ",
+      "INDONESIAN": "Hah? Nggak mau ah.",
+      "PORTUGUESE": "Hã? Não pode ser.",
+      "SPANISH": "¿Eh? No puede ser.",
+      "PERSIAN": "ها؟ به هیچ وجه."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어??",
+      "ENGLISH": "What??",
+      "CHINESE_SIMPLIFIED": "诶？？",
+      "CHINESE_TRADITIONAL": "欸？？",
+      "JAPANESE": "え？？",
+      "INDONESIAN": "Apaaan??",
+      "PORTUGUESE": "Hã??",
+      "SPANISH": "¿Eh??",
+      "PERSIAN": "چی؟؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "안 되는데!",
+      "ENGLISH": "Nope! Not happening!",
+      "CHINESE_SIMPLIFIED": "不行啦！",
+      "CHINESE_TRADITIONAL": "不行啦",
+      "JAPANESE": "ダメだって！",
+      "INDONESIAN": "Nggak! Nggak bakal kejadian!",
+      "PORTUGUESE": "Não pode ser!",
+      "SPANISH": "¡No puede ser!",
+      "PERSIAN": "نه! اتفاق نمی افتد!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.2,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "내, 내일 가면 안 될까? ",
+      "ENGLISH": "C-Can I leave tomorrow instead?",
+      "CHINESE_SIMPLIFIED": "我、我们明天再走行不行？",
+      "CHINESE_TRADITIONAL": "我...我們明天再走可以嗎？",
+      "JAPANESE": "あの…明日帰っちゃダメかな？",
+      "INDONESIAN": "B-Boleh nggak aku pulangnya besok aja?",
+      "PORTUGUESE": "A gente não pode ir amanhã?",
+      "SPANISH": "¿No podemos ir mañana?",
+      "PERSIAN": "ج- می توانم به جای اون فردا بروم؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "내일가요 다들!",
+      "ENGLISH": "Everyone’s leaving tomorrow!",
+      "CHINESE_SIMPLIFIED": "明天再走吧，大家！",
+      "CHINESE_TRADITIONAL": "大家明天再走吧！",
+      "JAPANESE": "明日行こう みんな！",
+      "INDONESIAN": "Semua orang pulang besok, tau!",
+      "PORTUGUESE": "Vamos amanhã, meninas!",
+      "SPANISH": "¡Vamos mañana, chicas!",
+      "PERSIAN": "همه فردا می روند!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 운전해 줄게! 어!",
+      "ENGLISH": "I’ll drive, okay?!",
+      "CHINESE_SIMPLIFIED": "我来开车！喂！",
+      "CHINESE_TRADITIONAL": "我來幫你們開車！ 喂！",
+      "JAPANESE": "俺が運転するから！な！",
+      "INDONESIAN": "Aku aja yang nyetir, oke?!",
+      "PORTUGUESE": "Eu dirijo!",
+      "SPANISH": "¡Yo conduzco!",
+      "PERSIAN": "من رانندگی می کنم، باشه؟!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님 안녕~",
+      "ENGLISH": "Bye, Yuman~",
+      "CHINESE_SIMPLIFIED": "吴宥万，拜拜~",
+      "CHINESE_TRADITIONAL": "吳宥萬～掰掰～",
+      "JAPANESE": "ユマンさん じゃあね〜",
+      "INDONESIAN": "Daaah, Yuman~",
+      "PORTUGUESE": "Tchau, Yumán~!",
+      "SPANISH": "¡Adiós, Yumán~!",
+      "PERSIAN": "فعلاً، خدافظ یومان"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "운전은 내가 할거니깐 상관없어 ",
+      "ENGLISH": "Doesn’t matter. I’m driving, so it’s my call.",
+      "CHINESE_SIMPLIFIED": "反正车是我来开，无所谓啦",
+      "CHINESE_TRADITIONAL": "反正是我開車，沒關係啦",
+      "JAPANESE": "運転は私がするから関係ないよ！",
+      "INDONESIAN": "Nggak ngaruh. Aku yang nyetir, jadi aku yang mutusin.",
+      "PORTUGUESE": "Não se preocupa, eu dirijo amanhã.",
+      "SPANISH": "No te preocupes, yo conduzco mañana.",
+      "PERSIAN": "مهم نیست من در حال رانندگی هستم، بنابراین تماس من است."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어!? 어... 안 돼!!!!",
+      "ENGLISH": "Wait—what!? No… nooo!!",
+      "CHINESE_SIMPLIFIED": "喂！？呃...不行！！！！",
+      "CHINESE_TRADITIONAL": "欸？呃... 不行啦！！！！",
+      "JAPANESE": "え！？あ…だめぇぇ！！",
+      "INDONESIAN": "Eh—apa!? Nggak… nggakkk!!",
+      "PORTUGUESE": "Hã?! Hã… não, nããão!",
+      "SPANISH": "¡¿Eh?! ¡Eh… no, nooo!",
+      "PERSIAN": "صبر کن - چی!؟ نه… نه!!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 31.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 진작 갈걸.",
+      "ENGLISH": "Ugh… I should’ve left earlier.",
+      "CHINESE_SIMPLIFIED": "啊...早知道刚才就过来了",
+      "CHINESE_TRADITIONAL": "唉...早知道就早點走了",
+      "JAPANESE": "あぁ…もっと早く行けばよかった",
+      "INDONESIAN": "Ugh… harusnya aku cabut lebih awal tadi.",
+      "PORTUGUESE": "Ah… eu devia ter ido antes…",
+      "SPANISH": "Ah… debí haber ido antes…",
+      "PERSIAN": "اوه... باید زودتر می رفتم."
+    }
+  }
+]

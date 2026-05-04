@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아가씨 내 말 안 들려? 어?",
+      "ENGLISH": "Hey, lady, can't you hear me? Huh?",
+      "CHINESE_SIMPLIFIED": "小姐，听不见我说话吗？嗯？",
+      "CHINESE_TRADITIONAL": "小姐，聽不到我說話嗎？嗯？",
+      "JAPANESE": "お嬢さん、俺の言ってること聞こえねぇのか？あぁ？",
+      "INDONESIAN": "Mba kamu nggak denger omongan saya ya? Hah?",
+      "PORTUGUESE": "Hã, senhorita, não tá me ouvindo? Hã?",
+      "SPANISH": "¿Eh, señorita, no me oye? ¿Ah?",
+      "PERSIAN": "هی خانم، صدایم را نمی شنوی؟ ها؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "욕나오게 하지 말고 담배 달라고~",
+      "ENGLISH": "Don't make me lose my temper—give me a cigarette~ ",
+      "CHINESE_SIMPLIFIED": "别逼我骂人，把烟拿来！",
+      "CHINESE_TRADITIONAL": "不要逼我罵人，把香煙拿來！",
+      "JAPANESE": "イライラさせないで、タバコ寄越せよ〜。",
+      "INDONESIAN": "Jangan bikin saya ngomel, kasih rokoknya dong~",
+      "PORTUGUESE": "Não me faça perder a paciência, só me dá um cigarro~",
+      "SPANISH": "No me haga perder la paciencia, solo deme un cigarro~",
+      "PERSIAN": "من را از دست ندهید - یک سیگار به من بدهید"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "담배~ 어?",
+      "ENGLISH": "Cigarette~ Huh?",
+      "CHINESE_SIMPLIFIED": "香烟~嗯？",
+      "CHINESE_TRADITIONAL": "香菸～嗯？",
+      "JAPANESE": "タバコ〜！なぁ！",
+      "INDONESIAN": "Rokoknya~ ya?",
+      "PORTUGUESE": "Um cigarro~!",
+      "SPANISH": "¡Un cigarro~! ",
+      "PERSIAN": "سیگار ~ ها؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "죄송해요, 그 제품은 지금 재고가 없어요...",
+      "ENGLISH": "I'm sorry, we're currently out of that product...",
+      "CHINESE_SIMPLIFIED": "抱歉 ，这个现在缺货呢...",
+      "CHINESE_TRADITIONAL": "抱歉，現在這個缺貨了...",
+      "JAPANESE": "すみません、その銘柄は今在庫がなくて…",
+      "INDONESIAN": "Maaf, produk itu lagi nggak ada stoknya...",
+      "PORTUGUESE": "Desculpa, acabaram...",
+      "SPANISH": "Lo siento, se nos acabaron...",
+      "PERSIAN": "متاسفم، ما در حال حاضر از اون محصول خارج شده ایم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어이, 내가 여기서 사간 담배가 몇 갠데. ",
+      "ENGLISH": "How many packs have I bought here?",
+      "CHINESE_SIMPLIFIED": "喂，我在这买过多少条烟了",
+      "CHINESE_TRADITIONAL": "喂！我在這裡買過多少香煙了",
+      "JAPANESE": "おい、俺がここで何箱買ったと思ってんだ。",
+      "INDONESIAN": "Hei, saya udah beli rokok di sini berapa kali",
+      "PORTUGUESE": "Você sabe quantos cigarros eu já comprei aqui?",
+      "SPANISH": "¿Sabes cuántos cigarrillos he comprado aquí?",
+      "PERSIAN": "چند بسته اینجا خریدم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "없으면 구해오던가!!!",
+      "ENGLISH": " If you don't have it, go get it!!!",
+      "CHINESE_SIMPLIFIED": "没有就去进货啊！！！",
+      "CHINESE_TRADITIONAL": "沒有的話就去進貨啊！！！",
+      "JAPANESE": "ないなら、探してでも持ってこいよ！！！",
+      "INDONESIAN": "Kalau nggak ada ya cariin dong!!!",
+      "PORTUGUESE": "Se não tem, dá um jeito de conseguir!",
+      "SPANISH": "¡Si no hay, consíguelo!",
+      "PERSIAN": "اگه نداری برو بگیرش!!!"
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 무슨 초록색이었는데?",
+      "ENGLISH": "So what kind of green was it, exactly?",
+      "CHINESE_SIMPLIFIED": "所以到底是什么绿色来着？",
+      "CHINESE_TRADITIONAL": "所以到底是哪一種綠色？",
+      "JAPANESE": "それで、どんな緑だった？",
+      "INDONESIAN": "Jadi, sebenarnya warna hijau itu seperti apa?",
+      "PORTUGUESE": "Mas que tipo de verde?",
+      "SPANISH": "¿Pero que clase de verde?",
+      "PERSIAN": "پس دقیقاً چه نوع سبزی بود؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 뭐가?",
+      "ENGLISH": "Huh? What was?",
+      "CHINESE_SIMPLIFIED": "啊？什么...",
+      "CHINESE_TRADITIONAL": "喔？哪一種..?",
+      "JAPANESE": "え？ なにが？",
+      "INDONESIAN": "Hah? Apa itu?",
+      "PORTUGUESE": "Hã? O quê?",
+      "SPANISH": "¿Eh?¿Qué cosa?",
+      "PERSIAN": "ها؟ چی بود؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "정확히 무슨 초록색이었냐구.",
+      "ENGLISH": "I’m asking—what exact shade of green was it?",
+      "CHINESE_SIMPLIFIED": "我问具体是什么绿色",
+      "CHINESE_TRADITIONAL": "我問你，到底是什麼樣的綠色？",
+      "JAPANESE": "正確には、どんな緑だったのかって聞いてるの",
+      "INDONESIAN": "Aku bertanya—warna hijau apa tepatnya itu?",
+      "PORTUGUESE": "Qual era o tom exato de verde?",
+      "SPANISH": "¿Qué cual era el tono exacto de verde?",
+      "PERSIAN": "من می پرسم - دقیقاً چه سایه ای از سبز بود؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "정확히..?",
+      "ENGLISH": "Exact...?",
+      "CHINESE_SIMPLIFIED": "具体的...？",
+      "CHINESE_TRADITIONAL": "準確地說的話…？",
+      "JAPANESE": "正確に…？",
+      "INDONESIAN": "Tepatnya...?",
+      "PORTUGUESE": "Tom exato...?",
+      "SPANISH": "¿Tono exacto...?",
+      "PERSIAN": "دقیقا...؟"
+    }
+  }
+]

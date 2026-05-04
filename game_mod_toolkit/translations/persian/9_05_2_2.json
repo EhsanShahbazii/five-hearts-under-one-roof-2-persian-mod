@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저 좀 도와주세요...네?",
+      "ENGLISH": "Please help me… okay?",
+      "CHINESE_SIMPLIFIED": "那、那个...可以帮帮我吗？",
+      "CHINESE_TRADITIONAL": "那、那個...不好意思，可以幫幫我嗎？",
+      "JAPANESE": "助けてください…いいですか？",
+      "INDONESIAN": "Tolong aku… ya?",
+      "PORTUGUESE": "Me ajuda… tá?",
+      "SPANISH": "Ayúdeme… ¿sí?",
+      "PERSIAN": "لطفا کمکم کنید... باشه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 미안해요! 제가 좀 급해가지고",
+      "ENGLISH": "I’m sorry! I’m kind of in a hurry right now?",
+      "CHINESE_SIMPLIFIED": "啊，对不起！我现在真的有点急！",
+      "CHINESE_TRADITIONAL": "啊...對不起！我現在真的有點急！",
+      "JAPANESE": "あっ、ごめんなさい！ちょっと急いでて！",
+      "INDONESIAN": "Maaf! Aku lagi agak buru-buru sekarang?",
+      "PORTUGUESE": "Ah, desculpa! É que tô com pressa.",
+      "SPANISH": "¡Ah, lo siento! Es que tengo prisa.",
+      "PERSIAN": "متاسفم! من الان یه جورایی عجله دارم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 잠깐만요!",
+      "ENGLISH": "What? Wait!",
+      "CHINESE_SIMPLIFIED": "诶？等一下！",
+      "CHINESE_TRADITIONAL": "誒？等一下！",
+      "JAPANESE": "えっ？ちょっと待ってください！",
+      "INDONESIAN": "Apa? Tunggu!",
+      "PORTUGUESE": "Hã? Espera um momento!",
+      "SPANISH": "¿Eh? ¡Espere un momento!",
+      "PERSIAN": "چی؟ صبر کن"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요!",
+      "ENGLISH": "Sorry!!",
+      "CHINESE_SIMPLIFIED": "对不起！",
+      "CHINESE_TRADITIONAL": "對不起！",
+      "JAPANESE": "ごめんなさい！",
+      "INDONESIAN": "Maaf ya!!",
+      "PORTUGUESE": "Desculpa!",
+      "SPANISH": "¡Perdón!",
+      "PERSIAN": "متاسفم!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요!",
+      "ENGLISH": "Excuse me!",
+      "CHINESE_SIMPLIFIED": "喂！",
+      "CHINESE_TRADITIONAL": "喂！",
+      "JAPANESE": "ちょっと！",
+      "INDONESIAN": "Permisi!",
+      "PORTUGUESE": "Ei!",
+      "SPANISH": "¡Oiga!",
+      "PERSIAN": "ببخشید!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요!!",
+      "ENGLISH": "Excuse me!!",
+      "CHINESE_SIMPLIFIED": "喂！！",
+      "CHINESE_TRADITIONAL": "喂！！",
+      "JAPANESE": "ちょっと！！",
+      "INDONESIAN": "Permisi!!",
+      "PORTUGUESE": "Ei!!",
+      "SPANISH": "¡Oiga!!",
+      "PERSIAN": "ببخشید!!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "야!!!",
+      "ENGLISH": "HEY!!!",
+      "CHINESE_SIMPLIFIED": "呀！！！",
+      "CHINESE_TRADITIONAL": "喂！！！",
+      "JAPANESE": "こらぁ！！",
+      "INDONESIAN": "HEI!!!",
+      "PORTUGUESE": "Heeey!!!",
+      "SPANISH": "¡Heey!!!",
+      "PERSIAN": "سلام!!!"
+    }
+  }
+]

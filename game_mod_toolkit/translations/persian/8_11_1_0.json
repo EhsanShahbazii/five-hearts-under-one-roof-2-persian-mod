@@ -1,0 +1,279 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "와... 저 이런 곳 처음 와 봐요.",
+      "ENGLISH": "Wow… this is my first time coming somewhere like this.",
+      "CHINESE_SIMPLIFIED": "哇...我还是第一次来这种地方",
+      "CHINESE_TRADITIONAL": "哇...我還是第一次來這種地方",
+      "JAPANESE": "わぁ…こんな所、初めて来ました",
+      "INDONESIAN": "Wow… ini pertama kalinya aku ke tempat kayak gini.",
+      "PORTUGUESE": "Uau… nunca tinha vindo a um lugar assim.",
+      "SPANISH": "Guau… nunca había venido a un lugar así.",
+      "PERSIAN": "وای... این اولین بار است که به چنین جایی می آیم."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 남자랑 온 건 유만 씨가 처음이야.",
+      "ENGLISH": "It’s my first time coming with a man — and that man is you, Yuman.",
+      "CHINESE_SIMPLIFIED": "我也是第一次跟男人一起来",
+      "CHINESE_TRADITIONAL": "我也是第一次跟男人一起來",
+      "JAPANESE": "私も、男と来たのはユマンさんが初めて",
+      "INDONESIAN": "Pertama kalinya aku datang bareng cowok — dan cowok itu kamu, Yuman.",
+      "PORTUGUESE": "Eu também nunca tinha vindo com um homem antes, você é o primeiro.",
+      "SPANISH": "Yo tampoco había venido con un hombre antes, eres el primero.",
+      "PERSIAN": "این اولین بار است که با یک مرد می آیم - و اون مرد تو هستی، یومان."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "와… 그란 님 덕분에 제가 이런 데도 와 보네요.",
+      "ENGLISH": "Wow… thanks to you, Gran, I get to experience a place like this.",
+      "CHINESE_SIMPLIFIED": "哇...真是托你的福，我才能来这种地方",
+      "CHINESE_TRADITIONAL": "哇...托你的福，我才能來這個地方",
+      "JAPANESE": "わぁ…グランさんのおかげで、こんな場所に来られるなんて",
+      "INDONESIAN": "Wow… makasih ya, Gran. Karena kamu, aku bisa ngerasain hal kayak gini.",
+      "PORTUGUESE": "Uau… graças a você, Gran, posso conhecer lugares como esse.",
+      "SPANISH": "Wow… gracias a usted, Gran, puedo conocer sitios como este.",
+      "PERSIAN": "وای... به لطف تو، گران، من می توانم چنین مکانی را تجربه کنم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "짠 할까?",
+      "ENGLISH": "Shall we cheers?",
+      "CHINESE_SIMPLIFIED": "要碰杯吗？",
+      "CHINESE_TRADITIONAL": "要乾杯嗎？",
+      "JAPANESE": "乾杯する？",
+      "INDONESIAN": "Kita toast yuk?",
+      "PORTUGUESE": "Vamos brindar?",
+      "SPANISH": "¿Brindamos?",
+      "PERSIAN": "تشویق کنیم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "好！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 오늘 무슨 날이에요?",
+      "ENGLISH": "By the way, is today some kind of special day?",
+      "CHINESE_SIMPLIFIED": "不过今天是什么日子啊？",
+      "CHINESE_TRADITIONAL": "不過今天是什麼日子啊？",
+      "JAPANESE": "でも今日って何か特別な日なんですか？",
+      "INDONESIAN": "Eh, hari ini tuh hari spesial ya?",
+      "PORTUGUESE": "Mas… o que estamos comemorando hoje?",
+      "SPANISH": "Pero, ¿qué se celebra hoy?",
+      "PERSIAN": "به هر حال، امروز یک روز خاص است؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "날은 무슨",
+      "ENGLISH": "No special day.",
+      "CHINESE_SIMPLIFIED": "哪有什么日子",
+      "CHINESE_TRADITIONAL": "哪有什麼日子！",
+      "JAPANESE": "特別な日なんてないけど",
+      "INDONESIAN": "Nggak, nggak ada hari spesial.",
+      "PORTUGUESE": "Comemorar o quê?",
+      "SPANISH": "¿Celebrar qué?",
+      "PERSIAN": "روز خاصی نیست"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 내년에도 여기 오자",
+      "ENGLISH": "Let’s come back here again next year —",
+      "CHINESE_SIMPLIFIED": "我们明年也再来吧",
+      "CHINESE_TRADITIONAL": "我們明年再來一次吧",
+      "JAPANESE": "来年もここに来よう",
+      "INDONESIAN": "Tapi tahun depan, ayo kita balik ke sini lagi —",
+      "PORTUGUESE": "Vamos voltar aqui no ano que vem também,",
+      "SPANISH": "Volvamos aquí el próximo año también,",
+      "PERSIAN": "بیایید سال آینده دوباره به اینجا برگردیم -"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.4,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "기념일도 축하할 겸.",
+      "ENGLISH": "to celebrate our anniversary.",
+      "CHINESE_SIMPLIFIED": "顺便庆祝一下纪念日",
+      "CHINESE_TRADITIONAL": "當作慶祝紀念日",
+      "JAPANESE": "記念日のお祝いもかねて",
+      "INDONESIAN": "buat ngerayain hari jadi kita.",
+      "PORTUGUESE": "pra comemorar nosso aniversário.",
+      "SPANISH": "para celebrar nuestro aniversario.",
+      "PERSIAN": "برای جشن گرفتن سالگرد ما"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.9,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 무슨 기념일이요?",
+      "ENGLISH": "Huh? Anniversary of what?",
+      "CHINESE_SIMPLIFIED": "诶？什么纪念日？",
+      "CHINESE_TRADITIONAL": "欸？什麼紀念日？",
+      "JAPANESE": "え？どんな記念日ですか？",
+      "INDONESIAN": "Hah? Hari jadi apa?",
+      "PORTUGUESE": "Hã? Aniversário de quê?",
+      "SPANISH": "¿Eh? ¿Aniversario de qué?",
+      "PERSIAN": "ها؟ سالگرد چی؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 36.5,
+      "HIDE": 37.1
+    },
+    "SCRIPT": {
+      "KOREAN": "받아.",
+      "ENGLISH": "Here.",
+      "CHINESE_SIMPLIFIED": "拿着",
+      "CHINESE_TRADITIONAL": "拿著",
+      "JAPANESE": "これ、受け取って",
+      "INDONESIAN": "Nih.",
+      "PORTUGUESE": "Toma.",
+      "SPANISH": "Toma.",
+      "PERSIAN": "اینجا"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 37.2,
+      "HIDE": 37.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어... ",
+      "ENGLISH": "Uh…?",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "えっ…？",
+      "INDONESIAN": "Eh…?",
+      "PORTUGUESE": "Hã…",
+      "SPANISH": "Eh…",
+      "PERSIAN": "اوه…؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 44.6,
+      "HIDE": 46.1
+    },
+    "SCRIPT": {
+      "KOREAN": "엇, 이게 무슨...",
+      "ENGLISH": "W-wait, what is…",
+      "CHINESE_SIMPLIFIED": "诶，这是什么...",
+      "CHINESE_TRADITIONAL": "咦？這是什麼...",
+      "JAPANESE": "これって…",
+      "INDONESIAN": "T-tunggu, ini…",
+      "PORTUGUESE": "O que é isso…?",
+      "SPANISH": "¿Esto qué es…?",
+      "PERSIAN": "صبر کن چیه…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 47.6,
+      "HIDE": 50.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나 지금 우유만 씨한테 정식으로 프로포즈 하는 거야.",
+      "ENGLISH": "I’m formally proposing to you right now, Yuman.",
+      "CHINESE_SIMPLIFIED": "我现在在正式向你求婚",
+      "CHINESE_TRADITIONAL": "我現在正式地向你求婚",
+      "JAPANESE": "今、正式にユマンさんにプロポーズしてるの",
+      "INDONESIAN": "Aku beneran ngelamar kamu sekarang, Yuman.",
+      "PORTUGUESE": "Agora mesmo eu tô te pedindo em casamento, Yumán.",
+      "SPANISH": "Ahora mismo te estoy proponiendo matrimonio, Yumán.",
+      "PERSIAN": "من همین الان رسماً به تو پیشنهاد می کنم، یومان."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 51.4,
+      "HIDE": 54.1
+    },
+    "SCRIPT": {
+      "KOREAN": "나랑 결혼하자. 우유만.",
+      "ENGLISH": "Marry me.",
+      "CHINESE_SIMPLIFIED": "和我结婚吧，吴宥万",
+      "CHINESE_TRADITIONAL": "我們結婚吧，吳宥萬",
+      "JAPANESE": "私と結婚しよう、ユマン",
+      "INDONESIAN": "Nikah sama aku.",
+      "PORTUGUESE": "Casa comigo.",
+      "SPANISH": "Cásate conmigo.",
+      "PERSIAN": "با من ازدواج کن"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 54.2,
+      "HIDE": 54.3
+    }
+  }
+]

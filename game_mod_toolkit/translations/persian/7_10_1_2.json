@@ -1,0 +1,181 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 정도껏 해야지, 모델 일하면 다 포기하라고?",
+      "ENGLISH": "Come on, there’s a limit — you’re saying I have to give up everything just to be a model?",
+      "CHINESE_SIMPLIFIED": "哎，适可而止吧，当模特就要放弃一切吗？",
+      "CHINESE_TRADITIONAL": "哎，還是要有個限度吧，當模特兒就要放棄所有一切嗎？",
+      "JAPANESE": "ほどほどにしろよ モデルの仕事するから全部捨てるって？",
+      "INDONESIAN": "Ayolah, masa aku harus ngorbanin semuanya cuma buat jadi model?",
+      "PORTUGUESE": "Ai, também não exagera, você tá dizendo que eu tenho que abrir mão de tudo só por ser modelo?",
+      "SPANISH": "Ay, tampoco exageres, ¿me estás diciendo que tengo que renunciar a todo solo por ser modelo?",
+      "PERSIAN": "بیا، محدودیتی وجود دارد - شما می گویید من باید همه چیز را رها کنم فقط برای اینکه یک مدل باشم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 다 포기하라는 건 아니고...",
+      "ENGLISH": "No, I’m not saying give up everything…",
+      "CHINESE_SIMPLIFIED": "不是说要放弃一切啦...",
+      "CHINESE_TRADITIONAL": "不是說要放棄一切啦...",
+      "JAPANESE": "いや、全部ってわけじゃなくて…",
+      "INDONESIAN": "Nggak, aku nggak bilang harus ngorbanin semuanya…",
+      "PORTUGUESE": "Não, não tô dizendo pra você abrir mão de tudo...",
+      "SPANISH": "No, no digo que renuncies a todo...",
+      "PERSIAN": "نه، نمی گویم همه چیز را رها کن…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.7,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그 정도면 다 포기하는 거지~",
+      "ENGLISH": "At that level, that is giving up everything~",
+      "CHINESE_SIMPLIFIED": "但这跟放弃一切没什么两样啊~",
+      "CHINESE_TRADITIONAL": "這樣就和放棄一切沒什麼兩樣啊...",
+      "JAPANESE": "それはもう全部捨てるのと同じだろ〜",
+      "INDONESIAN": "Di level itu, itu udah namanya ngorbanin semua~",
+      "PORTUGUESE": "Mas isso já é abrir mão de tudo~!",
+      "SPANISH": "¡Pero eso ya es renunciar a todo~!",
+      "PERSIAN": "در اون سطح، یعنی دست کشیدن از همه چیز"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면서까지 모델 일을 하고 싶냐?",
+      "ENGLISH": "Do you really want to keep doing modeling even if it means all that?",
+      "CHINESE_SIMPLIFIED": "即使这样你还是想继续当模特吗？",
+      "CHINESE_TRADITIONAL": "即使這樣了，你還是想繼續當模特兒嗎？",
+      "JAPANESE": "そこまでしてモデル続けたいのか？",
+      "INDONESIAN": "Kamu beneran masih pengin terus jadi model walaupun harus kehilangan semuanya gitu?",
+      "PORTUGUESE": "Você realmente quer continuar sendo modelo até esse ponto?",
+      "SPANISH": "¿De verdad quieres seguir siendo modelo hasta ese punto?",
+      "PERSIAN": "واقعاً می خواهید به کار مدلینگ ادامه دهید حتی اگر این همه معنی داشته باشد؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 아니...",
+      "ENGLISH": "Ha… it’s not like that…",
+      "CHINESE_SIMPLIFIED": "哈，不是...",
+      "CHINESE_TRADITIONAL": "哈，不是...",
+      "JAPANESE": "はぁ…いや…",
+      "INDONESIAN": "Ha… bukan gitu maksudnya…",
+      "PORTUGUESE": "Ha… não é isso...",
+      "SPANISH": "Ha… no es eso...",
+      "PERSIAN": "ها... اینطوری نیست…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 다 포기했는데 모델로 성공 못 하면",
+      "ENGLISH": "Hey — if you give up everything and still don’t make it as a model,",
+      "CHINESE_SIMPLIFIED": "喂，如果放弃了一切却没成功当上模特",
+      "CHINESE_TRADITIONAL": "喂，如果妳放棄了一切卻沒有成功當上模特兒",
+      "JAPANESE": "全部失って、もし成功できなかったらどうする",
+      "INDONESIAN": "Hei — kalau kamu udah ngorbanin semuanya tapi tetap nggak berhasil jadi model,",
+      "PORTUGUESE": "Ei, se você deixar tudo e no fim não der certo,",
+      "SPANISH": "Oye, si lo dejas todo y al final no triunfas,",
+      "PERSIAN": "سلام - اگر همه چیز را رها کنید و هنوز اونو به عنوان یک مدل تبدیل نکنید،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너한테 남는 게 뭐야?",
+      "ENGLISH": "what will you have left?",
+      "CHINESE_SIMPLIFIED": "你最后还剩下什么？",
+      "CHINESE_TRADITIONAL": "那你還剩下什麼？",
+      "JAPANESE": "お前に残るものはなんだ？",
+      "INDONESIAN": "kamu bakal punya apa lagi?",
+      "PORTUGUESE": "o que vai te sobrar?",
+      "SPANISH": "¿qué te va a quedar?",
+      "PERSIAN": "چه چیزی برای شما باقی خواهد ماند؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 일도 중요하니까...",
+      "ENGLISH": "Well… work is important too…",
+      "CHINESE_SIMPLIFIED": "啊，工作也很重要啊...",
+      "CHINESE_TRADITIONAL": "啊，因為工作也很重要啊...",
+      "JAPANESE": "仕事も大事だから…",
+      "INDONESIAN": "Yaa… kerjaan juga penting sih…",
+      "PORTUGUESE": "Ah, é que o trabalho também é importante...",
+      "SPANISH": "Ah, es que el trabajo también es importante...",
+      "PERSIAN": "خب کار هم مهمه…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 너한테 그 정도도 안 돼?",
+      "ENGLISH": "So I don’t matter to you even that much?",
+      "CHINESE_SIMPLIFIED": "连我都不能留在你身边吗？",
+      "CHINESE_TRADITIONAL": "我在你心中難道連工作也比不上嗎？",
+      "JAPANESE": "俺はお前にとって、その程度の存在？",
+      "INDONESIAN": "Jadi aku segitu nggak pentingnya buat kamu?",
+      "PORTUGUESE": "Eu significo tão pouco assim pra você?",
+      "SPANISH": "¿Tan poco significo para ti?",
+      "PERSIAN": "پس من حتی اینقدر هم برات مهم نیستم؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 알았어. 그만 얘기해.",
+      "ENGLISH": "…Fine. Enough. Let’s stop talking.",
+      "CHINESE_SIMPLIFIED": "啊知道了，别说了",
+      "CHINESE_TRADITIONAL": "啊，我知道了。別再說了",
+      "JAPANESE": "わかった、もういいよ",
+      "INDONESIAN": "…Udah. Cukup. Nggak usah dibahas lagi.",
+      "PORTUGUESE": "Tá bom, chega. Não vamos mais falar disso.",
+      "SPANISH": "Ya, está bien. No hablemos más de esto.",
+      "PERSIAN": "… خوب. بسه از حرف زدن دست برداریم"
+    }
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 말을 해 볼까",
+      "ENGLISH": "Should I talk to you today?",
+      "CHINESE_SIMPLIFIED": "今天要不要说出口呢",
+      "CHINESE_TRADITIONAL": "今天要不要說出口呢",
+      "JAPANESE": "今日は言ってみようかな",
+      "INDONESIAN": "Haruskah aku bicara hari ini",
+      "PORTUGUESE": "Deveria te contar hoje?",
+      "SPANISH": "¿Debería decírtelo hoy?",
+      "PERSIAN": "امروز باید با شما صحبت کنم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 이리 떨리는 걸까",
+      "ENGLISH": "Why am I trembling like this?",
+      "CHINESE_SIMPLIFIED": "为何心跳如此悸动不已",
+      "CHINESE_TRADITIONAL": "為何心跳如此悸動不已",
+      "JAPANESE": "どうしてこんなに震えるんだろう",
+      "INDONESIAN": "Kenapa rasanya deg-degan begini",
+      "PORTUGUESE": "Por que meu coração dispara assim?",
+      "SPANISH": "¿Por qué me palpita el corazón?",
+      "PERSIAN": "چرا اینجوری می لرزم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 23.9,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "너의 모습을 옆에서 몰래",
+      "ENGLISH": "Secretly watching you from the side,",
+      "CHINESE_SIMPLIFIED": "在你身边偷偷望着你的模样",
+      "CHINESE_TRADITIONAL": "在你身邊偷偷望著你的模樣",
+      "JAPANESE": "君の姿を隣でそっと",
+      "INDONESIAN": "Dari samping, diam-diam kulihat dirimu",
+      "PORTUGUESE": "Enquanto te olho de canto,",
+      "SPANISH": "Mientras te miro de reojo,",
+      "PERSIAN": "پنهانی شما را از کنار تماشا می کند،"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 33.8
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 이런 내 마음을 알 수 없겠지",
+      "ENGLISH": "You probably can’t tell how I feel right now.",
+      "CHINESE_SIMPLIFIED": "你现在一定无法知晓我的心意吧",
+      "CHINESE_TRADITIONAL": "你現在一定無法知曉我的心意吧",
+      "JAPANESE": "この気持ちは知られないまま",
+      "INDONESIAN": "Kamu pasti nggak tahu isi hatiku sekarang",
+      "PORTUGUESE": "com certeza você nem imagina o que eu sinto.",
+      "SPANISH": "seguro no imaginas lo que siento.",
+      "PERSIAN": "احتمالاً نمی توانید بگویید در حال حاضر چه احساسی دارم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 34.1,
+      "HIDE": 38.8
+    },
+    "SCRIPT": {
+      "KOREAN": "친구처럼 아무렇지 않게 ",
+      "ENGLISH": "I try to act casual, just like a friend,",
+      "CHINESE_SIMPLIFIED": "装作像朋友一样若无其事",
+      "CHINESE_TRADITIONAL": "裝作像朋友一樣若無其事",
+      "JAPANESE": "友達のように何でもないふりで",
+      "INDONESIAN": "Seperti teman, aku tetap berpura-pura biasa",
+      "PORTUGUESE": "Como uma amiga, sem deixar transparecer,",
+      "SPANISH": "Como una amiga, sin que se note,",
+      "PERSIAN": "من سعی می کنم عادی رفتار کنم، درست مثل یک دوست،"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 39.2,
+      "HIDE": 41.2
+    },
+    "SCRIPT": {
+      "KOREAN": "한 걸음 가까이 ",
+      "ENGLISH": "But should I take one step closer",
+      "CHINESE_SIMPLIFIED": "再靠近一步",
+      "CHINESE_TRADITIONAL": "再靠近一步",
+      "JAPANESE": "一歩近づいて",
+      "INDONESIAN": "Satu langkah lebih dekat",
+      "PORTUGUESE": "deveria dar o primeiro passo",
+      "SPANISH": "¿debería dar el primer paso",
+      "PERSIAN": "اما باید یک قدم نزدیکتر بروم"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 41.7,
+      "HIDE": 44.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다가가 전할까",
+      "ENGLISH": "And tell you how I feel?",
+      "CHINESE_SIMPLIFIED": "悄悄告诉你吗",
+      "CHINESE_TRADITIONAL": "悄悄告訴你嗎",
+      "JAPANESE": "伝えてみようか",
+      "INDONESIAN": "Haruskah aku dekati dan bilang semuanya",
+      "PORTUGUESE": "e me declarar pra você?",
+      "SPANISH": "y confesártelo?",
+      "PERSIAN": "و به شما بگویم چه احساسی دارم؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 44.4,
+      "HIDE": 49.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어쩌면 내 마음을 알아줄까",
+      "ENGLISH": "Maybe then, you’d understand my heart.",
+      "CHINESE_SIMPLIFIED": "或许 你会懂得我的心意吗",
+      "CHINESE_TRADITIONAL": "或許 你會懂得我的心意嗎",
+      "JAPANESE": "もしかしたら気づいてくれるかな",
+      "INDONESIAN": "Mungkin kamu bisa ngerti perasaanku",
+      "PORTUGUESE": "Será que entenderia o que eu sinto?",
+      "SPANISH": "¿Entenderías lo que siento?",
+      "PERSIAN": "شاید اون وقت، قلب من را بفهمی."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 49.5,
+      "HIDE": 53.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 하루 종일",
+      "ENGLISH": "All day long, it’s been like this—",
+      "CHINESE_SIMPLIFIED": "就这样一整天 反复思量",
+      "CHINESE_TRADITIONAL": "就這樣一整天 反覆思量",
+      "JAPANESE": "一日中そんなことばかり考えて",
+      "INDONESIAN": "Seharian penuh aku mikirin ini",
+      "PORTUGUESE": "Assim eu passo o dia todo…",
+      "SPANISH": "Así paso todo el día…",
+      "PERSIAN": "در تمام طول روز، اینگونه بوده است-"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 54.5,
+      "HIDE": 57.0
+    },
+    "SCRIPT": {
+      "KOREAN": "친구인 건 이젠 싫어",
+      "ENGLISH": "I don’t want to be just friends anymore.",
+      "CHINESE_SIMPLIFIED": "如今已不愿只做朋友",
+      "CHINESE_TRADITIONAL": "如今已不願只做朋友",
+      "JAPANESE": "友達のままなんてもう嫌だ",
+      "INDONESIAN": "Aku udah nggak mau cuma jadi teman",
+      "PORTUGUESE": "Já não quero ser só sua amiga.",
+      "SPANISH": "Ya no quiero ser solo tu amiga.",
+      "PERSIAN": "من دیگر نمی خواهم فقط دوست باشم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 57.2,
+      "HIDE": 59.7
+    },
+    "SCRIPT": {
+      "KOREAN": "사랑이고 싶어",
+      "ENGLISH": "I want to be love.",
+      "CHINESE_SIMPLIFIED": "好想成为你的恋人",
+      "CHINESE_TRADITIONAL": "好想成為你的戀人",
+      "JAPANESE": "恋になりたい",
+      "INDONESIAN": "Aku pengen jadi cinta",
+      "PORTUGUESE": "Quero que você me ame.",
+      "SPANISH": "Quiero que me ames.",
+      "PERSIAN": "من می خواهم عشق باشم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 59.9,
+      "HIDE": 62.1
+    },
+    "SCRIPT": {
+      "KOREAN": "너를 보는 나의 마음",
+      "ENGLISH": "My heart, when I look at you,",
+      "CHINESE_SIMPLIFIED": "望着你的我 这份心情",
+      "CHINESE_TRADITIONAL": "望著你的我 這份心情",
+      "JAPANESE": "君を見るこの心が",
+      "INDONESIAN": "Perasaanku setiap lihat kamu",
+      "PORTUGUESE": "Meu coração, ao te ver,",
+      "SPANISH": "Mi corazón, al verte,",
+      "PERSIAN": "قلب من وقتی به تو نگاه میکنم"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 62.2,
+      "HIDE": 64.3
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 망설여 질까",
+      "ENGLISH": "Always hesitates like this.",
+      "CHINESE_SIMPLIFIED": "为何总是这般犹豫不定",
+      "CHINESE_TRADITIONAL": "為何總是這般猶豫不定",
+      "JAPANESE": "こんなに迷うなんて",
+      "INDONESIAN": "Selalu bikin aku ragu",
+      "PORTUGUESE": "bate sem parar…",
+      "SPANISH": "palpita sin parar…",
+      "PERSIAN": "همیشه اینطوری تردید می کند."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 64.9,
+      "HIDE": 67.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너를 느낀 나의 심장",
+      "ENGLISH": "The way my heart beats when I feel you—",
+      "CHINESE_SIMPLIFIED": "为你悸动的这颗心",
+      "CHINESE_TRADITIONAL": "為你悸動的這顆心",
+      "JAPANESE": "君を感じるこの鼓動が",
+      "INDONESIAN": "Detak jantungku saat ngerasain kamu",
+      "PORTUGUESE": "Meu coração, ao te sentir,",
+      "SPANISH": "Mi corazón, al sentirte,",
+      "PERSIAN": "ضربان قلبم وقتی تو را حس می کنم-"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 67.6,
+      "HIDE": 70.0
+    },
+    "SCRIPT": {
+      "KOREAN": "더 이상은 안 돼",
+      "ENGLISH": "I can’t take it anymore.",
+      "CHINESE_SIMPLIFIED": "已经无法再忍耐",
+      "CHINESE_TRADITIONAL": "已經無法再忍耐",
+      "JAPANESE": "もう止められない",
+      "INDONESIAN": "Nggak bisa kutahan lagi",
+      "PORTUGUESE": "já não aguenta mais.",
+      "SPANISH": "ya no puede más.",
+      "PERSIAN": "من دیگه طاقت ندارم"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 70.1,
+      "HIDE": 74.0
+    },
+    "SCRIPT": {
+      "KOREAN": "친구가 아닌 사랑이란 걸",
+      "ENGLISH": "It’s not friendship, it’s love.",
+      "CHINESE_SIMPLIFIED": "想告诉你 这不是友情 是爱情",
+      "CHINESE_TRADITIONAL": "想告訴你 這不是友情 是愛情",
+      "JAPANESE": "友達じゃなくて、恋なんだ",
+      "INDONESIAN": "Aku bukan teman, aku cinta",
+      "PORTUGUESE": "Porque isso não é amizade, é amor.",
+      "SPANISH": "Porque esto no es amistad, es amor.",
+      "PERSIAN": "این دوستی نیست، عشق است."
+    }
+  }
+]

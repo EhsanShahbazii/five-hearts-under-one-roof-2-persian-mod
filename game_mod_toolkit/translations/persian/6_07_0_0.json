@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "여러분! 다들 잔 채웠나요?",
+      "ENGLISH": "Everyone! Got your glasses filled?",
+      "CHINESE_SIMPLIFIED": "各位！酒都满上了吗？",
+      "CHINESE_TRADITIONAL": "各位！大家的杯子都倒滿了嗎？",
+      "JAPANESE": "みんな！グラスは満タンですか？",
+      "INDONESIAN": "Semua udah isi gelasnya, kan?",
+      "PORTUGUESE": "Meninas! Já servi pra todas?",
+      "SPANISH": "¡Chicas! ¿Les serví a todas?",
+      "PERSIAN": "همه! لیوانت پر شد؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "넹~!",
+      "ENGLISH": "Yup~!",
+      "CHINESE_SIMPLIFIED": "嗯～！",
+      "CHINESE_TRADITIONAL": "嗯～！",
+      "JAPANESE": "は〜い！",
+      "INDONESIAN": "Yup~!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله~!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네~!!",
+      "ENGLISH": "Yes~!!",
+      "CHINESE_SIMPLIFIED": "嗯～！！",
+      "CHINESE_TRADITIONAL": "嗯～！！",
+      "JAPANESE": "はい〜！！",
+      "INDONESIAN": "Iyaa~!!",
+      "PORTUGUESE": "Sim~!!",
+      "SPANISH": "¡¡Sí~!!",
+      "PERSIAN": "بله~!!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 감사합니다...",
+      "ENGLISH": "Ah! Thank you...",
+      "CHINESE_SIMPLIFIED": "啊！谢谢...",
+      "CHINESE_TRADITIONAL": "啊！謝謝...",
+      "JAPANESE": "あ、ありがとうございます…",
+      "INDONESIAN": "Ah! Makasih ya...",
+      "PORTUGUESE": "Ah! Obrigada...",
+      "SPANISH": "¡Ah! Gracias...",
+      "PERSIAN": "آه! ممنونم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만아 여기까지 왔는데 네가 건배사 좀 해봐",
+      "ENGLISH": "Yuman, come on, give us a toast—you made it all the way here!",
+      "CHINESE_SIMPLIFIED": "吴宥万，来都来了，你来说两句祝酒词吧",
+      "CHINESE_TRADITIONAL": "宥萬啊，都來到這裡了，你說兩句祝酒詞吧",
+      "JAPANESE": "ユマン、せっかくだし乾杯の挨拶してみなよ",
+      "INDONESIAN": "Yuman, ayo dong, kasih toast—kan kamu udah sampai sejauh ini!",
+      "PORTUGUESE": "Yumán! Você passou por muita coisa, vem fazer o brinde.",
+      "SPANISH": "¡Yumán! Has pasado por mucho, ven a dar el brindis.",
+      "PERSIAN": "یومان، بیا، یک نون تست به ما بده - تو تمام راه را به اینجا رساندی!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 나 쑥스러워서 그런 거 못 해.",
+      "ENGLISH": "Ahh, no way, I’m too shy for that kind of thing.",
+      "CHINESE_SIMPLIFIED": "哎呦，我不好意思，做不来啦",
+      "CHINESE_TRADITIONAL": "哎，我會害羞，那種事情我沒辦法啦",
+      "JAPANESE": "いや、俺そういうの恥ずかしくて無理だって",
+      "INDONESIAN": "Ahh, nggak ah, malu aku yang begituan.",
+      "PORTUGUESE": "Ai, esse tipo de coisa me deixa com vergonha.",
+      "SPANISH": "Ay, este tipo de cosas me dan vergüenza.",
+      "PERSIAN": "آه، به هیچ وجه، من برای چنین چیزهایی خجالتی هستم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "- 빨리해!\n- 빨리해!\n",
+      "ENGLISH": "- Hurry up! \n- Yeah, hurry up!",
+      "CHINESE_SIMPLIFIED": "-来一个！\n-来一个！",
+      "CHINESE_TRADITIONAL": "- 快點啦！ \n- 快點啦！",
+      "JAPANESE": "‐ 早く！\n‐ 早く！",
+      "INDONESIAN": "- Cepetan dong!\n- Iya, cepetann!",
+      "PORTUGUESE": "— Vem logo!\n— Vem logo!",
+      "SPANISH": "— ¡Ven rápido!\n— ¡Ven rápido!",
+      "PERSIAN": "- عجله کن - آره، عجله کن!"
+    }
+  }
+]

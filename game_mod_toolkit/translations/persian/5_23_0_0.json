@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼, 두 분 그냥 친구 아니고 사귀던 사이...?",
+      "ENGLISH": "So… you two weren’t just friends? You were actually dating...?",
+      "CHINESE_SIMPLIFIED": "所以两位不是普通朋友，而是交往过的关系…？",
+      "CHINESE_TRADITIONAL": "那…你們兩個不是普通朋友，是交往過的關係嗎…？",
+      "JAPANESE": "じゃあ、二人ってただの友達じゃなくて付き合ってた…？",
+      "INDONESIAN": "Jadi… kalian berdua tuh bukan cuma temenan doang? Kalian beneran pacaran…?",
+      "PORTUGUESE": "Então... vocês dois não eram só amigos...?",
+      "SPANISH": "Entonces… ¿ustedes dos no eran solo amigos...?",
+      "PERSIAN": "پس... شما دو نفر فقط با هم دوست نبودید؟ راستی قرار بودی...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 그냥 위장이었죠, 위장!",
+      "ENGLISH": "Psh, no, it was totally fake! Just a cover!",
+      "CHINESE_SIMPLIFIED": "哎呦那只是伪装啦，装的情侣！",
+      "CHINESE_TRADITIONAL": "哎呀，那只是假裝的啦，假的！",
+      "JAPANESE": "いやいや、あれはカモフラージュだって、カモフラージュ！",
+      "INDONESIAN": "Cih, nggak lah, itu bohongan doang! Cuma buat nutupin aja!",
+      "PORTUGUESE": "Ah, não, era tudo fachada, pura mentira!",
+      "SPANISH": "Ay, no, era pura fachada, ¡todo falso!",
+      "PERSIAN": "پش، نه، کلا تقلبی بود! فقط یک جلد!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 11.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 암튼 우리 별명이 미녀와 야수였어요~",
+      "ENGLISH": "Still, people used to call us “Beauty and the Beast”~",
+      "CHINESE_SIMPLIFIED": "总之我们当年的外号可是“美女与野兽”~",
+      "CHINESE_TRADITIONAL": "我們的綽號可是美女與野獸～",
+      "JAPANESE": "ま、とにかくうちらのあだ名は美女と野獣だったんですよ〜",
+      "INDONESIAN": "Tapi ya, dulu orang-orang manggil kita “Beauty and the Beast”~",
+      "PORTUGUESE": "Mesmo que nos chamassem de “A Bela e a Fera”~",
+      "SPANISH": "Aunque nos llamaban “la Bella y la Bestia”~",
+      "PERSIAN": "با این حال، مردم ما را \"زیبایی و هیولا\" صدا می کردند"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.4,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 밀크고에서 1대 얼짱으로 좀 유명했었거든요. 기억하지?",
+      "ENGLISH": "I was kinda famous back then—Milk High’s original top visual, remember?",
+      "CHINESE_SIMPLIFIED": "我可是牛奶高中的第一届校花，你还记得吧？",
+      "CHINESE_TRADITIONAL": "我在 Milk 高中可是最有名的校花，你還記得吧？",
+      "JAPANESE": "私、ミルク高で初代の美人ってちょっと有名だったの 覚えてる？",
+      "INDONESIAN": "Aku tuh lumayan terkenal waktu itu—cewe cantik top pertama dari SMA Milk, inget nggak?",
+      "PORTUGUESE": "Eu era considerada a mais bonita de todo o Ensino Médio Milk, lembra?",
+      "SPANISH": "Yo era considerada la más guapa de toda la Preparatoria Milk, ¿te acuerdas?",
+      "PERSIAN": "من در اون زمان تا حدودی مشهور بودم - تصویر اصلی شیر های، یادتان هست؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐만요! 밀크고요?",
+      "ENGLISH": "Wait—hold on! Milk High?!",
+      "CHINESE_SIMPLIFIED": "等一下！牛奶高中？",
+      "CHINESE_TRADITIONAL": "等等！Milk 高中？",
+      "JAPANESE": "ちょっと待って ミルク高って？",
+      "INDONESIAN": "Tunggu—sebentar! SMA Milk?!",
+      "PORTUGUESE": "Espera! Ensino Médio Milk?",
+      "SPANISH": "¡Espera! ¿Preparatoria Milk?",
+      "PERSIAN": "صبر کن - صبر کن! شیر زیاد؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요? 나 설마 다른 학교에서도 유명하고 그랬나??",
+      "ENGLISH": "Why? Don’t tell me I was famous at other schools too?",
+      "CHINESE_SIMPLIFIED": "怎么了？难道我在其他学校也很有名吗？？",
+      "CHINESE_TRADITIONAL": "怎麼了？難道說我在別的學校也很有名嗎？？",
+      "JAPANESE": "なんで？まさか他の学校でも有名だったとか？",
+      "INDONESIAN": "Kenapa? Jangan bilang aku juga terkenal di sekolah lain?",
+      "PORTUGUESE": "Por quê? Será que também me conheciam em outras escolas??",
+      "SPANISH": "¿Por qué? ¿Acaso también me conocían en otras escuelas??",
+      "PERSIAN": "چرا؟ به من نگویید که در مدارس دیگر هم مشهور بودم؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 25.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨 저도 밀크고... 나왔거든요...",
+      "ENGLISH": "No, it’s just… I went to Milk High too…",
+      "CHINESE_SIMPLIFIED": "不是的…我也是牛奶高中…毕业的…",
+      "CHINESE_TRADITIONAL": "不，我也是…從 Milk 高中畢業的…",
+      "JAPANESE": "いや…私もミルク高、出身なんだけど…",
+      "INDONESIAN": "Bukan gitu… aku juga sekolah di SMA Milk…",
+      "PORTUGUESE": "Não, é que... eu também estudei lá...",
+      "SPANISH": "No, es que… yo también estudié ahí...",
+      "PERSIAN": "نه، فقط… من هم به شیر های رفتم…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 26.0,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 진짜?",
+      "ENGLISH": "Huh? Seriously?",
+      "CHINESE_SIMPLIFIED": "呃？真的？",
+      "CHINESE_TRADITIONAL": "欸？真的嗎？",
+      "JAPANESE": "え、ほんとに？",
+      "INDONESIAN": "Hah? Serius?",
+      "PORTUGUESE": "Hã? Sério?",
+      "SPANISH": "¿Eh? ¿En serio?",
+      "PERSIAN": "ها؟ جدی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "음? 밀크고 나왔다고요?",
+      "ENGLISH": "Wait, you went to Milk High?",
+      "CHINESE_SIMPLIFIED": "嗯？你说你是牛奶高中毕业的？",
+      "CHINESE_TRADITIONAL": "嗯？你說你也是從 Milk 高中畢業？",
+      "JAPANESE": "え？ミルク高出身って？",
+      "INDONESIAN": "Tunggu, kamu juga anak SMA Milk?",
+      "PORTUGUESE": "Hã? Disseram Ensino Médio Milk?",
+      "SPANISH": "¿Eh? ¿Dijeron Preparatoria Milk?",
+      "PERSIAN": "صبر کن، تو به شیر های رفتی؟"
+    }
+  }
+]

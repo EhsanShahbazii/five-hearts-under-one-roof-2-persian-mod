@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 당장 그만두는거 보다는",
+      "ENGLISH": "Instead of quitting right away,",
+      "CHINESE_SIMPLIFIED": "与其立刻辞职",
+      "CHINESE_TRADITIONAL": "比起立刻離職...",
+      "JAPANESE": "でも、すぐ辞めるよりは",
+      "INDONESIAN": "Untuk sekarang gimana kalau jangan langsung berhenti dulu",
+      "PORTUGUESE": "¿Qué te parece si, en lugar de renunciar de inmediato,",
+      "SPANISH": "¿Qué te parece si, en lugar de renunciar de inmediato,",
+      "PERSIAN": "به جای اینکه فوراً دست از کار بکشید،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "쉬는 시간을 가져보는 게 어떨까요?",
+      "ENGLISH": "how about taking some time off?",
+      "CHINESE_SIMPLIFIED": "不如先休个假怎么样？",
+      "CHINESE_TRADITIONAL": "不如先休個假呢？",
+      "JAPANESE": "少し休む時間を取るのはどうですか？",
+      "INDONESIAN": "Coba ambil waktu buat istirahat sebentar",
+      "PORTUGUESE": "te tomas un tiempo para descansar?",
+      "SPANISH": "te tomas un tiempo para descansar?",
+      "PERSIAN": "چطوره یه مدت مرخصی بگیری؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "지금은 뭘 판단하기엔 너무 지쳤잖아요.",
+      "ENGLISH": "You're too exhausted to make any decisions now.",
+      "CHINESE_SIMPLIFIED": "您现在太疲惫了，不适合做决定",
+      "CHINESE_TRADITIONAL": "你現在因為太疲憊，沒辦法立刻決定嘛",
+      "JAPANESE": "今は疲れすぎて、何も冷静に考えられないと思います",
+      "INDONESIAN": "Sekarang kamu lagi terlalu capek buat mutusin apa pun kan",
+      "PORTUGUESE": "Ahora mismo estás demasiado agotada para decidir algo así.",
+      "SPANISH": "Ahora mismo estás demasiado agotada para decidir algo así.",
+      "PERSIAN": "الان خیلی خسته ای و نمیتونی هیچ تصمیمی بگیری."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그럴까요?",
+      "ENGLISH": "Should I?",
+      "CHINESE_SIMPLIFIED": "也对...",
+      "CHINESE_TRADITIONAL": "也是...",
+      "JAPANESE": "そうですか？",
+      "INDONESIAN": "Iya ya",
+      "PORTUGUESE": "¿Crees?",
+      "SPANISH": "¿Usted cree?",
+      "PERSIAN": "یعنی بکنم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 전 제가 생각해도",
+      "ENGLISH": "But honestly, even I don't think",
+      "CHINESE_SIMPLIFIED": "其实我也觉得",
+      "CHINESE_TRADITIONAL": "我也是這樣覺得",
+      "JAPANESE": "でも、私、自分でも思うけど",
+      "INDONESIAN": "Tapi kalau kupikir-pikir",
+      "PORTUGUESE": "Aunque, siendo sincera,",
+      "SPANISH": "Aunque, siendo sincera,",
+      "PERSIAN": "اما راستش را بخواهید، حتی من هم فکر نمی‌کنم"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "간호사에 재능이 있는 거 같진 않은데...",
+      "ENGLISH": "I don't think I'm that talented as a nurse...",
+      "CHINESE_SIMPLIFIED": "我好像并不是特别适合当护士...",
+      "CHINESE_TRADITIONAL": "我好像沒有特別適合當護理師...",
+      "JAPANESE": "看護師、向いてない気がするんですよね",
+      "INDONESIAN": "Kayaknya aku memang nggak terlalu berbakat jadi perawat deh",
+      "PORTUGUESE": "no creo tener mucho talento para ser enfermera...",
+      "SPANISH": "no creo tener mucho talento para ser enfermera...",
+      "PERSIAN": "فکر نمی‌کنم به عنوان یک پرستار آنقدرها هم بااستعداد باشم..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇지 않아요.",
+      "ENGLISH": "That's not true.",
+      "CHINESE_SIMPLIFIED": "没这回事",
+      "CHINESE_TRADITIONAL": "不是這樣的",
+      "JAPANESE": "そんなことないですよ",
+      "INDONESIAN": "Nggak gitu kok",
+      "PORTUGUESE": "No es cierto.",
+      "SPANISH": "No es cierto.",
+      "PERSIAN": "این درست نیست."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 진짜 규리 쌤처럼 환자한테 다정한 분이",
+      "ENGLISH": "I truly believe I recovered faster",
+      "CHINESE_SIMPLIFIED": "我觉得正是因为有你这样温柔对病人的护士",
+      "CHINESE_TRADITIONAL": "我覺得正是因為有像你一樣溫柔對待別人的護理師",
+      "JAPANESE": "僕、本当にキュリ先生みたいに優しい人がいたから",
+      "INDONESIAN": "Aku beneran merasa bisa cepat sembuh",
+      "PORTUGUESE": "Yo de verdad creo que gracias a alguien tan amable con los pacientes como tú,",
+      "SPANISH": "Yo de verdad creo que gracias a alguien tan amable con los pacientes como usted,",
+      "PERSIAN": "من واقعاً معتقدم که سریع‌تر بهبود یافتم"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "있어서 더 빨리 건강해졌다고 생각해요.",
+      "ENGLISH": "because I had someone as kind to patients as you, Teacher Gyuri.",
+      "CHINESE_SIMPLIFIED": "我才能更快的康复",
+      "CHINESE_TRADITIONAL": "我才能如此快速恢復",
+      "JAPANESE": "早く元気になれたんです",
+      "INDONESIAN": "Karena ada orang sebaik kamu yang ngerawat aku",
+      "PORTUGUESE": "pude recuperarme mucho más rápido.",
+      "SPANISH": "pude recuperarme mucho más rápido.",
+      "PERSIAN": "چون من کسی رو داشتم که با مریض‌هاش مهربون باشه، مثل شما، معلم گیوری."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 27.7
+    },
+    "SCRIPT": {
+      "KOREAN": "에이... 유만 씨가 잘 회복하신 거잖아요...",
+      "ENGLISH": "Oh... it's because you recovered well, Mr. Yoo Man...",
+      "CHINESE_SIMPLIFIED": "哎呀，那是宥万自己努力康复的",
+      "CHINESE_TRADITIONAL": "哎呀，那是因為宥萬先生你自己努力恢復的啊",
+      "JAPANESE": "え〜、それはユマンさんが頑張ったからですよ",
+      "INDONESIAN": "Ah itu karena Yuman-nya aja yang cepet pulih",
+      "PORTUGUESE": "Ay… eso fue porque tú te esforzaste en sanar, Yumán…",
+      "SPANISH": "Ay… eso fue porque se esforzó en sanar",
+      "PERSIAN": "اوه... به خاطر اینه که خوب خوب شدی، آقای یومان..."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.0,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 쌤 덕분이라는 거 진짜 진심이에요.",
+      "ENGLISH": "I truly mean it when I say it's thanks to Nurse Kyuri.",
+      "CHINESE_SIMPLIFIED": "我说的话都是真心实意的",
+      "CHINESE_TRADITIONAL": "我說的話都是真心的！",
+      "JAPANESE": "ギュリ先生のおかげって、本気で思ってます",
+      "INDONESIAN": "Aku serius loh, Aku beneran ngerasa itu karena Gyuri",
+      "PORTUGUESE": "No, lo digo en serio, fue gracias a ti, Gyuri.",
+      "SPANISH": "No, lo digo en serio, fue gracias a usted, Gyuri.",
+      "PERSIAN": "وقتی میگم به لطف پرستار کیوریه، واقعاً منظورم همینه."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 35.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그러니까 지금은 그냥 숨 한번 고른다 생각하고",
+      "ENGLISH": "So why not just think of this as catching your breath?",
+      "CHINESE_SIMPLIFIED": "所以现在不如就停下来喘口气",
+      "CHINESE_TRADITIONAL": "所以現在，不如先停下來喘口氣",
+      "JAPANESE": "だから今は、ちょっと一息ついて",
+      "INDONESIAN": "Jadi sekarang anggap aja ini waktunya buat tarik napas",
+      "PORTUGUESE": "Por eso creo que ahora deberías tomarte un respiro,",
+      "SPANISH": "Por eso creo que ahora debería tomarse un respiro,",
+      "PERSIAN": "پس چرا به این فقط به عنوان یه راه برای نفس کشیدن فکر نمی‌کنی؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 39.6
+    },
+    "SCRIPT": {
+      "KOREAN": "예쁜 거 보면서 쉬는 시간을 가져보는 게 어때요?",
+      "ENGLISH": "How about taking some time off to relax and look at pretty things?",
+      "CHINESE_SIMPLIFIED": "去看看美好的事物，好好休息一下吧？",
+      "CHINESE_TRADITIONAL": "去看看美好的事物，好好休息一下也不錯？",
+      "JAPANESE": "綺麗なものでも見ながら休む時間にしましょう",
+      "INDONESIAN": "Lihat hal-hal indah dan istirahat bentar gimana",
+      "PORTUGUESE": "ver cosas bonitas y darte un descanso.",
+      "SPANISH": "ver cosas bonitas y darse un descanso.",
+      "PERSIAN": "چطوره یه کم وقت بذاری و استراحت کنی و به چیزهای قشنگ نگاه کنی؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 40.4,
+      "HIDE": 41.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그럴까요?",
+      "ENGLISH": "Should we do that?",
+      "CHINESE_SIMPLIFIED": "真的可以吗？",
+      "CHINESE_TRADITIONAL": "真的可以嗎？",
+      "JAPANESE": "そうしましょうか？",
+      "INDONESIAN": "Iya ya, mungkin gitu aja dulu",
+      "PORTUGUESE": "¿Crees que debería?",
+      "SPANISH": "¿Debería?",
+      "PERSIAN": "باید این کار را انجام دهیم؟"
+    }
+  }
+]

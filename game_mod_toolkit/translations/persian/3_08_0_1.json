@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.6,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 받아야지, 받아야지 깜빡할 뻔했네. ",
+      "ENGLISH": "Ah, right—I almost forgot. Gotta get that taken care of.",
+      "CHINESE_SIMPLIFIED": "啊对，得收房租的，好险好险差点忘了",
+      "CHINESE_TRADITIONAL": "啊，對喔～差點忘了要收房租",
+      "JAPANESE": "あ、そうだそうだ、受け取らなきゃ　危うく忘れるところだった",
+      "INDONESIAN": "Ah, iya—hampir lupa. Harus diurus juga, ya.",
+      "PORTUGUESE": "Ah, certo, tenho que cobrar, quase que esqueço.",
+      "SPANISH": "Ah, cierto, tengo que cobrar, casi se me olvida.",
+      "PERSIAN": "آه، درست است - تقریباً فراموش کردم. باید به اون رسیدگی شود"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "저번이랑 동일하게 월 40만 원 입금해 주시면 돼요.",
+      "ENGLISH": "Just send the same amount as last time, 400,000 won per month.",
+      "CHINESE_SIMPLIFIED": "跟上回一样，月租40万韩元打过来就行",
+      "CHINESE_TRADITIONAL": "就跟之前一樣，每個月四十萬韓元就好",
+      "JAPANESE": "前と同じく、月に40万ウォン振り込んでもらえれば大丈夫です",
+      "INDONESIAN": "Kirim aja jumlah yang sama kayak terakhir, 400 ribu won per bulan.",
+      "PORTUGUESE": "Como da última vez, você pode depositar 400.000 wons por mês.",
+      "SPANISH": "Como la vez pasada, puedes depositar 400,000 wones al mes.",
+      "PERSIAN": "فقط همون مبلغ دفعه قبل، 400000 وون در ماه ارسال کنید."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "40만 원",
+      "ENGLISH": "400,000 won, got it.",
+      "CHINESE_SIMPLIFIED": "40万（约合人民币2,000元）！",
+      "CHINESE_TRADITIONAL": "四十萬（折合台幣約8500元）",
+      "JAPANESE": "40万ウォンですね",
+      "INDONESIAN": "400 ribu won, oke.",
+      "PORTUGUESE": "400.000…",
+      "SPANISH": "400,000…",
+      "PERSIAN": "400000 وون گرفتم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 당연히 드려야죠!",
+      "ENGLISH": "Of course, happy to pay!",
+      "CHINESE_SIMPLIFIED": "嗯！当然要给的！",
+      "CHINESE_TRADITIONAL": "嗯！該給的還是得給啊～",
+      "JAPANESE": "はい！ もちろんお支払いします！",
+      "INDONESIAN": "Tentu, senang hati bayar!",
+      "PORTUGUESE": "Sim! Claro, é justo.",
+      "SPANISH": "¡Sí! Claro, es lo justo.",
+      "PERSIAN": "البته از پرداخت خرسندیم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니다 물가 상승률이 있으니깐",
+      "ENGLISH": "Actually, with inflation and all...",
+      "CHINESE_SIMPLIFIED": "不过嘛，考虑到现在物价上涨...",
+      "CHINESE_TRADITIONAL": "不過，因為最近物價都漲了…",
+      "JAPANESE": "いや、物価も上がってるし…",
+      "INDONESIAN": "Sebenernya sih, kalau ngikutin inflasi...",
+      "PORTUGUESE": "Bom, embora com a inflação devesse aumentar um pouco…",
+      "SPANISH": "Bueno, aunque con la inflación debería subir un poco…",
+      "PERSIAN": "در واقع با تورم و همه ..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 그래도 재방문 해주신 거니깐 그건 생략할게요.",
+      "ENGLISH": "Oh come on~ but since you're a returning guest, I'll let it slide.",
+      "CHINESE_SIMPLIFIED": "哎~但毕竟你是“回头客”，这次就免啦",
+      "CHINESE_TRADITIONAL": "畢竟你是舊租客，這次就算優惠給你囉～",
+      "JAPANESE": "え〜でも、また来てくれたんですし、それはナシにしますよ",
+      "INDONESIAN": "Aduh ya ampun~ tapi karena kamu tamu lama, aku anggap lewat aja deh.",
+      "PORTUGUESE": "Mas como não é sua primeira vez aqui, vou deixar passar.",
+      "SPANISH": "Pero como no es tu primera vez aquí, lo dejaré pasar.",
+      "PERSIAN": "اوه بیا~ اما از آنجایی که شما مهمان بازگشتی هستید، اجازه می‌دهم از بین برود."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.4,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아..ㅎ네, 감사해요",
+      "ENGLISH": "Ah… hehe, thank you.",
+      "CHINESE_SIMPLIFIED": "啊...好，谢谢你",
+      "CHINESE_TRADITIONAL": "哈哈...好，謝謝你",
+      "JAPANESE": "あ…はは、ありがとうございます",
+      "INDONESIAN": "Ah… hehe, makasih ya.",
+      "PORTUGUESE": "Ah, obrigada.",
+      "SPANISH": "Ah, gracias.",
+      "PERSIAN": "آه… هه، ممنون."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.1,
+      "HIDE": 19.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 다른 사람들한텐 비밀이에요.",
+      "ENGLISH": "But keep that between us, okay?",
+      "CHINESE_SIMPLIFIED": "这个要对其他人保密哦",
+      "CHINESE_TRADITIONAL": "這件事要保密喔",
+      "JAPANESE": "これ、他の人には内緒ですよ",
+      "INDONESIAN": "Tapi ini rahasia kita aja, ya?",
+      "PORTUGUESE": "Isso fica entre nós, tá bom?",
+      "SPANISH": "Esto que quede en secreto entre nosotros, ¿sí?",
+      "PERSIAN": "اما اینو بین خودمان نگه دار، باشه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 20.8
+    },
+    "SCRIPT": {
+      "KOREAN": "음..네!",
+      "ENGLISH": "Mm… yeah!",
+      "CHINESE_SIMPLIFIED": "嗯...好的！",
+      "CHINESE_TRADITIONAL": "嗯…知道了！",
+      "JAPANESE": "うん…わかりました！",
+      "INDONESIAN": "Mm… iya!",
+      "PORTUGUESE": "Hmm… sim!",
+      "SPANISH": "Hmm… ¡sí!",
+      "PERSIAN": "مم… آره!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "암튼 고생했으니깐 푹 쉬세요",
+      "ENGLISH": "Anyway, you’ve had a long day..get some good rest.",
+      "CHINESE_SIMPLIFIED": "总之辛苦啦，好好休息吧",
+      "CHINESE_TRADITIONAL": "辛苦了，好好休息吧～",
+      "JAPANESE": "とにかく、お疲れさまでした ゆっくり休んでください",
+      "INDONESIAN": "Pokoknya, kamu udah ngalamin hari panjang—istirahat yang nyenyak, ya.",
+      "PORTUGUESE": "Hoje foi um dia bem longo, então dorme bem.",
+      "SPANISH": "Hoy fue un día muy largo, así que duerme bien.",
+      "PERSIAN": "به هر حال، روز طولانی سپری کرده اید.. کمی استراحت کنید."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠도 주무세요!",
+      "ENGLISH": "You too, sleep well!",
+      "CHINESE_SIMPLIFIED": "哥哥也晚安！",
+      "CHINESE_TRADITIONAL": "哥哥也晚安～",
+      "JAPANESE": "お兄さんも、早く寝てくださいね！",
+      "INDONESIAN": "Kamu juga, tidur yang nyenyak!",
+      "PORTUGUESE": "Você também, oppa, boa noite!",
+      "SPANISH": "¡Tú también, oppa, que descanses!",
+      "PERSIAN": "تو هم خوب بخواب!"
+    }
+  }
+]

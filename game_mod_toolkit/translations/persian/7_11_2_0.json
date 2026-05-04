@@ -1,0 +1,657 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어서오세요. 몇 분이서 오셨어요?",
+      "ENGLISH": "Welcome. How many in your party?",
+      "CHINESE_SIMPLIFIED": "欢迎光临，请问几位？",
+      "CHINESE_TRADITIONAL": "歡迎光臨，請問幾位？",
+      "JAPANESE": "いらっしゃいませ 何名様ですか？",
+      "INDONESIAN": "Selamat datang. Rombongan berapa orang?",
+      "PORTUGUESE": "Bem-vindo. Quantos são?",
+      "SPANISH": "Bienvenido. ¿Cuántos son?",
+      "PERSIAN": "خوش آمدید. چند نفر در حزب شما؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 8.4
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 고말숙 있죠.",
+      "ENGLISH": "Is Go Mal-sook here?",
+      "CHINESE_SIMPLIFIED": "我找高末淑",
+      "CHINESE_TRADITIONAL": "高末淑在這裡吧",
+      "JAPANESE": "ここにコ・マルスクさん、いますよね？",
+      "INDONESIAN": "Apa Go Mal-sook ada di sini?",
+      "PORTUGUESE": "A Go Malsook tá aqui?",
+      "SPANISH": "¿Aquí está Go Malsook?",
+      "PERSIAN": "گو مال‌سوک اینجاست؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그게... 누군데요. ",
+      "ENGLISH": "Who’s that?",
+      "CHINESE_SIMPLIFIED": "你说的...是谁啊？",
+      "CHINESE_TRADITIONAL": "你說的...是誰呢？",
+      "JAPANESE": "え…どなたですか？",
+      "INDONESIAN": "Siapa tuh?",
+      "PORTUGUESE": "Desculpe? Quem é o senhor?",
+      "SPANISH": "¿Perdón? ¿Quién es usted?",
+      "PERSIAN": "اون کیه؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 그런 사람 없으니까 얼른 나가세요.",
+      "ENGLISH": "We don’t have anyone by that name. Please leave.",
+      "CHINESE_SIMPLIFIED": "我们这没这个人，请你赶紧出去",
+      "CHINESE_TRADITIONAL": "我們這邊沒有這個人，請趕快出去",
+      "JAPANESE": "ここにはそんな方いません すぐにお帰りください",
+      "INDONESIAN": "Kami nggak punya siapa pun dengan nama itu. Silakan keluar.",
+      "PORTUGUESE": "Aqui não tem ninguém com esse nome, então vá embora.",
+      "SPANISH": "Aquí no hay nadie con ese nombre, así que váyase.",
+      "PERSIAN": "ما کسی به این نام نداریم لطفا ترک کنید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.2,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나가시라고요 ",
+      "ENGLISH": "I said leave.",
+      "CHINESE_SIMPLIFIED": "请出去",
+      "CHINESE_TRADITIONAL": "請您出去",
+      "JAPANESE": "お帰りください",
+      "INDONESIAN": "Saya bilang keluar.",
+      "PORTUGUESE": "Tô dizendo pra ir embora.",
+      "SPANISH": "Le digo que se vaya.",
+      "PERSIAN": "گفتم برو"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.7,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "영업 방해하면 경찰 부릅니다.",
+      "ENGLISH": "If you disrupt the business, I’ll call the police.",
+      "CHINESE_SIMPLIFIED": "再妨碍营业我们就报警了",
+      "CHINESE_TRADITIONAL": "如果妨礙營業的話我們就報警了",
+      "JAPANESE": "営業の妨げになるなら警察を呼びますよ",
+      "INDONESIAN": "Kalau bikin keributan, saya panggil polisi.",
+      "PORTUGUESE": "Se continuar atrapalhando o negócio, vou chamar a polícia.",
+      "SPANISH": "Si sigue molestando el negocio, voy a llamar a la policía.",
+      "PERSIAN": "اگر کار را مختل کنید، با پلیس تماس می‌گیرم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 19.3
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 이거 놔요",
+      "ENGLISH": "Ha— let go of me.",
+      "CHINESE_SIMPLIFIED": "哈，你放开我",
+      "CHINESE_TRADITIONAL": "哈，你放手",
+      "JAPANESE": "は…これ離してください",
+      "INDONESIAN": "Ha— lepasin aku.",
+      "PORTUGUESE": "Ha… me solta.",
+      "SPANISH": "Ha… suéltame.",
+      "PERSIAN": "ها - من را رها کن."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.3
+    },
+    "SCRIPT": {
+      "KOREAN": "예전에 모델 하려고 했다더니 ",
+      "ENGLISH": "So you were gonna be a model before —",
+      "CHINESE_SIMPLIFIED": "听说你之前想当模特？",
+      "CHINESE_TRADITIONAL": "聽說她以前想當模特兒",
+      "JAPANESE": "昔モデルを目指してたって聞いたけど",
+      "INDONESIAN": "Jadi kamu dulu mau jadi model ya —",
+      "PORTUGUESE": "Então era você quem queria ser modelo, né?",
+      "SPANISH": "Así que eras la que quería ser modelo, ¿eh?",
+      "PERSIAN": "پس قبلا قرار بود مدل بشی -"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.0,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "몸매가 아주 그냥 쥑여~",
+      "ENGLISH": "your body’s seriously killer~",
+      "CHINESE_SIMPLIFIED": "这身材真是火辣到爆啊——",
+      "CHINESE_TRADITIONAL": "身材火辣到爆啊～",
+      "JAPANESE": "体付きがハンパないな〜",
+      "INDONESIAN": "badan kamu bener-bener mantap~",
+      "PORTUGUESE": "Ficou com um corpão~",
+      "SPANISH": "Tremendo cuerpo te quedó~",
+      "PERSIAN": "بدن شما قاتل جدی است"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 26.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에이씨",
+      "ENGLISH": "Tch.",
+      "CHINESE_SIMPLIFIED": "阿西",
+      "CHINESE_TRADITIONAL": "靠",
+      "JAPANESE": "チッ",
+      "INDONESIAN": "Tch.",
+      "PORTUGUESE": "Droga…",
+      "SPANISH": "Maldita sea…",
+      "PERSIAN": "ایشش."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.1,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "야 고말숙! ",
+      "ENGLISH": "Hey, Go Mal-sook!",
+      "CHINESE_SIMPLIFIED": "喂！高末淑！",
+      "CHINESE_TRADITIONAL": "喂！高末淑！",
+      "JAPANESE": "おい、コ・マルスク！",
+      "INDONESIAN": "Hei, Go Mal-sook!",
+      "PORTUGUESE": "Ei, Go Malsook!",
+      "SPANISH": "¡Oye, Go Malsook!",
+      "PERSIAN": "هی، برو مال‌سوک!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나와.",
+      "ENGLISH": "Come out.",
+      "CHINESE_SIMPLIFIED": "你给我出来",
+      "CHINESE_TRADITIONAL": "你給我出來",
+      "JAPANESE": "出てこい！",
+      "INDONESIAN": "Keluar!",
+      "PORTUGUESE": "Sai!",
+      "SPANISH": "¡Sal!",
+      "PERSIAN": "بیا بیرون"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 32.0,
+      "HIDE": 33.1
+    },
+    "SCRIPT": {
+      "KOREAN": "나오라고!!!",
+      "ENGLISH": "I said come out!!!",
+      "CHINESE_SIMPLIFIED": "出来！！！",
+      "CHINESE_TRADITIONAL": "出來！！！",
+      "JAPANESE": "出てこいって言ってんだろ！！",
+      "INDONESIAN": "Aku bilang keluar!!!",
+      "PORTUGUESE": "Tô mandando você sair!",
+      "SPANISH": "¡Te digo que salgas!",
+      "PERSIAN": "گفتم بیا بیرون!!!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 34.4,
+      "HIDE": 38.3
+    },
+    "SCRIPT": {
+      "KOREAN": "누구야. 우리 예림이 뭐 아는 사람이야?",
+      "ENGLISH": "Who is that? Do you know that guy, Yerim?",
+      "CHINESE_SIMPLIFIED": "谁啊？你认识他吗，艺琳？",
+      "CHINESE_TRADITIONAL": "誰啊？藝琳，你認識他嗎？",
+      "JAPANESE": "誰？イェリムの知り合い？",
+      "INDONESIAN": "Itu siapa? Kamu kenal dia, Yerim?",
+      "PORTUGUESE": "Quem é? Você conhece esse cara, Yerim?",
+      "SPANISH": "¿Quién es? ¿Conoces a este tipo, Yerim?",
+      "PERSIAN": "اون کیه؟ اون مرد، یریم را می شناسید؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 40.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 모르는 사람인데요.",
+      "ENGLISH": "No, I don’t.",
+      "CHINESE_SIMPLIFIED": "我不认识他",
+      "CHINESE_TRADITIONAL": "我不認識他",
+      "JAPANESE": "いえ、知らない人です",
+      "INDONESIAN": "Nggak, aku nggak kenal.",
+      "PORTUGUESE": "Não… não conheço.",
+      "SPANISH": "No… no lo conozco.",
+      "PERSIAN": "نه، نه."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 41.2,
+      "HIDE": 41.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 뭐야",
+      "ENGLISH": "Then what is this?",
+      "CHINESE_SIMPLIFIED": "那怎么回事",
+      "CHINESE_TRADITIONAL": "那是怎麼一回事",
+      "JAPANESE": "じゃあ何",
+      "INDONESIAN": "Terus ini apa?",
+      "PORTUGUESE": "Então o que tá acontecendo?",
+      "SPANISH": "Entonces, ¿qué pasa?",
+      "PERSIAN": "بعد این چیه؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 42.1,
+      "HIDE": 42.9
+    },
+    "SCRIPT": {
+      "KOREAN": "자네가 불렀나?",
+      "ENGLISH": "Did you call him?",
+      "CHINESE_SIMPLIFIED": "是你叫来的吗？",
+      "CHINESE_TRADITIONAL": "是你叫他來的嗎？",
+      "JAPANESE": "お前が呼んだのか？",
+      "INDONESIAN": "Kamu yang manggil dia?",
+      "PORTUGUESE": "Foi você quem chamou ele?",
+      "SPANISH": "¿Tú lo llamaste?",
+      "PERSIAN": "بهش زنگ زدی؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 43.2,
+      "HIDE": 43.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨",
+      "ENGLISH": "No.",
+      "CHINESE_SIMPLIFIED": "不是",
+      "CHINESE_TRADITIONAL": "不是啊",
+      "JAPANESE": "違います",
+      "INDONESIAN": "Bukan.",
+      "PORTUGUESE": "Não.",
+      "SPANISH": "No.",
+      "PERSIAN": "نه"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 44.6,
+      "HIDE": 45.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아저씨 ",
+      "ENGLISH": "Sir,",
+      "CHINESE_SIMPLIFIED": "大叔",
+      "CHINESE_TRADITIONAL": "大叔",
+      "JAPANESE": "おじさん",
+      "INDONESIAN": "Pak,",
+      "PORTUGUESE": "Senhor,",
+      "SPANISH": "Señor,",
+      "PERSIAN": "آقا"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 45.6,
+      "HIDE": 47.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아저씨 뭐 하는 사람인데 여기 와서 이래요?",
+      "ENGLISH": "what do you think you’re doing barging in here?",
+      "CHINESE_SIMPLIFIED": "大叔你谁啊，来这儿闹事？",
+      "CHINESE_TRADITIONAL": "大叔你是誰啊？跑來這裡鬧事？",
+      "JAPANESE": "おじさんあなた、何者ですか ここで何してるんですか？",
+      "INDONESIAN": "bapak ngapain sih masuk sembarangan ke sini?",
+      "PORTUGUESE": "o que o senhor acha que tá fazendo se comportando assim?",
+      "SPANISH": "¿qué se supone que hace aquí comportándose así?",
+      "PERSIAN": "فکر می‌کنی در اینجا چیکار می‌کنی؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 48.3,
+      "HIDE": 49.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나가세요",
+      "ENGLISH": "Leave.",
+      "CHINESE_SIMPLIFIED": "请出去",
+      "CHINESE_TRADITIONAL": "請出去",
+      "JAPANESE": "出て行ってください",
+      "INDONESIAN": "Silakan keluar.",
+      "PORTUGUESE": "Saia, por favor.",
+      "SPANISH": "Salga, por favor.",
+      "PERSIAN": "ترک کنید."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 49.6,
+      "HIDE": 50.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 나가시라고요!!",
+      "ENGLISH": "I said leave!!",
+      "CHINESE_SIMPLIFIED": "啊，快出去！！",
+      "CHINESE_TRADITIONAL": "啊，快出去！！",
+      "JAPANESE": "出ていけってば！！",
+      "INDONESIAN": "Saya bilang keluar!!",
+      "PORTUGUESE": "Eu disse pra sair!",
+      "SPANISH": "¡Le dije que salga!",
+      "PERSIAN": "گفتم برو!!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 50.9,
+      "HIDE": 53.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 오빠 화내지 마~",
+      "ENGLISH": "Oppa, don’t get mad~",
+      "CHINESE_SIMPLIFIED": "哥哥别生气~",
+      "CHINESE_TRADITIONAL": "哥哥，你不要生氣～",
+      "JAPANESE": "怒らないで〜",
+      "INDONESIAN": "Oppa, jangan marah gitu dong~",
+      "PORTUGUESE": "Ah, não fica bravo~",
+      "SPANISH": "Ay, no te enojes~",
+      "PERSIAN": "یومان، عصبانی نشو"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 55.9,
+      "HIDE": 56.4
+    },
+    "SCRIPT": {
+      "KOREAN": "나가자",
+      "ENGLISH": "Let’s go.",
+      "CHINESE_SIMPLIFIED": "我们走吧",
+      "CHINESE_TRADITIONAL": "我們走吧",
+      "JAPANESE": "行こう",
+      "INDONESIAN": "Ayo pergi.",
+      "PORTUGUESE": "Vamos embora.",
+      "SPANISH": "Vámonos.",
+      "PERSIAN": "برویم"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 57.1,
+      "HIDE": 58.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 놔! ",
+      "ENGLISH": "Let go!",
+      "CHINESE_SIMPLIFIED": "你放开！",
+      "CHINESE_TRADITIONAL": "你放開",
+      "JAPANESE": "これ放して！",
+      "INDONESIAN": "Lepasin!",
+      "PORTUGUESE": "Me solta!",
+      "SPANISH": "¡Suéltame!",
+      "PERSIAN": "رها کن!"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 58.5,
+      "HIDE": 60.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 놓으라고!",
+      "ENGLISH": "I said let GO!",
+      "CHINESE_SIMPLIFIED": "叫你放开！",
+      "CHINESE_TRADITIONAL": "叫你放開！",
+      "JAPANESE": "これ放してってば！",
+      "INDONESIAN": "Aku bilang LEPASIN!",
+      "PORTUGUESE": "Tô mandando me soltar!",
+      "SPANISH": "¡Te digo que me sueltes!",
+      "PERSIAN": "گفتم ولش کن!"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 60.8,
+      "HIDE": 61.8
+    },
+    "SCRIPT": {
+      "KOREAN": "나가자고! ",
+      "ENGLISH": "I said let’s go!",
+      "CHINESE_SIMPLIFIED": "快走吧！",
+      "CHINESE_TRADITIONAL": "快走吧！",
+      "JAPANESE": "行くぞ！",
+      "INDONESIAN": "Aku bilang ayo pergi!",
+      "PORTUGUESE": "Vamos lá fora!",
+      "SPANISH": "¡Vamos afuera!",
+      "PERSIAN": "گفتم بریم!"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 62.0,
+      "HIDE": 63.9
+    },
+    "SCRIPT": {
+      "KOREAN": "너답지 않게 이게 뭐 하는 짓이야!",
+      "ENGLISH": "This isn’t like you — what are you doing?!",
+      "CHINESE_SIMPLIFIED": "你不是这样的人，这到底是在干嘛！",
+      "CHINESE_TRADITIONAL": "這不像你，到底在幹嘛啊！",
+      "JAPANESE": "こんなことして、お前らしくない！",
+      "INDONESIAN": "Ini bukan kamu banget — kamu kenapa sih?!",
+      "PORTUGUESE": "O que deu em você?! Isso não é do seu feitio!",
+      "SPANISH": "¡¿Qué te pasa?! ¡Esto no es propio de ti!",
+      "PERSIAN": "این مثل شما نیست - شما چه کار می کنید؟!"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 65.3,
+      "HIDE": 66.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나 다운 게 뭔데!",
+      "ENGLISH": "And what is “like me,” exactly?!",
+      "CHINESE_SIMPLIFIED": "那我是怎么样的人啊？",
+      "CHINESE_TRADITIONAL": "那到底什麼才像我？",
+      "JAPANESE": "なら、私らしいってのはなんなの？",
+      "INDONESIAN": "Dan “aku banget” tuh kayak gimana maksud kamu?!",
+      "PORTUGUESE": "E o que é “do meu feitio”, então?",
+      "SPANISH": "¿Y qué se supone que “es propio de mí”?",
+      "PERSIAN": "و دقیقاً «مثل من» چیه؟!"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 67.7,
+      "HIDE": 69.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 이건 아니야. 일단 나가.",
+      "ENGLISH": "…This isn’t right. Just go.",
+      "CHINESE_SIMPLIFIED": "啊...这样不行，先出去吧",
+      "CHINESE_TRADITIONAL": "啊...這不是辦法。先出去吧",
+      "JAPANESE": "あ…これは違う、とにかく外に出よう",
+      "INDONESIAN": "…Ini nggak bener. Udahan, pergi sana.",
+      "PORTUGUESE": "Ah… isso não tá certo. Vamos lá fora.",
+      "SPANISH": "Ah… esto no está bien. Vamos afuera.",
+      "PERSIAN": "... این درست نیست. فقط برو"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 72.3,
+      "HIDE": 76.9
+    },
+    "SCRIPT": {
+      "KOREAN": "얌마 이새X가.. 너 뭐야? 어?",
+      "ENGLISH": "Hey, you punk — what the hell’s your problem? Huh??",
+      "CHINESE_SIMPLIFIED": "喂你这混蛋...你谁啊？嗯？",
+      "CHINESE_TRADITIONAL": "喂，你這混蛋...你是什麼人？嗯？",
+      "JAPANESE": "おいてめぇ…お前なんだよ！な？",
+      "INDONESIAN": "Hei, dasar kurang ajar — masalah kamu apaan sih, hah??",
+      "PORTUGUESE": "Ei, seu desgraçado... quem você pensa que é, hein?",
+      "SPANISH": "Oye, maldito... ¿quién te crees, eh?",
+      "PERSIAN": "هی، ای پانک - مشکلت چیه؟ ها؟؟"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 77.7,
+      "HIDE": 82.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 정정당당하게 돈 내고 노는 거야 이 새X야",
+      "ENGLISH": "I paid fair and square to be here, you piece of—",
+      "CHINESE_SIMPLIFIED": "老子也是堂堂正正花钱来玩的啊，混蛋",
+      "CHINESE_TRADITIONAL": "老子也是光明正大花錢來玩的啊，你這ＸＸ！",
+      "JAPANESE": "俺だって金払って堂々と遊んでつじゃねーかこの野郎",
+      "INDONESIAN": "Aku bayar, lho! Datang ke sini juga sah, dasar—",
+      "PORTUGUESE": "Eu também pago, tenho direito de me divertir, seu idiota.",
+      "SPANISH": "Yo también pago, tengo derecho a divertirme, imbécil.",
+      "PERSIAN": "من برای بودن در اینجا پول دادم، تو..."
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 82.6,
+      "HIDE": 83.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나가",
+      "ENGLISH": "Get out.",
+      "CHINESE_SIMPLIFIED": "出去",
+      "CHINESE_TRADITIONAL": "出去",
+      "JAPANESE": "出ていけ",
+      "INDONESIAN": "Keluar.",
+      "PORTUGUESE": "Fora!",
+      "SPANISH": "¡Fuera!",
+      "PERSIAN": "برو بیرون"
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 84.5,
+      "HIDE": 85.9
+    },
+    "SCRIPT": {
+      "KOREAN": "나가! 안 나가?",
+      "ENGLISH": "Get out! You’re not leaving?!",
+      "CHINESE_SIMPLIFIED": "滚！不滚是吧？",
+      "CHINESE_TRADITIONAL": "出去！出去！不出去嗎？",
+      "JAPANESE": "出ろって！出ないのか？",
+      "INDONESIAN": "Keluar! Nggak mau keluar?!",
+      "PORTUGUESE": "Fora! Não me ouviu?",
+      "SPANISH": "¡Fuera! ¿No me oíste?",
+      "PERSIAN": "برو بیرون! تو نمیری؟!"
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 86.0,
+      "HIDE": 89.1
+    },
+    "SCRIPT": {
+      "KOREAN": "꺼X라고 이씨... 이 새X가",
+      "ENGLISH": "Get the hell out, you— damn punk.",
+      "CHINESE_SIMPLIFIED": "滚开，你这傻X",
+      "CHINESE_TRADITIONAL": "滾出去啊...這個混蛋",
+      "JAPANESE": "消えろって…この野郎",
+      "INDONESIAN": "Cepat keluar, dasar bajingan.",
+      "PORTUGUESE": "Cai fora, porra… desgraçado!",
+      "SPANISH": "¡Lárgate, carajo… maldito!",
+      "PERSIAN": "برو بیرون، پانک لعنتی."
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 92.1,
+      "HIDE": 93.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 하는 새X야 이거",
+      "ENGLISH": "What the hell is wrong with this guy—",
+      "CHINESE_SIMPLIFIED": "搞什么东西啊",
+      "CHINESE_TRADITIONAL": "這人到底搞什麼東西啊...",
+      "JAPANESE": "こいつ一体なんだんだよ",
+      "INDONESIAN": "Orang ini kenapa sih—",
+      "PORTUGUESE": "Que diabos deu em você?",
+      "SPANISH": "¿Qué demonios te pasa?",
+      "PERSIAN": "این پسر چه بلایی سرش آورده..."
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "TIME": {
+      "SHOW": 139.0,
+      "HIDE": 140.0
+    }
+  }
+]

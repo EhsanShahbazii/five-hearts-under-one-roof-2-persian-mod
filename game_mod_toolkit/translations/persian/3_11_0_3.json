@@ -1,0 +1,386 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.1,
+      "HIDE": 1.89
+    },
+    "SCRIPT": {
+      "KOREAN": "자 민정 님, 제 말 잘 들어요.",
+      "ENGLISH": "Alright, Min-jung, listen to me carefully.",
+      "CHINESE_SIMPLIFIED": "来敏静，听好了",
+      "CHINESE_TRADITIONAL": "敏靜，聽好了",
+      "JAPANESE": "ミンジョンさん、俺の言うことをよく聞いてください",
+      "INDONESIAN": "Oke, Min-jung, dengerin aku baik-baik.",
+      "PORTUGUESE": "Certo, Minjung, me escuta com atenção.",
+      "SPANISH": "Bien, Minjung, escúchame con atención.",
+      "PERSIAN": "باشه، مین‌جونگ، با دقت به من گوش کن."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 2.4
+    },
+    "SCRIPT": {
+      "KOREAN": "(끄덕끄덕)",
+      "ENGLISH": "(nods)",
+      "CHINESE_SIMPLIFIED": "（点头）",
+      "CHINESE_TRADITIONAL": "（點頭）",
+      "JAPANESE": "（コクリ…）",
+      "INDONESIAN": "(mengangguk)",
+      "PORTUGUESE": "(Assente)",
+      "SPANISH": "(Asiente)",
+      "PERSIAN": "(سر تکان می دهد)"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 민정 님 옆에 있는 이상",
+      "ENGLISH": "As long as I’m standing next to you,",
+      "CHINESE_SIMPLIFIED": "只要我站在敏静身边",
+      "CHINESE_TRADITIONAL": "只要我站在你身邊",
+      "JAPANESE": "俺がミンジョンさんのそばにいる限り",
+      "INDONESIAN": "Selama aku berdiri di samping kamu,",
+      "PORTUGUESE": "Enquanto eu estiver do seu lado,",
+      "SPANISH": "Mientras esté a tu lado",
+      "PERSIAN": "تا زمانی که کنارت ایستاده ام"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 사람들은 제가 민정 님을 보호해 줄 거라고 생각할 거예요.",
+      "ENGLISH": "they’ll assume I’m here to protect you.",
+      "CHINESE_SIMPLIFIED": "那些人就会以为我要保护你",
+      "CHINESE_TRADITIONAL": "他們就會以為我要保護你",
+      "JAPANESE": "あの人たちは「俺があなたを守る」って思うはずです",
+      "INDONESIAN": "mereka bakal kira aku di sini buat ngelindungin kamu.",
+      "PORTUGUESE": "esse pessoal vai achar que eu vou te proteger.",
+      "SPANISH": "esa gente va a pensar que voy a protegerte.",
+      "PERSIAN": "اونا فرض می کنند که من اینجا هستم تا از شما محافظت کنم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.9,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 우리는 반대로 갑니다.",
+      "ENGLISH": "So—we do the opposite.",
+      "CHINESE_SIMPLIFIED": "所以我们要反其道而行",
+      "CHINESE_TRADITIONAL": "所以我們要反其道而行",
+      "JAPANESE": "だから――俺たちは逆に動きます",
+      "INDONESIAN": "Jadi—kita lakuin yang sebaliknya.",
+      "PORTUGUESE": "Então, a gente vai fazer o contrário.",
+      "SPANISH": "Así que haremos lo contrario.",
+      "PERSIAN": "بنابراین - ما برعکس عمل می کنیم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "응?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "역발상인 거죠. ",
+      "ENGLISH": "We flip their expectations.",
+      "CHINESE_SIMPLIFIED": "就是逆向思维",
+      "CHINESE_TRADITIONAL": "就是逆向思考啦",
+      "JAPANESE": "そう、逆転の発想です",
+      "INDONESIAN": "Kita putar balik ekspektasi mereka.",
+      "PORTUGUESE": "Um movimento inesperado.",
+      "SPANISH": "Un movimiento inesperado.",
+      "PERSIAN": "ما انتظارات اونا رو برعکس می کنیم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저들의 생각과 반대로 움직여서 틈이 생겼을 때 그때 제가 나서겠습니다.",
+      "ENGLISH": "We move the way they wouldn’t expect, and when there’s an opening—that’s when I make my move.",
+      "CHINESE_SIMPLIFIED": "和他们的预判反着来，等出现空档时我再出手",
+      "CHINESE_TRADITIONAL": "趁他們想法和我們相反，出現空檔時我就出手",
+      "JAPANESE": "連中の考えと真逆に動いて、隙ができた瞬間に俺が出ます",
+      "INDONESIAN": "Kita gerak dengan cara yang nggak mereka duga, dan pas ada celah—saat itulah aku bergerak.",
+      "PORTUGUESE": "Vamos nos mover na direção oposta ao que eles esperam, e quando surgir uma chance, eu ajo.",
+      "SPANISH": "Nos moveremos en dirección contraria a lo que ellos esperan, y cuando haya una oportunidad, yo actuaré.",
+      "PERSIAN": "ما به گونه ای حرکت می کنیم که اونا انتظار ندارند، و زمانی که فرصتی وجود دارد - اون موقع است که من حرکت خود را انجام می دهم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 14.7,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "What...?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "はい…？",
+      "INDONESIAN": "Apa...??",
+      "PORTUGUESE": "Ah?",
+      "SPANISH": "¿Ah?",
+      "PERSIAN": "چی...؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 공격!",
+      "ENGLISH": "Okay—charge!",
+      "CHINESE_SIMPLIFIED": "好，进攻！",
+      "CHINESE_TRADITIONAL": "好了，攻擊！",
+      "JAPANESE": "よし、攻撃開始っ！",
+      "INDONESIAN": "Oke—serbu!",
+      "PORTUGUESE": "Vamos, atacar!",
+      "SPANISH": "¡Vamos, al ataque!",
+      "PERSIAN": "خوب - شارژ کنید!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "에헤~ 당황했지?? 당황했지??",
+      "ENGLISH": "Heh~ You didn’t see that coming, did you? Totally caught you off guard, huh??",
+      "CHINESE_SIMPLIFIED": "诶嘿~慌了吧？？慌了吧？？",
+      "CHINESE_TRADITIONAL": "嘿嘿～嚇到了吧？嚇到了吧？",
+      "JAPANESE": "へへ〜！ びっくりしただろ！？ びっくりしただろ！？",
+      "INDONESIAN": "Heh~ Nggak nyangka, ya? Kejutan banget, kan??",
+      "PORTUGUESE": "Hein~! Se assustou, né? Se assustou, não foi?",
+      "SPANISH": "¡Eh~! ¿Te sorprendiste, verdad? ¿Verdad que sí?",
+      "PERSIAN": "هه~ تو ندیدی که میاد، نه؟ کلا غافلگیرت کردم، ها؟؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "야 던져봐 던져봐!!",
+      "ENGLISH": "Come on, throw something! I dare you!",
+      "CHINESE_SIMPLIFIED": "喂你扔啊！扔啊！！",
+      "CHINESE_TRADITIONAL": "喂，扔啊，快扔啊！",
+      "JAPANESE": "ほら、投げてみろよ投げてみろって！！",
+      "INDONESIAN": "Ayo, lempar kalau berani! Tantangin aku!",
+      "PORTUGUESE": "Vamos, joga, joga!",
+      "SPANISH": "¡Vamos, lánzalo, lánzalo!",
+      "PERSIAN": "بیا یه چیزی پرت کن من به شما جرات می کنم!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 민정 님 앞에 봐야죠 앞에!!",
+      "ENGLISH": "Ah, Min-jung! Look straight ahead, not down!",
+      "CHINESE_SIMPLIFIED": "啊，敏静你要看前面啊！前面！！",
+      "CHINESE_TRADITIONAL": "喂，敏靜你要看前面，看前面啊！",
+      "JAPANESE": "あっ、ミンジョンさん！ 前見て前！",
+      "INDONESIAN": "Ah, Min-jung! Lihat lurus ke depan, jangan ke bawah!",
+      "PORTUGUESE": "Ah, olha pra frente, Minjung, pra frente!",
+      "SPANISH": "¡Ah, mira al frente, Minjung, al frente!",
+      "PERSIAN": "آه، مین‌جونگ! مستقیم به جلو نگاه کنید، نه به پایین!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 23.8,
+      "HIDE": 25.1
+    },
+    "SCRIPT": {
+      "KOREAN": "야 던져봐 던져봐!!",
+      "ENGLISH": "Throw it! Come on, let’s go!",
+      "CHINESE_SIMPLIFIED": "喂你扔啊！扔啊！！",
+      "CHINESE_TRADITIONAL": "喂，扔啊，快扔啊！",
+      "JAPANESE": "ほら、投げてみろって！！",
+      "INDONESIAN": "Lempar! Ayo, sini kita lawan!",
+      "PORTUGUESE": "Vamos, joga, joga!",
+      "SPANISH": "¡Vamos, lánzalo, lánzalo!",
+      "PERSIAN": "پرتاب کن! بیا برویم"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우후후~",
+      "ENGLISH": "Woohoo~",
+      "CHINESE_SIMPLIFIED": "呜呼呼~",
+      "CHINESE_TRADITIONAL": "呼呼～",
+      "JAPANESE": "うひゃひゃ〜",
+      "INDONESIAN": "Wooo~",
+      "PORTUGUESE": "Ujuju~!",
+      "SPANISH": "¡Ujuju~!",
+      "PERSIAN": "وووو ~"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 26.7,
+      "HIDE": 28.4
+    },
+    "SCRIPT": {
+      "KOREAN": "-뭐야 진짜\n-뭐 하냐 진짜",
+      "ENGLISH": "— What is even happening?\n— What are they doing??",
+      "CHINESE_SIMPLIFIED": "-什么呀真是\n-搞什么啊",
+      "CHINESE_TRADITIONAL": "—這是怎麼回事啊\n—搞什麼啊",
+      "JAPANESE": "‐なにあいつ…\n‐マジで何やってんの…",
+      "INDONESIAN": "— Ini apaan sih yang terjadi?\n— Mereka lagi ngapain sih??",
+      "PORTUGUESE": "“—Que diabos?”",
+      "SPANISH": "“—¿Qué demonios?”\n“—¿Qué está haciendo?”",
+      "PERSIAN": "- اصلاً چه اتفاقی می افتد؟ - چیکار میکنن؟؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 29.2,
+      "HIDE": 30.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어어!? 먼저 등 돌렸다! ",
+      "ENGLISH": "Oh! They turned away first!",
+      "CHINESE_SIMPLIFIED": "哦哦！？先认输了！",
+      "CHINESE_TRADITIONAL": "喔喔！？他先轉過去了！",
+      "JAPANESE": "あっ！？ 先に背中向けた！",
+      "INDONESIAN": "Oh! Mereka yang pertama kali mundur!",
+      "PORTUGUESE": "“—O que ele tá fazendo?”",
+      "SPANISH": "¡Oh! ¡Se dieron la vuelta primero!",
+      "PERSIAN": "اوه! اونا اول دور شدند!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아핫 내가 이겼다!",
+      "ENGLISH": "Aha! I win!",
+      "CHINESE_SIMPLIFIED": "啊哈，我赢了！",
+      "CHINESE_TRADITIONAL": "啊哈，我贏了！",
+      "JAPANESE": "よっしゃ、俺の勝ち〜！",
+      "INDONESIAN": "Aha! Aku menang!",
+      "PORTUGUESE": "Oh! Eles viraram primeiro!",
+      "SPANISH": "¡Ajá! ¡Gané!",
+      "PERSIAN": "آها! من برنده ام!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 우리가 이겼어요!",
+      "ENGLISH": "Min-jung, we did it!",
+      "CHINESE_SIMPLIFIED": "敏静，我们赢了！",
+      "CHINESE_TRADITIONAL": "敏靜，我們贏了！",
+      "JAPANESE": "ミンジョンさん、俺たち勝ちましたよ！",
+      "INDONESIAN": "Min-jung, kita berhasil!",
+      "PORTUGUESE": "A-há! Ganhei!",
+      "SPANISH": "¡Minjung, ganamos!",
+      "PERSIAN": "مین‌جونگ، ما این کار را کردیم!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 35.8,
+      "HIDE": 36.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요?",
+      "ENGLISH": "How was that?",
+      "CHINESE_SIMPLIFIED": "怎么样？",
+      "CHINESE_TRADITIONAL": "怎麼樣？",
+      "JAPANESE": "どうです？",
+      "INDONESIAN": "Gimana?",
+      "PORTUGUESE": "Minjung, a gente ganhou!",
+      "SPANISH": "¿Qué tal?",
+      "PERSIAN": "چطور بود؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 36.4,
+      "HIDE": 37.3
+    },
+    "SCRIPT": {
+      "KOREAN": "저 잘했죠?",
+      "ENGLISH": "Pretty cool, right?",
+      "CHINESE_SIMPLIFIED": "我做得不错吧？",
+      "CHINESE_TRADITIONAL": "我做得不錯吧？",
+      "JAPANESE": "俺、けっこうやるでしょ？",
+      "INDONESIAN": "Keren banget, kan?",
+      "PORTUGUESE": "E aí?",
+      "SPANISH": "Lo hice bien, ¿no?",
+      "PERSIAN": "خیلی باحاله، درسته؟"
+    }
+  },
+  {
+    "SCRIPT": {
+      "PORTUGUESE": "Fiz bem, né?",
+      "PERSIAN": ""
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 6.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 괜찮아요??",
+      "ENGLISH": "Oppa, are you okay??",
+      "CHINESE_SIMPLIFIED": "哥哥你没事吧？？",
+      "CHINESE_TRADITIONAL": "哥哥，你沒事吧？",
+      "JAPANESE": "お兄さん、大丈夫ですか!?",
+      "INDONESIAN": "Oppa, kamu nggak apa-apa??",
+      "PORTUGUESE": "Você tá bem, oppa??",
+      "SPANISH": "¿Estás bien, oppa??",
+      "PERSIAN": "یومان حالت خوبه؟؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 괜찮아요? 빨리 밖으로 나가요!",
+      "ENGLISH": "Are you okay, Min-jung? Hurry, get outside!",
+      "CHINESE_SIMPLIFIED": "敏静，你还好吗？快出去！",
+      "CHINESE_TRADITIONAL": "敏靜，你沒事吧？快出去外面！",
+      "JAPANESE": "ミンジョンさんこそ大丈夫ですか？ 早く外に――！",
+      "INDONESIAN": "Kamu nggak apa-apa, Min-jung? Cepat, keluar dari sini!",
+      "PORTUGUESE": "Você tá bem, Minjung? Rápido, vamos sair daqui!",
+      "SPANISH": "¿Está bien, Minjung? ¡Rápido, salgamos!",
+      "PERSIAN": "حالت خوبه مین‌جونگ؟ عجله کن برو بیرون"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 11.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 안 돼요! 일단 다시 들어가요!",
+      "ENGLISH": "No—wait! We need to get back inside first!",
+      "CHINESE_SIMPLIFIED": "啊，不行！我们先回去里面！",
+      "CHINESE_TRADITIONAL": "啊，不行！先回去裡面！",
+      "JAPANESE": "あ、ダメです！ 一回戻りましょう！",
+      "INDONESIAN": "Nggak tunggu! Kita harus masuk lagi dulu!",
+      "PORTUGUESE": "Ah, não! Temos que voltar pra dentro primeiro!",
+      "SPANISH": "¡Ah, no! ¡Tenemos que volver adentro primero!",
+      "PERSIAN": "نه - صبر کن! اول باید برگردیم داخل!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠어요",
+      "ENGLISH": "Alright, okay, got it.",
+      "CHINESE_SIMPLIFIED": "知道了，先照你说的做",
+      "CHINESE_TRADITIONAL": "好…知道了",
+      "JAPANESE": "……わかりました",
+      "INDONESIAN": "Oke, oke, siap.",
+      "PORTUGUESE": "Tudo bem, entendi.",
+      "SPANISH": "Está bien, entendido.",
+      "PERSIAN": "باشه، باشه فهمیدم"
+    }
+  }
+]

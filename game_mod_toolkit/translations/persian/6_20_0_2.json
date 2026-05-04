@@ -1,0 +1,362 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "규리 씨 자요?",
+      "ENGLISH": "Gyuri, are you still awake?",
+      "CHINESE_SIMPLIFIED": "久梨，你睡了吗？",
+      "CHINESE_TRADITIONAL": "久梨，你睡了嗎？",
+      "JAPANESE": "ギュリさん、寝ました？",
+      "INDONESIAN": "Gyuri, kamu masih bangun?",
+      "PORTUGUESE": "Gyuri, tá dormindo?",
+      "SPANISH": "¿Gyuri, está dormida?",
+      "PERSIAN": "گیوری هنوز بیداری؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니요.",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "没呢",
+      "CHINESE_TRADITIONAL": "還沒",
+      "JAPANESE": "いえ まだです",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Não.",
+      "SPANISH": "No.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "음... 오늘 어땠어요? 재밌었어요?",
+      "ENGLISH": "How was today? Did you have fun?",
+      "CHINESE_SIMPLIFIED": "嗯...今天感觉怎么样？开心吗？",
+      "CHINESE_TRADITIONAL": "嗯...今天感覺怎麽樣？開心嗎？",
+      "JAPANESE": "うーん…今日はどうでした？楽しかったですか？",
+      "INDONESIAN": "Gimana hari ini? Seru nggak?",
+      "PORTUGUESE": "Mmm… como foi seu dia? Se divertiu?",
+      "SPANISH": "Mmm… ¿cómo estuvo su día? ¿Fue divertido?",
+      "PERSIAN": "امروز چطور بود؟ خوش گذشت؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 완전 재밌었어요.",
+      "ENGLISH": "I had a blast—seriously.",
+      "CHINESE_SIMPLIFIED": "嗯！超级有意思的",
+      "CHINESE_TRADITIONAL": "嗯！很好玩啊",
+      "JAPANESE": "はい！すっごく楽しかったです",
+      "INDONESIAN": "Seru banget—beneran deh.",
+      "PORTUGUESE": "Sim! Me diverti demais.",
+      "SPANISH": "¡Sí! La pasé súper bien.",
+      "PERSIAN": "من یک انفجار داشتم - جدی."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 19.5
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 저 궁금한 게 있는데요",
+      "ENGLISH": "But… there’s something I’ve been wondering.",
+      "CHINESE_SIMPLIFIED": "不过有件事我挺好奇的",
+      "CHINESE_TRADITIONAL": "不過有件事我滿好奇的",
+      "JAPANESE": "でも ちょっと気になることがあって",
+      "INDONESIAN": "Tapi… ada sesuatu yang dari tadi aku kepikiran.",
+      "PORTUGUESE": "Mas quero saber uma coisa.",
+      "SPANISH": "Pero quiero saber algo.",
+      "PERSIAN": "اما… چیزی هست که من تعجب کرده ام."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어떤 거요?",
+      "ENGLISH": "What is it?",
+      "CHINESE_SIMPLIFIED": "什么事？",
+      "CHINESE_TRADITIONAL": "什麽事？",
+      "JAPANESE": "なんですか？",
+      "INDONESIAN": "Apa tuh?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué cosa?",
+      "PERSIAN": "چیه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "고등학교 때 중간에 왜 선도부 그만뒀어요?",
+      "ENGLISH": "Why did you quit the discipline committee back in high school?",
+      "CHINESE_SIMPLIFIED": "你高中时为什么中途退出纪律委员会了？",
+      "CHINESE_TRADITIONAL": "你高中時為什麽中途退出糾察隊啊？",
+      "JAPANESE": "高校のとき なんで途中で風紀委員やめたんですか？",
+      "INDONESIAN": "Kenapa dulu kamu keluar dari komite disiplin pas SMA?",
+      "PORTUGUESE": "Por que você saiu do comitê no meio do semestre no ensino médio?",
+      "SPANISH": "¿Por qué dejó el comité a mitad del semestre en la preparatoria?",
+      "PERSIAN": "چرا در دبیرستان کمیته انضباطی را ترک کردید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 27.8,
+      "HIDE": 30.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나 유만 씨 때문에 선도부 들어갔었는데.",
+      "ENGLISH": "I actually joined because of you, Yuman.",
+      "CHINESE_SIMPLIFIED": "我可是因为你才加入那里的呢",
+      "CHINESE_TRADITIONAL": "我是因為你才加入的耶",
+      "JAPANESE": "私、ユマンさんの影響で風紀委員に入ったんですよ",
+      "INDONESIAN": "Sebenernya aku masuk komite itu gara-gara kamu, Yuman.",
+      "PORTUGUESE": "Eu entrei nesse comitê por sua causa, sabia?",
+      "SPANISH": "Yo entré a ese comité por usted, ¿sabe?",
+      "PERSIAN": "من در واقع به خاطر تو پیوستم، یومان."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 30.9,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜요??",
+      "ENGLISH": "Wait—seriously??",
+      "CHINESE_SIMPLIFIED": "啊真的吗？？",
+      "CHINESE_TRADITIONAL": "啊真的嗎？？",
+      "JAPANESE": "えっ本当ですか！？",
+      "INDONESIAN": "Hah—seriusan??",
+      "PORTUGUESE": "Sério??",
+      "SPANISH": "¿En serio??",
+      "PERSIAN": "صبر کن - جدی؟؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 41.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그때 같이 있었더라면 지금은 좀 달랐지 않을까요?",
+      "ENGLISH": "If we’d spent more time together back then… don’t you think things might’ve turned out a little differently?",
+      "CHINESE_SIMPLIFIED": "要是当时我们能在一起的话，现在会不会有些不同呢？",
+      "CHINESE_TRADITIONAL": "要是當時我們能在一起的話，現在會不會有些不同呢？",
+      "JAPANESE": "あのとき一緒にいたら 今は少し違ってたんですかね？",
+      "INDONESIAN": "Kalau dulu kita lebih banyak ngabisin waktu bareng… menurut kamu semuanya bakal beda nggak?",
+      "PORTUGUESE": "Se a gente tivesse estado juntos naquela época, será que algo teria mudado?",
+      "SPANISH": "Si hubiéramos estado juntos en ese entonces, ¿algo habría cambiado?",
+      "PERSIAN": "اگر در اون زمان زمان بیشتری را با هم سپری می‌کردیم... فکر نمی‌کنین اوضاع کمی متفاوت پیش می‌رفت؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 41.5,
+      "HIDE": 44.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 알 순 없지만 그래도 이렇게 다시 만난 것도",
+      "ENGLISH": "Maybe. Who knows? But the fact that we’ve met again like this now…",
+      "CHINESE_SIMPLIFIED": "虽然谁也不知道答案",
+      "CHINESE_TRADITIONAL": "雖然誰也不知道答案",
+      "JAPANESE": "それは分からないけど でもこうしてまた会えたの",
+      "INDONESIAN": "Mungkin aja. Siapa yang tahu? Tapi kenyataannya sekarang kita ketemu lagi kayak gini…",
+      "PORTUGUESE": "Isso a gente nunca vai saber. Mas mesmo assim, não é incrível",
+      "SPANISH": "Eso no lo podemos saber. Pero aún así, ¿no es increíble",
+      "PERSIAN": "شاید. چه کسی می داند؟ اما این واقعیت که ما اکنون دوباره به این شکل ملاقات کرده ایم…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 45.0,
+      "HIDE": 46.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 신기하지 않아요?",
+      "ENGLISH": "It’s kind of amazing, isn’t it?",
+      "CHINESE_SIMPLIFIED": "但像这样重逢不也很神奇吗？",
+      "CHINESE_TRADITIONAL": "但像這樣重逢不是也很神奇嗎？",
+      "JAPANESE": "不思議じゃないですか？",
+      "INDONESIAN": "Itu keren banget, ya?",
+      "PORTUGUESE": "termos nos reencontrado desse jeito?",
+      "SPANISH": "habernos reencontrado de esta forma?",
+      "PERSIAN": "این یک نوع شگفت انگیز است، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 46.8,
+      "HIDE": 47.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네 맞아요.",
+      "ENGLISH": "Yeah, it really is.",
+      "CHINESE_SIMPLIFIED": "嗯，没错",
+      "CHINESE_TRADITIONAL": "嗯，沒錯",
+      "JAPANESE": "はい そうですね",
+      "INDONESIAN": "Iya, beneran keren sih.",
+      "PORTUGUESE": "É verdade.",
+      "SPANISH": "Es verdad.",
+      "PERSIAN": "آره واقعا همینطوره"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 49.1,
+      "HIDE": 52.3
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 우리 나름 고등학교 선후배 사이인데 계속",
+      "ENGLISH": "But hey, we are technically high school senior and junior…",
+      "CHINESE_SIMPLIFIED": "不过我们好歹是高中校友",
+      "CHINESE_TRADITIONAL": "我們好歹是高中校友",
+      "JAPANESE": "でも 俺たち一応高校の先輩後輩なのにずっと",
+      "INDONESIAN": "Tapi ya, secara teknis kita tuh senior dan junior di SMA...",
+      "PORTUGUESE": "Mas… sendo ex-alunos da mesma escola,",
+      "SPANISH": "Pero… siendo exalumnos de la misma escuela",
+      "PERSIAN": "اما هی، ما از نظر فنی دبیرستان ارشد و راهنمایی هستیم…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 52.3,
+      "HIDE": 53.9
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 라고 할 거예요?",
+      "ENGLISH": "Are you really gonna keep calling me “Yuman”?",
+      "CHINESE_SIMPLIFIED": "你还打算一直用“先生”称呼我吗？",
+      "CHINESE_TRADITIONAL": "你還打算一直稱呼宥萬先生嗎？",
+      "JAPANESE": "ユマンさんって呼ぶつもりですか？",
+      "INDONESIAN": "Kamu beneran mau terus manggil aku “Yuman”?",
+      "PORTUGUESE": "você vai continuar me tratando com tanta formalidade?",
+      "SPANISH": "¿Va a seguir tratandome de usted?",
+      "PERSIAN": "واقعاً می خواهید مرا \"یومان\" صدا بزنید؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 54.5,
+      "HIDE": 60.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 호칭은 나중에 제가 부르고 싶은 대로 부를게요",
+      "ENGLISH": "Ah… I’ll call you what I want to call you—eventually.",
+      "CHINESE_SIMPLIFIED": "啊...称呼嘛，以后我会按自己想叫的方式叫你",
+      "CHINESE_TRADITIONAL": "啊...稱呼嘛，以後我會按自己想叫的方式叫你",
+      "JAPANESE": "あ…呼び方は そのうち私が呼びたいように呼びます",
+      "INDONESIAN": "Ah… nanti aku bakal manggil kamu dengan sebutan khusus.",
+      "PORTUGUESE": "Ah… por enquanto sim… depois vou te chamar de outro jeito.",
+      "SPANISH": "Ah... por ahora sí... luego lo llamaré por otro nombre.",
+      "PERSIAN": "آه... من تو را همانگونه صدا می کنم که می خواهم تو را بخوانم – در نهایت."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 61.2,
+      "HIDE": 62.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐라고 부르고 싶은데요?",
+      "ENGLISH": "And what do you want to call me?",
+      "CHINESE_SIMPLIFIED": "想叫我什么呀？",
+      "CHINESE_TRADITIONAL": "想叫我什麽呀？",
+      "JAPANESE": "なんて呼びたいんですか？",
+      "INDONESIAN": "Dan kamu mau manggil aku apa?",
+      "PORTUGUESE": "E qual é esse jeito?",
+      "SPANISH": "¿Y cuál es ese nombre?",
+      "PERSIAN": "و چه می خواهی مرا صدا کنی؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 63.5,
+      "HIDE": 65.1
+    },
+    "SCRIPT": {
+      "KOREAN": "음~",
+      "ENGLISH": "Mmm~",
+      "CHINESE_SIMPLIFIED": "嗯~",
+      "CHINESE_TRADITIONAL": "嗯~",
+      "JAPANESE": "う〜ん",
+      "INDONESIAN": "Mmm~",
+      "PORTUGUESE": "Mmm~",
+      "SPANISH": "Mmm~",
+      "PERSIAN": "ممم~"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 65.8,
+      "HIDE": 67.2
+    },
+    "SCRIPT": {
+      "KOREAN": " 아직은 비밀?",
+      "ENGLISH": "That’s still a secret for now.",
+      "CHINESE_SIMPLIFIED": "暂时保密？",
+      "CHINESE_TRADITIONAL": "暫時保密？",
+      "JAPANESE": "それは まだ秘密",
+      "INDONESIAN": "Masih rahasia untuk sekarang.",
+      "PORTUGUESE": "É segredo?",
+      "SPANISH": "¿Es un secreto?",
+      "PERSIAN": "این هنوز یک راز است."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 68.0,
+      "HIDE": 70.0
+    },
+    "SCRIPT": {
+      "KOREAN": "잘자요, 유만 씨.",
+      "ENGLISH": "Good night, Yuman.",
+      "CHINESE_SIMPLIFIED": "晚安啦，宥万先生",
+      "CHINESE_TRADITIONAL": "晚安啦，宥萬先生",
+      "JAPANESE": "おやすみなさい ユマンさん",
+      "INDONESIAN": "Selamat tidur, Yuman.",
+      "PORTUGUESE": "Dorme bem, Yumán.",
+      "SPANISH": "Déscanse, Yumán.",
+      "PERSIAN": "شب بخیر یومان"
+    }
+  }
+]

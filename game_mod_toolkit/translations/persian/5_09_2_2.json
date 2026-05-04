@@ -1,0 +1,289 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아마 왼쪽일 거예요.",
+      "ENGLISH": "It’s probably this way—on the left.",
+      "CHINESE_SIMPLIFIED": "应该是左边吧",
+      "CHINESE_TRADITIONAL": "應該是左邊吧",
+      "JAPANESE": "たぶん左の方ですね",
+      "INDONESIAN": "Kayaknya lewat sini deh—ke kiri.",
+      "PERSIAN": "احتمالاً به این صورت است - در سمت چپ."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 가요.",
+      "ENGLISH": "Yeah, let’s go.",
+      "CHINESE_SIMPLIFIED": "嗯，走吧",
+      "CHINESE_TRADITIONAL": "嗯，走吧",
+      "JAPANESE": "はい、行きましょう",
+      "INDONESIAN": "Iya, ayo.",
+      "PERSIAN": "آره بریم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨는 혹시 귀신... 믿어요?",
+      "ENGLISH": "Yu-jeong, do you… believe in ghosts, by any chance?",
+      "CHINESE_SIMPLIFIED": "你...相信鬼魂吗？",
+      "CHINESE_TRADITIONAL": "有情小姐，你相信...有鬼嗎？",
+      "JAPANESE": "ユジョンさんって、幽霊…信じます？",
+      "INDONESIAN": "Yu-jeong, kamu… percaya hantu nggak sih?",
+      "PERSIAN": "یو-جئونگ، به احتمال زیاد به ارواح اعتقاد داری؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "I do.",
+      "CHINESE_SIMPLIFIED": "相信",
+      "CHINESE_TRADITIONAL": "相信啊",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Percaya.",
+      "PERSIAN": "من انجام می دهم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어... 진짜요...?",
+      "ENGLISH": "Wait… seriously?",
+      "CHINESE_SIMPLIFIED": "呃...真的吗...？",
+      "CHINESE_TRADITIONAL": "哦...真的嗎...？",
+      "JAPANESE": "え…本当に…？",
+      "INDONESIAN": "Hah… serius?",
+      "PERSIAN": "صبر کن... جدی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 13.1
+    },
+    "SCRIPT": {
+      "KOREAN": "저 사실... 귀신 보거든요.",
+      "ENGLISH": "Actually… I can see them.",
+      "CHINESE_SIMPLIFIED": "我其实...能看见鬼魂",
+      "CHINESE_TRADITIONAL": "我其實..看得到...",
+      "JAPANESE": "私、実は幽霊が見えるんです",
+      "INDONESIAN": "Sebenernya… aku bisa liat mereka.",
+      "PERSIAN": "در واقع... من می توانم اونا رو ببینم."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네??",
+      "ENGLISH": "W-what??",
+      "CHINESE_SIMPLIFIED": "啊？？",
+      "CHINESE_TRADITIONAL": "欸？？",
+      "JAPANESE": "えっ！？",
+      "INDONESIAN": "A-apa??",
+      "PERSIAN": "و-چی؟؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "귀신을 본다고요?",
+      "ENGLISH": "You see ghosts?",
+      "CHINESE_SIMPLIFIED": "你能看到鬼？",
+      "CHINESE_TRADITIONAL": "你說你看得到鬼？",
+      "JAPANESE": "幽霊が見えるって？",
+      "INDONESIAN": "Kamu bisa liat hantu?",
+      "PERSIAN": "ارواح می بینید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "是啊",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 17.6,
+      "HIDE": 19.9
+    },
+    "SCRIPT": {
+      "KOREAN": "ㅇ..에이... 귀, 귀신이 어딨어요~",
+      "ENGLISH": "C-come on… ghosts aren’t real~",
+      "CHINESE_SIMPLIFIED": "呃...哎呦...哪、哪来的鬼嘛~",
+      "CHINESE_TRADITIONAL": "欸...哎啊...哪有什麼鬼啊～",
+      "JAPANESE": "い、いやいや…幽霊なんているわけ…",
+      "INDONESIAN": "A-ayolah… hantu tuh nggak nyata~",
+      "PERSIAN": "بیا… ارواح واقعی نیستند~"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "있잖아요.... 여기.",
+      "ENGLISH": "They are.",
+      "CHINESE_SIMPLIFIED": "你看啊....就在这里",
+      "CHINESE_TRADITIONAL": "有啊...在這裡",
+      "JAPANESE": "いますよ…ここに",
+      "INDONESIAN": "Nyata kok.",
+      "PERSIAN": "اونا هستند."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 25.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아이...무슨 소리예요?",
+      "ENGLISH": "What are you talking about?",
+      "CHINESE_SIMPLIFIED": "哎呀...说什么呢？",
+      "CHINESE_TRADITIONAL": "哎...不要亂說？",
+      "JAPANESE": "え…なんの話ですか？",
+      "INDONESIAN": "Maksud kamu apa sih?",
+      "PERSIAN": "در مورد چی حرف میزنی؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님 옆에...",
+      "ENGLISH": "Right there… next to you.",
+      "CHINESE_SIMPLIFIED": "在宥万先生旁边...",
+      "CHINESE_TRADITIONAL": "就在宥萬先生的旁邊...",
+      "JAPANESE": "ユマンさんの隣に…",
+      "INDONESIAN": "Itu lho… di sebelah kamu.",
+      "PERSIAN": "همانجا… کنار شما."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 29.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네...?",
+      "ENGLISH": "Huh…?",
+      "CHINESE_SIMPLIFIED": "啊...？",
+      "CHINESE_TRADITIONAL": "蛤...？",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "Hah…?",
+      "PERSIAN": "ها…؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 31.6
+    },
+    "SCRIPT": {
+      "KOREAN": "왁!",
+      "ENGLISH": "Boo.",
+      "CHINESE_SIMPLIFIED": "哇啊！",
+      "CHINESE_TRADITIONAL": "哇！",
+      "JAPANESE": "うわっ…",
+      "INDONESIAN": "Dor.",
+      "PERSIAN": "بو"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 31.7,
+      "HIDE": 32.9
+    },
+    "SCRIPT": {
+      "KOREAN": "으어어어아아아아!!!",
+      "ENGLISH": "WAAAAAAHHHH!!!",
+      "CHINESE_SIMPLIFIED": "呜呜呜呜啊啊啊啊啊！！！",
+      "CHINESE_TRADITIONAL": "呃呃呃啊啊啊啊！！！",
+      "JAPANESE": "うわあああああ！！",
+      "INDONESIAN": "WAAAAAAHHHH!!!",
+      "PERSIAN": "وااااااااااااااااااااااااااااااا!!!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 34.7
+    },
+    "SCRIPT": {
+      "KOREAN": "- 으어어어아아아아!!!\n- 유만 니임~ 같이 가요~ ",
+      "ENGLISH": "Yuman~ wait for meee!",
+      "CHINESE_SIMPLIFIED": "-呜呜呜呜啊啊啊啊啊！！！\n-宥万先生~一起走吧~",
+      "CHINESE_TRADITIONAL": "宥萬先生～一起走啊～",
+      "JAPANESE": "ユマンさ〜ん！一緒に行きましょ〜",
+      "INDONESIAN": "Yuman~ tunggu akuuuu!",
+      "PERSIAN": "یومان~ منتظر مننن!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 34.8,
+      "HIDE": 36.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아잇...장난이였어요!!",
+      "ENGLISH": "Ahhh—okay okay!! It was a joke!!",
+      "CHINESE_SIMPLIFIED": "哎...是开玩笑的啦！！",
+      "CHINESE_TRADITIONAL": "哎...只是開玩笑啦！！",
+      "JAPANESE": "あっ…冗談ですって！！",
+      "INDONESIAN": "Ahhh—oke oke!! Bercanda doang kok!!",
+      "PERSIAN": "آهان - باشه باشه!! شوخی بود!!"
+    }
+  }
+]

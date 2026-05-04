@@ -1,0 +1,344 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.4,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요~",
+      "ENGLISH": "Hello~",
+      "CHINESE_SIMPLIFIED": "您好～",
+      "CHINESE_TRADITIONAL": "您好～",
+      "JAPANESE": "こんにちは〜",
+      "INDONESIAN": "Halo~",
+      "PORTUGUESE": "Olá~",
+      "SPANISH": "Hola~",
+      "PERSIAN": "سلام~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네 안녕하세요~",
+      "ENGLISH": "Yes, hello~",
+      "CHINESE_SIMPLIFIED": "您好～",
+      "CHINESE_TRADITIONAL": "您好～",
+      "JAPANESE": "はい、こんにちは〜",
+      "INDONESIAN": "Iya, halo juga~",
+      "PORTUGUESE": "Ah, olá~",
+      "SPANISH": "Ah, hola~",
+      "PERSIAN": "بله سلام~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.6,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": " 파티장에서는 못 보던 얼굴인데. 누구시죠?",
+      "ENGLISH": "I don’t think I’ve seen you at the party before. Who are you?",
+      "CHINESE_SIMPLIFIED": "派对上好像没见过您？请问是...？",
+      "CHINESE_TRADITIONAL": "沒有在派對上看過您，請問您是哪位呢？",
+      "JAPANESE": "パーティー会場ではお見かけしなかったですね どちら様ですか？",
+      "INDONESIAN": "Kayaknya aku belum pernah lihat kamu di pesta sebelumnya. Kamu siapa?",
+      "PORTUGUESE": "Não lembro de tê-lo visto antes na festa. Quem é o senhor?",
+      "SPANISH": "No recuerdo haberlo visto antes en la fiesta. ¿Quién es usted?",
+      "PERSIAN": "فکر نمی کنم قبلاً تو را در مهمانی ندیده باشم. تو کی هستی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 해외에서 얼마 전에 들어왔거든요.",
+      "ENGLISH": "Ah~ I just came back from overseas recently.",
+      "CHINESE_SIMPLIFIED": "啊～我最近才从国外回来",
+      "CHINESE_TRADITIONAL": "啊～我最近才剛從國外回來",
+      "JAPANESE": "あ〜、海外から最近帰ってきたばかりでして",
+      "INDONESIAN": "Ah~ aku baru balik dari luar negeri beberapa waktu lalu.",
+      "PORTUGUESE": "Ah~ voltei do exterior há pouco.",
+      "SPANISH": "Ah~ volví del extranjero hace poco.",
+      "PERSIAN": "آه~ من اخیراً از خارج از کشور برگشتم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "하숙...아니아니...작게 호텔 사업하고 있습니다.",
+      "ENGLISH": "Boarding house… no, no… I run a small hotel business.",
+      "CHINESE_SIMPLIFIED": "做合租...啊不，是开了家小型酒店",
+      "CHINESE_TRADITIONAL": "我是做合租...啊不是，我經營一家小型飯店",
+      "JAPANESE": "下宿…いやいや…小さくホテル経営をしてます",
+      "INDONESIAN": "Guesthouse… eh, maksudnya… aku punya bisnis hotel kecil.",
+      "PORTUGUESE": "Tenho uma pequena empresa... bom, na verdade, um hotel.",
+      "SPANISH": "Tengo una pequeña empresa... bueno, más bien un hotel.",
+      "PERSIAN": "پانسیون... نه، نه... من یک هتل کوچک را اداره می کنم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 호텔이요?? 반갑습니다.",
+      "ENGLISH": "Ah~ a hotel? Nice to meet you.",
+      "CHINESE_SIMPLIFIED": "啊～酒店啊？幸会",
+      "CHINESE_TRADITIONAL": "喔～飯店嗎？？幸會",
+      "JAPANESE": "あ〜ホテルを！それはご立派ですね",
+      "INDONESIAN": "Ah~ hotel ya? Senang kenalan denganmu.",
+      "PORTUGUESE": "Um hotel? Prazer em conhecê-lo.",
+      "SPANISH": "¿Un hotel? Encantado de conocerlo.",
+      "PERSIAN": "آه ~ یک هتل؟ از آشنایی با شما خوشحالم"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 23.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 이쪽은...?",
+      "ENGLISH": "And this person here…?",
+      "CHINESE_SIMPLIFIED": "不过这位是...？",
+      "CHINESE_TRADITIONAL": "那這位是...?",
+      "JAPANESE": "で、こちらの方は…？",
+      "INDONESIAN": "Dan yang ini…?",
+      "PORTUGUESE": "E essa senhorita é...?",
+      "SPANISH": "Y esta señorita es...?",
+      "PERSIAN": "و این شخص اینجا…؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 25.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제 여자 친구입니다.",
+      "ENGLISH": "This is my girlfriend.",
+      "CHINESE_SIMPLIFIED": "我女朋友",
+      "CHINESE_TRADITIONAL": "是我女朋友",
+      "JAPANESE": "僕の彼女です",
+      "INDONESIAN": "Ini pacarku.",
+      "PORTUGUESE": "Minha namorada.",
+      "SPANISH": "Mi novia.",
+      "PERSIAN": "این دوست دختر من است."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 28.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 여자 친구시구나~ ",
+      "ENGLISH": "Ah~ your girlfriend~",
+      "CHINESE_SIMPLIFIED": "哦～原来是女朋友啊～",
+      "CHINESE_TRADITIONAL": "啊～ 原來是女朋友啊～",
+      "JAPANESE": "あ〜彼女さんなんですね！",
+      "INDONESIAN": "Ah~ pacarmu~",
+      "PORTUGUESE": "Ah~ entendi, sua namorada~",
+      "SPANISH": "Ah~ ya veo, su novia~",
+      "PERSIAN": "آه ~ دوست دخترت ~"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 29.4
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요.",
+      "ENGLISH": "Hello.",
+      "CHINESE_SIMPLIFIED": "您好",
+      "CHINESE_TRADITIONAL": "您好",
+      "JAPANESE": "はじめまして",
+      "INDONESIAN": "Halo.",
+      "PORTUGUESE": "Muito prazer.",
+      "SPANISH": "Mucho gusto.",
+      "PERSIAN": "سلام."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.3,
+      "HIDE": 33.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저 호텔 이름이 어떻게 돼요?",
+      "ENGLISH": "What’s the name of your hotel?",
+      "CHINESE_SIMPLIFIED": "请问您酒店名字叫什么？",
+      "CHINESE_TRADITIONAL": "方便請教飯店的名字是？",
+      "JAPANESE": "ホテルのお名前はなんと？",
+      "INDONESIAN": "Nama hotelmu apa?",
+      "PORTUGUESE": "Qual é o nome do seu hotel?",
+      "SPANISH": "¿Cómo se llama su hotel?",
+      "PERSIAN": "نام هتل شما چیه؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 36.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이름이요? 어 YM이라고...",
+      "ENGLISH": "The name? Uh… YM.",
+      "CHINESE_SIMPLIFIED": "名字吗？叫YM...",
+      "CHINESE_TRADITIONAL": "名字嗎？呃，叫 YM...",
+      "JAPANESE": "名前ですか？えっと、YMといいます…",
+      "INDONESIAN": "Namanya? Uh… YM.",
+      "PORTUGUESE": "O nome? Ah, se chama YM...",
+      "SPANISH": "¿El nombre? Ah, se llama YM...",
+      "PERSIAN": "نام؟ اوه… یومان."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 37.2,
+      "HIDE": 38.9
+    },
+    "SCRIPT": {
+      "KOREAN": "YM이요?",
+      "ENGLISH": "YM?",
+      "CHINESE_SIMPLIFIED": "YM？",
+      "CHINESE_TRADITIONAL": "YM？",
+      "JAPANESE": "YM？",
+      "INDONESIAN": "YM?",
+      "PORTUGUESE": "YM?",
+      "SPANISH": "¿YM?",
+      "PERSIAN": "یومان"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 39.4,
+      "HIDE": 42.3
+    },
+    "SCRIPT": {
+      "KOREAN": "여긴 정세에 다 밝으신 분들만 모이는 줄 알았는데",
+      "ENGLISH": "I thought only people well‑versed",
+      "CHINESE_SIMPLIFIED": "我还以为这场合来的都是消息很灵通的人",
+      "CHINESE_TRADITIONAL": "我以為這裡聚集的都是消息靈通的人呢",
+      "JAPANESE": "この会場には政治にも詳しい方ばかりだと聞いてたんですけど",
+      "INDONESIAN": "Kupikir yang datang ke sini itu",
+      "PORTUGUESE": "Achei que aqui só se reunissem pessoas que sabem como o mundo dos negócios funciona,",
+      "SPANISH": "Pensé que aquí solo se reunían personas que saben como funcionan los negocios,",
+      "PERSIAN": "فکر می‌کردم فقط افراد مسلط هستند"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 43.7
+    },
+    "SCRIPT": {
+      "KOREAN": " 그건 또 아닌가 보죠?",
+      "ENGLISH": "in current affairs gathered here, but I guess not?",
+      "CHINESE_SIMPLIFIED": "看样子也不全是嘛？",
+      "CHINESE_TRADITIONAL": "看來並非如此？",
+      "JAPANESE": "そうでもないみたいですね？",
+      "INDONESIAN": " orang-orang yang paham situasi dan isu terkini, ternyata nggak semua ya?",
+      "PORTUGUESE": "mas parece que não é bem assim.",
+      "SPANISH": "pero parece que no es así.",
+      "PERSIAN": "در امور جاری اینجا جمع شده اند، اما من حدس می زنم نه؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 44.1,
+      "HIDE": 46.2
+    },
+    "SCRIPT": {
+      "KOREAN": "미안합니다, 제가 놓쳤나 보네요.",
+      "ENGLISH": "Sorry, I must’ve missed that.",
+      "CHINESE_SIMPLIFIED": "不好意思，可能是我疏忽了",
+      "CHINESE_TRADITIONAL": "很抱歉，可能是我疏忽了",
+      "JAPANESE": "失礼しました 見落としてたみたいです",
+      "INDONESIAN": "Maaf, mungkin aku kelewat info.",
+      "PORTUGUESE": "Desculpe, acho que deixei passar esse detalhe.",
+      "SPANISH": "Disculpe, creo que se me escapó ese detalle.",
+      "PERSIAN": "متاسفم، من باید اونو از دست داده باشم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 47.2,
+      "HIDE": 49.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 근데 신발 끈 풀리셨는데요?",
+      "ENGLISH": "Yeah… but your shoelace is untied.",
+      "CHINESE_SIMPLIFIED": "嗯...不过你鞋带松了呢？",
+      "CHINESE_TRADITIONAL": "嗯...不過您鞋帶鬆了喔？",
+      "JAPANESE": "ええ…でも、靴紐ほどけてますよ？",
+      "INDONESIAN": "Iya… tapi tali sepatumu lepas, tuh.",
+      "PORTUGUESE": "Aliás, seu cadarço está desamarrado.",
+      "SPANISH": "Por cierto, se le desató el cordón del zapato.",
+      "PERSIAN": "بله... اما بند کفش شما باز شده است."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 49.4,
+      "HIDE": 49.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 51.1,
+      "HIDE": 54.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 아, 하하하 이런...",
+      "ENGLISH": "Ah, hahaha, oops…",
+      "CHINESE_SIMPLIFIED": "啊，哈哈哈...这就...",
+      "CHINESE_TRADITIONAL": "啊，哈哈哈，真是的...",
+      "JAPANESE": "あ、ははは、おっと…",
+      "INDONESIAN": "Ah, hahaha, iya… oops…",
+      "PORTUGUESE": "Ah, hahaha, que descuido o meu...",
+      "SPANISH": "Ah, jajaja, qué descuidado de mi parte...",
+      "PERSIAN": "آه، هاها، اوه…"
+    }
+  }
+]

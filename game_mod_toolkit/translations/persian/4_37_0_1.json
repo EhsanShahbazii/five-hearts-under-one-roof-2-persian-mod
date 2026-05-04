@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 고말숙 너 여기서 뭐 해.",
+      "ENGLISH": "Hey, Go Mal‑sook, what are you doing here?",
+      "CHINESE_SIMPLIFIED": "喂，高末淑，你在这干嘛",
+      "CHINESE_TRADITIONAL": "喂，高末淑，妳在這裡做什麼？",
+      "JAPANESE": "おい、コ・マルスク ここで何してんだ",
+      "INDONESIAN": "Eh Go Mal-sook, kamu ngapain di sini?",
+      "PORTUGUESE": "Ei, Malsook, o que tá fazendo aqui?",
+      "SPANISH": "Oye, Malsook, ¿qué estás haciendo aquí?",
+      "PERSIAN": "هی، برو مال‌سوک، اینجا چه کار می کنی؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.25,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "누구세요?",
+      "ENGLISH": "Who are you?",
+      "CHINESE_SIMPLIFIED": "您是哪位？",
+      "CHINESE_TRADITIONAL": "請問你是？",
+      "JAPANESE": "どなたですか？",
+      "INDONESIAN": "Kamu siapa?",
+      "PORTUGUESE": "Quem é você?",
+      "SPANISH": "¿Quién eres tú?",
+      "PERSIAN": "تو کی هستی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아시는 분이에요?",
+      "ENGLISH": "Do you know them?",
+      "CHINESE_SIMPLIFIED": "是你认识的人吗？",
+      "CHINESE_TRADITIONAL": "是妳認識的人嗎？",
+      "JAPANESE": "知り合いですか？",
+      "INDONESIAN": "Kamu kenal dia?",
+      "PORTUGUESE": "Você a conhece?",
+      "SPANISH": "¿La conoces?",
+      "PERSIAN": "اونا رو می شناسید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아..",
+      "ENGLISH": "Ah…",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ah…",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah…",
+      "PERSIAN": "آه…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "나 저번부터 너한테 물어보고 싶은 거 진짜 많았거든? 얘기 좀 해.",
+      "ENGLISH": "I’ve had so many things I’ve wanted to ask you for a while. Can we talk?",
+      "CHINESE_SIMPLIFIED": "我从上次开始就有很多话想问你，可以聊聊吗？",
+      "CHINESE_TRADITIONAL": "我從上次就有很多問題想問妳了，我們聊一下吧",
+      "JAPANESE": "俺さ、前からお前に聞きたいこと山ほどあるんだけど？ちょっと話しようか",
+      "INDONESIAN": "Aku udah lama pengen nanya banyak hal ke kamu. Boleh ngobrol sebentar?",
+      "PORTUGUESE": "Tenho muita coisa pra te perguntar. Vamos conversar um pouco.",
+      "SPANISH": "Tienes mucho que explicarme. Ven conmigo.",
+      "PERSIAN": "من چیزهای زیادی داشتم که مدتی بود می خواستم از شما بپرسم. میشه صحبت کنیم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 누구시냐고요.",
+      "ENGLISH": "Ah, I said—who are you?",
+      "CHINESE_SIMPLIFIED": "啊，我问您是谁呢",
+      "CHINESE_TRADITIONAL": "問你你是哪一位呢！",
+      "JAPANESE": "だから、どなたなんですか",
+      "INDONESIAN": "Ah, aku nanya...kamu siapa?",
+      "PORTUGUESE": "Perguntei quem é você.",
+      "SPANISH": "Te pregunté quién eres.",
+      "PERSIAN": "آه، گفتم - تو کی هستی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저는... 그....",
+      "ENGLISH": "I’m… um…",
+      "CHINESE_SIMPLIFIED": "我是...那个...",
+      "CHINESE_TRADITIONAL": "我是...這個...",
+      "JAPANESE": "俺は… その…",
+      "INDONESIAN": "Aku… um…",
+      "PORTUGUESE": "Eu... sou...",
+      "SPANISH": "Yo… soy…",
+      "PERSIAN": "من… ام…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 저 사람도 여기를 왔네.",
+      "ENGLISH": "Huh? That person came here too.",
+      "CHINESE_SIMPLIFIED": "呃？那个人也来这儿了",
+      "CHINESE_TRADITIONAL": "咦？那個人也來這裡了",
+      "JAPANESE": "あ？あの人も来てる",
+      "INDONESIAN": "Hah? Orang itu juga datang ke sini.",
+      "PORTUGUESE": "Hã? Olha, aquela pessoa também veio.",
+      "SPANISH": "¿Eh? Mira quien viene por allá.",
+      "PERSIAN": "ها؟ اون شخص هم اومد اینجا"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "누구??",
+      "ENGLISH": "Who??",
+      "CHINESE_SIMPLIFIED": "谁？？",
+      "CHINESE_TRADITIONAL": "誰？？",
+      "JAPANESE": "誰？？",
+      "INDONESIAN": "Siapa??",
+      "PORTUGUESE": "Quem?",
+      "SPANISH": "¿Quién?",
+      "PERSIAN": "سازمان بهداشت جهانی؟؟"
+    }
+  }
+]

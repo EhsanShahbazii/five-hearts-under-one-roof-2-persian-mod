@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어..?",
+      "ENGLISH": "Huh...?",
+      "CHINESE_SIMPLIFIED": "呃...？",
+      "CHINESE_TRADITIONAL": "嗯…？",
+      "JAPANESE": "え…？",
+      "INDONESIAN": "Hah...?",
+      "PORTUGUESE": "Hã...?",
+      "SPANISH": "¿Eh...?",
+      "PERSIAN": "ها...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님?",
+      "ENGLISH": "Min-jung?",
+      "CHINESE_SIMPLIFIED": "敏静？",
+      "CHINESE_TRADITIONAL": "敏靜小姐？",
+      "JAPANESE": "ミンジョンさん？",
+      "INDONESIAN": "Min-jung?",
+      "PORTUGUESE": "Minjung?",
+      "SPANISH": "¿Minjung?",
+      "PERSIAN": "مین‌جونگ؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.6,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나 좀 들어가도 돼요?",
+      "ENGLISH": "Can I come in?",
+      "CHINESE_SIMPLIFIED": "我能进去吗？",
+      "CHINESE_TRADITIONAL": "我可以進去嗎？",
+      "JAPANESE": "ちょっと、中に入ってもいいですか？",
+      "INDONESIAN": "Bolehkah saya masuk?",
+      "PORTUGUESE": "Posso entrar?",
+      "SPANISH": "¿Puedo entrar?",
+      "PERSIAN": "میتونم بیام داخل؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 갈 곳이 여기 밖에 없어요.",
+      "ENGLISH": "I... I don’t have anywhere else to go.",
+      "CHINESE_SIMPLIFIED": "我现在除了这里，无处可去了",
+      "CHINESE_TRADITIONAL": "我現在除了這裡，無處可去了",
+      "JAPANESE": "私、行くところが…もうここしかなくて",
+      "INDONESIAN": "Aku... aku tidak punya tempat lain untuk dituju.",
+      "PORTUGUESE": "Não tenho pra onde ir.",
+      "SPANISH": "No tengo a dónde ir.",
+      "PERSIAN": "من... جای دیگری برای رفتن ندارم."
+    }
+  }
+]

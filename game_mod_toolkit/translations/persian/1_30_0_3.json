@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "나는 너 들어오자마자 바로 알아봤어.",
+      "ENGLISH": "I recognized you the moment you walked in.",
+      "CHINESE_SIMPLIFIED": "你一进来我就看出来了！",
+      "CHINESE_TRADITIONAL": "你一進來我就認出你了！",
+      "JAPANESE": "俺はお前、入ってきた瞬間にすぐ分かったぞ",
+      "INDONESIAN": "Aku langsung ngeh pas kamu masuk, lho.",
+      "PORTUGUESE": "Te reconheci no momento em que você entrou.",
+      "SPANISH": "Lo noté apenas entraste.",
+      "PERSIAN": "من تا پاتو گذاشتی تو سریع فهمیدم کی هستی!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 3.6
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜?",
+      "ENGLISH": "Really?",
+      "CHINESE_SIMPLIFIED": "真的吗？",
+      "CHINESE_TRADITIONAL": "真的嗎？",
+      "JAPANESE": "ほんとに？",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "Sério?",
+      "SPANISH": "¿En serio?",
+      "PERSIAN": "جدی می‌گی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "당연하쥐~ 너 머리 바뀌었잖아!",
+      "ENGLISH": "Of course~ You changed your hair!",
+      "CHINESE_SIMPLIFIED": "当然啦～你换发色了不是吗？",
+      "CHINESE_TRADITIONAL": "你換髮色了吧？",
+      "JAPANESE": "当たり前だろ〜髪変わってたじゃん！",
+      "INDONESIAN": "Ya iyalah~ Kamu kan ganti gaya rambut!",
+      "PORTUGUESE": "Claro~ Você mudou o cabelo!",
+      "SPANISH": "¡Obvio~! ¡Te cambiaste el cabello!",
+      "PERSIAN": "معلومه دیگه~ موهاتو عوض کردی!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.3
+    },
+    "SCRIPT": {
+      "KOREAN": "머리?",
+      "ENGLISH": "My hair?",
+      "CHINESE_SIMPLIFIED": "发色？",
+      "CHINESE_TRADITIONAL": "髮色？",
+      "JAPANESE": "髪？",
+      "INDONESIAN": "Rambut?",
+      "PORTUGUESE": "Meu cabelo?",
+      "SPANISH": "¿El cabello?",
+      "PERSIAN": "موهامو؟! دیوونه شدی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그래~ 전엔 좀 갈색 느낌이었던 거 같은데?",
+      "ENGLISH": "Yeah, it used to look kind of brown, didn’t it?",
+      "CHINESE_SIMPLIFIED": "对啊~之前好像是带点棕色的感觉？",
+      "CHINESE_TRADITIONAL": "我記得你以前有點咖啡色的感覺欸？",
+      "JAPANESE": "そうそう〜前はちょっと茶色っぽかった気がするけど？",
+      "INDONESIAN": "Iya~ Dulu kayaknya agak coklat deh?",
+      "PORTUGUESE": "Sim, antes parecia meio castanho, não era?",
+      "SPANISH": "¡Sí~! Antes como que tenías un tono más castaño, ¿no?",
+      "PERSIAN": "آره دیگه~ قبلاً یه ته رنگ قهوه‌ای نداشت مگه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "난 평생 검은머리였는데?",
+      "ENGLISH": "I’ve had black hair my whole life.",
+      "CHINESE_SIMPLIFIED": "我一直都是黑发啊",
+      "CHINESE_TRADITIONAL": "我一直都是黑髮啊？",
+      "JAPANESE": "私、生まれてからずっと黒髪だよ？",
+      "INDONESIAN": "Kayaknya dari lahir rambutku selalu warna hitam deh.",
+      "PORTUGUESE": "Eu tive cabelo preto a vida toda.",
+      "SPANISH": "He tenido el cabello negro toda mi vida.",
+      "PERSIAN": "من از روزی که به دنیا اومدم موهام پرکلاغی مشکی بوده!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래...?",
+      "ENGLISH": "Wait, really…?",
+      "CHINESE_SIMPLIFIED": "是吗...？",
+      "CHINESE_TRADITIONAL": "是嗎...？",
+      "JAPANESE": "え…そう…？",
+      "INDONESIAN": "Se-serius...?",
+      "PORTUGUESE": "Espera, sério…?",
+      "SPANISH": "¿E-en serio…?",
+      "PERSIAN": "جدی...؟ موهات همیشه مشکی بود؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "약간도 아니었어...?",
+      "ENGLISH": "Not even a hint?",
+      "CHINESE_SIMPLIFIED": "一点都没变嘛...？",
+      "CHINESE_TRADITIONAL": "連一點點都不是…？",
+      "JAPANESE": "ちょっとぐらいとかもなかった…？",
+      "INDONESIAN": "Beneran nggak ada coklat-coklatnya... sama sekali...?",
+      "PORTUGUESE": "Nem um pouquinho?",
+      "SPANISH": "¿Ni tantito diferente...?",
+      "PERSIAN": "حتی یه ذره هم قهوه‌ای نبوده یعنی...؟"
+    }
+  }
+]

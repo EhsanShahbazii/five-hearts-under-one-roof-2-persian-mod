@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "지금처럼 공부해서 될까요?",
+      "ENGLISH": "Will studying like this really work?",
+      "CHINESE_SIMPLIFIED": "像现在这样学习能行吗？",
+      "CHINESE_TRADITIONAL": "像現在這樣學習會成功嗎？",
+      "JAPANESE": "今のペースで勉強して間に合うと思いますか？",
+      "INDONESIAN": "Kalau belajarnya kayak sekarang, kira-kira bakal cukup nggak ya?",
+      "PORTUGUESE": "Você vai conseguir estudando assim do jeito que tá agora?",
+      "SPANISH": "¿Podrás lograrlo estudiando así como hasta ahora?",
+      "PERSIAN": "اینگونه مطالعه واقعاً کارساز می‌شه؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  }
+]

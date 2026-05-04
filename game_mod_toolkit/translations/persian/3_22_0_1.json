@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 근데... 그런 생각은 좀 들어요.",
+      "ENGLISH": "Sigh... but still, I can’t help thinking...",
+      "CHINESE_SIMPLIFIED": "唉，不过...我确实有时会想",
+      "CHINESE_TRADITIONAL": "唉，但是…我有時候也會想",
+      "JAPANESE": "はぁ…でも ちょっとは思っちゃうんですよね",
+      "INDONESIAN": "Huh... tapi tetap saja, aku tidak bisa berhenti berpikir...",
+      "PORTUGUESE": "Ha... mas, sei lá… às vezes eu penso nisso.",
+      "SPANISH": "Ha... pero, no sé… a veces lo pienso.",
+      "PERSIAN": "آهی می کشم... اما هنوز نمی توانم فکر نکنم..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "안 될 길인데 계속 우겨 가느라 ",
+      "ENGLISH": "Maybe all this is happening because I kept pushing down a path that wasn’t meant to be.",
+      "CHINESE_SIMPLIFIED": "是不是因为我在明知道不行的路上一直硬闯",
+      "CHINESE_TRADITIONAL": "是因為我硬要走一條不該走的路",
+      "JAPANESE": "ダメな道なのに 無理して進もうとするから",
+      "INDONESIAN": "Mungkin semua ini terjadi karena aku terus menerus menempuh jalan yang tidak seharusnya.",
+      "PORTUGUESE": "Talvez tudo isso aconteça",
+      "SPANISH": "Quizá todo esto pasa",
+      "PERSIAN": "شاید همه این‌ها به خاطر همین اتفاق می‌افتد که من همچنان مسیری را که قرار نبود، پایین می‌آورم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 일이 생기는 게 아닐까 하는 뭐... 그런 생각?",
+      "ENGLISH": "Like, maybe I forced it too much.",
+      "CHINESE_SIMPLIFIED": "才会惹出这些事的...你觉得呢？",
+      "CHINESE_TRADITIONAL": "才會發生這些事呢？",
+      "JAPANESE": "こうして色んなことが起きるんじゃないかって…",
+      "INDONESIAN": "Mungkin aku terlalu memaksakannya.",
+      "PORTUGUESE": "porque eu continuo insistindo num caminho que não devia seguir...",
+      "SPANISH": "porque sigo insistiendo en un camino que no debería seguir...",
+      "PERSIAN": "مثلا شاید من خیلی مجبورش کردم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.0,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 민정 님 천상 연예인인데 무슨 소리예요.",
+      "ENGLISH": "Come on, Min-jung—you're made for this. You're a total natural.",
+      "CHINESE_SIMPLIFIED": "哎呦，敏静你天生就是当爱豆的料，这说的是什么话呢",
+      "CHINESE_TRADITIONAL": "哎唷～敏靜你天生就是當藝人的人，怎麼會有這麼想法",
+      "JAPANESE": "えぇ〜 ミンジョンさん 天性の芸能人なのに 何言ってるんですか",
+      "INDONESIAN": "Ayolah, Min-jung—kamu memang ditakdirkan untuk ini. Kamu memang berbakat.",
+      "PORTUGUESE": "Ah, que nada! Você nasceu pra ser uma celebridade, Minjung!",
+      "SPANISH": "Bah, ¿qué dices? ¡Tú naciste para ser una celebridad, Minjung!",
+      "PERSIAN": "بیا، مین‌جونگ، تو برای این ساخته شده ای. تو کاملا طبیعی هستی"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그런 것치곤 그때 콘서트장에서 별로 안 반가워하던데!",
+      "ENGLISH": "If that’s true, then why didn’t anyone seem happy to see me at the concert that day?",
+      "CHINESE_SIMPLIFIED": "那为什么之前在演唱会现场，你看起来好像不太高兴呢？",
+      "CHINESE_TRADITIONAL": "話說回來，當時在演唱會上，你看起來不太歡迎我！",
+      "JAPANESE": "それにしては あの時 コンサート会場で あんまり嬉しそうじゃなかったですけど？",
+      "INDONESIAN": "Jika itu benar, lalu mengapa tidak ada seorang pun yang tampak senang melihatku di konser hari itu?",
+      "PORTUGUESE": "Mas no dia do show, você nem parecia animado pra me ver!",
+      "SPANISH": "Pues el día del concierto, ¡no parecias ni un poco emocionado de verme!",
+      "PERSIAN": "اگر این درست است، پس چرا کسی از دیدن من در کنسرت اون روز خوشحال نشد؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "제가요???? 아 진짜 답답하네~",
+      "ENGLISH": "Me?? Are you serious right now?! You’re killing me—",
+      "CHINESE_SIMPLIFIED": "我吗？？？？啊真是急死人了~",
+      "CHINESE_TRADITIONAL": "我嗎？？？唉，我真是無奈啊～",
+      "JAPANESE": "俺がですか？？？ ほんとにわかってないな〜！",
+      "INDONESIAN": "Aku?? Apa kau serius sekarang?! Kau membunuhku—",
+      "PORTUGUESE": "Eu!? Ah, por favor~ que desesperador…",
+      "SPANISH": "¿¡Yo!? Ay, por favor~ qué desesperante…",
+      "PERSIAN": "من؟؟ الان جدی میگی؟! تو مرا می کشی -"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.1,
+      "HIDE": 23.2
+    },
+    "SCRIPT": {
+      "KOREAN": " 이 마음을 꺼내서 보여 줄 수 없고...어!",
+      "ENGLISH": "I wish I could just pull my heart out and show you what I mean... ugh!",
+      "CHINESE_SIMPLIFIED": "这份心意又不能掏出来给你看...唉！",
+      "CHINESE_TRADITIONAL": "又不能把我的心掏出來給你看...哼！",
+      "JAPANESE": "この気持ちを そのまま見せられたらいいのに…",
+      "INDONESIAN": "Aku harap aku bisa menarik hatiku keluar dan menunjukkan kepadamu apa yang kumaksud... ugh!",
+      "PORTUGUESE": "Se eu pudesse tirar o que sinto e te mostrar… ah!",
+      "SPANISH": "Si tan solo pudiera sacar lo que siento y mostrártelo… ¡ah!",
+      "PERSIAN": "کاش می توانستم فقط قلبم را بیرون بکشم و منظورم را به شما نشان دهم... اوه!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.1,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼 정말 그런 생각을 할 하등의 이유가 없어요...",
+      "ENGLISH": "Anyway, there's absolutely no reason you should be thinking like that. None.",
+      "CHINESE_SIMPLIFIED": "总之你完全没有理由产生那种想法...",
+      "CHINESE_TRADITIONAL": "總之，絕對完全沒有理由讓你有這種想法…",
+      "JAPANESE": "とにかく そんなこと考える理由なんて まったくありませんよ…",
+      "INDONESIAN": "Lagipula, sama sekali tidak ada alasan bagimu untuk berpikir seperti itu. Tidak ada.",
+      "PORTUGUESE": "Enfim, não tem motivo nenhum pra você pensar assim, de verdade...",
+      "SPANISH": "En fin, no hay ninguna razón para que pienses así, de verdad...",
+      "PERSIAN": "به هر حال، هیچ دلیلی وجود ندارد که شما چنین فکری کنید. هیچ کدام."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.1,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그런가...",
+      "ENGLISH": "...You really think so?",
+      "CHINESE_SIMPLIFIED": "这样啊...",
+      "CHINESE_TRADITIONAL": "是嗎…",
+      "JAPANESE": "そうかな…",
+      "INDONESIAN": "...Kau benar-benar berpikir begitu?",
+      "PORTUGUESE": "Você acha...?",
+      "SPANISH": "¿Tú crees...?",
+      "PERSIAN": "... واقعا اینطوری فکر می کنی؟"
+    }
+  }
+]

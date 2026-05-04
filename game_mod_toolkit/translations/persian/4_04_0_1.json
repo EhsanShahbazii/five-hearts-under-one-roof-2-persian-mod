@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 안겨도 돼요...?",
+      "ENGLISH": "Can I really… get in your arms?",
+      "CHINESE_SIMPLIFIED": "真的可以抱吗...？",
+      "CHINESE_TRADITIONAL": "真的可以抱一下嗎…？",
+      "JAPANESE": "ほんとに…抱きしめてもいいんですか？",
+      "INDONESIAN": "Aku beneran… boleh peluk kamu?",
+      "PORTUGUESE": "Posso mesmo te abraçar...?",
+      "SPANISH": "¿De verdad puedo abrazarla…?",
+      "PERSIAN": "واقعا می توانم ... در آغوش تو باشم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님...!",
+      "ENGLISH": "Manager…!",
+      "CHINESE_SIMPLIFIED": "科长...！",
+      "CHINESE_TRADITIONAL": "課長…！",
+      "JAPANESE": "課長…！",
+      "INDONESIAN": "Manajer…!",
+      "PORTUGUESE": "Chefe Gran...",
+      "SPANISH": "Jefa Gran…",
+      "PERSIAN": "مدیر…!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.8,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그동안 고생 많았어.",
+      "ENGLISH": "You’ve been through so much.",
+      "CHINESE_SIMPLIFIED": "这段时间辛苦你了",
+      "CHINESE_TRADITIONAL": "這段時間辛苦了",
+      "JAPANESE": "今までよく頑張った",
+      "INDONESIAN": "Kamu udah ngelewatin banyak hal susah.",
+      "PORTUGUESE": "Você passou por muita coisa.",
+      "SPANISH": "Pasaste por mucho.",
+      "PERSIAN": "تو خیلی چیزها رو گذروندی"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.6,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다쳤는데 가보지도 못해서 마음이 안 좋았어...",
+      "ENGLISH": "I felt bad I couldn’t come see you while you were hurt…",
+      "CHINESE_SIMPLIFIED": "你受伤了我都没能去看看，心里一直过意不去...",
+      "CHINESE_TRADITIONAL": "沒辦法去探望你，我心裡很不好受…",
+      "JAPANESE": "怪我したのに見舞いにも行けなくて気がかりだったよ…",
+      "INDONESIAN": "Aku ngerasa bersalah nggak bisa nengokin kamu pas kamu cedera…",
+      "PORTUGUESE": "Fiquei mal por não poder te visitar quando se machucou...",
+      "SPANISH": "Me sentí mal de no poder ir a verte cuando te lastimaste…",
+      "PERSIAN": "احساس بدی داشتم که نتونستم بیام ببینمت در حالی که تو زخمی بودی…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 16.0
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아요! 저도 다 나았고!",
+      "ENGLISH": "I’m fine! I’m fully recovered now!",
+      "CHINESE_SIMPLIFIED": "没关系的！我已经全好啦",
+      "CHINESE_TRADITIONAL": "沒關係的！我也都好了！",
+      "JAPANESE": "大丈夫です！もうすっかり治りましたし！",
+      "INDONESIAN": "Aku nggak kenapa-kenapa! Sekarang udah sembuh total!",
+      "PORTUGUESE": "Tudo bem, já me recuperei completamente.",
+      "SPANISH": "Está bien, ya me recuperé por completo.",
+      "PERSIAN": "من خوبم! الان به طور کامل بهبود یافته ام!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 19.7
+    },
+    "SCRIPT": {
+      "KOREAN": " 과장님도 출장 안전하게 잘 다녀오셨으니까 그거면 됐죠.",
+      "ENGLISH": "And you made it back safely from your business trip, so that’s what matters.",
+      "CHINESE_SIMPLIFIED": "科长您出差也平安回来了，这就够啦",
+      "CHINESE_TRADITIONAL": "課長出差也平安回來了，這樣就夠了",
+      "JAPANESE": "課長も出張から無事に戻ってこられたし、それだけで十分です",
+      "INDONESIAN": "Lagian kamu juga udah balik dengan selamat dari dinas yang penting itu.",
+      "PORTUGUESE": "E a senhora voltou sã e salva da viagem de trabalho, isso já me basta.",
+      "SPANISH": "Y usted regresó sana y salva de su viaje de trabajo, así que con eso me basta.",
+      "PERSIAN": "و شما با خیال راحت از سفر کاری خود برگشتید، پس این مهم است."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그새 좀 어른스러워졌다? 우유만?",
+      "ENGLISH": "Have you grown a bit more mature, Yuman?",
+      "CHINESE_SIMPLIFIED": "这段时间变得成熟了些呢？吴宥万？",
+      "CHINESE_TRADITIONAL": "你這孩子也變得成熟了呢？吳宥萬？",
+      "JAPANESE": "その間にちょっと大人になったね、ウ・ユマン？",
+      "INDONESIAN": "Kamu jadi kelihatan lebih dewasa, Yuman.",
+      "PORTUGUESE": "Ora, ora... parece que amadureceu um pouco, hein, Yuman?",
+      "SPANISH": "Mira tú… parece que maduraste un poco, ¿eh, Yumán?",
+      "PERSIAN": "کمی بالغ تر شده ای، یومان؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "원래 어른이거든요?",
+      "ENGLISH": "I’ve always been an adult, you know?",
+      "CHINESE_SIMPLIFIED": "我本来就是大人了好吗？",
+      "CHINESE_TRADITIONAL": "我本來就是大人啊？",
+      "JAPANESE": "もともと大人ですよ？",
+      "INDONESIAN": "Aku dari dulu juga udah dewasa, tahu~",
+      "PORTUGUESE": "Um pouco? Eu sempre fui uma pessoa madura.",
+      "SPANISH": "¿Un poco? Si yo siempre he sido una persona madura.",
+      "PERSIAN": "من همیشه بزرگسال بودم، می دانید؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이만 쉬어. 내일 출근해야 하니깐.",
+      "ENGLISH": "Alright, get some rest. You’ve got work tomorrow.",
+      "CHINESE_SIMPLIFIED": "早点休息吧，明天还得上班呢",
+      "CHINESE_TRADITIONAL": "去休息吧。明天還要上班呢",
+      "JAPANESE": "もう休んで　明日は仕事でしょ",
+      "INDONESIAN": "Oke deh, istirahat ya. Besok kamu kerja.",
+      "PORTUGUESE": "Vai descansar, você tem que trabalhar amanhã.",
+      "SPANISH": "Descansa ya, tienes que ir a trabajar mañana.",
+      "PERSIAN": "باشه کمی استراحت کن فردا کار داری"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 그럴게요! 과장님 안녕히 주무세요!",
+      "ENGLISH": "Yes! I will! Good night, Manager!",
+      "CHINESE_SIMPLIFIED": "好的！这就休息！科长，您也晚安！",
+      "CHINESE_TRADITIONAL": "好！我會的！課長晚安！",
+      "JAPANESE": "はい！そうします！課長、おやすみなさい！",
+      "INDONESIAN": "Siap! Pasti! Selamat malam, Manajer!",
+      "PORTUGUESE": "Sim! Vou sim. Boa noite, chefe Gran!",
+      "SPANISH": "¡Sí! Lo haré. ¡Que descanse, jefa Gran!",
+      "PERSIAN": "بله! من خواهم کرد! شب بخیر مدیر!"
+    }
+  }
+]

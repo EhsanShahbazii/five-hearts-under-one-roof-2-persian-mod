@@ -1,0 +1,81 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어..? ",
+      "ENGLISH": "Huh...?",
+      "CHINESE_SIMPLIFIED": "呃...？",
+      "CHINESE_TRADITIONAL": "咦…？",
+      "JAPANESE": "あれ…？",
+      "INDONESIAN": "Hah...?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 6.1
+    },
+    "SCRIPT": {
+      "KOREAN": "동 과장님??",
+      "ENGLISH": "Manager Gran??",
+      "CHINESE_SIMPLIFIED": "佟科长？？",
+      "CHINESE_TRADITIONAL": "佟課長？",
+      "JAPANESE": "ドン課長？",
+      "INDONESIAN": "Manajer Gran??",
+      "PORTUGUESE": "Chefa Gran?",
+      "SPANISH": "¿Jefa Gran?",
+      "PERSIAN": "مدیر گرن؟؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 21.5
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 우유만! 잘 지냈어? ",
+      "ENGLISH": "Oh! Woo Yuman! Long time no see.",
+      "CHINESE_SIMPLIFIED": "呃？吴宥万！好久不见啊",
+      "CHINESE_TRADITIONAL": "哦？吳宥萬！好久不見啊",
+      "JAPANESE": "おっ、ウ・ユマン！元気にしてたか？",
+      "INDONESIAN": "Oh! Woo Yuman! Lama nggak ketemu.",
+      "PORTUGUESE": "Oh! Yumán! Como você tem passado?",
+      "SPANISH": "¡Oh! ¡Yumán! ¿Cómo has estado?",
+      "PERSIAN": "اوه! وو یومان! خیلی وقته ندیدم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아..ㅎ 과장님은 여전하시네요.",
+      "ENGLISH": "Ah… haha, you haven’t changed a bit, sir.",
+      "CHINESE_SIMPLIFIED": "啊...呵，科长您还是老样子呢",
+      "CHINESE_TRADITIONAL": "哈哈，課長你還是一樣呢",
+      "JAPANESE": "あ…はい、課長は相変わらずですね",
+      "INDONESIAN": "Ah… haha, Bapak masih aja sama kayak dulu.",
+      "PORTUGUESE": "Ah... hehe, continua tão cheia de energia como sempre, chefa.",
+      "SPANISH": "Ah... je, sigue igual de enérgica, jefa.",
+      "PERSIAN": "آه ... هاها، شما کمی تغییر نکرده اید، قربان."
+    }
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에이 설마 아니죠?",
+      "ENGLISH": "No way... it can’t be, right?",
+      "CHINESE_SIMPLIFIED": "哎呦，不会吧？",
+      "CHINESE_TRADITIONAL": "欸～不會吧？",
+      "JAPANESE": "え〜 まさか ちがいますよね？",
+      "INDONESIAN": "Tidak mungkin... tidak mungkin, kan?",
+      "PORTUGUESE": "Ah, não acredito, né?",
+      "SPANISH": "Ay, no puede ser, ¿verdad?",
+      "PERSIAN": "به هیچ وجه ... نمی تواند باشد، درست است؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가요?",
+      "ENGLISH": "What can’t be?",
+      "CHINESE_SIMPLIFIED": "您是指什么？",
+      "CHINESE_TRADITIONAL": "你是指什麼？",
+      "JAPANESE": "なにがですか？",
+      "INDONESIAN": "Apa yang tidak bisa?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué cosa?",
+      "PERSIAN": "چه چیزی نمی تواند باشد؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 10.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그 있잖아요, 가수 박민정 이번에 갑질 논란 기사 터진",
+      "ENGLISH": "You know, that singer—Min-jung Park? The one in the headlines lately for being a diva.",
+      "CHINESE_SIMPLIFIED": "就是那个嘛，歌手朴敏静最近不是爆出霸凌的新闻",
+      "CHINESE_TRADITIONAL": "就是那個啊，歌手樸敏靜最近不是爆出霸凌的新聞",
+      "JAPANESE": "ほら あの… 歌手のパク・ミンジョン この前パワハラの記事が出たっていう",
+      "INDONESIAN": "Kau tahu, penyanyi itu—Park Min-jung? Yang akhir-akhir ini jadi berita utama karena dia seorang diva.",
+      "PORTUGUESE": "Sabe, aquela cantora Minjung, que saiu nas notícias por causa do escândalo de bullying.",
+      "SPANISH": "Ya sabe, eso de la cantante Minjung, la que salió en las noticias por el escándalo de bullying.",
+      "PERSIAN": "میدونی اون خواننده مین‌جونگ پارک؟ یکی که اخیراً به خاطر دیوا بودن در سرفصل ها بوده است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 10.7,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 그 박민정?",
+      "ENGLISH": "Ah~ that Min-jung Park?",
+      "CHINESE_SIMPLIFIED": "啊~那个朴敏静？",
+      "CHINESE_TRADITIONAL": "啊～那個樸敏靜啊？",
+      "JAPANESE": "あ〜 あのパク・ミンジョン？",
+      "INDONESIAN": "Ah~ itu Taman Min-jung?",
+      "PORTUGUESE": "Ah~ aquela Park Minjung?",
+      "SPANISH": "Ah~ ¿esa Park Minjung?",
+      "PERSIAN": "آه اون پارک مین‌جونگ؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 설마 저를 그 박민정으로 착각하신 건 아니죠?",
+      "ENGLISH": "Wait, you’re not mistaking me for her, are you?",
+      "CHINESE_SIMPLIFIED": "不是，您该不会把我错认成那个朴敏静了吧？",
+      "CHINESE_TRADITIONAL": "不是吧，你該不會把我跟她搞混了吧？",
+      "JAPANESE": "まさか 私のこと そのパク・ミンジョンと勘違いしてるとかじゃないですよね？",
+      "INDONESIAN": "Tunggu, kau tidak salah mengira aku adalah dia, kan?",
+      "PORTUGUESE": "Não vai me dizer que tá me confundindo com essa Park Minjung, né?",
+      "SPANISH": "No me diga que me está confundiendo con esa Park Minjung, ¿verdad?",
+      "PERSIAN": "صبر کن، تو مرا با او اشتباه نمی گیری، درست است؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 17.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아니세요?",
+      "ENGLISH": "...Aren’t you?",
+      "CHINESE_SIMPLIFIED": "您不是吗？",
+      "CHINESE_TRADITIONAL": "你不是嗎？",
+      "JAPANESE": "ちがうんですか？",
+      "INDONESIAN": "...Bukankah begitu?",
+      "PORTUGUESE": "Não é você?",
+      "SPANISH": "¿No lo es?",
+      "PERSIAN": "... نیستی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 20.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아잇, 당연히 아니죠.",
+      "ENGLISH": "Of course not!",
+      "CHINESE_SIMPLIFIED": "哎~当然不是啦",
+      "CHINESE_TRADITIONAL": "欸～當然不是啊",
+      "JAPANESE": "いや 当然ちがいますよ",
+      "INDONESIAN": "Tentu saja tidak!",
+      "PORTUGUESE": "Claro que não!",
+      "SPANISH": "¡Claro que no!",
+      "PERSIAN": "البته نه!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 24.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어휴, 저는 걔가 국민 여동생이라고 하는데, 모르겠어요.",
+      "ENGLISH": "Ugh, they call her “the nation’s little sister” or whatever, but I don’t get it.",
+      "CHINESE_SIMPLIFIED": "唉哟，人家都说她是国民妹妹呢，我反正是没看出来",
+      "CHINESE_TRADITIONAL": "我聽說她被叫做國民妹妹，不過我也不清楚",
+      "JAPANESE": "はぁ〜 ほんとに あの子 国民の妹とか言われてるけど 私にはよくわかんない",
+      "INDONESIAN": "Ugh, mereka memanggilnya \"adik perempuan bangsa\" atau apalah, tapi aku tidak mengerti.",
+      "PORTUGUESE": "Ah, por favor, dizem que ela é a “irmãzinha da nação”, mas sei lá…",
+      "SPANISH": "Ay, por favor, dicen que es la “hermana menor de la nación”, pero no sé…",
+      "PERSIAN": "اوه، اونا به او می گویند \"خواهر کوچک ملت\" یا هر چیز دیگری، اما من نمی فهمم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "국민 아줌마 아니에요?",
+      "ENGLISH": "Isn’t she more like “the nation’s auntie”?",
+      "CHINESE_SIMPLIFIED": "国民大妈还差不多吧？",
+      "CHINESE_TRADITIONAL": "不是國民阿姨嗎？",
+      "JAPANESE": "国民のおばさんじゃないですか？",
+      "INDONESIAN": "Bukankah dia lebih seperti \"bibi bangsa\"?",
+      "PORTUGUESE": "Não seria mais a “titia da nação”?",
+      "SPANISH": "¿No sería más bien la “tía de la nación”?",
+      "PERSIAN": "او بیشتر شبیه «خاله ملت» نیست؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.6,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 완전 성격도 더러워 보이고 완전 별로야 걔 진짜 최악",
+      "ENGLISH": "And her attitude? Total nightmare. She seems awful—seriously the worst.",
+      "CHINESE_SIMPLIFIED": "啊，看起来就是性格很差的样子，人品也不行，她真的很糟糕",
+      "CHINESE_TRADITIONAL": "啊，看起來性格就很差的樣子，人品也不怎樣，爛透了",
+      "JAPANESE": "あ〜 性格悪そうだし マジで無理 あの子ほんと最悪",
+      "INDONESIAN": "Dan sikapnya? Benar-benar mimpi buruk. Dia tampak mengerikan—serius, yang terburuk.",
+      "PORTUGUESE": "Ah, sim, e dá pra ver que tem um temperamento horrível, não suporto ela, sério, é a pior.",
+      "SPANISH": "Ah, sí, y se nota que tiene un carácter horrible, me cae fatal, de verdad, es la peor.",
+      "PERSIAN": "و نگرش او؟ کل کابوس او وحشتناک به نظر می رسد - به طور جدی بدترین."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.3,
+      "HIDE": 34.1
+    },
+    "SCRIPT": {
+      "KOREAN": "- 아 그리ㄱ.. 예?\n- 저 민정아? 이만 갈까?",
+      "ENGLISH": "— Well, anywa—wait, what?\n— Min-jung, should we get going?",
+      "CHINESE_SIMPLIFIED": "-啊还有...\n-那个敏静啊？我们要不要走了？",
+      "CHINESE_TRADITIONAL": "—啊還有……\n—敏靜啊，我們要不要先走？",
+      "JAPANESE": "-あ それと…\n-ミンジョン？ もう行こっか？",
+      "INDONESIAN": "— Baiklah, omong-omong—tunggu, apa?\n— Min-jung, haruskah kita pergi?",
+      "PORTUGUESE": "—Ah, entã... hã?\n—Minjung, vamos?",
+      "SPANISH": "—Ah, enton... ¿eh?\n—Minjung, ¿nos vamos?",
+      "PERSIAN": "- خوب، به هر حال - صبر کن، چی؟ - مین‌جونگ، باید بریم؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 34.3,
+      "HIDE": 36.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아 할 얘기 더 남았는데..?",
+      "ENGLISH": "Aw, but I wasn’t done talking...",
+      "CHINESE_SIMPLIFIED": "啊？我还有话没说完呢...？",
+      "CHINESE_TRADITIONAL": "啊，我話還沒說完…？",
+      "JAPANESE": "え まだ話したいことあったのに…",
+      "INDONESIAN": "Ah, tapi aku belum selesai bicara...",
+      "PORTUGUESE": "Ah, já vão? Eu ainda queria continuar conversando...",
+      "SPANISH": "Ah, ¿ya se van? Yo todavía quería seguir platicando...",
+      "PERSIAN": "اوه، اما حرفم تموم نشد..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.3,
+      "HIDE": 40.5
+    },
+    "SCRIPT": {
+      "KOREAN": "쌤 저 그러면 다음 진료 때 뵐게요! 저희 갈 데가 있어 가지고.",
+      "ENGLISH": "I’ll see you at your next appointment then, okay? We’ve got somewhere to be.",
+      "CHINESE_SIMPLIFIED": "方护士，那我们诊疗时再见！我们还有地方要去",
+      "CHINESE_TRADITIONAL": "護理師，那就下次看診再見啦！我們還有地方要去",
+      "JAPANESE": "先生 じゃあまた診察の時に会いましょう！ ちょっと用があるんで",
+      "INDONESIAN": "Sampai jumpa di pertemuan berikutnya, ya? Kita harus pergi ke suatu tempat.",
+      "PORTUGUESE": "Te vejo na próxima consulta, enfermeira Gyuri. Temos que ir pra outro lugar.",
+      "SPANISH": "La veo en la próxima cita, enfermera Gyuri. Tenemos que ir a otro lugar.",
+      "PERSIAN": "اون وقت در قرار بعدی می بینمت، باشه؟ ما جایی داریم که باشیم"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 40.6,
+      "HIDE": 43.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그러시구나! 또 봐요, 유만 씨!",
+      "ENGLISH": "Ah, got it! See you again, Yuman!",
+      "CHINESE_SIMPLIFIED": "啊这样啊！再见啦，宥万先生！",
+      "CHINESE_TRADITIONAL": "這樣啊！下次見囉，宥萬先生！",
+      "JAPANESE": "あ そうなんですね！ じゃあ またね ユマンさん！",
+      "INDONESIAN": "Ah, beres! Sampai jumpa lagi, Yuman!",
+      "PORTUGUESE": "Ah, entendi. Até logo, Yumán!",
+      "SPANISH": "Ah, entiendo. ¡Nos vemos luego, Yumán!",
+      "PERSIAN": "آه، فهمیدم! دوباره می بینمت، یومان!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 43.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Yeah...",
+      "CHINESE_SIMPLIFIED": "好...",
+      "CHINESE_TRADITIONAL": "好...",
+      "INDONESIAN": "Ya...",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí...",
+      "PERSIAN": "آره..."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 44.5,
+      "HIDE": 46.7
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 씨가 스스로 욕하면 어떡해요!",
+      "ENGLISH": "Min-jung, you can’t just trash-talk yourself like that!",
+      "CHINESE_SIMPLIFIED": "你怎么能自己骂自己呢！",
+      "CHINESE_TRADITIONAL": "敏靜你幹嘛這樣自己罵自己",
+      "JAPANESE": "ミンジョンさんが自分の悪口言ってどうするんですか！",
+      "INDONESIAN": "Min-jung, kamu tidak bisa begitu saja menjelek-jelekkan dirimu sendiri seperti itu!",
+      "PORTUGUESE": "Minjung, como é que você consegue se xingar assim?",
+      "SPANISH": "¡Minjung, cómo se te ocurre insultarte tú misma!",
+      "PERSIAN": "مین‌جونگ، نمی تونی اینطوری با خودت حرف بزنی!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 46.9,
+      "HIDE": 49.1
+    },
+    "SCRIPT": {
+      "KOREAN": "왜요~ 위장하니깐 이런 거 재밌는데요?",
+      "ENGLISH": "Why not~? I’m in disguise—it’s kinda fun!",
+      "CHINESE_SIMPLIFIED": "怎么啦~伪装身份做这种事不是很有趣吗？",
+      "CHINESE_TRADITIONAL": "怎樣啦～偽裝一下滿好玩的啊～",
+      "JAPANESE": "いいじゃないですか〜 変装してるとこういうの楽しいですよ？",
+      "INDONESIAN": "Kenapa tidak~? Aku menyamar—ini lumayan seru!",
+      "PORTUGUESE": "Por que não~? Tô disfarçada, é divertido.",
+      "SPANISH": "¿Por qué no~? Si estoy disfrazada, es divertido.",
+      "PERSIAN": "چرا نه ~ من در لباس مبدل هستم - این یک مقدار سرگرم کننده است!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 49.2,
+      "HIDE": 50.7
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 빨리 편의점으로 가요.",
+      "ENGLISH": "Come on, let’s hit the convenience store.",
+      "CHINESE_SIMPLIFIED": "我们先赶紧去便利店看看吧",
+      "CHINESE_TRADITIONAL": "先快點去便利商店看看吧",
+      "JAPANESE": "さ 早くコンビニ見に行きましょ",
+      "INDONESIAN": "Ayo, kita pergi ke toko swalayan.",
+      "PORTUGUESE": "Bom, então vamos logo pra loja.",
+      "SPANISH": "Bueno, vayamos rápido a la tienda entonces.",
+      "PERSIAN": "بیا، بیایید به فروشگاه رفاه برویم."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 50.8,
+      "HIDE": 51.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好的！",
+      "CHINESE_TRADITIONAL": "好！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "باشه!"
+    }
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.23,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어딜 때리는 거죠? 그건 내 잔상입니다만.",
+      "ENGLISH": "Where do you think you're hitting? That was just my afterimage.",
+      "CHINESE_SIMPLIFIED": "你往哪儿打呢？那只是我的残影而已",
+      "CHINESE_TRADITIONAL": "你在打哪裡啊？那都只是我的殘影而已",
+      "JAPANESE": "どこを殴ってるんだ？それ、俺の残像なんですけど",
+      "INDONESIAN": "Kamu pikir barusan mukul siapa? Itu cuma bayanganku doang.",
+      "PORTUGUESE": "Onde é que você tava batendo? Acho que tava mirando na minha sombra.",
+      "SPANISH": "¿A dónde estabas golpeando? Creo que le apuntabas a mi sombra.",
+      "PERSIAN": "فکر میکنی کجا میزنی؟ این فقط تصویر بعدی من بود."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.12,
+      "HIDE": 5.21
+    },
+    "SCRIPT": {
+      "KOREAN": "야 쫄지 마 저거 다 운이야.",
+      "ENGLISH": "Don’t freak out—it’s all luck, I swear.",
+      "CHINESE_SIMPLIFIED": "喂，别怂，那都是他走运",
+      "CHINESE_TRADITIONAL": "別害怕，那都是運氣",
+      "JAPANESE": "おい、ビビんなよ あれ全部運だって",
+      "INDONESIAN": "Jangan panik—sumpah tadi cuma hoki.",
+      "PORTUGUESE": "Não desanima, isso foi pura sorte.",
+      "SPANISH": "No te desanimes, eso fue pura suerte.",
+      "PERSIAN": "غصه نخور - قسم می خورم این همه شانس است."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.09,
+      "HIDE": 8.18
+    },
+    "SCRIPT": {
+      "KOREAN": "운이라뇨. 실력입니다.",
+      "ENGLISH": "Luck? Please. That’s skill.",
+      "CHINESE_SIMPLIFIED": "什么走运，是实力",
+      "CHINESE_TRADITIONAL": "什麼運氣。那是實力",
+      "JAPANESE": "運だと？実力です",
+      "INDONESIAN": "Hoki? Tolong ya. Itu skill.",
+      "PORTUGUESE": "Sorte? Foi habilidade.",
+      "SPANISH": "¿Suerte? Fue habilidad.",
+      "PERSIAN": "شانس؟ لطفا این مهارت است"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.12,
+      "HIDE": 10.12
+    },
+    "SCRIPT": {
+      "KOREAN": "지랄하고 있네.",
+      "ENGLISH": "Yeah right, keep dreaming.",
+      "CHINESE_SIMPLIFIED": "胡说八道什么",
+      "CHINESE_TRADITIONAL": "不要胡說八道了",
+      "JAPANESE": "ふざけんな",
+      "INDONESIAN": "Iya iya, terusin aja mimpimu.",
+      "PORTUGUESE": "Ah, claro, continua sonhando.",
+      "SPANISH": "Sí, claro, sigue soñando.",
+      "PERSIAN": "آره درسته، به رویاپردازی ادامه بده"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.05,
+      "HIDE": 14.06
+    },
+    "SCRIPT": {
+      "KOREAN": "야 드래곤 파이어에 그런 중대장 없어 이 X신아.",
+      "ENGLISH": "There’s no Captain like that in Dragon Fire, you dumbass.",
+      "CHINESE_SIMPLIFIED": "喂，龙焰里根本没有你说的中队长，你这傻X",
+      "CHINESE_TRADITIONAL": "龍火裡面根本就沒有那種中隊長，你這個混蛋",
+      "JAPANESE": "おい、ドラゴンファイアにそんな中隊長はいねぇよ、バカ",
+      "INDONESIAN": "Nggak ada Kapten kayak gitu di Dragon Fire, bego.",
+      "PORTUGUESE": "Ei, no Dragon Fire nem existe um comandante assim, idiota!",
+      "SPANISH": "¡Oye, en Dragon Fire no hay ningún comandante así, idiota!",
+      "PERSIAN": "هیچ کاپیتانی مثل اون در اژدها آتش وجود ندارد، احمق."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 14.17
+    },
+    "SCRIPT": {
+      "KOREAN": "예?",
+      "ENGLISH": "...What?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "...Apa?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "... چی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.29,
+      "HIDE": 17.13
+    },
+    "SCRIPT": {
+      "KOREAN": "웃참 하느라 뒤질 뻔했네",
+      "ENGLISH": "I almost died trying not to laugh.",
+      "CHINESE_SIMPLIFIED": "憋笑憋得快死了",
+      "CHINESE_TRADITIONAL": "啊，我憋笑憋得快死了",
+      "JAPANESE": "笑いこらえるのマジで死ぬかと思ったわ",
+      "INDONESIAN": "Aku hampir mati nahan ketawa barusan.",
+      "PORTUGUESE": "Eu mal consegui segurar o riso.",
+      "SPANISH": "Casi no logro aguantar la risa.",
+      "PERSIAN": "نزدیک بود بمیرم سعی کردم نخندم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.23,
+      "HIDE": 22.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어우야~ 너네가 너무 디테일하게 속아주니까 진짜 속인 줄 알잖아~",
+      "ENGLISH": "God, you guys played along so seriously I almost believed the lie myself~",
+      "CHINESE_SIMPLIFIED": "哎呦喂~你们配合得太细节了，我都快当真了~",
+      "CHINESE_TRADITIONAL": "你們演得太逼真，我還以為真的被騙了咧～",
+      "JAPANESE": "おまえらが細かく信じたフリするから、本気で信じたかと思ったじゃん",
+      "INDONESIAN": "Astaga, kalian semua terlalu serius sampe-sampe aku hampir percaya kebohongan itu sendiri~",
+      "PORTUGUESE": "Você foi tão detalhista que achou que a gente ia acreditar nessa besteira.",
+      "SPANISH": "Fuiste tan detallado que pensaste que nos creeríamos esa tontería.",
+      "PERSIAN": "خدایا، شما بچه ها آنقدر جدی بازی کردید که من خودم تقریباً دروغ را باور کردم"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 24.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어!!?!",
+      "ENGLISH": "Wha—?!",
+      "CHINESE_SIMPLIFIED": "呃！！？！",
+      "JAPANESE": "はっ!?",
+      "INDONESIAN": "A-APA?!",
+      "PORTUGUESE": "O quê?!",
+      "SPANISH": "¡¿Qué?!",
+      "PERSIAN": "چی-؟!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 26.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어우야 하지 마",
+      "ENGLISH": "Stop it already!",
+      "CHINESE_SIMPLIFIED": "哎哟别闹了",
+      "JAPANESE": "ねえ、やめてって",
+      "INDONESIAN": "Udahan dong!",
+      "PORTUGUESE": "Ah, não faz isso...",
+      "SPANISH": "Ay, no lo hagas...",
+      "PERSIAN": "همین حالا بس کن!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 26.2,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 어후...어떡해...\n- 애들아~",
+      "ENGLISH": "— Ugh… what do we even do...\n— Guys~",
+      "CHINESE_SIMPLIFIED": "-哎呀...怎么办...\n-别这样~",
+      "JAPANESE": "‐はぁ…どうしよう…\n‐あんたたち",
+      "INDONESIAN": "— Ugh… kita harus gimana ini...\n— Guys~",
+      "PORTUGUESE": "—Ai... o que eu faço...?\n—Gente!",
+      "SPANISH": "—Ay... ¿qué hago...?\n—¡Chicos!",
+      "PERSIAN": "- اوه ... چیکار کنیم ... - بچه ها~"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.9,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그만해!!",
+      "ENGLISH": "I said knock it off!!",
+      "CHINESE_SIMPLIFIED": "快住手！！",
+      "JAPANESE": "もうやめてって！！",
+      "INDONESIAN": "Aku bilang berhenti!!",
+      "PORTUGUESE": "Chega!!",
+      "SPANISH": "¡Ya basta!!",
+      "PERSIAN": "گفتم ولش کن!!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 30.9
+    },
+    "SCRIPT": {
+      "KOREAN": "- 하...\n- 어떡해...",
+      "ENGLISH": "— Haa…\n— What now…",
+      "CHINESE_SIMPLIFIED": "- 哎...\n-怎么办...",
+      "JAPANESE": "‐はぁ…\n‐どうしよう…",
+      "INDONESIAN": "— Haa…\n— Sekarang apa lagi…",
+      "PORTUGUESE": "—Ha...\n—O que eu vou fazer...?",
+      "SPANISH": "—Ja...\n—¿Qué voy a hacer...?",
+      "PERSIAN": "- هاا… -حالا چی…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하지마~",
+      "ENGLISH": "Dont~",
+      "CHINESE_SIMPLIFIED": "别这样~",
+      "JAPANESE": "やめて〜",
+      "INDONESIAN": "Jangaaaan~",
+      "PORTUGUESE": "Não faz isso.",
+      "SPANISH": "No lo hagas.",
+      "PERSIAN": "نکن ~"
+    }
+  }
+]

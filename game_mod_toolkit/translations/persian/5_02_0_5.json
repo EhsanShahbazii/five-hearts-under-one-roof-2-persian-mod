@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유정 씨 저 물 좀 주세요...",
+      "ENGLISH": "Yu-jeong… could I have some water…?",
+      "CHINESE_SIMPLIFIED": "有情小姐，能给我点水吗...",
+      "CHINESE_TRADITIONAL": "有情小姐，請給我一點水...",
+      "JAPANESE": "ユジョンさん、水ください…",
+      "INDONESIAN": "Yu-jeong… boleh minta air nggak…?",
+      "PORTUGUESE": "Yujeong... você pode me trazer um pouco de água?",
+      "SPANISH": "Yujeong... ¿me traerías un poco de agua?",
+      "PERSIAN": "یو-جئونگ...میتونم کمی آب بخورم...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 잠시만 기다려주세요.",
+      "ENGLISH": "Yes, just a moment please.",
+      "CHINESE_SIMPLIFIED": "好的，请稍等一下",
+      "CHINESE_TRADITIONAL": "好的，請稍等一下",
+      "JAPANESE": "はい、少々お待ちください",
+      "INDONESIAN": "Iya, tunggu sebentar ya.",
+      "PORTUGUESE": "Sim, espere um momento.",
+      "SPANISH": "Sí, espéreme un momento.",
+      "PERSIAN": "بله، فقط یک لحظه لطفا."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "손!",
+      "ENGLISH": "Hand!",
+      "CHINESE_SIMPLIFIED": "手！",
+      "CHINESE_TRADITIONAL": "手！",
+      "JAPANESE": "手！",
+      "INDONESIAN": "Tangan!",
+      "PORTUGUESE": "A mão!",
+      "SPANISH": "¡La mano!",
+      "PERSIAN": "دست!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "주세요.",
+      "ENGLISH": "Here you go.",
+      "CHINESE_SIMPLIFIED": "伸出来吧~",
+      "CHINESE_TRADITIONAL": "給你",
+      "JAPANESE": "どうぞ",
+      "INDONESIAN": "Nih, airnya.",
+      "PORTUGUESE": "Estenda ela.",
+      "SPANISH": "Extiéndala.",
+      "PERSIAN": "در اینجا شما بروید."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다...",
+      "ENGLISH": "Thank you…",
+      "CHINESE_SIMPLIFIED": "谢谢你...",
+      "CHINESE_TRADITIONAL": "謝謝你...",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Makasih…",
+      "PORTUGUESE": "Muito obrigado...",
+      "SPANISH": "Muchas gracias...",
+      "PERSIAN": "ممنون…"
+    }
+  }
+]

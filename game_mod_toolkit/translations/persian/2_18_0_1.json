@@ -1,0 +1,920 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 저는 말숙이가 편해서",
+      "ENGLISH": "Honestly, I just feel more comfortable with Mal-sook,",
+      "CHINESE_SIMPLIFIED": "不管怎么说，我跟末淑在一起更自在",
+      "CHINESE_TRADITIONAL": "不管怎麼說，跟末淑一起比較方便",
+      "JAPANESE": "やっぱり俺はマルスクの方が気楽だから",
+      "INDONESIAN": "Sejujurnya, aku cuma lebih nyaman sama Mal-sook,",
+      "PORTUGUESE": "De qualquer forma, me sinto mais à vontade com a Malsook,",
+      "SPANISH": "De todos modos me siento más cómodo con Malsook,",
+      "PERSIAN": "راستش، من با مال‌سوک احساس راحتی بیشتری می کنم،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.4,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "둘이 다녀올게요.",
+      "ENGLISH": "so we’ll go together.",
+      "CHINESE_SIMPLIFIED": "我们俩去一趟就行啦",
+      "CHINESE_TRADITIONAL": "我們兩個人去就好",
+      "JAPANESE": "二人で行ってきますね",
+      "INDONESIAN": "jadi kami bakal bareng aja.",
+      "PORTUGUESE": "vamos nós dois.",
+      "SPANISH": "iremos los dos.",
+      "PERSIAN": "پس با هم میریم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.2,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도~",
+      "ENGLISH": "Seriously?",
+      "CHINESE_SIMPLIFIED": "不管怎么说~",
+      "CHINESE_TRADITIONAL": "不管怎麼說～",
+      "JAPANESE": "そうだよね〜",
+      "INDONESIAN": "Serius?",
+      "PORTUGUESE": "“De qualquer forma...”",
+      "SPANISH": "\"De todos modos...\"",
+      "PERSIAN": "جدی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 8.7
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 네 뭐 그러세요.",
+      "ENGLISH": "Ugh... fine, whatever.",
+      "CHINESE_SIMPLIFIED": "啊，行吧，随您便",
+      "CHINESE_TRADITIONAL": "啊，好吧，隨便你",
+      "JAPANESE": "は…はい どうぞご自由に",
+      "INDONESIAN": "Ugh... ya udah deh, terserah.",
+      "PORTUGUESE": "Ah, claro. Como quiser.",
+      "SPANISH": "Ah, claro. Como prefieras.",
+      "PERSIAN": "اوه... باشه، هر چی باشه."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "둘이 아주 평생 붙어있고.",
+      "ENGLISH": "Go ahead, stick together forever.",
+      "CHINESE_SIMPLIFIED": "你俩就一辈子黏在一起好了",
+      "CHINESE_TRADITIONAL": "你們就一輩子黏在一起吧",
+      "JAPANESE": "二人で一生くっついてればいいじゃないですか",
+      "INDONESIAN": "Silakan, nempel terus sana selamanya.",
+      "PORTUGUESE": "Fiquem juntinhos pra sempre.",
+      "SPANISH": "Quédense pegados para siempre.",
+      "PERSIAN": "برو جلو، برای همیشه کنار هم بمون."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "좋겠네요!",
+      "ENGLISH": "Must be nice!",
+      "CHINESE_SIMPLIFIED": "真好啊！",
+      "CHINESE_TRADITIONAL": "真好啊！",
+      "JAPANESE": "よかったですね!",
+      "INDONESIAN": "Pasti enak, ya!",
+      "PORTUGUESE": "Que casal fofo!",
+      "SPANISH": "¡Qué linda pareja!",
+      "PERSIAN": "باید خوب باشد!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "えっ?",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.2,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 유나 씨!",
+      "ENGLISH": "Yuna!",
+      "CHINESE_SIMPLIFIED": "哎呀，有娜小姐！",
+      "CHINESE_TRADITIONAL": "啊，有娜小姐！",
+      "JAPANESE": "あ、ユナさん!",
+      "INDONESIAN": "Yuna!",
+      "PORTUGUESE": "Ai, mas Yuna...",
+      "SPANISH": "Ay, pero Yuna…",
+      "PERSIAN": "یونا!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨!",
+      "ENGLISH": "Yuna, wait!",
+      "CHINESE_SIMPLIFIED": "有娜小姐！",
+      "CHINESE_TRADITIONAL": "有娜小姐！",
+      "JAPANESE": "ユナさん!",
+      "INDONESIAN": "Yuna, tunggu!",
+      "PORTUGUESE": "Yuna!",
+      "SPANISH": "¡Yuna!",
+      "PERSIAN": "یونا صبر کن"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 삐지셨네...",
+      "ENGLISH": "Wow... she’s actually upset.",
+      "CHINESE_SIMPLIFIED": "啊，闹脾气了呢...",
+      "CHINESE_TRADITIONAL": "唉！生氣了…",
+      "JAPANESE": "あ…すねちゃった…",
+      "INDONESIAN": "Wah... dia beneran kesel.",
+      "PORTUGUESE": "Ah, ela ficou ofendida...",
+      "SPANISH": "Ah, se ofendió…",
+      "PERSIAN": "وای... او واقعاً ناراحت است."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "참! 삐질 일도 많다. ",
+      "ENGLISH": "Sheesh, so sensitive.",
+      "CHINESE_SIMPLIFIED": "真是的，也太容易生气了",
+      "CHINESE_TRADITIONAL": "真是的！也太容易生氣了",
+      "JAPANESE": "すぐすねるちゃうみたいだな",
+      "INDONESIAN": "Ya ampun, sensitif banget.",
+      "PORTUGUESE": "Sério, qualquer coisa faz ela se irritar.",
+      "SPANISH": "De veras, cualquier cosa la hace enojar.",
+      "PERSIAN": "شیش خیلی حساسه"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "가자! 우유만.",
+      "ENGLISH": "Let’s go, Yuman!",
+      "CHINESE_SIMPLIFIED": "走吧！吴宥万",
+      "CHINESE_TRADITIONAL": "走了！吳宥萬",
+      "JAPANESE": "行こう！ウユマン",
+      "INDONESIAN": "Ayo, Yuman!",
+      "PORTUGUESE": "Vamos, Yuman!",
+      "SPANISH": "¡Vamos, Yumán!",
+      "PERSIAN": "بیا بریم، یومان!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 너 시간되는 거 맞아?",
+      "ENGLISH": "Are you even free right now?",
+      "CHINESE_SIMPLIFIED": "不过你确定今天有时间吗？",
+      "CHINESE_TRADITIONAL": "話說，你的時間真的沒問題嗎？",
+      "JAPANESE": "でもさ お前ほんとに時間あるの?",
+      "INDONESIAN": "Kamu emang lagi kosong sekarang?",
+      "PORTUGUESE": "Mas... você tem tempo hoje?",
+      "SPANISH": "Pero, ¿tienes tiempo hoy?",
+      "PERSIAN": "شما حتی در حال حاضر آزاد هستید؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 27.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 나 오늘은 일 없어서 괜찮아.",
+      "ENGLISH": "Ah, yeah—off today.",
+      "CHINESE_SIMPLIFIED": "啊~我今天没工作，没关系",
+      "CHINESE_TRADITIONAL": "啊～我今天沒事，所以沒關係",
+      "JAPANESE": "あ～私 今日仕事ないから大丈夫",
+      "INDONESIAN": "Ah, iya—hari ini aku libur.",
+      "PORTUGUESE": "Não se preocupe, hoje eu não trabalho.",
+      "SPANISH": "No te preocupes, hoy no trabajo.",
+      "PERSIAN": "آه، بله - امروز خاموش است."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그래? 요즘 무슨 일 하는데?",
+      "ENGLISH": "Really? What’ve you been doing lately?",
+      "CHINESE_SIMPLIFIED": "是吗？最近在做什么工作呢？",
+      "CHINESE_TRADITIONAL": "是嗎？你最近都做些什麼？",
+      "JAPANESE": "そう? 何の仕事してんの?",
+      "INDONESIAN": "Serius? Akhir-akhir ini kamu ngapain aja?",
+      "PORTUGUESE": "Ah, é? Em que você trabalha?",
+      "SPANISH": "¿Ah, sí? ¿En qué trabajas?",
+      "PERSIAN": "واقعا؟ اخیراً چه کار می کردی؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 30.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "喔...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "É...",
+      "SPANISH": "Eh...",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 33.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 간호사 누나가 나 주사 좀 놔달라니까는...",
+      "ENGLISH": "Well, the nurse asked me to give her a shot, so—",
+      "CHINESE_SIMPLIFIED": "啊，是护士姐姐说要给我打个针的嘛！...",
+      "CHINESE_TRADITIONAL": "啊，是護士姐姐說要給我打針…",
+      "JAPANESE": "あ 看護師の姉さんが俺に注射打ってくれって…",
+      "INDONESIAN": "Tadi suster minta aku bantu nyuntik pasien, jadi—",
+      "PORTUGUESE": "Já pedi pra moça me aplicar uma injeção, senhorita...",
+      "SPANISH": "Ya le dije que me ponga una inyección, señorita…",
+      "PERSIAN": "خب، پرستار از من خواست که به او ضربه بزنم، بنابراین-"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 35.2
+    },
+    "SCRIPT": {
+      "KOREAN": "환자분 주사 맞으실 필요 없고 ",
+      "ENGLISH": "Sir, you don’t need an injection.",
+      "CHINESE_SIMPLIFIED": "患者您不需要打针",
+      "CHINESE_TRADITIONAL": "這位病患你不需要打針",
+      "JAPANESE": "患者さんは注射必要ないですよ",
+      "INDONESIAN": "Pak, Bapak nggak perlu suntikan.",
+      "PORTUGUESE": "Senhor, o senhor não precisa de injeção,",
+      "SPANISH": "Señor, no necesita ponerse inyecciones,",
+      "PERSIAN": "آقا شما نیازی به تزریق ندارید."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 35.2,
+      "HIDE": 36.8
+    },
+    "SCRIPT": {
+      "KOREAN": "약만 받으시면 돼요.",
+      "ENGLISH": "Just pick up your meds.",
+      "CHINESE_SIMPLIFIED": "只拿药就可以了",
+      "CHINESE_TRADITIONAL": "領藥就好",
+      "JAPANESE": "薬だけ受け取れば大丈夫です",
+      "INDONESIAN": "Cukup ambil obatnya aja, ya.",
+      "PORTUGUESE": "só tem que retirar o remédio.",
+      "SPANISH": "solo recoger su medicina.",
+      "PERSIAN": "فقط داروهای خود را بردارید"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 37.8,
+      "HIDE": 39.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 어떻게, 그러면...",
+      "ENGLISH": "Wait, then... ",
+      "CHINESE_SIMPLIFIED": "不是，怎么这样...",
+      "CHINESE_TRADITIONAL": "不是，那怎麼行…",
+      "JAPANESE": "え じゃあ…",
+      "INDONESIAN": "Eh, kalau gitu...",
+      "PORTUGUESE": "Ah, então...",
+      "SPANISH": "Ah, entonces…",
+      "PERSIAN": "صبر کن پس..."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 39.6,
+      "HIDE": 41.1
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 주사를 좀 놔줄까?",
+      "ENGLISH": "Can I give you the shot?",
+      "CHINESE_SIMPLIFIED": "那要不我来帮你打一针？",
+      "CHINESE_TRADITIONAL": "還是讓我來幫你打針？",
+      "JAPANESE": "俺がちょっと打ってあげようか?",
+      "INDONESIAN": "Boleh nggak aku yang nyuntik?",
+      "PORTUGUESE": "Quer que eu aplique a injeção?",
+      "SPANISH": "¿Quiere que yo le ponga la inyección?",
+      "PERSIAN": "می توانم به شما شلیک کنم؟"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 41.2,
+      "HIDE": 42.7
+    },
+    "SCRIPT": {
+      "KOREAN": "환자분! 자꾸 이러시면...!",
+      "ENGLISH": "Sir! If you keep this up—",
+      "CHINESE_SIMPLIFIED": "患者！您再这样...！",
+      "CHINESE_TRADITIONAL": "病患！您再這樣的話…！",
+      "JAPANESE": "患者さん! 何度もそうされると困ります!",
+      "INDONESIAN": "Pak! Kalau Bapak terus kayak gini—",
+      "PORTUGUESE": "Senhor! Se continuar assim...",
+      "SPANISH": "¡Señor! Si sigue así…",
+      "PERSIAN": "آقا! اگر اینو ادامه دهید -"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 42.8,
+      "HIDE": 43.5
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요!",
+      "ENGLISH": "Excuse me!",
+      "CHINESE_SIMPLIFIED": "那位先生！",
+      "CHINESE_TRADITIONAL": "那位先生！",
+      "JAPANESE": "すみません!",
+      "INDONESIAN": "Permisi!",
+      "PORTUGUESE": "Ei!",
+      "SPANISH": "¡Oiga!",
+      "PERSIAN": "ببخشید!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 44.3,
+      "HIDE": 45.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야? ",
+      "ENGLISH": "What the...?",
+      "CHINESE_SIMPLIFIED": "什么啊？",
+      "CHINESE_TRADITIONAL": "搞什麼？",
+      "JAPANESE": "なんだ?",
+      "INDONESIAN": "Apa-apaan nih...?",
+      "PORTUGUESE": "O quê?!",
+      "SPANISH": "¡¿Qué?!",
+      "PERSIAN": "چی...؟"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 45.4,
+      "HIDE": 47.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 당신?",
+      "ENGLISH": "Huh? You??",
+      "CHINESE_SIMPLIFIED": "呃？是你？",
+      "CHINESE_TRADITIONAL": "欸？是你？",
+      "JAPANESE": "え? あなたは?",
+      "INDONESIAN": "Hah? Kamu??",
+      "PORTUGUESE": "Você de novo?",
+      "SPANISH": "¿Usted otra vez?",
+      "PERSIAN": "ها؟ تو؟؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 47.1,
+      "HIDE": 48.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨...당신 나 알아? ",
+      "ENGLISH": "Ugh, do I know you??",
+      "CHINESE_SIMPLIFIED": "你认识我吗？",
+      "CHINESE_TRADITIONAL": "你認識我嗎？",
+      "JAPANESE": "くそ…俺のこと知ってるのか?",
+      "INDONESIAN": "Ugh, kita kenal ya??",
+      "PORTUGUESE": "Dro... Me conhece ou o quê?",
+      "SPANISH": "Mier... ¿Me conoce o qué?",
+      "PERSIAN": "اوه من شما رو میشناسم؟؟"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 49.4,
+      "HIDE": 49.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "啊？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 50.5,
+      "HIDE": 51.9
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 쳐다봐요.",
+      "ENGLISH": "Why are you staring?",
+      "CHINESE_SIMPLIFIED": "看什么看",
+      "CHINESE_TRADITIONAL": "看什麼看",
+      "JAPANESE": "何を見てるんですか",
+      "INDONESIAN": "Kenapa kamu ngeliatin gitu?",
+      "PORTUGUESE": "Por que tá me olhando tanto?",
+      "SPANISH": "¿Qué tanto me ve?",
+      "PERSIAN": "چرا خیره میشی؟"
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 52.4,
+      "HIDE": 53.3
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐가?",
+      "ENGLISH": "Staring at what??",
+      "CHINESE_SIMPLIFIED": "看什么？",
+      "CHINESE_TRADITIONAL": "看什麼？",
+      "JAPANESE": "え?",
+      "INDONESIAN": "Ngeliatin apa coba??",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "خیره شدن به چی؟؟"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 53.3,
+      "HIDE": 54.6
+    },
+    "SCRIPT": {
+      "KOREAN": "뭘 보냐고.",
+      "ENGLISH": "I said, what are you looking at?!",
+      "CHINESE_SIMPLIFIED": "问你看什么看",
+      "CHINESE_TRADITIONAL": "問你在看什麼啊？",
+      "JAPANESE": "何見てるんだって",
+      "INDONESIAN": "Aku tanya, kamu ngeliat apaan sih?!",
+      "PORTUGUESE": "Tá olhando o quê?",
+      "SPANISH": "¿Qué está mirando?",
+      "PERSIAN": "گفتم به چی نگاه می کنی؟!"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 55.2,
+      "HIDE": 57.9
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 아무것도 아니야 아이씨...",
+      "ENGLISH": "Ugh... it’s nothing, whatever...",
+      "CHINESE_SIMPLIFIED": "唉...没什么，我靠...",
+      "CHINESE_TRADITIONAL": "哈...沒什麼，真是的",
+      "JAPANESE": "いや なんでもない…まったく…",
+      "INDONESIAN": "Ugh... nggak kok, nggak penting...",
+      "PORTUGUESE": "Nada... nada...",
+      "SPANISH": "Nada… nada…",
+      "PERSIAN": "اوه... هیچی نیست..."
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 57.9,
+      "HIDE": 60.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어..? 저 사람 어디서 본 거 같은데...",
+      "ENGLISH": "Wait... I swear I’ve seen that guy before...",
+      "CHINESE_SIMPLIFIED": "呃...？那个人好像在哪见过...",
+      "CHINESE_TRADITIONAL": "呃...好像在哪裡看過那個人",
+      "JAPANESE": "あの人どこかで見たような…",
+      "INDONESIAN": "Tunggu... aku yakin pernah liat cowok itu deh...",
+      "PORTUGUESE": "Sinto que já vi essa pessoa em algum lugar...",
+      "SPANISH": "Siento que ya vi a esa persona en algún lado…",
+      "PERSIAN": "صبر کن... قسم می خورم که قبلاً اون مرد را دیده ام..."
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 60.5,
+      "HIDE": 63.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 여기 정신병동이랑 같이 있는 거야, 뭐야?",
+      "ENGLISH": "What is this place, part psych ward or something...?",
+      "CHINESE_SIMPLIFIED": "这里难道是和精神科在一起的吗？怎么回事？",
+      "CHINESE_TRADITIONAL": "不是吧，這裡難道是跟精神病院在同一棟嗎，搞什麼？",
+      "JAPANESE": "なんなんだ、ここ精神科と一緒になってんのか?",
+      "INDONESIAN": "Ini tempat apaan sih, semacam bangsal jiwa gitu...?",
+      "PORTUGUESE": "Aqui não fica do lado da ala psiquiátrica, não?",
+      "SPANISH": "¿Aquí no está junto a la sala psiquiátrica o qué?",
+      "PERSIAN": "این کجاست، بخش روانی یا چیزی...؟"
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 63.2,
+      "HIDE": 64.8
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다.",
+      "ENGLISH": "Thanks.",
+      "CHINESE_SIMPLIFIED": "谢谢",
+      "CHINESE_TRADITIONAL": "謝謝",
+      "JAPANESE": "ありがとうございます",
+      "INDONESIAN": "Makasih.",
+      "PORTUGUESE": "Obrigada.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "با تشکر"
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 64.9,
+      "HIDE": 65.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아... ",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Eh...",
+      "PORTUGUESE": "É...",
+      "SPANISH": "Eh...",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 65.8,
+      "HIDE": 67.2
+    },
+    "SCRIPT": {
+      "KOREAN": "얘 진료 좀 봐주세요.",
+      "ENGLISH": "Please take a look at him.",
+      "CHINESE_SIMPLIFIED": "麻烦您给这位看诊",
+      "CHINESE_TRADITIONAL": "請幫他看診",
+      "JAPANESE": "この人診察お願いします",
+      "INDONESIAN": "Tolong periksa dia, ya.",
+      "PORTUGUESE": "Dá uma olhada nesse rapaz, por favor.",
+      "SPANISH": "Revise a este chico, por favor.",
+      "PERSIAN": "لطفا به او نگاهی بیندازید."
+    }
+  },
+  {
+    "INDEX": 37.0,
+    "TIME": {
+      "SHOW": 67.3,
+      "HIDE": 67.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네! ",
+      "ENGLISH": "Sure!",
+      "CHINESE_SIMPLIFIED": "好的！",
+      "CHINESE_TRADITIONAL": "好的！",
+      "JAPANESE": "はい!",
+      "INDONESIAN": "Siap!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "مطمئنا!"
+    }
+  },
+  {
+    "INDEX": 38.0,
+    "TIME": {
+      "SHOW": 68.5,
+      "HIDE": 70.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님, 저 따라오세요.",
+      "ENGLISH": "Yuman, right this way.",
+      "CHINESE_SIMPLIFIED": "宥万先生，请跟我来",
+      "CHINESE_TRADITIONAL": "宥萬先生，請跟我來",
+      "JAPANESE": "ユマンさん こちらへどうぞ",
+      "INDONESIAN": "Yuman, lewat sini ya.",
+      "PORTUGUESE": "Yuman Woo, me acompanhe.",
+      "SPANISH": "Yumán Woo, sígame.",
+      "PERSIAN": "یومان، درست از این طرف."
+    }
+  },
+  {
+    "INDEX": 39.0,
+    "TIME": {
+      "SHOW": 70.3,
+      "HIDE": 71.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 잠시만요! ",
+      "ENGLISH": "Okay—just a sec!",
+      "CHINESE_SIMPLIFIED": "好的，稍等一下！",
+      "CHINESE_TRADITIONAL": "好，等一下！",
+      "JAPANESE": "はい ちょっと待ってください!",
+      "INDONESIAN": "Oke—sebentar!",
+      "PORTUGUESE": "Sim, um instante.",
+      "SPANISH": "Sí, un momento.",
+      "PERSIAN": "خوب - فقط یک ثانیه!"
+    }
+  },
+  {
+    "INDEX": 40.0,
+    "TIME": {
+      "SHOW": 72.1,
+      "HIDE": 73.8
+    },
+    "SCRIPT": {
+      "KOREAN": "말숙아, 로비에서 기다릴래? ",
+      "ENGLISH": "Mal-sook, wanna wait in the lobby?",
+      "CHINESE_SIMPLIFIED": "末淑啊，你要在大厅等我吗？",
+      "CHINESE_TRADITIONAL": "末淑，妳在大廳等我好嗎？",
+      "JAPANESE": "マルスク ロビーで待っててくれる?",
+      "INDONESIAN": "Mal-sook, kamu mau nunggu di lobi aja?",
+      "PORTUGUESE": "Malsook Go, quer esperar no saguão?",
+      "SPANISH": "Malsook Go, ¿quieres esperar en el lobby?",
+      "PERSIAN": "مال‌سوک، می‌خوای در لابی منتظر بمانیم؟"
+    }
+  },
+  {
+    "INDEX": 41.0,
+    "TIME": {
+      "SHOW": 75.5,
+      "HIDE": 77.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 말숙아?",
+      "ENGLISH": "Huh? Mal-sook?",
+      "CHINESE_SIMPLIFIED": "末淑啊？",
+      "CHINESE_TRADITIONAL": "末淑啊？",
+      "JAPANESE": "マルスク?",
+      "INDONESIAN": "Hah? Mal-sook?",
+      "PORTUGUESE": "Malsook?",
+      "SPANISH": "¿Malsook?",
+      "PERSIAN": "ها؟ مال‌سوک؟"
+    }
+  },
+  {
+    "INDEX": 42.0,
+    "TIME": {
+      "SHOW": 78.6,
+      "HIDE": 80.6
+    },
+    "SCRIPT": {
+      "KOREAN": "같이 오신 분은 누구...?",
+      "ENGLISH": "And who’s the person you came with...?",
+      "CHINESE_SIMPLIFIED": "和您一起来的这位是...？",
+      "CHINESE_TRADITIONAL": "這位和你一起來的是？",
+      "JAPANESE": "一緒に来た方はどなたで…?",
+      "INDONESIAN": "Terus yang bareng kamu tadi siapa...?",
+      "PORTUGUESE": "A pessoa com quem ele veio é...?",
+      "SPANISH": "¿La persona con la que vino es…?",
+      "PERSIAN": "و اون کسی که باهاش ​​اومدی کیه؟"
+    }
+  },
+  {
+    "INDEX": 43.0,
+    "TIME": {
+      "SHOW": 80.8,
+      "HIDE": 82.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 제 친구예요!",
+      "ENGLISH": "Oh, she’s a friend!",
+      "CHINESE_SIMPLIFIED": "啊，这是我朋友！",
+      "CHINESE_TRADITIONAL": "啊，那是我朋友！",
+      "JAPANESE": "あ 友達です!",
+      "INDONESIAN": "Oh, dia temen!",
+      "PORTUGUESE": "Ah, é minha amiga.",
+      "SPANISH": "Ah, es mi amiga.",
+      "PERSIAN": "اوه، او یک دوست است!"
+    }
+  },
+  {
+    "INDEX": 44.0,
+    "TIME": {
+      "SHOW": 82.3,
+      "HIDE": 82.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Ah...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "啊...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Ah...",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Ah...",
+      "PERSIAN": "آه..."
+    }
+  },
+  {
+    "INDEX": 45.0,
+    "TIME": {
+      "SHOW": 83.2,
+      "HIDE": 84.3
+    },
+    "SCRIPT": {
+      "KOREAN": "야 고말숙!",
+      "ENGLISH": "Hey, Mal-sook!",
+      "CHINESE_SIMPLIFIED": "喂，高末淑！",
+      "CHINESE_TRADITIONAL": "喂，高末淑！",
+      "JAPANESE": "おい コ・マルスク!",
+      "INDONESIAN": "Hei, Mal-sook!",
+      "PORTUGUESE": "Ei, Malsook Go!",
+      "SPANISH": "¡Oye, Malsook Go!",
+      "PERSIAN": "هی، مال‌سوک!"
+    }
+  },
+  {
+    "INDEX": 46.0,
+    "TIME": {
+      "SHOW": 85.2,
+      "HIDE": 86.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나 일 생겼다. ",
+      "ENGLISH": "Something came up!",
+      "CHINESE_SIMPLIFIED": "我有点事",
+      "CHINESE_TRADITIONAL": "我有點事情",
+      "JAPANESE": "私ちょっと用事できた",
+      "INDONESIAN": "Ada urusan mendadak nih!",
+      "PORTUGUESE": "Surgiu um imprevisto.",
+      "SPANISH": "Me salió un asunto.",
+      "PERSIAN": "یه چیزی پیش اومد!"
+    }
+  },
+  {
+    "INDEX": 47.0,
+    "TIME": {
+      "SHOW": 86.2,
+      "HIDE": 87.3
+    },
+    "SCRIPT": {
+      "KOREAN": "좀 이따 집에서 봐!",
+      "ENGLISH": "I'll see you at home!",
+      "CHINESE_SIMPLIFIED": "等会儿家里见！",
+      "CHINESE_TRADITIONAL": "晚點回家見！",
+      "JAPANESE": "またあとで家で会おう!",
+      "INDONESIAN": "Kita ketemu di rumah, ya!",
+      "PORTUGUESE": "A gente se vê em casa depois.",
+      "SPANISH": "Nos vemos luego en casa.",
+      "PERSIAN": "من تو را در خونه می بینم!"
+    }
+  },
+  {
+    "INDEX": 48.0,
+    "TIME": {
+      "SHOW": 87.8,
+      "HIDE": 88.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야...",
+      "ENGLISH": "What the...?",
+      "CHINESE_SIMPLIFIED": "什么啊...",
+      "CHINESE_TRADITIONAL": "搞什麼...",
+      "JAPANESE": "なんだよ…",
+      "INDONESIAN": "Apa-apaan sih...?",
+      "PORTUGUESE": "O quê...?",
+      "SPANISH": "¿Qué…?",
+      "PERSIAN": "چی...؟"
+    }
+  },
+  {
+    "INDEX": 49.0,
+    "TIME": {
+      "SHOW": 88.9,
+      "HIDE": 89.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 님!",
+      "ENGLISH": "Yuman!",
+      "CHINESE_SIMPLIFIED": "宥万先生！",
+      "CHINESE_TRADITIONAL": "宥萬先生！",
+      "JAPANESE": "ユマンさん!",
+      "INDONESIAN": "Yuman!",
+      "PORTUGUESE": "Yuman Woo.",
+      "SPANISH": "Yumán Woo.",
+      "PERSIAN": "یومان!"
+    }
+  },
+  {
+    "INDEX": 50.0,
+    "TIME": {
+      "SHOW": 90.2,
+      "HIDE": 90.9
+    },
+    "SCRIPT": {
+      "KOREAN": "가실까요?",
+      "ENGLISH": "Shall we go?",
+      "CHINESE_SIMPLIFIED": "我们走吧？",
+      "CHINESE_TRADITIONAL": "我們走吧？",
+      "JAPANESE": "行きましょうか",
+      "INDONESIAN": "Yuk, kita jalan?",
+      "PORTUGUESE": "Vamos?",
+      "SPANISH": "¿Nos vamos?",
+      "PERSIAN": "بریم؟"
+    }
+  },
+  {
+    "INDEX": 51.0,
+    "TIME": {
+      "SHOW": 90.9,
+      "HIDE": 92.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아...네...",
+      "ENGLISH": "Ah... yeah...",
+      "CHINESE_SIMPLIFIED": "好的...",
+      "CHINESE_TRADITIONAL": "好的…",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Ah... iya...",
+      "PORTUGUESE": "Sim...",
+      "SPANISH": "Sí…",
+      "PERSIAN": "آه ... آره ..."
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 10.8,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 오늘도 아슬아슬 했다",
+      "ENGLISH": "Phew... That was so close.",
+      "CHINESE_TRADITIONAL": "哈...今天也是差一點",
+      "INDONESIAN": "Haa... Hampir aja, loh.",
+      "PERSIAN": "وای... خیلی نزدیک بود."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "역시 잠꾸러기네 오빠 ",
+      "ENGLISH": "You really are a sleepyhead, oppa.",
+      "CHINESE_TRADITIONAL": "哥哥果然還是一樣愛睡覺呢",
+      "INDONESIAN": "Kamu tuh memang tukang tidur, ya, Oppa~",
+      "PERSIAN": "تو واقعا خواب آلود هستی یومان"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "일어나면 무슨 꿈 꿨는지 꼭 말해 줘야 돼요.",
+      "ENGLISH": "When you wake up, you have to tell me about your dream, okay?",
+      "CHINESE_TRADITIONAL": "醒來的話，一定要告訴我夢到什麼喔",
+      "INDONESIAN": "Nanti pas bangun, kamu harus cerita mimpi kamu ke aku yah!",
+      "PERSIAN": "وقتی از خواب بیدار شدی، باید در مورد خوابت به من بگویی، باشه؟"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "동 과장님 저 물 좀 주세요....",
+      "ENGLISH": "Gran, could you get me some water…?",
+      "CHINESE_SIMPLIFIED": "佟科长，能给我点水吗...",
+      "CHINESE_TRADITIONAL": "佟課長，請給我一點水...",
+      "JAPANESE": "トン課長、水ください…",
+      "INDONESIAN": "Gran, boleh minta tolong ambilin air nggak…?",
+      "PORTUGUESE": "Jefa Gran, a senhora poderia me dar um pouco de água?",
+      "SPANISH": "Jefa Gran, ¿me podría dar un poco de agua?",
+      "PERSIAN": "ننه، می تونی برای من آب بیاری...؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐만 기다려~ ",
+      "ENGLISH": "Just a sec~",
+      "CHINESE_SIMPLIFIED": "等我一下~",
+      "CHINESE_TRADITIONAL": "你等一下～",
+      "JAPANESE": "ちょっと待ってて〜",
+      "INDONESIAN": "Sebentar ya~",
+      "PORTUGUESE": "Espere um momento.",
+      "SPANISH": "Espérame un momento.",
+      "PERSIAN": "فقط یک ثانیه~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "여기!",
+      "ENGLISH": "Here you go!",
+      "CHINESE_SIMPLIFIED": "给你！",
+      "CHINESE_TRADITIONAL": "這裡！",
+      "JAPANESE": "ほら！",
+      "INDONESIAN": "Nih, buat kamu!",
+      "PORTUGUESE": "Aqui está.",
+      "SPANISH": "Toma.",
+      "PERSIAN": "در اینجا شما بروید!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다....",
+      "ENGLISH": "Thank you…",
+      "CHINESE_SIMPLIFIED": "谢谢...",
+      "CHINESE_TRADITIONAL": "謝謝你...",
+      "JAPANESE": "ありがとうございます…",
+      "INDONESIAN": "Makasih ya…",
+      "PORTUGUESE": "Muito obrigado.",
+      "SPANISH": "Muchas gracias.",
+      "PERSIAN": "ممنون…"
+    }
+  }
+]

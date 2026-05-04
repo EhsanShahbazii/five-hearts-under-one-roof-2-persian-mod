@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나 대리님",
+      "ENGLISH": "Hey, Assistant Manager!",
+      "CHINESE_SIMPLIFIED": "罗代理！",
+      "CHINESE_TRADITIONAL": "羅代理～",
+      "JAPANESE": "ナ代理",
+      "INDONESIAN": "Eh, ada Asisten Manajer!",
+      "PORTUGUESE": "Subdiretor Nam!",
+      "SPANISH": "¡Subdirector Nam!",
+      "PERSIAN": "هی، دستیار مدیر!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 4.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어~ 우 사원! ",
+      "ENGLISH": "Oh~ Woo Yuman!",
+      "CHINESE_SIMPLIFIED": "哦~吴宥万职员！",
+      "CHINESE_TRADITIONAL": "喔～ 吳宥萬職員",
+      "JAPANESE": "お〜ウ社員！",
+      "INDONESIAN": "Oh~ Woo Yuman!",
+      "PORTUGUESE": "Oh~ Yuman!",
+      "SPANISH": "¡Oh~ Yumán!",
+      "PERSIAN": "اوه ~ وو یومان!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "呃~",
+      "CHINESE_TRADITIONAL": "啊啊～",
+      "JAPANESE": "お〜！",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Oh...",
+      "SPANISH": "Oh...",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.2,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 진짜 걱정했어!",
+      "ENGLISH": "Man, I was so worried!",
+      "CHINESE_SIMPLIFIED": "哎呀，真是担心死我了！",
+      "CHINESE_TRADITIONAL": "哎呀，我真的很擔心你！",
+      "JAPANESE": "いや〜本当に心配したんだぞ！",
+      "INDONESIAN": "Aku khawatir banget, tahu sama kamu!",
+      "PORTUGUESE": "Ah, você me deixou muito preocupado.",
+      "SPANISH": "Ay, me tenías muy preocupado.",
+      "PERSIAN": "مرد، من خیلی نگران بودم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그동안 나랑 이 컨벌세이션 할 사람이 없어서 얼마나 허전했다고~",
+      "ENGLISH": "I felt so empty without anyone to have this conversation with~",
+      "CHINESE_SIMPLIFIED": "这段时间都没人能跟我聊天吹水，心里空落落的~",
+      "CHINESE_TRADITIONAL": "這段時間沒有人可以跟我進行Conversation，我有多麼空虛啊～",
+      "JAPANESE": "この間、お前とこのコンバセーションする相手がいなくてどれだけ寂しかったか〜！",
+      "INDONESIAN": "Rasanya hampa banget nggak ada yang bisa diajak ngobrol kayak biasanya~",
+      "PORTUGUESE": "Durante todo esse tempo, senti falta das nossas conversas — me senti vazio!",
+      "SPANISH": "Durante todo este tiempo extrañé nuestras conversaciones, ¡me sentía vacío!",
+      "PERSIAN": "من بدون کسی که این گفتگو را با او انجام دهم احساس خالی بودن می کردم"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 14.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 대리님 엄청 보고 싶었습니다. ",
+      "ENGLISH": "I missed you a lot too, Assistant Manager.",
+      "CHINESE_SIMPLIFIED": "我也超级想罗代理的",
+      "CHINESE_TRADITIONAL": "我也超想念代理您的",
+      "JAPANESE": "俺も代理にすごく会いたかったです！",
+      "INDONESIAN": "Aku juga kangen banget sama kamu, Asisten Manajer.",
+      "PORTUGUESE": "Eu também senti muito a sua falta, subdiretor.",
+      "SPANISH": "Yo también lo extrañé mucho, subdirector.",
+      "PERSIAN": "من هم خیلی دلم برات تنگ شده بود دستیار مدیر."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.8,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "에이~ 그래 그래",
+      "ENGLISH": "Ah~ yeah, yeah.",
+      "CHINESE_SIMPLIFIED": "哎呦~ 好啦好啦",
+      "CHINESE_TRADITIONAL": "哎～ 好啦好啦",
+      "JAPANESE": "はは～そうかそうか〜",
+      "INDONESIAN": "Ah~ iya, iya.",
+      "PORTUGUESE": "Muito bem, rapaz.",
+      "SPANISH": "Muy bien, muchacho.",
+      "PERSIAN": "آه ~ آره آره"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그 사고는 어쩌다 그런 거야? ",
+      "ENGLISH": "How did that accident happen anyway?",
+      "CHINESE_SIMPLIFIED": "那事故是怎么发生的啊？",
+      "CHINESE_TRADITIONAL": "那個事故是怎麼發生的？",
+      "JAPANESE": "で、その事故はどうしてそんなことになったんだ？",
+      "INDONESIAN": "Kecelakaannya gimana sih kok bisa kejadian?",
+      "PORTUGUESE": "E como foi exatamente o acidente?",
+      "SPANISH": "¿Y cómo ocurrió exactamente ese accidente?",
+      "PERSIAN": "به هر حال اون تصادف چگونه اتفاق افتاد؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "예, 뭐, 어쩌다 보니 그렇게 됐습니다.",
+      "ENGLISH": "Well… it just kind of happened.",
+      "CHINESE_SIMPLIFIED": "嗯，这个嘛，阴差阳错就那样了",
+      "CHINESE_TRADITIONAL": "嗯，就...陰錯陽差的就那樣了",
+      "JAPANESE": "まあ、ちょっとした流れでそうなっちゃいました",
+      "INDONESIAN": "Yah… kejadiannya gitu aja, tiba-tiba.",
+      "PORTUGUESE": "Bom, sabe... foi tudo muito repentino.",
+      "SPANISH": "Bueno, ya sabe… fue muy repentino.",
+      "PERSIAN": "خب... این اتفاق به نوعی افتاد."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.3,
+      "HIDE": 23.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이 차가 와도 우리 군필자들은 응? ",
+      "ENGLISH": "Even with a car coming at us, we veterans should’ve—right?",
+      "CHINESE_SIMPLIFIED": "那车冲过来，我们这些服过兵役的人，嗯？",
+      "CHINESE_TRADITIONAL": "就算車子來了，我們當過兵的人，嗯？",
+      "JAPANESE": "車が来てもな、俺たちのような軍隊経験者はな？",
+      "INDONESIAN": "Padahal walau ada mobil datang, kita yang veteran ini harusnya ngga kena nggak sih?",
+      "PORTUGUESE": "Ah! Mas mesmo que um carro venha na sua direção, lembre-se de que tivemos treinamento militar!",
+      "SPANISH": "¡Ay! Pero aunque un auto venga hacia ti, recuerda que tuvimos entrenamento militar.",
+      "PERSIAN": "حتی اگر ماشینی به سمت ما می آید، ما کهنه سربازان باید این کار را می کردیم - درست است؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "민첩하게 샥! 재빠르게 샥! 이렇게 피했어야지. 응?",
+      "ENGLISH": "Quickly dodge! Swiftly dodge! Like that, right?",
+      "CHINESE_SIMPLIFIED": "就该敏捷地嗖！迅速地嗖！这样躲开才对嘛。嗯？",
+      "CHINESE_TRADITIONAL": "就要敏捷地「唰！」快速地「唰！」這樣躲開才對啊。嗯？",
+      "JAPANESE": "素早くシャッ！すぐにシャッ！って避けないとだめだぞ？な？",
+      "INDONESIAN": "Cepet menghindar! Sigap menghindar! Gitu dong harusnya, kan?",
+      "PORTUGUESE": "Você devia se mover assim, rápido, assim! Esquivar-se com agilidade! Entendido?",
+      "SPANISH": "¡Deberías moverte así, rápido, así! ¡Evitarlo ágilmente! ¿Entendido?",
+      "PERSIAN": "سریع طفره رفتن! به سرعت طفره رفتن! مثل اون، درست است؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 31.5
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 아무튼 이제 과거는 잊고 ",
+      "ENGLISH": "Anyway, let’s forget the past and",
+      "CHINESE_SIMPLIFIED": "总之过去的事就让它过去",
+      "CHINESE_TRADITIONAL": "總之，過去的事就讓它過去",
+      "JAPANESE": "まあとにかく、もう過去のことは忘れて",
+      "INDONESIAN": "Ya udah deh, lupain yang udah lewat aja,",
+      "PORTUGUESE": "Enfim, esqueça o passado.",
+      "SPANISH": "En fin, olvidemos el pasado.",
+      "PERSIAN": "به هر حال گذشته را فراموش کنیم و"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘부턴 민첩한 하루 되자고! 응!",
+      "ENGLISH": "make today a quick and agile day! Sound good?",
+      "CHINESE_SIMPLIFIED": "从今天起，开启敏捷的一天！嗯！",
+      "CHINESE_TRADITIONAL": "從今天開始，就過一個敏捷的一天吧！嗯！",
+      "JAPANESE": "今日からは機敏な一日にしようじゃないか！な！",
+      "INDONESIAN": "dan bikin hari ini jadi hari yang cepat dan gesit! Setuju?",
+      "PORTUGUESE": "A partir de hoje, quero que seja mais ágil, ok?",
+      "SPANISH": "¡A partir de hoy, espero que seas más ágil! ¿ok?",
+      "PERSIAN": "امروز را به یک روز سریع و چابک تبدیل کنید! صدا خوب است؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 36.5
+    },
+    "SCRIPT": {
+      "KOREAN": "예 감사합니다~",
+      "ENGLISH": "Yes, thank you~",
+      "CHINESE_SIMPLIFIED": "好的，谢谢您~",
+      "CHINESE_TRADITIONAL": "好，謝謝您～",
+      "JAPANESE": "はい、ありがとうございます〜！",
+      "INDONESIAN": "Iya, terima kasih~",
+      "PORTUGUESE": "Sim, muito obrigado~",
+      "SPANISH": "Sí, muchas gracias~",
+      "PERSIAN": "بله ممنونم~"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.51,
+      "HIDE": 38.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그래 오케이",
+      "ENGLISH": "Alright, okay!",
+      "CHINESE_SIMPLIFIED": "好，OK",
+      "CHINESE_TRADITIONAL": "好，OK",
+      "JAPANESE": "よし、オッケイ",
+      "INDONESIAN": "Oke sip!",
+      "PORTUGUESE": "Muito bem!",
+      "SPANISH": "¡Muy bien!",
+      "PERSIAN": "باشه، باشه!"
+    }
+  }
+]

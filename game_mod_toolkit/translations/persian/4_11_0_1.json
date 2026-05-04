@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 일이에요...!!",
+      "ENGLISH": "What’s going on…!!",
+      "CHINESE_SIMPLIFIED": "出什么事了...！！",
+      "CHINESE_TRADITIONAL": "發生什麼事了...！！",
+      "JAPANESE": "どうしました…！！",
+      "INDONESIAN": "Ada apaan sih ini…!!",
+      "PORTUGUESE": "O que está acontecendo...?!",
+      "SPANISH": "¡¿Qué pasó...?!",
+      "PERSIAN": "چه خبره…!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "헉 옷이...!",
+      "ENGLISH": "Gasp—your clothes…!",
+      "CHINESE_SIMPLIFIED": "天啊，你的衣服...！",
+      "CHINESE_TRADITIONAL": "欸，妳的衣服...！",
+      "JAPANESE": "あっ、服が…！",
+      "INDONESIAN": "Hah...bajumu…!",
+      "PORTUGUESE": "Ah! Minha roupa…!",
+      "SPANISH": "¡Ah! ¡Tu ropa…!",
+      "PERSIAN": "نفس نفس - لباس تو…!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 놀라게 해드려서 죄송해요!",
+      "ENGLISH": "Ah… I’m sorry for startling you!",
+      "CHINESE_SIMPLIFIED": "啊...吓到您了真对不起！",
+      "CHINESE_TRADITIONAL": "啊... 嚇到您真抱歉！",
+      "JAPANESE": "あっ…驚かせてしまってすみません！",
+      "INDONESIAN": "Ah… maaf udah bikin kaget!",
+      "PORTUGUESE": "Ah… desculpa, não quis te assustar.",
+      "SPANISH": "Ah… perdón, no quería asustarlo.",
+      "PERSIAN": "آه ... متاسفم که شما را غافلگیر کردم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": " 제가 물을 잘못 틀은어가지고 지금 바로 다시 청소 할게요.",
+      "ENGLISH": "I must’ve turned the water wrong… I’ll clean it up right away.",
+      "CHINESE_SIMPLIFIED": "是我不小心开错水龙头...我马上重新打扫",
+      "CHINESE_TRADITIONAL": "我不小心轉錯水龍頭... 現在馬上重新打掃",
+      "JAPANESE": "私が水を間違えて出しちゃって…すぐ掃除やり直します！",
+      "INDONESIAN": "Kayaknya aku salah muter airnya… aku bersihin sekarang juga.",
+      "PORTUGUESE": "Abri errado a torneira e molhou tudo. Vou limpar já.",
+      "SPANISH": "Abrí mal el grifo y se mojó todo. Voy a limpiar de inmediato.",
+      "PERSIAN": "حتماً آب را اشتباه کرده‌ام... فوراً اونو تمیز می‌کنم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 이렇게 젖어 놓곤 무슨 청소예요! ",
+      "ENGLISH": "No, how are you supposed to clean after getting yourself this soaked?!",
+      "CHINESE_SIMPLIFIED": "都湿成这样了，还打扫什么呀！",
+      "CHINESE_TRADITIONAL": "都濕成這樣了，還打掃什麼！",
+      "JAPANESE": "いや、こんなに濡れたまま掃除なんてダメですよ！",
+      "INDONESIAN": "Nggak, kamu basah kuyup gitu gimana mau bersih-bersih?!",
+      "PORTUGUESE": "Limpar assim, toda encharcada? Nem pense nisso!",
+      "SPANISH": "¿Limpiar así, toda empapada? ¡Ni lo pienses!",
+      "PERSIAN": "نه، بعد از اینکه اینقدر خیس شدی چطوری باید تمیز کنی؟!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 18.3
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 옷부터 갈아입어요.",
+      "ENGLISH": "First, change your clothes.",
+      "CHINESE_SIMPLIFIED": "先去换衣服吧",
+      "CHINESE_TRADITIONAL": "妳先去換衣服",
+      "JAPANESE": "とにかく、まずは着替えてください",
+      "INDONESIAN": "Ganti baju dulu, gih.",
+      "PORTUGUESE": "Primeiro, troque de roupa.",
+      "SPANISH": "Primero cámbiate de ropa.",
+      "PERSIAN": "اول لباست رو عوض کن"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 20.5
+    },
+    "SCRIPT": {
+      "KOREAN": "바, 박민정 님??",
+      "ENGLISH": "B-Byung Min-jung…??",
+      "CHINESE_SIMPLIFIED": "朴、朴敏静小姐？？",
+      "CHINESE_TRADITIONAL": "樸、樸敏靜小姐？",
+      "JAPANESE": "パ、パク・ミンジョンさん！？",
+      "INDONESIAN": "B-Byung Min-jung…??",
+      "PORTUGUESE": "Senhorita... Minjung?",
+      "SPANISH": "¿Señorita... Minjung?",
+      "PERSIAN": "بی-بیونگ مین‌جونگ…؟؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.6,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어떻게 여기 계세요?",
+      "ENGLISH": "How are you even here?",
+      "CHINESE_SIMPLIFIED": "您怎么会在这里？",
+      "CHINESE_TRADITIONAL": "妳怎麼會在這裡？",
+      "JAPANESE": "どうしてここに…？",
+      "INDONESIAN": "Kok kamu bisa ada di sini?",
+      "PORTUGUESE": "O que você tá fazendo aqui?",
+      "SPANISH": "¿Qué hace usted aquí?",
+      "PERSIAN": "اصلا تو اینجا چطوری؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 25.3
+    },
+    "SCRIPT": {
+      "KOREAN": "설명은 나중에! 일단 옷부터 갈아입어요",
+      "ENGLISH": "I’ll explain later! Just change your clothes first.",
+      "CHINESE_SIMPLIFIED": "待会儿再解释！先换衣服吧",
+      "CHINESE_TRADITIONAL": "等等再解釋！妳先去換衣服",
+      "JAPANESE": "説明はあとで！とにかく着替えましょう",
+      "INDONESIAN": "Nanti aku jelasin! Sekarang ganti baju dulu aja.",
+      "PORTUGUESE": "Depois te explico. Primeiro se troca.",
+      "SPANISH": "Luego te explico. Primero cámbiate.",
+      "PERSIAN": "بعدا توضیح میدم! فقط اول لباستو عوض کن"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 26.9
+    },
+    "SCRIPT": {
+      "KOREAN": "내가 옷 빌려 줄게요.",
+      "ENGLISH": "I’ll lend you some clothes.",
+      "CHINESE_SIMPLIFIED": "我借衣服给你",
+      "CHINESE_TRADITIONAL": "我的衣服借你穿",
+      "JAPANESE": "私が服を貸します",
+      "INDONESIAN": "Aku pinjemin baju, ya.",
+      "PORTUGUESE": "Vou te emprestar uma roupa.",
+      "SPANISH": "Te prestaré algo de ropa.",
+      "PERSIAN": "چند لباس به تو قرض می دهم"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 28.1
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Okay…",
+      "CHINESE_SIMPLIFIED": "好的...",
+      "CHINESE_TRADITIONAL": "好...",
+      "JAPANESE": "は、はい…",
+      "INDONESIAN": "Oke…",
+      "PORTUGUESE": "Tá bem...",
+      "SPANISH": "Está bien...",
+      "PERSIAN": "باشه…"
+    }
+  }
+]

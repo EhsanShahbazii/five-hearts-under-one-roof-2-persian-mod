@@ -1,0 +1,398 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그 사람 병원 어디에서 본지 기억해요?",
+      "ENGLISH": "Do you remember which hospital we saw her at?",
+      "CHINESE_SIMPLIFIED": "你还记得是在医院哪里见过那位小姐的吗？",
+      "CHINESE_TRADITIONAL": "你還記得在醫院哪裡看到那個人嗎？",
+      "JAPANESE": "この人 どこの病院で見たか 覚えてますか？",
+      "INDONESIAN": "Apakah kamu ingat di rumah sakit mana kita menemuinya?",
+      "PORTUGUESE": "Você se lembra em que parte do hospital viu essa pessoa?",
+      "SPANISH": "¿Recuerdas en qué parte del hospital viste a esa persona?",
+      "PERSIAN": "یادت هست در کدام بیمارستان اونو دیدیم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.9,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "기억하기는 하는데... ",
+      "ENGLISH": "I do remember, but...",
+      "CHINESE_SIMPLIFIED": "记得是记得...",
+      "CHINESE_TRADITIONAL": "記得是記得…",
+      "JAPANESE": "うん 覚えてはいるけど…",
+      "INDONESIAN": "Aku ingat, tapi...",
+      "PORTUGUESE": "Sim, mas… hã… já que estamos aqui",
+      "SPANISH": "Sí, pero… mmm… ya que estamos aquí",
+      "PERSIAN": "یادم هست اما..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": " 음… 온 김에 규리 쌤한테 여쭤 볼까?",
+      "ENGLISH": "Hmm... since we’re here, maybe we can ask Ms. Gyu-ri?",
+      "CHINESE_SIMPLIFIED": "嗯...来都来了，要不顺便问问方护士？",
+      "CHINESE_TRADITIONAL": "嗯…既然來了，要不問問久梨護理師吧？",
+      "JAPANESE": "うーん… 来たついでに ギュリ先生に聞いてみようか？",
+      "INDONESIAN": "Hmm... karena kita sudah di sini, mungkin kita bisa bertanya pada Nona Gyu-ri?",
+      "PORTUGUESE": "por que não perguntamos pra enfermeira Gyuri?",
+      "SPANISH": "¿por qué no le preguntamos a la enferma Gyuri?",
+      "PERSIAN": "هوم... چون اینجا هستیم، شاید بتوانیم از خانم گیو ری بپرسیم؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "잠시만요? 규리 쌤 어디 있지...",
+      "ENGLISH": "One sec—where is she...?",
+      "CHINESE_SIMPLIFIED": "稍等一下？方护士在哪呢...",
+      "CHINESE_TRADITIONAL": "等一下？久梨護士在哪裡呢…",
+      "JAPANESE": "ちょっと待ってください ギュリ先生どこだろ…",
+      "INDONESIAN": "Tunggu sebentar—di mana dia...?",
+      "PORTUGUESE": "Um momento, onde ela está…?",
+      "SPANISH": "Un momento, ¿dónde está…?",
+      "PERSIAN": "یک ثانیه - او کجاست...؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시, 나 찾았어요?",
+      "ENGLISH": "Were you looking for me?",
+      "CHINESE_SIMPLIFIED": "请问，是在找我吗？",
+      "CHINESE_TRADITIONAL": "你找我嗎？",
+      "JAPANESE": "もしかして 私を探してました？",
+      "INDONESIAN": "Apakah kamu mencari aku?",
+      "PORTUGUESE": "Tavam me procurando?",
+      "SPANISH": "¿Me estaban buscando?",
+      "PERSIAN": "دنبال من بودی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.7,
+      "HIDE": 16.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오 쌤! 오늘 근무하시는 날이에요?",
+      "ENGLISH": "Oh! Nurse Gyu-ri! Are you working today?",
+      "CHINESE_SIMPLIFIED": "哦老师！今天是您值班吗？",
+      "CHINESE_TRADITIONAL": "你好，久梨護理師！今天你值班嗎？",
+      "JAPANESE": "おっ 先生！ 今日は勤務日なんですか？",
+      "INDONESIAN": "Oh! Perawat Gyu-ri! Apakah kamu bekerja hari ini?",
+      "PORTUGUESE": "Ah, enfermeira! Hoje é dia de trabalho?",
+      "SPANISH": "¡Oh, enfermera! ¿Hoy le toca trabajar?",
+      "PERSIAN": "اوه! پرستار گیو ری! امروز کار میکنی؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 곧 끝나긴 하는데...",
+      "ENGLISH": "Yep! Just about to wrap up, though.",
+      "CHINESE_SIMPLIFIED": "嗯！虽然快下班了...",
+      "CHINESE_TRADITIONAL": "是啊！不過快下班了…",
+      "JAPANESE": "はい もうすぐ終わるところなんですけど…",
+      "INDONESIAN": "Yep! Sebentar lagi selesai.",
+      "PORTUGUESE": "Sim, mas já tô quase terminando!",
+      "SPANISH": "Sí, ¡aunque ya casi termino!",
+      "PERSIAN": "بله! با این حال، فقط در شرف اتمام است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 18.7,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어, 근데 오늘 유만 씨 진료 없는 걸로 아는데 ",
+      "ENGLISH": "Wait, isn’t today one of your off days, Yuman?",
+      "CHINESE_SIMPLIFIED": "呃，今天宥万先生应该没有诊疗安排才对",
+      "CHINESE_TRADITIONAL": "啊，今天宥萬先生應該沒有要回診啊",
+      "JAPANESE": "あれ？ 今日はユマンさん 診察ないはずですよね？",
+      "INDONESIAN": "Tunggu, bukankah hari ini salah satu hari liburmu, Yuman?",
+      "PORTUGUESE": "Hã, mas pelo que lembro, o senhor não tinha consulta hoje, senhor Yumán.",
+      "SPANISH": "Eh, pero según recuerdo, hoy no tenía cita médica, señor Yumán.",
+      "PERSIAN": "صبر کن، امروز یکی از روزهای تعطیل تو نیست، یومان؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.7,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 어디 아파요?",
+      "ENGLISH": "Are you feeling okay?",
+      "CHINESE_SIMPLIFIED": "是哪里不舒服吗？",
+      "CHINESE_TRADITIONAL": "有哪裡不舒服嗎？",
+      "JAPANESE": "どこか痛いんですか？",
+      "INDONESIAN": "Apakah kamu baik-baik saja?",
+      "PORTUGUESE": "Tá se sentindo mal?",
+      "SPANISH": "¿Se siente mal?",
+      "PERSIAN": "شما احساس خوبی دارید؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.8,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 아니 그런 건 아니고",
+      "ENGLISH": "Oh no, it’s not that—",
+      "CHINESE_SIMPLIFIED": "啊不是，不是那样的",
+      "CHINESE_TRADITIONAL": "啊，不，不是那樣的…",
+      "JAPANESE": "あ いえ そういうことじゃなくて",
+      "INDONESIAN": "Oh tidak, bukan itu—",
+      "PORTUGUESE": "Ah, não, não é isso.",
+      "SPANISH": "Ah, no, no es eso.",
+      "PERSIAN": "اوه نه، این نیست -"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 26.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그 병원 청소하시는 분 중에",
+      "ENGLISH": "There’s someone who works here, cleaning staff.",
+      "CHINESE_SIMPLIFIED": "请问医院保洁人员里",
+      "CHINESE_TRADITIONAL": "請問醫院清潔人員中",
+      "JAPANESE": "この病院で清掃してる人で",
+      "INDONESIAN": "Ada seseorang yang bekerja di sini, staf kebersihan.",
+      "PORTUGUESE": "É que entre o pessoal da limpeza do hospital",
+      "SPANISH": "Solo que entre el personal de limpieza del hospital",
+      "PERSIAN": "یک نفر اینجا کار می کند، کارکنان نظافت."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 26.7,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "양유정이라고 ",
+      "ENGLISH": "Her name’s Yu-jeong Yang.",
+      "CHINESE_SIMPLIFIED": "有没有一个叫梁有情的",
+      "CHINESE_TRADITIONAL": "有沒有一位叫做梁有情的人",
+      "JAPANESE": "ヤン・ユジョンって人",
+      "INDONESIAN": "Namanya Yu-jeong Yang.",
+      "PORTUGUESE": "tem uma mulher chamada Yujeong Yang,",
+      "SPANISH": " hay una mujer llamada Yujeong Yang,",
+      "PERSIAN": "نام او یو جونگ یانگ است."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "앞머리, 이렇게 덥수룩하게 내려와 있고.",
+      "ENGLISH": "She’s got bangs that kind of hang heavy over her forehead,",
+      "CHINESE_SIMPLIFIED": "刘海像这样蓬松垂下来的",
+      "CHINESE_TRADITIONAL": "瀏海亂糟糟垂下來",
+      "JAPANESE": "前髪がこう ふわっと下がってて",
+      "INDONESIAN": "Dia punya poni yang agak menggantung berat di dahinya,",
+      "PORTUGUESE": "com a franja bem comprida e bagunçada,",
+      "SPANISH": "con el flequillo así, bien largo y desordenado,",
+      "PERSIAN": "چتری هایی دارد که به شدت روی پیشانی اش آویزان شده است،"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 34.4
+    },
+    "SCRIPT": {
+      "KOREAN": "얼굴은 좀 동글동글한데, 귀엽게 생긴 여자 못 봤어요?",
+      "ENGLISH": "round face, really cute—have you seen anyone like that?",
+      "CHINESE_SIMPLIFIED": "脸有点圆圆的，长相可爱的女生？",
+      "CHINESE_TRADITIONAL": "臉圓圓，長得很可愛的女生？",
+      "JAPANESE": "顔はちょっと丸くて かわいい感じの人なんですけど",
+      "INDONESIAN": "wajah bulat, imut banget—pernahkah kamu melihat orang seperti itu?",
+      "PORTUGUESE": "o rostinho redondo, mas muito bonito. Você não viu ela?",
+      "SPANISH": "la cara redondita, pero muy linda. ¿No la ha visto?",
+      "PERSIAN": "صورت گرد، واقعاً بامزه - کسی را چنین دیده اید؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 37.9
+    },
+    "SCRIPT": {
+      "KOREAN": "글쎄요... 청소하시는 분이 워낙 많아서... ",
+      "ENGLISH": "Hmm... there are a lot of cleaning staff, so I’m not sure...",
+      "CHINESE_SIMPLIFIED": "这个嘛...保洁人员实在太多了...",
+      "CHINESE_TRADITIONAL": "嗯…清潔人員實在太多了…",
+      "JAPANESE": "うーん… 清掃の方は結構たくさんいるからなぁ…",
+      "INDONESIAN": "Hmm... banyak petugas kebersihannya, jadi aku tidak yakin...",
+      "PORTUGUESE": "Hã… tem muita gente na limpeza…",
+      "SPANISH": "Mmm… hay muchas personas en limpieza…",
+      "PERSIAN": "هوم... تعداد زیادی پرسنل نظافتچی هستند، بنابراین مطمئن نیستم..."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 38.8,
+      "HIDE": 41.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 되게 자세~히 보셨나 봐요?",
+      "ENGLISH": "But wow, sounds like you were paying reaaally close attention?",
+      "CHINESE_SIMPLIFIED": "不过您观察得可真仔~细啊？",
+      "CHINESE_TRADITIONAL": "不過，你好像看得很仔細啊？",
+      "JAPANESE": "でも ずいぶん詳しく覚えてるんですね？",
+      "INDONESIAN": "Tapi wow, kedengarannya kamu benar-benar memperhatikan dengan saksama?",
+      "PORTUGUESE": "mas parece que você reparou bem nos detalhes, hein?",
+      "SPANISH": "pero parece que la miraste con mucho detalle, ¿eh?",
+      "PERSIAN": "اما وای، به نظر می رسد که شما واقعاً به دقت توجه کرده اید؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 41.1,
+      "HIDE": 43.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그게 어쩌다 보니까 그게...",
+      "ENGLISH": "Ah—that’s, uh... it just kinda happened that way...",
+      "CHINESE_SIMPLIFIED": "啊，那个，就是碰巧看到...",
+      "CHINESE_TRADITIONAL": "啊，那個啊，碰巧就看到了…",
+      "JAPANESE": "あ それは まぁ たまたま その…",
+      "INDONESIAN": "Ah—itu, uh... itu terjadi begitu saja...",
+      "PORTUGUESE": "Ah, bom, foi sem querer, é que…",
+      "SPANISH": "Ah, bueno, fue sin querer, es que…",
+      "PERSIAN": "آه-همین، اوه... اینطوری اتفاق افتاد..."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 43.7,
+      "HIDE": 45.6
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠! 찾았어요?",
+      "ENGLISH": "Oppa! Did you find her?",
+      "CHINESE_SIMPLIFIED": "哥哥！找到了吗？",
+      "CHINESE_TRADITIONAL": "哥哥！找到了嗎？",
+      "JAPANESE": "お兄さん！ 見つけました？",
+      "INDONESIAN": "Oppa! Apa kau menemukannya?",
+      "PORTUGUESE": "Oppa! Achou ela?",
+      "SPANISH": "¡Oppa! ¿La encontraste?",
+      "PERSIAN": "یومان! اونو پیدا کردی؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 46.5,
+      "HIDE": 49.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 이분은 누구...",
+      "ENGLISH": "Wait—who’s this?",
+      "CHINESE_SIMPLIFIED": "不过这位是...",
+      "CHINESE_TRADITIONAL": "不過這位是…",
+      "JAPANESE": "えっ でも その人は 誰…？",
+      "INDONESIAN": "Tunggu—siapa ini?",
+      "PORTUGUESE": "E quem é ela…?",
+      "SPANISH": "¿Y quién es ella…?",
+      "PERSIAN": "صبر کن - این کیه؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 50.0,
+      "HIDE": 53.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 오늘도 누구랑 ‘같이’... 오셨나 보다",
+      "ENGLISH": "Oh~ so you’re here with someone again today, huh?",
+      "CHINESE_SIMPLIFIED": "啊~今天又是和谁“一起”来的啊",
+      "CHINESE_TRADITIONAL": "啊～今天又是和誰「一起」…來的吧",
+      "JAPANESE": "あ〜 今日も誰かと“一緒に”来てるんですね",
+      "INDONESIAN": "Oh~ jadi kamu di sini dengan seseorang lagi hari ini, ya?",
+      "PORTUGUESE": "Ah~ então veio acompanhado de novo...",
+      "SPANISH": "Ah~ así que otra vez vino acompañado...",
+      "PERSIAN": "اوه~ پس امروز دوباره با کسی اینجایی، نه؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 53.7,
+      "HIDE": 56.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 여기는 그 민정 씨... 헙!!!",
+      "ENGLISH": "Ah, this is... Min-jung... *Gasp*",
+      "CHINESE_SIMPLIFIED": "啊，这位是那位敏静小姐... 天啊！！",
+      "CHINESE_TRADITIONAL": "啊，這位是敏靜小姐…哈！！！",
+      "JAPANESE": "あ こちらは その ミンジョンさん… えっ！？",
+      "INDONESIAN": "Ah, ini... Min-jung... *Terkesiap*",
+      "PORTUGUESE": "Ah, essa é a senhorita Minjung… ops!",
+      "SPANISH": "Ah, ella es la señorita Minjung… ¡ups!",
+      "PERSIAN": "آه، این است... مین‌جونگ... *نفس*"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 57.6,
+      "HIDE": 60.2
+    },
+    "SCRIPT": {
+      "KOREAN": "민정? 설마",
+      "ENGLISH": "Min-jung? No way—don’t tell me...",
+      "CHINESE_SIMPLIFIED": "朴敏静？不会吧",
+      "CHINESE_TRADITIONAL": "樸敏靜？不會吧…",
+      "JAPANESE": "ミンジョン？ まさか…",
+      "INDONESIAN": "Min-jung? Nggak mungkin—jangan bilang...",
+      "PORTUGUESE": "Minjung? Não pode ser…",
+      "SPANISH": "¿Minjung? No puede ser…",
+      "PERSIAN": "مین‌جونگ؟ به هیچ وجه - به من نگو ​​..."
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.9
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 그렇게 궁금했어요?",
+      "ENGLISH": "Was I really that interesting to you?",
+      "CHINESE_SIMPLIFIED": "我真的那么让你好奇吗？",
+      "CHINESE_TRADITIONAL": "你對我這麼好奇啊？",
+      "JAPANESE": "そんなに私のこと気になってたんですか？",
+      "INDONESIAN": "Kamu sebegitu penasarannya sama aku?",
+      "PORTUGUESE": "Eu era tão interessante assim pra você?",
+      "SPANISH": "¿Tienes tanto interés sobre mí?",
+      "PERSIAN": "واقعاً اینقدر برات جذاب و جالب بودم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어.... 저, 저는...",
+      "ENGLISH": "Uh… I, I just...",
+      "CHINESE_SIMPLIFIED": "呃...我...",
+      "CHINESE_TRADITIONAL": "呃...我、我...",
+      "JAPANESE": "えっと…あ、あの、僕は…",
+      "INDONESIAN": "Uh.... A-aku...",
+      "PORTUGUESE": "Ah...",
+      "SPANISH": "Sí... yo, estem...",
+      "PERSIAN": "امم... خـ... خب من..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 33.0,
+      "HIDE": 33.2
+    }
+  }
+]

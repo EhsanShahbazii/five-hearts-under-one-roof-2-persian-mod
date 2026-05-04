@@ -1,0 +1,146 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "올라가야죠 그럼!",
+      "ENGLISH": "Then let’s go up!",
+      "CHINESE_SIMPLIFIED": "那就上去呗！",
+      "CHINESE_TRADITIONAL": "那就上樓吧！",
+      "JAPANESE": "じゃあ、行きましょうか！",
+      "INDONESIAN": "Kalau gitu, ayo naik!",
+      "PORTUGUESE": "Então, vamos subir!",
+      "SPANISH": "Entonces, ¡subamos!",
+      "PERSIAN": "پس بیا بریم بالا!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.6,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 올라갈 거에요? ",
+      "ENGLISH": "You’re really going up there?",
+      "CHINESE_SIMPLIFIED": "真要走啊？",
+      "CHINESE_TRADITIONAL": "你真的走嗎？",
+      "JAPANESE": "ほんとに行くんですか？ 私を置いて…？",
+      "INDONESIAN": "Kamu beneran mau naik ke atas?",
+      "PORTUGUESE": "Você vai mesmo subir?",
+      "SPANISH": "¿De verdad vas a subir?",
+      "PERSIAN": "واقعا داری میری اون بالا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어...",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "呃...",
+      "CHINESE_TRADITIONAL": "呃...",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Uh...",
+      "PORTUGUESE": "Ahm... sim...",
+      "SPANISH": "Eh… sí…",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나 두고..?",
+      "ENGLISH": "Leaving me behind...?",
+      "CHINESE_SIMPLIFIED": "丢下我...？",
+      "CHINESE_TRADITIONAL": "要丟下我嗎...？",
+      "JAPANESE": "私を置いて…？",
+      "INDONESIAN": "Tega ninggalin aku...?",
+      "PORTUGUESE": "E vai me deixar aqui sozinha...?",
+      "SPANISH": "¿Y me vas a dejar aquí sola…?",
+      "PERSIAN": "پشت سرم گذاشتی...؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "어..그게..",
+      "ENGLISH": "Oh... I mean...",
+      "CHINESE_SIMPLIFIED": "呃...这个...",
+      "CHINESE_TRADITIONAL": "呃…那個…",
+      "JAPANESE": "あ、それが…",
+      "INDONESIAN": "Oh... maksudku...",
+      "PORTUGUESE": "Ah... é que...",
+      "SPANISH": "Ah… bueno, es que…",
+      "PERSIAN": "اوه ... یعنی ..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.1,
+      "HIDE": 13.4
+    },
+    "SCRIPT": {
+      "KOREAN": "얼른 가요..!",
+      "ENGLISH": "Let’s go, now!",
+      "CHINESE_SIMPLIFIED": "快走吧...！",
+      "CHINESE_TRADITIONAL": "快走吧...！",
+      "JAPANESE": "早く行きましょうよ！",
+      "INDONESIAN": "Ayo, sekarang juga!",
+      "PORTUGUESE": "Anda, vai logo!",
+      "SPANISH": "¡Anda, ve ya!",
+      "PERSIAN": "بیا برویم، حالا!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Okay!",
+      "CHINESE_SIMPLIFIED": "好！",
+      "CHINESE_TRADITIONAL": "好喔！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Oke!",
+      "PORTUGUESE": "S-sim...",
+      "SPANISH": "S-sí…",
+      "PERSIAN": "باشه!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "흥...",
+      "ENGLISH": "Hmph...",
+      "CHINESE_SIMPLIFIED": "哼...",
+      "CHINESE_TRADITIONAL": "哼…",
+      "JAPANESE": "ふん…",
+      "INDONESIAN": "Hmph...",
+      "PORTUGUESE": "Hmph…",
+      "SPANISH": "Hmph…",
+      "PERSIAN": "هومف..."
+    }
+  }
+]

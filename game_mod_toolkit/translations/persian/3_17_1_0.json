@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 이게 얼마 만의 오프냐~",
+      "ENGLISH": "Ah~ it’s been forever since I’ve had a proper day off.",
+      "CHINESE_SIMPLIFIED": "啊～好久没出来透透气了～",
+      "CHINESE_TRADITIONAL": "啊～好久沒有出門了～",
+      "JAPANESE": "あ〜 久しぶりのオフだ〜",
+      "INDONESIAN": "Ah~ sudah lama sekali sejak terakhir kali aku menikmati hari libur yang sebenarnya.",
+      "PORTUGUESE": "Ah~ fazia tanto tempo que eu não saía assim~",
+      "SPANISH": "Ah~ hace mucho que no salía así~",
+      "PERSIAN": "آه ~ برای همیشه می گذرد از زمانی که یک روز تعطیل مناسب داشته ام."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.7
+    },
+    "SCRIPT": {
+      "KOREAN": "쌤 이거 빵 드세요!",
+      "ENGLISH": "Here, have some bread, Nurse Gyu-ri!",
+      "CHINESE_SIMPLIFIED": "护士，吃这个面包吧！",
+      "CHINESE_TRADITIONAL": "護理師小姐，吃點麵包吧！",
+      "JAPANESE": "先生 このパンどうぞ！",
+      "INDONESIAN": "Ini, makanlah roti, Perawat Gyu-ri!",
+      "PORTUGUESE": "Enfermeira Gyuri, tome, trouxe um pão pra você!",
+      "SPANISH": "Enfermera Gyuri, ¡tome, le traje un pan!",
+      "PERSIAN": "اینا یه نون بخور، پرستار گیو ری!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 10.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오~ 센스~",
+      "ENGLISH": "Ooh~ nice move!",
+      "CHINESE_SIMPLIFIED": "哦~真贴心~",
+      "CHINESE_TRADITIONAL": "喔～好貼心～",
+      "JAPANESE": "お〜 気が利く〜",
+      "INDONESIAN": "Ooh~ gerakan yang bagus!",
+      "PORTUGUESE": "Oh~ que gentileza~",
+      "SPANISH": "Oh~ qué detalle~",
+      "PERSIAN": "اوه~ حرکت خوب!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 13.7
+    },
+    "SCRIPT": {
+      "KOREAN": "쌤은 원래부터 간호사가 꿈이었어요?",
+      "ENGLISH": "Did you always want to be a nurse?",
+      "CHINESE_SIMPLIFIED": "您从小梦想就是当护士吗？",
+      "CHINESE_TRADITIONAL": "妳原本的夢想就是當護理師嗎？",
+      "JAPANESE": "先生って もともと看護師が夢だったんですか？",
+      "INDONESIAN": "Apakah kamu selalu ingin menjadi perawat?",
+      "PORTUGUESE": "Sempre quis ser enfermeira?",
+      "SPANISH": "¿Siempre quiso ser enfermera?",
+      "PERSIAN": "همیشه دوست داشتی پرستار بشی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.2,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨",
+      "ENGLISH": "Nope.",
+      "CHINESE_SIMPLIFIED": "不是呢",
+      "CHINESE_TRADITIONAL": "不是喔",
+      "JAPANESE": "いいえ",
+      "INDONESIAN": "Tidak.",
+      "PORTUGUESE": "Não.",
+      "SPANISH": "No.",
+      "PERSIAN": "نه"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 원래 귤 농장 하는 게 꿈이었어요",
+      "ENGLISH": "My dream was actually to run a tangerine farm.",
+      "CHINESE_SIMPLIFIED": "我原本的梦想是经营橘子农场",
+      "CHINESE_TRADITIONAL": "我原本的夢想是經營橘子農場",
+      "JAPANESE": "私 本当はみかん農園をやりたかったんです",
+      "INDONESIAN": "Mimpiku sebenarnya adalah mengelola perkebunan jeruk keprok.",
+      "PORTUGUESE": "Na verdade, meu sonho era ter uma plantação de tangerinas.",
+      "SPANISH": "En realidad, mi sueño era tener una plantación de mandarinas.",
+      "PERSIAN": "رویای من در واقع مدیریت یک مزرعه نارنگی بود."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "와 진짜요? 아 그래서 귤을 좋아하시는 구나!",
+      "ENGLISH": "Wait, seriously? Is that why you love tangerines so much?",
+      "CHINESE_SIMPLIFIED": "哇真的吗？啊，所以您才这么喜欢橘子啊！",
+      "CHINESE_TRADITIONAL": "哇，真的嗎？啊～難怪妳這麼喜歡橘子！",
+      "JAPANESE": "えっ ほんとですか？ だからみかん好きなんですね！",
+      "INDONESIAN": "Tunggu, serius? Itukah sebabnya kamu sangat suka jeruk keprok?",
+      "PORTUGUESE": "Sério? Ah, então é por isso que você gosta tanto de tangerinas!",
+      "SPANISH": "¿En serio? ¡Ah, con razón le gustan tanto las mandarinas!",
+      "PERSIAN": "صبر کن جدی؟ به همین دلیل است که شما نارنگی را خیلی دوست دارید؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 근데 어쩌다 보니 간호사 일을 하고 있네요",
+      "ENGLISH": "Yep! But somehow I ended up working as a nurse.",
+      "CHINESE_SIMPLIFIED": "没错！不过阴差阳错就做起护士工作了呢",
+      "CHINESE_TRADITIONAL": "對啊！但是不知不覺間，就做起護理工作了",
+      "JAPANESE": "はい でも気づいたら看護師になってました ふふ",
+      "INDONESIAN": "Ya! Tapi entah bagaimana aku akhirnya bekerja sebagai perawat.",
+      "PORTUGUESE": "Sim! Mas, bom, a vida acabou me levando a trabalhar como enfermeira.",
+      "SPANISH": "¡Sí! Pero, bueno, la vida me llevó a trabajar como enfermera.",
+      "PERSIAN": "بله! اما به نوعی من به عنوان پرستار کار کردم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.4,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 쌤은 뭘 하든 야무지게 잘했을 거 같아요.",
+      "ENGLISH": "Still, I feel like you’d be good at anything you do.",
+      "CHINESE_SIMPLIFIED": "不过感觉方护士不管做什么都会很能干呢",
+      "CHINESE_TRADITIONAL": "不過我覺得護理師妳不管做什麼都會很認真、很厲害的",
+      "JAPANESE": "でも先生 何をやっても きっと器用にこなしそうです",
+      "INDONESIAN": "Tetap saja, aku merasa kamu hebat dalam melakukan apa pun.",
+      "PORTUGUESE": "Mesmo assim, acho que você se sairia bem em qualquer coisa que decidisse fazer.",
+      "SPANISH": "Igual creo que haría bien cualquier cosa que se propusiera.",
+      "PERSIAN": "با این حال، من احساس می کنم که شما در هر کاری که انجام می دهید خوب می‌شین."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 33.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그래요? 제가요? ",
+      "ENGLISH": "Really? Me?",
+      "CHINESE_SIMPLIFIED": "真的吗？我吗？",
+      "CHINESE_TRADITIONAL": "是嗎？我嗎？",
+      "JAPANESE": "そうですか？ 私が？",
+      "INDONESIAN": "Benarkah? Aku?",
+      "PORTUGUESE": "Você acha mesmo?",
+      "SPANISH": "¿De verdad lo cree?",
+      "PERSIAN": "واقعا؟ من؟"
+    }
+  }
+]

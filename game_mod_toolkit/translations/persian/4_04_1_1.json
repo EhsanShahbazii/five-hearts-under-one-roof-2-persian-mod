@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 물이... 어딨더라...",
+      "ENGLISH": "Ah… where’s the water…",
+      "CHINESE_SIMPLIFIED": "啊...水...放哪儿来着...",
+      "CHINESE_TRADITIONAL": "啊... 水... 在哪裡啊...",
+      "JAPANESE": "あれ、水…どこだっけ…",
+      "INDONESIAN": "Alah… air… di mana ya…",
+      "PORTUGUESE": "Ah… onde deixei a água…?",
+      "SPANISH": "Ah… ¿dónde dejé el agua…?",
+      "PERSIAN": "آه ... آب کجاست ..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 14.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어..! 여기 있다!",
+      "ENGLISH": "Oh! Here it is!",
+      "CHINESE_SIMPLIFIED": "呃...！在这里！",
+      "CHINESE_TRADITIONAL": "咦！在這裡！",
+      "JAPANESE": "あっ！あった！",
+      "INDONESIAN": "Oh! Ini dia!",
+      "PORTUGUESE": "Ah..! Aqui está!",
+      "SPANISH": "¡Ah..! ¡Aquí está!",
+      "PERSIAN": "اوه! اینجاست!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 22.68
+    },
+    "SCRIPT": {
+      "KOREAN": "괜찮아~ 괜찮아~",
+      "ENGLISH": "It’s okay~ it’s okay~",
+      "CHINESE_SIMPLIFIED": "没关系~没关系~",
+      "CHINESE_TRADITIONAL": "沒事了～ 沒事了～",
+      "JAPANESE": "大丈夫、大丈夫…",
+      "INDONESIAN": "Udah nggak papa~ nggak papa~",
+      "PORTUGUESE": "Calma~ calma~",
+      "SPANISH": "Tranquila~ tranquila~",
+      "PERSIAN": "اشکالی نداره~اشکالی نداره~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 22.69,
+      "HIDE": 25.7
+    },
+    "SCRIPT": {
+      "KOREAN": "집에서는 나 사람 취급도 안 해주구~ㅠㅠ",
+      "ENGLISH": "At home, no one even treats me like a person~ *cries*",
+      "CHINESE_SIMPLIFIED": "在家里都没人把我当人看呜呜",
+      "CHINESE_TRADITIONAL": "在家裡都沒有人把我當人看～嗚嗚",
+      "JAPANESE": "家じゃ人扱いもしてもらえなくて〜",
+      "INDONESIAN": "Di rumah, nggak ada yang nganggep aku kaya orang beneran~ nangis",
+      "PORTUGUESE": "Na minha casa, nem me tratam como uma pessoa~",
+      "SPANISH": "En mi casa ni siquiera me tratan como persona",
+      "PERSIAN": "تو خونه هیچکس حتی با من مثل آدم رفتار نمیکنه~ *گریه میکنه*"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 나빴다!",
+      "ENGLISH": "That was really mean!",
+      "CHINESE_SIMPLIFIED": "真的太过分了！",
+      "CHINESE_TRADITIONAL": "你的家人也太壞了吧",
+      "JAPANESE": "ほんとひどいね〜泣",
+      "INDONESIAN": "Itu jahat banget, tahu nggak!",
+      "PORTUGUESE": "Que malvados!",
+      "SPANISH": "¡Qué malos padres!",
+      "PERSIAN": "واقعا بد بود!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 28.2,
+      "HIDE": 30.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 가족 욕하지 마요ㅠㅠ",
+      "ENGLISH": "Don’t badmouth my family *cries*",
+      "CHINESE_SIMPLIFIED": "不许说我家人坏话呜呜",
+      "CHINESE_TRADITIONAL": "不要罵我們家人啦嗚嗚",
+      "JAPANESE": "うちの家族の悪口言わないでください〜",
+      "INDONESIAN": "Jangan jelek-jelekin keluargaku *nangis*",
+      "PORTUGUESE": "Não fale assim da minha família.",
+      "SPANISH": "No hables así de mi familia ",
+      "PERSIAN": "خانواده ام را بدگویی نکن *گریه می کنند*"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 30.1,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해요ㅠㅠ",
+      "ENGLISH": "I’m sorry *cries*",
+      "CHINESE_SIMPLIFIED": "对不起啦呜呜",
+      "CHINESE_TRADITIONAL": "對不起啦",
+      "JAPANESE": "ごめんね〜",
+      "INDONESIAN": "Maaf ya nangis",
+      "PORTUGUESE": "Desculpa.",
+      "SPANISH": "Perdón...",
+      "PERSIAN": "متاسفم *گریه میکنم*"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 35.1
+    },
+    "SCRIPT": {
+      "KOREAN": "나는!! 회사도 나 버리고 팬들도 나 버리고ㅠ",
+      "ENGLISH": "I… I even abandoned my job, abandoned my fans *cries*",
+      "CHINESE_SIMPLIFIED": "我啊！！公司也抛弃我，粉丝也抛弃我呜呜",
+      "CHINESE_TRADITIONAL": "我呢！！被公司拋棄，連粉絲也離我而去嗚",
+      "JAPANESE": "私なんか！会社もやめて、ファンにも捨てられて〜",
+      "INDONESIAN": "Aku… aku bahkan ninggalin kerjaanku, ninggalin fans-fansku nangis",
+      "PORTUGUESE": "Eu também! Larguei o trabalho, os fãs me abandonaram...",
+      "SPANISH": "A mí también mi empresa y mis fans me abandonaron",
+      "PERSIAN": "من... حتی کارم را رها کردم، طرفدارانم را رها کردم *گریه*"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 35.7,
+      "HIDE": 37.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아 울지 마, 걔들은 팬도 아니야",
+      "ENGLISH": "Ah, don’t cry—those aren’t even real fans.",
+      "CHINESE_SIMPLIFIED": "啊别哭，那些家伙根本不是粉丝",
+      "CHINESE_TRADITIONAL": "別哭了，那些人根本稱不上是粉絲",
+      "JAPANESE": "泣かないで、そんな奴らファンでもなんでもないよ",
+      "INDONESIAN": "Ah, jangan nangis...mereka juga bukan fans beneran.",
+      "PORTUGUESE": "Não chore, eles não eram fãs de verdade.",
+      "SPANISH": "No llores, ellos no eran verdaderos fans.",
+      "PERSIAN": "آه، گریه نکن - اونا حتی طرفداران واقعی هم نیستند."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 37.8,
+      "HIDE": 39.1
+    },
+    "SCRIPT": {
+      "KOREAN": "걔들 때문에 울지 말아야지 ",
+      "ENGLISH": "You shouldn’t cry because of them.",
+      "CHINESE_SIMPLIFIED": "不该为那些家伙哭才对",
+      "CHINESE_TRADITIONAL": "妳不該為了那種人生氣哭泣才對",
+      "JAPANESE": "あいつらのせいで泣くなんてもったいない",
+      "INDONESIAN": "Kamu nggak perlu nangis gara-gara yang kayak gitu.",
+      "PORTUGUESE": "Não vale a pena chorar por esse tipo de gente.",
+      "SPANISH": "No vale la pena llorar por esa gente.",
+      "PERSIAN": "شما نباید به خاطر اونا گریه کنید."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 39.2,
+      "HIDE": 40.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그거는...",
+      "ENGLISH": "That’s…",
+      "CHINESE_SIMPLIFIED": "那确实...",
+      "CHINESE_TRADITIONAL": "話是這麼說沒錯...",
+      "JAPANESE": "……それは、そうだけど",
+      "INDONESIAN": "Itu tuh…",
+      "PORTUGUESE": "É que…",
+      "SPANISH": "Eso es...",
+      "PERSIAN": "یعنی…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 40.1,
+      "HIDE": 41.3
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 짠 해. 짠!",
+      "ENGLISH": "sigh… how pitiful. Pitiful!",
+      "CHINESE_SIMPLIFIED": "来，干杯。干！",
+      "CHINESE_TRADITIONAL": "來，乾杯。乾！",
+      "JAPANESE": "ほら、乾杯しよ　かんぱい",
+      "INDONESIAN": "sigh… kasihan banget tau. Kasihan!",
+      "PORTUGUESE": "Ah, que pena… saúde por isso!",
+      "SPANISH": "una pena… ¡hay que brindar!",
+      "PERSIAN": "آه ... چقدر رقت انگیز رقت انگیز!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 42.2,
+      "HIDE": 43.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 짠...\n- 짠...\n",
+      "ENGLISH": "— Pitiful…\n— Pitiful…",
+      "CHINESE_SIMPLIFIED": "-干杯...\n-干杯...",
+      "CHINESE_TRADITIONAL": "— 乾杯...\n— 乾杯...",
+      "JAPANESE": "‐かんぱい…\n‐かんぱい…",
+      "INDONESIAN": "— Kasihan…\n— Kasihan…",
+      "PORTUGUESE": "— Saúde...\n— Saúde...",
+      "SPANISH": "— Salud...\n— Salud...",
+      "PERSIAN": "- حیف… - حیف…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 50.6,
+      "HIDE": 51.3
+    },
+    "SCRIPT": {
+      "KOREAN": "울지마",
+      "ENGLISH": "Don’t cry.",
+      "CHINESE_SIMPLIFIED": "别哭了",
+      "CHINESE_TRADITIONAL": "不要哭了",
+      "JAPANESE": "泣かないで",
+      "INDONESIAN": "Udah, jangan nangis.",
+      "PORTUGUESE": "Não chore.",
+      "SPANISH": "Ya no lloren...",
+      "PERSIAN": "گریه نکن"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 52.9,
+      "HIDE": 55.3
+    },
+    "SCRIPT": {
+      "KOREAN": "하... 여자는 알 수가 없다...",
+      "ENGLISH": "sigh… women are impossible to understand…",
+      "CHINESE_SIMPLIFIED": "唉...女人心真是海底针...",
+      "CHINESE_TRADITIONAL": "哈...女人心海底針...",
+      "JAPANESE": "女って、ほんとわかんねぇな…",
+      "INDONESIAN": "sigh… cewek tuh susah banget dimengerti…",
+      "PORTUGUESE": "Ah… as mulheres são um completo mistério…",
+      "SPANISH": "Ah… las mujeres son un completo misterio…",
+      "PERSIAN": "آه... درک زنان غیرممکن است…"
+    }
+  }
+]

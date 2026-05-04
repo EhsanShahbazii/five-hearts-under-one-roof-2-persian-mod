@@ -1,0 +1,398 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.9
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 그때 이후로 되게 오랜만이다 그쵸!",
+      "ENGLISH": "It’s been a really long time since that day, hasn’t it?",
+      "CHINESE_SIMPLIFIED": "我们自从演唱会之后真是好久不见了呢！",
+      "CHINESE_TRADITIONAL": "我們從那之後，就好久不見了耶，對吧！",
+      "JAPANESE": "あの時以来ですね、すごく久しぶりですね！",
+      "INDONESIAN": "Udah lama banget ya sejak hari itu…",
+      "PORTUGUESE": "Faz muito tempo que não nos víamos desde aquela vez, né?!",
+      "SPANISH": "¡Hace muchísimo que no nos veíamos desde aquella vez, ¿verdad?!",
+      "PERSIAN": "از اون روز واقعاً زمان زیادی می گذرد، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 3.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네.",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "是啊",
+      "CHINESE_TRADITIONAL": "是啊",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시 콘서트날 기사 난 거 봤어요?",
+      "ENGLISH": "Did you see the article from the day of the concert?",
+      "CHINESE_SIMPLIFIED": "您看到演唱会那天出的新闻了吗？",
+      "CHINESE_TRADITIONAL": "妳有看到演唱會那天的新聞嗎？",
+      "JAPANESE": "コンサートの日に出た記事、見ました？",
+      "INDONESIAN": "Kamu lihat artikel yang keluar pas hari konser?",
+      "PORTUGUESE": "Você viu o artigo que saiu no dia do show?",
+      "SPANISH": "¿Viste el artículo que salió el día del concierto?",
+      "PERSIAN": "مقاله روز کنسرت را دیدید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "기사요? 제가 인터넷을 잘 안 해서요. 콘서트가 대박 났나요?",
+      "ENGLISH": "Article? I don’t really check the internet. Did the concert do well?",
+      "CHINESE_SIMPLIFIED": "新闻？我不太上网的。演唱会引起了很大的轰动吗？",
+      "CHINESE_TRADITIONAL": "新聞嗎？我不太上網。演唱會是不是大成功？",
+      "JAPANESE": "記事ですか？私、あまりネット見ないので　コンサート、盛り上がったんですか？",
+      "INDONESIAN": "Artikel? Aku jarang buka internet. Emang konsernya sukses?",
+      "PORTUGUESE": "Artigo? Não, quase não entro na internet. O show deu o que falar?",
+      "SPANISH": "¿Artículo? No, casi no entro a internet. ¿El concierto dio de que hablar?",
+      "PERSIAN": "مقاله؟ من واقعا اینترنت را چک نمی کنم. کنسرت خوب اجرا شد؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.7,
+      "HIDE": 14.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아예 모르고 계시는구나.",
+      "ENGLISH": "Oh, so you had no idea.",
+      "CHINESE_SIMPLIFIED": "啊...您完全不知道啊",
+      "CHINESE_TRADITIONAL": "啊... 妳完全不知道啊",
+      "JAPANESE": "ああ…全然ご存じないんですね",
+      "INDONESIAN": "Oh… jadi kamu nggak tahu, ya.",
+      "PORTUGUESE": "Ah... então você não sabe de nada.",
+      "SPANISH": "Ah… entonces no sabes nada.",
+      "PERSIAN": "اوه پس تو هیچ نظری نداشتی"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.6,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "다른 의미로 대박이 나긴 했는데...",
+      "ENGLISH": "Well… it did blow up, just in a different way…",
+      "CHINESE_SIMPLIFIED": "嗯，从另一个角度来说，确实挺轰动的...",
+      "CHINESE_TRADITIONAL": "雖然是另外一種意義上的大成功...",
+      "JAPANESE": "別の意味で盛り上がったんですけど…",
+      "INDONESIAN": "Yah… sempat viral sih, tapi bukan karena hal yang bagus…",
+      "PORTUGUESE": "Bem, deu sim, mas... de outro jeito...",
+      "SPANISH": "Bueno, sí dio de que hablar, pero en otro sentido…",
+      "PERSIAN": "خوب... منفجر شد، فقط به شکل دیگری…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 그 고양이 이름이 뭐였지... 까미였나..?",
+      "ENGLISH": "Ah, what was the cat’s name again… Kami, right?",
+      "CHINESE_SIMPLIFIED": "对了，那只猫叫什么来着...是小黑吗..？",
+      "CHINESE_TRADITIONAL": "對了，那隻貓叫什麼名字啊...小黑嗎...？",
+      "JAPANESE": "あ、その猫の名前なんだっけ…カミだっだっけな…？",
+      "INDONESIAN": "Ah, nama kucingnya dulu siapa ya… Kami, kan?",
+      "PORTUGUESE": "Ah, como era o nome daquele gato mesmo? Era Blacky, né?",
+      "SPANISH": "Ah, ¿cómo se llamaba ese gato? ¿Era Blacky, verdad?",
+      "PERSIAN": "آه، دوباره نام گربه چه بود... کامی، درست است؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.2
+    },
+    "SCRIPT": {
+      "KOREAN": "까미는 잘 있어요?",
+      "ENGLISH": "Is Kami doing okay?",
+      "CHINESE_SIMPLIFIED": "小黑还好吗？",
+      "CHINESE_TRADITIONAL": "小黑過得好嗎？",
+      "JAPANESE": "カミは元気ですか？",
+      "INDONESIAN": "Kami masih baik-baik aja?",
+      "PORTUGUESE": "Como está o Blacky?",
+      "SPANISH": "¿Como está Blacky?",
+      "PERSIAN": "کامی حالش خوبه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.8,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "까미요?? 까미 잘 있죠...!",
+      "ENGLISH": "Kami?? Yeah, Kami’s doing fine…!",
+      "CHINESE_SIMPLIFIED": "小黑吗？？小黑挺好的...！",
+      "CHINESE_TRADITIONAL": "小黑？? 小黑過得很好啊...！",
+      "JAPANESE": "カミ？カミは元気ですよ…！",
+      "INDONESIAN": "Kami?? Iya, Si Kami sehat-sehat aja…!",
+      "PORTUGUESE": "Blacky? Sim, o Blacky tá muito bem!",
+      "SPANISH": "¿Blacky? ¡Sí, Blacky está muy bien!",
+      "PERSIAN": "کامی؟؟ آره، کامی حالش خوبه…!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 25.9
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐만요...!",
+      "ENGLISH": "Wait a sec…!",
+      "CHINESE_SIMPLIFIED": "稍等一下...！",
+      "CHINESE_TRADITIONAL": "稍等一下...！",
+      "JAPANESE": "ちょっと待ってください…！",
+      "INDONESIAN": "Tunggu bentar…!",
+      "PORTUGUESE": "Espere um momento...!",
+      "SPANISH": "¡Espere un momento…!",
+      "PERSIAN": "یه لحظه صبر کن…!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.91,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Iya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 32.6
+    },
+    "SCRIPT": {
+      "KOREAN": "가끔 간식 먹고 기분 좋을 때면 사진 찍게 해 주거든요.",
+      "ENGLISH": "Sometimes when she’s happy and gets a treat, she lets me take pictures.",
+      "CHINESE_SIMPLIFIED": "它偶尔吃零食心情好的时候，会让我拍照呢",
+      "CHINESE_TRADITIONAL": "偶爾牠心情好的時候，會讓我幫牠拍照...",
+      "JAPANESE": "たまにおやつを食べて機嫌がいい時は、写真を撮らせてくれるんです",
+      "INDONESIAN": "Kadang kalau dia lagi seneng dan dikasih cemilan, dia mau difoto.",
+      "PORTUGUESE": "Às vezes, quando ele tá de bom humor depois de comer o petisco, ele me deixa tirar foto.",
+      "SPANISH": "A veces, cuando está de buen humor después de comer su snack, me deja tomarle fotos.",
+      "PERSIAN": "گاهی اوقات وقتی خوشحال است و مورد استقبال قرار می گیرد، به من اجازه می دهد عکس بگیرم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 34.9,
+      "HIDE": 36.0
+    },
+    "SCRIPT": {
+      "KOREAN": "여깄다!",
+      "ENGLISH": "Here she is!",
+      "CHINESE_SIMPLIFIED": "你看！",
+      "CHINESE_TRADITIONAL": "你看！",
+      "JAPANESE": "ここだ！",
+      "INDONESIAN": "Nih liat!",
+      "PORTUGUESE": "Aqui está!",
+      "SPANISH": "¡Aquí está!",
+      "PERSIAN": "او اینجاست!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 39.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어때요? 귀엽죠!",
+      "ENGLISH": "How is she? Cute, right?",
+      "CHINESE_SIMPLIFIED": "怎么样？很可爱吧！",
+      "CHINESE_TRADITIONAL": "怎麼樣，可愛吧！",
+      "JAPANESE": "どうです？可愛いでしょ！",
+      "INDONESIAN": "Gimana? Lucu banget nggak sih?",
+      "PORTUGUESE": "Que tal? Não é adorável?",
+      "SPANISH": "¿Qué tal? ¿No es adorable?",
+      "PERSIAN": "او چطوره؟ ناز، درسته؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 39.2,
+      "HIDE": 42.6
+    },
+    "SCRIPT": {
+      "KOREAN": "오...확실히 귀엽네요...",
+      "ENGLISH": "Oh… yeah, she’s definitely cute…",
+      "CHINESE_SIMPLIFIED": "哇...确实很可爱呢...",
+      "CHINESE_TRADITIONAL": "喔... 的確很可愛耶...",
+      "JAPANESE": "おお…確かに可愛いですね…",
+      "INDONESIAN": "Oh… iya, dia emang lucu banget…",
+      "PORTUGUESE": "Oh... sim, é realmente muito fofo.",
+      "SPANISH": "Oh… sí, es realmente muy tierno.",
+      "PERSIAN": "اوه… بله، او قطعاً ناز است…"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 42.7,
+      "HIDE": 43.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그쵸!",
+      "ENGLISH": "Right!",
+      "CHINESE_SIMPLIFIED": "对吧！",
+      "CHINESE_TRADITIONAL": "對吧！",
+      "JAPANESE": "でしょ！",
+      "INDONESIAN": "Kan!",
+      "PORTUGUESE": "Né que é?",
+      "SPANISH": "¿Verdad que sí?",
+      "PERSIAN": "درسته!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 45.3,
+      "HIDE": 48.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아 맞다, 청소는 어디부터 하면 될까요?",
+      "ENGLISH": "Ah, right—where should I start cleaning?",
+      "CHINESE_SIMPLIFIED": "啊对了，我该从哪里开始打扫呢？",
+      "CHINESE_TRADITIONAL": "對了，我應該從哪裡開始打掃呢？",
+      "JAPANESE": "あ、そうだ、掃除はどこから始めればいいですか？",
+      "INDONESIAN": "Ah, iya aku mulai bersihin dari mana ya?",
+      "PORTUGUESE": "Ah, certo, por onde devo começar a limpeza?",
+      "SPANISH": "Ah, cierto, ¿por dónde debería empezar a limpiar?",
+      "PERSIAN": "آه، درست است، از کجا باید تمیز کردن را شروع کنم؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 48.8,
+      "HIDE": 51.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 그 오른쪽에 화장실 있거든요?",
+      "ENGLISH": "Ah, the bathroom’s on the right.",
+      "CHINESE_SIMPLIFIED": "啊，右边有间卫生间",
+      "CHINESE_TRADITIONAL": "啊...有看到右邊有間廁所嗎？",
+      "JAPANESE": "あ、右側にトイレがあります",
+      "INDONESIAN": "Ah, kamar mandinya di sebelah kanan.",
+      "PORTUGUESE": "Ah, o banheiro fica à direita,",
+      "SPANISH": "Ah, el baño está a la derecha,",
+      "PERSIAN": "آه، حمام سمت راست است."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 51.3,
+      "HIDE": 53.0
+    },
+    "SCRIPT": {
+      "KOREAN": "화장실부터 부탁드릴게요",
+      "ENGLISH": "Please start with the bathroom.",
+      "CHINESE_SIMPLIFIED": "就从卫生间开始吧",
+      "CHINESE_TRADITIONAL": "請妳從廁所開始打掃吧",
+      "JAPANESE": "トイレからお願いできますか？",
+      "INDONESIAN": "Tolong mulai dari kamar mandi ya.",
+      "PORTUGUESE": "por favor, comece por ali.",
+      "SPANISH": "por favor, empieza por ahí.",
+      "PERSIAN": "لطفا با حمام شروع کنید."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 53.2,
+      "HIDE": 53.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Okay.",
+      "CHINESE_SIMPLIFIED": "好的",
+      "CHINESE_TRADITIONAL": "好",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "باشه"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 60.3,
+      "HIDE": 61.9
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님한테 빨리 얘기해 줘야겠다..!",
+      "ENGLISH": "I need to tell Min-jung about this quickly…!",
+      "CHINESE_SIMPLIFIED": "得赶紧告诉敏静才行..！",
+      "CHINESE_TRADITIONAL": "得快點告訴敏靜才行...！",
+      "JAPANESE": "ミンジョンさんに早く伝えなきゃ…！",
+      "INDONESIAN": "Aku harus cepet-cepet kasih tahu Min-jung soal ini…!",
+      "PORTUGUESE": "Tenho que contar isso pra Minjung rápido...",
+      "SPANISH": "Tengo que contarle a Minjung rápido…",
+      "PERSIAN": "باید سریع این موضوع را به مین‌جونگ بگویم…!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 61.9,
+      "HIDE": 63.5
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님한테 빨리...!",
+      "ENGLISH": "I have to tell Min-jung… fast!",
+      "CHINESE_SIMPLIFIED": "得快点告诉敏静...！",
+      "CHINESE_TRADITIONAL": "要趕快和敏靜說...！",
+      "JAPANESE": "ミンジョンさんに早く…！",
+      "INDONESIAN": "Aku harus kasih tahu Min-jung… secepatnya!",
+      "PORTUGUESE": "Tenho que avisar o quanto antes!",
+      "SPANISH": "¡Tengo que avisarle cuanto antes!",
+      "PERSIAN": "باید به مین‌جونگ بگم... سریع!"
+    }
+  }
+]

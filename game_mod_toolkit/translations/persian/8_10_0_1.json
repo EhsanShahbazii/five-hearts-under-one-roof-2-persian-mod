@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 같이 데려가 줘요.",
+      "ENGLISH": "Take me with you too.",
+      "CHINESE_SIMPLIFIED": "那就带上我一起去吧",
+      "CHINESE_TRADITIONAL": "那就帶上我一起去吧",
+      "JAPANESE": "俺も一緒に連れて行ってください",
+      "INDONESIAN": "Ajak aku juga, dong.",
+      "PORTUGUESE": "Me leve com você.",
+      "SPANISH": "Lléveme con usted.",
+      "PERSIAN": "منو هم با خودت ببر"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.7,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨, 출장은 여행같은 게 아니야.",
+      "ENGLISH": "Yuman, a business trip isn’t like a vacation.",
+      "CHINESE_SIMPLIFIED": "吴宥万，出差可不是去旅行哦",
+      "CHINESE_TRADITIONAL": "吳宥萬，我是去出差又不是去旅行",
+      "JAPANESE": "ユマンさん、出張は旅行じゃないんだよ",
+      "INDONESIAN": "Yuman, dinas itu bukan liburan, lho.",
+      "PORTUGUESE": "Yumán, as viagens de trabalho não são como férias.",
+      "SPANISH": "Yumán, los viajes de trabajo no son como unas vacaciones.",
+      "PERSIAN": "یومان، یک سفر کاری مانند یک تعطیلات نیست."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.9,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아이 그건 저도 알아요,",
+      "ENGLISH": "I know that —",
+      "CHINESE_SIMPLIFIED": "哎呦这个我知道啦",
+      "CHINESE_TRADITIONAL": "哎呀，我也知道啊",
+      "JAPANESE": "それはわかってます",
+      "INDONESIAN": "Aku tahu kok —",
+      "PORTUGUESE": "Eu sei...",
+      "SPANISH": "Ya lo sé...",
+      "PERSIAN": "من می دانم که -"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그냥 과장님이랑 같이 있고 싶다구요.",
+      "ENGLISH": "but I just want to be with you, Gran.",
+      "CHINESE_SIMPLIFIED": "但我就是想和科长在一起嘛",
+      "CHINESE_TRADITIONAL": "但我就想和課長再一起嘛",
+      "JAPANESE": "でも、ただ課長と一緒にいたいんです",
+      "INDONESIAN": "tapi aku cuma pengin bareng kamu, Gran.",
+      "PORTUGUESE": "mas mesmo assim quero estar com você, Gran.",
+      "SPANISH": "pero igual quiero estar con usted, Gran.",
+      "PERSIAN": "اما من فقط می خواهم با تو باشم، گران."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.1,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 일이라도 말이죠.",
+      "ENGLISH": "Even if it’s for work.",
+      "CHINESE_SIMPLIFIED": "就算是工作也没关系",
+      "CHINESE_TRADITIONAL": "就算是去工作也沒關係",
+      "JAPANESE": "たとえそれが仕事でも",
+      "INDONESIAN": "Walaupun itu buat kerjaan.",
+      "PORTUGUESE": "Mesmo que seja por trabalho.",
+      "SPANISH": "Aunque sea por trabajo.",
+      "PERSIAN": "حتی اگر برای کار باشد."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.8,
+      "HIDE": 13.0
+    },
+    "SCRIPT": {
+      "KOREAN": "진심이야?",
+      "ENGLISH": "You mean that?",
+      "CHINESE_SIMPLIFIED": "你是认真的吗？",
+      "CHINESE_TRADITIONAL": "你是認真的嗎？",
+      "JAPANESE": "本気で言ってるの？",
+      "INDONESIAN": "Kamu serius?",
+      "PORTUGUESE": "Você tá falando sério?",
+      "SPANISH": "¿Lo dices en serio?",
+      "PERSIAN": "منظورت اینه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼요. 과장님은 아니에요?",
+      "ENGLISH": "Of course. Don’t you feel the same, Manager?",
+      "CHINESE_SIMPLIFIED": "当然，科长难道不是吗？",
+      "CHINESE_TRADITIONAL": "當然，難道課長不是嗎？",
+      "JAPANESE": "もちろんですよ 課長は違うんですか？",
+      "INDONESIAN": "Tentu aja. Kamu juga ngerasa gitu kan, Manajer?",
+      "PORTUGUESE": "Claro que sim. E você não?",
+      "SPANISH": "Claro que sí. ¿Usted no?",
+      "PERSIAN": "البته. شما هم همین احساس را ندارید، مدیر؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 어딜 가든 유만 씨랑 같이 있는 게 좋아",
+      "ENGLISH": "Wherever I go, I like being with you, Yuman.",
+      "CHINESE_SIMPLIFIED": "我也是不管去哪里，只要和你在一起就好",
+      "CHINESE_TRADITIONAL": "我也是不管去哪裡，只要和你再一起就好",
+      "JAPANESE": "私も…どこへ行ってもユマンさんと一緒にいるのがいい",
+      "INDONESIAN": "Ke mana pun aku pergi, aku suka kalau kamu ada, Yuman.",
+      "PORTUGUESE": "Eu também gosto de estar com você, em qualquer lugar que a gente vá.",
+      "SPANISH": "A mí también me gusta estar contigo, donde sea que vayamos.",
+      "PERSIAN": "هرجا برم دوست دارم با تو باشم یومان."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "다음 출장 때는 같이 가자.",
+      "ENGLISH": "Come with me on the next business trip.",
+      "CHINESE_SIMPLIFIED": "那下次出差就一起去吧",
+      "CHINESE_TRADITIONAL": "那下次出差就一起去吧",
+      "JAPANESE": "次の出張は一緒に行きましょう",
+      "INDONESIAN": "Ikut aku di perjalanan dinas berikutnya, ya.",
+      "PORTUGUESE": "Na próxima viagem, vamos juntos.",
+      "SPANISH": "En el próximo viaje, vamos juntos.",
+      "PERSIAN": "در سفر کاری بعدی با من بیا."
+    }
+  }
+]

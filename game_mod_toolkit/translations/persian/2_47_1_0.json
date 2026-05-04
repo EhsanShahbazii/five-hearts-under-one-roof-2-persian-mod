@@ -1,0 +1,127 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.5
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 양말 색은 왜?",
+      "ENGLISH": "But seriously, what was with the sock color thing?",
+      "CHINESE_SIMPLIFIED": "不过你问袜子颜色干嘛？",
+      "CHINESE_TRADITIONAL": "但為什麼要問襪子的顏色啊？",
+      "JAPANESE": "靴下の色はどうして？",
+      "INDONESIAN": "Tapi serius, apa sih yang terjadi dengan warna kaus kaki itu?",
+      "PORTUGUESE": "Por que se importa com a cor das meias?",
+      "SPANISH": "¿Por qué te importa el color de los calcetines?",
+      "PERSIAN": "اما به طور جدی، رنگ جوراب چه چیزی بود؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥",
+      "ENGLISH": "Nothing, really.",
+      "CHINESE_SIMPLIFIED": "没什么",
+      "CHINESE_TRADITIONAL": "沒什麼～",
+      "JAPANESE": "いや、ただ…",
+      "INDONESIAN": "Tidak ada, sungguh.",
+      "PORTUGUESE": "Ah... é que...",
+      "SPANISH": "Ah... es que...",
+      "PERSIAN": "هیچی، واقعا"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.7
+    },
+    "SCRIPT": {
+      "KOREAN": "너 눈 건강한가 테스트해 본 거야!",
+      "ENGLISH": "I just tested if your eyes still work!",
+      "CHINESE_SIMPLIFIED": "就是测试下你眼睛还好不好使！",
+      "CHINESE_TRADITIONAL": "只是想測試一下你眼睛好不好而已！",
+      "JAPANESE": "まだ目がちゃんと見えてるかテストしただけだよ！",
+      "INDONESIAN": "Saya baru saja menguji apakah mata Anda masih berfungsi!",
+      "PORTUGUESE": "É pra saber se você ainda enxerga bem!",
+      "SPANISH": "¡Es para saber si todavía ves bien!",
+      "PERSIAN": "من فقط تست کردم که چشمان شما هنوز کار می کند یا نه!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.3,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 내가 아직 그럴 나이는 아니지 않나?",
+      "ENGLISH": "Hey, I’m not that old yet.",
+      "CHINESE_SIMPLIFIED": "哎，我还没老到那个地步吧",
+      "CHINESE_TRADITIONAL": "哎，我還沒到那個年紀吧？",
+      "JAPANESE": "いや、まだそんな年じゃなくない？",
+      "INDONESIAN": "Hei, aku belum setua itu.",
+      "PORTUGUESE": "Não tô jovem demais pra isso?",
+      "SPANISH": "¿No estoy demasiado joven para eso?",
+      "PERSIAN": "هی من هنوز اونقدر پیر نشدم"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.2,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Mm-hmm.",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "呃？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Mm-hmm.",
+      "PORTUGUESE": "Oh?",
+      "SPANISH": "¿Oh?",
+      "PERSIAN": "مممم"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로도 이런 거 틀리지 마.",
+      "ENGLISH": "So don’t get stuff like that wrong again, okay?",
+      "CHINESE_SIMPLIFIED": "以后这种问题可别再答错了",
+      "CHINESE_TRADITIONAL": "以後這種問題不要再答錯啊",
+      "JAPANESE": "これからも、こういうの間違えないでね",
+      "INDONESIAN": "Jadi jangan salah lagi, oke?",
+      "PORTUGUESE": "Então, da próxima vez, não erre.",
+      "SPANISH": "Así que la próxima no te equivoques.",
+      "PERSIAN": "پس دیگر چنین چیزهایی را اشتباه نگیرید، خوب؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "알았지?",
+      "ENGLISH": "Got it?",
+      "CHINESE_SIMPLIFIED": "知道了吗？",
+      "CHINESE_TRADITIONAL": "知道嗎？",
+      "JAPANESE": "わかった？",
+      "INDONESIAN": "Mengerti?",
+      "PORTUGUESE": "Entendido?",
+      "SPANISH": "¿entendido?",
+      "PERSIAN": "متوجه شدید؟"
+    }
+  }
+]

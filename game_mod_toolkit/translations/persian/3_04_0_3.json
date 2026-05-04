@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 근데 이게 맞아요?",
+      "ENGLISH": "Oppa, but… is this really okay?",
+      "CHINESE_SIMPLIFIED": "哥哥，这真的合适吗？",
+      "CHINESE_TRADITIONAL": "哥哥，這件真的可以嗎？",
+      "JAPANESE": "これ…ほんとに合ってます？",
+      "INDONESIAN": "Oppa, tapi... ini beneran nggak apa-apa?",
+      "PORTUGUESE": "Oppa, mas isso tá certo mesmo?",
+      "SPANISH": "Oppa, ¿pero esto sí está bien?",
+      "PERSIAN": "یومان، اما... این واقعاً اشکالی ندارد؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うーん…",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hmm...",
+      "SPANISH": "Hmm…",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yeah!",
+      "CHINESE_SIMPLIFIED": "对啊！",
+      "CHINESE_TRADITIONAL": "可以喔！",
+      "JAPANESE": "うん！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "آره"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "완전 잘 어울리는데요?",
+      "ENGLISH": "It actually suits you really well!",
+      "CHINESE_SIMPLIFIED": "超级适合你的！",
+      "CHINESE_TRADITIONAL": "超適合你的！",
+      "JAPANESE": "めっちゃ似合ってますよ！",
+      "INDONESIAN": "Aslinya cocok banget di kamu, lho!",
+      "PORTUGUESE": "Ficou perfeita em você, de verdade.",
+      "SPANISH": "Te queda perfecto, la verdad.",
+      "PERSIAN": "در واقع به خوبی برای شما مناسب است!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오빤 이런 옷을 왜 가지고 있어요?",
+      "ENGLISH": "But why do you even have clothes like this?",
+      "CHINESE_SIMPLIFIED": "哥哥怎么会有这种衣服啊？",
+      "CHINESE_TRADITIONAL": "哥哥你怎麼會有這種衣服啊？",
+      "JAPANESE": "ていうか、お兄さんなんでこんな服持ってるんですか？",
+      "INDONESIAN": "Tapi kenapa kamu punya baju kayak gini sih?",
+      "PORTUGUESE": "E por que você tem uma roupa dessas?",
+      "SPANISH": "¿Y por qué tienes ropa así?",
+      "PERSIAN": "اما چرا شما حتی چنین لباس هایی دارید؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 그, 그게...",
+      "ENGLISH": "Ah... well, that’s...",
+      "CHINESE_SIMPLIFIED": "啊...那个...",
+      "CHINESE_TRADITIONAL": "啊...那、那個嘛...",
+      "JAPANESE": "あ…そ、それが…",
+      "INDONESIAN": "Ah... itu tuh...",
+      "PORTUGUESE": "Ah... é-é que...",
+      "SPANISH": "Ah… e-es que…",
+      "PERSIAN": "آه ... خب همین ..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 17.1
+    },
+    "SCRIPT": {
+      "KOREAN": "변태!",
+      "ENGLISH": "Pervert!",
+      "CHINESE_SIMPLIFIED": "变态！",
+      "CHINESE_TRADITIONAL": "變態！",
+      "JAPANESE": "変態！",
+      "INDONESIAN": "Mesum!",
+      "PORTUGUESE": "Pervertido!",
+      "SPANISH": "¡Pervertido!",
+      "PERSIAN": "منحرف!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 이게 어떻게 하다 보니깐.",
+      "ENGLISH": "No, no look, I ended up with it somehow, okay? ",
+      "CHINESE_SIMPLIFIED": "不是，这个说来话长",
+      "CHINESE_TRADITIONAL": "不是啊，這個說來話長",
+      "JAPANESE": "いや違うって！ なんか流れで",
+      "INDONESIAN": "Nggak, nggak—sumpah, entah gimana aku bisa punya itu, oke?",
+      "PORTUGUESE": "Não, não! É que... bom, eu só... ",
+      "SPANISH": "¡No, no! Es que… bueno, simplemente...",
+      "PERSIAN": "نه، نه نگاه کن، من یه جورایی بهش پایان دادم، باشه؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.9,
+      "HIDE": 20.6
+    },
+    "SCRIPT": {
+      "KOREAN": "갖게 된 그런 거예요, 그게.",
+      "ENGLISH": "It’s not what it looks like.",
+      "CHINESE_SIMPLIFIED": "就是阴差阳错就...有了这么件衣服",
+      "CHINESE_TRADITIONAL": "反正不知道為什麼...就被我拿到了",
+      "JAPANESE": "そうなっただけで！",
+      "INDONESIAN": "Nggak seperti yang kamu pikirin.",
+      "PORTUGUESE": "acabei ficando com ela, assim, sem querer.",
+      "SPANISH": "terminé teniéndola, así, sin querer.",
+      "PERSIAN": "این چیزی که به نظر می رسد نیست."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.8,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이 옷을 어떻게 하면 가질 수 있는데?",
+      "ENGLISH": "So... how do I go about making this mine?",
+      "CHINESE_SIMPLIFIED": "正常人怎么会弄到这种衣服啊？",
+      "CHINESE_TRADITIONAL": "正常人怎麼會拿到這種衣服啊？",
+      "JAPANESE": "この服、どうやったらもらえるんですか？",
+      "INDONESIAN": "Jadi... gimana caranya biar baju ini resmi jadi punyaku?",
+      "PORTUGUESE": "Como é que alguém acaba com uma coisa dessas...?",
+      "SPANISH": "¿Cómo terminas teniendo algo así...?",
+      "PERSIAN": "پس ... چگونه می توانم این معدن را بسازم؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.7,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 이런 옷을 입고 잠을 어떻게 자",
+      "ENGLISH": "And how do you expect me to sleep in something like this?",
+      "CHINESE_SIMPLIFIED": "而且穿这种衣服怎么睡觉嘛",
+      "CHINESE_TRADITIONAL": "而且穿這種衣服怎麼睡覺？",
+      "JAPANESE": "ていうか、こんなの着てどうやって寝るつもり？",
+      "INDONESIAN": "Dan kamu mau aku tidur pakai baju begini? Serius?",
+      "PORTUGUESE": "E como se dorme com algo assim?",
+      "SPANISH": "¿Y cómo se supone que uno duerme con algo así puesto?",
+      "PERSIAN": "و چگونه توقع دارید که من در چنین چیزی بخوابم؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 27.6,
+      "HIDE": 29.9
+    },
+    "SCRIPT": {
+      "KOREAN": "벗어요, 제 옷 빌려 드릴게요.",
+      "ENGLISH": "Take it off. I’ll lend you something proper.",
+      "CHINESE_SIMPLIFIED": "脱下来吧，我借我的衣服给你穿",
+      "CHINESE_TRADITIONAL": "把衣服脫掉，我借你我的衣服",
+      "JAPANESE": "脱いでください、私の貸しますから",
+      "INDONESIAN": "Udah lepasin aja. Aku pinjemin baju yang beneran.",
+      "PORTUGUESE": "Tira isso, eu te empresto uma das minhas roupas.",
+      "SPANISH": "Quítatela, te presto una de mis prendas.",
+      "PERSIAN": "اونو بردارید. من یک چیز مناسب به شما قرض می دهم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 30.0,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜요? 좋아요!",
+      "ENGLISH": "Really? I’d love that!",
+      "CHINESE_SIMPLIFIED": "真的吗？太好啦！",
+      "CHINESE_TRADITIONAL": "真的嗎？ 太好了！",
+      "JAPANESE": "ほんとに？ やった！",
+      "INDONESIAN": "Serius? Aku mau banget!",
+      "PORTUGUESE": "Sério? Perfeito!",
+      "SPANISH": "¿En serio? ¡Perfecto!",
+      "PERSIAN": "واقعا؟ من اونو دوست دارم!"
+    }
+  }
+]

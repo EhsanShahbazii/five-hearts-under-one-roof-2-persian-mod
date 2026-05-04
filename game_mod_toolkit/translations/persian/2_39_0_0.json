@@ -1,0 +1,236 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저 여기 드라마에서만 봤지.",
+      "ENGLISH": "I’ve only seen places like this in dramas.",
+      "CHINESE_SIMPLIFIED": "我只在电视剧里见过这种地方",
+      "CHINESE_TRADITIONAL": "哇～我只在電視上看過這種地方",
+      "JAPANESE": "私ここドラマでしか見たことなくて",
+      "INDONESIAN": "Aku hanya melihat tempat seperti ini di drama.",
+      "PORTUGUESE": "Só tinha visto lugares assim nos dramas,",
+      "SPANISH": "Solo había visto lugares así en los dramas,",
+      "PERSIAN": "من فقط چنین مکان هایی را در درام ها دیده ام."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "실제로 와본 건 처음이에요.",
+      "ENGLISH": "It’s my first time at a real one.",
+      "CHINESE_SIMPLIFIED": "实际来还是第一次呢",
+      "CHINESE_TRADITIONAL": "實際上是第一次來",
+      "JAPANESE": "実際に来るのは初めてです",
+      "INDONESIAN": "Ini pertama kalinya aku melakukannya secara nyata.",
+      "PORTUGUESE": "é a primeira vez que venho pessoalmente.",
+      "SPANISH": "es la primera vez que vengo en persona.",
+      "PERSIAN": "این اولین بار است که در یک واقعی هستم."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 6.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아.. 혹시 추우세요?",
+      "ENGLISH": "Ah... are you cold?",
+      "CHINESE_SIMPLIFIED": "啊...你会不会冷？",
+      "CHINESE_TRADITIONAL": "啊…妳會冷嗎？",
+      "JAPANESE": "あ…寒いですか?",
+      "INDONESIAN": "Ah... kamu kedinginan?",
+      "PORTUGUESE": "Ah... não tá com frio?",
+      "SPANISH": "Ah… ¿no tiene frío?",
+      "PERSIAN": "آه ... سرما خوردی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "조금...?",
+      "ENGLISH": "A little...?",
+      "CHINESE_SIMPLIFIED": "有点...？",
+      "CHINESE_TRADITIONAL": "有一點…？",
+      "JAPANESE": "ちょっとだけ…?",
+      "INDONESIAN": "Sedikit...?",
+      "PORTUGUESE": "Um pouco...",
+      "SPANISH": "Un poco…",
+      "PERSIAN": "کمی...؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 9.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그러면 이거 입으세요.",
+      "ENGLISH": "Here, wear this.",
+      "CHINESE_SIMPLIFIED": "那穿上这个吧",
+      "CHINESE_TRADITIONAL": "妳把這個穿上",
+      "JAPANESE": "じゃあこれ着てください",
+      "INDONESIAN": "Ini, pakai ini.",
+      "PORTUGUESE": "Então coloca isso.",
+      "SPANISH": "Entonces ponte esto.",
+      "PERSIAN": "اینجا، اینو بپوش."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오 센스~",
+      "ENGLISH": "Ooh, smooth move~",
+      "CHINESE_SIMPLIFIED": "哦～好贴心~",
+      "CHINESE_TRADITIONAL": "喔，真貼心～",
+      "JAPANESE": "お〜気がきく〜",
+      "INDONESIAN": "Wah, gerakan yang mulus~",
+      "PORTUGUESE": "Oh~ que atencioso.",
+      "SPANISH": "Oh~ qué atento.",
+      "PERSIAN": "اوه، حرکت صاف~"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 20.9
+    },
+    "SCRIPT": {
+      "KOREAN": "포장마차가 처음이면 제가 제대로 모실게요.",
+      "ENGLISH": "Since it’s your first time at a pojangmacha, I’ll guide you right.",
+      "CHINESE_SIMPLIFIED": "既然是第一次来路边摊，我得好好招待才行",
+      "CHINESE_TRADITIONAL": "妳第一次來路邊攤，當然要好好招待一下",
+      "JAPANESE": "屋台初めてなら 俺がちゃんと教えますよ",
+      "INDONESIAN": "Karena ini pertama kalinya kamu ke pojangmacha, aku akan ajarin kamu dengan benar.",
+      "PORTUGUESE": "Como é sua primeira vez num lugar assim, vou te ensinar.",
+      "SPANISH": "Como es tu primera vez en un lugar así, te voy a enseñar.",
+      "PERSIAN": "از آنجایی که اولین بار است که در پوجانگماچا حضور دارید، من شما را درست راهنمایی می کنم."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.9,
+      "HIDE": 23.5
+    },
+    "SCRIPT": {
+      "KOREAN": "처음에 어묵 딱 한입 먹고 ",
+      "ENGLISH": "First, take a bite of the fish cake,",
+      "CHINESE_SIMPLIFIED": "先咬一口鱼糕",
+      "CHINESE_TRADITIONAL": "首先，先吃一口魚板",
+      "JAPANESE": "まず最初におでんをひと口食べて",
+      "INDONESIAN": "Pertama, gigit kue ikannya,",
+      "PORTUGUESE": "Primeiro, dá uma mordida no fishcake,",
+      "SPANISH": "Primero le das una mordida al fishcake,",
+      "PERSIAN": "ابتدا کمی از کیک ماهی را گاز بگیرید،"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 25.5
+    },
+    "SCRIPT": {
+      "KOREAN": "소주 한번 딱 때린 다음에 ",
+      "ENGLISH": "then a shot of soju,",
+      "CHINESE_SIMPLIFIED": "然后灌一杯烧酒",
+      "CHINESE_TRADITIONAL": "接著，喝一口燒酒",
+      "JAPANESE": "それから焼酎をクイッといって",
+      "INDONESIAN": "lalu segelas soju,",
+      "PORTUGUESE": "depois um gole de soju,",
+      "SPANISH": "luego un trago de soju,",
+      "PERSIAN": "سپس یک شات سوجو،"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 26.1,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "국물 팍 퍼 먹으면 그냥 끝이에요",
+      "ENGLISH": "then go all in on the broth—boom, that’s it.",
+      "CHINESE_SIMPLIFIED": "再大口喝掉热汤，这样就完美了",
+      "CHINESE_TRADITIONAL": "最後，大口喝熱湯，完美結束",
+      "JAPANESE": "スープをガッとすくって飲めばもう完璧です",
+      "INDONESIAN": "lalu masuk ke dalam kuahnya—boom, selesai.",
+      "PORTUGUESE": "e por fim, um bom gole do caldo... Sua vez.",
+      "SPANISH": "y después un buen sorbo del caldo… Tu turno.",
+      "PERSIAN": "سپس به آبگوشت بروید - بوم، همین."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": " 그냥 이렇게 먹으면 돼요?",
+      "ENGLISH": "So... just eat it like that?",
+      "CHINESE_SIMPLIFIED": "就这样吃吗？",
+      "CHINESE_TRADITIONAL": "這樣吃就可以嗎？",
+      "JAPANESE": "ただこうやって食べればいいんですか?",
+      "INDONESIAN": "Jadi... dimakan begitu saja?",
+      "PORTUGUESE": "É só assim que se come?",
+      "SPANISH": "¿Solo así se come?",
+      "PERSIAN": "پس... همینجوری بخور؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 32.8,
+      "HIDE": 33.7
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yep!",
+      "CHINESE_SIMPLIFIED": "没错！",
+      "CHINESE_TRADITIONAL": "沒錯！",
+      "JAPANESE": "はい!",
+      "INDONESIAN": "Ya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 36.8,
+      "HIDE": 40.4
+    },
+    "SCRIPT": {
+      "KOREAN": "음 맛있다! 뭐야?",
+      "ENGLISH": "Mmm, that’s good! What the heck?!",
+      "CHINESE_SIMPLIFIED": "唔～好吃！绝了！",
+      "CHINESE_TRADITIONAL": "天啊，這是什麼？好好吃！",
+      "JAPANESE": "ん〜美味しい! 何これ!?",
+      "INDONESIAN": "Hmm, bagus sekali! Apa-apaan ini?!",
+      "PORTUGUESE": "Hmm, que delícia! O que é isso?",
+      "SPANISH": "Mmm, ¡qué rico! ¿Qué es?",
+      "PERSIAN": "ممم، این خوب است! چه لعنتی؟!"
+    }
+  }
+]

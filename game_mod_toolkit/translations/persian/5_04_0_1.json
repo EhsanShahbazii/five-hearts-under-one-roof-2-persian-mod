@@ -1,0 +1,200 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 2.5
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 아~",
+      "ENGLISH": "Okay, say “ah~”",
+      "CHINESE_SIMPLIFIED": "来，张嘴~",
+      "CHINESE_TRADITIONAL": "來，嘴巴張開～",
+      "JAPANESE": "ほら、あ〜ん",
+      "INDONESIAN": "Oke, buka mulut “ah~”",
+      "PORTUGUESE": "Abre a boca, vai~",
+      "SPANISH": "A ver, di aaah~",
+      "PERSIAN": "خوب بگو \"آه~\""
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "좀 더 작게 잘라주면 안 될까...",
+      "ENGLISH": "Can you cut it a little smaller…?",
+      "CHINESE_SIMPLIFIED": "能切得更小块点吗...",
+      "CHINESE_TRADITIONAL": "可以再切小塊一點嗎...",
+      "JAPANESE": "もう少し小さく切ってくれない？",
+      "INDONESIAN": "Bisa dipotongin agak kecilan dikit nggak…?",
+      "PORTUGUESE": "Você pode cortar um pouquinho menor...?",
+      "SPANISH": "¿Podrías cortarlo un poquito más pequeño...?",
+      "PERSIAN": "میشه یه کم کوچیکترش کنی…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 먹자~",
+      "ENGLISH": "Just eat it~",
+      "CHINESE_SIMPLIFIED": "直接吃吧~",
+      "CHINESE_TRADITIONAL": "就直接吃吧～",
+      "JAPANESE": "いいからそのまま食べて〜",
+      "INDONESIAN": "Makan aja lah~",
+      "PORTUGUESE": "Só come~",
+      "SPANISH": "Solo come~",
+      "PERSIAN": "فقط بخورش~"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～ ",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나 환잔데...",
+      "ENGLISH": "I’m the patient here…",
+      "CHINESE_SIMPLIFIED": "我可是病人诶...",
+      "CHINESE_TRADITIONAL": "我是病人耶...",
+      "JAPANESE": "俺、患者なんだけど…",
+      "INDONESIAN": "Kan aku pasiennya…",
+      "PORTUGUESE": "Mas eu sou o paciente...",
+      "SPANISH": "Pero yo soy el paciente...",
+      "PERSIAN": "من بیمار اینجام…"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아. 팔 아파.",
+      "ENGLISH": "Ugh, my arm hurts.",
+      "CHINESE_SIMPLIFIED": "啊，手好酸",
+      "CHINESE_TRADITIONAL": "啊。手好痛",
+      "JAPANESE": "あ、腕痛い",
+      "INDONESIAN": "Duh, tanganku sakit nih.",
+      "PORTUGUESE": "Ah! Meu braço dói.",
+      "SPANISH": "¡Ah! me duele el brazo.",
+      "PERSIAN": "اوه دستم درد میکنه"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.3,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "주, 주세요~",
+      "ENGLISH": "P-please~",
+      "CHINESE_SIMPLIFIED": "给、给我吧~",
+      "CHINESE_TRADITIONAL": "請、請給我～",
+      "JAPANESE": "く、ください〜",
+      "INDONESIAN": "P-please~",
+      "PORTUGUESE": "P- por favor.",
+      "SPANISH": "P- por favor.",
+      "PERSIAN": "پ-لطفا~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 11.9,
+      "HIDE": 12.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아~",
+      "ENGLISH": "Ah~",
+      "CHINESE_SIMPLIFIED": "啊~",
+      "CHINESE_TRADITIONAL": "啊～",
+      "JAPANESE": "あ〜ん",
+      "INDONESIAN": "Ah~",
+      "PORTUGUESE": "Ah~",
+      "SPANISH": "Ah~",
+      "PERSIAN": "آه~"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 17.8
+    },
+    "SCRIPT": {
+      "KOREAN": "으음~ 맛있다! ",
+      "ENGLISH": "Mmm~ that’s good!",
+      "CHINESE_SIMPLIFIED": "嗯~好吃！",
+      "CHINESE_TRADITIONAL": "嗯～ 好吃！",
+      "JAPANESE": "ん〜おいしい！",
+      "INDONESIAN": "Mmm~ enak banget!",
+      "PORTUGUESE": "Mmm~ Que delícia!",
+      "SPANISH": "Mmm~ ¡Qué rico!",
+      "PERSIAN": "ممم ~ خوبه!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.7
+    },
+    "SCRIPT": {
+      "KOREAN": "누가 줘서 더 맛있는 거 같네~?",
+      "ENGLISH": "Tastes even better ‘cause you gave it to me~",
+      "CHINESE_SIMPLIFIED": "好像是因为你喂的，所以更好吃呢~",
+      "CHINESE_TRADITIONAL": "好像因為有人餵，所以更好吃了呢～？",
+      "JAPANESE": "誰かさんが食べさせてくれるからかな、もっとおいしく感じるな〜？",
+      "INDONESIAN": "Jadi makin enak karena kamu yang suapin~",
+      "PORTUGUESE": "Tá ainda mais gostoso porque você tá aqui~",
+      "SPANISH": "Sabe mejor porque tú estás aquí~",
+      "PERSIAN": "مزه اش حتی بهتر است \"چون تو اونو به من دادی\"."
+    }
+  }
+]

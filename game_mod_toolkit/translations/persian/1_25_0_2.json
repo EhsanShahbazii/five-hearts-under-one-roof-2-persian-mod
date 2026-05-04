@@ -1,0 +1,218 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 아까 네가 먹고 싶다던",
+      "ENGLISH": "Here, that Java Chip thing you said you wanted.",
+      "CHINESE_SIMPLIFIED": "来！你刚才不是说想喝那个",
+      "CHINESE_TRADITIONAL": "喏，你剛剛不是說想喝的",
+      "JAPANESE": "さあ、さっき飲みたいって言ってた",
+      "INDONESIAN": "Nih, ini yang tadi kamu pengin!",
+      "PORTUGUESE": "Aqui, aquele Java Chip que você disse que queria.",
+      "SPANISH": "Aquí tienes, ese Java Chip que dijiste que querías.",
+      "PERSIAN": "بیا اینم همون نوشیدنی جاوا چیپ چیه که می‌گفتی."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "자바칩 잡.. 뭐..뭐 그거야! 얼른 마셔",
+      "ENGLISH": "Go on, drink it!",
+      "CHINESE_SIMPLIFIED": "那个什么...巧克力...星冰乐...什么什么的！快喝吧",
+      "CHINESE_TRADITIONAL": "什麼...巧克力...星...冰樂？就是那個...快點喝吧",
+      "JAPANESE": "ジャバチップ…なんだっけ…それだよ！早く飲んで",
+      "INDONESIAN": "Java chip apa tuh? Itu dia! Cepet diminum!",
+      "PORTUGUESE": "Vai, toma!",
+      "SPANISH": "¡Anda, tómalo!",
+      "PERSIAN": "همون چیز خوشمزه‌هه! بگیر بخور تا یخاش آب نشده."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "응 알았어.",
+      "ENGLISH": "Yeah, okay.",
+      "CHINESE_SIMPLIFIED": "嗯，知道了",
+      "CHINESE_TRADITIONAL": "嗯，知道了",
+      "JAPANESE": "うん、わかった",
+      "INDONESIAN": "Iya, oke.",
+      "PORTUGUESE": "É, tá bom.",
+      "SPANISH": "Sí, va.",
+      "PERSIAN": "آره دستت طلا، بده بیاد."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 14.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 이제 좀 피가 도는 거 같네.",
+      "ENGLISH": "Ah, I feel like my blood’s finally circulating again.",
+      "CHINESE_SIMPLIFIED": "啊，现在感觉血液都流通起来了",
+      "CHINESE_TRADITIONAL": "啊，現在總算感覺爽快多了",
+      "JAPANESE": "ああ、やっと血が巡ってきた気がする",
+      "INDONESIAN": "Ah, sekarang baru kerasa darah ngalir lagi.",
+      "PORTUGUESE": "Ah, sinto que meu sangue tá finalmente circulando de novo.",
+      "SPANISH": "Ah, siento que por fin me está circulando la sangre otra vez.",
+      "PERSIAN": "آخیش... تازه احساس می‌کنم خون توی رگام به جریان افتاد."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 14.1,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 그렇게 맛있어?",
+      "ENGLISH": "Is it really that good?",
+      "CHINESE_SIMPLIFIED": "真的有那么好喝吗？",
+      "CHINESE_TRADITIONAL": "那麼好喝嗎？",
+      "JAPANESE": "そんなに美味しいの？",
+      "INDONESIAN": "Seenak itu ya?",
+      "PORTUGUESE": "É tão bom assim?",
+      "SPANISH": "¿Está tan bueno?",
+      "PERSIAN": "واقعاً اینقدر خوشمزه‌ست یعنی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.2,
+      "HIDE": 18.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어 너무 좋다. ",
+      "ENGLISH": "Oh, it’s amazing.",
+      "CHINESE_SIMPLIFIED": "嗯，太棒了！",
+      "CHINESE_TRADITIONAL": "啊，真的太棒了",
+      "JAPANESE": "うん、最高だよ",
+      "INDONESIAN": "Iya, enak banget.",
+      "PORTUGUESE": "Ah, é incrível.",
+      "SPANISH": "Uf, está increíble.",
+      "PERSIAN": "وای اصلاً محشره، روانی‌کننده‌ست!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.3,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나 이제 가면 되나?",
+      "ENGLISH": "So… can I head out now?",
+      "CHINESE_SIMPLIFIED": "我现在可以回去了吧？",
+      "CHINESE_TRADITIONAL": "現在可以回去了嗎？",
+      "JAPANESE": "もう帰っていい？",
+      "INDONESIAN": "Aku boleh pulang sekarang?",
+      "PORTUGUESE": "Então… já posso ir embora?",
+      "SPANISH": "Entonces… ¿ya me puedo ir?",
+      "PERSIAN": "خب من دیگه می‌تونم مرخص شم راه بیفتم؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.7,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니지. ",
+      "ENGLISH": "Nope.",
+      "CHINESE_SIMPLIFIED": "当然不行",
+      "CHINESE_TRADITIONAL": "還不行",
+      "JAPANESE": "いいや、",
+      "INDONESIAN": "Belum lah.",
+      "PORTUGUESE": "Não.",
+      "SPANISH": "No.",
+      "PERSIAN": "کجا با این عجله؟ نخیر!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.2,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "여기서 다 먹고 가야지",
+      "ENGLISH": "You have to finish it here before you leave.",
+      "CHINESE_SIMPLIFIED": "你得把它全喝完再走",
+      "CHINESE_TRADITIONAL": "在這裡全部喝完再走",
+      "JAPANESE": "ここで全部飲んでから帰るんだ",
+      "INDONESIAN": "Habisin dulu minumnya di sini.",
+      "PORTUGUESE": "Você tem que terminar aqui antes de sair.",
+      "SPANISH": "Tienes que terminarlo aquí antes de irte.",
+      "PERSIAN": "اول همه‌شو تا ته سر بکش بعد!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 23.3,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "집 가면서 먹으면 안 돼?",
+      "ENGLISH": "Can’t I just drink it on the way home?",
+      "CHINESE_SIMPLIFIED": "回家的路上喝不行吗？",
+      "CHINESE_TRADITIONAL": "不能邊走邊喝嗎？",
+      "JAPANESE": "家に帰りながらじゃダメ？",
+      "INDONESIAN": "Nggak bisa sambil jalan pulang aja?",
+      "PORTUGUESE": "Não posso beber no caminho pra casa?",
+      "SPANISH": "¿No puedo tomármelo de camino a casa?",
+      "PERSIAN": "نمی‌شه تو راه خونه همونطور که می‌ریم بخورمش؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 28.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아니야, 급할 거 없으니까 여기서 다 먹고 퇴원을 해.",
+      "ENGLISH": "No, no rush—finish it here, then you can be discharged.",
+      "CHINESE_SIMPLIFIED": "不行，我们又不赶时间，就在这里喝完再出院！",
+      "CHINESE_TRADITIONAL": "不行，我們又不趕時間，在這裡全部喝完再出院",
+      "JAPANESE": "いいや、急ぐことないんだからここで全部飲んで退院するんだ",
+      "INDONESIAN": "Nggak buru-buru juga kan, jadi habisin dulu di sini.",
+      "PORTUGUESE": "Não, sem pressa—termina aqui, aí você recebe alta.",
+      "SPANISH": "No, nada de prisas—termínatelo aquí y luego te puedes ir.",
+      "PERSIAN": "نخیر، هول نزن! با خیال راحت همین‌جا تمومش کن بعد راه می‌افتیم."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어!",
+      "ENGLISH": "Alright!",
+      "CHINESE_SIMPLIFIED": "好吧好吧！",
+      "CHINESE_TRADITIONAL": "知道了！",
+      "JAPANESE": "わかった！",
+      "INDONESIAN": "Oke deh!",
+      "PORTUGUESE": "Certo!",
+      "SPANISH": "¡Está bien!",
+      "PERSIAN": "باشه بابا، تسلیم!"
+    }
+  }
+]

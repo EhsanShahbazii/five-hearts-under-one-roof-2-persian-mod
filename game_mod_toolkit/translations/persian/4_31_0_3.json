@@ -1,0 +1,198 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님 첫 키스 어땠어요?",
+      "ENGLISH": "Manager, how was your first kiss?",
+      "CHINESE_SIMPLIFIED": "科长的初吻是什么感觉？",
+      "CHINESE_TRADITIONAL": "課長，那妳的初吻是什麼感覺？",
+      "JAPANESE": "課長の初キスってどんな感じだったんですか？",
+      "INDONESIAN": "Manajer, pas ciuman pertama gimana?",
+      "PORTUGUESE": "Chefe, quando foi o seu primeiro beijo?",
+      "SPANISH": "¿Jefa, cúando fue su primer beso?",
+      "PERSIAN": "مدیر، اولین بوسه شما چگونه بود؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.1
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "什么？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 우유만 씨 누가 그런 거 물어보래?",
+      "ENGLISH": "No, Yuman! Who told you to ask that?!",
+      "CHINESE_SIMPLIFIED": "不是，谁让你问这个了！",
+      "CHINESE_TRADITIONAL": "喂！吳宥萬！誰叫你問那種東西！",
+      "JAPANESE": "ウ・ユマンさんなんでそんなこと聞くの？",
+      "INDONESIAN": "Nggak, Yuman! Siapa yang nyuruh kamu nanya begituan sih?!",
+      "PORTUGUESE": "Ei! Quem te deu permissão pra perguntar isso?",
+      "SPANISH": "¡Oye! ¿Quién te dijo que podías preguntar eso?",
+      "PERSIAN": "نه، یومان! کی گفته اینو بپرسی؟!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 9.4
+    },
+    "SCRIPT": {
+      "KOREAN": "알려 줘! 알려 줘!",
+      "ENGLISH": "Tell me! Tell me!",
+      "CHINESE_SIMPLIFIED": "告诉我嘛！告诉我嘛！",
+      "CHINESE_TRADITIONAL": "快告訴我！告訴我！",
+      "JAPANESE": "教えてくださいよ〜教えて！",
+      "INDONESIAN": "Kasih tahu dong! Kasih tahu!",
+      "PORTUGUESE": "Conta pra mim, conta!",
+      "SPANISH": "¡Cuénteme, cuénteme!",
+      "PERSIAN": "به من بگو! به من بگو!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "미친 거 아니야? 조용히 안 해?",
+      "ENGLISH": "Are you crazy? Can’t you be quiet?",
+      "CHINESE_SIMPLIFIED": "你疯了吗？能不能安静点？",
+      "CHINESE_TRADITIONAL": "你瘋了嗎？還不安靜一點？",
+      "JAPANESE": "ばか！静かにして！",
+      "INDONESIAN": "Udah gila, ya?!Bisa nggak diem sedikit aja nggak sih?",
+      "PORTUGUESE": "Você enlouqueceu? Não vai calar a boca?",
+      "SPANISH": "¿Estás loco? ¿No te vas a callar?",
+      "PERSIAN": "شما دیوانه هستید؟ نمیتونی ساکت باشی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 알려줘 봐요.",
+      "ENGLISH": "Ah, fine, tell me then.",
+      "CHINESE_SIMPLIFIED": "哎呀～就说说嘛～",
+      "CHINESE_TRADITIONAL": "哎呀，告訴我嘛",
+      "JAPANESE": "教えてくださいよ",
+      "INDONESIAN": "Ah, ya udah, bilang aja.",
+      "PORTUGUESE": "Mas conta!",
+      "SPANISH": "Pero cuénteme.",
+      "PERSIAN": "آه، خوب، پس به من بگو."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.9,
+      "HIDE": 16.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 우유만 씨가 그걸 왜 알고 싶은데!",
+      "ENGLISH": "Why do you even want to know, Yuman?!",
+      "CHINESE_SIMPLIFIED": "不是，你为什么要知道这个！",
+      "CHINESE_TRADITIONAL": "不是啊，你為什麼想知道這個！",
+      "JAPANESE": "なんでウ・ユマンさんがそんなこと知りたがるの！",
+      "INDONESIAN": "Emangnya kenapa sih kamu kepo, Yuman?!",
+      "PORTUGUESE": "E por que isso te interessa?",
+      "SPANISH": "¿Y por qué  te importa a ti?",
+      "PERSIAN": "اصلا چرا میخوای بدونی یومان؟!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 알아야 대비를 하죠.",
+      "ENGLISH": "I need to know so I can be prepared.",
+      "CHINESE_SIMPLIFIED": "我也好提前做准备啊",
+      "CHINESE_TRADITIONAL": "我也要知道，才能做準備啊",
+      "JAPANESE": "俺も備えなきゃいけないんです",
+      "INDONESIAN": "Aku harus tahu biar bisa siap-siap.",
+      "PORTUGUESE": "Pra eu poder me preparar!",
+      "SPANISH": "¡Para poder prepararme!",
+      "PERSIAN": "من باید بدانم تا بتوانم آماده شوم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 20.0,
+      "HIDE": 24.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그니까 그걸 유만 씨가 왜 알고 대비를 하냐구",
+      "ENGLISH": "But… why would you need to know to be prepared?",
+      "CHINESE_SIMPLIFIED": "所以为什么要为这个做准备...",
+      "CHINESE_TRADITIONAL": "你為什麼想知道，還要做什麼準備？",
+      "JAPANESE": "だからウ・ユマンさんどうして備えるの～",
+      "INDONESIAN": "Tapi… kenapa kamu perlu siap-siap segala?",
+      "PORTUGUESE": "Se preparar pra quê, exatamente?",
+      "SPANISH": "¿Prepararte para qué, exactamente?",
+      "PERSIAN": "اما ... چرا باید بدانید که آماده باشید؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 29.8
+    },
+    "SCRIPT": {
+      "KOREAN": "...뭔가 회사 안에서나 밖에서나 능숙해 보이고 싶단 말이에요.",
+      "ENGLISH": "…It’s just that I want to seem confident, both in and out of the office.",
+      "CHINESE_SIMPLIFIED": "...就是想在公司里外都显得游刃有余嘛",
+      "CHINESE_TRADITIONAL": "就是...我想讓大家覺得我在公司裡或公司外都很厲害嘛",
+      "JAPANESE": "会社でも、外でも、手慣れてるように見せたいんです",
+      "INDONESIAN": "…Soalnya aku pengen kelihatan percaya diri, baik di kantor maupun di luar.",
+      "PORTUGUESE": "...Não sei, só quero parecer mais confiante — dentro e fora do trabalho.",
+      "SPANISH": "…No sé, solo quiero verme más seguro, tanto dentro como fuera del trabajo.",
+      "PERSIAN": "... فقط می خواهم در دفتر و خارج از دفتر مطمئن به نظر برسم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 34.1
+    },
+    "SCRIPT": {
+      "KOREAN": "누구한테 그렇게 능숙해 보이고 싶은데?",
+      "ENGLISH": "Confident to who, exactly?",
+      "CHINESE_SIMPLIFIED": "你想在谁面前显得游刃有余？",
+      "CHINESE_TRADITIONAL": "你想在誰面前表現出厲害的樣子呢？",
+      "JAPANESE": "…誰にそんなふうに見せたいの？",
+      "INDONESIAN": "Percaya diri… di depan siapa, emangnya?",
+      "PORTUGUESE": "E pra quem exatamente você quer parecer tão confiante, hein?",
+      "SPANISH": "¿Y para quién quieres verte tan seguro, eh?",
+      "PERSIAN": "دقیقاً واسه چی کسی مطمئن هستید؟"
+    }
+  }
+]

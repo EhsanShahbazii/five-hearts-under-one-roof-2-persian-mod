@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 시간이 없는데 ",
+      "ENGLISH": "Ugh, I really don’t have time for this…",
+      "CHINESE_SIMPLIFIED": "啊，真的没时间了",
+      "CHINESE_TRADITIONAL": "啊，真的沒時間了",
+      "JAPANESE": "ああ、ほんとに時間がないのに…",
+      "INDONESIAN": "Ugh, aku bener-bener nggak punya waktu buat ini…",
+      "PORTUGUESE": "Ah, de verdade, não tenho tempo…",
+      "SPANISH": "Ah, de verdad no tengo tiempo…",
+      "PERSIAN": "اوه، من واقعا برای این وقت ندارم…"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 왼쪽으로 가자",
+      "ENGLISH": "I’ll just go left for now.",
+      "CHINESE_SIMPLIFIED": "先走左边吧",
+      "CHINESE_TRADITIONAL": "先走左邊吧",
+      "JAPANESE": "とりあえず左に行こう",
+      "INDONESIAN": "Aku belok kiri aja deh, untuk sekarang.",
+      "PORTUGUESE": "Vou pela esquerda primeiro.",
+      "SPANISH": "Iré por la izquierda primero.",
+      "PERSIAN": "من فقط فعلاً به سمت چپ می روم."
+    }
+  }
+]

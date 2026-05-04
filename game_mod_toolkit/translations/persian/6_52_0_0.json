@@ -1,0 +1,470 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 이제 좀 정리가 됐나...",
+      "ENGLISH": "Ah… finally got things somewhat sorted…",
+      "CHINESE_SIMPLIFIED": "啊...现在终于理清楚一点了...",
+      "CHINESE_TRADITIONAL": "啊...現在算是整理好了嗎...",
+      "JAPANESE": "…ふぅ、少しは落ち着いたかな",
+      "INDONESIAN": "Ah… akhirnya semua agak kelar juga…",
+      "PORTUGUESE": "Ah… será que já se resolveu tudo…?",
+      "SPANISH": "Ah… ¿ya se habrá solucionado todo…?",
+      "PERSIAN": "آه ... بالاخره همه چیز تا حدودی مرتب شد ..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.9,
+      "HIDE": 6.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 형?",
+      "ENGLISH": "Huh? Hyung?",
+      "CHINESE_SIMPLIFIED": "咦？哥？",
+      "CHINESE_TRADITIONAL": "欸？哥哥？",
+      "JAPANESE": "あれ？兄貴？",
+      "INDONESIAN": "Hah? Hyung?",
+      "PORTUGUESE": "Hã? Salsicha?",
+      "SPANISH": "¿Eh? ¿Salchicha?",
+      "PERSIAN": "ها؟ داداش؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만이. 혼자야?",
+      "ENGLISH": "Oh, Yuman. You alone?",
+      "CHINESE_SIMPLIFIED": "吴宥万？你一个人啊？",
+      "CHINESE_TRADITIONAL": "吳宥萬？你一個人啊？",
+      "JAPANESE": "ウ・ユマン、一人か？",
+      "INDONESIAN": "Oh, Yuman. Kamu sendirian?",
+      "PORTUGUESE": "Yumán, veio sozinho?",
+      "SPANISH": "Yumán, ¿vienes solo?",
+      "PERSIAN": "اوه، یومان. تو تنها؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.0,
+      "HIDE": 10.5
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 형은요?",
+      "ENGLISH": "Yeah — what about you, hyung?",
+      "CHINESE_SIMPLIFIED": "嗯，哥你呢？",
+      "CHINESE_TRADITIONAL": "嗯，哥哥你呢？",
+      "JAPANESE": "はい　兄貴は？",
+      "INDONESIAN": "Iya — hyung sendiri gimana?",
+      "PORTUGUESE": "Sim, e você?",
+      "SPANISH": "Sí, ¿y tú?",
+      "PERSIAN": "آره - تو چی، داداش؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "응 아직 솔로야.",
+      "ENGLISH": "Still single.",
+      "CHINESE_SIMPLIFIED": "我啊，还单着呢",
+      "CHINESE_TRADITIONAL": "我，一樣還是單身啊",
+      "JAPANESE": "ああ、俺もまだソロだ",
+      "INDONESIAN": "Masih jomblo.",
+      "PORTUGUESE": "Sim, sozinho e sem ninguém.",
+      "SPANISH": "Sí, solo y sin nadie.",
+      "PERSIAN": "هنوز مجرد"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.6,
+      "HIDE": 15.7
+    },
+    "SCRIPT": {
+      "KOREAN": "사장님 여기 잔 하나 주세요",
+      "ENGLISH": "Boss, one glass over here please.",
+      "CHINESE_SIMPLIFIED": "老板，给我再来一杯",
+      "CHINESE_TRADITIONAL": "老闆，請再給一個杯子",
+      "JAPANESE": "店長、グラスひとつください",
+      "INDONESIAN": "Bos, satu gelas di sini ya.",
+      "PORTUGUESE": "Me dá um copo, por favor.",
+      "SPANISH": "Déme un vaso, por favor.",
+      "PERSIAN": "رئیس، یک لیوان اینجا لطفا."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.4,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "청승맞게 혼자 뭐해 ",
+      "ENGLISH": "Why are you sitting here all pathetic and alone?",
+      "CHINESE_SIMPLIFIED": "一个大男人孤零零地在这干嘛呢",
+      "CHINESE_TRADITIONAL": "一個人孤零零地在幹嘛？",
+      "JAPANESE": "寂しく一人で飲んでどうした？",
+      "INDONESIAN": "Kenapa duduk sendirian di sini kayak orang sedih gitu?",
+      "PORTUGUESE": "O que faz bebendo sozinho com essa cara tão triste?",
+      "SPANISH": "¿Qué haces bebiendo solo con esa cara tan triste?",
+      "PERSIAN": "چرا این همه رقت انگیز و تنها اینجا نشستی؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.4,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "형 저 있잖아요...",
+      "ENGLISH": "Hyung, actually I…",
+      "CHINESE_SIMPLIFIED": "哥，我其实...",
+      "CHINESE_TRADITIONAL": "哥哥，我其實...",
+      "JAPANESE": "兄貴、あの…",
+      "INDONESIAN": "Hyung, sebenernya aku tuh…",
+      "PORTUGUESE": "É que eu…",
+      "SPANISH": "Es que yo....",
+      "PERSIAN": "داداش، در واقع من…"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.6,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아...아니다",
+      "ENGLISH": "Ah— nevermind.",
+      "CHINESE_SIMPLIFIED": "啊，算了",
+      "CHINESE_TRADITIONAL": "啊，算了",
+      "JAPANESE": "あ、いや、 なんでもありません",
+      "INDONESIAN": "Ah—udah deh, nggak jadi.",
+      "PORTUGUESE": "Ah… deixa pra lá.",
+      "SPANISH": "Ah… olvídalo.",
+      "PERSIAN": "آه - مهم نیست."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 26.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아이...뭔데...",
+      "ENGLISH": "What is it…",
+      "CHINESE_SIMPLIFIED": "哎呀，什么嘛",
+      "CHINESE_TRADITIONAL": "欸欸，什麼啦",
+      "JAPANESE": "おい、何だよ…",
+      "INDONESIAN": "Apa sih…",
+      "PORTUGUESE": "Vamos lá, o que foi…?",
+      "SPANISH": "Vamos, ¿qué pasa…?",
+      "PERSIAN": "چیه…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 28.3,
+      "HIDE": 30.3
+    },
+    "SCRIPT": {
+      "KOREAN": "사람 열받게 하네 이것 또...씨",
+      "ENGLISH": "You’re really getting on my nerves here, seriously…",
+      "CHINESE_SIMPLIFIED": "真让人火大，你小子...",
+      "CHINESE_TRADITIONAL": "又在惹人生氣...嘖",
+      "JAPANESE": "じれったいな、お前ほんとに…チッ",
+      "INDONESIAN": "Kamu bikin aku kesel beneran, tahu nggak…",
+      "PORTUGUESE": "Você realmente sabe como deixar alguém ansioso, hein?",
+      "SPANISH": "De verdad sabes cómo desesperar a la gente, ¿eh?",
+      "PERSIAN": "اینجا واقعا اعصابمو خورد میکنی جدی…"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 30.7,
+      "HIDE": 32.6
+    },
+    "SCRIPT": {
+      "KOREAN": "너, 인성 문제있어?",
+      "ENGLISH": "You, do you have a personality issue?",
+      "CHINESE_SIMPLIFIED": "你，是不是人品有问题啊？",
+      "CHINESE_TRADITIONAL": "你，人品有問題嗎？",
+      "JAPANESE": "お前、人間性に問題あるんじゃね？",
+      "INDONESIAN": "Kamu, ada masalah sama kepribadian ya?",
+      "PORTUGUESE": "É bipolar ou algo assim?",
+      "SPANISH": "¿Eres bipolar o algo así?",
+      "PERSIAN": "شما، مشکل شخصیتی دارید؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 33.1,
+      "HIDE": 36.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 인성 말고 사실 다른 문제가 있는데 ",
+      "ENGLISH": "No — it’s not a personality issue. It’s something else…",
+      "CHINESE_SIMPLIFIED": "哎，不是人品的问题，其实是...",
+      "CHINESE_TRADITIONAL": "呃，不是人品，其實我有其他的問題",
+      "JAPANESE": "いや、人間性じゃなくて…実は別の問題があります",
+      "INDONESIAN": "Bukan — ini bukan soal kepribadian. Ini soal lain…",
+      "PORTUGUESE": "Não, não é isso… na verdade, eu tenho um problema.",
+      "SPANISH": "No, no es eso… en realidad tengo un problema.",
+      "PERSIAN": "نه - این یک مسئله شخصیتی نیست. چیز دیگری است…"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 38.4,
+      "HIDE": 40.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이거 연애네~ 어?",
+      "ENGLISH": "Ah, this is about romance, isn’t it~ huh?",
+      "CHINESE_SIMPLIFIED": "是恋爱问题吧~啊？",
+      "CHINESE_TRADITIONAL": "是戀愛問題吧～嗯？",
+      "JAPANESE": "お、これは恋愛だな〜？な？",
+      "INDONESIAN": "Ah, ini pasti soal cinta, ya~ hah?",
+      "PORTUGUESE": "Ah~ é amor, né?",
+      "SPANISH": "Ah~ es de amor, ¿cierto?",
+      "PERSIAN": "آه، این در مورد عاشقانه است، اینطوری نیست؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 40.7,
+      "HIDE": 41.9
+    },
+    "SCRIPT": {
+      "KOREAN": "연애 문제야 이거",
+      "ENGLISH": "It’s a relationship problem.",
+      "CHINESE_SIMPLIFIED": "绝对是恋爱问题",
+      "CHINESE_TRADITIONAL": "絕對是戀愛問題",
+      "JAPANESE": "恋愛の悩みだろ？",
+      "INDONESIAN": "Masalah hubungan, kan.",
+      "PORTUGUESE": "Sim, dá pra ver na sua cara.",
+      "SPANISH": "Sí, se te nota en la cara.",
+      "PERSIAN": "مشکل رابطه است"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 42.5,
+      "HIDE": 44.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 어떻게 아셨어요?",
+      "ENGLISH": "H-how did you know?",
+      "CHINESE_SIMPLIFIED": "啊？你怎么知道的？",
+      "CHINESE_TRADITIONAL": "啊？你怎麼知道？",
+      "JAPANESE": "えっ、どうして分かったんですか？",
+      "INDONESIAN": "G-gimana kamu tahu?",
+      "PORTUGUESE": "Hã? Como você soube?",
+      "SPANISH": "¿Eh? ¿Cómo lo supiste?",
+      "PERSIAN": "-از کجا فهمیدی؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 45.6,
+      "HIDE": 46.9
+    },
+    "SCRIPT": {
+      "KOREAN": "쉽게 생각해라 ",
+      "ENGLISH": "Just keep it simple.",
+      "CHINESE_SIMPLIFIED": "别想太多",
+      "CHINESE_TRADITIONAL": "別想太多",
+      "JAPANESE": "簡単に考えろ",
+      "INDONESIAN": "Bikin simpel aja.",
+      "PORTUGUESE": "Vai com calma.",
+      "SPANISH": "Tómatelo con calma.",
+      "PERSIAN": "فقط اونو ساده نگه دارید."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 48.7,
+      "HIDE": 50.2
+    },
+    "SCRIPT": {
+      "KOREAN": "누구랑 있을 때가 행복했고,",
+      "ENGLISH": "Who were you happiest with,",
+      "CHINESE_SIMPLIFIED": "想想和谁在一起时最幸福",
+      "CHINESE_TRADITIONAL": "想想和誰在一起最幸福",
+      "JAPANESE": "誰といる時が一番幸せで",
+      "INDONESIAN": "Siapa orang yang paling bikin kamu bahagia,",
+      "PORTUGUESE": "Pensa em quem te faz feliz",
+      "SPANISH": "Piensa en con quién te hace feliz",
+      "PERSIAN": "با کی خوشبخت تر بودی"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 50.8,
+      "HIDE": 53.9
+    },
+    "SCRIPT": {
+      "KOREAN": "가장 너 다울 수 있었는지 그것만 보면 돼.",
+      "ENGLISH": "and who let you be most yourself? That’s all that matters.",
+      "CHINESE_SIMPLIFIED": "想想在谁面前你能开心地做自己...",
+      "CHINESE_TRADITIONAL": "想想在誰面前你能開心地做自己，看著那個就可以了",
+      "JAPANESE": "一番自分らしくいられたかそれだけでいい",
+      "INDONESIAN": "dan siapa yang bikin kamu bisa jadi diri sendiri? Itu aja.",
+      "PORTUGUESE": "e com quem você pode ser você mesmo. Só isso.",
+      "SPANISH": "y con quién puedes ser tú mismo. Solo eso.",
+      "PERSIAN": "و چه کسی بیشتر به شما اجازه می دهد خودتان باشید؟ این تمام چیزی است که اهمیت دارد."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 55.2,
+      "HIDE": 58.6
+    },
+    "SCRIPT": {
+      "KOREAN": "행복하면서도 나 다울 수 있었던 사람...",
+      "ENGLISH": "The one I was happy with… and could be myself around…",
+      "CHINESE_SIMPLIFIED": "又幸福又能在她面前做自己的人...",
+      "CHINESE_TRADITIONAL": "既幸福又能讓我成為自己的人...",
+      "JAPANESE": "幸せで、自分らしくいられた人…",
+      "INDONESIAN": "Orang yang bikin aku bahagia… dan bisa jadi diri sendiri…",
+      "PORTUGUESE": "Alguém que me faça feliz… e com quem eu possa ser eu mesmo…",
+      "SPANISH": "Alguien qué me haga feliz… y pueda ser yo mismo…",
+      "PERSIAN": "کسی که ازش راضی بودم و میتونستم خودم باشم…"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 58.9,
+      "HIDE": 59.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그래.",
+      "ENGLISH": "Exactly.",
+      "CHINESE_SIMPLIFIED": "没错",
+      "CHINESE_TRADITIONAL": "沒錯",
+      "JAPANESE": "そうだ",
+      "INDONESIAN": "Nah, itu dia.",
+      "PORTUGUESE": "Exato.",
+      "SPANISH": "Exacto.",
+      "PERSIAN": "دقیقا."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 60.6,
+      "HIDE": 63.5
+    },
+    "SCRIPT": {
+      "KOREAN": "그사람이 네 진짜 인연인거야.",
+      "ENGLISH": "That person is your real match.",
+      "CHINESE_SIMPLIFIED": "那个人就是你的真命天女了",
+      "CHINESE_TRADITIONAL": "那個人就是你真正的緣分",
+      "JAPANESE": "その人が本当の縁なんだよ",
+      "INDONESIAN": "Orang itu yang paling cocok buat kamu.",
+      "PORTUGUESE": "Essa é a mulher certa.",
+      "SPANISH": "Esa mujer es la indicada.",
+      "PERSIAN": "اون شخص همتای واقعی شماست."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 64.6,
+      "HIDE": 65.8
+    },
+    "SCRIPT": {
+      "KOREAN": "형 고마워요!",
+      "ENGLISH": "Hyung, thank you!",
+      "CHINESE_SIMPLIFIED": "哥，谢谢你！",
+      "CHINESE_TRADITIONAL": "哥哥，謝謝你！",
+      "JAPANESE": "兄貴、ありがとうございます！",
+      "INDONESIAN": "Hyung, makasih ya!",
+      "PORTUGUESE": "Hyung, obrigado!",
+      "SPANISH": "Hyung, ¡gracias!",
+      "PERSIAN": "داداش، ممنون!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 65.9,
+      "HIDE": 66.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이제 알겠어요!",
+      "ENGLISH": "I get it now!",
+      "CHINESE_SIMPLIFIED": "我现在明白了！",
+      "CHINESE_TRADITIONAL": "我現在明白了！",
+      "JAPANESE": "もう分かりました！",
+      "INDONESIAN": "Aku ngerti sekarang!",
+      "PORTUGUESE": "Já sei o que eu preciso fazer!",
+      "SPANISH": "¡Ya sé que debo hacer!",
+      "PERSIAN": "الان فهمیدم!"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 67.9,
+      "HIDE": 68.6
+    },
+    "SCRIPT": {
+      "KOREAN": "짠 할까?",
+      "ENGLISH": "Shall we toast?",
+      "CHINESE_SIMPLIFIED": "干一杯？",
+      "CHINESE_TRADITIONAL": "乾杯嗎？",
+      "JAPANESE": "乾杯するか？",
+      "INDONESIAN": "Kita toast?",
+      "PORTUGUESE": "Um brinde a isso?",
+      "SPANISH": "¿Un brindis por eso?",
+      "PERSIAN": "نون تست کنیم؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 72.5,
+      "HIDE": 75.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나 지갑없다잉 네, 네가 사라잉",
+      "ENGLISH": "I didn’t bring my wallet, okay? You’re paying.",
+      "CHINESE_SIMPLIFIED": "我没带钱包诶~这顿你请啦～",
+      "CHINESE_TRADITIONAL": "我沒帶錢包喔～這攤給你請～",
+      "JAPANESE": "俺、財布忘れた お前が払えよな〜",
+      "INDONESIAN": "Tapi aku nggak bawa dompet, ya. Kamu yang bayar.",
+      "PORTUGUESE": "Não trouxe minha carteira. Você paga.",
+      "SPANISH": "No traje mi billetera. Tú pagas.",
+      "PERSIAN": "کیف پولم را نیاوردم، باشه؟ شما پرداخت می کنید"
+    }
+  }
+]

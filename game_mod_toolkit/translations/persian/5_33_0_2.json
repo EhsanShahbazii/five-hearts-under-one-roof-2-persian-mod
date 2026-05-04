@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.9,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "우린... 살을 맞댄 사이지. ",
+      "ENGLISH": "We’ve… had skin-to-skin contact, you know.",
+      "CHINESE_SIMPLIFIED": "我们...可是亲密接触过的关系呢",
+      "CHINESE_TRADITIONAL": "我們啊…是那種肌膚相貼的關係唷",
+      "JAPANESE": "俺たちは…肌を重ねた仲だよ",
+      "INDONESIAN": "Kita tuh… udah pernah bersentuhan kulit, tau.",
+      "PORTUGUESE": "Nós... somos muito próximos.",
+      "SPANISH": "Nosotros... somos muy cercanos.",
+      "PERSIAN": "ما ... تماس پوست به پوست داشته ایم، می دانید."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그것도 아주 뜨~겁게...",
+      "ENGLISH": "Like, really hot and close…",
+      "CHINESE_SIMPLIFIED": "而且还是非~常火热的那种...",
+      "CHINESE_TRADITIONAL": "還是那種超～～親密的那種",
+      "JAPANESE": "それもめちゃくちゃ熱〜く…",
+      "INDONESIAN": "Yang kayak… deket banget gitu…",
+      "PORTUGUESE": "A gente já ficou bem perto, pele com pele...",
+      "SPANISH": "Hemos estado en cerca, piel a piel...",
+      "PERSIAN": "مثل خیلی گرم و نزدیک…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어??",
+      "ENGLISH": "Huh??",
+      "CHINESE_SIMPLIFIED": "呃？？",
+      "CHINESE_TRADITIONAL": "呃？？",
+      "JAPANESE": "えっ？？",
+      "INDONESIAN": "Hah??",
+      "PORTUGUESE": "Hã??",
+      "SPANISH": "¿Eh??",
+      "PERSIAN": "ها؟؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 6.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "ENGLISH": "What?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "蛤？",
+      "JAPANESE": "はい？",
+      "INDONESIAN": "Apa?",
+      "PORTUGUESE": "O quê?",
+      "SPANISH": "¿Qué?",
+      "PERSIAN": "چی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 그냥 말 그대론데... 맞잖아요!",
+      "ENGLISH": "I mean it literally… I’m not wrong!",
+      "CHINESE_SIMPLIFIED": "就是字面意思啊...没说错吧！",
+      "CHINESE_TRADITIONAL": "啊，就字面意思啊～不是嗎！",
+      "JAPANESE": "いや ただ言葉のまんまだけど…合ってるし！",
+      "INDONESIAN": "Aku serius, lho… secara harfiah! Aku nggak bohong!",
+      "PORTUGUESE": "Só disse a verdade... literalmente.",
+      "SPANISH": "Solo dije la verdad... literalmente.",
+      "PERSIAN": "منظورم به معنای واقعی کلمه... اشتباه نمی کنم!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 또 저런 남자애가 들이대면",
+      "ENGLISH": "If another guy like that comes at you again,",
+      "CHINESE_SIMPLIFIED": "以后要是再遇到这种男的纠缠你",
+      "CHINESE_TRADITIONAL": "以後要是又有臭男生來搭訕",
+      "JAPANESE": "これからまたああいう男の子がちょっかい出してきたら",
+      "INDONESIAN": "Kalau ada cowok kayak tadi yang gangguin kamu lagi,",
+      "PORTUGUESE": "De agora em diante, se algum cara como ele voltar a te incomodar,",
+      "SPANISH": "De ahora en adelante, si algún chico como él vuelve a molestarte,",
+      "PERSIAN": "اگر مرد دیگری مانند اون دوباره به سراغ شما آمد،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "3학년 1반으로 찾아와 ",
+      "ENGLISH": "come find me in Class 3-1",
+      "CHINESE_SIMPLIFIED": "直接来高三一班找我",
+      "CHINESE_TRADITIONAL": "就來三年一班找我",
+      "JAPANESE": "3年1組に来てね",
+      "INDONESIAN": "dateng ke kelas 3-1",
+      "PORTUGUESE": "me procura na sala 1 do terceiro ano.",
+      "SPANISH": "ve a buscarme al salón 1 de 3er año.",
+      "PERSIAN": "بیا من را در کلاس 3-1 پیدا کن"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15.8
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 언니라고 부르고.",
+      "ENGLISH": "and call me “unni” from now on.",
+      "CHINESE_SIMPLIFIED": "以后叫我姐姐",
+      "CHINESE_TRADITIONAL": "以後就叫我姊姊吧",
+      "JAPANESE": "これからは私のこと“お姉ちゃん”って呼んでね",
+      "INDONESIAN": "dan panggil aku “unni” mulai sekarang.",
+      "PORTUGUESE": "A partir de hoje, você é minha amiga.",
+      "SPANISH": "Desde hoy, eres mi amiga.",
+      "PERSIAN": "و از این به بعد مرا \"آبجی\" صدا کنید."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네 언니...",
+      "ENGLISH": "Yes, unni…",
+      "CHINESE_SIMPLIFIED": "好的姐姐...",
+      "CHINESE_TRADITIONAL": "是，姊姊…",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Iya, unni…",
+      "PORTUGUESE": "Sim, tudo bem...",
+      "SPANISH": "Sí, está bien...",
+      "PERSIAN": "بله عزیزم…"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 넌 나를 이어서 2대 얼짱이 될 몸이니까 알았지?",
+      "ENGLISH": "You’re going to be the next top beauty after me, got it?",
+      "CHINESE_SIMPLIFIED": "以后你就是接替我成为二代校花的人了，明白吗？",
+      "CHINESE_TRADITIONAL": "以後妳要繼承我，成為第二代校花，知道嗎？",
+      "JAPANESE": "これからあんたは私の後を継ぐ2代目美人になるんだから わかった？",
+      "INDONESIAN": "Kamu bakal jadi primadona selanjutnya setelah aku, ngerti?!",
+      "PORTUGUESE": "Você vai ser minha sucessora como a mais bonita da escola, entendeu?",
+      "SPANISH": "Tú serás mi sucesora como la más bella de la escuela, ¿entendido?",
+      "PERSIAN": "شما بعد از من زیبایی برتر بعدی می‌شین، متوجه شدید؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 23.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 언니",
+      "ENGLISH": "Yes, unni!",
+      "CHINESE_SIMPLIFIED": "是，姐姐！",
+      "CHINESE_TRADITIONAL": "是！姊姊！",
+      "JAPANESE": "はい！お姉ちゃん！",
+      "INDONESIAN": "Iya, unni!",
+      "PORTUGUESE": "Claro que sim!",
+      "SPANISH": "¡Por supuesto!",
+      "PERSIAN": "بله، اونی!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.8,
+      "HIDE": 26.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 똥 마려워... ",
+      "ENGLISH": "Ugh, I need to poop…",
+      "CHINESE_SIMPLIFIED": "啊肚子好痛...",
+      "CHINESE_TRADITIONAL": "欸…我想大便了啦…",
+      "JAPANESE": "あ〜お腹痛い…",
+      "INDONESIAN": "Ugh, aku beneran pengen boker…",
+      "PORTUGUESE": "Ai, preciso ir ao banheiro...",
+      "SPANISH": "Ay, tengo que ir al baño...",
+      "PERSIAN": "اوه، من باید مدفوع کنم…"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 26.7,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": " 어쨌든 꼭 찾아와! 알았지!",
+      "ENGLISH": "Anyway, make sure you come find me! Got it!?",
+      "CHINESE_SIMPLIFIED": "反正一定要来找我！记住了！",
+      "CHINESE_TRADITIONAL": "總之，一定要來找我，知道嗎！",
+      "JAPANESE": "とにかく絶対来て！いいね！",
+      "INDONESIAN": "Pokoknya, jangan lupa cari aku nanti! Paham!?",
+      "PORTUGUESE": "Enfim, não esquece de vir me ver, tá bem?",
+      "SPANISH": "¡Como sea, no olvides venir a verme! ¿Está bien?",
+      "PERSIAN": "به هر حال حتما بیای پیدام کن! فهمیدی!؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.4,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네!!",
+      "ENGLISH": "Yes!!",
+      "CHINESE_SIMPLIFIED": "是！！",
+      "CHINESE_TRADITIONAL": "是！！",
+      "JAPANESE": "はい！！",
+      "INDONESIAN": "Iyaaa!!",
+      "PORTUGUESE": "Sim!!",
+      "SPANISH": "¡Sí!!",
+      "PERSIAN": "بله!!"
+    }
+  }
+]

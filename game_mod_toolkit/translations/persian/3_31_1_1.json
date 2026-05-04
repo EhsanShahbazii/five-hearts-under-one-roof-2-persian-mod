@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.9,
+      "HIDE": 4.4
+    },
+    "SCRIPT": {
+      "KOREAN": "섬세하게 풀어드리려면 역시 안마기가 맞죠.",
+      "ENGLISH": "If we’re going for a more delicate touch, a massage gun really is the way to go.",
+      "CHINESE_SIMPLIFIED": "要想细致周到地放松，果然还是得用按摩仪呢",
+      "CHINESE_TRADITIONAL": "要深層放鬆的話，還是按摩機最合適吧",
+      "JAPANESE": "繊細にほぐすには、やっぱりマッサージ機が一番ですね",
+      "INDONESIAN": "Kalau mau sentuhan yang lebih halus, emang paling bener pakai massage gun.",
+      "PORTUGUESE": "Pra relaxar bem os músculos, com certeza o melhor é um massageador.",
+      "SPANISH": "Para relajar bien los músculos, definitivamente lo mejor es  un masajeador.",
+      "PERSIAN": "اگر می‌خوایم لمس ظریف‌تری داشته باشیم، یک تفنگ ماساژ واقعاً راهی است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 7.9
+    },
+    "SCRIPT": {
+      "KOREAN": "많이 간지러우세요??",
+      "ENGLISH": "Is it... super ticklish?",
+      "CHINESE_SIMPLIFIED": "你很怕痒吗？？",
+      "CHINESE_TRADITIONAL": "很癢嗎？？",
+      "JAPANESE": "くすぐったいですか？",
+      "INDONESIAN": "Itu... geli banget ya?",
+      "PORTUGUESE": "Faz muita cócega?",
+      "SPANISH": "¿Le hace muchas cosquillas?",
+      "PERSIAN": "این ... فوق العاده غلغلک است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 12.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 죄송해요! 제가 유독 발 간지럼을 많이 타서",
+      "ENGLISH": "Ah—sorry! I’m just really ticklish on my feet.",
+      "CHINESE_SIMPLIFIED": "啊抱歉！我唯独脚底特别怕痒",
+      "CHINESE_TRADITIONAL": "對不起！我這人特別怕腳癢…",
+      "JAPANESE": "あっ、ごめんなさい！ 私、特に足がすごくくすぐったくて",
+      "INDONESIAN": "Ah—maaf! Aku emang super geli di bagian kaki.",
+      "PORTUGUESE": "Ah, desculpa! É que meus pés são super sensíveis.",
+      "SPANISH": "Ah, ¡perdón! Es que tengo los pies súper sensibles.",
+      "PERSIAN": "آه - متاسفم! من واقعاً روی پاهایم قلقلک می دهم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 12.9,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": " 차라리 세게 해줄래요?",
+      "ENGLISH": "Then... want me to just go harder instead?",
+      "CHINESE_SIMPLIFIED": "不如直接用力点？",
+      "CHINESE_TRADITIONAL": "不然力道乾脆再用力一點？",
+      "JAPANESE": "それならいっそ強くしてもらえます？",
+      "INDONESIAN": "Kalau gitu... mau aku tekan lebih keras aja?",
+      "PORTUGUESE": "Então pode apertar um pouco mais?",
+      "SPANISH": "¿Podrías hacerlo más fuerte, entonces?",
+      "PERSIAN": "سپس... می خواهید به جای اون سخت تر پیش بروم؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "세게요?",
+      "ENGLISH": "Harder?",
+      "CHINESE_SIMPLIFIED": "用力？",
+      "CHINESE_TRADITIONAL": "用力一點嗎？",
+      "JAPANESE": "強く、ですか？",
+      "INDONESIAN": "Lebih keras?",
+      "PORTUGUESE": "Mais forte...?",
+      "SPANISH": "¿Más fuerte...?",
+      "PERSIAN": "سخت تر؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.2,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "음...이렇게?",
+      "ENGLISH": "Hmm... like this?",
+      "CHINESE_SIMPLIFIED": "嗯...像这样？",
+      "CHINESE_TRADITIONAL": "嗯…這樣？",
+      "JAPANESE": "うーん…こうですか？",
+      "INDONESIAN": "Hmm... kayak gini?",
+      "PORTUGUESE": "Hã... assim?",
+      "SPANISH": "Mmm... ¿así?",
+      "PERSIAN": "هوم... اینجوری؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오 시원하고 괜찮은데요?",
+      "ENGLISH": "Ooh, that’s actually perfect. Feels really good.",
+      "CHINESE_SIMPLIFIED": "喔~又痛快又舒服呢！",
+      "CHINESE_TRADITIONAL": "喔，好舒服，很不錯耶！",
+      "JAPANESE": "おお、気持ちいいですね！",
+      "INDONESIAN": "Ooh, itu pas banget. Enak banget rasanya.",
+      "PORTUGUESE": "Oh, assim tá ótimo, bem relaxante.",
+      "SPANISH": "Oh, así se siente genial, muy relajante.",
+      "PERSIAN": "اوه، این در واقع کامل است. واقعا حس خوبیه"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.8,
+      "HIDE": 29.7
+    },
+    "SCRIPT": {
+      "KOREAN": "혼자 했으면 제대로 못 했을 거예요. 고마워요!",
+      "ENGLISH": "I wouldn’t have been able to take care of this on my own—thank you.",
+      "CHINESE_SIMPLIFIED": "要是我自己一个人，肯定没法按摩到位。谢谢你！",
+      "CHINESE_TRADITIONAL": "要是我一個人的話，肯定做不到這麼到位。謝謝你！",
+      "JAPANESE": "一人だったらこんなにうまくできなかったと思います　ありがとう！",
+      "INDONESIAN": "Aku nggak bakal bisa ngurusin ini sendiri—makasih banget ya.",
+      "PORTUGUESE": "Se eu estivesse sozinha, não teria conseguido fazer direito. Obrigada.",
+      "SPANISH": "Si estuviera sola, no habría podido hacerlo bien. Gracias.",
+      "PERSIAN": "من نمی توانستم به تنهایی از این موضوع مراقبت کنم - ممنونم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 29.9,
+      "HIDE": 33.2
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 당연히 해드려야죠! 규리 쌤인데.",
+      "ENGLISH": "Come on, of course I’d help! Everything for Nurse Gyu-ri",
+      "CHINESE_SIMPLIFIED": "哎~当然要帮忙啦！你可是方护士呀",
+      "CHINESE_TRADITIONAL": "欸～這是當然的啊！畢竟久梨護理師嘛",
+      "JAPANESE": "いえいえ、当然ですよ　ギュリ先生なんですから",
+      "INDONESIAN": "Ayolah, tentu aja aku bantu! Apa pun demi Suster Gyu-ri!",
+      "PORTUGUESE": "Ah, por favor, pela enfermeira Gyuri eu faria qualquer coisa!",
+      "SPANISH": "Ay, por favor, por la enfermera Gyuri haría cualquier cosa!",
+      "PERSIAN": "بیا، البته من کمک خواهم کرد! همه چیز برای پرستار گیو-ری"
+    }
+  }
+]

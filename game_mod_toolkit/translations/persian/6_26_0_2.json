@@ -1,0 +1,344 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "방귀 뀐 사람, 저 아닙니다!",
+      "ENGLISH": "It wasn’t me! I did not fart!",
+      "CHINESE_SIMPLIFIED": "放屁的人不是我！",
+      "CHINESE_TRADITIONAL": "放屁的人不是我！",
+      "JAPANESE": "おならしたの、俺じゃありません！",
+      "INDONESIAN": "Bukan aku! Aku nggak kentut!",
+      "PORTUGUESE": "Não fui eu quem soltou!",
+      "SPANISH": "¡No fui yo quien se lo tiró!",
+      "PERSIAN": "من نبودم! گوز نزدم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.2
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 뭐 하는 거야....!",
+      "ENGLISH": "Yuman, what on earth are you doing…?!",
+      "CHINESE_SIMPLIFIED": "吴宥万，你在干什么啊...！",
+      "CHINESE_TRADITIONAL": "吳宥萬，你在幹什麽啊...！",
+      "JAPANESE": "ウ・ユマンさん、何してるんですか…！？",
+      "INDONESIAN": "Yuman, kamu lagi ngapain sih…?!",
+      "PORTUGUESE": "Yumán, o que você tá fazendo...?!",
+      "SPANISH": "Yumán, ¡¿qué estás haciendo...?!",
+      "PERSIAN": "یومان تو چیکار میکنی...؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐야...",
+      "ENGLISH": "Wait…",
+      "CHINESE_SIMPLIFIED": "什么啊...",
+      "CHINESE_TRADITIONAL": "什麽啊...",
+      "JAPANESE": "え…",
+      "INDONESIAN": "Tunggu…",
+      "PORTUGUESE": "Mas o quê…?",
+      "SPANISH": "¿Pero qué…?",
+      "PERSIAN": "صبر کن…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "누군데...",
+      "ENGLISH": "Then who…",
+      "CHINESE_SIMPLIFIED": "到底是谁...",
+      "CHINESE_TRADITIONAL": "那到底是誰...",
+      "JAPANESE": "誰…？",
+      "INDONESIAN": "Jadi siapa dong…",
+      "PORTUGUESE": "Então quem foi…?",
+      "SPANISH": "¿Entonces quién fue…?",
+      "PERSIAN": "بعد کی…"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 누구야 그럼",
+      "ENGLISH": "Seriously, who was it?",
+      "CHINESE_SIMPLIFIED": "不然你说到底是谁",
+      "CHINESE_TRADITIONAL": "不然你說到底是誰",
+      "JAPANESE": "いや、じゃあ誰なんですか",
+      "INDONESIAN": "Serius, siapa yang kentut?!",
+      "PORTUGUESE": "Quem soltou isso?",
+      "SPANISH": "¿Quién se lo tiró?",
+      "PERSIAN": "جدی، کی بود؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 11.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저에게 방귀가 나올 것 같다고 이야기 하고!",
+      "ENGLISH": "Someone told me they felt a fart coming on—",
+      "CHINESE_SIMPLIFIED": "刚刚还跟我说她要放屁了！",
+      "CHINESE_TRADITIONAL": "剛剛還跟我說她要放屁了！",
+      "JAPANESE": "俺におなら出そうって言って！",
+      "INDONESIAN": "Tadi ada yang bilang dia ngerasa mau kentut—",
+      "PORTUGUESE": "Alguém me disse que ia soltar um,",
+      "SPANISH": "Alguien me dijo que se iba a tirar uno,",
+      "PERSIAN": "یکی به من گفت که احساس کردند گوز در حال آمدن است-"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 11.3,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "지금은 저에게 누명까지 씌우려는",
+      "ENGLISH": "And now they’re trying to pin it on me?!",
+      "CHINESE_SIMPLIFIED": "现在居然还想栽赃给我",
+      "CHINESE_TRADITIONAL": "現在居然還想栽贓給我",
+      "JAPANESE": "今は俺に濡れ衣まで着せようとする",
+      "INDONESIAN": "Terus sekarang nyoba nyalahin aku?!",
+      "PORTUGUESE": "e agora querem me culpar injustamente!",
+      "SPANISH": "¡y ahora quieren culparme injustamente!",
+      "PERSIAN": "و حالا می خواهند اونو به من سنجاق کنند؟!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.4,
+      "HIDE": 14.9
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 방귀 범인은 바로!",
+      "ENGLISH": "The real fart culprit is...",
+      "CHINESE_SIMPLIFIED": "真正的放屁元凶就是！",
+      "CHINESE_TRADITIONAL": "真正的放屁兇手就是！",
+      "JAPANESE": "本当のおなら犯人は",
+      "INDONESIAN": "Pelaku kentut yang sebenarnya adalah...",
+      "PORTUGUESE": "O verdadeiro culpado pelo gás é...!",
+      "SPANISH": "¡El verdadero culpable del gas es...!",
+      "PERSIAN": "مقصر واقعی گوز این است که ..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 15.3,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이 사람입니다!",
+      "ENGLISH": "This person right here!",
+      "CHINESE_SIMPLIFIED": "这位！",
+      "CHINESE_TRADITIONAL": "這位！",
+      "JAPANESE": "この人です！！！",
+      "INDONESIAN": "Orang ini!",
+      "PORTUGUESE": "Essa pessoa!",
+      "SPANISH": "¡Esta persona!",
+      "PERSIAN": "این شخص همین جاست!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17.3
+    },
+    "SCRIPT": {
+      "KOREAN": "동과장이야?",
+      "ENGLISH": "…Chief Dong?!",
+      "CHINESE_SIMPLIFIED": "是佟科长？",
+      "CHINESE_TRADITIONAL": "是佟課長嗎？",
+      "JAPANESE": "ドン課長！？",
+      "INDONESIAN": "…Chief Dong?!",
+      "PORTUGUESE": "A chefe Gran...?",
+      "SPANISH": "¿La jefa Gran...?",
+      "PERSIAN": "... رئیس دونگ؟!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜로...?",
+      "ENGLISH": "Wait—really?!",
+      "CHINESE_SIMPLIFIED": "真的吗...？",
+      "CHINESE_TRADITIONAL": "真的嗎...？",
+      "JAPANESE": "本当に…？",
+      "INDONESIAN": "Hah—serius?!",
+      "PORTUGUESE": "Sério...?",
+      "SPANISH": "¿En serio...?",
+      "PERSIAN": "صبر کن - واقعا؟!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 18.6,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨 뭘 먹은거야...",
+      "ENGLISH": "What the hell did you eat...",
+      "CHINESE_SIMPLIFIED": "我去...你这是吃了什么啊...",
+      "CHINESE_TRADITIONAL": "哎呀，你是吃了什麽啊...",
+      "JAPANESE": "あ〜一体何食べたんだよ…",
+      "INDONESIAN": "Kamu makan apa sih...",
+      "PORTUGUESE": "Ai, meu Deus… o que foi que comeu...?",
+      "SPANISH": "Ay, por Dios… ¿qué comió...?",
+      "PERSIAN": "لعنتی چی خوردی..."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "따라서! 이 공기를 더럽힌 죄는",
+      "ENGLISH": "Therefore! For the crime of polluting our shared airspace,",
+      "CHINESE_SIMPLIFIED": "因此！污染空气的罪责",
+      "CHINESE_TRADITIONAL": "因此！污染空氣的罪責",
+      "JAPANESE": "したがって！この空気を汚した罪は",
+      "INDONESIAN": "Maka dari itu! Atas kejahatan mencemari udara bersama,",
+      "PORTUGUESE": "Portanto! Declaro que a responsável",
+      "SPANISH": "¡Por lo tanto! ¡Declaro que la persona responsable",
+      "PERSIAN": "بنابراین! به جرم آلوده کردن حریم هوایی مشترک ما،"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": " 이 사람에게 물어주십시오!!!",
+      "ENGLISH": "please direct all complaints to this individual!",
+      "CHINESE_SIMPLIFIED": "请向这个人追究！！！",
+      "CHINESE_TRADITIONAL": "請向這個人追究！！！",
+      "JAPANESE": "この人に償ってもらってください！！！",
+      "INDONESIAN": "silakan ajukan semua keluhan ke orang ini!",
+      "PORTUGUESE": "por ter contaminado o ar é ela!",
+      "SPANISH": "de haber contaminado el aire es ella!",
+      "PERSIAN": "لطفاً همه شکایات را به این فرد ارسال کنید!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 25.6,
+      "HIDE": 28.2
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 지금 무슨 소릴하는 거야!!!",
+      "ENGLISH": "Yuman, have you completely lost it?!",
+      "CHINESE_SIMPLIFIED": "吴宥万，你现在在胡说什么啊！！！",
+      "CHINESE_TRADITIONAL": "吳宥萬，你現在在胡說什麽啊！！！",
+      "JAPANESE": "ウ・ユマンさん、一体何言ってるんですか！！",
+      "INDONESIAN": "Yuman, kamu udah gila ya?!",
+      "PORTUGUESE": "Yumán, você ficou maluco?!",
+      "SPANISH": "¡Yumán, ¿te volviste loco?!",
+      "PERSIAN": "یومان، اونو کاملا از دست داده ای؟!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.6,
+      "HIDE": 36.9
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 일은 내가 절대로 잊지 않겠어.",
+      "ENGLISH": "I will never forget what happened today.",
+      "CHINESE_SIMPLIFIED": "今天这事我绝对不会忘的",
+      "CHINESE_TRADITIONAL": "今天這件事我絕對不會忘的",
+      "JAPANESE": "今日のことは絶対に忘れませんからね！",
+      "INDONESIAN": "Aku nggak akan pernah lupa kejadian hari ini.",
+      "PORTUGUESE": "Nunca vou esquecer o que você fez hoje!",
+      "SPANISH": "¡Jamás olvidaré lo que hiciste hoy!",
+      "PERSIAN": "من هرگز آنچه امروز اتفاق افتاد را فراموش نمی کنم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 40.6,
+      "HIDE": 41.3
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님!",
+      "ENGLISH": "Chief!",
+      "CHINESE_SIMPLIFIED": "科长！",
+      "CHINESE_TRADITIONAL": "課長！",
+      "JAPANESE": "課長！！",
+      "INDONESIAN": "Chief!",
+      "PORTUGUESE": "Chefe!",
+      "SPANISH": "¡Jefa!",
+      "PERSIAN": "رئیس!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 44.5
+    },
+    "SCRIPT": {
+      "KOREAN": "화장실부터 가시는 게 좋을 거 같은데...!!!",
+      "ENGLISH": "I think you should… head to the bathroom first!!!",
+      "CHINESE_SIMPLIFIED": "您最好还是先去趟厕所吧...！！！",
+      "CHINESE_TRADITIONAL": "您最好還是先去趟廁所吧...！！！",
+      "JAPANESE": "まずはトイレに行った方がいいと思いますけど…！！！",
+      "INDONESIAN": "Aku rasa… kamu mending ke toilet dulu!!!",
+      "PORTUGUESE": "Acho melhor você ir ao banheiro...",
+      "SPANISH": "¡Creo que lo mejor sería que fuera al baño...!",
+      "PERSIAN": "من فکر می کنم شما باید ... ابتدا به حمام بروید!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 45.8,
+      "HIDE": 46.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네~?",
+      "ENGLISH": "Yeeees~",
+      "CHINESE_SIMPLIFIED": "嗯~？",
+      "CHINESE_TRADITIONAL": "嗯？！",
+      "JAPANESE": "えっ！？",
+      "INDONESIAN": "Yeeeees~",
+      "PORTUGUESE": "É mesmo~?",
+      "SPANISH": "¿Sí~?",
+      "PERSIAN": "اره ~"
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 2.3
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만, 생일 축하해! ",
+      "ENGLISH": "Happy birthday, Yuman!",
+      "CHINESE_SIMPLIFIED": "吴宥万，生日快乐！",
+      "CHINESE_TRADITIONAL": "吳宥萬，生日快樂",
+      "JAPANESE": "ウ・ユマン、誕生日おめでとう！",
+      "INDONESIAN": "Selamat ulang tahun, Yuman!",
+      "PORTUGUESE": "Feliz aniversário, Yumán!",
+      "SPANISH": "¡Feliz cumpleaños, Yumán!",
+      "PERSIAN": "تولدت مبارک، یومان!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "내년엔 우리 둘이서만 보내자!",
+      "ENGLISH": "Next year, let’s celebrate… just the two of us.",
+      "CHINESE_SIMPLIFIED": "明年就我们俩单独过吧！",
+      "CHINESE_TRADITIONAL": "明年我們兩個一起單獨過吧！",
+      "JAPANESE": "来年は二人きりで過ごそうね！",
+      "INDONESIAN": "Tahun depan, kita rayain… berdua aja, ya.",
+      "PORTUGUESE": "No ano que vem, vamos passar só eu e você!",
+      "SPANISH": "¡El próximo año pasémoslo solo tú y yo!",
+      "PERSIAN": "سال آینده، بیایید جشن بگیریم... فقط ما دو نفر."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 고말숙...",
+      "ENGLISH": "Hey, Go Malsook...",
+      "CHINESE_SIMPLIFIED": "喂，高末淑...",
+      "CHINESE_TRADITIONAL": "喂，高末淑...",
+      "JAPANESE": "おい コ・マルスク…",
+      "INDONESIAN": "Eh, Go Malsook...",
+      "PORTUGUESE": "Ei, Malsook…",
+      "SPANISH": "Oye, Malsook…",
+      "PERSIAN": "هی برو مال‌سوک..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.8,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 감동이야?",
+      "ENGLISH": "What? Was that kinda touching?",
+      "CHINESE_SIMPLIFIED": "怎么，感动了？",
+      "CHINESE_TRADITIONAL": "怎麼，感動了嗎？",
+      "JAPANESE": "なんでちょっと感動してんの？",
+      "INDONESIAN": "Kenapa? Tadi agak menyentuh ya?",
+      "PORTUGUESE": "Te emocionei?",
+      "SPANISH": "¿Te emocioné?",
+      "PERSIAN": "چی؟ این تا حدی لمس کننده بود؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어...",
+      "ENGLISH": "Uh...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯...",
+      "JAPANESE": "うん…",
+      "INDONESIAN": "Uh...",
+      "PORTUGUESE": "Sim…",
+      "SPANISH": "Sí…",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이건 내 선물~",
+      "ENGLISH": "Here—this is your present~",
+      "CHINESE_SIMPLIFIED": "这是我的礼物~",
+      "CHINESE_TRADITIONAL": "來，這是給你的禮物～",
+      "JAPANESE": "これ、私のプレゼント〜",
+      "INDONESIAN": "Nih—ini hadiah buat kamu~",
+      "PORTUGUESE": "Esse é meu presente~",
+      "SPANISH": "Este es mi regalo~",
+      "PERSIAN": "اینجا - این هدیه شماست"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아! 뭐 해~",
+      "ENGLISH": "Ah! Hey, what was that~",
+      "CHINESE_SIMPLIFIED": "啊！你干嘛~",
+      "CHINESE_TRADITIONAL": "啊！這又是什麼啦～",
+      "JAPANESE": "あ！なにすんの〜",
+      "INDONESIAN": "Ah! Eh, apaan tuh~",
+      "PORTUGUESE": "Ah! O que você tá fazendo~?",
+      "SPANISH": "¡Ah! ¿Qué haces~?",
+      "PERSIAN": "آه! هی این چی بود ~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "장난이야 ",
+      "ENGLISH": "Kidding, kidding.",
+      "CHINESE_SIMPLIFIED": "开玩笑啦",
+      "CHINESE_TRADITIONAL": "開玩笑的啦",
+      "JAPANESE": "冗談だって",
+      "INDONESIAN": "Bercanda, bercanda.",
+      "PORTUGUESE": "É brincadeira.",
+      "SPANISH": "Es broma.",
+      "PERSIAN": "شوخی، شوخی."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜..",
+      "ENGLISH": "Ugh, seriously...",
+      "CHINESE_SIMPLIFIED": "啊真是...",
+      "CHINESE_TRADITIONAL": "啊～真是的...",
+      "JAPANESE": "あ〜もう…",
+      "INDONESIAN": "Ugh, ya ampun...",
+      "PORTUGUESE": "Ai, sério…",
+      "SPANISH": "Ay, en serio…",
+      "PERSIAN": "اوه، جدی..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 21.5
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워. 말숙이 짱!",
+      "ENGLISH": "Thanks. You’re the best, Mal-sook!",
+      "CHINESE_SIMPLIFIED": "谢啦，末淑最棒了！",
+      "CHINESE_TRADITIONAL": "謝謝！末淑最棒了！",
+      "JAPANESE": "ありがとう マルスク 最高！",
+      "INDONESIAN": "Makasih. Terbaik emang Mal-sook!",
+      "PORTUGUESE": "Obrigada. Você é a melhor, Malsook!",
+      "SPANISH": "Gracias. ¡Eres la mejor, Malsook!",
+      "PERSIAN": "با تشکر تو بهترینی، مال‌سوک!"
+    }
+  }
+]

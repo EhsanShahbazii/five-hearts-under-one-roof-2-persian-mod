@@ -1,0 +1,578 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.11,
+      "HIDE": 6.05
+    },
+    "SCRIPT": {
+      "KOREAN": "“낮져밤이 vs 낮이밤져”",
+      "ENGLISH": "“Daytime submissive, nighttime dominant vs. daytime dominant, nighttime submissive.”",
+      "CHINESE_SIMPLIFIED": "“白天服从型，晚上主导型 vs 白天主导型，晚上服从型”",
+      "CHINESE_TRADITIONAL": "「白天服從型，晚上主導型 vs 白天主導型，晚上服從型。」",
+      "JAPANESE": "「昼は従順タイプ、夜は主導タイプ vs 昼は主導タイプ、夜は従順タイプ。」",
+      "INDONESIAN": "“Submisif di siang hari, dominan di malam hari vs dominan di siang hari, submisif di malam hari.”",
+      "PORTUGUESE": "“Submissa de dia, dominante à noite vs dominante de dia, submissa à noite.”",
+      "SPANISH": "“Sumisa de día, dominante de noche vs dominante de día, sumisa de noche.”",
+      "PERSIAN": "«تسلیم روز، غالب شب در مقابل غالب روز، مطیع شب»."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.15,
+      "HIDE": 7.21
+    },
+    "SCRIPT": {
+      "KOREAN": "낮이밤져?",
+      "ENGLISH": "Daytime dominant, nighttime submissive?",
+      "CHINESE_SIMPLIFIED": "白天主导型，晚上服从型？",
+      "CHINESE_TRADITIONAL": "白天主導型，晚上服從型？",
+      "JAPANESE": "昼は主導タイプ、夜は従順タイプ？",
+      "INDONESIAN": "Dominan di siang hari, submisif di malam hari?",
+      "PORTUGUESE": "Dominante de dia, submissa à noite?",
+      "SPANISH": "¿Dominante de día, sumisa de noche?",
+      "PERSIAN": "روز غالب، شب تسلیم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.21,
+      "HIDE": 10.0
+    },
+    "SCRIPT": {
+      "KOREAN": "민망한데",
+      "ENGLISH": "That’s embarrassing.",
+      "CHINESE_SIMPLIFIED": "有点小尴尬呢～",
+      "CHINESE_TRADITIONAL": "好尷尬啊。",
+      "JAPANESE": "恥ずかしいですね。",
+      "INDONESIAN": "Aduh, malu banget.",
+      "PORTUGUESE": "Que vergonha.",
+      "SPANISH": "Qué vergüenza.",
+      "PERSIAN": "این شرم آور است"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.01,
+      "HIDE": 13.13
+    },
+    "SCRIPT": {
+      "KOREAN": "원래 제가 그렇게 뭔가",
+      "ENGLISH": "I’ve never really been the strong type.",
+      "CHINESE_SIMPLIFIED": "其实我本来不是那种",
+      "CHINESE_TRADITIONAL": "我一直都不是那種強勢的人。",
+      "JAPANESE": "私はもともと強いタイプではありません。",
+      "INDONESIAN": "Aku sebenarnya bukan tipe yang kuat.",
+      "PORTUGUESE": "Nunca fui do tipo forte.",
+      "SPANISH": "Nunca he sido del tipo fuerte.",
+      "PERSIAN": "من واقعاً هرگز اون نوع قوی نبودم."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 13.13,
+      "HIDE": 16.01
+    },
+    "SCRIPT": {
+      "KOREAN": "센 스타일은 아니어가지고",
+      "ENGLISH": "But lately, I think I’ve gotten stronger during the day.",
+      "CHINESE_SIMPLIFIED": "很强势的类型",
+      "CHINESE_TRADITIONAL": "但最近感覺白天變得更強了。",
+      "JAPANESE": "でも最近は昼間に少し強くなった気がします。",
+      "INDONESIAN": "Tapi akhir-akhir ini, aku merasa lebih kuat di siang hari.",
+      "PORTUGUESE": "Mas ultimamente acho que fiquei mais forte durante o dia.",
+      "SPANISH": "Pero últimamente creo que me he vuelto más fuerte durante el día.",
+      "PERSIAN": "اما اخیراً فکر می‌کنم در طول روز قوی‌تر شده‌ام."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.01,
+      "HIDE": 18.06
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 요즘에 낮에 좀 세졌어요",
+      "ENGLISH": "Like, maybe I’ve become more of a “T”?",
+      "CHINESE_SIMPLIFIED": "不过最近白天确实变得强势了些",
+      "CHINESE_TRADITIONAL": "好像變成了「T型」？",
+      "JAPANESE": "なんか“Tっぽく”なったというか？",
+      "INDONESIAN": "Kayaknya aku jadi lebih “T”?",
+      "PORTUGUESE": "Talvez eu tenha me tornado mais “T”?",
+      "SPANISH": "Como si me hubiera vuelto más “T”.",
+      "PERSIAN": "مثلاً شاید من بیشتر یک \"\" شده باشم؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.06,
+      "HIDE": 20.21
+    },
+    "SCRIPT": {
+      "KOREAN": "낮에도 약간 좀 T가 됐다고 할까?",
+      "ENGLISH": "I think I’ve gotten a bit bolder.",
+      "CHINESE_SIMPLIFIED": "白天的时候也有点变成 T 型（性格）了吧？",
+      "CHINESE_TRADITIONAL": "感覺自己大膽了一點。",
+      "JAPANESE": "少し大胆になった気がします。",
+      "INDONESIAN": "Aku merasa sedikit lebih berani.",
+      "PORTUGUESE": "Acho que fiquei mais ousada.",
+      "SPANISH": "Creo que me he vuelto un poco más valiente.",
+      "PERSIAN": "فکر می کنم کمی جسورتر شده ام."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 20.21,
+      "HIDE": 23.18
+    },
+    "SCRIPT": {
+      "KOREAN": "T가 돼가지고 좀 세진 것 같아요",
+      "ENGLISH": "As for nighttime… I can’t really explain that.",
+      "CHINESE_SIMPLIFIED": "因为变得像“T”所以感觉强势多了",
+      "CHINESE_TRADITIONAL": "至於晚上……我真的不好解釋。",
+      "JAPANESE": "夜のことは……ちょっと説明できません。",
+      "INDONESIAN": "Kalau malam... aku gak bisa jelaskan.",
+      "PORTUGUESE": "À noite... não consigo explicar.",
+      "SPANISH": "Por la noche... no puedo explicarlo.",
+      "PERSIAN": "در مورد شب ... من واقعا نمی توانم اونو توضیح دهم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 23.18,
+      "HIDE": 25.24
+    },
+    "SCRIPT": {
+      "KOREAN": "밤은 제가 설명을 못하겠네요",
+      "ENGLISH": "“A lover clumsy with skinship vs. a lover skilled with skinship.”",
+      "CHINESE_SIMPLIFIED": "晚上的状态嘛...我就不多解释啦",
+      "CHINESE_TRADITIONAL": "「在肢體接觸方面笨拙的戀人 vs 擅長肢體接觸的戀人。」",
+      "JAPANESE": "「スキンシップが不器用な恋人 vs スキンシップが上手な恋人。」",
+      "INDONESIAN": "“Pasangan yang canggung saat bersentuhan vs pasangan yang mahir dalam skinship.”",
+      "PORTUGUESE": "“Parceiro desajeitado com carinho vs parceiro habilidoso com carinho.”",
+      "SPANISH": "“Pareja torpe con el contacto físico vs pareja hábil con el contacto físico.”",
+      "PERSIAN": "\"عاشقی دست و پا چلفتی با اسکینشیپ در مقابل عاشقی ماهر در اسکینشیپ.\""
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.16,
+      "HIDE": 31.17
+    },
+    "SCRIPT": {
+      "KOREAN": "“스킨십에 서툰 애인 vs 스킨십에 능숙한 애인”",
+      "ENGLISH": "Wouldn’t it be better if they were skilled?",
+      "CHINESE_SIMPLIFIED": "“肢体接触笨拙的恋人 vs 肢体接触熟练的恋人”",
+      "CHINESE_TRADITIONAL": "擅長的不是更好嗎？",
+      "JAPANESE": "やっぱり上手な方がいいんじゃないですか？",
+      "INDONESIAN": "Mungkin lebih baik yang mahir, kan?",
+      "PORTUGUESE": "Acho que o habilidoso é melhor, né?",
+      "SPANISH": "¿No sería mejor si fuera hábil?",
+      "PERSIAN": "اگر ماهر بودند بهتر نبود؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.13,
+      "HIDE": 35.08
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 좀 능숙한 게 좋지 않을까요?",
+      "ENGLISH": "I’m a bit clumsy myself,",
+      "CHINESE_SIMPLIFIED": "还是熟练点的比较好吧？",
+      "CHINESE_TRADITIONAL": "我自己也有點笨拙，",
+      "JAPANESE": "私も少し不器用なので、",
+      "INDONESIAN": "Aku sendiri agak canggung,",
+      "PORTUGUESE": "Eu também sou meio desajeitada,",
+      "SPANISH": "Yo también soy algo torpe,",
+      "PERSIAN": "من خودم کمی دست و پا چلفتی هستم،"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 35.08,
+      "HIDE": 37.22
+    },
+    "SCRIPT": {
+      "KOREAN": "저도 약간 뚝딱거리는 편이어가지고",
+      "ENGLISH": "so I think a skilled one would actually be better.",
+      "CHINESE_SIMPLIFIED": "我自己也有点笨手笨脚的",
+      "CHINESE_TRADITIONAL": "所以我覺得擅長的反而更好。",
+      "JAPANESE": "上手な方がむしろいいと思います。",
+      "INDONESIAN": "jadi aku rasa yang mahir justru lebih baik.",
+      "PORTUGUESE": "então acho que o habilidoso é melhor.",
+      "SPANISH": "así que creo que una persona hábil sería mejor.",
+      "PERSIAN": "بنابراین من فکر می کنم یک فرد ماهر در واقع بهتر است."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 37.22,
+      "HIDE": 39.22
+    },
+    "SCRIPT": {
+      "KOREAN": "능숙한 게 오히려 더 좋을 거 같아요",
+      "ENGLISH": "If both are clumsy, it feels like nothing would ever progress.",
+      "CHINESE_SIMPLIFIED": "对方熟练的话反而会更好",
+      "CHINESE_TRADITIONAL": "如果兩個人都笨拙，好像永遠不會有進展。",
+      "JAPANESE": "お互い不器用だと、全然進展しなさそうです。",
+      "INDONESIAN": "Kalau dua-duanya canggung, gak bakal berkembang.",
+      "PORTUGUESE": "Se os dois forem desajeitados, nada vai evoluir.",
+      "SPANISH": "Si ambos son torpes, no habrá progreso.",
+      "PERSIAN": "اگر هر دو دست و پا چلفتی باشند، به نظر می رسد هیچ چیز پیشرفت نمی کند."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 39.22,
+      "HIDE": 44.15
+    },
+    "SCRIPT": {
+      "KOREAN": "둘 다 뚝딱거리면 좀 발전이 없을 것 같아요",
+      "ENGLISH": "“The promise to marry if we’re both single at 30 — friendship or love?”",
+      "CHINESE_SIMPLIFIED": "要是两个人都笨拙的话，感觉很难有进展呢",
+      "CHINESE_TRADITIONAL": "「如果我們三十歲都單身就結婚——友情還是愛情？」",
+      "JAPANESE": "「30歳までお互い独身なら結婚しよう——友情？それとも愛？」",
+      "INDONESIAN": "“Janji menikah kalau masih jomblo di usia 30 — persahabatan atau cinta?”",
+      "PORTUGUESE": "“A promessa de casar se estivermos solteiros aos 30 — amizade ou amor?”",
+      "SPANISH": "“La promesa de casarnos si seguimos solteros a los 30 — ¿amistad o amor?”",
+      "PERSIAN": "قول ازدواج اگر هر دو در 30 سالگی مجرد باشیم - دوستی یا عشق؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 44.15,
+      "HIDE": 48.23
+    },
+    "SCRIPT": {
+      "KOREAN": "“우리 30살까지 솔로면 결혼하자는 말 우정이다 vs 사랑이다”",
+      "ENGLISH": "Ah, I really hate that line.",
+      "CHINESE_SIMPLIFIED": "“要是我们到30岁都还单身，就结婚吧”这句话是友情 vs 是爱情",
+      "CHINESE_TRADITIONAL": "啊，我真的很討厭這句話。",
+      "JAPANESE": "ああ、このセリフ本当に嫌いです。",
+      "INDONESIAN": "Ah, aku beneran gak suka kalimat itu.",
+      "PORTUGUESE": "Ah, eu realmente odeio essa frase.",
+      "SPANISH": "Ah, odio esa frase.",
+      "PERSIAN": "آه، من واقعا از این خط متنفرم."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 49.13,
+      "HIDE": 52.13
+    },
+    "SCRIPT": {
+      "KOREAN": "아 저 이 말 진짜 싫어해요",
+      "ENGLISH": "It feels like they’re taking me too lightly, so it makes me uncomfortable.",
+      "CHINESE_SIMPLIFIED": "啊我真的很讨厌这种话",
+      "CHINESE_TRADITIONAL": "感覺被人看輕了，讓我很不舒服。",
+      "JAPANESE": "軽く見られてる感じがして気分が悪いです。",
+      "INDONESIAN": "Rasanya kayak dianggap remeh, bikin gak nyaman.",
+      "PORTUGUESE": "Parece que não me levam a sério, me deixa desconfortável.",
+      "SPANISH": "Siento que me menosprecian, me hace sentir incómoda.",
+      "PERSIAN": "به نظر می رسد که اونا مرا خیلی ساده می گیرند، بنابراین من را ناراحت می کند."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 53.23,
+      "HIDE": 58.23
+    },
+    "SCRIPT": {
+      "KOREAN": "날 너무 쉽게 보는 느낌이 들어서 기분이 안 좋아요",
+      "ENGLISH": "But no one’s ever actually said that to me.",
+      "CHINESE_SIMPLIFIED": "会让我觉得“你是不是觉得我很好追”，心情会不爽",
+      "CHINESE_TRADITIONAL": "不過沒有人真的對我說過這話。",
+      "JAPANESE": "でも実際に言われたことはありません。",
+      "INDONESIAN": "Tapi gak ada yang pernah bilang begitu ke aku.",
+      "PORTUGUESE": "Mas ninguém nunca me disse isso.",
+      "SPANISH": "Pero nadie me lo ha dicho realmente.",
+      "PERSIAN": "اما هیچ کس واقعاً هرگز اینو به من نگفته است."
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 58.23,
+      "HIDE": 60.07
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 저한테 하는 사람은 없어요",
+      "ENGLISH": "Still,",
+      "CHINESE_SIMPLIFIED": "不过倒是没人对我这么说",
+      "CHINESE_TRADITIONAL": "但是，",
+      "JAPANESE": "それでも、",
+      "INDONESIAN": "Tapi kalau dibayangkan,",
+      "PORTUGUESE": "Mesmo assim,",
+      "SPANISH": "Aun así,",
+      "PERSIAN": "هنوز،"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 60.07,
+      "HIDE": 63.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 근데",
+      "ENGLISH": "if I imagine it, I think I’d hate it.",
+      "CHINESE_SIMPLIFIED": "只是",
+      "CHINESE_TRADITIONAL": "想像一下，我也覺得會討厭。",
+      "JAPANESE": "想像すると嫌な気分になります。",
+      "INDONESIAN": "aku rasa aku bakal gak suka.",
+      "PORTUGUESE": "se eu imaginar, acho que odiaria.",
+      "SPANISH": "si lo imagino, creo que lo odiaría.",
+      "PERSIAN": "اگر تصورش کنم، فکر می کنم از اون متنفرم."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 63.0,
+      "HIDE": 66.03
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 상상해 봤을 때 싫을 거 같습니다",
+      "ENGLISH": "“Contact every minute vs. contact once a day.”",
+      "CHINESE_SIMPLIFIED": "光是想象一下就觉得很讨厌",
+      "CHINESE_TRADITIONAL": "「每分鐘聯繫一次 vs 每天聯繫一次。」",
+      "JAPANESE": "「1分ごとに連絡 vs 1日1回連絡。」",
+      "INDONESIAN": "“Hubungi setiap menit vs sekali sehari.”",
+      "PORTUGUESE": "“Mandar mensagem a cada minuto vs uma vez por dia.”",
+      "SPANISH": "“Contactar cada minuto vs una vez al día.”",
+      "PERSIAN": "\"هر دقیقه در مقابل تماس یک بار در روز تماس بگیرید.\""
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 63.0,
+      "HIDE": 66.03
+    },
+    "SCRIPT": {
+      "KOREAN": "“1분에 한 번씩 연락하기 vs 하루에 한 번만 연락하기”",
+      "ENGLISH": "For me, “once a day.”",
+      "CHINESE_SIMPLIFIED": "“每分钟联系一次 vs 每天只联系一次”",
+      "CHINESE_TRADITIONAL": "我選「每天一次」。",
+      "JAPANESE": "私は「1日1回連絡」。",
+      "INDONESIAN": "Aku pilih “sekali sehari.”",
+      "PORTUGUESE": "Pra mim, “uma vez por dia.”",
+      "SPANISH": "Para mí, “una vez al día.”",
+      "PERSIAN": "برای من \"روزی یک بار\"."
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 67.02,
+      "HIDE": 71.02
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 “하루에 한 번만 연락하기”요",
+      "ENGLISH": "If they contact me every minute,",
+      "CHINESE_SIMPLIFIED": "我选“每天只联系一次”",
+      "CHINESE_TRADITIONAL": "如果每分鐘都聯繫我，",
+      "JAPANESE": "もし1分ごとに連絡してきたら、",
+      "INDONESIAN": "Kalau setiap menit menghubungi,",
+      "PORTUGUESE": "Se mandarem mensagem a cada minuto,",
+      "SPANISH": "Si me contactan cada minuto,",
+      "PERSIAN": "اگر هر دقیقه با من تماس بگیرند،"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 71.02,
+      "HIDE": 73.07
+    },
+    "SCRIPT": {
+      "KOREAN": "1분에 한 번씩 연락하면",
+      "ENGLISH": "don’t they have anything to do?",
+      "CHINESE_SIMPLIFIED": "要是每分钟都联系的话",
+      "CHINESE_TRADITIONAL": "難道他們沒有事做嗎？",
+      "JAPANESE": "他にやることないの？",
+      "INDONESIAN": "mereka gak ada kerjaan?",
+      "PORTUGUESE": "não têm nada pra fazer?",
+      "SPANISH": "¿no tienen nada que hacer?",
+      "PERSIAN": "اونا کاری ندارند؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 73.07,
+      "HIDE": 74.17
+    },
+    "SCRIPT": {
+      "KOREAN": "하는 일이 없나?",
+      "ENGLISH": "That’s what I’d think.",
+      "CHINESE_SIMPLIFIED": "会让人怀疑：这人没正事干吗？",
+      "CHINESE_TRADITIONAL": "我會這麼想。",
+      "JAPANESE": "そう思うでしょうね。",
+      "INDONESIAN": "Aku bakal mikir gitu.",
+      "PORTUGUESE": "É o que eu pensaria.",
+      "SPANISH": "Eso pensaría.",
+      "PERSIAN": "این چیزی است که من فکر می کنم."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 75.17,
+      "HIDE": 77.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 생각할 거 같아요",
+      "ENGLISH": "Aren’t they busy?",
+      "CHINESE_SIMPLIFIED": "我大概会这么想",
+      "CHINESE_TRADITIONAL": "不忙嗎？",
+      "JAPANESE": "忙しくないの？",
+      "INDONESIAN": "Gak sibuk ya?",
+      "PORTUGUESE": "Não estão ocupados?",
+      "SPANISH": "¿No están ocupados?",
+      "PERSIAN": "اونا مشغول نیستند؟"
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 77.0,
+      "HIDE": 78.24
+    },
+    "SCRIPT": {
+      "KOREAN": "안 바쁜가?",
+      "ENGLISH": "Why are they so obsessed with me?",
+      "CHINESE_SIMPLIFIED": "难道不忙吗？",
+      "CHINESE_TRADITIONAL": "為什麼這麼執著我？",
+      "JAPANESE": "なんでそんなに私に執着するの？",
+      "INDONESIAN": "Kenapa segitunya terobsesi sama aku?",
+      "PORTUGUESE": "Por que estão tão obcecados comigo?",
+      "SPANISH": "¿Por qué están tan obsesionados conmigo?",
+      "PERSIAN": "چرا اونا اینقدر به من وسواس دارند؟"
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 77.05,
+      "HIDE": 78.24
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 이렇게 나한테 집착하지?",
+      "ENGLISH": "That’s probably what I’d think.",
+      "CHINESE_SIMPLIFIED": "为什么这么黏着我？",
+      "CHINESE_TRADITIONAL": "我大概會這麼想。",
+      "JAPANESE": "そう思うと思います。",
+      "INDONESIAN": "Aku mungkin akan berpikir begitu.",
+      "PORTUGUESE": "Provavelmente pensaria assim.",
+      "SPANISH": "Probablemente pensaría eso.",
+      "PERSIAN": "احتمالاً این همون چیزی است که من فکر می کنم."
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 78.24,
+      "HIDE": 80.14
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 생각할 것 같아요",
+      "ENGLISH": "Once a day is much better.",
+      "CHINESE_SIMPLIFIED": "应该会产生这种想法",
+      "CHINESE_TRADITIONAL": "每天一次好多了。",
+      "JAPANESE": "1日1回がちょうどいいです。",
+      "INDONESIAN": "Sekali sehari lebih baik.",
+      "PORTUGUESE": "Uma vez por dia é bem melhor.",
+      "SPANISH": "Una vez al día es mucho mejor.",
+      "PERSIAN": "یک بار در روز خیلی بهتر است."
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 80.22,
+      "HIDE": 81.14
+    },
+    "SCRIPT": {
+      "KOREAN": "하루에 한 번만 연락하는 게 더 좋아요",
+      "ENGLISH": "Actually, I think",
+      "CHINESE_SIMPLIFIED": "每天联系一次刚刚好",
+      "CHINESE_TRADITIONAL": "其實我覺得，",
+      "JAPANESE": "実際には、",
+      "INDONESIAN": "Sebenarnya,",
+      "PORTUGUESE": "Na verdade,",
+      "SPANISH": "De hecho,",
+      "PERSIAN": "در واقع، من فکر می کنم"
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 81.14,
+      "HIDE": 83.08
+    },
+    "SCRIPT": {
+      "KOREAN": "사실 저는",
+      "ENGLISH": "I message once every two days.",
+      "CHINESE_SIMPLIFIED": "其实我嘛...",
+      "CHINESE_TRADITIONAL": "我大概兩天聯繫一次。",
+      "JAPANESE": "2日に1回くらい連絡してるかも。",
+      "INDONESIAN": "aku biasanya dua hari sekali menghubungi.",
+      "PORTUGUESE": "acho que mando mensagem a cada dois dias.",
+      "SPANISH": "creo que envío mensajes cada dos días.",
+      "PERSIAN": "هر دو روز یکبار پیام میدم"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 83.08,
+      "HIDE": 84.16
+    },
+    "SCRIPT": {
+      "KOREAN": "한 이틀에 한 번 연락하는 거 같긴 한데",
+      "ENGLISH": "I told you,",
+      "CHINESE_SIMPLIFIED": "可能更倾向于隔天一联系",
+      "CHINESE_TRADITIONAL": "我不是說了嗎，",
+      "JAPANESE": "言ったでしょ、",
+      "INDONESIAN": "Sudah kubilang,",
+      "PORTUGUESE": "Eu disse,",
+      "SPANISH": "Te dije,",
+      "PERSIAN": "بهت گفتم،"
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 84.16,
+      "HIDE": 87.05
+    },
+    "SCRIPT": {
+      "KOREAN": "T가 됐다니까요",
+      "ENGLISH": "I’ve become more of a T.",
+      "CHINESE_SIMPLIFIED": "毕竟我现在是“T”嘛",
+      "CHINESE_TRADITIONAL": "我現在更像個T了。",
+      "JAPANESE": "最近Tっぽくなったって。",
+      "INDONESIAN": "aku sekarang lebih seperti T.",
+      "PORTUGUESE": "acho que fiquei mais “T”.",
+      "SPANISH": "me he vuelto más “T”.",
+      "PERSIAN": "من بیشتر یک شده ام."
+    }
+  }
+]

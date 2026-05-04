@@ -1,0 +1,387 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 9.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠, 오빠 사진 찍어 줘!",
+      "ENGLISH": "Oppa, take a picture of me!",
+      "CHINESE_SIMPLIFIED": "哥哥，哥哥，帮我拍照！",
+      "CHINESE_TRADITIONAL": "哥哥，哥哥，幫我拍照！",
+      "JAPANESE": "ねぇ、写真撮って！",
+      "INDONESIAN": "Oppa fotoin aku dong!",
+      "PORTUGUESE": "Ei, ei, tira uma foto minha!",
+      "SPANISH": "¡Oye, oye, tómame una foto!",
+      "PERSIAN": "یومان، از من عکس بگیر!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 9.2,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "사진? 알겠어~ ",
+      "ENGLISH": "Picture? Got it~",
+      "CHINESE_SIMPLIFIED": "拍照？好啊~",
+      "CHINESE_TRADITIONAL": "拍照？知道了～",
+      "JAPANESE": "写真？いいよ〜",
+      "INDONESIAN": "Foto? Oke~",
+      "PORTUGUESE": "Uma foto? Tá bom~",
+      "SPANISH": "¿Una foto? Está bien~",
+      "PERSIAN": "عکس؟ گرفتی~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12.3
+    },
+    "SCRIPT": {
+      "KOREAN": "서 봐",
+      "ENGLISH": "Stand over here.",
+      "CHINESE_SIMPLIFIED": "站好咯",
+      "CHINESE_TRADITIONAL": "站好了喔",
+      "JAPANESE": "立ってみて",
+      "INDONESIAN": "Berdiri sana",
+      "PORTUGUESE": "Fica ali.",
+      "SPANISH": "Ponte ahí.",
+      "PERSIAN": "اینجا بایست."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하나...둘...셋...!!",
+      "ENGLISH": "One... two... three...!!",
+      "CHINESE_SIMPLIFIED": "一…二…三…！！",
+      "CHINESE_TRADITIONAL": "一…二…三…！！",
+      "JAPANESE": "いち…に…さん！",
+      "INDONESIAN": "Satu... dua... tiga...!!",
+      "PORTUGUESE": "Um... dois... três...!",
+      "SPANISH": "Uno... dos... ¡tres...!",
+      "PERSIAN": "یک... دو... سه...!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 19.2
+    },
+    "SCRIPT": {
+      "KOREAN": "둘...둘...셋...!",
+      "ENGLISH": "Two... two... three...!",
+      "CHINESE_SIMPLIFIED": "二…二…三…！",
+      "CHINESE_TRADITIONAL": "二…二…三…！",
+      "JAPANESE": "に…に…さん！",
+      "INDONESIAN": "Dua... dua... tiga...!",
+      "PORTUGUESE": "Um... dois... três...!",
+      "SPANISH": "Uno... dos... ¡tres...!",
+      "PERSIAN": "دو... دو... سه...!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "봐 봐 잘 나왔어?",
+      "ENGLISH": "Look, look—did it come out okay?",
+      "CHINESE_SIMPLIFIED": "我看看，拍得怎么样？",
+      "CHINESE_TRADITIONAL": "讓我看看，拍得怎麼樣？",
+      "JAPANESE": "どう？うまく撮れた？",
+      "INDONESIAN": "Coba lihat, hasilnya bagus nggak?",
+      "PORTUGUESE": "Deixa eu ver, ficou boa?",
+      "SPANISH": "A ver, ¿salió bien?",
+      "PERSIAN": "ببین، ببین - خوب از آب درآمد؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 24.8
+    },
+    "SCRIPT": {
+      "KOREAN": "너무 잘 나왔는데?",
+      "ENGLISH": "It came out way too good?",
+      "CHINESE_SIMPLIFIED": "拍得超好啊？",
+      "CHINESE_TRADITIONAL": "當然是拍得好看啊？",
+      "JAPANESE": "めっちゃいい感じ！",
+      "INDONESIAN": "Bagus banget sih!",
+      "PORTUGUESE": "Boa demais?",
+      "SPANISH": "¿Demasiado bien?",
+      "PERSIAN": "خیلی خوب از آب درآمد؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 24.9,
+      "HIDE": 26.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나 사진 작가 할까?",
+      "ENGLISH": "Should I become a photographer?",
+      "CHINESE_SIMPLIFIED": "要不我去当摄影师好了？",
+      "CHINESE_TRADITIONAL": "還是我去當攝影師好了？",
+      "JAPANESE": "俺、カメラマンになろうかな？",
+      "INDONESIAN": "Gimana kalau aku jadi fotografer aja ya?",
+      "PORTUGUESE": "E se eu virar fotógrafo?",
+      "SPANISH": "¿Y si me vuelvo fotógrafo?",
+      "PERSIAN": "باید عکاس شوم؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 26.7,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 별로야? ",
+      "ENGLISH": "Why's it not good?",
+      "CHINESE_SIMPLIFIED": "怎么？不好看吗？",
+      "CHINESE_TRADITIONAL": "怎麼了？不好看嗎？",
+      "JAPANESE": "え、ダメ？",
+      "INDONESIAN": "Kenapa? Nggak suka?",
+      "PORTUGUESE": "Por quê? Não gostou?",
+      "SPANISH": "¿Por qué? ¿No te gusta?",
+      "PERSIAN": "چرا حالت خوب نیست؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 31.4
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 또 다리가 잘렸잖아...!",
+      "ENGLISH": "Oppa, you cut off my legs again...!",
+      "CHINESE_SIMPLIFIED": "哥哥，腿怎么又截出去了啊...！",
+      "CHINESE_TRADITIONAL": "哥哥，腳怎麼要被切掉了啊...！",
+      "JAPANESE": "また脚切れてるじゃん！",
+      "INDONESIAN": "Kaki aku kepotong lagi...!",
+      "PORTUGUESE": "Você cortou minhas pernas de novo...!",
+      "SPANISH": "¡Otra vez me cortaste las piernas...!",
+      "PERSIAN": "یومان، دوباره پاهامو قطع کردی...!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 32.4,
+      "HIDE": 35.0
+    },
+    "SCRIPT": {
+      "KOREAN": "우씨... 위에서 아래로 찍었네 또 ",
+      "ENGLISH": "Ugh... You took it from top to bottom again.",
+      "CHINESE_SIMPLIFIED": "哎呀...怎么又是从上往下拍",
+      "CHINESE_TRADITIONAL": "吼唷...怎麼又是從上往下拍...",
+      "JAPANESE": "あっ…また上から撮っちゃったか",
+      "INDONESIAN": "Ihh... kamu motret dari atas ke bawah lagi",
+      "PORTUGUESE": "Ah, droga... tirei de cima de novo.",
+      "SPANISH": "Ah, rayos... la tomé desde arriba otra vez.",
+      "PERSIAN": "اه... دوباره از بالا به پایین بردیش."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 35.4,
+      "HIDE": 37.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내 눈에는 귀엽기만 하는데 왜!",
+      "ENGLISH": "But to me, it just looks cute! Why?!",
+      "CHINESE_SIMPLIFIED": "在我眼里你明明怎么拍都可爱的！",
+      "CHINESE_TRADITIONAL": "在我眼裡，怎麼拍，你都很可愛嘛～",
+      "JAPANESE": "俺の目には全部可愛いけどな",
+      "INDONESIAN": "Di mataku sih kamu tetep lucu banget!",
+      "PORTUGUESE": "É que você parece adorável de qualquer jeito!",
+      "SPANISH": "¡Es que me pareces adorable, no importa cómo!",
+      "PERSIAN": "اما از نظر من، فقط بامزه به نظر میاد! چرا؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 38.0,
+      "HIDE": 41.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 눈에만 귀엽지, 내 눈엔 안 귀엽거든요!",
+      "ENGLISH": "It only looks cute to you! To me, it doesn't look cute at all!",
+      "CHINESE_SIMPLIFIED": "只有哥哥觉得可爱，我觉得不可爱啊！",
+      "CHINESE_TRADITIONAL": "只有哥哥覺得可愛，但我覺得不可愛啊！！",
+      "JAPANESE": "あなたの目だけでしょ、私の目には可愛くないもん！",
+      "INDONESIAN": "Itu cuma di mata kamu, di mataku nggak lucu tahu!",
+      "PORTUGUESE": "Só fico bonita aos seus olhos, nos meus nem tanto~",
+      "SPANISH": "Solo me veo bien en tus ojos, a los míos no tanto~",
+      "PERSIAN": "فقط از نظر تو بامزه به نظر میاد! از نظر من که اصلا بامزه نیست!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 41.5,
+      "HIDE": 43.2
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠어 다시 찍어볼게 그럼!",
+      "ENGLISH": "Got it, I'll take it again!",
+      "CHINESE_SIMPLIFIED": "知道啦，重拍就是！",
+      "CHINESE_TRADITIONAL": "知道了，重拍就是嘛！",
+      "JAPANESE": "わかったよ、もう一回撮るね！",
+      "INDONESIAN": "Oke deh, aku coba fotoin lagi ya!",
+      "PORTUGUESE": "Tá bom, vou tirar de novo então.",
+      "SPANISH": "Está bien, la tomaré de nuevo entonces.",
+      "PERSIAN": "گرفتمش، دوباره میگیرمش!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 43.3,
+      "HIDE": 44.3
+    },
+    "SCRIPT": {
+      "KOREAN": "자, 서 봐",
+      "ENGLISH": "Okay, stand there.",
+      "CHINESE_SIMPLIFIED": "来，站好",
+      "CHINESE_TRADITIONAL": "來，站好",
+      "JAPANESE": "はい、立って！",
+      "INDONESIAN": "Ayo berdiri",
+      "PORTUGUESE": "Vamos ver, fica ali.",
+      "SPANISH": "A ver, ponte ahí.",
+      "PERSIAN": "باشه، همونجا بایست."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 44.8,
+      "HIDE": 46.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이번엔 제대로 찍는다!",
+      "ENGLISH": "This time I'll get it right!",
+      "CHINESE_SIMPLIFIED": "这次认真拍了！",
+      "CHINESE_TRADITIONAL": "這次要認真拍了喔！",
+      "JAPANESE": "今度こそちゃんと撮るから！",
+      "INDONESIAN": "Kali ini aku beneran fotoin yang bagus",
+      "PORTUGUESE": "Dessa vez eu vou tirar direitinho!",
+      "SPANISH": "¡Esta vez la tomaré bien!",
+      "PERSIAN": "این دفعه درستش می‌کنم!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 46.8,
+      "HIDE": 48.6
+    },
+    "SCRIPT": {
+      "KOREAN": "하나...둘...셋...!!",
+      "ENGLISH": "One... two... three...!!",
+      "CHINESE_SIMPLIFIED": "一…二…三…！！",
+      "CHINESE_TRADITIONAL": "一…二…三…！！",
+      "JAPANESE": "いち…に…さん！",
+      "INDONESIAN": "Satu... dua... tiga...!!",
+      "PORTUGUESE": "Um... dois... três...!",
+      "SPANISH": "Uno... dos... ¡tres...!",
+      "PERSIAN": "یک... دو... سه...!!"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 50.0,
+      "HIDE": 51.8
+    },
+    "SCRIPT": {
+      "KOREAN": "둘...둘...셋...!",
+      "ENGLISH": "Two... two... three...!",
+      "CHINESE_SIMPLIFIED": "二…二…三…！",
+      "CHINESE_TRADITIONAL": "二…二…三…！",
+      "JAPANESE": "に…に…さん！",
+      "INDONESIAN": "Dua... dua... tiga...!",
+      "PORTUGUESE": "Um... dois... três...!",
+      "SPANISH": "Uno... dos... ¡tres...!",
+      "PERSIAN": "دو... دو... سه...!"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 53.3,
+      "HIDE": 55.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하나...둘...셋...!!",
+      "ENGLISH": "One... two... three...!!",
+      "CHINESE_SIMPLIFIED": "一…二…三…！！",
+      "CHINESE_TRADITIONAL": "一…二…三…！！",
+      "JAPANESE": "いち…に…さん！",
+      "INDONESIAN": "Satu... dua... tiga...!!",
+      "PORTUGUESE": "Um... dois... três...!",
+      "SPANISH": "Uno... dos... ¡tres...!",
+      "PERSIAN": "یک... دو... سه...!!"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 57.0,
+      "HIDE": 59.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이번엔 진짜야 완전 잘 나왔어!",
+      "ENGLISH": "This time for real—it came out perfect!",
+      "CHINESE_SIMPLIFIED": "这次真绝了，拍得超好！",
+      "CHINESE_TRADITIONAL": "這次真的拍得很好，真心不騙！",
+      "JAPANESE": "今度は本当に完璧！めっちゃ良く撮れた！",
+      "INDONESIAN": "Yang ini beneran bagus banget hasilnya!",
+      "PORTUGUESE": "Dessa vez sim, ficou perfeita!",
+      "SPANISH": "¡Esta vez sí, salió perfecta!",
+      "PERSIAN": "این بار واقعاً - عالی از آب درآمد!"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 60.8,
+      "HIDE": 63.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오옹 잘 찍었는데!",
+      "ENGLISH": "Wow, you got it!",
+      "CHINESE_SIMPLIFIED": "喔唷，拍得真不错！",
+      "CHINESE_TRADITIONAL": "喔喔喔～拍得真不錯呢！",
+      "JAPANESE": "おぉ〜、ほんとに上手！",
+      "INDONESIAN": "Wah, kamu bisa juga fotonya!",
+      "PORTUGUESE": "Oooh, ficou muito boa!",
+      "SPANISH": "¡Oooh, te quedó muy bien!",
+      "PERSIAN": "وای، گرفتی!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 64.0,
+      "HIDE": 64.1
+    }
+  }
+]

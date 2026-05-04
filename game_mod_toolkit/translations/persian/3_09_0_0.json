@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.3,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠! 유만 오빠! 오빠!",
+      "ENGLISH": "Oppa! Yuman oppa! Oppa!",
+      "CHINESE_SIMPLIFIED": "哥哥！宥万哥哥！哥哥！",
+      "CHINESE_TRADITIONAL": "哥哥！宥萬哥哥！哥哥！",
+      "JAPANESE": "お兄さん！ ユマンお兄さん！ お兄さん！",
+      "INDONESIAN": "Oppa! Yuman oppa! Oppa!",
+      "PORTUGUESE": "Oppa! Yumán oppa! Oppa!",
+      "SPANISH": "¡Oppa! ¡Yumán oppa! ¡Oppa!",
+      "PERSIAN": "یومان! یومان یومان! یومان!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 오빠...",
+      "ENGLISH": "Yuman oppa...",
+      "CHINESE_SIMPLIFIED": "宥万哥哥...",
+      "CHINESE_TRADITIONAL": "宥萬哥哥…",
+      "JAPANESE": "……ユマンお兄さん…",
+      "INDONESIAN": "Yuman oppa...",
+      "PORTUGUESE": "Yumán oppa...",
+      "SPANISH": "Yumán oppa...",
+      "PERSIAN": "یومان یومان..."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.7,
+      "HIDE": 9.9
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 일이에요...?",
+      "ENGLISH": "What’s going on...?",
+      "CHINESE_SIMPLIFIED": "怎么了...",
+      "CHINESE_TRADITIONAL": "有什麼事情嗎...？",
+      "JAPANESE": "どうしたんですか…？",
+      "INDONESIAN": "Ada apa...?",
+      "PORTUGUESE": "O que foi...?",
+      "SPANISH": "¿Qué pasa...?",
+      "PERSIAN": "چه خبره...؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "자는데 깨워서 미안해요... 근데 밖에...",
+      "ENGLISH": "Sorry for waking you... but outside...",
+      "CHINESE_SIMPLIFIED": "吵醒你睡觉真对不起...但是外面...",
+      "CHINESE_TRADITIONAL": "抱歉打擾你睡覺…可是外面…",
+      "JAPANESE": "寝てるところごめんなさい…でも、外に…",
+      "INDONESIAN": "Maaf ganggu waktu tidurmu... Tapi di luar...",
+      "PORTUGUESE": "Desculpa por te acordar... mas lá fora...",
+      "SPANISH": "Perdón por despertarte... pero afuera...",
+      "PERSIAN": "متاسفم که بیدارت کردم اما بیرون..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 15.0,
+      "HIDE": 15.9
+    },
+    "SCRIPT": {
+      "KOREAN": "밖에요..?",
+      "ENGLISH": "Outside...?",
+      "CHINESE_SIMPLIFIED": "外面...？",
+      "CHINESE_TRADITIONAL": "外面…？",
+      "JAPANESE": "外に？",
+      "INDONESIAN": "Di luar...?",
+      "PORTUGUESE": "Lá fora...?",
+      "SPANISH": "¿Afuera...?",
+      "PERSIAN": "بیرون...؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.6
+    },
+    "SCRIPT": {
+      "KOREAN": "밖에 사람들이 찾아와서...",
+      "ENGLISH": "There are people out there looking for you...",
+      "CHINESE_SIMPLIFIED": "外面有人找过来了...",
+      "CHINESE_TRADITIONAL": "外面有人來了…",
+      "JAPANESE": "外に人が来てて…",
+      "INDONESIAN": "Ada orang-orang yang nyariin aku...",
+      "PORTUGUESE": "Tem gente lá fora te procurando...",
+      "SPANISH": "Hay gente afuera buscándote...",
+      "PERSIAN": "افرادی هستند که به دنبال شما هستند..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 24.3
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 얼른 준비하고 내려가요",
+      "ENGLISH": "Hurry and get ready. We should head down.",
+      "CHINESE_SIMPLIFIED": "我们赶紧整理一下下楼吧",
+      "CHINESE_TRADITIONAL": "先趕快準備一下下去吧",
+      "JAPANESE": "とにかく、すぐ準備して降りてきてください",
+      "INDONESIAN": "Cepet siap-siap dan turun dulu, yuk.",
+      "PORTUGUESE": "Por enquanto, se veste rápido e vamos descer.",
+      "SPANISH": "Por ahora, vístete rápido y bajemos.",
+      "PERSIAN": "عجله کن و آماده شو ما باید سر به پایین"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 28.5
+    },
+    "SCRIPT": {
+      "KOREAN": "박민정은 갑질 논란 해명하라!",
+      "ENGLISH": "Park Min-jung, explain your abuse of power!",
+      "CHINESE_SIMPLIFIED": "朴敏静出来解释霸凌争议！",
+      "CHINESE_TRADITIONAL": "樸敏靜快出來解釋霸凌爭議！",
+      "JAPANESE": "パク・ミンジョンはパワハラ疑惑について説明しろ！",
+      "INDONESIAN": "“Park Min-jung harus klarifikasi soal penyalahgunaan kekuasaan!”",
+      "PORTUGUESE": "Exigimos que Park Min-jung apareça!",
+      "SPANISH": "¡Exigimos que Park Min-jung de la cara!",
+      "PERSIAN": "پارک مین‌جونگ، سوء استفاده از قدرتت را توضیح بده!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 28.6,
+      "HIDE": 30.2
+    },
+    "SCRIPT": {
+      "KOREAN": "해명하라! 해명하라! ",
+      "ENGLISH": "Explain! Explain!",
+      "CHINESE_SIMPLIFIED": "出来解释！出来解释！",
+      "CHINESE_TRADITIONAL": "快出來！出來解釋！",
+      "JAPANESE": "説明しろ！ 説明しろ！",
+      "INDONESIAN": "Klarifikasi! Klarifikasi!",
+      "PORTUGUESE": "Que apareça! Que apareça!",
+      "SPANISH": "¡Que de la cara! ¡Que de la cara!",
+      "PERSIAN": "توضیح بده! توضیح بده!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 32.2,
+      "HIDE": 36.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아..저게 뭐야, 저 사람들 여기까지 쫓아온 거예요?",
+      "ENGLISH": "What the... Did they seriously follow you all the way here?",
+      "CHINESE_SIMPLIFIED": "天啊...那些是什么人，居然追到这里来了？",
+      "CHINESE_TRADITIONAL": "什麼？那些人居然追到這裡來？",
+      "JAPANESE": "あれ…なんですか、あの人たち、ここまで追いかけてきたんですか？",
+      "INDONESIAN": "Aduh... itu apaan sih, mereka sampai ngikutin sampai sini?",
+      "PORTUGUESE": "Ah... o que é isso? Esse pessoal nos seguiu até aqui?",
+      "SPANISH": "Ah... ¿qué es eso? ¿Esa gente nos siguió hasta aquí?",
+      "PERSIAN": "چه ... اونا به طور جدی شما را تا اینجا دنبال کردند؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 37.4,
+      "HIDE": 39.7
+    },
+    "SCRIPT": {
+      "KOREAN": "저 밀크걸스 때부터 팬분들인데 ",
+      "ENGLISH": "They’ve been fans since my Milk Girls days...",
+      "CHINESE_SIMPLIFIED": "是从“牛奶少女”时期就跟着的粉丝",
+      "CHINESE_TRADITIONAL": "他們是我 Milk Girls 時期就支持我的粉絲",
+      "JAPANESE": "うん…“ミルクガールズ”の時からのファンの人たちで",
+      "INDONESIAN": "Mereka tuh fans dari zaman aku masih di Milk Girls...",
+      "PORTUGUESE": "São fãs que me conhecem desde os tempos de Milk Girls,",
+      "SPANISH": "Son fans que me conocen desde los tiempos de Milk Girls,",
+      "PERSIAN": "اونا از دوران شیردهی من طرفدار بوده اند..."
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 40.3,
+      "HIDE": 42.9
+    },
+    "SCRIPT": {
+      "KOREAN": "몰래 숙소에서 여기로 온 걸 알았나 봐요",
+      "ENGLISH": "I guess they found out I was staying here somehow.",
+      "CHINESE_SIMPLIFIED": "他们好像发现我从宿舍偷偷来这儿了",
+      "CHINESE_TRADITIONAL": "好像偷偷知道我從宿舍搬過來",
+      "JAPANESE": "どうやら宿を抜けてここにいるのがバレちゃったみたいで…",
+      "INDONESIAN": "Kayaknya mereka tahu aku diam-diam pindah dari asrama ke sini.",
+      "PORTUGUESE": "acho que descobriram que a gente tava aqui.",
+      "SPANISH": "creo que descubrieron que estábamos en este lugar.",
+      "PERSIAN": "حدس می زنم اونا فهمیدند که من به نوعی اینجا می مانم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 43.4,
+      "HIDE": 44.6
+    },
+    "SCRIPT": {
+      "KOREAN": "진짜 미안해요..",
+      "ENGLISH": "I’m really, really sorry...",
+      "CHINESE_SIMPLIFIED": "真的很对不起...",
+      "CHINESE_TRADITIONAL": "真的很抱歉…",
+      "JAPANESE": "本当にごめんなさい…",
+      "INDONESIAN": "Maaf banget ya...",
+      "PORTUGUESE": "De verdade, me desculpa...",
+      "SPANISH": "De verdad, lo siento mucho...",
+      "PERSIAN": "واقعا متاسفم..."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 44.7,
+      "HIDE": 46.5
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님이 미안할 게 뭐가 있어요. ",
+      "ENGLISH": "Min-jung, you don’t need to apologize for this.",
+      "CHINESE_SIMPLIFIED": "敏静有什么好道歉的",
+      "CHINESE_TRADITIONAL": "敏靜，你不用道歉啦",
+      "JAPANESE": "ミンジョンさんが謝ることじゃないですよ",
+      "INDONESIAN": "Kamu nggak perlu minta maaf, Min-jung.",
+      "PORTUGUESE": "Você não tem por que se desculpar, Minjung.",
+      "SPANISH": "No tienes por qué disculparte, Minjung.",
+      "PERSIAN": "مین‌جونگ، لازم نیست بابت این موضوع عذرخواهی کنی."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 46.8,
+      "HIDE": 48.7
+    },
+    "SCRIPT": {
+      "KOREAN": "일단 빨리 나가볼까요? ",
+      "ENGLISH": "Come on—let’s head out and see what’s going on.",
+      "CHINESE_SIMPLIFIED": "我们先快点出去看看吧？",
+      "CHINESE_TRADITIONAL": "我們先快點出去看看情況吧？",
+      "JAPANESE": "とにかく、すぐ外に出ましょう",
+      "INDONESIAN": "Yang penting sekarang kita keluar dulu, yuk.",
+      "PORTUGUESE": "Por que não saímos pra ver o que tá acontecendo?",
+      "SPANISH": "¿Por qué no salimos a ver qué pasa?",
+      "PERSIAN": "بیا برویم بیرون و ببینیم چه خبره."
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 시원해~",
+      "ENGLISH": "Ahh, so refreshing~",
+      "CHINESE_SIMPLIFIED": "啊，真凉快~",
+      "CHINESE_TRADITIONAL": "啊，真舒服～",
+      "JAPANESE": "あ〜涼しい〜",
+      "INDONESIAN": "Ah, sangat menyegarkan~",
+      "PORTUGUESE": "Uau... que refrescante.",
+      "SPANISH": "Guau... Qué refrescante.",
+      "PERSIAN": "آه، خیلی با طراوت ~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아...너 밀어주느라",
+      "ENGLISH": "Ugh... I feel like I’m getting the workout",
+      "CHINESE_SIMPLIFIED": "啊...感觉都是我一直在推你",
+      "CHINESE_TRADITIONAL": "唉...感覺都是我在推你",
+      "JAPANESE": "あ…お前を押してるせいで",
+      "INDONESIAN": "Ugh... Aku merasa seperti sedang berolahraga",
+      "PORTUGUESE": "Ai... mas entre te empurrar e te ajudar,",
+      "SPANISH": "Ay… pero entre empujarte y ayudarte,",
+      "PERSIAN": "اوه... احساس می کنم دارم تمرین می کنم"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "운동은 내가 다 하는 거 같은데.",
+      "ENGLISH": "from pushing you around.",
+      "CHINESE_SIMPLIFIED": "运动都被我一个人做完了",
+      "CHINESE_TRADITIONAL": "運動都被我一個人做完了",
+      "JAPANESE": "運動してるの俺のほうじゃん",
+      "INDONESIAN": "dari mendorongmu ke sana kemari.",
+      "PORTUGUESE": "sou o único fazendo exercício.",
+      "SPANISH": "soy el único haciendo ejercicio.",
+      "PERSIAN": "از هل دادن شما به اطراف"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.4,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너 재활 도와주려고 그런 거잖아",
+      "ENGLISH": "You’re doing it to help with my rehab, right?",
+      "CHINESE_SIMPLIFIED": "我这不是在帮你做复健嘛",
+      "CHINESE_TRADITIONAL": "我是為了幫你復健才這樣做的耶！",
+      "JAPANESE": "ユマンのリハビリ手伝ってるんでしょ？",
+      "INDONESIAN": "Kau melakukannya untuk membantu rehabilitasiku, kan?",
+      "PORTUGUESE": "Tô fazendo isso pra te ajudar na reabilitação,",
+      "SPANISH": "Lo hago para ayudarte con tu rehabilitación,",
+      "PERSIAN": "شما این کار را برای کمک به توانبخشی من انجام می دهید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.3,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "내 맘도 몰라주냐",
+      "ENGLISH": "Can’t you understand how I feel?",
+      "CHINESE_SIMPLIFIED": "我的心意你都不懂吗",
+      "CHINESE_TRADITIONAL": "你沒看到我的用心嗎？",
+      "JAPANESE": "私の気持ち、わかってないな",
+      "INDONESIAN": "Tidak bisakah kau mengerti perasaanku?",
+      "PORTUGUESE": "não percebe minhas intenções?",
+      "SPANISH": "¿no reconoces mis intenciones?",
+      "PERSIAN": "نمیتونی بفهمی چه حسی دارم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.6,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "하.. 그런 건 알고 싶지 않아...",
+      "ENGLISH": "Ugh... that’s exactly what I don’t wanna understand...",
+      "CHINESE_SIMPLIFIED": "哈...这种事我才不想懂...",
+      "CHINESE_TRADITIONAL": "喔...我不想知道那種事...",
+      "JAPANESE": "はぁ…そんな気持ち、知りたくない…",
+      "INDONESIAN": "Ugh... itulah yang tidak ingin aku pahami...",
+      "PORTUGUESE": "Uff... preferia não perceber...",
+      "SPANISH": "Uf… preferiría no saberlo…",
+      "PERSIAN": "اوه ... این دقیقاً چیزی است که من نمی خواهم بفهمم ..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "헐, 저 여자 봐봐.",
+      "ENGLISH": "Whoa, look at her.",
+      "CHINESE_SIMPLIFIED": "我去，喂，你看那个女生",
+      "CHINESE_TRADITIONAL": "嗬，你快看那個女生",
+      "JAPANESE": "え、ちょっと あの女の人見て",
+      "INDONESIAN": "Wah, lihat dia.",
+      "PORTUGUESE": "Uau! Olha aquela garota.",
+      "SPANISH": "¡Guau! Mira a esa chica.",
+      "PERSIAN": "وای، بهش نگاه کن"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 12.0,
+      "HIDE": 12.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "嗯？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.8,
+      "HIDE": 18.1
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 저런 거나 입을까?",
+      "ENGLISH": "Should I try wearing something like that too?",
+      "CHINESE_SIMPLIFIED": "我是不是也该试试穿那种？",
+      "CHINESE_TRADITIONAL": "我是不是也要穿看看那種？",
+      "JAPANESE": "私もああいう服、着てみようかな",
+      "INDONESIAN": "Haruskah saya mencoba mengenakan sesuatu seperti itu juga?",
+      "PORTUGUESE": "E se eu usasse algo assim também?",
+      "SPANISH": "¿Y si me pongo algo así también?",
+      "PERSIAN": "من هم باید چنین چیزی بپوشم؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.8,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 레깅스 같은 거?",
+      "ENGLISH": "Like leggings or something?",
+      "CHINESE_SIMPLIFIED": "紧身裤之类的？",
+      "CHINESE_TRADITIONAL": "蛤，緊身褲嗎？",
+      "JAPANESE": "何、レギンスとか？",
+      "INDONESIAN": "Seperti legging atau apalah?",
+      "PORTUGUESE": "Tipo uma legging?",
+      "SPANISH": "Como unos leggings?",
+      "PERSIAN": "مثل ساق یا چیزی؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 20.2,
+      "HIDE": 21.0
+    },
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "ENGLISH": "Hey!",
+      "CHINESE_SIMPLIFIED": "喂！",
+      "CHINESE_TRADITIONAL": "吼！",
+      "JAPANESE": "ユマン！",
+      "INDONESIAN": "Hai!",
+      "PORTUGUESE": "Ei!",
+      "SPANISH": "¡Oye!",
+      "PERSIAN": "سلام!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.2,
+      "HIDE": 23.8
+    },
+    "SCRIPT": {
+      "KOREAN": "방금 저 여자 양말 색깔 뭐였어? ",
+      "ENGLISH": "What color were her socks just now?",
+      "CHINESE_SIMPLIFIED": "刚才那女生的袜子是什么颜色？",
+      "CHINESE_TRADITIONAL": "剛才那個女生的襪子是什麼顏色？",
+      "JAPANESE": "さっきの女の人、靴下の色 何色だった？",
+      "INDONESIAN": "Apa warna kaus kakinya saat ini?",
+      "PORTUGUESE": "De que cor eram as meias dela?",
+      "SPANISH": "¿De que color eran sus calcetines?",
+      "PERSIAN": "الان جورابش چه رنگی بود؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 24.3,
+      "HIDE": 24.8
+    },
+    "SCRIPT": {
+      "KOREAN": "양말?",
+      "ENGLISH": "Socks?",
+      "CHINESE_SIMPLIFIED": "袜子？",
+      "CHINESE_TRADITIONAL": "襪子？",
+      "JAPANESE": "靴下？",
+      "INDONESIAN": "Kaus kaki?",
+      "PORTUGUESE": "Meias?",
+      "SPANISH": "¿Celcetines?",
+      "PERSIAN": "جوراب؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐만, 양말색깔 뭐였냐고!",
+      "ENGLISH": "Wait—what color were her socks?!",
+      "CHINESE_SIMPLIFIED": "等等，我问你袜子是什么颜色！",
+      "CHINESE_TRADITIONAL": "等等，我是問你她的襪子是什麼顏色啦！",
+      "JAPANESE": "ちょっと待って、靴下の色 何色だった!",
+      "INDONESIAN": "Tunggu—apa warna kaus kakinya?!",
+      "PORTUGUESE": "Perguntei de que cor eram!",
+      "SPANISH": "¡Te pregunté de qué color eran!",
+      "PERSIAN": "صبر کن-جورابش چه رنگی بود؟!"
+    }
+  }
+]

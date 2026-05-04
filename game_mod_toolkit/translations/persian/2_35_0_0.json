@@ -1,0 +1,62 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.1
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨 나갈 준비 됐어요? ",
+      "CHINESE_SIMPLIFIED": "有娜小姐，你准备好出门了吗？",
+      "PERSIAN": "یونا، آماده ای برای رفتن؟"
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 5.8
+    },
+    "SCRIPT": {
+      "KOREAN": "앗싸! 나 10분! 아니 5분만 기다려줘요!",
+      "CHINESE_SIMPLIFIED": "太好啦！等我10分钟！不，5分钟就好！",
+      "PERSIAN": "اوه من! 10 دقیقه برای من! نه، لطفا 5 دقیقه صبر کنید!"
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 7.4,
+      "HIDE": 8.6
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 맘에 안 들어.",
+      "CHINESE_SIMPLIFIED": "我讨厌你，吴宥万",
+      "PERSIAN": "من فقط شیر دوست ندارم"
+    }
+  },
+  {
+    "INDEX": 4,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "어.. 야 말숙아~ 말숙아~",
+      "CHINESE_SIMPLIFIED": "呃...喂，末淑啊~ 末淑啊~",
+      "PERSIAN": "اوه.. هی مال‌سوک~ مال‌سوک~"
+    }
+  },
+  {
+    "INDEX": 5,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 14.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨...",
+      "CHINESE_SIMPLIFIED": "哎呀...",
+      "PERSIAN": "آقای..."
+    }
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.6,
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "솔직하게 얘기해도 돼요?",
+      "ENGLISH": "Can I be honest with you?",
+      "CHINESE_SIMPLIFIED": "能说实话吗？",
+      "CHINESE_TRADITIONAL": "可以老實說嗎？",
+      "JAPANESE": "正直に言ってもいいですか？",
+      "INDONESIAN": "Boleh aku jujur nggak?",
+      "PORTUGUESE": "Posso ser honesto?",
+      "SPANISH": "¿Puedo ser honesto?",
+      "PERSIAN": "می توانم با شما صادق باشم؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.1,
+      "HIDE": 3.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 그럼요.",
+      "ENGLISH": "Of course! Go ahead.",
+      "CHINESE_SIMPLIFIED": "嗯！当然啦",
+      "CHINESE_TRADITIONAL": "可以啊！",
+      "JAPANESE": "えっ？もちろん",
+      "INDONESIAN": "Tentu! Ayo, bilang aja.",
+      "PORTUGUESE": "Sim! Claro.",
+      "SPANISH": "¡Sí! Claro.",
+      "PERSIAN": "البته! برو جلو."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.0,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "어떤데요??",
+      "ENGLISH": "So... what do you think??",
+      "CHINESE_SIMPLIFIED": "怎么样呢？？",
+      "CHINESE_TRADITIONAL": "怎麼樣呢？",
+      "JAPANESE": "どうです？",
+      "INDONESIAN": "Jadi... menurut kamu gimana??",
+      "PORTUGUESE": "O que você acha?",
+      "SPANISH": "¿qué te parece?",
+      "PERSIAN": "خب... نظر شما چیه؟؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.4,
+      "HIDE": 8.5
+    },
+    "SCRIPT": {
+      "KOREAN": "음...",
+      "ENGLISH": "Hmm...",
+      "CHINESE_SIMPLIFIED": "嗯...",
+      "CHINESE_TRADITIONAL": "嗯…",
+      "JAPANESE": "ん〜……",
+      "INDONESIAN": "Hmm...",
+      "PORTUGUESE": "Hã…",
+      "SPANISH": "Mmm…",
+      "PERSIAN": "هوم..."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 11.1,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "별로예요.",
+      "ENGLISH": "Not really.",
+      "CHINESE_SIMPLIFIED": "不怎么样",
+      "CHINESE_TRADITIONAL": "不怎麼樣",
+      "JAPANESE": "あんまり、かな",
+      "INDONESIAN": "Nggak terlalu.",
+      "PORTUGUESE": "Não gostei.",
+      "SPANISH": "No me gusta.",
+      "PERSIAN": "نه واقعا."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.1,
+      "HIDE": 15.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 별로라고요?",
+      "ENGLISH": "Huh? Not really?",
+      "CHINESE_SIMPLIFIED": "啊？不怎么样吗？",
+      "CHINESE_TRADITIONAL": "啊？不怎麼樣嗎？",
+      "JAPANESE": "えっ？ あんまりって…？",
+      "INDONESIAN": "Hah? Nggak terlalu?",
+      "PORTUGUESE": "Hã? Não gostou?",
+      "SPANISH": "¿Eh? ¿No le gusta?",
+      "PERSIAN": "ها؟ واقعا نه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.6,
+      "HIDE": 17.2
+    },
+    "SCRIPT": {
+      "KOREAN": " 네, 별로예요.",
+      "ENGLISH": "Yeah... not really.",
+      "CHINESE_SIMPLIFIED": "嗯，不怎么样",
+      "CHINESE_TRADITIONAL": "對，不怎麼樣",
+      "JAPANESE": "はい、あんまり",
+      "INDONESIAN": "Iya... nggak terlalu.",
+      "PORTUGUESE": "Sim, não gostei.",
+      "SPANISH": "Sí, no me gusta.",
+      "PERSIAN": "آره... نه واقعا."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 18.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아...",
+      "ENGLISH": "Oh...",
+      "CHINESE_SIMPLIFIED": "啊...",
+      "CHINESE_TRADITIONAL": "喔…",
+      "JAPANESE": "あ…",
+      "INDONESIAN": "Oh...",
+      "PORTUGUESE": "Ah…",
+      "SPANISH": "Ah…",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 21.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내 마음에 별로요 에헤헿 에헿",
+      "ENGLISH": "Not really my type—because you’re way out of my league! Heheheh",
+      "CHINESE_SIMPLIFIED": "是不怎么样才怪啦~哎嘿嘿，哎嘿",
+      "CHINESE_TRADITIONAL": "不怎麼樣才怪～嘿嘿嘿",
+      "JAPANESE": "俺の心には…って意味でね　えへへっ",
+      "INDONESIAN": "Nggak terlalu tipeku—soalnya kamu jauh di atas levelku! Heheheh",
+      "PORTUGUESE": "EU AMEI! hahaha",
+      "SPANISH": "¡ME ENCANTA! hehehe",
+      "PERSIAN": "واقعاً نوع من نیست - زیرا تو از لیگ من خارج شده ای! هههه"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.0,
+      "HIDE": 23.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 뭐예요~ 유만 씨",
+      "ENGLISH": "Ugh~ Yuman, seriously!",
+      "CHINESE_SIMPLIFIED": "啊~什么呀~宥万先生",
+      "CHINESE_TRADITIONAL": "啊～什麼嘛～宥萬先生",
+      "JAPANESE": "も〜っ！ 何その冗談〜！",
+      "INDONESIAN": "Ugh~ Yuman, serius deh!",
+      "PORTUGUESE": "Ai~ mas o que é isso, senhor Yumán!",
+      "SPANISH": "¡Ay~ pero qué dice, señor Yumán!",
+      "PERSIAN": "اوه ~ یومان، جدی!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 24.0,
+      "HIDE": 25.8
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 그런 장난을 쳐요.",
+      "ENGLISH": "What kind of joke is that?",
+      "CHINESE_SIMPLIFIED": "怎么开这种玩笑嘛",
+      "CHINESE_TRADITIONAL": "開這種玩笑幹嘛啦！",
+      "JAPANESE": "だって、誰が見てもすっごく綺麗だから、聞かれたら言うしかないでしょ〜",
+      "INDONESIAN": "Itu candaan apaan sih?",
+      "PORTUGUESE": "Por que faz esse tipo de brincadeira?",
+      "SPANISH": "¿Por qué hace ese tipo de bromas?",
+      "PERSIAN": "این چه جوک است؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.9,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아니, 누가 봐도 엄~청 예쁜데, 물어보시니까~",
+      "ENGLISH": "I mean, anyone can see you look crazy good—but you asked~",
+      "CHINESE_SIMPLIFIED": "不是，明眼人都看得见超~级漂亮，谁让您非要问呢~",
+      "CHINESE_TRADITIONAL": "既然妳都問了嘛～但誰看都覺得你超～漂亮的啊",
+      "JAPANESE": "ふふっ、そうですか？",
+      "INDONESIAN": "Maksudku, siapa pun bisa lihat kamu cakep banget—tapi kan kamu yang nanya~",
+      "PORTUGUESE": "Bom, é que… qualquer um diria que você tá lindíssima, mas já que perguntou~",
+      "SPANISH": "Bueno, es que… cualquiera diría que te ves hermosísima, pero ya que me preguntaste~",
+      "PERSIAN": "منظورم این است که هر کسی می تواند شما را دیوانه وار خوب ببیند - اما شما پرسیدید"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 29.4,
+      "HIDE": 31.8
+    },
+    "SCRIPT": {
+      "KOREAN": "흠 그래요?",
+      "ENGLISH": "Ahem... is that so?",
+      "CHINESE_SIMPLIFIED": "哼，是吗？",
+      "CHINESE_TRADITIONAL": "咳…是嗎？",
+      "INDONESIAN": "Ehem... gitu ya?",
+      "PORTUGUESE": "Ah, é?",
+      "SPANISH": "¿Ah, sí?",
+      "PERSIAN": "اه... اینطوره؟"
+    }
+  }
+]

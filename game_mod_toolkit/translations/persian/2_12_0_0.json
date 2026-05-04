@@ -1,0 +1,110 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 2.0,
+      "HIDE": 5.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오케이~ 고말숙 겁나 약해!",
+      "ENGLISH": "Okay~ Mal-sook is crazy weak!",
+      "CHINESE_SIMPLIFIED": "OK~高末淑弱爆了！",
+      "CHINESE_TRADITIONAL": "OK～高末淑弱爆了！",
+      "JAPANESE": "オッケー〜 コ・マルスクめっちゃ弱い!",
+      "INDONESIAN": "Oke~ Mal-sook tuh lemah banget!",
+      "PORTUGUESE": "Ok... Mal-sook Go é super fraca!",
+      "SPANISH": "¡Ok... Malsook Go es súper débil!",
+      "PERSIAN": "باشه ~ مال‌سوک دیوانه ضعیف است!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 5.1,
+      "HIDE": 7.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너가 나보다 셀 리가 없는데?",
+      "ENGLISH": "There’s no way you’re stronger than me.",
+      "CHINESE_SIMPLIFIED": "你怎么可能比我有劲？",
+      "CHINESE_TRADITIONAL": "你怎麼可能比我強？",
+      "JAPANESE": "お前が私より強いわけないでしょ?",
+      "INDONESIAN": "Nggak mungkin kamu lebih kuat dari aku.",
+      "PORTUGUESE": "Não tem como você ser mais forte do que eu.",
+      "SPANISH": "No hay manera de que seas más fuerte que yo.",
+      "PERSIAN": "هیچ راهی نیست که از من قوی تر باشی"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.2,
+      "HIDE": 8.9
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 말숙아 나도 남자야.",
+      "ENGLISH": "Mal-sook, I am a guy, you know.",
+      "CHINESE_SIMPLIFIED": "末淑啊，我也是个男人",
+      "CHINESE_TRADITIONAL": "末淑啊，我也是個男人耶",
+      "JAPANESE": "おい、マルスク 俺だって男だぞ",
+      "INDONESIAN": "Mal-sook, aku ini cowok, lho.",
+      "PORTUGUESE": "Ei, Mal-sook, lembra que eu sou homem.",
+      "SPANISH": "Oye Malsook, recuerda que soy hombre.",
+      "PERSIAN": "مال‌سوک، من یک پسر هستم، می دانید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.9,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "너 정도는 당연히 이겨야지!",
+      "ENGLISH": "Winning over you should be easy.",
+      "CHINESE_SIMPLIFIED": "赢你当然是理所当然的！",
+      "CHINESE_TRADITIONAL": "贏過你是理所當然的啊！",
+      "JAPANESE": "お前くらい当然勝てなきゃな",
+      "INDONESIAN": "Ngalahin kamu harusnya gampang.",
+      "PORTUGUESE": "Deveria ser capaz de vencer alguém como você!",
+      "SPANISH": "¡Debería ser capaz de ganarle a alguien como tú!",
+      "PERSIAN": "پیروزی بر شما باید آسان باشد."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 12.4
+    },
+    "SCRIPT": {
+      "KOREAN": "누가 너 남자인 거 모른대? ",
+      "ENGLISH": "Who said we didn’t know you’re a guy?",
+      "CHINESE_SIMPLIFIED": "谁不知道你是男的啊？",
+      "CHINESE_TRADITIONAL": "誰不知道你是男的？",
+      "JAPANESE": "誰があんた男なの知らないって言った?",
+      "INDONESIAN": "Siapa bilang kita nggak tahu kamu cowok?",
+      "PORTUGUESE": "E o que tem a ver ser homem ou não?",
+      "SPANISH": "¿Qué tiene que seas hombre o no?",
+      "PERSIAN": "کی گفته ما نمی دونیم تو پسر هستی؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.6,
+      "HIDE": 13.8
+    },
+    "SCRIPT": {
+      "KOREAN": "어이없어...",
+      "ENGLISH": "Unbelievable...",
+      "CHINESE_SIMPLIFIED": "无语...",
+      "CHINESE_TRADITIONAL": "無語了…",
+      "JAPANESE": "はぁ…呆れる…",
+      "INDONESIAN": "Gila ya...",
+      "PORTUGUESE": "Que ridículo...",
+      "SPANISH": "Qué ridículo…",
+      "PERSIAN": "باور نکردنی..."
+    }
+  }
+]

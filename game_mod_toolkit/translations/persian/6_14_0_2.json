@@ -1,0 +1,109 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.2
+    },
+    "SCRIPT": {
+      "KOREAN": "나 안가!",
+      "ENGLISH": "I’m not going!",
+      "CHINESE_SIMPLIFIED": "我就不去！",
+      "CHINESE_TRADITIONAL": "我不去！",
+      "JAPANESE": "行かない！",
+      "INDONESIAN": "Aku nggak mau!",
+      "PORTUGUESE": "Não vou!",
+      "SPANISH": "¡No voy a ir!",
+      "PERSIAN": "من نمی روم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.8,
+      "HIDE": 3.0
+    },
+    "SCRIPT": {
+      "KOREAN": "오라 했다!",
+      "ENGLISH": "I said get over here!",
+      "CHINESE_SIMPLIFIED": "我让你过来！",
+      "CHINESE_TRADITIONAL": "叫你過來了啊！",
+      "JAPANESE": "来いって言ったよ！",
+      "INDONESIAN": "Aku bilang ke sini sekarang!",
+      "PORTUGUESE": "Vem você!",
+      "SPANISH": "¡Qué vengas!",
+      "PERSIAN": "گفتم برو اینجا!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.7,
+      "HIDE": 5.3
+    },
+    "SCRIPT": {
+      "KOREAN": "안 간다 했다!",
+      "ENGLISH": "And I said I’m not!",
+      "CHINESE_SIMPLIFIED": "我说了不去！",
+      "CHINESE_TRADITIONAL": "我說我不去！",
+      "JAPANESE": "行かないって言ったからな！",
+      "INDONESIAN": "Dan aku bilang nggak mau!",
+      "PORTUGUESE": "Eu disse que não!",
+      "SPANISH": "¡Te dije qué no!",
+      "PERSIAN": "و من گفتم که نیستم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.3
+    },
+    "SCRIPT": {
+      "KOREAN": "빨리!! 좋은 말로 할 때 와라!",
+      "ENGLISH": "Now!! Come here while I’m still being nice!",
+      "CHINESE_SIMPLIFIED": "快点！！趁我还好声好气的时候过来！",
+      "CHINESE_TRADITIONAL": "快點！！趁我好聲好氣的時候快點過來！",
+      "JAPANESE": "早く！！優しく言ってるうちに来て！",
+      "INDONESIAN": "Sekarang!! Ke sini sebelum aku beneran kesel!",
+      "PORTUGUESE": "Rápido! Vem enquanto eu tô pedindo na boa!",
+      "SPANISH": "¡Rápido! ¡Ven cuando te llamo por las buenas!",
+      "PERSIAN": "حالا!! در حالی که من هنوز خوب هستم بیا اینجا!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 12.0
+    },
+    "SCRIPT": {
+      "KOREAN": "너야말로 좋은 말로 할 때 그만해라!",
+      "ENGLISH": "You better quit while I’m still being nice!",
+      "CHINESE_SIMPLIFIED": "你才是，趁我还好声好气的时候给我闭嘴！",
+      "CHINESE_TRADITIONAL": "你才是在我好聲好氣的時候，快點停止！",
+      "JAPANESE": "そっちこそ優しく言ってるうちにやめなよ！",
+      "INDONESIAN": "Mending kamu nyerah sebelum aku beneran marah!",
+      "PORTUGUESE": "É melhor se render enquanto eu ainda tô de boa!",
+      "SPANISH": "¡Mejor ríndete cuando estoy de buenas!",
+      "PERSIAN": "بهتر است تا زمانی که من خوب هستم دست بردارید!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.4,
+      "HIDE": 17.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나 오늘 충분히 힘들었거든?? 그만해! 어!",
+      "ENGLISH": "I’ve had a long enough day already, okay?! Just drop it! Hey!",
+      "CHINESE_SIMPLIFIED": "我今天已经够累的了，适可而止吧！喂！",
+      "CHINESE_TRADITIONAL": "我今天已經夠累了，就這樣吧！嗯？！",
+      "JAPANESE": "今日ほんとに疲れたんだって！もうやめろよ！",
+      "INDONESIAN": "Hari ini udah capek banget, oke?! Udahan aja! Eh!",
+      "PORTUGUESE": "Hoje foi um dia muito difícil. Me deixa em paz!",
+      "SPANISH": "Hoy fue un día muy difícil. ¡Déjame en paz!",
+      "PERSIAN": "من قبلاً به اندازه کافی روز طولانی داشته ام، باشه؟! فقط اونو رها کنید! سلام!"
+    }
+  }
+]

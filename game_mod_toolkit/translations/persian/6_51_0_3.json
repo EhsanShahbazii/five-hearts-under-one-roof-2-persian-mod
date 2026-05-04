@@ -1,0 +1,290 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 3.1
+    },
+    "SCRIPT": {
+      "KOREAN": "호우~~~ 박민정 최고!!! ",
+      "ENGLISH": "Woohoo~~~ Park Min-jung is the best!!!",
+      "CHINESE_SIMPLIFIED": "哇～～～朴敏静太棒了！！！",
+      "CHINESE_TRADITIONAL": "吼嗚～～～樸敏靜最棒了！！！",
+      "JAPANESE": "ほぅ〜〜〜！！パク・ミンジョン最高!!!",
+      "INDONESIAN": "Wuhuuu~~~ Park Min-jung emang paling hebat!!!",
+      "PORTUGUESE": "Wooo~!! Park Minjung é a melhor!!!",
+      "SPANISH": "¡Wooo~! ¡¡Park Minjung es la mejor!!!",
+      "PERSIAN": "ایووول~~~ پارک مین‌جونگ بهترینه!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.2,
+      "HIDE": 4.6
+    },
+    "SCRIPT": {
+      "KOREAN": "이야 멋있다 박민정!!!!!",
+      "ENGLISH": "You’re amazing, Park Min-jung!!!!!",
+      "CHINESE_SIMPLIFIED": "呀，太帅了，朴敏静！！！",
+      "CHINESE_TRADITIONAL": "啊～太帥了，樸敏靜",
+      "JAPANESE": "いや〜かっこいいぞ、パク・ミンジョン!!!!!",
+      "INDONESIAN": "Kamu keren banget, Park Min-jung!!!!!",
+      "PORTUGUESE": "Uau, incrível, Park Minjung!!!",
+      "SPANISH": "¡Wow, increíble, Park Minjung!!!",
+      "PERSIAN": "تو فوق العاده ای، پارک مین‌جونگ!!!!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.7,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "해냈다 박민정!!!!!",
+      "ENGLISH": "You did it, Park Min-jung!!!!!",
+      "CHINESE_SIMPLIFIED": "你做到了，朴敏静！！！",
+      "CHINESE_TRADITIONAL": "你做到了，樸敏靜！！！",
+      "JAPANESE": "やったな、パク・ミンジョン!!!!!",
+      "INDONESIAN": "Kamu berhasil, Park Min-jung!!!!!",
+      "PORTUGUESE": "Você conseguiu, Park Minjung!!",
+      "SPANISH": "¡¡Lo lograste, Park Minjung!!",
+      "PERSIAN": "تو این کارو کردی پارک مین‌جونگ!!!!!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.0,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야!!! 시끄러운 소리 좀 안 나게 하라",
+      "ENGLISH": "HEY!!! Keep the noise down!!",
+      "CHINESE_SIMPLIFIED": "喂！别那么吵行不行！",
+      "CHINESE_TRADITIONAL": "呀！別那麼吵可以嗎！",
+      "JAPANESE": "おい!!! うるさい音だすな",
+      "INDONESIAN": "HEI!!! Jangan berisik!!!",
+      "PORTUGUESE": "Ei! Fala mais baixo!",
+      "SPANISH": "¡Oigan! ¡Bajen la voz!",
+      "PERSIAN": "سلام!!! سر و صدا را پایین نگه دارید!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 12.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠!! 밤이잖아요! 쉿...!!!",
+      "ENGLISH": "Oppa!! It’s nighttime! Shhh…!!!",
+      "CHINESE_SIMPLIFIED": "哥哥！现在是晚上！嘘——！！",
+      "CHINESE_TRADITIONAL": "哥哥！現在是晚上！噓——！！",
+      "JAPANESE": "お兄さん!! 夜ですよ！シーッ…!!!",
+      "INDONESIAN": "Oppa!! Ini udah malam! Sssst…!!!",
+      "PORTUGUESE": "Oppa!! Já é de noite! Shhh…!",
+      "SPANISH": "¡Oppa!! ¡Es de noche! ¡Shhh…!",
+      "PERSIAN": "یومان!! شب است! خخخ…!!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.0,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 미안함돠!!!",
+      "ENGLISH": "Ah… sorryyy!!!",
+      "CHINESE_SIMPLIFIED": "啊…不好意思啦！！",
+      "CHINESE_TRADITIONAL": "啊...不好意思！！",
+      "JAPANESE": "あっ…ごめんなさぁい!!!",
+      "INDONESIAN": "Ah… maaf yaaa!!!",
+      "PORTUGUESE": "Ah… desculpa!",
+      "SPANISH": "Ah… ¡perdón!",
+      "PERSIAN": "آه... ببخشید!!!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.8,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 이제야 좀 속이 후련하네!",
+      "ENGLISH": "Ahhh, finally — I feel relieved!",
+      "CHINESE_SIMPLIFIED": "啊～终于觉得心里畅快多了！",
+      "CHINESE_TRADITIONAL": "啊～終於覺得心裡暢快多了！",
+      "JAPANESE": "あ〜やっとスッキリした！",
+      "INDONESIAN": "Ahhh, akhirnya — rasanya lega banget!",
+      "PORTUGUESE": "Ah~ agora sim, sinto um grande alívio.",
+      "SPANISH": "Ah~ ahora sí siento un gran alivio.",
+      "PERSIAN": "آهان، بالاخره - خیالم راحت شد!"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 19.0
+    },
+    "SCRIPT": {
+      "KOREAN": "민정 님 진짜 고생 많았어요.",
+      "ENGLISH": "Min-jung, you really worked hard.",
+      "CHINESE_SIMPLIFIED": "敏静，你真的辛苦了",
+      "CHINESE_TRADITIONAL": "敏靜，妳真的辛苦了",
+      "JAPANESE": "ミンジョンさん、本当にお疲れさまでした",
+      "INDONESIAN": "Min-jung, kamu bener-bener udah berjuang keras.",
+      "PORTUGUESE": "Minjung, você foi realmente muito forte.",
+      "SPANISH": "Minjung, de verdad fuiste muy fuerte.",
+      "PERSIAN": "مین‌جونگ، تو واقعا سخت کار کردی."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.1,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "고마워요!",
+      "ENGLISH": "Thank you!",
+      "CHINESE_SIMPLIFIED": "谢谢你！",
+      "CHINESE_TRADITIONAL": "謝謝你！",
+      "JAPANESE": "ありがとう！",
+      "INDONESIAN": "Makasih!",
+      "PORTUGUESE": "Obrigada.",
+      "SPANISH": "Gracias.",
+      "PERSIAN": "ممنونم!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.1,
+      "HIDE": 22.6
+    },
+    "SCRIPT": {
+      "KOREAN": "저 오빠 덕분에 앞으로 나아갈 힘이 생긴 거 같아요.",
+      "ENGLISH": "Thanks to you, I feel like I have the strength to move forward now.",
+      "CHINESE_SIMPLIFIED": "多亏了你，我好像又有勇气往前走了",
+      "CHINESE_TRADITIONAL": "多虧哥哥，我好像又有勇氣往前走了！",
+      "JAPANESE": "お兄さんのおかげで、また前に進む力が出てきた気がします",
+      "INDONESIAN": "Berkat kamu, aku jadi ngerasa punya kekuatan buat maju lagi.",
+      "PORTUGUESE": "Graças a você, oppa, sinto que tenho forças pra continuar.",
+      "SPANISH": "Gracias a ti, oppa, siento que tengo fuerzas para seguir adelante.",
+      "PERSIAN": "با تشکر از شما، احساس می کنم اکنون قدرت حرکت رو به جلو را دارم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.7,
+      "HIDE": 24.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 좋아요 그런 자세! ",
+      "ENGLISH": "Ah~ I love that attitude!",
+      "CHINESE_SIMPLIFIED": "哎～这才对嘛！",
+      "CHINESE_TRADITIONAL": "唉～這樣才對嘛！",
+      "JAPANESE": "おぉ〜いいね、その前向きな姿勢！",
+      "INDONESIAN": "Ah~ aku suka banget semangat kayak gitu!",
+      "PORTUGUESE": "É disso que eu gosto, dessa atitude!",
+      "SPANISH": "¡Eso me gusta, esa actitud!",
+      "PERSIAN": "آه ~ من عاشق این نگرش هستم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 24.6,
+      "HIDE": 26.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 일단 푹 자요! 알겠죠??",
+      "ENGLISH": "For today, just get a really good night’s sleep! Okay??",
+      "CHINESE_SIMPLIFIED": "今天就好好睡一觉吧，好吗？",
+      "CHINESE_TRADITIONAL": "今天就好好睡一覺吧！好嗎！",
+      "JAPANESE": "今日はとにかくゆっくり休んで！いいね？",
+      "INDONESIAN": "Untuk hari ini, tidur yang nyenyak banget ya! Oke??",
+      "PORTUGUESE": "Por hoje, dorme bem, tá?",
+      "SPANISH": "Por hoy, duerme bien, ¿sí?",
+      "PERSIAN": "برای امروز، فقط یک شب واقعا خوب بخوابید! باشه؟؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.1,
+      "HIDE": 27.9
+    },
+    "SCRIPT": {
+      "KOREAN": "네 오빠! ",
+      "ENGLISH": "Yes, oppa!",
+      "CHINESE_SIMPLIFIED": "嗯，哥哥你也是！",
+      "CHINESE_TRADITIONAL": "嗯，哥哥你也是喔！",
+      "JAPANESE": "はい、お兄さん！",
+      "INDONESIAN": "Siap, oppa!",
+      "PORTUGUESE": "Sim, oppa!",
+      "SPANISH": "¡Sí, oppa!",
+      "PERSIAN": "بله یومان!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.0,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠도 잘 자요!",
+      "ENGLISH": "You sleep well too!",
+      "CHINESE_SIMPLIFIED": "哥哥，晚安～",
+      "CHINESE_TRADITIONAL": "哥哥晚安～",
+      "JAPANESE": "お兄さんもおやすみなさい！",
+      "INDONESIAN": "Kamu juga tidur yang nyenyak ya!",
+      "PORTUGUESE": "Você também, descansa bem!",
+      "SPANISH": "¡Tú también, que descanses!",
+      "PERSIAN": "تو هم خوب بخواب!"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 32.7
+    },
+    "SCRIPT": {
+      "KOREAN": "야! 조용히 하라고!",
+      "ENGLISH": "HEY! I said quiet!!",
+      "CHINESE_SIMPLIFIED": "喂！安静点！",
+      "CHINESE_TRADITIONAL": "喂！叫你安靜點！",
+      "JAPANESE": "おい！静かにしろって！",
+      "INDONESIAN": "HEI! Aku bilang jangan berisik!!",
+      "PORTUGUESE": "Eu disse pra falarem mais baixo!",
+      "SPANISH": "¡Dije que bajen la voz!",
+      "PERSIAN": "سلام! گفتم ساکت!!"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 33.3,
+      "HIDE": 34.3
+    },
+    "SCRIPT": {
+      "KOREAN": "네~",
+      "ENGLISH": "Okay~",
+      "CHINESE_SIMPLIFIED": "好的～！",
+      "CHINESE_TRADITIONAL": "好的～！",
+      "JAPANESE": "は〜い",
+      "INDONESIAN": "Oke~",
+      "PORTUGUESE": "Desculpa~!",
+      "SPANISH": "¡Perdón~!",
+      "PERSIAN": "باشه~"
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 5.6
+    },
+    "SCRIPT": {
+      "KOREAN": "아 과장님은 언제 나오시지...?",
+      "ENGLISH": "Ah, when is Manager coming out…?",
+      "CHINESE_SIMPLIFIED": "啊，科长什么时候来啊...？",
+      "CHINESE_TRADITIONAL": "啊，課長什麼時候來的啊...？",
+      "JAPANESE": "あ 課長はいつ出るんだろう…？",
+      "INDONESIAN": "Ah, Manajer kapan keluar ya…?",
+      "PORTUGUESE": "Quando a chefe vai sair...?",
+      "SPANISH": "¿Cuándo saldrá la jefa…?",
+      "PERSIAN": "آه، مدیر کی میاد بیرون…؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "저희 이제 헬스 웨어도 진행하는 건가요?",
+      "ENGLISH": "Are we moving on to the activewear line now?",
+      "CHINESE_SIMPLIFIED": "我们公司现在也开始搞健身服系列了吗？",
+      "CHINESE_TRADITIONAL": "我們現在也要開始做運動服裝了嗎？",
+      "JAPANESE": "俺たち、今度はヘルスウェアも展開するんですか？",
+      "INDONESIAN": "Sekarang kita lanjut ke lini activewear, ya?",
+      "PORTUGUESE": "Vamos começar com a linha de roupas esportivas?",
+      "SPANISH": "¿Vamos a empezar con la línea de ropa deportiva?",
+      "PERSIAN": "اکنون به خط اکتیو لباس می رویم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 31.4,
+      "HIDE": 33.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아니? 운동하러 왔는데?",
+      "ENGLISH": "Huh? No? I came to work out.",
+      "CHINESE_SIMPLIFIED": "不是啊？我是来运动的",
+      "CHINESE_TRADITIONAL": "不是啊？我是來運動的耶？",
+      "JAPANESE": "いいえ？運動しに来ただけだよ？",
+      "INDONESIAN": "Hah? Nggak? Aku ke sini buat olahraga.",
+      "PORTUGUESE": "Não, viemos pra fazer exercício.",
+      "SPANISH": "No, vinimos a hacer ejercicio.",
+      "PERSIAN": "ها؟ نه؟ اومدم ورزش کنم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 33.8,
+      "HIDE": 35.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 운동이요?",
+      "ENGLISH": "Huh? Work out?",
+      "CHINESE_SIMPLIFIED": "嗯？运动？",
+      "CHINESE_TRADITIONAL": "嗯？運動嗎？",
+      "JAPANESE": "えっ、運動ですか？",
+      "INDONESIAN": "Hah? Olahraga?",
+      "PORTUGUESE": "Exercício...?",
+      "SPANISH": "¿Ejercicio...?",
+      "PERSIAN": "ها؟ ورزش کردن؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 36.2,
+      "HIDE": 38.1
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 나 운동하는 거 좀 도와줘.",
+      "ENGLISH": "Today, I need your help with exercising.",
+      "CHINESE_SIMPLIFIED": "今天帮我指导一下动作吧",
+      "CHINESE_TRADITIONAL": "你今天幫我指導一下運動方式",
+      "JAPANESE": "今日、私のトレーニングちょっと手伝って",
+      "INDONESIAN": "Hari ini, aku butuh bantuanmu buat latihan.",
+      "PORTUGUESE": "Hoje quero que me ajude no meu treino.",
+      "SPANISH": "Hoy quiero que me ayudes con mi entrenamiento.",
+      "PERSIAN": "امروز به کمک شما برای ورزش نیاز دارم."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 38.6,
+      "HIDE": 43.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 유만 씨, 사무실에 그렇게 계속 앉아 있어서 재활이 되겠어? ",
+      "ENGLISH": "And Yuman, do you think just sitting in the office all the time will help with your rehab?",
+      "CHINESE_SIMPLIFIED": "还有，你总在办公室坐着怎么能做好康复呢？",
+      "CHINESE_TRADITIONAL": "還有，你一直坐在辦公室裡要怎麼復健呢？",
+      "JAPANESE": "それにユマンさん、オフィスでずっと座っててリハビリになると思う？",
+      "INDONESIAN": "Dan Yuman, kamu pikir duduk terus di kantor bakal bantu pemulihan kamu?",
+      "PORTUGUESE": "Além disso, se você continuar sentado o dia todo no escritório, como espera se recuperar?",
+      "SPANISH": "Además, si sigues sentado en la oficina todo el día, ¿cómo esperas recuperarte?",
+      "PERSIAN": "و یومان، فکر می‌کنین که همیشه نشستن در مطب به توانبخشی شما کمک می‌کنه؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 43.6,
+      "HIDE": 46.7
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 가끔 나와서 운동도 해줘야 금방 낫지",
+      "ENGLISH": "You need to come out occasionally and work out like this so you can recover faster.",
+      "CHINESE_SIMPLIFIED": "偶尔也得出来运动才能好得快啊",
+      "CHINESE_TRADITIONAL": "像這樣偶爾出來運動一下才會好得快",
+      "JAPANESE": "たまにはこうやって外で体を動かさないと早く治らないでしょ",
+      "INDONESIAN": "Kamu harus sesekali keluar dan olahraga kayak gini biar sembuhnya lebih cepet.",
+      "PORTUGUESE": "Tem que sair de vez em quando e se mexer um pouco, assim vai se curar mais rápido.",
+      "SPANISH": "Tienes que salir de vez en cuando y moverte un poco, así sanarás más rápido.",
+      "PERSIAN": "شما باید هر از گاهی بیرون بیایید و اینگونه ورزش کنید تا بتوانید سریعتر بهبودی خود را بهبود دهید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 47.0,
+      "HIDE": 50.7
+    },
+    "SCRIPT": {
+      "KOREAN": "과장님... 제 생각해서 여기 오자고 하신 거예요?",
+      "ENGLISH": "Manager… did you bring me here thinking about me?",
+      "CHINESE_SIMPLIFIED": "科长...您是为我考虑才叫我来这儿的吗？",
+      "CHINESE_TRADITIONAL": "課長... 是為了我好才約我來這裡的嗎？",
+      "JAPANESE": "課長…俺のこと考えてここに来ようって言ったんですか？",
+      "INDONESIAN": "Manajer… kamu ngajak aku ke sini gara-gara kepikiran aku?",
+      "PORTUGUESE": "Chefe... viemos aqui por minha causa?",
+      "SPANISH": "¿Jefa… vinimos aquí por mí?",
+      "PERSIAN": "مدیر... منو آوردی اینجا که به من فکر کنی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 51.0,
+      "HIDE": 53.5
+    },
+    "SCRIPT": {
+      "KOREAN": "큼, 또 아프면 곤란하잖아! ",
+      "ENGLISH": "Well, I don’t want you getting hurt again!",
+      "CHINESE_SIMPLIFIED": "咳咳，毕竟你又受伤就麻烦了！",
+      "CHINESE_TRADITIONAL": "咳，你又受傷會很麻煩！",
+      "JAPANESE": "こほん、またケガされたら困るから！",
+      "INDONESIAN": "Yah, aku nggak mau kamu cedera lagi, kan!",
+      "PORTUGUESE": "Bem... se você se machucar de novo, seria um problema.",
+      "SPANISH": "Bueno… si te lastimas otra vez sería un problema.",
+      "PERSIAN": "خب، من نمی‌خوام دوباره آسیب ببینی!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 54.6,
+      "HIDE": 57.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아무튼 오늘 나 자세 좀 잡아줘.",
+      "ENGLISH": "Anyway, help me get my posture right today.",
+      "CHINESE_SIMPLIFIED": "总之今天帮我矫正下动作姿势",
+      "CHINESE_TRADITIONAL": "總之，今天幫我調整一下姿勢",
+      "JAPANESE": "とにかく今日は、私のフォーム見て直して",
+      "INDONESIAN": "Pokoknya, bantuin aku benerin postur hari ini, ya.",
+      "PORTUGUESE": "Enfim, hoje quero que me ajude a corrigir minha postura.",
+      "SPANISH": "En fin, hoy quiero que me ayudes a corregir mi postura.",
+      "PERSIAN": "به هر حال، امروز به من کمک کن تا وضعیتم را درست بگیرم."
+    }
+  }
+]

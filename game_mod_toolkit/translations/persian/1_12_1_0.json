@@ -1,0 +1,92 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "와.. 이거 진짜 매운데요? ",
+      "ENGLISH": "Ha… wow, this is really spicy.",
+      "CHINESE_SIMPLIFIED": "哈…这也太辣了吧？",
+      "CHINESE_TRADITIONAL": "啊…這個真的有夠辣耶？",
+      "JAPANESE": "はあ…これ本当に辛いですね",
+      "INDONESIAN": "Haa… ini pedes banget, sumpah!",
+      "PORTUGUESE": "Tsc... Mas sério, isso é mesmo pra comer?",
+      "SPANISH": "Uff... Esto está muy picante.",
+      "PERSIAN": "وای دهنم... این لعنتی چرا اینقدر تنده؟!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.3
+    },
+    "SCRIPT": {
+      "KOREAN": "왜 이렇게 매워요?",
+      "ENGLISH": "Why’s it so hot?!",
+      "CHINESE_SIMPLIFIED": "怎么这么辣啊！？",
+      "CHINESE_TRADITIONAL": "為什麼這麼辣",
+      "JAPANESE": "なんでこんなに辛いんですか？",
+      "INDONESIAN": "Kenapa bisa pedes gini sih?!",
+      "PORTUGUESE": "Tá tão apimentado assim?",
+      "SPANISH": "¿por qué pica tanto?",
+      "PERSIAN": "چرا اینجوری آتیش می‌زنه؟!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 13.3,
+      "HIDE": 15.6
+    },
+    "SCRIPT": {
+      "KOREAN": "거봐요. 내가 우유 필요하다고 했죠?",
+      "ENGLISH": "See? I told you you’d need milk.",
+      "CHINESE_SIMPLIFIED": "你看吧，所以我还买了牛奶~",
+      "CHINESE_TRADITIONAL": "看吧。我就說需要牛奶啊？",
+      "JAPANESE": "ほら、俺が牛乳が必要だって言ったでしょう？",
+      "INDONESIAN": "Tuh kan! Aku udah bilang harusnya beli susu!",
+      "PORTUGUESE": "Haha, por isso eu comprei leite junto.",
+      "SPANISH": "Sí ves. Te dije que necesitarías leche.",
+      "PERSIAN": "دیدی گفتم؟ هی بهت گفتم شیر بخر گوش نکردی!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 18.2
+    },
+    "SCRIPT": {
+      "KOREAN": "치사하게 혼자만 산 거예요? ",
+      "ENGLISH": "Wait—did you seriously buy some just for yourself?",
+      "CHINESE_SIMPLIFIED": "你真小气啊，居然只给自己买？",
+      "CHINESE_TRADITIONAL": "你這麼小氣，只買了自己的嗎？",
+      "JAPANESE": "ずるいですよ、一人だけ買ったんですか？",
+      "INDONESIAN": "Ih curang, kamu beli buat diri sendiri doang?!",
+      "PORTUGUESE": "Ah, que mesquinho, comprou só pra você?",
+      "SPANISH": "¿Por qué solo compraste para ti?",
+      "PERSIAN": "نامردی کردی فقط واسه خودت شیر خریدی؟!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.0
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 뭐라도 줘 봐요!",
+      "ENGLISH": "Come on, share with me!",
+      "CHINESE_SIMPLIFIED": "也给我一点解解辣吧！",
+      "CHINESE_TRADITIONAL": "也分我一點麻！",
+      "JAPANESE": "私にも何かくださいよ！",
+      "INDONESIAN": "Bagi aku juga dong, kasih aku apa kek!",
+      "PORTUGUESE": "Me dá alguma coisa também!",
+      "SPANISH": "¡Dame un poco!",
+      "PERSIAN": "تشنمه توروخدا یه قلوپ بده منم بخورم سوختم!"
+    }
+  }
+]

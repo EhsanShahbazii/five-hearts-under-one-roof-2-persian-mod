@@ -1,0 +1,24 @@
+[
+  {
+    "SCRIPT": {
+      "KOREAN": "여유만만한 미소로 악수를 청한다.",
+      "ENGLISH": "Extends a handshake with a confident, relaxed smile.",
+      "CHINESE_TRADITIONAL": "帶著從容的微笑請求握手",
+      "JAPANESE": "余裕たっぷりの笑みで握手を差し出す",
+      "INDONESIAN": "Mengulurkan tangan sambil tersenyum percaya diri dan santai.",
+      "SPANISH": "Extiende la mano para saludar con una sonrisa confiada.",
+      "PERSIAN": "دست دادن را با لبخندی مطمئن و آرام ادامه می دهد."
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "( 소심하게 ) ( 당차게 ) ( 현란하게 )",
+      "ENGLISH": "(Shyly) (Assertively) (Flashily)",
+      "CHINESE_TRADITIONAL": "((小心翼翼地) (氣勢十足地 ) ( 眼花撩亂地 )",
+      "JAPANESE": "（おずおずと） （はきはきと） （巧みに）",
+      "INDONESIAN": "(Malu-malu) (Pede) (Gaya banget)",
+      "SPANISH": "(Con timidez) (Con determinación) (Con elegancia)",
+      "PERSIAN": "(خجالتی) (مطمئنانه) (تشویق)"
+    }
+  }
+]

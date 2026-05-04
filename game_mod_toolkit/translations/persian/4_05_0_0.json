@@ -1,0 +1,467 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.8,
+      "HIDE": 1.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아아아악!!!",
+      "ENGLISH": "Aaaah!!!",
+      "CHINESE_SIMPLIFIED": "啊啊啊啊！！！",
+      "CHINESE_TRADITIONAL": "啊啊啊啊！！！",
+      "JAPANESE": "ああああっ!!!",
+      "INDONESIAN": "Aaaah!!!",
+      "PORTUGUESE": "Aaaahhh!!!",
+      "SPANISH": "¡AHHHHH!!!",
+      "PERSIAN": "آاااا!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "집 꼴이 이게 뭐야!!! 집합!!!!",
+      "ENGLISH": "What the heck happened to the house?! Everyone, assemble!!",
+      "CHINESE_SIMPLIFIED": "家里这成什么样子了！！！全体集合！！！",
+      "CHINESE_TRADITIONAL": "家裡這是什麼鬼樣子！！！集合！！！",
+      "JAPANESE": "家がどうなってるのこれ!!! 集合!!!",
+      "INDONESIAN": "Ini rumah kenapa jadi berantakan begini sih?! Semuanya, ayo kumpul sekarang!!",
+      "PORTUGUESE": "Mas que desastre de casa é esse?! Todo mundo pra sala, agora mesmo!",
+      "SPANISH": "¡¿Qué es este desastre?! ¡Todo el mundo al salón, ahora!",
+      "PERSIAN": "چه بلایی سر خونه اومده؟! همه جمع کنید!!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6.5
+    },
+    "SCRIPT": {
+      "KOREAN": "어후...왜 저래...아...",
+      "ENGLISH": "Ugh… what’s going on… ah…",
+      "CHINESE_SIMPLIFIED": "哎呦...她怎么了...啊...",
+      "CHINESE_TRADITIONAL": "呼...為什麼變成這樣...啊...",
+      "JAPANESE": "うわあ…なんなの…あ…",
+      "INDONESIAN": "Ugh… ada apa sih… ah…",
+      "PORTUGUESE": "Ugh... o que deu nela...? ah...",
+      "SPANISH": "Ugh… ¿qué le pasa…? ah…",
+      "PERSIAN": "اوه ... چه خبره ... آه ..."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.7,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "집합!!!",
+      "ENGLISH": "Assemble!!",
+      "CHINESE_SIMPLIFIED": "集合！！！",
+      "CHINESE_TRADITIONAL": "集合！！！",
+      "JAPANESE": "集合!!!",
+      "INDONESIAN": "Kumpul!!",
+      "PORTUGUESE": "Eu disse, pra sala!",
+      "SPANISH": "¡Dije que todos al salón!",
+      "PERSIAN": "جمع کن!!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.3,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 일이에요??",
+      "ENGLISH": "What’s happening??",
+      "CHINESE_SIMPLIFIED": "出什么事了？？",
+      "CHINESE_TRADITIONAL": "發生什麼事了？",
+      "JAPANESE": "どうしたんですか??",
+      "INDONESIAN": "Apa yang terjadi??",
+      "PORTUGUESE": "O que está acontecendo?",
+      "SPANISH": "¿Qué está pasando?",
+      "PERSIAN": "چی میشه؟؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 17.9,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어제 술 마신 사람 누구야.",
+      "ENGLISH": "Who drank yesterday?",
+      "CHINESE_SIMPLIFIED": "昨天喝酒的是谁",
+      "CHINESE_TRADITIONAL": "昨天喝酒的人到底是誰？",
+      "JAPANESE": "昨日飲んだ人誰？",
+      "INDONESIAN": "Siapa yang minum semalem?",
+      "PORTUGUESE": "Quem bebeu ontem à noite?",
+      "SPANISH": "¿Quiénes bebieron anoche?",
+      "PERSIAN": "دیروز کی نوشید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 19.9,
+      "HIDE": 22.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 아침부터 무슨 소란이야",
+      "ENGLISH": "Cmon! What's with the fuss first thing in the morning?",
+      "CHINESE_SIMPLIFIED": "啊这一大早闹什么呢",
+      "CHINESE_TRADITIONAL": "欸，一大早在吵什麼？",
+      "JAPANESE": "朝から何の騒ぎ…",
+      "INDONESIAN": "Ah, baru pagi udah ribut aja…",
+      "PORTUGUESE": "Ai, por que tanto barulho logo cedo?",
+      "SPANISH": "Ay, ¿por qué tanto escándalo tan temprano?",
+      "PERSIAN": "بیا! اول صبح چه خبره؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "지금 집 꼴이 이게 말이 된다고 생각해요?? ",
+      "ENGLISH": "Do you really think this mess is acceptable? ",
+      "CHINESE_SIMPLIFIED": "现在家里这模样像话吗？？另外两人怎么不出来",
+      "CHINESE_TRADITIONAL": "你們覺得家裡變成這樣合理嗎？另外兩個人為什麼不出來？",
+      "JAPANESE": "今の家のこのありさま、これでおさまると思ってるの？ ",
+      "INDONESIAN": "Kamu pikir berantakan kayak gini masih bisa dibiarin? Dan dua orang lagi ke mana?",
+      "PORTUGUESE": "Vocês realmente acham que essa casa pode parecer assim? E as outras duas, onde estão?",
+      "SPANISH": "¿De verdad creen que esta casa puede verse así? ¿Y las otras dos dónde están?",
+      "PERSIAN": "واقعاً فکر می کنید این آشفتگی قابل قبول است؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 25.1,
+      "HIDE": 27.3
+    },
+    "SCRIPT": {
+      "KOREAN": "나머지 두 사람은 왜 안 나와.",
+      "ENGLISH": "And why aren’t the other two here?",
+      "JAPANESE": "残りの二人はなんで出てこないの",
+      "PORTUGUESE": "E as outras duas, onde estão?",
+      "SPANISH": "¿Y las otras dos dónde están?",
+      "PERSIAN": "و چرا دو نفر دیگر اینجا نیستند؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 27.4,
+      "HIDE": 32.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아마 민정 씨는 오늘 기자들한테 해명기사 돌리느라  정신 없을걸요.",
+      "ENGLISH": "Ah, Min-jung is probably busy contacting reporters for clarification articles today.",
+      "CHINESE_SIMPLIFIED": "啊，可能敏静今天忙着给记者们发澄清声明，没空吧",
+      "CHINESE_TRADITIONAL": "啊，敏靜今天大概會因為忙著聯絡記者發布澄清新聞稿，搞得焦頭爛額吧",
+      "JAPANESE": "ミンジョンさんは今日記者に説明の連絡回してて忙しいはずだよ",
+      "INDONESIAN": "Ah, Min-jung kayaknya lagi sibuk hubungin wartawan buat artikel klarifikasi hari ini.",
+      "PORTUGUESE": "Ah, a Minjung deve estar ocupada tentando falar com os jornalistas pra esclarecer o artigo.",
+      "SPANISH": "Ah, seguro Minjung está ocupada contactando a los periodistas para aclarar lo del artículo.",
+      "PERSIAN": "آه، مین‌جونگ احتمالاً امروز مشغول تماس با خبرنگاران برای توضیح مقاله است."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 34.7,
+      "HIDE": 38.1
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨는 본인이 집주인이면 더 신경을 썼어야지!",
+      "ENGLISH": "Yuman, if you’re the homeowner, you should’ve paid more attention!",
+      "CHINESE_SIMPLIFIED": "吴宥万你既然是房东就该多上点心啊！",
+      "CHINESE_TRADITIONAL": "吳宥萬你身為房東，應該要更認真管理啊！",
+      "JAPANESE": "ユマンは家主なんだからもっと気を使うべきでしょ",
+      "INDONESIAN": "Yuman, kalau kamu pemilik rumah, harusnya kamu lebih perhatian dong!",
+      "PORTUGUESE": "E você, Yuman! Se é o dono da casa, devia colocar mais ordem!",
+      "SPANISH": "¡Y tú, Yumán! Si eres el dueño de la casa, ¡deberías poner más orden!",
+      "PERSIAN": "یومان، اگر شما صاحب خونه هستید، باید توجه بیشتری می کردید!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 38.2,
+      "HIDE": 40.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아침에 이렇게 돼 있으면 누구보고 치우라는 거야!",
+      "ENGLISH": "Who’s supposed to clean up a mess like this first thing in the morning?!",
+      "CHINESE_SIMPLIFIED": "早上看到这样是想让谁收拾啊！",
+      "CHINESE_TRADITIONAL": "變成這樣是叫誰來打掃",
+      "JAPANESE": "朝にこんなふうになってたら誰に片付けさせるつもりなの！！",
+      "INDONESIAN": "Siapa yang mau bersihin kekacauan kayak gini pagi-pagi?",
+      "PORTUGUESE": "Olha como isso amanheceu! Quem é que vai limpar?",
+      "SPANISH": "¡Mira cómo amaneció esto! ¿Quién se supone que lo va a limpiar?",
+      "PERSIAN": "کی قراره اول صبح اینجور آشفتگی رو پاک کنه؟!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 43.1,
+      "HIDE": 45.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아침부터 무슨 일이에요?",
+      "ENGLISH": "What’s going on this early?",
+      "CHINESE_SIMPLIFIED": "这一大早的怎么回事？",
+      "CHINESE_TRADITIONAL": "一大早的發生什麼事了？",
+      "JAPANESE": "朝から何ですか",
+      "INDONESIAN": "Ada apa sih pagi-pagi begini?",
+      "PORTUGUESE": "O que tá acontecendo tão cedo?",
+      "SPANISH": "¿Qué pasa desde tan temprano?",
+      "PERSIAN": "این اوایل چه خبره؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 45.2,
+      "HIDE": 47.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그쪽, 어제 술 마셨죠.",
+      "ENGLISH": "You—yesterday, you drank, didn’t you?",
+      "CHINESE_SIMPLIFIED": "你，昨天喝酒了吧",
+      "CHINESE_TRADITIONAL": "妳，昨天有喝酒吧",
+      "JAPANESE": "そっちが昨日飲んでたでしょ",
+      "INDONESIAN": "Kamu...kemarin minum, kan?",
+      "PORTUGUESE": "Você, bebeu ontem, né?",
+      "SPANISH": "Tú, bebiste anoche, ¿verdad?",
+      "PERSIAN": "شما - دیروز، نوشیدید، نه؟"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 47.5,
+      "HIDE": 49.0
+    },
+    "SCRIPT": {
+      "KOREAN": "네 왜요?",
+      "ENGLISH": "Yeah… why?",
+      "CHINESE_SIMPLIFIED": "嗯，怎么了？",
+      "CHINESE_TRADITIONAL": "對啊，有什麼問題嗎？",
+      "JAPANESE": "はい なんでですか",
+      "INDONESIAN": "Iya… kenapa emang?",
+      "PORTUGUESE": "Sim, por quê?",
+      "SPANISH": "Sí, ¿por qué?",
+      "PERSIAN": "آره… چرا؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 49.1,
+      "HIDE": 50.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 왜요?",
+      "ENGLISH": "Ah—why?",
+      "CHINESE_SIMPLIFIED": "啊~怎么了？",
+      "CHINESE_TRADITIONAL": "蛤～有什麼問題？",
+      "JAPANESE": "なんでって？",
+      "INDONESIAN": "Ah...kenapa emang?",
+      "PORTUGUESE": "“Por quê”?",
+      "SPANISH": "¿“Por qué”?",
+      "PERSIAN": "آه-چرا؟"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 51.5,
+      "HIDE": 56.0
+    },
+    "SCRIPT": {
+      "KOREAN": "다같이 사는 집에서 어지럽혔으면 바로바로 치우는 게 맞는 거 아니에요?",
+      "ENGLISH": "If you make a mess in a shared house, shouldn’t you clean it up right away?",
+      "CHINESE_SIMPLIFIED": "大家一起住的地方，被弄乱了不是应该马上打扫干净吗？",
+      "CHINESE_TRADITIONAL": "這是大家一起住的家，弄亂了馬上整理乾淨才是對的吧？",
+      "JAPANESE": "一緒に住んでる家が散らかっていたら、すぐ片付けるべきじゃないんですか？",
+      "INDONESIAN": "Kalau bikin berantakan di rumah bareng begini, harusnya langsung dibersihin dong!",
+      "PORTUGUESE": "Se sujou uma casa onde moram várias pessoas, não devia limpar logo?",
+      "SPANISH": "Si ensuciaste una casa donde viven varias personas, ¿no deberías limpiarlo enseguida?",
+      "PERSIAN": "اگر در یک خونه مشترک به هم ریخته اید، نباید فوراً اونو تمیز کنید؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 56.3,
+      "HIDE": 60.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아~ 청소~ 오케이 오케이 제가 지금 부를게요",
+      "ENGLISH": "Ah, cleaning… okay, okay, I’ll call someone now.",
+      "CHINESE_SIMPLIFIED": "啊~打扫~OKOK，我现在就叫人来",
+      "CHINESE_TRADITIONAL": "喔～ 清潔喔～ OKOK，我現在就打電話請人來",
+      "JAPANESE": "ああ 掃除ね オーケーオーケー 今呼びます",
+      "INDONESIAN": "Ah, bersih-bersih… oke, oke, aku panggil orang aja deh sekarang.",
+      "PORTUGUESE": "Ah~ limpar~ tá bom, tá bom, vou chamar alguém agora mesmo.",
+      "SPANISH": "Ah~ limpieza~ ok, ok, llamaré a alguien ahora mismo.",
+      "PERSIAN": "آه، تمیز کردن... باشه، باشه، الان با کسی تماس میگیرم."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 60.9,
+      "HIDE": 64.4
+    },
+    "SCRIPT": {
+      "KOREAN": "잠깐 이 정도 치우는데 사람을 부르겠다고요?",
+      "ENGLISH": "Wait—you’re actually going to call someone to clean this little mess?",
+      "CHINESE_SIMPLIFIED": "等等，就打扫这点地方你还要叫人来？",
+      "CHINESE_TRADITIONAL": "等一下，打掃這一點東西妳要請人來做？",
+      "JAPANESE": "ちょっと待って これ片付けるのに人を呼ぶんですか？",
+      "INDONESIAN": "Tunggu, kamu beneran mau manggil orang cuma buat bersihin segini doang?",
+      "PORTUGUESE": "Um momento, vai chamar alguém só pra limpar isso?",
+      "SPANISH": "¿Un momento, vas a llamar a alguien solo para limpiar esto?",
+      "PERSIAN": "صبر کنید - واقعاً می خواهید با کسی تماس بگیرید تا این آشفتگی کوچک را تمیز کند؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 64.6,
+      "HIDE": 66.4
+    },
+    "SCRIPT": {
+      "KOREAN": " 네 안 돼요...?",
+      "ENGLISH": "Yes, isn’t that okay…?",
+      "CHINESE_SIMPLIFIED": "嗯，不行吗...？",
+      "CHINESE_TRADITIONAL": "對啊，不行嗎...?",
+      "JAPANESE": "えっ ダメですか…?",
+      "INDONESIAN": "Iya, kenapa nggak…?",
+      "PORTUGUESE": "Hã? Não posso...?",
+      "SPANISH": "¿Eh? ¿No puedo…?",
+      "PERSIAN": "بله، اشکالی ندارد…؟"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 67.0,
+      "HIDE": 72.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아니 보통 자기가 어지른 거 자기가 바로바로 치우면 돼요. 이걸 무슨 사람까지 불러.",
+      "ENGLISH": "No, normally you clean up your own mess immediately. Why call someone else for this?",
+      "CHINESE_SIMPLIFIED": "不是，一般自己弄乱的自己当场收拾就行，这怎么还要叫人",
+      "CHINESE_TRADITIONAL": "通常是誰弄亂，就馬上整理吧。幹嘛還要請人來",
+      "JAPANESE": "普通、自分で散らかしたら自分でさっさと片付ければいいでしょ、それでなんで人まで呼ぶの",
+      "INDONESIAN": "Nggak lah, biasanya kalau bikin berantakan ya diberesin sendiri. Masa harus manggil orang?",
+      "PORTUGUESE": "O normal seria cada um limpar sua própria bagunça. Pra que chamar alguém?",
+      "SPANISH": "Lo normal sería que cada quien limpiara su propio desorden. ¿Para qué llamar a alguien?",
+      "PERSIAN": "نه، معمولاً شما فوراً آشفتگی خود را تمیز می کنید. چرا برای این کار با شخص دیگری تماس بگیرید؟"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 72.5,
+      "HIDE": 75.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 근데 요즘 청소 업체 되게 잘해요.",
+      "ENGLISH": "Ah, but these days cleaning services are really good.",
+      "CHINESE_SIMPLIFIED": "啊，不过现在的清洁公司做得都挺好的",
+      "CHINESE_TRADITIONAL": "但是…現在的清潔公司都做得不錯耶",
+      "JAPANESE": "ああ でも最近の清掃業者すごくいいんですよね",
+      "INDONESIAN": "Ah, tapi sekarang jasa bersih-bersih kan udah bagus banget gak sih.",
+      "PORTUGUESE": "Ah, mas as empresas de limpeza de hoje trabalham super bem.",
+      "SPANISH": "Ay, pero las empresas de limpieza de ahora trabajan súper bien.",
+      "PERSIAN": "آه، اما این روزها خدمات نظافت واقعاً خوب است."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 75.6,
+      "HIDE": 78.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그래서 기어코 돈을 써서 치우겠다?",
+      "ENGLISH": "So you’re gonna spend money to get it cleaned?",
+      "CHINESE_SIMPLIFIED": "所以非要花钱解决？",
+      "CHINESE_TRADITIONAL": "所以妳一定要花錢請人來打掃就是了？",
+      "JAPANESE": "だからわざわざ金使ってでもお願いするの？",
+      "INDONESIAN": "Jadi kamu mau keluarin duit buat beresin ini?",
+      "PORTUGUESE": "Quer dizer que vai gastar dinheiro pra limpar?",
+      "SPANISH": "¿O sea que de verdad vas a gastar dinero para que limpien?",
+      "PERSIAN": "پس برای تمیز کردنش پول خرج می کنی؟"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 79.0,
+      "HIDE": 79.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네!",
+      "ENGLISH": "Yes!",
+      "CHINESE_SIMPLIFIED": "对！",
+      "CHINESE_TRADITIONAL": "對！",
+      "JAPANESE": "はい！",
+      "INDONESIAN": "Iya!",
+      "PORTUGUESE": "Sim!",
+      "SPANISH": "¡Sí!",
+      "PERSIAN": "بله!"
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 81.5,
+      "HIDE": 84.9
+    },
+    "SCRIPT": {
+      "KOREAN": "난 모르겠다. 우유만 씨가  집주인이니까",
+      "ENGLISH": "Fine. I don’t care. You’re the homeowner, Yuman.",
+      "CHINESE_SIMPLIFIED": "我不管了。吴宥万，既然你是房东",
+      "CHINESE_TRADITIONAL": "我不管了。既然吳宥萬先生是房東",
+      "JAPANESE": "知らない、ユマンさんがこの家の大家なんだから",
+      "INDONESIAN": "Ya udah. Terserah. Kamu kan yang punya rumah, Yuman.",
+      "PORTUGUESE": "Eu já não sei mais... Yuman, como você é o dono da casa,",
+      "SPANISH": "Yo ya no sé… Yumán, como tú eres el dueño de la casa,",
+      "PERSIAN": "خوب برام مهم نیست تو صاحب خونه هستی، یومان."
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 85.0,
+      "HIDE": 89.1
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로 이 드~러운 집을 어떻게 관리할지 본인이 직접 정해,",
+      "ENGLISH": "From now on, it’s up to you to decide how to manage this disgusting house.",
+      "CHINESE_SIMPLIFIED": "以后这乱~七八糟的屋子怎么管理你自己决定",
+      "CHINESE_TRADITIONAL": "以後這個髒亂～的家要怎麼管理，你自己直接決定吧",
+      "JAPANESE": "これからこの汚～い家どう管理するか自分で直接決めて",
+      "INDONESIAN": "Mulai sekarang, kamu aja yang atur rumah jorok ini suka-suka kamu.",
+      "PORTUGUESE": "decida você mesmo como vai manter essa pocilga limpa de agora em diante.",
+      "SPANISH": "decide cómo vas a mantener limpia esta pocilga de ahora en adelante.",
+      "PERSIAN": "از این به بعد، این شمایین که تصمیم می گیرید چگونه این خونه نفرت انگیز را مدیریت کنید."
+    }
+  }
+]

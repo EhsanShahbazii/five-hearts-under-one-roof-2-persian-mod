@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 9.1,
+      "HIDE": 10.9
+    },
+    "SCRIPT": {
+      "KOREAN": "아 오빠 너무해!!!",
+      "ENGLISH": "Ugh, Oppa, you’re so mean!!!",
+      "CHINESE_SIMPLIFIED": "啊哥哥，你太过分了吧！！！",
+      "CHINESE_TRADITIONAL": "哥哥，你太過分了！！！",
+      "JAPANESE": "あ〜お兄さんひどい〜！！",
+      "INDONESIAN": "Ugh, Oppa, kamu jahat banget ihh!!!",
+      "PORTUGUESE": "Ah, oppa, que malvado você é!",
+      "SPANISH": "¡Ay, oppa, qué malo eres!",
+      "PERSIAN": "اوه یومان، تو خیلی بدجنسی!!!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 14.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그래도 너 아니면 이거 아무도 안 눌러준단 말이야.",
+      "ENGLISH": "Still, no one else would do this for me but you!",
+      "CHINESE_SIMPLIFIED": "但除了你，没人会给我按大拇指啦",
+      "CHINESE_TRADITIONAL": "但是除了你以外，也沒人會幫我按這個啊",
+      "JAPANESE": "でもさ、お前以外誰もこれ押してくれないんだよ",
+      "INDONESIAN": "Tapi ya… cuma kamu yang mau begini buat aku!",
+      "PORTUGUESE": "Mesmo assim, só você faria isso por mim.",
+      "SPANISH": "Aún así, solo tú harías eso por mí.",
+      "PERSIAN": "با این حال، هیچ کس دیگری جز تو این کار را برای من انجام نمی دهد!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 아무 앞에서나 방귀 안 뀌는 거 알잖아~",
+      "ENGLISH": "You know I don’t just fart in front of anyone~",
+      "CHINESE_SIMPLIFIED": "你知道我是不会轻易在别人面前放屁的吧~",
+      "CHINESE_TRADITIONAL": "妳知道我從來不會在人前放屁的",
+      "JAPANESE": "俺人前じゃおならしないの知ってるだろ",
+      "INDONESIAN": "Kamu tau kan aku nggak sembarangan kentut di depan orang~",
+      "PORTUGUESE": "Sabe que eu não solto pum na frente de qualquer um~",
+      "SPANISH": "Sabes que no me tiro gases delante de cualquiera~",
+      "PERSIAN": "میدونی که من فقط جلوی کسی گوز نمیزنم"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그 말은... 내가 특별하단 거지??",
+      "ENGLISH": "Which means… I’m special, right??",
+      "CHINESE_SIMPLIFIED": "这话的意思是…我很特别咯？？",
+      "CHINESE_TRADITIONAL": "意思是…我對你來說很特別嗎？",
+      "JAPANESE": "つまり…私は特別ってことだよね？",
+      "INDONESIAN": "Artinya… aku spesial dong??",
+      "PORTUGUESE": "Isso quer dizer... que eu sou especial pra você?",
+      "SPANISH": "Eso significa... ¿que soy especial para ti?",
+      "PERSIAN": "یعنی... من خاصم، درسته؟؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 25.3,
+      "HIDE": 26.4
+    },
+    "SCRIPT": {
+      "KOREAN": "야, 고은비.",
+      "ENGLISH": "Hey, Go Eun-bi.",
+      "CHINESE_SIMPLIFIED": "喂，高恩妃",
+      "CHINESE_TRADITIONAL": "喂，高恩妃",
+      "JAPANESE": "おい、コ・ウンビ",
+      "INDONESIAN": "Eh, Go Eun-bi.",
+      "PORTUGUESE": "Ei, Eunbi.",
+      "SPANISH": "Oye, Eunbi.",
+      "PERSIAN": "هی برو یون بی"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27.8
+    },
+    "SCRIPT": {
+      "KOREAN": "이야기가 왜 그렇게 돼?",
+      "ENGLISH": "How did we end up there in this conversation?",
+      "CHINESE_SIMPLIFIED": "怎么扯到这上面了？",
+      "CHINESE_TRADITIONAL": "你說到哪裡去了啦？",
+      "JAPANESE": "なんでそうなるの？",
+      "INDONESIAN": "Kok jadi ngomongin yang begituan sih?",
+      "PORTUGUESE": "Como é que a gente acabou falando disso?",
+      "SPANISH": "¿Cómo terminamos hablando de esto?",
+      "PERSIAN": "چگونه در این گفتگو به آنجا رسیدیم؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 29.6,
+      "HIDE": 30.7
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐 알겠어~",
+      "ENGLISH": "Whatever~",
+      "CHINESE_SIMPLIFIED": "知道啦~",
+      "CHINESE_TRADITIONAL": "好啦，我知道了～",
+      "JAPANESE": "ま、いいけど〜",
+      "INDONESIAN": "Terserah deh~",
+      "PORTUGUESE": "Bom, tudo bem~",
+      "SPANISH": "Bueno, está bien~",
+      "PERSIAN": "هر چی ~"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 31.9,
+      "HIDE": 35.2
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 나 어른 되면 나랑 결혼하는 거 안 잊었지?",
+      "ENGLISH": "You haven’t forgotten you promised to marry me when I grow up, right?",
+      "CHINESE_SIMPLIFIED": "哥哥，说好等我长大要跟我结婚的约定，你没忘吧？",
+      "CHINESE_TRADITIONAL": "哥哥，你沒忘記說過長大要跟我結婚吧？",
+      "JAPANESE": "お兄さん、大人になったら私と結婚するって忘れてないよね？",
+      "INDONESIAN": "Kamu belum lupa kan janji mau nikahin aku pas aku gede nanti?",
+      "PORTUGUESE": "Oppa, você não esqueceu que disse que ia se casar comigo quando eu crescesse?",
+      "SPANISH": "Oppa, ¿no olvidaste que dijiste que te casarías conmigo cuando fuera grande?",
+      "PERSIAN": "فراموش نکردی که قول دادی وقتی بزرگ شدم با من ازدواج کنی، درسته؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 37.2
+    },
+    "SCRIPT": {
+      "KOREAN": "야 너 아직 초딩이야!",
+      "ENGLISH": "You’re still in elementary school, you know!",
+      "CHINESE_SIMPLIFIED": "喂，你还只是个小学生啊！",
+      "CHINESE_TRADITIONAL": "喂，你現在還是小學生耶！",
+      "JAPANESE": "お前まだ小学生だぞ！",
+      "INDONESIAN": "Kamu tuh masih SD, tau nggak!",
+      "PORTUGUESE": "Você ainda é uma criança!",
+      "SPANISH": "¡Todavía eres una niña!",
+      "PERSIAN": "شما هنوز در مدرسه ابتدایی هستید، می دانید!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 39.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아 어쩌라구~ ",
+      "ENGLISH": "So what~?",
+      "CHINESE_SIMPLIFIED": "哎呀，那又怎样~",
+      "CHINESE_TRADITIONAL": "啊～那又怎樣～",
+      "JAPANESE": "だからなに〜",
+      "INDONESIAN": "Terus kenapa~?",
+      "PORTUGUESE": "E daí?",
+      "SPANISH": "¿Y qué tiene?",
+      "PERSIAN": "پس چی ~؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 40.6,
+      "HIDE": 41.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나 갈게! ",
+      "ENGLISH": "I’m off!",
+      "CHINESE_SIMPLIFIED": "我走啦！",
+      "CHINESE_TRADITIONAL": "我走了！",
+      "JAPANESE": "行ってくるね！",
+      "INDONESIAN": "Aku berangkat dulu ya!",
+      "PORTUGUESE": "Já tô indo!",
+      "SPANISH": "¡Ya me voy!",
+      "PERSIAN": "من خاموشم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 42.6,
+      "HIDE": 44.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오빠 근데 가방 문 열렸다?",
+      "ENGLISH": "Oppa, your bag’s open again.",
+      "CHINESE_SIMPLIFIED": "哥哥，你书包拉链是不是开了？",
+      "CHINESE_TRADITIONAL": "哥哥，可是你書包的拉鍊沒拉好耶？",
+      "JAPANESE": "お兄さん、でもカバンのチャック開いてるよ？",
+      "INDONESIAN": "Oppa, tas kamu kebuka lagi tuh.",
+      "PORTUGUESE": "Oppa, sua mochila tá aberta.",
+      "SPANISH": "Oppa, tu mochila está abierta.",
+      "PERSIAN": "یومان، کیفت دوباره باز شد."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 45.2,
+      "HIDE": 45.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "啊？",
+      "CHINESE_TRADITIONAL": "嗯？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 48.4,
+      "HIDE": 50.2
+    },
+    "SCRIPT": {
+      "KOREAN": "고은비 천천히 가~",
+      "ENGLISH": "Go Eun-bi, slow down~",
+      "CHINESE_SIMPLIFIED": "高恩妃，慢点跑啊~",
+      "CHINESE_TRADITIONAL": "喂，高恩妃，走慢一點啊～",
+      "JAPANESE": "コ・ウンビ、気を付けて行きなよ〜",
+      "INDONESIAN": "Go Eun-bi, pelan-pelan napa~",
+      "PORTUGUESE": "Vai com cuidado.",
+      "SPANISH": "Ve con cuidado.",
+      "PERSIAN": "برو یون بی، سرعتت را کم کن"
+    }
+  }
+]

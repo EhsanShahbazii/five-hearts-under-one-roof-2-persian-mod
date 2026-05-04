@@ -1,0 +1,434 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.0,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "어? ",
+      "ENGLISH": "Huh?",
+      "CHINESE_SIMPLIFIED": "呃？",
+      "CHINESE_TRADITIONAL": "唔？",
+      "JAPANESE": "え？",
+      "INDONESIAN": "Hah?",
+      "PORTUGUESE": "Hã?",
+      "SPANISH": "¿Eh?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.1,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "유나 씨 보디가드분?",
+      "ENGLISH": "Yu-na’s bodyguard?",
+      "CHINESE_SIMPLIFIED": "你是有娜的保镖？",
+      "CHINESE_TRADITIONAL": "你是有娜小姐的保鏢嗎？",
+      "JAPANESE": "ユナさんのボディーガードさん？",
+      "INDONESIAN": "Bodyguard-nya Yu-na?",
+      "PORTUGUESE": "O guarda-costas da Yuna?",
+      "SPANISH": "¿El guardaespaldas de Yuna?",
+      "PERSIAN": "محافظ یونا؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 5.6,
+      "HIDE": 6.8
+    },
+    "SCRIPT": {
+      "KOREAN": "안녕하세요 유만 씨 ",
+      "ENGLISH": "Hello, Yuman.",
+      "CHINESE_SIMPLIFIED": "你好，吴宥万先生",
+      "CHINESE_TRADITIONAL": "你好，吳宥萬先生",
+      "JAPANESE": "こんにちは、ユマンさん",
+      "INDONESIAN": "Halo, Yuman.",
+      "PORTUGUESE": "Olá, Yumán.",
+      "SPANISH": "Hola, Yumán.",
+      "PERSIAN": "سلام یومان"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 7.7,
+      "HIDE": 10.4
+    },
+    "SCRIPT": {
+      "KOREAN": "네... 안그래도 유나 씨 한테 드릴 거 있는데",
+      "ENGLISH": "Yes… actually, I have something I need to give Yu-na—",
+      "CHINESE_SIMPLIFIED": "啊…我正好有东西要给有娜",
+      "CHINESE_TRADITIONAL": "你好...我正好有東西要給有娜",
+      "JAPANESE": "あ、はい… ちょうどユナさんに渡したいものがあって",
+      "INDONESIAN": "Iya… sebenarnya, aku ada sesuatu yang harus aku kasih ke Yu-na—",
+      "PORTUGUESE": "Ah… eu justamente tinha algo que queria entregar pra Yuna.",
+      "SPANISH": "Ah… justo tenía algo que quería darle a Yuna.",
+      "PERSIAN": "بله... در واقع، من چیزی دارم که باید به یونا بدهم-"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 13.5
+    },
+    "SCRIPT": {
+      "KOREAN": "나도 유만 씨 한테 줄 거 있는데",
+      "ENGLISH": "I have something to give you too, Yuman.",
+      "CHINESE_SIMPLIFIED": "我也有东西要给吴宥万先生",
+      "CHINESE_TRADITIONAL": "我也有東西要給吳宥萬先生",
+      "JAPANESE": "俺も、ユマンさんに渡したいものがあるんですけど",
+      "INDONESIAN": "Aku juga punya sesuatu buat kamu, Yuman.",
+      "PORTUGUESE": "Eu também tenho algo pra te dar.",
+      "SPANISH": "Yo también tengo algo para darte a ti.",
+      "PERSIAN": "من هم چیزی برای دادن به تو دارم، یومان."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14.4
+    },
+    "SCRIPT": {
+      "KOREAN": "저한테요?",
+      "ENGLISH": "…To me?",
+      "CHINESE_SIMPLIFIED": "给我吗？",
+      "CHINESE_TRADITIONAL": "給我嗎？",
+      "JAPANESE": "俺にですか？",
+      "INDONESIAN": "…Buat aku?",
+      "PORTUGUESE": "Pra mim?",
+      "SPANISH": "¿A mí?",
+      "PERSIAN": "به من؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "우와",
+      "ENGLISH": "Wow.",
+      "CHINESE_SIMPLIFIED": "哇哦",
+      "CHINESE_TRADITIONAL": "嗚哇",
+      "JAPANESE": "わあ…",
+      "INDONESIAN": "Wow.",
+      "PORTUGUESE": "Uau…",
+      "SPANISH": "Wow…",
+      "PERSIAN": "عجب"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 16.7,
+      "HIDE": 17.6
+    },
+    "SCRIPT": {
+      "KOREAN": "먹을래요?",
+      "ENGLISH": "Would you like some?",
+      "CHINESE_SIMPLIFIED": "想尝尝看吗？",
+      "CHINESE_TRADITIONAL": "想吃吃看嗎？",
+      "JAPANESE": "食べます？",
+      "INDONESIAN": "Mau coba?",
+      "PORTUGUESE": "Quer experimentar?",
+      "SPANISH": "¿Quieres probarlo?",
+      "PERSIAN": "می خواهید مقداری؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 18.2,
+      "HIDE": 20.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어… 이, 이게 뭐예요?",
+      "ENGLISH": "Uh… what is that?",
+      "CHINESE_SIMPLIFIED": "啊...这、这是在干什么？",
+      "CHINESE_TRADITIONAL": "啊...這、這是什麼？",
+      "JAPANESE": "えっ…こ、これは何ですか？",
+      "INDONESIAN": "Eh… itu apa?",
+      "PORTUGUESE": "Hã… o-o que é isso?",
+      "SPANISH": "Eh… ¿q-qué es eso?",
+      "PERSIAN": "اوه... اون چیه؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.7
+    },
+    "SCRIPT": {
+      "KOREAN": "맛...볼래요?",
+      "ENGLISH": "Want… a taste?",
+      "CHINESE_SIMPLIFIED": "要不要...尝尝味道？",
+      "CHINESE_TRADITIONAL": "要不要...嚐嚐味道？",
+      "JAPANESE": "味…見てみます？",
+      "INDONESIAN": "Mau… cicipin?",
+      "PORTUGUESE": "Quer… provar o sabor?",
+      "SPANISH": "¿Quieres… probar el sabor?",
+      "PERSIAN": "می خواهید ... طعم؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 24.9
+    },
+    "SCRIPT": {
+      "KOREAN": "무슨 맛을 봐요!",
+      "ENGLISH": "A taste of what?!",
+      "CHINESE_SIMPLIFIED": "尝什么味道啊！",
+      "CHINESE_TRADITIONAL": "嚐什麼味道啊？！",
+      "JAPANESE": "それどころじゃないんですよ！",
+      "INDONESIAN": "Cicipin apaan?!",
+      "PORTUGUESE": "Que sabor o quê?!",
+      "SPANISH": "¡¿Qué sabor ni qué nada?!",
+      "PERSIAN": "طعم چی؟!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.0,
+      "HIDE": 27.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그러지 말고 유나 씨 회사에 데려다주면 안 돼요?",
+      "ENGLISH": "Forget that — could you just take me to Yu-na’s company instead?",
+      "CHINESE_SIMPLIFIED": "别这样了，能不能先带我去有娜的公司？",
+      "CHINESE_TRADITIONAL": "別這樣了，你能先帶我去有娜的公司嗎？",
+      "JAPANESE": "そんなこと言わずに、ユナさんを会社まで送ってもらえませんか？",
+      "INDONESIAN": "Lupakan deh — bisa anterin aku ke kantornya Yu-na aja nggak?",
+      "PORTUGUESE": "Melhor… você não podia me levar até a empresa da Yuna?",
+      "SPANISH": "Mejor, ¿no podrías llevarme a la empresa de Yuna?",
+      "PERSIAN": "اینو فراموش کنید - می توانید به جای اون من را به شرکت یونا ببرید؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 29.3
+    },
+    "SCRIPT": {
+      "KOREAN": "그만뒀습니다",
+      "ENGLISH": "I quit.",
+      "CHINESE_SIMPLIFIED": "我辞职了",
+      "CHINESE_TRADITIONAL": "我辭職了",
+      "JAPANESE": "辞めました",
+      "INDONESIAN": "Aku berhenti.",
+      "PORTUGUESE": "Pedi demissão.",
+      "SPANISH": "Renuncié.",
+      "PERSIAN": "من ترک کردم."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.7,
+      "HIDE": 31.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아가씨 보디가드",
+      "ENGLISH": "Being her bodyguard.",
+      "CHINESE_SIMPLIFIED": "现在不是小姐的保镖了",
+      "CHINESE_TRADITIONAL": "現在不是小姐的保鏢了",
+      "JAPANESE": "お嬢さんのボディーガード",
+      "INDONESIAN": "Jadi bodyguard-nya.",
+      "PORTUGUESE": "Não sou mais o guarda-costas dela.",
+      "SPANISH": "Ya no soy su guardaespaldas.",
+      "PERSIAN": "محافظ او بودن"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 31.6,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네? 왜요?",
+      "ENGLISH": "What? Why?",
+      "CHINESE_SIMPLIFIED": "嗯？为什么？",
+      "CHINESE_TRADITIONAL": "嗯？為什麼？",
+      "JAPANESE": "え？ どうしてですか？",
+      "INDONESIAN": "Apa? Kenapa?",
+      "PORTUGUESE": "Hã, por quê?",
+      "SPANISH": "Eh, ¿por qué?",
+      "PERSIAN": "چی؟ چرا؟"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 33.3,
+      "HIDE": 37.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아가씨 말고 다른 사람을 지켜 주고 싶어졌거든요.",
+      "ENGLISH": "Because… I found someone else I want to protect.",
+      "CHINESE_SIMPLIFIED": "因为我现在想守护另一个人",
+      "CHINESE_TRADITIONAL": "因為我現在想守護另外一個人",
+      "JAPANESE": "お嬢さんじゃなくて、他の人を守りたくなったんです",
+      "INDONESIAN": "Karena… aku udah nemu orang lain yang pengen aku lindungi.",
+      "PORTUGUESE": "É que agora eu quero proteger outra pessoa.",
+      "SPANISH": "Es que ahora quiero proteger a otra persona.",
+      "PERSIAN": "چون… شخص دیگری را پیدا کردم که می‌خوام از اون محافظت کنم."
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 37.6,
+      "HIDE": 39.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그것도 아주... ",
+      "ENGLISH": "Someone I want to protect…",
+      "CHINESE_SIMPLIFIED": "而且是非常…",
+      "CHINESE_TRADITIONAL": "而且還是非常...",
+      "JAPANESE": "それもとても",
+      "INDONESIAN": "Seseorang yang pengen aku lindungi…",
+      "PORTUGUESE": "Quero protegê-lo...",
+      "SPANISH": "quiero protegerlo...",
+      "PERSIAN": "کسی که میخوام ازش محافظت کنم…"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 39.7,
+      "HIDE": 40.6
+    },
+    "SCRIPT": {
+      "KOREAN": "열렬히...",
+      "ENGLISH": "fiercely.",
+      "CHINESE_SIMPLIFIED": "热烈地…",
+      "CHINESE_TRADITIONAL": "炙熱地...",
+      "JAPANESE": "熱烈に…",
+      "INDONESIAN": "dengan sepenuh hati.",
+      "PORTUGUESE": "proteger você.",
+      "SPANISH": "protegerte.",
+      "PERSIAN": "به شدت"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 40.7,
+      "HIDE": 41.4
+    },
+    "SCRIPT": {
+      "KOREAN": "예, 예?",
+      "ENGLISH": "E-Excuse me??",
+      "CHINESE_SIMPLIFIED": "啊，啊？",
+      "CHINESE_TRADITIONAL": "蛤？",
+      "JAPANESE": "は、はいっ？",
+      "INDONESIAN": "M-Maaf??",
+      "PORTUGUESE": "C-como é que é?",
+      "SPANISH": "¿C-cómo dice?",
+      "PERSIAN": "-ببخشید؟؟"
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 42.0,
+      "HIDE": 42.3
+    },
+    "SCRIPT": {
+      "KOREAN": "- 열렬히 지켜주고 싶어졌어요\n- 워..워워",
+      "ENGLISH": "— I want to protect you with burning passion.\n— Woah.. woah—",
+      "CHINESE_SIMPLIFIED": "-想热烈地守护你\n-哇、哇、哇！",
+      "CHINESE_TRADITIONAL": "-炙熱地想守護你\n-蛤...蛤蛤？",
+      "JAPANESE": "‐ 熱烈に守りたくなったんです\n‐ ちょ、ちょ……！",
+      "INDONESIAN": "— Aku mau lindungi kamu dengan gairah yang membara.\n— Woah.. woah—",
+      "PORTUGUESE": "— Quero te proteger com paixão.\n— E-ei… e-espera, espera.",
+      "SPANISH": "— Quiero protegerte con pasión.\n— E-eh… e-espera, espera.",
+      "PERSIAN": "- من می خواهم با شور و شوق از شما محافظت کنم. - وای.. وای-"
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 42.4,
+      "HIDE": 44.5
+    },
+    "SCRIPT": {
+      "KOREAN": "- 열렬히 지켜주고 싶어졌어요\n- 워..워워워워...!\n",
+      "ENGLISH": "— I want to protect you with burning passion.\n— Woah— woah woah woah…!",
+      "CHINESE_SIMPLIFIED": "-想热烈地守护你\n-哇哇哇哇哇——！",
+      "CHINESE_TRADITIONAL": "-炙熱地想守護你\n-哇哇哇哇哇——！",
+      "JAPANESE": "‐ 熱烈に守りたくなったんです\n‐ ちょ、ちょちょちょっ…！",
+      "INDONESIAN": "— Aku mau lindungi kamu dengan gairah yang membara.\n— Woah— woah woah woah…!",
+      "PORTUGUESE": "— Quero te proteger com paixão.\n— E-espera, espera, espera, espera…!",
+      "SPANISH": "— Quiero protegerte con pasión.\n— E-espera, ¡espera, espera, espera…!",
+      "PERSIAN": "- من می خواهم با شور و شوق از شما محافظت کنم. - وای - وای وای وای…!"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 45.8,
+      "HIDE": 48.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저, 저...바, 바빠서 이, 이만!!",
+      "ENGLISH": "I-I… I’m s-super busy so, I-I’ll just!!",
+      "CHINESE_SIMPLIFIED": "我、我、我还有事，先走了！！",
+      "CHINESE_TRADITIONAL": "我、我...我還有事，要先走了！！",
+      "JAPANESE": "あ、あの、俺、忙しいんで、これでっ！！",
+      "INDONESIAN": "A-aku… a-aku lagi s-super sibuk jadi, a-aku pamit aja!!",
+      "PORTUGUESE": "E-eu… t-tô com pressa, preciso ir!",
+      "SPANISH": "Y-yo… e-estoy a-apurado, ¡me tengo que ir!",
+      "PERSIAN": "من - من ... من خیلی سرم شلوغ است ، بنابراین ، فقط می خواهم !!"
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 48.1,
+      "HIDE": 49.0
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨!",
+      "ENGLISH": "Yuman!!!",
+      "CHINESE_SIMPLIFIED": "宥万！",
+      "CHINESE_TRADITIONAL": "宥萬！",
+      "JAPANESE": "ユマンさん！！",
+      "INDONESIAN": "Yuman!!!",
+      "PORTUGUESE": "Yumán!",
+      "SPANISH": "¡Yumán!",
+      "PERSIAN": "یومان!!!"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 49.5,
+      "HIDE": 50.5
+    },
+    "SCRIPT": {
+      "KOREAN": "내 사랑!!!!",
+      "ENGLISH": "My love!!!!",
+      "CHINESE_SIMPLIFIED": "我的爱人！！！！！",
+      "CHINESE_TRADITIONAL": "我的愛！！！！！",
+      "JAPANESE": "俺の愛しい人！！！！",
+      "INDONESIAN": "Cintaku!!!!",
+      "PORTUGUESE": "Meu amor!!!",
+      "SPANISH": "¡¡¡Mi amor!!!",
+      "PERSIAN": "عشق من!!!!"
+    }
+  }
+]

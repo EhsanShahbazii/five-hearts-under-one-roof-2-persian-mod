@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.2,
+      "HIDE": 1.6
+    },
+    "SCRIPT": {
+      "KOREAN": "네 진짜 과해요.",
+      "ENGLISH": "You're really overdoing it.",
+      "CHINESE_SIMPLIFIED": "嗯，真的有点过",
+      "CHINESE_TRADITIONAL": "嗯，真的有點超過了...",
+      "JAPANESE": "はい、やりすぎです",
+      "INDONESIAN": "Iya beneran heboh banget",
+      "PORTUGUESE": "Sim, de verdade, você caprichou demais.",
+      "SPANISH": "Sí, de verdad te pasaste.",
+      "PERSIAN": "واقعاً داری زیاده‌روی می‌کنی."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.3,
+      "HIDE": 7.0
+    },
+    "SCRIPT": {
+      "KOREAN": "정말요? 옷? 메이크업?",
+      "ENGLISH": "Seriously? My clothes? My makeup?",
+      "CHINESE_SIMPLIFIED": "真的吗？是衣服？还是妆容？",
+      "CHINESE_TRADITIONAL": "是嗎？是衣服還是妝容啊？",
+      "JAPANESE": "本当ですか？服？メイク？",
+      "INDONESIAN": "Serius? Bajunya? Makeup-nya?",
+      "PORTUGUESE": "Sério? Na roupa? Na maquiagem?",
+      "SPANISH": "¿En serio? ¿En la ropa? ¿El maquillaje?",
+      "PERSIAN": "جدی؟ لباسم؟ آرایشم؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 10.8
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 정말 미모가 과해요",
+      "ENGLISH": "You're looking way too gorgeous today.",
+      "CHINESE_SIMPLIFIED": "你的美貌真的太过分了啊",
+      "CHINESE_TRADITIONAL": "我是指你的美貌真的太超過了",
+      "JAPANESE": "今日の美貌がやりすぎって意味ですよ",
+      "INDONESIAN": "Hari ini kamu cantiknya kebangetan",
+      "PORTUGUESE": "Hoje você tá linda demais.",
+      "SPANISH": "Hoy te pasaste de guapa.",
+      "PERSIAN": "امروز خیلی خوشگل شدی."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 11.7,
+      "HIDE": 15.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐예요~ 별로라는 줄 알고 놀랐잖아요!",
+      "ENGLISH": "Oh, come on~ I was shocked thinking you'd say I looked bad!",
+      "CHINESE_SIMPLIFIED": "哎呀什么呀~我还以为你是说不好看呢，吓我一跳！",
+      "CHINESE_TRADITIONAL": "什麼啊～我還以為你是說不好看呢，嚇我一跳",
+      "JAPANESE": "もう〜何ですか〜似合ってないって言うのかと思って焦ったじゃないですか！",
+      "INDONESIAN": "Aduh apaan sih~ kirain tadi kamu nggak suka",
+      "PORTUGUESE": "Ai, que isso~! Achei que você tava dizendo que eu não tava bonita, me assustou.",
+      "SPANISH": "¡Ay, qué dices~! Pensé que querías decir que no me veía bien, me asustaste.",
+      "PERSIAN": "اوه، بیخیال~ از فکر اینکه بگی قیافه‌ام بد شده شوکه شدم!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 16.0,
+      "HIDE": 20.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 진짜 다른 가수들 너무 예뻐가지고 다 기죽을 거 같은데?",
+      "ENGLISH": "Seriously, all the other singers are so pretty, I feel like I'll get overshadowed?",
+      "CHINESE_SIMPLIFIED": "你实在是太漂亮了，我担心其他歌手都要自卑了呢～",
+      "CHINESE_TRADITIONAL": "我擔心其他歌手因為你的美貌，上台都會自卑啊",
+      "JAPANESE": "ほんと、他の歌手たちが可愛すぎて気後れしそうなんですよ",
+      "INDONESIAN": "Serius deh, penyanyi lain juga pada cantik-cantik, aku jadi minder gini",
+      "PORTUGUESE": "De verdade, as outras cantoras são tão lindas que eu sinto que vou ficar pra trás.",
+      "SPANISH": "De verdad, las otras cantantes son tan lindas que siento que voy a quedarme atrás.",
+      "PERSIAN": "جدی میگم، همه خواننده‌های دیگه انقدر خوشگلن که حس می‌کنم قراره من تحت الشعاع قرار بگیرم؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 22.2
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 가도 되는 거 맞겠죠?",
+      "ENGLISH": "Is it okay to go like this?",
+      "CHINESE_SIMPLIFIED": "这样上台真的没问题吧？",
+      "CHINESE_TRADITIONAL": "那這樣上台真的沒問題吧？",
+      "JAPANESE": "このままで大丈夫かな…？",
+      "INDONESIAN": "Aku beneran bisa tampil kayak gini nggak sih?",
+      "PORTUGUESE": "Tá tudo bem se eu sair assim?",
+      "SPANISH": "¿Está bien si salgo así?",
+      "PERSIAN": "اشکالی نداره اینجوری بریم؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 24.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그만해요!",
+      "ENGLISH": "Stop it!",
+      "CHINESE_SIMPLIFIED": "别再说啦！",
+      "CHINESE_TRADITIONAL": "別再說了啦！",
+      "JAPANESE": "もうやめましょう！",
+      "INDONESIAN": "Udah cukup ya godainnya!",
+      "PORTUGUESE": "Chega!",
+      "SPANISH": "¡Ya basta!",
+      "PERSIAN": "بس کن!"
+    }
+  }
+]

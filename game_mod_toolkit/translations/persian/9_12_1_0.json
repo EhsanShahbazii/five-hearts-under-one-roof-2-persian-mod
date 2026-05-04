@@ -1,0 +1,243 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 7.5
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘 이 자리에 와 주신 분들께 감사드립니다!",
+      "ENGLISH": "Thank you to everyone who came here today!",
+      "CHINESE_SIMPLIFIED": "感谢今天到场的各位！",
+      "CHINESE_TRADITIONAL": "感謝今天到場的各位！",
+      "JAPANESE": "本日はこの場にお越しくださった皆さん、ありがとうございます！",
+      "INDONESIAN": "Terima kasih buat semua yang udah datang hari ini!",
+      "PORTUGUESE": "Obrigada a todos por terem vindo hoje!",
+      "SPANISH": "¡Gracias a todos por venir hoy!",
+      "PERSIAN": "از همه کسانی که امروز به اینجا آمدند ممنونم!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 12.6
+    },
+    "SCRIPT": {
+      "KOREAN": "그리고 무엇보다 함께 해준 우유만 씨께 가장 고마워요.",
+      "ENGLISH": "And above all, I’m most grateful to Yuman for being by my side.",
+      "CHINESE_SIMPLIFIED": "还有最要感谢的，是一直陪在我身边的吴宥万先生",
+      "CHINESE_TRADITIONAL": "還有，最要感謝的是，一直以來陪在我身邊的吳宥萬先生",
+      "JAPANESE": "そして何より、共に歩んでくれたウ・ユマンさんに一番感謝しています",
+      "INDONESIAN": "Dan yang paling penting, aku paling bersyukur karena Yuman ada di sisiku.",
+      "PORTUGUESE": "E, acima de tudo, quero agradecer especialmente ao Yumán Woo por ter me acompanhado em tudo.",
+      "SPANISH": "Y sobre todo, quiero agradecer especialmente a Yumán Woo por acompañarme en todo.",
+      "PERSIAN": "و بالاتر از همه، من از یومان به خاطر اینکه در کنارم بود بسیار دستت درد نکنه."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 16.4,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "큼, 축하한다?",
+      "ENGLISH": "Ahem, congratulations.",
+      "CHINESE_SIMPLIFIED": "咳，恭喜啊？",
+      "CHINESE_TRADITIONAL": "咳，恭喜啊？",
+      "JAPANESE": "ゴホン…おめでとう",
+      "INDONESIAN": "Ehem, selamat ya.",
+      "PORTUGUESE": "Ehm, parabéns?",
+      "SPANISH": "Ejem, ¿felicitaciones?",
+      "PERSIAN": "آهان، تبریک می گویم."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 19.2,
+      "HIDE": 21.8
+    },
+    "SCRIPT": {
+      "KOREAN": "유나야 우리 회사에서 제안 넣은 거 혹시 봤어?",
+      "ENGLISH": "Yu-na, did you happen to see the proposal our company sent?",
+      "CHINESE_SIMPLIFIED": "有娜啊，我们公司提的那个企划你看了吗？",
+      "CHINESE_TRADITIONAL": "有娜啊，我們公司的提案你看了嗎？",
+      "JAPANESE": "ユナ、うちの会社から出した提案書、見た？",
+      "INDONESIAN": "Yu-na, kamu sempat lihat proposal dari perusahaan kami?",
+      "PORTUGUESE": "Yuna, você viu a proposta que enviamos da nossa empresa?",
+      "SPANISH": "Yuna, ¿viste la propuesta que enviamos desde nuestra empresa?",
+      "PERSIAN": "یونا، پیشنهادی را که شرکت ما ارسال کرده بود، دیدی؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 23.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아직 안 올라갔나?",
+      "ENGLISH": "Has it not been uploaded yet?",
+      "CHINESE_SIMPLIFIED": "还没上传吗？",
+      "CHINESE_TRADITIONAL": "還沒上傳嗎？",
+      "JAPANESE": "まだ上がってないのかな？",
+      "INDONESIAN": "Belum sempat diunggah, ya?",
+      "PORTUGUESE": "Ainda não publicaram?",
+      "SPANISH": "¿Aún no la subieron?",
+      "PERSIAN": "هنوز آپلود نشده؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 23.6,
+      "HIDE": 26.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그 우리가 보낸 제안 먼저 확인해줄 수 있을까?",
+      "ENGLISH": "If you could check the one we submitted first,",
+      "CHINESE_SIMPLIFIED": "能不能先帮忙确认一下我们提交的提案？",
+      "CHINESE_TRADITIONAL": "能不能先幫忙確認我們的提案呢？",
+      "JAPANESE": "その、うちが送った提案を先に確認してもらえないかな？",
+      "INDONESIAN": "Kalau bisa dicek yang kami kirim duluan,",
+      "PORTUGUESE": "Será que poderia dar uma olhada primeiro na que enviamos nós?",
+      "SPANISH": "¿Podrías revisar primero la que te mandamos nosotros?",
+      "PERSIAN": "اگر می توانید اولین موردی را که ما ارسال کردیم بررسی کنید،"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 26.3,
+      "HIDE": 28.7
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 직접적으로 더 도움이 될 거 같은데...",
+      "ENGLISH": "I think that would benefit you more directly…",
+      "CHINESE_SIMPLIFIED": "我觉得那样更能帮到你...",
+      "CHINESE_TRADITIONAL": "我覺得會更直接幫助到你...",
+      "JAPANESE": "そっちのほうが直接役立つと思うんだけど…",
+      "INDONESIAN": "aku rasa itu bakal lebih langsung ngasih keuntungan buat kamu…",
+      "PORTUGUESE": "Acho que seria mais útil de forma direta...",
+      "SPANISH": "Creo que sería más útil de forma directa...",
+      "PERSIAN": "من فکر می کنم که این برای شما سود مستقیم بیشتری دارد…"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 31.0,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 비서 통해서 확인 할게.",
+      "ENGLISH": "I’ll confirm it through my secretary.",
+      "CHINESE_SIMPLIFIED": "我会让秘书去确认的",
+      "CHINESE_TRADITIONAL": "我會請秘書去確認一下",
+      "JAPANESE": "それは秘書を通して確認します",
+      "INDONESIAN": "Nanti aku konfirmasi lewat sekretarisku.",
+      "PORTUGUESE": "Vou revisar através do meu assistente.",
+      "SPANISH": "Lo revisaré a través de mi asistente.",
+      "PERSIAN": "من اونو از طریق منشی خود تأیید می کنم."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 33.7,
+      "HIDE": 37.0
+    },
+    "SCRIPT": {
+      "KOREAN": "그 너만 괜찮으면 우리 다시 합치는 게...",
+      "ENGLISH": "If you’re okay with it… how about we work together again—",
+      "CHINESE_SIMPLIFIED": "如果你愿意的话，我们可以重新合作...",
+      "CHINESE_TRADITIONAL": "如果你願意的話，我們可以重新合作...",
+      "JAPANESE": "もし君さえ良ければ、また一緒に…",
+      "INDONESIAN": "Kalau kamu nggak keberatan… gimana kalau kita kerja sama lagi—",
+      "PORTUGUESE": "Se você concordar, poderíamos colaborar novamente...",
+      "SPANISH": "Si estás de acuerdo, podríamos volver a colaborar...",
+      "PERSIAN": "اگر با اون مشکلی ندارید ... چطوره که دوباره با هم کار کنیم -"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 41.7,
+      "HIDE": 44.4
+    },
+    "SCRIPT": {
+      "KOREAN": "미안 나 파트너가 있어서",
+      "ENGLISH": "Sorry, I already have a partner.",
+      "CHINESE_SIMPLIFIED": "抱歉，我已经有搭档了",
+      "CHINESE_TRADITIONAL": "抱歉，我已經有生意夥伴了",
+      "JAPANESE": "ごめん、パートナーがいるの",
+      "INDONESIAN": "Maaf, aku udah punya partner.",
+      "PORTUGUESE": "Desculpe, eu já tenho um parceiro.",
+      "SPANISH": "Lo siento, ya tengo un socio.",
+      "PERSIAN": "متاسفم، من قبلا یک شریک دارم."
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 45.2,
+      "HIDE": 46.9
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼 편하게 즐기다 가세요~",
+      "ENGLISH": "Then please enjoy yourselves~",
+      "CHINESE_SIMPLIFIED": "那大家请随意吧~",
+      "CHINESE_TRADITIONAL": "那大家請隨意吧～",
+      "JAPANESE": "そっか、じゃあゆっくり楽しんでいってね〜",
+      "INDONESIAN": "Kalau gitu, selamat bersenang-senang~",
+      "PORTUGUESE": "Então aproveitem o evento~",
+      "SPANISH": "Entonces disfruten del evento~",
+      "PERSIAN": "پس لطفا لذت ببرید~"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 53.5,
+      "HIDE": 56.0
+    },
+    "SCRIPT": {
+      "KOREAN": "파트너 허리에 손 얹는 거 잊지 않았죠?",
+      "ENGLISH": "You didn’t forget to put your hand around your partner’s waist, right?",
+      "CHINESE_SIMPLIFIED": "别忘了把手放在搭档的腰上哦？",
+      "CHINESE_TRADITIONAL": "別忘了把手放在夥伴的腰上喔？",
+      "JAPANESE": "パートナーの腰に手を添えるの忘れてないですよね？",
+      "INDONESIAN": "Kamu nggak lupa naruh tangan di pinggang partner-mu, kan?",
+      "PORTUGUESE": "Não esquece de colocar a mão na cintura da sua parceira, hein?",
+      "SPANISH": "No olvides poner tu mano en la cintura de tu socia, ¿eh?",
+      "PERSIAN": "شما فراموش نکردید که دست خود را دور کمر شریک زندگی خود قرار دهید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 56.7,
+      "HIDE": 57.4
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼요.",
+      "ENGLISH": "Of course not.",
+      "CHINESE_SIMPLIFIED": "当然不会忘",
+      "CHINESE_TRADITIONAL": "當然囉～",
+      "JAPANESE": "当然です",
+      "INDONESIAN": "Tentu aja nggak.",
+      "PORTUGUESE": "Claro.",
+      "SPANISH": "Por supuesto.",
+      "PERSIAN": "البته نه."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 58.0,
+      "HIDE": 58.1
+    }
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 1.6
+    },
+    "SCRIPT": {
+      "KOREAN": "유만 씨 생일 축하해~",
+      "ENGLISH": "Happy birthday, Yuman~",
+      "CHINESE_SIMPLIFIED": "吴宥万，生日快乐～",
+      "CHINESE_TRADITIONAL": "吳宥萬，生日快樂～",
+      "JAPANESE": "ユマンさん お誕生日おめでとう〜",
+      "INDONESIAN": "Selamat ulang tahun, Yuman~",
+      "PORTUGUESE": "Feliz aniversário!",
+      "SPANISH": "¡Feliz cumpleaños, Yumán!",
+      "PERSIAN": "تولدت مبارک یومان~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 1.7,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "그동안 내 옆에서 고생 많았어!",
+      "ENGLISH": "You’ve worked so hard by my side all this time!",
+      "CHINESE_SIMPLIFIED": "这段时间在我身边辛苦啦！",
+      "CHINESE_TRADITIONAL": "這段時間在我身邊辛苦啦！",
+      "JAPANESE": "今まで隣で頑張ってくれてありがとう！",
+      "INDONESIAN": "Kamu udah kerja keras banget di sampingku selama ini!",
+      "PORTUGUESE": "Você tem trabalhado muito duro ao meu lado todo esse tempo.",
+      "SPANISH": "Has trabajado muy duro junto a mí, todo este tiempo.",
+      "PERSIAN": "تو تمام این مدت در کنار من سخت کار کردی!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.0,
+      "HIDE": 5.4
+    },
+    "SCRIPT": {
+      "KOREAN": "앞으로도 잘 부탁해!",
+      "ENGLISH": "Let’s keep it up from here on too!",
+      "CHINESE_SIMPLIFIED": "以后也请多关照！",
+      "CHINESE_TRADITIONAL": "以後也請多關照！",
+      "JAPANESE": "これからもよろしくね！",
+      "INDONESIAN": "Yuk terus bareng-bareng ke depannya juga!",
+      "PORTUGUESE": "Espero continuar contando com você.",
+      "SPANISH": "Espero seguir contando contigo.",
+      "PERSIAN": "از اینجا به بعد هم ادامه بدیم!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.8,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "감사합니다 과장님 ",
+      "ENGLISH": "Thank you, Manager.",
+      "CHINESE_SIMPLIFIED": "谢谢你，佟科长",
+      "CHINESE_TRADITIONAL": "謝謝你，佟課長",
+      "JAPANESE": "ありがとうございます 課長",
+      "INDONESIAN": "Makasih, Manager.",
+      "PORTUGUESE": "Obrigada, chefe Gran.",
+      "SPANISH": "Gracias, jefa Gran.",
+      "PERSIAN": "ممنون مدیر"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.6
+    },
+    "SCRIPT": {
+      "KOREAN": "내년 생일도 내가 챙겨줄게.",
+      "ENGLISH": "I’ll take care of your birthday next year too.",
+      "CHINESE_SIMPLIFIED": "明年生日我也会帮你准备的",
+      "CHINESE_TRADITIONAL": "明年生日我也會幫你準備的",
+      "JAPANESE": "来年の誕生日も私が祝ってあげる",
+      "INDONESIAN": "Tahun depan, aku yang urus ulang tahunmu juga, ya.",
+      "PORTUGUESE": "Eu vou cuidar do seu aniversário no ano que vem também.",
+      "SPANISH": "Me encargaré de tu cumpleaños el próximo año, también.",
+      "PERSIAN": "سال آینده هم از تولدت مراقبت خواهم کرد."
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 9.7,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "다음엔 연차 써서....",
+      "ENGLISH": "Next time, I’ll even take a day off for it...",
+      "CHINESE_SIMPLIFIED": "下次就用年假...",
+      "CHINESE_TRADITIONAL": "下次就用年假...",
+      "JAPANESE": "次は有休取って……",
+      "INDONESIAN": "Next time, aku bahkan bakal ambil cuti khusus...",
+      "PORTUGUESE": "Da próxima vez… vou tirar o dia de folga e…",
+      "SPANISH": "La próxima vez… tomaré el día libre y…",
+      "PERSIAN": "دفعه بعد حتی یک روز مرخصی میگیرم..."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.9
+    },
+    "SCRIPT": {
+      "KOREAN": "이건 제 보답입니다~",
+      "ENGLISH": "This is my way of saying thanks~",
+      "CHINESE_SIMPLIFIED": "这是我的回礼～",
+      "CHINESE_TRADITIONAL": "這是我的回禮～",
+      "JAPANESE": "これは俺からのお返しです〜",
+      "INDONESIAN": "Ini caraku bilang makasih~",
+      "PORTUGUESE": "Essa é a minha forma de dizer obrigada~",
+      "SPANISH": "Este es mi forma de decir gracias~",
+      "PERSIAN": "این روش من برای تشکر است"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 14.0,
+      "HIDE": 16.2
+    },
+    "SCRIPT": {
+      "KOREAN": "우유만 씨 지금 장난해?",
+      "ENGLISH": "Yuman, are you messing around right now?",
+      "CHINESE_SIMPLIFIED": "吴宥万，你现在是在开玩笑吗？",
+      "CHINESE_TRADITIONAL": "吳宥萬，你現在是在開玩笑嗎？",
+      "JAPANESE": "ウ・ユマンさん 今ふざけてます？",
+      "INDONESIAN": "Yuman, kamu lagi ngelawak sekarang ya?",
+      "PORTUGUESE": "Yumán, o que você tá fazendo?",
+      "SPANISH": "¿Yumán, qué estás haciendo?",
+      "PERSIAN": "یومان، الان داری بهم میزنی؟"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 18.5
+    },
+    "SCRIPT": {
+      "KOREAN": "죄송합니다. 제가 너무 신났습니다.",
+      "ENGLISH": "I’m sorry. I just got a little too excited.",
+      "CHINESE_SIMPLIFIED": "对不起，我太激动了才...",
+      "CHINESE_TRADITIONAL": "對不起，我太激動了才...",
+      "JAPANESE": "すみません ちょっと浮かれてました",
+      "INDONESIAN": "Maaf... aku cuma agak kegirangan aja.",
+      "PORTUGUESE": "Desculpa, me empolguei um pouco.",
+      "SPANISH": "Lo siento, me emocioné un poco.",
+      "PERSIAN": "متاسفم فقط کمی بیش از حد هیجان زده شدم."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 21.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 장난은 치지 마.",
+      "ENGLISH": "Don’t pull stunts like that again.",
+      "CHINESE_SIMPLIFIED": "别开这种玩笑",
+      "CHINESE_TRADITIONAL": "別開這種玩笑",
+      "JAPANESE": "こういう冗談はやめなさい",
+      "INDONESIAN": "Jangan ngelakuin hal aneh-aneh kayak gitu lagi.",
+      "PORTUGUESE": "Não faça mais esse tipo de brincadeira.",
+      "SPANISH": "No vuelvas a hacer ese tipo de bromas.",
+      "PERSIAN": "دیگه اینجوری شیرین کاری نکن"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 21.9,
+      "HIDE": 22.8
+    },
+    "SCRIPT": {
+      "KOREAN": "네...",
+      "ENGLISH": "Okay...",
+      "CHINESE_SIMPLIFIED": "好...",
+      "CHINESE_TRADITIONAL": "好...",
+      "JAPANESE": "はい…",
+      "INDONESIAN": "Siap",
+      "PORTUGUESE": "Tá bom…",
+      "SPANISH": "Está bien…",
+      "PERSIAN": "باشه..."
+    }
+  }
+]

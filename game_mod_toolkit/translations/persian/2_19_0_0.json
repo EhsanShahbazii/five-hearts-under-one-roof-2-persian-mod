@@ -1,0 +1,128 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.0,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "사고 나시고 근육들이 아직 제대로 자리 잡지 못한 상태라",
+      "ENGLISH": "After the accident, your muscles haven’t fully settled yet,",
+      "CHINESE_SIMPLIFIED": "因为您之前出过车祸，肌肉群还没有完全恢复到位",
+      "CHINESE_TRADITIONAL": "因為出了車禍，肌肉還處於沒有完全恢復的狀態",
+      "JAPANESE": "事故のあとでまだ筋肉がちゃんと安定してない状態なので",
+      "INDONESIAN": "Setelah kecelakaan, otot-otot kamu belum sepenuhnya pulih,",
+      "PORTUGUESE": "Depois do acidente, seus músculos ainda não se recuperaram totalmente,",
+      "SPANISH": "Después del accidente, sus músculos aún no se han recuperado del todo.",
+      "PERSIAN": "بعد از تصادف، عضلات شما هنوز به طور کامل مستقر نشده اند،"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 4.3,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "도수 치료로 근육 좀 풀어 드릴 거예요.",
+      "ENGLISH": "so today we’ll do some manual therapy to loosen them up.",
+      "CHINESE_SIMPLIFIED": "今天会通过手法治疗帮您放松一下肌肉",
+      "CHINESE_TRADITIONAL": "今天會用徒手治療方式，幫您把肌肉鬆開一點",
+      "JAPANESE": "今日は徒手療法で筋肉を少しほぐしていきますね",
+      "INDONESIAN": "jadi hari ini kita bakal lakukan terapi manual buat ngurangin tegangnya.",
+      "PORTUGUESE": "então hoje vamos fazer uma sessão de terapia pra relaxá-los.",
+      "SPANISH": "así que hoy  tendremos una sesión de terapia para relajarlos.",
+      "PERSIAN": "بنابراین امروز ما مقداری درمان دستی برای از بین بردن اونا انجام خواهیم داد."
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.0,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "받아보신 적 있으세요?",
+      "ENGLISH": "Have you had it before?",
+      "CHINESE_SIMPLIFIED": "之前有接受过这种治疗吗？",
+      "CHINESE_TRADITIONAL": "你以前做過這種治療嗎？",
+      "JAPANESE": "受けたことありますか?",
+      "INDONESIAN": "Kamu udah pernah coba sebelumnya?",
+      "PORTUGUESE": "Você já fez esse tipo de tratamento antes?",
+      "SPANISH": "¿Ha recibido este tipo de tratamiento antes?",
+      "PERSIAN": "قبلا اونو داشته اید؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.4,
+      "HIDE": 9.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨 처음이에요.",
+      "ENGLISH": "No, it’s my first time.",
+      "CHINESE_SIMPLIFIED": "没有，这是第一次",
+      "CHINESE_TRADITIONAL": "沒有，這是第一次",
+      "JAPANESE": "いえ 初めてです",
+      "INDONESIAN": "Belum, ini pertama kalinya.",
+      "PORTUGUESE": "Não, é a primeira vez.",
+      "SPANISH": "No, es mi primera vez.",
+      "PERSIAN": "نه، اولین بار است."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.8,
+      "HIDE": 12.7
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 그거 막 우드득 하고 그런 거 아니에요?",
+      "ENGLISH": "Wait... isn’t that the thing where it cracks and pops?",
+      "CHINESE_SIMPLIFIED": "不过会不会突然身体嘎吱嘎吱响啊？",
+      "CHINESE_TRADITIONAL": "不過，不會突然咔嚓一聲很恐怖之類的嗎？",
+      "JAPANESE": "でもそれ バキバキッてやるやつじゃないですか?",
+      "INDONESIAN": "Tunggu... ini yang bunyi “krek krek” itu, ya?",
+      "PORTUGUESE": "É aquele... em que fazem o corpo estalar?",
+      "SPANISH": "¿Acaso es... cuando te hacen crujir partes del cuerpo?",
+      "PERSIAN": "صبر کنید... این چیزی نیست که ترک می خورد و می پرد؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 12.8,
+      "HIDE": 16.7
+    },
+    "SCRIPT": {
+      "KOREAN": "맞아요. 근데 제가 살살해 드릴 거니깐 걱정하지 마세요!",
+      "ENGLISH": "That’s right—but I’ll be gentle, so don’t worry!",
+      "CHINESE_SIMPLIFIED": "会的，不过我的手法会很轻柔的，请别担心！",
+      "CHINESE_TRADITIONAL": "沒錯，但我會輕一點的，不用擔心！",
+      "JAPANESE": "そうです でも私が優しくやりますから心配しないでくださいね",
+      "INDONESIAN": "Betul—tapi tenang aja, aku bakal pelan-pelan kok!",
+      "PORTUGUESE": "Isso mesmo, mas vou fazer com cuidado, não se preocupe.",
+      "SPANISH": "Así es, pero lo haré con cuidado, no se preocupe.",
+      "PERSIAN": "درست است، اما من مهربان می‌شم، پس نگران نباش!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 17.4,
+      "HIDE": 21.3
+    },
+    "SCRIPT": {
+      "KOREAN": "혹시..어디가 제일 불편하셨을까요?",
+      "ENGLISH": "Is there any part that’s been bothering you the most?",
+      "CHINESE_SIMPLIFIED": "您觉得...哪个部位最不舒服呢？",
+      "CHINESE_TRADITIONAL": "請問…您是哪裡最不舒服呢？",
+      "JAPANESE": "それで…どこが一番つらいですか?",
+      "INDONESIAN": "Ada bagian yang paling kerasa nggak nyaman?",
+      "PORTUGUESE": "Me diga onde sente mais desconforto.",
+      "SPANISH": "Dígame dónde siente más molestia.",
+      "PERSIAN": "بخشی وجود دارد که بیشتر شما را آزار دهد؟"
+    }
+  }
+]

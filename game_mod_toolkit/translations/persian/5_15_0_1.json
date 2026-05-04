@@ -1,0 +1,272 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 5.9
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 누구예요? 자꾸 소리내는 사람?",
+      "ENGLISH": "But… who is that? The one making all those sounds?",
+      "CHINESE_SIMPLIFIED": "到底是谁啊？为什么一直发出声音？",
+      "CHINESE_TRADITIONAL": "不好意思，請問你是誰？一直發出聲音的人？",
+      "JAPANESE": "ていうか誰ですか？さっきから音立ててる人？",
+      "INDONESIAN": "Tapi… itu siapa ya? Yang bikin suara-suara tadi?",
+      "PORTUGUESE": "Mas quem é que continua fazendo esse barulho?",
+      "SPANISH": "¿Pero quién sigue haciendo ese ruido?",
+      "PERSIAN": "اما… اون کیه؟ اونی که این همه صدا میده؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 8.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저만 들리는 줄 알았는데...",
+      "ENGLISH": "I thought it was just me hearing it…",
+      "CHINESE_SIMPLIFIED": "我还以为只有我能听见呢...",
+      "CHINESE_TRADITIONAL": "我還以為只有我聽得到呢…",
+      "JAPANESE": "私だけ聞こえてるのかと思ったんですけど…",
+      "INDONESIAN": "Kirain cuma aku doang yang denger…",
+      "PORTUGUESE": "Achei que só eu tava ouvindo...",
+      "SPANISH": "Pensé que solo yo lo estaba escuchando...",
+      "PERSIAN": "فکر میکردم فقط من شنیدمش…"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 8.1,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "전 아닌데요....?",
+      "ENGLISH": "It’s not me…",
+      "CHINESE_SIMPLIFIED": "不是我啊....？",
+      "CHINESE_TRADITIONAL": "不是我喔…？",
+      "JAPANESE": "私じゃないですよ…？",
+      "INDONESIAN": "Bukan aku…",
+      "PORTUGUESE": "Pois não sou eu...",
+      "SPANISH": "Pues no soy yo...",
+      "PERSIAN": "من نیستم…"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.9,
+      "HIDE": 11.6
+    },
+    "SCRIPT": {
+      "KOREAN": "에이... 장난치지 마요...!",
+      "ENGLISH": "Oh, come on—don’t mess around like that…!",
+      "CHINESE_SIMPLIFIED": "哎呦...别开玩笑了...！",
+      "CHINESE_TRADITIONAL": "欸…別鬧了…！",
+      "JAPANESE": "え〜やめてくださいよ、冗談でしょ…！",
+      "INDONESIAN": "Ayolah—jangan becanda kayak gitu dong…!",
+      "PORTUGUESE": "Ah, para de mentir...",
+      "SPANISH": "Vamos, no mientas...",
+      "PERSIAN": "اوه، بیا - اینجوری به هم نخور...!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 12.3,
+      "HIDE": 13.6
+    },
+    "SCRIPT": {
+      "KOREAN": "으아아아아악!!!!",
+      "ENGLISH": "WAAAAAHHHHH!!!",
+      "CHINESE_SIMPLIFIED": "啊啊啊啊啊——！！！",
+      "CHINESE_TRADITIONAL": "啊啊啊啊啊啊！！",
+      "JAPANESE": "うわあああああ！！！",
+      "INDONESIAN": "WAAAAAHHHHH!!!",
+      "PORTUGUESE": "Aaaahhhh!!!",
+      "SPANISH": "¡¡¡Aaaahhhh!!!",
+      "PERSIAN": "واااای!!!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 16.1,
+      "HIDE": 17.5
+    },
+    "SCRIPT": {
+      "KOREAN": "병원에서는 정!숙!",
+      "ENGLISH": "In the hospital—QUIET!",
+      "CHINESE_SIMPLIFIED": "医院里要安！静！",
+      "CHINESE_TRADITIONAL": "在醫院裡要！安！靜！",
+      "JAPANESE": "病院では静粛にっ！！",
+      "INDONESIAN": "Di rumah sakit—HARUS TENANG!",
+      "PORTUGUESE": "No hospital se mantém SI-LÊN-CIO!",
+      "SPANISH": "¡En el hospital se guarda SI-LEN-CIO!",
+      "PERSIAN": "در بیمارستان - ساکت!"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 18.1,
+      "HIDE": 18.9
+    },
+    "SCRIPT": {
+      "KOREAN": "모릅니까?",
+      "ENGLISH": "Don’t you know that!?",
+      "CHINESE_SIMPLIFIED": "不知道吗？",
+      "CHINESE_TRADITIONAL": "不知道嗎？",
+      "JAPANESE": "知らないんですか！？",
+      "INDONESIAN": "Kalian nggak tau aturan itu ya!?",
+      "PORTUGUESE": "Não sabiam disso?",
+      "SPANISH": "No lo sabían?",
+      "PERSIAN": "اینو نمیدونی!؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 19.4,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아... 그렇게 나타나시는데 어떻게 안 놀라요...",
+      "ENGLISH": "Ahh… how can we not be scared when you show up like that…",
+      "CHINESE_SIMPLIFIED": "啊...您这样突然出现，谁能不被吓到...",
+      "CHINESE_TRADITIONAL": "啊…但你那樣突然出現，我怎麼可能不嚇到啊…",
+      "JAPANESE": "あっ…そんな登場の仕方されたら驚かないわけないでしょ…",
+      "INDONESIAN": "Ahh… ya gimana nggak takut, munculnya tiba-tiba gitu…",
+      "PORTUGUESE": "Se aparece do nada assim, como é que a gente não vai se assustar...?",
+      "SPANISH": "¿Si aparece así de la nada como no asustarse...?",
+      "PERSIAN": "آهان ... وقتی شما اینطوری ظاهر می شوید ، چگونه نمی ترسیم ..."
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 22.4,
+      "HIDE": 24.1
+    },
+    "SCRIPT": {
+      "KOREAN": "이 밤에 어딜 그렇게 돌아다니셔!?",
+      "ENGLISH": "What are you even doing, wandering around this late at night!?",
+      "CHINESE_SIMPLIFIED": "这大半夜的瞎转悠什么！？",
+      "CHINESE_TRADITIONAL": "這麼晚了，你們怎麼還在外面閒晃？！",
+      "JAPANESE": "こんな夜中になんでうろついてるんですか！？",
+      "INDONESIAN": "Ngapain sih kalian muter-muter tengah malam begini!?",
+      "PORTUGUESE": "O que estão fazendo vagando por aqui a essa hora?",
+      "SPANISH": "¿Qué hacen dando vueltas a estas horas?",
+      "PERSIAN": "اصلاً چه کار می کنی که این اواخر شب پرسه می زنی!؟"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 26.9
+    },
+    "SCRIPT": {
+      "KOREAN": "저희... 화장실 가는데요...?",
+      "ENGLISH": "We’re… just trying to find the bathroom…",
+      "CHINESE_SIMPLIFIED": "我们...在找洗手间呢...？",
+      "CHINESE_TRADITIONAL": "我、我們是要去上廁所啦…",
+      "JAPANESE": "あの…トイレに行こうとしてて…",
+      "INDONESIAN": "Kita… cuma lagi cari kamar mandi…",
+      "PORTUGUESE": "A gente... tava indo pro banheiro...",
+      "SPANISH": "Nosotros... íbamos al baño...",
+      "PERSIAN": "ما فقط سعی می کنیم حمام را پیدا کنیم…"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 27.2,
+      "HIDE": 29.1
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 화장실은 어디로 가야 해요...?",
+      "ENGLISH": "Which way is it?",
+      "CHINESE_SIMPLIFIED": "这里的洗手间该往哪走...？",
+      "CHINESE_TRADITIONAL": "這裡的廁所要怎麼走啊…？",
+      "JAPANESE": "ここのトイレってどっちに行けばいいんですか？",
+      "INDONESIAN": "Arahnya ke mana ya?",
+      "PORTUGUESE": "Onde fica o banheiro...?",
+      "SPANISH": "¿Dónde queda el baño...?",
+      "PERSIAN": "کدام راه است؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 29.1,
+      "HIDE": 30.4
+    },
+    "SCRIPT": {
+      "KOREAN": "이쪽이 아니야!!",
+      "ENGLISH": "The bathroom’s not this way!!",
+      "CHINESE_SIMPLIFIED": "不是这边！！",
+      "CHINESE_TRADITIONAL": "不是這邊！！",
+      "JAPANESE": "こっちじゃない！！",
+      "INDONESIAN": "Kamar mandinya bukan ke arah sini!!",
+      "PORTUGUESE": "Por aqui não é!!",
+      "SPANISH": "¡Por aquí no es!!",
+      "PERSIAN": "حمام اینجوری نیست!!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 31.2,
+      "HIDE": 32.8
+    },
+    "SCRIPT": {
+      "KOREAN": "다시 왔던 길로 돌아가세요!",
+      "ENGLISH": "Turn around and go back the way you came!",
+      "CHINESE_SIMPLIFIED": "赶紧原路返回！",
+      "CHINESE_TRADITIONAL": "走回原本的方向！",
+      "JAPANESE": "来た道を戻ってください！！",
+      "INDONESIAN": "Balik arah! Lewat jalan yang tadi kalian lewatin!",
+      "PORTUGUESE": "Voltem pelo caminho que vieram!",
+      "SPANISH": "¡Regresen por donde vinieron!",
+      "PERSIAN": "برگرد و از راهی که آمده ای برگرد!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 35.3,
+      "HIDE": 35.6
+    },
+    "SCRIPT": {
+      "KOREAN": "헉...",
+      "ENGLISH": "Gasp…",
+      "CHINESE_SIMPLIFIED": "嚯...",
+      "CHINESE_TRADITIONAL": "喔...",
+      "JAPANESE": "ひっ…",
+      "INDONESIAN": "Hah…",
+      "PORTUGUESE": "Ugh...",
+      "SPANISH": "Ugh...",
+      "PERSIAN": "نفس نفس زدن…"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 36.7,
+      "HIDE": 38.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아휴... 놀래라...",
+      "ENGLISH": "Ugh… that scared the hell out of me…",
+      "CHINESE_SIMPLIFIED": "哎哟喂...吓死人了...",
+      "CHINESE_TRADITIONAL": "哎唷…嚇死人了…",
+      "JAPANESE": "はぁ〜びっくりした…",
+      "INDONESIAN": "Ugh… kaget banget sumpah…",
+      "PORTUGUESE": "Ai, que susto...",
+      "SPANISH": "Ay, qué susto...",
+      "PERSIAN": "اوه... این منو ترسوند…"
+    }
+  }
+]

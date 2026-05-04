@@ -1,0 +1,26 @@
+[
+  {
+    "SCRIPT": {
+      "KOREAN": "( 왼쪽으로 간다 – feat.바나나껍질 )",
+      "ENGLISH": "(goes left – feat. banana peel)",
+      "CHINESE_SIMPLIFIED": "（往左走 – feat. 香蕉皮）",
+      "CHINESE_TRADITIONAL": "( 往左走 – feat. 香蕉皮 )",
+      "INDONESIAN": "(jalan ke kiri – ada kulit pisang)",
+      "PORTUGUESE": "(Vá para a esquerda e você encontra uma casca de banana)",
+      "SPANISH": "(Ir a la izquierda y encuentras una cáscara de plátano)",
+      "PERSIAN": "(به سمت چپ می رود - شاهکار پوست موز)"
+    }
+  },
+  {
+    "SCRIPT": {
+      "KOREAN": "( 왼쪽으로 간다 ) ( 오른쪽으로 간다 )",
+      "ENGLISH": "(goes left) (goes right)",
+      "CHINESE_SIMPLIFIED": "（往左走）（往右走）",
+      "CHINESE_TRADITIONAL": "（往左走）（往右走）",
+      "INDONESIAN": "(jalan ke kiri) (jalan ke kanan)",
+      "PORTUGUESE": "(Vá para a esquerda) (Vá para a direita)",
+      "SPANISH": "(Ir a la izquierda) (Ir a la derecha)",
+      "PERSIAN": "(به چپ می رود) (به راست می رود)"
+    }
+  }
+]

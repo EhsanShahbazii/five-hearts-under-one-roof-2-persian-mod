@@ -1,0 +1,91 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "HIDE": 2.0
+    },
+    "SCRIPT": {
+      "KOREAN": "흠~",
+      "ENGLISH": "Hmm~",
+      "CHINESE_SIMPLIFIED": "哼~",
+      "CHINESE_TRADITIONAL": "嗯～",
+      "JAPANESE": "ふむ〜",
+      "INDONESIAN": "Hmm~",
+      "PORTUGUESE": "Hmm~",
+      "SPANISH": "Hmm~",
+      "PERSIAN": "هوم~"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "음~",
+      "ENGLISH": "Mmm~",
+      "CHINESE_SIMPLIFIED": "嗯~",
+      "CHINESE_TRADITIONAL": "唔～",
+      "JAPANESE": "うん〜",
+      "INDONESIAN": "Mmm~",
+      "PORTUGUESE": "Mmm~",
+      "SPANISH": "Mmm~",
+      "PERSIAN": "ممم~"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 11.7
+    },
+    "SCRIPT": {
+      "KOREAN": "오늘은 어제보다 더 괜찮아지셨네",
+      "ENGLISH": "You look better than yesterday.",
+      "CHINESE_SIMPLIFIED": "今天看起来比昨天好些了嘛！",
+      "CHINESE_TRADITIONAL": "今天比昨天好多了",
+      "JAPANESE": "今日は昨日よりずっと元気そうですね",
+      "INDONESIAN": "Kamu udah keliatan lebih baik dari kemaren.",
+      "PORTUGUESE": "Você está melhor do que ontem.",
+      "SPANISH": "Te ves mejor que ayer.",
+      "PERSIAN": "تو بهتر از دیروز به نظر میرسی"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 20.3,
+      "HIDE": 21.1
+    },
+    "SCRIPT": {
+      "KOREAN": "아!",
+      "ENGLISH": "Ah!",
+      "CHINESE_SIMPLIFIED": "啊！",
+      "CHINESE_TRADITIONAL": "啊！",
+      "JAPANESE": "あ！",
+      "INDONESIAN": "Ah!",
+      "PORTUGUESE": "Ah!",
+      "SPANISH": "¡Ah!",
+      "PERSIAN": "آه!"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 38.9,
+      "HIDE": 40.6
+    },
+    "SCRIPT": {
+      "KOREAN": "얼른 나으세요 병원 좀비 ~-~",
+      "ENGLISH": "Get well soon hospital zombie!",
+      "CHINESE_SIMPLIFIED": "快点好起来吧，医院的僵尸先生~",
+      "CHINESE_TRADITIONAL": "快點康復吧～你這個醫院殭屍～！",
+      "JAPANESE": "早く良くなってくださいね、病院ゾンビさん〜",
+      "INDONESIAN": "Cepet sembuh ya zombie rumah sakit!",
+      "PORTUGUESE": "Melhoras, zumbi de hospital!",
+      "SPANISH": "¡Que te mejores, zombi de hospital!",
+      "PERSIAN": "زود خوب شو زامبی بیمارستان!"
+    }
+  }
+]

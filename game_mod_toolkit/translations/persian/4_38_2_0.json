@@ -1,0 +1,38 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.5,
+      "HIDE": 3.2
+    },
+    "SCRIPT": {
+      "KOREAN": "그, 중대장님 아시려나.",
+      "ENGLISH": "I‑I wonder if the company commander knows.",
+      "CHINESE_SIMPLIFIED": "那个…您认识龙焰特勤队的中队长吗？",
+      "CHINESE_TRADITIONAL": "那個，不知道中隊長知不知道",
+      "JAPANESE": "まあ 中隊長さんご存じかな",
+      "INDONESIAN": "A‑aku jadi penasaran, komandan satuan tahu nggak ya.",
+      "PORTUGUESE": "Fico me perguntando se o comandante sabe disso...",
+      "SPANISH": "Me pregunto si el comandante sabrá de esto...",
+      "PERSIAN": "من تعجب می کنم که فرمانده گروهان می داند؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.6,
+      "HIDE": 6.7
+    },
+    "SCRIPT": {
+      "KOREAN": "예전에 아버지 친구 분이어서 가끔 뵙긴 했는데.",
+      "ENGLISH": "I’ve met him a few times before—he was a friend of my father’s.",
+      "CHINESE_SIMPLIFIED": "他是我爸的朋友，以前见过几面",
+      "CHINESE_TRADITIONAL": "以前偶爾有見過我父親的朋友",
+      "JAPANESE": "前に父の友人が時々お会いしてたけど",
+      "INDONESIAN": "Aku pernah ketemu dia beberapa kali...dia temennya ayahku dulu.",
+      "PORTUGUESE": "Costumava vê-lo de vez em quando — ele era amigo do meu pai.",
+      "SPANISH": "Solía verlo de vez en cuando, era amigo de mi padre.",
+      "PERSIAN": "من قبلاً چند بار با او ملاقات کرده ام - او دوست پدرم بود."
+    }
+  }
+]

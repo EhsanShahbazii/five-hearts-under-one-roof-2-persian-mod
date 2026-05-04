@@ -1,0 +1,463 @@
+[
+  {
+    "INDEX": 1,
+    "TIME": {
+      "HIDE": 2.7
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 여기가 그 하숙집이에요? ",
+      "PERSIAN": "آه، این پانسیون است."
+    }
+  },
+  {
+    "INDEX": 2,
+    "TIME": {
+      "SHOW": 3.1,
+      "HIDE": 5.7
+    },
+    "SCRIPT": {
+      "KOREAN": "한 사람마다 한 층씩 쓰는 거예요?",
+      "PERSIAN": "هر نفر از یک طبقه استفاده می کند."
+    }
+  },
+  {
+    "INDEX": 3,
+    "TIME": {
+      "SHOW": 2.5,
+      "HIDE": 3
+    },
+    "SCRIPT": {
+      "KOREAN": "아뇨, 한 층에 많게는 한 세명씩?",
+      "PERSIAN": "نه، حداکثر یک تا سه نفر در هر طبقه."
+    }
+  },
+  {
+    "INDEX": 4,
+    "TIME": {
+      "SHOW": 3.5,
+      "HIDE": 4
+    },
+    "SCRIPT": {
+      "KOREAN": "3명?",
+      "PERSIAN": "3؟"
+    }
+  },
+  {
+    "INDEX": 5,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 5
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 가능해요?",
+      "PERSIAN": "این امکان پذیر است؟"
+    }
+  },
+  {
+    "INDEX": 6,
+    "TIME": {
+      "SHOW": 5.5,
+      "HIDE": 6
+    },
+    "SCRIPT": {
+      "KOREAN": "야. 이 사람 누군데?",
+      "PERSIAN": "سلام. این شخص کیه؟"
+    }
+  },
+  {
+    "INDEX": 7,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7
+    },
+    "SCRIPT": {
+      "KOREAN": "몰라. 나도 오늘 병원에서 처음 봤는데",
+      "PERSIAN": "نمی دونم امروز هم برای اولین بار تو بیمارستان دیدم."
+    }
+  },
+  {
+    "INDEX": 8,
+    "TIME": {
+      "SHOW": 7.5,
+      "HIDE": 8
+    },
+    "SCRIPT": {
+      "KOREAN": "나한테 뭐 빚진 게 있대.",
+      "PERSIAN": "میگه یه چیزی به من بدهکاره"
+    }
+  },
+  {
+    "INDEX": 9,
+    "TIME": {
+      "SHOW": 8.5,
+      "HIDE": 9
+    },
+    "SCRIPT": {
+      "KOREAN": "빚?? 무슨 빚?",
+      "PERSIAN": "تو؟؟ چه بدهی؟"
+    }
+  },
+  {
+    "INDEX": 10,
+    "TIME": {
+      "SHOW": 9.5,
+      "HIDE": 10
+    },
+    "SCRIPT": {
+      "KOREAN": "그게 뭔진 안 알려줘서 나도 모르겠어.",
+      "PERSIAN": "تو به من نگفتی چی بود، پس من نمی دانم."
+    }
+  },
+  {
+    "INDEX": 11,
+    "TIME": {
+      "SHOW": 10.5,
+      "HIDE": 11
+    },
+    "SCRIPT": {
+      "KOREAN": "저기요!",
+      "PERSIAN": "سلام!"
+    }
+  },
+  {
+    "INDEX": 12,
+    "TIME": {
+      "SHOW": 11.5,
+      "HIDE": 12
+    },
+    "SCRIPT": {
+      "KOREAN": "여기 어떻게 오시게 된 거예요?",
+      "PERSIAN": "چطور اومدی اینجا؟"
+    }
+  },
+  {
+    "INDEX": 13,
+    "TIME": {
+      "SHOW": 12.5,
+      "HIDE": 13
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 지나가다가...",
+      "PERSIAN": "همین الان داشتم می گذشتم..."
+    }
+  },
+  {
+    "INDEX": 14,
+    "TIME": {
+      "SHOW": 13.5,
+      "HIDE": 14
+    },
+    "SCRIPT": {
+      "KOREAN": "가볍게 들린 거예요.",
+      "PERSIAN": "به نظر سبک می آمد."
+    }
+  },
+  {
+    "INDEX": 15,
+    "TIME": {
+      "SHOW": 14.5,
+      "HIDE": 15
+    },
+    "SCRIPT": {
+      "KOREAN": "설마... 하숙하러 온 거 아니죠?",
+      "PERSIAN": "هیچی... نیومدی اینجا که بمونی؟"
+    }
+  },
+  {
+    "INDEX": 16,
+    "TIME": {
+      "SHOW": 15.5,
+      "HIDE": 16
+    },
+    "SCRIPT": {
+      "KOREAN": "네?",
+      "PERSIAN": "آیا؟"
+    }
+  },
+  {
+    "INDEX": 17,
+    "TIME": {
+      "SHOW": 16.5,
+      "HIDE": 17
+    },
+    "SCRIPT": {
+      "KOREAN": "제가요?",
+      "PERSIAN": "من؟"
+    }
+  },
+  {
+    "INDEX": 18,
+    "TIME": {
+      "SHOW": 17.5,
+      "HIDE": 18
+    },
+    "SCRIPT": {
+      "KOREAN": "여기서 하숙을 어떻게 해요.",
+      "PERSIAN": "چگونه اینجا بمانم؟"
+    }
+  },
+  {
+    "INDEX": 19,
+    "TIME": {
+      "SHOW": 18.5,
+      "HIDE": 19
+    },
+    "SCRIPT": {
+      "KOREAN": "하. 진짜 아니에요?",
+      "PERSIAN": "زیر واقعا نه؟"
+    }
+  },
+  {
+    "INDEX": 20,
+    "TIME": {
+      "SHOW": 19.5,
+      "HIDE": 20
+    },
+    "SCRIPT": {
+      "KOREAN": "네! 아니에요!",
+      "PERSIAN": "بله نه!"
+    }
+  },
+  {
+    "INDEX": 21,
+    "TIME": {
+      "SHOW": 20.5,
+      "HIDE": 21
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "PERSIAN": "اوه؟"
+    }
+  },
+  {
+    "INDEX": 22,
+    "TIME": {
+      "SHOW": 21.5,
+      "HIDE": 22
+    },
+    "SCRIPT": {
+      "KOREAN": "이거...",
+      "PERSIAN": "این..."
+    }
+  },
+  {
+    "INDEX": 23,
+    "TIME": {
+      "SHOW": 22.5,
+      "HIDE": 23
+    },
+    "SCRIPT": {
+      "KOREAN": "아주 집채로 들고 오셨네.",
+      "PERSIAN": "با خودت آوردی خونه"
+    }
+  },
+  {
+    "INDEX": 24,
+    "TIME": {
+      "SHOW": 23.5,
+      "HIDE": 24
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 이거는 혹시나 해서 챙겨온거에요",
+      "PERSIAN": "آه، من اینو برای هر موردی آوردم."
+    }
+  },
+  {
+    "INDEX": 25,
+    "TIME": {
+      "SHOW": 24.5,
+      "HIDE": 25
+    },
+    "SCRIPT": {
+      "KOREAN": "매일 유만씨 챙겨야될 수도 있으니까요.",
+      "PERSIAN": "چون ممکنه مجبور باشم هر روز از یومان مراقبت کنم."
+    }
+  },
+  {
+    "INDEX": 26,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 26
+    },
+    "SCRIPT": {
+      "KOREAN": "그쪽이 유만이를 왜 챙겨요?",
+      "PERSIAN": "چرا از یومان مراقبت می کنی؟"
+    }
+  },
+  {
+    "INDEX": 27,
+    "TIME": {
+      "SHOW": 26.5,
+      "HIDE": 27
+    },
+    "SCRIPT": {
+      "KOREAN": "그건 말 못할 사정이 좀 있어요. 언니.",
+      "PERSIAN": "شرایطی وجود دارد که نمی توان در مورد اون گفت. خواهر"
+    }
+  },
+  {
+    "INDEX": 28,
+    "TIME": {
+      "SHOW": 27.5,
+      "HIDE": 28
+    },
+    "SCRIPT": {
+      "KOREAN": "언니?",
+      "PERSIAN": "خواهر"
+    }
+  },
+  {
+    "INDEX": 29,
+    "TIME": {
+      "SHOW": 28.5,
+      "HIDE": 29
+    },
+    "SCRIPT": {
+      "KOREAN": "음! 암튼 하숙?",
+      "PERSIAN": "هوم! به هر حال، مسکن؟"
+    }
+  },
+  {
+    "INDEX": 30,
+    "TIME": {
+      "SHOW": 29.5,
+      "HIDE": 30
+    },
+    "SCRIPT": {
+      "KOREAN": "그거 별로 해볼 생각 없었는데",
+      "PERSIAN": "من واقعاً برای انجام این کار برنامه ریزی نداشتم."
+    }
+  },
+  {
+    "INDEX": 31,
+    "TIME": {
+      "SHOW": 30.5,
+      "HIDE": 31
+    },
+    "SCRIPT": {
+      "KOREAN": "그렇게 원하시면 한 번 해볼게요.",
+      "PERSIAN": "اگه خواستی امتحانش میکنم"
+    }
+  },
+  {
+    "INDEX": 32,
+    "TIME": {
+      "SHOW": 31.5,
+      "HIDE": 32
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 안 돼요! ",
+      "PERSIAN": "اوه نه!"
+    }
+  },
+  {
+    "INDEX": 33,
+    "TIME": {
+      "SHOW": 32.5,
+      "HIDE": 33
+    },
+    "SCRIPT": {
+      "KOREAN": "막 하숙하고 싶다고해서",
+      "PERSIAN": "فقط به خاطر همین که می خواستم در پانسیون بمانم"
+    }
+  },
+  {
+    "INDEX": 34,
+    "TIME": {
+      "SHOW": 33.5,
+      "HIDE": 34
+    },
+    "SCRIPT": {
+      "KOREAN": "막 방이 뚝딱 생겨나는 것도 아니고...",
+      "PERSIAN": "اینطوری نیست که یک اتاق بیرون بیاید..."
+    }
+  },
+  {
+    "INDEX": 35,
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 35
+    },
+    "SCRIPT": {
+      "KOREAN": "에이, 안 돼요. 그건.",
+      "PERSIAN": "آه، نه که"
+    }
+  },
+  {
+    "INDEX": 36,
+    "TIME": {
+      "SHOW": 35.5,
+      "HIDE": 36
+    },
+    "SCRIPT": {
+      "KOREAN": "맞아요!",
+      "PERSIAN": "درست است!"
+    }
+  },
+  {
+    "INDEX": 37,
+    "TIME": {
+      "SHOW": 36.5,
+      "HIDE": 37
+    },
+    "SCRIPT": {
+      "KOREAN": "말이 되는 소리를 해야지!",
+      "PERSIAN": "باید چیزی بگی که منطقی باشه!"
+    }
+  },
+  {
+    "INDEX": 38,
+    "TIME": {
+      "SHOW": 37.5,
+      "HIDE": 38
+    },
+    "SCRIPT": {
+      "KOREAN": "그럼! 따블로 드릴게요.",
+      "PERSIAN": "سپس! تابلویی بهت میدم"
+    }
+  },
+  {
+    "INDEX": 39,
+    "TIME": {
+      "SHOW": 38.5,
+      "HIDE": 39
+    },
+    "SCRIPT": {
+      "KOREAN": "어떤 방 쓰시고 싶으세요?",
+      "PERSIAN": "از چه اتاقی می خواهید استفاده کنید؟"
+    }
+  },
+  {
+    "INDEX": 40,
+    "TIME": {
+      "SHOW": 39.5,
+      "HIDE": 40
+    },
+    "SCRIPT": {
+      "KOREAN": "큰 방을 원하시는 거죠?",
+      "PERSIAN": "شما یک اتاق بزرگ می خواهید؟"
+    }
+  },
+  {
+    "INDEX": 41,
+    "TIME": {
+      "SHOW": 40.5,
+      "HIDE": 41
+    },
+    "SCRIPT": {
+      "KOREAN": "네, 다양하게 보여드리겠습니다.",
+      "PERSIAN": "بله، ما به روش های مختلف به شما نشان خواهیم داد."
+    }
+  },
+  {
+    "INDEX": 42,
+    "TIME": {
+      "SHOW": 41.5,
+      "HIDE": 42
+    },
+    "SCRIPT": {
+      "KOREAN": "야!",
+      "PERSIAN": "سلام!"
+    }
+  }
+]

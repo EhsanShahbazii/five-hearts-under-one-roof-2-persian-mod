@@ -1,0 +1,254 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 1.2,
+      "HIDE": 2.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너 튜브 필요해?",
+      "ENGLISH": "Do you need a floatie?",
+      "CHINESE_SIMPLIFIED": "你需要游泳圈吗？",
+      "CHINESE_TRADITIONAL": "你需要游泳圈嗎？",
+      "JAPANESE": "チューブいる？",
+      "INDONESIAN": "Kamu butuh pelampung nggak?",
+      "PORTUGUESE": "Precisa de uma boia?",
+      "SPANISH": "¿Necesitas un flotador?",
+      "PERSIAN": "به یک شناور نیاز دارید؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.7
+    },
+    "SCRIPT": {
+      "KOREAN": "어차피 발 닿지 않아?",
+      "ENGLISH": "You can't touch the bottom of the pool anyway, right?",
+      "CHINESE_SIMPLIFIED": "你脚肯定够的着底啊",
+      "CHINESE_TRADITIONAL": "但腳可以採得到耶？",
+      "JAPANESE": "どうせ足つくでしょ？",
+      "INDONESIAN": "Kamu juga nggak bisa napak di dasar kolam kan?",
+      "PORTUGUESE": "De qualquer jeito, seus pés não alcançam o fundo.",
+      "SPANISH": "De todos modos, tus pies no llegan al fondo.",
+      "PERSIAN": "به هر حال نمی توانید کف استخر را لمس کنید، درست است؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 3.8,
+      "HIDE": 5.5
+    },
+    "SCRIPT": {
+      "KOREAN": "이런 데에서 그냥 타는 거거든?",
+      "ENGLISH": "This is the kind of place where you just ride it for fun.",
+      "CHINESE_SIMPLIFIED": "就是随便漂着玩的呀",
+      "CHINESE_TRADITIONAL": "就這樣直接漂著玩就行了吧？",
+      "JAPANESE": "こういうとこはただ浮かんで乗るもんなんだよ",
+      "INDONESIAN": "Tempat kayak gini tuh emang buat naik pelampung santai-santai aja.",
+      "PORTUGUESE": "As boias existem pra essas situações.",
+      "SPANISH": "Los flotadores existen para estas ocasiones.",
+      "PERSIAN": "این جایی است که شما فقط برای تفریح ​​سوار اون می شوید."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.5,
+      "HIDE": 7.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나 좀 밀어줘 봐.",
+      "ENGLISH": "Can you push me a bit?",
+      "CHINESE_SIMPLIFIED": "推我一把试试",
+      "CHINESE_TRADITIONAL": "幫我推一下看看",
+      "JAPANESE": "ちょっと押してみて",
+      "INDONESIAN": "Dorongin aku dikit, dong?",
+      "PORTUGUESE": "Me empurra.",
+      "SPANISH": "Empújame.",
+      "PERSIAN": "میشه کمی به من فشار بیاری؟"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.0,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "알겠어",
+      "ENGLISH": "Alright.",
+      "CHINESE_SIMPLIFIED": "知道啦",
+      "CHINESE_TRADITIONAL": "知道了",
+      "JAPANESE": "わかった",
+      "INDONESIAN": "Oke.",
+      "PORTUGUESE": "Tá bom.",
+      "SPANISH": "Está bien.",
+      "PERSIAN": "باشه"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.0,
+      "HIDE": 14.0
+    },
+    "SCRIPT": {
+      "KOREAN": "뭐지? 너 발 안 씻었어?",
+      "ENGLISH": "Wait—did you not wash your feet?",
+      "CHINESE_SIMPLIFIED": "什么啊？你没洗脚吗？",
+      "CHINESE_TRADITIONAL": "搞什麼？你沒洗腳嗎？",
+      "JAPANESE": "なにこれ？ 足洗ってないの？",
+      "INDONESIAN": "Eh—kamu belum cuci kaki ya?",
+      "PORTUGUESE": "O que é isso? Você não lavou os pés?",
+      "SPANISH": "¿Qué es eso? ¿No te lavaste los pies?",
+      "PERSIAN": "صبر کن - پاهایت را نشویید؟"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.4,
+      "HIDE": 16.9
+    },
+    "SCRIPT": {
+      "KOREAN": "응 물에 들어오는데 왜 씻어 ",
+      "ENGLISH": "Nope. I’m getting in the water anyway, so what’s the point?",
+      "CHINESE_SIMPLIFIED": "都要进水里了干嘛要洗",
+      "CHINESE_TRADITIONAL": "都要下水了幹嘛洗",
+      "JAPANESE": "うん 水入るのに洗う意味ある？",
+      "INDONESIAN": "Belum. Toh aku mau nyebur juga, jadi ngapain?",
+      "PORTUGUESE": "Se eu vou entrar na água mesmo, pra quê?",
+      "SPANISH": "Si igual voy a meterme al agua, ¿para qué?",
+      "PERSIAN": "نه من به هر حال وارد آب می شوم، پس چه فایده ای دارد؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.0,
+      "HIDE": 20.3
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 그래. 내가 당연한 걸 물었네.",
+      "ENGLISH": "Ha, right. Guess that was a dumb question.",
+      "CHINESE_SIMPLIFIED": "哈，也是，我问了句废话",
+      "CHINESE_TRADITIONAL": "哈，也是。我問了句廢話",
+      "JAPANESE": "はぁ… そうだね 俺が変なこと聞いたわ",
+      "INDONESIAN": "Haha, iya juga sih. Pertanyaanku agak bodoh, ya.",
+      "PORTUGUESE": "Ha… é, foi uma pergunta boba.",
+      "SPANISH": "Ja… claro, fue una pregunta tonta.",
+      "PERSIAN": "ها، درسته حدس بزنید سوال احمقانه ای بود"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 21.4,
+      "HIDE": 22.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아!",
+      "ENGLISH": "Ah!",
+      "CHINESE_SIMPLIFIED": "啊！",
+      "CHINESE_TRADITIONAL": "啊！",
+      "JAPANESE": "あっ！",
+      "INDONESIAN": "Ah!",
+      "PORTUGUESE": "Ah!",
+      "SPANISH": "¡Ah!",
+      "PERSIAN": "آه!"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 22.3,
+      "HIDE": 23.3
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 뭐해!",
+      "ENGLISH": "Hey—what was that for?!",
+      "CHINESE_SIMPLIFIED": "啊，干嘛啦！",
+      "CHINESE_TRADITIONAL": "啊！幹嘛！",
+      "JAPANESE": "あ 何すんだよ！",
+      "INDONESIAN": "Heh—itu tadi kenapa, hah?!",
+      "PORTUGUESE": "Ei, o que você tá fazendo?!",
+      "SPANISH": "¡Oye, ¿qué haces?!",
+      "PERSIAN": "هی-این برای چی بود؟!"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 23.4,
+      "HIDE": 25.3
+    },
+    "SCRIPT": {
+      "KOREAN": "왜~ 왜~!",
+      "ENGLISH": "What~ What~?",
+      "CHINESE_SIMPLIFIED": "怎么~怎么~！",
+      "CHINESE_TRADITIONAL": "怎麼了～怎麼了～！",
+      "JAPANESE": "なんで〜なんで〜！",
+      "INDONESIAN": "Apa~ Apa~?",
+      "PORTUGUESE": "O quê~?! O que foi~?!",
+      "SPANISH": "¡¿Qué~?! ¡¿Qué pasa~?!",
+      "PERSIAN": "چی ~ چی ~؟"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.4,
+      "HIDE": 27.5
+    },
+    "SCRIPT": {
+      "KOREAN": "아이씨, 네가 먼저 시작했다? 간다?",
+      "ENGLISH": "Seriously? You started it, okay? Here I come!",
+      "CHINESE_SIMPLIFIED": "阿西，是你先动手的吧？要玩是吧？",
+      "CHINESE_TRADITIONAL": "喂，是你先開始的喔？要玩是吧？",
+      "JAPANESE": "おい！お前が先に仕掛けたんだからな？ 行くぞ？",
+      "INDONESIAN": "Serius? Kamu yang mulai, ya! Sini aku balas!",
+      "PORTUGUESE": "Você começou, hein? Lá vou eu!",
+      "SPANISH": "Tú empezaste, ¿eh? ¡Allá voy!",
+      "PERSIAN": "جدی؟ تو شروع کردی، باشه؟ اینجا من اومدم!"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 27.7,
+      "HIDE": 29.2
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 아 알았어 미안해 안 그럴게 ",
+      "ENGLISH": "Ah—okay, okay! I’m sorry!",
+      "CHINESE_SIMPLIFIED": "啊，啊知道啦对不起，不闹了",
+      "CHINESE_TRADITIONAL": "啊，啊！知道了啦，對不起，我不會再這樣了",
+      "JAPANESE": "あっ あっごめん！もうしないから！",
+      "INDONESIAN": "Ah—oke, oke! Maaf!",
+      "PORTUGUESE": "Ah, ah, tá bom, desculpa, não vou fazer de novo.",
+      "SPANISH": "Ah, ah, está bien, perdón, no lo vuelvo a hacer.",
+      "PERSIAN": "آه - باشه، باشه! متاسفم!"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 29.3,
+      "HIDE": 32.0
+    },
+    "SCRIPT": {
+      "KOREAN": "미안해",
+      "ENGLISH": "I won’t do it again, I swear. Sorry!",
+      "CHINESE_SIMPLIFIED": "对不起啦",
+      "CHINESE_TRADITIONAL": "對不起啦",
+      "JAPANESE": "ごめんって",
+      "INDONESIAN": "Aku nggak bakal ngelakuin lagi, sumpah. Maaf ya!",
+      "PORTUGUESE": "Desculpa…",
+      "SPANISH": "Perdón…",
+      "PERSIAN": "من دیگر این کار را نمی کنم، قسم می خورم. متاسفم!"
+    }
+  }
+]

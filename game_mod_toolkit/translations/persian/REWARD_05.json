@@ -1,0 +1,268 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.4,
+      "HIDE": 1.7
+    },
+    "SCRIPT": {
+      "KOREAN": "은경이 이모 만났지?",
+      "ENGLISH": "You saw Aunt Eun-Kyung, right?",
+      "CHINESE_TRADITIONAL": "你看到恩靜阿姨了嗎？",
+      "INDONESIAN": "Kamu ketemu Tante Eun-Kyung, kan?",
+      "PERSIAN": "عمه یون کیونگ رو دیدی، درسته؟"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.3,
+      "HIDE": 3.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아, 오늘은 온다메 ",
+      "ENGLISH": "She said she was gonna come today!",
+      "CHINESE_TRADITIONAL": "哦，不是說今天會來嗎？",
+      "INDONESIAN": "Katanya hari ini dia datang.",
+      "PERSIAN": "گفت امروز میاد!"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.4,
+      "HIDE": 6.2
+    },
+    "SCRIPT": {
+      "KOREAN": "다른애들 엄마는 다 왔단 말이야",
+      "ENGLISH": "All the other moms showed up already!",
+      "CHINESE_TRADITIONAL": "其他孩子的媽媽都來了",
+      "INDONESIAN": "Ibu-ibu lain udah pada datang semua loh!",
+      "PERSIAN": "تمام مادران دیگر قبلاً ظاهر شده بودند!"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 6.3,
+      "HIDE": 7.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아 미안해~",
+      "ENGLISH": "Ah, I’m sorry~",
+      "CHINESE_TRADITIONAL": "啊，抱歉...",
+      "INDONESIAN": "Ah, maaf ya~",
+      "PERSIAN": "آه، متاسفم~"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 7.9,
+      "HIDE": 10.3
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마도 일이 갑자기 생겨서 그래 어~!",
+      "ENGLISH": "Something came up inwork, you know how it is~!",
+      "CHINESE_TRADITIONAL": "媽媽也是突然有事才這樣",
+      "INDONESIAN": "Mama juga tiba-tiba ada kerjaan, ngerti dong~",
+      "PERSIAN": "چیزی در کار آمد، می دانید که چطوره~!"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 10.4,
+      "HIDE": 11.4
+    },
+    "SCRIPT": {
+      "KOREAN": "알았어...",
+      "ENGLISH": "...Okay.",
+      "CHINESE_TRADITIONAL": "知道了...",
+      "INDONESIAN": "...Ya udah deh.",
+      "PERSIAN": "... باشه."
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 14.9,
+      "HIDE": 16.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 안오고 뭐해",
+      "ENGLISH": "Hey, why are you just standing there?",
+      "CHINESE_TRADITIONAL": "你站在那邊幹嘛，快過來啊",
+      "INDONESIAN": "Eh, kamu ngapain diem aja?",
+      "PERSIAN": "هی، چرا فقط اونجا ایستاده ای؟"
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 17.3,
+      "HIDE": 18.4
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마가 사진 찍게 오래.",
+      "ENGLISH": "Come on, Mom wants to take a picture.",
+      "CHINESE_TRADITIONAL": "我嗎叫你過來拍照",
+      "INDONESIAN": "Mama mau foto dulu nih.",
+      "PERSIAN": "بیا مامان میخواد عکس بگیره"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 19.0,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어...",
+      "ENGLISH": "Uh...",
+      "CHINESE_TRADITIONAL": "喔...",
+      "INDONESIAN": "Uh...",
+      "PERSIAN": "اوه..."
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 21.0,
+      "HIDE": 22.5
+    },
+    "SCRIPT": {
+      "KOREAN": "엄마 아빠는?",
+      "ENGLISH": "Where’s Mom and Dad?",
+      "CHINESE_TRADITIONAL": "你爸媽呢？",
+      "INDONESIAN": "Mama sama Papa mana?",
+      "PERSIAN": "مامان و بابا کجان؟"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 22.9,
+      "HIDE": 25.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아휴... 내가 묻고싶다",
+      "ENGLISH": "Sigh..Don’t ask me, I should be asking you!",
+      "CHINESE_TRADITIONAL": "唉...我也想知道",
+      "INDONESIAN": "Haduuh... itu justru aku yang pengen nanya.",
+      "PERSIAN": "آه..از من نپرس، من باید از تو بپرسم!"
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 25.5,
+      "HIDE": 28.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아휴~ 너네아빠 또 어디갔니!",
+      "ENGLISH": "Sigh...Where did your dad go to this time?",
+      "CHINESE_TRADITIONAL": "哎～你爸爸又跑哪去了！",
+      "INDONESIAN": "Aduh, Papa kamu ke mana lagi sih!",
+      "PERSIAN": "آه ... پدرت این بار کجا رفت؟"
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 28.1,
+      "HIDE": 28.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아휴~",
+      "ENGLISH": "Ugh~",
+      "CHINESE_TRADITIONAL": "哎呀～",
+      "INDONESIAN": "Aduh~",
+      "PERSIAN": "اوه~"
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.9,
+      "HIDE": 30.2
+    },
+    "SCRIPT": {
+      "KOREAN": "너네 좀더 붙어봐",
+      "ENGLISH": "You two, come here a little.",
+      "CHINESE_TRADITIONAL": "你們兩個再靠近一點",
+      "INDONESIAN": "Coba deketan dikit, kalian~",
+      "PERSIAN": "شما دوتا یه کم بیاین اینجا"
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 30.6,
+      "HIDE": 34.0
+    },
+    "SCRIPT": {
+      "KOREAN": "아흐~ 말숙이 오늘 너무 이쁘다~",
+      "ENGLISH": "Aww, Malsook, you look so pretty today~",
+      "CHINESE_TRADITIONAL": "哇～末淑今天真漂亮呢～",
+      "INDONESIAN": "Aduuh~ Malsook cantik banget hari ini~",
+      "PERSIAN": "اوه، مال‌سوک، تو امروز خیلی زیبا به نظر میرسی~"
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 34.5,
+      "HIDE": 35.5
+    },
+    "SCRIPT": {
+      "KOREAN": "찍을게!",
+      "ENGLISH": "Alright, smile!",
+      "CHINESE_TRADITIONAL": "要拍囉！",
+      "INDONESIAN": "Oke, aku foto ya!",
+      "PERSIAN": "باشه، لبخند بزن!"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 36.0,
+      "HIDE": 38.4
+    },
+    "SCRIPT": {
+      "KOREAN": "후딱 찍고 떡볶이 먹으러 갈래?",
+      "ENGLISH": "Wanna grab some tteokbokki after this?",
+      "CHINESE_TRADITIONAL": "快點拍完去吃辣炒年糕吧？",
+      "INDONESIAN": "Abis ini mau cepet-cepet makan tteokbokki nggak?",
+      "PERSIAN": "می خواهید بعد از این مقداری دوکبوکی بگیرید؟"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 38.8,
+      "HIDE": 39.6
+    },
+    "SCRIPT": {
+      "KOREAN": "어?",
+      "ENGLISH": "Huh?",
+      "CHINESE_TRADITIONAL": "嗯",
+      "INDONESIAN": "Hah?",
+      "PERSIAN": "ها؟"
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 43.5,
+      "HIDE": 45.0
+    },
+    "SCRIPT": {
+      "KOREAN": "하나, 둘!",
+      "ENGLISH": "One, two—cheese!\"",
+      "CHINESE_TRADITIONAL": "一、二、三！",
+      "INDONESIAN": "Satu... dua~!",
+      "PERSIAN": "یک، دو - پنیر!\""
+    }
+  }
+]

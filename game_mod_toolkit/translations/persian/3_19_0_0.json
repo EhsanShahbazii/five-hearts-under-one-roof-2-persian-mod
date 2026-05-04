@@ -1,0 +1,56 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 6.1,
+      "HIDE": 7.4
+    },
+    "SCRIPT": {
+      "KOREAN": "어...! 찾은 거 같아요 ",
+      "ENGLISH": "Oh...! I think that’s her.",
+      "CHINESE_SIMPLIFIED": "啊...！好像找到了",
+      "CHINESE_TRADITIONAL": "啊...！好像找到了",
+      "JAPANESE": "おっ！ 見つけたかも",
+      "INDONESIAN": "Oh...! Kurasa itu dia.",
+      "PORTUGUESE": "Oh...!! Acho que encontrei.",
+      "SPANISH": "¡¡Oh...!! Creo que la encontré.",
+      "PERSIAN": "اوه...! من فکر می کنم او است."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 7.8,
+      "HIDE": 9.0
+    },
+    "SCRIPT": {
+      "KOREAN": "저분이에요?",
+      "ENGLISH": "That person?",
+      "CHINESE_SIMPLIFIED": "是那位吗？",
+      "CHINESE_TRADITIONAL": "是那個人嗎？",
+      "JAPANESE": "あの人ですか？",
+      "INDONESIAN": "Orang itu?",
+      "PORTUGUESE": "A garota?",
+      "SPANISH": "¿A la chica?",
+      "PERSIAN": "اون شخص؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 9.4,
+      "HIDE": 10.2
+    },
+    "SCRIPT": {
+      "KOREAN": "네",
+      "ENGLISH": "Yeah.",
+      "CHINESE_SIMPLIFIED": "嗯",
+      "CHINESE_TRADITIONAL": "嗯",
+      "JAPANESE": "はい",
+      "INDONESIAN": "Ya.",
+      "PORTUGUESE": "Sim.",
+      "SPANISH": "Sí.",
+      "PERSIAN": "آره"
+    }
+  }
+]

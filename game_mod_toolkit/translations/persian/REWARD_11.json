@@ -1,0 +1,650 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.76,
+      "HIDE": 3.32
+    },
+    "SCRIPT": {
+      "KOREAN": "우리 30살까지 솔로면 결혼하자는 말",
+      "ENGLISH": "The promise, “If we’re still single at 30, let’s get married.”",
+      "CHINESE_SIMPLIFIED": "“要是我们到30岁都还单身，就结婚吧”这句话",
+      "CHINESE_TRADITIONAL": "我們說過如果三十歲還單身就結婚。",
+      "JAPANESE": "「30歳までに独身だったら結婚しよう」って言葉。",
+      "INDONESIAN": "Ucapan “kalau masih jomblo umur 30, kita nikah ya.”",
+      "PORTUGUESE": "A promessa de “se estivermos solteiros aos 30, casamos.”",
+      "SPANISH": "La promesa de “si seguimos solteros a los 30, nos casamos.”",
+      "PERSIAN": "قول: \"اگر در 30 سالگی هنوز مجردیم، بیایید ازدواج کنیم.\""
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 3.32,
+      "HIDE": 4.92
+    },
+    "SCRIPT": {
+      "KOREAN": "“우정이다 vs 사랑이다”",
+      "ENGLISH": "“Friendship or love.”",
+      "CHINESE_SIMPLIFIED": "“是友情呢？ vs 是爱情呢？”",
+      "CHINESE_TRADITIONAL": "「是友情還是愛情。」",
+      "JAPANESE": "「友情？それとも愛？」",
+      "INDONESIAN": "“Persahabatan atau cinta.”",
+      "PORTUGUESE": "“Amizade ou amor.”",
+      "SPANISH": "“¿Amistad o amor?”",
+      "PERSIAN": "\"دوستی یا عشق.\""
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.92,
+      "HIDE": 5.62
+    },
+    "SCRIPT": {
+      "KOREAN": "우정",
+      "ENGLISH": "Friendship.",
+      "CHINESE_SIMPLIFIED": "是友情",
+      "CHINESE_TRADITIONAL": "友情。",
+      "JAPANESE": "友情です。",
+      "INDONESIAN": "Persahabatan.",
+      "PORTUGUESE": "Amizade.",
+      "SPANISH": "Amistad.",
+      "PERSIAN": "دوستی"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 5.62,
+      "HIDE": 8.08
+    },
+    "SCRIPT": {
+      "KOREAN": "제가 너무 많이 하고 다닌 말이라서",
+      "ENGLISH": "I’ve said that way too many times.",
+      "CHINESE_SIMPLIFIED": "因为这话我跟太多人都说过了",
+      "CHINESE_TRADITIONAL": "因為這句話我說得太多了。",
+      "JAPANESE": "この言葉、私が言いすぎたんです。",
+      "INDONESIAN": "Aku sering banget ngomong itu.",
+      "PORTUGUESE": "Eu dizia isso o tempo todo.",
+      "SPANISH": "Lo digo demasiado.",
+      "PERSIAN": "من اینو بارها گفته ام"
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 8.08,
+      "HIDE": 8.72
+    },
+    "SCRIPT": {
+      "KOREAN": "우정이에요",
+      "ENGLISH": "It’s friendship.",
+      "CHINESE_SIMPLIFIED": "所以是友情",
+      "CHINESE_TRADITIONAL": "是友情。",
+      "JAPANESE": "友情ですよ。",
+      "INDONESIAN": "Ini persahabatan.",
+      "PORTUGUESE": "É amizade.",
+      "SPANISH": "Es amistad.",
+      "PERSIAN": "دوستی است"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 8.72,
+      "HIDE": 10.04
+    },
+    "SCRIPT": {
+      "KOREAN": "사랑 아닙니다",
+      "ENGLISH": "Not love.",
+      "CHINESE_SIMPLIFIED": "不是爱情",
+      "CHINESE_TRADITIONAL": "不是愛情。",
+      "JAPANESE": "愛じゃありません。",
+      "INDONESIAN": "Bukan cinta.",
+      "PORTUGUESE": "Não é amor.",
+      "SPANISH": "No es amor.",
+      "PERSIAN": "نه عشق"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 10.04,
+      "HIDE": 13.68
+    },
+    "SCRIPT": {
+      "KOREAN": "이거는 서른 살까지 솔로면 결혼하자는 말 우정입니다",
+      "ENGLISH": "That “let’s marry at 30” line is just friendship.",
+      "CHINESE_SIMPLIFIED": "这完全就是“三十岁还单身就凑合结婚”的友情",
+      "CHINESE_TRADITIONAL": "這句「三十歲還單身就結婚」只是友情。",
+      "JAPANESE": "この“30歳まで独身なら結婚しよう”は友情の話です。",
+      "INDONESIAN": "Kalimat ‘kalau masih jomblo umur 30 nikah’ cuma bercanda.",
+      "PORTUGUESE": "“Casar aos 30 se solteiros” é só amizade.",
+      "SPANISH": "“Casarnos si seguimos solteros a los 30” es solo amistad.",
+      "PERSIAN": "این جمله \"بیا در 30 سالگی ازدواج کنیم\" فقط دوستی است."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 13.68,
+      "HIDE": 15.36
+    },
+    "SCRIPT": {
+      "KOREAN": "그냥 하는 말이에요",
+      "ENGLISH": "Just something I said.",
+      "CHINESE_SIMPLIFIED": "只是随口说说的",
+      "CHINESE_TRADITIONAL": "只是隨口說說而已。",
+      "JAPANESE": "ただの冗談です。",
+      "INDONESIAN": "Cuma ngomong aja.",
+      "PORTUGUESE": "Só falei por falar.",
+      "SPANISH": "Solo lo dije por decir.",
+      "PERSIAN": "فقط یه چیزی که گفتم"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 16.68,
+      "HIDE": 17.84
+    },
+    "SCRIPT": {
+      "KOREAN": "착각한 거 아니지",
+      "ENGLISH": "You didn’t misunderstand, right.",
+      "CHINESE_SIMPLIFIED": "你该不会误会了吧？",
+      "CHINESE_TRADITIONAL": "你不會誤會吧。",
+      "JAPANESE": "勘違いしてないよね。",
+      "INDONESIAN": "Kamu nggak salah paham kan.",
+      "PORTUGUESE": "Você não entendeu errado, né.",
+      "SPANISH": "¿No lo malinterpretaste, verdad?",
+      "PERSIAN": "اشتباه متوجه نشدی درسته"
+    }
+  },
+  {
+    "INDEX": 10.0,
+    "TIME": {
+      "SHOW": 18.92,
+      "HIDE": 19.6
+    },
+    "SCRIPT": {
+      "KOREAN": "더 최악인 건",
+      "ENGLISH": "The worse one is.",
+      "CHINESE_SIMPLIFIED": "哪一个更糟糕？",
+      "CHINESE_TRADITIONAL": "更糟的是。",
+      "JAPANESE": "もっと最悪なのは。",
+      "INDONESIAN": "Yang lebih parah.",
+      "PORTUGUESE": "O pior é.",
+      "SPANISH": "Lo peor es.",
+      "PERSIAN": "بدترش اینه"
+    }
+  },
+  {
+    "INDEX": 11.0,
+    "TIME": {
+      "SHOW": 19.6,
+      "HIDE": 22.88
+    },
+    "SCRIPT": {
+      "KOREAN": "“남친이 전 여친과 1박 2일 vs 남친이 여사친과 1박2일”",
+      "ENGLISH": "“Boyfriend spends two days with ex vs boyfriend spends two days with female friend.”",
+      "CHINESE_SIMPLIFIED": "“男友和前女友过夜旅行 vs 男友和女闺蜜过夜旅行”",
+      "CHINESE_TRADITIONAL": "「男朋友和前女友去兩天一夜 vs 男朋友和女性朋友去兩天一夜。」",
+      "JAPANESE": "「彼氏が元カノと一泊二日 vs 彼氏が女友達と一泊二日」。",
+      "INDONESIAN": "“Pacar dua hari sama mantan vs pacar dua hari sama teman cewek.”",
+      "PORTUGUESE": "“Namorado dois dias com ex vs namorado dois dias com amiga mulher.”",
+      "SPANISH": "“Novio dos días con ex vs novio dos días con amiga mujer.”",
+      "PERSIAN": "\"دوست پسر دو روز را با دوست سابق می گذراند در مقابل دوست پسر دو روز را با دوست زن می گذراند.\""
+    }
+  },
+  {
+    "INDEX": 12.0,
+    "TIME": {
+      "SHOW": 22.88,
+      "HIDE": 25.28
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 둘 다 헤어질 거긴 하거든요",
+      "ENGLISH": "Either way, we’d break up.",
+      "CHINESE_SIMPLIFIED": "反正两种情况我都会分手啦",
+      "CHINESE_TRADITIONAL": "無論哪一個最後都會分手。",
+      "JAPANESE": "どっちにしても別れるんだけど。",
+      "INDONESIAN": "Dua-duanya pasti putus.",
+      "PORTUGUESE": "De qualquer forma, vai terminar.",
+      "SPANISH": "En ambos casos se termina.",
+      "PERSIAN": "در هر صورت، ما از هم جدا می شویم."
+    }
+  },
+  {
+    "INDEX": 13.0,
+    "TIME": {
+      "SHOW": 25.28,
+      "HIDE": 28.16
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 최악인 거는 “여사친과 1박 2일”일 것 같아요",
+      "ENGLISH": "But the worst is “with the female friend.”",
+      "CHINESE_SIMPLIFIED": "但更糟的应该是“和女闺蜜过夜旅行”",
+      "CHINESE_TRADITIONAL": "但最糟的應該是「和女性朋友去兩天一夜」。",
+      "JAPANESE": "一番最悪なのは「女友達と一泊二日」。",
+      "INDONESIAN": "Tapi yang paling parah adalah “teman cewek dua hari satu malam.”",
+      "PORTUGUESE": "Mas o pior é “com amiga mulher.”",
+      "SPANISH": "Pero lo peor es “con la amiga.”",
+      "PERSIAN": "اما بدترین \"با دوست زن\" است."
+    }
+  },
+  {
+    "INDEX": 14.0,
+    "TIME": {
+      "SHOW": 28.16,
+      "HIDE": 30.92
+    },
+    "SCRIPT": {
+      "KOREAN": "왜냐면 전 여친과 1박 2일은 미친놈이네",
+      "ENGLISH": "If it’s with the ex, he’s crazy.",
+      "CHINESE_SIMPLIFIED": "因为和前女友过夜那是明摆着的渣男",
+      "CHINESE_TRADITIONAL": "因為和前女友去兩天一夜的是瘋子。",
+      "JAPANESE": "元カノと一泊二日は狂ってる。",
+      "INDONESIAN": "Kalau sama mantan, dia gila.",
+      "PORTUGUESE": "Com a ex é um louco.",
+      "SPANISH": "Con la ex es un loco.",
+      "PERSIAN": "اگر با سابق باشد، او دیوانه است."
+    }
+  },
+  {
+    "INDEX": 15.0,
+    "TIME": {
+      "SHOW": 30.92,
+      "HIDE": 32.84
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 여사친과 1박 2일이면 미친놈이었잖아?",
+      "ENGLISH": "If it’s with the friend, he’s the kind of crazy you realize later.",
+      "CHINESE_SIMPLIFIED": "但和女闺蜜过夜的话，岂不是一直被蒙在鼓里之后才发现是渣男？",
+      "CHINESE_TRADITIONAL": "但和女性朋友去兩天一夜的是後來才發現是瘋子。",
+      "JAPANESE": "でも女友達と一泊二日は後で気づく狂人。",
+      "INDONESIAN": "Kalau sama teman cewek, gilanya baru ketahuan belakangan.",
+      "PORTUGUESE": "Com a amiga, é um louco disfarçado.",
+      "SPANISH": "Con la amiga, es un loco disfrazado.",
+      "PERSIAN": "اگر با دوست باشد، او همون دیوانه‌ای است که بعداً متوجه می‌شین."
+    }
+  },
+  {
+    "INDEX": 16.0,
+    "TIME": {
+      "SHOW": 32.84,
+      "HIDE": 33.72
+    },
+    "SCRIPT": {
+      "KOREAN": "이거라서",
+      "ENGLISH": "So yeah.",
+      "CHINESE_SIMPLIFIED": "所以想想看",
+      "CHINESE_TRADITIONAL": "所以啊。",
+      "JAPANESE": "だからね。",
+      "INDONESIAN": "Makanya.",
+      "PORTUGUESE": "Por isso.",
+      "SPANISH": "Por eso.",
+      "PERSIAN": "پس آره"
+    }
+  },
+  {
+    "INDEX": 17.0,
+    "TIME": {
+      "SHOW": 33.72,
+      "HIDE": 35.52
+    },
+    "SCRIPT": {
+      "KOREAN": "아무래도 여사친과 1박2일은",
+      "ENGLISH": "Spending two days with a female friend.",
+      "CHINESE_SIMPLIFIED": "和女闺蜜过夜这种事",
+      "CHINESE_TRADITIONAL": "果然和女性朋友去兩天一夜。",
+      "JAPANESE": "やっぱり女友達と一泊二日は。",
+      "INDONESIAN": "Teman cewek dua hari satu malam itu.",
+      "PORTUGUESE": "“Dois dias com amiga mulher.”",
+      "SPANISH": "“Dos días con la amiga.”",
+      "PERSIAN": "گذراندن دو روز با یک دوست زن"
+    }
+  },
+  {
+    "INDEX": 18.0,
+    "TIME": {
+      "SHOW": 35.52,
+      "HIDE": 37.6
+    },
+    "SCRIPT": {
+      "KOREAN": "나중에서야 미친놈인 걸 깨닫는 거기 때문에",
+      "ENGLISH": "Is when you realize later he was insane.",
+      "CHINESE_SIMPLIFIED": "是要事后才能醒悟遇到他渣的",
+      "CHINESE_TRADITIONAL": "是那種後來才意識到他瘋了的人。",
+      "JAPANESE": "後から「あ、やっぱり狂ってた」って気づくタイプだから。",
+      "INDONESIAN": "Baru sadar belakangan kalau dia gila.",
+      "PORTUGUESE": "Percebe-se depois que ele é louco.",
+      "SPANISH": "Te das cuenta tarde de que está loco.",
+      "PERSIAN": "زمانی است که بعداً متوجه می شوید که او دیوانه بوده است."
+    }
+  },
+  {
+    "INDEX": 19.0,
+    "TIME": {
+      "SHOW": 37.6,
+      "HIDE": 38.72
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 더 안 좋은 것 같고",
+      "ENGLISH": "That’s worse.",
+      "CHINESE_SIMPLIFIED": "这样更让人憋屈",
+      "CHINESE_TRADITIONAL": "我覺得那更糟。",
+      "JAPANESE": "それが一番最悪だと思う。",
+      "INDONESIAN": "Itu yang lebih parah.",
+      "PORTUGUESE": "Isso é pior.",
+      "SPANISH": "Eso es peor.",
+      "PERSIAN": "این بدتر است."
+    }
+  },
+  {
+    "INDEX": 20.0,
+    "TIME": {
+      "SHOW": 38.72,
+      "HIDE": 39.68
+    },
+    "SCRIPT": {
+      "KOREAN": "어쨌든",
+      "ENGLISH": "Anyway.",
+      "CHINESE_SIMPLIFIED": "总之",
+      "CHINESE_TRADITIONAL": "總之。",
+      "JAPANESE": "とにかく。",
+      "INDONESIAN": "Pokoknya.",
+      "PORTUGUESE": "Enfim.",
+      "SPANISH": "De todas formas.",
+      "PERSIAN": "به هر حال."
+    }
+  },
+  {
+    "INDEX": 21.0,
+    "TIME": {
+      "SHOW": 39.68,
+      "HIDE": 40.68
+    },
+    "SCRIPT": {
+      "KOREAN": "둘 다 헤어질 거고",
+      "ENGLISH": "We’d break up either way.",
+      "CHINESE_SIMPLIFIED": "横竖都是分手",
+      "CHINESE_TRADITIONAL": "都會分手。",
+      "JAPANESE": "どっちみち別れる。",
+      "INDONESIAN": "Dua-duanya bakal putus.",
+      "PORTUGUESE": "Vai acabar do mesmo jeito.",
+      "SPANISH": "Terminaría igual.",
+      "PERSIAN": "در هر صورت از هم جدا می شدیم"
+    }
+  },
+  {
+    "INDEX": 22.0,
+    "TIME": {
+      "SHOW": 40.68,
+      "HIDE": 43.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어차피 이제는 저랑 상관없는 사람이기 되기 때문에",
+      "ENGLISH": "He’s not my problem anymore.",
+      "CHINESE_SIMPLIFIED": "反正无论如何他以后都与我无关了",
+      "CHINESE_TRADITIONAL": "反正他已經和我沒關係了。",
+      "JAPANESE": "もう私とは関係ない人になるから。",
+      "INDONESIAN": "Dia juga udah bukan siapa-siapa buatku.",
+      "PORTUGUESE": "Ele não tem mais nada a ver comigo.",
+      "SPANISH": "Ya no tiene nada que ver conmigo.",
+      "PERSIAN": "او دیگر مشکل من نیست."
+    }
+  },
+  {
+    "INDEX": 23.0,
+    "TIME": {
+      "SHOW": 44.16,
+      "HIDE": 46.04
+    },
+    "SCRIPT": {
+      "KOREAN": "살인도 되면 할 수 있으면 좋을 텐데",
+      "ENGLISH": "If murder were legal.",
+      "CHINESE_SIMPLIFIED": "要是杀人不犯法，我可能真的会考虑哦",
+      "CHINESE_TRADITIONAL": "如果殺人不犯法就好了。",
+      "JAPANESE": "殺人が合法だったらいいのに。",
+      "INDONESIAN": "Andai membunuh itu nggak ilegal.",
+      "PORTUGUESE": "Se matar fosse legal.",
+      "SPANISH": "Si matar fuera legal.",
+      "PERSIAN": "اگر قتل قانونی بود"
+    }
+  },
+  {
+    "INDEX": 24.0,
+    "TIME": {
+      "SHOW": 46.04,
+      "HIDE": 47.6
+    },
+    "SCRIPT": {
+      "KOREAN": "더 최악인 건",
+      "ENGLISH": "Even worse.",
+      "CHINESE_SIMPLIFIED": "哪一个更糟糕？",
+      "CHINESE_TRADITIONAL": "更糟的是。",
+      "JAPANESE": "さらに最悪なのは。",
+      "INDONESIAN": "Yang lebih parah.",
+      "PORTUGUESE": "Pior ainda.",
+      "SPANISH": "Peor aún.",
+      "PERSIAN": "حتی بدتر."
+    }
+  },
+  {
+    "INDEX": 25.0,
+    "TIME": {
+      "SHOW": 47.6,
+      "HIDE": 49.32
+    },
+    "SCRIPT": {
+      "KOREAN": "“잠수 이별vs 환승 이별”",
+      "ENGLISH": "“Ghosting vs rebound breakup.”",
+      "CHINESE_SIMPLIFIED": "“冷暴力分手 vs 被无缝衔接分手”",
+      "CHINESE_TRADITIONAL": "「消失分手 vs 轉乘分手。」",
+      "JAPANESE": "「自然消滅 vs 乗り換え別れ」。",
+      "INDONESIAN": "“Ghosting vs pindah ke orang lain.”",
+      "PORTUGUESE": "“Término sumiço vs término por troca.”",
+      "SPANISH": "“Desaparecer vs cambiar por otro.”",
+      "PERSIAN": "\"شکست ارواح در مقابل ریباند.\""
+    }
+  },
+  {
+    "INDEX": 26.0,
+    "TIME": {
+      "SHOW": 49.32,
+      "HIDE": 51.76
+    },
+    "SCRIPT": {
+      "KOREAN": "최악은 아무래도 잠수 이별이 최악이죠",
+      "ENGLISH": "The worst is ghosting.",
+      "CHINESE_SIMPLIFIED": "最糟的当然是冷暴力分手啊",
+      "CHINESE_TRADITIONAL": "最糟的果然是消失分手。",
+      "JAPANESE": "最悪なのはやっぱり自然消滅。",
+      "INDONESIAN": "Yang paling parah itu ghosting.",
+      "PORTUGUESE": "O pior é o sumiço.",
+      "SPANISH": "Lo peor es desaparecer.",
+      "PERSIAN": "بدترین چیز ارواح است."
+    }
+  },
+  {
+    "INDEX": 27.0,
+    "TIME": {
+      "SHOW": 51.76,
+      "HIDE": 55.12
+    },
+    "SCRIPT": {
+      "KOREAN": "이게 다른 나라에서도 이런 이야기가 화제일지 모르겠는데",
+      "ENGLISH": "Not sure if people in other countries talk about this too.",
+      "CHINESE_SIMPLIFIED": "不知道其他国家是不是也讨论这个话题",
+      "CHINESE_TRADITIONAL": "不知道其他國家會不會聊這種話題。",
+      "JAPANESE": "他の国でもこういう話題あるのかな。",
+      "INDONESIAN": "Nggak tahu negara lain bahas ini juga atau nggak.",
+      "PORTUGUESE": "Não sei se em outros países falam disso.",
+      "SPANISH": "No sé si en otros países hablan de esto.",
+      "PERSIAN": "مطمئن نیستم که مردم کشورهای دیگر نیز در این مورد صحبت می کنند یا نه."
+    }
+  },
+  {
+    "INDEX": 28.0,
+    "TIME": {
+      "SHOW": 55.12,
+      "HIDE": 56.8
+    },
+    "SCRIPT": {
+      "KOREAN": "환승은 눈에 보이잖아요",
+      "ENGLISH": "At least a rebound is visible.",
+      "CHINESE_SIMPLIFIED": "被无缝衔接至少是明摆着的、能立马知道的",
+      "CHINESE_TRADITIONAL": "轉乘至少是能看到的。",
+      "JAPANESE": "乗り換えはまだ見える。",
+      "INDONESIAN": "Kalau pindah, masih bisa kelihatan.",
+      "PORTUGUESE": "Na troca dá pra ver.",
+      "SPANISH": "Cambiar se puede ver.",
+      "PERSIAN": "حداقل یک ریباند قابل مشاهده است."
+    }
+  },
+  {
+    "INDEX": 29.0,
+    "TIME": {
+      "SHOW": 56.8,
+      "HIDE": 60.52
+    },
+    "SCRIPT": {
+      "KOREAN": "근데 잠수 이별은 계속 생각의 꼬리에 꼬리를 물게 하고",
+      "ENGLISH": "But ghosting keeps you overthinking.",
+      "CHINESE_SIMPLIFIED": "但冷暴力分手会让人反复纠结",
+      "CHINESE_TRADITIONAL": "但消失分手會讓人一直想個不停。",
+      "JAPANESE": "でも自然消滅はずっと考えちゃう。",
+      "INDONESIAN": "Tapi ghosting bikin mikir terus.",
+      "PORTUGUESE": "Mas o sumiço faz pensar sem parar.",
+      "SPANISH": "Pero desaparecer te hace pensar.",
+      "PERSIAN": "اما ارواح شما را در فکر کردن زیاد نگه می دارد."
+    }
+  },
+  {
+    "INDEX": 30.0,
+    "TIME": {
+      "SHOW": 60.52,
+      "HIDE": 62.48
+    },
+    "SCRIPT": {
+      "KOREAN": "자신을 자책하게 되기 때문에",
+      "ENGLISH": "And blaming yourself.",
+      "CHINESE_SIMPLIFIED": "不断自责",
+      "CHINESE_TRADITIONAL": "讓人自責。",
+      "JAPANESE": "自分を責めるようになる。",
+      "INDONESIAN": "Dan nyalahin diri sendiri.",
+      "PORTUGUESE": "E se culpar.",
+      "SPANISH": "Y culparte.",
+      "PERSIAN": "و سرزنش کردن خود"
+    }
+  },
+  {
+    "INDEX": 31.0,
+    "TIME": {
+      "SHOW": 62.48,
+      "HIDE": 64.12
+    },
+    "SCRIPT": {
+      "KOREAN": "잠수 이별이 안 좋다고 생각을 해요",
+      "ENGLISH": "That’s why ghosting is worse.",
+      "CHINESE_SIMPLIFIED": "所以我觉得冷暴力更伤人",
+      "CHINESE_TRADITIONAL": "所以我覺得消失分手更糟。",
+      "JAPANESE": "だから自然消滅が最悪。",
+      "INDONESIAN": "Makanya ghosting lebih parah.",
+      "PORTUGUESE": "Por isso o sumiço é pior.",
+      "SPANISH": "Por eso desaparecer es peor.",
+      "PERSIAN": "به همین دلیل است که ارواح بدتر است."
+    }
+  },
+  {
+    "INDEX": 32.0,
+    "TIME": {
+      "SHOW": 64.2,
+      "HIDE": 67.2
+    },
+    "SCRIPT": {
+      "KOREAN": "환승 이별은 차라리 욕이라도 할 수 있는데말이죠",
+      "ENGLISH": "At least with a rebound you can curse them out.",
+      "CHINESE_SIMPLIFIED": "被无缝衔接至少还能痛快骂一顿",
+      "CHINESE_TRADITIONAL": "轉乘分手至少還能罵。",
+      "JAPANESE": "乗り換えならまだ文句言えるのに。",
+      "INDONESIAN": "Kalau pindah masih bisa dimaki.",
+      "PORTUGUESE": "Na troca ainda dá pra xingar.",
+      "SPANISH": "Cambiar al menos puedes insultar.",
+      "PERSIAN": "حداقل با یک ریباند می توانید اونا رو نفرین کنید."
+    }
+  },
+  {
+    "INDEX": 33.0,
+    "TIME": {
+      "SHOW": 67.64,
+      "HIDE": 69.0
+    },
+    "SCRIPT": {
+      "KOREAN": "“리드 당하기 vs 리드 하기”",
+      "ENGLISH": "“Being led vs leading.”",
+      "CHINESE_SIMPLIFIED": "“被引导 vs 主导关系”",
+      "CHINESE_TRADITIONAL": "「被帶領 vs 主導。」",
+      "JAPANESE": "「リードされる vs リードする」。",
+      "INDONESIAN": "“Dipimpin vs memimpin.”",
+      "PORTUGUESE": "“Ser guiada vs liderar.”",
+      "SPANISH": "“Ser guiada vs liderar.”",
+      "PERSIAN": "\"هدایت شدن در مقابل رهبری.\""
+    }
+  },
+  {
+    "INDEX": 34.0,
+    "TIME": {
+      "SHOW": 69.0,
+      "HIDE": 70.68
+    },
+    "SCRIPT": {
+      "KOREAN": "저는 아무래도",
+      "ENGLISH": "I prefer leading.",
+      "CHINESE_SIMPLIFIED": "我嘛",
+      "CHINESE_TRADITIONAL": "我還是喜歡主導。",
+      "JAPANESE": "私はリードする方が好き。",
+      "INDONESIAN": "Aku lebih suka memimpin.",
+      "PORTUGUESE": "Prefiro liderar.",
+      "SPANISH": "Prefiero liderar.",
+      "PERSIAN": "من رهبری را ترجیح می دهم."
+    }
+  },
+  {
+    "INDEX": 35.0,
+    "TIME": {
+      "SHOW": 70.68,
+      "HIDE": 73.0
+    },
+    "SCRIPT": {
+      "KOREAN": "리드 하는 걸 좋아합니다",
+      "ENGLISH": "Because...",
+      "CHINESE_SIMPLIFIED": "还是更喜欢主导",
+      "CHINESE_TRADITIONAL": "因為我是高馬淑。",
+      "JAPANESE": "だってコ・マルスクだから。",
+      "INDONESIAN": "Soalnya aku Go Malsook.",
+      "PORTUGUESE": "Porque sou Go Malsook.",
+      "SPANISH": "Porque soy Go Malsook.",
+      "PERSIAN": "چون..."
+    }
+  },
+  {
+    "INDEX": 36.0,
+    "TIME": {
+      "SHOW": 73.0,
+      "HIDE": 73.8
+    },
+    "SCRIPT": {
+      "KOREAN": "고말숙이니까?",
+      "ENGLISH": "I’m Go Malsook.",
+      "CHINESE_SIMPLIFIED": "毕竟我是高末淑啊？",
+      "CHINESE_TRADITIONAL": "因为我是高末淑。",
+      "JAPANESE": "だってコ・マルスクだから。",
+      "INDONESIAN": "Soalnya aku Go Malsook.",
+      "PORTUGUESE": "Porque sou Go Malsook.",
+      "SPANISH": "Porque soy Go Malsook.",
+      "PERSIAN": "من میرم مال‌سوک"
+    }
+  }
+]

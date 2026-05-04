@@ -1,0 +1,74 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.3,
+      "HIDE": 2.6
+    },
+    "SCRIPT": {
+      "KOREAN": "대낮에 밖에서 손이나 잡고 말이야..어!",
+      "ENGLISH": "Holding hands out in broad daylight, huh? Ugh...",
+      "CHINESE_SIMPLIFIED": "大白天的，在外面还牵什么手啊...呃！",
+      "CHINESE_TRADITIONAL": "大白天在外面還敢正大光明的牽手…哼！",
+      "JAPANESE": "真っ昼間から外で手なんかつないじゃって…おいっ！",
+      "INDONESIAN": "Bergandengan tangan di siang bolong, ya? Ugh...",
+      "PORTUGUESE": "Em pleno dia, de mãos dadas na rua... por favor!",
+      "SPANISH": "En pleno día, agarrándose de la mano en la calle... ¡por favor!",
+      "PERSIAN": "در روز روشن دست دراز کرده، ها؟ اوه..."
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.8,
+      "HIDE": 4.3
+    },
+    "SCRIPT": {
+      "KOREAN": "에휴..",
+      "ENGLISH": "Sigh",
+      "CHINESE_SIMPLIFIED": "哎哟...",
+      "CHINESE_TRADITIONAL": "欸欸欸…",
+      "JAPANESE": "まったくもう…",
+      "INDONESIAN": "Mendesah",
+      "PORTUGUESE": "Ah, que atrevimento...",
+      "SPANISH": "Ay, qué descaro...",
+      "PERSIAN": "آه"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 7.1,
+      "HIDE": 9.2
+    },
+    "SCRIPT": {
+      "KOREAN": "어? 어!? 이것들이 진짜",
+      "ENGLISH": "Wait—what?! Are you kidding me right now?",
+      "CHINESE_SIMPLIFIED": "呃？呃！？这俩人真是",
+      "CHINESE_TRADITIONAL": "喔？ 喔！？ 這些傢伙真的是",
+      "JAPANESE": "ん？あっ！？こいつらほんとに…！",
+      "INDONESIAN": "Tunggu—apa?! Apa kau bercanda sekarang?",
+      "PORTUGUESE": "Hã? Ei! Vocês dois, sério!",
+      "SPANISH": "¿Eh? ¡Oye! ¡Ustedes dos, en serio!",
+      "PERSIAN": "صبر کن - چی؟! الان با من شوخی میکنی؟"
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 9.3,
+      "HIDE": 11.1
+    },
+    "SCRIPT": {
+      "KOREAN": "하, 당장 안 떨어져..?",
+      "ENGLISH": "Tch... would you two mind backing off right now?",
+      "CHINESE_SIMPLIFIED": "哈，还不赶紧撒开...？",
+      "CHINESE_TRADITIONAL": "哈，還不馬上給我分開…！",
+      "JAPANESE": "はぁ…今すぐ離れないか！？",
+      "INDONESIAN": "Cih... apa kalian berdua tidak keberatan untuk mundur sekarang?",
+      "PORTUGUESE": "Tsc, vão soltar as mãos ou não, hein?",
+      "SPANISH": "Tch, ¿van a soltarse o no, ah?",
+      "PERSIAN": "شما دو نفر مخالفید که همین الان عقب نشینی کنید؟"
+    }
+  }
+]

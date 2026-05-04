@@ -1,0 +1,164 @@
+[
+  {
+    "INDEX": 1.0,
+    "TIME": {
+      "SHOW": 0.5,
+      "HIDE": 2.8
+    },
+    "SCRIPT": {
+      "KOREAN": "아이, 뭘 물어 당연히 얼굴이지!",
+      "ENGLISH": "Come on, why even ask — obviously your face!",
+      "CHINESE_SIMPLIFIED": "哎呦，这还用问！当然是脸啊！",
+      "CHINESE_TRADITIONAL": "哎呀，這還用問嗎！當然是臉啊！",
+      "JAPANESE": "え？聞くまでもないだろ、もちろん顔だよ！",
+      "INDONESIAN": "Ya ampun, ngapain nanya — jelas-jelas wajah kamu dong!",
+      "PORTUGUESE": "Ai, por que você pergunta isso? Óbvio que o seu rosto!",
+      "SPANISH": "Ay, ¿por qué lo preguntas? ¡Obvio que tu rostro!",
+      "PERSIAN": "بیا، چرا حتی بپرس - واضح است که چهره شما!"
+    }
+  },
+  {
+    "INDEX": 2.0,
+    "TIME": {
+      "SHOW": 2.9,
+      "HIDE": 4.0
+    },
+    "SCRIPT": {
+      "KOREAN": "얼굴??",
+      "ENGLISH": "My face??",
+      "CHINESE_SIMPLIFIED": "脸？？",
+      "CHINESE_TRADITIONAL": "臉？？",
+      "JAPANESE": "顔？",
+      "INDONESIAN": "Wajah aku??",
+      "PORTUGUESE": "Meu rosto?",
+      "SPANISH": "¿Mi rostro?",
+      "PERSIAN": "صورت من؟؟"
+    }
+  },
+  {
+    "INDEX": 3.0,
+    "TIME": {
+      "SHOW": 4.5,
+      "HIDE": 8.1
+    },
+    "SCRIPT": {
+      "KOREAN": "그래! 넌 다른 데도 예쁘지만 특별히 얼굴이 최고야.",
+      "ENGLISH": "Yeah! You’re pretty everywhere, but especially your face is the best.",
+      "CHINESE_SIMPLIFIED": "没错！你其他部位也好看，但脸绝对是顶级中的顶级",
+      "CHINESE_TRADITIONAL": "對啊，你其他地方也漂亮，但最漂亮的絕對是你的長相",
+      "JAPANESE": "そう！他のところも綺麗だけど、特に顔が最高なんだって",
+      "INDONESIAN": "Iya! Kamu cantik sih dari ujung kepala sampai kaki, tapi wajah kamu tuh juaranya.",
+      "PORTUGUESE": "Claro! Você é linda em tudo, mas seu rosto é o melhor de tudo.",
+      "SPANISH": "¡Claro! Eres linda en todo, pero tu cara es lo mejor de todo.",
+      "PERSIAN": "آره شما همه جا زیبا هستید، اما به خصوص چهره شما بهترین است."
+    }
+  },
+  {
+    "INDEX": 4.0,
+    "TIME": {
+      "SHOW": 8.2,
+      "HIDE": 9.5
+    },
+    "SCRIPT": {
+      "KOREAN": "야 무조건 얼굴이야!",
+      "ENGLISH": "I’m telling you — it’s face, no question.",
+      "CHINESE_SIMPLIFIED": "必须是脸！",
+      "CHINESE_TRADITIONAL": "無條件就是臉！",
+      "JAPANESE": "絶対に顔！",
+      "INDONESIAN": "Aku serius — nggak ada debat, wajah nomor satu.",
+      "PORTUGUESE": "Definitivamente o rosto!",
+      "SPANISH": "¡Definitivamente la cara!",
+      "PERSIAN": "من به شما می گویم - این چهره است، بدون سوال."
+    }
+  },
+  {
+    "INDEX": 5.0,
+    "TIME": {
+      "SHOW": 9.6,
+      "HIDE": 11.2
+    },
+    "SCRIPT": {
+      "KOREAN": "내 얼굴이 그렇게 최고야?",
+      "ENGLISH": "My face is that good?",
+      "CHINESE_SIMPLIFIED": "我的脸真有那么绝？",
+      "CHINESE_TRADITIONAL": "我的長相真的有這麼漂亮嗎？",
+      "JAPANESE": "私の顔、そんなにいい？",
+      "INDONESIAN": "Wajah aku sebagus itu ya?",
+      "PORTUGUESE": "Meu rosto é tão incrível assim?",
+      "SPANISH": "¿Mi cara es tan increíble?",
+      "PERSIAN": "صورت من اینقدر خوبه؟"
+    }
+  },
+  {
+    "INDEX": 6.0,
+    "TIME": {
+      "SHOW": 11.6,
+      "HIDE": 13.2
+    },
+    "SCRIPT": {
+      "KOREAN": "응 완전...",
+      "ENGLISH": "Yeah, totally…",
+      "CHINESE_SIMPLIFIED": "嗯超级...",
+      "CHINESE_TRADITIONAL": "嗯...超級...",
+      "JAPANESE": "うん、まじで…",
+      "INDONESIAN": "Iya, beneran...",
+      "PORTUGUESE": "Sim, totalmente…",
+      "SPANISH": "Sí, totalmente…",
+      "PERSIAN": "آره کاملا…"
+    }
+  },
+  {
+    "INDEX": 7.0,
+    "TIME": {
+      "SHOW": 13.8,
+      "HIDE": 15.0
+    },
+    "SCRIPT": {
+      "KOREAN": "이렇게 해도 귀엽잖아.",
+      "ENGLISH": "Even doing this, you’re still cute.",
+      "CHINESE_SIMPLIFIED": "这样也很可爱嘛",
+      "CHINESE_TRADITIONAL": "這樣做也很可愛啊",
+      "JAPANESE": "ほら、こうしても可愛いじゃん",
+      "INDONESIAN": "Bahkan pas kamu kayak gini aja, tetap imut.",
+      "PORTUGUESE": "Olha, até assim você fica adorável.",
+      "SPANISH": "Mira, hasta así te ves adorable.",
+      "PERSIAN": "حتی با انجام این کار، شما هنوز ناز هستید."
+    }
+  },
+  {
+    "INDEX": 8.0,
+    "TIME": {
+      "SHOW": 15.9,
+      "HIDE": 17.4
+    },
+    "SCRIPT": {
+      "KOREAN": "아 뭐 해~!",
+      "ENGLISH": "Ah, stop that~!",
+      "CHINESE_SIMPLIFIED": "啊你干嘛啦~！",
+      "CHINESE_TRADITIONAL": "啊，你幹嘛啦～！",
+      "JAPANESE": "なにそれ〜！",
+      "INDONESIAN": "Ah, udah deh~!",
+      "PORTUGUESE": "Ai, chega~!",
+      "SPANISH": "¡Ay, ya basta~!",
+      "PERSIAN": "آه، بس کن ~!"
+    }
+  },
+  {
+    "INDEX": 9.0,
+    "TIME": {
+      "SHOW": 17.8,
+      "HIDE": 19.8
+    },
+    "SCRIPT": {
+      "KOREAN": "으유~ 우쭈쭈쭈쭈",
+      "ENGLISH": "Aww~ who’s a cutie~",
+      "CHINESE_SIMPLIFIED": "哎呦~啾啾啾啾啾",
+      "CHINESE_TRADITIONAL": "唉呦～嗚啾啾啾啾啾",
+      "JAPANESE": "も〜、よしよし〜",
+      "INDONESIAN": "Aww~ siapa nih yang gemesin banget~",
+      "PORTUGUESE": "Ai~ que fofura, coisinha linda~",
+      "SPANISH": "Ay~ qué ternura, cosita linda~",
+      "PERSIAN": "وای ~ کی خوشگله ~"
+    }
+  }
+]
