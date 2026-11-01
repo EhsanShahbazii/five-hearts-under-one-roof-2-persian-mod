@@ -6,7 +6,8 @@
 
 ### پچ زیرنویس فارسی کامل، محاوره‌ای و اختصاصی بازی «Five Hearts Under One Roof 2» برای سیستم‌عامل macOS
 
-[![Version](https://img.shields.io/badge/Version-v1.0.0-emerald?style=for-the-badge)](https://github.com/ehsan/five-hearts-2-persian-mod/releases)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-emerald?style=for-the-badge)](https://github.com/EhsanShahbazii/five-hearts-under-one-roof-2-persian-mod/releases)
+[![Website](https://img.shields.io/badge/Website-GitHub%20Pages-pink?style=for-the-badge)](https://ehsanshahbazii.github.io/five-hearts-under-one-roof-2-persian-mod/)
 [![Status](https://img.shields.io/badge/Status-100%25%20Completed-brightgreen?style=for-the-badge)](#)
 [![Font](https://img.shields.io/badge/Font-Lahzeh%20%7C%20Vazirmatn-blue?style=for-the-badge)](#)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%28Apple%20Silicon%20%26%20Intel%29-indigo?style=for-the-badge)](#)

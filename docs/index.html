@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>پچ زیرنویس فارسی Five Hearts Under One Roof 2 | نسخه macOS</title>
+  <meta name="description" content="پچ زیرنویس فارسی کامل، محاوره‌ای و اختصاصی بازی یک سقف و پنج قلب ۲ (Five Hearts Under One Roof 2) برای سیستم‌عامل macOS با فونت زیبای لحظه">
+  <meta name="keywords" content="Five Hearts Under One Roof 2, زیرنویس فارسی, فارسی ساز, مک, macOS, بازی FMV, دانلود پچ فارسی">
+  <meta property="og:title" content="پچ زیرنویس فارسی Five Hearts Under One Roof 2">
+  <meta property="og:description" content="ترجمه ۱۰۰٪ کامل تمام ۸۶۵ سکانس با لحن محاوره‌ای و فونت لحظه">
+  <meta property="og:image" content="assets/cover.png">
+  <meta property="og:type" content="website">
+
+  <!-- Vazirmatn Font CDN -->
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css">
+
+  <style>
+    :root {
+      --primary: #ec4899;
+      --primary-hover: #db2777;
+      --primary-glow: rgba(236, 72, 153, 0.35);
+      --secondary: #8b5cf6;
+      --bg: #09090f;
+      --card-bg: rgba(23, 23, 35, 0.7);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --text: #f3f4f6;
+      --text-muted: #9ca3af;
+      --accent: #06b6d4;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: "Vazirmatn", -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.8;
+      overflow-x: hidden;
+      background-image: 
+        radial-gradient(circle at 15% 20%, rgba(236, 72, 153, 0.12) 0%, transparent 40%),
+        radial-gradient(circle at 85% 70%, rgba(139, 92, 246, 0.12) 0%, transparent 40%);
+    }
+
+    .container {
+      max-width: 1150px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(16px);
+      background: rgba(9, 9, 15, 0.75);
+      border-bottom: 1px solid var(--card-border);
+      padding: 16px 0;
+    }
+
+    .nav-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-weight: 800;
+      font-size: 1.25rem;
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .logo-badge {
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      color: white;
+      font-size: 0.75rem;
+      padding: 3px 8px;
+      border-radius: 999px;
+      font-weight: 700;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 24px;
+      align-items: center;
+    }
+
+    .nav-links a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.95rem;
+      transition: color 0.2s;
+    }
+
+    .nav-links a:hover {
+      color: #fff;
+    }
+
+    .btn-github {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid var(--card-border);
+      padding: 8px 16px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: #fff !important;
+      font-weight: 600;
+      transition: all 0.2s;
+    }
+
+    .btn-github:hover {
+      background: rgba(255, 255, 255, 0.15);
+      border-color: rgba(255, 255, 255, 0.2);
+    }
+
+    .hero {
+      padding: 70px 0 50px;
+      text-align: center;
+    }
+
+    .badge-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(236, 72, 153, 0.15);
+      border: 1px solid rgba(236, 72, 153, 0.3);
+      color: #f472b6;
+      padding: 6px 16px;
+      border-radius: 999px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      margin-bottom: 24px;
+    }
+
+    .hero h1 {
+      font-size: 2.75rem;
+      font-weight: 900;
+      line-height: 1.3;
+      margin-bottom: 20px;
+      background: linear-gradient(135deg, #fff 40%, #f472b6 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .hero p {
+      font-size: 1.2rem;
+      color: var(--text-muted);
+      max-width: 760px;
+      margin: 0 auto 36px;
+    }
+
+    .hero-actions {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      margin-bottom: 50px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      color: white;
+      padding: 14px 32px;
+      border-radius: 12px;
+      font-weight: 700;
+      font-size: 1.05rem;
+      text-decoration: none;
+      box-shadow: 0 10px 25px var(--primary-glow);
+      transition: all 0.3s;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 14px 30px rgba(236, 72, 153, 0.5);
+    }
+
+    .btn-secondary {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      color: var(--text);
+      padding: 14px 28px;
+      border-radius: 12px;
+      font-weight: 600;
+      font-size: 1.05rem;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.2);
+    }
+
+    .cover-wrapper {
+      position: relative;
+      max-width: 950px;
+      margin: 0 auto;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.7), 0 0 40px rgba(236, 72, 153, 0.15);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .cover-wrapper img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin: 60px 0;
+    }
+
+    .stat-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      padding: 24px;
+      border-radius: 16px;
+      text-align: center;
+      backdrop-filter: blur(10px);
+    }
+
+    .stat-number {
+      font-size: 2.2rem;
+      font-weight: 900;
+      color: #fff;
+      margin-bottom: 6px;
+      background: linear-gradient(135deg, #f472b6, #c084fc);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .stat-label {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      font-weight: 500;
+    }
+
+    .section-title {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .section-title h2 {
+      font-size: 2rem;
+      font-weight: 800;
+      margin-bottom: 12px;
+      color: #fff;
+    }
+
+    .section-title p {
+      color: var(--text-muted);
+      font-size: 1.05rem;
+    }
+
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 24px;
+      margin-bottom: 80px;
+    }
+
+    .feature-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 28px;
+      backdrop-filter: blur(12px);
+      transition: all 0.3s;
+    }
+
+    .feature-card:hover {
+      border-color: rgba(236, 72, 153, 0.4);
+      transform: translateY(-4px);
+      box-shadow: 0 12px 24px -10px var(--primary-glow);
+    }
+
+    .feature-icon {
+      width: 48px;
+      height: 48px;
+      border-radius: 12px;
+      background: rgba(236, 72, 153, 0.15);
+      color: #f472b6;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      margin-bottom: 20px;
+    }
+
+    .feature-card h3 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 12px;
+      color: #fff;
+    }
+
+    .feature-card p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      line-height: 1.7;
+    }
+
+    .install-box {
+      background: #0f0f18;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 16px;
+      padding: 32px;
+      margin-bottom: 80px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+    }
+
+    .terminal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      padding-bottom: 14px;
+    }
+
+    .terminal-dots {
+      display: flex;
+      gap: 8px;
+    }
+
+    .terminal-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+    }
+
+    .dot-red { background: #ef4444; }
+    .dot-yellow { background: #eab308; }
+    .dot-green { background: #22c55e; }
+
+    .terminal-title {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      font-family: monospace;
+    }
+
+    .code-line {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      direction: ltr;
+      text-align: left;
+      background: #06060a;
+      padding: 16px 20px;
+      border-radius: 10px;
+      color: #a7f3d0;
+      font-size: 0.95rem;
+      position: relative;
+      margin-bottom: 14px;
+      overflow-x: auto;
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .copy-btn {
+      background: rgba(255, 255, 255, 0.1);
+      border: none;
+      color: #fff;
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      font-family: "Vazirmatn", sans-serif;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .copy-btn:hover {
+      background: var(--primary);
+    }
+
+    .characters-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin-bottom: 80px;
+    }
+
+    .char-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 24px 20px;
+      text-align: center;
+      transition: transform 0.2s;
+    }
+
+    .char-card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(236, 72, 153, 0.3);
+    }
+
+    .char-avatar {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.8rem;
+      margin: 0 auto 16px;
+      box-shadow: 0 8px 16px var(--primary-glow);
+    }
+
+    .char-name {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 4px;
+    }
+
+    .char-role {
+      font-size: 0.85rem;
+      color: #f472b6;
+      font-weight: 600;
+      margin-bottom: 10px;
+    }
+
+    .char-desc {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    .guide-box {
+      background: linear-gradient(135deg, rgba(236, 72, 153, 0.1), rgba(139, 92, 246, 0.1));
+      border: 1px solid rgba(236, 72, 153, 0.25);
+      border-radius: 16px;
+      padding: 32px;
+      margin-bottom: 80px;
+    }
+
+    .guide-box h3 {
+      font-size: 1.4rem;
+      color: #fff;
+      margin-bottom: 16px;
+    }
+
+    .guide-steps {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .guide-steps li {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      color: #e5e7eb;
+    }
+
+    .step-num {
+      background: var(--primary);
+      color: #fff;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.8rem;
+      font-weight: 700;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    footer {
+      border-top: 1px solid var(--card-border);
+      padding: 40px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+
+    footer a {
+      color: #f472b6;
+      text-decoration: none;
+    }
+
+    @media (max-width: 768px) {
+      .hero h1 { font-size: 2rem; }
+      .hero p { font-size: 1rem; }
+      .nav-links { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <div class="container nav-inner">
+      <a href="#" class="logo">
+        <span>یک سقف و پنج قلب ۲</span>
+        <span class="logo-badge">نسخه ۱.۰.۰</span>
+      </a>
+      <div class="nav-links">
+        <a href="#features">امکانات پچ</a>
+        <a href="#install">راهنمای نصب</a>
+        <a href="#characters">کاراکترها</a>
+        <a href="#language">تنظیمات زبان</a>
+        <a href="https://github.com/EhsanShahbazii/five-hearts-under-one-roof-2-persian-mod" target="_blank" class="btn-github">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+          </svg>
+          مشاهده در گیتهاب
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <section class="hero container">
+    <div class="badge-pill">
+      ✨ کامل‌ترین پچ بومی‌سازی تعاملی FMV برای macOS
+    </div>
+    <h1>پچ زیرنویس فارسی بازی «یک سقف و پنج قلب ۲»</h1>
+    <p>
+      ترجمه‌ی ۱۰۰٪ کامل تمام سناریوها و دیالوگ‌ها با لحن محاوره‌ای، اصیل و جذاب تهرانی همراه با فونت اختصاصی لحظه و سازگاری کامل با سیستم‌عامل مک
+    </p>
+    <div class="hero-actions">
+      <a href="#install" class="btn-primary">
+        ⚡ شروع نصب ۱-کلیکی
+      </a>
+      <a href="https://github.com/EhsanShahbazii/five-hearts-under-one-roof-2-persian-mod/releases" target="_blank" class="btn-secondary">
+        📦 دانلود ریلیز v1.0.0
+      </a>
+    </div>
+
+    <div class="cover-wrapper">
+      <img src="assets/cover.png" alt="کاور بازی Five Hearts Under One Roof 2">
+    </div>
+  </section>
+
+  <div class="container">
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-number">۸۶۵</div>
+        <div class="stat-label">سکانس داستانی کامل</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">۸,۸۸۷</div>
+        <div class="stat-label">خط دیالوگ محاوره‌ای</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">۱۸۹</div>
+        <div class="stat-label">انتخاب و پرامپت تعاملی</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">۰</div>
+        <div class="stat-label">کلمه انگلیسی (متن فارسی خالص)</div>
+      </div>
+    </div>
+  </div>
+
+  <section id="features" class="container">
+    <div class="section-title">
+      <h2>ویژگی‌های برجسته‌ی پچ</h2>
+      <p>طراحی مهندسی‌شده برای ارائه‌ی بهترین تجربه بدون کرش یا افت فریم</p>
+    </div>
+
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">🎭</div>
+        <h3>لحن کاملاً محاوره‌ای و بومی</h3>
+        <p>بدون ترجمه‌های خشک یا کتابی؛ دیالوگ‌ها متناسب با فضای خودمانی، تیکه‌های بامزه، شوخی‌ها و عاشقانه‌های کاراکترها نوشته شده‌اند.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">🔤</div>
+        <h3>فونت اختصاصی و خوانای لحظه</h3>
+        <p>حل کامل مشکل مربع‌مربع (Tofu) با تزریق مستقیم و درون‌حافظه‌ای اطلس فونت SDF در فایل resources.assets بدون تغییر حتی یک بایت حجم فایل.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">🌐</div>
+        <h3>معماری هوشمند دو زبانه</h3>
+        <p>فارسی جایگزین زبان کره‌ای شده و زبان انگلیسی فابریک بازی ۱۰۰٪ دست‌نخورده باقی مانده است. هر زمان بخواهید زبان را در تنظیمات تغییر دهید.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">🛡️</div>
+        <h3>پایداری کامل و بدون کرش</h3>
+        <p>با سیستم بای‌پَس اعتبارسنجی CRC در جدول Addressables موتور یونیتی، هیچ‌گونه خطای بارگذاری یا افت کیفیتی رخ نخواهد داد.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">🔄</div>
+        <h3>نصب و بازگردانی ۱-کلیکی</h3>
+        <p>اسکریپت خودکار با یک دستور ساده پچ را نصب کرده و با دستور --restore بازی را مجدداً به نسخه فابریک کارخانه برمی‌گرداند.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">🍏</div>
+        <h3>سازگار با مک‌های اینتل و اپل سیلیکون</h3>
+        <p>کاملاً تست‌شده روی پردازنده‌های M1, M2, M3, M4 و همچنین سیستم‌های مجهز به پردازنده اینتل.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="characters" class="container">
+    <div class="section-title">
+      <h2>شخصیت‌های اصلی بازی</h2>
+      <p>پنج دختر هم‌خانه با خصوصیات منحصربه‌فرد در پانسیون</p>
+    </div>
+
+    <div class="characters-grid">
+      <div class="char-card">
+        <div class="char-avatar">🌸</div>
+        <div class="char-name">مال‌سوک</div>
+        <div class="char-role">دوست دوران کودکی</div>
+        <div class="char-desc">شیطون، رک، کل‌کل‌باز قهّار و همیشه همراه و دلسوز وو یومان.</div>
+      </div>
+
+      <div class="char-card">
+        <div class="char-avatar">💎</div>
+        <div class="char-name">گرن (گران)</div>
+        <div class="char-role">صاحب‌خانه و مدیر</div>
+        <div class="char-desc">مدیر باپرستیژ پانسیون، باابهت، مهربان و با قوانین سفت‌وسخت.</div>
+      </div>
+
+      <div class="char-card">
+        <div class="char-avatar">💖</div>
+        <div class="char-name">گو-ری</div>
+        <div class="char-role">آیدل محبوب و پرانرژی</div>
+        <div class="char-desc">خواننده پرانرژی، معصوم و پرشور که فضای خانه را شاداب نگه می‌دارد.</div>
+      </div>
+
+      <div class="char-card">
+        <div class="char-avatar">✨</div>
+        <div class="char-name">مین-جونگ</div>
+        <div class="char-role">کارمند مغرور و کاری</div>
+        <div class="char-desc">ظاهری خونسرد و رسمی، اما با قلبی پر از احساسات پنهان.</div>
+      </div>
+
+      <div class="char-card">
+        <div class="char-avatar">🩺</div>
+        <div class="char-name">دکتر سوجی</div>
+        <div class="char-role">پزشک معالج و مشاور</div>
+        <div class="char-desc">پزشک دلسوز بیمارستان با روحیه‌ای شوخ‌طبع، آرامش‌بخش و رازدار.</div>
+      </div>
+    </div>
+  </section>
+
+  <section id="install" class="container">
+    <div class="section-title">
+      <h2>راهنمای نصب آسان (Quick Start)</h2>
+      <p>نصب خودکار زیرنویس تنها با اجرای ۲ فرمان در ترمینال مک</p>
+    </div>
+
+    <div class="install-box">
+      <div class="terminal-header">
+        <div class="terminal-dots">
+          <div class="terminal-dot dot-red"></div>
+          <div class="terminal-dot dot-yellow"></div>
+          <div class="terminal-dot dot-green"></div>
+        </div>
+        <div class="terminal-title">Terminal (zsh / bash)</div>
+        <div></div>
+      </div>
+
+      <p style="color: var(--text-muted); margin-bottom: 12px; font-size: 0.95rem;">
+        ۱. کلون کردن مخزن در مک:
+      </p>
+      <div class="code-line">
+        <span>git clone https://github.com/EhsanShahbazii/five-hearts-under-one-roof-2-persian-mod.git</span>
+        <button class="copy-btn" onclick="copyCode(this, 'git clone https://github.com/EhsanShahbazii/five-hearts-under-one-roof-2-persian-mod.git')">کپی</button>
+      </div>
+
+      <p style="color: var(--text-muted); margin-bottom: 12px; font-size: 0.95rem;">
+        ۲. ورود به پوشه و اجرای اسکریپت نصب:
+      </p>
+      <div class="code-line">
+        <span>cd five-hearts-under-one-roof-2-persian-mod && chmod +x install.sh && ./install.sh</span>
+        <button class="copy-btn" onclick="copyCode(this, 'cd five-hearts-under-one-roof-2-persian-mod && chmod +x install.sh && ./install.sh')">کپی</button>
+      </div>
+
+      <p style="color: var(--text-muted); margin-top: 24px; margin-bottom: 12px; font-size: 0.95rem;">
+        🔄 برای حذف پچ و بازگردانی به نسخه اولیه کارخانه در هر زمان:
+      </p>
+      <div class="code-line">
+        <span>./install.sh --restore</span>
+        <button class="copy-btn" onclick="copyCode(this, './install.sh --restore')">کپی</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="language" class="container">
+    <div class="guide-box">
+      <h3>🎮 نحوه انتخاب زیرنویس فارسی در بازی</h3>
+      <ul class="guide-steps">
+        <li>
+          <span class="step-num">۱</span>
+          <span>بازی Five Hearts Under One Roof 2 را باز کنید.</span>
+        </li>
+        <li>
+          <span class="step-num">۲</span>
+          <span>در منوی اصلی یا هنگام بازی وارد بخش <strong>تنظیمات (Settings)</strong> شوید.</span>
+        </li>
+        <li>
+          <span class="step-num">۳</span>
+          <span>در تب <strong>Language (زبان)</strong>، گزینه‌ی <strong>한국어 (کره‌ای)</strong> را انتخاب کنید تا تمامی زیرنویس‌های فارسی نمایش داده شوند.</span>
+        </li>
+        <li>
+          <span class="step-num">۴</span>
+          <span>اگر مایل بودید بازی را به انگلیسی تجربه کنید، کافیست زبان را روی <strong>English</strong> قرار دهید.</span>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p style="margin-bottom: 8px;">
+        پروژه متن‌باز بومی‌سازی فارسی بازی «Five Hearts Under One Roof 2»
+      </p>
+      <p>
+        توسعه داده شده توسط <a href="https://github.com/EhsanShahbazii" target="_blank">EhsanShahbazii</a> | منتشر شده تحت مجوز MIT
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    function copyCode(btn, text) {
+      navigator.clipboard.writeText(text).then(function() {
+        var orig = btn.innerText;
+        btn.innerText = "کپی شد! ✔";
+        btn.style.background = "#10b981";
+        setTimeout(function() {
+          btn.innerText = orig;
+          btn.style.background = "";
+        }, 2000);
+      });
+    }
+  </script>
+</body>
+</html>
