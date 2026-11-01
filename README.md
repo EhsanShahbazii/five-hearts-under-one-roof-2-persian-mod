@@ -82,7 +82,8 @@ chmod +x install.sh
 پیام زیر نشان‌دهنده نصب موفق است:
 ```text
 [✨] Complete! Patched 865 scenes.
-Run the game and make sure Language is set to 'English' to see Persian subtitles!
+▶ Run the game and set Language to '한국어' (Korean) in Settings to see Persian subtitles!
+▶ Language 'English' remains original English subtitles.
 ```
 
 ---

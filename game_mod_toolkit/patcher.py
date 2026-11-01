@@ -178,7 +178,8 @@ def apply_patch(game_app_path: str, scene_filter: str = None, font_choice: str =
             patched_count += 1
 
     print(f"\n[✨] Complete! Patched {patched_count} scenes.")
-    print("Run the game and make sure Language is set to 'English' to see Persian subtitles!")
+    print("▶ Run the game and set Language to '한국어' (Korean) in Settings to see Persian subtitles!")
+    print("▶ Language 'English' remains original English subtitles.")
 
 def restore_all(game_app_path: str):
     bundle_dir = get_bundle_dir(game_app_path)
