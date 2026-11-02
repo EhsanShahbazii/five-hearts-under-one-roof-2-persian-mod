@@ -22,7 +22,11 @@ from rtl_formatter import shape_persian
 from sdf_font_baker import patch_resources_assets_in_place
 
 TOOLKIT_DIR = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_GAME_PATH = "/Applications/Five Hearts Under One Roof 2.app"
+CANDIDATE_GAME_PATHS = [
+    "/Users/ehsan/Desktop/Five Hearts Under One Roof 2.app",
+    "/Applications/Five Hearts Under One Roof 2.app"
+]
+DEFAULT_GAME_PATH = next((p for p in CANDIDATE_GAME_PATHS if os.path.exists(p)), CANDIDATE_GAME_PATHS[0])
 BACKUP_DIR = os.path.join(TOOLKIT_DIR, "backup")
 PERSIAN_DIR = os.path.join(TOOLKIT_DIR, "translations", "persian")
 FONTS_DIR = os.path.join(TOOLKIT_DIR, "fonts")
