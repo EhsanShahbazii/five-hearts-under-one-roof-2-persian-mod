@@ -53,12 +53,10 @@ def patch_resources_assets_in_place(game_app_path: str, ttf_path: str, translati
         return False
 
     # 1. Backup if needed
-    if backup_dir:
-        os.makedirs(backup_dir, exist_ok=True)
-        bak_res = os.path.join(backup_dir, "resources.assets.original")
-        if not os.path.exists(bak_res):
-            shutil.copy2(res_path, bak_res)
-            print("[✔] Backed up original resources.assets")
+    bak_res = os.path.join(backup_dir, "resources.assets.original") if backup_dir else None
+    if bak_res and not os.path.exists(bak_res):
+        shutil.copy2(res_path, bak_res)
+        print("[✔] Backed up original resources.assets")
 
     # 2. Get font typetree node from bundle
     font_node = get_font_typetree_node(bundle_path)
@@ -68,10 +66,12 @@ def patch_resources_assets_in_place(game_app_path: str, ttf_path: str, translati
 
     # 3. Collect unique unicodes
     unicodes_to_bake = collect_persian_unicodes(translations_dir)
-    print(f"[*] Total unique Persian glyphs to bake: {len(unicodes_to_bake)}")
+    persian_unicodes = [u for u in unicodes_to_bake if (0x0600 <= u < 0x3000) or (0xFB50 <= u <= 0xFEFC)]
+    print(f"[*] Total unique Persian glyphs to bake: {len(persian_unicodes)}")
 
-    # 4. Load resources.assets
-    env_res = UnityPy.load(res_path)
+    # 4. Load resources.assets (from backup if available to ensure pristine base)
+    source_res = bak_res if (bak_res and os.path.exists(bak_res)) else res_path
+    env_res = UnityPy.load(source_res)
     obj_249 = None
     obj_55 = None
     for obj in env_res.objects:
@@ -96,24 +96,24 @@ def patch_resources_assets_in_place(game_app_path: str, ttf_path: str, translati
 
     font_64 = ImageFont.truetype(ttf_path, size=64)
 
-    cursor_x = 10
-    cursor_y = 10
+    # Place Persian glyphs in the unused top area of PIL image (Y=50..2500 is completely empty)
+    cursor_x = 20
+    cursor_y = 50
     row_height = 0
     padding = 2
 
-    korean_indices = [i for i, c in enumerate(char_table) if c["m_Unicode"] >= 0x1100]
-    slot_idx = 0
+    import copy
+    max_g_idx = max(g["m_Index"] for g in glyph_table) if glyph_table else 0
+    next_g_idx = max_g_idx + 1
 
-    for u in unicodes_to_bake:
-        # If already an ASCII character in table, skip
-        if u in [c["m_Unicode"] for c in char_table if c["m_Unicode"] < 0x1100]:
+    added_chars = 0
+    existing_unicodes = {c["m_Unicode"] for c in char_table}
+    c_proto = copy.deepcopy(char_table[0])
+    g_proto = copy.deepcopy(glyph_table[0])
+
+    for u in persian_unicodes:
+        if u in existing_unicodes:
             continue
-        if slot_idx >= len(korean_indices):
-            print(f"[!] Warning: Ran out of character slots at glyph {slot_idx}!")
-            break
-
-        replace_i = korean_indices[slot_idx]
-        slot_idx += 1
 
         ch = chr(u)
         try:
@@ -126,7 +126,6 @@ def patch_resources_assets_in_place(game_app_path: str, ttf_path: str, translati
 
         if not bbox or mw == 0 or mh == 0:
             w, h, bx, by = 0, 0, 0, 0
-            patch_w, patch_h = 0, 0
             unity_x, unity_y = 0, 0
         else:
             w = bbox[2] - bbox[0]
@@ -144,60 +143,66 @@ def patch_resources_assets_in_place(game_app_path: str, ttf_path: str, translati
             dist = inside - outside
             sdf_patch = np.clip(dist * 64.0 + 128.0, 0, 255).astype(np.uint8)
 
-            if cursor_x + patch_w + 4 > atlas_w - 10:
-                cursor_x = 10
+            if cursor_x + patch_w + 4 > atlas_w - 20:
+                cursor_x = 20
                 cursor_y += row_height + 4
                 row_height = 0
 
             alpha_arr[cursor_y:cursor_y + patch_h, cursor_x:cursor_x + patch_w] = sdf_patch
 
-            patch_unity_y = atlas_h - cursor_y - patch_h
-            patch_unity_x = cursor_x
-            unity_x = patch_unity_x + padding
-            unity_y = patch_unity_y + padding
+            unity_y = atlas_h - cursor_y - patch_h + padding
+            unity_x = cursor_x + padding
 
             cursor_x += patch_w + 4
             if patch_h > row_height:
                 row_height = patch_h
 
-        char_table[replace_i]["m_Unicode"] = int(u)
-        g_idx = char_table[replace_i]["m_GlyphIndex"]
+        # Create new character entry
+        new_c = copy.deepcopy(c_proto)
+        new_c["m_Unicode"] = int(u)
+        new_c["m_GlyphIndex"] = int(next_g_idx)
+        new_c["m_Scale"] = 1.0
+        char_table.append(new_c)
 
-        for g in glyph_table:
-            if g["m_Index"] == g_idx:
-                g["m_Metrics"] = {
-                    "m_Width": float(w),
-                    "m_Height": float(h),
-                    "m_HorizontalBearingX": float(bx),
-                    "m_HorizontalBearingY": float(by),
-                    "m_HorizontalAdvance": float(adv if adv else 0.0)
-                }
-                g["m_GlyphRect"] = {
-                    "m_X": int(unity_x),
-                    "m_Y": int(unity_y),
-                    "m_Width": int(w),
-                    "m_Height": int(h)
-                }
-                break
+        # Create new glyph entry
+        new_g = copy.deepcopy(g_proto)
+        new_g["m_Index"] = int(next_g_idx)
+        new_g["m_Metrics"] = {
+            "m_Width": float(w),
+            "m_Height": float(h),
+            "m_HorizontalBearingX": float(bx),
+            "m_HorizontalBearingY": float(by),
+            "m_HorizontalAdvance": float(adv if adv else 0.0)
+        }
+        new_g["m_GlyphRect"] = {
+            "m_X": int(unity_x),
+            "m_Y": int(unity_y),
+            "m_Width": int(w),
+            "m_Height": int(h)
+        }
+        new_g["m_Scale"] = 1.0
+        new_g["m_AtlasIndex"] = 0
+        glyph_table.append(new_g)
+
+        next_g_idx += 1
+        added_chars += 1
+
+    print(f"[✔] Appended {added_chars} new Persian characters and glyphs non-destructively!")
 
     # Save to obj.data
     obj_249.save_typetree(tree, font_node)
-    raw_249 = obj_249.data
 
     new_alpha_img = Image.fromarray(alpha_arr, mode="L")
     new_atlas_img = Image.merge("RGBA", (ch_r, ch_g, ch_b, new_alpha_img))
     tex.image = new_atlas_img
     tex.save()
-    raw_55 = obj_55.data
 
-    # In-place binary write!
-    with open(res_path, "r+b") as f:
-        f.seek(obj_249.byte_start)
-        f.write(raw_249)
-        f.seek(obj_55.byte_start)
-        f.write(raw_55)
+    # Save complete assets file
+    res_bytes = env_res.file.save()
+    with open(res_path, "wb") as f:
+        f.write(res_bytes)
 
-    print(f"[✔] Successfully baked {slot_idx} Persian SDF glyphs in-place into resources.assets!")
+    print(f"[✔] Successfully saved non-destructive font patch into resources.assets ({len(res_bytes):,} bytes)!")
     return True
 
 if __name__ == "__main__":
